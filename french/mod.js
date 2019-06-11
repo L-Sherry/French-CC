@@ -5,9 +5,26 @@
 	// This would be U+202F
 	var shorter_nbsp = '\u0081';
 
+	// The 1990 called, there're telling us that our 'é' is a copyrighted
+	// latin capital letter A with tilde. We told them to use utf8, but
+	// they don't seem to understand. They think javascript source code
+	// must be encoded in latin9 or something.
+	var c = { "à":"\u00e0", "á":"\u00e1", "â":"\u00e2", "ä":"\u00e4",
+		  "À":"\u00c0", "Á":"\u00c1", "Â":"\u00c2", "Ä":"\u00c4",
+		  "ç":"\u00e7", "Ç":"\u00c7",
+		  "è":"\u00e8", "é":"\u00e9", "ê":"\u00ea", "ë":"\u00eb",
+		  "È":"\u00c8", "É":"\u00c9", "Ê":"\u00ca", "Ë":"\u00cb",
+		  "î":"\u00ee", "ï":"\u00ef",
+		  "Î":"\u00ce", "Ï":"\u00cf",
+		  "ô":"\u00f4", "ö":"\u00f6",
+		  "Ô":"\u00d4", "Ö":"\u00d6",
+		  "œ":"\u0153"
+	};
+	var oe_regex = new RegExp(c['œ'], 'g');
+
 	var text_filter = (text, result) => {
 		// not in latin9 nor in the font. Don't feel like patching it.
-		text = text.replace(/œ/g, 'oe');
+		text = text.replace(oe_regex, 'oe');
 		// nbsp.
 		
 		text = text.replace(/ ([:!?])/g, our_nbsp+'$1');
@@ -23,7 +40,7 @@
 		if (font_context.trems)
 			return;
 		var trem_rect;
-		var base_rect = font_context.get_char_pos('ë');
+		var base_rect = font_context.get_char_pos(c['ë']);
 		var shift_i_x = 0;
 		var shift_trem = { x: 0, y: 0};
 		switch (base_rect.height) {
@@ -43,7 +60,7 @@
 			break;
 		}
 
-		var dest_rect = font_context.get_char_pos('ï');
+		var dest_rect = font_context.get_char_pos(c['ï']);
 		var i_src = font_context.get_char_pos('i');
 		dest_rect.width = Math.max(trem_rect.width, i_src.width);
 		// must fill this blank
@@ -70,7 +87,7 @@
 		trem_rect.y += base_rect.y;
 		font_context.blits.push({ from: trem_rect, to: trems_dst });
 
-		font_context.set_char_pos('ï', dest_rect);
+		font_context.set_char_pos(c['ï'], dest_rect);
 	};
 	// font patching: fix "éèê" which are horrible.
 	var figure_out_e_patch = font_context => {
@@ -81,14 +98,14 @@
 			return rect;
 		};
 		var blits = [
-			{ from: crop_y('e', 5), to: crop_y('é', 5)},
-			{ from: crop_y('e', 5), to: crop_y('è', 5)},
-			{ from: crop_y('e', 5), to: crop_y('ê', 5)},
-			{ from: crop_y('e', 5), to: crop_y('ë', 5)},
-			{ from: crop_y('à', -8), to: crop_y('è', -8)},
-			{ from: crop_y('á', -8), to: crop_y('é', -8)},
-			{ from: crop_y('Â', -9), to: crop_y('ê', -9, 1)},
-			{ from: crop_y('ä', -8), to: crop_y('ë', -8)}
+			{ from: crop_y('e', 5), to: crop_y(c['é'], 5)},
+			{ from: crop_y('e', 5), to: crop_y(c['è'], 5)},
+			{ from: crop_y('e', 5), to: crop_y(c['ê'], 5)},
+			{ from: crop_y('e', 5), to: crop_y(c['ë'], 5)},
+			{ from: crop_y(c['à'], -8), to: crop_y(c['è'], -8)},
+			{ from: crop_y(c['á'], -8), to: crop_y(c['é'], -8)},
+			{ from: crop_y(c['Â'], -9), to: crop_y(c['ê'], -9, 1)},
+			{ from: crop_y(c['ä'], -8), to: crop_y(c['ë'], -8)}
 		];
 		blits.forEach(v => v.from.width = v.to.width);
 		font_context.blits = font_context.blits.concat(blits);
@@ -147,8 +164,8 @@
 		map_file: "mods/french/map_file.json",
 		language: {
 			en_US: "French",
-			de_DE: "Französisch",
-			fr_FR: "Français",
+			de_DE: "Franz" + c['ö'] + "sisch",
+			fr_FR: "Fran" + c['ç'] + "ais",
 		},
 		text_filter: text_filter,
 		patch_font: patch_font
