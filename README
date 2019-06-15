@@ -5,8 +5,17 @@ It's far from being complete, and let's not talk about its quality.
 Feedback and testing are welcome.  Suggestions for better translations
 are welcome, as are snarky remarks from grammar cops.
 
+CCLoader and Localize-me are required to use it.
 
-CCLoader and Localize-me are required to use it.  Get them here:
+Contributing:
+
+To view/recreate translations packs in this mod, you can use localize-me-tools's packfile.py:
+./packfile.py --game-dir path/to/your/game/assets decrapt packs decrapted-packs/
+[updating updating]
+./packfile.py --game-dir path/to/your/game/assets encrapt decrapted-packs packs
+
+
 
 CCLoader: https://github.com/CCDirectLink/CCLoader
 Localize-me: https://github.com/L-Sherry/Localize-me
+Localize-me-tools: https://github.com/L-Sherry/Localize-Me-Tools
