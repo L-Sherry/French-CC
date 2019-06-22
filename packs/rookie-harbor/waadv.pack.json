@@ -1,8 +1,20 @@
 {
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/analyzable/text": {
+                "ciphertext": "catyzxbsZiTuwzxOUZB/xbjZExFU8ziQOONWgWbLXOM=",
+                "mac": "LQoTXTEEC41JeNKylpkB+w=="
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/0/event/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
+        },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/0/event/2/message": {
                 "ciphertext": "v669T+BlvF14YyGWnj89nG2X2zdo6ESb1WxXVoi4uYjgjR6ekIvSIXRgVdMdWRoQZiFsE+uSSo5HhZu1ymwlLox/TxpvxKxSevkLvyDkImNLa0q0XswcmN6BL7RoOlxC30rbaasumBxPXr3m+J8kFtgZt63kabD/XOcEpiyq2lk=",
                 "mac": "yaksbP9d1oE3m1IwyF/L8Q==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/1/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/1/event/quest/2/message": {
                 "ciphertext": "U9ReMEaCuoLGKnhzkn76jQFZ9T4RoOHuOEwa1loycnq0flKLjlJJqkyg3esDlfVTdRYYUYfutpADGaiCaLO63uIpjK/9mbteFswB7mrFJY7Fo41/Gc3lnkQ93Z9nu44QJSdezuYmG0aaEgD63rNfRTQzSOWYd5FncP8OlygaZ6jJeRQB2N0SGwaOmzql37oi3OILO/FnssDBDEzCR0iWK5T/7hC0mNRqh725tvtvsNE=",
@@ -17,6 +29,10 @@
                 "ciphertext": "D5Y/cxxPTW9j64nG71NiIKN+X3qi1q/MlZKH5Rz/yZ6xKkUVBLqN9pCLB4OAQ8Y8iYisbEaz1xRbvsUH2ARr1xF9R3vYKLzqsvLa3JrRZbZoc4/Ve5Fa2dbCzxaD0bQG2B4eAkASbz+RyNRQB79h+g==",
                 "mac": "2dlBGk2v3nfn50qM0qzulA==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/10/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/10/event/quest/10/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
@@ -71,10 +87,18 @@
                 "quality": "bad",
                 "ciphernote": "furbeuWUsgcx66jtCnKyAw=="
         },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/11/event/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
+        },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/11/event/2/message": {
                 "ciphertext": "Aop/apaGO/mxuqqjr+3BrhkfnpMqsmBg120+HpkPYeEEtFbp8i7WQBi7rO4MnouUSw8O6xYSi6qMIm34NKajfQWWFLbl0dtZwyid7D9T5mW3geVHk80/5eB/vY8cxazJVd4Km11PZJeTbRmJFRp5INzu80akeho1n7bnuYGqcgU=",
                 "mac": "W7xOInjKQhuTpJc1dH05Rw==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/12/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/12/event/quest/2/message": {
                 "ciphertext": "zBy370CvtCrBh2F7sZAylZQcqhDv1oVgH4mtgkj8IcKHkXdIjWlkk0kwNyF3sAB5XTuXWwbiGOFQIpf5Ap6y4kbomxgP7e0Q1MeGlDm6/N3/gboa4TEjlyW26NZ6VFeRFZrOzcHbScvZ6syBq0Dmh+EOOW4kkJ/KMr7pG1G7u9dgKnzb3Z9rg5npuYlTn/MYUgGaFgubVyx3pDfBWaUSGw==",
@@ -112,8 +136,8 @@
                 "ciphernote": "+YmTuW7I7KuwtHIJOkl15A=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/12/event/quest/9/accepted/2/message": {
-                "ciphertext": "poJNTWIw3kbZBOybHGWR5vbfDbMNal7AeBPE1ZyYXfy6BeXEwjj+doEObO+vK/NCdfB/fhgAcgs/Th8IJEh/rHL+mkwtiBCHt4ev+8QbcHTh4vXr7xf7jcCgSIQ4M25E7BlsejbEr3AAwnyvMmEikAKniwoFOKNU4HvlvhtWDXc=",
-                "mac": "KEWSjk7YYiBUpNKijGvNcQ==",
+                "ciphertext": "poJNTWIw3kbZBOybHGWR5vbfDbMNal7AeBPE1ZyYXfy6BeXEwjj+doEObO+vK/NCdfB/fhgAcgs/Th8IJEh/rNdw3mgnvYTGhJB9mVakOOyBHJfqj/M5Bt9nlcuSefj8811tJOZiqZ5+wl8Nh4rctaIYGUoMUTId0A6Za7sfCS8=",
+                "mac": "fw8Yo5sHmz0yelnyQAx6CA==",
                 "quality": "bad"
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/12/event/quest/9/declined/0/message": {
@@ -124,6 +148,10 @@
                 "ciphertext": "WdqzBFVUpnU31IzJM6Btr1mG2TgVnU8SlY7Z2QWT683gJMcgYAICT/KCqIKIWPkGcPnNBgOCU7UDxVemXozPliJyo7gkWXIfWtnKFTNEy6I=",
                 "mac": "r+MVCi+E5GrapSbSFI18aQ==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/2/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/2/event/quest/2/message": {
                 "ciphertext": "nese8jiSUvzM2pOJ1mQm4c6gfV2sdHeDxdETy4q0roRf+r/AtYRxpS3HQnXCWnnDAm44gMcheiKrgS2iM7Iw1W+NeRdPnZkIo9Sllp0w18s=",
@@ -141,8 +169,8 @@
                 "ciphernote": "+YmTuW7I7KuwtHIJOkl15A=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/2/event/quest/3/accepted/2/message": {
-                "ciphertext": "poJNTWIw3kbZBOybHGWR5vbfDbMNal7AeBPE1ZyYXfy6BeXEwjj+doEObO+vK/NCdfB/fhgAcgs/Th8IJEh/rHL+mkwtiBCHt4ev+8QbcHTh4vXr7xf7jcCgSIQ4M25E7BlsejbEr3AAwnyvMmEikAKniwoFOKNU4HvlvhtWDXc=",
-                "mac": "KEWSjk7YYiBUpNKijGvNcQ==",
+                "ciphertext": "poJNTWIw3kbZBOybHGWR5p2CWF5YVMG/cDhkejtWcV/HmwNLUktujk2Xi/szbGYldNcTZ4u7vlVF5xKy2zOtdk09uwyZp/EengnypkbTylf3km4SspiYzLFl8YYsSaW6WzvyAuULxzr4z3saZlGc/YcOaBjUmWtDUSoB9eY+15Q=",
+                "mac": "S1GCRmYQSF9T7pPWFVc94g==",
                 "quality": "bad"
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/2/event/quest/3/declined/0/message": {
@@ -154,10 +182,18 @@
                 "mac": "r+MVCi+E5GrapSbSFI18aQ==",
                 "quality": "bad"
         },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/3/event/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
+        },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/3/event/2/message": {
                 "ciphertext": "ny8LehcAHgNZOdf6lO6EPQ29mx+maY3n+OH/HWUmkGUHjkBd/Cs2+0qDL4qQYUNEUMtuL0Y5pJKJGS3S19YYeW1zB/2Bq08je0lTAqQxA7Spxk5UkXiojrKRnBdx52N5XXWWTmzhhLnQkiQHOc8ZAREinofL8rZ5OwQECCongKA=",
                 "mac": "0c36o+iOw0C82Wp1sNTCVw==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/4/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/4/event/quest/2/message": {
                 "ciphertext": "pT66mSKD18vPTxEf3uB3FvfEqhfQd2Bh7zKaEsrmjHmbFMzXJx3dPOcF5hQj14v9p19cG6M1aSbiRNUW7psrm/Ld4WadiiTpskPrKfbAAvI=",
@@ -181,6 +217,10 @@
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/4/event/quest/6/message": {
                 "ciphertext": "edfMC+Yp2+m/gc+0BowbiowDalRHcOCLOgnazKBegbYdQ8uqZYm1w6v0TFD1m1ZpnHy9v500sk5IsnDcSDbyz7AcJrElOI9XG19aeQgRQ1LGq522Ex+6IICUA5TFQlsYQHxMbc+G86SEJW76uqnWp+L73fqWQcigwaHKBJhmPEUtjKL+KGOQTsg31Ah43bl5",
                 "mac": "ooKPTc8RYCiYBIOOHrZA6A=="
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/5/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/5/event/quest/10/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
@@ -270,6 +310,10 @@
                 "quality": "bad",
                 "ciphernote": "u1HHgjyLCvpDywiD439boLDJ+ny71jSQmprcCCdXp684GYghR3hl3xE09Aj1ynqsvMPo2U5wmmKHkOBQIVejHaHKIUbBP8P/CkG+6NjJeMy5RrBNKMoA87XOlpvdYK/uTi1KcmNdVGvusI1dUlHVQAPUFrhRaAEoEwbHUH97afo="
         },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/6/event/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
+        },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/6/event/2/message": {
                 "ciphertext": "78Bg4DOugs3rX6/89rYDOW5xBUVJMm9p8Gh/H4rkYzuz1hSDscv/7db6OcHgc3Ke6itdOa/AhvOKVLSvx6dYuwMbBgEvReQZUiTMOAwsIXPf3HRCcunVBnIXwhAPe4WP",
                 "mac": "Pw8uFpg3iWROs+tkrdLt3g=="
@@ -277,6 +321,10 @@
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/6/event/3/message": {
                 "ciphertext": "22YQVMp3gt7xolHkdrNXChxHs4vvF1Rob08pQ+mY08bVKsq/A/MDn+TaUNboVvpG72LdURvyjYVbgU6cr1aeqkmprxC+/w+7SMSXDjO6lGUrsqo9jF/DKMWT3tKvUTkZ",
                 "mac": "/juMINYLHz85WNthTr+Jkg=="
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/7/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/7/event/quest/10/message": {
                 "ciphertext": "glZ1yjsn+OGv0ksM7WpNYpJKrZA+/QpolCr749aHX9mTyUT0bIqCJtAo7kXjhCIVlmbWS1op+vMkEKFCwIqj7GBzCj8Spz8bFKP93CY0qJFW7260aMMezrP/W9XzRucw",
@@ -319,6 +367,10 @@
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/7/event/quest/9/message": {
                 "ciphertext": "fsAoS0W3l/Ud6jVGhTKekcdHt7HmS3gqQZuVuUTOfR/yU/8aBC6B09N1LXoevdJax+E5KrpheCT7w+uraf9eeOTKobq2jMZw8oYQ7Y7ImRdHSf1N+V2ZZuD/dW5jmPsgKLG6fH3UTMz21W6YYpvAqQ==",
                 "mac": "73/pIp7ZXys5lBuNHyZ6vA=="
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/8/event/quest/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/8/event/quest/2/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -402,6 +454,10 @@
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/9/event/1/name": {
+                "ciphertext": "3H+Vm3cAfl70WaZTsPqA7w==",
+                "mac": "95FmeKI3Bdcoejxoxt4qRA=="
+        },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/9/event/2/message": {
                 "ciphertext": "y6/qK6eUhvrZLpIHkXIzbOPxtua94QMtDL+ZwAUnR+bxm0fRb+OsBRfoy2ydCmWdldZGnoRWoX8oyltNDZKrv5ymQdZL6DKTa0w/C02pcdedjqp7+DwHn1RbseiL9blgkcaW5i5MdObUet1VrdPBhA==",
                 "mac": "zzcs62YIixQjYeRzyil7GQ=="
@@ -409,6 +465,14 @@
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/78/settings/npcStates/9/event/3/message": {
                 "ciphertext": "7zASCUIWiAMolHy1UbRfuv+118FhkxEqHoZwjmIpDNIGp2ib4WaO0hFFue7J8PAVn++iyQ41jY4iaSMbvdwg/zJR+NxRwbpAMtv2HoyBPUebMrwpatjeiMUJyuNhD9vEaFgqD2fzIx6Uu+17aiQ9Og==",
                 "mac": "eLSooELTJj9cHkwZc/niMw=="
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/8/settings/analyzable/text": {
+                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
+                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/8/settings/npcStates/0/event/1/name": {
+                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
+                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
         },
         "maps/rookie-harbor/inner-faction-wa-adv.json/entities/8/settings/npcStates/0/event/2/message": {
                 "ciphertext": "4Ujwn959FAVpoITtKyzSij6AZyfiLYiy884iHneJM+KZDrhv2zL191tk+tt6r+Qk0XMf3Wso74KlyMj5zCzYYv5r468bGz/In6OWe8J9TMA=",
@@ -424,5 +488,9 @@
                 "ciphertext": "meb4r+audPxJxnMwV+wNxtVmDDIVdyEsKx9mBqWQlCAzC4beoH3Z0JnlsK5N57iWE+yr913awFDTVqDVvo8EHJfEXLeK5HG1twLTtVXmyXUm4fDYBBVvEMIt6iV9wXXysTSxY2fOjLLdcOH2pN95EA==",
                 "mac": "/SJk7CwXww3/S+q+/WHH1Q==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-faction-wa-adv.json/entities/9/settings/analyzable/text": {
+                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
+                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
         }
 }
