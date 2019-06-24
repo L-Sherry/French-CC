@@ -9,13 +9,24 @@ CCLoader and Localize-me are required to use it.
 
 Contributing:
 
-To view/recreate translations packs in this mod, you can use localize-me-tools's packfile.py:
-./packfile.py --game-dir path/to/your/game/assets decrapt packs decrapted-packs/
-[updating updating]
-./packfile.py --game-dir path/to/your/game/assets encrapt decrapted-packs packs
+To view/recreate translations packs in this mod, you can simply clone this
+repository and use the provided makefile as follow:
 
+make generate gamedir="/path/to/the/crosscode/assets/"
 
+Will attempt to generate a big JSON file under translation/french_translation.js
+that you can either edit with a text editor, or add more translations using
+jsontr.py from Localize-Me-Tools.
+
+You can then use 'make gamedir=...' to update the files in packs/ and commit
+them.
+
+If you can't use the makefile for some reason, then read it, it's not
+that complicated (erm).
 
 CCLoader: https://github.com/CCDirectLink/CCLoader
 Localize-me: https://github.com/L-Sherry/Localize-me
 Localize-me-tools: https://github.com/L-Sherry/Localize-Me-Tools
+
+A quick introduction on how to use `jsontr.py`:
+https://github.com/L-Sherry/Localize-Me-Tools/blob/master/doc/SoYouWannaTranslate.md
