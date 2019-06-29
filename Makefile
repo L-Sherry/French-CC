@@ -1,43 +1,25 @@
-
-
-# input
-langfiles = translation/*fr_FR.json
-langfiles_patches = translation/*fr_FR.json.patch
+# input files
 langdir = translation
 bigpack = translation/french_translation
 mapfile = map_file.json
 
-# intermediate
+# intermediate files/directories
 stamp = translation/.stamp
 clear_packs = translation/clear-packs
 
-# output
+# output directory
 encrapted_packs = packs
 
+# default action
 update: $(stamp)
 
-# define your gamedir here
+# define your gamedir here if you are tired from repeating it.
 -include translation/config.mk
 
 PACKFILE=./tools/packfile.py --map-file='$(mapfile)' --from-locale='en_US' \
 				--game-dir=$(gamedir)
 
-difflangs: $(langfiles) $(mapfile)
-	# handle the various manually translated langfiles
-	for langfile in $(langfiles); do \
-		filename="$${langfile#'$(langdir)/'}"; \
-		basename="$${filename%%.*}"; \
-		$(PACKFILE) difflang \
-			--file-path="lang/sc/$$basename.en_US.json" \
-			$(gamedir)/assets/data/lang/sc/$$basename.en_US.json \
-			"$$langfile" \
-			"$$langfile.pack" || exit; \
-		$(PACKFILE) split -p 1 "$$langfile.pack" '$(clear_packs)' || exit; \
-	done
-
-
 $(stamp): $(bigpack) $(mapfile)
-	# handle bigpack
 	$(PACKFILE) split -p 1 '$(bigpack)' '$(clear_packs)'
 	$(PACKFILE) encrapt '$(clear_packs)' '$(encrapted_packs)'
 	touch '$(stamp)'
