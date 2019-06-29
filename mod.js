@@ -1,8 +1,9 @@
 (() => {
+	var normal_nbsp = '\u00a0';
 	// This is normally U+00A0, except the game uses /\s/ to check for
 	// space to break, and it matches, so it would breaks our non-breaks.
 	var our_nbsp = '\u0080';
-	// This would be U+202F
+	// This would be U+202F or something.
 	var shorter_nbsp = '\u0081';
 
 	// The 1990 called, there're telling us that our 'é' is a copyrighted
@@ -21,15 +22,19 @@
 		  "œ":"\u0153"
 	};
 	var oe_regex = new RegExp(c['œ'], 'g');
+	var normal_nbsp_regex = new RegExp(normal_nbsp, 'g');
 
 	var text_filter = (text, result) => {
 		// not in latin9 nor in the font. Don't feel like patching it.
 		text = text.replace(oe_regex, 'oe');
 		// nbsp.
-		
 		text = text.replace(/ ([:!?])/g, our_nbsp+'$1');
 		// shorter nbsp
 		text = text.replace(/ ;/g, shorter_nbsp+';');
+		// there is sometimes the need to truly encode a nbsp,
+		// e.g. in the insult generator, because the game will
+		// internally append '!' at the end.
+		text = text.replace(normal_nbsp_regex, our_nbsp);
 
 		if (result.quality)
 			text += '(' + result.quality + ')';
