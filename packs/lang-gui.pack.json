@@ -903,6 +903,22 @@
                 "ciphertext": "X6K4hECXZMj1cb/rOUnWWg==",
                 "mac": "DNpFUgdEeRUFnhnTPsunlQ=="
         },
+        "lang/sc/gui.en_US.json/labels/loading/questUpdate": {
+                "ciphertext": "ll4Y5A3r10fDAiTqF0VR9RACeMxtH2jaxb9HgMSbLEt8ohpY/xYbO+3seZexxzBrAshUedILeIufYr1bjv7r7n82NZ3mavvqz83wD3iiDpA6kx3n+rZaTK5FyyPPn1aS/WnZXLXdg9eubDb6FDPsZwCV0gaKl6S8nGwghzgu0O1oVq4wPjYVPl2rJs3BqMIRKYHJvzNm2NRP++cxIaOBpNCDBvewF97gK+f9DONG0Ev4PtLHU71iMRwMd4zyLBqFlsbKRUU1AMGlGbaLVtuUfyxqTw92OPvR0FwTkTA7nMg=",
+                "mac": "5j29uMCrr/OTZD93ZP/h/A=="
+        },
+        "lang/sc/gui.en_US.json/labels/loading/skillUpdate": {
+                "ciphertext": "BeS6hg3LLyeU/W3hBuW83Sd4K5gnsNyLBeJl86j7ZT+IzGoEbE5TgLwTKJltGNf0Nq9IlHldFU9VX7nFtUBMz66LqkMGNKGh178Sq8hzFpSJoJrrraaKyxDBjoQ2q2NvZJI3Ua4mn8mlonjwTVbKjfLktJGWnO+XHb1qZ+46UwZKV3sUi7re8jPRg4GkE9nBkyFvM+88NIZMCyMkJFtJwkrJgNof/bAKlJ3WZ9b3TFI=",
+                "mac": "GvaU+6lJSdhtU5OLd+gssg=="
+        },
+        "lang/sc/gui.en_US.json/labels/loading/trophyUpdate": {
+                "ciphertext": "Ew+8uA29wCURFsAk1KJJW2OaOrodXj/eNWrqeOoOlv30wBduDHlxFkMrsetED90srFS86ZSyrxpUfsTOAKAkuw2G68rwlgOpwR+VSs85iSMnKtS1Kpj7t+V3EBydHkcwbeRGPm/SoM4Z3U8ywvW6OeaSEqQc/BseFpU5NTZAAy/q048IxVUUU/x8TL6Rwj9I",
+                "mac": "eC3tTI0QQlGMnGsnTObnqg=="
+        },
+        "lang/sc/gui.en_US.json/labels/loading/versionOutdated": {
+                "ciphertext": "+nq2My/dZwKujewgIP5qvswKzSUJZuY+LcCwgHV7xs8iDcVlpY8+XBwjjzhXkaD/GWZya++i7y9DulvYmijV3kLHDvw/y9I2zNiiIieu1YazRwwmwBlQqTmFUbzK9QJ/xoD02ByHTZ2+4I2IJJc/6w==",
+                "mac": "g2Bk70pKDe3usZ/hWbr4ag=="
+        },
         "lang/sc/gui.en_US.json/labels/lore-hud/title": {
                 "ciphertext": "RV4z6zNrynM66Rw4dBj+uQ==",
                 "mac": "r+wWI0YF0zRzt3eGB46bUg=="
@@ -1567,6 +1583,34 @@
                 "ciphertext": "VWpLOJbjXxFzKYtEUttR/7qQi2ik46cG5Dm+K1hz/vI=",
                 "mac": "AuQwY4/hWzTzcwXIYiUTgw=="
         },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/0": {
+                "ciphertext": "4eAAHwIrBnqRyn5eqQ4z8YS1/FB34MDJtMpMg6e9tor60KQ9QiZGfjwiPbyTdRaW",
+                "mac": "bjxnbOBDcQ+lp1+9iHF5/g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/2": {
+                "ciphertext": "WXcy3IJ3e3cKk/o+FBJqMg/vg7gelTaj8zysQMfpQvyHm6vQ/zucNdfNVv0RPe+b85JnsU9e+w1F3x8szB9TbCqb1TESUuvjXKN/9rdbkj8Z/Gpwh6ec4eh1tOP/VJ2ghIQURG0+c8+qZwdTM6oIWCzt7DbyJHQnd9nPSCcSagL7kKPvt36nFB4Lt7cg16awWUcm0B0r9ty9DicyNu97kHgfVlI21hFzITlcOpk1aS8=",
+                "mac": "eMog6vmXSfLOE1kbu47/4Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/3": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/4": {
+                "ciphertext": "M1bVthhk81/+05w5XkQNRLy6FZQCz6MJKVDiDm8iZNJgCpkbr7lJfOVfcDxWZeyFPNJ88Pxt/spEDcRlSzwOrTOuMvlo0iwy0bCE9eBtcm7vumqzvqjWHhP0l28VIDDLvt7IZqAznfbLXY/bUJ3GDx1UsabkeCZJwBtXwMcujdM=",
+                "mac": "E9jj/uNUzqFFCdDf0s/ZPg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/5": {
+                "ciphertext": "f1d4hukeLIdG6iChgxqXTA3UTZK2OqTPF/GZgjCQywLZThZoiIVUsg+odrBFDGgDbsRI76+j3QLRkvGiXRF1XAmKUo2qUFySnnWE+Lt0tBsD2pamg7qSvRGsz8m9pwfuQTn/usqxUyRDYoonClgOnOBhlKzCxxhx3ohRSZfFHiHcKzho9UCNMS+OYXP6Mh5K2p/Ub++U+vaZTFPDENCkA0PRixMBXZ4JlizyctWP66QDOMdIWhJdXLSQLsMXrrB0JLR+4QeGbKQb0NGKAK447Q==",
+                "mac": "T/mfwMm8V5PNlxQX0JAiiQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/title": {
+                "ciphertext": "RzExAFUybwfJ7yVlEaob9cKIt4AFN7DotkbdGbFi87s=",
+                "mac": "FZH8Uqyj0rHb1n6RNiaOXA=="
+        },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/0/content/0": {
                 "ciphertext": "XOb4SuyEkZltRtkwlj9OclhsBoLiqja49dnjBv1Bq9iiDJZZiBT5QUMFE6QDV9N9",
                 "mac": "nC6DyRDVH9EoxsCVxucbCw=="
@@ -1627,6 +1671,26 @@
                 "ciphertext": "kqo6UNa0wWL8uMWVVY3KHR/oBqmRIbRYQ77gy16YBvubKvwAmBVPwL0hoJGZaxZY",
                 "mac": "Yc/6Daw2IfoGmult9q7owg=="
         },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/3/content/0": {
+                "ciphertext": "z7Kmdx/hz/y3/TRZADmAGtC/1wsAzzhntyJfWcaDVnBsEtsb1T8rAZpEj9n3pEhIRbQoKeusF27IJAkdPXzHaFdlToC2sIZkiGy2miue5MrJoNNJgba8PTG3oqPwwAIJ5LR8wM5HtgdHxGGHLk0t0x/MKHoYdS44ki5Hmb0UuSlJsImk4lm0mlHAY3mJQLa1/K+yTsf2aX4XpAiUzU4Ea81vYNfFLnzFCNIQV+UvLQVf49mlWOg/UuoTV1XPzIu9",
+                "mac": "FilhzFTqN6U2oIEfq9lbRw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/3/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/3/content/2": {
+                "ciphertext": "RFz3N5po0XOKrGFxGzxkkf5aMtGXj1gDlQb2Ji1fzsd2v0HUNj4oOIEp+ncLtw/FLLMdx6OBas2S6BvF0+mEM/bszj0cpljJnecnawuo/W4INm8QsKjtsU2dqeio8BZjsORjMyXDBSgmo119GXBjd4yHvRRfk8LRMwQR13t2sDHJCbpFIxOFgIjEWzwfYe3mIBei7kVDq8CAomd+0P/+oIdHSAEJQlS0qxHXfqz9b8yBR8ikvgpBMfjWzHnqBjkBtOU8oOeSm0Xr/gmlc+MKZCYo91EbV94HJHc1MxElgc4=",
+                "mac": "mDNYt5FrT7rBmES70vF/ng=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/3/content/3": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/3/content/4": {
+                "ciphertext": "gkb2BTwmv+r6HVfXbG7Vhs8nALC86OIMjnXeAx82GQkelUbdaq8ooeKHXkrJNdb+yGiUAsvi8vjqD5VuEg2AF2ZuxRbxIuwSyuNRfHRLz18fEJ9carFkDqeUEfd9BjOmaJJa/g2CXBpjl65L8HA5TB0ZOKuY07JyQDkDuoXiP7bAWUsrsSRGGIsD2+M5GZ2vvWa+x86yqUH5C9LGfm5vaA==",
+                "mac": "95j67pclQ0WHCErYvr7pIg=="
+        },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/pages/3/title": {
                 "ciphertext": "5EJ5MicvilngwUWTWAwAtwJpcpky2zo6Tw6P6Zc+dFi5mijeN8FBSp2GnMW+58q1",
                 "mac": "GK0tYuBrggKrJkqdQKycnQ=="
@@ -1634,6 +1698,66 @@
         "lang/sc/gui.en_US.json/labels/menu/help-texts/circuit/title": {
                 "ciphertext": "h8HxtNdBewnRQQn6stTOQPSEWmzVYiK0IoRYTzb0ilY=",
                 "mac": "N1ag4vTsEiIkzVm3SvW68A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/0": {
+                "ciphertext": "ET1KV+lJiXvYVPuSxBa2c7/b7sldrWJ0R7hKepUYRAFOA1KXBLuIbGxR3StxYPIr",
+                "mac": "H2pUyoa8qBrOCnhqSW/FFw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/2": {
+                "ciphertext": "R+aWBlTh3hKIFsWIM7F2HgXryyCuP2U1GZNGH2iJK2Wys2ADNLAPNhiK3xQtTIonzAMRXzKMRRMQuQm091cTDVZA+VPPdeepZPVVEOzRp1TTIZG4dV0iH58kBV3Bseeo/yANtIKbWT06koOEjfcaHpvt+hAXY5DN/4K8DNOB5rc=",
+                "mac": "y+sRM+N+TlLq6XnXymipsA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/3": {
+                "ciphertext": "qFVCBKM8bv0ZT6U/PEVfzYZLmip7roFFexX+H2XerZYR6i2fS6kuETlT8CFvQlLB4uyFjsE/Lxqd8hNV0UQYAvhMm489g5Kv8pdPMxvXqxY=",
+                "mac": "itZoOng3exbbmv1rDPa7ig=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/4": {
+                "ciphertext": "21MwMBYaMO91IysqkyagskZ9nT3gti9fdDPk3Bek+A3LZ79TkPRWOnnyDI+bWiHbPBjcw6gNEI01XCVcceuqnjxAOmegKi+frQ6kTZfQzsHS4u/+49Co/eNj9rG1pmF6IdkEtcSH8Yag7ETuyvJQ1/PGiFyzYEpOJkdhqTGa2gsVjDb/q5ZpFOQJYFfwdjYC",
+                "mac": "I/thqnYKcHzPtWG596L1hw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/5": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/0/content/6": {
+                "ciphertext": "e1kNlurCpohH9wdYry2URTkWLA7WpRn1tGcf0Mx7IE0TrSesjWjuXB4f5HG6XyXkqpzTdIc8d2r0DGinQl2ShOLCDo8NSdl50gL5mafvG9UCbdh0qvEcZN9ntjetlaoVB5Bmy4X51JvtIllZpWSIVD9jktEM/uEw7DiomRKZ00NfWfCFVXzD8pw/ymz2B/YXfvPhd+Ubdpzn+J9SYoCQqSN6hrGiSI/aCRKjFtrtQuDE6PJ8ssAxz7x9cHrihBgx",
+                "mac": "gDTY8a07qU+0y7pAp4MuWQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/content/0": {
+                "ciphertext": "esCADJYu0toueE0oN1oTDwd2DcE69GHYkax4OzkGsXhzxtHi7/hFHV6sedeKTzRK9fDPTbnW4sJU/Ii/pxDoOEYB6QAOeFuemNmZ/NSv1sggJZJVj0ZphijDAc40AGp5",
+                "mac": "3Thqikto7WgDC1DGYgNNyg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/content/1": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/content/2": {
+                "ciphertext": "77xIGDnmqioJd10lz1VRLMl+7iYCDf5xPMsQNpGvdN51jrpO1i04KVIDFxALUjDek6aKK0Fh+N/Td+Nz3J6UdgrwXz1ECE4bOg/1/qtVEjM3YCCzBxz1ZKZ+l05YQEky",
+                "mac": "16FiY6k2jbLRFBhWbn0k0w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/content/3": {
+                "ciphertext": "7oqkRlYdGvHtBrmK/0oE2XgNtaJHbpZikJq5reVWg1AWgfN6WFruMIINtvTsHMBueBQ+vdm40UEvi4PnWwtoZbwPupEUKEvSPYI0LGUofo9nQf//gIgFuXNZSFgScuBL",
+                "mac": "gd+ipK9DHs/pWMwsIby0BQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/content/4": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/content/5": {
+                "ciphertext": "KSmkaPd7A4dW8ZR75a1Rrwammcf0Dn+n6nRcTNosnxT/STYn559vpJ6pw+8Qv1LVPk2rV5UWljuOkyv0uA2sPy4nivcbS08CdwWk+BuOX1ONJKMyXMKtA5yPSNlsdXorsnU5KbQuoXktjhcUQyq9gSQPv4HTq20jt6aV25NspXO70u6U1/PoiiBsDt8oo6YQNZyxKDh7Qr0xgELwUQXeMXLuOnypN/pUHDCLaFDMEiTxcjE2J7wgXhSPbEoFFpEH",
+                "mac": "xCdZaJyPwrLz6T1U5d3MsQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/pages/1/title": {
+                "ciphertext": "j4c+8liiJIEU0p5wMqtXxfJljdakwxieybROuIV+aspkDOmq76nz2oW//aBqWWJq",
+                "mac": "qj5jgEPkUXpibNFpVql6kg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/enemy/title": {
+                "ciphertext": "TIX3q0ko6Gqi7ySZdDgzentJIoCn4m69tmwn6XlqYok=",
+                "mac": "UU+6Dh70hmtUmOQ0l6JJmQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/equip/pages/0/content/0": {
                 "ciphertext": "8bBGAS97czp0KU37xdT1hCmbrmvJ1uMAKb5ChTdq1gblp3qyRtg5RawwWt3Lfr0b",
@@ -1686,6 +1810,34 @@
         "lang/sc/gui.en_US.json/labels/menu/help-texts/equip/title": {
                 "ciphertext": "XigNyrDw8SPgKJIDKzgjDt/10rL9STS0F16pfO6982c=",
                 "mac": "TsJiMHJAfsFnGLA9uc4vmQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/pages/0/content/0": {
+                "ciphertext": "9trRKnCirh+RH6ZMv1xcv7d/RRSYAjVpA5xzXph+5WF53qgXtGaLfX3zNzsKzByJ",
+                "mac": "Ynm6DZEQuiAJl6AsqinSwQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/pages/0/content/2": {
+                "ciphertext": "oJv6ulJbkcnnT+RME4PT2iyLgOEQQAZZj22frco4kQeDD+8cS9Tc0Uy6P08rbwfJ/qNaCL0x01RL7JGMU3toss9Thg4mYpZ+S5OIurpIVZyLn+Crl7aIPXcJdaS7nuVFGkrXYlr1AN/9+1Jr07cUHl7iRvaBTm2CqjfS8xCbrDJ+9BvWiDbSyrkBJfC+hYeReYr5vqShJGYXuHtZav56pgs6eWMDa4mdFiQ7NJhNXvY=",
+                "mac": "OUwiv49j8Njv2Pp6fRhi5Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/pages/0/content/3": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/pages/0/content/4": {
+                "ciphertext": "byl93rOA//KDJ77m9qwosnHq0MCKkbLGf45OX2uDAg6ZVPwb4NBtRTmLWSMLDEG2HQUqo/MeiA/rRHmnh7XxhOPKe64y1lm/51orETHHSqYs4zoFJWQgNbtS6sv8GFjVqj3xsK9dLN20duJududKDKHTsZi/qukElT374xoFCWDkNSxkdM83gYJcl8Ki/7RDIBowxCF/EWTq9KZI+0l21i0VYcIehKUkDaS1pQHj9XZtA7TIsx2PMu8l5GsDDGM2xjaXhe5thOfbvbPU6U0zrw==",
+                "mac": "dnn8V0aC6lnXvc95XYJJSw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/pages/0/content/5": {
+                "ciphertext": "qvVr20TezkeU7rkwJbewnptKybCt0oHWbp0e9040hozArVNCl8Iko8PAy5o4GoNrwYmjc7e5lGLfJcFJI4Uip7ItlaiRmlKDjxFI8qB1RjdoFn5k1lpXpz9v42YlxakqRmSZquSfNz5kg+38jP60OJrR2aQLawiuvD+1FA2WaQ9Brs5SiVcprghnGo75yaNS",
+                "mac": "5vRUpEumAPHgcbyweRiXSg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/feat/title": {
+                "ciphertext": "D51eukZ101eKOOVwbol3uaLrEcFJ9prFHSB19cungl8=",
+                "mac": "7C2NSBjUBKIVGMiicfEAuA=="
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/0/content/0": {
                 "ciphertext": "sV6kasV50OSpPpkNpNbDesh5c/W7w7dqtO5UeCg8NIo=",
@@ -1748,12 +1900,740 @@
                 "mac": "V1AH7R83rUjB3Zqw07q0gQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/title": {
-                "ciphertext": "4Y+WFJiTXGHxOqTmnQwHT1rOQtVCPYAA43xKfw1Fv0Q=",
-                "mac": "cRPdOgr4U8IUP6Z++SnGPg=="
+                "ciphertext": "4Y+WFJiTXGHxOqTmnQwHT+6L3H1vLdlJ52kQqEy2OTY=",
+                "mac": "XvbfHgWyfLNZG/xkVwgefw=="
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/title-2": {
                 "ciphertext": "G9t33zUabFgpMpbSNIsA6ydy92+DiHPCVpeY5QI9BmubWZW5tzPpCQTeuBmk0piO",
                 "mac": "2UnQYc/GgW0VpDVkDy67zg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/0/content/0": {
+                "ciphertext": "ewdFUlf52K44HqwbCzaDSUd+XjvEYT17mz1BG3VrRatZFGnrupiPa/qJrhjiZahv",
+                "mac": "kyfnsRjpsYU4s9WM+pLvSA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/0/content/2": {
+                "ciphertext": "N/Gdc4ecC5AijoVsw+F306yr0kLvpfKtlkwMVvYtTQAchmexWW1+Pxnenz7vT9QKJo6BCx+GshQGbh4mztI8nOGmu/LFgwJZadeGCNkZF35sFQ4Ro4ifM+NBCTcQv3B1",
+                "mac": "EcRf8BSkmw2dEeNcGpvh7A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/0/content/3": {
+                "ciphertext": "InGb27OGK2MFqYnH39k1XGK+MZf10mjU1IWG9RvuN61I4xeK9vQe7na2HiUqsYSkiIZ/vwAesews89ZZklvwoEMymU9OOCQny29ziQdmjb+TfnhnzvIZkiMrSrrDguY6KamnskBly/9yhrW7PRHjcHu/Qg3lkb061cQV9F8Sry0kUePTHmx3z+pq/apsbr6B9hhpF/fMh5pe0xz4i6KalQ==",
+                "mac": "dkUdLcGYjjS76sm/9m5T6w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/0/content/4": {
+                "ciphertext": "5MMFfxSLgE/0BlxgE8HFQhuzZA+nHg0JcIwSIFFWsPicCfeAJaMKvYAh28D61Acl1xb/Pt3vNbI/VWLKOMjUBjXTYZFqcZCFDlbwrOzxYD8XOOo95wEPf7LC3aEAE94ZmVIiywMHKdg0mY+qoPkWklY+VdsqhEOjkRXzWRu0zOqSIQzDdGlBKqFdhC/MBIIH",
+                "mac": "M/RlyXN/YfnOr0htOhjq8Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/0/content/5": {
+                "ciphertext": "MZZGCKG4JjysDe+nA0bKbhReNRbB1zzSJKj3pvxu2YXKNzVNfG7IVSwzdVyXkvnpq38/t866sXif6npflYMZl0WzcYrKg4Q4lbx/9fJuIQq/oTkI5gi65N9PyRbGNaLJ",
+                "mac": "7Vi/UNyckqPPA3Id8GqemQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/0": {
+                "ciphertext": "ezGBfsw5dyFHlGE81OQUd+a+/3KujqgRQEEoEswLX0Zx7j40q3e6r6YimP4l30PgQRCqBZgIATH/G8zI1oeHKiHiYJ+xLyvvV/lFXAJXgIjWxE6QbnV0/C13bWRJ+u7O",
+                "mac": "JFv3f63i090tgK4veQjmLA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/1": {
+                "ciphertext": "gI0bjQcmvSe3mAMphYsJDQ==",
+                "mac": "2lGHEsVjXKXSJ1jaFF+jAA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/2": {
+                "ciphertext": "ohj+/h/hcs+3+6dz6p+0owbgpy4NkqpWvbzbyV0uT35CaqRCaMZO2rizhIk2DCI9vHqaUcj4KhNH8dUbRAJjPJ4LJ842A8fmXJ6SodU0dQI8B5FtrW/uHkYeqeUPqCZ8q+zOdpXpOwH0w0cwC5rTjqL/LB6kQN2drXVJR8xcfXX4gY/TwhMU0cJFWT54Rukk",
+                "mac": "FpEL3XOj+iaOChSo2sxhvw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/3": {
+                "ciphertext": "c0dXKF2/M0IRCIxDpra4ABDCF/PLgFjmuut4TxtA92Qt2EHNRHFeapo+nH7rBjoPpk+sgAN5mGdrbDThUyHLYlAA4BHC6V48/Gi3Tqnxs70=",
+                "mac": "SyFjt40AgUibzr1OnXvUWQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/4": {
+                "ciphertext": "6/hIX2bZ4I/kf09cuUNY6eNrOTnsmsK7Qdo2DWCDbq/2VGAPL3dZeuN/fnQpTc7htfCtdaeSQjkJrFvNDdm1o19KjXHdc82zD6pTNRSaDtc=",
+                "mac": "p0fdzP2wd8XlHvmp009SRA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/5": {
+                "ciphertext": "kpVdlfxz8618IVGiKRJOH1KnWZJft11N6bRzhldGpojee2JeTUdtfCANmftFKYBI+XZ0k30m4nH8MNQKsNf6o8wmGgupE/IrTi82nNVVy+Y=",
+                "mac": "cbeDIBkrCQ0zTDdAqXHEJQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/6": {
+                "ciphertext": "Qa0fTF5InB46lDFVJETs+4zLldReXZ/T/Upidek1ahChPnXRj93+RfstSotnuG+Cqygge9A0tN4A7nojl1O1Caf2ei7WZA7eQMBulfCLgJQKvIWDtKixms0WuaQzUW+ibo9bvJRVT5+AHffspGyw1RJuYZ9oKA9hrNHrsNL1nirOkY35s2h4TDza2aOHCu7M",
+                "mac": "y4bnXGJ4HNE5yTsmnY26uw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/7": {
+                "ciphertext": "sdzWSEazFaR1Bo1SvMw5XC3oxa0lZJJHhWY/AYv5vqOWddDuMHpLDgAUJuIMjalIdAX2eypbWpw1UFdS31LHgCIIoQ3P0mO2cbnWYdGRxto=",
+                "mac": "ybQRbIr+4dqluqycs/PVTg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/8": {
+                "ciphertext": "s3PCHXwjlNTBcKaYwhgY30PVJ6OLGMKAW/5TZByZemNbEsRZPySR0lvi4NNH2mdvF88IECcKya23IxDv4bZugg==",
+                "mac": "/xm9NTA+oGJU0bmmScmQ7A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/content/9": {
+                "ciphertext": "7tCMX3OEq2g2WSM29CPyTw==",
+                "mac": "d4c38j7LKakKuPG7CjXDww=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/pages/1/title": {
+                "ciphertext": "s1RH8Ym5APkGhjH146uEvo111ahUgYqtnTiJVsltOBhIbogEz+ttDpwZpaTaDOll",
+                "mac": "o0kDHMSeHDt9QlhZcV/tmw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/load/title": {
+                "ciphertext": "yv1l5NTp9tWJTPuThwrv7Ddoq80zkxsRQEEP1ZEaXJw=",
+                "mac": "qO2Gf/RWskD6hT7Q8H+DHg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/0": {
+                "ciphertext": "pOMdNKOInTb+tY1XjyOK0D/qKH66ezo/CMvG1kqcEVqkI/Fxd/vrhaElgS/w71AA",
+                "mac": "A7XqkCr6iHgkzagLYfI+OQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/2": {
+                "ciphertext": "iZHW8zcBAgSU6TuL+DDjBlzncatTpUih84McwojpIHWT9Lf+NPxBCYYd3AB4CvxXxj2DHajoQLAEDhRkvEpZ470jsWuyGHnAB/u9JaapIQhamXTbuvMRxjpU30/jxET1yaxUIaCFxW3io/2qJOXUqQ==",
+                "mac": "3EKbxaV2NFShTMY3o7/AZg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/3": {
+                "ciphertext": "qFVCBKM8bv0ZT6U/PEVfzXdtoRgyh+GGRB73MVWeXxZkcwcwK0rlD4obenftEjByyt9h5rh9fJ0bwkIQHtQjVA==",
+                "mac": "/Lt55SIBFPM3yN+z5OB07g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/4": {
+                "ciphertext": "CeFtCAcHl5qP0ls1dEe0zmbXPSNgCEQqMWEx1xOw0b+UYISx/w2pDwsSeG2cYzsdCIktCe0/V+k1cbqlnRZbDrEXDEdErUoIqxDLTqqow3DGRc6qSqMhyDk3dqOjyBl9",
+                "mac": "+PflYEgj6PG9Avy99ahbkw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/5": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/0/content/6": {
+                "ciphertext": "dSUVkk8TdFcUO5uf2FQubQ6J8oWCNhBwBF11z5oc1K83uZt81E54ul8T/SBwpCGU9Smq+Zet3n3sxQBjhbetTvrypgmvkmzkGwOLQJz+OeO0HQk/HkF9MlDKOm0uXAvZrkkIuq0/HCDmi5u5mXHxeXRfx/rR5F5u27nahqrSSqOm87mSQDXADT8A9fT3sjFkCpz2M46cikV8g9CN49Sw2xKMPXi/zb3Zf10GsKIiUuDDJJFJaIJBC3UH9rsyQMoo",
+                "mac": "8vrgWTbents2Rhx4tebiXQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/1/content/0": {
+                "ciphertext": "jBmfr+va1Y3fQ4T4lbqvNjv8N5sVbfrQx5YViut3XerIjVoY0p0D2024D/ySCz+bgMVcU2WTMDsaiP/auaWIjnvnb5Klx17CuR1GQPkJ8YdRLgNH5Go/RCQpxx2k+ynVrTF8HIyXJXUUoTAwZHRJd5Tk0MiULhg0l+b7IY1q/1bvU3w7//JBJQBnbKPvCbS3VadwZKMR+n1mf3KJks24dqDgEKA0a2QFKpcMkaPxWossklhwXHtBms60Iscwmwg1O9T40o4ebaO8SbSNTkKd9woVxIHyR/VTq7T4JMA7OjA=",
+                "mac": "h1aj/AqCOqLRBnhudWnbLQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/1/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/1/content/2": {
+                "ciphertext": "td1myd1CcJRLkbuGTiSsMviM6RFm2P2qiZ2GlULvDo0=",
+                "mac": "0Z/Mdr9SR0BRfOJ64CtSMQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/1/content/3": {
+                "ciphertext": "qz8I27CNPzK9GsjW8oKSdoRT6QbYsPr711XOZP/qg11z/u8vR/Phvesb6/BLu8k4F0gos36XaY+WoShrN8msvcHKCCMl31oOgGHme7bjGgHN27jfyxKcrGuoD8efqIL4Od7CPb9BmoaeWhZ6yJtBrD+VAJxls6v4OhK9qJhM/i8JjEX629l5HrIMWuMuHLMC6Oe4/1LLSCudwTO1vIa71w==",
+                "mac": "u3sre83JKw2hCY4gWwUEvg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/1/content/4": {
+                "ciphertext": "b6y+9YgYANJxMMkRKsyYgZ9vlVEXqdgKBD1UOyJ+0+//Dig2Cz//pzQYI9ZoRKa9KWCR4clRhkBWqLdZXuDglQ==",
+                "mac": "RxFIvgcT0XNWK7aUQJLSJA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/pages/1/title": {
+                "ciphertext": "7fFNZuLbEBh2LrlDFK20bptABGis65zvE1JO+699fkPtUYC5sdLy9AGmxZYTdNSigp4UDuVQA61YU8SDFNdQ/A==",
+                "mac": "Et6xDELMZAhQWXlT1wjZuQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/lore/title": {
+                "ciphertext": "vUO2hY8F5hE0/0+zawvxOctnEJX4i/CcpmjMi1o6rXA=",
+                "mac": "lyT49NR3FeXs1j7jx3sKqA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/0": {
+                "ciphertext": "zLjurxVYszDrlVY7hoJmc97r7spM8oQFZxDnXeBsxBI=",
+                "mac": "w6AlQXVVGxMSPBiB9ymSDQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/2": {
+                "ciphertext": "ISOZ3JzdL7klX9SsOuA1uuFPeHe/OssyfVlu+xfoBSLvT6fG6U5jUU7OSfXSM9oMCNZXIFjmOlh+C+sGaUviPIFVNrztNzE0LyFvbJWIdcgpK2y/h4pi4UiXgbAgke6f6pM5m1uqMo/ZG3kd3Fnqof96VOZei5eGBHiZkx3qeRsl3zEOWpc5hzZD7mspnCeZmE2h1nQwwU+uUdl3oxT6WjH0HmB7MoQKtQ1/rO0l6wJQB7pEE89x3F5/C+PXPOMpRcht7J0VIaUcHxmQozumVrGrbxHiLznmkgMM8VpG8C8=",
+                "mac": "bI/iQZWdnJwbOqOXuzZJ7Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/3": {
+                "ciphertext": "gw4rcpGO2cXN/rdc/tU5Wg==",
+                "mac": "5tZEBaBZYHL5BugxiP4fVw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/4": {
+                "ciphertext": "LBL9Jtb5rKOsV+KED9i00cuoA32SAVZywUzu+TB5HrlV1WKbtIXfX69vg2pfYUEpTcAP7E96lzyszywCdgnP73nALh96TXQ6eN7eI2dhEWnI15PaPcgT9DAvHF9U8GhLNQH2v17IU8L6dwnq3icbnoHnXPa/gZiPGsW/GmuONdHrNeDa6dJEKj460vnDUNQvzJm8mLBZktj92NFQ/aIoKrv0yBPG/FJnDN4a3o+9OwYBF+5j/06gBLO63RP1n5gTQlIvSOJSWbSAeuwB1phTI2xSbtbutOyBmj2YoNACJk0=",
+                "mac": "5chs1btLGttA3iguwWHEzA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/5": {
+                "ciphertext": "gw4rcpGO2cXN/rdc/tU5Wg==",
+                "mac": "5tZEBaBZYHL5BugxiP4fVw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/0/content/6": {
+                "ciphertext": "Q0Y6r07AiI6luPcX+8g0X3+/SxfamWCT4lOLDW76PrO925JSPWJL/QmDUkhPGziidJICgVGCYDcTujM11nxzcwylJvg5jzLQ6JUjMq2EvVNqxY9E/9FDoIMeyPRCAeBDE0ZQi+6nf90Vny28OrcNLAK1lmvco6E2xYSXqLLmVtio8Sp3XEd6Xl8cHOFgLDMyyhGW9eJWFiFBnH/lwZcE6g==",
+                "mac": "KpP3nxhUjJFM9khos9bnfw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/1/content/0": {
+                "ciphertext": "wcQbhNbXRqRtEkJK62ZF38Iap0Pn4Uvl45QLJIobpqbSFugSoSJbpihXlqDyOnkwx5uK8lOUY9mCHcp4RHk7QBjagSIr4bSEjbAwHCACGQMzn7qAeVrQjrCA7aOO9/LOd0Dy+ymWrQ+8dYcFNf6VOYAS6eT1hykrk7spcc/JZA0IJSGjTwS/JvqOCDq2QYGS5ei9kY+SZDB8OyTB3XQ0qn5CPYWgaH0i4qtU1amf+gY=",
+                "mac": "OSkgZeZKBYU5uYxXzyvCpg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/1/content/1": {
+                "ciphertext": "T4dh0Kt/9jmz+2dSq7nUs2sOxiUoqHzR5E+yXPdZ8UaRvbGRUV0tXJ1+qXd4z28G9s82VXuFkEbp1MzDc0LzS04C4RW1T6KNK11VUUcFMleLnlp1BUWG3jaQrtqPjsWmZ1tIES9X1m27oS6pDmKPiA==",
+                "mac": "7SjHTWIBJj7JKxpZWwWNow=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/1/content/2": {
+                "ciphertext": "o6c1mTROO2ary7+R9ElIWmAyuGEiXHA1am0+sgVq4YleuyM/KhIwWXA3qHxGOAlZlE0YgXraW/j7vAFtnKXvC6SYACXketUnQaG2TtmyLER6Pw2H2gbDKPTsc/5f8KALEfXF44EOFCniYVMSGHlAUw==",
+                "mac": "qqOQ+WMK6fR50+KRjufTRw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/1/content/3": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/1/content/4": {
+                "ciphertext": "AybYv+VHaL8u2SwUxCTTH7G367ip/VkNij/lK3vUIHrA1hC5946nDFTKb/WPhMGXgK3T2dc280QXy6gmb5KiGyDstZuM3EccT+FmVM+EpJJ33kq3z9wGSdxoO3Ue9qrvFg+3Xo4wlKGCmGKpx51aRizfvK6OUi0yZ7yPDO0saLbEDXVvye2i93uLrZMuVC623W3zBuBsLlsyviQ98eWzb3s3+f77OGeHv/01R6Rjbk2AuJSlxkUhWOhnoc+8v0QQ",
+                "mac": "2wZDpMFsDYLnMVuqJIb08Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/1/title": {
+                "ciphertext": "o/YETZhtiSy6/ISUMHcAFju3HPNKWjpqXTg6eQbQPAb1/1nJO9dre/Deswki5+HS3Q+R0imLEBzD4QVdmKxmrw==",
+                "mac": "UXKQx5oVWSuMiET6r+MBQQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/2/content/0": {
+                "ciphertext": "7x2qV3V9dmc6tOrHPqrtSlYPY5gEYDhcmoJdj5aapiAFJBwgEXjlUZx6nJNIVAqkv93PUB3PS05CmxlLQj94xmTFwypi5FK+5I3QzRLVgLvuDz97TINiFf9Sd5euEXpU88T1E430cg0+XwjkgQatR7zrjiRDKPlvnv6fSmz3mP2GDLITiekEDSHLk30V5pCOm2GpYe/QLnMGji/hFJANlg==",
+                "mac": "MB6JaqZOGNULlH6OvBkhwg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/2/content/1": {
+                "ciphertext": "Pf++TxPjZvx+tcPy7Vx9PEityXlaEdNK2jcNbf485emuBff/Rtr8BZR0Gfbew2sJK2PtddpgYay019ERL/Lv/Z8VCtnwtZSL6bynGQk4Wbcz/iHqXJJi8qg9OOb7KCI/nxN9BCKtFdT0ODHpesZFt0cFGLq7ZZtb7Dr8NyysPSM=",
+                "mac": "Xp+/oYRvj/T1HZtKYn3x4g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/2/content/2": {
+                "ciphertext": "4ZEGvu7s7bk+faoCYawEbabKRy/H2RvBPIVaVzVT6jU9zKBJreirp51chR8gvr264L2sOIZh9CuhoeYyL07GFGsnkyDtJLoBblMi+YvU+sNs0LLCFnFYLZlcDPc4I9p7rMiuxnGKJXatNlb8kB9y3aJgh+TmwWw/3WN6NVl0nxT/CbMfOtASQ/PZGGue85EHetmuZXvaYfQauBjSQrbQKe6XWmixkd3LztcwQNomf9feNqOfaesUuHH1ltw5J38a8/1TvMe1bfGt3TdffxkTY3Rz4H5WoQl5a/LQmA0PNNZ92REeG5JoR2/wRspcJZXRz1+UADEsN7VwQntpswV6fA==",
+                "mac": "2WSlnPxtGqQkkWJtQ7UKYQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/pages/2/title": {
+                "ciphertext": "iog2r8NoL4SOz2XDy6bavfo8/N1A5Hc2sMBIpEXpGaccDiWXd6t3xZr07fhbPyfr",
+                "mac": "/9w8xiNgmJQH6CNyjKepCw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/map/title": {
+                "ciphertext": "4x34LJX29A0hBM4NlNhdoJ2GN4abcfjxcXpSwiudyBg=",
+                "mac": "hUpeMfOYPYu7OF7eG+UTow=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/pages/0/content/0": {
+                "ciphertext": "Nkkc/dDxgM32V131Xnu/DZLktjuiiurJ7KxGl2OFBxa+DuiGVeImIUyRqxEZaTud",
+                "mac": "ZGEz5QnftVVypD/Pmr0dNQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/pages/0/content/2": {
+                "ciphertext": "PhV6sY5KqIiZVl7VaAEqHriV1tqVgpSVQcctiiJ5swq0CoMOmpOvN4KaMpoJ6KySktGfBIu/JwyWb13n0YEvEDJ442ojRudamyDipvaXLwCIV/LOAHm/69oPYDwNxdVmnpxoTArt7HJM7uj+pqlJWCBkAFkHDyYsefA4drISTW5bgE/F48a99c3IH6dQGbple73N8g+XQpjvNsWkeTJC7uZ6bNJNr9+dG8QhobRZUy3iL/DKUD0DYcSZqy75K1SH",
+                "mac": "1IHUKPxwd3FqKB5Idrre2Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/pages/0/content/3": {
+                "ciphertext": "1h7et8q5hmb19tBtiMuFq0enhrwIFqOahaw/SfWBSqio2/1tqu7WT3cwDmFGT8oCbV1YWNzDw+6rcck3tDFAW3YCSfDC8dkRdn3EjS94ulTPS18zO/jtL4mVoxTSpAPdbAmn4FVGe2hXiF7qqonmZWpFSkH7D2zST/uEIZ+X0DE=",
+                "mac": "FYxIghmP/2lJWx59UyAKsw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/pages/0/content/4": {
+                "ciphertext": "aYPSdV+8GOqOyy9CPrX3xxapwrE2WN6S+Iqn+ArBlygV7G+Pb9g1ehEbvA4xN2CfjMY2a1qrHkgfu++zSeyipMH0dno/5UfwuyaxK7CInEU=",
+                "mac": "4TsiOBZ5ev6yr5qpHfrxDA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/pages/0/content/5": {
+                "ciphertext": "D/Lx5h7fuWFlTWBRm0BX0BUod+J6P09Hge7FAyp22vxs4q6qxwtNFoL2DpdeQgMwvkD3NxUXVB45KcIGC9NvOtQ+t6a4lj0EBymhyZ43EkZ7ee3iF0Z+PAL+FTBBSgPmLV3XmbWazmWPTxd4fdXzmP7lH+SyMoVi6wGLYHYLMQCm6uEfvdc0XCqnIlnyHfaA",
+                "mac": "ZkLFyJJTc8wKRO6xBuTz5w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/options/title": {
+                "ciphertext": "EEmncBg3JWqzT4JgBSATs9ZFU1ABBwjNtNfyMKAHMqk=",
+                "mac": "6XyusFL1QJuS2ZqmLFtWIQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/pages/0/content/0": {
+                "ciphertext": "rXPGIRuLSjVIzGX6ReCj4o2UAznyPaHilTSrNLKka1VMEZamQwcwhqNpC3lVFgb6",
+                "mac": "z79QQ9gK7XOy0aA2BhnD0A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/pages/0/content/2": {
+                "ciphertext": "2E3XNDrMGW0W6BUD0XX8MzsLb2abTt2u5ttbB77UybMLRGTA1IBfeU9k5Sr4NZF3x2myzTaErlbwTf4go8ikq5isZ7CKGaFtzyRRq1kIKu11SJY6D/n//omRkyuu2jT6",
+                "mac": "VvcirjVoximO3DgUdKhYdg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/pages/0/content/3": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/pages/0/content/4": {
+                "ciphertext": "Ig9zb8ZPzA62XuOzV1IQqgv0mG4ysnnIjUfUgrDjF5cBeKoylBoGZ7yHeTrlXCCz+hTfX7RyGLQFuFjMEo3veXMy7ZmWNH76mUtV0xHBCgY6btLjHP2pLwlcXz1qSlnlhmiRycQJpZhoaamWeaGWMzmFQeLJHfJxGUx8Tq5suhvhDyUiW5E2X1ma0s0Fop/i1MRLbQ3q2JLvc83dUcGpZQUkvFooWaIikhJ7+TMOmjU=",
+                "mac": "ljjY1m734h7ty94FFhKc0g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/pages/0/content/5": {
+                "ciphertext": "zNZArmEiKzEa9vL/OPhQWRFUQnLyMIvfqHcqbw2xS1z+8FVqqxFhv3OBmnt/snjRpk3VYqHczT5++8pGNEYkU8otYh1D10fjDVvgH3X8IGQJp+E4GdYMvZVg5+XNlehm7vaJuJax/X12NfFLJKr9nbPMCYDIFfHppEy2RjcJ4SkeMp9Lt1WZ8u4veWGAXWYp",
+                "mac": "VHtGx83fToEAXPZeKUfr9A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/title": {
+                "ciphertext": "J2HaR+zfnGfq9e62shjkNiIEIc3BucwvRRT2dZ2sErA=",
+                "mac": "TtlrhX2RvauPeJvPxY8nVQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/0": {
+                "ciphertext": "csDey73voQ+X4BOMHawBkdigJd6VV8h9QVmrh6Ynv8TyBybGP74381nqzBK58XPZ",
+                "mac": "xrFTAdTX5/FsVggbssA15Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/2": {
+                "ciphertext": "3Y/4/tMauH8xNG1Hw+GeCXlYzZ9RpZ9XH/OUhOodfMMEGd+7RQldzX1qVLKXJJJut4ioyjenDAiwnY5h+PssWBy5WVLLXlPiuAPsMoorTho=",
+                "mac": "wEFM1QhthmVen5RbJ1R8fQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/3": {
+                "ciphertext": "WP084Z4AR1g1YYalUsMBCFzpULl0MoH4Ez3/hNBP4QoeQjrmA+DsLkUelYCj2enl4feUOQY6nXvQ0bVV4XMrNjsOJcOp5NBFy9UpJt6TNDI=",
+                "mac": "5CwqoewsfNVXPBScl+d2MQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/4": {
+                "ciphertext": "a6v3Q1DOAXtF8FyhixWdBRPkc4hQac2oNLmWfx99M6G770xOBjTWuOydhfWEZvV023Na2gOoQ+ECJyE7/tNYPZ5Sd22SXX3w54Qt7TZWIePJbpbBqtMLturV3pRziXx045Ev727IAQ0mY7lKjVCUDtbLEyN4tDhrKHnnreSxFKk=",
+                "mac": "CcZcxXFjc5TZICNgx4n+kQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/5": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/0/content/6": {
+                "ciphertext": "FbB1a8KiZYpYaZMcyPHjq+Uo+u0540oa+7qBQc1+QqBX+WUCt2sJ8BVMC9AgAtQScp8toZoIXvUEccOMSGdKLKHoado3h7eJxDC5kuRnJetck/tzC62cHrJPD2t8JDu9qeqGDAGCmwwfG3DPt4nnkLy5nvpbYCm5PLyuOi3fSjw=",
+                "mac": "XCPTu5izEFmZiT241vz13Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/1/content/0": {
+                "ciphertext": "Spfpwa2b8RvCPAmm0OtoWBFLK30XuWPCpK1AP7FfuizayR468WlmdRA6wlLZvV2Lx/IELUMecxR45l3D9ZPYr1/CMexga119MI1/LmAJPPsEGV3w4H6DbG82gnTHhCWW+HXwMXgDoKt5xX5N+p/2IpU788+ShsUE2YLrG6ZS1Hv9LIHpvUiHnUj/M9tPGImNWn+/tuyqESOIZ7JpAIE09g==",
+                "mac": "R2PeK087SjGsTEUIyoyJMw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/1/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/1/content/2": {
+                "ciphertext": "8uJA09qzHdvKswIAqIOGCFJ7PN51Z2QbLm6TpaUSxaw+jIC/pzqN0j7PSxjmRn3t1NkB51QDqCPzEGHudNf21MuSlRMKdxGYlCnpgUDSbUZ8rWH6zcEL4CK3hR0QtsnP",
+                "mac": "/3rHUz18pGwXBpmxfAgctQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/1/content/3": {
+                "ciphertext": "Vw/UnWqdvqkM7Wqtlte/FceIVvcsTE9rIwUnRepZlFMeOhWfyFr6YtI/HQfZqLVrvR5z4J9dhtkRucxFApsAOEG+MrHbVP8s5IyylgJ5PaSqaxgFI1eu/JeqmftwvtkEKOvAtdex779OvyJdVyNb+TGzXpzlUVUUHqgMWV1UNS4AjCqf8u1+s4nI/G6rfcvwEJZsiERMJzXRgm4/Avbudqq8AxI5tp0oL3Ig3Da8pvg=",
+                "mac": "gXGcT1rsy7QIbUyjoAkXwA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/1/content/4": {
+                "ciphertext": "Mas+vOJ6iftIIqsiyuYDuDTz6A33TMS1AOIX5bXeMvAGEoqjIcb1EZiTiXQczvCJL/bO6arbsbWCofYMPraN7oQz20e1K5uL2LDdv91HlZE=",
+                "mac": "tJ9tNH27GNMvXzuLrbn19A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/1/title": {
+                "ciphertext": "e6HuX0oV0GdAn7OQdWiOEEOl/WUaaZzbjTifzCaFsukJbUUQRtK4rWJ6SAmHUOI0",
+                "mac": "fJlRANk8aWDtq7vouPe6NA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/2/content/0": {
+                "ciphertext": "PXsWFzbhy0iwhmeH2JRWKayIrbTU9ZQty1LClJCXBycXVM8Tcla0tC58GjVjq7dE",
+                "mac": "zsmGfT1J5lGafKnT/O8AUg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/2/content/1": {
+                "ciphertext": "tOvZEO5I4t5SbF0g8HbtuXdVzpwnW4vSimuSsBg3ImCTIslk9EDOoLReVdIasKFTuKlS1Xrz8F26bipko2wZDYui5PMduo0hzFTMa/YGMrY6cGAGISO9NAKM/Dg5a2I5pKsaK0jhYWY2nYsOMnNBJorv59MgyFKozprVZOPvFAYhxBSxNZx5pW0UEv8YEMdL6VU6enJC9kmKW8td0a5tMhGHuFLQzfKtk2A7E8JD6gclDHIY5EjNb7PYSR36SZe68TPOFNojK9jL8jWyMjJ+PY25eJpAmbXaHBhNAiY/fi/xrq2GJH9CSCqq0mGhbwVsBQp1BGEdRVu4hpuUcIbe2g==",
+                "mac": "Tc3GE069wtOsf6R+QXTQww=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/pages/2/title": {
+                "ciphertext": "XeeuiWQbVA2b8oGUN65sHUnP5iwS2g9TtlFIoeob0BxY5kUgMeJ6/uDtf7Z/OTNv",
+                "mac": "pRNSfMpF9rj2zBJF3YadVA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/text-2": {
+                "ciphertext": "0v3adC35/JKPHNNqpZaclqA8M5VHrAvBEa9TTxXPqb1adUFsPWL7NoAcUncTtGp2a5TqHWptM9NMQjfQikRWdgXKO5YzcpyQF1q5CDYW+FyXGFmgQIkMYmDz+w0resvrP3GtWo2tMbYqv5pjqeRZR2C/vbPQIoNIPn1KD2E+Aq5SPTiD9t+mbTbrl7ITiNY9vQ/vWPm4znThid3SaYTEt2xXT41dDDoe6Y4IUxXt9dR/fqztVaRj0ftjYIrp+PvR",
+                "mac": "ZTFOYEIbZ0eSAGq4/ZkJEA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/title": {
+                "ciphertext": "7QkWzGftGhwLTV1UsuVCKTjNp6Faqx1YlB//G1NaL0M=",
+                "mac": "zvXdGkogfD2EqyhrbXrcCQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/quests/title-2": {
+                "ciphertext": "CoObh21ytvJRR7Z7/eXx22uPNN+/EPJfzy9dojEI3iV3NEu4OeSU+1kqOrIlfbrn",
+                "mac": "2KA6OvxDxswN1tPBvNAc1Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/0": {
+                "ciphertext": "cwd/Sre88Ynqfo12H5X9t8p7khvp12Dip2MgFRQWfKNyCBtrI1TkZP+mfrtQ5+/6",
+                "mac": "RItwUS3NzTq600pwYjkiWg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/2": {
+                "ciphertext": "trR++7fU1g7mWYAdDtXcaT2Wvt6Samk2eXXWVC6Yr/CrEfDsAUTnQ09wZbvS0jEPXz1YbwLJiujtYaGaOWRd83B1EUTyvTNYb9P+KcDYd0v5lqgpU4yGAhKvNQ60HCwGqkjq574b1nLxhZcuznbTdA==",
+                "mac": "ScPowOpUUgP4GZ3IZmy8fA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/3": {
+                "ciphertext": "InGb27OGK2MFqYnH39k1XGK+MZf10mjU1IWG9RvuN61I4xeK9vQe7na2HiUqsYSkiIZ/vwAesews89ZZklvwoEMymU9OOCQny29ziQdmjb+TfnhnzvIZkiMrSrrDguY6KamnskBly/9yhrW7PRHjcHu/Qg3lkb061cQV9F8Sry0kUePTHmx3z+pq/apsbr6B9hhpF/fMh5pe0xz4i6KalQ==",
+                "mac": "dkUdLcGYjjS76sm/9m5T6w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/4": {
+                "ciphertext": "EyrnfAZI62dodZvPGRvam3xNB2TYrR3MgLIgluGE6S3qD61XISz6k9DUY0OABXKwpgwBwYS+yR9rr8zpEI5q9JGr9tP0rZ7z21S3HZnss5ISnomWqBMFcJDFDZZJh8mAU/hCvE/5KVHhLghFwK9EY5Zagean+ymf1JOjTYOz111jITfzy4jaQU+Fpb9OKiUI",
+                "mac": "YSCYzTYN+e8GkgJYEUSmFQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/5": {
+                "ciphertext": "sg2/KEhaE8kQqB25rx4M1AXzTXyYA6Xyx938VVCrT+Qxg25myxFhq5VzhyTzzqUvfDVue0sgXu+igeyLmwlA+awhPCCbEgqc33aEuCHhJ9pAkjzitQ7qSMHlpoejMdLHqmtAm3YhH4U+LbDU3rizUDenHFoWHsT3UNUZcNcB+RxWONWXue4S/Jy3WUkaZt95CC5/MKydHxMfh3Bqo3wQjA==",
+                "mac": "RNIiNoUXyCQuUFQ/53yyZQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/0/content/6": {
+                "ciphertext": "n0GRqhcXqNmWxQScGeT85hctPf9EEwTpIUN0Pl1oh+eaiN77DIL1oi4Oe+WT94gBilFlqOjv1sYvM8XpNn7CZY79XiH5uS2TOE+FDP0sZK1GN42SlhM8NnnpebcgbdFRGzPJTXsqNslyIKmg06aWsg==",
+                "mac": "WQnRB+bdSXxUwd5gphvDyg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/0": {
+                "ciphertext": "ezGBfsw5dyFHlGE81OQUd+a+/3KujqgRQEEoEswLX0Zx7j40q3e6r6YimP4l30PgQRCqBZgIATH/G8zI1oeHKiHiYJ+xLyvvV/lFXAJXgIjWxE6QbnV0/C13bWRJ+u7O",
+                "mac": "JFv3f63i090tgK4veQjmLA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/1": {
+                "ciphertext": "gI0bjQcmvSe3mAMphYsJDQ==",
+                "mac": "2lGHEsVjXKXSJ1jaFF+jAA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/2": {
+                "ciphertext": "ohj+/h/hcs+3+6dz6p+0owbgpy4NkqpWvbzbyV0uT35CaqRCaMZO2rizhIk2DCI9vHqaUcj4KhNH8dUbRAJjPJ4LJ842A8fmXJ6SodU0dQI8B5FtrW/uHkYeqeUPqCZ8q+zOdpXpOwH0w0cwC5rTjqL/LB6kQN2drXVJR8xcfXX4gY/TwhMU0cJFWT54Rukk",
+                "mac": "FpEL3XOj+iaOChSo2sxhvw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/3": {
+                "ciphertext": "c0dXKF2/M0IRCIxDpra4ABDCF/PLgFjmuut4TxtA92Qt2EHNRHFeapo+nH7rBjoPpk+sgAN5mGdrbDThUyHLYlAA4BHC6V48/Gi3Tqnxs70=",
+                "mac": "SyFjt40AgUibzr1OnXvUWQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/4": {
+                "ciphertext": "kpVdlfxz8618IVGiKRJOH1KnWZJft11N6bRzhldGpojee2JeTUdtfCANmftFKYBI+XZ0k30m4nH8MNQKsNf6o8wmGgupE/IrTi82nNVVy+Y=",
+                "mac": "cbeDIBkrCQ0zTDdAqXHEJQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/5": {
+                "ciphertext": "6/hIX2bZ4I/kf09cuUNY6eNrOTnsmsK7Qdo2DWCDbq/2VGAPL3dZeuN/fnQpTc7htfCtdaeSQjkJrFvNDdm1o19KjXHdc82zD6pTNRSaDtc=",
+                "mac": "p0fdzP2wd8XlHvmp009SRA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/6": {
+                "ciphertext": "Qa0fTF5InB46lDFVJETs+4zLldReXZ/T/Upidek1ahChPnXRj93+RfstSotnuG+Cqygge9A0tN4A7nojl1O1Caf2ei7WZA7eQMBulfCLgJQKvIWDtKixms0WuaQzUW+ibo9bvJRVT5+AHffspGyw1RJuYZ9oKA9hrNHrsNL1nirOkY35s2h4TDza2aOHCu7M",
+                "mac": "y4bnXGJ4HNE5yTsmnY26uw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/7": {
+                "ciphertext": "sdzWSEazFaR1Bo1SvMw5XC3oxa0lZJJHhWY/AYv5vqOWddDuMHpLDgAUJuIMjalIdAX2eypbWpw1UFdS31LHgCIIoQ3P0mO2cbnWYdGRxto=",
+                "mac": "ybQRbIr+4dqluqycs/PVTg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/8": {
+                "ciphertext": "s3PCHXwjlNTBcKaYwhgY30PVJ6OLGMKAW/5TZByZemNbEsRZPySR0lvi4NNH2mdvF88IECcKya23IxDv4bZugg==",
+                "mac": "/xm9NTA+oGJU0bmmScmQ7A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/content/9": {
+                "ciphertext": "7tCMX3OEq2g2WSM29CPyTw==",
+                "mac": "d4c38j7LKakKuPG7CjXDww=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/pages/1/title": {
+                "ciphertext": "vyeYdjQc6IVuIxiPXbb0JRoWF8U4HVkEEETpaE6VqKMqs4MTUIShbQ6AuZL5EpBy",
+                "mac": "Bg1skSzNuxCmQO8+UI1O+g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/save/title": {
+                "ciphertext": "HPxC0eFIQB4yExtZw/C0F2BC0brMd/YxOTbSTOp+q0Q=",
+                "mac": "SlVthxsZBt8Temqw9FUkcQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/0": {
+                "ciphertext": "mpS1QYDHGOiYH2zX5Ht/FZwx2mmqMn72fKHeJKY1oz7ylQAN13+0haJku0AZncPt",
+                "mac": "epEqGbrMAKdnv7H9naU0OA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/2": {
+                "ciphertext": "VNHnCc2brAB1SspK/ZTV20+coXGFLAJprrNbyGOf4dBPCCEUuLFDlE/qWcFvI+ZG1TR/uGo5uKVBmKpZIhrCrudqPI5Lcflz7oREyw+gDSMTzo9/+Y4X+Y3DF7zFdEFA",
+                "mac": "NZW5iO1qh5ea7gn5ikDFjQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/3": {
+                "ciphertext": "JHHC9PeGU3LHNVgoUwCyUtBu5RN3YUguKdK3wnicKr16a16jI96UHAsHBKeLuoBapXQcXG1tK2VSl89RQPzgYVk+jMKpKKI1oHAfbDW0eKj3Dbj20m9LCONzSkwc6Ynx6kbR70b7dkg/n/0+l7kEbSyv21Ytf6YEhFKTRC8zRUdye8K+id+4aOuVB4WowyoB",
+                "mac": "+FMYrWJIfwhgHlMZTD+asA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/4": {
+                "ciphertext": "LBObAKFzmsX9zyoiNJ4RZmotQtdxnJtpnUaOyzKOkrYr5uAx97k9L69cB5Rt3IriSzd/5C1aEEV7fRxMoltc6XG5B1OqTLzGej0SJ6tzML9Y4IGl+IRLSpleM5cTcbcM9x8xv2MQse3XDD77WuGiIpADrh9WVwn9zSo+DCJXJAlkGSlf5vaiX3Lje3xGhJUHBeV2YO5cu0dT7c5bNxK8LQ==",
+                "mac": "DZl0iyvRxYoMOf70LClyuA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/5": {
+                "ciphertext": "DvalCCpMEdPJu+BvJt/qvwHDaM17yZNFQhu6ZNQe3mEjPBUPihgPg8zax+5Yz7NvjaZVu6sOMEej0oyDiCQ5Hv/DtGdrXp0lGfkYcfsV0scSXfmaOT2/ynCku2VUI2cJ2Wjsem9dv8cq8aKM0cTOoWFyzP+3ENYayWAjr0QaRZIfptRh9gMPRYGTtG0gzniTXNxQr7PX36Z3KWGMBc6eaQmK9DjpWXDENWxIAoJ3wObVf2W3OGGQ8dSexC+ly6R1Cv+9TZDc+vzyTW0VUDutsQ==",
+                "mac": "VgXzJ+nKOh0d/Hl+apcbgg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/1/content/0": {
+                "ciphertext": "NKf8vxknmcWRjv37foDiek1oBnC42nGWiVYGs3sLSCe7mTa9NNo0vxag731CdUu9JNACNjg+gNYIpArIBPTJMHcvz2xhwDd2EynqGKYbehIxCY8rmUMbZNJq9MMmVWJcm6j9MyIMeDO5MwphTmkKIq0RmLGuc/tZYdoYgmX1hEMmwjpzDfSJyhqqhzQLK5lF",
+                "mac": "8Wq6OUGSd+/AZdctOgZ4RA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/1/content/1": {
+                "ciphertext": "QJ4y5mulX2BMbvKBrv53POSJbQxCUudnu2FhhD4XrjhUz4xAdDoi4KqEo/ZeP3H469qV5YWhaZFVdYlJpalsSbeCAzNXlwCMj2xcfiwHp/mOUo/rQmX1sjlBEinkRBvD0fzWrTP6sFfaLWXi56uf9C9Qp3RyWMKLLysZWRfIh+3GKkoDQ7BrVyENBR7DXT2ToTcZmeP2ZTgqvGxigXuwOv6JMl4AnYat7P3T/RmykjM=",
+                "mac": "aY1HPPblXYFFfULZw8NQ7w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/1/title": {
+                "ciphertext": "OGgdC30A0zRkI3lxRBbpwWLAGflqKp5OCCH1RIBLIszGA+5K3lnYUyRDATiAbUKV4VqP2lLNx0rtDrb9jnVPWA==",
+                "mac": "63La3bhI7NwYWo3KpOo8Zw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/title": {
+                "ciphertext": "wy7fFQN32pMUAW0p8QQRV78WPiypzVGLqO6sFgtIhRM=",
+                "mac": "mAWdmN6r/IB5vzr2wgS7yw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/0": {
+                "ciphertext": "G74o+SCufvE4fD37MAZLW3jwqmbXKF91/bHMMZqjAAYXTjGsYEOAxNogTFH3gTNF",
+                "mac": "b3XXtf8SsHAsjGgHkBZUFw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/2": {
+                "ciphertext": "3e5CusS3JgJ1s9d6NZhZuiHYX2EPPjCSre5PNOC0gFHagKcz8ju8ROcGj+55y22grDBQ8F/tWXJT23BnrFmPDU1isiQkHgUljtfz6uzvWbhz2YuDOO8dW3AvbU0isNfj",
+                "mac": "argnurlDZL6sy5vbtGI2ew=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/3": {
+                "ciphertext": "SRGW4FSm1mCLg7BZRnYp7cJp/+y9sn5J4agGYrrMF5SNSYUi0pJBocSMjVUu1oCZVmFd7EEinh7PkCrxU2Fh6784LiuHIhnQQI1Wgrr9ikgnIdShV81e+ugPyYM7Xw+t",
+                "mac": "SMjp/4eTGVRXBRZohJzvaw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/4": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/5": {
+                "ciphertext": "u7cBWf4m8Y7vnwWgtqh88e20/G3YnRd8QTpbZk9Dy9hfjz2n9fDZa6a1c+i8m+nduuTMypxV1o/L+KwXg+Zsjrs84nzpaJxE1OF0Qn+8YF8F/nSdQkQWY0wHwm+eGtthfCtg9821XLdYqRoN3Rqykg==",
+                "mac": "vtH0CLZep6/su+9EMJBtAQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/pages/0/content/6": {
+                "ciphertext": "IP01wd1pcLLc44euBo5qUlITieu4h3MwrINtLuuZJavdJFmA0fHMR6+Xi9woEA1V+/PpGBXxydY9bZBkk035WyHxnxzuHj5FCuuwRZHUJ72Fk1L0O+cuDb3MLMD8mdu4KknAIlk8N1SuZFnFLpjfRobCpHDa8DZjIkumGyrWXHs=",
+                "mac": "GlMuhapZMvPnghrp6bpL/A=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/social/title": {
+                "ciphertext": "jKCAP6yQL0sbYDHnPbb4yjCrwlK7qu7QO92WaOv4J6M=",
+                "mac": "pA8EIASQYUbmEiAjSIHvZQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/stats/pages/0/content/0": {
+                "ciphertext": "mSamIx+hYWf8/tr27OHzOYoHqdScmMPadGv9PoIZyjJ+pslhsqkqBa3gZflxD5TM",
+                "mac": "/+Q3p2dkDxmRywFRtDy/zQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/stats/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/stats/pages/0/content/2": {
+                "ciphertext": "7QtEtlnUULPkUesk3ddvduyxyYbYBZCSN+rmyyO+tgpTYOW9VAhjoHWhFJWVu6rWZfK0L/zZ0iwfbEq5CF73wSKixd7U2LhxmBT6KXHy7JjAllwgXfUdqeQlHTE1o7hK4u2Lz/5+RK4x/5dproayjI8fdc1UtDq66dpNK8685pNIdKKdy3BMCGtXg0XmyuJxUkpwvhL2rBpG1HIM2QYvfifch5P2gkVy2VE0rCMPz4ZB0bmBdZr3p46LTmPKG1wBjLe3WaxwhLAGySkXg73Qe+wiWD7mH6pRqbI1AVJWvuZBavsfxPxxkOsis1TTwtpxrF6HDc7cwhPyu4tRzP0Xpy36lNY5h+zgKhTBG6NViQA=",
+                "mac": "0bZkIiBJgACplPw7lkVD4Q=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/stats/title": {
+                "ciphertext": "HzCyTU5bEUEuchNaWgpi3sjAoZi2FAjBj0XBdOAmivo=",
+                "mac": "G0O8Vpb1tYHeyYbxG1GjpA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/0": {
+                "ciphertext": "mSezcqbKWgnU/Du49w3sZPvyYZo/6/Gjkahx9gIgdXcx2XGW3/anEdGA09F2gjqA",
+                "mac": "2BC7airtQcJr+jpow+lBFg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/10": {
+                "ciphertext": "7tCMX3OEq2g2WSM29CPyTw==",
+                "mac": "d4c38j7LKakKuPG7CjXDww=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/2": {
+                "ciphertext": "FEYpiTbHIMrUUc026OGiTjTj3yK2Il2fKZ7TDRpmw5NqrZOhLfiZ0V1fUPNS/N9S0McB53jp2ZJvDbkVFv4yMBlQUOJaPvq6MbEPrbyzT4Q0Rx2jGBhgF8XNmZsrGCYx/xLbbqRKicTdE/YKJL2VLw==",
+                "mac": "+yT3GWaiW41quo8ZCwm0xg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/3": {
+                "ciphertext": "EdNdfuiW+cCNWAbpzLklFMKRZ7jf/FYZjMkO8xZWe6x4ZW2FMCYRvGCXTX6rHiRWlGnnYaLnwmRIkU2uuLAmgaR/qXumOso0U/qVilTl4ucqD9FeDZr3hmIM2tnbd8rY",
+                "mac": "6/ZD6vwcGW4qK2XjR8P4vg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/4": {
+                "ciphertext": "9NRXjNjJ7hQgTJGCvY9Oe31bQI6QpAWEmRfVLq8eXcAWuBbKTj8ZZDUeZ78mHk5Bwg3fgUTC8HH7cdWphB5yJ8NDuuHJalks3CRwd3W5H0NK7UiYkvkiHY5NVBq0CsQg28E9uDagLqx4MiyRoA0MpZBSZLVSGO3unbKDmatIapg=",
+                "mac": "p1qd+ZABGxVpnH+kWMuP3g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/5": {
+                "ciphertext": "25rcY+lVRz5M3IRHqkMaGw==",
+                "mac": "CxDW+tD5FgxHujg6Mm7eZA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/6": {
+                "ciphertext": "b1P51zzogfr1cqxMWEyZPnyaA0WVPqMl+Sy0/ito9eY=",
+                "mac": "x9/N9iBTy04k3rjgxtdeVQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/7": {
+                "ciphertext": "sjxVt5j4K0OBlx/bc4CQ837Tk62hnuclEt6uwqT2E/s=",
+                "mac": "Us6HevVzqIXAmIkNIQR8CA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/8": {
+                "ciphertext": "ufqG9KrMB3QMTx7kV0X4oudeBc/9z0YKzI39+wJ6RDk=",
+                "mac": "uEzheDMUDiGMwa72IFY/cw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/0/content/9": {
+                "ciphertext": "umINWL22GV+Dh7kbJR+VCFX1ImVbhb1X3J5Nm0vHMLk=",
+                "mac": "dIt72uax3RPmkGc+0t+kRw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/1/content/0": {
+                "ciphertext": "QOlUCiczhEj7XcIIyxyhnYqE5CdrvEb06KkqV9O9oruHpMPfJY+43N/FydFm6BfqWmvSPsz1EKvGAXSacpPbvEdZicCV0AAuqKaNfUOGiP+YCisGmAxVh9WE97YyJdeS",
+                "mac": "crH8Rx+lLGnBGuIaeWidnQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/1/content/1": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/1/content/2": {
+                "ciphertext": "c9aRxz9zhDj83nY5tkXtLHpl1gGFwj4FML+/3P5x+94dqVEL84n1ikBea+VcvO7CfxHKL4C871XF6Cyh7ohLOE/GEuEFx2VDptG4LLqTYKu3jyFOjVYkHuIrSZYL9eGRHjQVaMG5uF5WIDCSHEf3eoSIB4llE4cC8zMINtTuL1l4zFGl8UyJ1qaujxmQ2h6VoFdWJcjfvKGCOefL2DmesQ==",
+                "mac": "CAIAuXyLWbQtz/48Ciy/dw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/1/title": {
+                "ciphertext": "1PUGUf5FyAgVDA0QI97Eg2Qbhbr6XvRzFoGhYeEsVt8vn3Jxba+huULhsOEgTNfW",
+                "mac": "xDd9nDfcmscXTrrfVz7Log=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/2/content/0": {
+                "ciphertext": "RGv53YMOs/Eq4okt2hPElkMUJl/JtL1CQYpWqJnzSoK0Poa8uTE/0NXIXNVC1at6hODBkzkZ4WcZSwyuXOd1kFI26Hq6cQJky8rRpdVA4X2lYDhzmSZ750oLhrI6L8+Y",
+                "mac": "tC4AxosiU4LR7oP3b6aHcw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/2/content/1": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/2/content/2": {
+                "ciphertext": "mA11Jf+hpHgcUU8GlQ0S6r1WYxceH5EPUmafxaA9ViBuD21GKy6F6fWfT85vjhArVT4Zq7UXFk3ipq7XsyIUEV22DrEcrRLRaNIbK9XtAy0LG0/MKxj/iPcBPdfHDhUfuvyUcuN4LCGcXVDTGgKoVojMIDOzMfKn0+ng6Ekuyh1xe/HvN/8vmu/0PABAc0bQ73JgM5QLaQrKvJAUSa6JhCAsTm3Sn7pm57X/1eNHHvLOzoBcXRCXHQVVY1zs9BV/lL6fz0P39JuqZdYsv/AD58xENrJoPgAwqlAMKrPSzKrMaFGr6GaarCkg4E773mWAaYmRkquL4mLRUJ/8Egg+N195D0HScEQeuoHJ4mU/+9A=",
+                "mac": "R7nBXS0jwF1Y/Y2EKJIhNA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/2/content/3": {
+                "ciphertext": "HOvkld7LDtkVyq2Xl2nKfRxuQY+GnKsWbP04f90BApbaNvV5d4zI3aAZDtnw9WpIhJG01XvLWSZxjD2JPfK/9v9CQ3SJAwRsnTWVSj/fJTA7Z2MvSR9//ZeyOvWcI3CsN2qRrmr2vp4kmqmyACWfrA==",
+                "mac": "HQW/JHZlmittpYxxn8kEGQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/2/title": {
+                "ciphertext": "EOtVIOkffC04WdL0Ctnf01b6We2v6Gk38agBNjpVdVKwFQh/e3phxcGhvScwc1ro",
+                "mac": "7g2d7kssk2FgImIVPBCRng=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/3/content/0": {
+                "ciphertext": "+PZm5uIVavSDhXtvEDaJ6ctyJseHA2i3GzU/Qrdwwl4cGZA4uq8ajkTjd82IJ02wOgEQWf4OdJFgRMHg9KPXtEdELcvHVExUm+GmnqE0JD85cwTe8YAHXXFAnCSvlIg3MC4NUGs/CxJP8dn+dyC3XQ==",
+                "mac": "OkAT9ZZANyXsaH/+9CPOqg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/3/content/1": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/3/content/2": {
+                "ciphertext": "Uu7xweWa2Kseru5rMcpL8R5tUftXvd+si+pgBHa5lZ6+JEW3sCmRy0YR2W5w5OdaI+RCGjwgAEek4DQd6XN/8Ytu1BaIxgwxvs9mSPYjfxwEKZviLtkfddC5GZ+2EEhF7havac1KIJ5XhJmRGPfDhVhhC9IP+hU74aEoTZPcX3+18i7mUonlSVHFQWyaO9fzngsa2I/7ErF0/4n7gsu6VsjSAxrXocSdBLO7TlR5eOVfMrkQJI6B/6n3Vj8w2VxbHQTx61Rbc1EPhbjhGLMQgOalkHqniak4QiSx9ohrFhA=",
+                "mac": "x7fTuuQKnM17EKjIeDpBYw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/3/content/3": {
+                "ciphertext": "K6aJWp1/DK2w7utgULdjfynCi04VrOXbpopsiPI0KYmslP6Juf4MoxoDxRIXZRdh7Zv+lEWs809ZotHRm91ITq9gtzOXg/AWkppqWf4p8iOncGBE87s5Rze9ORrtHjyWgqRG6+zjN4nzaDPjYoxrpw==",
+                "mac": "vwOb/4EUuNU4bGPNyx+6nw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/3/title": {
+                "ciphertext": "6O2FlUUzkAkFJsbhgQ0Jc1YTj6SVoLHc/AHqljPd29uUmKgAH7dPjF1Oxm1BEJI8",
+                "mac": "U9A0Tf/XZm5PsRITN3dYNA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/0": {
+                "ciphertext": "p91YYMzKh4jKa3ZUvDoXcUhfpQ9jx8z5aDMzu27crnmR/q7BCAOd/LZ8nfVPj9S4Igw0dm2TaIPmMordUWXY1AktfFKcQqb6vgWhA1dgBZRqxGkMUqWRxub3QSRtujbIwnjQaRg0jhEsgVQrv/aAQnJclQIYunEbDaPrsTgZB7fGGThRZ13hohdi9UfgN4SuiAlUhQy4Yp2bM1e9Vrvv6w==",
+                "mac": "S3btdsrln1zM8ntXN/okow=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/1": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/2": {
+                "ciphertext": "1SuIzWZve1WbP8GB9ABI+N+zxjUdTd6XwC4KmehEafNv4xZx67RuSe0lFxNwVLBL4fo4Je9f5lrl+NL2oLd4qox5VHSo2P35PSNYHemWWxrl/HK1LhmEyBwOZ69YbI2YYnSou3KjYKoSgR5lAcVaxpS/91uBr/x6QEMaVxV80wXYF26MHr9FbeO+pssWdHgg5f3JRuaYnPGULyBFbQFV+w==",
+                "mac": "wvqzmHr+IEEBo7QJcwdzpw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/3": {
+                "ciphertext": "8IwUSzYlc2q1JRWIcJjpbXeEbwaK6Vmm/G1paJJ84PPTfStmb3XrJHKs9CEub1aNd82X6+SAWJXLyjg8ug4LOz+vfp+p9Bv3n8YJrDLJXAXsnD9ncub6wkcqMXM2btmeT0lY3+Hc24w19bME3qV8JQ/1q1VgLKf0x9fZNJkEi+chhcwP1QFkKp4ld1D7c6gzSRynWwpzXWDQW0PLe0q5EEZ+/icx5OK4BErl+B3HQDcpwqE36ryZ0zSLJyB4Xqm0",
+                "mac": "rN3SsKxDo4v1RRGNsLWbBg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/4": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/5": {
+                "ciphertext": "jPIymYp8SLSrmM8GCPvXBrBR6/hI3BNx4E5VEhZoCdxXzcU9vEonRZa3oDXbcelkLouqzJ+GEc07ylno2E+yIAOiJ7AOQ6zanbV5Vy4aHNEgwhL79lgYQNfU3qJjFwp7pj7qo9zCAskb3JIUJP7JDx67EQ+TElkLJoQKf572gqJ+tJULLRNhGxBxE5axKcsu6/cm6yBBi2h4lucaMUlD7A==",
+                "mac": "+Z+XzS75GFl0NIVequleWw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/6": {
+                "ciphertext": "uxd5deAMnT9QZ9rqhMtWNA==",
+                "mac": "IlTsi9TMnyIQ+RPZgxof1w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/7": {
+                "ciphertext": "tJ5JwjH/7HCZSuCtiWVDFQb4ezF2uqF7nuoYhUJ//ersIHZTAVtBILfBwo3UoqoaGySKjRoRczrAmjR3wHZdnPzYkcE5aACff956BZUlsgg/SLn6PdMGfH4Dwu8kCeEJ",
+                "mac": "3HdD70sMeZ44odNX0dp3Fw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/8": {
+                "ciphertext": "DcqY32dnUVYYFPvhbzsp38nF9DnIj2kY9dIC+MukztQCYPoUlVlRG3xGb+XsII/p5MCXPS6XFLOzHysTMT3JS64eqVa7QsQVJZ01tb91yYdP5ZOrhR6UbGYw3dudz6otmflIcoK8hZX4W6ND/mdKRDBZqc+FB1ZW2GlCuOVptHY=",
+                "mac": "kXdovDhLTOtrIKuce5eXNA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/content/9": {
+                "ciphertext": "7tCMX3OEq2g2WSM29CPyTw==",
+                "mac": "d4c38j7LKakKuPG7CjXDww=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/pages/4/title": {
+                "ciphertext": "9OoL/gWYALzwk2FTYoNlFqAweQHtUJg5ZVoMeevdj2V7bJYJqpC464RWjY5IYKc6",
+                "mac": "e3GgYtnRx2KtDNMmvnrjJQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/status/title": {
+                "ciphertext": "X/qxSh7i05l3bfIXBcwyx3NyrPfEU3sB1URjsvz5ils=",
+                "mac": "53epI595iEPqpdXUFCMcFQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/synopsis/pages/0/content/0": {
+                "ciphertext": "XLQ3+AGmfgeKXE3rkgSowKMmdc8N0tYarFF+3nlKbh/2W1u3k/6aRKknGoTa7kbX",
+                "mac": "kfME/UJLtHPX4rQ0wEzpEA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/synopsis/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/synopsis/pages/0/content/2": {
+                "ciphertext": "bWTqaBOMSyCAbCJsoa1EOxJGfxZh5wtBY59MHQE/vB9ZjInRFXz6GMud2njiMgdRx3tb8EBOdFlKRL1VGzbMWGR8VLZuHv5xAZXOh3IpBHBjKmbBsmPvTraEtnhGWuDDFz057TS/jH6y+xoa9Lk9Bk3GQdOylGCCz5nWXFbAaTk=",
+                "mac": "+gb6h31g0dAQxspSh9PDxw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/synopsis/pages/0/content/3": {
+                "ciphertext": "VA/mDMEz95tvrsZpsz3ZXRqLVU8qbYwk2dNiS0suYIi2h0AvnW/QFp9NUMVw8FSOuom60eW1qZcCiud89eBFdzPFphdZC7/UFcmKX4uGZruxFIrLUs2TmSuPOxpnXSLQ8CxcEycArQedXS4Iv+wmpY3WWwnqZWEWg5CIdDMcGvk5qtF3OaFRx8/TZ3Haaf9M",
+                "mac": "4sNtVCYJUyB9jevbobL5Sw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/synopsis/pages/0/content/4": {
+                "ciphertext": "PYjAialWU6mVuHHr+/2axBvyX737sj8ObmIBertCas+2sSToySXFnGVAucFGXoDi1ElnNxz3Ehb7//Xy2khdse2R61mT1jV6vSk1e0+RvLx2JLe8cYKLiWxr7emNREMsQYEmrn5KXvwU6cuENWKhmw==",
+                "mac": "+yW0yn1I4oRDv28Q07iDtg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/synopsis/title": {
+                "ciphertext": "e2Dzz1yKmZNwn3r2Zbm/cez29dNwy/44tH2cQkRM4Bc=",
+                "mac": "wchWMKZuBDLTQS8CDeQPWg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/0": {
+                "ciphertext": "/w+hHR9hfE3g8vhc9mPkof2m1DyJb2i4uakRF8fExpEvIljg+sJss5vcKAMaTQkq",
+                "mac": "jeHZUVNfjglvmBIcGviLJQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/2": {
+                "ciphertext": "vb4L+turyMi/Ag8F7LzCwFA0c834SIm1Px8aTi9RGrSUTurk1aSNrhvw9NhKDlD2xSg0n24R3R3aEq9YIw/kf4dZsLvqaUlUXmi7PqklVZArTZlNVonEG4ndN5au/X9VJHP/Y/DMVQK1ZzPOuWqFz75wDJWYAkfy8jAnYjj+52QwhMHKwcSgV80l+CI0xcOF",
+                "mac": "S/NRj1I/oflnQLKcWTWK5g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/3": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/4": {
+                "ciphertext": "JrbTN4TvbOQICUX/iJUlsDItBUHWXzWqI3NBlqZmNV1uFgYxgDsMYCn+cvGLjZc7OB2JTg3yemOQcgEzHCLvT7YJB8fiCeVdRKqUbEZ5MSm7q1y8QXqbUwlizMpCHMazJ/uRVBfDpPKr3Rsiia77FDu5p6KMEEQ3u8JvcJ/llkI=",
+                "mac": "SlHoaTNLhJBrYHSfnsW8aA=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/5": {
+                "ciphertext": "GEudBdmgywlL2k1u4LbfCgM7zQXslsrHP4ggYfuI8RD14lQimr6LbqMrR4pPKteoDbfys8ScILbzELHQ/6XysJ+l8kXYltkNZF6FOX5Rk1j1ltkZSxBSc+cI3+fdsjQWG1k5sNQbhSOdKb28GkJn9jC61Va8VNJee7aUXIIbFNuFKbY9joF+2f+xAS3tlKkQw/VSG9+uuHh3/1o/TzqwpsMmqnu6iGpG8yVUXnUCpio=",
+                "mac": "biqfgkJJHU2af7QReERabQ=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/title": {
+                "ciphertext": "cRgNczhBKP2mUOeGt3C0cT0AgmO5O0ueFVrVyAu/vIE=",
+                "mac": "0EAp6PVRdUCRKXAM/lI/1w=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/0": {
+                "ciphertext": "kywmnGqmO4sFZgGMK+ZJj/rvlmV1+jw5y83W3vp8Svbqy1sC3YE9ZPbl/sCvdn9m",
+                "mac": "LSQtDvqu23oNTjjGXvr8Cw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/1": {
+                "ciphertext": "Z2QSlsGGKW4a5YsBjwA0XQ==",
+                "mac": "KM0/UDt4I5XtLVHcjgK+wg=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/2": {
+                "ciphertext": "HX2oo94pDzdeIUNaB4Irb3JtlSqkpEFMq0c4wX68fMQXi6/9QSRCg5zh5ZKkkYd/q5wJi8C1IdC7NgAQn/9UAhdGp1SxTC6FFUi1cSid9wgboYrknW51iIrRVYS3M7XV",
+                "mac": "psq190FNGW1hR0+F3JdKug=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/3": {
+                "ciphertext": "qFVCBKM8bv0ZT6U/PEVfzYZLmip7roFFexX+H2XerZYR6i2fS6kuETlT8CFvQlLB4uyFjsE/Lxqd8hNV0UQYAvhMm489g5Kv8pdPMxvXqxY=",
+                "mac": "itZoOng3exbbmv1rDPa7ig=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/4": {
+                "ciphertext": "ptaiQmg441H1WCut44wGjAuh6XUYX1nJ6tpOVxXwlweAzo36hbhB0+Co1bwoAz/SW0Zwi8aARXXL/8ZhH2SW5bA/FRw/THTThhAGAV61fMqOH+hfR4uiTW5yAsSVDjuk+5PJ0C+Kw8Og1pI0gqp5BJI0R8bYuQStJzBhvsUaG5KnX3DQ+SBjx5B5x2SLhN9e",
+                "mac": "uVDl7cVHTuJszC2g1RzQ3g=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/5": {
+                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
+                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/6": {
+                "ciphertext": "J6tPQjIOWpN5teZF3c963fN34tTUD5C1Lzpaepd5zf25sl2ILLsFS4OuwMuJ/RystBJDbPjMWO9qqraGXnmb1RP4qNwm3UTwCfezH3/y+2hu7i8N4X5o0248ppP0611vVH5Nk3M8/Qko5jXclD+duA==",
+                "mac": "YHLguviYHVUfYI6JrnLNUw=="
+        },
+        "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/title": {
+                "ciphertext": "K4cX0kbP+RpcRsLXU071kVkMSQcZjRLRQq9Ctos3VnU=",
+                "mac": "vm2EvF138/xe8urpDAAHpQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/help/arena/description/avgLevel": {
                 "ciphertext": "90T8Q6o7N3P+s1y3En01C39M79NAfmGSvbM8nWd7VwE/fdyMTItIAl33VOe2DUysIC1rHThnoe86EFsIlLktMQ==",
@@ -2556,8 +3436,8 @@
                 "mac": "Ogh6DiM2OPjFmoG1K/Muzg=="
         },
         "lang/sc/gui.en_US.json/labels/menu/menu-titles/shop": {
-                "ciphertext": "PVZe4SowIfFsLhdL54m5aQ==",
-                "mac": "+47O8BdtdN4amNY4N+Evuw=="
+                "ciphertext": "Q8iYOpHKB7PD/fzV1llzdw==",
+                "mac": "F398dneNqS9hQke8MkQF3w=="
         },
         "lang/sc/gui.en_US.json/labels/menu/menu-titles/skills": {
                 "ciphertext": "T7HGozwK+tokdlRxFQL3IQ==",
@@ -2584,8 +3464,8 @@
                 "mac": "i4NBlFjZoAjkQWdFOQmMJQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/menu-titles/trade": {
-                "ciphertext": "YKuqZMZ3Hd36IQgnkdpYiosq29J5Ucgz8nNSQwvVMG0=",
-                "mac": "VO9SvCucRa+oejJUh6d+/Q=="
+                "ciphertext": "7S92XfIiYgeE6yAB1A5/hxhpg0pTk1cYJiM84vcgxQU=",
+                "mac": "EhRky5XRunvCcbDxoXGWrQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/menu-titles/trophy": {
                 "ciphertext": "tdGiEaK/34rQk21x4Z7Klw==",
@@ -2780,8 +3660,8 @@
                 "mac": "mC9wmZ7PcFJSg/9SispCDQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/names/keep-records": {
-                "ciphertext": "WPQnmvL5w4c+HQZeeNy9dOXn8cYQMnOJKeLPyLD1aP8=",
-                "mac": "RSD3Ph8o/WAiAXUN5NwDQw=="
+                "ciphertext": "iKJIedvREQwKNixKt/IDZWKmCV27zdf115RDuW/dg8M=",
+                "mac": "YjFKFnkCqOO1dHQQZvxAvQ=="
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/names/keep-traders": {
                 "ciphertext": "AKI1KdeKVEgTnW+gob6zAzwJF0asHK4FR8g0qnGEJ4Y=",
@@ -4620,8 +5500,8 @@
                 "mac": "GMempNe5X/nV6VR0wJt3Zw=="
         },
         "lang/sc/gui.en_US.json/labels/options/assists-description/description": {
-                "ciphertext": "gCcPL85xXzfvSOD2LiPdv8/zPh/sPxpfz6yC+at913i6YlsS8a2O75GPQ5AiHEfFULm2Ymmi3EFP3/Rf+A8InWKBREQsb/4MgpLfKzq8Vka6kLeU1pOztL8jLnURzSbY72TeU3Tiruuci5lu1U5/QI/fqm/9emQ1hi1EhhpGAyAQv8uJ9aK77WG2tMdW486g1+6okvj+WV/B5+TjclmY/BAXnOjO4qZZGDOgGSFq/40Da2WrTjX0CShBqhNqk3QtisfXxooQ4/ccs7vlHW/evJ9dwbr7Y3IRmvhEfT7U3q9lbTa1h0TycdPqlnxpAT9G",
-                "mac": "XzB0iy/l/1FuURRxWwV5Qg=="
+                "ciphertext": "gCcPL85xXzfvSOD2LiPdv/BIjFabQMDwJkUJvtKf5HdApR5FJnQRMv8sAcnkGPkGHKmY0m/Uv0t+ttqtOvmIAT7Yrt8Pt7wWXAxKwZ+2HxxJb1YOtktlZnXp1+6Pz0cPvQdYdmsyERbsnGMO1s2zw4qLv3MoWPdrcHbaWBfSmd3VEGTMl050jjZG3hxQLwOWPr8rkNnOJ7mgatSTudYarEPIMhhn76a98GC5JmL71KdZ/o2YYBlt8I1i9rzZZKtNaBv6A5hRYyKVDiz0JeOLBKSVv7EoK79perEjNHbOOBEIt/taHQvg0XEAhqizmklJ",
+                "mac": "CS1jQQfEb7r0BWSaePumKQ=="
         },
         "lang/sc/gui.en_US.json/labels/options/buff-help/description": {
                 "ciphertext": "xKniFzuEc5PeYaVGARvbRGbS8afyjE7h3V2muH7TgqQkYsR3F9QoDQo1uSHvv5ZeKGqtv4Z/uw6e9CWMdNsvuv3zuGoHYcj3fR90WCduaSI=",
@@ -5960,8 +6840,8 @@
                 "mac": "pOdxSTUKOZzaYw9DPezjQQ=="
         },
         "lang/sc/gui.en_US.json/labels/shakeit/pre": {
-                "ciphertext": "LRVSZe3+ucVHWMCVbzzC4i/MLFlI6SnqfUphho11KgGahdiLsCKYpMG1n/CT7nJzkFjm4Z23j/m1nzVoDZndMzg5lao3762YAgwMFiIGMdg=",
-                "mac": "IcVG1t6XcpBpYfykO9Zxnw=="
+                "ciphertext": "LRVSZe3+ucVHWMCVbzzC4i/MLFlI6SnqfUphho11KgGahdiLsCKYpMG1n/CT7nJz745kE8+ypwd605jeOskziFelstRtWHXMwtTZHHPJwfs=",
+                "mac": "pGyaQuVPrz8AoqPI2ml2PA=="
         },
         "lang/sc/gui.en_US.json/labels/shakeit/second/0": {
                 "ciphertext": "ovlwiQi/8MIO7aSWFCFAzA==",
