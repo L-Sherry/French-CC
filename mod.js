@@ -40,32 +40,31 @@
 			text += '(' + result.quality + ')';
 		return text;
 	};
+	// font patching: make a 'î' out of a 'â' and 'i'
 	// font patching: make a 'ï' out of a 'ë' and 'i'
-	var figure_out_itrems = font_context => {
-		if (font_context.trems)
-			return;
+	// font patching: make a 'i' with an accent picked from from_e_char
+	var figure_out_accented_i_patch = (font_context, from_e_char, to_i_char) => {
 		var trem_rect;
-		var base_rect = font_context.get_char_pos(c['ë']);
+		var base_rect = font_context.get_char_pos(from_e_char);
 		var shift_i_x = 0;
 		var shift_trem = { x: 0, y: 0};
 		switch (base_rect.height) {
 		case 7:
-			trem_rect = { x: 1, y: 0, width: 3, height: 1 };
+			trem_rect = { x: 1, y: 0, width: 3, height: 2 };
 			shift_i_x = 1;
 			shift_trem = { x: -1, y: 0 };
 			break;
 		case 13:
-			trem_rect = { x: 0, y: 3, width: 5, height: 2 };
+			trem_rect = { x: 0, y: 2, width: 5, height: 3 };
 			shift_i_x = 1;
 			break;
 		case 16:
-			// taking an extra row of emptyness to erase i's dot.
 			trem_rect = { x: 1, y: 3, width: 5, height: 3 };
 			shift_trem = { x: -1, y: 1 };
 			break;
 		}
 
-		var dest_rect = font_context.get_char_pos(c['ï']);
+		var dest_rect = font_context.get_char_pos(to_i_char);
 		var i_src = font_context.get_char_pos('i');
 		dest_rect.width = Math.max(trem_rect.width, i_src.width);
 		// must fill this blank
@@ -92,7 +91,17 @@
 		trem_rect.y += base_rect.y;
 		font_context.blits.push({ from: trem_rect, to: trems_dst });
 
-		font_context.set_char_pos(c['ï'], dest_rect);
+		font_context.set_char_pos(to_i_char, dest_rect);
+
+	};
+
+	// Font patching: add î and ï out of ê and ë
+	var figure_out_i_patch = font_context => {
+		if (font_context.accented_i)
+			return;
+		figure_out_accented_i_patch(font_context, c['ë'], c['ï']);
+		figure_out_accented_i_patch(font_context, c['ê'], c['î']);
+		font_context.accented_i = "ok";
 	};
 	// font patching: fix "éèê" which are horrible.
 	var figure_out_e_patch = font_context => {
@@ -130,7 +139,7 @@
 		font_context.clears = [];
 		if (space.height === 13)
 			figure_out_e_patch(font_context);
-		figure_out_itrems(font_context);
+		figure_out_i_patch(font_context);
 	};
 	// Patch the given font.  Easier than shipping 16 modified pngs.
 	var patch_font = (image, font_context) => {
