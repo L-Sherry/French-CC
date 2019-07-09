@@ -1,10 +1,16 @@
 (() => {
 	var normal_nbsp = '\u00a0';
+	var normal_shorter_nbsp = '\u202f';
 	// This is normally U+00A0, except the game uses /\s/ to check for
 	// space to break, and it matches, so it would breaks our non-breaks.
 	var our_nbsp = '\u0080';
 	// This would be U+202F or something.
 	var shorter_nbsp = '\u0081';
+
+	var nbsp_map = {
+		'\u00a0': our_nbsp,
+		'\u202f': shorter_nbsp
+	};
 
 	// The 1990 called, there're telling us that our 'é' is a copyrighted
 	// latin capital letter A with tilde. We told them to use utf8, but
@@ -22,7 +28,10 @@
 		  "œ":"\u0153"
 	};
 	var oe_regex = new RegExp(c['œ'], 'g');
-	var normal_nbsp_regex = new RegExp(normal_nbsp, 'g');
+	var normal_nbsp_regex = new RegExp('['+Object.keys(nbsp_map).join('')+']',
+					   'g');
+	var filter_normal_nbsps
+		= (text) => text.replace(normal_nbsp_regex, (a) => nbsp_map[a]);
 
 	var text_filter = (text, result) => {
 		// not in latin9 nor in the font. Don't feel like patching it.
@@ -34,12 +43,18 @@
 		// there is sometimes the need to truly encode a nbsp,
 		// e.g. in the insult generator, because the game will
 		// internally append '!' at the end.
-		text = text.replace(normal_nbsp_regex, our_nbsp);
+		text = filter_normal_nbsps(text);
 
 		if (result.quality)
 			text += '(' + result.quality + ')';
 		return text;
 	};
+
+	// Format a number.
+	var format_number
+		// toLocaleString("fr-FR") uses nbsp of course, so patch them too.
+		= (number) => filter_normal_nbsps(number.toLocaleString("fr-FR"));
+
 	// font patching: make a 'î' out of a 'â' and 'i'
 	// font patching: make a 'ï' out of a 'ë' and 'i'
 	// font patching: make a 'i' with an accent picked from from_e_char
@@ -184,7 +199,8 @@
 			fr_FR: "Fran" + c['ç'] + "ais",
 		},
 		text_filter: text_filter,
-		patch_font: patch_font
+		patch_font: patch_font,
+		format_number: format_number
 	});
 
 })();
