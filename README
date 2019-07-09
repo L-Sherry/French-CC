@@ -5,7 +5,20 @@ It's far from being complete, and let's not talk about its quality.
 Feedback and testing are welcome.  Suggestions for better translations
 are welcome, as are snarky remarks from grammar cops.
 
-CCLoader and Localize-me are required to use it.
+Installing:
+
+To use this mod:
+- Install it in a sub-directory in assets/mods
+  (the name of the directory is not important)
+- Install Localize-me[1] in assets/mods too.
+- Either install CCLoader[2] or CCInjector[3], at your discretion.
+
+[1] https://github.com/L-Sherry/Localize-me
+[2] https://github.com/CCDirectLink/CCLoader
+[3] https://github.com/CCDirectLink/CCInjector
+    you also need the mod-validator plugin for CCInjector,
+    if you haven't installed it already:
+    https://github.com/ccinjector-plugins/mod-validator
 
 Contributing:
 
@@ -16,7 +29,9 @@ make generate gamedir="/path/to/the/crosscode/assets/"
 
 Will attempt to generate a big JSON file under translation/french_translation.js
 that you can either edit with a text editor, or add more translations using
-jsontr.py from Localize-Me-Tools.
+jsontr.py from Localize-Me-Tools, available at:
+
+https://github.com/L-Sherry/Localize-Me-Tools
 
 You can then use 'make gamedir=...' to update the files in packs/ and commit
 them.
@@ -24,9 +39,5 @@ them.
 If you can't use the makefile for some reason, then read it, it's not
 that complicated (erm).
 
-CCLoader: https://github.com/CCDirectLink/CCLoader
-Localize-me: https://github.com/L-Sherry/Localize-me
-Localize-me-tools: https://github.com/L-Sherry/Localize-Me-Tools
-
-A quick introduction on how to use `jsontr.py`:
+A quick introduction on how to use `jsontr.py` is available here:
 https://github.com/L-Sherry/Localize-Me-Tools/blob/master/doc/SoYouWannaTranslate.md
