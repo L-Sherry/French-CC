@@ -77,8 +77,8 @@
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
         "maps/rookie-harbor/inner-harbor-pub.json/entities/69/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "WWTAoNw1B2LtjJ0p/8wlwLN4pMFQMe3eHai/Ipthvk6972/3dxNGTe+9vNpo+LOUxp5o7RM80GqA+kPAavjIVNYQ+gDvh37wgN/8/qofl/rL9J3O/ETBPnipUK1IjN+9",
-                "mac": "Bn9hmBTd++eNlwD7e5Jbxg=="
+                "ciphertext": "WWTAoNw1B2LtjJ0p/8wlwPnhFZCRRYl6zDI5uiYT2EZMdt9KnaTWwD385Cwv+Tb9AlMZ6FlR4YJaxXva0ePtTAPGaAybi1lztwuVROr8mc8pRQfgFWeqLFWTPpma7hn7",
+                "mac": "4VNOqufPRCq13vHJGfXF8g=="
         },
         "maps/rookie-harbor/inner-harbor-pub.json/entities/69/settings/npcStates/1/event/quest/5/message": {
                 "ciphertext": "cEih/gIxgTLGpdtY6LMInOK6Xe566PdaErDrDyXNlA/jJLXziLgw6fuzR1aA2JGk5wyKoFpWie75NV3/8ouquSpy3d8bzLIvAXGh5fApmdlRtPGx0boRqOm24PPfEj9iR4xmG7pBhkCpCD5/XBQpTXq08GrX7XTe+q1qL6aQpAatE5u4Pa5Hk2IiUBTJVbQ4",
@@ -108,9 +108,192 @@
                 "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
+        "maps/rookie-harbor/inner-inn.json/entities/19/settings/displayName": {
+                "ciphertext": "LBZN2c9fwMMb3Qsa/YFtMQ==",
+                "mac": "9zgQqrbVYidLCjM0WbLBTg=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/0/text": {
+                "ciphertext": "pLesxgIKpVuf3ak0y6d9/bWtDNCrIZnHHFOCBQAWPceSr5T6uEIYh0gs0W3oT8HlJfk5BCVJzctrkS5BcWGN8Q==",
+                "mac": "Aj43og4z3kJ/GZ3OECU5Ow=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/1/text": {
+                "ciphertext": "M0xTFICHqXzN4p+KMwqc0lxwJvkGfd/4a3c176MG65+qg1udqoU63hj1tvzMJUNb",
+                "mac": "HUaRzBUsOIULjEAEwr0J4A=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/2/text": {
+                "ciphertext": "3U9OQi0c6lG8is9RNUowN2Xgf30s2/mQIa4GWJ+8uMhGR9OqTupGHJlyih96ph7G",
+                "mac": "W7gWWFdijz7q4pYwmnEyrg=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/3/text": {
+                "ciphertext": "1Mp2+O2eZQnhBynhfnJ7Hw==",
+                "mac": "0ha7IDJz6Mofr9Ir7NUDhg=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/4/text": {
+                "ciphertext": "4Vog86DnU2FMdPAP+mRZwmy9YH6kO5bp/smwgS0PxvccvO8/ZPmk8EHm0Z+oz+lCFMKTaY/mfYcPtFrjA8EghNe99fmXnH1PzjsPjngcLy4=",
+                "mac": "D7ulWgLLRJj0HjUSi9B3rA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/5/text": {
+                "ciphertext": "CHiV3Enx8DCUf9z8W+NLFknzR9RBwLNhW2gY4WJxxowfUbtW2+IlRjjZ8IlJ7lF2huI8LzPAYAy4wf2gD56XAmvx5C5r0WffEb/+owCGRjmjXT4v5CzSZ09cVhgmu3OE",
+                "mac": "gjr++kXgyRYPm8jBTglbew=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/6/text": {
+                "ciphertext": "ADYjAEVNOPYLV01HZiCxfCkV7bZtPn5oNSYBNKNXPrZAwpxmY5i8Jcvt0JzSmTcxlDlvanEo5d+MIqb1XiZC5Q==",
+                "mac": "dcTB17KxIImhXMBH5YXF7Q=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/7/text": {
+                "ciphertext": "Q/98nKudbBly7vBbe6zooQhYmRea4itn50iCQ+QEaZKuADOQ5eS7jjrxXSIaJ2enw6DaJhgtY6Jh90V0WHMAqLwOiH62SqzSr0tovMEV/xk=",
+                "mac": "A2U2AXHeDRO/oZiCoAS/nA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/8/text": {
+                "ciphertext": "/7KJTYO/cMDYf7RUIJHUh1fpWOmVPzqlkS+gJHuAMEQN/pz2ynjtDdwAsAwy47jH9ViwqFhMRBfPQUA+WCFLYg==",
+                "mac": "/tv8MdGDg2lx9aeNjrNCAw=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/9/text": {
+                "ciphertext": "NfY9Gb1je6bBWteIo2Xrt6icC25JnYGXAnM0a3WA1UWvUVxWER9ntvBURZch+Fh1wT+k0ZB0od8qgVBvszRKl/T/J8/KF4/PYgST8ChZqvE=",
+                "mac": "Yc9fgk/J8imkhB33VdkVYQ==",
+                "quality": "bad",
+                "ciphernote": "8aMw9RBeBtMu9g9te1+zlw=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/displayName": {
+                "ciphertext": "bQSD3Hq+QhgcvHF5xD9Vmw==",
+                "mac": "WcevqtQU5oX+3E6l2p+ysQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/10/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/11/message": {
+                "ciphertext": "nIRMTLq4LEvpWolx7cxMQSxB80HcHoxV4BxPMyCj65m3tn/KjppHM/xl6gbcb72ezp5ycKtmMducNpIo0ZMSMw==",
+                "mac": "aNkfMzaJ8uHunyYsb8LgUw=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/12/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/13/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/14/message": {
+                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
+                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/15/message": {
+                "ciphertext": "EZ1Sh57mEVtcBreKdD8UKyb9EmD0OVhYpH7HdDph0sU=",
+                "mac": "+cj0iZHzGin5SEaRXmEurw=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/16/message": {
+                "ciphertext": "DNagmSDLuMgyNviz7BqpYxEaeB9EETW9avmQwfz7OxyXTtBd2qgRoQjmiWeWF8WDQ3QhOkleotdDVyo2Z3WpTesamMw4ILJj538WFDTVEmg=",
+                "mac": "0yc8H76CPcf0ewzqJHh43w==",
+                "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/17/message": {
+                "ciphertext": "0w0T9V27H25RTsBG2VQHOoFuHOEIsQmadoCPD7ogmh7n9qmkKAqRjbgOo0YVY0YatTkpLTCVti4HxYp4DFBtNfzU7kVm49BIkHhHvmh4/vg=",
+                "mac": "+KuZnpdkt1zeFak0kfyGbQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/18/message": {
+                "ciphertext": "BEyeVvBWFxoox8nGoUOp1TecG+vCyjwZeHhZ9gRvVhALcx4oSDuZBZ34Vj0SJDTj",
+                "mac": "PA6+Ru9+x9EebS9eCA+4PA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/19/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/2/message": {
+                "ciphertext": "ir/WZOTfyNVMLHQuHX52gw==",
+                "mac": "sBTuD2GfYptOzd6SUqOufg==",
+                "quality": "bad",
+                "ciphernote": "ke5YlREE7fb+NoLoJRikxg=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/20/message": {
+                "ciphertext": "JF1/9uehRNhfCuwJme9wuFf+t9GL4GA2yHft+JjJ0CKWRpmNRnroUlwxvI7FrV1g",
+                "mac": "pY383vkosAySgsPWE9V0XQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/21/message": {
+                "ciphertext": "yWGYx+54n3iYD+XHln0yyidCrci+kqKnQgNyNeBu19QcxAHQpALPQypPsnHcWS3FP9y72J5batitK5azQw80PA==",
+                "mac": "5ddwlc68pcNfetHMgesKuA==",
+                "quality": "bad",
+                "ciphernote": "ba3oRvA5DVZ+5jclG0QZxQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/22/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/23/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/24/message": {
+                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
+                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/25/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/3/message": {
+                "ciphertext": "qB9fEN5HzAmHiXwJ2NZ1ig==",
+                "mac": "RwEXxx9sv8LQAZGSk9YIiQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/4/message": {
+                "ciphertext": "xnMqicf8okzrz14YMeQf/fGpzf5EhVnqKTycqgL2k2Ctk05tz9u/naPZdzlEannREO/TajlHz+2iYEZstzsNbA==",
+                "mac": "WYuADpuqWchYA31bnLu7jw==",
+                "quality": "unknown",
+                "ciphernote": "sKvLSvAHLLInGZsi1sK0OQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/5/name": {
+                "ciphertext": "bQSD3Hq+QhgcvHF5xD9Vmw==",
+                "mac": "WcevqtQU5oX+3E6l2p+ysQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/6/message": {
+                "ciphertext": "+mxHRXgTKQ+Bx2pHWnvMcEmwql9x3uHTR3O2QAuDc9c=",
+                "mac": "qfCpfzrgWiCpWd9ucEA3bA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/7/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/8/message": {
+                "ciphertext": "44Prvdl+F8uIGBlzC+ybq2M3OrP2jfFcHS/tj5IfsyMQvgMLfaWVyYwZdFE+TJAHYI0KS9pXVrBqNPr8mqrOcQ==",
+                "mac": "OqFIf79/rp5EE/bfYcq3+w==",
+                "quality": "unknown",
+                "ciphernote": "mykJdFJeacaTwuJ98RiMFQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/0/event/quest/9/message": {
+                "ciphertext": "i8j/DRHtzw9wDEOnIkeE+mI+sqRWwdsLT65zWDjsAQITkDzQbNbNpsWeQXHG5Tck",
+                "mac": "X7Fa+3Bd/ZTI4mBSDUdZcw=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/1/event/0/name": {
+                "ciphertext": "bQSD3Hq+QhgcvHF5xD9Vmw==",
+                "mac": "WcevqtQU5oX+3E6l2p+ysQ=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/1/event/2/message": {
+                "ciphertext": "AnrvWwe6ABhK0FG79+JKWja8HqZiF5D7iQHQLa9hIix299Atner2rru/KGmlDWql",
+                "mac": "dZYOHDDDfQC7ZEvlx+GgCA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/28/settings/npcStates/1/event/3/message": {
+                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
+                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        },
+        "maps/rookie-harbor/inner-inn.json/entities/46/settings/interact/hoverText": {
+                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
+                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+        },
+        "maps/rookie-harbor/inner-item.json/entities/25/settings/displayName": {
+                "ciphertext": "Kx0a3u4YD37GRWbfK21uxT4twYO40kQMNMwD/LcKVM4=",
+                "mac": "SxTXXR6yTq30MJtHGCzoow==",
+                "quality": "bad",
+                "ciphernote": "DfTcvvOwkSwqIQrTYMda+g=="
+        },
         "maps/rookie-harbor/inner-item.json/entities/25/settings/npcStates/0/event/shop/2/message": {
                 "ciphertext": "tuIAoiijGEQX2eR72mcu6/mnBr/8sj/d8LTgPlrR+Rk=",
                 "mac": "InGacoz7CZR+tF6G9k4WiA=="
+        },
+        "maps/rookie-harbor/inner-item.json/entities/26/settings/displayName": {
+                "ciphertext": "Kx0a3u4YD37GRWbfK21uxT4twYO40kQMNMwD/LcKVM4=",
+                "mac": "SxTXXR6yTq30MJtHGCzoow==",
+                "quality": "bad",
+                "ciphernote": "DfTcvvOwkSwqIQrTYMda+g=="
         },
         "maps/rookie-harbor/inner-item.json/entities/26/settings/npcStates/0/event/shop/2/message": {
                 "ciphertext": "sjqDVwJgrQ+W8kBTujreTDYGTGtKYvvrFWHkpMjrnV17gqYqa3/cHJuAZpODRtYK",
@@ -132,6 +315,14 @@
         "maps/rookie-harbor/inner-item.json/entities/29/settings/dialog/3/text": {
                 "ciphertext": "9+AL7Vf9If/0hL/oTrUTCEqaHK0Ufs4ruSNR02Upu6wTSDRUwX/lL5p5kP76OEqYWGqgBK2MmP9o5efkPQs/0w==",
                 "mac": "jTkkgyOHnFK6fsrpETncTg=="
+        },
+        "maps/rookie-harbor/inner-north-trade-ground.json/entities/17/settings/analyzable/text": {
+                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
+                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+        },
+        "maps/rookie-harbor/inner-north-trade-ground.json/entities/17/settings/npcStates/0/event/1/name": {
+                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
+                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
         },
         "maps/rookie-harbor/inner-north-trade-ground.json/entities/17/settings/npcStates/0/event/2/message": {
                 "ciphertext": "G0VPgXlCyrB0RtGyz8OsDi1YjuQIczNUxWP5uzqhzqkI9WWPzqmOr9ArQ8nDDDt6FEFstrq0SNss0pe7R6p0QoqwG314RtyALY9AVvkyPRa8d4r1YkcI3qBFgFZywFacDhXfXEudZsxt3VWVWbD0oNnVeToXecyg1vK+b48NxtTMWl6mN/4HIz6HaEySDfJE",
@@ -156,6 +347,14 @@
                 "mac": "6XyCbhi3Zy163yeV5mpTUg==",
                 "quality": "bad"
         },
+        "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/analyzable/text": {
+                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
+                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+        },
+        "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/0/event/1/name": {
+                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
+                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+        },
         "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/0/event/2/message": {
                 "ciphertext": "4Aw8hind7quxUipFV8/kPHBcidHgln53cFWkwXmEsY+fiE4T+FZE6VXQaehCCqNZaG4c15e7lPfSEAaEusJDgf/IGfRnegXfiWJ29UIhWMQ=",
                 "mac": "KyN2fsz4+PcLoM+bC5HAUA=="
@@ -163,6 +362,10 @@
         "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/0/event/3/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/1/event/quest/1/name": {
+                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
+                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
         },
         "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/1/event/quest/2/message": {
                 "ciphertext": "NChrHH1P7e43Lwj9L53en74rO6j4yckTRmoOAdbFrYHMbQbEWbr/cBElBq+zdgtdH5ScctfFYUdBn/0muwdCDlZOjN/IROo0ucviYzYVl3g=",
@@ -180,14 +383,35 @@
                 "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
                 "mac": "fgc6lhgok5IJr8tpMM8bCw=="
         },
+        "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/2/event/1/name": {
+                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
+                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+        },
         "maps/rookie-harbor/inner-north-trade-ground.json/entities/18/settings/npcStates/2/event/2/message": {
                 "ciphertext": "34uUh5OQM4biDrhLhqZ9lTsilN/YRGjIRv/Teqyo8kINUPvcg2qqEGwUtoJMTXGcp+YbvOqb9UX3AhLswYKin9/uMU9LHfrmEpIEpOnYsNQ=",
                 "mac": "8Qh/y3xUMcBNThX+5/WOVA=="
+        },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/12/settings/analyzable/text": {
+                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
+                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+        },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/analyzable/text": {
+                "ciphertext": "nCAJPh995UnOK7jLFibB9I3+xr8bmR+hi4ffn2fV6FM=",
+                "mac": "+nQ2183Jz5B6Tr0h5qoBQA==",
+                "quality": "unknown"
+        },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/0/event/1/name": {
+                "ciphertext": "LOW/qfQdymtsL9ChA7dmkw==",
+                "mac": "6TiEbyEedQjjxXcogaVwlw=="
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/0/event/2/message": {
                 "ciphertext": "1qHN25l6/VTCE1V2uqNu/bF7IpZYsSKlipNR7pWpuE1MEe/EhMvT5erT7Z+lInydwm8If7OiwbHGJihZjiJidHozPvm1Qf/yT9l3PhajD9R76v+ocHFJiZ85cHsVh7bPT3Zpe5alBrGbtVsK9jqwNw==",
                 "mac": "Wlv1EfXimXS8j4Pz7ciExA==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/1/event/quest/1/name": {
+                "ciphertext": "LOW/qfQdymtsL9ChA7dmkw==",
+                "mac": "6TiEbyEedQjjxXcogaVwlw=="
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/1/event/quest/10/message": {
                 "ciphertext": "fHtXPPbLn01Eqp6bP/0qvhjiPcwi4t7e4Nxt/eCdSLLzGPgF56QrABFOqzt/y8ggrYEgYS5LxRwm/9MWlYCzooBolLnPZfR2G6lQb539IISxCWNv/Wc38xwSU4hqDM76y9tEAp41LEDK+DmaemT/w4EJxBYG7BRRUM2COKTpKVjJrWxhHipdZMElLLVrmlJZ",
@@ -228,8 +452,8 @@
                 "mac": "D0sL9jbKfCaxt+kPmeZZJg=="
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "9TmNGwu87EgBPkuAjnYXy8xVfNWYXBqYL846GIuHHuH9ycdBeNG0vgxWI47PFce6N5OmcUglg6YSmALE4aw/xvQtWSiYVPIsftZDUTOVz23/s9zAaqWfw9BH1DNG+/Swu8O4JN7wCR5hx3qAVnFjA8OCB1L93y3SCuz4mkMW4Kk=",
-                "mac": "F2gcVdeZnhFKFl3zExk8LQ=="
+                "ciphertext": "JI0EOtRfTDfwq5C+w9WLXT5cJgrW9K5OoyZJXHl0BTgAcvrhoon3JXVkOJdVRfi9kOveP8Dq7fH4CkeJJKzStAOf8giEgNJ2VDKIuMjJyrTZfMgkcdbdeSy3nxNQ2T4c6E8sSw9J/f/lfra4mZCnFSnlgkuiudAAsulttPbw6iA=",
+                "mac": "WS5nPsJceAgFI7cPrMXw0w=="
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/1/event/quest/5/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
@@ -254,6 +478,10 @@
                 "mac": "ZZn/uHvol60e9t37iH0txA==",
                 "quality": "bad"
         },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/2/event/1/name": {
+                "ciphertext": "LOW/qfQdymtsL9ChA7dmkw==",
+                "mac": "6TiEbyEedQjjxXcogaVwlw=="
+        },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/2/event/2/message": {
                 "ciphertext": "AJJGhiQMAQDK3jw2VfCqk2tzCHZfp57emHUeu6S2ci6aX7ebIlfX356vRgxpFqM9jFce3hydvuM9sahBX4smKMZieanQPKb8mHsoxPkfgZZbb1OPnct4MM3b5p/457I5MZu6Jc3f2X1iKpAiQWPYVYUIowlA9Za0KJ0UKNg7URQ=",
                 "mac": "rnxtXljZRfZdmclYY59lhA=="
@@ -261,6 +489,10 @@
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/2/event/3/message": {
                 "ciphertext": "KsS8aK8Y9XrPYAf97gc41Bsapn+v0aT/m/Rjj2ui7CBeiFkBOo9xcJG4xn3vdjiw",
                 "mac": "xve6AGjKRdwApmYRSL4aVw=="
+        },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/3/event/quest/1/name": {
+                "ciphertext": "LOW/qfQdymtsL9ChA7dmkw==",
+                "mac": "6TiEbyEedQjjxXcogaVwlw=="
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/3/event/quest/2/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -279,8 +511,8 @@
                 "mac": "hqM5ZuFpSdDD2kYc5wIAfw=="
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "XTqmCJYLXcliscw0yxjmCunUtILfoMc4wdthRXc3AkrcGms97AO0CUdRYurF5OiuebOcwjyNEaBGrVdwRtIrcvXrJbLmTHDOUvVGyVPtxPlhWZ3FttCou4HrlBRO986laWP+SNpVlYoJxk3Le4ZNJ/s745Od7TouJUXrBBtUbLM=",
-                "mac": "1hnXvhHPg6XtbU0osX1t7w==",
+                "ciphertext": "XTqmCJYLXcliscw0yxjmCunUtILfoMc4wdthRXc3AkqDf9XuTgNGICZU38jIQwdvKCRJkdKDfZejXxdy0Qmi6s3tY4HASdEoGCAvIUsoSEIUzziNAEZQl6de9+bzYk3djSa9nl2mt2wsy7uoQsBjii2eey3VC0YvVQqoVNPdGL8=",
+                "mac": "IakL1noJwEVFXA5afO1Ddw==",
                 "quality": "bad"
         },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/3/event/quest/7/message": {
@@ -296,10 +528,24 @@
                 "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
                 "mac": "fgc6lhgok5IJr8tpMM8bCw=="
         },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/4/event/1/name": {
+                "ciphertext": "LOW/qfQdymtsL9ChA7dmkw==",
+                "mac": "6TiEbyEedQjjxXcogaVwlw=="
+        },
         "maps/rookie-harbor/inner-north-trade-upper1.json/entities/16/settings/npcStates/4/event/2/message": {
                 "ciphertext": "JXdlcnuj3dc77fpV2YPmlftVKmEaX7IUYAeZdn5wvjSZczmUUHQF8ts5/L10go+kz4YZQDN0WTfH6+PLmN6dPuSjIvr/Ty7Jg42v+jYiduUQXZsemAp2BgFUBQbA4oB5YrpOSa51VduvZczhd7GeGw==",
                 "mac": "9//hxMDruFyFx4tof28iBQ==",
                 "quality": "bad"
+        },
+        "maps/rookie-harbor/inner-north-trade-upper1.json/entities/74/settings/analyzable/text": {
+                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
+                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+        },
+        "maps/rookie-harbor/inner-weapon.json/entities/25/settings/displayName": {
+                "ciphertext": "xwDJ2JkGD18BdI9WAreLwW4LWUySV2D5Jag3oGm8478=",
+                "mac": "yYaLjfM355j8WDoY5RwhEA==",
+                "quality": "bad",
+                "ciphernote": "QbleE+EHrCG3nplXJZxcTg=="
         },
         "maps/rookie-harbor/inner-weapon.json/entities/25/settings/npcStates/0/event/shop/2/message": {
                 "ciphertext": "/oQtlvgipabUbRie5Auq4nGy8z1an5+i2R3toTk1najeTzuLLRDFY5qDoitri57pwkOw6IHKo8XOrF6B2+ch014IFg6i41yA0SyN7MtFNQtbs78rIWoxBK4YuxDx2Ni/",
