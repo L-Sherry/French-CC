@@ -142,8 +142,11 @@
 
 		var space = font_context.get_char_pos(' ');
 		font_context.set_char_pos(our_nbsp, space);
-		// Turn a quarter em into a tens of em.
-		space.width = Math.ceil(space.width / 2.5);
+		// Normally, we would turn a quarter em into a tens of em.
+		// Except it would be too short here, not even enough for
+		// separating thousands. So we turn a quarter em into a
+		// eight of em, rounded up, which is one pixel wider.
+		space.width = Math.ceil(space.width / 2);
 		font_context.set_char_pos(shorter_nbsp, space);
 
 		font_context.blits = [];
