@@ -28,8 +28,9 @@
 		  "œ":"\u0153"
 	};
 	var oe_regex = new RegExp(c['œ'], 'g');
-	var normal_nbsp_regex = new RegExp('['+Object.keys(nbsp_map).join('')+']',
-					   'g');
+	var normal_nbsp_regex = new RegExp('[' +
+					   Object.keys(nbsp_map).join('') +
+					   ']', 'g');
 	var filter_normal_nbsps
 		= (text) => text.replace(normal_nbsp_regex, (a) => nbsp_map[a]);
 
@@ -49,11 +50,6 @@
 			text += '(' + result.quality + ')';
 		return text;
 	};
-
-	// Format a number.
-	var format_number
-		// toLocaleString("fr-FR") uses nbsp of course, so patch them too.
-		= (number) => filter_normal_nbsps(number.toLocaleString("fr-FR"));
 
 	// font patching: make a 'î' out of a 'â' and 'i'
 	// font patching: make a 'ï' out of a 'ë' and 'i'
@@ -188,6 +184,20 @@
 		});
 		return ret;
 	};
+
+	// Format a number.
+	var format_number = (number, precision, unit, template) => {
+		// toLocaleString("fr-FR") uses nbsp of course,
+		// so patch them too.
+		template = filter_normal_nbsps(template);
+		if (unit && unit != "%")
+			template = (
+				template.slice(0, -unit.length)
+				+ our_nbsp + template.slice(-unit.length)
+			);
+		return template;
+	};
+
 	var my_prefix = document.currentScript.src.slice(0, -"mod.js".length)
 	window.localizeMe.add_locale("fr_FR", {
 		from_locale:"en_US",
@@ -200,6 +210,7 @@
 		},
 		text_filter: text_filter,
 		patch_font: patch_font,
+		number_locale: 'fr-FR',
 		format_number: format_number
 	});
 
