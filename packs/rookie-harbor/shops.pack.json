@@ -113,8 +113,8 @@
                 "mac": "9zgQqrbVYidLCjM0WbLBTg=="
         },
         "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/0/text": {
-                "ciphertext": "pLesxgIKpVuf3ak0y6d9/bWtDNCrIZnHHFOCBQAWPceSr5T6uEIYh0gs0W3oT8HlJfk5BCVJzctrkS5BcWGN8Q==",
-                "mac": "Aj43og4z3kJ/GZ3OECU5Ow=="
+                "ciphertext": "rBdt4ybLFD0VmavlzOaIw2b6MxOSaf/pRFZOsry9Ly3SzhsBpCQ7HyuIKCoewa8Wls4Ys9xvgOQFDqWiRfU1vg==",
+                "mac": "McREDrA0F+53T236vn4wZQ=="
         },
         "maps/rookie-harbor/inner-inn.json/entities/25/settings/dialog/1/text": {
                 "ciphertext": "M0xTFICHqXzN4p+KMwqc0lxwJvkGfd/4a3c176MG65+qg1udqoU63hj1tvzMJUNb",
@@ -550,5 +550,41 @@
         "maps/rookie-harbor/inner-weapon.json/entities/25/settings/npcStates/0/event/shop/2/message": {
                 "ciphertext": "/oQtlvgipabUbRie5Auq4nGy8z1an5+i2R3toTk1najeTzuLLRDFY5qDoitri57pwkOw6IHKo8XOrF6B2+ch014IFg6i41yA0SyN7MtFNQtbs78rIWoxBK4YuxDx2Ni/",
                 "mac": "W4tQNjDBe/GfdcpkXqdAcQ=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/11/settings/npcStates/0/event/shop/2/message": {
+                "ciphertext": "cN7pXQsUosHMHKO85cHHxpDc3QQJCAdQVo88oMNthO2fDLRf11Rdr2Xf8Nfmme1/MCC1FhK1KpItaHZ14jtSFdht6lNqN83xRerjtCZd2Ac=",
+                "mac": "aHpcOMIRJM6x5B8sYKqb6A=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/10/message": {
+                "ciphertext": "VNngHQLQVg61D4XMM5Ed/ha8bRQf/WsHOV6qPLN7amQ=",
+                "mac": "EuJEiAJCVlsO/2MvQIVfdA=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/15/message": {
+                "ciphertext": "Lr3CSQ6IXOSTjROMXA+JhRLGCAhx2jopQTm81cpVwXH/iDOL1zxlhe/bRC+7tA6t8Uj4KH4VHoHjjJtulTr4pODqt6BMaWh5XY4pPwwFHuFaZ4wSfEYUrnbDe9Qylsf8",
+                "mac": "1U8oOvP6PpUo0WV7B0qSAA=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/16/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/4/message": {
+                "ciphertext": "RgsWx6Ws6xejBJhH6m8detZ5YdYCPr5haGeQZBCd+qDqVKs4hu58tLB26P0N5fc3jnQ+FEuSOcncTAoHtM2IU5sX5wYHE+jBk3tLt6JvJpI=",
+                "mac": "e9oSXNFg8SpFLDo1w6ctHA=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/5/message": {
+                "ciphertext": "Poq5UQOs0jfwqK0O9+6TnfcxaroHXGOWOnnc66Zcb+AolzPEYCGTURViixqOywk7mRKfwbRPBcWQ/vQp/q75u4Tpm/EQyp+OR6TerVSCoPc=",
+                "mac": "+wntRdbrjW73UrHkSFujsg=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/7/message": {
+                "ciphertext": "V1XlDnbHvkFxFeTqCPzQy6VbKKx35dmWnqM2uOCPxa9ArJ2FFT088GXSbQtTwm0t",
+                "mac": "hePm12IH+TmmulYOsV13PQ=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/8/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rookie-harbor/special/shop.json/entities/13/settings/event/9/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         }
 }
