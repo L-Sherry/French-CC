@@ -1916,6 +1916,10 @@
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
+        "database.json/commonEvents/botanicsNote/event/2/name": {
+                "ciphertext": "MOr6xQz/CaPvURlLuUQYKw==",
+                "mac": "EbYZUhveNopCYdkG6+0qUQ=="
+        },
         "database.json/commonEvents/botanicsNote/event/4/message": {
                 "ciphertext": "i4ucjpHX4PvqQvel1zE+ff9PEFdv9fMfNZRstNSb6GQ=",
                 "mac": "eVnEoEUYDFvfXAGjwTDWaw=="
@@ -1948,6 +1952,10 @@
                 "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
+        "database.json/commonEvents/botanicsNote100/event/2/name": {
+                "ciphertext": "MOr6xQz/CaPvURlLuUQYKw==",
+                "mac": "EbYZUhveNopCYdkG6+0qUQ=="
+        },
         "database.json/commonEvents/botanicsNote100/event/4/message": {
                 "ciphertext": "soWqtN4qz3BAO/Nr+n+fmfvFhahdEgwFotU6BzDakaaV3LZq8Dy5bOGXG9pni0roNGFlbyyNsm+zmAItxdW51Q==",
                 "mac": "T0kcjEOb1BLNPYRkPeJ19A==",
@@ -1977,6 +1985,10 @@
                 "ciphertext": "LgOL2+wX+c7DvpCowgbYRGQbAVzFbvDzEwWyTWBaqJsb6dCL2/o34hb5iCv7hIE3h8h4DNIwzTQ4i2Py7pDiqLIiYyTohh9VctegUmK6QYA=",
                 "mac": "1tX2niMDnd1eg6XNVyYkaw=="
         },
+        "database.json/commonEvents/botanicsNote50/event/2/name": {
+                "ciphertext": "MOr6xQz/CaPvURlLuUQYKw==",
+                "mac": "EbYZUhveNopCYdkG6+0qUQ=="
+        },
         "database.json/commonEvents/botanicsNote50/event/4/message": {
                 "ciphertext": "i4ucjpHX4PvqQvel1zE+ff9PEFdv9fMfNZRstNSb6GQ=",
                 "mac": "eVnEoEUYDFvfXAGjwTDWaw=="
@@ -2001,6 +2013,10 @@
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
+        "database.json/commonEvents/botanicsNote75/event/2/name": {
+                "ciphertext": "MOr6xQz/CaPvURlLuUQYKw==",
+                "mac": "EbYZUhveNopCYdkG6+0qUQ=="
+        },
         "database.json/commonEvents/botanicsNote75/event/4/message": {
                 "ciphertext": "ooqtzROehrXC1J0DZs+aRCn5X5W1hOIH81X2UuHQ7Ko=",
                 "mac": "tLc6oSXJDCmKsj9gw/hzBg=="
@@ -2024,6 +2040,14 @@
         "database.json/commonEvents/botanicsNote75/event/9/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "database.json/commonEvents/buggy-contact/event/0/thenStep/0/text": {
+                "ciphertext": "+3XIb5ZOXVtbvo49XGOmRRVcX1GAtQ6U35aXpZbbF1E=",
+                "mac": "lTaWQOPWJcQrZ1XAH4cOAA=="
+        },
+        "database.json/commonEvents/buggy-contact/event/1/thenStep/0/text": {
+                "ciphertext": "oa7MZWAWkcQ6kEJT+C+CfyZorgDdN4WxglFdvCvs8afEt22PFvrzMNlTa1xSkg0NwgV671M2QBN9G+mf2pIP+yGn2o7XlMjoqgPqXXJWg3w=",
+                "mac": "CinyskajY+Je8LgY88s2zA=="
         },
         "database.json/commonEvents/buggy-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -2551,16 +2575,28 @@
                 "mac": "t2WxCgQCXwmSzBP9xPfooA=="
         },
         "database.json/commonEvents/call-test/event/1/thenStep/0/message": {
-                "ciphertext": "08oY2dglppBZTm8r6b1evg==",
-                "mac": "MBJEAQQ+c/U9gw7fnTEOaA=="
+                "ciphertext": "29JtlPH4aH7A9cQRmmd6FQ==",
+                "mac": "ZSEAV9if0XWV4in7EOEx8A=="
         },
         "database.json/commonEvents/call-test/event/2/thenStep/0/message": {
-                "ciphertext": "NzIxF5+7NqOSs0OmhkdNQQ==",
-                "mac": "CfbGAv+U/xRVm0VhTZq3WA=="
+                "ciphertext": "DmNCcgQYu2wjpVx6fcURUw==",
+                "mac": "bQQkDNsaZPKTJLzV854rSw=="
         },
         "database.json/commonEvents/call-test/event/3/thenStep/0/message": {
-                "ciphertext": "dmkDqvcFUDXUcpO9QzFT8A==",
-                "mac": "U2FKi2mFw065ulEsDko9vw=="
+                "ciphertext": "foYN2NyizQdufoefkUAcKw==",
+                "mac": "GWBGb1U3lLxH062fYeBf0w=="
+        },
+        "database.json/commonEvents/circuitOverride/event/7/thenStep/13/object": {
+                "ciphertext": "UcA+0yfxwut3QLpFBPQarw==",
+                "mac": "nz0OSd+GN3M5mLYEdNhP9g=="
+        },
+        "database.json/commonEvents/contact-blocked-area/event/0/text": {
+                "ciphertext": "tBfzTEffAnBSaZKruh6OA7qIzDh753TfBDqAJ16HrmK4To2xCMBKFTdG/JbX+8IamIDhKYQRHVvV2fr1tF2QbZ3YMTIrJlhZedS7wLKRMhxmyNLGeC8YlXl4HvnoCxIA",
+                "mac": "TP61jDrZCUmo2y4Gish6ng=="
+        },
+        "database.json/commonEvents/contact-blocked/event/2/text": {
+                "ciphertext": "V1QGZXlmLD219mFRvPsJ1yXTo7tzDefiokG5CePhP80=",
+                "mac": "fEdKrQO0vyplfnqiHMv9rw=="
         },
         "database.json/commonEvents/cooldown-A/event/0/0_0/0/message": {
                 "ciphertext": "OJBNBVXpR69cnmNklIxXSpIANMtH7UoP6dfKBQFAqyE=",
@@ -3160,6 +3196,10 @@
         "database.json/commonEvents/emilie-buffalos2-end/event/0/thenStep/2/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "database.json/commonEvents/emilie-contact/event/0/thenStep/0/text": {
+                "ciphertext": "+3XIb5ZOXVtbvo49XGOmRRVcX1GAtQ6U35aXpZbbF1E=",
+                "mac": "lTaWQOPWJcQrZ1XAH4cOAA=="
         },
         "database.json/commonEvents/emilie-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -3806,6 +3846,10 @@
                 "ciphertext": "zI4nAzjsh80CBnbepnKjtlcsu945beNfczqh9s38pOc=",
                 "mac": "OmglyYW/KKVtQEGyIidN9Q=="
         },
+        "database.json/commonEvents/emilie-join/event/0/thenStep/0/text": {
+                "ciphertext": "+3XIb5ZOXVtbvo49XGOmRRVcX1GAtQ6U35aXpZbbF1E=",
+                "mac": "lTaWQOPWJcQrZ1XAH4cOAA=="
+        },
         "database.json/commonEvents/emilie-join/event/10/thenStep/0/message": {
                 "ciphertext": "bWR4aFSb57pBTUiCEx2KKj45eIzD296Qr/eU1HXuwcKHWlzE+vmGcvDpNvzC3meL3Sv75wL02Nf8qShbshVxSz1Ejtxeayv+yb+9tfa/H10BKYG7MGAqF9YQ8ppg4ijt4tcaC4HW+pPWAg+FHMtMXHJj66VSaRI7sPci9L4WbTZpl68/4V+XyWF9M2aRgyTW",
                 "mac": "b7m2cH3RA3YWY8xVVsS9lQ=="
@@ -4204,6 +4248,10 @@
         "database.json/commonEvents/emilie-volturbines/event/0/thenStep/1/message": {
                 "ciphertext": "NM9mvKURltGbQdDK8g/VAIR2q21qiaLSz12Ww6f5f8RyjBzySsW8jpIlo/mK1Zps",
                 "mac": "2S8YpkIP4wnDrl65+vg0QQ=="
+        },
+        "database.json/commonEvents/fixCombatRank/event/1/titleText": {
+                "ciphertext": "e6mjtmOX4ZcJC/el+FoxUydYReXlCmi3/GUI2U69Yes=",
+                "mac": "uRU0AAEtPtM6mVyUBisDCQ=="
         },
         "database.json/commonEvents/glasses-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -4667,6 +4715,14 @@
                 "ciphertext": "CIk6vtZVq8muHO6yorwegJWlGYy3wMMg2BHMJv9QMIwtujGp7IBlXzbrOeeRtKaa",
                 "mac": "JYUJW+Lafid7MzfdXOzJUA=="
         },
+        "database.json/commonEvents/grumpy-contact/event/0/thenStep/0/text": {
+                "ciphertext": "+3XIb5ZOXVtbvo49XGOmRRVcX1GAtQ6U35aXpZbbF1E=",
+                "mac": "lTaWQOPWJcQrZ1XAH4cOAA=="
+        },
+        "database.json/commonEvents/grumpy-contact/event/1/thenStep/0/text": {
+                "ciphertext": "oa7MZWAWkcQ6kEJT+C+CfyZorgDdN4WxglFdvCvs8afEt22PFvrzMNlTa1xSkg0NwgV671M2QBN9G+mf2pIP+yGn2o7XlMjoqgPqXXJWg3w=",
+                "mac": "CinyskajY+Je8LgY88s2zA=="
+        },
         "database.json/commonEvents/grumpy-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
@@ -5024,6 +5080,15 @@
         "database.json/commonEvents/grumpy-contact/event/9/thenStep/2/thenStep/2/message": {
                 "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
                 "mac": "ahS7SIG0IeLx4nW36TYvEw=="
+        },
+        "database.json/commonEvents/hlin-contact/event/0/thenStep/0/text": {
+                "ciphertext": "+3XIb5ZOXVtbvo49XGOmRRVcX1GAtQ6U35aXpZbbF1E=",
+                "mac": "lTaWQOPWJcQrZ1XAH4cOAA=="
+        },
+        "database.json/commonEvents/hlin-contact/event/1/thenStep/0/text": {
+                "ciphertext": "4sa0OhmiFSmyfLTTd2oZj/TtlgVsb/25g5LJp8AqIDYXXVIH2Lw7O+bt7SJBKee7Zhj0VC0V9s2oRovUnbIQfqH3X5Rs5Bhta32kL+WvM2I=",
+                "mac": "r5kA09U44th9kyiqz1lh2A==",
+                "quality": "unknown"
         },
         "database.json/commonEvents/hlin-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -5739,6 +5804,18 @@
                 "ciphertext": "LddMoOS5eFiKrtS48R4tlFPnknw9pM0MIjVo/xIEb2JY0NxzxbW4Xr1A+I8qjuRVwHcAwoW/gqvA8jSPJJi686sSwgZQQHz9s7eh3cus1Rg=",
                 "mac": "9+yd7kRlKgLHCyjDfukOEw=="
         },
+        "database.json/commonEvents/join-blocked-area/event/0/text": {
+                "ciphertext": "E/btgwdHk7HSZfL3BTOoZIxpA6vaAtOLs1ZUOe7hbPitfi+1tPEMPi0bDTJSO1MQ",
+                "mac": "37xHMbjRyjAUoOxpIUNvwA=="
+        },
+        "database.json/commonEvents/join-blocked-finale/event/0/text": {
+                "ciphertext": "E/btgwdHk7HSZfL3BTOoZIxpA6vaAtOLs1ZUOe7hbPitfi+1tPEMPi0bDTJSO1MQ",
+                "mac": "37xHMbjRyjAUoOxpIUNvwA=="
+        },
+        "database.json/commonEvents/join-blocked/event/2/text": {
+                "ciphertext": "V1QGZXlmLD219mFRvPsJ1yXTo7tzDefiokG5CePhP80=",
+                "mac": "fEdKrQO0vyplfnqiHMv9rw=="
+        },
         "database.json/commonEvents/lea-post-battle/event/0/thenStep/0/message": {
                 "ciphertext": "JWOQnYmC96Z7OtMdZ/19cA==",
                 "mac": "PXPTaTvyNWGGguUtD/bkVw=="
@@ -5750,6 +5827,18 @@
         "database.json/commonEvents/lea-post-battle/event/2/thenStep/0/message": {
                 "ciphertext": "7keEKrfRGBqNthsy49eVjg==",
                 "mac": "5OTZGCbeFE1X9ms4UCcDSg=="
+        },
+        "database.json/commonEvents/leave-blocked-area/event/0/text": {
+                "ciphertext": "tdkzqSnlLGi5n4oYRkLoIfu8D13f5xBdhDK6yeBUc8g/yOTnyaXH+z6JJ5AHQe5VvlPysl85s/bZD9/Jl6cKhXBGK9fXFhr2XKsL+hha1+nYjyqzOmNekKoPXrswfrwc",
+                "mac": "AS6X7nXQeHrYiIep4xJd2A=="
+        },
+        "database.json/commonEvents/leave-blocked/event/2/text": {
+                "ciphertext": "V1QGZXlmLD219mFRvPsJ1yXTo7tzDefiokG5CePhP80=",
+                "mac": "fEdKrQO0vyplfnqiHMv9rw=="
+        },
+        "database.json/commonEvents/nobody-contact/event/2/text": {
+                "ciphertext": "NCgpa/ka7MwF/ZCzlrp1CyDwNa5qXLz+g2WXkQMwKNw=",
+                "mac": "zBbZ8gnMzXGyNRd6izI2Xg=="
         },
         "database.json/commonEvents/quest-sergey-npc_comment/event/1/message": {
                 "ciphertext": "5FOC+FWTZnWozTUTmc2lIl2ZZWYgVjCmbUjxMoCtTSP9q8EiwgjLnMxsCrXxg6DiPMpKB4ND7cr7dHCnE6d6T5uslgGSHDXFKxFJMOWPJvGFyfCEQfPrQf/uvbyibQQW",
@@ -5775,6 +5864,14 @@
         "database.json/commonEvents/quest-sergey-npc_comment/event/6/message": {
                 "ciphertext": "d45cMP/CV1z5Q2xVNVGaTBGiVDx8rlAG6pG169Bw6ZZkWkkQ5z++CT3lPh8dHlhYupLEUxtP4S8CGZdk4SeW+qcE3sFYY3QS30Famt4Us/0=",
                 "mac": "z81zd3+217aZD7AGHmCR6A=="
+        },
+        "database.json/commonEvents/schneider-contact/event/0/thenStep/0/text": {
+                "ciphertext": "+3XIb5ZOXVtbvo49XGOmRRVcX1GAtQ6U35aXpZbbF1E=",
+                "mac": "lTaWQOPWJcQrZ1XAH4cOAA=="
+        },
+        "database.json/commonEvents/schneider-contact/event/1/thenStep/0/text": {
+                "ciphertext": "oa7MZWAWkcQ6kEJT+C+CfyZorgDdN4WxglFdvCvs8afEt22PFvrzMNlTa1xSkg0NwgV671M2QBN9G+mf2pIP+yGn2o7XlMjoqgPqXXJWg3w=",
+                "mac": "CinyskajY+Je8LgY88s2zA=="
         },
         "database.json/commonEvents/schneider-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -6148,6 +6245,22 @@
                 "ciphertext": "wn/kZhfsNOrPCzDzQ882T6F+48VyuiT3tWNroRPOLUuCERhNuStoeA2BdKU/w5MqzDsqqtUJoowOznI2Dn9Z7A==",
                 "mac": "lxGHkeyqTHME+cpITieDyQ=="
         },
+        "database.json/commonEvents/storyUpdateA/event/1/title": {
+                "ciphertext": "UhKwALqnGEZqvESEwQ8klZ1LaNGG3K6Di5ahMy9cWns=",
+                "mac": "vOH27IBjy4VYX18PQz/NJA=="
+        },
+        "database.json/commonEvents/storyUpdateB/event/1/title": {
+                "ciphertext": "UhKwALqnGEZqvESEwQ8klZ1LaNGG3K6Di5ahMy9cWns=",
+                "mac": "vOH27IBjy4VYX18PQz/NJA=="
+        },
+        "database.json/commonEvents/storyUpdateC/event/3/text": {
+                "ciphertext": "w6sa9a3KewcZmRRxLQ3vufoC6gUjLc+BtEIjhCkW/cQQsH6rkIQvH1C5vhPq9Kj4hQ7e0Q4/psXMqI++tdNR4zEbOgP1DzzEY11d7mIL1PswRryoR++Iwzx48SA+pqQqtplvtsyLxEkiJLApnm0JQvv0TgaMEWZB/O2TmdOCEKVghXUkbo4WF44iVgRfhTSpr6kmF1Wyqh+xtVwM7Sgt9AKkaYzIBDaeR0AvXVAAu/RFnfQbvTwHJiWAleoi1FKXZ11kpkbqEkj6+t1YI6nl10NbePLdXdOxCTbTHVDRH1e3zNLFYgcuEEZGIit/bSuuL+s6NCVrpNh84dRhlgGB4UMjJQefo5AySXNkrJQuVJA/ho6kWO7OkPXAHMhQ/CgrcBg4GXiQuPAnDF+5FxLZog==",
+                "mac": "ldQYmIcKt+0jkv61IuxDww=="
+        },
+        "database.json/commonEvents/storyUpdateC/event/3/titleText": {
+                "ciphertext": "DxcEkYKZ+X/fqMKVKUke7X4Ww6S0gcseH/HcyauktWA=",
+                "mac": "P/xTnd9OT7ktAkwux7ZZKQ=="
+        },
         "database.json/commonEvents/test-cooldown-start/event/0/thenStep/0/message": {
                 "ciphertext": "G3hOgFELUmBfe8P2oQ9naQ==",
                 "mac": "EWG5KI0juCUlnxfAYNfHZQ=="
@@ -6187,6 +6300,310 @@
         "database.json/commonEvents/test-level-up/event/2/thenStep/0/message": {
                 "ciphertext": "DDxmIbzuBYQEu80iV/c4ZQ==",
                 "mac": "VFk0QVYvspnKT02go/zywQ=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/acceptStep/14/text": {
+                "ciphertext": "Ta+u6NU74iOgLJ55GKPVB+s/nP7m/wegBuYQZs8y809zI5ZTAPjGUsbcvM7YzaMvbNHuQztxggFTUTEUPbtMV5WGoQeoZLNCSnf3tIoCJUP4TfbjWuTpHYZPQLM+ncKG",
+                "mac": "wm0hhpClI99eSuHSH9HdpQ=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/acceptStep/22/text": {
+                "ciphertext": "Cmz9bf+HYwk9p7o298YnXnaxYHG1UP8sOJ6T9U/HWYDcXNVPQ2dYj8iDT/L8K4RmBvdTEQczGge7h2vaPt+7fPV27ZIA020pnHc3pS3kKiU=",
+                "mac": "EiHQ+NL0QQ5+NeSHrz8qkw=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/acceptStep/24/text": {
+                "ciphertext": "DDrdoJzkFOW9seYunbHdNipCtdY/G6SR3cBbA37C1MpafO8On+9q9vFFn92MmsYvDdllJpdB+dElYwLmq3bRzLvDVsVrmdSBO5/4nEWVVMIii1Xz19+u7E9dTgvL6ghE",
+                "mac": "w4GY/eevIDe/CCbfja9U+g=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/acceptStep/35/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/acceptStep/35/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/acceptStep/35/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/content": {
+                "ciphertext": "JKE3bGEg8UijDEeZ9SaPq6eSTYsKXIsfFiDxvZVE9bomPBfjVJ3JppWlRoVFmB4oJdKYMdSq7jloqT+A3FSpwAzG5WbcVhYCC8bbfXIu5+/SRHoi4VOtV80X0omMdDF3",
+                "mac": "BvdU35zswE2hP2CppsWfIA=="
+        },
+        "database.json/commonEvents/tutorial-botanics/event/1/title": {
+                "ciphertext": "WaZy/iIOrfcmwnXOGvlf8Q==",
+                "mac": "x148U4eLWLo0Nh5QqoyukA=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/acceptStep/15/text": {
+                "ciphertext": "lzNWVdpnDjKaAA7sZ44sTCW/B9z8cXYNP4HMBIq/844KTn7aXVAnn90UBnKrY/uX",
+                "mac": "J3YGf3JRXeiiW+xCNglBVg=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/acceptStep/22/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/acceptStep/22/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/acceptStep/22/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/acceptStep/6/text": {
+                "ciphertext": "i70u+0k080ijtjXgpKbIYueM8Q9aVDybOrfAlgPHzCokbrWNfsirk28DCPkV0X1Bhc9LYNYPp8omEP9tyXq2BKiRrVH9u04DgGqXD4WyxHntTtoPwfXxYj4p5+P05AhPaLa7TnEaIqer0HlrFvNCWw==",
+                "mac": "QwT6kJcWEx2tW0QAgtQwaQ=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/content": {
+                "ciphertext": "DSeKJM5JdhwZyJzcojc5VL/n9NbrxO4SZN2khBy6dfxJOOghBd0qyd2Zy+EdsyCVLwIqIU2y1tNSWp3qWkAO6EOvML4EHyqo0KKODz9EX60=",
+                "mac": "I3Gd5Wn0GV2IdSlFqvFNwQ=="
+        },
+        "database.json/commonEvents/tutorial-dash-art/event/1/title": {
+                "ciphertext": "McwU6MfehphT70pIhr6ERA==",
+                "mac": "KX10bcQYo/Px7fKPMPcovA=="
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/acceptStep/10/text": {
+                "ciphertext": "Y+mGRKpvC0Zn65S5RixcNZ1UMUrQt44SYIvD8f+OFmpdjeolRUH0UaCop+w4t5YD9XytQLyZiMzlab9t1KnjpPONXVfSwgh1j9a2euhONRvGe7auLoxLqE0+TU1kPe6vE72k7e1JslGxvEfv8KN7zRSmsg81RLEPHV7msfI+iu0=",
+                "mac": "2+ZFWgm4Wxpw+241Xb101Q==",
+                "quality": "unknown"
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/acceptStep/12/text": {
+                "ciphertext": "2rDfGJP1O7rJLJbpkMx05lG2BK5Hp0B7EVPhdTqWpc2h3UXvuBINSpE6qTPtZ04ExGRDjAWm22Gs5AI+uB0KJosDtJ1BYMa84zh9MNxqpdu/v2sO1FbzXY8FTiR53A2n8KEzT4FB9v6O5UPkSl7HjeIaq5Y4kJ2G+xI6bOeQRGChEdCQTGr3j8+ghlvlMHwxq3G1HKHwaqMYDQ20XO6fFA==",
+                "mac": "T0wkcKmNVAUSJTvsJRCDng=="
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/acceptStep/21/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/acceptStep/21/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/acceptStep/21/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/content": {
+                "ciphertext": "kTX0mrOa0HRnMqFCDUetTw3bNJAmUWoeNqM+Ru8yxfTycRRUt0yoSigs16w6WIY55HNU7+YpcvoR7hIyuba3Tw==",
+                "mac": "pVfaEza9wuTPHmfwwPV//g=="
+        },
+        "database.json/commonEvents/tutorial-elite/event/1/title": {
+                "ciphertext": "3fhuNERDepMLkMpnasJFVA==",
+                "mac": "URoG10aILAibde2DVETqAA=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/acceptStep/10/text": {
+                "ciphertext": "lrqdEOUMpmkQm6mV7S5/uNL8X0eiqgaIlb183towf7abLE1hddFK+1c30jlHGoxoitdBd117VNEz1fXlrzyNrCFZWXBSUjMkWXKS8Kc329jlPIpOsslHmnejJ2GFWm1ye2un7BvxGo2G8cgnQgBE4g==",
+                "mac": "N7VqcNphJiz3i2zSnUGmmw=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/acceptStep/13/text": {
+                "ciphertext": "lzNWVdpnDjKaAA7sZ44sTCW/B9z8cXYNP4HMBIq/844KTn7aXVAnn90UBnKrY/uX",
+                "mac": "J3YGf3JRXeiiW+xCNglBVg=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/acceptStep/20/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/acceptStep/20/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/acceptStep/20/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/acceptStep/6/text": {
+                "ciphertext": "uULBamu8jdlhRPQNieOOSWoVSUuT9MvV+YUXsU9IWjpu80PxR5br9nmT32ScVyPn",
+                "mac": "S01GBnmXInHEF3OCFgplpg=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/content": {
+                "ciphertext": "k1TlshUjx+/gQi0meavSqJnCSrIUabkkX7mwRCidgyVhPQaVN6WvZmNdNDv1cK7XkDKwMfRJb3SfszMXfuce5VyEbAh5+j+Ot/211GyL2/s=",
+                "mac": "kgXs+isS60JkRDd60+9pKA=="
+        },
+        "database.json/commonEvents/tutorial-guard-art/event/1/title": {
+                "ciphertext": "nnT0poB+tVjm4axZ36cCQKZWXhPehr/PphEUdjksRV8=",
+                "mac": "O717deA+y4InPCRNjJit+w=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/15/text": {
+                "ciphertext": "5b336LsAASOEG1DWp2HAjHghGtzegh5FzaG0TsmWkka17kOrDK/G0k/r9BHOhs59hF7vqBa3oQeyYPh/BW7sXOUjyNQNNJRaXeC/E4Wf3RMmb1oAheQPr8wetkBojlqYH2cEdY5NAVGJ0n9nUlqEiA==",
+                "mac": "NfXT0jLFJ/GyWhVGsPfqiA=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/17/text": {
+                "ciphertext": "lzNWVdpnDjKaAA7sZ44sTCW/B9z8cXYNP4HMBIq/844KTn7aXVAnn90UBnKrY/uX",
+                "mac": "J3YGf3JRXeiiW+xCNglBVg=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/23/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/23/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/23/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/7/text": {
+                "ciphertext": "zbAVTCzHV0/w9ZBPPQlWKlTPScEfClDH+suO9RQJvLuzGBm+H7+H1F3cKuo1mVmQ8fG7LkKwjkaNBo360TS6YPBVPY3RjCmMkGUCYfDGLtmMQU70TXBwkPYGedVO37g3",
+                "mac": "W0AczgdKCI2F/MkE6lAsLQ=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/acceptStep/9/text": {
+                "ciphertext": "LFYHwt6d5FaxbIBmmaBr49QJCUM+3PexpkKNo24ZLEKSdxI7sBCJHZuNZBQlkOvgJNOt+P9aJZSlEo7QLSWDtRhYR3Uga7TVD4BUKKpA8X8=",
+                "mac": "QKvd81jg2Tf9K0AUfaZ1Ew=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/content": {
+                "ciphertext": "ttHgkFvdHG2M9ynNgAPilcrSEmsB4FAE8Hmh0BrkJf3KMoLwc/chhHE8792RIXASI3qEeHYCJmpuu5qrP4adLuS7+hLaure295UcR9TEt2w=",
+                "mac": "WANh/UInnkSvA8qj+Efpzg=="
+        },
+        "database.json/commonEvents/tutorial-lvl2/event/1/title": {
+                "ciphertext": "uvHpRTLBg4vXS1zJ09z8M+79tOhsI99wqsPgBdf15gU=",
+                "mac": "ELqNER9edCP8C2FZmaLpCg=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/15/text": {
+                "ciphertext": "x5pFAEwgOwiOnuA2P/UlXfZxl/rRoxGIOpRNINuzNewTKCW3YOO7gyaS8p4fEVOOFX4yzwFyBdC2V8kAzz14Ph/rIfc0g4qiGBlFFivMMs6rQVe1Lgx4vh5qpuRDQdY7XRCBF0b010U1/DAXpJb4jQ==",
+                "mac": "OTbAzmNUkV/6QkWP6s82Yw=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/17/text": {
+                "ciphertext": "lzNWVdpnDjKaAA7sZ44sTCW/B9z8cXYNP4HMBIq/844KTn7aXVAnn90UBnKrY/uX",
+                "mac": "J3YGf3JRXeiiW+xCNglBVg=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/23/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/23/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/23/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/7/text": {
+                "ciphertext": "JaC1R/lHcbjthbafFse2u89wDYayvrHBjR6Adc26519TiUxOx9JVjlEnL6TIUP1MseODEg1o5LfSJ2zacW3+LDfghIAIdNzXvngHyUeneRA2QsrVEglNBUe5/t92ZiHL",
+                "mac": "hih5Q4zTw71XqM/4PV7VnA=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/acceptStep/9/text": {
+                "ciphertext": "LFYHwt6d5FaxbIBmmaBr49QJCUM+3PexpkKNo24ZLEKSdxI7sBCJHZuNZBQlkOvgJNOt+P9aJZSlEo7QLSWDtRhYR3Uga7TVD4BUKKpA8X8=",
+                "mac": "QKvd81jg2Tf9K0AUfaZ1Ew=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/content": {
+                "ciphertext": "hlPHrNLlw91oMU4hFfSqPqu1LyxCxcZgZ6XT3c/0clvqM+3IKPTe19gGU7bcnZEP/HnEyDVAHOt20It3W+3HLzNKE44n2XN0YwxXrnhYnr8=",
+                "mac": "lCx+YKB4+lO6so6XUxO0WA=="
+        },
+        "database.json/commonEvents/tutorial-lvl3/event/1/title": {
+                "ciphertext": "j04vdc/ISoAQH/PR7ZMAPZCFD2Ms7ed9WIVmVPBwms4=",
+                "mac": "8qSWCxV6I7+o3p+P8np0OA=="
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/acceptStep/18/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/acceptStep/6/text": {
+                "ciphertext": "WaRgQvpwBSDJxwZNJHb8ILXp7JG4I45Bugl4TuEU+HQyw6uAfjs/ifMJ56Ac+cOO7rzinbzSVbNQH18Hoss1Tw==",
+                "mac": "OS9zUshLJQCVqjk6rvNKww==",
+                "quality": "bad"
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/acceptStep/9/text": {
+                "ciphertext": "95arw8Oa3fDZvSmyEz5BWYkYi9khbexpNCvB/51J/wacWoPDbaNY44dgyouB2pCxoNR/AXurNyO/4SDS5oxlW/Gne2IxAqKc7cPgR8YppuQ1oNfWrqzAeSxMCUnNNCvmsO0PKVTOjWxtJk+bsPMuMw==",
+                "mac": "jBUb1D2NxEOTXENjRPuGpQ=="
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/content": {
+                "ciphertext": "T0xeWJ9tiz3DMtXX34UxMXLncCp6RJPmeKGR9qQvVJf6nBDw2YZR1qj5/mrLsz6socTZuDTkF1MWVE08U2Xuh1eF5nNnDA1m1djNun7Li+Y=",
+                "mac": "UJcWzYTFijKvSd0PIPknGw=="
+        },
+        "database.json/commonEvents/tutorial-melee-art/event/1/title": {
+                "ciphertext": "rAmTToxQZ61OMdFrhrqpUeoSM7So0vWEvGgtmhcY/kE=",
+                "mac": "cRlEVejkt/VrwjLMcCmwfQ=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/12/text": {
+                "ciphertext": "oqIE1pLrxKyQxwy2TQO2wmbZ/YG2wRJNRmONhU4OWBoQCl45yx3uyHQovDxK/AVLaOrjGWM/sC8+37/cDDAtBQ==",
+                "mac": "S+oFRah3KwYzfWyaBQJoIQ=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/16/text": {
+                "ciphertext": "l7NFJfLSNmHF0o7c3eyddNrqgRr4M+GuZcBUlg4ZH62cbyZlgp8iqFZMm2zh6fSygJnbQQZZfiHl/HmXYz+usVhcXM9+XINIZxiI3lehpLQ=",
+                "mac": "x95TeCX+ZMEgLQOQSZVEiw=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/20/text": {
+                "ciphertext": "uMm0XHbgUVcMLmAMFfwV9Y7opK4Sy2HWLET9kZexW4Pzrcf5mOj+tgvVchjlrZ3fnxQpb8yCtyemHHy6/YNKfW2D7Bdk7TtkdAVPZz8BKqxnpQxdM1DFBFshYhDGFhfF",
+                "mac": "+CB0gwxvRZlD4La+rs3wig=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/30/elseStep/0/text": {
+                "ciphertext": "SYQ4QkUaVnZUFkcjjYcgWGdcUNZTIecOk5axyq4G82puTu2oOnUvsAH/roBi0n/OccHIieSj+GHGUqzPPkVxUpM/pmIKP2/r8ntYOObiXZgUwzCuRh6I7JhjNdFHWoznPoBExVBfDxRGPgXiz5zovQ==",
+                "mac": "ygbZo4VWHU71Kg+V07+RMA=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/30/thenStep/0/text": {
+                "ciphertext": "TdNFemOmtLUmtN39G3uhT+XN4I4FIL34YOLjssVOT6S0FAwwsIdk+/uXii0v5gSRYO33zxHwvLC68cTwUxjBOGUsdmbg89ffiIZE94sV32eyt+ITnDeH2w4YHE3nes9IxqajrEWl2C382bHvM+daJtlhmjHoSPCAu6FsU4SMFB4=",
+                "mac": "qxigrrUVDNOhUhtGr4nfGg=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/35/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/35/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/35/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/acceptStep/6/text": {
+                "ciphertext": "9uavncgidTw/CE6HO8N2Homi/Q+OW0invw1yug1gBYJNmlQ2PgT1vHKAWmYYuK/rqvqSQMLYYm/4o2ggGQQDk9LjfWxP00EIjciEWrmCles=",
+                "mac": "lJvwwvVJ8hoXyY1YorZdqQ=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/content": {
+                "ciphertext": "EaU49HeUgsX1EePU4c737x1JqkeEIiGAxlSpk/d+beSnzPzhFYn15mOP6NIWE+0btd604lyI84JlTHj768c9FA==",
+                "mac": "wqS6Xh+gJU9b6yXgQbGCTQ=="
+        },
+        "database.json/commonEvents/tutorial-quests/event/1/title": {
+                "ciphertext": "iUTKGO143NzojN181fBb/g==",
+                "mac": "a7yl6BS0y8gcjbFCpUW2/w=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/12/text": {
+                "ciphertext": "oiYDF683YP5vFKDG11m7nC/IsueFV+M5fhkrUX05il1Vac1JQDTU1j7sH0duAlfjeqfRrLVL2ifPEDz9GwDyo/mIL/h3MVZMVgfg2cbHi+0g/ZUnEIRlfwLGc4MbMQx8",
+                "mac": "/oIfjP7U2VwBVKOQCSTxXA==",
+                "quality": "bad",
+                "ciphernote": "a6jvkfwiPQ2i+WidISFWbmVNT1ccmDYvjhyKk9Qu7+4="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/15/text": {
+                "ciphertext": "/11ZRCQRyMyQXYDJvVCmSqhXAgfHmjzOqk8Wx5LBgleiU+g6oRRvgSbvEZeL5IFfkAsE+u+/Yt+cnC/q7j6GwA==",
+                "mac": "Xly1uQrfMeEGe6tuu7HOQQ=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/19/text": {
+                "ciphertext": "lzNWVdpnDjKaAA7sZ44sTCW/B9z8cXYNP4HMBIq/844KTn7aXVAnn90UBnKrY/uX",
+                "mac": "J3YGf3JRXeiiW+xCNglBVg=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/26/options/0/label": {
+                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
+                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/26/options/1/label": {
+                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
+                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/26/text": {
+                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
+                "mac": "vz0105ygo8ebG+ZSryEgRw=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/acceptStep/6/text": {
+                "ciphertext": "MMcobORZ6ip9MaQhisgmw6doLOMpWKMlqlGngXzYTmOvgcWYhGCkSCRUSNzVFuEd",
+                "mac": "AuBY0ve0DGO+fr8cGN+WUA=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/content": {
+                "ciphertext": "JZGGF/QrcHNmXBaWqN63Ppnv1u3Y2mt0QVYMboL+yTNn7SrSCxHw75tTTkcdhCFORjQhkzkg/pxfCC6wuYdG+JxOyU9prRW2Q2icDUmm5H4=",
+                "mac": "EK74FtjBVy8REAB6re90Nw=="
+        },
+        "database.json/commonEvents/tutorial-throw-art/event/1/title": {
+                "ciphertext": "c5SzEAN3AT8yq7NHpMZYOA==",
+                "mac": "blckeWNBrGrQMTwdLHEhPA=="
         },
         "database.json/drops/AA_TUTORIAL_1/name": {
                 "ciphertext": "HczZN+e2cysYz5FY3mjQ1A==",
@@ -7303,6 +7720,14 @@
                 "ciphertext": "R5IQe6E6rPkPcVJPDYEG4w==",
                 "mac": "EpTcv1nPfdelw0jjYxcA0g=="
         },
+        "database.json/enemies/heat.special.sand-moth-1/name": {
+                "ciphertext": "WXD3XLrlSVys2uESJsRKtg==",
+                "mac": "jnjYXWy3ypYJU0sPS7lRMQ=="
+        },
+        "database.json/enemies/heat.special.sandman-1/name": {
+                "ciphertext": "41XZDfW6m0fg0rqARGT+qA==",
+                "mac": "wbmOZUB1m7CH/MX5/9bRlw=="
+        },
         "database.json/enemies/heat.special.volturbine-cave/name": {
                 "ciphertext": "PM9yTpagCGSlov1uHx6vYA==",
                 "mac": "RjzGH4lzOKyiNbEhCR0jPQ=="
@@ -7354,6 +7779,11 @@
         "database.json/enemies/jungle.chicken/name": {
                 "ciphertext": "j8b4UislqSvOmBO/GJaFww==",
                 "mac": "+PYgb0nlmakocIWpQwBXyA=="
+        },
+        "database.json/enemies/jungle.fish-gear/name": {
+                "ciphertext": "1XSdHdTNachaDeUykPHB4X8g5QJtVGS+GNd/5ywC4R8=",
+                "mac": "zyFR/r/1hQi2XMfEU/mZ5Q==",
+                "quality": "unknown"
         },
         "database.json/enemies/jungle.fish/name": {
                 "ciphertext": "4beC8rWNKDjtjdMBmkFgKw==",
@@ -7559,6 +7989,11 @@
                 "ciphertext": "KHz0A3QNncg0O0pXXb9dpyQ3c5KctEnRov0X96YfC9Q=",
                 "mac": "f5/1xbMJre46lKnrkmrniA=="
         },
+        "database.json/enemies/minibosses.hedgehag-king/name": {
+                "ciphertext": "j+WJr+Lhtj363WlEBH9g39fkeLrPy4tlvO44Z2y7n+Y=",
+                "mac": "imThilpncGNXTLpd7dXEAQ==",
+                "quality": "unknown"
+        },
         "database.json/enemies/minibosses.henry-probe/name": {
                 "ciphertext": "ZqFLQva6xtwCXC12zNgPFQ==",
                 "mac": "VS2EZVs7PZ8SQRs83Sfflg=="
@@ -7649,6 +8084,14 @@
         "database.json/enemies/snowman/name": {
                 "ciphertext": "bs+eUzF0crf6XDZ5xorsJg==",
                 "mac": "4BKLeTBMijmWIOV1mQRTrQ=="
+        },
+        "database.json/enemies/snowman/species": {
+                "ciphertext": "FnjgbJA7ZiAXpKCgZrFyIYNhCUSKBK4I86V2THZ+EhA=",
+                "mac": "PfGeC4ij3vTUg4Uv8LdlBg=="
+        },
+        "database.json/enemies/snowtank/name": {
+                "ciphertext": "wXG2F/HVV+iMlEKMowwEfw==",
+                "mac": "3YIjoC44i6YEiYmSBs/pjA=="
         },
         "database.json/enemies/special.dummy/name": {
                 "ciphertext": "uqFpqc91KY3Z4NSo1K2Tgy/HDlddNDV4uc3TkZg4DSw=",
@@ -8034,8 +8477,8 @@
                 "mac": "F27cPB1BLqDe+pNPnouQpw=="
         },
         "database.json/lore/faction-wave-rookieharbor/title": {
-                "ciphertext": "/v3hckOhfYHMQ/YNr3nXb68BtLxP68YQgRb66Fkn5Mg=",
-                "mac": "byNE+ch1kGZzIvt0fZcgOA=="
+                "ciphertext": "l/TyAGoXYCmr5rc8xoD8JWI7QpmtWhP+Dq5ot9AZcsw=",
+                "mac": "n6c4AF1B7r9NgpuCDaHMvQ=="
         },
         "database.json/lore/factions/title": {
                 "ciphertext": "yAKYhlZu1oc1OrmSf+8YBA==",
@@ -8288,24 +8731,24 @@
                 "mac": "sihBUB6pHFBmYnLgEHCCaQ=="
         },
         "database.json/lore/log-1/title": {
-                "ciphertext": "4Yh7TwD+yhjElh40tklFL1Ft9M+QEGRwcnPPCCH8Z8w=",
-                "mac": "A5QLzpYkX0MM1f4/Q3TGFw=="
+                "ciphertext": "4Yh7TwD+yhjElh40tklFL/px2Oa62yIstX8XMdHiGgA=",
+                "mac": "0IprLQ/HsGTAzLcmy7heRw=="
         },
         "database.json/lore/log-2/title": {
-                "ciphertext": "IPkMq3mZeMIqBceNWVfL/mxqUt/l3Zh5Qlo+W+5r7yE=",
-                "mac": "HZknp33pSu92HdaHeXiTGg=="
+                "ciphertext": "IPkMq3mZeMIqBceNWVfL/gcuj05yM+xpjXZOzvlcgsg=",
+                "mac": "N8pVORFGkVcEuIpO7Fj6ug=="
         },
         "database.json/lore/log-3/title": {
-                "ciphertext": "9tjb66w/0+ZoF2xMuUFX8W8M8Bv1ilwtVm6fybpRviY=",
-                "mac": "aVzqakJjvoxYOTxKuJx4nQ=="
+                "ciphertext": "9tjb66w/0+ZoF2xMuUFX8Vn+I7o/E3ugL0/4Mpu+z40=",
+                "mac": "IT/+0yu7tP+G/NWpK2UHkA=="
         },
         "database.json/lore/log-4/title": {
-                "ciphertext": "oov5JJT3EpKpSuTr2gN9PX47tNDuZEEYugpuxZf0JNY=",
-                "mac": "GyZP9MFiKyW+ydNZKAlbPQ=="
+                "ciphertext": "oov5JJT3EpKpSuTr2gN9PZf/CwgNLXDfzOAUUE+/Se4=",
+                "mac": "ZUSvOfCHtZpoZN29bOygHA=="
         },
         "database.json/lore/log-5/title": {
-                "ciphertext": "rYOw3oSQazN+bjeri6tLjZgJH5NXJLtBPRkDTCpHxkU=",
-                "mac": "8279xJ1KM/KrLd1cYGfGOw=="
+                "ciphertext": "rYOw3oSQazN+bjeri6tLjTAk5CkfbY/HlR7omDsJRww=",
+                "mac": "prRZ5Wyg+UQQ/dU2ZIV1GA=="
         },
         "database.json/lore/logs-header/title": {
                 "ciphertext": "qQ64Nn7/x3O2uaeyFl5RYLSPFmyroXaiyq8cccjz7LY=",
