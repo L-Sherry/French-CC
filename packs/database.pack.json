@@ -8998,5 +8998,884 @@
         "database.json/lore/wave-dng/title": {
                 "ciphertext": "KrpdnL57bsTk4/FH6SzOOlgWzkeSzsgqVwjw8MDAd3g=",
                 "mac": "sVhMUMDbb2LlOcOCjIKq+w=="
+        },
+        "database.json/quests/bull-arena-1/briefing": {
+                "ciphertext": "t2mYDoKsj7scoH8BxsBYx0AVM0G0VMvZSzujd9w/TMTqlp6ZpLs3o162LXOtk/luuUMf6IKGKP4C2WdYS0pMP/phtR1dq4VCcgcbOpCFboY8dwxiirpn3JnPEcYx+Qy6u5GepWcsqK71gven4kshzg==",
+                "mac": "LET87wLrNLlYJ4lu7hjXyg=="
+        },
+        "database.json/quests/bull-arena-1/description": {
+                "ciphertext": "RFrS1ZG4tFLaK9/7vQ3MEUC8qOMpNzD22oUGLqQtRd38aLdoBClPGSzYcwu9IcEjtbKVrZ/oJr6M9IpYVzhZeEMAB0BZEQERAmS1MJ81r1zH5jZFbq5W/oI3IaeceFH+X+8Vzhf6LyIFUcU+bOmKIln4uFeAAClZNlGqofscQP+yvrKmuaRPWbDL9LW2zGZKVHKdxvDRv020QdVlFlaxDnNpS3gQBVYqW/o/47w7y18KXVeaVz35ETPaGybkO6h7Gr2tqS/OyE5TpGOXZJiFs3Z2O70ZbjKZvZE91t8N3Ks=",
+                "mac": "mUaaif3DEwKcfraTjdzc3A=="
+        },
+        "database.json/quests/bull-arena-1/hubSettings/location": {
+                "ciphertext": "mZJR+oAjnPVRLKuyLYb1bSqNA0xKWIEcmdu3hhSw1f9LlwS5+4odUy+vXhCFEg3hSvY3pPba13nUE2jreZIXVQ4YHoIqL5wTv6VSf0fqKBDgpvxfImsvXhsMC5gX8juKCrEzJ21M9p1UKp17Hdyx7Q==",
+                "mac": "PbJCCbnzcFqC5AR6qef/ig=="
+        },
+        "database.json/quests/bull-arena-1/name": {
+                "ciphertext": "JQiiNeNYU+7I8C99GQwgkwP58ekTY2aofmK2kmmD5V4=",
+                "mac": "7yv44XTeDYCFyza/pQ0g3Q==",
+                "quality": "unknown",
+                "ciphernote": "ZAp0F0/N2Zmrd8hOqWb2/w=="
+        },
+        "database.json/quests/bull-arena-1/person": {
+                "ciphertext": "mrzChklVE/F4SURTBut2JA==",
+                "mac": "CGAUKuivFm4hD5VKKgFi9A=="
+        },
+        "database.json/quests/bull-arena-1/tasks/0/task": {
+                "ciphertext": "JtgJrDrOD8Gi1GaZC7Xlyv/KgGcSdsnu/leODCyU6ToN7fICbbeEdwY2d33UpxZYLrNhqrj7dEDFmJM0Md5C3dzGiQD8L//OqpoWWgNrWYwhkQhysth6EJqNsnXpJqQj4nY1QfoJfuAbf1+YacAKog0ZTmJjGweTi3w6IR3zLK0=",
+                "mac": "0dHIjzoWHi41vaAEiIv77A=="
+        },
+        "database.json/quests/bull-arena-1/tasks/1/task": {
+                "ciphertext": "x+jxqvNZW9JiXFEIuFJGbgGmJZBQOQZricFaQe6TDAKcGlouIP8g9jE14rKbnqlYO/tmpZjZksCujb9Ejp3JYu37GM9D8RGtmLZK3Y0/Cr6f4OBHD0uAQufYLireDLgO",
+                "mac": "3hJTCvzuIP0g7fgznCBfhA=="
+        },
+        "database.json/quests/bull-arena-1/tasks/2/task": {
+                "ciphertext": "dmWlzoRvNlNd/CbK3Z11phxfdiH1o6iP4+IwASdQ26lykW07S4gkGrfNMGEisukH",
+                "mac": "f7p2x1jax7tIe+KKgMExWg=="
+        },
+        "database.json/quests/bull-arena-1/tasks/3/task": {
+                "ciphertext": "PPNSOh+ZKeOjHyzA+HTvdeoGp7zAQs7Auwekfb7yLlYFZX/kkecO8OmBwY7Mqp6/yFAkVHCv63SSlFiCqHA1wg==",
+                "mac": "VjFq0FlYVd0syODKHA80Dw=="
+        },
+        "database.json/quests/bull-arena-1/tasks/4/task": {
+                "ciphertext": "pu+dhQ0kaFCNV3+Noazj33DE+irUWAovwmBp1TDX5zONfIwQphJ6giX4uqRDp6BfMFLY0O6ZNjZzzpOwC75+ONlLcvgkbVyIPIWRbBKYb2k=",
+                "mac": "3vB6SJKM5zIYS6psJwuoxA=="
+        },
+        "database.json/quests/faction-tutorial/briefing": {
+                "ciphertext": "Ge9H6s8qofPpaKZEiiEAvXaNxgJhDQqc4DtrFT0DoMg5wuGxELS8u22RkpmHwIZuLPDkrt8+748xRyq7n/o6j5epWmmvo8jQxA6Wu7AI/KHJ6VyCVKUiluJi4tlwip6TpF57OoS4uj/E8JWupjpc2G5d1wMAs2mPAQlHlpKGsOPaKr5gPW2P3WqI3aRlbCWAPAJOPpwo3832U2g60b348vl/kahb3uliQrxvEOCPAnE=",
+                "mac": "gQzLeoNorHY6QU6GVGnYWw=="
+        },
+        "database.json/quests/faction-tutorial/description": {
+                "ciphertext": "oidJ4HC5lkS1gGawYTjzKvAVyWFaXDHXHe/CCpukV++j21Khf2Ru3vXxt3VDyp0RXjVG2Spbp2O2vL4XXFM0cA4ABKhLM6Cw16WoMPO01Myv1gFQc7NG9Pf3QBzfBPlv0THZJysQi1mjfECuoKYHAiS/48XOwgbYgkaB8wHgHOmTt2M/iK8KlGynFfKlBIS+ZvhNrfn1eKGecN2rN23IWcvfnvPLwunQyqIkIyrnKyM+JkUIPkwuZ9dtc3E/XWHFzcEHCy4PYfHYoOU9myRrC8PMlvpVRZG/zG2nCP6CqOS3BXI6PnoxAnlGzxI3jni9AUN7NI38EJUKO575geHhOBeHgGjHcBKwu1e6cVBEMWdoGbUg+VWbdxxNL93PHpQAQXK+k34m/iNWG8jfVoYD9g==",
+                "mac": "hJYp5tLURBJUlDGkxkgBUQ=="
+        },
+        "database.json/quests/faction-tutorial/hubSettings/location": {
+                "ciphertext": "UzWdNIJvSaSu1Vir10z+ruq6VFV++QMqe9wBPKXHj3Xczt8eeyPb2WhgCShL5d5Dqo/0tWRo6Y9dJ1otIzBA+wAjb3Ce+MPKX0R3mec+uCrY4hG0+r3EvkgMISWViGCZS4YyQbMZl0GvrAZIhC4tJjJ68yQg+IevphojweY0Odk=",
+                "mac": "jbGbKtyotxgm4yHDOL19Rg=="
+        },
+        "database.json/quests/faction-tutorial/name": {
+                "ciphertext": "B73dN9OihS1PG3/CgZFpzbac3rzGV3zuZC68B/QbRiI=",
+                "mac": "BKXcrXOlgIwL+XqTn98s0w=="
+        },
+        "database.json/quests/faction-tutorial/person": {
+                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
+                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/0/shortText": {
+                "ciphertext": "kZ3+I86nDDTDBw7ydga6zleiLmBJLUrXn/VSSieSsAA=",
+                "mac": "4s0/SqHOoBqRlmx+FWDchQ=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/0/text": {
+                "ciphertext": "AqVm0yfuKrX5ghEAibva4VCRsrDGHETw4Dxppx2Yu93w0diTweu1+5uPJu0hAjrOqFULlQhXS1bSjL8FqZivHbTvzA0/MePtHJQhH7mw0IE=",
+                "mac": "8cd0jhr9BbtXYwdPaPZq5A=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/1/shortText": {
+                "ciphertext": "ZV2GLhdlC2lZbsn56owa3T7UnRhc5eHH2pu9F6AB2rsKQXg5EfuOB8pfDLKRb+OH",
+                "mac": "roJq4F/aTT+vEJviJL0OKA=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/1/text": {
+                "ciphertext": "IDJ3wHVKR9wZn9wYtW+pIOVzEk456I70hAIXL8PllrwBOlyX/JnbH/u9OHt3kcoFX3haw49jBC5WL37CeMqK8AYnw5WbCy2vmW800ZtA0co=",
+                "mac": "OP0wEXxmvboyIiSsWnkeqg=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/2/shortText": {
+                "ciphertext": "T6lW/VZhDwnr0jeueAqr08E3Mi3vlTqcnt0kiSeVh8jsU2IaJ3evwpvV34CYf1P3",
+                "mac": "BdVTXUxTN0sFeFp3D0sUMA=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/2/text": {
+                "ciphertext": "XgWYCzy5j65A2li/yCWIMQNR/biEhajYDKq78O3RV+f3TQvMSJghwhB9UnGIb4ayR04TJ5mmhtpjZFqLA1M5eNympQTv/haU01MQUQm3p0A=",
+                "mac": "BTyxbIqftIaykv0O/Yd2aA=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/3/shortText": {
+                "ciphertext": "nevOmNpLlWKZWpVuAYnV8Kda6l2wtgBtnE4OKc3Aj9hqMc1psCwZ5CqK4cep0ZrC",
+                "mac": "LOeefAx8auk2dBHT1o+vKw=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/subtasks/3/text": {
+                "ciphertext": "F4oovyPbaOgpB8a75ffqEomKGehHFStwCSB17vYCyL4oRID4raJHdhs5HrK8v1pyEEJNa3pTWFKpkU/J65lC5Q==",
+                "mac": "6v2dEUG4DMo5CEuXDoO/Pg=="
+        },
+        "database.json/quests/faction-tutorial/tasks/0/task": {
+                "ciphertext": "S+9TZ8oLkSlBlf1ut+7iy2S/P+QdbBmv/Id5suZeMgGGgY60EuXZHM8V6uFjmiPRKKZUmc/GOMTI+k6cVWc+ow==",
+                "mac": "Wa0582MPQanxK6Utu1kBdA=="
+        },
+        "database.json/quests/faction-tutorial/tasks/1/task": {
+                "ciphertext": "8z30ODrbJMtmlRcCgoJMtZRb6qS2NRFlXYC9tczgTDTOtP1YHJbHxz8MS1zci/2BFzCBRsyt0XPOk+UiR9Z1wGmzelFmxhRgAcYsqdr/6Ug=",
+                "mac": "TGIk6drQYPZMfOe+W+UNMw=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/briefing": {
+                "ciphertext": "MpTuGTmwXjwC/jNxGT6YV2UOHTjfvcxh9fESdyrGrQ3t9wtfBrGyaIFeY+XD2E0sxqHHTvUjMH2XkcQJV2lGBFIAtLLv/enAQ0Gp9U+uVosBT06/njBP+bxmHTmCA8MNvkmuKQqf34a5Hnk8wZzMQJ8Y2D2aQ80r3NcJjcoo3tgLwnWj8idJPjYQqBQti73r",
+                "mac": "qfEf6bmQph1TS3pBpw4VRQ=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/description": {
+                "ciphertext": "EBPr4BKvom6NXuCFU4gkFkk0cqQ2oMPAI8phvPAUaDO7sauEpBmtxp1W7ssqrfbqOunkkqxG9yGIhWXJaY5NK5zENO0sPTupwyPz6TT3GRsfzNp/7++ceA5raSdoYrVQfnnY3nk89RqUhNaOL95mwO/K7pfhembccZdn0HsG68WNXnLXnATwe8GBAbGG/AXo",
+                "mac": "jTvqtnlqUwGLj2Cl6AD2bA=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/hubSettings/location": {
+                "ciphertext": "hxup1LSTxyZro35CfRotva6AWBz6O1P7QUcLPnUPx2nDLONJx37HIHXOdoMP3dA+znqggZhrRHqkSN7tXN2TAExDwi+SgBYg76IUKAGJ1p5tm6UQA4bMIEeFZJK97MAb6ocTjilebQPY1M7Yp1DzuCvcv6/v1T7vM/smQUDr/3Q=",
+                "mac": "2J4ZEv6Y6G1QPCYtwAHpNg=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/name": {
+                "ciphertext": "R18hdHoHeBFwTxXBfU2jHddpnAKW7rpoiKoGRASJT2/igOrWsfKIErLMgX90aiot",
+                "mac": "6ZkFyH1CrmGJjz+vKymh6g=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/person": {
+                "ciphertext": "catyzxbsZiTuwzxOUZB/xbjZExFU8ziQOONWgWbLXOM=",
+                "mac": "LQoTXTEEC41JeNKylpkB+w=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/0/task": {
+                "ciphertext": "RPhzPQk1GejKLzBP0RiMamdPp8sgP3DMqdoUQBQw3kb/G62/Jw9vVRqKMDVK5sLErprNWturpHlsTICU8FryKBCEhe4pfdn/zhllaMI2YK1FYfKfA4Du2+PPYE4fwMFeXsIzEIYZ7LmOdeSvGc8eag==",
+                "mac": "95XINuP5xqUdFvrZ5Oao9A=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/1/task": {
+                "ciphertext": "tu5TdMA8RhiGAzBpOIW/1tPInKcf9oBOIidnI5nRx+Wgd9cFIu0vv4bRB69LfoKna3/ZE2sbEPVDYOfJEpPCsw==",
+                "mac": "kLcOKsX6kvbRHYiRWMJLEg==",
+                "quality": "unknown",
+                "ciphernote": "XvUfqvhB5FUMP5M0czdMRckhQQf9W4aIptA2NUrsqqI="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/2/task": {
+                "ciphertext": "p7NLeUmb73KoGMXtahpOd0cHHcFXZI/RNj0eybKonW6RtNdBquKZhqWFoC6/n9GQTY+5exoRVc/1OvfLTqNQnw==",
+                "mac": "pm8rfyflqhx0mRGcz34sng=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/3/task": {
+                "ciphertext": "534U02aID2MOQ3eOxgX+eYKvFGJmNm6BC/gbuynG8epq3xoB0pOwGc+DJkrfH1MjzpNRQw+CG8berYDncPMGaNkNJ15tbNBbDNjzVbb5Uek=",
+                "mac": "9Ox1rOjP+qzjxLuXpu9viA=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/4/task": {
+                "ciphertext": "0YWLOItViw3HL0cKLJr1n1eTywhqLr1gQlSJ9nO/czOCZ7Z4y4hANwbOmpVLzViH",
+                "mac": "00VRXgIu6aVZLDhqwah9+A=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/5/task": {
+                "ciphertext": "tUiTda69r9RZKLL3c04yocjCL26DEm1+OnSM5csbRwVHkO6L8OxlKs4cQiFsjBSqSCG4NFqWW4GCrRkgKV8Pmg==",
+                "mac": "90Y4WQyjnBbX8n0hbGlrgw=="
+        },
+        "database.json/quests/fd-2-meerkat-cave/tasks/6/task": {
+                "ciphertext": "uCZne/F72pEkwse8aitJwz72qoGHAKItwAzEu9LgDjhOWJqKkNbB/oDTF9mFBTSyoG/4DEcSc88ZiY4GdoIX3v1Lq8txD5m8OjtptQ3340nWWc5xW8OKv3/IODN+/3EM",
+                "mac": "mHAmSJPfm0+mOKmhzPBDBg=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/briefing": {
+                "ciphertext": "4i1DjDx7yz80rQHume3vcM19F/9HwBPjQh7fUvGV9/DCrBwQGHyETq4hRgKfsa1yOBH/BGYhCUac9KMFYUUAMG0xLHqWITCHFk9Bz/fEA7lGO2SIhuk8eccfEASmq6Nu/DJcQXxn8KepMGA+/m4zwyEVB6iQrxlr+0ny0J+MJPc=",
+                "mac": "5fYNS1jysOFYo8DypWqlhA=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/description": {
+                "ciphertext": "Vq0UKnKqajiGNz3C7t6BfV4M4k1WjkoINs8AKEr8bkWCirBEuP4I9e+cs6mgsMRmZ6kh7dSjIQ4kIO7xlaf5jkCZseyvy6UrtfgtjUeOyCuVpPiF/+BJA5p+cw+7Qgh7Ho4C3A+IBWOBcnvXE5DN1RdXC5a3OMuf4upc4Qv6zkWvhXbyHfCFF/aHUNVLtpvfyT6RUv4KHDACHnaKzaE/TPsxYmHCdH/ddM17AH4SUzDde+WVOTA4y6rqjclq71LLCXeyeEXxe9i4oPjEB4GWD+/CZuiV9IvPqVL3VEzpOa0=",
+                "mac": "zhBzyGAOaFWQhhN+wyE6Gw=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/hubSettings/location": {
+                "ciphertext": "ULiV1hA3PlX2n3NoMVFjEgCXdvqCqSbXq2W/SaF1V81jtcluw2MzzYP+WQ5QyxTp+ZlvV56vzwKNva+FP38kOCHiqQL6AaKdYKPaBJzQtTGU/dOkWIisG6iORnYI+u3TC08lpPc8jzXAOyc8ZJ/MmGu66IK3e2MEJvHddxMW2iM=",
+                "mac": "rsMd03IN2QeKfLJHdb36lA=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/name": {
+                "ciphertext": "eknQZxLLxtiuiSZcLulTTK4lLBM9/JiGMAaBQgkOaI4=",
+                "mac": "JDbf+XwDVB8Jl8tub0cM5g=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/person": {
+                "ciphertext": "catyzxbsZiTuwzxOUZB/xbjZExFU8ziQOONWgWbLXOM=",
+                "mac": "LQoTXTEEC41JeNKylpkB+w=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/tasks/0/task": {
+                "ciphertext": "lPDTX/mGGtbeuEPbTnRsIB0OvefH4ilOMAueRQK5+nN/PDTrWbQS28/SOjj+CpWMcGx3rLr1VrQyVaAWeh7h8vTkytHCVu7MFOr4kItMRYqbVnV4Z4AyPdnKknZY0k2Hi0oTYNf2IDp8EQeeIk/h/RksBUyPsviSL3ZEb8Abbb2WyOpayJrqcwLfE1yWrjIH",
+                "mac": "dBy1CryyMz1Ssm7tZkRVVQ=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/tasks/1/task": {
+                "ciphertext": "ZHv9Fn0RsLl3FrGvoUI8uO3Qe5ZkVlCm9z7wHhzfiD/etd7jHt8dcJGBUgHHuJXWrzJO05VcIWZZ/Sxh+fNOCJl7cFXMiCozOEIhB1c65g7UWX/VfZ/s2RQ6wOLsbKGu",
+                "mac": "S71YgHZvDuUHpATrhttu8g=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/tasks/2/task": {
+                "ciphertext": "MXMSJ8N13ZDb8FkYDwC9Ti2h+ISXTJUua4YnszBFOtk8YxLPtczrz+NCg3uCjy1mFXmsxnJM6jY8cvpyw/cmWT4S/cT+PGf/L6gcQJ0yU9Fowj2lI974egqHC69CUQBujaQuyByvJUd2Bc+8PuIA88nlPU3WPXf25JzWvaiGXRw=",
+                "mac": "uiUt8Q8GSeeMVi/MKIRy6A=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/tasks/3/task": {
+                "ciphertext": "3+CWJOpiy1LvTHi5BaJDxZh9iqJEmPe8EIW8ghNByVlM6x/eOW9UMf07SlKJZLUoWDi8tzMPW3oQMxKyCfj6fL6HfMHuvNmgrlH9o4SOrDcUm+STYM7/uv30YoI78ueP2KWDSfu3VNgrW9A7R4E3KA==",
+                "mac": "JHfm6naOaAL4KBRLbSixEQ=="
+        },
+        "database.json/quests/fd-3-ball_egg_1/tasks/4/task": {
+                "ciphertext": "uCZne/F72pEkwse8aitJwz72qoGHAKItwAzEu9LgDjhOWJqKkNbB/oDTF9mFBTSyoG/4DEcSc88ZiY4GdoIX3v1Lq8txD5m8OjtptQ3340nWWc5xW8OKv3/IODN+/3EM",
+                "mac": "mHAmSJPfm0+mOKmhzPBDBg=="
+        },
+        "database.json/quests/foa-1-treedoc/briefing": {
+                "ciphertext": "+yghxF5tY/jfXANoL+vC22qShdfY/N3gTPaJMjpHS28BLNtXLOLzwcHNSwO4Tp2mJ2q8Qyt06NfEhHMU4UDflXKFhWZGOrZ2nYvvgcoPJNQ=",
+                "mac": "sBUssutNxgY+d1g7L4vhlA=="
+        },
+        "database.json/quests/foa-1-treedoc/description": {
+                "ciphertext": "mo/Expc1ZvkkOrQhViDrmsPEdEAEs86lG56sb3Gf+OE+jxmzxSOFDkJwYPBsXkPLC7At7b3xchIVaoLOwTK+m0aYkHuEd3je5eLG22fUXOzk0f0bzupfKJCsQMoYkNnMM8A1GRiVIUSjyuASHR2YBVWfaKFwZIlw/PaRziszuMWEGnN97iJ+5x89rMB5R8rW5Z3AqWK03JsdOsh57kcQuVVXJ1DDAIOXubgZ62kGeoB2FogFgIxK6B59nc7jMZCjxyfAgLjfx/W5uwnZ215s2Z1Uxnar36X8iim8mA2eCLw=",
+                "mac": "oMep/vcI42zQ0TmotQ5kAg=="
+        },
+        "database.json/quests/foa-1-treedoc/hubSettings/location": {
+                "ciphertext": "L+CW3QFXHLmEhwVyZi06l3RLSKn+1JDxK/wwNc4bQc3RSfneTURSkdaRyF22BgzgcvdbVuHAFG7rX4g8eG280RlE0U2y2FykXd9z75giCp/TmGcw9t962CVa2mPgqMraxaB+rLAX6p8CSXKylN12bg==",
+                "mac": "KZpstESuHaVYkvOYVSyilg=="
+        },
+        "database.json/quests/foa-1-treedoc/name": {
+                "ciphertext": "+EyAfZDMp0VvozBEPKSl4BOjqX30Ex7/JcuzrqInOEw=",
+                "mac": "5IgotSkzVt3enbmQWtSSng==",
+                "quality": "bad"
+        },
+        "database.json/quests/foa-1-treedoc/person": {
+                "ciphertext": "rAshMn3UUW04MsHvI+b/Og==",
+                "mac": "/UkwYdKgqWCY7Xxn9ETPpA=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/0/shortText": {
+                "ciphertext": "SkeNwwJa9q2mmU8VZYnk/RxCIbWt6fzdtuMVb1LTdK8=",
+                "mac": "dDOV6EmJgcO/Fx6tH44Bxg=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/0/text": {
+                "ciphertext": "Ce4gWv4N15whrDWTwCfSQQWSjNLgmTeoomnNK+OPODJeFnyzh2BQ67YQUpKd9DBh",
+                "mac": "A8vMy9DslvbE6CzZAes0UA=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/1/shortText": {
+                "ciphertext": "CO+rTadg9BX2iVVmsuAgMoZ600WsMhRwXzsi59rYxdo=",
+                "mac": "aQf2dptx2pfumxpNrB3Iog=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/1/text": {
+                "ciphertext": "4r06bGffSVoiMzDIUBqvFm3v198H+jHOVGgcX4v4tDOcLJUqNa/p4LVy1c2ukOTR",
+                "mac": "oKhW39C1cF0iyW+OhSZKyQ=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/2/shortText": {
+                "ciphertext": "BLOiJ6y4pzLW9iIH4iskuXt5a6JfKw1BuIrXox/Ja+o=",
+                "mac": "JuuMXjYQ35784n/A7ukqfA=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/2/text": {
+                "ciphertext": "X+n3lKPoYngtRxapqeAAxjNi2/VrXimyCrQjnjHVgLhYfbxE0aiZFWa906Xi5a7znwuc+he1yHdaPYoR1dciaA==",
+                "mac": "oNIex+DRHQHU8FvQTl3nAw=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/3/shortText": {
+                "ciphertext": "nWxMyfJQc6geZNYimOLQXQxnQnqv0RwfcLDSEPaLMJfbo+0IDIuCGKcdiw7V3vNk",
+                "mac": "PU9KSLoTYwtmPoAIqcgcTg=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/subtasks/3/text": {
+                "ciphertext": "x+tHobn5RR7LYsC47PFAXM8O+dgyTXECaKZGLlFDzLOPrbsSgos0oWs3QydWtLOPOOziwRtPjfP4vrhicKiMCA==",
+                "mac": "YRgm+6DY7jRK8YKS9VwaZg=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/0/task": {
+                "ciphertext": "9j9rXU1x0iZj9C/LUlQgbfhDPp9WtGzSrF8S8PfdMLm4uuushpqmxsCZ5UcudvucSYvLkUksEgerE+Wl8Ls/kUipYwJEJ99ZoWt6draj/YU=",
+                "mac": "uPNceusxq7GqwwL59tZysg=="
+        },
+        "database.json/quests/foa-1-treedoc/tasks/1/task": {
+                "ciphertext": "7zyS94E//CBTNDceC4ipMrxDkEXjuQi+OGOCIArjOsRA0IKy3MUPaiTm9UWU1XxzI7YJSFKc/QTDFTWsEfSUrxP1T5jGwR+JssmMypYeOXhxFwhh3Bb+kMMCOO+JFG/P",
+                "mac": "/GHPghmjjFF2HWD4UuwfMw=="
+        },
+        "database.json/quests/foa-2-tree_defense/briefing": {
+                "ciphertext": "o9dFDnnOjf4HDFQMWzNx5ugAjX0Id0hPIMk7zQMekBmzeXzQg3BIhue3v0XaL+AdyDujm0eOU38vJVKAgSLRYvlXlaTwpVv1mDUPkBofUkU=",
+                "mac": "ryqSfJHtc/1Fhq/R9Xzn/g=="
+        },
+        "database.json/quests/foa-2-tree_defense/description": {
+                "ciphertext": "jQkmwHxHIJ5PrX5N9lbc0dT+fzoKY9+ZnN4wq2maW6kOytyqKXJ1CY1dUoHKYbhhEijzd6+jZVoh73rDXkjG2Xf4i2UAnn/Mbf5kA/tselzQbhiFu5iRUmzLCWZP7yJ+NSHsofecaoKWDt+aaVd6KjwopvXvjOSdJ16Ca9TIB/vvQiL8dCUAzKHimK3QtAqWNrSDTKrwrtt3bOqm6v33a4sw1vPdKYE612VQ7AuVkLo5ZCGMi19pmjM7NJvhrjB+",
+                "mac": "q2i6teR8RELswK1gwafWLg=="
+        },
+        "database.json/quests/foa-2-tree_defense/hubSettings/location": {
+                "ciphertext": "wyAcn899y9s3vDTph/uqNK+WTS8d3rd9BiNcGULWxBX21kEf8AswQzj4OLnjWiNNYpJWInulB/m1WgTsYs1LEsTmay2YMU4G56c0wiFfHobwbi9YS6dFQTdnav70TzXmXwOdhFm9s8krY9HbHH+WVA==",
+                "mac": "F0z36uZQ3k7mZYnxDXpvBA=="
+        },
+        "database.json/quests/foa-2-tree_defense/name": {
+                "ciphertext": "q7cvhlA/84Ifd2g3GhEIp659Mrw5Ace0FC17cd21pDQ=",
+                "mac": "ewRdaG+2fIB9y3hbM9Kgcg==",
+                "quality": "bad"
+        },
+        "database.json/quests/foa-2-tree_defense/person": {
+                "ciphertext": "rAshMn3UUW04MsHvI+b/Og==",
+                "mac": "/UkwYdKgqWCY7Xxn9ETPpA=="
+        },
+        "database.json/quests/foa-2-tree_defense/tasks/0/task": {
+                "ciphertext": "Lf5eHZTn7F+A+OogpyLs48t3R7+nfHsCkzdbScyC1d0JcydkpQHB1EKZPUZQsZ7Og5xrk/K9xDJT6WNK7iBzkcz9/KSJJV+WtdwQztnUZj+UPH6YEH+pEJUTE42QVyJTKP/12sVPxRsaDNFJhYhpaLWdcWNMuO0o692uoCEyENTP12CAUw7mC8wgOjIy+UUQ",
+                "mac": "TxZrd7ivnVllK4UeY8eBUA=="
+        },
+        "database.json/quests/foa-2-tree_defense/tasks/1/task": {
+                "ciphertext": "7zyS94E//CBTNDceC4ipMrxDkEXjuQi+OGOCIArjOsRA0IKy3MUPaiTm9UWU1XxzI7YJSFKc/QTDFTWsEfSUrxP1T5jGwR+JssmMypYeOXhxFwhh3Bb+kMMCOO+JFG/P",
+                "mac": "/GHPghmjjFF2HWD4UuwfMw=="
+        },
+        "database.json/quests/foa-3-buffel_cave/briefing": {
+                "ciphertext": "/ZrIB9G5gFkVMewukoG1veTO/uFWhpsGaloKUiJqq6jSh4kA75iP0BdQliafv6IKGheMCljqkWYXERMuBQpsxe7LLTupGGamPom9wuv8mFt9KP5RPp2W8MIJ8hpHNbKl",
+                "mac": "JDJUF24nm4C1t4Cu6jfdiw=="
+        },
+        "database.json/quests/foa-3-buffel_cave/description": {
+                "ciphertext": "5YgndNces6WYTeqmECStbq627n49yAQlchbIX3Fq/2xfwNrIF4ORVRmL+t3E/GLuHfI/rQRe7Yh83FjQIZNdLoSaXSHBGkt84EZDq8ff6Ah34ORN855o9cQ+xPE9Hld9lSHgtCkVop8VSfB8kOzvyGmZdYl1Vxl/tcBCxxXhfYM/pwiP97r7S1PCVD0VudHnJHVf9nqlW0KctYFx/BkVB0jGXczVsY97WhULJ08aeEWevhh3ouE0deYRBW8Zct6o",
+                "mac": "l6UUmpPtW35VPXhhphFwBw==",
+                "quality": "bad"
+        },
+        "database.json/quests/foa-3-buffel_cave/hubSettings/location": {
+                "ciphertext": "gsNPVUYd5z2tKIZ13xzfXvUBhXY9oYbrsiBkNGGd9jd/hnjVuutroQJwa5UHYOgzcorELZ9nUOIWpQ3SIeT6nXFI+XjfXHZiBFP5MxeIFL440P30TCrwOz7FLs8sOrlLvz9K3fF7Bay1EXifkS+asw==",
+                "mac": "Rwnpgh5yo1JKI4JZd0c4jQ==",
+                "quality": "bad"
+        },
+        "database.json/quests/foa-3-buffel_cave/name": {
+                "ciphertext": "WFI02ZPyXQU7Fm0Bpjp0dg==",
+                "mac": "60iEXuUFn93LTRFxxKx6TA==",
+                "quality": "bad",
+                "ciphernote": "4eJG0DMmU6hEUfHLbBgTSQ=="
+        },
+        "database.json/quests/foa-3-buffel_cave/person": {
+                "ciphertext": "rAshMn3UUW04MsHvI+b/Og==",
+                "mac": "/UkwYdKgqWCY7Xxn9ETPpA=="
+        },
+        "database.json/quests/foa-3-buffel_cave/tasks/0/task": {
+                "ciphertext": "1fFXEzQ6TTkduNY5BwNGqFpgGXF8fMyc4oMpCs5cnPN+lHiKmMmbfHK86eFttxUmVmQhdzRirmJL/MJ8UrEkQWPJIa9ofjD3F8QnQQn0/ZFBCEtz7nu0vmJOMxCE5phuu9QVdgvNwsm8DytwsFhOVAO+TUfc2z5ui66EO/aITQg=",
+                "mac": "BS2PuzgvgTxuelJCX7nZSA=="
+        },
+        "database.json/quests/foa-3-buffel_cave/tasks/1/task": {
+                "ciphertext": "UyyoNlnfDuTY4kUg97KtITTT0aWGzhQPQxz3jFbF555+9/SC9F6mx1ZbfCxzaWAcKom63TLRuuM0Qs13kX2mkVsxRjrG3NBS4CqWWup/3IOKL1GTjHih8LHWlfOqZeJj6VZPHHuDnhIHVUqcEUM4Hg==",
+                "mac": "AB1bL0pFHDwMe6OA9ZzWvA=="
+        },
+        "database.json/quests/foa-3-buffel_cave/tasks/2/task": {
+                "ciphertext": "7zyS94E//CBTNDceC4ipMrxDkEXjuQi+OGOCIArjOsRA0IKy3MUPaiTm9UWU1XxzI7YJSFKc/QTDFTWsEfSUrxP1T5jGwR+JssmMypYeOXhxFwhh3Bb+kMMCOO+JFG/P",
+                "mac": "/GHPghmjjFF2HWD4UuwfMw=="
+        },
+        "database.json/quests/foa-4-sick_bovine/briefing": {
+                "ciphertext": "o9dFDnnOjf4HDFQMWzNx5ugAjX0Id0hPIMk7zQMekBmzeXzQg3BIhue3v0XaL+AdyDujm0eOU38vJVKAgSLRYvlXlaTwpVv1mDUPkBofUkU=",
+                "mac": "ryqSfJHtc/1Fhq/R9Xzn/g=="
+        },
+        "database.json/quests/foa-4-sick_bovine/description": {
+                "ciphertext": "jQkmwHxHIJ5PrX5N9lbc0dT+fzoKY9+ZnN4wq2maW6kOytyqKXJ1CY1dUoHKYbhhEijzd6+jZVoh73rDXkjG2Xf4i2UAnn/Mbf5kA/tselzQbhiFu5iRUmzLCWZP7yJ+NSHsofecaoKWDt+aaVd6KjwopvXvjOSdJ16Ca9TIB/vvQiL8dCUAzKHimK3QtAqWNrSDTKrwrtt3bOqm6v33a4sw1vPdKYE612VQ7AuVkLo5ZCGMi19pmjM7NJvhrjB+",
+                "mac": "q2i6teR8RELswK1gwafWLg==",
+                "quality": "unknown",
+                "ciphernote": "lTalIMItlaC1YLHZuvD1Bw=="
+        },
+        "database.json/quests/foa-4-sick_bovine/name": {
+                "ciphertext": "LrjlSUbCYTZu9koDatK9xXEM0Li0cyK4iiCRzRkxG/Rk9IlQ83vO64235M2S2LZRpa7bhBX/hSPNzwsUC8P9PQ==",
+                "mac": "ECc6Zf8K5sCz15zJNiY2ig=="
+        },
+        "database.json/quests/foa-4-sick_bovine/person": {
+                "ciphertext": "rAshMn3UUW04MsHvI+b/Og==",
+                "mac": "/UkwYdKgqWCY7Xxn9ETPpA=="
+        },
+        "database.json/quests/foa-4-sick_bovine/tasks/0/task": {
+                "ciphertext": "XYkd88nkclktB/BiXDg6ejC/u5E5wrvY+bdD441/fVxqY7T+GpGilt/irwzNPsq842vkvkFNnrvEhVnqYJWIyMMUYQOhZh9gcaoc6emT9tXKNSZkrE/1zAYJCmGSs43ht3/qiLuhAxKQFdEV+clN1A==",
+                "mac": "8H7UKL9h1axAikjS7StUSg=="
+        },
+        "database.json/quests/foa-4-sick_bovine/tasks/1/task": {
+                "ciphertext": "826azzxB1EACynxdxP4hfANgKetrz025gLfuEF7cC5pZHMn0DfjltzQlpkkiWwIZ4hTZU1HLiH9p0XUS9btxzo/tGb4i92iE6TQoEf/R77waIghpQTz7VnZuCah1MvziAHasWcK9oswIkeXvny1s6g==",
+                "mac": "bQXN3GgEqN8cn7/GFY6Dgw==",
+                "quality": "unknown"
+        },
+        "database.json/quests/foa-4-sick_bovine/tasks/2/task": {
+                "ciphertext": "kISp+0civcLmBQvF6jo2wY9/aONmi9sUXCbTGG0h65T74WevH996D/lXoCpEYy6B",
+                "mac": "Dod7G+Tlt+2xijyG0ItVcA=="
+        },
+        "database.json/quests/foa-4-sick_bovine/tasks/3/task": {
+                "ciphertext": "7zyS94E//CBTNDceC4ipMrxDkEXjuQi+OGOCIArjOsRA0IKy3MUPaiTm9UWU1XxzI7YJSFKc/QTDFTWsEfSUrxP1T5jGwR+JssmMypYeOXhxFwhh3Bb+kMMCOO+JFG/P",
+                "mac": "/GHPghmjjFF2HWD4UuwfMw=="
+        },
+        "database.json/quests/ice-cream-hype/briefing": {
+                "ciphertext": "l+LzEqNg+2yiVO2JAxmH1/ou8LruJskwkMHCb8efl6TsRScLj36kBu+1fj8iAI2eVDc899WXX9zNzvpZ3uVzxQ==",
+                "mac": "Q3fzeYGHlO288Zj4yOKrEg=="
+        },
+        "database.json/quests/ice-cream-hype/description": {
+                "ciphertext": "f0eNM/Qfv12TxuOPmw81CHDTyzvMoCWaS2LQGw3vMO68znsOFDHh134SnT+b3oX+cvLUDOe9xCxwot5dZAf9fxFL7owtcYlyPuW47R2/vzbgBC5yR9msJtaudOMxfSAftNJhgW/cjGdNy1zF0UrNKWQ8Nbh+NSvsywd0KImcLja0fI7JkpKALMbOvnHwGWJAIJ7H3DdJ69+FMMPqLJvTpzcjT+QUJ8Ymfk+6AuFA2eg=",
+                "mac": "oxZmcfylGZ2D0Qg/4vCFaA=="
+        },
+        "database.json/quests/ice-cream-hype/hubSettings/location": {
+                "ciphertext": "WRXw7WnBr4telAks71Qt/F7PyZWRkyFVdwb9VjKqdvXjbd+hCGoArKQS0j5RAPscHlh2F1AXrcq+uuiHAe+7W3i3mx+RIt1uuks1eEu/NFBe6GLRseb9i3Dji2+J6Gx5mqb9LUx6tXCnUojTY98nKg==",
+                "mac": "RdAzL3iywWt5kiK3by4aBg=="
+        },
+        "database.json/quests/ice-cream-hype/name": {
+                "ciphertext": "HHXMPB7UTzHvIdJaOxbGeOCizj02plUjSx3J1cW4ICLRBL26LeLSflTfPvXgAqPd",
+                "mac": "mlKa2+jqzIlsuarRbRiAFg=="
+        },
+        "database.json/quests/ice-cream-hype/person": {
+                "ciphertext": "YJlFs8G3pICM80aVlz9YbA==",
+                "mac": "1T1a7H1WmrmCIcqIskCQ/g==",
+                "quality": "bad",
+                "ciphernote": "rxpN75DRd40bgQ6El4qn1A=="
+        },
+        "database.json/quests/ice-cream-hype/tasks/0/task": {
+                "ciphertext": "6gfEQhubk8BD2pjTsjoM+EDWWaBUArbcFdZLv+8SCGlrclSKwqwD39ovjKZvJ9j5A4HRyCcl9nLOZX9UOIDOtkyXh8CNLOagiGXpXzPVkNVwTD0X+b69jDMORHcIVh3K",
+                "mac": "PvqQ+PuSJcpwONrgLHziLQ=="
+        },
+        "database.json/quests/ice-cream-hype/tasks/1/task": {
+                "ciphertext": "cSvvxBFubhXZ5LMRsd3RidFzBuQcgLz++BoBw7aUOYoTf6sqMMIxruGAbdzUc+zt+jH2TXDcQBzJ34Lft/8sOI8BzNZaxtmDua3htzhiEsWG1H2H7HAITHvshJoN6aqT",
+                "mac": "gmXCAlSCSEQUq7Hbrw3ZEw=="
+        },
+        "database.json/quests/railing-rider-1/briefing": {
+                "ciphertext": "yGvRhhbPLyJuzhrDTdvTEq/vHn4feqRQ0MCvs1QsU3S7h8iueXJWSK4h/eFuhcA9",
+                "mac": "sWRMleLx2aHRvT/S5FmOtQ=="
+        },
+        "database.json/quests/railing-rider-1/description": {
+                "ciphertext": "SUt5x4S6IM4mwxeb27WQmdFDCrGfT5IrWK9lQKkyIWK2brOVG/DAC5vl8jlYwOqUXK1OiYRMFuyMaf+8U91tBhIROQbPbUy1BzPhpbw2+1S0xpN4u7ewPS0TxlEtdv5LdFBGqPvc0IaAK5K2TLsM5J4tDqUyqoy67FuPo+mjG3vrcLiZWIcPjpCVNCApuT6FXWYst3dv0cyKTEW73umf/Q==",
+                "mac": "Z+obDxYCT6QW61ZuGHdQjg==",
+                "quality": "unknown",
+                "ciphernote": "T+sUdFltxN9Xvw7/9tRigA=="
+        },
+        "database.json/quests/railing-rider-1/hubSettings/location": {
+                "ciphertext": "+cnsZ+nFOq5QFDHDcp0LLpymblDPvt+Q4f3qlsVIPpUbOuEnNgZckT8QmivK4n708tM6HtAtUZTWGqvsnQGUnjcTVCNSgcDkP23hbtR+BAclxJFac5AWWqCpr0Q3Y0jR",
+                "mac": "bttqcc9en2CF1ZAPcIyo6Q=="
+        },
+        "database.json/quests/railing-rider-1/name": {
+                "ciphertext": "eL36T51/U1rwyxEEzcpK7A==",
+                "mac": "bspkacUCR0LNA91TA3JH6Q=="
+        },
+        "database.json/quests/railing-rider-1/person": {
+                "ciphertext": "6dqs83sv41XWktQJvougvw==",
+                "mac": "uYQ3eTj6iLCoGQoFCj3oMw=="
+        },
+        "database.json/quests/railing-rider-1/tasks/0/task": {
+                "ciphertext": "0qoiH7x38Na99/vHmkDO5RuDFy8AZsPDMlUfc66sfFzQXD69kZkHmNzZpridDlizoYil0VJnNK9Mt13d0kSFe/7EmDgBXtz+DALF0vpEp4k=",
+                "mac": "/NujyCsjYzbkgmmR2zcGcA=="
+        },
+        "database.json/quests/railing-rider-1/tasks/1/task": {
+                "ciphertext": "qZohgn+Z7spFJ81bDAaxMdGYplPoew1zYbu13RNkdHxSzzo1CnGoZftC+ETJVscepXfbEMhYcGp3uIA3GXLC6A==",
+                "mac": "ki1hz5Mvy6RniLlT9519Mw=="
+        },
+        "database.json/quests/rftc-1-collect_trade/briefing": {
+                "ciphertext": "AXGvyh4x1b7jX53QmaZqI7SGzIPP+kXftAGNovygaP3FSAnJGlKqPxc0XRrcX9fCLVNjfxbOO0XyBoq+YmUMrZCAonR98Sv8AN+jtoK1o1ORBox80ihmEs7jMLwEiEU2",
+                "mac": "nSpVWhlDq7nyERDmkI2FMQ=="
+        },
+        "database.json/quests/rftc-1-collect_trade/description": {
+                "ciphertext": "hk/NS0udtg43/AhZ0c00tXvl4JiQF/s8cdbXX7kA/e34IUG4xjJ2UFv3PJX/3NPH1RyWyJcJHg7D/1D+JRXM4HX6UdWk9DkgJ8IDdLwa3Tf8w8igEYaLnHnGw0nF57246RqlubYnaSrpe77K2PCRne41JIAIQ/XnCCG266cf41wE+wAPgj0kKFgL5T6UQ9NSyHQ5zicaMXVHJPsEUZMI3Lgb/TndrprVIlGIfN5vGq/gzK6aPLS0RqznCAcEnMSpcpycxr2DhUhLa7iKph35AA==",
+                "mac": "Axy1WOX9AnCwqVBpNZvlDA=="
+        },
+        "database.json/quests/rftc-1-collect_trade/hubSettings/location": {
+                "ciphertext": "PC1vzpORyOLx5z+aQ9lwc+1X/fQ55Ypwbu55yBnlgElN4g1BqGSWyG19vPbgxofqgymYQ6hZ5sADj947o1u+a9b3nC6aPyBffVaAZPdKMk3asPU5NODV8lUDgm0nk38hFrCvaEjf0+Q2ojr2CbSxnw==",
+                "mac": "ZZh1tAi0ASE4nMT/80wc8w=="
+        },
+        "database.json/quests/rftc-1-collect_trade/name": {
+                "ciphertext": "E9sRF/Ol4vbeQgnrKG8BKK+BTQddLiino+XyY9esrv8=",
+                "mac": "QUk0DbOSmuoNFCIE12KlpA==",
+                "quality": "unknown"
+        },
+        "database.json/quests/rftc-1-collect_trade/person": {
+                "ciphertext": "mrzChklVE/F4SURTBut2JA==",
+                "mac": "CGAUKuivFm4hD5VKKgFi9A=="
+        },
+        "database.json/quests/rftc-1-collect_trade/tasks/0/task": {
+                "ciphertext": "ODEpnMhA69Xcio/HTRntP6Ugf/P8d66H04vvrdfcMjtpo9d5KBJeo8g6FrEDHZJfVOQIXz08XSigNMbDHGLCoA==",
+                "mac": "A/fI2jY5NB3kvVgtIlG48w=="
+        },
+        "database.json/quests/rftc-1-collect_trade/tasks/1/task": {
+                "ciphertext": "icE4a7tvInYRVlEpVKRxed84dIZb7JJmmdp1sIE9ODpXmF1arq4zRFHz9qD35DSlzeTj+mSlu3SAbf3+v64CJVUYjpE81tzV2wfZDSds/fZceWu0y67P0tjTaFkvNLIWDRJbRptVz1DHfaV/7UR3Wg==",
+                "mac": "Gi32CIj/24soLns0dhrf7g=="
+        },
+        "database.json/quests/rftc-1-collect_trade/tasks/2/task": {
+                "ciphertext": "PRjCOmcR8uor+UczipshIGZutUlFmpXXiCTXF4sotwsR6k8sxE1GI6+XkwCDnYmcXrszw1qG3HceP55iKH5+rPQaOXpVADij4ISbe+gXCgQ=",
+                "mac": "oFZG6kW3YdVkL21ipnCwjA=="
+        },
+        "database.json/quests/rftc-3-metalstuff/briefing": {
+                "ciphertext": "ksR6QqAKV3Vf6XmsYFSjC06mBEWr52qbjpfiu4QhZsDZ8Q1Tz1Ql2EaS3u37OYsPgpW3vHmy1LrDkJMtHQJigstKY75vp3vj0Nm5TeF0nI8gAUpm6FjskmWstzVJoww5v3cE/Tjjm9m2NeklXRIORKm3aPZpmH41DHTCbaq7b8lmK5Wux9NtqY4uM6NlYYyX+V63ZyO+v+Na72bFBzDDwMOoIBnUJ6I9ijnS8ZPY1TtX/Z+q9yxG+eG7Z6WZwAzoV78/SdHiLSWpK+1qe3jpOZiffD3Etu+zH03Boa/i4qE=",
+                "mac": "odJlm5bnYjob1l7MHGBbVA==",
+                "quality": "bad"
+        },
+        "database.json/quests/rftc-3-metalstuff/description": {
+                "ciphertext": "4HoqlUv/xndW/EnnBf+JvtbidGZLgwsyo343Ea48OLWNr8M45kzlqDsBGE0y7FVgbEI5HfO8cRvG1p+ROI6cuJF4yJrmOgTFrKukpzuUTlZPj9tAWqPCiTwVaOWhN1yxEjbdAcjLorsalSE6I4a4yFfAOkJM0MWJtIbMRvcRznkYwsP/YLoYcZuOHx4rHIUsgT+cZHjUtroQjgjKgWwdidcLpQWirfCof8MClu9T7wE=",
+                "mac": "7SzhwJ01eNbqiDY0ObxV9w=="
+        },
+        "database.json/quests/rftc-3-metalstuff/hubSettings/location": {
+                "ciphertext": "cOtNnRcKDPveFPf2CNehG9mBztb2BtCxUFnDVegjiYpeb2j1HV+e7TgDQhF5xwRBDPiy0APop+UnWiqwpf2z5yZLuih3WFBwzPj5E4iv57nNUjDJkRy7QHnXtUcg5JJ6",
+                "mac": "Ww2WH99wSER+ML0y5s+a9w=="
+        },
+        "database.json/quests/rftc-3-metalstuff/name": {
+                "ciphertext": "hJxUyTtYvCnN0Kj/hNY2MA==",
+                "mac": "k1zdRD4fGrerTrDZw2UA7w=="
+        },
+        "database.json/quests/rftc-3-metalstuff/person": {
+                "ciphertext": "mrzChklVE/F4SURTBut2JA==",
+                "mac": "CGAUKuivFm4hD5VKKgFi9A=="
+        },
+        "database.json/quests/rftc-3-metalstuff/personAfter": {
+                "ciphertext": "nCAJPh995UnOK7jLFibB9I3+xr8bmR+hi4ffn2fV6FM=",
+                "mac": "+nQ2183Jz5B6Tr0h5qoBQA=="
+        },
+        "database.json/quests/rftc-3-metalstuff/tasks/0/task": {
+                "ciphertext": "8n/jk09Ydj3eA0Hz38NknUr/3QBQlf4xyDQG7RleQWvfSo/gN87QXMMSz9U/qprPjrYNAIQmTvIcPQkUbwnHl9H2qJnNsnzVMQSVCLt8ijn3Rodx0OTykQHnBVECEjtW",
+                "mac": "G7GYU7h02oM6+Q6vqstMcQ=="
+        },
+        "database.json/quests/rftc-3-metalstuff/tasks/1/task": {
+                "ciphertext": "3181Uv5Avl+jEsEkaI+0ic1dTz9OGGyrnmVGc0lH+S1DGNgtFw6oRkjkGLdEc5PPomXYRXO7ZydJKdrGRqJKP3InYq/LQxgOqkCONE8raCKshHJtwODzV6/9p26WmOte",
+                "mac": "jeeWuG51GiwPfpRr5OpjGg=="
+        },
+        "database.json/quests/rftc-3-metalstuff/tasks/2/task": {
+                "ciphertext": "QGqsKJvH8OJvGYNgYncr31DfkvQq+KyAD9lvXt75YMUvZe3IMBMUgXsbwS91+G7fg1H8kaQcHxVcpe5UCk1zFAGowz7Msc3ndpJ20rNurWi2sNmpHUUhQ99iNoc7TjY2MAd4wmZNIUeI87opKeOm0Q==",
+                "mac": "/A9jsp4LW6rFc9ykVCLsNQ=="
+        },
+        "database.json/quests/rftc-3-metalstuff/tasks/3/task": {
+                "ciphertext": "oTVObmqiO5uwX9qhmD5Y2vix09JJ2BkIj4RuhkeMLKejyzMuO0d0DjrMSdXzentn145mfYw6BvZ+mFUiKo6ACfBjIGH8CXWw3R/+ZjjCl/hENhd7JJd0Rjq3cHt/2nhnMbbFTBRzhWO66mzZW2vf7Ezqx6e1b2ix56GfQtl143o=",
+                "mac": "u10monKlMwAjfGbJJsX28Q==",
+                "quality": "bad"
+        },
+        "database.json/quests/rftc-3-metalstuff/tasks/4/task": {
+                "ciphertext": "MqvRV7sB4eeQUy4ksOsGvLnlMIVvVOVanQyBTPuTIxbD94cAjR8ZLGm7IdGpttZ184Y+ayPPnWfUA45lT7E5B1CtmUmEKVft0xkgVIBLFSgifwkavp9G7QcXxeABoqyMhFFyAc/aYA/gU1rij+Us6Q==",
+                "mac": "qZoV/nb8vBmXRpNbo4wfOA=="
+        },
+        "database.json/quests/rftc-3-metalstuff/tasks/5/task": {
+                "ciphertext": "oGs4rucnh2DFOlb4HqAYT3qwcqojAteq7eaySG13BPfzI5pE/gjB3NU8uRM3sH3LRwFILFDRRgd4kW57tJ39jepccCjzPeWlTd/CMfvQj8ZASx+8zgjTH5YacZV/BdvR",
+                "mac": "MM/OwmKA2RR+7Lz3573L4Q=="
+        },
+        "database.json/quests/rhg-1-pickpocket/briefing": {
+                "ciphertext": "ddBzwzWJwf2I9KCjMdBFs1VMla69uU37+9x4/ruvQge4lq9nUzvlRe/TPiZ8m8jvFun/IzhwJS0pqfvVGr5I7I5pY+x8hX7bknYr8n0VNvbam+OtgxLdcDOp4EMXdnvh6RGsWgn3xFBw7IJbxvOb8FrQuKrLUZ4mrgeZZIgB25HNuwyGT+O2qxAJr7IZ5HtCMjgDIMrTqetqtS6wdHivAw==",
+                "mac": "uUaDE/lFwp3pGKVN0IDdEw=="
+        },
+        "database.json/quests/rhg-1-pickpocket/description": {
+                "ciphertext": "4KylBRzMNjfTa5pqP+TG1LlvLZYSiplW7AoIv10GuTPIqHE9fgxO70Y4ugrcRDR4on9LgApkk9u1r8zG6aly1MJxc3Fup/E6xwS3+o2hp/7M1FUGj6rTgqFRtnoLB97mZHrAxEgb0N9YHzxxsSSdZT/yhSVkk/vjkC+jLAYxnDG+Xonw6Aw8AXlBkpcD/DXrO/Z1bewgyTfM+GnSL6guQYODDa8Y3l7dF2nCSU3epYP/fXdSzgnS+iz5GyuycwQ6",
+                "mac": "kq4cPntwXR22u3JZYRWh3g=="
+        },
+        "database.json/quests/rhg-1-pickpocket/hubSettings/location": {
+                "ciphertext": "foA0xle4izpEA+MgDF84k4KNT94GmXQZHQ0DX1HaHhorvi84zgU5G6ccA3uoyp/viFj/x42asX8DObONsFi4UHQA61NqjhRX4vcliKRoqow60onTsEXeEjtwfoPdz3hh",
+                "mac": "zVibkoixFdwWfBe23D9qDw=="
+        },
+        "database.json/quests/rhg-1-pickpocket/name": {
+                "ciphertext": "omrxoNfzDBvY+rwyht/vSf4uagrJVpfll3Eij2a8hRA=",
+                "mac": "cU4vgEHU90eYSsxo9p1wug=="
+        },
+        "database.json/quests/rhg-1-pickpocket/person": {
+                "ciphertext": "HhoyA7DCxnwpzjCGQTQe7g==",
+                "mac": "QefQofsAxR3VMYkZ4QbYtg=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/0/task": {
+                "ciphertext": "eMnMAhgDVAqCp0kZFvc9eF6Ef/LaKKMDhPmdDSb0t/X5fBn+nsqaASGxaRukk/WqPdfiQ0O/EBiaMBA2EcTrrgkzRDVL9nnAPT83Juj+bbY=",
+                "mac": "xB9aMGR4NNu6BNn7M54uxw=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/1/task": {
+                "ciphertext": "U/pBy+5LdcTYDlAdB73iXxqxILl5RdjdHLtgexrjVyF+t5D0ek1H9qwEV7+rS9QYJVJNzRnvcvL2y+Xjp1iqsesChmlPMAnl6eBcwtlTJlCsmo7CMcHZ2kyt9o0TZJR8",
+                "mac": "M0ynFdpuxIS2Itk5lVKpmA=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/2/task": {
+                "ciphertext": "3sz4GCSsNV9tCG20HnfFLVsbgds7TwTefClAeviuFyQWvehXvukGc6jPZmBEOBYnmlY0Sb4xSfKBUkK4j0xRRCgeqm39V4MSCHpmqyD538g=",
+                "mac": "BlVo3IaRr9Hn3ry9HXg+Tg=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/3/task": {
+                "ciphertext": "mVDrrb5PKHXPa1qZDYWOT9yN/ZtEpE6LA68Pf7k+jaEjdV8TQy+kSRIfDQ8YCdR4ljN/xZuSbKs3ttn0KlCCtw4OdZmHc/BH7DqE7yVzy5he6+CsoTgVbau725cATSt1",
+                "mac": "2gbWCZIa8VJSOimtHSN+/A=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/4/task": {
+                "ciphertext": "a8+Y1rILcgAxNH1lMx50tfuXXUUFJ0T2lWA/1NQIE+fB6MSemqF1yUl3JueJx0RqqX6SYZcD0xvp/2wg+e82Sg==",
+                "mac": "yccIkWpGiMFNBe7qxUxBAg=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/5/task": {
+                "ciphertext": "QdFIk8baeB2UnahtZ/pLM8tHobOD9GhAyBmvTlKi0b2l34dbUg6oKZvBoeQF9tpsKY29VM9mxPWDKr0IIFP9+Zm+vdP+aI7h+uxtqAJ17MY=",
+                "mac": "StbJcYz+XqvS31oQDwD+vA=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/6/task": {
+                "ciphertext": "B2DhrKdNzBWNVz8kL8qRQbTMaBvnNOZqWZvaXpLCoiLOEjqGGzrvp8BmW7pgJw7q7TkZrkgUICwkacZryte1iQ==",
+                "mac": "dPqwFcDcOjzcrrEd3Bu1Yw=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/7/task": {
+                "ciphertext": "ieMWsUJexNRCHoosiNn4/x49b6I9bfT2pD8Nw6/HUFk=",
+                "mac": "pdgdQbFmc9UBb/vdiXn60g=="
+        },
+        "database.json/quests/rhg-1-pickpocket/tasks/8/task": {
+                "ciphertext": "3Rn4FdxoPmfzZ21AE63QhQBPTSQ8/WbVbvgLSpHBwBfLU+VSbvl+OW51YxUJvA/+JDAl78WHimRtu3myPEwhHzwYThsIMPN27jPU3u3Ob8ZQHyzi01fkedI7JoxQATzl",
+                "mac": "ewey92ZV25LO4t/4iXhmew=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/briefing": {
+                "ciphertext": "SAHAKHCrSeKJetlGwFwNopGw9J+uE3KutqOavb70BD7b+ziRQTe7gdAFKvsETEEs1HBY01MB4L8CPion2en006S7PNNpIkHBMkkSnl5B92+mr4iqFGYTht3JJOZMXe4O02sLYyYHVCb8WU2yFIiQ8eK3YHAKFj3ssC0f5COtIv4=",
+                "mac": "wEdkQtH6EPVWtaoBhpdQbw=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/description": {
+                "ciphertext": "fOcKOJFNDYZjMXMSXaycwhhGepQZZiC6HTkID7aqrwDVEr026LvxIrDLHOI9+ctjksr5pnhMdKyXxvvr/fB97EDmorTv9UHxVEBM1UYeOYoPVnv+p9YjGlo6bH25wnxUJXdZGcrI1S34jJqgiu5gTfT9ML7MfN7xTbbmzwAsF6mjK8oTMdeK7gd+bCXOZRNAegl3Gsr/O3rzGCsDSLKrOSXaSJDZ8ECNe/RmLeSyVfVoZDGPC/Rh3zzhWg8kqIL8",
+                "mac": "i+gTRyl8IrPFs9jV+fqn2A=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/hubSettings/location": {
+                "ciphertext": "uStSJw6HC2IqZwXq0vFl6x5WRI2IJnInxvj+41XzWl7qgAC79DpvytJ/rDAJsB7jkhGKiBZqrrM1PNENq+Wo6JvqdsaKQIYrtz98Exhq6EcR5YlE621jxNaQGY1x/00a53LtdLK55E0XrEyEUC01rttuqzY+TSQiWJYiqu7mmRc=",
+                "mac": "r1xKSMsu3UhhSJ0kZ9Hdog=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/name": {
+                "ciphertext": "SY50oYVRF7mmBpUkm7zZdg==",
+                "mac": "MLwNMxzpXFfjlWkC1N7j6g==",
+                "ciphernote": "Tdgv6XrdM41DR2Q8lt1OIxOjHBcXmTE0XODF8e1og3lcf2kJ7yrwthvbqI3XprT5vBJ64ekVVlUs0ks6t73+yA=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/person": {
+                "ciphertext": "2gfZXpkXpo8n84xdw5mEpjIWgbrbOqfPpuuPGVW6TNc=",
+                "mac": "luJyJqxJwdud8xciAl42aQ==",
+                "quality": "unknown",
+                "ciphernote": "ytjbSDlT3z8GX7vUjk2XSg=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/0/task": {
+                "ciphertext": "lCDeHkvcu9kVBbcQ1m2ue/jVXq5Wl8NTcjPmNzFhwhOSiUynM2DRSs0UQoyL7Rqp56QC0vQEasErrFmB9qieBIScd0o89KrvZv168vInm18EmcD6mJLeFZ6+t8FkaJNo",
+                "mac": "Kc3R9H5z3qOBOVGyYA2FdQ=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/1/task": {
+                "ciphertext": "xuuKe1f4zNqHS8+HUEkjgf8M7Gu5djNL1FF5H+Ai4v83wiFVjBEuQxY09J4WqJnZtlne8lqhxP7oIs6FaAr3CG1BR52WoDIFQD9fW5xwUcSi5h1LQIYxRAEdqb5IYfFvX3tNGVr4kdXNc3gtrNKPJQ==",
+                "mac": "T3ysQyuBNOo/AvQGbRcTJw=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/2/task": {
+                "ciphertext": "t1ty/TNjjmZZtDobre85rWIpvowUmxzlVSwPRfdOQVpBtXldw8BtVHtJebr+6FCsOw5xJFPj9jcdXXzxlb1M9A==",
+                "mac": "41cD3t7VyL9z4W9DJtudkA==",
+                "ciphernote": "RlmxIHww3mEokooLoGoFafuN97jaOo/wIvmmNSAp6jhl4QXntphPPq1mavGHDY4v"
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/3/task": {
+                "ciphertext": "270yjanDuttrhQ0+TuOU47HWV4kzqQ0d/p7tJOw06uc/AYAWFoszdG6IW8Jeb1XfXyMwOZm8CfxG2Gnn+jJuqA==",
+                "mac": "DvCL9lYT49GzZwCO8JgUgw=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/4/task": {
+                "ciphertext": "ZABdwnw8Sg+UWoYy9WhRbqBte9/yiofhARQe9HXcHq5zEpZX94mgGm81ptPt52ZPXNgA1pXYZTN6eQKP+7UmlNriYtAVfeBZBkDu0gH9/NFPONreTIzQIvCwTN7rF79O",
+                "mac": "QqjcjlzPl8cXRFnxiCNzLg=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/5/task": {
+                "ciphertext": "AafCsqKUjsc2lG5X1Pp+0ns1+gYUKn+SJKRQYPbGzaglfdq0a1+BLcFYDtcfXIx/lCqDZrt3uYvT85Pq3lQnYeEASup85H1QNzRdZ/qwVuIxTOKuI1ixf6QplPFdw5adbRTzowQblCLKnB1NINQN9g==",
+                "mac": "7MWrc+klG9rm7bnAuhl4Kw=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/6/task": {
+                "ciphertext": "VCQ3gzVOIzYA4sCAkNs9ofiLmcBuhoQWV1tgFCOs7lEsex35WZwLktBVP71NfAs/wCz5qGpL+owO/LdZYtAmRBm79dLDap/8xyXdCgrW1UsR4Sct4BI08gHsO5l37m+B+Xl/lLuK7ztj8h8n4t0fpw==",
+                "mac": "oF5gv4ysHOiG6MsjoKewTw=="
+        },
+        "database.json/quests/rhg-2-crate_smuggle/tasks/7/task": {
+                "ciphertext": "3Rn4FdxoPmfzZ21AE63QhQBPTSQ8/WbVbvgLSpHBwBfLU+VSbvl+OW51YxUJvA/+JDAl78WHimRtu3myPEwhHzwYThsIMPN27jPU3u3Ob8ZQHyzi01fkedI7JoxQATzl",
+                "mac": "ewey92ZV25LO4t/4iXhmew=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/briefing": {
+                "ciphertext": "XW4DuRzcrGgQqXgEVbuVsKtrz9zCiwe3Cqta9WqZRXWvEuyTVc4DOnItEceWgtTb+as9hdSOZy8O4GEateF8hGe9p/a3zbm1md2HADha2/W9jJK0YkRXmPP174V7zXW3DWU22PZe83Pae3ezW+O2BXU26bPxvLs6nWCCiGH6rq8=",
+                "mac": "IcNoHhuxMeQ9oSA47CVDoQ=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/description": {
+                "ciphertext": "AMtid9A1+VDe6AnO6ydRvk4C0LDMWWOrGK3Rjh11VKRWxxD8E+TZGBQzS9lh+fIrAcgkasxbOLd8DLBGIXA3cG0o673UPVaoP17FkDkOeOx7QVYeb9OmCcnnCT8P3+UQRo0DWma1jvul2AkTks2pSbZ9BykK4W86iH3+pWMmtT3HESGndb3CNKumzohxBAGTVeVMkmMmL+xkDsbGJ9tpeQ==",
+                "mac": "qZH93bQaBa+NmjY+SxIMlg=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/hubSettings/location": {
+                "ciphertext": "NspGcvus5rngs7xNOMdXh7b4xvP7AICJPTQk/4AMJAW+zm5Vv1t4IG3NP9LX468NrgX95PJpmohdzyOq5ox7Gd8FXO76HJP/5JB4njHTMheXhNo7ZlgPeaTF0q4L/PQJF0a+BvwnoFGhtLS+D6iV46l5n+yCZoFwfRbw9jkXjfY=",
+                "mac": "ombX2Pww2a3yHZSd/pJvTQ=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/name": {
+                "ciphertext": "e2f3apa0QiTLIYf+Fm8u8xC5L8blkuLH5q8dtrvu6A4=",
+                "mac": "SC1cqzBKnPj/hsJX0OBCZg=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/person": {
+                "ciphertext": "2gfZXpkXpo8n84xdw5mEpjIWgbrbOqfPpuuPGVW6TNc=",
+                "mac": "luJyJqxJwdud8xciAl42aQ=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/tasks/0/task": {
+                "ciphertext": "rZdsdzc/y1YljLLi1De/7ity2Wdl2F+HPKa6SQyyRZPFb8LWDX7+gwy0Q1C+Nob3ofsEpTdwqjg/Sbi7HY8I9OwtGfqDjOTR81wgen1NJ7n7eW2EvocQLPSFW0n4r3pH",
+                "mac": "AOWpevK6Yl4cFmYLZfh4CA=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/tasks/1/task": {
+                "ciphertext": "8M6d95+8K0opYyyvAVGeQgDRtc80CYnOWXNsFgGlTyuWL5jsPqR7Q+dYu7qvhgv/ciKcY+TUcWAn4m0g8bvqGvaiRGEcPBem5Rv0HRmDqEsXUwcMRn4Y42SyArj7kNZGL4Fy7iNPd/9bctPaIRxG3A==",
+                "mac": "uxpJf7T3t1eohbDUvx0F0A=="
+        },
+        "database.json/quests/rhg-3-maritime_smuggle/tasks/2/task": {
+                "ciphertext": "3Rn4FdxoPmfzZ21AE63QhQBPTSQ8/WbVbvgLSpHBwBfLU+VSbvl+OW51YxUJvA/+JDAl78WHimRtu3myPEwhHzwYThsIMPN27jPU3u3Ob8ZQHyzi01fkedI7JoxQATzl",
+                "mac": "ewey92ZV25LO4t/4iXhmew=="
+        },
+        "database.json/quests/steaks_1/briefing": {
+                "ciphertext": "wHYYyeb0gkHNJNAgyW3CGqJfPUg+69nZRi8rz9KFgybKxkBRBLNWnD2pfKavdfizPyFw1PMvqTilAfsb6TWuwyChFp4XZXyCP4rVwuPkNXyY9M+L38j9AEb1HjSznarmeN+hIQZVkZDet7O8yhXdT3L8Lxj5FS4mbrlj8dLbxy3jAcSZSJJzdUdM3wbUH+X4",
+                "mac": "+1LgYoDxz3Ak3IOGP+gvZg=="
+        },
+        "database.json/quests/steaks_1/description": {
+                "ciphertext": "5V/0SAojdpCwMXx7/F3iQqoSkK+9A8OKrGvnHyszNeoVe+92kMfmyAPMzmGP/4ALOPJBDroZySIqxf1qN2IspE1FUshRaSbV6N/SOJkaxEw4aZ2b5WWHKahpteTyGHeKVUs8KOE299ji9+fbViV+WupDkFtOTHxw21bLAT5Nm0fZHidHMKcJGDya4lrb8q7E2aqPTDil51md0xCyxVenTKVxWZtowJ7tc8QEyV+HCsjtUQaO/Fthq2lJ8b/7OKFv",
+                "mac": "7N/3slVIF8Rqqaz+R03cmQ=="
+        },
+        "database.json/quests/steaks_1/hubSettings/location": {
+                "ciphertext": "xpVpsx/i/k6vSQmTnJ+Ob7sL6lsTRyesfBAW+/NrJINPgZCPwZd3B4v60WGTJ8XxJpDdZcJP+TNC//mbeVt0HZeabOkOP9IKD5TWr6j7MbvHZno4IZEXkrSM8+WKoKBxyyP8T6TV3ZR3dqbNz/BuithL+f3yENHXfAEzjI6V844=",
+                "mac": "CXcDfJLGwoLcKWyVY4ev2A==",
+                "quality": "bad"
+        },
+        "database.json/quests/steaks_1/name": {
+                "ciphertext": "8eDAgGF4flYMC5VMy7qHZw==",
+                "mac": "caQjoE7hFQH53jWvfzj+hg==",
+                "ciphernote": "Um7J6HQAJemsHNBQsnMTR0Vi6PVQTtkXcS/e+/B2H04="
+        },
+        "database.json/quests/steaks_1/person": {
+                "ciphertext": "GVyTBkUqSN+gM2BSG9Vwiw==",
+                "mac": "4fY4awY5Y74VsWor3H8E1A=="
+        },
+        "database.json/quests/steaks_1/tasks/0/task": {
+                "ciphertext": "du3gPDflVQpB6+JVpJdFF+qFN6n3JF1XIDmQ0aABLO5Y9+AA8LDUq3kSQBTXIq5IJCmlSn6a458vcBvYqKYYD/8qiuj5YTFJm2ZPRmPrQM4Phe0kCm4l+omwNaDpJLjhAAJO1Ii92gipGcbbsIg4GA==",
+                "mac": "Kb4lkzH7iesUVElnPSQ7Lg=="
+        },
+        "database.json/quests/steaks_1/tasks/1/task": {
+                "ciphertext": "66YVieKEzCSFdkcsXItewpD5dUQ+C91YOZ5WX8haUXis8hhDnswJcUvktkYAS6oDqK72cg71yq7AhdG7eJi72SHXdG8uk86MYDxVMYngV/NUAWjCtzlvomukWYdGYsLjwg4NuLVnyOaEHmJisFuHVxnOCfDAPf5kTMU6luaO7u8=",
+                "mac": "nJTQZC8jgjSIsMFf+Dg+sg=="
+        },
+        "database.json/quests/steaks_2/briefing": {
+                "ciphertext": "Bq+jZs3TsfJoMkz6d1wbTqVgHNyOYGgkSBPZqkZGkXZY9PrUwH24SPB6YYMsDYD3YRP1TLB1IezTx1a36agXkOn//81xqfveFVx9AAGToIDIY7P8fpc6bTQEsYoIf7MwKwdOmBD8wNkxl79slpnuQRaCy92BdSPRHUuUtuog7AJHSFYdr0+/ubLq6+VFepPb",
+                "mac": "SbSkBYese6VL0z4doeg70A=="
+        },
+        "database.json/quests/steaks_2/description": {
+                "ciphertext": "yCuw0hqrgfKtPCPhThbrUcdlAHSfIYPtwbdh3SZ2aRdONMfiBnw+s22IoBKeKMNYTuIRhLzo4giKNv2GTQU0DL2wNqOm3aVxa1qgWX+0XYnF+7ylA28ufd8wmQYOzPvs4nRqpfb+DtuL9zAric2H/05pGeWFTLuamACKwVLbUkM76dChIgdLR391tSB4NjJzXgA3P9/NPASopTuM60p0hilLfWF9tM+BD776RjhYDRKnE421qdkop9ZFCM/FrYQJ",
+                "mac": "ryVBt9YvDSHX/qZOf6lLTw=="
+        },
+        "database.json/quests/steaks_2/hubSettings/location": {
+                "ciphertext": "LwRdGlxH5DnfcFQ2BmpFw+5vObgr6UyU85BjTsQDq0M63sdK2Xu9myZBvflquZAH0EazKQLVOPy7ei0/csquZtpR0OfXfds3BFAszzZleY13eSgO1ZPJq6vMiywhyoIwYIodg5E3hjKL34ExgJhE7Qnx9nBJ6GNcpwUpEUcQ9TQ=",
+                "mac": "S9VMglUXZfr/128/kKYGEw=="
+        },
+        "database.json/quests/steaks_2/name": {
+                "ciphertext": "DEHvo1QvORo52lT2R0NVH6CJH9LFhF+Alq3/mmZze+wQByvz9IhhyEWfXQc1gr44",
+                "mac": "nHbZanb57BHFn1o2BTHzpA==",
+                "quality": "bad"
+        },
+        "database.json/quests/steaks_2/person": {
+                "ciphertext": "GVyTBkUqSN+gM2BSG9Vwiw==",
+                "mac": "4fY4awY5Y74VsWor3H8E1A=="
+        },
+        "database.json/quests/steaks_2/tasks/0/task": {
+                "ciphertext": "wr95qxAAKjFuIq8Adyr/Fw2nKyIi6RS6E9bPp9upvBp+QJWFRNqOOd2C5F9qdBaLGG5kFduHQsm0Tch4HVv5m+Js4oqMGIuUGQM+d5rd3rcnlVlbMd6KPlEpfI8DuYcuYxfTQ+7g0WMZV6c8h1ilGw==",
+                "mac": "r4GRbLyk7uGw13neFvaF8A=="
+        },
+        "database.json/quests/steaks_2/tasks/1/task": {
+                "ciphertext": "66YVieKEzCSFdkcsXItewpD5dUQ+C91YOZ5WX8haUXis8hhDnswJcUvktkYAS6oDqK72cg71yq7AhdG7eJi72SHXdG8uk86MYDxVMYngV/NUAWjCtzlvomukWYdGYsLjwg4NuLVnyOaEHmJisFuHVxnOCfDAPf5kTMU6luaO7u8=",
+                "mac": "nJTQZC8jgjSIsMFf+Dg+sg=="
+        },
+        "database.json/quests/steaks_3/briefing": {
+                "ciphertext": "O0dtKTurwmx2XOzkfiaJm/4XPR3yUJMmvJawcW9etqv5r5ODUvKYproVxvwFAwJvu9Nzj/wPE/s4FzEypJZGabnrWt3ibQwlT56h1V4cFNKBNLwzSNdjmI35O/IR/GZljIFFxbT/U9SVH44aVBaur/rGy3u/6X3ChNxxnSBqKDHt6D8MWFM0vzeVC1kwglyd",
+                "mac": "BsjVpqH3ly+DcYOvXbgeUg=="
+        },
+        "database.json/quests/steaks_3/description": {
+                "ciphertext": "rtqDM895WQim2r1r5Rk9yMn2j52McqGUAvhitmqBwvJGWID88HkJHaavnORo+c60UgVFl8gZd0rCPQ+5QxQ0KXVjxtB3+R9OgnWhzAdvcMF861HepiiJmLiD5sWLCMrvCweRmg/50ZPHlk24tYMhsaxMnFepFpx7Y8QyA6AXiVTBm4Ru795LGw9Eq3t1x7cOJ/gW3WBX6ygBEaECwAP4NQ==",
+                "mac": "rMSP50dcoh/a1D8FKkF8sw=="
+        },
+        "database.json/quests/steaks_3/hubSettings/location": {
+                "ciphertext": "4nOc8CGvKDfGKSJuRukWPPcx/5SI/tdZaONobrSjxRy+NaP6HfRsFgFnqKWu8vkWxmWFhGCMwAOTTSUN7VVzRnpLLMmMg+7JFIs+ENkJp3icBJEsgiAGoCNJjeHDVIxyicpRDGYNpDguiOj9go3tL0wwiAl/ffS8uosRX8OH7A8=",
+                "mac": "ukxgCrNVolRKUL69YgVYjQ==",
+                "quality": "bad"
+        },
+        "database.json/quests/steaks_3/name": {
+                "ciphertext": "aeFCUvDyKPXpxBZ72i5sHADlBRWHoJzH5YcB4qanAkc=",
+                "mac": "Y3Lp56rwq07DWINRHlVY/g==",
+                "quality": "bad"
+        },
+        "database.json/quests/steaks_3/person": {
+                "ciphertext": "GVyTBkUqSN+gM2BSG9Vwiw==",
+                "mac": "4fY4awY5Y74VsWor3H8E1A=="
+        },
+        "database.json/quests/steaks_3/tasks/0/task": {
+                "ciphertext": "CfPTff54oFoOex76+u+stVL/9idsrhdK2zDUWDL3ELRlP6wZwpG2E2QVD+BfzjDcyzfJWNzu3TlAEtiEa5icUf3WrW1khZGe8I1wjLhzPFzliyhsNqc2/AFOY4UxEOYU",
+                "mac": "/BbPukwDhPddcVZpa4B8XQ=="
+        },
+        "database.json/quests/steaks_3/tasks/1/task": {
+                "ciphertext": "66YVieKEzCSFdkcsXItewpD5dUQ+C91YOZ5WX8haUXis8hhDnswJcUvktkYAS6oDqK72cg71yq7AhdG7eJi72SHXdG8uk86MYDxVMYngV/NUAWjCtzlvomukWYdGYsLjwg4NuLVnyOaEHmJisFuHVxnOCfDAPf5kTMU6luaO7u8=",
+                "mac": "nJTQZC8jgjSIsMFf+Dg+sg=="
+        },
+        "database.json/quests/training-balls/briefing": {
+                "ciphertext": "lQ4bldOtK5103WBnvI99ouNgfDIOnqYp7F7Mbz2stwxKiHEMF1LkzSw7QLWKjSelZWqKjD9i/1V07rQaSvjgnw==",
+                "mac": "/22itWmea3lSE/fugMSc5Q=="
+        },
+        "database.json/quests/training-balls/description": {
+                "ciphertext": "Xw2TXg7vRYAEgeJZCCsPpZNqR537oyLb4y4vYEdc/VeFNDt8d7JGjgLntNupgjwL0V1HSET/IWDLYxVHxm8HEjs/Xknvz/Ma+jOP1lWynC5R0xJnp1e504IgGxj4B8mEGSHsBjbogKx9wHTh0rXiQEHi+ID+XGHzq7SpymwjJU8=",
+                "mac": "Zcs/rRLoVTduNPgxmlsCKw=="
+        },
+        "database.json/quests/training-balls/name": {
+                "ciphertext": "WAQ00Kc1kYYNwOnHsfdbnO2erW5O07FVFSsCzPfYtH0=",
+                "mac": "zAy7rd7EErpF4GA5CCLVvA=="
+        },
+        "database.json/quests/training-balls/person": {
+                "ciphertext": "W2GnexUj9hcV9QAVyBBFHg==",
+                "mac": "FUboM1NLWj1vY3U7Q1Brhg=="
+        },
+        "database.json/quests/training-balls/tasks/0/task": {
+                "ciphertext": "Y9Aor0V7+xinmoGpGm+B9zh4ynouFdnUA6LaUbBOB9sbpf9D4mBNX3nqJzLC3MGFsZnLfSi9grPKYNw6+y0dWLrWVamx6ZHjosLInjMzlLx0G7ebYlhT14hFp6qqh29EOwapMxWDKdhMQGiwcvq72w==",
+                "mac": "21TMe5uZPi0lHxzA2t9uPw=="
+        },
+        "database.json/quests/training-balls/tasks/1/task": {
+                "ciphertext": "yqF3xYdHa1qgDpQvVqSTpSALd0/p5R7Sc1XoQZn7rahcxfGg+/KArMBOmOvw8/u7",
+                "mac": "f4bb0LOr/xbHFm3EpEE/Mg=="
+        },
+        "database.json/quests/training-close/briefing": {
+                "ciphertext": "gm0NTCy/qd2MJIDmw9Ky+Jaj3qrC2GfepHoNSJxeQ90HRf1eYhQ1iUF89Xlbmsz0MD5cnju5sT0X9pqztv0zXw==",
+                "mac": "KAKyq5WgwSqJHLEZ68eSHQ=="
+        },
+        "database.json/quests/training-close/description": {
+                "ciphertext": "D9PnwTq4UiEnL9h3B/BCs64Xjnz6uPwfqwOPgZr+cJeETlJsQol7lgS6G3mvl3jd+jvRIf9LW8l8/fVD2eWjrTm4/Qb+yiwZi0Tt2G5ngFngIDz635iIJOFZhkNvF3xs36NKWpEZ9b9SsRKu1GAQApvthv0W7Ga3fn5voGu2HAs=",
+                "mac": "oszUlIIrzO9jys2/If80VQ=="
+        },
+        "database.json/quests/training-close/name": {
+                "ciphertext": "kwa1Zp8J0SRHK7IsGLpbROYMOWFM/y3X0Zc4yjz3fAk=",
+                "mac": "tydt7HqCHzuM9yJYo4j7ZQ=="
+        },
+        "database.json/quests/training-close/person": {
+                "ciphertext": "W2GnexUj9hcV9QAVyBBFHg==",
+                "mac": "FUboM1NLWj1vY3U7Q1Brhg=="
+        },
+        "database.json/quests/training-close/tasks/0/task": {
+                "ciphertext": "cmFqBPWfz9Jnhqyqeknlzr/Ir3Q5A8kGI5Rsxy9X84cTV4hEZoCpKKEfrkkRIS/R2wSeELpDIAX5x1PMuHZR0+FXELyH6ST+c1WDcTFk6VDMiGAJtwBJLaDPBnpsSoiNA8ZDJUeOYl5JJ+oiIUQSNg==",
+                "mac": "2a3jMY+ixhwMTlYV3TTFVA=="
+        },
+        "database.json/quests/training-close/tasks/1/task": {
+                "ciphertext": "eWa6HKln1vzJu7ewoeYAPgO3h5woIpDJEKeIxhoXmyo4tnaZvAh2UjPBX9rjITR6",
+                "mac": "en9USHSJKeQxlbx+c060Iw=="
+        },
+        "database.json/quests/training-tutorial/briefing": {
+                "ciphertext": "HGA+5Nws4cwmSMmdeGLdKiZMx+rkt0ARoscd4XVwIy2PC83sNDsiIdkECC4FCDl4+k7vm1EQZFoTV8iYZj2wWKPHvUAe25nRBRefq4yHReI/UUjXCek6U5OSggue6XtwB27KLn48dmQw19wHp11OOu4Y13UjVK7S1R+dBxVkGuvBezWkEHOKuHoRAxi/BmABFgbwxbmgb3X3Q4vVIoFf89RM8Oeap41EYaB3jHpMwA6iaoABoY+7RiwRAevszOg70ixTO7k/tA5uxTKmSEFm3w6E6pxSG78kxAze+Kx+FMlQJaGgyVn6CYUpX4b44G/C",
+                "mac": "1pKLvExh3CRFblYm0JDYEw=="
+        },
+        "database.json/quests/training-tutorial/description": {
+                "ciphertext": "R8E+7GDFxh+ftE2x8KusYyXCKByDqP0G+ljWdkfVOCgcDpdw804o0OPJcEUP3aKpUUv3fAkTocDrldPHCXe1pEb9ehW/Vp3RpAntwlZwtblvOhpxiLCDig3+RsYNNpd9M/cNr7L7rM4+XcPTrAnxaYnV7l4KILhRRqaPexmgMyhr0dkJYGHAKmTIIhPDTvuGUcxeNJTVbwOaOATWDq79fUnIdFyHdvRjBmDAEiOaL0PVW5wk7eByrvHek9U7nTEv/WT+ldYUShsHx0lAPAZWv5k0vh/VkYrfF5vsxo2U+PzW8/cTqQzrOEA5fo1J3iaR",
+                "mac": "51VORvOPXVT2kZlguACHwg=="
+        },
+        "database.json/quests/training-tutorial/hubSettings/location": {
+                "ciphertext": "ITzQEO8ziC7P0ENNc5+VU4oRjPAnsgD+EjpufSbWGyO6ldsbgPhaz7hm0VHE0dqCfoFqZvegKrOwXIE7JzMzSI893uxlxFykwV7PcehiNaaXM6Seh9mXbKeE9v9IlOnS",
+                "mac": "B9OW76qA5ebm/hoZrr7mfQ=="
+        },
+        "database.json/quests/training-tutorial/name": {
+                "ciphertext": "ZsisS5hmc/vhczAsas7POuSVaNK/ZugkfBKxIR3gF78=",
+                "mac": "1g3dMLK+HvqUNf4F8Tn33Q=="
+        },
+        "database.json/quests/training-tutorial/person": {
+                "ciphertext": "W2GnexUj9hcV9QAVyBBFHg==",
+                "mac": "FUboM1NLWj1vY3U7Q1Brhg=="
+        },
+        "database.json/quests/training-tutorial/tasks/0/subtasks/0/text": {
+                "ciphertext": "WAQ00Kc1kYYNwOnHsfdbnO2erW5O07FVFSsCzPfYtH0=",
+                "mac": "zAy7rd7EErpF4GA5CCLVvA=="
+        },
+        "database.json/quests/training-tutorial/tasks/0/subtasks/1/text": {
+                "ciphertext": "kwa1Zp8J0SRHK7IsGLpbROYMOWFM/y3X0Zc4yjz3fAk=",
+                "mac": "tydt7HqCHzuM9yJYo4j7ZQ=="
+        },
+        "database.json/quests/training-tutorial/tasks/0/task": {
+                "ciphertext": "XiMjfn5C9TTLw/lSz1DBwdC7UsUGaGO+/qqZPObEIzHiypmdByymPY0bYnl5ztT1RSDzR7CD3mCxzJlAMcXZXLfFvc03AosQyQttOSGAhcfh3Fcl/Kl1p8r7OxiSsRRb2dpMhzDmOq7Xw8RDNJ1rxYBsO544dcdZjtNTUngObok=",
+                "mac": "OJ2cL5g52AWtVlTJpUcNpQ=="
+        },
+        "database.json/quests/training-tutorial/tasks/1/task": {
+                "ciphertext": "x1O0/5hxOThSCe8SZVrSPVpmXYoLoke/P4GROdtpzlOXcjBO/Xv/x0M3PUbhrkRtmHLoyxlEUiNPx3cFyhWptzuaD9ZvMsgEaM8w7flw8H+cK213DmAOkBsKPYSf3b7ntzC7C0NBGbgxrOog99XMsg==",
+                "mac": "ElYLJtU7NC+DFQXupgsk5w=="
+        },
+        "database.json/quests/unknown-warrior-1/briefing": {
+                "ciphertext": "1KdnBP0/DZhAnPZ82yvKlLjCxLWPesRemmdHnDLSZ6UBlhUAuPSfhjVb4BEqUUkYFs+MKyqexLMglvTH+ob5I/yNgBbe2CTuZ2HSRt0yIBVKXj81WXHsb/rEeQOoEbYrixkFqYeMOszNABUA5Mc+cJfNVVcU71/JdFo7CPH+Na4=",
+                "mac": "cXtzlgf6v4BWrg6AkXRfSw=="
+        },
+        "database.json/quests/unknown-warrior-1/description": {
+                "ciphertext": "TAPk7vObnfrPSYogNpCt3wf08MtLQhtXnDZzgVWpRgzcV6srB/pxGVxuXW3VJlWHLRYYYUS08it1tDaVqpGWvWB/82KKYcN576Oacw7pbK10kyPS4gz0+MY3qM7AmVF85G3CHIjzLcWw6C3HM3yY/dmBtR0qEWyN9FqiPUBlrX/BjrA2M4TdlbAPHNRJ1PuLOXnquUgyA+NxQud4TpdbrhdIucfcNYQd9r6oz0TBK4adiEIJPTIme9Z2celif+TVq6h/DqLpW5wgBeWdlj+2FEEhOW71aEa5YPyHpEVC01OeY07GNO4XpQFbwdR54lMjmQqeh2pz/QnrNyb5FBhgrR8IqSb7YibAH5yy3BxYXPUJuFHdnSSwRW6vpjK7nrB1",
+                "mac": "3N201ewz28wRfAMM3dvF5w=="
+        },
+        "database.json/quests/unknown-warrior-1/name": {
+                "ciphertext": "kyHMP4rCLJHrXXhtkawI+5GOFV7XuhPvt5iVQn8hj7E=",
+                "mac": "vGzjhKXMgMPabrmSz/Bfdw=="
+        },
+        "database.json/quests/unknown-warrior-1/person": {
+                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
+                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+        },
+        "database.json/quests/unknown-warrior-1/personAfter": {
+                "ciphertext": "eF1eN9KDsmysvgnhTqqq8g==",
+                "mac": "/UMARjGq2ebHPw+5YSe7SQ=="
+        },
+        "database.json/quests/unknown-warrior-1/tasks/0/task": {
+                "ciphertext": "S4z4jh7h7iHWsIHar4hGA/27VpdGSjqSVt+pEaaZaETTw8dfu0ATRHEheIa4RScR4k87pxCf3StSU1X5LJK6e+Kxa+ydYmJHeQaRIoa+e8E=",
+                "mac": "T4LPz7Um5mq2BslWg6V1fQ=="
+        },
+        "database.json/quests/unknown-warrior-1/tasks/1/task": {
+                "ciphertext": "t12t7eInC2WJgwMmkqJhcspBB1VddMrALXarsQWYNu4zq8jdm67bhInyQYrZC5ZwZPSOb79dE8sPZUbgFW7Xbm+8nsuHRX+nylUGFSm5ZJYYamqCwezKDsqTxHHWnG10ebw4Fp41zWtQ4UTQeMB46w==",
+                "mac": "blllccA3rV3ajigni2/gbw=="
+        },
+        "database.json/quests/wa-1-digging/briefing": {
+                "ciphertext": "V7WYuU/yMW+mRaViX3fUl/moU0WXtMIxkL6EuhtAZ6d2hQVyjPqsk6P/g+Jnc0nog/gC9cwE7ifUwmI8NeT8/m6KxAoAJAfshVCfcwa9iuhNQ/4bb34q4ZlU3egw1RyV",
+                "mac": "y/Rck+KCX5s5Upluri9t6Q=="
+        },
+        "database.json/quests/wa-1-digging/description": {
+                "ciphertext": "EkkQTtfbo81XCvYiKq0mNDeXWgnhIyGlIpPmHzaAJd9c/BF0Mhr0kcA1WJIQicX6i6dljd5KDi6UT9jqWWpdUm7RXqQD6a3+FMo6ujdh8qs7ADg3cfPvnDATBXu4pKLbTQOMibOsdWsUpcfIxif89tzFMWR4WEOrddof4w7VhiyrdjXp91W6Fp49F4OTi54xuO6GQ7bbquTS4FSQK9OrpN1zG9/E5/IVvRCFlnMOq7TazZ6VgDOkhjlAy9ss149gFljSLaCoXvN74hX5Ai6fugUs1+bToR2qHBC4unEqjx340D2ELH9CrKvfqvDA0iyD5sKsZpvKFv+GXql7U9z27Q==",
+                "mac": "i5NL7Gk10nT4cCHhNe/+cg==",
+                "quality": "unknown",
+                "ciphernote": "7VULRKU2+zwYHcFzCkIfmw=="
+        },
+        "database.json/quests/wa-1-digging/hubSettings/location": {
+                "ciphertext": "tWu6vy+X7vHEZsirRKqZ5H9SnAh7y485wu6F406Re98FJ4OjNK2JSN9xmMYPSjo7TGyy+iysYZ290Gkfm4iTbSGXehu9Q9JnuTklU679q/dwPNncZMGPdlHkgCJiOKmgAViq8FhfVD40CdqQjGSUolEH9FP51GVIGFA0T4sNxMYqDrx0dKj9JMeeyF7JJMSF1bSelw1T7lxH9w9sHueC3A==",
+                "mac": "4on/ilvgjBZVKsHFkIydCQ=="
+        },
+        "database.json/quests/wa-1-digging/name": {
+                "ciphertext": "XuorFz3uHyZDh68GrXYsYR0JAO/3eD/8432llh3CMOg=",
+                "mac": "HYUsI9Hb/79YNOtgFEj7pQ=="
+        },
+        "database.json/quests/wa-1-digging/person": {
+                "ciphertext": "catyzxbsZiTuwzxOUZB/xbjZExFU8ziQOONWgWbLXOM=",
+                "mac": "LQoTXTEEC41JeNKylpkB+w=="
+        },
+        "database.json/quests/wa-1-digging/tasks/0/task": {
+                "ciphertext": "GRZGiDsgv48CK4Sd0VVsk3hoHMjLuOdqwod84Xwoz8WTXtBUsN4OQOkPH+3troA/NHtDEz++sjgsUm5lLI3y8xcj/NE75zsLlIdZPMi/iS4dlMk8VsscYVrtXf/Yj12NPqhQ86O9xWZyfWRHH90pRE6DuaVVNJZNyy/wKLYKsFATPujLEFk4HaOXMkkQc/xCGIBIQd8emtJ6nfoqI94PMvh7EU1kp9K7rKJ9kE3IMmI=",
+                "mac": "xsfVKuU1SC5Wg1HtIjPOTw=="
+        },
+        "database.json/quests/wa-1-digging/tasks/1/task": {
+                "ciphertext": "4+rKkuZyA5ZjjzYxjrsc0gkeZ6yWtygzaBJu3pIAS7mYK2P6i4euZM8O2oF2IpD5nkfWCBTeLb7mi1hGgXbAcw==",
+                "mac": "F1vM0OkTPJTtxmOU9hLXCg=="
+        },
+        "database.json/quests/wa-1-digging/tasks/2/task": {
+                "ciphertext": "CTpiRGspubQr4MjFlHXZdwT1+o6kU2csNusmv9IuRDm2JyJkvmMhx+6lHICjUY0BDPs6UXx6hTiWgP/WJsVrO6EL6AZ3AyZli8y0VnVKa5Y=",
+                "mac": "wi6QofraJ8Ac7oH+qmc9SQ=="
+        },
+        "database.json/quests/wa-1-digging/tasks/3/task": {
+                "ciphertext": "uCZne/F72pEkwse8aitJwz72qoGHAKItwAzEu9LgDjhOWJqKkNbB/oDTF9mFBTSyoG/4DEcSc88ZiY4GdoIX3v1Lq8txD5m8OjtptQ3340nWWc5xW8OKv3/IODN+/3EM",
+                "mac": "mHAmSJPfm0+mOKmhzPBDBg=="
         }
 }
