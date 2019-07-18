@@ -16,16 +16,18 @@
 	// latin capital letter A with tilde. We told them to use utf8, but
 	// they don't seem to understand. They think javascript source code
 	// must be encoded in latin9 or something.
-	var c = { "à":"\u00e0", "á":"\u00e1", "â":"\u00e2", "ä":"\u00e4",
-		  "À":"\u00c0", "Á":"\u00c1", "Â":"\u00c2", "Ä":"\u00c4",
-		  "ç":"\u00e7", "Ç":"\u00c7",
-		  "è":"\u00e8", "é":"\u00e9", "ê":"\u00ea", "ë":"\u00eb",
-		  "È":"\u00c8", "É":"\u00c9", "Ê":"\u00ca", "Ë":"\u00cb",
-		  "î":"\u00ee", "ï":"\u00ef",
-		  "Î":"\u00ce", "Ï":"\u00cf",
-		  "ô":"\u00f4", "ö":"\u00f6",
-		  "Ô":"\u00d4", "Ö":"\u00d6",
-		  "œ":"\u0153"
+	var c = {
+		"°":"\u00b0",
+		"à":"\u00e0", "á":"\u00e1", "â":"\u00e2", "ä":"\u00e4",
+		"À":"\u00c0", "Á":"\u00c1", "Â":"\u00c2", "Ä":"\u00c4",
+		"ç":"\u00e7", "Ç":"\u00c7",
+		"è":"\u00e8", "é":"\u00e9", "ê":"\u00ea", "ë":"\u00eb",
+		"È":"\u00c8", "É":"\u00c9", "Ê":"\u00ca", "Ë":"\u00cb",
+		"î":"\u00ee", "ï":"\u00ef",
+		"Î":"\u00ce", "Ï":"\u00cf",
+		"ô":"\u00f4", "ö":"\u00f6",
+		"Ô":"\u00d4", "Ö":"\u00d6",
+		"œ":"\u0153",
 	};
 	var oe_regex = new RegExp(c['œ'], 'g');
 	var normal_nbsp_regex = new RegExp('[' +
@@ -34,17 +36,27 @@
 	var filter_normal_nbsps
 		= (text) => text.replace(normal_nbsp_regex, (a) => nbsp_map[a]);
 
+	var degree_regex = new RegExp(c['°'], 'g');
+	// This is a spanish MASCULINE ORDINAL INDICATOR. It looks like
+	// a degree sign, but is not the same.
+	var better_degree = '\u00ba';
+
 	var text_filter = (text, result) => {
 		// not in latin9 nor in the font. Don't feel like patching it.
 		text = text.replace(oe_regex, 'oe');
 		// nbsp.
 		text = text.replace(/ ([:!?])/g, our_nbsp+'$1');
 		// shorter nbsp
-		text = text.replace(/ ;/g, shorter_nbsp+';');
+		text = text.replace(/ ([;%])/g, shorter_nbsp+'$1');
 		// there is sometimes the need to truly encode a nbsp,
 		// e.g. in the insult generator, because the game will
 		// internally append '!' at the end.
 		text = filter_normal_nbsps(text);
+
+		// The degree sign from the font looks like an upper dot.
+		// Replace it by a MASCULINE ORDINAL INDICATOR which is a more
+		// realistic degree.
+		text = text.replace(degree_regex, better_degree);
 
 		if (result.quality)
 			text += '(' + result.quality + ')';
