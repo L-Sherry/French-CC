@@ -552,8 +552,8 @@
                 "mac": "W8hIoHmrYsDRlzFIrL72mQ=="
         },
         "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
-                "ciphertext": "Xuoupr3CfplFWeUueigJp4r7g0knGb3b0DCnW3HUdnw=",
-                "mac": "v5GIIZ2zcTgvY18m4dg9/w=="
+                "ciphertext": "Hm5DYGQSPYRceAyN4yyd0TdAMjtqcut+GvJQS3UjxSo=",
+                "mac": "Xz5+8H77H4reUitn90+WiA=="
         },
         "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/description": {
                 "ciphertext": "s981GyPwC+Cj6gUiiOhf2ygYhyKhXX+TP0tfvTLMF4IM2uXK1lcRliKSmHP3NQR48jCi69Yex85pRjgdDKX6yqCmLaK+6qbS7GJ7d0+WG/TuZVvgiFmzajrW0aEHad2gPd6X+6wtUJPJ5VJ3sMgIvw==",
@@ -569,7 +569,9 @@
         },
         "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/name": {
                 "ciphertext": "C2R7ryL2Qfpi0Nzl86o8yylb7W9ccc3/5/7swrbapMA=",
-                "mac": "lOyaCDdGtvQFdoBD2pyWpA=="
+                "mac": "lOyaCDdGtvQFdoBD2pyWpA==",
+                "quality": "bad",
+                "ciphernote": "K+U3Iq6Aj533VcEuLmEVGTm/o+nyeyhhRjza8Ah66Gk="
         },
         "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/description": {
                 "ciphertext": "8rL4kIln0ET/Pe3bCJmfbh24pR3DId3SltmiHbsoVdyrtarQlWmk3rIO02qYkRp7vuqrA+LuFEo8BOc6BS9aSCXcs1q8e1syLTKBsgkAHbA=",
@@ -577,7 +579,9 @@
         },
         "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/name": {
                 "ciphertext": "6e/oOMd/4GrPXI9cNWmv+wKmnNDFQzNDusrnTxNClCg=",
-                "mac": "oAvllAlRX9kHIXr/CQtTJQ=="
+                "mac": "oAvllAlRX9kHIXr/CQtTJQ==",
+                "quality": "bad",
+                "ciphernote": "W9NV+W0oVnMoz0a0FjQ3Tm2GdwNo++Z9hoFH1PQmqZM="
         },
         "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/description": {
                 "ciphertext": "8DpQxXTBfeqZMuXhMt9IonGBBBmB8Cy4592ACVESOGd6xhY73nGbHvWf1GDTlQlT7+mgoFwekR4A99YXVHlYIIgH0QMwfplmSQIVkEclLtPyJI3Diqwhb4Pktf1F9RjW",
@@ -593,7 +597,9 @@
         },
         "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/name": {
                 "ciphertext": "garWTIh3239GJphOyGdOfKhD/EZ6uXkprXv4BUtdnw4=",
-                "mac": "q+cLOhf4cZRoZpAHi8P23A=="
+                "mac": "q+cLOhf4cZRoZpAHi8P23A==",
+                "quality": "bad",
+                "ciphernote": "5J/6IxJWhBlwFLQMbQI2xRPZODGe65lHRBHLPGWzCO4="
         },
         "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/description": {
                 "ciphertext": "GYm0o6IBdtnJt71bMPJMfvK9g0k1U5uj1sQKODdGyqBmrYbT5k0nklCpTxQJsz3r7uVVfO36yCRn71P74SGVTW/EUojWO8GeJc7ZDSoGa6RyObkFkEe8HUczpzo9jngus5yo588xiQ0txUvj7R0Efg==",
@@ -625,8 +631,9 @@
                 "mac": "oqH6KPUd6Lq2wajmJZ7kaQ=="
         },
         "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_A/name": {
-                "ciphertext": "4Lf3M3axcQ2OcBOIZ0vOF6UijEsEuMp9SLc5x9y2lyQ=",
-                "mac": "roOQ1zjDu/lDsMQFIXNnQw=="
+                "ciphertext": "s4ZtmqRNJ6rcdWoZEvSOFg==",
+                "mac": "x24HjOMPV6Tw/oxaX34EtA==",
+                "ciphernote": "4Lf3M3axcQ2OcBOIZ0vOF+lPzNhwoaWZduLfeSqQ4toyDHzBfKD/7Dl0sF5E4XuK"
         },
         "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_B/description": {
                 "ciphertext": "WOdnmfc2+WmzxIu1IO7iL+CBhTE3hkBV4bCr+Zg8ZbtSgzf7bl3bu8IjH+fnMQGNTtNmHLpzuIuRpSQiIUaH4DkPEJbCvkuu9/EA8sdWTTg9jUNL0Mrg19wF8dSbreCP",
