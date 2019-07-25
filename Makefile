@@ -16,8 +16,9 @@ update: $(stamp)
 # define your gamedir here if you are tired from repeating it.
 -include translation/config.mk
 
-PACKFILE=./tools/packfile.py --map-file='$(mapfile)' --from-locale='en_US' \
-				--game-dir=$(gamedir)
+PACKFILE=gamedir='$(gamedir)'; \
+	./tools/packfile.py --map-file='$(mapfile)' --from-locale='en_US' \
+				$${gamedir:+"--game-dir=$$gamedir"}
 
 $(stamp): $(bigpack) $(mapfile)
 	$(PACKFILE) split -p 1 '$(bigpack)' '$(clear_packs)'

@@ -23,7 +23,8 @@ To use this mod:
 Contributing:
 
 To view/recreate translations packs in this mod, you can simply clone this
-repository and use the provided makefile as follow:
+repository and use the provided makefile as follow (you can omit gamedir=
+if this mod is already installed under assets/mods):
 
 make generate gamedir="/path/to/the/crosscode/assets/"
 
