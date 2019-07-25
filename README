@@ -23,22 +23,30 @@ To use this mod:
 Contributing:
 
 To view/recreate translations packs in this mod, you can simply clone this
-repository and use the provided makefile as follow (you can omit gamedir=
-if this mod is already installed under assets/mods):
+repository and use the provided makefile as follow:
 
 make generate gamedir="/path/to/the/crosscode/assets/"
 
-Will attempt to generate a big JSON file under translation/french_translation.js
+If this mod is already installed in a subdirectory of assets/mods, then
+gamedir="..." is not necessary:
+
+make generate
+
+Will attempt to generate a big JSON file under translation/french_translation
 that you can either edit with a text editor, or add more translations using
-jsontr.py from Localize-Me-Tools, available at:
+tools/jsontr.py (assuming you cloned this repository recursively with its
+submodules, or else get it from https://github.com/L-Sherry/Localize-Me-Tools)
 
-https://github.com/L-Sherry/Localize-Me-Tools
+tools/jsontr.py --from-locale en_US --show-locales en_US de_DE \
+		--pack-file=translation/french_translation \
+		--gamedir=...  continue
 
-You can then use 'make gamedir=...' to update the files in packs/ and commit
-them.
+You can then use 'make gamedir=...' (or just 'make') to update the files in
+packs/ and commit them.
 
 If you can't use the makefile for some reason, then read it, it's not
-that complicated (erm).
+that complicated (erm).  It basically boils down to calling packfile.py
+from Localize-Me-Tools.
 
 A quick introduction on how to use `jsontr.py` is available here:
 https://github.com/L-Sherry/Localize-Me-Tools/blob/master/doc/SoYouWannaTranslate.md
