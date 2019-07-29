@@ -7,10 +7,18 @@
 	// This would be U+202F or something.
 	var shorter_nbsp = '\u0081';
 
-	var nbsp_map = {
+	// create a replace func given a single-character => replacement map.
+	var map_to_replace_func = map => {
+		var regex = new RegExp('[' + Object.keys(map).join('') + ']',
+				       'g');
+		return text => text.replace(regex, character => map[character]);
+	};
+
+	// turn normal nbsp to our nbsp replacements.
+	var filter_normal_nbsps = map_to_replace_func({
 		'\u00a0': our_nbsp,
 		'\u202f': shorter_nbsp
-	};
+	});
 
 	// The 1990 called, there're telling us that our 'é' is a copyrighted
 	// latin capital letter A with tilde. We told them to use utf8, but
@@ -27,23 +35,17 @@
 		"Î":"\u00ce", "Ï":"\u00cf",
 		"ô":"\u00f4", "ö":"\u00f6",
 		"Ô":"\u00d4", "Ö":"\u00d6",
-		"œ":"\u0153",
+		"Œ":"\u0152", "œ":"\u0153",
 	};
-	var oe_regex = new RegExp(c['œ'], 'g');
-	var normal_nbsp_regex = new RegExp('[' +
-					   Object.keys(nbsp_map).join('') +
-					   ']', 'g');
-	var filter_normal_nbsps
-		= (text) => text.replace(normal_nbsp_regex, (a) => nbsp_map[a]);
 
-	var degree_regex = new RegExp(c['°'], 'g');
-	// This is a spanish MASCULINE ORDINAL INDICATOR. It looks like
-	// a degree sign, but is not the same.
-	var better_degree = '\u00ba';
+	var generic_text_filter = map_to_replace_func({
+		// not in latin9 nor in the font. Don't feel like patching it.
+		[c['œ']]: 'oe',
+		[c['Œ']]: 'OE',
+	});
 
 	var text_filter = (text, result) => {
-		// not in latin9 nor in the font. Don't feel like patching it.
-		text = text.replace(oe_regex, 'oe');
+		text = generic_text_filter(text);
 		// nbsp.
 		text = text.replace(/ ([:!?])/g, our_nbsp+'$1');
 		// shorter nbsp
@@ -52,11 +54,6 @@
 		// e.g. in the insult generator, because the game will
 		// internally append '!' at the end.
 		text = filter_normal_nbsps(text);
-
-		// The degree sign from the font looks like an upper dot.
-		// Replace it by a MASCULINE ORDINAL INDICATOR which is a more
-		// realistic degree.
-		text = text.replace(degree_regex, better_degree);
 
 		if (result.quality)
 			text += '(' + result.quality + ')';
@@ -165,6 +162,13 @@
 		font_context.clears = [];
 		if (space.height === 13)
 			figure_out_e_patch(font_context);
+		if (space.height !== 7) {
+			// The degree sign from the font looks like an upper
+			// dot.  Replace it by a MASCULINE ORDINAL INDICATOR
+			// which, in the font, looks more like a degree.
+			var degree = font_context.get_char_pos('\u00ba');
+			font_context.set_char_pos(c['°'], degree);
+		}
 		figure_out_i_patch(font_context);
 	};
 	// Patch the given font.  Easier than shipping 16 modified pngs.
