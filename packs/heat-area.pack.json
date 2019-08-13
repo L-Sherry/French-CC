@@ -162,8 +162,8 @@
                 "ciphernote": "RYziUcZ7f+E5WkW47fvfDw0T88HnRtDAdk99DRyvOK9gE8/p7Hf057/I6W7xA37F"
         },
         "areas/heat-area.json/floors/2/maps/8/name": {
-                "ciphertext": "eW5Gqz+UZi5DhxUiGGssXA==",
-                "mac": "jIT9nvWAYJbxO30st+ybkg==",
+                "ciphertext": "9eb+brpJxmg0AMxKn6DEWZSY8YyKJGElZwrQoe4EEYU=",
+                "mac": "oeMtfFJi5PA/ayODwFDidA==",
                 "quality": "bad",
                 "ciphernote": "Pa4aQc/nvIGGAErW8Wk7DGxzipLNqlguDUpuVeH2XxM="
         },
@@ -179,5 +179,61 @@
         "areas/heat-area.json/name": {
                 "ciphertext": "FaWNNcTP4kbBTqDCKqqJdA==",
                 "mac": "vmFl8w/8qkkacVdD494Hfw=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/10/text": {
+                "ciphertext": "hDLHi+BoAovoATlcfvvjcd8yu9Cyuq912Rc65a5JdHfpJv1joJEVa8syfahA1j8//en5YYvYIrQ7zDXzW8hJAA==",
+                "mac": "kG8IWyhNh35sEDVOTUO4uA=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/11/text": {
+                "ciphertext": "J2IDrGB6MbDOvaX3FRbtyJiVQAsFqvaN0LDdYM5hmTMoBoXG0ivrxH0VPHZYSL8M+6Tjd0T82mjz+FZUCjLSng==",
+                "mac": "XC5y9bMZLz5QPfv/cvH9Ag==",
+                "quality": "bad",
+                "ciphernote": "3k7huu8mV2Z/M9CGzItJ6emQV3uRDnxQ1wItKUav8ZU="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/12/text": {
+                "ciphertext": "wApQ/mK3rB/e2yMQvLLTa+jBjBxNp02dNP1vF4TN5YMAyXq4wD2xm663+sOpmDs+",
+                "mac": "qp3v/cfouf2oah5gdbH6Xg==",
+                "quality": "unknown",
+                "ciphernote": "jq0CSFB3E1NiNaT3c5M2tSvIumRCq5YbvcSSz404EYJWKnvZYx0DdNJd2QLyxpwMBfzMtCJyylChlaWWYw9G1A=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/13/text": {
+                "ciphertext": "gfhCllXkrxQq13oYCGWHrHzp47Z6yhZc3vhnEyWJ7+N9aFMDnmGedM4IwoSVzWZL",
+                "mac": "NP57FgxuSnB9Ue+AaRbPLw=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/14/text": {
+                "ciphertext": "dm7W73pyHG8qecpPDxR8dEd72TAjybzdqRw0zHyuxDSOvdmrPBcxaczISmeqHuEkCu9oBQ55Ql6QDPo9d2zQ/A==",
+                "mac": "nLgoiYGd+ZDN2w+3uKUzew=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/21/object": {
+                "ciphertext": "oWSPCb9xAg4SS9OO3SQetujg50orlNL8D1/JurrXUvI=",
+                "mac": "V9SVMNtFfSQCCGyYV8c8rA=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/23/text": {
+                "ciphertext": "wpXD+Xf21UEYVmEwZXOBVspcgP4jDdL9b/Aqfgqt12AG2eScVvyJnhqo36yYVoTxpL3X4fuGi1VmmyT/5GFtMW4Pg9EaIi9yBMX7YfzraQ0=",
+                "mac": "d9+GqgraU9dod51dC5pFew==",
+                "quality": "bad",
+                "ciphernote": "1sP5QGBF3G5Y1zh5ncS3Hw=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/24/text": {
+                "ciphertext": "QiL8PEfDHVVKWZo5cN87VTAEZ351XgRE/zzvgCLSXkTVIc7BZQPe8bdNeKPF77uF0nbfZtT1fi4f7uqdxsGUHRkc6sJtIrYDDiwc9jqugqsq9mSP73yVccvjAM7SbT2x",
+                "mac": "HZx9hX2joxuxm/ay9OBt7g=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/41/object": {
+                "ciphertext": "UcA+0yfxwut3QLpFBPQarw==",
+                "mac": "nz0OSd+GN3M5mLYEdNhP9g=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/47/text": {
+                "ciphertext": "ucPoLn+AzpR5JGo6aSBQaRNlbWLYnJvXb6dprwysz5O3v35f5seb6V4CKGfXcDThvuB8lczoUHzsqnTOeXTGzw==",
+                "mac": "jrSg32phxK9anYGLgKM2cQ==",
+                "quality": "bad"
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/8/text": {
+                "ciphertext": "OXbTacjWxlNWWnRslcmR9iep8qGO3BCvs75e+siCzQ+TD2m+3HQSr0IZ6Jq+/zIbDVRO/TanJyKSw3ZHLqih4g==",
+                "mac": "oJo4hiUvdhjkB/7PaPnn4Q=="
+        },
+        "maps/heat/dng-expo-space.json/entities/4/settings/event/9/text": {
+                "ciphertext": "kbwrykoIAuqeQeVrC7eU3J95eLJ7P0PYFT0WCSgFTs6hvivX4AuMiQqXonESC6hq2uVYL+GVtujJh2sOSxsM8Q==",
+                "mac": "j8XqMIrp+/qAkp/UAPzzHw==",
+                "quality": "bad"
         }
 }
