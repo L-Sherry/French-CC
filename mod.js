@@ -217,7 +217,7 @@
 		return template;
 	};
 
-	var my_prefix = document.currentScript.src.slice(0, -"mod.js".length)
+	var my_prefix = document.currentScript.src.slice(0, -"mod.js".length);
 	window.localizeMe.add_locale("fr_FR", {
 		from_locale:"en_US",
 		map_file: my_prefix + "map_file.json",
