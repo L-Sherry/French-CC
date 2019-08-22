@@ -16,7 +16,6 @@
 	"areas/bergen.json": "packs/bergen.pack.json",
 	"areas/fallback.json": "packs/fallback.pack.json",
 	"areas/forest.json": "packs/forest.pack.json",
-	"areas/heat-dng.json": "packs/heat-dng.pack.json",
 	"areas/heat-village.json": "packs/heat-village.pack.json",
 	"areas/jungle-city.json": "packs/jungle-city.pack.json",
 	"areas/jungle.json": "packs/jungle.pack.json",
@@ -635,5 +634,13 @@
 	"maps/heat/oasis/oasis-path-03.json": "packs/maroon/oasis.json",
 	"maps/heat/caves/maroon-cave-01.json": "packs/maroon/oasis.json",
 	"maps/heat/caves/maroon-cave-02.json": "packs/maroon/oasis.json",
-	"maps/heat/caves/maroon-cave-03.json": "packs/maroon/oasis.json"
+	"maps/heat/caves/maroon-cave-03.json": "packs/maroon/oasis.json",
+
+	"areas/heat-dng.json": "packs/heat-dng.pack.json",
+	"maps/heat-dng/f2/room-cold.json": "packs/heat-dng.pack.json",
+	"maps/heat-dng/f4/boss.json": "packs/heat-dng.pack.json",
+	"maps/heat-dng/f4/corridor-east.json": "packs/heat-dng.pack.json",
+	"maps/heat-dng/g/room-01.json": "packs/heat-dng.pack.json",
+	"maps/heat-dng/g/room-02-cross.json": "packs/heat-dng.pack.json",
+	"maps/heat-dng/g/room-09.json": "packs/heat-dng.pack.json"
 }
