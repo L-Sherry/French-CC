@@ -1435,8 +1435,8 @@
                 "mac": "wafKxfuPMZ3hu9sGvbhfvQ=="
         },
         "database.json/areas/heat-area/landmarks/oasis/description": {
-                "ciphertext": "0neDmnNyYUlbJbJTevjXmAynCaMAagXJon08HiQ5nAXM2iJQVYH9LJJBC/sct3bC4FsLCHgp6WPFdvAspCAqEOKEXfP5RChQB/I+qOaiO8U=",
-                "mac": "Y0uA+CWcbqR2xLKK+OYW2g=="
+                "ciphertext": "0neDmnNyYUlbJbJTevjXmOUJe/b6nkelWi9fNYJd6PyZwqQMr6pB6VHk3MuraC92ugI6m53Jvwpsds1LBkfDsRTzc+l+zq3SmgB2I11GPvE=",
+                "mac": "Gt3ATDlpbPbmx2TvyzA4AQ=="
         },
         "database.json/areas/heat-area/landmarks/oasis/name": {
                 "ciphertext": "x3MEijbcqQgvv+n7c9sypg==",
@@ -1495,8 +1495,8 @@
                 "mac": "TztCyGgQlP4K6UYEq23nGQ=="
         },
         "database.json/areas/jungle/description": {
-                "ciphertext": "H6VIH1gyNX3ApWVQY6lTSBPU9uOxpH8Cd4P0UeX2imZ0OcIJAjtO78ySMbmhJ/Z66wppkdvCfxFtj7UBheoG6etKcousU9Grfl5UznTlZqg=",
-                "mac": "6PqDicRKgVYknxCoOnNVKQ=="
+                "ciphertext": "H6VIH1gyNX3ApWVQY6lTSMqxrGCORzMC/68D7nhyb5ebCAUiJ8e8nxKqUTP71NxIlBV3tyA7QkhxM7Ia3oY/N8xsADvrnBpGbTb7oBTJlD0=",
+                "mac": "VIDdemXqxEVB9J0K3GlsCA=="
         },
         "database.json/areas/jungle/landmarks/clearing/description": {
                 "ciphertext": "iyNzZRazAhlIk8xnWkmiqVe/A63SLeHjYMbe8TrWClrWFrkVzvB8cPZlH2RZObXbbqPnlntsl44mwySvb7gR8Ae1gaVLT2qXnRGTdO4druZU/S8zoW62EERPFfWutK0w",
@@ -1635,9 +1635,8 @@
                 "mac": "him9PpNyMb/GR3xVhfu9fw=="
         },
         "database.json/areas/shock-dng/description": {
-                "ciphertext": "24QEnILxuw1G+ICzVvS/v8A05M+ghzrKfASDfY2wscecl0snMiBu/rdDQAH7GFdS04LdU/ZSAf5B+jhq9cybHNf294wBf7EPvWq66w5YDT8=",
-                "mac": "bPG+5IYpeRgBz/PTVqWCuQ==",
-                "quality": "bad"
+                "ciphertext": "24QEnILxuw1G+ICzVvS/vwPOfhgm63zKFATr9egUFZOgaQRSq2X13xyRT0DHG13UeWpEvEPxfPZLhuIvi5aqY6Or0pyAN9n8MgeKES1s46w=",
+                "mac": "Z4S5CZVxmD3Sj8fumZADfw=="
         },
         "database.json/areas/shock-dng/name": {
                 "ciphertext": "/ihhrRUAS0UNhXcs0ufe5TlGpOURkVFwiJMo2m3JW00=",
@@ -9317,6 +9316,362 @@
                 "ciphertext": "KrpdnL57bsTk4/FH6SzOOlgWzkeSzsgqVwjw8MDAd3g=",
                 "mac": "sVhMUMDbb2LlOcOCjIKq+w=="
         },
+        "database.json/quests/bakiGuard-1-basar_thief_1/briefing": {
+                "ciphertext": "uf7Bpn88dPYdWurzlRmyuNaUU9kqP3lpz88D3hj1SImhK4ClN4vkXbAosvi5OhXv+PJOAl1Hl8WutZ56Y6qopjcz77JLpBYby9Dt3rtHoVy39E/ONfYn59/NeGIomk9L9ZHzLjLCdj2nnZB865mlKu0HNj95MJahwGOZKZdtZxc=",
+                "mac": "05jydQx2/uEL/xpWm5R0yg=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/description": {
+                "ciphertext": "D+WKOQk1NvLTdB+lUhljHsrppobUYurA/eEmFC7hp84bvuaN8ppFBHrV+358waiMWkD6d1vKq8dxl6Vg+D5Xxl+epSfm47oCtXOYb/XM/q0Xv81CvjPkiC6WymKZISelwL5K+IZiq4bhTInDWRThPbGaGOMxXhDfAAEYt7HyIYHCTNZkLgsZ/jKKWXNy6cxkQVg0JHKL2VE2uxIcuTYaMIT5B5Ry0607CuBUuQU0CMluRvHnebeyb820K0NSaYCT",
+                "mac": "p2Y79rT4Vyd5nT26o3Pc2g=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/hubSettings/location": {
+                "ciphertext": "P0d7CA1glKJynv5ZMrkH//KjofwdRu7zWWb+V12Ptgby7a0XN9AxZluHOwNcdVVN/hQijE4MHhthgsP9jo6hM/C06LiBh2tKgfP0q2TJeAqEgJuilrhnkJQlWxMr+2FaRqdLoF0RxQed+DJDKMgH5w==",
+                "mac": "ppkDgb7g6X+uzqnBvMUXQw=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/name": {
+                "ciphertext": "D96A2WAmbm9S2fhYg4+6Pg==",
+                "mac": "l+CoRvKFqLzQ7cn8TAMdnw=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/person": {
+                "ciphertext": "Qx6/HX43kppHXoyaTPExOQ==",
+                "mac": "+bzTV1mFTwQLF6mbDZU9Fg=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/0/task": {
+                "ciphertext": "aYowTy6vttunt2xztKeNv5l67FFpD3YhX9ScYFVtCNFH/Y0agJwaboEGLMRNNNHiMt6rnoXWOuGKP8hGnNQdnPfNPQ2Tx4iPI8DBL7WLJ9MVah6T/KIJOZk8cWYu4kfp",
+                "mac": "StGxEgLIMWIllMndioENKQ=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/subtasks/0/shortText": {
+                "ciphertext": "FkKzZS3ucI5UjLeZ91Y6aOQqmfDFnF9rTtnt+qg5ytEYa50RnZvdxoz1yIbio3Fn",
+                "mac": "dJuTxPOvRrAc7xM+Jr46EA=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/subtasks/0/text": {
+                "ciphertext": "Vt6XjoUU+hVUddGaRtXZppap89JhwmYziSSKgY+bX/SjAVyKnNtVXlxGaIyvKCVs",
+                "mac": "inBPbRdkQCvVgqbzEvHQbA=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/subtasks/1/shortText": {
+                "ciphertext": "FaAVq5UaYl936pb/NvE0ADW1WxIuJBpYAfd7Msq9L8WXEutQM5GhRB1hrsEs5hCA",
+                "mac": "GT4Mq/UdX3E+cUin4VrGug=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/subtasks/1/text": {
+                "ciphertext": "BfLwIWueJ94OiVhXlZfuxn9fzkIDyfOq6zjI2xFUxsbrWgcdO7xR0Z2dVsTKGLZ8plQE3aR+NA6lS0EGcFaWkw==",
+                "mac": "Dg0z2yY23L5Phxm3EVgd8A=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/subtasks/2/shortText": {
+                "ciphertext": "H/j1r/IMbBE1BiOhRoDEM0onvENGk0OcDTVDNbt589Kx88warFW+BWdprOv5x6dU",
+                "mac": "xkVshIHAiAD3DwG+VNl7uQ=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/subtasks/2/text": {
+                "ciphertext": "H1VTeyydnVuIdsfWympX0YWWXPEdMwnQr5aK+QE1+1lAVIS8kHDoTuAYhMoVHB+2dxuS4vKlJeUl6Wq6QcHcXA==",
+                "mac": "CUrRkYs6bMxVdYcoM8EIEw=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/1/task": {
+                "ciphertext": "VMKWvlI+HQpVESNHiHLL1af3Bxr1vax5jGlcOXE1d1X1pbWT2cqKDr+iFkTHLTvOdpL28koaXqdZg1fQBojIVDu6yXt3Proe7EcPUadqPFc7e8oJ2V/O4ehj6uPTh35CRGLNO47+GZekOdSxK/l4eQ==",
+                "mac": "POIlYZ7cvuvw4aFuzInqDw=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/2/task": {
+                "ciphertext": "xMz9a/ZTRYCssZAD7iI6Tlu1fQBZtuzNOTmwdfG6jinbpTTHZTFIctM04aLDf4wZRoyfD1tnbzaXODwURamE4CW8odLxxmSfkcU/w83abEuJeWYbTGrRo6EKCBy5gV374nomIwlJSmyxjNbc8K002Fm8/oX9kqTdhGB4crgkNNgAKn2cP5iNnwC9ywv2sQwR",
+                "mac": "OvB+ytKZMuCodq2NetV3zw=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/3/task": {
+                "ciphertext": "cOvE/B2LcG3/Eqav8XkrC2zdmL2d/2onOCv30yBRLc749UjzHQG1Lods3PFgDR/0P8h0uajx4sw6Luhyoj5kHFc5dIn8AYWIRkjpAVyoYZtT8rmPZJNTs4PGTZABrBgq",
+                "mac": "PAj2ew3+ZfJNkpa08Zrp+A=="
+        },
+        "database.json/quests/bakiGuard-1-basar_thief_1/tasks/4/task": {
+                "ciphertext": "r8+96IvA00r4tYOmF2OWwH52FvDqzY7OOlTj8OCmgfaXbvUOo4nof3Wh6S3e1RrVrDID9vX4q0A2HDXrCwAd2bnA2u8IFrqzluA+BRnL9YqmiPTWnuT5sNaik7ipLInm",
+                "mac": "7LGVZxg6qVmbwxvNDM6kNg=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/briefing": {
+                "ciphertext": "GAYC2kfmopnfg0nAVJ+2YDCM1V/YkiBOifVhegbEfsYOPQsytk05W6McGhSR8qMDVT22ERvxAxdozlq/vICvangVcywuPWiHMLx5KeWArQQlGTR8HmDZLAoN58Tg7AhaM4jgS86YtIyZ+rFJy5XYqoHN24rbSoYQjZ4sewa5UExp+Ix171tAfyRM91JwoFaF",
+                "mac": "os8Pxv1/vxOgNE1HOSWUfQ=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/description": {
+                "ciphertext": "EcDBj6YGkMwCDRbuMsNp2Hqvl4ZK0MN+P+UXpHIZgeMmcQN637xyJZ/EFfz0YJglLxV85Mb0lpgaxEm0/mtyIyCM4Wfk5MIth4uzaO0wPfYJXoT37MNBieLPp5yTLz1b5fJ/x4VvPI6MU8byh3xf+E/24rA1kcXuKPTXH74PNHoLBvKUGLwMycHuoXZflVAj",
+                "mac": "AaGaAWpzc1v14zl4APZC1Q=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/hubSettings/location": {
+                "ciphertext": "7pu7uluNPN/qFj7eQ91Pp4Fea7h6K4zx4IsU8zbrxU1U7ZZUnE+85oFPmQ1ZYy4cX8akB6gdhVR766xJB3KbNQLMb4JvKQ2GJAQgw2gSI29dQHf04q4Anp6NPBmHH+H1+58AyM5G7ryBF88UCiJkjw==",
+                "mac": "HLZWtosIwga7sRVCjU0o7A=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/name": {
+                "ciphertext": "8kwhBBhfYsSCpqQ8hjteQKQg+1dRvSukTLP0Y8MFItE=",
+                "mac": "v/eqYAwFgOcrtnfdcnn67A=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/person": {
+                "ciphertext": "Qx6/HX43kppHXoyaTPExOQ==",
+                "mac": "+bzTV1mFTwQLF6mbDZU9Fg=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/tasks/0/task": {
+                "ciphertext": "P1C5cIvCwqsof/lNMJ7Inpo+h3sUPn8IyIh+kBa5YWig7+PmJzPpkEK5BBNsyutHUx87NMo3QaPWay+DQK17Es1OuaLFExzcs/6x8Kj7sBZYwHzmfPRLjtnkGgjv7bPE4NPtHFrJydco41TR4fSWnmykUEOtTgc2I1cYuwo30NwrqzORwdPPMIw1YpdGW2A9G8OIUjRkmfO7QOMgOU43JTt/vAKNICGfLbYzMP5QBCg=",
+                "mac": "nqHloF5jaOvXc05GpyFP7w=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/tasks/1/task": {
+                "ciphertext": "+hQMbLMkeXgNtryaor1Mhi35egnqzP5GOieJLylGVTjNRFFry81xrNNPfhF9kI2VApo0xcr8JsLHmn1fjTupe50wgP8lp563LkONELqSwLM=",
+                "mac": "U9Tl/ksR+df+vACRaOPdRQ=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/tasks/2/task": {
+                "ciphertext": "bruXWqMnHoI0LI6hGTrOF79x5j4rK6QE4ropd9dpBFPVfyOY0Odv3chzheyGPQYxudzpf9cq7vI477O5w1VS/UcwWiUFkxh5zUvdVBbx3ckn5Z/jjEE1shHwW4kXLMTW",
+                "mac": "lru8xq+OJtd5pv6WnDHZLw=="
+        },
+        "database.json/quests/bakiGuard-2-evil_guard/tasks/3/task": {
+                "ciphertext": "r8+96IvA00r4tYOmF2OWwH52FvDqzY7OOlTj8OCmgfaXbvUOo4nof3Wh6S3e1RrVrDID9vX4q0A2HDXrCwAd2bnA2u8IFrqzluA+BRnL9YqmiPTWnuT5sNaik7ipLInm",
+                "mac": "7LGVZxg6qVmbwxvNDM6kNg=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/briefing": {
+                "ciphertext": "EopD70xYfcCVxcjNum16qfyim9IvOuEXUkO/6QAfGMQ6k+maEgWtbHAZKBVMr0Pc3fvekY5ZEt5vOaU+D6SV+jURsE2Rf3XgdOWdXIOd/39wk/tetjKe54mFnj26J++bpFve71MkhFMlpAha1JYSKM8MlmUU0+kROAhF0zWFs+g=",
+                "mac": "TpG4ibgvsYNfCTXZYVYn0A==",
+                "quality": "bad",
+                "ciphernote": "/+M/k3MmFIE+YlI3x+4/BhJTk9s/26/7vV6Y8lz59sI="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/description": {
+                "ciphertext": "2ICBaI/v7WHseFcjyR5HzvXKsn1aIfW4VRlw5s9+gPgz3SUg7ro9JyXKOmqgLdmYY/p/w7jjH+O6CJP/sBMP/9HQro6C50eBw7eZ9mA9X7G2CJS//i8mu9BLqMaXToaZoqLLQdJFYpBXrFrIrwLGzyhpQTUlWevEFIln9izDYTJMiHe8t4blg6ij4MXhR+++",
+                "mac": "DqO5aXvFlBH+1xKUq1gufQ=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/name": {
+                "ciphertext": "/pj8HEnZgMlbO0cYVNRw0qbOH8mcw8Jn6E4QVkb2UYg=",
+                "mac": "eR7gqPq2rWN4GEOVxdhZng==",
+                "quality": "bad"
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/person": {
+                "ciphertext": "I6cSYXcPCQ+f7dRr6HPmXQ==",
+                "mac": "uEx8q7wHL7H0RWTPXIFrcQ=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/tasks/0/task": {
+                "ciphertext": "Rn8BFf+HRClloW3/W2OcPZq6DHmCM54Iql64n3AZfk1ckpBuscoi9Eg2XR2mGoxCneStVsBBAQKLzzdzCEhajN/Q4WKnxlw7Bmnr/qsqXDxDOF51sEE9O77wHOTL6lHwN9IquS6xiraD5sqNa3eiG1VSITPnpOjxSQqvUmgPJVo=",
+                "mac": "X1OXCcvPGlOTttC4izeKhg=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/tasks/1/task": {
+                "ciphertext": "hf6I+8S9/TJ/r7VSAhfRv/0esu+HZldm5Ia3w7RchDwvdD94bTFdVDseGxPdp/u15tRzSmRxt5MjmzQ8ObmqP7i4s0d7hqPKjbxiuz0q5kaUujc+tC5h+9PmY8HBegSp",
+                "mac": "pLyBzOSzEUET6UHTCpEjLg=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/tasks/2/task": {
+                "ciphertext": "N6VyWor6ujjaj7yUP6Zp5eglHIqeyCzf9TLT8O7CAdK6adUIx22pyTWCYI5dsfP+uEuM5XcLKfrD537eRBtlkgmumW6aXe8bNpbs5TGIiv4=",
+                "mac": "+6AZ1bG+S6Tocvc4+/iW7Q=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/tasks/3/task": {
+                "ciphertext": "aUlzCTonNsTASyPo6H0YzQqRkjpUUJAQV/tXTXlio8ZYtCIFVP5oxO6BUXmAMOHYEMB8qMs/e1TFLkcLeB+dBFwb9yIDEEXiuVO1AJmr1o9JDDpDGX5iiU/HCWSamOhv1bvkn1dB5p4GSiRL3XA3+Q==",
+                "mac": "k9lAhE6dMahZffXz6GP9Ww=="
+        },
+        "database.json/quests/bakiShad-1-ancient_history_1/tasks/4/task": {
+                "ciphertext": "yWU3J09dO73Qivn41DauJJcNUSTblatCBTP/VycGCVQGFHxNbI6UgPtf2n2Jx8oQZxX2eydO4L2RP2vbfQHSMw==",
+                "mac": "ykHHqaYYtFHB3GeL9/wXYQ=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/briefing": {
+                "ciphertext": "EopD70xYfcCVxcjNum16qfyim9IvOuEXUkO/6QAfGMQ6k+maEgWtbHAZKBVMr0Pc3fvekY5ZEt5vOaU+D6SV+jURsE2Rf3XgdOWdXIOd/39wk/tetjKe54mFnj26J++bpFve71MkhFMlpAha1JYSKM8MlmUU0+kROAhF0zWFs+g=",
+                "mac": "TpG4ibgvsYNfCTXZYVYn0A==",
+                "quality": "bad",
+                "ciphernote": "/+M/k3MmFIE+YlI3x+4/BhJTk9s/26/7vV6Y8lz59sI="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/description": {
+                "ciphertext": "2ICBaI/v7WHseFcjyR5HzvXKsn1aIfW4VRlw5s9+gPgz3SUg7ro9JyXKOmqgLdmYY/p/w7jjH+O6CJP/sBMP/9HQro6C50eBw7eZ9mA9X7G2CJS//i8mu9BLqMaXToaZoqLLQdJFYpBXrFrIrwLGzyhpQTUlWevEFIln9izDYTJMiHe8t4blg6ij4MXhR+++",
+                "mac": "DqO5aXvFlBH+1xKUq1gufQ=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/name": {
+                "ciphertext": "/pj8HEnZgMlbO0cYVNRw0qbOH8mcw8Jn6E4QVkb2UYg=",
+                "mac": "eR7gqPq2rWN4GEOVxdhZng==",
+                "quality": "bad"
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/person": {
+                "ciphertext": "I6cSYXcPCQ+f7dRr6HPmXQ==",
+                "mac": "uEx8q7wHL7H0RWTPXIFrcQ=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/tasks/0/task": {
+                "ciphertext": "Rn8BFf+HRClloW3/W2OcPZq6DHmCM54Iql64n3AZfk1ckpBuscoi9Eg2XR2mGoxCneStVsBBAQKLzzdzCEhajN/Q4WKnxlw7Bmnr/qsqXDxDOF51sEE9O77wHOTL6lHwN9IquS6xiraD5sqNa3eiG1VSITPnpOjxSQqvUmgPJVo=",
+                "mac": "X1OXCcvPGlOTttC4izeKhg=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/tasks/1/task": {
+                "ciphertext": "hf6I+8S9/TJ/r7VSAhfRv/0esu+HZldm5Ia3w7RchDwvdD94bTFdVDseGxPdp/u15tRzSmRxt5MjmzQ8ObmqP7i4s0d7hqPKjbxiuz0q5kaUujc+tC5h+9PmY8HBegSp",
+                "mac": "pLyBzOSzEUET6UHTCpEjLg=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/tasks/2/task": {
+                "ciphertext": "N6VyWor6ujjaj7yUP6Zp5eglHIqeyCzf9TLT8O7CAdK6adUIx22pyTWCYI5dsfP+uEuM5XcLKfrD537eRBtlkgmumW6aXe8bNpbs5TGIiv4=",
+                "mac": "+6AZ1bG+S6Tocvc4+/iW7Q=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/tasks/3/task": {
+                "ciphertext": "aUlzCTonNsTASyPo6H0YzQqRkjpUUJAQV/tXTXlio8ZYtCIFVP5oxO6BUXmAMOHYEMB8qMs/e1TFLkcLeB+dBFwb9yIDEEXiuVO1AJmr1o9JDDpDGX5iiU/HCWSamOhv1bvkn1dB5p4GSiRL3XA3+Q==",
+                "mac": "k9lAhE6dMahZffXz6GP9Ww=="
+        },
+        "database.json/quests/bakiShad-2-ancient_history_2/tasks/4/task": {
+                "ciphertext": "yWU3J09dO73Qivn41DauJJcNUSTblatCBTP/VycGCVQGFHxNbI6UgPtf2n2Jx8oQZxX2eydO4L2RP2vbfQHSMw==",
+                "mac": "ykHHqaYYtFHB3GeL9/wXYQ=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/briefing": {
+                "ciphertext": "EopD70xYfcCVxcjNum16qfyim9IvOuEXUkO/6QAfGMQ6k+maEgWtbHAZKBVMr0Pc3fvekY5ZEt5vOaU+D6SV+jURsE2Rf3XgdOWdXIOd/39wk/tetjKe54mFnj26J++bpFve71MkhFMlpAha1JYSKM8MlmUU0+kROAhF0zWFs+g=",
+                "mac": "TpG4ibgvsYNfCTXZYVYn0A==",
+                "quality": "bad",
+                "ciphernote": "/+M/k3MmFIE+YlI3x+4/BhJTk9s/26/7vV6Y8lz59sI="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/description": {
+                "ciphertext": "2ICBaI/v7WHseFcjyR5HzvXKsn1aIfW4VRlw5s9+gPgz3SUg7ro9JyXKOmqgLdmYY/p/w7jjH+O6CJP/sBMP/9HQro6C50eBw7eZ9mA9X7G2CJS//i8mu9BLqMaXToaZoqLLQdJFYpBXrFrIrwLGzyhpQTUlWevEFIln9izDYTJMiHe8t4blg6ij4MXhR+++",
+                "mac": "DqO5aXvFlBH+1xKUq1gufQ=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/hubSettings/location": {
+                "ciphertext": "RYjoLZjn24H3Qvi9HZrBeRyq1AjebjHuJzOqkHBcWCV7A/sSXdz5n87aAiwXorn086EqE0qT4wHrFr0mUEQ2LDgb4V6i7HPHVdDwufGUNNOSrW3a4SamzkTjr8OEPVTgmgRh2fqSdwZR93FbhfVSOhjAmFtVZj3AB2hZq1goois=",
+                "mac": "F9+6tb3IYbg9d1qJOxE6JA=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/name": {
+                "ciphertext": "IMlBjJsMugDvPYTsTFStYw==",
+                "mac": "pj3aS1gN9kc1r0XdPeVuiw=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/person": {
+                "ciphertext": "I6cSYXcPCQ+f7dRr6HPmXQ==",
+                "mac": "uEx8q7wHL7H0RWTPXIFrcQ=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/tasks/0/task": {
+                "ciphertext": "Rn8BFf+HRClloW3/W2OcPZq6DHmCM54Iql64n3AZfk1ckpBuscoi9Eg2XR2mGoxCneStVsBBAQKLzzdzCEhajN/Q4WKnxlw7Bmnr/qsqXDxDOF51sEE9O77wHOTL6lHwN9IquS6xiraD5sqNa3eiG1VSITPnpOjxSQqvUmgPJVo=",
+                "mac": "X1OXCcvPGlOTttC4izeKhg=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/tasks/1/task": {
+                "ciphertext": "hf6I+8S9/TJ/r7VSAhfRv/0esu+HZldm5Ia3w7RchDwvdD94bTFdVDseGxPdp/u15tRzSmRxt5MjmzQ8ObmqP7i4s0d7hqPKjbxiuz0q5kaUujc+tC5h+9PmY8HBegSp",
+                "mac": "pLyBzOSzEUET6UHTCpEjLg=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/tasks/2/task": {
+                "ciphertext": "N6VyWor6ujjaj7yUP6Zp5eglHIqeyCzf9TLT8O7CAdK6adUIx22pyTWCYI5dsfP+uEuM5XcLKfrD537eRBtlkgmumW6aXe8bNpbs5TGIiv4=",
+                "mac": "+6AZ1bG+S6Tocvc4+/iW7Q=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/tasks/3/task": {
+                "ciphertext": "y58TnZYuumqwAftbuG5VRn/Lwc9K8aRQz0P1A4i9RG+CVOolpnI3pC+CPT15q/OPphkROReYQrqAnQ6/KnF/4xRmJa8YKprSAFPpIDiqI8+w4/T5iw7mWJ86P4cxMzK4HP9hmA3VQZuAY6KoU4EmmdHaaD8ZmDt14r4jFG940KRzPmZAHtvvijz2eJcwyfBT",
+                "mac": "6YruzARRngOGXzueQ/vEdw=="
+        },
+        "database.json/quests/bakiTrader-1-crate_defense_1/tasks/4/task": {
+                "ciphertext": "6F5kCWmmWY5k91bTssxpbFlk/7xAo4b+QVcZNAPjDd2GI4rMU4UHXHRn/iKcc7XB/vJAuSUc7A7t8UO1PPqofVF3kMGZ3O9wMKsfrhXHewhAbE5ZqhClq0BvoQnkiyAsZDW6NMzenZYx2wTnr/Tz9w==",
+                "mac": "Lkw432mhjYx+b2aCP5cRkw=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/briefing": {
+                "ciphertext": "2pYpB4H+bVdj/N1068AJrP8Mmz0YRT+gyDt4bWBC7VYft6mpErh4Pz2dytn8/3VI8o79K8BptFQfaji1ACHeCULRWWtsEJvvpQGYttpi2LzuAW4cwukwdx242+PevwU1DsDJR4G0kAE777UJRYb5H4/kHRMwpkM7OO61En0VCxMhNY1OLsMHMBuJIyWL/18A9u3J9Stj3g9odwzyzIcEjw==",
+                "mac": "YOBzaJ3TQhnqVSN45a1uvQ=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/description": {
+                "ciphertext": "f4LqymmGZlQHg3hlvn0n+MoT+3LIA6/75t2TvSGIRdWV4i35rcKwmmgJKXvww6ICzHEcnMuRsFD9uwhOvvWPKx1FGm+5ht9lF1AfAdj0vRDGQwq7TPdH1XiHgeo4YviuTPsyIJcS44N5O4xAAtVioUygCx1FLIKG+69fPJcNEQOeaQIwQF/gjDQimwmMcyiZ1AM9epryqX4KHHkVMu+QeQWJXznGb8qNc6Rk45qWsJ4=",
+                "mac": "33lHJ4+k75fACJMsd+XrVg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/hubSettings/location": {
+                "ciphertext": "fUwM4qzh3uueD7vGYVaYTzd6ULhm7Yjr1OallrKScTPwIMC+D69osBTdTKmKwY64ux2asAuH2336rPNykI1ap7V0OMUIjfUrHUoVTlaFCRAvTnzOgzpPmiImmOEiW98BFdQkjOr9eiKG/ZKzzRpNyrrErz/oSLLwnz36dI2oz9w=",
+                "mac": "JdX9XUF1uFGSBEAWeQIIBg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/name": {
+                "ciphertext": "G1I+q9mTvSLsmubVFMW8vA==",
+                "mac": "k9oh3F0gaf8BqPLuhDFjUA=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/person": {
+                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
+                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/tasks/0/task": {
+                "ciphertext": "la+3iIVoypgFBZa6AgOavz80p2tEz7U7M8BAil2//89lDM7LGIrZMMY/G9ss8zpYTTJ9qFBj0RTpoPZCQwElrpgr/tSzrlZqjDbu3IixCsQvBFc4p+ZRgGwXo+CTAFdqPpETYwY+d4oYzW8Ovc+1zokvEFWxSMZlbWhDeL45m3c=",
+                "mac": "ufdOdTMwnqZ5rB6S0EiLRA=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_1/tasks/1/task": {
+                "ciphertext": "w/OeW121dZJEJ4yslDcIyZJwtKIbuQZjZRooIh72Qil4vjVKn6N8io4xhHiSwG4s5aJSLGpqnxEmtDTC/4hXrEK1pf/51e0wgcIac3gKOyWsQDRXGakuN/7p0c/fz7Lh",
+                "mac": "ez3GlCVIHJJRd8+yiMkc3Q=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_2/briefing": {
+                "ciphertext": "27rDuj2LYZawz5HHyahFgkV50ALerHfHK6YQJyQi2tsRXgcI8VNBVNDuGneXEH0hBi0VI6LTjOJJ0I/sroIj49V5t7hrXVsSugk4YN8zC1Y5z/bRqeyAhEvqghNgc7ZB",
+                "mac": "gmZOjhBV0IrLrNcUs04taA=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_2/description": {
+                "ciphertext": "fwvfPy27adnR+0QyeC7/qpB13VCSeMWLvG8r+S/oQhXvav724Hz2OXnHfkAaBnPq",
+                "mac": "2WQ8Q0apIpyE2RLnVOoCEg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_2/name": {
+                "ciphertext": "r1sAikuRS3fllJHDBk5aOoAo3HPT0WMAmW4z+cmnSBM=",
+                "mac": "hVklDVOzfTQIdwzEd4uY9A=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_2/person": {
+                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
+                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_2/tasks/0/task": {
+                "ciphertext": "btLzmlrw6sT2azTLCD6fRg==",
+                "mac": "94sTEPkTARKMm3mGASxUtg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_challenge_2/tasks/1/task": {
+                "ciphertext": "w/OeW121dZJEJ4yslDcIyZJwtKIbuQZjZRooIh72Qil4vjVKn6N8io4xhHiSwG4s5aJSLGpqnxEmtDTC/4hXrEK1pf/51e0wgcIac3gKOyWsQDRXGakuN/7p0c/fz7Lh",
+                "mac": "ez3GlCVIHJJRd8+yiMkc3Q=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/briefing": {
+                "ciphertext": "nMTDtVXnDvNwF6UQRS1J5z8C+EIxFmCHPr8o3SODSB0y3jhSlE4fBmav/HODSuMKNc9krUhDv5SJGbrKhXgPKoCKhGTYMGyYhfCYbaeECF5Gh7W8Rhs8a/RxgYGq6SW57QBIIj7iDKjRqfeto21Qi1VyrlUATtZHTzAuBhP9W/GL8ZFGAyKJ2JMTy1F5e/BclsS2/PZ7IyqsEryQ1ilJ0w==",
+                "mac": "NP9RkpWPyNuqE75dwYYEGQ=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/description": {
+                "ciphertext": "2/ZjviliPUqutokJ+NXTBBkFEWGk4roJlfJp4IAdy37eKlJpjJZG5Ix+5OVnMGPDNUyDuzyig0EEcUWblPYuL4NaZP0wZXglfRnfSDjtMH3vs+qjde2i0FLrAuccuPmxQbLStL2GcSIS+QeODxuV61cyKQCg3Ixbc7X12839xE1GiTuPNgAf/FLPHhkmKMlFs/i93gbdiKw21lRk2Wf8rjM6cCjDH83hupc2qHNUBOQ=",
+                "mac": "e4Eoyu5j/+20AxnKAop0wg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/hubSettings/location": {
+                "ciphertext": "3A+/c1zao5hy5IXFM6d6z9AnIXixO7tcwPbMJCF0aA2DSww2Rksf/GAJKUVPn6KXcM78asj6j6oaOe6hyYpErGUShzGp6RXcutsTzEcK1pfGp3XRJ2UFO6SApG4FbGCPEYl59AiYJCO3iiVuTDeHDUDDxIUp5Qs/hEWu2LKXC3c=",
+                "mac": "+ejorJQrp6mDzk7vkQzM1w=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/name": {
+                "ciphertext": "2YGNUQzZVQ/jk3JNth3OhA==",
+                "mac": "1a+sqdS+QrcxkQymrsAZNQ=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/person": {
+                "ciphertext": "I6cSYXcPCQ+f7dRr6HPmXQ==",
+                "mac": "uEx8q7wHL7H0RWTPXIFrcQ=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/tasks/0/task": {
+                "ciphertext": "m9bEEsbp2ROSAQCYVVRPsmbPd9PW8XMdaNBK8iE9vbPzdzfTx+cyTC+oitkheTqPp/HGvND3JZLm3cg5xbbRg5WMEQQyE8PrjQJg8UCXg05NYpStrfLR47Af/0dZ87hI",
+                "mac": "gXMKhu++Er87tbf4xQVK/A=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/tasks/1/task": {
+                "ciphertext": "rsB16biCIiUrVZyXycRms8WdSq6rgu35aGuM3XcPfA5JeGjmDuqFxtYgtjPidjMJNCtDH+CXfI3/Bd9Zxqy0V7v5fJEs4AgR1l3EXaVozkg=",
+                "mac": "xXVOKMvSpzkHAwSsqy/8BA=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/tasks/2/task": {
+                "ciphertext": "JyMAQjbntoqecFjvtdWo0uELrOzj2kmlG88zgGw7zdM0z11x9h608DpBTgl5IMasU89NYRTrVMByPY/7gyO2dsDDG8a7Mk7OMqJo0Q5SZOeefyVFLxRuxmR2qqggtdOQhGPGJW1QeSeolknJDN8y8Q==",
+                "mac": "W9PYEsFVYJ1gJgIBrPE/9A=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/tasks/3/task": {
+                "ciphertext": "iaIAcxXDB/lJNYzATBjX8QRyje68rL6QQVv4KtmlUDN9Amqr+IyEkulAo8D7EvsTGsKPR+5xguwCmTH9BbqJ69rhW9vkbkyGhhfahlGlkqG7lrbX0LQOS+eNLPzBLPY2",
+                "mac": "twVz2ZBbbEgxlDeWMNFkvg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/tasks/4/task": {
+                "ciphertext": "16nDTVQnoOqJocwavRH+e6z4AhhuYOq3juEFpYGA35848ZmGMDKeqPJjXorE0FIJxu+JS5fKX4ddgADKEsW51fPdp70rSnEgcf5F53mu1Cqb9WXvdK2Dk9VP9Zm3GmaE",
+                "mac": "4miun4xXOwHwSPhvOmiMOg=="
+        },
+        "database.json/quests/bakiTrader-2-brewing_fun_1/tasks/5/task": {
+                "ciphertext": "6F5kCWmmWY5k91bTssxpbFlk/7xAo4b+QVcZNAPjDd2GI4rMU4UHXHRn/iKcc7XB/vJAuSUc7A7t8UO1PPqofVF3kMGZ3O9wMKsfrhXHewhAbE5ZqhClq0BvoQnkiyAsZDW6NMzenZYx2wTnr/Tz9w==",
+                "mac": "Lkw432mhjYx+b2aCP5cRkw=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/briefing": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/description": {
+                "ciphertext": "Nbs5amRr7HRWP+7vb2npFOQWkQBMZ/kfwr7yEM1CazLJBqeEKx1r7HUsePzhxLP1Mt/FoC7aM3GYczzxQCb5L127q7Q0+nXM8LP12LxWLl2Yw6EjDcN83YeJ5BWRXewm7NDbDab+t5Edp1RmrolGmu4NcCbqZD3vAhPnhuvHoGt+tYBLNklei8Nv6BxzDaDM",
+                "mac": "MQhM0klDUIXa2SJFh+GXcg=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/name": {
+                "ciphertext": "V9YLDLjDc9DxFgp89J+BnJylAHPEd0tKbQjheRlDaPg=",
+                "mac": "wvK25a7VG782hdl3vFq2lQ=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/person": {
+                "ciphertext": "I6cSYXcPCQ+f7dRr6HPmXQ==",
+                "mac": "uEx8q7wHL7H0RWTPXIFrcQ=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/0/task": {
+                "ciphertext": "gYw2JOa+av9w5aY3K7ucFeXSfamXTcB4Z6Y1uYteZNW6oRckWdp7dI3s/FiYDOgHVBuPqcA1lQS3tV1a9YlIepBqEh3fFU29cyxFcuoiM1qqowZCvbhwVZ06s6F+15SX",
+                "mac": "OMEc9rTyv9IhMsEAkQuyCg=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/1/task": {
+                "ciphertext": "rsB16biCIiUrVZyXycRms8WdSq6rgu35aGuM3XcPfA5JeGjmDuqFxtYgtjPidjMJNCtDH+CXfI3/Bd9Zxqy0V7v5fJEs4AgR1l3EXaVozkg=",
+                "mac": "xXVOKMvSpzkHAwSsqy/8BA=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/2/task": {
+                "ciphertext": "dn+eCYv2PN9loXAEUYXSt35BRwkyOg/M9md1MhugzECbApzRoqBW7PgonvblmhKQ",
+                "mac": "KVVNO1hmu7QJxA9A8y4ihw=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/3/task": {
+                "ciphertext": "KC/0v0C9Z/EMTJo7A1DT5J+/O6T/JPNypRnyjxsySX+q0iF9q9LssWoqBh7hv2yiUQ/XYstLo8WVJN0JpRdEEC7lIt5FkUnBKF65Ff7YsL6zBTmKUXbBnwWH+lq11Vf1",
+                "mac": "bsvjUW+pYf+9YKbs4UZ1wg=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/4/task": {
+                "ciphertext": "16nDTVQnoOqJocwavRH+e6z4AhhuYOq3juEFpYGA35848ZmGMDKeqPJjXorE0FIJxu+JS5fKX4ddgADKEsW51fPdp70rSnEgcf5F53mu1Cqb9WXvdK2Dk9VP9Zm3GmaE",
+                "mac": "4miun4xXOwHwSPhvOmiMOg=="
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/5/task": {
+                "ciphertext": "hTTPQA7HW2D+tjf14VrTLM69n3nJ89/YJwguM7rstIDuYSbrcUB5F0IYcYF+Kulpa2n1vPXvcwbSH5S0qIxOB8+9A+Eu+Fk1X3Iy3DM1aJS3hD5Zymea8sl0jSqxKJVYWpEzCpgqFLriXX/+OcGH1Q==",
+                "mac": "bfyjHB00MP8t5z78lbwgpA=="
+        },
         "database.json/quests/bergen-fancy-tophat/briefing": {
                 "ciphertext": "NQ8bwX3HIjsQqwJuD7Ps3fJa50NE1Ng8V1egS7/L4B1GPTtF9y7f9MMCoNS+WfZxlxEdQum7N7fMvgcHcunm+ktAv/zpPQ6Fysxy/iQuquNw5RwhWAz0A7no5UbRfrpmtX3U9KWSqFo94ih7Vb4vf29lMs/gXI4kC26ChNIBC7jwEh5l6CLuX1iqB81tyupZJW6dkAFGZYnHl6icaIGavQ==",
                 "mac": "6dTv1joYkGROv6DlkbCAiA=="
@@ -10199,6 +10554,40 @@
                 "ciphertext": "scbpHDXiwsWtnEH30wLWzzkaxDeFUsov8SWDe350rN7i1QXMar6UQTu4g5++HZo1FB/DPg3eSTG/rNpSFoWyT9aEh1QDV25B3ZI5VsUGdKzVa4Tbuv8BogYcF/VPJLFL",
                 "mac": "DyBi8NwxdP5OVc3cFTTxEw=="
         },
+        "database.json/quests/maroon-tree-defend/briefing": {
+                "ciphertext": "r2f2u7mQnSmXidAy7fcqVvjrTdqZLWjljKsBxp+UBB2ycSBMfrIYIu1/vQ2ZLTrY",
+                "mac": "HzF6B716j2G+5AT1HFCMMg=="
+        },
+        "database.json/quests/maroon-tree-defend/description": {
+                "ciphertext": "DLIj+WQzHdNHcIonch02wyr51SsSYgVDwjzbvoFO3RMSwUePotehrN2xMOPo3apS1bJesX7GKprAwEfoNxxOHw==",
+                "mac": "R6q0/GFWOyBcsE7ci31bew=="
+        },
+        "database.json/quests/maroon-tree-defend/name": {
+                "ciphertext": "LhOe+i1HGW25odungVdQVeOAsCRyIuhi/xOKNoTs+go=",
+                "mac": "0BL2IRAp4Xw29+flOlRQ5Q=="
+        },
+        "database.json/quests/maroon-tree-defend/person": {
+                "ciphertext": "ev16MByth7nxlwasLdxeLg==",
+                "mac": "y6gC4keCgbxYOY6hOIhp0g=="
+        },
+        "database.json/quests/maroon-tree-defend/tasks/0/task": {
+                "ciphertext": "mzYcsjzdOQ5TlkOintv0+8joDPl5wBQrSya4p+kdrPJHZim58+/pqe2JWDhZZEn/FprPesb4FYReXOd0lw7i5MMBw3Fk7i2Nmf8ris8N7Oa926mw6ltjT4uUG+wAct9lZBBuNjzPnmVsCEVe3yNWGg==",
+                "mac": "KZqsO5+otcfsdp8UfBfbnw=="
+        },
+        "database.json/quests/maroon-tree-defend/tasks/1/task": {
+                "ciphertext": "8MAqPDXcm1E4IakXKDMrAhM313R9zeyrGETDItEsX0ViC7IlRD0ezLVPFlY0rynxaS2TI+vMEbXMJ37t1NMLuujv1aBfp4K/n7E3bmqsk/gZSs7sZ9cwE8h4e+mmrZKD",
+                "mac": "rNDaNTeTLPgSVGKLZXdtRw==",
+                "quality": "unknown",
+                "ciphernote": "4++UUxJnIzZHjqk734qoxcHTbQ+ODBLNWVXpWYk19Co="
+        },
+        "database.json/quests/maroon-tree-defend/tasks/2/task": {
+                "ciphertext": "3v67t+ybjhdDKDceRQGnlAt7uMCn9yOlcg+fypGAyWHCuTwh2KocW715Npz+/T9yZ2qzHvMt0aAldDXXKQrpJA==",
+                "mac": "YxwoZ31N5f+Jp82obHpICw=="
+        },
+        "database.json/quests/maroon-tree-defend/tasks/3/task": {
+                "ciphertext": "LXlREWGJ4IT8+aohwXiqY3DHu0x2t9Bzw87bteE7VaTarUg4nglWiOJppp5RK45ZyM3tU1DqAABAQhVH8r4WMA==",
+                "mac": "vKLHNImTrqjmnslZpLykOQ=="
+        },
         "database.json/quests/miners-1-dirtbunnies/briefing": {
                 "ciphertext": "cpuKr2Ix4+ZakrCaTC8jDHfXuGpft9unb79AunNjZlgbazzYzCCCn/BW1KDgV3s0p4qpw7lq1YDGAxcU3sXhbA==",
                 "mac": "1fnaBKf4u4CVCc7uQqlRTg=="
@@ -10615,6 +11004,128 @@
         "database.json/quests/my-first-quest_2/tasks/1/task": {
                 "ciphertext": "ZthYwHuVes4dX6WlpOKaZpsGdK3miMoP8L1bHNNJz6+RbV2/P7i4MQwDdfW1ZaxFW9FqhF2Y+SzXI48fAs69ubDQhDc8F2QeYYiXT7QHrKA=",
                 "mac": "nm4ld2MibfpGLhjWKwfzrw=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/briefing": {
+                "ciphertext": "sPc15iFn24m+cDy0S8FdxHuyqiLWNlDslPjyNOWi5TifuttcmmPsc/6jt06ITqfYnV4DxcfVLq4q20dlGUcSGfsov79epouNGviBb3Ix6HbC9gJdTZVhUog8hpIfPjXm",
+                "mac": "TgxP/QCCqjC2ay9gaeY1RQ=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/description": {
+                "ciphertext": "llMYcif+FzDAAG+UA17f+RH0APHDFWC42hY4qAz7z7cfY2WUd+O4z4LrZt61Qy1MxJc/aOZtrouuevRGOU9P+1G5wQ/1qNuQSBEdDxDGh/OJLlnVGykwfG/vG4TN4ZK4+4rqyokGSJO9PjCT8cLrxeENShEJDgjQzTpCPTX0CAkbqotE9+qHhUSWIdGCVKeWP73pC2DAJZqi4AHTBaqGbdQOdNJ/kaHcGaPHMN871EK0sSUW50cprAdVIa0uwv+OsNDJSslfc7QesNdbukinW6N7/UeZ/cdaVY43zrwv9JA=",
+                "mac": "8IzP89DojOMYAQFM7mm5zQ=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/hubSettings/location": {
+                "ciphertext": "UFAg3PQKXNAx+qKNQS/HREEgJ3qqzb0HoFhZM8U/ehSdIx3g1hwpchmrg3zCGgtKGcIqIyEf1z49tuCpFOpjcjVuuyQr583bm7RxYTG865uHKwVFhcs3QOsoHjS9E0C8x2eWbzGxsOdzYdMjdxbThcjRM+JU4FM2teQgWMNrH5W+ksY5t7VVQkPdtX7Q7ONe",
+                "mac": "IN5WQnsfKUOy5MWgPZa5tg=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/name": {
+                "ciphertext": "yEkJGpU729NTH6//n5jh1HkUX+pF1AipQX3ula2clnA=",
+                "mac": "BJK/tBRR27jpJu7OZp/xCQ=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/person": {
+                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
+                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/tasks/0/task": {
+                "ciphertext": "pn1CJuclTbIWG71/VOTpEdGPWyC3Q/6Hxd02sqc5Uxf64GiLs9sbJaQ71y4tUnAytGdhd8LIZLm86LZGARSixUZVh0Xj1/uwotkTDwjljNMlAI1EjpWN+g1L7tNZqL2dtdnzhcZnD7kS3nVSEycxpQ==",
+                "mac": "tLumAWGqpTn66djDPsJeDA==",
+                "quality": "bad",
+                "ciphernote": "IsIEgN9AGTAqUC8Bkov8pA=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/tasks/1/task": {
+                "ciphertext": "PuJmr9HuYARZhbeDRRnpDCb7KdL/6wWsKxT8StajOxJlzm7esNdoEWF31P4wYilrhNftyVLTm8J0gS1kj0dj77U9TTXjmczlBhnPqU+/hXGeljmZqBFpnJqGJxNEBMZa3OX8JjvZ+rib+hNRYgodjQ==",
+                "mac": "frbBKu/1ZirroPBvjlKDFg=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/tasks/2/task": {
+                "ciphertext": "Dq+o9N7XCn0pfbIVVxVafb/YEErZrP9fJodfj5uDB58YXHWT/mcNSn3e3Q6it4Cp+/qCAv1wz4zkei9pRvfemQDrnm8qn8g6e0w+V2GlSKnsq2mTCzYe7T2SnVNkxUbahAhqPATCATmFG9WDB6AdiSn1MZ9qkVM4zOGqRK521DU=",
+                "mac": "Tu2mhrDazsuuwmFdG69zLQ=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/tasks/3/task": {
+                "ciphertext": "z6D/NcOAbJmxzeEpDZED+9oQU6+gXkg+ozx0FxoRGzNskrE6NGSZ0JBpZDJKOiGIiikQXmFiUqfBTz5NZsmcsw==",
+                "mac": "2bCfy/8Jn2WOxOpUy4qJzA=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/tasks/4/task": {
+                "ciphertext": "TggBg+lbmqnGjaDYOOvDcJKgEEXvQSE23zRWypnjfSZzWJ02HuqtyvX/MPVQQUQA",
+                "mac": "qw3zTT71W8EajR6uKaVXZw=="
+        },
+        "database.json/quests/nomadAdv-1-turtle_bombing_1/tasks/5/task": {
+                "ciphertext": "uVywwNBqHSnlE/pvZxdCGt3nqMCiZFXzykfkBI0/wNrcAri5OVOYjnXIyD5glGBAVMO2guBxeemEci4LXOYCfaaCgLOcd+rUfLmsNUWve7VgmVRD6CqNNUcwpxBqozQ6",
+                "mac": "3MXHqElvKsq861givKcWzA=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/briefing": {
+                "ciphertext": "z5nj5+ABsn1YQe7wFyi6gLBKnHbB/qUO9pB2wWj64QKn31j2BaoqJt6JqWhLC2dzgMY7c+QV67zM8n9VERhD9FGxVmoqcjy7u3D1aka9XRkmLIFzlQJPhDjBRq6mTJwP+/Hqg5Y1YMeBbrfDig3DE2JqE31FUvoRz6fIN7oEiHNGz8U25ripQrtgdzYrgNm/VlZFCCgw9aBfxQtL8svdjyv8lv1UoNWHaEx7UlCUjaA=",
+                "mac": "vShSeiUtRGr/HuCMpjo+fg=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/description": {
+                "ciphertext": "WhSTRYNjlhVjKSosMj0DXKqNMPoldnEg7SSLuFSS01YSuXjg9H0gGx8/vQUeclQiKrEl41wHhb31otONEYhWPv3SvTOv5MSQhe5x1BWXGX1NdT5xm/JMwqhVfSrn7lllwvnW/K4DGb/AYdrdt3yp8HL/B5hi2UDKMTCkDYqCG5wmOpZoxpVYrr7HH2wK9R6FObvBtkAGjzHdFnFJhVhu7l7dJRAeBvHOtuMgFxxSR9c=",
+                "mac": "3YWYA2/4fuEz4VjcOAiZ8A=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/hubSettings/location": {
+                "ciphertext": "nrO+kJLJFVVGSW1Brwx2khty64ua1E9vYwcbhqr+T+vKpU/x489uSCvZF7MJcNKQ9nFe1QyMSOvrd6gOBYYW4+GSz4+M8bwIpjPri3Zil/x0akEakNIjvZW6aruz6tVzEebLBKaPkOd0nWzDwwwRVKBXsJ5gOMOxdVkPVL6HcyJecMRA8ZnkwgpVw8MLatA4",
+                "mac": "uMG1366yMWRlQ+IaYk4DpA=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/name": {
+                "ciphertext": "nuV6+jvfBJa63KppFhhUuw==",
+                "mac": "GjSLl7k59eIIpPLsKgWE1Q=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/person": {
+                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
+                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/tasks/0/task": {
+                "ciphertext": "efsRy2yvmbo4u77duv6+Y3yMjSyscWWXQ8tQj/t8k1kkVAfKxxWZEanIf88ftfHR53tUTEauv/F6kgfcJn0+UjlJzhZw1BsOxSdw+fQ4iO4IKMwM0Pq3g1i/50wLiLYiqr8TX299J1gIrtSM6io0cdud3xb7y0ppWjcJAb10Uic=",
+                "mac": "3D7i1L1fIwG1eZMb5uPFQQ=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/tasks/1/task": {
+                "ciphertext": "D9bbEb/wOU3JG+ApF7ggfDDVOB36iumDBChS3NiTzIqvSfmwqcEeUi9FKAU2m74Ia+/0oAVmfWGQkoSKEYnq2rM40QqC2Lg+O9ISzJ0Gs6V0I0N5vXQwq3fkE/nnG9z8LSukBeaYPJurzcPqGoyv3KJbxUM2emrNhz1he/Etzs8=",
+                "mac": "PqpwF7SL2WQq+ZL3pxJLtQ=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/tasks/2/task": {
+                "ciphertext": "odryhGvmA5e452t8BSD8J70H1Afx58JB2636+/4nnZ0X0iioYwDT/+PrYBHJHank",
+                "mac": "IQjP/GXXBZlg0awPSyTiVg=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/tasks/3/task": {
+                "ciphertext": "y/Dg6qzMMC4uaej7lOMrn7HWbU1a5+qsrkm5olv78JhGSalJRyJ2I1JzFce2aHAnJLdrzJ4CKaSLnJO8uOQ6QnlhcH7N/7yr4JZh4wnIxpU=",
+                "mac": "55uxmBHbC23EJ49wMFXbbw=="
+        },
+        "database.json/quests/nomadAdv-2-tomb_raiding_2/tasks/4/task": {
+                "ciphertext": "uVywwNBqHSnlE/pvZxdCGt3nqMCiZFXzykfkBI0/wNrcAri5OVOYjnXIyD5glGBAVMO2guBxeemEci4LXOYCfaaCgLOcd+rUfLmsNUWve7VgmVRD6CqNNUcwpxBqozQ6",
+                "mac": "3MXHqElvKsq861givKcWzA=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/briefing": {
+                "ciphertext": "6o2ry+j2wmuluu/umrL9QskLSEA4CADxLZEatNtcR1aaPL/aAv6cvSw2D6rlHGk5rN+T5OTpQ8vEJTe07X4g+BmIM36O91EWk75/AhdtcBM6fUT5Qgci5F3oyqOs7OzDGY+45DvWNe8zVU8SK8kGxT26tn/amQnFJnH98lptpECpQuzdPI8RNN4s8H/nWYdHCeGi2WKIOPhNbXiOiZEfHUu0dmT33WlKvw1dd22yPQF+jIe810WIs4OxT1Ro5D/c",
+                "mac": "KyBcwUidcqkf6R79uuDkPg=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/description": {
+                "ciphertext": "dfbDziiPGoPMhltIGgMwI4ZnE+/rGWG99GwTisDg+hcwmO01t0QfYWfPFkNB5ziuvh0qbFR0oOj50wM6G7n8mw3oA+IWy1U6Xtj2uvgpQ4XiW27ZyeUkb4XAWdUseR7SLhmBryFS/CZUrZr4Jm7svRc9Qmo8Fs9MFlfLKQGp38BdJ/1nVHX3WfimJdIznHe9",
+                "mac": "eWQbTkxQxJVJlVVJxVj6yQ=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/hubSettings/location": {
+                "ciphertext": "N2ciOXRlq+FZdYe10/SwEkgB3dBWUJAa3ih1AyZW0a8EfUwkeCCXfCM+3UOWPPK0gDQ0wbTtnke1r8GB6difVvNAQatpC/sYeDdWs96wOEaK4n8Vii36hOVb0+xb+N+aarNJubQz+YIfYYYHDr6qO+67DVpFQsoh+I8OUDN3gQIGq+hFaVyRhBxdv6EIQsgn",
+                "mac": "MbSkkcHuLqeQjh+GiNDxuQ=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/name": {
+                "ciphertext": "rfsR26UX5/t6EcxHx7IJlH9G57LPNFqEMIQMs4weTuI=",
+                "mac": "OLnANAkSlUrvEiqf2Rzwog=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/person": {
+                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
+                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/tasks/0/task": {
+                "ciphertext": "VVvaEdJspHITC+NDQRCdf/l/5bmUktOwF0QUfnOReJJuAAl5IJi3M0DXCnGVBJr8VqhM+HFaFSkwsuyTDuTk8NhNllxVKp0quLRKZFCJ5lv4917Bxk1zlCi2NUghE8nA2g1Dm4L6zlYIqjVkv4DH29dSZkDHqsRrinN9Z9RoLM5BaQlQ6Gjn4wohe6yhd9CbK9wi1KoNpS6AisTJBIW8UQ==",
+                "mac": "X2dXzKgpE/v7T5cF9B/IPw=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/tasks/1/task": {
+                "ciphertext": "R6dHuu3BngvjnujQH4zjL4IgAxZINcOstyRXqu70EIvHXEl4GXyI6TttR9aIoAHXuCJjKytq5TEaVJepB/i/bpejU3Z89yvX/KMUpAv9J18u6FWAd5PuxhGVQGj+bwQ5",
+                "mac": "+qrsb7Y+vJHsaqe/dCna0A=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/tasks/2/task": {
+                "ciphertext": "hb9qOuL2Sky1u6kJbytasz4775XhSh3WJqywJ9qMBRuIP4W+9GHL+JaW1LJU7WRyTgk9XXytI3n8oUcxvfBXCA==",
+                "mac": "AIAUhTKFC0b4qIzcSYQtGw=="
+        },
+        "database.json/quests/nomadAdv-3-sandman_tomb_1/tasks/3/task": {
+                "ciphertext": "uVywwNBqHSnlE/pvZxdCGt3nqMCiZFXzykfkBI0/wNrcAri5OVOYjnXIyD5glGBAVMO2guBxeemEci4LXOYCfaaCgLOcd+rUfLmsNUWve7VgmVRD6CqNNUcwpxBqozQ6",
+                "mac": "3MXHqElvKsq861givKcWzA=="
         },
         "database.json/quests/observatory/briefing": {
                 "ciphertext": "DHLxEKe5oaKLe0jn/qOt6XfpbEphiFgSkBmvLqb38WQajqqe86p13EWs5HesfJhtvNuo+UkAPeaMSv2eHfoC+ME/5fF/gMa8pCZM5Kvv0f+eZrhzqk54lakesvMIdUj6aR/M9X6zMtfjIU0WMZ9M++tnJ3D8l7AOasyj2gmII/aNA3VI5xjcb15Xo88s8+7B",
@@ -11688,6 +12199,30 @@
         "database.json/quests/unknown-warrior-1/tasks/1/task": {
                 "ciphertext": "t12t7eInC2WJgwMmkqJhcspBB1VddMrALXarsQWYNu4zq8jdm67bhInyQYrZC5ZwZPSOb79dE8sPZUbgFW7Xbm+8nsuHRX+nylUGFSm5ZJYYamqCwezKDsqTxHHWnG10ebw4Fp41zWtQ4UTQeMB46w==",
                 "mac": "blllccA3rV3ajigni2/gbw=="
+        },
+        "database.json/quests/unknown-warrior-3/briefing": {
+                "ciphertext": "9XUq95GCWqMZM6XM3CDT633Y/nXW23TSi3awjMiA5Gzu4pSbt99N9KruoqRc2srGhA5QksjsKKh5QwNv5gPg/es3uTUT67HQ6ZcShrjuHt2qQuWqmj7DnKfoTfr7LkJax/dDYAZDGuRha37rNZPKD8wOpM0hMrTlGydXP2ueZW5eaYJlZNEGo0/h3mhtOBQGFfT/7VCPxeSbee8E9MQ/2n3H5dYrQbV0g7pVhbly2rAFW3njHz56qzYAPov4AdG4WH0IKr49f2+bMBXssHJ2YA==",
+                "mac": "Y7SvN+hE9Rk9WWg7xrafDw=="
+        },
+        "database.json/quests/unknown-warrior-3/description": {
+                "ciphertext": "hpnqa/m6PwvoJ7ilDj11k/ztu/53+0DnJLaFauKNkEG0GT8GoA7yezBV5ituY1wM2gQKeDyKjeu/QfK6nZ0L8bVqCe23AOxfnDAK+SAG0+q+ck+qwG8UxWYs3DcGtDHfx6j+KV83hFBmZK2U4FmkMCALRDsvkhvoiAO5TWNYTkpVFadzYJmfJWAbm2ExlCgX",
+                "mac": "b4dODLw8sRTtNDZXBJr2lw=="
+        },
+        "database.json/quests/unknown-warrior-3/name": {
+                "ciphertext": "goXGkZTbKPa1ruoSE00oYfHLF3WK6qi7YUdiEFv9g4k=",
+                "mac": "kby3+nVjNRJeRr5kMc3Q3Q=="
+        },
+        "database.json/quests/unknown-warrior-3/person": {
+                "ciphertext": "eF1eN9KDsmysvgnhTqqq8g==",
+                "mac": "/UMARjGq2ebHPw+5YSe7SQ=="
+        },
+        "database.json/quests/unknown-warrior-3/tasks/0/task": {
+                "ciphertext": "xn/lb2X3CYrhWWffGhJJ/4tY44TL8v6XxTnRBH5hJgD9ThGF/pNTQWA7WkAASekqPe2qCdJuy/umP6jEIYjDkm+s6+tK4ZyXqirV0LM+qOk=",
+                "mac": "W4OG+znBSxK5csobGk4KIg=="
+        },
+        "database.json/quests/unknown-warrior-3/tasks/1/task": {
+                "ciphertext": "1zC1SkkOu+U9Xs/pCPW7vjWWQYkvhszxSHu8QKnC+mQgeIMT8z/wjUg0u0CpePr31+iz0bH2M1y3q9ONbosWJ5X48h7VWxlfuenHkdf/C/kCJ1VhV9bZF05WAAKD5BnP",
+                "mac": "iCcZmAJLv7feAbVARbbAvw=="
         },
         "database.json/quests/unkown-warrior-2/briefing": {
                 "ciphertext": "3u75+BvYqlm7CiJS257EWBeKzuOPuh4jog/8EG3WswUVKao6/iTWReQCtnjZcot6yN7/ygf8kMKFKAZcL5KywT2yKB8VvfVbuK2eM5Rz61nWW1N++/nCxDspLI8yyB0JB7HVg15r2DnM/9Apvu7GzPgGPfDe/5VhItuNXGFEHrwE1V7BOI+MQc9dU/L6fYH1TOn5Akmq6fi5SXyeLmyEpiB+oVRmMQXFqpU+uY+DG4CtC4B/KBwaDvhujPKeU+V+",

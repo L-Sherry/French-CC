@@ -16,7 +16,6 @@
 	"areas/bergen.json": "packs/bergen.pack.json",
 	"areas/fallback.json": "packs/fallback.pack.json",
 	"areas/forest.json": "packs/forest.pack.json",
-	"areas/heat-village.json": "packs/heat-village.pack.json",
 	"areas/jungle-city.json": "packs/jungle-city.pack.json",
 	"areas/jungle.json": "packs/jungle.pack.json",
 	"areas/shock-dng.json": "packs/shock-dng.pack.json",
@@ -642,5 +641,22 @@
 	"maps/heat-dng/f4/corridor-east.json": "packs/heat-dng.pack.json",
 	"maps/heat-dng/g/room-01.json": "packs/heat-dng.pack.json",
 	"maps/heat-dng/g/room-02-cross.json": "packs/heat-dng.pack.json",
-	"maps/heat-dng/g/room-09.json": "packs/heat-dng.pack.json"
+	"maps/heat-dng/g/room-09.json": "packs/heat-dng.pack.json",
+
+	"areas/heat-village.json": "packs/heat-village.pack.json",
+	"maps/heat-village/baki-1.json": "packs/maroon-village/north.json",
+	"maps/heat-village/baki-2.json": "packs/maroon-village/south.json",
+	"maps/heat-village/interior/quest-hub-cellar.json": "packs/maroon-village/quest-hub.json",
+	"maps/heat-village/interior/quest-hub-og.json": "packs/maroon-village/quest-hub.json",
+	"maps/heat-village/interior/quest-hub-eg.json": "packs/maroon-village/quest-hub.json",
+	"maps/heat-village/interior/faction-bakiadventurers.json": "packs/maroon-village/faction-heat.json",
+	"maps/heat-village/interior/faction-bakigreenies.json": "packs/heat-village.pack.json",
+	"maps/heat-village/interior/faction-bakiguard.json": "packs/maroon-village/faction-cold.json",
+	"maps/heat-village/interior/house-1.json": "packs/heat-village.pack.json",
+	"maps/heat-village/interior/house-2.json": "packs/heat-village.pack.json",
+	"maps/heat-village/interior/shop.json": "packs/heat-village.pack.json",
+	"maps/heat-village/interior/tradebuilding-og.json": "packs/maroon-village/tradebuilding.json",
+	"maps/heat-village/interior/tradebuilding-eg.json": "packs/maroon-village/tradebuilding.json",
+	"maps/heat-village/special/distillery.json": "packs/maroon-village/distillery.json",
+	"maps/heat-village/special/expo-space.json": "packs/heat-village.pack.json"
 }
