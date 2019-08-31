@@ -1,0 +1,2524 @@
+{
+        "enemies/arid/dice-mage.json/actions/TrapActivate/0/text": {
+                "ciphertext": "/dAl2Qz7ETSbTdBnWX1MAhqa6IaGUXjeSyORpb5vB9Q=",
+                "mac": "S/6NQIwvKv2pg59Tj1w76w=="
+        },
+        "enemies/arid/dice-mage.json/meta/species": {
+                "ciphertext": "6BIrJHlJ+jaiTXwmKM6idg==",
+                "mac": "dzjFq/QJXYOCgs1Maaq5Sg=="
+        },
+        "enemies/arid/element-turret-boss.json/actions/ShootShieldBall/4/thenStep/0/text": {
+                "ciphertext": "W9DySnfgWI+U9xZ1V8X0aUQVTnG4SdUJwqaU4pnbGWE=",
+                "mac": "eJNcMv9KHhkn9P+rTCr3rA=="
+        },
+        "enemies/arid/element-turret-boss.json/meta/species": {
+                "ciphertext": "pjbPu2zeqtflsVLcRb1dKQ==",
+                "mac": "MQ7l1c+8zAv5pOVviTkiNQ=="
+        },
+        "enemies/arid/element-turret.json/meta/species": {
+                "ciphertext": "FTsl6UIX3FDiTeICeFFE+vzPr0op44+KQUdclxptyp0=",
+                "mac": "FXXyCe1S+juZq9RXJzkoLA==",
+                "ciphernote": "WIFi07PQiSYWtWwD4Rp8rd5aCUubnY8S5od3QWdqshw="
+        },
+        "enemies/arid/evotar.json/meta/species": {
+                "ciphertext": "5KbPyP1lfKubNk4/FNBNdA==",
+                "mac": "ZlfouB648Dfsc+bot+tTIg=="
+        },
+        "enemies/arid/laser-catcher.json/meta/species": {
+                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
+                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+        },
+        "enemies/arid/laser-catcher.json/proxies/detector/action/3/elseStep/0/text": {
+                "ciphertext": "vQW25Kj1X8R6UJLjfLnmQstrwr7gaSSfJl/KsSnLVC4=",
+                "mac": "D8vNjj/FCzGKr1FF3/4JVw=="
+        },
+        "enemies/arid/mega-laser.json/meta/descriptions/0/text": {
+                "ciphertext": "f6FD0pgX3+mp9szOaSut0Ih1n43KZ3z5JSiBds+UJmo=",
+                "mac": "+lATnoboDNvtzznAfTFRsg==",
+                "quality": "unknown"
+        },
+        "enemies/arid/mega-laser.json/meta/species": {
+                "ciphertext": "/pnDI1qWcZyOqMYCBAHUoQ==",
+                "mac": "ia9NhLXzw/31ZR2a49j6YQ=="
+        },
+        "enemies/arid/rhino.json/meta/species": {
+                "ciphertext": "RSNDmacWpUW05iLaOFFPwBaf9HzXDlZnDbpNsY4/9Ls=",
+                "mac": "N3wxhpb9pORXuXj8hck1Bw=="
+        },
+        "enemies/arid/shredder-cold.json/actions/HackStart/3/text": {
+                "ciphertext": "P7sTHAQZTLLFC4Rk3npFsuvzED+GP+V2jsbyPsouxEs=",
+                "mac": "LnUS4uXHqJ0tX4YY9RpCWw=="
+        },
+        "enemies/arid/shredder-cold.json/actions/NotifyArea/2/text": {
+                "ciphertext": "4UajdkjERS0uGAi3ME2Dog==",
+                "mac": "We5uKMsAZWrg17Zy0Y8cLw=="
+        },
+        "enemies/arid/shredder-cold.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/arid/shredder-heat.json/actions/HackStart/3/text": {
+                "ciphertext": "P7sTHAQZTLLFC4Rk3npFsuvzED+GP+V2jsbyPsouxEs=",
+                "mac": "LnUS4uXHqJ0tX4YY9RpCWw=="
+        },
+        "enemies/arid/shredder-heat.json/actions/NotifyArea/2/text": {
+                "ciphertext": "4UajdkjERS0uGAi3ME2Dog==",
+                "mac": "We5uKMsAZWrg17Zy0Y8cLw=="
+        },
+        "enemies/arid/shredder-heat.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/arid/shredder-shock.json/actions/HackStart/3/text": {
+                "ciphertext": "P7sTHAQZTLLFC4Rk3npFsuvzED+GP+V2jsbyPsouxEs=",
+                "mac": "LnUS4uXHqJ0tX4YY9RpCWw=="
+        },
+        "enemies/arid/shredder-shock.json/actions/NotifyArea/2/text": {
+                "ciphertext": "4UajdkjERS0uGAi3ME2Dog==",
+                "mac": "We5uKMsAZWrg17Zy0Y8cLw=="
+        },
+        "enemies/arid/shredder-shock.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/arid/shredder-wave.json/actions/HackStart/3/text": {
+                "ciphertext": "P7sTHAQZTLLFC4Rk3npFsuvzED+GP+V2jsbyPsouxEs=",
+                "mac": "LnUS4uXHqJ0tX4YY9RpCWw=="
+        },
+        "enemies/arid/shredder-wave.json/actions/NotifyArea/2/text": {
+                "ciphertext": "4UajdkjERS0uGAi3ME2Dog==",
+                "mac": "We5uKMsAZWrg17Zy0Y8cLw=="
+        },
+        "enemies/arid/shredder-wave.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/arid/snail.json/meta/species": {
+                "ciphertext": "2Vwux5/24gB0ZXyvqun/3g==",
+                "mac": "7OEwXchoe9+/f5Ll7IfL1A=="
+        },
+        "enemies/arid/snail.json/proxies/playerHack/action/13/thenStep/2/text": {
+                "ciphertext": "7ah8Tm5XY7fZsbVJhZApTg==",
+                "mac": "Ry0PKcZ3PAygPhxMJkrEEA=="
+        },
+        "enemies/arid/snail.json/proxies/playerHack/action/13/thenStep/9/text": {
+                "ciphertext": "BMlowtYEeEyY0Txp082BCQ==",
+                "mac": "dcSI7oEM5mbHsxMMNpct8Q=="
+        },
+        "enemies/arid/snail.json/proxies/playerHack/action/4/text": {
+                "ciphertext": "ZP1dsHULP2Bz76pHMnVO3w==",
+                "mac": "VALMLx1BP9CWNej+OGxOuw=="
+        },
+        "enemies/arid/snail.json/proxies/playerHack/action/8/text": {
+                "ciphertext": "Pb7l+uJvS4g4W1TXRPwM1A==",
+                "mac": "UcG9hpkDaZePPHJK5zBIgQ=="
+        },
+        "enemies/arid/virus-cold.json/actions/SpawnVirus/4/text": {
+                "ciphertext": "3I2VnjCl2OyMgs29LFrr/g==",
+                "mac": "EFTysyRHFlwrbOGeA0QO3g=="
+        },
+        "enemies/arid/virus-cold.json/meta/species": {
+                "ciphertext": "bIamOV1mudBqdZiJwLdPeA==",
+                "mac": "j8800yOBlDtr3/0rMwkhTQ=="
+        },
+        "enemies/arid/virus-heat.json/actions/SpawnVirus/4/text": {
+                "ciphertext": "3I2VnjCl2OyMgs29LFrr/g==",
+                "mac": "EFTysyRHFlwrbOGeA0QO3g=="
+        },
+        "enemies/arid/virus-heat.json/meta/species": {
+                "ciphertext": "bIamOV1mudBqdZiJwLdPeA==",
+                "mac": "j8800yOBlDtr3/0rMwkhTQ=="
+        },
+        "enemies/arid/virus-neutral.json/actions/EnchantBreak/0/text": {
+                "ciphertext": "gk9SzvC90VJZauKdX51t7A==",
+                "mac": "zu74y+OfSLQUWw9VDksxDQ=="
+        },
+        "enemies/arid/virus-neutral.json/actions/EnchanterMerge/1/text": {
+                "ciphertext": "tD5Ug5pvIXUhrGaXDvDJ+3fnusUEuz2GzCBo0+FJR8o=",
+                "mac": "Bn865K9vtZ14ODLNH8Dg2Q=="
+        },
+        "enemies/arid/virus-neutral.json/meta/species": {
+                "ciphertext": "bIamOV1mudBqdZiJwLdPeA==",
+                "mac": "j8800yOBlDtr3/0rMwkhTQ=="
+        },
+        "enemies/autumn-fall/ball.json/actions/AdjustZ/1/thenStep/0/text": {
+                "ciphertext": "d2KLv8A8jsy2hERzcff/zA==",
+                "mac": "WoxyqQ1ErX7gruSWwG1n0w=="
+        },
+        "enemies/autumn-fall/ball.json/actions/ChargeCold/0/text": {
+                "ciphertext": "9K+ILLxFB3/Ls6TRXQO2pQ==",
+                "mac": "JDjKdzEDkea8Ac8rbrJJmw=="
+        },
+        "enemies/autumn-fall/ball.json/actions/ChargeHeat/0/text": {
+                "ciphertext": "Qb766/0tswNMslWxfgRP8A==",
+                "mac": "daKOkmq1nKfyPK529+rP+g=="
+        },
+        "enemies/autumn-fall/ball.json/actions/DisCharge/0/thenStep/0/text": {
+                "ciphertext": "YHhLnJArK7OofWN2ItdaiQ==",
+                "mac": "wHE5VD2je1H/utdU1MIrBQ=="
+        },
+        "enemies/autumn-fall/ball.json/actions/HitParty/0/thenStep/0/text": {
+                "ciphertext": "fJPgrNJ/DB/gertU6I/09w==",
+                "mac": "vvJFMi4bR+nx73mNgs+fdQ=="
+        },
+        "enemies/autumn-fall/ball.json/actions/Idle/0/thenStep/1/thenStep/0/thenStep/0/text": {
+                "ciphertext": "DS8ovrH0RYOnNIot/E/qndKToPgX3+D55XmM2vE5VFY=",
+                "mac": "yUptJz3uCxuFsnGYucanDw=="
+        },
+        "enemies/autumn-fall/ball.json/actions/Init/0/thenStep/0/text": {
+                "ciphertext": "+dzrOfWJvWIG5mzbh9dMJMvaNxLmmpRIGLE3hpljXIs=",
+                "mac": "QrC6Sjb8vvBGjgbAIJvRQQ=="
+        },
+        "enemies/autumn-fall/ball.json/actions/OffMarker/2/elseStep/0/text": {
+                "ciphertext": "b8uUx9QbglFE35XFT3o/zEANZXpWHumcx/UAyN2d3IfFEZKuXsDoNGxNSs4qmINF",
+                "mac": "4LM5O85F90vR1FJYkyqNCg=="
+        },
+        "enemies/autumn-fall/ball.json/actions/OffMarker/2/thenStep/0/text": {
+                "ciphertext": "3nKySUmiFV03/wrmCrjkbq7Uj7qmL2zbBEDNw4jmmML4pwxEwMUCf8ZsgFd3u1O6",
+                "mac": "iPbiDFUDL19FaeV5bK5yHw=="
+        },
+        "enemies/autumn-fall/ball.json/actions/OnMarker/7/thenStep/0/elseStep/0/text": {
+                "ciphertext": "l8ZvnyiOPG/pCkSHNrKUCg2n1kFAWMRjKcXopSCrrsM=",
+                "mac": "M1QIlpigoG7XX/97L08vKQ=="
+        },
+        "enemies/autumn-fall/ball.json/actions/OnMarker/7/thenStep/0/thenStep/0/text": {
+                "ciphertext": "/3WScGm7/pZdyk4PP0ZsL3rnHdwlMLUSRLsyJr02otzeE+W6uGTcJIqMmOXbLa+kZ8E9EPmjvoeiEeUwlyGFng==",
+                "mac": "vgw8ajaTynxDHx96gan7SA=="
+        },
+        "enemies/autumn-fall/ball.json/actions/ReturnPlayer/1/text": {
+                "ciphertext": "BlSHShj6BJ+T35Ze9mQy/A==",
+                "mac": "+uVX2Nd76wlzuGXwjNnG0w=="
+        },
+        "enemies/autumn-fall/ball.json/actions/Thawing/3/thenStep/1/thenStep/0/text": {
+                "ciphertext": "mO33k5j9FFjp0l2LkKD1Sw==",
+                "mac": "Xc0R5qVgMViTAsKmD7PMsw=="
+        },
+        "enemies/autumn-fall/ball.json/meta/species": {
+                "ciphertext": "ywtcr7tSeQDUEfPT5NMlop41QX1hW3sZJsMyiGpyhQs=",
+                "mac": "R1v6Q2sfScf+DuR5P/uGPA=="
+        },
+        "enemies/autumn-fall/buffalo-fall.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/autumn-fall/buffalo-fire-quest.json/actions/HPBreak/0/thenStep/0/text": {
+                "ciphertext": "K6oGbtKPP/BgHOo9r5pguA==",
+                "mac": "7WAagzayIkxRRixJfcX2tQ=="
+        },
+        "enemies/autumn-fall/buffalo-fire-quest.json/actions/MoveCenter/0/thenStep/0/text": {
+                "ciphertext": "5dUxQHJhZz/Io49v3Iu+YipXP9UODnR8y4QqAP0UE1o=",
+                "mac": "j+RYfY1n1o1WTqbJ1El2Uw=="
+        },
+        "enemies/autumn-fall/buffalo-fire-quest.json/meta/species": {
+                "ciphertext": "wZTK1g8dO1mbTYjDyHiapQ==",
+                "mac": "dzAHjwRgqzL8+LNFb4sSsQ=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/actions/Quest-AddShield/1/thenStep/0/text": {
+                "ciphertext": "L06GJEiQ2zNcgfUfzI4Fgw==",
+                "mac": "JrSTQ5USq7emP1MSm/dmfg=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/actions/Quest-AttackBall/8/text": {
+                "ciphertext": "iOSWjOFMg5rW88U0OdXwVGW0pg0BpoaybBwhiwiLZzA=",
+                "mac": "QmVJK8GWGgFlGXT40IhE8Q=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/actions/Quest-LickTree/5/text": {
+                "ciphertext": "5lnnDl3x2J+q7C3FKqG+JJtkwmVaZMg68edfvT/oEhw=",
+                "mac": "WDiHxcn5lB0O6WtKnqyaoQ=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/actions/Quest-MoveToTree/2/text": {
+                "ciphertext": "m4ocF3uBEHrH8V6Yv/Y4B4TEA+/iDjwOCDCjWbl+RFQ=",
+                "mac": "T84o9BAKWg34gv9cqXzHzw=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/actions/Quest-RemoveShield/2/thenStep/0/text": {
+                "ciphertext": "N/sluz2HoDaMx3kMMULqIg==",
+                "mac": "kJAMfh/B32oIZ2CFI6urmg=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/actions/Quest-SwitchMarker/1/thenStep/0/text": {
+                "ciphertext": "mahMZ9XSVwBULSjBHoNN/scAbjeNB3HhTDsPM2PDY8o=",
+                "mac": "b3dT3Jb735D2gIVTbPRIwg=="
+        },
+        "enemies/autumn-fall/hedgehog-fall.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/autumn-fall/meerkat-fall.json/actions/Quest-AddShield/1/thenStep/0/text": {
+                "ciphertext": "L06GJEiQ2zNcgfUfzI4Fgw==",
+                "mac": "JrSTQ5USq7emP1MSm/dmfg=="
+        },
+        "enemies/autumn-fall/meerkat-fall.json/actions/Quest-AttackBall/8/text": {
+                "ciphertext": "iOSWjOFMg5rW88U0OdXwVGW0pg0BpoaybBwhiwiLZzA=",
+                "mac": "QmVJK8GWGgFlGXT40IhE8Q=="
+        },
+        "enemies/autumn-fall/meerkat-fall.json/actions/Quest-RemoveShield/2/thenStep/0/text": {
+                "ciphertext": "N/sluz2HoDaMx3kMMULqIg==",
+                "mac": "kJAMfh/B32oIZ2CFI6urmg=="
+        },
+        "enemies/autumn-fall/meerkat-fall.json/actions/Quest-SwitchMarker/1/thenStep/0/text": {
+                "ciphertext": "mahMZ9XSVwBULSjBHoNN/scAbjeNB3HhTDsPM2PDY8o=",
+                "mac": "b3dT3Jb735D2gIVTbPRIwg=="
+        },
+        "enemies/autumn-fall/meerkat-fall.json/meta/species": {
+                "ciphertext": "BzPbN+EG9g0UJMXuUKYj0k+6ryqjYOefCO5edyk8LwI=",
+                "mac": "HbBxihHB7n6pgXIOZgEI+Q=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/StartReady/2/thenStep/1/text": {
+                "ciphertext": "cZLdvSjhPVAtefRmVTsntg==",
+                "mac": "JA1rVYJ4RqReWdGczvlkeQ=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/StartReady/3/thenStep/1/text": {
+                "ciphertext": "hdZ4Lb0GFwI10tI4+zykbg==",
+                "mac": "oPiqKJN/jyfSqkMc2TG78g=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/StartReady/4/thenStep/1/text": {
+                "ciphertext": "xfsqPr9tyTY4EyW4JePt9Q==",
+                "mac": "orMZHTuPwCVIAt/d9HINLQ=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/StartReady/5/thenStep/1/text": {
+                "ciphertext": "/MMJxxYVKbulnQdjHh6PdA==",
+                "mac": "747v0DLrBOBRie1twctPmA=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/SwitchElement/1/thenStep/1/text": {
+                "ciphertext": "Nzi3DVCBsk32O/V9rNmLug==",
+                "mac": "HfKumxzbZkOpd2tFatsK7g=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/SwitchElement/2/thenStep/1/text": {
+                "ciphertext": "yS41JcyV2aEoXGEy3Vxo7Q==",
+                "mac": "dkls5xOnSTVrDCGVjMpgNQ=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/SwitchElement/3/thenStep/1/text": {
+                "ciphertext": "hhp/Q1+fRMNVo4tQa/qmrQ==",
+                "mac": "55434GRAa+sUdMO/a+efIg=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/actions/SwitchElement/4/thenStep/1/text": {
+                "ciphertext": "1mhpz5liNKC90G5WsaU6zw==",
+                "mac": "5Rk4hdg+3hbhUJue1H/Vag=="
+        },
+        "enemies/autumn-fall/raid-pillar-large.json/meta/species": {
+                "ciphertext": "3eY4Jg1ywFWmgyEv9Q9z5Q==",
+                "mac": "d3cALG+i6qoJy2ckuxctPQ=="
+        },
+        "enemies/autumn-fall/raid-pillar-small.json/actions/StunEnd/3/text": {
+                "ciphertext": "81wgmO3SdDxqkm1qC5jjFKORqay/EX9cAotPqoir65A=",
+                "mac": "d7DgCyG7fA1ENDILpuwtrQ=="
+        },
+        "enemies/autumn-fall/raid-pillar-small.json/meta/species": {
+                "ciphertext": "3eY4Jg1ywFWmgyEv9Q9z5Q==",
+                "mac": "d3cALG+i6qoJy2ckuxctPQ=="
+        },
+        "enemies/autumn-fall/seahorse-fall.json/actions/Flamethrower/6/text": {
+                "ciphertext": "mDQVTyeUEibwYyQK1AhHCQ==",
+                "mac": "GqLx3Keh+u/1hPkvLRemow=="
+        },
+        "enemies/autumn-fall/seahorse-fall.json/actions/Quest-AddShield/1/thenStep/0/text": {
+                "ciphertext": "L06GJEiQ2zNcgfUfzI4Fgw==",
+                "mac": "JrSTQ5USq7emP1MSm/dmfg=="
+        },
+        "enemies/autumn-fall/seahorse-fall.json/actions/Quest-RemoveShield/2/thenStep/0/text": {
+                "ciphertext": "N/sluz2HoDaMx3kMMULqIg==",
+                "mac": "kJAMfh/B32oIZ2CFI6urmg=="
+        },
+        "enemies/autumn-fall/seahorse-fall.json/actions/Quest-SwitchMarker/1/thenStep/0/text": {
+                "ciphertext": "mahMZ9XSVwBULSjBHoNN/scAbjeNB3HhTDsPM2PDY8o=",
+                "mac": "b3dT3Jb735D2gIVTbPRIwg=="
+        },
+        "enemies/autumn-fall/seahorse-fall.json/meta/species": {
+                "ciphertext": "LiX9DkODukRvLFi/OtzFvj7c7H1pLb4hhYqsk+p1xD0=",
+                "mac": "QHegTHGAIt4o+hciDSKKbQ=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/11/text": {
+                "ciphertext": "H15nQWlKO6+idHM/gmnhLDNnFI8NQKgx7yKBTSma5LY=",
+                "mac": "f1B5DIWoSlVt5ndTrB+JyA=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/elseStep/0/thenStep/0/text": {
+                "ciphertext": "hWn3s5qDtuflayFwdBa0pA==",
+                "mac": "ofzjKj3zQG9oULQDGyNlfg=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "Rald7KSdSCsE7CxU/mxQ2A==",
+                "mac": "C5wSqCc2RVdmC0mb60juzw=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/thenStep/0/thenStep/0/text": {
+                "ciphertext": "5oVcmHzYdLSr7D0YlbfjzQ==",
+                "mac": "DTRgJecX+W+owr6oWAsgxQ=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/ShotRdy/0/text": {
+                "ciphertext": "GvvDGatu0KVihnsZa8OJXpT7rLZTIRU6maOsMZST3gQ=",
+                "mac": "QBcz2mgpi74roGrbZEICCQ=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StartAllShields/0/text": {
+                "ciphertext": "bPROb+C2P2TDh2e+roQO6bOls397PXujeYMcMAqunGg=",
+                "mac": "mSVturJoDr//tsnW+DPaAw=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StartPartShield/0/text": {
+                "ciphertext": "qPlc2vnWx2eYLYQZcYAR2nzJR5kcjeZeRgNZHHm41ZQ=",
+                "mac": "cmUrmY8WczRUSxQb6bkANw=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StunStart/1/text": {
+                "ciphertext": "L9nN066NXP8dMj5nnw4WEw==",
+                "mac": "qyIteG3vjfU5DbsdhbcwvA=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/TurnOn/1/text": {
+                "ciphertext": "H15nQWlKO6+idHM/gmnhLDNnFI8NQKgx7yKBTSma5LY=",
+                "mac": "f1B5DIWoSlVt5ndTrB+JyA=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/meta/species": {
+                "ciphertext": "qsCJ3s20hYlFZkteaDsc7Q==",
+                "mac": "/X6zOq63c+bbJW2owy09vQ=="
+        },
+        "enemies/autumn-rh/buffel-sick-1.json/actions/getClean/3/text": {
+                "ciphertext": "xXPfVUXRH1OeeMN0xLnFtodoZac+X3dsbnurcl87Duw=",
+                "mac": "4yIKgMmjdD1o09gbhmmsEQ=="
+        },
+        "enemies/autumn-rh/buffel-sick-1.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/autumn-rh/practice-bot.json/meta/species": {
+                "ciphertext": "Ahviy6y/8DB2cTRIpmdz/b1mfiiYel0+/u7P1OCYE9Q=",
+                "mac": "AgCl3h8sUvLzvxCGDxfLZA=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/InitMove/1/thenStep/0/text": {
+                "ciphertext": "YY8AfxjS5l1zwbZKnRlpjQ==",
+                "mac": "dPD4gLJ6nk0O8MwAe7upbw=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/MarkTarget/4/text": {
+                "ciphertext": "xyi/E6UIB8WnGZBjrx6DXQ==",
+                "mac": "I1JQ1OhzBoD1xRE2phrNpQ=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
+                "ciphertext": "xTKQ9jrQPG0TO0R2S6T2NQ==",
+                "mac": "b8prHUcSJc7eHR1Fr5OGkA=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/ReachGoal/0/text": {
+                "ciphertext": "fKe3Rk5k9zokx3h2h9LTBo+vHQFGQ+TQcopAnK8kiVE=",
+                "mac": "YF7K22yX6nWHWuGMmuyl3w=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/SelfExplode/11/text": {
+                "ciphertext": "xDfWeTbmombfo8ycnsbSqQ==",
+                "mac": "k0jJAvKD+IjRl4+pFJGe8g=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/Target/4/text": {
+                "ciphertext": "KSPgRwU4g4T3st2QznmNIQ==",
+                "mac": "Jxydx1BXnVNGlJNcIt8cJA=="
+        },
+        "enemies/autumn-rh/suicider_float-quest_naval.json/meta/species": {
+                "ciphertext": "+Q6VNlOujAonEeDvKztZNQ==",
+                "mac": "ejqJ58aobxzdSNtwjVK2KA=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/AntiTurretShot/12/text": {
+                "ciphertext": "3+tpCZmvCWACSg4PTW9d2aJkca0xAtNWQXhtskbaQjI=",
+                "mac": "TUyszEU5wHtMvWklXeUTaw=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/InitMove/1/thenStep/0/text": {
+                "ciphertext": "YY8AfxjS5l1zwbZKnRlpjQ==",
+                "mac": "dPD4gLJ6nk0O8MwAe7upbw=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/MarkTarget/4/text": {
+                "ciphertext": "KSPgRwU4g4T3st2QznmNIQ==",
+                "mac": "Jxydx1BXnVNGlJNcIt8cJA=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
+                "ciphertext": "xTKQ9jrQPG0TO0R2S6T2NQ==",
+                "mac": "b8prHUcSJc7eHR1Fr5OGkA=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/ReachGoal/0/text": {
+                "ciphertext": "fKe3Rk5k9zokx3h2h9LTBo+vHQFGQ+TQcopAnK8kiVE=",
+                "mac": "YF7K22yX6nWHWuGMmuyl3w=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/Target/4/text": {
+                "ciphertext": "KSPgRwU4g4T3st2QznmNIQ==",
+                "mac": "Jxydx1BXnVNGlJNcIt8cJA=="
+        },
+        "enemies/autumn-rh/turret_float-quest_naval.json/meta/species": {
+                "ciphertext": "on7WqHeZ7FH45Z1e9NcmmwAEtPgiebkwk3dnrzh5eHU=",
+                "mac": "L+A/TMcqpi4di5yfWYUDWg=="
+        },
+        "enemies/avatar/apollo-2.json/meta/species": {
+                "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
+                "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
+        },
+        "enemies/avatar/apollo-3.json/meta/species": {
+                "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
+                "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
+        },
+        "enemies/avatar/apollo.json/meta/species": {
+                "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
+                "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
+        },
+        "enemies/avatar/shizuka.json/meta/species": {
+                "ciphertext": "W8zYW0kF1TkM3Ib0lqDfGeJJS0m2lbWFcjhumKVs6XM=",
+                "mac": "zmrZ7eaW8to43BDFT8m/2w==",
+                "ciphernote": "vLXQA1fGFZUSdLGo56YI8fw5tSq6WonXw8W0Y6bLN7EZIYUCFI8tfutcQUNXsggGgUZJQEJM9s1lVn0Wvp1NbxEd1iYAxwptxfAxW+L+mvhL/bN6Bn3osG6ewp/F8Nw5"
+        },
+        "enemies/avatar/wervyn.json/meta/species": {
+                "ciphertext": "mQZPMEh84rtbUWBzrOsLNw==",
+                "mac": "nU7kruu2+SIgwqQ9wQ2GNQ=="
+        },
+        "enemies/baggy-kun-test.json/meta/descriptions/0/text": {
+                "ciphertext": "SL3AZ7f83AaGJZ6oUpjPnEQJQ2Xbui3WaOTlSh2xjoJiKWQuOy6uM6TPP4Bgwo301ll7VO67W1lWvQffWsNyU8jboTv2r7z+EB+hjw0lVZEdqaKcOI04z2wGeB74S8PBOLLZ7/xRuWDRAVRox4quc7HpFiX0J1HteaRCIGiNWq9ImNZQjc8i7FBONOmPEoNNiqHw7eHpFSo/ghIiI1lyNg==",
+                "mac": "+Ap7viZLMybUh6xJRlflHw=="
+        },
+        "enemies/baggy-kun-test.json/meta/species": {
+                "ciphertext": "eSzVCTIgDswpOjGtTi530A==",
+                "mac": "6AqDiZnnreYgo/VcCme9aA=="
+        },
+        "enemies/baggy-kun.json/meta/descriptions/0/text": {
+                "ciphertext": "SL3AZ7f83AaGJZ6oUpjPnEQJQ2Xbui3WaOTlSh2xjoJiKWQuOy6uM6TPP4Bgwo301ll7VO67W1lWvQffWsNyU8jboTv2r7z+EB+hjw0lVZEdqaKcOI04z2wGeB74S8PBOLLZ7/xRuWDRAVRox4quc7HpFiX0J1HteaRCIGiNWq9ImNZQjc8i7FBONOmPEoNNiqHw7eHpFSo/ghIiI1lyNg==",
+                "mac": "+Ap7viZLMybUh6xJRlflHw=="
+        },
+        "enemies/baggy-kun.json/meta/species": {
+                "ciphertext": "eSzVCTIgDswpOjGtTi530A==",
+                "mac": "6AqDiZnnreYgo/VcCme9aA=="
+        },
+        "enemies/beat-boss.json/meta/species": {
+                "ciphertext": "6jJXf9tJJ7UtPaKcmfxZUKT9AGoMV27jyc0pSOacrvI=",
+                "mac": "8PyEmoHy8fgPD8YleQi79Q=="
+        },
+        "enemies/beat-bot.json/meta/species": {
+                "ciphertext": "6jJXf9tJJ7UtPaKcmfxZUKT9AGoMV27jyc0pSOacrvI=",
+                "mac": "8PyEmoHy8fgPD8YleQi79Q=="
+        },
+        "enemies/boss-driller.json/actions/RegenShield/4/text": {
+                "ciphertext": "b+cIYh58Tl9cmDqha0QyrPcBIrW7T95UMg6/Wzg2g10=",
+                "mac": "t9mXgmqKF6uWctUJ89IHhA=="
+        },
+        "enemies/boss-driller.json/meta/species": {
+                "ciphertext": "2Y+rC8L5SdekUNelQKN/sQ==",
+                "mac": "wU/erY0bGa4eRy3XLUglRA=="
+        },
+        "enemies/boss-extra.json/meta/species": {
+                "ciphertext": "XUbhjHvX17BdRNhAcQi8zw==",
+                "mac": "PBcU/Ayov/BKFzG3HD+5ag=="
+        },
+        "enemies/boss-test.json/meta/species": {
+                "ciphertext": "XUbhjHvX17BdRNhAcQi8zw==",
+                "mac": "PBcU/Ayov/BKFzG3HD+5ag=="
+        },
+        "enemies/boss/designer-1.json/meta/species": {
+                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
+                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+        },
+        "enemies/boss/designer-2.json/meta/species": {
+                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
+                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+        },
+        "enemies/boss/elephant-core.json/actions/absorb/7/text": {
+                "ciphertext": "DcUakhELsb7z3uNnNB36mEbFJBd6FGT/EE+8bVdABYw=",
+                "mac": "Z4NRtj7jVjbyJUMKEBFHdQ=="
+        },
+        "enemies/boss/elephant-core.json/actions/destroy/15/text": {
+                "ciphertext": "+J4zmwnPwKuX1ZaY6zzadnuR12lSLO6NMryQoiMJiZFZxHUTnrw6jU6vk0alSppR",
+                "mac": "Ku8pl0loTPcvTG6xU9K+6g=="
+        },
+        "enemies/boss/elephant-core.json/actions/idle/2/text": {
+                "ciphertext": "viy7IBhWts9TQ9wGbiStVA==",
+                "mac": "wpHqyWuezYx1PFtrbCbF3Q=="
+        },
+        "enemies/boss/elephant-core.json/meta/species": {
+                "ciphertext": "1umT2W1VNjN8KX59ZMbIiQ==",
+                "mac": "6tibWoeD/DSJYz6EajJsFg=="
+        },
+        "enemies/boss/elephant.json/meta/species": {
+                "ciphertext": "lBMDd30tSm32Mdp0OBlHiA==",
+                "mac": "PLhnHvgx5IMjVtLOZemjKw=="
+        },
+        "enemies/boss/elephant.json/proxies/playerHack/action/13/thenStep/2/text": {
+                "ciphertext": "7ah8Tm5XY7fZsbVJhZApTg==",
+                "mac": "Ry0PKcZ3PAygPhxMJkrEEA=="
+        },
+        "enemies/boss/elephant.json/proxies/playerHack/action/13/thenStep/9/text": {
+                "ciphertext": "BMlowtYEeEyY0Txp082BCQ==",
+                "mac": "dcSI7oEM5mbHsxMMNpct8Q=="
+        },
+        "enemies/boss/elephant.json/proxies/playerHack/action/4/text": {
+                "ciphertext": "ZP1dsHULP2Bz76pHMnVO3w==",
+                "mac": "VALMLx1BP9CWNej+OGxOuw=="
+        },
+        "enemies/boss/elephant.json/proxies/playerHack/action/8/text": {
+                "ciphertext": "Pb7l+uJvS4g4W1TXRPwM1A==",
+                "mac": "UcG9hpkDaZePPHJK5zBIgQ=="
+        },
+        "enemies/buffalo-alt.json/actions/Quest-LickTree/5/text": {
+                "ciphertext": "5lnnDl3x2J+q7C3FKqG+JJtkwmVaZMg68edfvT/oEhw=",
+                "mac": "WDiHxcn5lB0O6WtKnqyaoQ=="
+        },
+        "enemies/buffalo-alt.json/actions/Quest-MoveToTree/2/text": {
+                "ciphertext": "m4ocF3uBEHrH8V6Yv/Y4B4TEA+/iDjwOCDCjWbl+RFQ=",
+                "mac": "T84o9BAKWg34gv9cqXzHzw=="
+        },
+        "enemies/buffalo-alt.json/meta/species": {
+                "ciphertext": "4c/eq1rmEVmIC4BYBBJ1aOz59AczKc1A/uL89m8IU6Q=",
+                "mac": "M39Qgymoh9AAa/qLuKYd+A=="
+        },
+        "enemies/buffalo.json/meta/species": {
+                "ciphertext": "4c/eq1rmEVmIC4BYBBJ1aOz59AczKc1A/uL89m8IU6Q=",
+                "mac": "M39Qgymoh9AAa/qLuKYd+A=="
+        },
+        "enemies/captain.json/meta/species": {
+                "ciphertext": "mQZPMEh84rtbUWBzrOsLNw==",
+                "mac": "nU7kruu2+SIgwqQ9wQ2GNQ=="
+        },
+        "enemies/cold/coldbug-quest-bombing-1.json/actions/Quest-BarrierDmg/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "kgyW7pSDfTmdfiB1/+5a3EtYVTOlyfp2ht7QRYBryZI=",
+                "mac": "VudCnv6oIRIB2VTMeTb5jA=="
+        },
+        "enemies/cold/coldbug-quest-bombing-1.json/actions/Quest-BarrierDmg/3/thenStep/1/thenStep/0/text": {
+                "ciphertext": "wbTsYeOAVjbFVolRuBuMj9rpr23sHbVio2s+ks/CS+c=",
+                "mac": "TiU2eiry1C3TCuUgPKiQ9A=="
+        },
+        "enemies/cold/coldbug-quest-bombing-1.json/actions/Quest-MoveToBarrier1/0/thenStep/0/text": {
+                "ciphertext": "JIWNHEBv26aYOOG0eqKF6Y87WQMNPh9849eTViEoay4=",
+                "mac": "K4iPJ6VQuYP+9pzFXZfbow=="
+        },
+        "enemies/cold/coldbug-quest-bombing-1.json/actions/Quest-MoveToBarrier2/0/thenStep/0/text": {
+                "ciphertext": "IsBbRprrSuQG3VV5MMb5dEpJ5wwCpmL1JB+ZVIpXH/0=",
+                "mac": "GE1wHavxxobdILP4KHbhdw=="
+        },
+        "enemies/cold/coldbug-quest-bombing-1.json/meta/species": {
+                "ciphertext": "okEOuUIQGMpgWKN2wuqc+w==",
+                "mac": "HNm6FdgJ4UV+TElpPUJXAw==",
+                "quality": "incomplete",
+                "ciphernote": "nXpJkuV2soIBM4RGHFki4pYhFauR1tQsiu9pwEfDEd8="
+        },
+        "enemies/cold/coldbug-quest-bombing-2.json/actions/Quest-BarrierDmg/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "kgyW7pSDfTmdfiB1/+5a3EtYVTOlyfp2ht7QRYBryZI=",
+                "mac": "VudCnv6oIRIB2VTMeTb5jA=="
+        },
+        "enemies/cold/coldbug-quest-bombing-2.json/actions/Quest-BarrierDmg/3/thenStep/1/thenStep/0/text": {
+                "ciphertext": "wbTsYeOAVjbFVolRuBuMj9rpr23sHbVio2s+ks/CS+c=",
+                "mac": "TiU2eiry1C3TCuUgPKiQ9A=="
+        },
+        "enemies/cold/coldbug-quest-bombing-2.json/actions/Quest-MoveToBarrier1/0/thenStep/0/text": {
+                "ciphertext": "JIWNHEBv26aYOOG0eqKF6Y87WQMNPh9849eTViEoay4=",
+                "mac": "K4iPJ6VQuYP+9pzFXZfbow=="
+        },
+        "enemies/cold/coldbug-quest-bombing-2.json/actions/Quest-MoveToBarrier2/0/thenStep/0/text": {
+                "ciphertext": "IsBbRprrSuQG3VV5MMb5dEpJ5wwCpmL1JB+ZVIpXH/0=",
+                "mac": "GE1wHavxxobdILP4KHbhdw=="
+        },
+        "enemies/cold/coldbug-quest-bombing-2.json/meta/species": {
+                "ciphertext": "okEOuUIQGMpgWKN2wuqc+w==",
+                "mac": "HNm6FdgJ4UV+TElpPUJXAw==",
+                "quality": "incomplete",
+                "ciphernote": "nXpJkuV2soIBM4RGHFki4pYhFauR1tQsiu9pwEfDEd8="
+        },
+        "enemies/cold/frobbit-quest-dirty.json/actions/UberKick/28/thenStep/1/text": {
+                "ciphertext": "anZ1qUpQz5uaiiqtfGpnUQ==",
+                "mac": "KRiSVfQFRrMAkdXemJPmbw=="
+        },
+        "enemies/cold/frobbit-quest-dirty.json/actions/getClean/3/text": {
+                "ciphertext": "xXPfVUXRH1OeeMN0xLnFtodoZac+X3dsbnurcl87Duw=",
+                "mac": "4yIKgMmjdD1o09gbhmmsEQ=="
+        },
+        "enemies/cold/frobbit-quest-dirty.json/meta/species": {
+                "ciphertext": "lVJKQajpM16pKFfwujM0yg==",
+                "mac": "6t64TiOdnLqAdMAJWJct4g=="
+        },
+        "enemies/cold/goat-father.json/actions/bombDaze/4/text": {
+                "ciphertext": "UrxvphxxVk3DuQzghEV4Cg==",
+                "mac": "Nx7nCi+6z4iVZ41DE+z6XA=="
+        },
+        "enemies/cold/goat-father.json/actions/bombKick/1/thenStep/0/text": {
+                "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
+                "mac": "MQiqf7s3Do8aCEZqbrOfJg=="
+        },
+        "enemies/cold/goat-father.json/actions/bombKickPassive/0/thenStep/0/text": {
+                "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
+                "mac": "MQiqf7s3Do8aCEZqbrOfJg=="
+        },
+        "enemies/cold/goat-father.json/actions/bombKickPassive/1/text": {
+                "ciphertext": "l2N1r44RlXc0HtKRAcH7yeCtlNYx59bCt/z1rVZ4fD8=",
+                "mac": "ABGMn/IrZdIsatsjlaBDxw=="
+        },
+        "enemies/cold/goat-father.json/actions/moveBomb/1/thenStep/0/text": {
+                "ciphertext": "cozq3ZTgFW7mQUMPWSQSEQ==",
+                "mac": "f4kssloO6zydgixLL02QqA=="
+        },
+        "enemies/cold/goat-father.json/actions/sceneKick/0/thenStep/0/text": {
+                "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
+                "mac": "MQiqf7s3Do8aCEZqbrOfJg=="
+        },
+        "enemies/cold/goat-father.json/meta/species": {
+                "ciphertext": "f9CJIaNoe9qJtLAI125htA==",
+                "mac": "0HlPtJcRAEqtQo2oUQfyTA=="
+        },
+        "enemies/cold/mine-coldbug-quest.json/meta/species": {
+                "ciphertext": "okEOuUIQGMpgWKN2wuqc+w==",
+                "mac": "HNm6FdgJ4UV+TElpPUJXAw==",
+                "quality": "incomplete",
+                "ciphernote": "nXpJkuV2soIBM4RGHFki4pYhFauR1tQsiu9pwEfDEd8="
+        },
+        "enemies/cold/mine-diggingbot-quest.json/actions/Activate/1/text": {
+                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
+                "mac": "/3l1+JslbOklhtB7mNR20g=="
+        },
+        "enemies/cold/mine-diggingbot-quest.json/actions/HeatExplosion/10/text": {
+                "ciphertext": "vcO8hnQUfgb1EIeecPnFJzjt6IZGiO6/vPqzbwXW8M8br3l1Ia6LXYwbnFVDZlJZ",
+                "mac": "doN8imHBGW58RhhAD3dLiw==",
+                "quality": "bad"
+        },
+        "enemies/cold/mine-diggingbot-quest.json/actions/HeatExplosion_old/4/text": {
+                "ciphertext": "vcO8hnQUfgb1EIeecPnFJzjt6IZGiO6/vPqzbwXW8M8br3l1Ia6LXYwbnFVDZlJZ",
+                "mac": "doN8imHBGW58RhhAD3dLiw==",
+                "quality": "bad"
+        },
+        "enemies/cold/mine-diggingbot-quest.json/actions/ZeroDegreeSpawn/0/text": {
+                "ciphertext": "ZCqUl4RLJjpiABzHOgGUooDxgGpD7wlYmEJOC0B1bZA=",
+                "mac": "gXP9gRuI4kQBZwpGFqkHFA=="
+        },
+        "enemies/cold/mine-diggingbot-quest.json/actions/test/0/text": {
+                "ciphertext": "nCvul5upyiEeDrHvakpSug==",
+                "mac": "egMK+8jTnMI3wB7Y354vAg=="
+        },
+        "enemies/cold/mine-diggingbot-quest.json/meta/species": {
+                "ciphertext": "qGf96EZFEHsiHGTXbqvmOD0JDfBufxCRumFSG64dTvI=",
+                "mac": "281RBHC7DosSphW1n3GZkA=="
+        },
+        "enemies/cold/turret-monks-invinc.json/actions/GoOff/0/thenStep/0/text": {
+                "ciphertext": "kx+GN4c2/NNBZStNAxeVfg==",
+                "mac": "qOrPy7JsSKBsZ3teXJxjBQ=="
+        },
+        "enemies/cold/turret-monks-invinc.json/actions/GoOn/0/text": {
+                "ciphertext": "6y5sENc/m2ZKIKYvd4uMjA==",
+                "mac": "MEKiQntbAZwyU2+WjM2fLQ=="
+        },
+        "enemies/cold/turret-monks-invinc.json/actions/GoUltra/0/text": {
+                "ciphertext": "1vEct8rAtylSDSugKBcif03yKr+/5WUeBX73TGAyzJg=",
+                "mac": "CMAHh7R3JlkGBOFK/kSR6g=="
+        },
+        "enemies/cold/turret-monks-invinc.json/meta/species": {
+                "ciphertext": "cDb3J+SYJWhs7UETtjyNLPUXAt8zDLUTTbpm52sF+F8=",
+                "mac": "Xaca1cz2u+0WPKZ/ZBc69Q=="
+        },
+        "enemies/daft-frobbit.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/default.json/actions/ChargeAttack/9/text": {
+                "ciphertext": "y2osQP7YR7CvI7U/xLfBSg==",
+                "mac": "iA7tStkncdhKQTydI4Gfpw=="
+        },
+        "enemies/default.json/actions/ShowWeakAR/0/text": {
+                "ciphertext": "5xCFlrqzJk05HgXua7EeUA==",
+                "mac": "56LqOxaG9yiDSEWxFuuw9A=="
+        },
+        "enemies/default.json/meta/species": {
+                "ciphertext": "e/TXNFoxO93nbvS+AAXrIw==",
+                "mac": "jeXEGSPf6VpPkRwraNyRUw=="
+        },
+        "enemies/forest/bamboo-fountain.json/meta/species": {
+                "ciphertext": "OWv2yelTcYaa03Y9wsn55Q==",
+                "mac": "Q6IBnen0fStm94rFFmVqnQ=="
+        },
+        "enemies/forest/bug-samurai-heat.json/meta/species": {
+                "ciphertext": "3A809daHfdwOiAeq5gwOPdISCJ8oWWVYfgC3WsS5yyk=",
+                "mac": "/aXILucT33caJYMtsgdPeA=="
+        },
+        "enemies/forest/bug-samurai-shock.json/meta/species": {
+                "ciphertext": "3A809daHfdwOiAeq5gwOPdISCJ8oWWVYfgC3WsS5yyk=",
+                "mac": "/aXILucT33caJYMtsgdPeA=="
+        },
+        "enemies/forest/kamikater.json/actions/Activate/1/text": {
+                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
+                "mac": "/3l1+JslbOklhtB7mNR20g=="
+        },
+        "enemies/forest/kamikater.json/actions/ArMessage/0/text": {
+                "ciphertext": "cD1zHUhWAd2jHrLsZoWI+MoBLmisqF/gW0p8VqgNQEg=",
+                "mac": "f9a9VZIStVehNKmJ2IoPnQ=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestruct/12/text": {
+                "ciphertext": "8JSS4Etollqsq215G9Qn1Q==",
+                "mac": "pWzqxJwhvUNynUDcJSfz7Q=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestruct/16/text": {
+                "ciphertext": "s5tWe9wqKWjOROs4kX0bBg==",
+                "mac": "QWkkEMsPFUmVI89xPRl7VQ=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestruct/8/text": {
+                "ciphertext": "7sfkmXCGBV1tDGwQms8qNg==",
+                "mac": "PC8dKBMRMKDvsTG8epM7Cw=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestructKill/13/text": {
+                "ciphertext": "8JSS4Etollqsq215G9Qn1Q==",
+                "mac": "pWzqxJwhvUNynUDcJSfz7Q=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestructKill/17/text": {
+                "ciphertext": "s5tWe9wqKWjOROs4kX0bBg==",
+                "mac": "QWkkEMsPFUmVI89xPRl7VQ=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestructKill/9/text": {
+                "ciphertext": "7sfkmXCGBV1tDGwQms8qNg==",
+                "mac": "PC8dKBMRMKDvsTG8epM7Cw=="
+        },
+        "enemies/forest/kamikater.json/actions/SelfDestructStart/0/text": {
+                "ciphertext": "cD1zHUhWAd2jHrLsZoWI+MoBLmisqF/gW0p8VqgNQEg=",
+                "mac": "f9a9VZIStVehNKmJ2IoPnQ=="
+        },
+        "enemies/forest/kamikater.json/actions/WakeUp/0/0_0/0/text": {
+                "ciphertext": "fP3ZPmmjs80zClOG6LfbyvusoJJEjlOppkmpMdZr4zNGPJWGuAjwvdpPG5A0HLKc",
+                "mac": "KOtXaSr9J21lo+pSWe4U7A=="
+        },
+        "enemies/forest/kamikater.json/actions/WakeUp/0/1_0/0/text": {
+                "ciphertext": "va738fR4zZzYDRfyk7Tkh2PMXlOlGBw1PnQEH2ZqmAo=",
+                "mac": "Gio283QdSQOS4HfHwFev7g=="
+        },
+        "enemies/forest/kamikater.json/actions/WakeUp/0/2_0/0/text": {
+                "ciphertext": "0cm/wSi+mjFIXxwMfNggEL98pso1Le8NdM3wMdMVhjw=",
+                "mac": "BPpHxyqDCyKIFsBVqT2KAA=="
+        },
+        "enemies/forest/kamikater.json/meta/species": {
+                "ciphertext": "K2fuH14OvWBPuai4AU2i9g==",
+                "mac": "gsnr8OWjd0yjgNJ0zh1xAQ=="
+        },
+        "enemies/forest/panda.json/meta/species": {
+                "ciphertext": "I85g7GWMvqpZgye9xsJvL2G1veReBxJmZnqTL9tLSmQ=",
+                "mac": "bHI5qAsf0GEbXk2//SE9Mw=="
+        },
+        "enemies/forest/samurai-boss.json/meta/species": {
+                "ciphertext": "4hqIZNmWWkPnRaii3AIQhXO+e+08mp5q/73cwgm832A=",
+                "mac": "V+yQa3YsQn6SioNCsMSZjg=="
+        },
+        "enemies/forest/spider.json/meta/species": {
+                "ciphertext": "6VSMh2f8nDEfWc2vJqoT1w==",
+                "mac": "sflfLJcgUfTKzG5ax3e1Xw=="
+        },
+        "enemies/frobbit-miniboss-femme.json/actions/summonGallants/1/text": {
+                "ciphertext": "E4PKgdKEJDNU1ZkOWvQiYjJHseWrD1cwHN7+hw8NBHw=",
+                "mac": "fBs0ehVs5gH9guYuAbbliw==",
+                "quality": "bad",
+                "ciphernote": "3/D8moofOpDFwy4uBq6jBg=="
+        },
+        "enemies/frobbit-miniboss-femme.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/frobbit-miniboss-gallant.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/frobbit.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/goat-cave.json/actions/bombDaze/6/text": {
+                "ciphertext": "UrxvphxxVk3DuQzghEV4Cg==",
+                "mac": "Nx7nCi+6z4iVZ41DE+z6XA=="
+        },
+        "enemies/goat-cave.json/actions/bombKick/1/thenStep/0/text": {
+                "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
+                "mac": "MQiqf7s3Do8aCEZqbrOfJg=="
+        },
+        "enemies/goat-cave.json/actions/bombKickPassive/0/thenStep/0/text": {
+                "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
+                "mac": "MQiqf7s3Do8aCEZqbrOfJg=="
+        },
+        "enemies/goat-cave.json/actions/bombKickPassive/1/text": {
+                "ciphertext": "l2N1r44RlXc0HtKRAcH7yeCtlNYx59bCt/z1rVZ4fD8=",
+                "mac": "ABGMn/IrZdIsatsjlaBDxw=="
+        },
+        "enemies/goat-cave.json/actions/moveBomb/1/thenStep/0/text": {
+                "ciphertext": "cozq3ZTgFW7mQUMPWSQSEQ==",
+                "mac": "f4kssloO6zydgixLL02QqA=="
+        },
+        "enemies/goat-cave.json/actions/sceneKick/0/thenStep/0/text": {
+                "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
+                "mac": "MQiqf7s3Do8aCEZqbrOfJg=="
+        },
+        "enemies/goat-cave.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/goat.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/gray-frobbit.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/greenlight.json/meta/species": {
+                "ciphertext": "wlz/gv/8JuV9g7rIH4jzbg==",
+                "mac": "WvwHY9vazUMt6PapILmvjw=="
+        },
+        "enemies/guard-hostile-default.json/actions/Attack_Stab_Triple/7/text": {
+                "ciphertext": "bfBrWw1Uz/nmiX2geezMyQ==",
+                "mac": "PaTeFVqKl/zbNV/MB0Ye8g=="
+        },
+        "enemies/guard-hostile-default.json/actions/Blindside/33/hit/0/thenStep/0/text": {
+                "ciphertext": "NnBZNDWNXa77YBZKyVxUew==",
+                "mac": "Nv6I5/t55mJaQwRw3HKiSA=="
+        },
+        "enemies/guard-hostile-default.json/actions/Blindside/33/missed/0/thenStep/0/text": {
+                "ciphertext": "mKOUbgeIx/XJGyUfp7cdvg==",
+                "mac": "zn5eqdQCFLnZo9jofGiaxg=="
+        },
+        "enemies/guard-hostile-default.json/actions/Blindside/4/text": {
+                "ciphertext": "dOOTu0a8uW1kfcsfjMLPCw==",
+                "mac": "wQvEDquRZpl64H+RDpvHPg=="
+        },
+        "enemies/guard-hostile-default.json/actions/HealCancel/2/text": {
+                "ciphertext": "SRikQIRQcVkLwkvWUi7YXl57yZ9JXNSkBgIg81WLk/VANLjq4FZCnV5/p1OVv9+F",
+                "mac": "1ryf1oN2bF1VSI30guy9hg=="
+        },
+        "enemies/guard-hostile-default.json/actions/HealSandwich/3/thenStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "9T8ReRwRhfI2qPMyZrqUxA==",
+                "mac": "/pV6zVLFQcGI9Q3P4Cqtjw=="
+        },
+        "enemies/guard-hostile-default.json/actions/HealSandwich/8/elseStep/0/text": {
+                "ciphertext": "nNuboLazibSYaBY564sbMA==",
+                "mac": "OFv1zG60AwU9K3YZ/ZoRTA=="
+        },
+        "enemies/guard-hostile-default.json/actions/HealSandwich/8/thenStep/0/text": {
+                "ciphertext": "CcpAL/eSxHnbD5F8FBqQMBikPiGSV9cECISjuRGhZ5Jign40oOoyx6TqjK8bV2ok",
+                "mac": "FFFVY21cOeTCSsHGATrUWA=="
+        },
+        "enemies/guard-hostile-default.json/actions/Init/0/thenStep/0/text": {
+                "ciphertext": "g2WKZoCB4HoX0MvuzM3YBA==",
+                "mac": "13v5LTGvJQNstNCp+BBq4A=="
+        },
+        "enemies/guard-hostile-default.json/actions/summonTurrets/10/text": {
+                "ciphertext": "WqzdEyYyjpajVvFd86DqXHt+hC3w5FpZCZbwKvzJi6k=",
+                "mac": "owQY1Kd3Dxvt5SO/uftMzw=="
+        },
+        "enemies/guard-hostile-default.json/actions/summonTurrets/3/thenStep/0/thenStep/0/text": {
+                "ciphertext": "9T8ReRwRhfI2qPMyZrqUxA==",
+                "mac": "/pV6zVLFQcGI9Q3P4Cqtjw=="
+        },
+        "enemies/guard-hostile-default.json/actions/summonTurrets/5/thenStep/0/text": {
+                "ciphertext": "6UkUKQp0eZnjKrT3ShK8kQ==",
+                "mac": "IKUGnPe3I9TibheIwOSIOA=="
+        },
+        "enemies/guard-hostile-default.json/meta/species": {
+                "ciphertext": "edUc9g6XPxG+mc1LelQpsQ==",
+                "mac": "n4DVLoPVg82md9ygqrAyxA=="
+        },
+        "enemies/guest/glitch-boss.json/meta/species": {
+                "ciphertext": "Z/2ExtP2NnEHI864f8B+xg==",
+                "mac": "qCWFg1eDfASb2qu9i1cWaQ==",
+                "ciphernote": "EOrFeLxb5mG9sctf2wi7s732AlMZHjhPRS6izzomG+paM3JnkeYWlj8MuAW0r2+Xrv+3YIRU/FgQ0Mj/xj38Q482sBcoailW9jdXn/mWjtwGUjf7193pCu9HnzJWvQ1Q"
+        },
+        "enemies/heat/antlion.json/meta/species": {
+                "ciphertext": "H4l5RWxz9/LL5wNjpUhU3Q==",
+                "mac": "XsjDmkeS6JYmHS8rGi1hDg=="
+        },
+        "enemies/heat/darth-moth-old.json/meta/species": {
+                "ciphertext": "LiX9DkODukRvLFi/OtzFvj7c7H1pLb4hhYqsk+p1xD0=",
+                "mac": "QHegTHGAIt4o+hciDSKKbQ=="
+        },
+        "enemies/heat/darth-moth.json/meta/species": {
+                "ciphertext": "+HGPUFWy+rgI6IP43993ng==",
+                "mac": "EcU+z15uJSXNNez4K9RFsw=="
+        },
+        "enemies/heat/drillertoise-OLD.json/meta/species": {
+                "ciphertext": "VphGEf5c9vcITjD9eSzuag==",
+                "mac": "u9HA8FpAbGce3MaM+Mka0Q=="
+        },
+        "enemies/heat/drillertoise.json/meta/species": {
+                "ciphertext": "VphGEf5c9vcITjD9eSzuag==",
+                "mac": "u9HA8FpAbGce3MaM+Mka0Q=="
+        },
+        "enemies/heat/heat-golem.json/meta/species": {
+                "ciphertext": "J08MAIaYrfdCBSF4ZL8vcA==",
+                "mac": "51zoNcbSI3BM4BPBViZrEg=="
+        },
+        "enemies/heat/jellyfish.json/meta/species": {
+                "ciphertext": "ROM/kwXauLGCeAlxB+wNLQ==",
+                "mac": "v0GpsSh4grYlsuPKRPkGvw=="
+        },
+        "enemies/heat/megamoth.json/actions/WeakShoot/0/text": {
+                "ciphertext": "a/Jrmem/RCPyFQVHMM24GQ==",
+                "mac": "6YKyoRhDJ7U2Qk+IhVsTtA=="
+        },
+        "enemies/heat/megamoth.json/meta/species": {
+                "ciphertext": "I4vCTdRckB+GixKT5NzsLg==",
+                "mac": "zdA5/2O/doib2docuppbyQ=="
+        },
+        "enemies/heat/moth.json/meta/species": {
+                "ciphertext": "+HGPUFWy+rgI6IP43993ng==",
+                "mac": "EcU+z15uJSXNNez4K9RFsw=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-CircleCrate/5/thenStep/1/text": {
+                "ciphertext": "4kdnymNzPZv433mWV2y9GA==",
+                "mac": "MB8LNgvFNcl79VykZ7IrHw=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-Deflect/12/thenStep/1/text": {
+                "ciphertext": "oAOmxE1Ya8X+lQh/OZmpCA==",
+                "mac": "NDgOi7I/kB2s5OcADINOmA=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-HitCrate/15/thenStep/1/text": {
+                "ciphertext": "z7P3Yjt+5Mr9HNDIw7a6tA==",
+                "mac": "tkfnpalNF3CzFeJWSLUxNQ=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-HitCrate/9/thenStep/0/thenStep/1/text": {
+                "ciphertext": "dtWnWBFALY4v2Uh9c3hUOQ==",
+                "mac": "5MR5yEL2pUt+oSBYIbv2Vw=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-MoveToCrate/0/text": {
+                "ciphertext": "42MAG+g31ktqwDTAzl2FwACVWYQBDYFJ3khAKSvHirw=",
+                "mac": "d5iEUwwx6u6iISe2QMsmiA=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-MoveToCrate/10/thenStep/1/text": {
+                "ciphertext": "T7lLHbrAvtDEjubJLGTAxA==",
+                "mac": "2CT0HN6N6odUVlRh0L4AVA=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-MoveToCrate/13/elseStep/0/thenStep/1/text": {
+                "ciphertext": "dbHEHr4cnB9So+4GrpQP4Q==",
+                "mac": "o+o7w81CG+oxz3PcFzxwGQ=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-MoveToCrate/13/thenStep/2/thenStep/1/text": {
+                "ciphertext": "l+P17wLfFNyo7R6Ch8jwEA==",
+                "mac": "FFKqaK384jCq9l/FduSkJA=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-MoveToCrate/7/thenStep/0/thenStep/1/text": {
+                "ciphertext": "QsnEMIslkorz7QCWcU02Kg==",
+                "mac": "fU+v8p1+DPpydnu5ajZS7Q=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-MoveToCrate/8/thenStep/1/text": {
+                "ciphertext": "qFG2gvKljmM9Xb+O4KdnZA==",
+                "mac": "xrzFE+uUIEnUgHmZT/f8qQ=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-TackleCrate/11/text": {
+                "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
+                "mac": "PLGpE70TOuqm46qCCMwCng=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-TackleCrate/5/thenStep/1/text": {
+                "ciphertext": "Y33P6z1nzseu3+G5d8aDKg==",
+                "mac": "O0rk4YoPODUQgrCBYF1eIQ=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-TackleCrate/60/thenStep/1/text": {
+                "ciphertext": "9GgG6PsA2S1Zmh0vKhv7lg==",
+                "mac": "o5aVFhtGUgnGdiYJ7kUBKA=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-TackleCrate/66/thenStep/1/text": {
+                "ciphertext": "++pBV2eBPAVZA+3eIXOvsA==",
+                "mac": "J+PVbhGuhdaZQ7S7pDGDCQ=="
+        },
+        "enemies/heat/sandshark.json/actions/Quest-TackleCrate/9/thenStep/1/text": {
+                "ciphertext": "2ixgXmTnjeTjV1Qy9iLJmw==",
+                "mac": "HpTdgrDSyELlKyh/a7Y2gg=="
+        },
+        "enemies/heat/sandshark.json/meta/species": {
+                "ciphertext": "ZkVAP4GjtB5UnoFztAsdAg==",
+                "mac": "JX6zZcOCuzq2bpl9uvzIsw=="
+        },
+        "enemies/heat/sandworm-boss.json/meta/species": {
+                "ciphertext": "IdZGNZGit1DSiqsduJNbpg==",
+                "mac": "vLXGF9g0GWI7Jp+z+gfWhw=="
+        },
+        "enemies/heat/sandworm.json/meta/species": {
+                "ciphertext": "GRST1rJKL7FDzYOctJ1eRQ==",
+                "mac": "APDSkPybAmCfdpHHyQJOfw=="
+        },
+        "enemies/heat/scorpion-alt.json/meta/species": {
+                "ciphertext": "DCNLhPxWOg7dx5rkulWxZSzvtBuKnpA6npUuOSdFa00=",
+                "mac": "WsLKE11YlZGWP83VdKUksA=="
+        },
+        "enemies/heat/scorpion.json/meta/species": {
+                "ciphertext": "YuhrTiaTMckAAoY39y8kVQ==",
+                "mac": "pUI0pbli7UqcxX8ybzmdkA=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/ChargeAttack/10/text": {
+                "ciphertext": "y2osQP7YR7CvI7U/xLfBSg==",
+                "mac": "iA7tStkncdhKQTydI4Gfpw=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/GoSolo/4/text": {
+                "ciphertext": "11sJQT+2FL+WAcs34yYw3gaRPLrNxEQ+nMGedukR2Ec=",
+                "mac": "QeMzV/ctI19dE8sW26K6WA=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/ShieldsOff/1/text": {
+                "ciphertext": "e+FWS567JKhNzPI96U2z1UeTD92CyZBRKok0smYrdLc=",
+                "mac": "fyIenyUrgkpbdtEyQ4eG1w=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/ShieldsOn/3/text": {
+                "ciphertext": "8luFPGFO+ojpPBTx73tjvM3cze3qhtThNt7cy6/ccbI=",
+                "mac": "LK7xajcSckEJqfRe+tz6mw=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/ShowWeakAR/0/text": {
+                "ciphertext": "5xCFlrqzJk05HgXua7EeUA==",
+                "mac": "56LqOxaG9yiDSEWxFuuw9A=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/StartCmd/2/text": {
+                "ciphertext": "PU3vpVc6EDB1Zt34bAL0ZtBsvn5Qk6G2UpMT9treTv9qkt1BTGK9pmgz6nnwSLMUeN8NTyR23P1e9JoOvNACcw==",
+                "mac": "HAbfTD18tEB0K0khfiYpCg=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/actions/summonBots/3/text": {
+                "ciphertext": "No+s8TBMzUiFwXVJA+PKgGt03/VWNZKnyN+TvbQIPmM=",
+                "mac": "nDCmFrctUIy045CjWmYxiQ=="
+        },
+        "enemies/heat/special/baki-cmd_bot.json/meta/species": {
+                "ciphertext": "oxTL/EMYqrPjW4loEDNySTy17RzXC2m1WLoOTHZAdag=",
+                "mac": "BmAHKBZskbK1UJbrqHRHMw=="
+        },
+        "enemies/heat/special/baki-simple_bot.json/meta/species": {
+                "ciphertext": "oLtGSEyFctaUIm8Fnky5Bbgx1OkwesIAB0FaRzZgUNg=",
+                "mac": "GFDoNjK9ysoZiUYTU/aYUQ=="
+        },
+        "enemies/heat/special/baki-turret_1.json/actions/EndFullShield/1/text": {
+                "ciphertext": "7StRt5adp7s/z0f2rUgQLA==",
+                "mac": "8xbb6t8X1noAyCoUXFHz5A=="
+        },
+        "enemies/heat/special/baki-turret_1.json/actions/SingleMortar/4/text": {
+                "ciphertext": "DNt4ryvYMwAqyf5YGr/6sWP9Yf+O+y2WkXTBBctLK7I=",
+                "mac": "Xmz778oLv9+SDXbJmq6Vrw=="
+        },
+        "enemies/heat/special/baki-turret_1.json/actions/StartFullShield/1/text": {
+                "ciphertext": "Id9kV387XtnAxwTNrOnelw==",
+                "mac": "qvIhJwaAsb2o5OKd4404dQ=="
+        },
+        "enemies/heat/special/baki-turret_1.json/meta/species": {
+                "ciphertext": "hDNR59UrOaUjICSbaVxMkYvNLS5N9eWPmH6YDprq+ns=",
+                "mac": "TvnQQxIrHE7E2gVnOvDIvQ=="
+        },
+        "enemies/heat/special/baki-turret_2.json/actions/EndFullShield/1/text": {
+                "ciphertext": "7StRt5adp7s/z0f2rUgQLA==",
+                "mac": "8xbb6t8X1noAyCoUXFHz5A=="
+        },
+        "enemies/heat/special/baki-turret_2.json/actions/SingleMortar/4/text": {
+                "ciphertext": "DNt4ryvYMwAqyf5YGr/6sWP9Yf+O+y2WkXTBBctLK7I=",
+                "mac": "Xmz778oLv9+SDXbJmq6Vrw=="
+        },
+        "enemies/heat/special/baki-turret_2.json/actions/StartFullShield/1/text": {
+                "ciphertext": "Id9kV387XtnAxwTNrOnelw==",
+                "mac": "qvIhJwaAsb2o5OKd4404dQ=="
+        },
+        "enemies/heat/special/baki-turret_2.json/meta/species": {
+                "ciphertext": "hDNR59UrOaUjICSbaVxMkYvNLS5N9eWPmH6YDprq+ns=",
+                "mac": "TvnQQxIrHE7E2gVnOvDIvQ=="
+        },
+        "enemies/heat/special/brew-bubbler.json/actions/BubbleSingle/4/text": {
+                "ciphertext": "tl5SLpDhKf3UMv3pIg74C6YYAzhPdIs/JHup5hdmZ04=",
+                "mac": "NPLKQmvbHBZHbfns/UoDaw=="
+        },
+        "enemies/heat/special/brew-bubbler.json/actions/TurnOn/0/thenStep/0/text": {
+                "ciphertext": "43F4LkcC10BIq70jDb/DnA==",
+                "mac": "RhQFA4DsYqO5gzEhNhWuFQ=="
+        },
+        "enemies/heat/special/brew-bubbler.json/meta/species": {
+                "ciphertext": "zQmJQ2WV5zCVbcinGZiYFw==",
+                "mac": "OlrlTKbiSbLKdyDMiz0TJQ=="
+        },
+        "enemies/heat/special/brew-machine.json/actions/iceDisc-Hit/2/text": {
+                "ciphertext": "UEo0cWMdlXOzmI/Z6/cKPi5x5nz3cGo0xutGFWKdLiQ=",
+                "mac": "aPw11+CjFrTaacWbwpLpBg=="
+        },
+        "enemies/heat/special/brew-machine.json/meta/species": {
+                "ciphertext": "zQmJQ2WV5zCVbcinGZiYFw==",
+                "mac": "OlrlTKbiSbLKdyDMiz0TJQ=="
+        },
+        "enemies/heat/special/drillertoise-quest-heatAdv-1.json/actions/StartHide/7/thenStep/0/text": {
+                "ciphertext": "L06GJEiQ2zNcgfUfzI4Fgw==",
+                "mac": "JrSTQ5USq7emP1MSm/dmfg=="
+        },
+        "enemies/heat/special/drillertoise-quest-heatAdv-1.json/actions/StompHidden/4/text": {
+                "ciphertext": "SAegYmvceUArs12dztcdcdqMoXtO60unBOqHsp9o5kGhB7g8OboyEgeOgqSxc/9e",
+                "mac": "zl19NzFWDkbGbHavVD7Ryw=="
+        },
+        "enemies/heat/special/drillertoise-quest-heatAdv-1.json/meta/species": {
+                "ciphertext": "xPEL5ryToSVZz0SXu0+LjEduMzFpKS3p38xDjaSD9ZI=",
+                "mac": "RGWEE2vuU16dmB/dzm+/QQ=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/Attack_Stab_Triple/7/text": {
+                "ciphertext": "bfBrWw1Uz/nmiX2geezMyQ==",
+                "mac": "PaTeFVqKl/zbNV/MB0Ye8g=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/Blindside/33/hit/0/thenStep/0/text": {
+                "ciphertext": "StjA7BMoarwQsBiD4Mn5nw==",
+                "mac": "7VDHLoinuLl72UlAPgKSZg=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/Blindside/33/missed/0/thenStep/0/text": {
+                "ciphertext": "P1iCkbQSRD6Pj+LJgfm65A==",
+                "mac": "Udk01GssVOE0fnDDEPH/+Q=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/Blindside/4/text": {
+                "ciphertext": "dOOTu0a8uW1kfcsfjMLPCw==",
+                "mac": "wQvEDquRZpl64H+RDpvHPg=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/HealCancel/2/text": {
+                "ciphertext": "SRikQIRQcVkLwkvWUi7YXl57yZ9JXNSkBgIg81WLk/VANLjq4FZCnV5/p1OVv9+F",
+                "mac": "1ryf1oN2bF1VSI30guy9hg=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/HealSandwich/3/thenStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "X+sWm0DmqC7eqoMS3PcIkg==",
+                "mac": "OOPPkxPLW97NRQErgEsX/Q=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/HealSandwich/8/elseStep/0/text": {
+                "ciphertext": "nNuboLazibSYaBY564sbMA==",
+                "mac": "OFv1zG60AwU9K3YZ/ZoRTA=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/HealSandwich/8/thenStep/0/text": {
+                "ciphertext": "CcpAL/eSxHnbD5F8FBqQMBikPiGSV9cECISjuRGhZ5Jign40oOoyx6TqjK8bV2ok",
+                "mac": "FFFVY21cOeTCSsHGATrUWA=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/Init/0/thenStep/0/text": {
+                "ciphertext": "TKSA77YySJB5ipRkC/K9VQ==",
+                "mac": "yuTjEmStQRZYVY36gWa4uQ=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/MakeWay/4/thenStep/0/text": {
+                "ciphertext": "fSXZl6WS6MM4c9C7j2P6eA==",
+                "mac": "57788TisBuoqHyljNf2BHA=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/summonTurrets/10/text": {
+                "ciphertext": "WqzdEyYyjpajVvFd86DqXHt+hC3w5FpZCZbwKvzJi6k=",
+                "mac": "owQY1Kd3Dxvt5SO/uftMzw=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/summonTurrets/3/thenStep/0/thenStep/0/text": {
+                "ciphertext": "X+sWm0DmqC7eqoMS3PcIkg==",
+                "mac": "OOPPkxPLW97NRQErgEsX/Q=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/actions/summonTurrets/5/thenStep/0/text": {
+                "ciphertext": "9kxK1bx1uAOEe4jV+FB2zg==",
+                "mac": "MGOt8WIWXXuwMWJGwEuOgA=="
+        },
+        "enemies/heat/special/guard-hostile-mustache.json/meta/species": {
+                "ciphertext": "edUc9g6XPxG+mc1LelQpsQ==",
+                "mac": "n4DVLoPVg82md9ygqrAyxA=="
+        },
+        "enemies/heat/special/kamikatze-helper.json/actions/Activate/1/text": {
+                "ciphertext": "OHltQ2guTWG4Hoz/35VPtinBJKbghtc3hBJ7e7t9FtM=",
+                "mac": "S/HWZSqHX49d9WSVMOMo3g=="
+        },
+        "enemies/heat/special/kamikatze-helper.json/actions/MakeWay/8/thenStep/0/text": {
+                "ciphertext": "UpDsqCkRsmTH+n0KUyBArTqz12nvFdt6Kc1NLA/48Lw=",
+                "mac": "ZtLefbjBAWvd4TC7XY2beg=="
+        },
+        "enemies/heat/special/kamikatze-helper.json/actions/PlayerFocusFace/1/thenStep/0/text": {
+                "ciphertext": "qB/DxBmKMuOZJwuplaTOcibhiVFbFIA3YuCQB5l+zvw=",
+                "mac": "vx0kjnrJ3ceUuISxDXByTw=="
+        },
+        "enemies/heat/special/kamikatze-helper.json/actions/ShootBomb/19/text": {
+                "ciphertext": "BbViq6rnhis8lXCtdbGdYFp1oCNK3uu/oeVWfNe1vO4=",
+                "mac": "EvTXPZ0fWvXGapN1sivpag=="
+        },
+        "enemies/heat/special/kamikatze-helper.json/actions/sceneReset/4/thenStep/0/text": {
+                "ciphertext": "dLj60TIYdWXq49M3QyqHNg==",
+                "mac": "YZDm0QjJocNSXIZA6TXPww=="
+        },
+        "enemies/heat/special/kamikatze-helper.json/meta/species": {
+                "ciphertext": "Hf5TVf/MV7Ll1ljm/VCwKA==",
+                "mac": "g/1Fw/jrB2c/4uksUzDCvQ=="
+        },
+        "enemies/heat/special/sand-moth-1.json/meta/species": {
+                "ciphertext": "0zSIpbQs2htV7vLp1mdlDnEEK0FrCTlJRIB/avCW0FU=",
+                "mac": "M/TJUK+7rhFyUMCDEFDraQ=="
+        },
+        "enemies/heat/special/sand-moth-1.json/proxies/laserHoming/action/10/elseStep/0/elseStep/2/thenStep/0/text": {
+                "ciphertext": "r5V0F+5YDsKFGwg7QAShvQ==",
+                "mac": "BAmh6zpfhVuQfUM487l1Dw=="
+        },
+        "enemies/heat/special/sand-moth-1.json/proxies/laserHoming/action/10/elseStep/0/thenStep/2/thenStep/0/text": {
+                "ciphertext": "k6M8nUV4tGsDkua78HeJuA==",
+                "mac": "qxpjACltQRA8bFfhvmBwBQ=="
+        },
+        "enemies/heat/special/sand-moth-1.json/proxies/laserHoming/action/10/thenStep/2/thenStep/0/text": {
+                "ciphertext": "t1Ga0FnXyiTjKDuhoR9olw==",
+                "mac": "qDRWO9HT0RhIt84E+ajbfg=="
+        },
+        "enemies/heat/special/sandman-1.json/meta/species": {
+                "ciphertext": "EU4k7Zva/n002RcUiZnefTREyP6pbfYael8rTfhHuus=",
+                "mac": "tqvycJAW+jaKyJ4mtcX7vA=="
+        },
+        "enemies/heat/special/volturbine-cave.json/actions/AirSurfaceShot/7/text": {
+                "ciphertext": "6uESp5B/W9sUQNHiqtOQF6mJCuyZfs7/LUvy4wvFOqw=",
+                "mac": "xmBkMAg77lsl0HZ4KFk4jg=="
+        },
+        "enemies/heat/special/volturbine-cave.json/actions/flameRegen/2/thenStep/0/text": {
+                "ciphertext": "1dHBZEerjELQQYjCW5b1Tg==",
+                "mac": "mA0H1b0y11bYKpR3nJxd6A=="
+        },
+        "enemies/heat/special/volturbine-cave.json/actions/moveFlame/1/thenStep/0/text": {
+                "ciphertext": "TlARF+wrduYj5pAJ0fE7KQ==",
+                "mac": "pztNE4KEs3WoBatmQohGQg=="
+        },
+        "enemies/heat/special/volturbine-cave.json/actions/moveFlame/7/thenStep/2/text": {
+                "ciphertext": "C0kTwEzQGifIIvCPyBFYmDVlsQWV/iXM7y7ELEFQe3s=",
+                "mac": "wMR6IK/9EyruomtbnSW01w=="
+        },
+        "enemies/heat/special/volturbine-cave.json/meta/species": {
+                "ciphertext": "EoYRwbdcDPAb7YM/7/0f4EuZfX3Isy+qFxhdE1yG1BY=",
+                "mac": "0Z1QlEwwmrVrdg25Q/2/ww=="
+        },
+        "enemies/heat/volturbine.json/meta/species": {
+                "ciphertext": "EoYRwbdcDPAb7YM/7/0f4EuZfX3Isy+qFxhdE1yG1BY=",
+                "mac": "0Z1QlEwwmrVrdg25Q/2/ww=="
+        },
+        "enemies/hedgehog-alt.json/actions/Quest-LickTree/5/text": {
+                "ciphertext": "5lnnDl3x2J+q7C3FKqG+JJtkwmVaZMg68edfvT/oEhw=",
+                "mac": "WDiHxcn5lB0O6WtKnqyaoQ=="
+        },
+        "enemies/hedgehog-alt.json/actions/Quest-MoveToTree/2/text": {
+                "ciphertext": "m4ocF3uBEHrH8V6Yv/Y4B4TEA+/iDjwOCDCjWbl+RFQ=",
+                "mac": "T84o9BAKWg34gv9cqXzHzw=="
+        },
+        "enemies/hedgehog-alt.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/hedgehog-boss.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/hedgehog-dodge.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/hedgehog.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/jungle/algorithm.json/actions/StartRegen/3/text": {
+                "ciphertext": "4Y2xLoptxaJnyFykK8mLcg==",
+                "mac": "TLZ+37x75QNcTN3O3sWN7Q=="
+        },
+        "enemies/jungle/algorithm.json/meta/species": {
+                "ciphertext": "g/ssYOtPTAMY503CscPeguFvNiIt33V9H+xoHi5Eblc=",
+                "mac": "S8TypA5z2hW1hBMbCBLqXA=="
+        },
+        "enemies/jungle/algorithm.json/proxies/healing/action/3/thenStep/0/text": {
+                "ciphertext": "BcfwDxHmK686cnu6uJIBqA==",
+                "mac": "wYA60o0MGipJuJ3Ifcd2Lg=="
+        },
+        "enemies/jungle/algorithm.json/proxies/healing/action/3/thenStep/2/thenStep/0/text": {
+                "ciphertext": "tSPQdu16aciOGcujyJqihenHyG4/4f9YbWBNzNRxhI0=",
+                "mac": "Q6qxyqfPdo4e58jJ5tfQzA=="
+        },
+        "enemies/jungle/ape-boss.json/actions/WhaleStablize/8/text": {
+                "ciphertext": "DviynbfAhfuH/x1KuUddcQ==",
+                "mac": "aUlbhWwWpRIVJI5u0ff3QQ=="
+        },
+        "enemies/jungle/ape-boss.json/bossLabel": {
+                "ciphertext": "vgmeDBBMhMq7oUhoNdTzsA==",
+                "mac": "tEhgfJzm/gm28fFP/v1bjg=="
+        },
+        "enemies/jungle/ape-boss.json/meta/species": {
+                "ciphertext": "pqVmUBRVBwGMiPKGasd2Ww==",
+                "mac": "BczCRffIaZKpnIK7DjQdiA=="
+        },
+        "enemies/jungle/blob-wave.json/meta/species": {
+                "ciphertext": "LOpUjh8xEi+L0+cvLSbEWS11jk/gEr7yOvkWb8RGBPI=",
+                "mac": "Y6/rczImEoQqZEsSpgLkuQ=="
+        },
+        "enemies/jungle/blob.json/actions/QuestEscort-ReTarget-UNUSED/1/thenStep/0/text": {
+                "ciphertext": "mLprRxoYbp59iGGG1LJuaA==",
+                "mac": "ZnXXRx0IZL3w8DCYNMY+Tw=="
+        },
+        "enemies/jungle/blob.json/actions/QuestEscort-TargetEscortee/11/text": {
+                "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
+                "mac": "PLGpE70TOuqm46qCCMwCng=="
+        },
+        "enemies/jungle/blob.json/meta/species": {
+                "ciphertext": "wxlzs2cJLfG4v7pceUXvZwmyvgWg4bBck17m+UCIMYc=",
+                "mac": "sxAcr4dyDY5XLDPofxkAEA=="
+        },
+        "enemies/jungle/blueray.json/meta/species": {
+                "ciphertext": "Tn3cN+G39k3GWwqmRjvy87Crp1kLu25p5jqchDuPvhA=",
+                "mac": "sgJefpyZMpfBieUGL+iD3w=="
+        },
+        "enemies/jungle/chicken.json/meta/species": {
+                "ciphertext": "IxYin5+4LJCDNDP76J4mLZ+aGOJ/gdiaHQ8u0bUue3k=",
+                "mac": "yOfiQxOxh95GujEs+gokag=="
+        },
+        "enemies/jungle/fish.json/actions/QuestEscort-TargetEscortee/12/text": {
+                "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
+                "mac": "PLGpE70TOuqm46qCCMwCng=="
+        },
+        "enemies/jungle/fish.json/meta/species": {
+                "ciphertext": "0RJnAbPnL8Xi344Ibe+SO59zvy3lw+CQaStFAq4zZlo=",
+                "mac": "16peE3Opt/pHXHiM9o6jXg=="
+        },
+        "enemies/jungle/ghost.json/meta/species": {
+                "ciphertext": "cSBub6IRFlkwg8SPBYt3ZhDx2fRkAILKWyTRyHvACDw=",
+                "mac": "rG/Z7BxOuHt94ReVgvFoYg==",
+                "ciphernote": "XeRAOhTFok6iPSlCCe4nP6goYF3ZNrla3B5hlRy2YwM="
+        },
+        "enemies/jungle/heatbug.json/meta/species": {
+                "ciphertext": "okEOuUIQGMpgWKN2wuqc+w==",
+                "mac": "HNm6FdgJ4UV+TElpPUJXAw==",
+                "quality": "incomplete",
+                "ciphernote": "nXpJkuV2soIBM4RGHFki4pYhFauR1tQsiu9pwEfDEd8="
+        },
+        "enemies/jungle/octopus.json/meta/species": {
+                "ciphertext": "g09dAeeTigPs753LN25x2Q==",
+                "mac": "xeRfnOGukWQw8s8Jny7riw=="
+        },
+        "enemies/jungle/parrot.json/meta/species": {
+                "ciphertext": "4cHjv60ee3py/41nolo9VHl2aeH7Tow1aoWkDSjXq+s=",
+                "mac": "8mCL7J1KAKZwPBIH7nT2yg=="
+        },
+        "enemies/jungle/plant.json/meta/species": {
+                "ciphertext": "pydDJwdO2D6+WcajVU9EgZ83bqB+NpliAZMRZikUhRM=",
+                "mac": "SX8PIATOMImmHEcfD+I2Ww=="
+        },
+        "enemies/jungle/powerplant.json/meta/species": {
+                "ciphertext": "8zYJ/LhwXqOk2KUw5RcrBtDmF9+rlXKJer/XVj0lonr/qCnmUJV1vGROWDogBiAw",
+                "mac": "Y1yPpkciehXifB2PirNuuQ=="
+        },
+        "enemies/jungle/pumpkin.json/meta/species": {
+                "ciphertext": "sTGLNcrLSXk74D74jxEl7v1CIqBPd28YQw4zXYhlhRc=",
+                "mac": "9bFEthToSSzarINRW6r1bQ==",
+                "ciphernote": "agleWld8fRWOfcmugyZoCsshYSsUsdNwUbLsiEgpZoucnFwscfmeKcgA1l2IFFcA"
+        },
+        "enemies/jungle/shockboss.json/meta/species": {
+                "ciphertext": "cSBub6IRFlkwg8SPBYt3ZhDx2fRkAILKWyTRyHvACDw=",
+                "mac": "rG/Z7BxOuHt94ReVgvFoYg=="
+        },
+        "enemies/jungle/shockcat.json/actions/AdjustSnowman/2/thenStep/0/text": {
+                "ciphertext": "NmDpER/edu9jFkpmc8Q7CFTh6NwVpw75+W5PeFlITNs=",
+                "mac": "/gP1GqV2XmCNlb7rdUgvcQ=="
+        },
+        "enemies/jungle/shockcat.json/actions/AirconHit/6/thenStep/0/text": {
+                "ciphertext": "ANJ2EqB7e4SUMf/taekhOA==",
+                "mac": "V5GGie7eG6vG4PhqrPdVuA=="
+        },
+        "enemies/jungle/shockcat.json/actions/AirconHitWeak/2/thenStep/0/text": {
+                "ciphertext": "ANJ2EqB7e4SUMf/taekhOA==",
+                "mac": "V5GGie7eG6vG4PhqrPdVuA=="
+        },
+        "enemies/jungle/shockcat.json/actions/AttackSnowman/5/thenStep/0/text": {
+                "ciphertext": "yg1sVxYxZRpyhqPqz8ToSWE4svspYzdelgfkvr3WAyQ=",
+                "mac": "E8h2z8sABFdfpJOPNVvl6w=="
+        },
+        "enemies/jungle/shockcat.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/jungle/sloth.json/meta/species": {
+                "ciphertext": "jCl/X5nmQe01m1zKqBo6KA==",
+                "mac": "sxEkfKQti2AUXSQczMxOWg=="
+        },
+        "enemies/jungle/special/aircon.json/actions/ColdWave/1/text": {
+                "ciphertext": "Gq3bdsWPv0nY2QDiGaeNJE2RV7LTH5Vp/nw/rDFN7kA=",
+                "mac": "uqXSOLfClF0I+EHfozCrxg=="
+        },
+        "enemies/jungle/special/aircon.json/actions/coldHitActivate/10/text": {
+                "ciphertext": "1eKwp7BdeYaRzC0/D4ihQw==",
+                "mac": "lSST3XN7ez6Fe/hNw/vQWg=="
+        },
+        "enemies/jungle/special/aircon.json/actions/heatHitDeactivate/10/text": {
+                "ciphertext": "Rb4GtGxCtmy/e6v/Wfb6oG81zzxRGAxRJFKYGFAPpW0=",
+                "mac": "mKmFTZTfqrYEjwTke9HFUQ=="
+        },
+        "enemies/jungle/special/aircon.json/meta/species": {
+                "ciphertext": "zQmJQ2WV5zCVbcinGZiYFw==",
+                "mac": "OlrlTKbiSbLKdyDMiz0TJQ=="
+        },
+        "enemies/jungle/special/guard.json/meta/species": {
+                "ciphertext": "zCXJvEvLcts+C4/CtbgRiq4Ve7+HxEJyjNkjU8BQPkg=",
+                "mac": "/UZV1Pf/irUzPwbz4maFqw=="
+        },
+        "enemies/jungle/special/heater.json/actions/Freezing/4/thenStep/0/text": {
+                "ciphertext": "kCtFKPX+8IHZiP1QvJpkUw==",
+                "mac": "YIOjArV23dhDsEApvoQCQA=="
+        },
+        "enemies/jungle/special/heater.json/actions/cooldownStart/1/text": {
+                "ciphertext": "sLl53m77ILWhUimMtBKRyw==",
+                "mac": "QPdYI7MyN9Rble/a0+qDQA=="
+        },
+        "enemies/jungle/special/heater.json/actions/reactivate/1/text": {
+                "ciphertext": "8ZUCltb5nSERVf9KV71q3w==",
+                "mac": "4UN7XswCVeQokh6pMCQ12Q=="
+        },
+        "enemies/jungle/special/heater.json/actions/waveHitTeleport/9/text": {
+                "ciphertext": "GBA6JUYg8cqF29NZWF88xf27m1C3pebRmcm9S2/aGtM=",
+                "mac": "4VEGuEt1VIm1VWJvmtSBqw=="
+        },
+        "enemies/jungle/special/heater.json/meta/species": {
+                "ciphertext": "zQmJQ2WV5zCVbcinGZiYFw==",
+                "mac": "OlrlTKbiSbLKdyDMiz0TJQ=="
+        },
+        "enemies/jungle/special/hostage-1.json/actions/HostageFree/4/text": {
+                "ciphertext": "KOVB7FoFmaITO+VDoxsHEw==",
+                "mac": "bA9Hymw4kIDUPvtXduRnlA=="
+        },
+        "enemies/jungle/special/hostage-1.json/actions/HostageHit/4/text": {
+                "ciphertext": "Jf7TmmsqRzVKtWyY8Mr3S6NlakC+aOGFvFS4B4edQY0=",
+                "mac": "M3eqvs9JXsQwjZTmfClMhA=="
+        },
+        "enemies/jungle/special/hostage-1.json/meta/species": {
+                "ciphertext": "k6pPB4aaNrBkl2zG98GPiA==",
+                "mac": "J+/bnrF1LL6aRPK+OLpFJw=="
+        },
+        "enemies/jungle/special/iceWall.json/meta/species": {
+                "ciphertext": "nOND0pxIBDmxoyv933lzC9eO5PvuX127JhR6UteEKT8=",
+                "mac": "PcP/zcnGAd8zdMtUr3i7Sw=="
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/1/text": {
+                "ciphertext": "Bi4Fk06SlX3GEmA2lD0THzknvTbhNKDGN35aLAWK44Q=",
+                "mac": "CjTM82g573FrwKzcvw2l4Q=="
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/1/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortInspect/0/thenStep/0/text": {
+                "ciphertext": "lorcLRhNMfX8j0zXjM/2nA==",
+                "mac": "UD0cRK2d4ETyxo5hMRA7SA=="
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortMovePoint/0/thenStep/0/text": {
+                "ciphertext": "YZpS9EfCQNPaw0xHNymTyQ==",
+                "mac": "PAOLOLC2eXjqLuVX0sgs3g=="
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/meta/species": {
+                "ciphertext": "g+6tnFBmyVES9HDPUoIRXQ==",
+                "mac": "VvJKCTxTZiu8EoM2bvXxNg=="
+        },
+        "enemies/jungle/special/parrot-gangster-1.json/actions/GangsterReactCharged/7/text": {
+                "ciphertext": "1l83IVpxdmxlq8V5BBoMRt2wEEc4N0r0AiCDS4JlFLE=",
+                "mac": "rtWl4ZpFczNUmmAALwQRpg=="
+        },
+        "enemies/jungle/special/parrot-gangster-1.json/actions/GangsterShootCover/15/text": {
+                "ciphertext": "+mnqrL9Hm/CQSr56qyWdxA==",
+                "mac": "4ZDyyDEt6sa/d8R+iHM3qA=="
+        },
+        "enemies/jungle/special/parrot-gangster-1.json/actions/GangsterShootHostage/0/text": {
+                "ciphertext": "zyG5B6i/cc7yfp9DjMvOTrAay0hEGYX6w7ivzqI8ark=",
+                "mac": "GihCBnFr/fuXzaINr/8LCQ=="
+        },
+        "enemies/jungle/special/parrot-gangster-1.json/actions/GangsterWarning/1/text": {
+                "ciphertext": "xgVx4oi560FpVWwLy+8achQiizmUipUcgSplR4PTOoSwMUHo7zwvx7pXZTn42zNK",
+                "mac": "XgnUR3FK2EtHxL1lO7IbAQ=="
+        },
+        "enemies/jungle/special/parrot-gangster-1.json/actions/OLD_GangsterReactCharged/6/text": {
+                "ciphertext": "bI6fKXCvBsbeirl8CGyswvGTP8U1csw0sxV66QKBpGSD8BE5eECKSPnUJKHHcIb6",
+                "mac": "KwVizR+AcehfA/ZJk4Eo6g=="
+        },
+        "enemies/jungle/special/parrot-gangster-1.json/meta/species": {
+                "ciphertext": "kWLFOaJ22Y5bCN0PHok0tDyzvuGLd/IT48sf3WEo+Xc=",
+                "mac": "Rqz4/+rDvr00DKQ4zpaZlQ=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/GangsterReactCharged/7/text": {
+                "ciphertext": "1l83IVpxdmxlq8V5BBoMRt2wEEc4N0r0AiCDS4JlFLE=",
+                "mac": "rtWl4ZpFczNUmmAALwQRpg=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/GangsterRetreat/2/text": {
+                "ciphertext": "KHzmjTRz9hbS0I0uNGdMnw==",
+                "mac": "hF7YDnJrhiubjTlA9y/6Nw=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/GangsterShootCover/15/text": {
+                "ciphertext": "+mnqrL9Hm/CQSr56qyWdxA==",
+                "mac": "4ZDyyDEt6sa/d8R+iHM3qA=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/GangsterShootHostage/0/text": {
+                "ciphertext": "zyG5B6i/cc7yfp9DjMvOTrAay0hEGYX6w7ivzqI8ark=",
+                "mac": "GihCBnFr/fuXzaINr/8LCQ=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/GangsterWarning/1/text": {
+                "ciphertext": "xgVx4oi560FpVWwLy+8achQiizmUipUcgSplR4PTOoSwMUHo7zwvx7pXZTn42zNK",
+                "mac": "XgnUR3FK2EtHxL1lO7IbAQ=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/Init/0/thenStep/0/text": {
+                "ciphertext": "1zl2rrVX1qUQ85ZlfJBtog==",
+                "mac": "h4+dbOswklwddphsA0Lzhg=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/actions/OLD_GangsterReactCharged/6/text": {
+                "ciphertext": "bI6fKXCvBsbeirl8CGyswvGTP8U1csw0sxV66QKBpGSD8BE5eECKSPnUJKHHcIb6",
+                "mac": "KwVizR+AcehfA/ZJk4Eo6g=="
+        },
+        "enemies/jungle/special/parrot-gangster-2.json/meta/species": {
+                "ciphertext": "kWLFOaJ22Y5bCN0PHok0tDyzvuGLd/IT48sf3WEo+Xc=",
+                "mac": "Rqz4/+rDvr00DKQ4zpaZlQ=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/EndFullShield/9/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/ShockRecharge/0/text": {
+                "ciphertext": "M6yd11BnEeq+34a7Sh8vsQWoI2zlCGlR2IGDdRxMN/s=",
+                "mac": "xr/Me5h1y5D0db/R+tjTXg=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/StartFullShield/0/text": {
+                "ciphertext": "M6yd11BnEeq+34a7Sh8vsQWoI2zlCGlR2IGDdRxMN/s=",
+                "mac": "xr/Me5h1y5D0db/R+tjTXg=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/0/text": {
+                "ciphertext": "k3El83cgEum5K39jUNn0uukveC0MtQMRx54IuSGVJg8=",
+                "mac": "e/Qn3v1eFyllS6o3FWOJnQ=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/1/text": {
+                "ciphertext": "9XTwrGVwnmXOollKTsbt8TzWUu0s/ADu9ELKrSqqJpg=",
+                "mac": "vzIbwSE4BT/Vsz/qxahjpw=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/2/text": {
+                "ciphertext": "MuF+ye7jkWxteYpdaZRBF3X+TDuDrQq9GGO1y1+09uw=",
+                "mac": "aWiDPXdXdRjioZ/8H6Mssg=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/3/text": {
+                "ciphertext": "M6yd11BnEeq+34a7Sh8vsQWoI2zlCGlR2IGDdRxMN/s=",
+                "mac": "xr/Me5h1y5D0db/R+tjTXg=="
+        },
+        "enemies/jungle/special/plant-hidden-shock.json/meta/species": {
+                "ciphertext": "dRdCVe414PvhbPlgNYRu8ioUuiobg1QbvNjhv6cGq30=",
+                "mac": "xWnxu8q+Yk1oFTYsRKYW9w=="
+        },
+        "enemies/jungle/special/powerplant-quest-1.json/actions/CenterSuperJump/5/thenStep/0/text": {
+                "ciphertext": "1AfSLmoQ3Ns3bf/8mSQPvQ==",
+                "mac": "Spb70ZCvv7Rk8CgC1PGv5A=="
+        },
+        "enemies/jungle/special/powerplant-quest-1.json/meta/species": {
+                "ciphertext": "7v5exJIYOxNjExZ8qdUWVHVMwbf72jzbtCT9rJF96fw=",
+                "mac": "uIoDfGtnyXjEeGrNYgpXGg==",
+                "quality": "unknown",
+                "ciphernote": "6/DenINTNdYCnuSqpKgEk/8kTNCCSuRJS+FXe0wJPQI="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/EndFullShield/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/elseStep/1/text": {
+                "ciphertext": "OEITJ5fBj+R3z6F9OBNS8Q==",
+                "mac": "+zQeeU/1JbRmwwwTseuoPw=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
+                "ciphertext": "r2tTXxim0ukRJyj4x8+OcyWfTWX50/2X/Lle9UyUaTc=",
+                "mac": "Pp5MI2MNeD8gCCIPcHuujw=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/thenStep/4/thenStep/0/text": {
+                "ciphertext": "6XtufrijQxA4JujDtHgoW1qW5nvLULT/ad6AilQXskU=",
+                "mac": "Lref0+jqYCAJNM26Uc1pOw=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/Init/3/thenStep/0/text": {
+                "ciphertext": "KEaJh9B9D0vZ3QVSZclQTfVhxZF2yiU9YVVbXfeO4RzV0XhsLqGAHS8H7xGC5kpeaCP8x0fRhvmVKI8CVAv0bGMLv5kepk90AMWnYsYbXmg=",
+                "mac": "vd159T2SKOW1TaL4PaVW9A=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/TDAlert/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "JW4M/Kvxl7o7XrCnJfF21Dvc0O6xu6ZzVgCJCQUpt/Pvw86/cJaIKyJY/17LGCmA",
+                "mac": "rjTFZLPt+XtkwwOgyDI33Q=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/TDAlert/1/thenStep/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "RYQ09AnGEutbf5TfKUXy/EImdRSk6OyZ0gGI+82ijWfnvXIgx6RAnAsT+kPDrYm7",
+                "mac": "2i8G9GkMPjwNCNEZlo+Jcw=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/TDAlert/1/thenStep/2/thenStep/2/thenStep/0/text": {
+                "ciphertext": "8HsBSg6vywnVuee9FNv4ldW6UFUT3cB/KGgWkdJ7JdguK93pfwUHvWuuXjzLkluQ",
+                "mac": "uerjk/+CZ550FKQNLpP8kA=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/TDReachGoal/0/text": {
+                "ciphertext": "pPwjUwGnN8xfYm3YPs3WxyQwXpv0TgfCZthGLw4SwEQ=",
+                "mac": "9wlAPy4cddxPqlLfONtoqg=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/actions/TDWarning/0/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/quest_td_blob_1.json/meta/species": {
+                "ciphertext": "wxlzs2cJLfG4v7pceUXvZwmyvgWg4bBck17m+UCIMYc=",
+                "mac": "sxAcr4dyDY5XLDPofxkAEA=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/EndFullShield/0/thenStep/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/EndFullShieldDizzy/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/2/elseStep/1/text": {
+                "ciphertext": "OEITJ5fBj+R3z6F9OBNS8Q==",
+                "mac": "+zQeeU/1JbRmwwwTseuoPw=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/2/thenStep/3/thenStep/0/text": {
+                "ciphertext": "r2tTXxim0ukRJyj4x8+OcyWfTWX50/2X/Lle9UyUaTc=",
+                "mac": "Pp5MI2MNeD8gCCIPcHuujw=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/2/thenStep/4/thenStep/0/text": {
+                "ciphertext": "6XtufrijQxA4JujDtHgoW1qW5nvLULT/ad6AilQXskU=",
+                "mac": "Lref0+jqYCAJNM26Uc1pOw=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/6/thenStep/0/text": {
+                "ciphertext": "KEaJh9B9D0vZ3QVSZclQTfVhxZF2yiU9YVVbXfeO4RzV0XhsLqGAHS8H7xGC5kpeaCP8x0fRhvmVKI8CVAv0bGMLv5kepk90AMWnYsYbXmg=",
+                "mac": "vd159T2SKOW1TaL4PaVW9A=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/StartFullShield/1/thenStep/0/text": {
+                "ciphertext": "5nxky35y62WhxIzi6N1CDP7auOGxKp5KCOQJoTdUkwY=",
+                "mac": "KjeAuPhNjKeH7pQO0ufFjg=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDAlert/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "JW4M/Kvxl7o7XrCnJfF21Dvc0O6xu6ZzVgCJCQUpt/Pvw86/cJaIKyJY/17LGCmA",
+                "mac": "rjTFZLPt+XtkwwOgyDI33Q=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDAlert/1/thenStep/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "RYQ09AnGEutbf5TfKUXy/EImdRSk6OyZ0gGI+82ijWfnvXIgx6RAnAsT+kPDrYm7",
+                "mac": "2i8G9GkMPjwNCNEZlo+Jcw=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDAlert/1/thenStep/2/thenStep/2/thenStep/0/text": {
+                "ciphertext": "8HsBSg6vywnVuee9FNv4ldW6UFUT3cB/KGgWkdJ7JdguK93pfwUHvWuuXjzLkluQ",
+                "mac": "uerjk/+CZ550FKQNLpP8kA=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDDash/4/thenStep/0/text": {
+                "ciphertext": "tEZKoijmuQsvGUn/FbOokg==",
+                "mac": "TlU1JKvfoLiYhBwLwYAg1w=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDDash/9/thenStep/33/thenStep/3/text": {
+                "ciphertext": "V4VDZ6aTemI3VOGdTgdpfACi1gkaLK07rXzl7YICsAM=",
+                "mac": "r4OVOpO3FPRN7ZSv4bdgGg=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDReachGoal/0/text": {
+                "ciphertext": "pPwjUwGnN8xfYm3YPs3WxyQwXpv0TgfCZthGLw4SwEQ=",
+                "mac": "9wlAPy4cddxPqlLfONtoqg=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDStun/15/text": {
+                "ciphertext": "5xmk50IoyUCwVAxT7+HM0Uus30R6t0WWUJF/R4udAj0=",
+                "mac": "UD+bk6VdgvnciQFeYsJ6Qw=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TDWarning/0/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/actions/TEST/0/text": {
+                "ciphertext": "gu0EfaIFWPxV77hIeTNRIg==",
+                "mac": "jsp1cLF5E0YI1jucKfgowQ=="
+        },
+        "enemies/jungle/special/quest_td_buffel_1.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/EndFullShield/0/thenStep/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/Init/0/elseStep/1/text": {
+                "ciphertext": "OEITJ5fBj+R3z6F9OBNS8Q==",
+                "mac": "+zQeeU/1JbRmwwwTseuoPw=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
+                "ciphertext": "r2tTXxim0ukRJyj4x8+OcyWfTWX50/2X/Lle9UyUaTc=",
+                "mac": "Pp5MI2MNeD8gCCIPcHuujw=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/Init/0/thenStep/4/thenStep/0/text": {
+                "ciphertext": "6XtufrijQxA4JujDtHgoW1qW5nvLULT/ad6AilQXskU=",
+                "mac": "Lref0+jqYCAJNM26Uc1pOw=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/Init/3/thenStep/0/text": {
+                "ciphertext": "KEaJh9B9D0vZ3QVSZclQTfVhxZF2yiU9YVVbXfeO4RzV0XhsLqGAHS8H7xGC5kpeaCP8x0fRhvmVKI8CVAv0bGMLv5kepk90AMWnYsYbXmg=",
+                "mac": "vd159T2SKOW1TaL4PaVW9A=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/TDAlert/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "JW4M/Kvxl7o7XrCnJfF21Dvc0O6xu6ZzVgCJCQUpt/Pvw86/cJaIKyJY/17LGCmA",
+                "mac": "rjTFZLPt+XtkwwOgyDI33Q=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/TDAlert/1/thenStep/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "RYQ09AnGEutbf5TfKUXy/EImdRSk6OyZ0gGI+82ijWfnvXIgx6RAnAsT+kPDrYm7",
+                "mac": "2i8G9GkMPjwNCNEZlo+Jcw=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/TDAlert/1/thenStep/2/thenStep/2/thenStep/0/text": {
+                "ciphertext": "8HsBSg6vywnVuee9FNv4ldW6UFUT3cB/KGgWkdJ7JdguK93pfwUHvWuuXjzLkluQ",
+                "mac": "uerjk/+CZ550FKQNLpP8kA=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/TDReachGoal/0/text": {
+                "ciphertext": "pPwjUwGnN8xfYm3YPs3WxyQwXpv0TgfCZthGLw4SwEQ=",
+                "mac": "9wlAPy4cddxPqlLfONtoqg=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/TDShootStrafe/20/thenStep/1/text": {
+                "ciphertext": "V4VDZ6aTemI3VOGdTgdpfACi1gkaLK07rXzl7YICsAM=",
+                "mac": "r4OVOpO3FPRN7ZSv4bdgGg=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/actions/TDWarning/0/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/quest_td_fish_1.json/meta/species": {
+                "ciphertext": "0RJnAbPnL8Xi344Ibe+SO59zvy3lw+CQaStFAq4zZlo=",
+                "mac": "16peE3Opt/pHXHiM9o6jXg=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/EndFullShield/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/Init/0/elseStep/1/text": {
+                "ciphertext": "OEITJ5fBj+R3z6F9OBNS8Q==",
+                "mac": "+zQeeU/1JbRmwwwTseuoPw=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
+                "ciphertext": "r2tTXxim0ukRJyj4x8+OcyWfTWX50/2X/Lle9UyUaTc=",
+                "mac": "Pp5MI2MNeD8gCCIPcHuujw=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/Init/0/thenStep/4/thenStep/0/text": {
+                "ciphertext": "6XtufrijQxA4JujDtHgoW1qW5nvLULT/ad6AilQXskU=",
+                "mac": "Lref0+jqYCAJNM26Uc1pOw=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/Init/4/thenStep/0/text": {
+                "ciphertext": "KEaJh9B9D0vZ3QVSZclQTfVhxZF2yiU9YVVbXfeO4RzV0XhsLqGAHS8H7xGC5kpeaCP8x0fRhvmVKI8CVAv0bGMLv5kepk90AMWnYsYbXmg=",
+                "mac": "vd159T2SKOW1TaL4PaVW9A=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/TDAlert/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "JW4M/Kvxl7o7XrCnJfF21Dvc0O6xu6ZzVgCJCQUpt/Pvw86/cJaIKyJY/17LGCmA",
+                "mac": "rjTFZLPt+XtkwwOgyDI33Q=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/TDAlert/1/thenStep/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "RYQ09AnGEutbf5TfKUXy/EImdRSk6OyZ0gGI+82ijWfnvXIgx6RAnAsT+kPDrYm7",
+                "mac": "2i8G9GkMPjwNCNEZlo+Jcw=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/TDAlert/1/thenStep/2/thenStep/2/thenStep/0/text": {
+                "ciphertext": "8HsBSg6vywnVuee9FNv4ldW6UFUT3cB/KGgWkdJ7JdguK93pfwUHvWuuXjzLkluQ",
+                "mac": "uerjk/+CZ550FKQNLpP8kA=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/TDEvade/12/thenStep/4/text": {
+                "ciphertext": "V4VDZ6aTemI3VOGdTgdpfACi1gkaLK07rXzl7YICsAM=",
+                "mac": "r4OVOpO3FPRN7ZSv4bdgGg=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/TDReachGoal/0/text": {
+                "ciphertext": "pPwjUwGnN8xfYm3YPs3WxyQwXpv0TgfCZthGLw4SwEQ=",
+                "mac": "9wlAPy4cddxPqlLfONtoqg=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/actions/TDWarning/0/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/quest_td_plant_1.json/meta/species": {
+                "ciphertext": "pydDJwdO2D6+WcajVU9EgZ83bqB+NpliAZMRZikUhRM=",
+                "mac": "SX8PIATOMImmHEcfD+I2Ww=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/EndFullShield/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/EndFullShieldDizzy/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/2/elseStep/1/text": {
+                "ciphertext": "OEITJ5fBj+R3z6F9OBNS8Q==",
+                "mac": "+zQeeU/1JbRmwwwTseuoPw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/2/thenStep/3/thenStep/0/text": {
+                "ciphertext": "r2tTXxim0ukRJyj4x8+OcyWfTWX50/2X/Lle9UyUaTc=",
+                "mac": "Pp5MI2MNeD8gCCIPcHuujw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/2/thenStep/4/thenStep/0/text": {
+                "ciphertext": "6XtufrijQxA4JujDtHgoW1qW5nvLULT/ad6AilQXskU=",
+                "mac": "Lref0+jqYCAJNM26Uc1pOw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/6/thenStep/0/text": {
+                "ciphertext": "KEaJh9B9D0vZ3QVSZclQTfVhxZF2yiU9YVVbXfeO4RzV0XhsLqGAHS8H7xGC5kpeaCP8x0fRhvmVKI8CVAv0bGMLv5kepk90AMWnYsYbXmg=",
+                "mac": "vd159T2SKOW1TaL4PaVW9A=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/TDAlert/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "JW4M/Kvxl7o7XrCnJfF21Dvc0O6xu6ZzVgCJCQUpt/Pvw86/cJaIKyJY/17LGCmA",
+                "mac": "rjTFZLPt+XtkwwOgyDI33Q=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/TDAlert/1/thenStep/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "RYQ09AnGEutbf5TfKUXy/EImdRSk6OyZ0gGI+82ijWfnvXIgx6RAnAsT+kPDrYm7",
+                "mac": "2i8G9GkMPjwNCNEZlo+Jcw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/TDAlert/1/thenStep/2/thenStep/2/thenStep/0/text": {
+                "ciphertext": "8HsBSg6vywnVuee9FNv4ldW6UFUT3cB/KGgWkdJ7JdguK93pfwUHvWuuXjzLkluQ",
+                "mac": "uerjk/+CZ550FKQNLpP8kA=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/TDEvade/19/thenStep/4/text": {
+                "ciphertext": "V4VDZ6aTemI3VOGdTgdpfACi1gkaLK07rXzl7YICsAM=",
+                "mac": "r4OVOpO3FPRN7ZSv4bdgGg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/TDReachGoal/0/text": {
+                "ciphertext": "pPwjUwGnN8xfYm3YPs3WxyQwXpv0TgfCZthGLw4SwEQ=",
+                "mac": "9wlAPy4cddxPqlLfONtoqg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/actions/TDWarning/0/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_1.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/EndFullShield/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/EndFullShieldDizzy/1/text": {
+                "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
+                "mac": "Y3G5iUjM19niaOy3EaC8Mg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/2/elseStep/1/text": {
+                "ciphertext": "OEITJ5fBj+R3z6F9OBNS8Q==",
+                "mac": "+zQeeU/1JbRmwwwTseuoPw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/2/thenStep/3/thenStep/0/text": {
+                "ciphertext": "r2tTXxim0ukRJyj4x8+OcyWfTWX50/2X/Lle9UyUaTc=",
+                "mac": "Pp5MI2MNeD8gCCIPcHuujw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/2/thenStep/4/thenStep/0/text": {
+                "ciphertext": "6XtufrijQxA4JujDtHgoW1qW5nvLULT/ad6AilQXskU=",
+                "mac": "Lref0+jqYCAJNM26Uc1pOw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/6/thenStep/0/text": {
+                "ciphertext": "KEaJh9B9D0vZ3QVSZclQTfVhxZF2yiU9YVVbXfeO4RzV0XhsLqGAHS8H7xGC5kpeaCP8x0fRhvmVKI8CVAv0bGMLv5kepk90AMWnYsYbXmg=",
+                "mac": "vd159T2SKOW1TaL4PaVW9A=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/TDAlert/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "JW4M/Kvxl7o7XrCnJfF21Dvc0O6xu6ZzVgCJCQUpt/Pvw86/cJaIKyJY/17LGCmA",
+                "mac": "rjTFZLPt+XtkwwOgyDI33Q=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/TDAlert/1/thenStep/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "RYQ09AnGEutbf5TfKUXy/EImdRSk6OyZ0gGI+82ijWfnvXIgx6RAnAsT+kPDrYm7",
+                "mac": "2i8G9GkMPjwNCNEZlo+Jcw=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/TDAlert/1/thenStep/2/thenStep/2/thenStep/0/text": {
+                "ciphertext": "8HsBSg6vywnVuee9FNv4ldW6UFUT3cB/KGgWkdJ7JdguK93pfwUHvWuuXjzLkluQ",
+                "mac": "uerjk/+CZ550FKQNLpP8kA=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/TDEvade/19/thenStep/4/text": {
+                "ciphertext": "V4VDZ6aTemI3VOGdTgdpfACi1gkaLK07rXzl7YICsAM=",
+                "mac": "r4OVOpO3FPRN7ZSv4bdgGg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/TDReachGoal/0/text": {
+                "ciphertext": "pPwjUwGnN8xfYm3YPs3WxyQwXpv0TgfCZthGLw4SwEQ=",
+                "mac": "9wlAPy4cddxPqlLfONtoqg=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/actions/TDWarning/0/text": {
+                "ciphertext": "NJG6+FVc7zokWha6ZPlCvg==",
+                "mac": "XvCnV6Cv4Mk+qxt6R6yx9w=="
+        },
+        "enemies/jungle/special/quest_td_shockcat_2.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/jungle/special/snowman-jungle-1.json/actions/AdjustEnemy/0/thenStep/0/text": {
+                "ciphertext": "caAIN9EAVeyb2SKYbEECcviuscp8xl/ch8cgt42UJwo=",
+                "mac": "nYj/+RgbSXgs5HInoPIGkQ=="
+        },
+        "enemies/jungle/special/snowman-jungle-1.json/actions/RegenAircon/3/thenStep/1/thenStep/0/text": {
+                "ciphertext": "elXtYndEsESa+G2qWzu1dZGE9ddJjRdfKmrbYvJNQmo=",
+                "mac": "oSDGnOAd/DxkE9dl3160eQ=="
+        },
+        "enemies/jungle/special/snowman-jungle-1.json/actions/ShootAircon/2/thenStep/0/text": {
+                "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
+                "mac": "PLGpE70TOuqm46qCCMwCng=="
+        },
+        "enemies/jungle/special/snowman-jungle-1.json/actions/ShootAircon/4/thenStep/1/thenStep/0/text": {
+                "ciphertext": "AIzYQjecBJxsFEf2Dbv+gw==",
+                "mac": "bKxkpej3b6IQlFGbP+DyYw=="
+        },
+        "enemies/jungle/special/snowman-jungle-1.json/meta/species": {
+                "ciphertext": "LcHInGtllDiywQHd1zgu5hzHMfPXyVkPbT1xiwqz6OY=",
+                "mac": "tVNRk4wSfZJLFeYW4x2b5g=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss-scene.json/actions/AdjustEnemy/0/text": {
+                "ciphertext": "YZD+eG8+2wqZKhZAt2oi7wLNPD7DqsQToBk3g4aLVp4=",
+                "mac": "SlIX7xenxDpw0CD7AZD9+w=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss-scene.json/actions/RegenAircon/3/thenStep/1/thenStep/0/text": {
+                "ciphertext": "elXtYndEsESa+G2qWzu1dZGE9ddJjRdfKmrbYvJNQmo=",
+                "mac": "oSDGnOAd/DxkE9dl3160eQ=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss-scene.json/actions/ShootAircon/2/thenStep/0/text": {
+                "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
+                "mac": "PLGpE70TOuqm46qCCMwCng=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss-scene.json/actions/ShootAircon/4/thenStep/0/text": {
+                "ciphertext": "eIGxUG7GW0Dz6x2+5O8yEw==",
+                "mac": "MULvY6XKOSKn6TjDQgcGGg=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss-scene.json/actions/ShootAircon/4/thenStep/2/thenStep/0/text": {
+                "ciphertext": "AIzYQjecBJxsFEf2Dbv+gw==",
+                "mac": "bKxkpej3b6IQlFGbP+DyYw=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss-scene.json/meta/species": {
+                "ciphertext": "LcHInGtllDiywQHd1zgu5hzHMfPXyVkPbT1xiwqz6OY=",
+                "mac": "tVNRk4wSfZJLFeYW4x2b5g=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss.json/actions/MegaShoot_Aircon/2/thenStep/1/thenStep/0/text": {
+                "ciphertext": "elXtYndEsESa+G2qWzu1dZGE9ddJjRdfKmrbYvJNQmo=",
+                "mac": "oSDGnOAd/DxkE9dl3160eQ=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss.json/actions/ShootAircon/3/thenStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
+                "mac": "PLGpE70TOuqm46qCCMwCng=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss.json/actions/ShootAircon/3/thenStep/1/thenStep/0/text": {
+                "ciphertext": "AIzYQjecBJxsFEf2Dbv+gw==",
+                "mac": "bKxkpej3b6IQlFGbP+DyYw=="
+        },
+        "enemies/jungle/special/snowman-jungle-boss.json/meta/species": {
+                "ciphertext": "LcHInGtllDiywQHd1zgu5hzHMfPXyVkPbT1xiwqz6OY=",
+                "mac": "tVNRk4wSfZJLFeYW4x2b5g=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Activate/1/elseStep/0/text": {
+                "ciphertext": "j8Afs6+JCPg4O+zaaaa6HlH2WJFhd8/xyyQFE3LT3ik=",
+                "mac": "BqU37tohTeuaNNX7OPZrpQ=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/elseStep/1/text": {
+                "ciphertext": "/Le/jefoKlRYwfItdTwmFQOWwbGqDuODpUrzPwZIuzQ=",
+                "mac": "FZ2MDKgZPreAXBjGqVRYhw=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/thenStep/1/text": {
+                "ciphertext": "KhEAW7YplQ3/peETdZTHzQ==",
+                "mac": "LKQtahrOVJtOGp0VI3aOBg=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/thenStep/1/text": {
+                "ciphertext": "xYgpVS/9ZEyY1+iAvVTD2Q==",
+                "mac": "o86zosPlXuJApAcTyYP9Tw=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Activate/1/thenStep/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "RBjD4QMi6YDrRPh4dXIItOwrc1JE8gLUzBo6CBVAfn4=",
+                "mac": "1bsPig4SqwGHTB8VPrgcVA=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Activate/1/thenStep/1/thenStep/1/text": {
+                "ciphertext": "NKuFE9gaQ9tpEHfWPxciQO5hclxx8AVqV5wjgmWaMps=",
+                "mac": "+vPOvfg0WrlIDgEhgFeWWA=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/ActivationWait/8/text": {
+                "ciphertext": "4zyPDoP1gXNM/Pfb74cCLOAI+Px4Au4ET4Bp6++IzpE=",
+                "mac": "3vHB6EoF74jtBk2nN6+dDA=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/AntiTurret/11/text": {
+                "ciphertext": "H15nQWlKO6+idHM/gmnhLDNnFI8NQKgx7yKBTSma5LY=",
+                "mac": "f1B5DIWoSlVt5ndTrB+JyA=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/AntiTurret/7/elseStep/0/elseStep/0/thenStep/0/text": {
+                "ciphertext": "hWn3s5qDtuflayFwdBa0pA==",
+                "mac": "ofzjKj3zQG9oULQDGyNlfg=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/AntiTurret/7/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "Rald7KSdSCsE7CxU/mxQ2A==",
+                "mac": "C5wSqCc2RVdmC0mb60juzw=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/AntiTurret/7/thenStep/0/thenStep/0/text": {
+                "ciphertext": "5oVcmHzYdLSr7D0YlbfjzQ==",
+                "mac": "DTRgJecX+W+owr6oWAsgxQ=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Init/0/thenStep/0/text": {
+                "ciphertext": "5ikN/TcrCfs36+ytzO4cEahnL7ZRO8nw2ObEexPP8J0=",
+                "mac": "82v8NK+cxHks4o1rb08dFw=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/LacksEnergy/1/text": {
+                "ciphertext": "j8Afs6+JCPg4O+zaaaa6HlH2WJFhd8/xyyQFE3LT3ik=",
+                "mac": "BqU37tohTeuaNNX7OPZrpQ=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/ShotCold/1/thenStep/0/text": {
+                "ciphertext": "eLocP+KEFoBc4BbsW1iTTQ==",
+                "mac": "X9/uDlXiYz+8GO4nkn+drw=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/ShotHeat/1/thenStep/0/text": {
+                "ciphertext": "fMb7cNWizryYakIYgFqkeQ==",
+                "mac": "wwX5SXaMTsStXsGi7T9hVg=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/ShotNeutral/1/thenStep/0/text": {
+                "ciphertext": "gOUNmzd2Pbw7ooG5nnOBeg==",
+                "mac": "grJzcP5uz0HZnDpWUhnN9w=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/ShotShock/1/thenStep/0/text": {
+                "ciphertext": "02bmIiFLf7oW8O8q/MfIYw==",
+                "mac": "/MVGzf95S5r56FYBvWRn6A=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/ShotWave/1/thenStep/0/text": {
+                "ciphertext": "hGWb15fLN32yLcyaTFf0ww==",
+                "mac": "G4Gg2Oy2OY4tadQ6TsaC8Q=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/actions/Upgrade/4/thenStep/0/text": {
+                "ciphertext": "RTHARgr6RcRi/h1LgZpgvYTcqm9uak6C68NCkH3V/3tf9XUEdOl0xZCu4BseImuE",
+                "mac": "/Nzcq0nJHzyRSoWsSSxPIQ=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/meta/species": {
+                "ciphertext": "lY+RYuFAsYM7htAjLVPwim+m0Tm+gYH7T3MmoZ1Sgpo=",
+                "mac": "H97UjGSpBKy18pQVTLerow=="
+        },
+        "enemies/jungle/special/turret-defense-1.json/proxies/scalingBuff/action/4/thenStep/0/text": {
+                "ciphertext": "3MbMAvm+MzTsyp9RXXepYqZglZ2/uqS2h5aGw2iW+pL9ZAMm+/MZeCyAwEHFPvtX",
+                "mac": "KNnTk0Qpb+lICKhQ7FA8Cg=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Activate/1/elseStep/0/text": {
+                "ciphertext": "j8Afs6+JCPg4O+zaaaa6HlH2WJFhd8/xyyQFE3LT3ik=",
+                "mac": "BqU37tohTeuaNNX7OPZrpQ=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/elseStep/1/text": {
+                "ciphertext": "/Le/jefoKlRYwfItdTwmFQOWwbGqDuODpUrzPwZIuzQ=",
+                "mac": "FZ2MDKgZPreAXBjGqVRYhw=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/thenStep/1/text": {
+                "ciphertext": "KhEAW7YplQ3/peETdZTHzQ==",
+                "mac": "LKQtahrOVJtOGp0VI3aOBg=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/thenStep/1/text": {
+                "ciphertext": "xYgpVS/9ZEyY1+iAvVTD2Q==",
+                "mac": "o86zosPlXuJApAcTyYP9Tw=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Activate/1/thenStep/1/elseStep/0/thenStep/1/text": {
+                "ciphertext": "RBjD4QMi6YDrRPh4dXIItOwrc1JE8gLUzBo6CBVAfn4=",
+                "mac": "1bsPig4SqwGHTB8VPrgcVA=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Activate/1/thenStep/1/thenStep/1/text": {
+                "ciphertext": "NKuFE9gaQ9tpEHfWPxciQO5hclxx8AVqV5wjgmWaMps=",
+                "mac": "+vPOvfg0WrlIDgEhgFeWWA=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/ActivationWait/8/text": {
+                "ciphertext": "4zyPDoP1gXNM/Pfb74cCLOAI+Px4Au4ET4Bp6++IzpE=",
+                "mac": "3vHB6EoF74jtBk2nN6+dDA=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/AntiTurret/11/text": {
+                "ciphertext": "H15nQWlKO6+idHM/gmnhLDNnFI8NQKgx7yKBTSma5LY=",
+                "mac": "f1B5DIWoSlVt5ndTrB+JyA=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/AntiTurret/7/elseStep/0/elseStep/0/thenStep/0/text": {
+                "ciphertext": "hWn3s5qDtuflayFwdBa0pA==",
+                "mac": "ofzjKj3zQG9oULQDGyNlfg=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/AntiTurret/7/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "Rald7KSdSCsE7CxU/mxQ2A==",
+                "mac": "C5wSqCc2RVdmC0mb60juzw=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/AntiTurret/7/thenStep/0/thenStep/0/text": {
+                "ciphertext": "5oVcmHzYdLSr7D0YlbfjzQ==",
+                "mac": "DTRgJecX+W+owr6oWAsgxQ=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/Init/0/thenStep/0/text": {
+                "ciphertext": "5ikN/TcrCfs36+ytzO4cEahnL7ZRO8nw2ObEexPP8J0=",
+                "mac": "82v8NK+cxHks4o1rb08dFw=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/LacksEnergy/1/text": {
+                "ciphertext": "j8Afs6+JCPg4O+zaaaa6HlH2WJFhd8/xyyQFE3LT3ik=",
+                "mac": "BqU37tohTeuaNNX7OPZrpQ=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/ShotCold/1/thenStep/0/text": {
+                "ciphertext": "eLocP+KEFoBc4BbsW1iTTQ==",
+                "mac": "X9/uDlXiYz+8GO4nkn+drw=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/ShotHeat/1/thenStep/0/text": {
+                "ciphertext": "fMb7cNWizryYakIYgFqkeQ==",
+                "mac": "wwX5SXaMTsStXsGi7T9hVg=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/ShotNeutral/1/thenStep/0/text": {
+                "ciphertext": "gOUNmzd2Pbw7ooG5nnOBeg==",
+                "mac": "grJzcP5uz0HZnDpWUhnN9w=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/ShotShock/1/thenStep/0/text": {
+                "ciphertext": "02bmIiFLf7oW8O8q/MfIYw==",
+                "mac": "/MVGzf95S5r56FYBvWRn6A=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/ShotWave/1/thenStep/0/text": {
+                "ciphertext": "hGWb15fLN32yLcyaTFf0ww==",
+                "mac": "G4Gg2Oy2OY4tadQ6TsaC8Q=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/jungle/special/turret-defense-2.json/meta/species": {
+                "ciphertext": "lY+RYuFAsYM7htAjLVPwim+m0Tm+gYH7T3MmoZ1Sgpo=",
+                "mac": "H97UjGSpBKy18pQVTLerow=="
+        },
+        "enemies/jungle/waveboss.json/meta/species": {
+                "ciphertext": "16md5L0Hbgw+vGAx75eBZA==",
+                "mac": "0fVdQxp1MXzxpwrUfAYJdg=="
+        },
+        "enemies/jungle/whale-boss.json/bossLabel": {
+                "ciphertext": "FxFblzxQ0qi0Q9LdaAy8ew==",
+                "mac": "eNG30VFW0Hl/Y/VLkaoHzw=="
+        },
+        "enemies/jungle/whale-boss.json/meta/species": {
+                "ciphertext": "veSs03nw9kHHRLRrfUpsiiYJrC3Ri/z8SWqWQpK5UzA=",
+                "mac": "R9acFSp3CuCtcNxlAfz7mg=="
+        },
+        "enemies/killer-mouse-bot.json/actions/Attack/5/text": {
+                "ciphertext": "0PhAJcwon1PZiRwiP6q/0Q==",
+                "mac": "ZgqyDnKJOHVpvQZt8chs2Q=="
+        },
+        "enemies/killer-mouse-bot.json/meta/species": {
+                "ciphertext": "e/TXNFoxO93nbvS+AAXrIw==",
+                "mac": "jeXEGSPf6VpPkRwraNyRUw=="
+        },
+        "enemies/legend-frobbit.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/meerkat-alt.json/meta/species": {
+                "ciphertext": "BzPbN+EG9g0UJMXuUKYj0k+6ryqjYOefCO5edyk8LwI=",
+                "mac": "HbBxihHB7n6pgXIOZgEI+Q=="
+        },
+        "enemies/meerkat-special-command-1.json/actions/Reinforcements/12/thenStep/1/text": {
+                "ciphertext": "tl8SDOR0++pe6rb+mW/Y8/JXKXvbrv5MC7KKK8CGN55qT5yD9DHlNNQ+ogoHhiLcADOddBKq36GrqhIUzqWe3A==",
+                "mac": "9QkNeB+f8QmvLD3iw+dlMg==",
+                "ciphernote": "J2lzoHMdFjZ+x+L6AfQhWLPIq9TijLsmPzAaSevF8ckXlVDb/S3mMEJbGDr8Kqx9"
+        },
+        "enemies/meerkat-special-command-1.json/actions/Reinforcements/6/text": {
+                "ciphertext": "+da/9UizTH6qKpVgSszPHvoQK8AuNGjpx5UZcccNHlM=",
+                "mac": "B6VIjGmzoOr6W7fuk5BmQQ=="
+        },
+        "enemies/meerkat-special-command-1.json/meta/species": {
+                "ciphertext": "s+jwjPd+Pb+GWbBskc4BNsdagY5aPYxAPHY89RsPFtI=",
+                "mac": "28OLFl17xsfK0XCTs2ENow=="
+        },
+        "enemies/meerkat.json/meta/species": {
+                "ciphertext": "BzPbN+EG9g0UJMXuUKYj0k+6ryqjYOefCO5edyk8LwI=",
+                "mac": "HbBxihHB7n6pgXIOZgEI+Q=="
+        },
+        "enemies/mine-coldbug.json/meta/species": {
+                "ciphertext": "okEOuUIQGMpgWKN2wuqc+w==",
+                "mac": "HNm6FdgJ4UV+TElpPUJXAw==",
+                "quality": "incomplete",
+                "ciphernote": "nXpJkuV2soIBM4RGHFki4pYhFauR1tQsiu9pwEfDEd8="
+        },
+        "enemies/mine-diggingbot-cold.json/actions/Activate/1/text": {
+                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
+                "mac": "/3l1+JslbOklhtB7mNR20g=="
+        },
+        "enemies/mine-diggingbot-cold.json/meta/species": {
+                "ciphertext": "gJuVQdf0p0yuuKmD2Ouytx7T2mYpPg2UyVTrH1SbPJ8=",
+                "mac": "FmearuZouXClx0NBbOzocg=="
+        },
+        "enemies/mine-diggingbot.json/actions/Activate/1/text": {
+                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
+                "mac": "/3l1+JslbOklhtB7mNR20g=="
+        },
+        "enemies/mine-diggingbot.json/meta/species": {
+                "ciphertext": "Hf5TVf/MV7Ll1ljm/VCwKA==",
+                "mac": "g/1Fw/jrB2c/4uksUzDCvQ=="
+        },
+        "enemies/mine-kamikatze.json/actions/Activate/1/text": {
+                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
+                "mac": "/3l1+JslbOklhtB7mNR20g=="
+        },
+        "enemies/mine-kamikatze.json/meta/species": {
+                "ciphertext": "Hf5TVf/MV7Ll1ljm/VCwKA==",
+                "mac": "g/1Fw/jrB2c/4uksUzDCvQ=="
+        },
+        "enemies/mine-runbot.json/actions/Activate/0/text": {
+                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
+                "mac": "/3l1+JslbOklhtB7mNR20g=="
+        },
+        "enemies/mine-runbot.json/meta/species": {
+                "ciphertext": "Hf5TVf/MV7Ll1ljm/VCwKA==",
+                "mac": "g/1Fw/jrB2c/4uksUzDCvQ=="
+        },
+        "enemies/minibosses/blue-hedge.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/minibosses/cursed-sandshark.json/meta/species": {
+                "ciphertext": "+1tCrwgdaAx2L9Jm1QBlAw==",
+                "mac": "c6NVDVPgiuMqlTcokgmurQ=="
+        },
+        "enemies/minibosses/deep-fish.json/actions/ExBulbShoot/19/elseStep/0/thenStep/0/text": {
+                "ciphertext": "PCADuuJEs3VscVk0F1/8gGpjvg6urgfycgQHOSHfl/g=",
+                "mac": "B0m6qcZM+KUQMUwisNwAvw=="
+        },
+        "enemies/minibosses/deep-fish.json/actions/ExBulbShoot/19/thenStep/0/text": {
+                "ciphertext": "PCADuuJEs3VscVk0F1/8gGpjvg6urgfycgQHOSHfl/g=",
+                "mac": "B0m6qcZM+KUQMUwisNwAvw=="
+        },
+        "enemies/minibosses/deep-fish.json/meta/species": {
+                "ciphertext": "NR68h6TyqZnaq2lmTllGDScejgtyWQHmaN8PgLiBbkI=",
+                "mac": "yir2bcm9VZw3YE8etetlDA==",
+                "quality": "bad"
+        },
+        "enemies/minibosses/ghost-sandshark.json/meta/species": {
+                "ciphertext": "wtOBndJljcRqW1OzdmqDk0Ev3Es6QN5ZTfeXLHBPU28=",
+                "mac": "3cqNfFQwuYlYUO7JUeM6Fg=="
+        },
+        "enemies/minibosses/henry-probe.json/actions/Overload/10/text": {
+                "ciphertext": "vEERfOXvUDJ5Mc5J7jxJTTedz1Yv8FKi3y8qg+401hM=",
+                "mac": "aZAmlUnrXNXRKDzjxp3jjg==",
+                "quality": "unknown"
+        },
+        "enemies/minibosses/henry-probe.json/actions/Overload/19/text": {
+                "ciphertext": "9exJ9wGp6NQBnRhcnMJ/M4O31tcpnJa8Cu37bpugY2k=",
+                "mac": "/cbAEiyI93IHw4XSCtkOWg=="
+        },
+        "enemies/minibosses/henry-probe.json/actions/Overload/4/text": {
+                "ciphertext": "g6QbNR0GhW+5gMmTiGdP68h5N/GxQaH/9+m/7GhF1mw=",
+                "mac": "C3hlvYlwfp8U5+0UdUgqNA=="
+        },
+        "enemies/minibosses/henry-probe.json/actions/RemoveShield/2/text": {
+                "ciphertext": "K4QXPxkgizG4YIye4Nq8OhdsPMRlPhXyleJePdPR2wM=",
+                "mac": "kbDNelLj3rMNeuDwBg2XBw=="
+        },
+        "enemies/minibosses/henry-probe.json/meta/species": {
+                "ciphertext": "4/PmZaiVEjOURKGjvdYDbA==",
+                "mac": "+lILK+3oQCubf4qLH3/UNg=="
+        },
+        "enemies/minibosses/henry.json/meta/species": {
+                "ciphertext": "1bX6zjq1vc1yZDGlnUi5xxbF+4+5Imu5qfTzK6qHHP4=",
+                "mac": "/XEkrvB+nWgp8UwX/99N1Q=="
+        },
+        "enemies/minibosses/panda-boss.json/actions/BouldersOpen/4/text": {
+                "ciphertext": "I1kfiJeOucmdylpvuq4mqGz/hJzWOmBOruHD5HflwIs=",
+                "mac": "AbJ/RI5KIb1u+GvvywXxbw=="
+        },
+        "enemies/minibosses/panda-boss.json/meta/species": {
+                "ciphertext": "WWAFfsLPlU1j0DFXnjsqP5xjnFWgoMazONn+38Hip94=",
+                "mac": "tPmyPC7LRn8FhtOgAwZnSQ=="
+        },
+        "enemies/minibosses/penguin-rapper.json/actions/jumpWater/5/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text": {
+                "ciphertext": "qMjdzGKytGGx4zZjNtvwew==",
+                "mac": "ltPk35WquonhZB136PYlTg=="
+        },
+        "enemies/minibosses/penguin-rapper.json/actions/jumpWater/5/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "HExtocerLUmljF1PrM1Isg==",
+                "mac": "f6mg+r6VpEjFPAR480IpKw=="
+        },
+        "enemies/minibosses/penguin-rapper.json/actions/jumpWater/5/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "DnOzK9PIJgy/W2Sa1hA7XQ==",
+                "mac": "/YPH5a/Nqb0XM1RYdlqPjA=="
+        },
+        "enemies/minibosses/penguin-rapper.json/actions/jumpWater/5/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "6+Hsrw65OBkwpzqLdvbpGw==",
+                "mac": "xpl237BWa58FhSBgocakag=="
+        },
+        "enemies/minibosses/penguin-rapper.json/actions/jumpWater/5/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "AOYPcMU8faP9DRU1bWymug==",
+                "mac": "O3IwHYJLQpXd5D1hnn/AZg=="
+        },
+        "enemies/minibosses/penguin-rapper.json/actions/jumpWater/5/thenStep/0/thenStep/0/text": {
+                "ciphertext": "YkrZCjqM8SKCDdzeVT+m8A==",
+                "mac": "tRLGUtfNbJDyMvZwefS2mA=="
+        },
+        "enemies/minibosses/penguin-rapper.json/meta/species": {
+                "ciphertext": "ZjRGB/nJaltps7ztwvojhw==",
+                "mac": "R8NrBlGFW3kuQe+KlHlm5A==",
+                "ciphernote": "woGR/9mVlz/Ewdc0XxpKRMZ6EtgFzKaiy5PZpOiOiBc/uEik9n8IRWlxJffHsofDs0cWvl2t59OURO6gIxUvPQ=="
+        },
+        "enemies/minibosses/shockcat-black.json/meta/species": {
+                "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
+                "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
+        },
+        "enemies/minibosses/sloth-black.json/meta/species": {
+                "ciphertext": "jCl/X5nmQe01m1zKqBo6KA==",
+                "mac": "sxEkfKQti2AUXSQczMxOWg=="
+        },
+        "enemies/minibosses/spider-black.json/meta/species": {
+                "ciphertext": "PfIlQ4q3tIGIt96MTAYUKyHo86Ntb4zE/wK4/KOMY3w=",
+                "mac": "cSK3I/jQnuhQKqpNaNFOjA=="
+        },
+        "enemies/mouse-bot.json/meta/species": {
+                "ciphertext": "e/TXNFoxO93nbvS+AAXrIw==",
+                "mac": "jeXEGSPf6VpPkRwraNyRUw=="
+        },
+        "enemies/navi-carla.json/meta/species": {
+                "ciphertext": "mQZPMEh84rtbUWBzrOsLNw==",
+                "mac": "nU7kruu2+SIgwqQ9wQ2GNQ=="
+        },
+        "enemies/navi-mouse.json/meta/species": {
+                "ciphertext": "bIamOV1mudBqdZiJwLdPeA==",
+                "mac": "j8800yOBlDtr3/0rMwkhTQ=="
+        },
+        "enemies/penguin.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text": {
+                "ciphertext": "qMjdzGKytGGx4zZjNtvwew==",
+                "mac": "ltPk35WquonhZB136PYlTg=="
+        },
+        "enemies/penguin.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "HExtocerLUmljF1PrM1Isg==",
+                "mac": "f6mg+r6VpEjFPAR480IpKw=="
+        },
+        "enemies/penguin.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "DnOzK9PIJgy/W2Sa1hA7XQ==",
+                "mac": "/YPH5a/Nqb0XM1RYdlqPjA=="
+        },
+        "enemies/penguin.json/actions/jumpWater/6/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "6+Hsrw65OBkwpzqLdvbpGw==",
+                "mac": "xpl237BWa58FhSBgocakag=="
+        },
+        "enemies/penguin.json/actions/jumpWater/6/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "AOYPcMU8faP9DRU1bWymug==",
+                "mac": "O3IwHYJLQpXd5D1hnn/AZg=="
+        },
+        "enemies/penguin.json/actions/jumpWater/6/thenStep/0/thenStep/0/text": {
+                "ciphertext": "YkrZCjqM8SKCDdzeVT+m8A==",
+                "mac": "tRLGUtfNbJDyMvZwefS2mA=="
+        },
+        "enemies/penguin.json/meta/species": {
+                "ciphertext": "tn/keiotnlfkT0rSVWEIzQ==",
+                "mac": "GJ1L24RNjvNEs0g1IMRzfw=="
+        },
+        "enemies/player-copy.json/meta/species": {
+                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
+                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+        },
+        "enemies/reflector-bot.json/meta/species": {
+                "ciphertext": "Mj70t/qeZnoez72+hlvbiz+3WUHMipYGvDC6OZejDq0=",
+                "mac": "G+8vVg0DhM6Efc+Hro/24A=="
+        },
+        "enemies/seahorse.json/meta/species": {
+                "ciphertext": "LiX9DkODukRvLFi/OtzFvj7c7H1pLb4hhYqsk+p1xD0=",
+                "mac": "QHegTHGAIt4o+hciDSKKbQ=="
+        },
+        "enemies/shredder-alpha-challenge.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/shredder-alpha.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/shredder-challenge.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/shredder-cold.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/shredder.json/meta/species": {
+                "ciphertext": "Zc9ZTBuXbtXv6igCk3VgtMz0H1y9CMI5HNjHLOAYVv8=",
+                "mac": "6JNxFE8bqsqAb4/nxzoZ9w=="
+        },
+        "enemies/simple-bot.json/meta/species": {
+                "ciphertext": "e/TXNFoxO93nbvS+AAXrIw==",
+                "mac": "jeXEGSPf6VpPkRwraNyRUw=="
+        },
+        "enemies/snowman-xmas.json/meta/species": {
+                "ciphertext": "FnjgbJA7ZiAXpKCgZrFyIYNhCUSKBK4I86V2THZ+EhA=",
+                "mac": "PfGeC4ij3vTUg4Uv8LdlBg=="
+        },
+        "enemies/snowman.json/meta/species": {
+                "ciphertext": "FnjgbJA7ZiAXpKCgZrFyIYNhCUSKBK4I86V2THZ+EhA=",
+                "mac": "PfGeC4ij3vTUg4Uv8LdlBg=="
+        },
+        "enemies/special/dummy.json/meta/descriptions/0/text": {
+                "ciphertext": "SL3AZ7f83AaGJZ6oUpjPnEQJQ2Xbui3WaOTlSh2xjoJiKWQuOy6uM6TPP4Bgwo301ll7VO67W1lWvQffWsNyU8jboTv2r7z+EB+hjw0lVZEdqaKcOI04z2wGeB74S8PBOLLZ7/xRuWDRAVRox4quc7HpFiX0J1HteaRCIGiNWq9ImNZQjc8i7FBONOmPEoNNiqHw7eHpFSo/ghIiI1lyNg==",
+                "mac": "+Ap7viZLMybUh6xJRlflHw=="
+        },
+        "enemies/special/dummy.json/meta/species": {
+                "ciphertext": "eSzVCTIgDswpOjGtTi530A==",
+                "mac": "6AqDiZnnreYgo/VcCme9aA=="
+        },
+        "enemies/special/sergey-hax.json/meta/species": {
+                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
+                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+        },
+        "enemies/special/sergey-hax.json/proxies/playerHack/action/4/text": {
+                "ciphertext": "46kxT7pOJcwZM94AJlieGA==",
+                "mac": "Y0OMpSMwTR+Iz57fHZbBVg=="
+        },
+        "enemies/special/sergey-hax2.json/meta/species": {
+                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
+                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+        },
+        "enemies/special/sergey-hax2.json/proxies/shredderHack/action/12/thenStep/0/thenStep/11/text": {
+                "ciphertext": "J6k7HdHuiMEGvBa9UrcG6g==",
+                "mac": "WqKmNFUDIUyqmDykYLNBWQ=="
+        },
+        "enemies/special/sergey-hax2.json/proxies/shredderShieldHack/action/3/text": {
+                "ciphertext": "WcVU/IE07UxLEf8jfgiGuQ==",
+                "mac": "bZ5c0BzBLqCrV9mxV0xMEQ=="
+        },
+        "enemies/special/target-bot.json/meta/species": {
+                "ciphertext": "yL99fFFOQGPEmLZ8msA0vobTw7g13JzW5tg3z3KSbfM=",
+                "mac": "vXZqoweKIizhwB0eG9gUQw=="
+        },
+        "enemies/target-bot.json/meta/species": {
+                "ciphertext": "e/TXNFoxO93nbvS+AAXrIw==",
+                "mac": "jeXEGSPf6VpPkRwraNyRUw=="
+        },
+        "enemies/troll-mouse-bot.json/actions/AddShield/1/text": {
+                "ciphertext": "onHdap+kFk5NcEgTDNkhAg==",
+                "mac": "Nkha05sBNS+/wDJNHoGTaw=="
+        },
+        "enemies/troll-mouse-bot.json/actions/MaybeAttack/3/text": {
+                "ciphertext": "accNh0cklUYFhOEbyLsQ9w==",
+                "mac": "KlxVF8aIYRul/6ZPLFgkfA=="
+        },
+        "enemies/troll-mouse-bot.json/actions/RemoveShield/1/text": {
+                "ciphertext": "RT6cQd1VZuJIKJv1G+0kAg==",
+                "mac": "/lE7iQwt02TkbHJ72iNMjA=="
+        },
+        "enemies/troll-mouse-bot.json/meta/species": {
+                "ciphertext": "e/TXNFoxO93nbvS+AAXrIw==",
+                "mac": "jeXEGSPf6VpPkRwraNyRUw=="
+        },
+        "enemies/turret-boss.json/actions/StartAllShields/0/text": {
+                "ciphertext": "bPROb+C2P2TDh2e+roQO6bOls397PXujeYMcMAqunGg=",
+                "mac": "mSVturJoDr//tsnW+DPaAw=="
+        },
+        "enemies/turret-boss.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/turret-boss.json/actions/StartPartShield/0/text": {
+                "ciphertext": "qPlc2vnWx2eYLYQZcYAR2nzJR5kcjeZeRgNZHHm41ZQ=",
+                "mac": "cmUrmY8WczRUSxQb6bkANw=="
+        },
+        "enemies/turret-boss.json/actions/StartSecondPhase/7/text": {
+                "ciphertext": "KIfJ2dcroRgoHZ6573UBydXvHeTsgJk5OPJ9VT4/VyU=",
+                "mac": "N58UMxRfzAoPZtt+L/uvlQ=="
+        },
+        "enemies/turret-boss.json/actions/StartThirdPhase/5/text": {
+                "ciphertext": "6N5L73nBcF3CTKVdFBhGXHIp4rhd54vfTF0+TQusnqY=",
+                "mac": "9y4jUx+dzwFJP4LMJiHfBw=="
+        },
+        "enemies/turret-boss.json/actions/StunStart/0/text": {
+                "ciphertext": "dd6fVhApKD3zgtjjlYr92g==",
+                "mac": "3Rwg8ufkppAE4cumYp6Yog=="
+        },
+        "enemies/turret-boss.json/meta/species": {
+                "ciphertext": "cDb3J+SYJWhs7UETtjyNLPUXAt8zDLUTTbpm52sF+F8=",
+                "mac": "Xaca1cz2u+0WPKZ/ZBc69Q=="
+        },
+        "enemies/turret-bot.json/meta/species": {
+                "ciphertext": "cDb3J+SYJWhs7UETtjyNLPUXAt8zDLUTTbpm52sF+F8=",
+                "mac": "Xaca1cz2u+0WPKZ/ZBc69Q=="
+        },
+        "enemies/turret-large.json/actions/InitShield/1/text": {
+                "ciphertext": "M964ncJOjzNUgX1fSOvk+/zxEWj9S+zR9K1rWxYPmaM=",
+                "mac": "7jPd2d8N39DDgk3l3fFZdQ=="
+        },
+        "enemies/turret-large.json/actions/StartAllShields/0/text": {
+                "ciphertext": "bPROb+C2P2TDh2e+roQO6bOls397PXujeYMcMAqunGg=",
+                "mac": "mSVturJoDr//tsnW+DPaAw=="
+        },
+        "enemies/turret-large.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/turret-large.json/actions/StartPartShield/0/text": {
+                "ciphertext": "qPlc2vnWx2eYLYQZcYAR2nzJR5kcjeZeRgNZHHm41ZQ=",
+                "mac": "cmUrmY8WczRUSxQb6bkANw=="
+        },
+        "enemies/turret-large.json/actions/StunStart/2/text": {
+                "ciphertext": "REptVSisoq2DBhEsKXy1sA==",
+                "mac": "iMOFulaC/YjN2u+cvyxTLg=="
+        },
+        "enemies/turret-large.json/meta/species": {
+                "ciphertext": "cDb3J+SYJWhs7UETtjyNLPUXAt8zDLUTTbpm52sF+F8=",
+                "mac": "Xaca1cz2u+0WPKZ/ZBc69Q=="
+        },
+        "enemies/turret-rhg-1.json/actions/StartFullShield/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/turret-rhg-1.json/meta/species": {
+                "ciphertext": "PNnpEUqN356ZkeBOxWy+FEZhvVgX7Ebw2cb6mzYYnyQ=",
+                "mac": "jHUU3lhYCqaCyYQEWlMizw=="
+        },
+        "enemies/turret-rhombus.json/meta/species": {
+                "ciphertext": "cDb3J+SYJWhs7UETtjyNLPUXAt8zDLUTTbpm52sF+F8=",
+                "mac": "Xaca1cz2u+0WPKZ/ZBc69Q=="
+        }
+}
