@@ -579,8 +579,8 @@
                 "ciphernote": "uJ9hvUAfXzz6XIILkv0pSjqeJuM3Xywa4Wj0wXBR//4="
         },
         "database.json/achievements/kill-boss-samurai/description": {
-                "ciphertext": "KN/o32BzXYQlAPncddGLKGTEJg6PvZWkzA1HXjNighknt2okRmQAzc5qn37sanCvTRVuyYKmJYSuASCx8T08QFtdL9NKtrYFqHiazzU5y3R3Agll7waEBRhenClOt3PW",
-                "mac": "aFa2oGscVqdDchlHFh3kpg=="
+                "ciphertext": "KN/o32BzXYQlAPncddGLKGTEJg6PvZWkzA1HXjNighknt2okRmQAzc5qn37sanCvtzUPZqc6PO7lv1kiom67utmqTtgXBU2eGxa9ZfAXZFSS0gqDc04I+abdJI1OvV/p",
+                "mac": "zx1XcN/unLs4aWW8yYKx+Q=="
         },
         "database.json/achievements/kill-boss-samurai/name": {
                 "ciphertext": "TzZ6Px7MtWFHCOZMNKvY+NS3heMBbCsESMRQA+7Bv5M=",
@@ -1211,8 +1211,8 @@
                 "mac": "0nIS8n6p9PrYztTBTs8IPA=="
         },
         "database.json/areas/autumn-fall/landmarks/east/description": {
-                "ciphertext": "mHhO0LaRkyKn5CYsiQ51JPZZmQH79NaL0amMsGbtlYIZxRxeUSeFjRrTE/j788ZZoOlAtI07LCXXrY2QDr1pkg==",
-                "mac": "2VRDwdjpaGR5NV74Q0Koag=="
+                "ciphertext": "mHhO0LaRkyKn5CYsiQ51JAn1r+rzApm5esNQqLQlUWCx+UES1yqOyjljBcjGhmasBCAxO8KC8tooyoBAnTk2TA0OyVvzlniwwTqKdqV9MSk=",
+                "mac": "amJRy52QvnInjrYQafwI4A=="
         },
         "database.json/areas/autumn-fall/landmarks/east/name": {
                 "ciphertext": "du50U73rBCOJrrib9R1wWQ==",
@@ -1378,16 +1378,16 @@
                 "quality": "bad"
         },
         "database.json/areas/forest/landmarks/west/description": {
-                "ciphertext": "+xYt7R8ejZTHV7IOfT+ImWQzilzkNraX5V5mNaAafL9KGYngXrld1RmMIxIlgSU4CDCiaNqMbupTxF4dmT0MqPNf0sQRzhIekNHJS/X2aM4=",
-                "mac": "yit1tgQ9/2P8b7PqujxTcw=="
+                "ciphertext": "+xYt7R8ejZTHV7IOfT+ImSJu3gobSQ7n3ZO9IxXzNx5hjK3lBAVYgemGJ4XQLAP4tt2/pMvPPaQCPa+FO1l8AM76y0MruCeU210nKi3+pJpq5E3ZPTkGXE2oFDFUH7CQ",
+                "mac": "rE5rVPny1DzsTZx/5VeT7Q=="
         },
         "database.json/areas/forest/landmarks/west/name": {
                 "ciphertext": "BCEPQ0uFMJTmVVG/T0u9IA==",
                 "mac": "ZlXLpPXCJTfYrUmtlhjbTg=="
         },
         "database.json/areas/forest/name": {
-                "ciphertext": "ydtQnzltIrewsPFcjzUQQg==",
-                "mac": "MGRuWp0ARRsD+ihmi00Vjw=="
+                "ciphertext": "v76x21iy9vcmOoVgsKB080LqBdwdA5XxoN/UnlDOLbI=",
+                "mac": "vXN+z4SKnBAQgxZz4r2XSQ=="
         },
         "database.json/areas/heat-area/description": {
                 "ciphertext": "u5rXbtYNP/lVm41J9yqnZD2rXjv/mSIWA2uh4dbA/IxgBTeB903p4j22UEn1K2MRMI2EurKDLsxBkFt2nOOJgb6HxiAQ7eLD2HrCZET6j8E=",
@@ -1471,8 +1471,8 @@
                 "mac": "r7c/fk1rpE6yByAd/hrhoA=="
         },
         "database.json/areas/hideout/description": {
-                "ciphertext": "7wtHTkRIJQe9VipIOOq6NxQiaxtoGbuGioqtZssCLudXHLwNkt5ONrU+rrjb45miLpmUZAp+PeDIoNaGaXG4Iq3QSq0IEn6AzfaFGBsD6PUXZZGWDh5K0sG02vHLF32Y",
-                "mac": "72b4lBNKsHp50mQ5+N6/pw=="
+                "ciphertext": "7wtHTkRIJQe9VipIOOq6NxQiaxtoGbuGioqtZssCLudXHLwNkt5ONrU+rrjb45miLpmUZAp+PeDIoNaGaXG4IsUr7aYrbJzCC5qrIIfk53uHhjIojv6O8YeZfL9b/LEl",
+                "mac": "HWjAnrKNmAx/QTfZ6WBsPA=="
         },
         "database.json/areas/hideout/name": {
                 "ciphertext": "5xJ56GCFXCB51psjNvuQ3Q==",
@@ -1845,8 +1845,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/apollo-contact/event/10/thenStep/1/message": {
-                "ciphertext": "+Ll+HWeE+g1YkIVPwE60/BgDgd35u/MbQjl+bIkcZ3uL+xNSu5eRxvxbBMGh+TP/ag4Zw2Ap7t70g6dGAo0UCLojHII2WzdWIzlubW9z6S8=",
-                "mac": "7cVBu6KJGNtcUb1Ai79rcg=="
+                "ciphertext": "+Ll+HWeE+g1YkIVPwE60/AZlFmBOUBBMoLVvGJjkr0WM34NcF3+eNLnqgx8yXqJSRXqK3biaoa6PB3KVvR+itsG0LCnoNPRJ8TP2eGl0OzU2eWRv+ZCkuyVN4yqPh20X",
+                "mac": "ZxZJWy8i9xJIXHexd6CIwA=="
         },
         "database.json/commonEvents/apollo-contact/event/10/thenStep/2/message": {
                 "ciphertext": "I3DRMD7bhG3Am8+KKct+SGxHyv3HO5KvGTNP5kC0Wx9/cLExHUG2EJg5J68EAybhtPhfY9k3fvWdavS3XtW+1wNAzdRDOFYfGVNDR/dGwqc=",
@@ -1863,8 +1863,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/apollo-contact/event/11/thenStep/1/message": {
-                "ciphertext": "17bbyM0pyGfks/c2YWHP/4VG38CxXBLymCdUKe02AORDDaaemh2l0wW9uwYFq+Z2Rvsvy0gK+1utNfzb+TqaAjnMsUg41SrhawGebMlvD/rETjxiXd5SlmrGJhvPn6cizXRFPTeTpVAndwifKVuLJg4HaQbHMtRnyRfwwFRQveU=",
-                "mac": "Ndo7UO3pVlO5s0zcTK0wFw=="
+                "ciphertext": "17bbyM0pyGfks/c2YWHP/4VG38CxXBLymCdUKe02AORDDaaemh2l0wW9uwYFq+Z2eGNDOkCveD8bCpwSwLwGm6f12AWB0oVgrStRWE9dD+9Rlt8gEPSGs4ViW7f/aKNS/1ZaMDb2Uu05svb4sphsKhkMEK5Bc0WJu1hgg8iFdvl/VifKUU6uQikAQ2tL3+eA",
+                "mac": "AE9WknFGEgNgOSUP1yaf8w=="
         },
         "database.json/commonEvents/apollo-contact/event/11/thenStep/2/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
@@ -3616,8 +3616,8 @@
                 "mac": "cp38wzr6ljgKG6t9/tsIGQ=="
         },
         "database.json/commonEvents/emilie-contact/event/13/thenStep/6/message": {
-                "ciphertext": "6X4/E0+2nFZs+A2vQVMmh90f6NdC/XM8LpbmnY3nuTjdEUhejSh83oDnMaeZGxrEM7iCy90RWlndb0Qj0mwVaNU3nL/WmcxtSGVik6ITV+Y=",
-                "mac": "HL309G71F4bgzitfyhQ14Q=="
+                "ciphertext": "6X4/E0+2nFZs+A2vQVMmh90f6NdC/XM8LpbmnY3nuTjB4Mn6wuAVXH8OVaAdEDMC9rAAU6YP/+JhUxsNmP82i8Jfs/sxj7PlsG4QSoggXaaQeF4AAB/8seoDJ0bk/zUT",
+                "mac": "G7XdQ4/4oP8M5PIL/TeqVg=="
         },
         "database.json/commonEvents/emilie-contact/event/13/thenStep/7/message": {
                 "ciphertext": "nGj8Bg9FXdmrJWZOHTfoqwapmMleWROWR2+FYZlMgH/iVZ2/cPxm0jr4GgF5if4S/KEIILOgrxd4E2ayiIQ80A==",
@@ -4901,8 +4901,8 @@
                 "mac": "jEhFEUvAfRQqboUo9CO3vQ=="
         },
         "database.json/commonEvents/glasses-contact/event/8/thenStep/8/message": {
-                "ciphertext": "POUBb6hKMGb14lCK1UUlLRZzmVoIxeYZ7FSrh0CclPxtT6CBGaSm2gwE9aUi5aXTvR+XrRyk/aYPlX5go2ZdziuE61aTTDEltAit38qGpAI=",
-                "mac": "0LBLooWIjQKcfZX8NcaPdQ=="
+                "ciphertext": "POUBb6hKMGb14lCK1UUlLRZzmVoIxeYZ7FSrh0CclPzZ8Bv/7A4YGxOACJB6nN2dl2soNz9pK6pZq5I4SNEGh7T3o/GI6o/t8W/34GURj7NIJd103j+aGP1IHxbd5b6R",
+                "mac": "9IpzLGVITB7Oyu/CtatdFw=="
         },
         "database.json/commonEvents/glasses-contact/event/9/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -5412,8 +5412,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/hlin-contact/event/10/thenStep/1/message": {
-                "ciphertext": "zXSGIbEcyIIKX1FWyVxag96hDMw0gZ/NlRkpHIMcohSMeNrCqO3KrI5KX7Q4aiqThW9tOvGRHIDz3UDcMSX1jw==",
-                "mac": "NIs7fZRUH7zys4Bwp3YvHg=="
+                "ciphertext": "zXSGIbEcyIIKX1FWyVxag96hDMw0gZ/NlRkpHIMcohRICTLfX0KrN4yCR2zpnNcdMsjyj3Nrij4ogQnOeUA0ItpJb6p+PCQZHB2G2Dza+aw=",
+                "mac": "KEDeYpYkBBTMMhrkQe1Epw=="
         },
         "database.json/commonEvents/hlin-contact/event/10/thenStep/2/message": {
                 "ciphertext": "pZmmUyGW68nq85B3ndwSM/dTzphX8yw5U99dPeeBU75pNL5PGuCCS328HAvUC0bupZUoTBbS7TQxZ5NtOpd1CuI19muXJqbEDc/uommHNJY=",
@@ -5685,8 +5685,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/hlin-contact/event/8/thenStep/1/message": {
-                "ciphertext": "WVH98uG/zFPt18WMpi4b02xaV1ox8IvQ0PQlz5JEB6SY6FvLOT6UJ1zgWD6ikgCF",
-                "mac": "7HH7Bu/C1GUm+MryUI/tZQ=="
+                "ciphertext": "WVH98uG/zFPt18WMpi4b0ydw6e9sWLNvEfsIKGXc2gtYCQ5oMl8lsXV15J684a3cRLqU1952qRHdV8UonX9Bmw==",
+                "mac": "efgCEme3s9JHjmqNJVNV4g=="
         },
         "database.json/commonEvents/hlin-contact/event/8/thenStep/2/message": {
                 "ciphertext": "aN8b540FxklvvaZ9azRd+OQGB6LcrmQ6gJPGX6PlIY47hr4DPpZthX/p9j24icfSS3AVnmX+QU6XB1w3bAhf5A==",
@@ -5890,8 +5890,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/joern-contact/event/10/thenStep/1/message": {
-                "ciphertext": "cA7XHOsH9cmmPUop22NPmjMGesj5e/Rp0xZrtWUcpM+YQUMiF29k2PuN8fEZDLd+rz1B92OH2qZcFJ1EXJTpKw==",
-                "mac": "/1BFskdtTICWMfTJiWCuWQ=="
+                "ciphertext": "cA7XHOsH9cmmPUop22NPmhj6rrKmi699ECdgp+keS6PSpzR27e+y6ivOPklnlXahfx/xTi5O+viIa/iY3kT9oD/KV5OeutAsnoCOfGgmwx8=",
+                "mac": "9Fq1jeCxlm6NKR8wyq4Y+A=="
         },
         "database.json/commonEvents/joern-contact/event/10/thenStep/2/message": {
                 "ciphertext": "ZcoHMvmCDz62gZqjZZW2rNCpU7HrtHybpxWJzMyhSLpg44jAWW2HBobpGmvq8lqkhZlsQiY03GIjrks+31IItSdvzo2+UQOHteK90mbCUJc=",
@@ -5908,8 +5908,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/joern-contact/event/11/thenStep/1/message": {
-                "ciphertext": "iHcJNj3yktr3rSeuxnECdkEh28DCt1iayEaIVn1foXwJOTIPfSmQCo0b6Uoln11C+fGMavuv1wTiyE3VWUlihkfshYJEhhHuTqmI/AAOfswD2z6RNKuGJrqIJKr7r6rJb5rI2FEjZ9CpwOm7uTeZRQ==",
-                "mac": "wX1YzWU3BR4/XbMVuannFg=="
+                "ciphertext": "iHcJNj3yktr3rSeuxnECdkEh28DCt1iayEaIVn1foXwJOTIPfSmQCo0b6Uoln11CFxyfqsB13O0oKvGSag65a/mW7AmWRDpgbhxwUgCCsiTY3LX4TMgQqR1O1WLJFftUvxH5ItdEbxitsRPAK7hFgw==",
+                "mac": "lmwuZLASuTA88vtNqyVU/A=="
         },
         "database.json/commonEvents/joern-contact/event/11/thenStep/2/message": {
                 "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
@@ -7304,16 +7304,16 @@
                 "mac": "/IJj6QBHk2BHNJ3R+wq1pg=="
         },
         "database.json/drops/forest-bush-1/subArea": {
-                "ciphertext": "3xzVvuw5zy54HNTsFVVzEyi5XgcL6SOu/11VO37uk0vtfyjpOvA+UzpaL6GR8c0/MFR+uCVBcJdktsUnoV1HsQ==",
-                "mac": "lr8VCASp/4rN3j9Udk9XEQ=="
+                "ciphertext": "3xzVvuw5zy54HNTsFVVzEyi5XgcL6SOu/11VO37uk0sC+gM7zG9Jy01dt/QP6jQZXkrP0dvQIDv4EDlaThs4Kg==",
+                "mac": "JFQQnGtoRmNiKH4YM4/NIg=="
         },
         "database.json/drops/forest-bush-2/name": {
                 "ciphertext": "L4rzYlO/cTkChQrszS1/THT7o5UjECuLCRSy6f+yoIk=",
                 "mac": "eA7d4bW0BAZchfdnOP3Q2Q=="
         },
         "database.json/drops/forest-bush-2/subArea": {
-                "ciphertext": "3xzVvuw5zy54HNTsFVVzEyi5XgcL6SOu/11VO37uk0vtfyjpOvA+UzpaL6GR8c0/MFR+uCVBcJdktsUnoV1HsQ==",
-                "mac": "lr8VCASp/4rN3j9Udk9XEQ=="
+                "ciphertext": "3xzVvuw5zy54HNTsFVVzEyi5XgcL6SOu/11VO37uk0sC+gM7zG9Jy01dt/QP6jQZXkrP0dvQIDv4EDlaThs4Kg==",
+                "mac": "JFQQnGtoRmNiKH4YM4/NIg=="
         },
         "database.json/drops/forest-bush-special/name": {
                 "ciphertext": "gvH9jXmimKOzSQ5wiMV7HVcu+Qa4oNK3bmFt7wbA6YU=",
@@ -7328,24 +7328,24 @@
                 "mac": "aMvyNmWDpcqLGKhQIRFRwA=="
         },
         "database.json/drops/forest-crystal-1/subArea": {
-                "ciphertext": "8Nlq3cOJbWSJ0i7/jHUjs2jdqKYeQCpazw+5lYaCPehuKl7pRzi0vVp/DxCMhk0VtTh6I8KPwrCHW4h+w5ZuLg==",
-                "mac": "FIETTIX1IkAhqdmhsvizdg=="
+                "ciphertext": "8Nlq3cOJbWSJ0i7/jHUjs2jdqKYeQCpazw+5lYaCPeiT499ISaqOsgSpUvpu4MoWjaVtXzwZxDsSwRT5klC2A3JkpBdSVXwbHWwJ7OxzTeU=",
+                "mac": "0+jlxRjb2uQJTh+6Jws90Q=="
         },
         "database.json/drops/forest-crystal-2/name": {
                 "ciphertext": "1+JHudwoaSAALilVDx9SdA==",
                 "mac": "uVwhTC2dKdc3iCHw2eA4Yw=="
         },
         "database.json/drops/forest-crystal-2/subArea": {
-                "ciphertext": "8Nlq3cOJbWSJ0i7/jHUjs2jdqKYeQCpazw+5lYaCPehuKl7pRzi0vVp/DxCMhk0VtTh6I8KPwrCHW4h+w5ZuLg==",
-                "mac": "FIETTIX1IkAhqdmhsvizdg=="
+                "ciphertext": "8Nlq3cOJbWSJ0i7/jHUjs2jdqKYeQCpazw+5lYaCPeiT499ISaqOsgSpUvpu4MoWjaVtXzwZxDsSwRT5klC2A3JkpBdSVXwbHWwJ7OxzTeU=",
+                "mac": "0+jlxRjb2uQJTh+6Jws90Q=="
         },
         "database.json/drops/forest-crystal-special/name": {
                 "ciphertext": "XhHn3vHHPcptazaEa3j0ug==",
                 "mac": "e9o3J5x/Qq38bfELJwrq0g=="
         },
         "database.json/drops/forest-crystal-special/subArea": {
-                "ciphertext": "edrOV2585VP2vaS9nWqkogcsUnQrugJG3yu6tZHeARK/ozIce/1r+SLEDNbov5L8poaesW452vZvDySWPC69AQ==",
-                "mac": "CaSn+pscbrEJ/7ydVuW1Xw=="
+                "ciphertext": "edrOV2585VP2vaS9nWqkogcsUnQrugJG3yu6tZHeARIZjSRjMl1XruQXbiQYTYXBh3vu+Rqy6etNZETkBnO1PA==",
+                "mac": "s1XyCBoZmLNyRD31IoBsFg=="
         },
         "database.json/drops/heat-barren-hill-1/name": {
                 "ciphertext": "3+jGSCMdiHauXevrnDsvnlDviUvK1eGWaZ62R/5EEeM=",
@@ -9309,8 +9309,8 @@
                 "mac": "KDeSL7psjYHQHbUA6lGoFA=="
         },
         "database.json/lore/autumn-fall/content/page-01-01/content": {
-                "ciphertext": "by25eeYwm1kENjc4ZQcA1i/JFrrS0nC+EXuC3hHCEmZuFqx1r/k9QupgHS9T58p02+oJ5Am/McaIdSZlMZOG8nwkMBcuJH3pAwWa9tD10APVleJ3dNmkf24eBP2WUIeS0mWXlmrO7hk5ajjJ4z/O0O/g05aaeKzVP2M4KuyVAoMALpkEak3RltxTu9ZQMwjBI2nlBSg+WAGpOYl4VpBnZfTnrWrxUnsJByC6EZPWfFajhsgMSfFnJN6MNVqytte1rufooCHGjGzrUIzKugcwnr70VwrL5JFPx/qDRjGyh6UeU/ExVYE1zzP3qt+a7BsgE+G4T79Jw/fXISe8qoWpJmbjyDGkxow2MGfz6mwFgnCeZK4BIcOiqvYDuVakGGWoLw+HV81gQ4rrLT0z5ZtTHzoJT8/0b+4Uoy49E3RL+R0=",
-                "mac": "uCtEhO56vh0XwK+GJGpCFg=="
+                "ciphertext": "by25eeYwm1kENjc4ZQcA1i/JFrrS0nC+EXuC3hHCEmZuFqx1r/k9QupgHS9T58p02+oJ5Am/McaIdSZlMZOG8nwkMBcuJH3pAwWa9tD10APVleJ3dNmkf24eBP2WUIeS0mWXlmrO7hk5ajjJ4z/O0O/g05aaeKzVP2M4KuyVAoMALpkEak3RltxTu9ZQMwjBI2nlBSg+WAGpOYl4VpBnZfTnrWrxUnsJByC6EZPWfFajhsgMSfFnJN6MNVqytte1rufooCHGjGzrUIzKugcwnr70VwrL5JFPx/qDRjGyh6UeU/ExVYE1zzP3qt+a7BsgE+G4T79Jw/fXISe8qoWpJn6EszNbt/fWwYYfwtEQ1F1rg5qmkSVFDmddKp4dPzC29LrsoyI44bFlIG2S/zgTFkfPEX2tiqo4h+XmBNIbAjY=",
+                "mac": "VagxAInw8eul7gZn1zLrkQ=="
         },
         "database.json/lore/autumn-fall/title": {
                 "ciphertext": "GTDGPsGEVOge2Ft50UAtMg==",
@@ -9641,8 +9641,8 @@
                 "mac": "8QQFo6P/zpqwTbHPzhYruQ=="
         },
         "database.json/lore/forest/title": {
-                "ciphertext": "ydtQnzltIrewsPFcjzUQQg==",
-                "mac": "MGRuWp0ARRsD+ihmi00Vjw=="
+                "ciphertext": "v76x21iy9vcmOoVgsKB080LqBdwdA5XxoN/UnlDOLbI=",
+                "mac": "vXN+z4SKnBAQgxZz4r2XSQ=="
         },
         "database.json/lore/gautham/title": {
                 "ciphertext": "+mTw+AFrFKfJF0tOdNi6aA==",
