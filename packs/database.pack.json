@@ -10880,6 +10880,47 @@
                 "ciphertext": "ix885ehJ3e+0OBy1KRDDtRXw6LLGVisQjaydwXHI24GRv3y6XIu0F1hz9z/0qvhsKtVTsCG02PWLAnz4qa2y5EWAdYUEmk+jvYNp8J1jmBo=",
                 "mac": "x0cnKMpexzKwNuPh2CubIA=="
         },
+        "database.json/quests/daft-frobbit/briefing": {
+                "ciphertext": "RrBsysrN3tgD2Yc0zskNTiepDfoMAciaaibPprtfOoxrEkEpEQA16adPaXAcyPiX2cFYgt8GZd1AqUFZoA/iUOJahNGlZkhIKw2nr5Re7JA=",
+                "mac": "2ngYNCeuEcwD0x8xYB43VQ=="
+        },
+        "database.json/quests/daft-frobbit/description": {
+                "ciphertext": "XgsUYLsY1m7x1gU/MZwpw/y7hSeYuRyANXKfK6bN6wNoMil4ib1mmhb5fjel3JJFfYk6uQTVORebTshiUanfZs5gOiQl9umLLmm36NLyFS0=",
+                "mac": "Pm1ZIe/Xqa+XVDbc18733g=="
+        },
+        "database.json/quests/daft-frobbit/name": {
+                "ciphertext": "cqO3/q6rzCilZt9qWDoJDk3hJm4ue55VbmlDMwVbNGs=",
+                "mac": "4wdQlxZqwZ4yrPFqh0mLmg==",
+                "ciphernote": "2h+OCF0q4KE1qRjgCgxqh5SxwK87lPl3MIiq7fSkYkoNso9zHbDSVoBOfY2skG2hQ9N36/B+CzenYp27CyRnz6LJm7Y7+2vsqVkyfsJAVl0="
+        },
+        "database.json/quests/daft-frobbit/person": {
+                "ciphertext": "B+52cKi95URDUzBqgsPpHA==",
+                "mac": "JwDH2D5WZKti0wlMQqoLoA=="
+        },
+        "database.json/quests/daft-frobbit/tasks/0/task": {
+                "ciphertext": "9gJ0mfBEUradVbeFMceyByDXmIxqDDPcacHAnRHFl68/s+TKiCXOUdwwX2yfKe5CRkbbmih2kAOmRrkZ5/0jtg==",
+                "mac": "KnlABGqlZop2pKzS3PWGhw=="
+        },
+        "database.json/quests/daft-frobbit/tasks/1/task": {
+                "ciphertext": "DhpaG7ryAcVBm1h0FY81wNdsDHDQ42sOiScQvhhPUkZ0VbjxvFutmzIBGxhCpmVCz/CxblFwFDZtIBcntXIw+xzSV32NVnKBXfv45vSKvKM=",
+                "mac": "Hvu9e+LW2MJOCWy0YjXYbw=="
+        },
+        "database.json/quests/daft-frobbit/tasks/2/task": {
+                "ciphertext": "LkYjyjxBNmeLBSsLRe/7tPOT06HuNfo56K72gzz4gEg8tUcn8jpEuMYB2TuyEt6nURYYf+2SbamuKz+zUaGaxKXjhJTr1nb6DLHxXXAFWi31tiow5RUjMLdqj0LTgNPy",
+                "mac": "GhsrOaqG0DtClLrj4Xkw0A=="
+        },
+        "database.json/quests/daft-frobbit/tasks/3/task": {
+                "ciphertext": "M+OpDi168Clrh97aktx5K+EOSbs+5Cx0FZmHKiSfhmclrfKiLcNxDMzEdm20xy3V8I1xrOoVdgaA+Ep3f4oozhb2m9/rH87iGqyTaPHnYuCSJNYErWKQWPrVsdAl6S6tI3xMllhUhlxwB0SjKiZFHA==",
+                "mac": "MxHmUgiPO8oGom/sPGowQQ=="
+        },
+        "database.json/quests/daft-frobbit/tasks/4/task": {
+                "ciphertext": "aIVLwSIAvGK10aCAWaYIDvnzA4aaa48pvVbrLSjrJt4qbdFbsgJYnMggx5dIxOWq46vvswGjna5JUT529GegZgki/D3VNs9ml4S96m4XPTo=",
+                "mac": "DpKZVjRUj6Cw9tt/i0TQLA=="
+        },
+        "database.json/quests/daft-frobbit/tasks/5/task": {
+                "ciphertext": "9zdC2eGpyYh9/HH3WwvnAAnD8hWCQNoRTE8gUQcsMOcDwUbEx4UVfmYyAwc2WT+U2ZTybKkj7eCux01FQihrP6Fm//6B7rtylHRXxHrRL7z3nYb4y1GZDhG8UBkWtBirL2qRzSjlM5X21eNlzC9HbqNy87CYKuQcQHWBnPt3/GY=",
+                "mac": "9me2FYrsnZIIDMEY0EWZPA=="
+        },
         "database.json/quests/faction-tutorial/briefing": {
                 "ciphertext": "Ge9H6s8qofPpaKZEiiEAvXaNxgJhDQqc4DtrFT0DoMg5wuGxELS8u22RkpmHwIZuLPDkrt8+748xRyq7n/o6j5epWmmvo8jQxA6Wu7AI/KHJ6VyCVKUiluJi4tlwip6TpF57OoS4uj/E8JWupjpc2G5d1wMAs2mPAQlHlpKGsOPaKr5gPW2P3WqI3aRlbCWAPAJOPpwo3832U2g60b348vl/kahb3uliQrxvEOCPAnE=",
                 "mac": "gQzLeoNorHY6QU6GVGnYWw=="
