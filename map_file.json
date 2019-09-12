@@ -7,9 +7,6 @@
 
 	"item-database.json": "packs/item-database.pack.json",
 
-	"areas/arid-dng-1.json": "packs/arid-dng-1.pack.json",
-	"areas/arid-dng-2.json": "packs/arid-dng-2.pack.json",
-	"areas/arid.json": "packs/arid.pack.json",
 	"areas/autumn-area.json": "packs/autumn-area.pack.json",
 	"areas/bergen-trails.json": "packs/bergen-trails.pack.json",
 	"areas/bergen.json": "packs/bergen.pack.json",
@@ -869,5 +866,16 @@
 	"maps/autumn-fall/raid/raid-02.json": "packs/autumn-fall/raid.json",
 	"maps/autumn-fall/raid/raid-03.json": "packs/autumn-fall/raid.json",
 	"maps/autumn-fall/raid/raid-04-cave.json": "packs/autumn-fall/raid.json",
-	"maps/autumn-fall/raid/raid-05.json": "packs/autumn-fall/raid.json"
+	"maps/autumn-fall/raid/raid-05.json": "packs/autumn-fall/raid.json",
+
+	"areas/arid.json": "packs/arid.pack.json",
+	"maps/arid/cliff-1.json": "packs/vermillion/cliff.json",
+	"maps/arid/expo-space.json": "packs/vermillion/questhub.json",
+	"maps/arid/forest-1.json": "packs/vermillion/forest.json",
+	"maps/arid/lake-1.json": "packs/vermillion/lake.json",
+	"maps/arid/river-1.json": "packs/vermillion/river.json",
+	"maps/arid/river-2.json": "packs/vermillion/river.json",
+
+	"areas/arid-dng-1.json": "packs/arid-dng-1.pack.json",
+	"areas/arid-dng-2.json": "packs/arid-dng-2.pack.json"
 }
