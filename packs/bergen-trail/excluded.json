@@ -215,16 +215,20 @@
                 "mac": "E69BQtHtyJs/e9xmnCrWRA=="
         },
         "maps/bergen-trail/excluded-1.json/entities/144/settings/event/3/thenStep/0/message": {
-                "ciphertext": "jHHb2R55ZhJHOEs3AquTotp6PqBuvvGPxjnt3BiNYSvF8lYRAcOh7GyT8/yiBGNPSxn1uLr3Y9uax7dU5WIesQ==",
-                "mac": "ivi0ASxF4Dq63NVPT6GG2g=="
+                "ciphertext": "jHHb2R55ZhJHOEs3AquTotp6PqBuvvGPxjnt3BiNYSvF8lYRAcOh7GyT8/yiBGNPmGC+FhRD8dF9g3EhZDT7agpi42pAi5yAYlU6F+6cWpg=",
+                "mac": "YB6ETdqmbyQSNY6TKvhdpQ=="
         },
         "maps/bergen-trail/excluded-1.json/entities/144/settings/event/4/thenStep/0/message": {
                 "ciphertext": "SQEl2SR0LN17YVt2D/AYisUWFUc9D0RiYzdBiJ5r0R38qo3MZ98cW5j54KKncTinyYoUipJoACoYNe5mcij6gA==",
                 "mac": "m7tIahRcjxxeBr6OX82kHw=="
         },
-        "maps/bergen-trail/excluded-1.json/entities/144/settings/event/5/thenStep/0/message": {
+        "maps/bergen-trail/excluded-1.json/entities/144/settings/event/5/thenStep/0/elseStep/0/message": {
                 "ciphertext": "hDEAMJoCxbA57OkY7B++AJuRfbrJKIIeNO/XRs1uj5JeeIsw3T7yhojcvIGAnyiuCaXtYJGQ+jBB3hKNPFk7tA==",
                 "mac": "NCg4SyBfHy6AmktLQ59Nmg=="
+        },
+        "maps/bergen-trail/excluded-1.json/entities/144/settings/event/5/thenStep/0/thenStep/0/message": {
+                "ciphertext": "cJ3NTrmR7igy00ynTfNXy5wfsA7Rwso7WGzQSpo3vXcRryEVseljDKorqpTsJRgteZyJ3L1TO70SEQHGOUFom1bhmFzusJ5qIQvYk+IiMjk=",
+                "mac": "aS2UHZWEc9lq/SzXsLouuQ=="
         },
         "maps/bergen-trail/excluded-1.json/entities/145/settings/event/5/message": {
                 "ciphertext": "udGtvbT3lFDXsaacf0bnYr9HkOY6a59cAuuFa5vHUy36OmcY3VsALWRInpvFN41i",
@@ -341,12 +345,15 @@
                 "mac": "l6dm7Ei5LXoYxk0fmmFsig=="
         },
         "maps/bergen-trail/excluded-1.json/entities/155/settings/event/24/message": {
-                "ciphertext": "yFxeKCcp22LgqbZKp1krjRKi3CcQQhdW3KqvkNd/ZZj1eAwMJrnLSzz+gDHmFz4P",
-                "mac": "45MRSQK1HXCYnIa4U1pHog=="
+                "ciphertext": "EPnx74APY+cPQ9zi8+EjGp5+bkqC2YHSXl+WR3IuXnkuvyVi6fyGeJbAoJuGxtSt",
+                "mac": "KUtiNMh7UecL5hQHzSgnnQ=="
         },
         "maps/bergen-trail/excluded-1.json/entities/155/settings/event/25/message": {
-                "ciphertext": "cvZSl24YDA5k1hLIT3Rp7q8duFCo1hkdQj/UdrADk0tfjkL5gLHXbdoKSlZtJXWFiSUWs9SXAA6NTrWXrf5Q04bkChDe/hKJF/H5SypfO9w=",
-                "mac": "uCZkHsHlhyYUBFUU+2XrwA==",
-                "quality": "bad"
+                "ciphertext": "cvZSl24YDA5k1hLIT3Rp7pa5OuRCDd1ZcsvbLc1/DgvtO28x30TfuvDNUBR9oX3RgRBEmTrUMWTtpZP2yjlpyIrm1C8HEmirKpckNRBLarc=",
+                "mac": "gYEIjXxi4x+phpDLUw05ag=="
+        },
+        "maps/bergen-trail/excluded-1.json/entities/160/settings/event/0/message": {
+                "ciphertext": "wP/7Cj4Mg9YQA4vVLXlf1A==",
+                "mac": "SwVX2V+N5QJ14KFu9dCXmA=="
         }
 }

@@ -198,10 +198,13 @@
                 "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
                 "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
         },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/12/message": {
-                "ciphertext": "P6u6FHK5e+2DjAcKohRWFs7EcgxvoEdoyUkoYfxXH8htWCKPdeFpW9cSyD9wNIgh7x+6sc2Ei/XQ4R3WLtFzMw==",
-                "mac": "RpeyD1Z/LburK4F0BL1MbA==",
-                "quality": "bad"
+        "maps/cargo-ship/room4.json/entities/50/settings/event/12/elseStep/0/message": {
+                "ciphertext": "P6u6FHK5e+2DjAcKohRWFs7EcgxvoEdoyUkoYfxXH8htWCKPdeFpW9cSyD9wNIghkr/HBqht49FBzvyHmZWauA==",
+                "mac": "jrA17ms+y4+yDUmWqzULCg=="
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/12/thenStep/0/message": {
+                "ciphertext": "vYSAFXbDc5HqdkN20uMCbK4oLtB4P8ohRubI/xjNHYNjnLqXhtIVYF14MYCaeBcH1XA0SEy4woXqjTklV1HNUMJhLDhfLn5kqFqGue1ylhB2zfmtstyOMHUZz73FdDh/E/xBwvPjpFdYcwGU7bAFJ1Jn0VX3dcAAIoE2ePvWdhg=",
+                "mac": "CIt3SE39jtFihXr7eJ5yiw=="
         },
         "maps/cargo-ship/room4.json/entities/50/settings/event/13/message": {
                 "ciphertext": "S/YpCfZ27+LZ7L/6Ef1vKi9+9Icrfvbvm92U+/vY4yLhPhFUPv8jnp6sYKmHQsREFkMI0g3wGwB1ATvfsoZZXQ==",
@@ -257,5 +260,13 @@
         "maps/cargo-ship/room4.json/entities/60/settings/blockEvent/3/message": {
                 "ciphertext": "wKv0t0XpK9c/PWrN0Z2Rt9RnivIVgaPBPxhnwPniTxmYZlPqDtuKigAzB0cmpZg00NXw0nXNDHRGNN5zsvd4h7XSZ5L16agCsfOBFEmCM+s=",
                 "mac": "Cam6z+BHwl4QS7C2TUeWFA=="
+        },
+        "maps/cargo-ship/room4.json/entities/71/settings/event/0/message": {
+                "ciphertext": "BeJBDA1UKsby13ZcYPDAivMlBjgfpBFXek55zUhtgn718qFGz6D732VSrWtLUB78lme1vHqWFwRE4JYcnC0xWv+2lMkX8v3MulJdvMh1yRc=",
+                "mac": "jvsqzz/735+fTBydUwkh+g=="
+        },
+        "maps/cargo-ship/room4.json/entities/71/settings/event/1/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
         }
 }

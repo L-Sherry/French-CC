@@ -98,9 +98,17 @@
                 "ciphertext": "X7BPj6ulKXXiTTvCqX3Gpx/YV1ueltynAkWkZ95ZQjWaEVf2wF+VAou/szHI8mHCEG6kdPoUuO0nYsqHJjJDjfPzOffJHa0LlCbhvLGdbkp5JNh5hDkrxGUzP7D0KnLX",
                 "mac": "8Qz3x35hC7gmI9GXYFPv2Q=="
         },
-        "maps/bergen/elevator.json/entities/225/settings/event/18/message": {
+        "maps/bergen/elevator.json/entities/225/settings/event/18/elseStep/0/message": {
                 "ciphertext": "y9R9or4nOaRCOUJbjKTKkvgZALBCvQ5JmS3Dh9pi5qbVbRd40l0naRhRAhhictPv",
                 "mac": "fNYm7UIH5U+a4N+FeplcfA=="
+        },
+        "maps/bergen/elevator.json/entities/225/settings/event/18/thenStep/0/message": {
+                "ciphertext": "CIiZF+SdBY94NQWcClqjiWEkzZ62tYptBlzy1i1fDhzcVMs2qUPy2rz8fE0VlZ6/6ztTwEwCCcecXGCvEs1clMv6KpXITZfj5q8vIotmkgjPUDuvpkBwXs2nUVTQHa/B",
+                "mac": "BGyuCPgmX8b3HzJm+Z96Jg=="
+        },
+        "maps/bergen/elevator.json/entities/225/settings/event/18/thenStep/1/message": {
+                "ciphertext": "z9JqaGPNryeqSNROfvWLLnd113U2z+XlEADU72jEQIrLHWXiDBAR7lF8KJIngULcZ/X0dKWB58Nb0MWNudrftXRqZFy00a4WBXcEGXmiXLg=",
+                "mac": "zJzGK+8P9or6nkg3Q2WlxA=="
         },
         "maps/bergen/elevator.json/entities/225/settings/event/19/message": {
                 "ciphertext": "4f9zZy6x9o5syCIq31hx/KjfYQwAfgArTVyZ6BR+2pJX9P35AQBGUGoMEqgT66FG",

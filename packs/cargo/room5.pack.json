@@ -57,7 +57,43 @@
                 "ciphertext": "UoytpKhm4dhtlskzZ/pGAfmbdSv7LoR0TnG1bKCdtw25HNgWU0w1ufHMpNzg2/w5gd85zsv/OhQaoA3F/gxQqX07PLgT2bXdU30rwvCv+o0=",
                 "mac": "W8bXs4IL8JV+ftoOkLtPFg=="
         },
-        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/message": {
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/elseStep/0/elseStep/0/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/elseStep/0/thenStep/0/message": {
+                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
+                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/elseStep/0/thenStep/1/message": {
+                "ciphertext": "llD5sEKAFS3s6Hrt2F4Cyym7P/VWbQxIZSCttdSgavYjmByKUiLMRgm8VKHH/7cIgQzLbLp2dKLXeLnjKBBYmB0uVEXQkqXOXCSRCI4Uoyurt8au2N80QXqf9xmTBwyMVVq5LS1mZGJgZyJEuVFIgQ==",
+                "mac": "c+jLsUWbS5ET2nSF9Vk59Q=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/elseStep/0/thenStep/2/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/thenStep/0/message": {
+                "ciphertext": "U8PxW0t++CU4RkYWAKMZfQ==",
+                "mac": "1XTIxEDh2oGpLDFFyX7OLQ=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/thenStep/1/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/thenStep/2/message": {
+                "ciphertext": "Zr1KfEqlS6b0gAvsXQszycA5Fse6hxTOKnRozLIjmwFmhHzoY74ZcohxAhWUxFwaLM4Bq7IOZcApp9H6KP18YA4uk9S3LOmRPcGHtw56O4A=",
+                "mac": "+jMIeHH8hZlY6UPoX/H6UQ=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/thenStep/3/message": {
+                "ciphertext": "gQ0rLxnHYOcynHuXLbVpOxI7BkYO6q0t+XwGg3qOAozUaRtN65y1j9c4xbAvIOkJAKahmilKFgYxLYLGYDRzwQ==",
+                "mac": "NtlVGQuZCfA5h1ddH4Oz0w=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/thenStep/4/message": {
+                "ciphertext": "s8zhyrgeIHBufalmG+SGwTGUaNQCVk755JMiSSQcyPsTZ4mKxnh75g72igKRRJ4v",
+                "mac": "JBwcY9h2YZMBxDmdLmypXQ=="
+        },
+        "maps/cargo-ship/room-end.json/entities/22/settings/event/45/thenStep/5/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
@@ -66,8 +102,8 @@
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
         "maps/cargo-ship/room-end.json/entities/26/settings/event/11/message": {
-                "ciphertext": "seJvstl/0baUesh/QpoBf6CSk5NOY+BwTGqFuYxUNTBOcCaRvKh46eDiayHZB4NRLr3WqV0Fi2Z4ReAwvTUj0UxlFKVnBKuDAEabEqDNWz8=",
-                "mac": "koIsR84F7hPfxsulo7/roA=="
+                "ciphertext": "seJvstl/0baUesh/QpoBf6CSk5NOY+BwTGqFuYxUNTBOcCaRvKh46eDiayHZB4NRlchZR6y3h05cIL/cH7E74THtsDLLzUC6ymhmv3gS9yg=",
+                "mac": "NuWeFqzTWRgKEgoNJF9TDA=="
         },
         "maps/cargo-ship/room-end.json/entities/26/settings/event/12/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
@@ -109,10 +145,21 @@
                 "ciphertext": "4k2EMH33gcTr8OuNGhxyf0W742kDQeN9JwxbpLhfiD8=",
                 "mac": "k59h5XPEjQgPPNL/bhYYzg=="
         },
-        "maps/cargo-ship/room5.json/entities/0/settings/event/3/message": {
-                "ciphertext": "XIr9Nq11EKpbI0e0GLUoc2uDx9ktUGnUcCKV+wc2meFNr7aoKH7HCFCfZAI9s8RynkyRMsvN8LHvodfQUmVCxA==",
-                "mac": "XcMl5VeY85ec7TewK2skCg==",
-                "quality": "bad"
+        "maps/cargo-ship/room5.json/entities/0/settings/event/3/elseStep/0/message": {
+                "ciphertext": "XIr9Nq11EKpbI0e0GLUoc2uDx9ktUGnUcCKV+wc2meEdpJVl9yXQw1J0rYRfD4wSm6pU6Hh83JsXmF36s/+0h8ckmiCemZz6BT0AuMHkSj0=",
+                "mac": "SJ5irX45DTOKHHjRYCrqrg=="
+        },
+        "maps/cargo-ship/room5.json/entities/0/settings/event/3/elseStep/1/thenStep/0/message": {
+                "ciphertext": "EUILiNuYeomSdRphW4IkvI+DwEZoJlvdnnIT5RpvHe3Z+fnT97NFMXIPDICJRbNoSgQ/ToCCQI3d1uKKNuEuH0lY1yLPfEkCTPyjIA5nMuU=",
+                "mac": "mD4r+Fna772ucT98xmyuKg=="
+        },
+        "maps/cargo-ship/room5.json/entities/0/settings/event/3/thenStep/0/message": {
+                "ciphertext": "ECb//3UqTJqyLK4edqdUBZRnDJ4si7J7NEnxQw74Kuaxgm8PaKqmnaToLjU8vdzZtcW+HZWZOfFGfQ9k8DZrZUrLBDYEtzN5gg6+ZsOjB717NPy4XMti2jBR2PoC1KgUCFEx0NalEs6HzPq31afX0tdroagjXCguk1MeFoB7Omc=",
+                "mac": "tTbYb/wy1VkwAur0iIlPBg=="
+        },
+        "maps/cargo-ship/room5.json/entities/0/settings/event/3/thenStep/1/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
         },
         "maps/cargo-ship/room5.json/entities/16/settings/event/2/message": {
                 "ciphertext": "+NMRa7buk3wqGP4vyB7N1pVx1d7rVWQPIKbhH3ebD0PvPuwIVqVT7vbW3heUxX02/Lu8xa/qcR6yOaj2df0kI2m4RDobApP4wqr6E4tMAxg=",
@@ -149,19 +196,33 @@
                 "mac": "c/rUnVIbUbWujwPomYntPQ=="
         },
         "maps/cargo-ship/room5.json/entities/40/settings/event/13/message": {
-                "ciphertext": "F+g2OO0J1O3rP93Vwb5i153EJMmxFFz8ivOrNhd4M60ASTcHT8Jm+OSHR4oLT3QZCWKMYpeRn5+4KiZcx7ka2A==",
-                "mac": "ZTv+wyDDNMkD1HtdSYhJQA==",
-                "quality": "bad"
+                "ciphertext": "F+g2OO0J1O3rP93Vwb5i1+Yhm0Hcz0xCA9G6oXqtfBGQ3sqGZHyE7wZY1QOQk01y59rLm4wzsR5zgqwZzqkqLA==",
+                "mac": "/hg044RDduqXw6815c4WAQ=="
         },
-        "maps/cargo-ship/room5.json/entities/40/settings/event/14/message": {
+        "maps/cargo-ship/room5.json/entities/40/settings/event/14/elseStep/0/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
-        "maps/cargo-ship/room5.json/entities/40/settings/event/15/message": {
-                "ciphertext": "p/aLjZLCzdV3d8Hw3UMzA4bofafU38ffoipw4UKOZK+1Zk+WpcP/tPmK5KKrbvE0",
-                "mac": "KI3qd+K4oLmfvMfOuVW58Q==",
-                "quality": "bad",
-                "ciphernote": "pynlgwHB29bBchCzGiLXgvQa6NPICtVeVjXXUS5Anjo="
+        "maps/cargo-ship/room5.json/entities/40/settings/event/14/elseStep/1/message": {
+                "ciphertext": "p/aLjZLCzdV3d8Hw3UMzA3cEkPHgMY69Qjbm4p2RGW5KLPbnC4dv0/mizaaYb3I7",
+                "mac": "jDHLfSV9D31w3rMzb+C2EQ==",
+                "ciphernote": "+7ezHBGa2xUM7xRaB8dmPW947KDcasFg6WnzLzOZ3RQ="
+        },
+        "maps/cargo-ship/room5.json/entities/40/settings/event/14/thenStep/1/message": {
+                "ciphertext": "15q47QTtw56HSD398mzNys1XWTDIevkhDRyWCbPTCfthxYwExmykBn9zV3bJtGh8EiH3bD7Ozq/SxIiZgMox4wACco5GIRGUPxWicLQFeTmAEjNc71GZ6aH5k/kp4flY",
+                "mac": "kERUbMkZ6RHIBWfxYF6gDw=="
+        },
+        "maps/cargo-ship/room5.json/entities/40/settings/event/14/thenStep/2/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/cargo-ship/room5.json/entities/40/settings/event/14/thenStep/4/message": {
+                "ciphertext": "+4i7SD+9mfw52qvqvq5h6Q==",
+                "mac": "T98cYn+YAMclyJawKqrimg=="
+        },
+        "maps/cargo-ship/room5.json/entities/40/settings/event/14/thenStep/5/message": {
+                "ciphertext": "r11v1bbTmU8/sTVI66shkDFYDS4LnDL5JwU7GZXmneQ=",
+                "mac": "gsMiXltSnQKlTmGJNDTF9g=="
         },
         "maps/cargo-ship/room5.json/entities/40/settings/event/8/message": {
                 "ciphertext": "67aibvcE0jJbyYNja5mDwuC9pWUTzDl7NqMX5YL+skC3rj7h8xxk72SrLtL11DRK",
@@ -172,9 +233,8 @@
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
         "maps/cargo-ship/room5.json/entities/41/settings/event/6/message": {
-                "ciphertext": "Fw8TKabhwqbzyDXyDg4hHDD8yviU9V2Roo82QNIhXhw3AHW3LiGho59Jrzp4CXTxculEm27TU9qwSXWCW3+6FA==",
-                "mac": "WGbDlyl3Qs3RkhIqQhIi6g==",
-                "quality": "bad"
+                "ciphertext": "Fw8TKabhwqbzyDXyDg4hHO/EPEo6cTOBbqQBETeraYCMQwliuyrGwe7l/3NIy9n6",
+                "mac": "1o0a98CyD/5HUgarakcX4Q=="
         },
         "maps/cargo-ship/room5.json/entities/51/settings/blockEvent/3/message": {
                 "ciphertext": "wKv0t0XpK9c/PWrN0Z2Rt52Q4SrQOCQoB6P0nHqSwmZwqtV2bxiO01DdrWpLgx/mSJFSEavr1WUXyddoPoY9rfzyeDQ1qQGsUTv8QP/u1VA=",
@@ -193,20 +253,16 @@
                 "mac": "r0W0v0kq3ILRYe/T6fEQaQ=="
         },
         "maps/cargo-ship/room5.json/entities/61/settings/event/15/message": {
-                "ciphertext": "rUESQDoQwpCInvXgloYVTMOj2BptwRag1uvHsbW252hw6j5e32u8HkcansAxkSNk",
-                "mac": "38AFbf8id3LC4GtyVCkTxg==",
-                "quality": "bad",
-                "ciphernote": "qmTxvMdekYeCEXH4+q2t5Q=="
+                "ciphertext": "rUESQDoQwpCInvXgloYVTCwsEbZjGzxbV4ObbpvIDRCzlDkFV2bv92lPJ1gH8ZHoayCLgM1mqvR+bBxar0FHrg==",
+                "mac": "1FTKgzww5417A8uHyzirMA=="
         },
         "maps/cargo-ship/room5.json/entities/61/settings/event/16/message": {
                 "ciphertext": "O/bSIYwF535rykE/nTpwMJRck8sWqtI2wpGlbw00Ugo=",
                 "mac": "MACxUPIAj+WCg+GeSfSiRg=="
         },
         "maps/cargo-ship/room5.json/entities/61/settings/event/17/message": {
-                "ciphertext": "h89Mb/yyGaA4RB3eXsJ1Q5kOco/UXOka2Eq1EEyB2ZQRjWhI8TrgOoYRj5snXm5Cf5AqunBG+kVJ+ewOUAjfcw==",
-                "mac": "An44vG855GQDasU/3ISCoA==",
-                "quality": "bad",
-                "ciphernote": "jagqxyRCUntzipR6/34EgQ=="
+                "ciphertext": "7MmxTxk7fW7nWGNG9a52OdrLkdlNthHjJfDk146RTN3Def27tYdIwpWpndG5vI0nks14i9WwNbOdR5JXIj7yjA==",
+                "mac": "DdhlBAX0kvmp054UrTVfrg=="
         },
         "maps/cargo-ship/room5.json/entities/61/settings/event/19/message": {
                 "ciphertext": "o7DY1eFbw8AP6HZZ47lZPlbveAGKKCKqFyLhxzLLCSiWBQvsW+P8Ar0QXHvMosYStOxIljbMa+vVspXm0UOas5KHGAa6R7hm24+CU0Txz2k=",
@@ -235,8 +291,8 @@
                 "mac": "cE4b2om2VZfGUr2/B3iU4A=="
         },
         "maps/cargo-ship/room5.json/entities/61/settings/event/8/message": {
-                "ciphertext": "mODW0pME5OCqULFU87aL3W9aCBZcQ9NdNR2zavWsD2q+9LX1i+p4igJwJ8BkiMx7YKxsWXqXFsEzBB7xyzuRNwaOd3ww0+g3/TOsYUMNLUkLkoyf374sy0Jsgix19UGf",
-                "mac": "32vXLrsh4FE58X9Gx9xyZA==",
+                "ciphertext": "mODW0pME5OCqULFU87aL3VJXK0HU3gkZMGe7ubr8+giCbkNIcv3545hJ1pSjl9842ElOoISnjMpoenGkmZzU8fghl96h5zRVBpNrH5Q5yBhGkzvYLi1qQcKnS+JfGZjG",
+                "mac": "kEhi882yJg3yD5wo7zlLsw==",
                 "quality": "bad"
         },
         "maps/cargo-ship/room5.json/entities/61/settings/event/9/message": {
@@ -252,15 +308,13 @@
                 "mac": "P35Bcgkz6//U5atNKNwAbQ=="
         },
         "maps/cargo-ship/room5.json/entities/65/settings/npcStates/3/event/2/message": {
-                "ciphertext": "P8XJTGmXgCThgN8T4AV4QfhGV8/GGk7fC5xQfFfzWRnLbq4CGfNGMClKVG18YVAdKK3RoHyFl6yQo/0RVK5O6A==",
-                "mac": "jJCWL9KCSa9p4sjNkTcKzw==",
-                "quality": "bad",
-                "ciphernote": "lY1EtuwySxd5KZNN6yimFY1RxLB/+8wRffcSRxzEcnU="
+                "ciphertext": "P8XJTGmXgCThgN8T4AV4QfhGV8/GGk7fC5xQfFfzWRl1BpJGXzgXITUqyG1L8tca3633LGGxZCwt/GWpHJuz9Q==",
+                "mac": "M1wt/3pcD4ITYWtk7t3H7Q==",
+                "ciphernote": "CTlVXuUaivc7mKZ4TrOXtiyyu2D+5xmTQd6/TI/ERV0="
         },
         "maps/cargo-ship/room5.json/entities/65/settings/npcStates/3/event/4/message": {
-                "ciphertext": "2NNBnGjC5L1dCchHGOckTLkRUSy7WwFf3MoKyYnYWW35f4bWQTwYRDOVmPyOTSp9",
-                "mac": "ZdP/skOiIujks2dbzo7e2g==",
-                "quality": "bad"
+                "ciphertext": "2NNBnGjC5L1dCchHGOckTHNLG0V4hgQ67nGTuCLevZca8gPt0Np4GHvX34Mmp/dh",
+                "mac": "5pVdFdsPwF02Mr28fRNp6Q=="
         },
         "maps/cargo-ship/room5.json/entities/65/settings/npcStates/5/event/2/message": {
                 "ciphertext": "UFUPEsoTkj5tzpWqEmBZLYwRYUHJs0E8IuDwWM1x6Hpg0EhAO4jW2HQn7C4f324b",
@@ -279,34 +333,37 @@
                 "mac": "4pJTknFb40MCe8oqS1ilnw=="
         },
         "maps/cargo-ship/room5.json/entities/68/settings/event/10/message": {
+                "ciphertext": "co4Dqnuipr9CpAgbWLGwcfmZONNdTq9RphhjwrUcj5wg9rjM8BuV3Hi2z4mjqxvEV5WTcBzwjvdKJdP+H1brVQ==",
+                "mac": "+mbS7u5QNcVtiqBv2wA06g=="
+        },
+        "maps/cargo-ship/room5.json/entities/68/settings/event/11/message": {
                 "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
                 "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
         },
-        "maps/cargo-ship/room5.json/entities/68/settings/event/11/message": {
-                "ciphertext": "eiiWiivfgEhtYSt5VthouR5xSW4RT3cE0jXRTq6FHLAaK6vEK9KWoiFfvTUAdVYW/TVwwdSQhZ8IXPss5wLZBoJCGk0eCGOtHC0B2hCa/G0=",
-                "mac": "vEKupJXzPm7NexJkeEtM4g==",
-                "quality": "bad",
+        "maps/cargo-ship/room5.json/entities/68/settings/event/12/message": {
+                "ciphertext": "eiiWiivfgEhtYSt5VthouR5xSW4RT3cE0jXRTq6FHLC5KCHPmtmBk1l8OMoM0uw9mSDbq9gGabwnzah3FxIxAQ==",
+                "mac": "WsIdgdRSzkHjLnyn2KxaZg==",
                 "ciphernote": "rhtf5UNOuyck5IF4QkPp3x637HjEYYZ2XEQkXYqYC5/7uHwtYEldEX9LCw176YgTNE9UtuzzeLRR60K3tPBG5w=="
         },
-        "maps/cargo-ship/room5.json/entities/68/settings/event/13/message": {
+        "maps/cargo-ship/room5.json/entities/68/settings/event/14/message": {
                 "ciphertext": "JNSRp3vDrFwBsTKsG2jC7hCDelc0MqHgDJh57oANSh5BoWSyu2S9bV3N9Z0oGl1jWcYFgAdqGdhmHu8i8i7pYg==",
                 "mac": "uFAmlIN1EyqcshZbpY0Bbw=="
         },
-        "maps/cargo-ship/room5.json/entities/68/settings/event/14/message": {
-                "ciphertext": "icpAmf9jjibmBGU1rIabAU5ZMVK8b9ae1sZdi2Y4r5u7lRA+oU1y3i68EI0Emtr7w+lZSdqgnQAgUPsFoTlMCA==",
-                "mac": "0kjub1nmslmQ3W+bUGDtqQ=="
-        },
         "maps/cargo-ship/room5.json/entities/68/settings/event/15/message": {
+                "ciphertext": "icpAmf9jjibmBGU1rIabAaEloWk3OeKGz/qNP9FsG/fIcHbIAM4RRU/ljdDU25uBKko48nbdBYRrecvl0z66ug==",
+                "mac": "Vn4nKRhsw0FQFZ5p3WT2JA=="
+        },
+        "maps/cargo-ship/room5.json/entities/68/settings/event/16/message": {
                 "ciphertext": "MIx3VgwK+iiPnRiEnEqFOQtgQf1AAI4VySIT5rnWYylKpY/gkSqhG+03ZwMT4vl9dBRFjtHr8WAHlIFJeTRBWDyZCBQhEW37hmEhYLHbddw=",
                 "mac": "t6Yoa1uDGtHEoifaWzVkpw=="
         },
-        "maps/cargo-ship/room5.json/entities/68/settings/event/16/message": {
+        "maps/cargo-ship/room5.json/entities/68/settings/event/17/message": {
                 "ciphertext": "sVPK06UWq8L8u8tiUVvv5C+xgjIpbQ9v13npnE5di7kH7rH2PLwNiNmR34bPp8/Jj2YVRdRUHmnAUZSzVJ9ZCZbszVC/c9gpAUBxYJs4URc=",
                 "mac": "PLGq4aD7n95dh+sFb80jDQ=="
         },
-        "maps/cargo-ship/room5.json/entities/68/settings/event/20/message": {
-                "ciphertext": "HU835bLYLX7ZnlS2B8vkltBAAWVAp8zYZSljUA6Phq8=",
-                "mac": "GlCZRF84B2ZtpqA+60xYCA=="
+        "maps/cargo-ship/room5.json/entities/68/settings/event/21/message": {
+                "ciphertext": "yWdYtXIjbH/bixQ2FE4ihpgxXGgCfzSVfFsLnXeaJqs=",
+                "mac": "zvth05rKJ6mZr0V6qUCISw=="
         },
         "maps/cargo-ship/room5.json/entities/68/settings/event/6/message": {
                 "ciphertext": "YzsDEzBRq3atLR5aAf3GSxYmHKmuO2/064dfKcfn/TOwXCoflJSgZCXVKA63eI7+obClKqLNmRzrAq2MPsLnXg==",
@@ -320,26 +377,38 @@
                 "ciphertext": "b5lTJsI0OFJusrc59YoAI9wk/nQxNCheSlizUYwm+HWQy9XAkeZLLc4RBR6Diczh",
                 "mac": "fPL6EvsqcQSclnGP9u5tLg=="
         },
-        "maps/cargo-ship/room5.json/entities/68/settings/event/9/message": {
-                "ciphertext": "co4Dqnuipr9CpAgbWLGwcfmZONNdTq9RphhjwrUcj5wg9rjM8BuV3Hi2z4mjqxvEV5WTcBzwjvdKJdP+H1brVQ==",
-                "mac": "+mbS7u5QNcVtiqBv2wA06g=="
+        "maps/cargo-ship/room5.json/entities/68/settings/event/9/thenStep/0/message": {
+                "ciphertext": "hZQ74ivzdWbfQYhfCs90LfWJ2jCjcSEAcPEUMJ4MV6efgPRh2TeJuNgg5YaA6OrAQeHbgaVkdtx0PA9BGhtguaBGO7eo89JLtU90jIM63Dpoff+0cJcepUYJWn0vLD2gNoWB9hr/BLzBX9ppark5Iw==",
+                "mac": "XJKhPXwrrrn/Cw9Bxk7IXA=="
         },
         "maps/cargo-ship/room5.json/entities/7/settings/event/7/message": {
                 "ciphertext": "PXiQRy3Z1EWnfcZT2OTlo5GUszwZwrSWUkprunmS518nh6u2izg2d7FWs0dTLKAjRmW7ZwsNPdTGzfO7+nFXZbOXJLMSWk2CgxVrs/xpadQ=",
                 "mac": "2Lolmwe8Caweft5MqWw24Q==",
                 "quality": "bad",
-                "ciphernote": "q9ZsLzmEMd+UiYG1WfapxLeQIg4VUbcdnXLFHXnfGPrqjNPjU+al/gpgs5IiOXd/cLxNXUpn6PeHMOMxxMhBZtokdX4fNTNFYBhMYOB4P1c="
+                "ciphernote": "hZyZ5GReWmdQUAnxd7T8LV7Il6fcFCx8IXGYIRfmoJpokciF4jtMbcvdfUE6fHuuqMHpL/RpRrfcZu95VVNnV7uCkCtA3cCmR36uTkYa8N2B0+qM0qJQBB3i5dYVQrYt4W8S8UKtFwEe0HgQahXDY4O9rojUOToxDWzQg1TKe0Y="
         },
-        "maps/cargo-ship/room5.json/entities/7/settings/event/8/message": {
+        "maps/cargo-ship/room5.json/entities/7/settings/event/8/elseStep/0/message": {
                 "ciphertext": "DdFNB6AFj8h57Z41IaD8e0FBBXyONTNvWJlJWz5/3mwiUUtsFeS9DZTkcYO4+53bInVB2Umy7EBptcwwr4AJjTl9YKB0F6ylUyJFLfl9oaQ=",
                 "mac": "7V9aK2KBiGFTqj2MGwhtGw=="
+        },
+        "maps/cargo-ship/room5.json/entities/7/settings/event/8/thenStep/0/message": {
+                "ciphertext": "W1Dn73O3tLJ22p4YrsI+ltRksvWtKXG0LSAJRZc3aS/RVSujMaSJAbWUFv+LSoF1",
+                "mac": "3Dii5WQW8FpRMlMf98kehg=="
         },
         "maps/cargo-ship/room5.json/entities/70/settings/event/1/message": {
                 "ciphertext": "YtK+02zd/NvThf07iDljjitZ+8Kp2CT36e16mai2wkn7lx22wn/0nPMJsUcw4P+88haRA0FNdhbMPWNsfVRqYA==",
                 "mac": "JUq3wG3T416+QCJADmvNVg=="
         },
-        "maps/cargo-ship/room5.json/entities/71/settings/event/1/message": {
+        "maps/cargo-ship/room5.json/entities/71/settings/event/1/thenStep/0/message": {
                 "ciphertext": "9nbf1jG7yIh6+m1dLi1mG4sHyqYsERxmhGtR86I0+dY=",
                 "mac": "o5attkJow4QbSK0ri/I6Ag=="
+        },
+        "maps/cargo-ship/room5.json/entities/75/settings/event/0/message": {
+                "ciphertext": "0Lbsgfb3Yhjg3XokDQ/jdDUWGohaLIQs+KtZfnoiT2E=",
+                "mac": "0xC6lbXHXl+nVDj4PtF2wQ=="
+        },
+        "maps/cargo-ship/room5.json/entities/75/settings/event/1/message": {
+                "ciphertext": "YuqZfHiSc5+ao7B0kPVplaUIPeL+BDvC4b4rsLlC1tKjHVSbZ0L0r5QCF/YF9G18",
+                "mac": "pNHzY1i47B2cWxW/zki2SA=="
         }
 }

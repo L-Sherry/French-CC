@@ -58,8 +58,8 @@
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
         "maps/autumn/entrance.json/entities/148/settings/event/19/message": {
-                "ciphertext": "25czV18he+44BMtPFiL22EpJG+HoutZcDogZT9s3+eTIuq3NuM78i5FnJ/uOhILqwiNKj75ne23yU98/Kwh7lg==",
-                "mac": "BsdlKOO1d2rLC+ZAK4fG9A=="
+                "ciphertext": "nS38a5r3G2T/RUlCOyVEP31vPeO9GPomgr5Q8Ge64fsfbugmFhzBn6iXTEJvv8ifNQvA5Z7WSmZr7jb8pVOPjQ==",
+                "mac": "T7k3153Ijo4DOblfrXQe5g=="
         },
         "maps/autumn/entrance.json/entities/148/settings/event/20/thenStep/0/message": {
                 "ciphertext": "yrwwuAy6Tf2MzJd7nhCuZT+VwcQF/zvQ3O+dMoBASvY3r6W308qmfyxDdigzzOD8EzkmYq+BTMzYbMH26B1PpA==",
@@ -77,23 +77,37 @@
                 "ciphertext": "U9yDvRipe22EukogXEOPrxp7cmFND34N90EliKUZCDU=",
                 "mac": "je4AlImySb3E0L9tfzrWig=="
         },
-        "maps/autumn/entrance.json/entities/148/settings/event/29/message": {
-                "ciphertext": "YC5NyLnz9E7jGoxuQXxUc6WvfQj7Xuo1wCVAkQTrMwlN2Pt1v6K/szQUC766ifACKkTqKzaKO/YKUdifZAZ73n8/vaKWfm2L7p/2Qc6DceM=",
-                "mac": "LcC3RD/jKGluJHzq2Pe+aw==",
-                "quality": "bad",
-                "ciphernote": "yS2pznB/8CQv3l9U3DMBfA=="
+        "maps/autumn/entrance.json/entities/148/settings/event/29/elseStep/0/message": {
+                "ciphertext": "YKeI8JISevY8oVgq8FY42XOvYI50EOlWX1YqR/ypNbbz9zMEnMVvyBa0HkkcpwJrBjL017l+JBHhW3RAbNr9wnWUbGvqVtPneHlXQq4UtpQ=",
+                "mac": "aR817e5JbShS//P9iqPQzw=="
         },
-        "maps/autumn/entrance.json/entities/148/settings/event/31/message": {
+        "maps/autumn/entrance.json/entities/148/settings/event/29/thenStep/0/message": {
+                "ciphertext": "LuvhyS+7xrPlixga6fE+tjW6H6LhBTgBUUsG6YFBz0FaZmxg41BK/ApaLip9niW8uqjFt5R9yNXp2wMuRID8lQ==",
+                "mac": "e9gmPvAX9KQrE3XwTVY1tg=="
+        },
+        "maps/autumn/entrance.json/entities/148/settings/event/31/elseStep/0/message": {
                 "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
                 "mac": "ahS7SIG0IeLx4nW36TYvEw=="
+        },
+        "maps/autumn/entrance.json/entities/148/settings/event/31/thenStep/0/message": {
+                "ciphertext": "CKYDvD388vDlCuN9rbjP2Q==",
+                "mac": "kt8tVD5uAARriiTj00v4kQ=="
         },
         "maps/autumn/entrance.json/entities/148/settings/event/32/message": {
                 "ciphertext": "rLDSzzRfvGCLuh7JLBY+u7x93p1MVmCz1hjx9vf1eriYgvnJoJZhmLJSxAa9R4nMtCOthspa+4ciQX8ESenVON17IhzVw6jqrUzOzUsLizIGQIdLzqqJw05ME5nhROxE",
                 "mac": "Iw+fqy9vEv5jdcRB/IKUAw=="
         },
-        "maps/autumn/entrance.json/entities/148/settings/event/33/message": {
+        "maps/autumn/entrance.json/entities/148/settings/event/33/elseStep/0/message": {
                 "ciphertext": "e/j2RJcSTnIqmd9iPfdrdcvx8A45j8ucs0CaZhD48rY=",
                 "mac": "981cUabrT7pKWDEE9CcZlA=="
+        },
+        "maps/autumn/entrance.json/entities/148/settings/event/33/thenStep/0/message": {
+                "ciphertext": "nVacjDuHcrUu3eG1FR+XzKxBJKvJTA20dk1wY/THaRA7rT/bnY3fFad7Os7W8dpY7ZvAVaxd45qAmsKTSfYkc/JvFGA4epgnC9fk0lyOjR0=",
+                "mac": "uTOE3wVrXqoT5l2SZuSQwQ=="
+        },
+        "maps/autumn/entrance.json/entities/148/settings/event/33/thenStep/1/message": {
+                "ciphertext": "NuqNy6DEqHZlEeVEQrNJexKHmH3FIKRwQ48THzByy8Q=",
+                "mac": "rmETOdy1NZn5WyE4e5I4qA=="
         },
         "maps/autumn/entrance.json/entities/148/settings/event/42/text": {
                 "ciphertext": "wO6BdEZP3C9qarolnOJvt8BI6dgezlGcqkrzPJ8B+PXdTF5tlbUZjYN17Pz1nkMYbQrRcs6e11Y+Jfv43AXIvcHjynOD7Lt9V5/0OtssXm83MPTgUXJIAHjuunOH5XpQWEYj6lNU7ez9QwAHF/jvIQ==",
