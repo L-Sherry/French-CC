@@ -93,9 +93,13 @@
                 "mac": "DP0eaeuTN7aX9+Dpyt4yjQ==",
                 "ciphernote": "R51Sx1c7dP9qYzLQfIIPaEH+sHoZ6sLfRQ0zGpgrVMYydMHO9PvTE7bc6SrpILyZ"
         },
-        "maps/rhombus-dng/boss.json/entities/22/settings/event/0/message": {
-                "ciphertext": "xtyI3Yl2049AHiw2M+pG4lmSTKn7KpQDCVvN4UjEitFP6fArbU+vpsDWWGUeggsY",
-                "mac": "nsjSKWhchYP5FqwGpa/mlQ=="
+        "maps/rhombus-dng/boss.json/entities/22/settings/event/0/elseStep/0/message": {
+                "ciphertext": "xtyI3Yl2049AHiw2M+pG4htpOIJM47ezdF+qfVX99RM=",
+                "mac": "x3+4SdmHVhhhPYlqb0iZFA=="
+        },
+        "maps/rhombus-dng/boss.json/entities/22/settings/event/0/thenStep/0/message": {
+                "ciphertext": "1IgC7aezTxQ+z93ZsTNWCbJnOjtL6ca26z2IUYo2Vhq8gLWr9oFrwKnpZgj6WHV30mM/sSN+PbwDfv5yLau1zA==",
+                "mac": "tpPrl+A3mznA9pnWwcEQsg=="
         },
         "maps/rhombus-dng/boss.json/entities/22/settings/event/1/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
@@ -317,7 +321,7 @@
                 "ciphertext": "T+7YTP/eXcZaoGEMULqDNnFXge0iWBwSFI7pljwO9lE885s/FqHV1GDOX6SzBugHybScxTNZVQQZr4znrDLWfiHT6weN2mRyVijFi6Te7Jqf87YGyTYMXOI5/8+rybutHU/+ITD81rDdX0TQlYQyHA==",
                 "mac": "Jvu5TJqCKkg5EADgpycIkg=="
         },
-        "maps/rhombus-dng/room-5-newer.json/entities/40/settings/event/0/message": {
+        "maps/rhombus-dng/room-5-newer.json/entities/40/settings/event/0/thenStep/0/message": {
                 "ciphertext": "NDwtlXSaP1tqzO/JQxF1jlAIj2IoIyJeZ19gRb/4Q9VCDZQCrB5HNyFXvNx1cTyAh0meB4W8efYlF9CAsmzaB3fyCmY39EOwxMh3ARJ3zhU=",
                 "mac": "PDFm65jTckAzbhHzxC0jKQ=="
         },
@@ -417,15 +421,15 @@
                 "ciphertext": "RApf5Ao4E6P1dg6RlmIBIIKHO4nvoINNkTIgexLZxXbaJfGQMzMIhsLR6N+rQxdDXodh0SXJTApPxWcWYNKdBk4AZNBtVPJhOYIlFjJpOlVMnTJBdR1fHX01kAzOqq6W",
                 "mac": "fGvs/GggXHfwmEhJLrc9EQ=="
         },
-        "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/message": {
+        "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/thenStep/0/message": {
                 "ciphertext": "M4JhW2iAmY40sG6/i88OpcniFHPLfrMqCplPjcL7Korq3l0HC8M764LRld/oqCNX",
                 "mac": "i1shzDudc9f76B9bY0d/dA=="
         },
-        "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/1/message": {
+        "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/thenStep/1/message": {
                 "ciphertext": "I10+qdIdtE9vHYWvztEXtIKPHNoPLO0QQHSbLVgAcBlSKegLCHFVDMrOvcynqQ+77+5xlU/UzQZSPAoX5I6bA0DvVFSGWa6YCiopls5Ovrs=",
                 "mac": "k+xCSRYq9sgXXgomoUuTkg=="
         },
-        "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/2/message": {
+        "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/thenStep/2/message": {
                 "ciphertext": "WfL/vhoqVPJYQaiv72bFRUglttrphuFBsdKUgf+PsiYOxTTbzpp1p0N+Ryn/yRCtnDMgj9uv4eFUQercJciwsg==",
                 "mac": "5Mmaqz2yyNyTpZTY10cz+Q=="
         },
@@ -440,6 +444,38 @@
         "maps/rhombus-dng/room-5-newer.json/entities/70/settings/event/8/text": {
                 "ciphertext": "m7MdQF6h6Zeg52RjHEV3uqAflAk818jBdztfHyVu0i8EM5tj7WAQ2nnX5O1/Innj+6ZLLj6zjA6kOGLJqjtmNQ==",
                 "mac": "dlAySkd+dSRX/EPLIvH9gw=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/0/message": {
+                "ciphertext": "kvDqodIOXLSIao0is1FlCui7tp3sqVClY2JuLNmiCAZVjgDIIhzPKgmyE/dhuCP0HZu8H2JBjWBXXqiqm7n+QMYUYFZ4txiutrOPmqTvoqw=",
+                "mac": "UlTGSRTCM0uXFK9hnJj4/g=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/1/message": {
+                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
+                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/2/message": {
+                "ciphertext": "riNNkDIBBnMR4Avn+HviW+uVUy04gjjVREPjD3N9PfEXCNpdxZFEaywBqUsK9gCQfxUWxzhzGeTkzRBMpSozYr7eAI/FVEm1GnuUPeEclII=",
+                "mac": "OAUJddZfww3HgRlVS2Dy4A=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/0/message": {
+                "ciphertext": "gMHku3aa9EYjKPDu9PuwprpKGLM5U2EMzSZ6pUR8I/ct/aGQF7dMboGR/8/nAeg5aDiomL7gG2GrYNUz7SO8Dw==",
+                "mac": "pw0fcallglG9ruyW+WMAEw=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/1/message": {
+                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
+                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/2/message": {
+                "ciphertext": "sm6mP5TruYTxRm2Hgz8xbG9RgO+XwlPkpFEion7VBo84KkEbm8zLVdTNdTa8cyI+kNI3YsEM7pBdFRs1IFMKSapIm0/qx1vFN35sEiXLBwnFZmy56PmMzTop+3Q+3vkefeg8uuvZEpsd4dxTXtDBJar3QeXjK0PYOB9EtlcB6kQ=",
+                "mac": "j9oUkxW7wuaeE1FrHBdP5A=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/3/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/4/message": {
+                "ciphertext": "+/J5zShhiGrwn7AI+s3HzPn0S+czasJh6VM8fmqYXyg=",
+                "mac": "aBwqkzZkJyAdELbw1j3Nqw=="
         },
         "maps/rhombus-dng/room-final.json/entities/13/settings/event/34/object": {
                 "ciphertext": "eSoRzOB7DmcIlIv0zCCuqw==",
@@ -518,8 +554,8 @@
                 "mac": "g0KvbWtq1FzAobuNjR3S2A=="
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/29/message": {
-                "ciphertext": "AHFxke6dLkeQQRwy4gnVpGVvIBOEwxYyQGKnHupmqwRNvotCNrYg43ipB6efl5Wh7GoeZMpwCG8AantdyQBe0rUM6Pp9WQXspe8tywqSkjqJD1rGhImu1EuvB7Yk7bnL",
-                "mac": "uJgodnKPOELSgqix9jEqIQ=="
+                "ciphertext": "ym4X8nBNlBXUSbWDpx3ZHbH1FDmj+ZEWNDUhXmOyY1E7CoHcOR/MJ/xtKofeKU5YQ8w0aM4IoGVhSORZoubabmemAKVNb4lDq1xjfvTp37rRJUzEf5ET6k0YUiknW8x8",
+                "mac": "WH734oXPxDx6LE7DTjKhmQ=="
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/3/message": {
                 "ciphertext": "7wa7aurrzEDcRzZ/Qk5PETHOFzv5mBw/ut6b58zExCp9JtToHxPaGa9jMkahUhC6",
@@ -582,5 +618,17 @@
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/52/text": {
                 "ciphertext": "wgXyU3bdL91BN0nMLbmXB9UVffnsSKiyKFEwVxu8z6BSRQRQ0NAkvaGsEijwFOyYYP0ukutdVrSiV1dTu3GMWvNnOYu+4p/7gliX3/mGfnhtvaE2WLbAkW2QWl/TQLJiUUqALjjRZOH1iwHUadAsI7NSZffGq5c1jW7uMTDb/J8=",
                 "mac": "wQcjE92HunC26xIopKgtbA=="
+        },
+        "maps/rhombus-dng/room-final.json/entities/42/settings/event/5/thenStep/0/message": {
+                "ciphertext": "sBf2Ni378I1xfuZ3xNOaDc8u+/pEBimLSd5DPOXYe+7LKt3UWT/3sJR5S0IWD2j33GNZjYeUuGp6LWKRwnJhWqShJMQxl9OtH3u/cGKrvQc=",
+                "mac": "11rkX0iD81wfzQGrx/WKzg=="
+        },
+        "maps/rhombus-dng/room-final.json/entities/42/settings/event/5/thenStep/1/message": {
+                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
+                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+        },
+        "maps/rhombus-dng/room-final.json/entities/42/settings/event/5/thenStep/2/message": {
+                "ciphertext": "n/eWN6lsflj8CuUpBZOXxVPz675qWJ5ryNokMO/mcjoPQdTJF4UdsD2mQkbN/P9TMMIjdYRyo9qg8e0YXi+uLSHe9RczEflS8ECOFriiEDrT8q4X7MgV9SU1JDjdB2R7jzYItYZk3wcd7rpAbEfxA8k3Nf64Gts7ALsx9OIQfd5EM9fQ3vo/dnIAwGR6obVga2FQp1p04DVvyNS5/jBuwg==",
+                "mac": "FZPNKlbtycvi7eHObK+C+A=="
         }
 }

@@ -96,9 +96,33 @@
                 "ciphertext": "EU8VgbQgypoq3cDYHyzGmg==",
                 "mac": "HV26JVUV0XQNV2OpnsvJ8A=="
         },
-        "maps/arid/town-1.json/entities/292/settings/event/56/message": {
+        "maps/arid/town-1.json/entities/292/settings/event/56/elseStep/0/elseStep/0/message": {
                 "ciphertext": "4xlRcwhWkNO6uWUzhdIenlpET6JpiK8KodNFkRNTsewst9OESUbnA6QMHk6GuRsI+s4oEtpxgby2u7PaOQE6MNzKCgtlRdmr33j1zs15LxhhKtsMr7X9PMqM9tiNIAgkDHJx6gGSReWRtjxlXHWQWg==",
                 "mac": "izmWIzNNdTYVkeBgByV6ww=="
+        },
+        "maps/arid/town-1.json/entities/292/settings/event/56/elseStep/0/thenStep/0/message": {
+                "ciphertext": "yNehM+UR7F+lt0D//UpSoDyrSVAo8wn5MX8S8O2iEc2G8TXOmEm/uKUba07eneWZNf284b0ubm/06JVZtcroqQ==",
+                "mac": "9ZpFy4V7TNHotUh+Afykew=="
+        },
+        "maps/arid/town-1.json/entities/292/settings/event/56/elseStep/0/thenStep/1/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/arid/town-1.json/entities/292/settings/event/56/elseStep/0/thenStep/2/message": {
+                "ciphertext": "3Zbc3+8SiXjPg50VwLNNpDz1LEQs0awbVmSfR5AfpnWbX3xBCxG/IKuNsAtxh9bg",
+                "mac": "Re2b5KYUDM1+wY1auCLHqw=="
+        },
+        "maps/arid/town-1.json/entities/292/settings/event/56/thenStep/0/message": {
+                "ciphertext": "sQBYK+mvv84BoHNZKmjHNT+NDMnyey4VUtiRKwbuBosuM13lnpeU5ejjWeyT9iVIs3b4SV0GaJqwJ6+n7ic8G74EyhUkA8ptX5aJYQntF9yqBCkMIUe4GEviCdgeqniR/bNyXBXUN/1kAYjuQaKwjA==",
+                "mac": "jKqs2ZNwtgjvAa6d0L9XQw=="
+        },
+        "maps/arid/town-1.json/entities/292/settings/event/56/thenStep/1/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/arid/town-1.json/entities/292/settings/event/56/thenStep/2/message": {
+                "ciphertext": "L2R0j+xIG3nU/NVF17cHBIQZf+XUMIKbXLkHK8jGTPIESrRowLcklXBuJ4F5KJOX3dWJfhsDfU/CACen8uJIIQ==",
+                "mac": "ulayBSkjFRxgLChotb8M7g=="
         },
         "maps/arid/town-1.json/entities/292/settings/event/57/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
@@ -441,32 +465,37 @@
                 "ciphertext": "8Zer8b4Riz3n5a1OL6KP+b3c403M7abJqnsN3ubTJC30UwNs+kkqdxemVtMAjharTzoXDihRCh6R+71R2+i1Yg==",
                 "mac": "0BruA2NPEWaxfxa7TWyANA=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/30/message": {
-                "ciphertext": "8ae2hu8GbZmmVpB4h5dsDZSwbeGV/noM8mFRZOMQaShDrv2sM1n2VportF7jstQ7+qDqdxTE0PDSkW+1sA+y3HfipmMJIPu624I7au1eyQY=",
-                "mac": "SnZAamYKHS15bPcIi7kGQg==",
-                "quality": "bad"
+        "maps/arid/town-1.json/entities/300/settings/event/30/thenStep/0/message": {
+                "ciphertext": "bZiQYHfQAZiL0+9T4FIziDL+9WkcL0yxkJQPyEbc2MJoVVF//5d1CE3faFaDQsl12kOTgAr9GBKLRGZbS9gKZPOvo8XFirbXF9SV7FlwCfdeI28Bq9xDKt6irxMohocAy+FWpCcKX39nYQzgCsACvC9zbe3EdYRFvb9Bnrc3gb2iXXhDTvvZmC1FE2BfvsZ0",
+                "mac": "1PmMKHaYca17ObSj7ncC2A==",
+                "quality": "unknown",
+                "ciphernote": "3tofzjH7HtUCt93MUES75A=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/34/message": {
+        "maps/arid/town-1.json/entities/300/settings/event/31/message": {
+                "ciphertext": "8ae2hu8GbZmmVpB4h5dsDZSwbeGV/noM8mFRZOMQaShDrv2sM1n2VportF7jstQ7+qDqdxTE0PDSkW+1sA+y3H4SMq107zTEVz7OJb945hE=",
+                "mac": "VZc/rmaIuHOAjJgnTf31Hw=="
+        },
+        "maps/arid/town-1.json/entities/300/settings/event/35/message": {
                 "ciphertext": "Qymq2x82VzODlZaN/hZe4tszbXI9hgamvKyWpD6HcMa+tGVLoZC6ch/ADyrAtU2iJSJVUXLtW2Lq+M5HqgDyjFNR4cEl7OBA44/GipDUou3356B2hKddYOZxFMLXIiYAJ8knU8UmB1VU/BU1onRZ0A==",
                 "mac": "NeQ5ff4B9aWu7MFOZk81sw=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/36/message": {
+        "maps/arid/town-1.json/entities/300/settings/event/37/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/43/message": {
+        "maps/arid/town-1.json/entities/300/settings/event/44/message": {
                 "ciphertext": "uVSIJPPC0GqHVNCotd2fIeB6tvav52Jd/mPCI1g9aVMRdI5CkWSHHUtsBZ36ORal1c/61hNC/9h/JjhiXME8ZEj7CIJiTcQogGHIWwhWSkOnvscmc8pWNAAwLQxFmBDSKJ7L4cHCdKQuvUXpGCDDqw==",
                 "mac": "bcObtfxSD1lVT+rjcI53VQ=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/44/message": {
+        "maps/arid/town-1.json/entities/300/settings/event/45/message": {
                 "ciphertext": "W+9KEZQEYfeWU8GwqiAK8Gqq9AbUzPVjUIhBc0phkA+Dq7QpYdQouDePfg4LPLVZb3Qw8QEUDqR9z5ndTyOOmm36e8raqtLVACGPZS/7xeshX33A6HBraktTpZuMo89M4HxYN5neGSu+FH5ahTth4g==",
                 "mac": "bfd2ZMSYwh0oA/rSj6uGAg=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/45/message": {
+        "maps/arid/town-1.json/entities/300/settings/event/46/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
-        "maps/arid/town-1.json/entities/300/settings/event/49/task": {
+        "maps/arid/town-1.json/entities/300/settings/event/50/task": {
                 "ciphertext": "VYY+sx6A7QGvPXBCf6gIgvl6H/9btU5ZaXzUeejysRwNjmic7b+Hq65Ee2ZrCIWHDitysMv744vTjjhbx0IvcvkupqF4RQCFaK7lUPyX5PoTHP29zdHVF57RQ6xjYRJ3oU8NxsAf5x6jsUo85Bm9dFpmtrgq1MHE6XgguDDqlZ0=",
                 "mac": "8oD+rbLxN/0MVz6hOSAFNg=="
         },

@@ -329,9 +329,17 @@
                 "ciphertext": "H15nQWlKO6+idHM/gmnhLDNnFI8NQKgx7yKBTSma5LY=",
                 "mac": "f1B5DIWoSlVt5ndTrB+JyA=="
         },
-        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/elseStep/0/thenStep/0/text": {
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text": {
                 "ciphertext": "hWn3s5qDtuflayFwdBa0pA==",
                 "mac": "ofzjKj3zQG9oULQDGyNlfg=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "FRBwBozN2ZhE/4sLjlDRpw==",
+                "mac": "Y5ifb5nrDh8H23kp2J9p1w=="
+        },
+        "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
+                "ciphertext": "GyuBdk/OQ1mE0teaZXIGDw==",
+                "mac": "zbS/XrA2sQNnDCqYLR30Dw=="
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/elseStep/0/thenStep/0/thenStep/0/text": {
                 "ciphertext": "Rald7KSdSCsE7CxU/mxQ2A==",
@@ -401,7 +409,7 @@
                 "ciphertext": "xDfWeTbmombfo8ycnsbSqQ==",
                 "mac": "k0jJAvKD+IjRl4+pFJGe8g=="
         },
-        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/StartFullShield/0/text": {
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
                 "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
                 "mac": "SxiTy9KL/CQxPcMJi04n6w=="
         },
@@ -412,6 +420,38 @@
         "enemies/autumn-rh/suicider_float-quest_naval.json/meta/species": {
                 "ciphertext": "+Q6VNlOujAonEeDvKztZNQ==",
                 "mac": "ejqJ58aobxzdSNtwjVK2KA=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/AntiTurretShot/12/text": {
+                "ciphertext": "3+tpCZmvCWACSg4PTW9d2aJkca0xAtNWQXhtskbaQjI=",
+                "mac": "TUyszEU5wHtMvWklXeUTaw=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/InitMove/1/thenStep/0/text": {
+                "ciphertext": "YY8AfxjS5l1zwbZKnRlpjQ==",
+                "mac": "dPD4gLJ6nk0O8MwAe7upbw=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/MarkTarget/4/text": {
+                "ciphertext": "KSPgRwU4g4T3st2QznmNIQ==",
+                "mac": "Jxydx1BXnVNGlJNcIt8cJA=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
+                "ciphertext": "xTKQ9jrQPG0TO0R2S6T2NQ==",
+                "mac": "b8prHUcSJc7eHR1Fr5OGkA=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/ReachGoal/0/text": {
+                "ciphertext": "fKe3Rk5k9zokx3h2h9LTBo+vHQFGQ+TQcopAnK8kiVE=",
+                "mac": "YF7K22yX6nWHWuGMmuyl3w=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
+                "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
+                "mac": "SxiTy9KL/CQxPcMJi04n6w=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/Target/4/text": {
+                "ciphertext": "KSPgRwU4g4T3st2QznmNIQ==",
+                "mac": "Jxydx1BXnVNGlJNcIt8cJA=="
+        },
+        "enemies/autumn-rh/turret_big_float-quest_naval.json/meta/species": {
+                "ciphertext": "on7WqHeZ7FH45Z1e9NcmmwAEtPgiebkwk3dnrzh5eHU=",
+                "mac": "L+A/TMcqpi4di5yfWYUDWg=="
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/AntiTurretShot/12/text": {
                 "ciphertext": "3+tpCZmvCWACSg4PTW9d2aJkca0xAtNWQXhtskbaQjI=",
@@ -433,7 +473,7 @@
                 "ciphertext": "fKe3Rk5k9zokx3h2h9LTBo+vHQFGQ+TQcopAnK8kiVE=",
                 "mac": "YF7K22yX6nWHWuGMmuyl3w=="
         },
-        "enemies/autumn-rh/turret_float-quest_naval.json/actions/StartFullShield/0/text": {
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
                 "ciphertext": "FGvrvcGVIrp7I/QR9H4JnIiaDVn958x+YaD3VvSZNSM=",
                 "mac": "SxiTy9KL/CQxPcMJi04n6w=="
         },
@@ -454,6 +494,10 @@
                 "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
         },
         "enemies/avatar/apollo.json/meta/species": {
+                "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
+                "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
+        },
+        "enemies/avatar/lily.json/meta/species": {
                 "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
                 "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
         },
@@ -812,9 +856,9 @@
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
                 "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
         },
-        "enemies/goat-cave.json/actions/bombDaze/6/text": {
-                "ciphertext": "UrxvphxxVk3DuQzghEV4Cg==",
-                "mac": "Nx7nCi+6z4iVZ41DE+z6XA=="
+        "enemies/goat-cave.json/actions/bombDaze/8/text": {
+                "ciphertext": "+/WiGyh8oU2ppii2XRnA9g==",
+                "mac": "eW13VxyIF32u4s/XOnBwXA=="
         },
         "enemies/goat-cave.json/actions/bombKick/1/thenStep/0/text": {
                 "ciphertext": "1O1kpOQu4qT3q04RRV1lPQ==",
@@ -1024,6 +1068,10 @@
         "enemies/heat/scorpion-alt.json/meta/species": {
                 "ciphertext": "DCNLhPxWOg7dx5rkulWxZSzvtBuKnpA6npUuOSdFa00=",
                 "mac": "WsLKE11YlZGWP83VdKUksA=="
+        },
+        "enemies/heat/scorpion-robo.json/meta/species": {
+                "ciphertext": "YuhrTiaTMckAAoY39y8kVQ==",
+                "mac": "pUI0pbli7UqcxX8ybzmdkA=="
         },
         "enemies/heat/scorpion.json/meta/species": {
                 "ciphertext": "YuhrTiaTMckAAoY39y8kVQ==",
@@ -1273,6 +1321,10 @@
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
                 "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
         },
+        "enemies/hedgehog-fly.json/meta/species": {
+                "ciphertext": "wD6I7RMDe6ktXBbj34EIGJwufjJZqSk1BBMLB3IPIF4=",
+                "mac": "JeFOLrObSGT69AUFeikb1g=="
+        },
         "enemies/hedgehog.json/meta/species": {
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
                 "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
@@ -1328,6 +1380,10 @@
         "enemies/jungle/chicken.json/meta/species": {
                 "ciphertext": "IxYin5+4LJCDNDP76J4mLZ+aGOJ/gdiaHQ8u0bUue3k=",
                 "mac": "yOfiQxOxh95GujEs+gokag=="
+        },
+        "enemies/jungle/fish-gear.json/meta/species": {
+                "ciphertext": "DblBR8ayIdFtufo+I+Y4BaxmeH8LDfAtQ8Caaixu2T8=",
+                "mac": "2qZGDzkoaeCMfMO0TRdcWA=="
         },
         "enemies/jungle/fish.json/actions/QuestEscort-TargetEscortee/12/text": {
                 "ciphertext": "4n8UMtzQm1cu77wyi/8mTg==",
@@ -2305,6 +2361,10 @@
                 "mac": "R8NrBlGFW3kuQe+KlHlm5A==",
                 "ciphernote": "woGR/9mVlz/Ewdc0XxpKRMZ6EtgFzKaiy5PZpOiOiBc/uEik9n8IRWlxJffHsofDs0cWvl2t59OURO6gIxUvPQ=="
         },
+        "enemies/minibosses/scorpion-boss.json/meta/species": {
+                "ciphertext": "6jJXf9tJJ7UtPaKcmfxZUKT9AGoMV27jyc0pSOacrvI=",
+                "mac": "8PyEmoHy8fgPD8YleQi79Q=="
+        },
         "enemies/minibosses/shockcat-black.json/meta/species": {
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
                 "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
@@ -2312,6 +2372,10 @@
         "enemies/minibosses/sloth-black.json/meta/species": {
                 "ciphertext": "jCl/X5nmQe01m1zKqBo6KA==",
                 "mac": "sxEkfKQti2AUXSQczMxOWg=="
+        },
+        "enemies/minibosses/snow-megatank-orb.json/meta/species": {
+                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
+                "mac": "+fS1iTKu1amy6q6C4u+70w=="
         },
         "enemies/minibosses/spider-black.json/meta/species": {
                 "ciphertext": "PfIlQ4q3tIGIt96MTAYUKyHo86Ntb4zE/wK4/KOMY3w=",
@@ -2400,6 +2464,10 @@
         "enemies/snowman.json/meta/species": {
                 "ciphertext": "FnjgbJA7ZiAXpKCgZrFyIYNhCUSKBK4I86V2THZ+EhA=",
                 "mac": "PfGeC4ij3vTUg4Uv8LdlBg=="
+        },
+        "enemies/snowtank.json/meta/species": {
+                "ciphertext": "1D65qJDsFA2O52mxhYVr0H2WiHnrAIsj+Ytmkj3qj7s=",
+                "mac": "AgY10izD87wZTW/m+i50KQ=="
         },
         "enemies/special/dummy.json/meta/descriptions/0/text": {
                 "ciphertext": "SL3AZ7f83AaGJZ6oUpjPnEQJQ2Xbui3WaOTlSh2xjoJiKWQuOy6uM6TPP4Bgwo301ll7VO67W1lWvQffWsNyU8jboTv2r7z+EB+hjw0lVZEdqaKcOI04z2wGeB74S8PBOLLZ7/xRuWDRAVRox4quc7HpFiX0J1HteaRCIGiNWq9ImNZQjc8i7FBONOmPEoNNiqHw7eHpFSo/ghIiI1lyNg==",

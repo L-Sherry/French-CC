@@ -1620,11 +1620,23 @@
                 "ciphertext": "S4yIBTu8KkIksg3cvIhyRhmqSS414d4PEsaLdhhHRKS/2iIg86Rze/3kKSbQ/qv8Z2Gw/lbLQBNpdBiVzj1nCWxEAtdvipSDcu5vBKf5rOE=",
                 "mac": "zsVxsroWF7UTa1ExqVlEFg=="
         },
-        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/0/message": {
+        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/0/elseStep/0/message": {
                 "ciphertext": "EAWsXvq8JcGZtS0p2lvxMrtJQE9DGm79uDvc70gPd2rBIQpJYsK7u0k9fx5GweMXV57blRksAAiXgA+LnCE67Q==",
                 "mac": "kc8OZjsXIiQmijzcdCNfyg=="
         },
-        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/1/message": {
+        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/0/elseStep/1/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/0/thenStep/0/message": {
+                "ciphertext": "23k2B7oV+WYqAiEkUY06WuCeDYvlgJ8tqKho2EMJokDbRrWF4qnYEF3iD97KTpsOqNxcFd7/x599TOKs0wssuO7dyPZLl7mlP5lZJa5JeeuNhbr/JQAtZKO4+UIHG6uE",
+                "mac": "wxfUD0zRiSOBDA0F1EQvRg=="
+        },
+        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/0/thenStep/1/message": {
+                "ciphertext": "fEPtQeLXEmGjM35V/pQ3i5qyQ+Ys+eFI/pUPfcGgohVhlfmETugi1zZVd8GnkSPZOzAbfXK20CSzqPswlBxr9g==",
+                "mac": "xIaOxLuFktYTV6nlCfLqDQ=="
+        },
+        "maps/heat-village/baki-2.json/entities/831/settings/event/37/thenStep/0/thenStep/2/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
@@ -1641,8 +1653,8 @@
                 "mac": "w6xlbYwVdphtw/iOztRKSQ=="
         },
         "maps/heat-village/baki-2.json/entities/831/settings/event/40/message": {
-                "ciphertext": "0GWMH1VabxhheCJd3pZVt+rxtGxOAzgUr+IBYDZTKRdDUKtizTMOUUhv2paVZRA6",
-                "mac": "fUWfOIZpJn4oDBkgmamzuw=="
+                "ciphertext": "0GWMH1VabxhheCJd3pZVt+rxtGxOAzgUr+IBYDZTKRe4NN6X2lvMHZyTuHbwX/D4hq+fk/UVpac6L3fLVsYgMQ==",
+                "mac": "Pt8OXzzyjot9JkBKT4t02Q=="
         },
         "maps/heat-village/baki-2.json/entities/831/settings/event/41/message": {
                 "ciphertext": "F24UdZ7Teal1pNwi7iBlQpAdXuOcpruMpjbe5Bkcwgo8uc0fKBLtfcZ1ZmdFICAc9k/ysUWl4Wn10yR6eEgrbg==",
@@ -1798,71 +1810,71 @@
                 "ciphertext": "dJrp3gKzNY/VWLfKipFtOitb5Bnt63xW/JUVSN4fQAY=",
                 "mac": "/SG7tT+OXy1K9DSkix9qJw=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/110/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/108/message": {
                 "ciphertext": "ZoKiePq4P0Kw1NgP2qPoJJ+m9rycuFGmApVD5+dS8Ub3F4JF6nvxn9Lt//aKzj8dGV8e8bNVX9XHMnSOwnG3rrfaF4Wkxv6RQMdgAXSNBHY=",
                 "mac": "2WO6OKG1fWSd0Cp6oZ0mmQ==",
                 "quality": "bad"
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/111/message": {
-                "ciphertext": "wokz6+jEgEVrIbTK6wpiag==",
-                "mac": "F+wO+xNywRP8IZSXEeB98Q=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/109/message": {
+                "ciphertext": "ME89/sp8cMLfo4hyPw/tcg==",
+                "mac": "/EUx+MQMSBrE3r3y0r8HNQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/126/message": {
-                "ciphertext": "QvCo/njaWkgzPYoKTd0/6Zd5vs/WGFOcEWy6Itv3vJnjmzidjeCLMUABDZ8euwdP",
-                "mac": "udaiBEzx/70FTcbBgSbjJA=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/124/message": {
+                "ciphertext": "eDuXASIliCrLa3Fo+Y1y0U8m4ei7+3cN5Z4H0DABfVE=",
+                "mac": "3M7oqXrYlSBeDK2iM03PTA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/127/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/125/message": {
                 "ciphertext": "DYsWFWKTB0xpcXZLMmSnSw+laXY3vlqt03NsWQpvRyPjUhv7GKjdVtRtKbHvd6PpxSVvKvhnZzg3hDRNGIQyhQ==",
                 "mac": "Gl2HYVP8zpk6lJ83jrAHmg=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/128/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/126/message": {
                 "ciphertext": "UlO68qpjp0elZGeDEt117YtfCsMGHjddYIoFy5YOq4JE+e22YxcTZXZTnU8L2WK7cYaGhsOaXhevfqMVymkC7Q==",
                 "mac": "bBxhJgkSf+ZkXe19tZdDIA==",
                 "quality": "bad"
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/129/thenStep/0/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/127/thenStep/0/message": {
                 "ciphertext": "O3HRrEojOmaQV41VG+ecxqw0Ft48fJJze96IZdThWV0AYOMDB3Ink8OnSkQOTBDK",
                 "mac": "b3wiLYOdwgO69/C4X45WjQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/130/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/128/message": {
                 "ciphertext": "NLpy5zD5dD6eGIRqWqZxCIORphv1DiFnSBQo5Jf9ateAwxjN0t5m8sGdnlFVypm/",
                 "mac": "JgQrTY9qVCZUUBoIrv2oVA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/131/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/129/message": {
                 "ciphertext": "e2rb61hTQvHUcdRmAkiIzkHB6Pc3M8YzfCv1yIZoDeA=",
                 "mac": "IfBebtgGw+uT30CbP8Lkmw=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/132/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/130/message": {
                 "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/133/message": {
-                "ciphertext": "Akx/ZRUh7HQIJtOsP1z2d7cRdzgw+QN3t7RwvhuazAWEUvdX1ZvxcHHDvgrsYZC9crG0umxpL90zj0GTDpjBXA==",
-                "mac": "g9VaqfIaA34ap1F0kI4D8g=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/131/message": {
+                "ciphertext": "Akx/ZRUh7HQIJtOsP1z2d5ALE9GkyhL6DthZQ+XvA3vZKedpLAolYqeuHMxrA+Jj1MvXHR2FXmJ5fs4JGveYpQ==",
+                "mac": "CHqj24qEpnuZM30DCkfITQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/138/object": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/136/object": {
                 "ciphertext": "s4CRORkC98wOrASKrcBZ/w==",
                 "mac": "RXT0MGqEvexadfXFRAI3jQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/142/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/140/message": {
                 "ciphertext": "wnfJzDiEaZHg6tOhrdEB5y9rI3W8sE/j0kqOP3CusvFSzqgwpRTYxj1086S+vkZK5raxh/KeGRDW+UFAy7/TS0jnti3HsTuQXM8gYcsDc6U5m2ep21KhKXsM63d1uDMY",
                 "mac": "XOeNoe319serKpshr9VI6g=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/143/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/141/message": {
                 "ciphertext": "tQovH/Re+1CUqE/oNOHXsQ4RORbIWndX4k3uXDdNLWhofJ84jLVreRrMeOpPWN7JrydW/NKdfu2TYI9BlC8HUPTBEj+UI8ac5GaFROFY27NaJuBI1BrgnordsMaVJdeH",
                 "mac": "hkN/TsiX/Tks0qn8MexJ4Q=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/144/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/142/message": {
                 "ciphertext": "/AiMBQWY9QMjK0WKMMpf5bdUimASZ7NEFfLYlS9KRJsvf9rn7MaOQF2bsbsb0v/t",
                 "mac": "FQuNSnB7TrDVKjiYgouUiA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/145/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/143/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/147/task": {
-                "ciphertext": "4VJFzeMdcYUcZvDBJGgVMdYWMkhjnbMR1+TiagF4Zk7PRB1LS4B6+u0EYE5DIK5LR47dstmV8bmP+LwCfXPDoCov999R7OaVp8nMxekXRGSoZ1j1XBlUsr5s2R2dQP+u",
-                "mac": "ziern/EwplzNewx/dZNadA=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/145/task": {
+                "ciphertext": "4VJFzeMdcYUcZvDBJGgVMdYWMkhjnbMR1+TiagF4Zk7+VKVIGmO+u+EM1pxTkyrTofDHXAPw4wGD5WvC/V/+YZGALBrLsCgrPiGAZgUY71JUANitGkPqqhO+160Ws64d",
+                "mac": "ikAmdddKfjTBEmIVbnejrw=="
         },
         "maps/heat-village/baki-2.json/entities/834/settings/event/22/message": {
                 "ciphertext": "vDGgVn+i5tBlMU3LLboSUw==",
@@ -1884,19 +1896,27 @@
                 "ciphertext": "EJnZujkl5doc94mzkbq9eA==",
                 "mac": "3bKixQAjAsp74to0nZL9xA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/28/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/28/elseStep/0/message": {
                 "ciphertext": "7UX21S5+pyX+pkBbOAYplf82kPHE7E4l/W73N1Bpoc3bGgLyTM+x1fyU9oWV/G9XcEkoDP/RqiCOYoEwtEULP77DPWOO4Y9PJG10fxGL168=",
                 "mac": "iXAgh8t/cUivozJ+ecfgiA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/29/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/28/elseStep/1/message": {
                 "ciphertext": "BbR+O/xm+GIrIOfx3GZpeKivDZK9iQK3saKeewcAvhoNf00RBG9n6m/Uk09p6eQGdfEfomEovkRzHB7nZLZHwA==",
                 "mac": "IHD/lru4tE2rIr0itjrqEQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/38/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/28/thenStep/0/message": {
+                "ciphertext": "6ZRyc8BKII9a9Txl5VqqKAb/y4MqCi5PbzUcAGaYtqRBi1hh1TGJArOopzKtc/1PPbYJBBIuL0Fh5BvlTZwvimx1KgiOs3AweE6ANlZJTN+83OJiBks5PC6fuypCz9yingBuPwQcjKi88WsU7RB3+A==",
+                "mac": "+j+y520eIukZR10NHo5fkw=="
+        },
+        "maps/heat-village/baki-2.json/entities/834/settings/event/28/thenStep/1/message": {
+                "ciphertext": "mSO2WTUUwYJTWOM5OU6+C4g+rWbdl1LbOnvZF1dveUrVJTJeUy3kZnjbDQeu7y8D5d78ZU6bgKNlaUXYDVLG+ao2Oyw+rJmFU2RUtntbs5g=",
+                "mac": "2ENz5Tqk+RpFhXh6HewbqQ=="
+        },
+        "maps/heat-village/baki-2.json/entities/834/settings/event/37/message": {
                 "ciphertext": "F/FYI/91WDnMiLhqSaoQ1zZPkIKppPBW/UtGjbaNO6DxZjkwckhnrGLhuZgExRJ2O9TcTz9RjwFqlEMlkS9i/pMGnPK4xY2krc/xMuxmpFOkHTmS/iRs67QOcBAs4MWLeEMAMRXNAAprd/zXa0zPjA==",
                 "mac": "4w6GRsOYE38AeZSA3hcW/w=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/39/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/38/message": {
                 "ciphertext": "EJnZujkl5doc94mzkbq9eA==",
                 "mac": "3bKixQAjAsp74to0nZL9xA=="
         },
@@ -1904,104 +1924,119 @@
                 "ciphertext": "Y8XizH5QAdwlUhYEI2Gf1P2njONp39ucEJMSSVJQG+91JlshCSY5WDXiqktiXIfw",
                 "mac": "fubD11cmn4etwNyJUCBzsA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/45/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/44/message": {
                 "ciphertext": "t1Wtyenn4rluZJrnlsPSLg==",
                 "mac": "RwpO101Wa0cLeWxgMuvcAg=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/46/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/45/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/47/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/46/message": {
                 "ciphertext": "xhV4f9NWVVx0rxDBGPTHUQ4r6orKU1SfaZ3E5OxmEXPZjNofPbVbLRnvLxVRIhhR",
                 "mac": "Mm+H2iheO9YirueknBIhmg=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/53/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/52/message": {
                 "ciphertext": "siKm9jS8ind2M5KrqQ/wuZv01BEl41yhnB2+pTSSVeK6E+7RnT4yvQDxCcLwfPhQ",
                 "mac": "Ntm7eeVSrdhqD+u3N44dPA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/54/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/53/message": {
                 "ciphertext": "JqJhv0pbK425iHlBDIOg3Q==",
                 "mac": "ecSP8p+N5eiwaZnAOwuvWA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/56/message": {
-                "ciphertext": "tqHidsVJlvQOHw8EcfG46zF0jUPBgz+fVIPd+So6Qso=",
-                "mac": "XDfDVLzWI9rNGvWieBNE1Q=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/55/message": {
+                "ciphertext": "SMeVvw9Z9b0liEhrJ5EybaPF/M5n81X0/SDQ8b7tt2lm/AoeFoD8jA2DPwrbkIb8",
+                "mac": "ekKgDiX8EDwZSM/pK6yJuQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/57/elseStep/0/message": {
-                "ciphertext": "JfHRoBeVy7TBLp8Gq0V0Kpe7/URvgXOTrF/AMk+gPK0aAqOTV7eZqTELkaaoJjcry/EQQ3eQcpDOAEN1c4yUeQ==",
-                "mac": "JgEVUgVYfaHI3hgd+K+3mA==",
-                "quality": "bad"
+        "maps/heat-village/baki-2.json/entities/834/settings/event/56/elseStep/0/elseStep/0/message": {
+                "ciphertext": "JfHRoBeVy7TBLp8Gq0V0Kpe7/URvgXOTrF/AMk+gPK0Edp4l9/c8obTMNioqVNQSi/QalG3uCyjevyrKHtk7ZQ==",
+                "mac": "Tyhl6PTP3+EY50ejBCJxGw=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/57/thenStep/0/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/56/elseStep/0/thenStep/0/message": {
                 "ciphertext": "IVRYdHbOcYof2L8yT7LFTAtp2NWHRtYCjvtVPXWy8/gd75ffsc9Xx+Js7QGCPdXiNVS8GP2OorKjuplfYOdVng==",
                 "mac": "h55U4Q7F+FyQGikrJMO7/Q=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/59/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/56/thenStep/0/message": {
+                "ciphertext": "jDqhqdK258ZlfCsNQl0R/hqx5dT30pYVeWVDkuktJfNLkKpt7VLktTuDt6Sm39nqRksNszfiEtoQTQysJEaCnybtjUlAzqagmdGlTxvbl2o=",
+                "mac": "0LPUhhrreFe0ent+5SwBwQ=="
+        },
+        "maps/heat-village/baki-2.json/entities/834/settings/event/58/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/61/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/60/message": {
                 "ciphertext": "kOi+iOmpJafrWMChpRiwHysuxfjttYoFWE1V39cNjkTorHUnZ68nTQD1QbgsT/Fgc3DckGTR+v+eNaZgkH2lzA==",
                 "mac": "/Y+io91YcXCOF27QkPJZug=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/62/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/61/message": {
                 "ciphertext": "siKm9jS8ind2M5KrqQ/wuZv01BEl41yhnB2+pTSSVeK6E+7RnT4yvQDxCcLwfPhQ",
                 "mac": "Ntm7eeVSrdhqD+u3N44dPA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/65/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/64/message": {
                 "ciphertext": "ye0OytJaC0hfg8Uk2X+ljw==",
                 "mac": "eQjeWu4+cwIXkgrtKkYFMQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/71/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/70/message": {
                 "ciphertext": "zPb2j26oeP4p8NvtJo6CQszmhLq/H9AyhS0XY7WiGZh+furVdBggBchwByHL0A+4",
                 "mac": "bS5xzwsDsilLFOlcl1GkfA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/72/message": {
-                "ciphertext": "vOBo6fkd664Q46PUweuwpNFyfoDP9l/n5G3bozDosnE=",
-                "mac": "0KAlYP14V5xMBctGsHxoWw=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/71/message": {
+                "ciphertext": "FER2UKLzNjjAiOsXUql2EfL+hDL627jACnt7nuJ8tk0lJZBgpioF/u5lTTIi3GeE",
+                "mac": "isopYHGJBwvRw1JoBhL/Cw=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/77/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/76/elseStep/0/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
                 "mac": "xKrVjQDAYxxIZj7NNShVdA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/78/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/76/elseStep/1/message": {
                 "ciphertext": "I1AQxFhciFatAI2q1PdDCRDzptqheZ7rUY18KuQ+3Urx1bcJgmUVz9qA7g94KiB2",
                 "mac": "w6c/IVoY8XcE6cK3QfsqAQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/85/message": {
-                "ciphertext": "sCTOrxQ7cpFxZxeyOW9MOr0kTKMsLzMjAX46J6QmeL3X4ROlLu+jzGSGSy8fvj3MEkAjT1fIYe7Jag7Y4dyniZzd5Dzg8Ov4KkfeaBr1T+EoKo7FHkcVhSLbZlNV9AaG",
-                "mac": "+tfmFG36WztC+C6TVJjLZA=="
+        "maps/heat-village/baki-2.json/entities/834/settings/event/76/thenStep/1/message": {
+                "ciphertext": "rMl1aV75k3SOCx7hy03EFaG99RsOFg2txxtkdJGwLUJk8xQCJLPVSzhq0WxGN1U7MDcUgKOCOjBGmPC/dEk8Kax0ICtF01K0TRxKr9K2jUc=",
+                "mac": "3vCWreTHxd0dJetrCV1qXA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/86/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/76/thenStep/2/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "maps/heat-village/baki-2.json/entities/834/settings/event/76/thenStep/3/message": {
+                "ciphertext": "Wgqu4ZN2zPwyH+tYp01xaWcoLsKuHxLUrHdINrQxwKk=",
+                "mac": "nMo+Kc5ugREM3SMcEhzBGg=="
+        },
+        "maps/heat-village/baki-2.json/entities/834/settings/event/83/message": {
+                "ciphertext": "sCTOrxQ7cpFxZxeyOW9MOr0kTKMsLzMjAX46J6QmeL3X4ROlLu+jzGSGSy8fvj3Ma4bJ5SZAx7nelmztRabAJEL9DPgdDNIEaBYJhAJd2/yuloOBav7bKiltDB5ZEY1S",
+                "mac": "Nhro0/8scqFuvMSwkq5GEw=="
+        },
+        "maps/heat-village/baki-2.json/entities/834/settings/event/84/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/87/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/85/message": {
                 "ciphertext": "dLUA2130nbWeGIgA4NB3RQVrCVikEU65gjNaOmgJ7tE=",
                 "mac": "L39P/sEaQEpSKj0PARMFhg=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/88/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/86/message": {
                 "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/90/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/88/message": {
                 "ciphertext": "DTY2mbKf/jHxTXtnwtN5hA==",
                 "mac": "a+rvcCFaqiS3lCa1JmhB6A=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/92/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/90/message": {
                 "ciphertext": "4R+iNp4Ut/5P0BncKJG9qc6ze2oMWlR9IbRtSBunXlpA5lOygTrnRw74HlGxbkoQw0JbXzgK1tpSnC6PPdaxxw==",
                 "mac": "70XpsPyI3gpJTK/zGUN3UA=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/93/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/91/message": {
                 "ciphertext": "t8F6h5eBlEKpLY0XI8yyyoRL9FKCHuzpvOtd5Dgi+Mq5IXfHcAdF9Ru1iL4flPffGG3luYX6TNaV5aaEwP2kRQ==",
                 "mac": "HOddzX/AdgKWDZK0cxD3Eg=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/95/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/93/message": {
                 "ciphertext": "YJ0CmdAc8ugj1hpfgfpkryILcInlwE6pTfnmL9gHsME=",
                 "mac": "6Bzc22mW1JfiYEpGuMUVcw=="
         },
-        "maps/heat-village/baki-2.json/entities/834/settings/event/96/message": {
+        "maps/heat-village/baki-2.json/entities/834/settings/event/94/message": {
                 "ciphertext": "x4wfrubYcuIGBurY/4rEwA==",
                 "mac": "cWCSr6+p3Agy5AipC96vxw=="
         },
@@ -2088,27 +2123,43 @@
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
                 "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
         },
-        "maps/heat-village/baki-2.json/entities/843/settings/event/41/message": {
+        "maps/heat-village/baki-2.json/entities/843/settings/event/41/elseStep/0/message": {
                 "ciphertext": "Hot2h0gAmUdJBXYhkv5n0Ly3kT4I0CDIborInXtZQKzXsMYB50F5JNEFB459wmBBl3UuLL5BbTxDG7wH4KbCpA==",
                 "mac": "3jwgZEuy+rdzrJA5B9kFaw=="
         },
-        "maps/heat-village/baki-2.json/entities/843/settings/event/42/message": {
-                "ciphertext": "leuEEf1hxVPyu8/8fec7ZPuj7wR51uqGOUHwDkhYOD+eetCRxK6+ORTqXJ1GNbIq499uPR4HZq+B0nDKfqdgDFssHYEn5tfB8TFCj0AFYO/Nh2udi02MVSwgoGVBF8aY",
-                "mac": "ejAaRcZJwBj+Gxh4/tQ/8A=="
+        "maps/heat-village/baki-2.json/entities/843/settings/event/41/elseStep/1/message": {
+                "ciphertext": "usvG3QsmWpoQYV9QmjqF5SyF7W6DBnCpGMYDUs3p3y7JRfIjy5xmTQKrARPR0tLYpZoE7MyRmXLRx7Non6qwfXIfzIO3KN+ICVsN8i1Rphs=",
+                "mac": "uIQ3bDn8ZKEitb1LbZYIfQ=="
         },
-        "maps/heat-village/baki-2.json/entities/843/settings/event/43/message": {
+        "maps/heat-village/baki-2.json/entities/843/settings/event/41/thenStep/0/message": {
+                "ciphertext": "X+IvPvEHUWsIVIoA3vT2wi8rIzKyMb5yg/vzaMZB2bS3ZbmBKX3obCezjMvUCqNKvyeLQEJfDpXwV73aaygHKwnY7wpXnyVcToNF07YcWu8NLud04i7XwvhYdkVnckI6",
+                "mac": "17FipSs2vRz8ZUREZFtexA=="
+        },
+        "maps/heat-village/baki-2.json/entities/843/settings/event/41/thenStep/1/elseStep/0/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/heat-village/baki-2.json/entities/843/settings/event/41/thenStep/1/thenStep/0/message": {
+                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
+                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        },
+        "maps/heat-village/baki-2.json/entities/843/settings/event/41/thenStep/2/message": {
+                "ciphertext": "EIJwnEkjT0ihav6eM5R3ujzB+eBnHf2UuqwQJ+7dUB29WPZhb+/n1Rxmk//8wc3vndgUgFGu9+ooB+gv+91IPVrfJrcx8weMrzI+djN6ioJ/qyJmCdEWZIDBS/0sacQw",
+                "mac": "nJchd2XGunYIOjAx9mCX4A=="
+        },
+        "maps/heat-village/baki-2.json/entities/843/settings/event/42/message": {
                 "ciphertext": "sWBo/ZjxdrhjgHP50Ss3tiY/InR1QoYFp0nMCutBGII=",
                 "mac": "SqbVrygnnNVwSRvyJXdBQg=="
         },
-        "maps/heat-village/baki-2.json/entities/843/settings/event/47/text": {
-                "ciphertext": "NH+Bvr0alC/ZenIim+PAxRkgsNrJLJdH0rWsDbV1BAP4CQYc41cu3EWz51x7ar7SCDTPILZ2M106uqwc9kMvh47L4hwNWXBlTyRKA0SAwPk=",
-                "mac": "qx/8FGPF3HfaxzN6YsVlWg=="
+        "maps/heat-village/baki-2.json/entities/843/settings/event/46/text": {
+                "ciphertext": "GTz2zo/PFIGZ4xLOoeVAqBAqv2V7Gg7FwrKkQnJD81jYSMZWc/CRUaVdoAp+IORhHfWgRmAq50MXdaBxliucJ7nYuMmV6dD1pkSvsr1H2vY=",
+                "mac": "0pvxLUiZI7EZd2G5wDfthA=="
         },
-        "maps/heat-village/baki-2.json/entities/843/settings/event/47/titleText": {
+        "maps/heat-village/baki-2.json/entities/843/settings/event/46/titleText": {
                 "ciphertext": "pqFoPmw23fLx7GfNssW1387vPWdu8FSWFzdeRCWDp2rBOpw5gy0zn3/4HG5Xl98d",
                 "mac": "Hs0wRBeTIOHka8qw0GLPzA=="
         },
-        "maps/heat-village/baki-2.json/entities/843/settings/event/48/task": {
+        "maps/heat-village/baki-2.json/entities/843/settings/event/47/task": {
                 "ciphertext": "I2JOc5pYMcu/VACZo+ODtXWS6dvCDjlwVOgGMcyd39M9WoLg4Lc/qMl+mtnbdtUQ3edFwqWE92EaArfuR13EnLgq0Tuk3pujyD/EgRG0En/Dtsru73GMCoXB3Gu2BDAD",
                 "mac": "VzuSjPkq4eZmycAq6Uc1bg=="
         },
