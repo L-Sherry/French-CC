@@ -45,6 +45,7 @@
 	"maps/heat/test.json": "packs/test.pack.json",
 	"maps/heat/special/cursed-temple.json": "packs/test.pack.json",
 	"events/puzzle.json": "packs/test.pack.json",
+	"maps/arid-dng/test-elevator.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -919,5 +920,31 @@
 	"maps/arid/interior/gautham-room.json": "packs/arid.pack.json",
 
 	"areas/arid-dng-1.json": "packs/arid-dng-1.pack.json",
-	"areas/arid-dng-2.json": "packs/arid-dng-2.pack.json"
+	"maps/arid-dng/first/room-01.json": "packs/vermillion/first-dng/room-1-5.json",
+	"maps/arid-dng/first/room-02.json": "packs/vermillion/first-dng/room-1-5.json",
+	"maps/arid-dng/first/room-03.json": "packs/vermillion/first-dng/room-1-5.json",
+	"maps/arid-dng/first/room-04.json": "packs/vermillion/first-dng/room-1-5.json",
+	"maps/arid-dng/first/room-05.json": "packs/vermillion/first-dng/room-1-5.json",
+	"maps/arid-dng/first/room-06.json": "packs/vermillion/first-dng/room-6-10.json",
+	"maps/arid-dng/first/room-07.json": "packs/vermillion/first-dng/room-6-10.json",
+	"maps/arid-dng/first/room-08.json": "packs/vermillion/first-dng/room-6-10.json",
+	"maps/arid-dng/first/room-09.json": "packs/vermillion/first-dng/room-6-10.json",
+	"maps/arid-dng/first/room-10.json": "packs/vermillion/first-dng/room-6-10.json",
+	"maps/arid-dng/first/room-11.json": "packs/vermillion/first-dng/11-last.json",
+	"maps/arid-dng/first/jump-last.json": "packs/vermillion/first-dng/11-last.json",
+	"maps/arid-dng/first/outside.json": "packs/vermillion/first-dng/11-last.json",
+
+	"areas/arid-dng-2.json": "packs/arid-dng-2.pack.json",
+	"maps/arid-dng/second/f0/entrance.json": "packs/vermillion/second-dng/f0-4.json",
+	"maps/arid-dng/second/f0/center.json": "packs/vermillion/second-dng/f0-4.json",
+	"maps/arid-dng/second/f1/center.json": "packs/vermillion/second-dng/f0-4.json",
+	"maps/arid-dng/second/f2/center.json": "packs/vermillion/second-dng/f0-4.json",
+	"maps/arid-dng/second/f3/center.json": "packs/vermillion/second-dng/f0-4.json",
+	"maps/arid-dng/second/f4/center.json": "packs/vermillion/second-dng/f0-4.json",
+	"maps/arid-dng/second/f99/center.json": "packs/vermillion/second-dng/f99.json",
+	"maps/arid-dng/second/f99/boss-1.json": "packs/vermillion/second-dng/f99.json",
+	"maps/arid-dng/second/f99/boss-2.json": "packs/vermillion/second-dng/f99.json",
+	"maps/arid-dng/second/f99/end-room.json": "packs/vermillion/second-dng/f99.json",
+	"maps/arid-dng/second/f99/pre-server.json": "packs/vermillion/second-dng/server.json",
+	"maps/arid-dng/second/f99/server-room.json": "packs/vermillion/second-dng/server.json"
 }
