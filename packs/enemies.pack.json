@@ -497,6 +497,10 @@
                 "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
                 "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
         },
+        "enemies/avatar/lily.json/meta/descriptions/0/text": {
+                "ciphertext": "zINWxxmMW3GeIqln037PpgZORj5QreRrtu1ntFUfi6l6EQFo8Bt139vCIvIxVSEouVRSlNO/XaOUbSnDbQKVfkLXIpMiHCtWL3MB1YLRQTXl7QAgv30TkLYZjdv5ca1C/HIbUhB/hh3ya10uhqczwf0h9cbAolkUh+GXMyUNw0uUB8JVOpyq11cvmbt9kwWO",
+                "mac": "DNOZEgys3w55Sk+RVT9LKg=="
+        },
         "enemies/avatar/lily.json/meta/species": {
                 "ciphertext": "iooJ/hgEx38HlQgxUv4n+YDwfEwJUh/8ZIsHDbA9zRc=",
                 "mac": "5LwdGkbEJXG9iAQ/V8gDrQ=="
@@ -1321,6 +1325,10 @@
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
                 "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
         },
+        "enemies/hedgehog-fly.json/meta/descriptions/0/text": {
+                "ciphertext": "rMSLgreeO0oKnVh6TGtVNtFwHdDn7YH2Kh222njgK8d2OoX7KlapxoEKwsHBXvbGi+xLBxNYgy+/jbpYoE+7/A==",
+                "mac": "JCZNqpx0K0sgg50ScnND6A=="
+        },
         "enemies/hedgehog-fly.json/meta/species": {
                 "ciphertext": "wD6I7RMDe6ktXBbj34EIGJwufjJZqSk1BBMLB3IPIF4=",
                 "mac": "JeFOLrObSGT69AUFeikb1g=="
@@ -1380,6 +1388,10 @@
         "enemies/jungle/chicken.json/meta/species": {
                 "ciphertext": "IxYin5+4LJCDNDP76J4mLZ+aGOJ/gdiaHQ8u0bUue3k=",
                 "mac": "yOfiQxOxh95GujEs+gokag=="
+        },
+        "enemies/jungle/fish-gear.json/meta/descriptions/0/text": {
+                "ciphertext": "qA7Tk9Et8Yg5MznIo9Ji8TNGIHCd7NTp41qkJ7+N+kRHIIDEdhd+wB+2O1s7iRik",
+                "mac": "5dBHUN8xJbazFucdX/bJAg=="
         },
         "enemies/jungle/fish-gear.json/meta/species": {
                 "ciphertext": "DblBR8ayIdFtufo+I+Y4BaxmeH8LDfAtQ8Caaixu2T8=",
@@ -2464,6 +2476,12 @@
         "enemies/snowman.json/meta/species": {
                 "ciphertext": "FnjgbJA7ZiAXpKCgZrFyIYNhCUSKBK4I86V2THZ+EhA=",
                 "mac": "PfGeC4ij3vTUg4Uv8LdlBg=="
+        },
+        "enemies/snowtank.json/meta/descriptions/0/text": {
+                "ciphertext": "9FCUnm0bGwyit4Girei36Dojl44z2ursKVG4pOs6hXkNixCJs22YGjbvsLHTm+sVchLTWpXx45lmH3lQ1U8DaiKIR3+FsO/ra10xYEW2ezfzUz+JxyC3LzV/D1UQp0kq",
+                "mac": "WumLypnQ9wE6pvlKLNSZZg==",
+                "quality": "unknown",
+                "ciphernote": "SQamte1DV82btBORSsYVhhjvJquvRKjgMguXlY2DLDA="
         },
         "enemies/snowtank.json/meta/species": {
                 "ciphertext": "1D65qJDsFA2O52mxhYVr0H2WiHnrAIsj+Ytmkj3qj7s=",

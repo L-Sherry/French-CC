@@ -8990,6 +8990,10 @@
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
                 "mac": "KI7lkM4kDAnBvK5mmdAwNw=="
         },
+        "database.json/enemies/hedgehog-fly/descriptions/0/text": {
+                "ciphertext": "rMSLgreeO0oKnVh6TGtVNtFwHdDn7YH2Kh222njgK8d2OoX7KlapxoEKwsHBXvbGi+xLBxNYgy+/jbpYoE+7/A==",
+                "mac": "JCZNqpx0K0sgg50ScnND6A=="
+        },
         "database.json/enemies/hedgehog-fly/name": {
                 "ciphertext": "EGdM45evtHcrzGDllU4nJw==",
                 "mac": "ILiiParPmurM5Sr1IxQfXQ=="
@@ -9053,6 +9057,10 @@
         "database.json/enemies/jungle.chicken/species": {
                 "ciphertext": "IxYin5+4LJCDNDP76J4mLZ+aGOJ/gdiaHQ8u0bUue3k=",
                 "mac": "yOfiQxOxh95GujEs+gokag=="
+        },
+        "database.json/enemies/jungle.fish-gear/descriptions/0/text": {
+                "ciphertext": "qA7Tk9Et8Yg5MznIo9Ji8TNGIHCd7NTp41qkJ7+N+kRHIIDEdhd+wB+2O1s7iRik",
+                "mac": "5dBHUN8xJbazFucdX/bJAg=="
         },
         "database.json/enemies/jungle.fish-gear/name": {
                 "ciphertext": "uggTHUbo7nOatYk3QcLNFe7TmE+Oh60It4stgc7QhVg=",
@@ -9471,6 +9479,10 @@
                 "ciphertext": "wtOBndJljcRqW1OzdmqDk0Ev3Es6QN5ZTfeXLHBPU28=",
                 "mac": "3cqNfFQwuYlYUO7JUeM6Fg=="
         },
+        "database.json/enemies/minibosses.hedgehag-king/descriptions/0/text": {
+                "ciphertext": "iNhJIOsMN+xCe3k3BJazTResXrG39zvrIT8n+YfiKVo=",
+                "mac": "Zp+d9Nbjl2GIfs2N6Ex6og=="
+        },
         "database.json/enemies/minibosses.hedgehag-king/name": {
                 "ciphertext": "sFz8hNjw/n+4cj1A4ios4k0qlqhNdLRe2gPUPlK9I/s=",
                 "mac": "UKZ3o7KVH/BjIoKGiXjQyA=="
@@ -9528,9 +9540,25 @@
                 "ciphertext": "jCl/X5nmQe01m1zKqBo6KA==",
                 "mac": "sxEkfKQti2AUXSQczMxOWg=="
         },
+        "database.json/enemies/minibosses.snow-megatank-orb/name": {
+                "ciphertext": "vqJZJRKvnB81QuFIgT4wvGx8u/Dej86aPJ1VFbJFzJEpPKvReJmuURPUtX70qSgUsijw3dgWIhBdrE0FWA9pI4qOLsDS5snGk54U3FrbuDZar9np8JRsuHUmyceB3ddVTKlct5uKjEjZ/oEdS9FIPQ==",
+                "mac": "eUZXywMMXTCt6WmIRTjDnw=="
+        },
         "database.json/enemies/minibosses.snow-megatank-orb/species": {
                 "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
                 "mac": "+fS1iTKu1amy6q6C4u+70w=="
+        },
+        "database.json/enemies/minibosses.snow-megatank/descriptions/0/text": {
+                "ciphertext": "CMKLKGRiFV6iI4+fBJIWSIH4PnQchhS9rM/aS4Di1DZWzXwgZpwXhB3Bgm+Yo3uX",
+                "mac": "WuUEpyENzLTHqafUS+Gj/A=="
+        },
+        "database.json/enemies/minibosses.snow-megatank/name": {
+                "ciphertext": "C5NFK4lnOxqrOKnfn3akdUz3EPCrfVJIb/4y5OQ3H/E=",
+                "mac": "Shmp6chozYDbYiMW39010A=="
+        },
+        "database.json/enemies/minibosses.snow-megatank/species": {
+                "ciphertext": "Z9RIIzLKfD6tX96XHyOgYQ==",
+                "mac": "6vAAdvVXpyZy+x30jttDMg=="
         },
         "database.json/enemies/minibosses.spider-black/name": {
                 "ciphertext": "9GoWfqmtnG13PP/WmC933zol9yLJgtAQHL/e9XdZDrE=",
@@ -11431,6 +11459,145 @@
         "database.json/quests/cap-quest/tasks/1/task": {
                 "ciphertext": "ix885ehJ3e+0OBy1KRDDtRXw6LLGVisQjaydwXHI24GRv3y6XIu0F1hz9z/0qvhsKtVTsCG02PWLAnz4qa2y5EWAdYUEmk+jvYNp8J1jmBo=",
                 "mac": "x0cnKMpexzKwNuPh2CubIA=="
+        },
+        "database.json/quests/console-pc-1/briefing": {
+                "ciphertext": "FpkTgDxAJI6sTTNv1wzy96ynbyxywNSfbyuPNCEw6W/zlT5ri+tYzx7Ss/Fb86pLbIfZdSuGrOSI3QOthyzewu73mRjfnzD0kFAYQ487u72yvZDvNdEmL1icF5AGalb9xGkzems6aAo1gyZQX5UMyUp1OaA3vd34eQ5z2Wi2rnsNnQWWCYmVEcjhG4GqXD6RQNtuASDAYIE/rUw24B+pqDUpodB6mBG+/oFZVB8UAeMkHv2p2Rhdhy36+N+k3Pn/nlI0kttSXxS83lmaK9IjYX9TyCzS6StT6Qy0jGmeMAQ=",
+                "mac": "ehwa9LSmYk/MoIUspF324g==",
+                "ciphernote": "v7XYAC/EObPIJ6hGkn9FqwsAC6jPgcMxu9shFqcMExxFtndIvlGNsHcv8yEsMJFO"
+        },
+        "database.json/quests/console-pc-1/description": {
+                "ciphertext": "rN57vQLVDviGueAln1mybg==",
+                "mac": "4UHYlUD4pf8jwhR7c/hDbQ=="
+        },
+        "database.json/quests/console-pc-1/hubSettings/location": {
+                "ciphertext": "g/vYOnVuFwChgsmGvNO2NyzTryTi1PaID2NrdCCAFzo=",
+                "mac": "21QymzHs9gPztDVVqFmgvg=="
+        },
+        "database.json/quests/console-pc-1/name": {
+                "ciphertext": "rN57vQLVDviGueAln1mybg==",
+                "mac": "4UHYlUD4pf8jwhR7c/hDbQ=="
+        },
+        "database.json/quests/console-pc-1/person": {
+                "ciphertext": "fjCoFWCg65tdzjvXYRW2lA==",
+                "mac": "QBBYLggy/SVebH3XPbXFmA==",
+                "ciphernote": "S7MEsGhbYvl/+gLAhR2Bsg=="
+        },
+        "database.json/quests/console-pc-1/tasks/0/task": {
+                "ciphertext": "Uumczr8tX5Tpc5dMtTTVTx80YFrO7jkkQINuIC+uBEBuoWYErzKHadCHfEmNYjaHjyFCqM4ZvSpwGlVfvICxZUKcDpRDke6axenaxt3XXqv7sE1QjSjh0tdRCw9du+fWbhrarqeqvmt+f2iEHkHi+Q==",
+                "mac": "quzsZyCVuRuq6NgPzuaurA==",
+                "ciphernote": "P/vGt2o0oJwHVq6p5iqw2TtFe1A0NFMwPKrnPNbGHmJQol1IOBEAb35VymD3QRwt"
+        },
+        "database.json/quests/console-pc-1/tasks/1/task": {
+                "ciphertext": "1mbIGScgRjwcchlOHmc9+j2UzOysqe9p1UIctTpxpS5BL6ye9KvPkcEdl2bVmhttftkIxDPFBm8RwMVg2mUoCwiSycN01hd1L8NRJo3YcDKw7pp/Ch9xObHwZwjo7e/HIiIqkxHq9imz8sGYh+LzFA==",
+                "mac": "SwhnFjn2DMjRvwrREwcTOw==",
+                "ciphernote": "NhHVzsM7Bk8nrrD7xElNRVYDEapWDX/UDyQXpNWPqtSNFOpRlNj+wuuuNs8tfl80"
+        },
+        "database.json/quests/console-pc-1/tasks/2/task": {
+                "ciphertext": "XbKkoAvnCAioGJOCuwMyzeo39kbTjIGDB/xQ2hr1XATPEtW1kcOT+MyMLXP4kpt2mGfufYQI+tPZ1F6gRpASA9TxF/3Z9JRznK6SgyXVKJHABXBAhHRjIbuxso+z5IXkIpHfcrRvHSxWdl8qyY1Uyw==",
+                "mac": "gxQcS0vekIib9AaCHOmw2w==",
+                "ciphernote": "4v5stoSQvlB2A52XJnGitFRAxaYiM2wH60cIQ0nKIRWGZC1RXu+KU2JPuIVcZPNp"
+        },
+        "database.json/quests/console-pc-1/tasks/3/task": {
+                "ciphertext": "9idbODhZ3jvoBrm0SUi190IFQYfZtbiBsfK9MrtqWP6VcY+nfjJTFL1eZPOcTXu/J4uMrXzAsC56HzzL0dovdteR7N49zqooExxfXgp/+Dc8vyeiAjUz8RGGmcWQRn54ucYfNIF+C2QOJBLTVQTB3NH3ijOk4144Boiz0wFtbsk=",
+                "mac": "ApX+bSTvnoK5k/I5R5uwAA==",
+                "ciphernote": "Ka76GqT0Yv4CNqqHrr11wbdl9ZpDg5FcmWOs8rOzYXTeaR2ISlyUGg1+gSkVu2Eq"
+        },
+        "database.json/quests/console-pc-1/tasks/4/task": {
+                "ciphertext": "fUHD8nxIDgW2DevwEmhUpHb5bzngkCAigdijiEqTlVKL1nOaC+lsrnEg3Yl3Bjx2",
+                "mac": "W3j/AP1aramE4tjVoL4hmw=="
+        },
+        "database.json/quests/console-pc-1/tasks/5/task": {
+                "ciphertext": "y+sse8S2IPEFcTWT8or+NRv2zeSf4E7JZBAMxgBIGiDk8avlcXXAx9nee3i3vNCyyJVi+AIOYAWvJOFeqy4f0SFhvL2y0ffA2xb3ksbkeuarfX8fmIg7M/fo3kjJRskmyyP7PSvDVUGTtZXWlQIBsw==",
+                "mac": "hSco6jFsOyD0rHh9nzkWxA==",
+                "ciphernote": "cVqrRoKMZ4tmJRwyPZcxXth8Fr+TLruNxQ78oolVugc="
+        },
+        "database.json/quests/console-playstation-1/briefing": {
+                "ciphertext": "JiocNWI5r15Eaug8qWHq/qQJEEkL2aupaqI2HcBnZt1QI3g8ca2pACpxHB2NaAXUrElS2qeic5pcI3lBruGxmgfX8QoKsix+thn47+II+WM+sXsCdiCjtxyGhq482/7XXb5Y1MK0vQ7tGDXfsa9zf/+bfCk1sFRvN06xcqfk2N3m+3Aw4VKb8dZv3/Kf6aAY0y+8lcfF8F8bjcoZ9pXMvJv10tyRRpGS5aQEjwXJS0S1DR1qgZHgg0tUMV2CevkuXcvYOfy2q1yXf8aelpZ3/AbKLp6qVZYFbv11o+fXaxcfETQHnePofAY8H1fnVcVU",
+                "mac": "cvo7J+up301rDHfl513dvw=="
+        },
+        "database.json/quests/console-playstation-1/description": {
+                "ciphertext": "cEvT/ilEuBcpfovjllkiPUSaoIatTGASVKKY60MQ2ULjPi3IFZ5Hg1P5og0/ZReAb8SPtEA/u8kjt823FX3RRsX7xVnTkMEbNpyZaXxLsbDyojszoukT2QtJe7TYDIy18BxbkzudkbLxGw0bAxsK6Kk2A9C8vL6Xga1PYoPvY920MVx7W+6V1leI28ksvUtXNIhea7s62dXHs8KFCsamhR8xJvG4tGow3BRqne1VElA2ipm6ak0bad5RTe/mn4kr2fV5VlU4JSosN3QHHe5ilyW6TrcmVk4ZK5qnNjXxNNI=",
+                "mac": "C9yRtBKFHjE2VVRYSlIzoQ=="
+        },
+        "database.json/quests/console-playstation-1/hubSettings/location": {
+                "ciphertext": "GilsXyiuJuNeqGww9lLAeGK9RvEJfn9cDq4LeLKpDx+NjucvD0z/x7hH6guKRUQGV4UNO0/kSIn9uA1gqX6NzSbZeS1YeIAeyk6pfgOSTzrIJAduN0Dxq9i2Be9bRHRHsBfL5E2MxnfNIC9t/3h+8Q==",
+                "mac": "QKuw+E9O3iO6bWxuTnPZtA=="
+        },
+        "database.json/quests/console-playstation-1/name": {
+                "ciphertext": "mbNIKS8KtWA0ITQ5nu/WlA==",
+                "mac": "tXn/WGzvukvUF+Yt7df0BA=="
+        },
+        "database.json/quests/console-playstation-1/person": {
+                "ciphertext": "qRgfHMG/GTM94dSAUx86Uw==",
+                "mac": "jtYkMLazZsytfN/LkHI/MA=="
+        },
+        "database.json/quests/console-playstation-1/tasks/0/task": {
+                "ciphertext": "uL6mCkbNPZS6p3YvrpDxuT27u+LYmqd+3pkQFGE1MMQxT7s2321xg20SM/VYWdHYsn0yTYjnJQg3gwqGrt2vbWQXF/z+JWmraSN79jJE2TalGM6oxG8wX+/EIOFPtSlUnFxAhMuCb1xs+F5b/wnTTQ==",
+                "mac": "M76syHfb0jS8zqK4Lkhmmw=="
+        },
+        "database.json/quests/console-playstation-1/tasks/1/task": {
+                "ciphertext": "453SvvPz/Y6kG/NAOCUAuH08eX7aSPJHKru73lNCTuem6fs1WHrrbWOwnExaFjWg802szHRFcs9LBQ3KLimvyjJIMZ2XWGHUBvDUNO8v+zQd4KvQ3Ovx8AedVOHVCEbBydwod8tqY1BdN8l0Ql255g==",
+                "mac": "UADtlPJWNAq6yhpLYmb9gQ=="
+        },
+        "database.json/quests/console-playstation-1/tasks/2/task": {
+                "ciphertext": "pqgSzP58Zur+UwWMW90AMvj341XkZzq3r9ZE7q4eC04BZRcU3/ZyBWQrG7SZVgO2EqzIfw68GDdkfJ/ycKMi6lAhn8DTUmPZukXI11rO9zlYEPwFgg5GBaiwGSDBDNtRga5/AdHf5PEij9J0YDzWKA==",
+                "mac": "O2FH1XlNXrN3swBu4ony2w=="
+        },
+        "database.json/quests/console-playstation-1/tasks/3/task": {
+                "ciphertext": "SBmEGGRKlNt0B7QPQySH1AzC/zB+aN8juLfbOiKJL2sFkmMQ0oSNY6+j1zmucDWEWHLvUnqIv+S8OG++yChKmcfHePOXOn2TLRco9TJJ2yPnghWn7MP95J8D8osBz0Pl3AuFBilM7gqTE+Oy4DM6HM4w3SV59SLySYqxn7ESSBc=",
+                "mac": "Ggs5byPCtoC8a1IHOexvRg=="
+        },
+        "database.json/quests/console-playstation-1/tasks/4/task": {
+                "ciphertext": "fUHD8nxIDgW2DevwEmhUpHb5bzngkCAigdijiEqTlVKL1nOaC+lsrnEg3Yl3Bjx2",
+                "mac": "W3j/AP1aramE4tjVoL4hmw=="
+        },
+        "database.json/quests/console-playstation-1/tasks/5/task": {
+                "ciphertext": "zN+/5ruymvN/HyaAEC1gu/ovVnBiAQQfQFE4QrnpXLitoIC2qhC9Ff5ENOgHVA/4VWQqHwpEpQDqOryx/w8k45UtdDx5AtZnEq4KpOzhsCS3a+SqwUBTmTKoN4YvXiaqVTdRQZ22X0qFm/fjWsgKvQ==",
+                "mac": "D84r9NwaBqZMybLDrfse0A=="
+        },
+        "database.json/quests/console-xbox-1/briefing": {
+                "ciphertext": "9jlXXMk3aDAbIeEsgkoHm5vFzzKXgf4vpXA6W/mGsJ4DbRDU15MGQLYx7rGLAYQllmdAdIeORxTrkBINMxA5F0JwajFJ54RWCPVv2IFBB/mTIny4WA6u6JRokZ25JgyE1Victtrcda3rJ90L0+jx/QFelTVyeGQXD25iiTtcHkCJK3c9AFqCb5N3Q2mVNxQOVWfn2C7guxRg5ifKkaM/4/mkxAcle6iCUB9UY+8mvfBYcpZJJi9TqPRsGsnNgEhCTePJ+U6zYvhvx/BDT/cRAoLg0J4CLebfcApvqrhYVZ65OGY3GTkk9685BTQj0N05l+JDa2vYZP++rdgBYXex3g==",
+                "mac": "v/t2KD3S9Ae0zg/cNCB+/w=="
+        },
+        "database.json/quests/console-xbox-1/description": {
+                "ciphertext": "VsTVOhY/ctuqrSFWu/g99wBfI0fXZ6qha+TvLl3Hc1tcfeDycMFNaD2B1pTppFhoGspfOMZcldfgnvZ7NBS/0Km2hHAqdxAaK39R4TqgtJMmhmgqFMLpICT8zYX1MG1P2++eC0fAP8tJvNeloTK9Ubgh7Obinn1tOIrc8nQMNYDD5MW9F6OokVlVssPBn5JtG7iwCRWhtyR4o1tqPpw+gEyw1rs2XGGvlQmVVMI+m1IpJLMlc+snjs9yFFTFpunsqdWLwIMOAzTfy2tZpJM3iybjtVIHJzJgXHdn/+AM32D7oU0NslVC2A53BTVIXkG9/gRQFjEvk991VgTzz9ulOw==",
+                "mac": "S3PlT2ybzGBt5tM2Y4B9Bg=="
+        },
+        "database.json/quests/console-xbox-1/hubSettings/location": {
+                "ciphertext": "CA2BuQTjDFLa19djUor2bkVMbO2oTVWkckm3vLOSTBo3sQBWobuf9RJrD9nAtAuHR6+rvgs1JVJYob/OqENsDCUuiF6NtbWhL1swcmmotU/BgQXmkYl273d0BJMhuGde",
+                "mac": "WLbUtzjo0valZdfTvt7RHg=="
+        },
+        "database.json/quests/console-xbox-1/name": {
+                "ciphertext": "28+kiot0thbjWH9kA9ZfxaRWQPlTvvGe670uPXYFsF0=",
+                "mac": "iqcTnqcid1qj3xCXtqj7Tg=="
+        },
+        "database.json/quests/console-xbox-1/person": {
+                "ciphertext": "DlK1QE5XEqdOg9RMLUi0nQ==",
+                "mac": "LsimSJ2exAj4tqnbF9L0mA=="
+        },
+        "database.json/quests/console-xbox-1/tasks/0/task": {
+                "ciphertext": "7JSli3nJK/ZI2XmkILOBf7558IlFRccKpsuwFsscFUee9U5fi6urwSgnDGjcue4gx6MtZlN58gM8fKVoNXdRhBWUXT86yKPRGlbZ/nmoMLJZaWXpwCmlv3r4CqSVe06gHJQ5vCuvE2ngSzKEyQYpxw==",
+                "mac": "mbrxUMlzR919a7SaS5r9Uw=="
+        },
+        "database.json/quests/console-xbox-1/tasks/1/task": {
+                "ciphertext": "20NKpcUmn8YQa+l4ZSU52T1uEEiCD7cidwS5OCya95VI8VuJyVZNSrMrN/8pL3mcvHHC7GJo0qAk1jgNidIq/4WYBh55jxalw8xpzAzfwqPnp3UdeEgM3fkvmNHnBTeNwl1imK3/pP31PDywY9OlRXV5XQgTfHZSb1uAVxanDLQ=",
+                "mac": "NbiR6sl8OYh+TYbu0wMSFw=="
+        },
+        "database.json/quests/console-xbox-1/tasks/2/task": {
+                "ciphertext": "XCY8ay27YnQAEJooTHhhrdVbDeEzLV80A3gnLua97PcK9occ48SykvFHvMM/kQCLz+PLHBiYXemmuCp6BOwMEwAq0rC+BZBOkziqhonIYL9J/WAk430obeKvefz92LxC4/yf1G4vC5rAmUi81UhfDw==",
+                "mac": "VfOVL5MVUL+qj/D0btW3HA=="
+        },
+        "database.json/quests/console-xbox-1/tasks/3/task": {
+                "ciphertext": "lOeUUUMcqj/yJFtVc0XKc7mQGAZTQuCekz9RMZxrg6ZnW+P9oLbLPXETBK10WgEtiX6tkJDP5h3FiczIBZ8yTmPnO48129oGvFgoQEMS1oBdG0k6dOLW4Hq2QP/cttTLKjHw6Ffjeik9wYMSi/kUwvZr5N6XfU02wGjQbx1hXtdmWPLUUhc+/i43TuivDKPp",
+                "mac": "ffxoIZZrdP8bzFh+35NAgw=="
+        },
+        "database.json/quests/console-xbox-1/tasks/4/task": {
+                "ciphertext": "fUHD8nxIDgW2DevwEmhUpHb5bzngkCAigdijiEqTlVKL1nOaC+lsrnEg3Yl3Bjx2",
+                "mac": "W3j/AP1aramE4tjVoL4hmw=="
+        },
+        "database.json/quests/console-xbox-1/tasks/5/task": {
+                "ciphertext": "Fyxz/elfQkeTLYaJDS+d0tEPyom9Fzd3J1KlEe57uZGRFCAHpVpDeoHRE1T2kXzUeFhxHWoRc4+Wl0U/DZPnSttiQmYqTcdFPvrBbM8ypJM=",
+                "mac": "ON4xDzTstpMMnqaL1Jzm+g=="
         },
         "database.json/quests/daft-frobbit/briefing": {
                 "ciphertext": "RrBsysrN3tgD2Yc0zskNTiepDfoMAciaaibPprtfOoxrEkEpEQA16adPaXAcyPiX2cFYgt8GZd1AqUFZoA/iUOJahNGlZkhIKw2nr5Re7JA=",
