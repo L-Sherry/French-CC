@@ -2226,6 +2226,14 @@
                 "ciphertext": "jy7c33aJOBtiAw8SLFtavbJmRzUu0XSwQrTnTKQc/XrerVQlWmpZQUIHWWiSMqMs/RkJNNHfxv/h9elbhCh1FJf48HeK062L8mt5EzclnL6VSX/CXDQCvLjSKir8uBR3Jb21mhkJsvup50DnewEs82ARwTGqx3DKC3m5KMP5Vkw=",
                 "mac": "8NjGg47A3g8ZvU/8RQb/+w=="
         },
+        "database.json/commonEvents/assistMsg/event/3/text": {
+                "ciphertext": "I1X3AljDiago6g9ldDQfQfsx5muEuUoEqGIFtiz/RAMB2WqZ0Ukuha1+spJK4hG2Uj3kFDpN7eK3iTaMuXGgqElKwTPZJok7kSrIrDVpzRGsOXNGymWSCl+7py+AdzIOuKTp0A9sCJZIJmb0YR3UqlCPGwgN7jSWpTt1qgzLxc3acImWHZ5oD8hVfCdPbsIqHgisuIhb2lZeM/+vjnMkjH9kJEiCC5BKipUDrytEkLiIwcMhcsxa/80y/iOA1BAlfEXhjImxgTVg0k/W7SfYnSAoGcIN2FSgRg395XidmP413suUO0fjoD42WYdEQiSGOEnnCe54ZXNOkUlKXo1F+6TlEd9gQWTUKl98y0MsmvsUbMJajTiLbSlG8Ragsy3GxpmMKp1drw+og9QLiZbRJ0t1+HRpO2S4Ul/26sEQcwo=",
+                "mac": "okHL2MDnMLNkWkP23lRkag=="
+        },
+        "database.json/commonEvents/assistMsg/event/3/titleText": {
+                "ciphertext": "iZb3WDTK862N6ZNszMVDPTRqr5OwjbUsguy0TyEtYIqj2Ktjy/LxEwpCo2NZu+JFjbiAADYOrqA/B3nDLW597Q==",
+                "mac": "GiwauYZGBP1orbkLgnjb0w=="
+        },
         "database.json/commonEvents/botanicsNote/event/10/message": {
                 "ciphertext": "Mgj2p+3pHFI69IFiRIq1hg1gluWuc8/H5zzx05IFLlgYCEkIlBvLHOcLSbwAezgxDRvzMrjjvIJR4cT+QVqLpYD+XXoVvbIKBbCC7DewZoRhBibwyDRXKrwqUW4vUkQycOTOd/FP+sqMsOqmwrbz2zSw/WpIb1pJq9/X/PeEt8o=",
                 "mac": "Fn4kHSyiYFgeeyBGGLPqgw=="
@@ -2902,6 +2910,18 @@
         "database.json/commonEvents/call-test/event/3/thenStep/0/message": {
                 "ciphertext": "foYN2NyizQdufoefkUAcKw==",
                 "mac": "GWBGb1U3lLxH062fYeBf0w=="
+        },
+        "database.json/commonEvents/circuitOverride/event/6/thenStep/2/object": {
+                "ciphertext": "Mgsn1WoBW60NN5JeyrV79pKy2Nq33z2lY/EcULoDT3oZvQCnEd1Ag+LoXhMoXDViic8c6ZomE2AC1REYDNZQ1g==",
+                "mac": "RRxZzLD+Hn0i2bgo6BOsPQ=="
+        },
+        "database.json/commonEvents/circuitOverride/event/6/thenStep/4/text": {
+                "ciphertext": "SIhK7iDBHXy2ZNjltFa0KCUBsu+M4v9QFsMHzaWvjRxOVCyPHsULbG2/nQ62418nDnNqNQQxvxIfgneRDjwauwIoPkX/iySoZ64FHqPoe1IdYa81KxC/9MNFdIbbE+kI1aAKYYVBCXFsqPEnp0WYiackye9UguELQG6NFmMxMjx4tPTgIkxC8tWAlfX795taKWkKadVKnh4axU7hg7euC4j3TTP2XMJLRrde5i00uwww42QOZOrZ5KFv/g6Y1MIb+otYDLCIQdA/eQ7sJisNjCm6Ac5LLHv8MjR/QIHlrUVvUUmn/VXtKHmjuALs4IaitnSDV0nKZWaUkrmKard/xw==",
+                "mac": "ZLXPtwEuKOLO+Z2NggoH1w=="
+        },
+        "database.json/commonEvents/circuitOverride/event/6/thenStep/4/titleText": {
+                "ciphertext": "78Jrv9BRSvZK6L5ui1ZKH3qrHYxvdbaDg5Il+OhIFLk=",
+                "mac": "jRh98eN/+YGB7H5g9MDL2Q=="
         },
         "database.json/commonEvents/circuitOverride/event/7/thenStep/13/object": {
                 "ciphertext": "UcA+0yfxwut3QLpFBPQarw==",
@@ -4565,6 +4585,22 @@
                 "ciphertext": "NM9mvKURltGbQdDK8g/VAIR2q21qiaLSz12Ww6f5f8RyjBzySsW8jpIlo/mK1Zps",
                 "mac": "2S8YpkIP4wnDrl65+vg0QQ=="
         },
+        "database.json/commonEvents/facility-x-key/event/2/text": {
+                "ciphertext": "XJlfGCtiYsOfnJW18nJVHdEaWMoi/ixozMLuYjWYg1mvKdl0wZ9zZhkCcW3p04NiYh+pcH9YTSROPuAF836QvRAItgPUt4+hzAYA3dMh6Z1mPRJJgXk8qPYQczEsrp1b+4fT3+yZNHHpA/c/qVdk3o6OGViAKj71MK18NU0pxkU=",
+                "mac": "vMBlLgi731xHLdUGE+UYvA=="
+        },
+        "database.json/commonEvents/facility-x-key/event/3/thenStep/1/text": {
+                "ciphertext": "NdzJbgs/SxFNPDk/qS1vfVE49n00wfEE7e4Y2jhLDJCtz1bZ7q2O0zT9obiznU9JRc2xLstfr/mHvnKdPzSP/pM+h1b0l0SQIK0mEGsgaZyXHCk+3GxJO0bcU49tw6K67MSfJQQRD8ujuhFxMNz7xHM01MwFj2CW+//foG87LXV99Fvw5XpHmwa0pxZbD0Ng7YqBz3yNtqjMYiHwL4tR+zs/Jlhn6YjFTUWS/gFzEWY=",
+                "mac": "iGFKTsZqkT70vnMvyB3qeg=="
+        },
+        "database.json/commonEvents/facility-x-key/event/3/thenStep/5/object": {
+                "ciphertext": "DTQMpN4Q/zc6hQYkzKXesRWYNDO87j+x/rXgycjsNis=",
+                "mac": "QsqT+3Bpe2qbVNLOLmM6Sg=="
+        },
+        "database.json/commonEvents/fixCombatRank/event/1/text": {
+                "ciphertext": "8N4MgYnytOSz0X4CavDwiKgseM13QDaF7DRAklXC8Jz6arp5cUt00Om2PiG/AgRIc4mP7Si1ERBe5wkC8C2ADLSqHkoVtPDIy6BP6M8zvO5S0cIV/LOho7aFT2BiboeE",
+                "mac": "isTH0AfmfOAKNcVPO0ELng=="
+        },
         "database.json/commonEvents/fixCombatRank/event/1/titleText": {
                 "ciphertext": "e6mjtmOX4ZcJC/el+FoxUydYReXlCmi3/GUI2U69Yes=",
                 "mac": "uRU0AAEtPtM6mVyUBisDCQ=="
@@ -6150,6 +6186,26 @@
                 "ciphertext": "V1QGZXlmLD219mFRvPsJ1yXTo7tzDefiokG5CePhP80=",
                 "mac": "fEdKrQO0vyplfnqiHMv9rw=="
         },
+        "database.json/commonEvents/miningQuestCP/event/1/text": {
+                "ciphertext": "Akwt1/byIFDbX+Mhs0A7DR2bHTZ6wugrIEguTRlgVjlZMgDKMRPM9Lz5rH5mHdfwznM2Ki6LvfVogp4BWQm1EydauODXvi3tqDqSJjL2CbC4e9ghnMwZNJdszFRyqx4Ud+f1KPJJRi/eQ3fRr1RsvgsWAA2DkEONv5v7LDGLFT6z/7w2wGd9+pJqOFH813C9T09J6p2F+5NAIPXgdziV4Rw6sLcPlPFux8lXr8GWq/b4cmURp5WtAtuIgJs5BaiM/Fe88ioMiu+/PbgtLVZH4UcOf/6o3C7cs7wcDyhQWbBjsGXHJU+UpsJXyEF7vM+NlYpue18IZyde2NAF1P2Wlw==",
+                "mac": "oJCJRC3sso1ZSJwEV40sTg=="
+        },
+        "database.json/commonEvents/miningQuestCP/event/1/titleText": {
+                "ciphertext": "O/pWGZVURUHIyhipy+U5T5olkuXp2eI/4apcn4rcdOFVs90yYPvpffALceie+G8k",
+                "mac": "G3Q8SJFvEW03AaS+Rx47og=="
+        },
+        "database.json/commonEvents/newSkills/event/1/thenStep/1/acceptStep/1/object": {
+                "ciphertext": "wS0DezyIW/PDjp2mfoXFw3kaczQdmTgBDCWdfPTxnNs2F70pbQG8stoGNNk3SdCs",
+                "mac": "a5dWip3vt/UhKIbhRww39g=="
+        },
+        "database.json/commonEvents/newSkills/event/1/thenStep/1/content": {
+                "ciphertext": "+azfDhp2q+hGFd+i+rrJxdNJlIi2gQqeBUbHyxS84XDJkZ3JWBhcfOl3vQyQhGS4SRG7XlxKuQlaovkITNSaktY1KubDhLAAQvmDRRpX5+wILehs8Tot1wadPMYh7snH0mVUPT6eVC81xHBG+/ddUyPZS7aaJWISiMVIJU68uY/ayLWtQDDlRwLWZvucAyHadhJoWMhZw0VQnGGwfUGMB1sv53daTpN6/XKajgVjcJKX/+B2kFFvkJ8tKHQ7fmn2/KWsRPBOCs2+tDu2Wxq9TGfDfxCNrObjcj5ZBMD2vtdL4yKg7IdBX9SoHp+Vltym5zZMXQI85aeKGysOk+2gAoXrDEVAozIqDm7GMciM53YvVm2SAoJhQPNKBnY9jV9cCQSI3rx/Fo79CiB/8bpwF9zvyKijxIOhvc7hytPbxH6sEFs+XvBaqcepTnKaIa4F64y07yFbboalV9UT8wrI+UldhMr5wmEVxtsWppTyPUo=",
+                "mac": "lkO3gnqrFKOJn3X+ItLCMg=="
+        },
+        "database.json/commonEvents/newSkills/event/1/thenStep/1/title": {
+                "ciphertext": "LaHIvC3nZ8MTIp98DE0feWLiWBIusg1hY6KHGzSMwY8=",
+                "mac": "RBg9eFaw+Wazt3zOfYXBiQ=="
+        },
         "database.json/commonEvents/nobody-contact/event/2/text": {
                 "ciphertext": "NCgpa/ka7MwF/ZCzlrp1CyDwNa5qXLz+g2WXkQMwKNw=",
                 "mac": "zBbZ8gnMzXGyNRd6izI2Xg=="
@@ -6447,6 +6503,338 @@
                 "ciphertext": "jNxPGoUAgnlp5vN0w7TojZx/SrefU/+jvXkQ4LYYNws=",
                 "mac": "gAWGHVZ76wqRY0vFMXz4Fw=="
         },
+        "database.json/commonEvents/sergey-hax-apollo/event/0/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/0/thenStep/1/message": {
+                "ciphertext": "J23x0PO0z3bFX+xJF3ZNBrkrGN/rgf3Q0NW7xZdwEUygatMLYIc6hsuB6WyIj/fmMOQrx99jMhnRNZV1fhJIow==",
+                "mac": "8beKYBKOHXr2Z8IItycMFQ=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/1/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/1/thenStep/1/message": {
+                "ciphertext": "5DPPcOLVGLjGjFggtACUQz+x6iZK7bUYaKtIUe7+CcI=",
+                "mac": "wITMznb38OHOIZplMtHrJQ=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/1/thenStep/2/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/2/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/2/thenStep/1/message": {
+                "ciphertext": "rKBdejlGr6gJxYYCsx6VpV8rSEHjdV4RMFr07txkM0S8L9c7UPcAJ943a1Irl7Migyqrm1B2UqPE6Xx0VUReiw==",
+                "mac": "+joF1Eg4V8xiiYIPyfysow=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/3/thenStep/0/message": {
+                "ciphertext": "Dy90pxmeKhufmCEmzlwP7A==",
+                "mac": "dZvoKlaTx7FF8kk9lerVyw=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/3/thenStep/1/message": {
+                "ciphertext": "1sYL8xGwZK3Vh3s+gaRJ2xJoAtudvOgv/U/axKfQvO9MY63RWHiDhQYcPADfI17Tnjkm/TnonDQkAkl0w6Y0Fg==",
+                "mac": "7XEYF0odVMBWmb9dA36JiA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/3/thenStep/2/message": {
+                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
+                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/3/thenStep/3/message": {
+                "ciphertext": "l0xCWKh54pPl660z9ONFcA==",
+                "mac": "zM+GJzEfb6WUV+cZfyqTIA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/4/thenStep/0/message": {
+                "ciphertext": "rgpFJHtPcttpoSNVtMW+qVCKZXJEwOhDL180qyo37bY=",
+                "mac": "v7rXwk+gfEwYXMM/wQZVjg=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/4/thenStep/1/message": {
+                "ciphertext": "oaPs7J4ej2R/t/pOlIrxsylLDEo87WZifhjQ0smAtmutyr9qK9ebw4pzDmlbSur5TCBx37djqJKTjnI32VeQ98LZWDS0zMtSUzAqD+4JEfo=",
+                "mac": "3VixqASB6/KBxc8MBAddQQ=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/4/thenStep/2/message": {
+                "ciphertext": "wQIFOE1wM7J3wJZLh7iNv7S/IbbOCUxd8O5XCHDWgaAzmIhmtbcxXbrX5vzIGmvk",
+                "mac": "IQqmVmYMOxbSvmG6ZS6BWg=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/5/thenStep/0/message": {
+                "ciphertext": "NuqNy6DEqHZlEeVEQrNJexKHmH3FIKRwQ48THzByy8Q=",
+                "mac": "rmETOdy1NZn5WyE4e5I4qA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/5/thenStep/1/message": {
+                "ciphertext": "4iukYg/1qi3aGq9lL6ad46L03BZugluIjZr8x4QqtN8knbfIg15Rt634sqRd1BaTWE5dILeKAkgmCe67ORYaJqDWeH6I+HmDB1FoQVeRka38ZJDateIGQ6TFDqI1EgrRJoBmjwn0pC0ivQvHWty1OA==",
+                "mac": "JUp393xVy6LE5PbBKp1XhA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/5/thenStep/2/message": {
+                "ciphertext": "3uAwDxo2cXyAX9KmwCLJvH03xWJChKHMO9deHoLiTk7bdNFIMTBmnOLL5oXmkPYn",
+                "mac": "7gHjLzm+hZwC8BpiJkFbew=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/6/thenStep/0/message": {
+                "ciphertext": "ADH+E2AgzZYZOTCnkRNh7OjSfSUaZH6c0PegoMxd8fc=",
+                "mac": "NlMkZ+9dIrb2kmAnrS+5rA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/6/thenStep/1/message": {
+                "ciphertext": "fgoA+dCU44aBOSPCG4BgmfhOfVfm9f2WPzC1Ysp6SX+Xqk1oyEpPQtYdzS+dy0JB2izD0gqhZocZVdNjDBrGTqNnAIBKJQbIgEMpePsVlPgNp93u62Q0/vQMxMA5/uag",
+                "mac": "EaYhw8ZdMky/+9JOQnhOcA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/6/thenStep/2/message": {
+                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
+                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/7/thenStep/0/message": {
+                "ciphertext": "t+k3bYUdsJuJFqzqjQIRXg==",
+                "mac": "HMZh6tahRWiiHimgI10Plw=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/7/thenStep/1/message": {
+                "ciphertext": "gZhqejpSEFWQAMPaPeMZ6NN4Oo2rGHUX6D4zHd7p+ac=",
+                "mac": "wo8qipUDqjYz4hS9FYoCig=="
+        },
+        "database.json/commonEvents/sergey-hax-apollo/event/7/thenStep/2/message": {
+                "ciphertext": "5BGeCetswgqvSoUvugh8wW9TSxrYl16b6RIq+cNTe26ThTnNr2AYEL80YQ08QYI4ecU34aGab3CgLJVmKB6KmixdyOq+1nKn2m31HLbXfMw7AA02/joJmOS1pFJ17jy8",
+                "mac": "Mo2kLyATl57zQjlhpP++dA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/0/message": {
+                "ciphertext": "ADH+E2AgzZYZOTCnkRNh7OjSfSUaZH6c0PegoMxd8fc=",
+                "mac": "NlMkZ+9dIrb2kmAnrS+5rA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/1/message": {
+                "ciphertext": "qFbKd+c279NMdjN9+V6+LfMXLLMo9VAODtJJFlVRrQbTAGzLvaH+lEzE5Q+Njv4UmezQvPUzjT1xK6s9Q8fFXQ==",
+                "mac": "Yqxoo57cX4706Emh1tNtew=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/2/message": {
+                "ciphertext": "E/dsz5LSNYAN3DgahzAuKQ==",
+                "mac": "4PdPRPQqy4OfYnSg8Lh9ow=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/3/message": {
+                "ciphertext": "qGWeVaJfaWvnk89Vjwj2bO978m6dfUACu+2d2iyfwXhW4N2IBjQdyczWQ1iEZOGM",
+                "mac": "j5V1a7kRTC4Gd0SVofVrGg=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/4/message": {
+                "ciphertext": "GhPYS6kwpx9LlSYFFCq3abVW3Bi1da1r2xtXXs+Ar30=",
+                "mac": "h6xnpcv2qmJ1mGxCbiq4cQ=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/0/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/0/thenStep/1/message": {
+                "ciphertext": "F2L1z1zHFphe4YV0b41Gdp9PyK1cz4Cgf9JLip0mxgY=",
+                "mac": "M8SY869wy0hacAXaEutEHA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/1/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/1/thenStep/1/message": {
+                "ciphertext": "f+5KwsQ6xP6Z/PoJ5wRLa1T/UCByroZwo5adLoOKpyxI5K1O3bc4U9ofE8hb8Wu0Mjt1nuyiZfuOjy0nQAnQ7w==",
+                "mac": "Fxz8VbrQHtPAIcCgNNwNdQ=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/2/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/2/thenStep/1/message": {
+                "ciphertext": "6Uxn9r8tCxBIv9FL9fGILPXWzDFGbDRhS05vnfCVuP//PYrKAAyxULvNx7JW6TvEnC5Pub/u0PZUH2L8k5i6sCUoHIkLpDZbzLSzhW0k2aaJmbSsTEb754dT3N1qEyAG",
+                "mac": "34qT3cTbBgvga3RVlbC9pQ=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/0/message": {
+                "ciphertext": "Dy90pxmeKhufmCEmzlwP7A==",
+                "mac": "dZvoKlaTx7FF8kk9lerVyw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/1/message": {
+                "ciphertext": "lGLv1bUlz8EOnTTVEY5Aw6rAEjEZ6FdpsYtLgpWHBUMtPA4/o8GiDk82vvjp+umJjGsqGlAAMEGq8gcXu44TwdfmqO2+zuHDsTlA/wie+XCaUfOY3a7BDByiL4X3JUAd",
+                "mac": "2tgewVPjHakF/HKUCOr1lw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/2/message": {
+                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
+                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/3/thenStep/3/message": {
+                "ciphertext": "UeURzI6+g5fc6RfXSqvHzdUw3BaqD/JzyZQ7nEiQXsufZv77ExndA46HX3oOax8+",
+                "mac": "ubeOT1U1edJU2EiJhRRvFw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/4/thenStep/0/message": {
+                "ciphertext": "rgpFJHtPcttpoSNVtMW+qVCKZXJEwOhDL180qyo37bY=",
+                "mac": "v7rXwk+gfEwYXMM/wQZVjg=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/4/thenStep/1/message": {
+                "ciphertext": "IkEEDjBZQKQDXoMI0nEeXrzfXuwfcM9Rae721xD/aYfu9nmjrw10HijGTvdFhi9j4rDoVplpy0YsvCoDo4+7zQTBFGZ4mtnl/DXhp6qIWmE=",
+                "mac": "FK6oi1URiwBFD4GX+B0Ttg=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/4/thenStep/2/message": {
+                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
+                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/4/thenStep/3/message": {
+                "ciphertext": "9FFGUK5XUjIhZpvlI2eajkgaXFMa1UMmc44QH5GMIibgEIZc4vEHMzUz/tiMYhQe",
+                "mac": "G7NtaeVRYjoQ/A0xyYhCxw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/5/thenStep/0/message": {
+                "ciphertext": "NuqNy6DEqHZlEeVEQrNJexKHmH3FIKRwQ48THzByy8Q=",
+                "mac": "rmETOdy1NZn5WyE4e5I4qA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/5/thenStep/1/message": {
+                "ciphertext": "CEJUI3//gVF6DCFiw+Uw4LZBvfAIopJ5TeFn2CWAxKtpn6qM6C5uUSOyKDEcyM5x",
+                "mac": "Zc23nvk0hOPro3SpbgqjIg=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/5/thenStep/2/message": {
+                "ciphertext": "e8zygxyM7W/q05x8LZAWKh1zpesXhwYGzWP+doL3q0UhP2zbdlyUgftAwaUPbT5XO+S8sCo54YhKWNlY8RJWt4ScJyFv4PgvAGs/Bok7q04EWeWEyCZ0cmYH5tX1QsCeLbWYt0BP87uTi7Jc6mBgmrVkPnl5SkKVedsQOceUyNCUC4/EnZaBmHCZa8EMsvFV06d0OgnnYXc4UkGt4hr0ww==",
+                "mac": "/dWCI1/6Hxylhp86OoCsxg=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/0/message": {
+                "ciphertext": "ADH+E2AgzZYZOTCnkRNh7OjSfSUaZH6c0PegoMxd8fc=",
+                "mac": "NlMkZ+9dIrb2kmAnrS+5rA=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/1/message": {
+                "ciphertext": "BgNk33U7nmUrDwJSVGcyqWUD3lFlm2Nej8FLJiyqOXSK8dP/S+X2WDmajkdNiNugV8st8JS686JD31kafWYn1Alf8e+jLrlgnvtCyw+0Xy7mlrxU9LeA7QsgridcHxBG",
+                "mac": "+uxdne1KU/9RUx0Tez0xEQ=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/2/message": {
+                "ciphertext": "d3EZiG+UYFyD42lKvQEQLi/IQjFGsOggSqRhveu69suvik+m2LNtJ7KDRxMtMCmnATEsDf945YZ3lZkS6ZNf5cf55E6Z6ld6GRGzYNfNYWQdWnM0aaOk+l8dt11iRrsxnyA6G8+LpIfLeqT/o7ZImtcHIcBdcEtGJcBlpFmC9Vg=",
+                "mac": "FLtfIGowm7MuWQ+Bm30I7A=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/3/message": {
+                "ciphertext": "c6jtZiaJGA/Yvmr1LSNq7fNUrILlki5BRpLzMNIfLv5Jb7jnFHSVWiIbGPJh32+fJrR6wnOmspzCRn01Wwfy/Q==",
+                "mac": "q9iTGpn/dSiaowmn42WeFw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/7/thenStep/0/message": {
+                "ciphertext": "t+k3bYUdsJuJFqzqjQIRXg==",
+                "mac": "HMZh6tahRWiiHimgI10Plw=="
+        },
+        "database.json/commonEvents/sergey-hax-ctron/event/7/thenStep/1/message": {
+                "ciphertext": "w/95HD2sDJ94nsSv0WflC1FMvJXrN9YbdVnFR4snFj9KU+236UQxtkRVEoaDK/uXMaLY27SAwrnQxqLEXtoQLROUM6t7TqftNd0Pwqfuhzt8NlUBvZDSMWpoJTZpj0zg",
+                "mac": "N89FMVgzC20I0E+5o/PAgg=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/0/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/0/thenStep/1/message": {
+                "ciphertext": "+Hp8R5LPxah45Bdb9JYngF4oukqsOrdzWBo+/VC5xTwVT8Szwo8eznqGU5BFfEQ0",
+                "mac": "tVSM3MnPT0G+wAPH+EANkQ=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/1/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/1/thenStep/1/message": {
+                "ciphertext": "G/Fmx0UElpIRgoryUBsBjTpt4befD94rnlxAzxtdFg1lBvb/84JajrVi1kETm4TZ",
+                "mac": "ciCLG+iQrnyAv83pc2uI9g=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/2/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/2/thenStep/1/message": {
+                "ciphertext": "h0BxHt5H3QSqvZOSeir1UZQcCGEyewO5Wx6kKpVfIxEisGe4sa/YNm9VRkaXeb+2",
+                "mac": "i3Ln8jwkUnkRyz98nODUhA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/3/thenStep/0/message": {
+                "ciphertext": "8AYi4ik4PYXca8RvbahxYw==",
+                "mac": "QMf7XUr1uTQ5yGi8cCDPjQ=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/3/thenStep/1/message": {
+                "ciphertext": "2/eYEevv1y4n6+DORXqRGBhQ2lZy/DdYmf/f7t2ubq4VekEjNACfbkSqEsr3jsiE4NNFCi3ZuU/2gZnrQy5nMvMmkfTQSCzurDWBr5sOuTWXVeZ0iscoS1gttU00ogQUvUZFG89YIdq6r0f5F/LNdQ==",
+                "mac": "u5r5I3w1k3cPSyc3eMLOUA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/4/thenStep/0/message": {
+                "ciphertext": "rgpFJHtPcttpoSNVtMW+qVCKZXJEwOhDL180qyo37bY=",
+                "mac": "v7rXwk+gfEwYXMM/wQZVjg=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/4/thenStep/1/message": {
+                "ciphertext": "OtGO5ulHdnTRA2JWbbjYY7NZfN/n+/cJvKFRES4+riOzy8nXcvHeXIIQU82jGekv0sqDjPVAoBfTJYVKDALfPfuXfOrr1nJ2Yte7lTmJwo3NXklWVcgOwlaKBisTLjvR",
+                "mac": "vSReDdueaosyagFDmhnuJA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/5/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/5/thenStep/1/message": {
+                "ciphertext": "WWC/owuo8jkWsI7KPY9Oa57fmKWwG7kxSDn6FOOwWwn0OBxe9I/3B976quZf9J1Gt26bmMzZ2xpqHTThzyxFsA==",
+                "mac": "gbYSBVgfUoN/Zk6LR1MvbA=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/6/thenStep/0/message": {
+                "ciphertext": "LTq+RJ3AVYRSr8AK2fkIHn8KLJiNMkDYjlDC3aRLN24=",
+                "mac": "f82eSGaZcLoMQg9vESTZNw=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/6/thenStep/1/message": {
+                "ciphertext": "a3qa1jq1JyIndL1rvqD1UHUEpvBEHi4I9xg0Xi9fJxQ=",
+                "mac": "8bLdMNxYLoH7FStX88ELbw=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/7/thenStep/0/message": {
+                "ciphertext": "sRxp6zSOgVwu36nuG/i8tg==",
+                "mac": "meFXVJjvwDW9UbSuUhZuvg=="
+        },
+        "database.json/commonEvents/sergey-hax-emilie/event/7/thenStep/1/message": {
+                "ciphertext": "N7R3WX+dTFT4ZjOGSHKBu2rhRzmT6DGkb+uoh5/Pf4AGNTUSVV0opJpc4SR99Xyb90bKnruCc0yVUY0OTCaJq/xoeNDAUn4X0Mk2XFMlXPvJThLKWB5IBNS6216uYm4WdTdAiZpSCetT5AWvdaOA7g==",
+                "mac": "UbbmeKE5EwlYYQhbdDIbGw=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/0/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/0/thenStep/1/message": {
+                "ciphertext": "1ZpzRD9LyCfcyfah4W/fsOpa9lEtDdJrO6OtipOxZZRgYqs+lQewsAp5xJzOGYbO",
+                "mac": "x3vk0zhbozn4QKxx575eFw=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/1/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/1/thenStep/1/message": {
+                "ciphertext": "6oOf/lIsx9pbaJAebuZYpa2/5wACJCzT/5QY/mw5bDsXkLRY+xQkr39AmPsHxYVKkiSNd/cnvG5LdDRQoCD0tg==",
+                "mac": "0nK9Ye1WI7Tmhff3orQHbQ=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/2/thenStep/0/message": {
+                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
+                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/2/thenStep/1/message": {
+                "ciphertext": "eIp2pM3IInwWhG56zbnXZ9rdBMmM/IwCUjnFMKSNXhnFz/k0dJb27NcfTGI+hZV4",
+                "mac": "4l12DaucCw1GMJpRfehHMw=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/3/thenStep/0/message": {
+                "ciphertext": "Dy90pxmeKhufmCEmzlwP7A==",
+                "mac": "dZvoKlaTx7FF8kk9lerVyw=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/3/thenStep/1/message": {
+                "ciphertext": "D1an+vmXauNumbxEbiM8Z01WR3zcoogxW7412QPF12kx7ek5YXQI4LCbTOOo/cnZTJXw+XJz7skGav/iK1Q/g+ZJRZTx05viCRhgSQtUz6/9VOU/+ZhQ1amwn4fO9r/eBHKwrmMZxyX8Dbozu/mThiX1vxIK3/OxlN5iul4mBoI=",
+                "mac": "rSlr0heaYgm+QVIyY23hHg=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/3/thenStep/2/message": {
+                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
+                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/3/thenStep/3/message": {
+                "ciphertext": "B2nRNsJt1VPkEVYu9oABy7Ip/jxYsmlIM+7Cw6dJbnpEvtX1cPKD493A3HKqNknGx7om6L725IZRVjdews5yr8K6OZmog1YjYKj00T95AStvZoA1H7yV7cGlqSwxAAzPdallZgH8NCzr0x8d+DPKFA==",
+                "mac": "DvpOKa2vCFRMmof6DTwstA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/4/thenStep/0/message": {
+                "ciphertext": "rgpFJHtPcttpoSNVtMW+qVCKZXJEwOhDL180qyo37bY=",
+                "mac": "v7rXwk+gfEwYXMM/wQZVjg=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/4/thenStep/1/elseStep/0/message": {
+                "ciphertext": "phyVc+/6gDo2SmQjLLaElW2EivkGC/m/pvWSaJaYZmE6C/lSJKxda7r5usq6/uGdPc0+2zqkhcO8bIPW078x9g==",
+                "mac": "8Xadb2rFRqS1HHHHOlrLHA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/4/thenStep/1/thenStep/0/message": {
+                "ciphertext": "/8jQWVTvub3aL7cvu1WGnBmlUVc5b1QU15vwWf9nyUtg/VAS6WT/WiwVAem6+4DzXfN2/GSX7Ci13KpQLewhMA==",
+                "mac": "aLlHgqQPFeRr5SLcjaTudA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/5/thenStep/0/message": {
+                "ciphertext": "NuqNy6DEqHZlEeVEQrNJexKHmH3FIKRwQ48THzByy8Q=",
+                "mac": "rmETOdy1NZn5WyE4e5I4qA=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/5/thenStep/1/message": {
+                "ciphertext": "yHqHq3W2MTehb3IiDvr0w5iUoHo7c6J5jEu8i7CIPPX3kKNVDb7aQouM5dNd3uDpVt0zfws179rKCEiJ9S4ZXbs233gTJvTOaf4A3ND/jJhk82McYDSzKnPVTeEiQWLse4JDKXKgAhD/PGoRFvWrMA==",
+                "mac": "lYHo7yfo5AC6hdbJVjsqFg=="
+        },
+        "database.json/commonEvents/sergey-hax-schneider2/event/5/thenStep/2/message": {
+                "ciphertext": "195seJ4iWSgj5dhBt1we47yt760tmh8/GpubTvAFaxBE7+pmpIPkFzxFoz4QFgiCs8rr+Bo3vBKGwJP4CVPDge/F6Km6DXnUt900uwJy7GNT6W4pbSYRKz/Js3KhHcVC6qg1xMcvRXn2HG4BuPJTEtDnPjZ8ANFbAFuFzQnodm5EaSk82sL9d3jVJerm6rxV",
+                "mac": "QtXITXtQjisogYUQ1qzdyA=="
+        },
         "database.json/commonEvents/shizuka-contact/event/10/message": {
                 "ciphertext": "cmNjAnrtUroZbRpxPsTAvxBzw5J21z2jQVUb+IqXtuVvmLck6lE0JWOFKk+Gx3Qxv90YR8bpM87Oza4xxJRZUg==",
                 "mac": "GA697svkThcs6OVQbpqbDw==",
@@ -6559,13 +6947,45 @@
                 "ciphertext": "wn/kZhfsNOrPCzDzQ882T6F+48VyuiT3tWNroRPOLUuCERhNuStoeA2BdKU/w5MqzDsqqtUJoowOznI2Dn9Z7A==",
                 "mac": "lxGHkeyqTHME+cpITieDyQ=="
         },
+        "database.json/commonEvents/storyUpdateA/event/1/content": {
+                "ciphertext": "DNtqYvRikr3jhttPMV/bZJWeoIWUG8blz8edoMKhQzE2bvC/xdrXKmEyYpFD4fIxx5n55wdZpyUuO9fN+A4VWq8OjJgkqGXtOWntHk7463AEFDX6IDWCHr2UL+om4tCTgfySaewde/6Iy/dON+u70jf432Vxz6S/vKOPcjzkVdM1DPdt1T2iJezpAMg/ThdFJVst7py0vX09+CwXRJOu4G/mOtPlqhboa8yDxeZ7BbAQfVxBmwJLyaCcpgbRce3iIjEHQfHBSxmNDQaTvBber5U49zPYGJT8pdisTud2REmzfpI8mypJeALnYIUCU0GiSn/hdgCDmiHJHubKygP6Sj0wYnwVqQxN7d8M6qTUBuKo1XgYYbai5QhqjxddIA19",
+                "mac": "LibT0rCsUzm5vOWii/oQkw=="
+        },
         "database.json/commonEvents/storyUpdateA/event/1/title": {
                 "ciphertext": "UhKwALqnGEZqvESEwQ8klZ1LaNGG3K6Di5ahMy9cWns=",
                 "mac": "vOH27IBjy4VYX18PQz/NJA=="
         },
+        "database.json/commonEvents/storyUpdateB/event/1/acceptStep/2/text": {
+                "ciphertext": "M3SRVvTGVrV6bCoEZozBT0l+ESVuIzh6BGeIkpVN5HGIbGDjHqehE5Zr3YzPD5Rt5nIwoYp+LQIvZERHNCwNjjrG8Zco+vEf4fXOuo91OtVVtQPd3Uff8kM2p6Q+UFPVjx2ieajs18FliOwx2cjykUiQ4wzHOUViudGDBbsnRDfGZJmZ72QxFmn0k6B1aiFarCQWYx453AWQkPR6eKkpKRmvXeQmSZaSgL7FAAhjWK8hAHY/tdGymrcPwjjSUpz5e8PoMMVy6nzWaNYILkxKqksLtRiBCSUIbGjXKJOCfTo=",
+                "mac": "M+3SiMTzNq8DxihyyF0LdA=="
+        },
+        "database.json/commonEvents/storyUpdateB/event/1/acceptStep/2/titleText": {
+                "ciphertext": "ZuUVDA2Y3rYaUeyExacXO7mOabyQahDT17ug3eHgJi8nce3FHpkAqLpTyA6lLYV0",
+                "mac": "1+Wod5NPe9aXV2KNF5cmSw=="
+        },
+        "database.json/commonEvents/storyUpdateB/event/1/content": {
+                "ciphertext": "RuD/DzLI+MzYmLVirxEoVtyRim0cTZyYi1iass8apkVvOx7M+sHAQyzMKjcRHng8a/Eay+Bw7EYwR0s23zddAkL8yvWv1/5xnzGGpnDiejRULYVYnHyLtPp95oZ4bh7pYbnAV3SiobKTITkrWEBLK0OD0T7fFopW/YBToqTrV4j2xWzKh4P/ij8tNu+9DgwV2EXuxohHeXRJpnWAM+DaHvCwCpGe1GyZg9Oe19KlqinjXvP6zdZs/M2bXH5kFr/9MGeugTyoTM6iesu5ckGmGVljrjMmB0OWvnArbEeqwDMmujMmLeXwDcWZeRjfEU6GXzGfL4xeBaWr/oauLm8iaQHX7m+LSuZeMH7yk7d6PvtzMuIDMm7vd24YhAg3vtDy8K9PNJQX4UAMKWrLC8Vkeb3KULMpQb5P+g3RNrzyuPRv7LKgcpf2WKpPHQvnQ1DF",
+                "mac": "6UVt5wZhMCWSzWNTtiMcGw=="
+        },
         "database.json/commonEvents/storyUpdateB/event/1/title": {
                 "ciphertext": "UhKwALqnGEZqvESEwQ8klZ1LaNGG3K6Di5ahMy9cWns=",
                 "mac": "vOH27IBjy4VYX18PQz/NJA=="
+        },
+        "database.json/commonEvents/storyUpdateC/event/2/cancelStep/2/text": {
+                "ciphertext": "zPz49O4dsuaT9nzcbRB5N5U62+EWQ0P+XF/APK6aoyixA47UUQkpdw3jVwKYV3nhyrSpwOkaGys68savQOlT2YjMkTNPoVl6mLvEwcHls4crKvpR/RKw9hziG/28oV3puowQ86dIqL9UCRgATzAs3/ju+6g/QcbWgmL1fq3HhfKMdRJzDegx0ls8452ltrUMexNKHTNdDKgV6+2nPRAo75KHGwFJfoLPz/9ZmCbcj5He1m4Z0PBb48QYG+DckR+nJVf1qpXWSInbFuQNcEU2RQd4O/yQx0z1K+U0Rc3XSnlrHRWmrbS5de4IlbdU6+sr04YoPCxWzHLbWuAPIon2kJ8zLNTsTJiid4xjMK6aRJJfX1gmpAaI1d0PjwhQhrquX8X+qqO4ogKrggzm5+mTVWwB86NHJ9wlBsSHxNR1mDVSJ2aouDk/gM0Ho3lKcoFsjJ6n6x1UjVRWJFUPs+PTMg==",
+                "mac": "14cBUD1LaRWb+2taBoG+GA=="
+        },
+        "database.json/commonEvents/storyUpdateC/event/2/cancelStep/2/titleText": {
+                "ciphertext": "A3X+0Me9amW3StASHGbl+hwHvII1iXRJ3uTl1UkAb5AjOkAO3wX8SCboh/4m9xQK",
+                "mac": "3TlFMXJqdv2BRai4poRp/w=="
+        },
+        "database.json/commonEvents/storyUpdateC/event/2/content": {
+                "ciphertext": "Ab2JC+Seeo8LLu0LwSy6204ajsbQ2Lp1HLTIoFSQIvytov3E1dYNn8KVO/PqD7tnhuxJbaFqQ1oRaUheG164TZ8t1qLdtb+YRPtPmCoaQ/JikSGzKIn5HDGW4K8MXOH4OxAAn1/vWOG+lpn8rY9R1VneiKbhXjOl0kEVJ7SvLyy4Vwp5J58W87VsD4q9+r0xCHoJXNHUj2JXZ5DEH3kOFDcxN0WLsEDsz7Ds5M3VCLjMaGnhewnR9b7GUALB94J+wmNgG4Q5aahzCrwysQY1d0ROG1JMZdPfY8n/NsO8dFT0lPyMGSR/mhjOGADEocONs8+R5w5mZFXehEb4fsuirfjjMyf0wJ/Tp+/B6nJTHugd7zNy99epfdU6X230DqDD2x+8wlJ5ITg/IIioivZVYUUf74vD0rJYJa4qEeMYWKUm+yWNlF4/+bsjUUNDsIk7ys0X9+kY2aBn4HdQwLzaOIHqCUr6scwZ9MsEtXdIzzpNqnJM5vnAgKCmEGeTW2K3kWfnpOQUhv6+UbSsJx9wJvl+3PzGYQxH90kKqZiwSog=",
+                "mac": "9iQyaLSyy68WxapILStqxw=="
+        },
+        "database.json/commonEvents/storyUpdateC/event/2/title": {
+                "ciphertext": "nfmKi8heXc7+zTzkAj8cMNBYVmdMZpU7ajTYYnqpqV4=",
+                "mac": "SBsFrpjQbPNA6WIPP23JUw=="
         },
         "database.json/commonEvents/storyUpdateC/event/3/text": {
                 "ciphertext": "w6sa9a3KewcZmRRxLQ3vufoC6gUjLc+BtEIjhCkW/cQQsH6rkIQvH1C5vhPq9Kj4hQ7e0Q4/psXMqI++tdNR4zEbOgP1DzzEY11d7mIL1PswRryoR++Iwzx48SA+pqQqtplvtsyLxEkiJLApnm0JQvv0TgaMEWZB/O2TmdOCEKVghXUkbo4WF44iVgRfhTSpr6kmF1Wyqh+xtVwM7Sgt9AKkaYzIBDaeR0AvXVAAu/RFnfQbvTwHJiWAleoi1FKXZ11kpkbqEkj6+t1YI6nl10NbePLdXdOxCTbTHVDRH1e3zNLFYgcuEEZGIit/bSuuL+s6NCVrpNh84dRhlgGB4UMjJQefo5AySXNkrJQuVJA/ho6kWO7OkPXAHMhQ/CgrcBg4GXiQuPAnDF+5FxLZog==",
@@ -6574,6 +6994,22 @@
         "database.json/commonEvents/storyUpdateC/event/3/titleText": {
                 "ciphertext": "DxcEkYKZ+X/fqMKVKUke7X4Ww6S0gcseH/HcyauktWA=",
                 "mac": "P/xTnd9OT7ktAkwux7ZZKQ=="
+        },
+        "database.json/commonEvents/storyUpdateD/event/2/cancelStep/2/text": {
+                "ciphertext": "zPz49O4dsuaT9nzcbRB5N5U62+EWQ0P+XF/APK6aoyixA47UUQkpdw3jVwKYV3nhyrSpwOkaGys68savQOlT2YjMkTNPoVl6mLvEwcHls4crKvpR/RKw9hziG/28oV3puowQ86dIqL9UCRgATzAs3/ju+6g/QcbWgmL1fq3HhfKMdRJzDegx0ls8452ltrUMexNKHTNdDKgV6+2nPRAo75KHGwFJfoLPz/9ZmCbcj5He1m4Z0PBb48QYG+DckR+nJVf1qpXWSInbFuQNcEU2RQd4O/yQx0z1K+U0Rc3XSnlrHRWmrbS5de4IlbdU6+sr04YoPCxWzHLbWuAPIon2kJ8zLNTsTJiid4xjMK6aRJJfX1gmpAaI1d0PjwhQhrquX8X+qqO4ogKrggzm5+mTVWwB86NHJ9wlBsSHxNR1mDVSJ2aouDk/gM0Ho3lKcoFsjJ6n6x1UjVRWJFUPs+PTMg==",
+                "mac": "14cBUD1LaRWb+2taBoG+GA=="
+        },
+        "database.json/commonEvents/storyUpdateD/event/2/cancelStep/2/titleText": {
+                "ciphertext": "A3X+0Me9amW3StASHGbl+hwHvII1iXRJ3uTl1UkAb5AjOkAO3wX8SCboh/4m9xQK",
+                "mac": "3TlFMXJqdv2BRai4poRp/w=="
+        },
+        "database.json/commonEvents/storyUpdateD/event/2/content": {
+                "ciphertext": "Ab2JC+Seeo8LLu0LwSy6204ajsbQ2Lp1HLTIoFSQIvytov3E1dYNn8KVO/PqD7tnhuxJbaFqQ1oRaUheG164TZ8t1qLdtb+YRPtPmCoaQ/JikSGzKIn5HDGW4K8MXOH4OxAAn1/vWOG+lpn8rY9R1VneiKbhXjOl0kEVJ7SvLyy4Vwp5J58W87VsD4q9+r0xCHoJXNHUj2JXZ5DEH3kOFDcxN0WLsEDsz7Ds5M3VCLjMaGnhewnR9b7GUALB94J+wmNgG4Q5aahzCrwysQY1d0ROG1JMZdPfY8n/NsO8dFT0lPyMGSR/mhjOGADEocONs8+R5w5mZFXehEb4fsuirfjjMyf0wJ/Tp+/B6nJTHugd7zNy99epfdU6X230DqDD2x+8wlJ5ITg/IIioivZVYUUf74vD0rJYJa4qEeMYWKUm+yWNlF4/+bsjUUNDsIk7ys0X9+kY2aBn4HdQwLzaOIHqCUr6scwZ9MsEtXdIzzpNqnJM5vnAgKCmEGeTW2K3kWfnpOQUhv6+UbSsJx9wJvl+3PzGYQxH90kKqZiwSog=",
+                "mac": "9iQyaLSyy68WxapILStqxw=="
+        },
+        "database.json/commonEvents/storyUpdateD/event/2/title": {
+                "ciphertext": "nfmKi8heXc7+zTzkAj8cMNBYVmdMZpU7ajTYYnqpqV4=",
+                "mac": "SBsFrpjQbPNA6WIPP23JUw=="
         },
         "database.json/commonEvents/test-cooldown-start/event/0/thenStep/0/message": {
                 "ciphertext": "G3hOgFELUmBfe8P2oQ9naQ==",
@@ -6836,6 +7272,39 @@
         "database.json/commonEvents/tutorial-melee-art/event/1/title": {
                 "ciphertext": "rAmTToxQZ61OMdFrhrqpUeoSM7So0vWEvGgtmhcY/kE=",
                 "mac": "cRlEVejkt/VrwjLMcCmwfQ=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/1/text": {
+                "ciphertext": "TfvYn12W1bLAghMqjsKNyYVKYS0Y2xGePs99UB6Dy7jLieRlB30lOkIt+kuXtu6b4Q0tfgI+o3ESQzo4gOiFw8d2ghmjpclWg1iG/xjxwizDZEDttE0mBSL/4/bilc28vqNJZ8tYCyJaPI5WCfg68uNQ/np2cRMaV5OVU7+ce5eg0dSDdaaVP8Wl4cdczi3nQZnzQVniMt5a6msGvTvWQ9yZbucC75IOz9hGG2KLtR8=",
+                "mac": "BMwP4AJwEI0yj4zKPLZfdw=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/1/titleText": {
+                "ciphertext": "5g1Bx3oLAPoG6pVTn146Zs2/v2GH5PrCkUIXoutN/x1Qf3xzzaiqY7bFF93+LzFY",
+                "mac": "azbAQyrb0nRQQuscb0KBCQ=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/11/text": {
+                "ciphertext": "5Ae7soX7DDy48TWp+HRtB5JstoPs1hGa87YMv4J/4OwCAeLaKB/waoZiBMHrh6YdtBLH5cJOh7lArsugKvNe5qSmDNrnzP7g39hfoulWi1xZ+PsegnH+7rxlgvfspk+X",
+                "mac": "+DQglIUCIMwxz7WGVB9Z/A=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/11/titleText": {
+                "ciphertext": "7cbyIajJRAJqzzaTLOlrT5xMGPDsM6fKWuK7StERB5zNa6trFKzMtjj/XTEMw+WEB6iTVpRUVAFC+A8NX49p5A==",
+                "mac": "6RpGg8rTmXyOQLNJkH3BfA=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/3/text": {
+                "ciphertext": "bangzKU6OrjZnzsS8cZ+K7KpctAgmHKbfo21YwULTegCl/yDX8GUqLEd6BJwzHmiJQxs39Q3zp7zcUr0HlOuLfo8Cfhp5llX+z3ldRHsEJ/vSbbH6mALL82HbCApHvsFJMAEAaq8LSp6FlMmlvREcSe0FXqbaeLNU0l76D/AetFPvPipbp/vJezjq5qz9R5sO5esp06Hawa2MoLyCtBa2A==",
+                "mac": "7iuirIbjyKAzYZRRF1O++w=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/5/text": {
+                "ciphertext": "HGiyw+ufqtVRpCm36DWyRXsiGGF7B4XwLq9cdcoCdMpuGc1vZ5m838uYLc+thWbyceP3GNWR8yqTCWq2RkHJhaAm9bXR9rRwNNqMxQ9ct5D6VlExM7YptnIEraV+htztuIaPyTydBU9rA6AZuHuDhxJMhCkwelgzqVK2+tM59wo=",
+                "mac": "fFgD6w7Aj6keSHE3ywrcVA==",
+                "ciphernote": "+43Y3w6zpI4JlseHGwA8kIe6qKQYEDGJ/7F0IyZhJBQRoakruHb4r34xF3JgTj/C0+1kh421jVJVI80npwl/2g=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/7/text": {
+                "ciphertext": "escfJj7tAAvedng7Bs0Xk50s6wmmT2ymVC4LbykeLvZZEjJHiy1fMuWFs5lMXGhonhh/SeCk8exbEucVMQJ2aew3YvBg/AI8+ki/UhkFpdY3Xw/0/caVanipnR1PoyHyv76vxTnI3P5egwdlg3g0mtfZwjn2jQa4AE6x+McLw4k=",
+                "mac": "QgcB9by6Qd5pzSCQhjDthQ=="
+        },
+        "database.json/commonEvents/tutorial-newgame/event/9/text": {
+                "ciphertext": "IqldiX6/NHvQVeY9UOVsCjFnZfju2FBaWxcEyk24EdpMZG0Db+8/Ysv0wQ2kavtfsYW0g+N9BYMMJ+Ukqjs8xwtfrvwyh+gYC5N2B3tItmbou6RfgR1uqZBNihlJZUycMHTtWWnZX8/y9CWsYS1i3efit0hu1bMG8pK+9Fw3FpLCYX1HVowVnlz0bEQHxVcItE2osnoOtGqOGoij4bPIvUT2pVkruI7o1CNwCAV2vvni0eEMeI947EQrKgcRqq1kFM45ct3nG5rke7sdgodXOEr1Dt4W15+YZXCcaejq1+4aDCE94Bq2aA7rHXYxh6za",
+                "mac": "nmsbSaSuTsGF6VvwZHMTlQ=="
         },
         "database.json/commonEvents/tutorial-quests/event/1/acceptStep/12/text": {
                 "ciphertext": "oqIE1pLrxKyQxwy2TQO2wmbZ/YG2wRJNRmONhU4OWBoQCl45yx3uyHQovDxK/AVLaOrjGWM/sC8+37/cDDAtBQ==",
