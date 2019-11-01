@@ -12,7 +12,6 @@
 	"areas/bergen.json": "packs/bergen.pack.json",
 	"areas/fallback.json": "packs/fallback.pack.json",
 	"areas/forest.json": "packs/forest.pack.json",
-	"areas/shock-dng.json": "packs/shock-dng.pack.json",
 	"areas/tree-dng.json": "packs/tree-dng.pack.json",
 	"areas/wave-dng.json": "packs/wave-dng.pack.json",
 
@@ -44,6 +43,7 @@
 	"maps/heat/special/cursed-temple.json": "packs/test.pack.json",
 	"events/puzzle.json": "packs/test.pack.json",
 	"maps/arid-dng/test-elevator.json": "packs/test.pack.json",
+	"maps/shock-dng/f1/room4-old.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -1032,4 +1032,22 @@
 	"maps/jungle-city/special/hostage-1-2.json": "packs/basin/hostage.json",
 	"maps/jungle-city/special/hostage-1-3-cratequest1.json": "packs/basin/crates.json",
 	"maps/jungle-city/special/papagangster-rooftop-1.json": "packs/basin/crates.json",
+
+	"areas/shock-dng.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f1/room1.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f1/room2.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f1/room2to3.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f1/room3.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f1/room4.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f1/room5.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f2/room-element.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f2/room3.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f2/room5.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/f3/room-boss.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/g/room1.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/g/room2.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/g/room2to3.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/g/room3.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/g/room4.json": "packs/shock-dng.pack.json",
+	"maps/shock-dng/g/room5.json": "packs/shock-dng.pack.json",
 }
