@@ -11,7 +11,6 @@
 	"areas/bergen-trails.json": "packs/bergen-trails.pack.json",
 	"areas/bergen.json": "packs/bergen.pack.json",
 	"areas/fallback.json": "packs/fallback.pack.json",
-	"areas/forest.json": "packs/forest.pack.json",
 
 	"areas/testing-grounds.json": "packs/test.pack.json",
 	"maps/bmt/boxes.json": "packs/test.pack.json",
@@ -1098,5 +1097,8 @@
 	"maps/arena/faction/maroon-billston-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/maroon-turtlecave-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/mine-heatbot-1.json": "packs/arena-maps.json",
-	"maps/arena/faction/rh-turrets-1.json": "packs/arena-maps.json"
+	"maps/arena/faction/rh-turrets-1.json": "packs/arena-maps.json",
+
+	"areas/forest.json": "packs/forest.pack.json",
+	"maps/forest/path-01-entrance.json": "packs/sapphire/entrance.json"
 }
