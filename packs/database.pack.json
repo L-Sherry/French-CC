@@ -1787,9 +1787,8 @@
                 "mac": "CTacwrGYCD0kI7YgyoBPXg=="
         },
         "database.json/areas/forest/landmarks/upper/name": {
-                "ciphertext": "uu9pjDwCZa5gBGZ+N9FP1w==",
-                "mac": "gaiO3YUXWVUZzaK4JisaZQ==",
-                "quality": "bad"
+                "ciphertext": "4o1QPIr/BlPhmenJIduUTtxH4qrZKw5T3b9IbeaRqMs=",
+                "mac": "DR/Unv4quz0tQ42o6Xajbw=="
         },
         "database.json/areas/forest/landmarks/west/description": {
                 "ciphertext": "+xYt7R8ejZTHV7IOfT+ImSJu3gobSQ7n3ZO9IxXzNx5hjK3lBAVYgemGJ4XQLAP4tt2/pMvPPaQCPa+FO1l8AM76y0MruCeU210nKi3+pJpq5E3ZPTkGXE2oFDFUH7CQ",
@@ -2026,8 +2025,8 @@
                 "mac": "9ryrRsjFg5aILPJSiYu5EQ=="
         },
         "database.json/areas/rookie-harbor/landmarks/center/description": {
-                "ciphertext": "hxkKxD960n7YQECFX7PkmBh8dc9BAGNGO0a39CeE0mmhzlVhsRKOc6AR2vncw4xqwTdGz6q1gXlPnxJ0ZlahB9lDBodD75NKMa5PBHKdQWo=",
-                "mac": "IHcZIJ2KcMMjTxno3BNBIA==",
+                "ciphertext": "hxkKxD960n7YQECFX7PkmBh8dc9BAGNGO0a39CeE0mnavui11xIHKO8qgaS1NhjMhET/brKfLppphot5KRccMA==",
+                "mac": "BG13ZWxbEsbp/dhMo6judQ==",
                 "quality": "bad",
                 "ciphernote": "LRZITm9AuUDkqZp5jw5XLw=="
         },
@@ -12626,6 +12625,86 @@
                 "ciphertext": "gRHB5eBv8nx03IpO918cDS1RcdCT3B212QGt3C/La18vzfO4bhOn3UIrAg0nO9vrJXU/Lj0q3NWVRkAfrkXM59r4wTPLCNF4PAs9IfHGKVOXRdRKMXmwD20b3jrG5kEi",
                 "mac": "mYRLMKGLms6Hiwnk/roe5Q=="
         },
+        "database.json/quests/bug-hunting-cold/briefing": {
+                "ciphertext": "6SEn4XsufRy89Cz15oRyDT1TZ7Nn5l0/JqU4Q6a+ng5ftUV0hyWnJK3Cmx/2I4lMO3w8z7jhCkvIl+0r3POq15c/G5JbAlNYF3yhFLTGVk0H6LXzd17dA7cwcXKYDIHdC1Mp8H5SMwJjB6t8KbhGlgXui1Hnil9XuZL6vbMYJFG5VyELwAD64r8b4iucKIWz",
+                "mac": "LQyLTlwpqzt4ho6FvuyORQ=="
+        },
+        "database.json/quests/bug-hunting-cold/description": {
+                "ciphertext": "mDhqdy+vzM+F7rNHr5ppTB9EBrm+tOUpgLeBIGILqUMyMbPzsf0k1D0/qBVKujTPgzZIw05O1GEwWK2cfj/0uvg1378t5zeCGU32qR1v+wxDAF65ixc4DEOYSFZJ4vDky4uylI3DWO0JKTgm1+en+xSstmI9GKQG3GC26BnDCfs=",
+                "mac": "Q1VmI66tSDtx8H40wra4Gg=="
+        },
+        "database.json/quests/bug-hunting-cold/name": {
+                "ciphertext": "Ax708IwiFa4yZozA+aFrBeTjcVU/36K7OVjJ45pdo+k=",
+                "mac": "Q5B6zUDu44zr9rBG4/+BNg=="
+        },
+        "database.json/quests/bug-hunting-cold/person": {
+                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
+                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
+        },
+        "database.json/quests/bug-hunting-cold/tasks/0/task": {
+                "ciphertext": "+PKtEE6hmZ0KSrO16/PW74gp7eBX8+GwIVWtEendIGjo5tOSOiVfC7bpmG0QxMiJJtr/1ZMGrwfqQTFCs/P8LlhKRjNwCybWyALzTakpba7ViWwuQk6WnCIsNAc81zkI3Vm7M+QUJICE1xXRfDLsDg==",
+                "mac": "lCGZodioJ/4S9ykCZX9+fA=="
+        },
+        "database.json/quests/bug-hunting-heat/briefing": {
+                "ciphertext": "XpI6ym9rN4H6UyJkK7Sn8IU0kElI9krvPEtjOijPPbKiMO1vdwCcWVuBhYdSc6SHDlyuXMjQFb5035pewGiIzYreLuLtFnPmQYDG6lDu0NKPRCDPDHtyZP1ad+5eNFHT+2iNqzLEGeizyI9fo69oTlBLaCXpJNOMi3laq2sn4FRy86mKOBGXCCtIMBiTXq8L",
+                "mac": "bDCRMXyXPkZhwMROCgU67w=="
+        },
+        "database.json/quests/bug-hunting-heat/description": {
+                "ciphertext": "1Bz3RBwnnDNZGCfW3Zl4Cyf89lAWVv4Dqi6J4j5PYKJG2Yg/xo5Nf9IB0nbGMYGMoOi9WrXtaxrf75mz+ysBa0sdH9KZf8KOikeCoFUVlvYFqOHOCK4mXDreh7F5M+9pZF5bLOCiqOHmkLTs/doacrboftDrilEPZKq/Ygr698ZehC0pKxItAhGfH6TTrx6P",
+                "mac": "Ijf5EXqgHza6NI3//UxQDA=="
+        },
+        "database.json/quests/bug-hunting-heat/name": {
+                "ciphertext": "En+Q2hVhrzkUXtRXHi4FONJSKlkXuFsItC1v74uXVMY=",
+                "mac": "WYgTP3jHIA2Yvv+yb1x2yA=="
+        },
+        "database.json/quests/bug-hunting-heat/person": {
+                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
+                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
+        },
+        "database.json/quests/bug-hunting-heat/tasks/0/task": {
+                "ciphertext": "Jm6NsZXfQC4LiS0V9hCSvD4tiLxuQvAADBDXH3M8S3ZnRtObsCysnnTBHu8jWa0F/Sc/v8ZDQRniAo2L924fGp3ZLbid5UJ9M3ubeAusDDTRB6mtFkjoQKyZurMPRXcj",
+                "mac": "e8yR+/txEF+h2GeA6jA3SQ=="
+        },
+        "database.json/quests/bug-hunting-shock/briefing": {
+                "ciphertext": "ZVEwQf0fL4gGyHpDXMWJJEBSNvh/KwTEVVhKlWlrDlL8VAPavMchmWMqO9Wd61hosry6aDUtxjTI53f9bhCRW3zXKh7OW+6dpswLF9KIyQOu+O9cxpxmkvv8GE3jm+y+0cBCKE3ldKWElF7nptdFJj/+nPuSa+BHKRPyJbF+EoJY/WvCUT+tGu7zhM2Jr0LV",
+                "mac": "nnPebiUMmtmij/kHkSLITQ=="
+        },
+        "database.json/quests/bug-hunting-shock/description": {
+                "ciphertext": "sMpMZQMJHzQuGLH/eS4u36FsqXdjN4x0knkLH9p1By0/KCVAgdncw9FGKMOpPUDX21JMRtxiceBZhgR7E0jm2s0i+VsKPI5vcxKpAdCajSpNI+3AFp9VAdeu9hE5lJ20d2OrVEZXXzJrwvagScQrl5cprjtLK42SwFTbKu6vPug=",
+                "mac": "XAmTMI5n1ZZZqoVOjPlKPQ=="
+        },
+        "database.json/quests/bug-hunting-shock/name": {
+                "ciphertext": "DYP16VjzTmpjLL9a3bqmdX4Vp42auH9YPZXOTPd7Ado=",
+                "mac": "7MvrwLE3vTnFFPYY7VD5qQ=="
+        },
+        "database.json/quests/bug-hunting-shock/person": {
+                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
+                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
+        },
+        "database.json/quests/bug-hunting-shock/tasks/0/task": {
+                "ciphertext": "Xu857U4jyANcULeQEYADb7SDC7LVyCGUV8wtwJyRMaFr4PG3IgAQzn7jdjzM/twTnpmQhykXeBM7myJMKT5aP+OHPoVkjofzwD/JYn9KYDm5zclqxmaviSEeVZwVo1i7OkR6w6ebfMRekSAmgrO8FPmNQIACzPc6JbRPwvBaJDM=",
+                "mac": "wjGxysbI7tqC4NdfIJDoQQ=="
+        },
+        "database.json/quests/bug-hunting-wave/briefing": {
+                "ciphertext": "zGSyHnNnoywWKxTnjGjFt5eZ/pENjuidvhIWCUGdY6Z+MND7sKaL3VZzHBJK41Qd4Dbw4kakFNqPqFbvHjxR0FBiv5n/1dDN6u0MUUwvPaDFKc3mlTvWqkG52JxO6GPQnZum8181d5Ee6fCLZ+sjV0mEXe3Aephxvh7qjz/QHhe3vxf7YRTLBXhnLEilMuQ9pkkgPfXaTLU5qiI44WZ8Hg==",
+                "mac": "XHwcDOyUFZZ6LASkCn6WVQ=="
+        },
+        "database.json/quests/bug-hunting-wave/description": {
+                "ciphertext": "Bm6ZBGeFcvyQS6vcA8ggzkfieWW4MLzq/gjUsurcJ3VzaQCIlATS38lSVbKP2FVzcK0gIqVq7Vfkysi4QyNZHk9hMmHeQNe6yDQKYz1jjBJGZ1DcjNiZNM7++2Tm/nljonKDca0Abjkt7w5VAzqYfK4kFaEW7wApl+SzmqYwWuytM09O1aj4C8NFZskXYC0D",
+                "mac": "gtkSud5X9SlP7WkVELc4GA=="
+        },
+        "database.json/quests/bug-hunting-wave/name": {
+                "ciphertext": "BMSXEOCehoKlQVsP3ZRBJHe1U3+nk5hYIimyV9pdqhM=",
+                "mac": "nKgZlPtPk0Ma+B5GROYOow=="
+        },
+        "database.json/quests/bug-hunting-wave/person": {
+                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
+                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
+        },
+        "database.json/quests/bug-hunting-wave/tasks/0/task": {
+                "ciphertext": "RD1DWgx0Wntq2NJDpgbhCTD0gBx8rpDKyPBcsbCgUDhToREscESy2TStfaDMYP6hud+ruuZJDxfNNMXDCtMHBOgHbwLFYuy9a4/O22LDxi2eNljbrOjv5PSfF1I1yla2OZPKI4gOt7v7+ADRRVUXeYdw1+9dsC2axfGc0Pz7qCI=",
+                "mac": "dWDKgTk2xNLRWdZ+HJd5nQ=="
+        },
         "database.json/quests/bug-hunting/briefing": {
                 "ciphertext": "dLpjhxEXvt4dvsg6iSJG4LpCrS//IYJz7BvyWzepvsjJRNDoFctRMO2QrmRHTOPO4dDFdmFOPw845LtfXO1HMQPQLDDv0PFfey+2PgW+G2jpnv3sbig5mDe10Itj45X1c0NdUvIoMzMnJK7e3E951KUsKdyubdy3JLtt5iKDhwjS2xxblVDm3AjILlsK7TCuM7CFZBf86zTTQ2WzqgcJCduGmVFtfpo4whF6enNcC2Rd77SYICslpjlVVDaHqUxK+uGuIclDApIT3D5OQYD4QJ4kmBru6VwgH72qOh1UHEw=",
                 "mac": "kNvn41NbnldVan6ZgXaUFQ=="
@@ -12642,9 +12721,45 @@
                 "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
                 "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
         },
+        "database.json/quests/bug-hunting/tasks/0/subtasks/0/text": {
+                "ciphertext": "En+Q2hVhrzkUXtRXHi4FONJSKlkXuFsItC1v74uXVMY=",
+                "mac": "WYgTP3jHIA2Yvv+yb1x2yA=="
+        },
+        "database.json/quests/bug-hunting/tasks/0/subtasks/1/text": {
+                "ciphertext": "Ax708IwiFa4yZozA+aFrBeTjcVU/36K7OVjJ45pdo+k=",
+                "mac": "Q5B6zUDu44zr9rBG4/+BNg=="
+        },
+        "database.json/quests/bug-hunting/tasks/0/subtasks/2/text": {
+                "ciphertext": "DYP16VjzTmpjLL9a3bqmdX4Vp42auH9YPZXOTPd7Ado=",
+                "mac": "7MvrwLE3vTnFFPYY7VD5qQ=="
+        },
+        "database.json/quests/bug-hunting/tasks/0/subtasks/3/text": {
+                "ciphertext": "BMSXEOCehoKlQVsP3ZRBJHe1U3+nk5hYIimyV9pdqhM=",
+                "mac": "nKgZlPtPk0Ma+B5GROYOow=="
+        },
         "database.json/quests/bug-hunting/tasks/0/task": {
                 "ciphertext": "04cAdUYbby1oMF3bJ1czICoRzsh51clCAoxnOEw/qDMBNgmfMDkqki5Z1wk5M495gqg2X0QnEhLy0UwpbZmguA==",
                 "mac": "GRfbt/ZBowXiUQhe7XfLvw=="
+        },
+        "database.json/quests/bug-hunting/tasks/1/task": {
+                "ciphertext": "CW9AEgFQlGIAtJv1oi+MALK9sBvW3lwgHVI989oCXT8791bzQkyZuSeMDoOJvTTIImceijDuuT9QhbD6sJY3DQ==",
+                "mac": "MEMDMNw8W33J0CD4zg6UXw=="
+        },
+        "database.json/quests/bug-hunting/tasks/2/task": {
+                "ciphertext": "Go2mK4NQoimDL7E/NUBUcvf2ZmKEn3zZczASBdwKy/HR1k4oxLbOogMSgoQ007CH+brqpieW7+Bsb0ZMVhuQbmUPNHbQ27LizIbR3tw8gjzNvD0XEA3Oy6ObffAWdayA",
+                "mac": "vspoO1T8SKip4vVZSdb6Eg=="
+        },
+        "database.json/quests/bug-hunting/tasks/3/task": {
+                "ciphertext": "U7CK65v37wStd82rI5qbOiZd2NcmMH7YdjVuq5icD33+6Pl051Vx2qsGswiEpd/t",
+                "mac": "E0/6G4QfJzZmInznOrGhTg=="
+        },
+        "database.json/quests/bug-hunting/tasks/4/task": {
+                "ciphertext": "pHBP5T+iDoeLWnrMLtITQxPJGYEphE6Ggy4c98/Lelg/lNA1Vw8ArWlbTRSehtcN0Swb3agSn2/NTflpUuieVLAppwdQ1HVsPhwWkCtIVSw=",
+                "mac": "F5iOa8eMXstbWFjCyvCwgA=="
+        },
+        "database.json/quests/bug-hunting/tasks/5/task": {
+                "ciphertext": "1aWWYOGjD0ASxi/fIokCUTzNdNz0UHti4L1p7wgEWBoZ8gh+cDCbUZh+wdw1jns6BZH3Ig5F0Vbq37o4AtVBzkQxUN6R60ftMNl0l/h9JnA=",
+                "mac": "M+09zT4XkuEEQAWZ30Zk6w=="
         },
         "database.json/quests/bull-arena-1/briefing": {
                 "ciphertext": "t2mYDoKsj7scoH8BxsBYx0AVM0G0VMvZSzujd9w/TMTqlp6ZpLs3o162LXOtk/luuUMf6IKGKP4C2WdYS0pMP/phtR1dq4VCcgcbOpCFboY8dwxiirpn3JnPEcYx+Qy6u5GepWcsqK71gven4kshzg==",
@@ -12892,6 +13007,46 @@
         "database.json/quests/daft-frobbit/tasks/5/task": {
                 "ciphertext": "9zdC2eGpyYh9/HH3WwvnAAnD8hWCQNoRTE8gUQcsMOcDwUbEx4UVfmYyAwc2WT+U2ZTybKkj7eCux01FQihrP6Fm//6B7rtylHRXxHrRL7z3nYb4y1GZDhG8UBkWtBirL2qRzSjlM5X21eNlzC9HbqNy87CYKuQcQHWBnPt3/GY=",
                 "mac": "9me2FYrsnZIIDMEY0EWZPA=="
+        },
+        "database.json/quests/dekay-quest/briefing": {
+                "ciphertext": "qz0eMw7l0TFBhtHGbWUZ5rpYZuCoRA5476d9D9u8CbsKMx6WCKqzIvpZUPfytFnz0EAqt8kejF96T0JiK6tYfvGnUjaI9VfO54zCUr7zPIPLhb2hgPkoEiWvNsRa+zver7toXNK1QW0YECMg7HmyTW6laWYMleU1B50nyelyhs4oVQFPa03B/6J3fBIRERsl5uA1ZWuDQtego5OaXRdUt78kWtSxDmmyOYgYznaSpq9/gtvh1bi+I/qBpK3kbxqvWK53xT8hZ8RXsukdAfizqTqaIlEGLLkWJd3V6jEmKZfuZcb0WnFBRLhKS6SxjbB+",
+                "mac": "XbVVTN0yn3YhjOMl1BpEdw=="
+        },
+        "database.json/quests/dekay-quest/description": {
+                "ciphertext": "XofqvGhWo2PmZPwU5LHVmp+/dh2QS1TavpgTRXdF3JufRHvdyqSBUJiFuOVQu3ZvVJ+Y8RGQup3GPjbwgMbGPKSIW6ACXGK5gnK+8NEtzTtvMvQinACLZof5qnY8lNXCC74zVOWQy9ql8rAkzAC7A1oCVPLETp/EOrpa6XojrW3OvI3c4UR+zJm6LOKSYscpU9gzm4cxBJu8AI/hZaKoWmmE4w48chWHDhcmQYcgcqNHS1vAfai7JZraxWB9NuMt",
+                "mac": "SHM/g1ZxyDBntI5C+Tv/yw=="
+        },
+        "database.json/quests/dekay-quest/hubSettings/location": {
+                "ciphertext": "JW8+gqw5W99vw8C78wLSTbQAjAgJUIzBOr0oLIrIw0sJ0CzKmEUK2dxRbH0flG7GMAagfAJCvADYIASM7Ijy9+9fptWM6rlgtyIJOYy0DmYq+1naaN87XCbRLdzywEiyo2eW+d9t4O2Vg1F9ZROZ7r57Recnrp9k5o2m+qEM3o0=",
+                "mac": "0z31uHYh+jYqIL7+jVkRqw=="
+        },
+        "database.json/quests/dekay-quest/name": {
+                "ciphertext": "RJbT7iotjdBjGwvHGXX4fSvgCNvHLzF8vqgQUeRkDl21p1+jm93gXJLb6x0j3KHX",
+                "mac": "ik3NUVYnj35CsFFxqOaWVg=="
+        },
+        "database.json/quests/dekay-quest/person": {
+                "ciphertext": "nJqUmVsjDirxrzT6H7d2Ew==",
+                "mac": "qKwmU3NHWyafpN9qlMShBw=="
+        },
+        "database.json/quests/dekay-quest/tasks/0/task": {
+                "ciphertext": "o5F5JIDVF/LJ6jE6gYLemJNkxDhpcoCs/phpGSbhLhoMf0DJ8lZLTMh6xoGU4X+4oqfSV5+XxAVV/pursvg29z/6W7zTRK4EJWZ1Q4b5RQYKZ1E7hnDtTqFQuttzqA5u",
+                "mac": "n7TPNJRo8iK5OHzp13w75w=="
+        },
+        "database.json/quests/dekay-quest/tasks/1/task": {
+                "ciphertext": "OceErHriOJ8gZglvRYSee0QQDS9qnUTVkeZ3IDRD+yshtrR04rMZ562q4JTq0PEQh4WWO+yvm1pkkXw+fdgWDsigEBdsELNPJXFDUrEXy4RFD0QA95dRQhn6L+9xis4Kd29vDvVG9cQ4pgHum1GFLoXg10OZ5jfAA5gYeVyQp2yd1+0do3LnNRYsElj5SiSVULqj/xnuZxI6OIyYFTdM2U4EDB8aYRHmWhLhyoe8tmg=",
+                "mac": "78Arr3BKnjlu3+D/ixNgMQ=="
+        },
+        "database.json/quests/dekay-quest/tasks/2/task": {
+                "ciphertext": "vMrnbsZMlqG1ge5m0vxkR0Gsxo9s5XeVGzmTWlXa3ika7BXxyrfSZS8e8iDJAXHV4cto2zWXuI/naxoahGsZDZxl92pOWp2WgqkmlNWUpVLNNppvJ1hivEg9SRTYByVWnU8HdTDFJvmgOBecCdr28g==",
+                "mac": "MjE1nr1FKK0rGsF+pgT8Kg=="
+        },
+        "database.json/quests/dekay-quest/tasks/3/task": {
+                "ciphertext": "tJ3YW4rX49FXlrPKig+2kYRGT2quc3wH7xuL9PhdXACIleeApIm8WSll9BdH7cI6PEA7JhptsCKf4aezTiO0D4yVTUnjrT7ueNhlcmfHkW0=",
+                "mac": "9F+14TX6kkCC7HCVNS1IoQ=="
+        },
+        "database.json/quests/dekay-quest/tasks/4/task": {
+                "ciphertext": "zNqR3JFPmDPFU/K75Cjl+ePiBTH79ZHfOnoNyiGvBFqjcYuaPPtJH5ZaSnnhCHZFqDMTUYSePCRdYtmwdp2sInyfV+Xqrz6+h7+P6/gyU4jFgobX+IEFIiYkQNeeHYTN",
+                "mac": "itnY5leca2B2zZ+ZQsL22w=="
         },
         "database.json/quests/faction-tutorial/briefing": {
                 "ciphertext": "Ge9H6s8qofPpaKZEiiEAvXaNxgJhDQqc4DtrFT0DoMg5wuGxELS8u22RkpmHwIZuLPDkrt8+748xRyq7n/o6j5epWmmvo8jQxA6Wu7AI/KHOBpetOhTB9/cHD4jK0afPr8j9bOLHHUNpZIYnTZWyLd4KbIrp/dgSWUq1TEsLJvCyUtWo6ojXDucau3paU111z1TNI4OJYnV3ld0d55hB23BdgeAmUjRwAlK4eHkLndw=",
@@ -15402,6 +15557,62 @@
                 "ciphertext": "nFDEBp7UxD85kcQH6p6fG6+zBzIgrZsnu0KdAclFnSKcM3tcXh71ICrmyl9900zLxIWe+b6eeU2FBVX6BYnNsAocaCtVHgXUrAlmEQh+fwvdJ3sjRoiH2hcuELXdTXPruCqt4s/Uco6qXKeQwSdoKgaz3DhdjtJsdqc3Nz2pBlw=",
                 "mac": "NfUwieYCgIR9oYFV1UFcAg=="
         },
+        "database.json/quests/trailblaze-forest/briefing": {
+                "ciphertext": "qMotZJOHFS9dkOtegAlcDSFAXIbEp6myEUomUZx33sjx+90CiOZIUZAK9SoDJfEFP+fypJFjPU4j1hyAfTqNKW72W5VP5AH3cihTS7kAHc8gpTpKhsaeahr8d3npDH5g0y4n2rBFnYFec1dVLuucgpK/3o7Ypdy2DO5uinAp+EO0okQMgI/a30094lKx1mHirpvIchf4zsSkvewpsMFO7HOn3LzKEY/R0KTLZZDH6l1m6r9llGaxYURY1Wr0OxARfOYAXLbEtOVSHMSNpNB+B9MLUmRiu2tzdmGPhT4Qj6k65HH3u3omHi2eUOpg+BUjJ2+447i1n9SQoFIxVD5Ie01mHYAAmEC6QpWpDXDgze4=",
+                "mac": "tK4jXDZtUuADxoKK81woag=="
+        },
+        "database.json/quests/trailblaze-forest/description": {
+                "ciphertext": "UJZGx5TAeY4FmIUTU5r44ORqVzco6tg1qypUD0frf1IHTWqq4jSI85k9nyWPHVyxP4jGH2fOla8dZ8tS7lBmsUnMkEeRXpPPm2k1kSMX3lxyaaV8pG4dJLdgz+w2HPTdcCnhaGlw3mF6VSDccab3M5lHWNrNbUEacKNm2ol+gPo=",
+                "mac": "R7jYtOi2FDw46TUiT/WCVQ=="
+        },
+        "database.json/quests/trailblaze-forest/name": {
+                "ciphertext": "qPef0H/ewreXANm9aURrqUJoeeWx6++nwS3v8r66dXA=",
+                "mac": "bk6q7J+YyhnV/XnHVD+lsA=="
+        },
+        "database.json/quests/trailblaze-forest/person": {
+                "ciphertext": "3bZCpMR2KROPJ34EcBJGkA==",
+                "mac": "4LACGpkUQvkWJsegqWGiMQ=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/0/task": {
+                "ciphertext": "SZbTztJJfhhUVU/HCUe8zTi4axFhdSYH9EVaLODAl2YYBnmxInVV0lsSDCmdQy+AiJ8VWrPARCLsDpygorIhuagLBu7QeYJ0pM3YcqQ9g28=",
+                "mac": "+L/EtOgysI4oQTBAwXZyjQ=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/1/task": {
+                "ciphertext": "jwtATO0qnHDSOwWvh1aaIXU0KHjxZYHsEdSHbMqV0cGHcDv5gWfEARWJE37Y6IEkRknS5h5+S9mEABzdEdOmMHjxRPuRdQJNC91Q7MQF2fM8UQa5oM8eE0MNhtJc9dnY",
+                "mac": "t/XrFJHNECcD8Dect7KEzw=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/2/subtasks/0/text": {
+                "ciphertext": "iaG2K0vA9n7Z9RMcFnrmfQ==",
+                "mac": "i+UAlRfSc2Iqz9CBZHuM8A=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/2/subtasks/1/text": {
+                "ciphertext": "JfBxMTZDDokRikQwae7bhgl08LveU5CsnWQtiiqMGh0=",
+                "mac": "4xn2NXQwIXIsk7iraso1Ng=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/2/subtasks/2/text": {
+                "ciphertext": "BDDaqFYKHwRwZgisroL2RfsLL/jt3VGjDvqE9bpD5kw=",
+                "mac": "O5qRuZJwAsFijzLDkoT4Sw=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/2/subtasks/3/text": {
+                "ciphertext": "EFy+NUxB7rZpxW2Ji/fWCVOTB9XsfMhbAjnNkeDwqg0=",
+                "mac": "kHQahV5xV71NiRPApDw+Jw=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/2/task": {
+                "ciphertext": "R6isIYgORaWLqzZ5r20gzhMBCOs5xLybohHldYBZvLlVPFgzkz9UL5wYw49yJq6JwsMS+HZjjJMNjz38KYMJx718fznh6J6e8XZgXet+Utrm22paVpZ8RTnOKmUf9nxb",
+                "mac": "ICELSfOzgwD9SjqbfDi0Ew=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/3/task": {
+                "ciphertext": "jwtATO0qnHDSOwWvh1aaIXU0KHjxZYHsEdSHbMqV0cGHcDv5gWfEARWJE37Y6IEkRknS5h5+S9mEABzdEdOmMHjxRPuRdQJNC91Q7MQF2fM8UQa5oM8eE0MNhtJc9dnY",
+                "mac": "t/XrFJHNECcD8Dect7KEzw=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/4/task": {
+                "ciphertext": "2NbyAltvx4rTgieUwvVBEuibBUnCzD0KY+30lNmS/HV09M0ZO69VS3A1L5yrmFqOMBQQ9PINlrvbYIN41QMJWbQEphHrvEDVx8sjBIw2pWxS7Y6FZraGtm+EC8X6TFW3",
+                "mac": "NwSt7MVBvdUh9p1RSXYcfQ=="
+        },
+        "database.json/quests/trailblaze-forest/tasks/5/task": {
+                "ciphertext": "qQvhEQ1m8NB2/ih9wDoUBeU/UPz7QJ9S6o//1ObLAKDGYfnUEwQ73KG+TJGljFSv2l00DLvxsPmvHoEPt375o4D2skI5Um+LEbjwHU5bScM=",
+                "mac": "Iia6Z/SIZGEEVHwEL2bOHw=="
+        },
         "database.json/quests/trailblaze-jungle-1/briefing": {
                 "ciphertext": "muZ6K6pP85yqy6nS9tiEVKTMUodMdcjVRFP22iyLBv8y+aQ4iJA/peJEZnxiW4TR6/V0Ykj6QPvcZzZnPYCRk4ZasrBVEbBIfwmu4ZtVufQ=",
                 "mac": "EAHUWmDHUvci4oy/jBC/mw=="
@@ -15802,6 +16013,34 @@
                 "ciphertext": "M7csnDUyVd7c3yGh63gFCoacghpdB7m7Em3HZ/1IXE7RxWKMuGR0I2M53V++3wHDc8vxqX3pOC8QTK2LLBZD4DO8O7oEuIAxOm5ob+bkdRKeXmeVHGvnLDi7Tpbv4/VVZAG/Seq5wB5Wn7KzW3el2Q==",
                 "mac": "yru+SJ0L9jrF61AjLp2SPg=="
         },
+        "database.json/quests/unknown-warrior-5/briefing": {
+                "ciphertext": "8R9r4mBrUmTw3FTk0drZ+ycXNtcF6sbvbvQgnlWJvRqWWhmHcCy6vHeWECsp33SH8A8ft2HUaau9Tz59A+zWb5h6VfXZnZhqRd++8fVrho3ON2Andts8o2iwoPBJF6Rrr+G1ttM7JDgUQz/Y5jZ04Csommncw2yL4aiumPEAlVJxoL8762/wihvK61D5FMzi5I8I6QhIP0vmrUp2OA5wcN0i+hVofJRHWvYxKMZtpcP80O0kZeQEEgAAf3gmPamBqmp2lHRQgQuvICU4V4afx6+UgafzAiLlDUpYZtljmHoPMVBfJPYvXu2q4MIHkxDnGJ9a63ptxTFZ46T9IfZG8ZhBiqZzK2idj1UgNQbD2+vH6lXfezUfMonLoB6RsNf79ZdvYY3CT0tNrQHD8GIIaA==",
+                "mac": "b8RrmxSg85IvjVy5Rb51LQ=="
+        },
+        "database.json/quests/unknown-warrior-5/description": {
+                "ciphertext": "MO+Q5/w3M8gRtSz0nFk/sGnWumXoJZXciI7oni6J38384mrJ2F5FsUVloTP0tPCNF16E+10kyTwf7sNquDgnaSy1A5LLP2eKzw8drIX9c2l7XwaO8VWbqYcPOlx0sIhY1jgNRjOUdcJ3MFaPv8mlT/iaWp1wfUxDvOpKTKR9DIztwcPP1x1K4iG+bUlYeYCU1eRQJm7IcnTvS7nZUTChsw==",
+                "mac": "6WJT6V9Rxr1yh3Qg9tWL6Q=="
+        },
+        "database.json/quests/unknown-warrior-5/name": {
+                "ciphertext": "TthIZWbhAeh3vriXOX+6sZusX5YtjmMRf1mX1P0Q1Vg=",
+                "mac": "AU/pouLY1Ow4lWNsGggzHw=="
+        },
+        "database.json/quests/unknown-warrior-5/person": {
+                "ciphertext": "eF1eN9KDsmysvgnhTqqq8g==",
+                "mac": "/UMARjGq2ebHPw+5YSe7SQ=="
+        },
+        "database.json/quests/unknown-warrior-5/tasks/0/task": {
+                "ciphertext": "2yzwFijYLkQkvKcJppFR5+j59NIkISrFXClhZHy6lhQjZIOCT5ACQx+HXIZwQ1Z0diF/MQz69c4cc6gzF8SI3w3u6TgLjhpHi/IAk3REkS8=",
+                "mac": "e1OM2kzB5qerkRg5uz5lZA=="
+        },
+        "database.json/quests/unknown-warrior-5/tasks/1/task": {
+                "ciphertext": "e+trvc58SgcR1bA7mvZhNm2j5C0f7NkZkGV+Cre8foib2UCjXR583u380YAcQ9AzPWspzXvc+9FL8xx2BwuPKG0qPjmUZIb1O9utB2MgDJ/VsYBhIWJ51QtTj08EGt+qJ5xMjGO8v99qtwyYotKhvQ==",
+                "mac": "tRgzvLs1YmUoLsCMD2cNzA=="
+        },
+        "database.json/quests/unknown-warrior-5/tasks/2/task": {
+                "ciphertext": "jPIDEPop68hmboglH5fhBHyLBv8gW/YjSc1oFTZTJoO5kqRPSbsvD/oXFkAklMzOP3IIh9B2+r8hsun//U7GdTf1r6aY/bbvpqpJkBW63lg=",
+                "mac": "PrecxER0V3TMpGTIsW7LBw=="
+        },
         "database.json/quests/unkown-warrior-2/briefing": {
                 "ciphertext": "3u75+BvYqlm7CiJS257EWBeKzuOPuh4jog/8EG3WswUVKao6/iTWReQCtnjZcot6yN7/ygf8kMKFKAZcL5KywT2yKB8VvfVbuK2eM5Rz61nWW1N++/nCxDspLI8yyB0JB7HVg15r2DnM/9Apvu7GzPgGPfDe/5VhItuNXGFEHrwE1V7BOI+MQc9dU/L6fYH1TOn5Akmq6fi5SXyeLmyEpiB+oVRmMQXFqpU+uY+DG4CtC4B/KBwaDvhujPKeU+V+",
                 "mac": "GvrQN/H5qP1xaSuxxXlzlw=="
@@ -15861,6 +16100,54 @@
         "database.json/quests/wa-1-digging/tasks/3/task": {
                 "ciphertext": "uCZne/F72pEkwse8aitJwz72qoGHAKItwAzEu9LgDjhOWJqKkNbB/oDTF9mFBTSyoG/4DEcSc88ZiY4GdoIX3v1Lq8txD5m8OjtptQ3340nWWc5xW8OKv3/IODN+/3EM",
                 "mac": "mHAmSJPfm0+mOKmhzPBDBg=="
+        },
+        "database.json/quests/wervyn-quest/briefing": {
+                "ciphertext": "TrR60SXxYhpzY0SSTz+FOU7fNhrmmqrjli7FEK5GtkjVOhT1em5wGiGxI6B9D+e6Cb85rmSzXwTJ9I4lZh/GDzMie5vKJ8gGjZFbFSYc7XQM+ct8eruc5GikCUUWma7c/7sl0jty3eleNioMLjJzMcz2jw0eXD3T6ftosd1tplrIXQvibqKdWkkX3zmlcg2JQndZQc49Xi/YRnT4g76BGQ3T2r28MMX15P7/oOBXDTOJeQD5rs956gh17Be3Sh9Z",
+                "mac": "tShvalHUHp/54B88hYvvEw=="
+        },
+        "database.json/quests/wervyn-quest/description": {
+                "ciphertext": "F3qExXGLt9paWT1DFImbj/09b72KFwtQU9SbgJ3KBtGpFpB5xl5M9JU86zD0F7cbOEa3xgyqkmGtFWlQwC5NDRlN6jmENkpHepcSiasRAE9Tqg89/K4pxgenoZ28aHzSWLLpnzxj+FTNraVyjowVAyiLjsVCkgeP7s5UDQPwr+dDfM/Ghvf7Tv/vQhsoUYDleotpHdLaEdxeb/UzHx3tRJQJlkHz4ux8Y0l+pht4WhKFXe5xGWnpdmWGIXN1Pcwa",
+                "mac": "pBT/0rFM0vePGnNNx1Uwxw=="
+        },
+        "database.json/quests/wervyn-quest/hubSettings/location": {
+                "ciphertext": "gq2ZoCGRDeK27qPnFoQTEZ9TtC1zlM2CJREHWD7WqyXNjN2ERc+9CP3Dj6U7PQA+J+z3oifYRBk6NYyynW7CArc4PQAfqPlBdWf1XJGF2LT+FFqu0L9/HtvhNltzVEZTBe5S7JxzsD0d0iXj4HJIpQ==",
+                "mac": "D75QeFkT6QOE8hzGk/sWKQ=="
+        },
+        "database.json/quests/wervyn-quest/name": {
+                "ciphertext": "F+yRwfLW5Pa/naE5XUlZBB1WjEml7mdns+drmvoIQlHuvNbumRuqZF6lQaz1S7o5",
+                "mac": "oYBHiSsuOvphLt1yOWYCcQ=="
+        },
+        "database.json/quests/wervyn-quest/person": {
+                "ciphertext": "OTYtCnVT4NhN4yRT0gUwGQ==",
+                "mac": "N+8hAwiUHlSK2zGd5wDj4Q=="
+        },
+        "database.json/quests/wervyn-quest/tasks/0/task": {
+                "ciphertext": "Ii5v2uFtKKETBmv23uGif5Vzmh4APqNOAO/T0Aj30Qrkux3BuMWYSzh9tqWQFYvAXyySKP45yeAgfU3S8wnbnhnqTk0X5rNDnzGoU7cM7q+J/X+U2UNPQXs9psvRdmH6X2BJfKK42v9oULZcXzCsBslUzKb0mMxI9uFUlvZV+uo=",
+                "mac": "2wQMBfjnevfQ4NC/iR0byg=="
+        },
+        "database.json/quests/wervyn-quest/tasks/1/task": {
+                "ciphertext": "VdWMyl9OGmHivQQYoIGVQdV19a4vFQ+7FKu15tvc9mnP6Q+SIqWHS914kmnoYZdNT42Nsvi6KuZbn4+gTeaapl42z+hDetxMCRCMxVUbqZ+hCAEyhV5Ct8XhzoLIN1Tj0548EkxVahs+6PYTiEafB9R0OXWnNJdwurxt76zJJaU=",
+                "mac": "eCFblNpxhFADihOFMKw1bw=="
+        },
+        "database.json/quests/wervyn-quest/tasks/2/task": {
+                "ciphertext": "QNudhrNCGrALrn8jGYXZvFqYlGaX//PWRfR72Pch0NwW8q5PsFSnoem5E2HxmivxIojsXD4w8yarZg3fDylVkFrQU9RT9Stezv35oVR49CsZJWrXNk/40x9BTnDMGcNU8gBMroQsM3Q0nsopV9o5og==",
+                "mac": "QCZCjLTh8LZlNnfv/FN1CQ=="
+        },
+        "database.json/quests/wervyn-quest/tasks/3/task": {
+                "ciphertext": "WaQOX0tRerfy6dWJK2dvX1d7Bhve242qrj6RTq/UQxda9bgxvo3iWH1VUvF9MDYgyA9O+ynAcuCBLFnN0u2Kr/7VrEmGQaq6vKaJ4+JWQdYZ0njXt+ZcHedZI/iX/FmcDut9muq8w2XsvMFevvJBrg==",
+                "mac": "1C12Vb/HY79pFBJ5Q3h9Ew=="
+        },
+        "database.json/quests/wervyn-quest/tasks/4/task": {
+                "ciphertext": "7NrJRXmH4qIb2ktWhRSsU8UEYeTBlntXUXyPzSHDSffcb+pQf/w3T4c5VLU9WgBaunxKxRnUNH59ijOcfrPT+3SYVb+q6gQ1JLaWjVWhiVCZWVSOoMKhb1+mFu/c01IwGV8thGAclaNAcWT3R49+HY6QILvLHn3muXxybUpAdV0=",
+                "mac": "CZYV/23y3wXV1oZR4psOpQ=="
+        },
+        "database.json/quests/wervyn-quest/tasks/5/task": {
+                "ciphertext": "VNrcb5dU6uq0N2O4RB+YKD2mxEWJwnUiizSt/NxWAFmtIqd7jfsNmtyy7zkkNxanpAX6+Qw7i6Hp2+FywcSCJxnwRCYjPGvpac6oM+P7sLLHo0iM9/iBHI2sy5jjYiXxRV9QVwOj8a3yfk7DhTaI7A==",
+                "mac": "2reRTmOOkTlAfb+i+NNYwg=="
+        },
+        "database.json/quests/wervyn-quest/tasks/6/task": {
+                "ciphertext": "h0132Uenw2kMMgNdB33aiytt12S6pKuvzBIy/g9ezm4BY+qXTlZricEYs8uWDl1vjLdzg2TLnygwkjBzNdnHvBxZeDnQStZzngpHqHS6uYlTTXehcDpBUL8lpfP3i/bKoqrtVy/0R5qflAHDIV9ik87fYN0rNvysAe2+jFuSuVg=",
+                "mac": "A+TrPT6ZGNdI3cp6AoYH+w=="
         },
         "database.json/quests/you-got-mail/briefing": {
                 "ciphertext": "NodIUpYpMwK78e3pJ54GoSz3GVONhMgsgBGMF2BGd+lZyd+3jtX4I4B3dOezPysr4aIVJEo9rS71/zfZRNOohwcka0mHSh0T5Sc/DaMfl0U=",
