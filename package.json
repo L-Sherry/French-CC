@@ -1,9 +1,10 @@
 {
-	"name":"French",
-	"description": "CrossCode en français !",
+	"name": "French",
+	"description": "CrossCode en français ! (90% complete)",
+	"homepage": "https://github.com/L-Sherry/French-CC",
 	"postload": "mod.js",
-	"version": "0.5.0",
-	"dependencies": {
+	"version": "0.5.1",
+	"ccmodDependencies": {
 		"Localize Me": ">=0.4 <1"
 	}
 }
