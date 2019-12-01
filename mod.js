@@ -217,6 +217,43 @@
 		return template;
 	};
 
+	// ccloader versions before 2.11.0 do not support ccmodDependencies,
+	// which means that localize-me may or may not be loaded first (if at
+	// all), depending on directory listing order which is quite fragile.
+	var is_very_old_ccloader = () => {
+		if (!(window.activeMods && window.inactiveMods))
+			return false;
+
+		var all_mods = window.activeMods.concat(window.inactiveMods);
+		var simplify = all_mods.find(({name}) => name === "Simplify");
+		if (!simplify)
+			return false;
+
+		// hack to use lexicographical compare for semvers
+		var version = simplify.version.replace(/[0-9]+/g, m =>
+			String.fromCharCode(Math.min(Number.parseInt(m, 10),
+						     127)));
+
+		// ccloader 2.11.0 ships with simplify 2.3.3
+		return version < "\u0002.\u0003.\u0003*";
+	};
+	if (is_very_old_ccloader()) {
+		// with that version, logging stuff before the game runs does
+		// nothing, so do this hideous hack instead. That should be
+		// enough.
+		setTimeout(() => {
+			console.error("Your CCLoader version is way too old! " +
+				      "French-CC requires version 2.11.0 or " +
+				      "above to work properly.");
+			console.error("Votre version de CCLoader est bien " +
+				      "trop ancienne ! French-CC "+
+				      "n" + c['é'] + "cessite une version " +
+				      "2.11.0 ou ult" + c['é'] + "rieure " +
+				      "pour fonctionner correctement.");
+		}, 5000);
+		return;
+	}
+
 	var my_prefix = document.currentScript.src.slice(0, -"mod.js".length);
 	window.localizeMe.add_locale("fr_FR", {
 		from_locale:"en_US",

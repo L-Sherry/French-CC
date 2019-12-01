@@ -3,7 +3,7 @@
 	"description": "CrossCode en français !",
 	"postload": "mod.js",
 	"version": "0.5.0",
-	"dependencies": {
+	"ccmodDependencies": {
 		"Localize Me": ">=0.4 <1"
 	}
 }
