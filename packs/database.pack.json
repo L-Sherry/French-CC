@@ -2286,8 +2286,8 @@
                 "mac": "S2zvA1Gz4EvpRjv1mEp0uQ=="
         },
         "database.json/commonEvents/apollo-battle-over-S/event/0/0_2/0/message": {
-                "ciphertext": "xmV/7oYAd+rT28wtfIUt+U1l2p8o26d7FhG+u5MDOFw=",
-                "mac": "af9+8CirNFCitLvKVAEh/w=="
+                "ciphertext": "WObg3v2zLM4o7XoY5m/wHANPdNqej4tiNn5DpZRECUw=",
+                "mac": "sHZaFtYu3DrNM6gKPpZUsQ=="
         },
         "database.json/commonEvents/apollo-battle-over-S/event/0/0_2/1/message": {
                 "ciphertext": "Em7VpbBoOitVvzhfW+3S+er0Zyy8UAWDA/R/195+Q83PRrddvW3isklkozBJSxr3/s8oi6lgL8kTX29CPEBIIsN+uTYOyJqlpMtUhVMa4GYL2HUoNqlPPUYHsxX+smlX",
@@ -10914,6 +10914,10 @@
                 "ciphertext": "KuCDiKaj5etf0Na7kT1OmA==",
                 "mac": "QuyTAjvdxWClTNAyGo6dMg=="
         },
+        "database.json/lore/apollo/content/page-01-01/content": {
+                "ciphertext": "NClE5tWb0aVdxLXEd24f85uFaTTil5D6ONCnZjM8RwYnz6DasPXAtlsrzhTzA5IQ7aVR0xjeyEUXfDcAEUwnF8Xa6lOePPWRZjaiDs6aIzkyP2H1BZnKFEKxvD8ylY+a7Hyh86/q8PIpmGBsxeQakQiyKqhCcFS+eNya2Nr11Vw2blCRTiCTZixG8tkegAHb030sMY8Y49AI7+Z7rTGdZAtGpMPKqvBR1RKKmCmyYsYP2e30ySti4obH3bQdwT1h8ll9L4xAjA8votCAXJIdYKo6bTJNjLjgF8FwbpA5Pg8tGOJ40tbgC+Y32G6oNqy0e4J2eZps3+Q8uMU083E2OdPv/1zhljLlFy56oTc52BY=",
+                "mac": "ADovkUmfwJRJWmG7zKMMMA=="
+        },
         "database.json/lore/apollo/title": {
                 "ciphertext": "t+hNs44lH1xLhWulmWS7eg==",
                 "mac": "KDeSL7psjYHQHbUA6lGoFA=="
@@ -10952,13 +10956,34 @@
                 "ciphertext": "tspVzDgdqW6MDN/5B6YGBeMfrSs2Z3Su3xfPGjnTLnY=",
                 "mac": "Xwc9rVovXzLuq6AMXMewhQ=="
         },
+        "database.json/lore/beowulf/content/page-01-01/content": {
+                "ciphertext": "lvB3fTCRb22wlhGMMk773ZAVb7wuaPACJG9dXG5cIqQrT5mCQEJqT6hS0Qt3B5K+Smn6yJx7t0BXQj/Oh7OeT1AmPiAKDNr2hU5ifb9MvkrYjHbP0JnPaypjoqTPp2vOQIITocLllyV1n3ZZPGj7v4lFmRUTiHrm1IW9qe66wflWGKQrcyYar4ltcHRpYd0khAKGPzBGMUyTOdCFE6qOVn+wDuoCqLe/AZmPMxoqaAQFLWMf4sa7EjfSv1/zy+CohqG4kL8gYWVZOp6fYthm/o0cF3lm5T2WU5Og5fNpgG53x8swVWnVE2le1b8twor+tV/21cQefjBDyOa8+evtlzJhkNBl/By7APKENZ6YXHvlrNGxmWdpKoNVMisWdNrg",
+                "mac": "hmOJzh+Rz4lqrdt0sHUksQ=="
+        },
         "database.json/lore/beowulf/title": {
                 "ciphertext": "LfdFfwY9G9rM4gG1+J79Aw==",
                 "mac": "s/m6W9g5BxVO/8SVnjiu4w=="
         },
+        "database.json/lore/bergen-hermit/content/page-01-01/content": {
+                "ciphertext": "7+kuD1bBprxwoIAevxkvearln2Nxs6vG2cgG++tX2LDdBJKyOIFxj1MwBgpbxUcSbd2pqkX3sjJxmZD+IC+oj1isE4Eg1swtJjPA0KWLCyfWihPMYWcezl/wMv09lv30jO/saDFQ30iDYbGpJNt4q7q8WoXExu91gtEc3Tc9AdrozngCDrmjZeJSQP5FlhlEYsm1ihKsjKvroM6tLWqDgXJHSIgfjgs55+T8IOHy5f4xryRttr1IYDWnDPMfEN6lx/SFEf17/1yJF27tgY4g34sVhKos6d6MziRYviBFwbx0tNqauJu3hTtiIrKQ4qVp7dKQOuCli429owo4zLraJXJeKDfvUwTQK3pvoE8OHDrtDo5VaHS3lXby2qQuGNhIhxC34f4HbpqsYtBeV5Fl7WX1+IK8BPR7j6sSkkVU2CBRn2iYruNFF87mRgz3IF3aUQHUhg8o/DpkY9JRDmslEVMzDL6tlf63dDHVaia2uEfK/L/r3ens0/KF6365lCMcX2kNyRmCCIyWwIVEhi0vZk7tEjF9HdDQ15fYFbtVAFRSuroBhnYRrc5lPRbI8ymrukZIdBJ9LwaszATLdb6m17wcYll9nh/VmKKIC59O0TZPloyzadf31BpvhsURYra2FcTsiVz8jSI9irVQ40XOBc2OZo2oIn4RG3N617O6ev3EkgOxJ9W4TN+oJq2erAbbIggsvwwbRGKd1C+IT0IWug==",
+                "mac": "XZOp0wjsAczLDrVxpV+G/A=="
+        },
+        "database.json/lore/bergen-hermit/content/page-01-02/content": {
+                "ciphertext": "iWpZx+dniD+hXzY7KZUBYfAWJR82Gbk6c10xOpyzRbD25OjCXJoG2sx0pky8/TllwfrLdrfLo/djOBWX83PYrMCiLsudJFtztXbe6J6x3ZtX17MBtJ6D9tag+Y8inRRi92HigTqH6wxPiCI06qZqU9RePyp1UOecBKRFbzYObj1lUr66PtunmCLXcwmpFc6XUnk5SsbATC0Gd+QzYZ5NYjhkxDol0YjpsKRo/TFb2OGK5QDxS3P8cubChjiAFHzPjWyEwMAyfzA2pJPFkfdKbnZChikddlYu8hTeBqdbIXRRYJJreOYQu9SVjvCtXjCVt1gGlSl+dIjWoR1KiRTWDpSX4o9LqExP2DhIzxRQ4ZHwB35U2Ksfxee+x48jRsUHOwlnGTXwEnqBoc+15aCIyAmEoZRLJWn/hBn7x93+trT+MVwUgXJlCSaKVbDV3eOwo5KCvCdkGnOFkKBAptyFwN2J2V8nls6jrSBgEyUR0Ueo3MnriiVp4Z8Sb1a4sIvYAFHMQwJz9vunB1HRNPeK3A==",
+                "mac": "0L/Z57nTBDgG5O/h3sEB0Q=="
+        },
         "database.json/lore/bergen-hermit/title": {
                 "ciphertext": "PTJy9fP8IvxPqTtz/k6+mKxrtSPVpchvqmtgpjJ2nWM=",
                 "mac": "tFPVx6Ns53vt+1e+VB/cpQ=="
+        },
+        "database.json/lore/bergen-miners/content/page-01-01/content": {
+                "ciphertext": "aPj63SzuZnf5hIFq4aZD/syN4oo9coujSSTQS0SpRh5Ay2+1M31kfr/tnqFB6i4VjYC45ZivN3Qq56RJk0wiFhUD2ZK1ZWaLvxnL+yQsaVD09vDibDuSYY9loWD4xrln68jUsU85bxe/besdsJcULS4C9fz4xhSSOXYkppV77Wi4NkDwSP7kwJrnhO1f0uIe7+aG4p6Gxez7h2qDD8H2eRYaAwfw0/cDXE6ay1lODtGC03xF7OSEUaOUk+hsgmsPR5mCoWnb95wc9BoWBLC5JfY6mz0NzshwpRlnvVQlclYpg3nGB/ojOkLjZLAQ7SoaiWDBHvhtKIzcWg4irPv7Xg==",
+                "mac": "qI2jx37rRMHH1wVLU0e2YA=="
+        },
+        "database.json/lore/bergen-miners/content/page-01-02/content": {
+                "ciphertext": "K4GeWWO0+qFmHKYgPo+nOA+rgc6U2YNFyPi4pS+G1m8LK+ECdbaY4i5ABA5NxQ2vKZ3pZvmyg/MIuA2N2RVBy7XC5IoXsFm8hH0ntQPF5N7FM1gUN4fH/mqLgVJ1TZqjSFnznzy/jrvsMesarxzP4O62dnuiByaunfZ+hSlDUhKaWYl1/7DJjUJmBX+VpUajfj0Mo/Trd9Kya7OBmRg88W70RIeqMf9bi9UZZixcXr4S7iucVES9vnmh5CLacCPXMHkmUtt4WCTAI+Ax3A1GFwfmC+VBAGKnWOH247NCB+5mNHGExOoUwKTI3Ajl5wAMr9WVraIfzbBltEM9VUZkE7dSLNtbL226uoiXq5HYyCA=",
+                "mac": "4EyE3mHugg393uBF4jHQ8w==",
+                "quality": "incomplete"
         },
         "database.json/lore/bergen-miners/title": {
                 "ciphertext": "JPwXnn4xOCIrivlU3k4Zhg==",
@@ -10978,17 +11003,25 @@
                 "ciphertext": "Sju+8m8ISnReZwK/VbUeSrq/IXiSSGb2xNEH3Nc3f1Y=",
                 "mac": "78Tu08G0xplRan+MF2wZGw=="
         },
+        "database.json/lore/bergen/content/page-01-01/content": {
+                "ciphertext": "F8TZwGhOVO7Dh7PvnNtW8c7knSFHKBLzyfxyrwTw2P5DDUqHbQ/HwR4UHmgTz4qMsHicAEOH6QqCcpqMskDuPzyx27zfarmyMe6FqRI0j71Z+05XG8CPMjlIc2pTaFGv7vEcztcNYmK777my32e2zxQS90Ahcvz8lp2o5RxfjYQ4FQgj2Hxm1HXgd231hRnokuq8oymWiFHP9MRRXA/HCLg1CvIUtkVQHzayx8pPg2XLzlj3Y53+EhNGwpZb5rHZPk63h8EqGGg292tuAR9zJX+H5+DngNegFRgpUb6d21b+sDpceBb3cs+7Aj3bVbpne7p3HUoSU5vUkxNe3oAe6UeY6qd6XrpnNyXYE4Gl22YyOPpGjfEGt4q/nwaa5DPRZta3MkqarE3VQtShU3nfzahBe6arxErXyykkWM8q7XFvvH+fpXiDJWQa9L1w93Q2twCkFc7LGh6oRkyHe9GSkcoB6QZKxBMSw5P45JEB8DjUNrvuLHJ8vYCm1zcDrdgXMH+Kun5ZiURGz4kIghXSrg==",
+                "mac": "74aVvgomcR5xU/ykzBcmeQ=="
+        },
         "database.json/lore/bergen/title": {
                 "ciphertext": "r/UW3R/EWcewmAxeyAMEmBKTBPrCTzFKpYQqMRfXWY8=",
                 "mac": "Yw7exRw67yUyQbBP0nTG8Q=="
+        },
+        "database.json/lore/buggy/content/page-01-01/content": {
+                "ciphertext": "Vc8TLRbhL0fOWFrJc+X8mABqxq0qCsCqL92c+h6lYHmCTxlo5OLzBFr16Deju6J21rzyDKrG5hzcxqMGxhdKrZ5wzkatcTWwYMeN+Dv/AaKBOx7MzZgNE+WYzBMoVYG1fGBBhvSIn7lCnUNNOi3XZGanBFNy/qKfIP/e9iQGYtvgduOlgG0TzEiNxZTM8K835sjblZaBnMkjynwaKoJlkVpxMQzmNJR62F2TMD3BXUrQTxReTcGSJ+l86vmoRibQQ4hZe0h/nsq2loOAuNzHq2X2XPd6U1jCRoqn1XIqOdkwumU+VtUsVVDvvmtLuRK+ZXoin5K8GEDHh3oeN7s7kaoHEdqWRkff5ajgxfiE/Amg3iCkG99zyWW3+4hx03TK",
+                "mac": "KgufCTSnOQyWMP2XS2Fkvw=="
         },
         "database.json/lore/buggy/title": {
                 "ciphertext": "JBUNBqKz0fouGwBgJoBEuA==",
                 "mac": "JJqKhnLF7Xv010hLBjAeLg=="
         },
         "database.json/lore/cap-jet/content/page-01-01/content": {
-                "ciphertext": "9rQDMGbiGDzE2Mpr1uogZCU11+0Oy3v7qdmo0qkAzEgQzJ7/gsfh1ThXp8Wjql1GrRgpFHJdZbc1n4wN38aEObJ0Q0Eutx4Th+6LwvHczJhVz3ycGiFltE/MUcM6/2UfiDy1nrVdEgCQVJ0P+fezGOzjSzWpHb7/A9ug7p/EH9mgdIwBDS4IDNd2ToCaYuTIYDlFIjaoJ/fk+rTO0uTAdEttsjMe5p16Q6b6WA6WgQPweQEWiMeTIxXi3R5HqsxeGquyKFL+F3GxVY222OaymMHgBEdmy0g52tD32UGJQXAAnZhroltOatCQAaZaALk+RouEZ8Us2xIoG5pdmNaDIMHbGIahv3h24SlYMfQZ4Z5ZNCcoQHF4biRxGIILp3xkCFM0lkk0BsG0DsNildtfKOC2K3jJ/uqbEVaX3u8gWrI=",
-                "mac": "KRJMQnkxab5qgMUpIcX5CQ=="
+                "ciphertext": "9rQDMGbiGDzE2Mpr1uogZCU11+0Oy3v7qdmo0qkAzEgQzJ7/gsfh1ThXp8Wjql1GrRgpFHJdZbc1n4wN38aEObJ0Q0Eutx4Th+6LwvHczJhVz3ycGiFltE/MUcM6/2UfiDy1nrVdEgCQVJ0P+fezGOzjSzWpHb7/A9ug7p/EH9mgdIwBDS4IDNd2ToCaYuTIYDlFIjaoJ/fk+rTO0uTAdEttsjMe5p16Q6b6WA6WgQPweQEWiMeTIxXi3R5HqsxeGquyKFL+F3GxVY222OaymMHgBEdmy0g52tD32UGJQXAAnZhroltOatCQAaZaALk+RouEZ8Us2xIoG5pdmNaDIMHbGIahv3h24SlYMfQZ4Z5mfjVsDCOiOoFig1/jmD+E2k61DzvGBCVBM7K/6Tl7oYNofV8eeWnYILOxCc34Wvc=",
+                "mac": "TdEMbTWNyvHKSjwGTlBYtQ=="
         },
         "database.json/lore/cap-jet/title": {
                 "ciphertext": "8Mp8OrWHEWYm7jP0vgVA7A==",
@@ -11245,8 +11278,8 @@
                 "mac": "DrC5xq6Otbujvi5zJ72DkQ=="
         },
         "database.json/lore/chapter-07/content/page-04-02/content": {
-                "ciphertext": "lm4uqUKBHCT1jY0AlcyqF/2znWxEmfc/tNY9Ko9tji1j/n6xTfd4RWXMdwxboszyGxA/BHYmF+l8o6dTAhbioF0Ki9gAUmZxq0CvYdGlH7t4Rc21dsgX69rsWDE4bgng8bjFA2BFP4jIyP7SZID9iCgbd1ZfHctWb5hweJvH4uJrVgp2MXj729+dcx0/kW5eDd8RU7prTPT7Xx+Lv3/QZMrvRrgZPb9jPyG7n+O9KMW9Ub5tVxu3JhSeovjVzuxbpPpwLbvfHl+NFuVFf9HpeLZArwqwEIoIX9FmxWe4fb0U6CfQBNNF2Wt+9/vvW3joEmMVD82oaHCnbZJbDPWVSDUdSfrhdo12q2s4bw2VcEJmWPdVasyh5x3sArd1ybVGjwHXtpXPRH4VA//GIoXX6oZ6WWG8yUb8iU3TCCZ8TvSqEKB6t5ZaXQyyO5GFk4x9IGdw6iYI+o34+rOqQHcDmF6CyYaddHJYJyTaI9L95EJc+VbgddcoXvKDtVs3/bTBXy+jLKm+Ww3ZH9JPGSkX/Qj5F6/RrhHk3uLuQ8x2WyCEkCfkVJuoUD0TqQErfjeandwYE0jLP1KwZyBs6Exd0mbvPXLYBdo6zWNH++MBcCZ9cCJ5vhSTQhkntWxDrrTNLOomeIW8/qNQYYj15kzhAOFx/lac3zqYKhj1RGRXoG5Lv6eOOmo5IYrUn2ArG2XICMZse5/jqHz8Ef5QCLok4I1YruNg1hqNju2BFdRcXJvUAo0XUm9ItQeo3STCaroHU1+L/f3qgbNHetS+JwpFBda2hS0Wi9KrNHNUVg9af1/4B7Wu0GBqqYDKQBg9eRmk+cN6bk57XGVhSPTdfesanWQsOrft+76iSFwR3RfdlBCRvavZIMd0Uv3bYfNO+iND",
-                "mac": "EzPbnvNrTtH6Rp6TpCS0HA=="
+                "ciphertext": "lm4uqUKBHCT1jY0AlcyqF/2znWxEmfc/tNY9Ko9tji1j/n6xTfd4RWXMdwxboszyGxA/BHYmF+l8o6dTAhbioF0Ki9gAUmZxq0CvYdGlH7t4Rc21dsgX69rsWDE4bgng8bjFA2BFP4jIyP7SZID9iCgbd1ZfHctWb5hweJvH4uJrVgp2MXj729+dcx0/kW5eDd8RU7prTPT7Xx+Lv3/QZMrvRrgZPb9jPyG7n+O9KMWkwv0cwX/G4+ZwSKzraLEf737/GrqClwSr+JkmboqEu9HY+TbUD8KHIW76B1PZ5zTdoWpinS2wPSOR2CoXUYP4uMPOp8wGORj33VXCLHwXLO6AsHIL2oWSgJ0CKL1lU0uLln+kh+yLmSdJU6w5fl0Aui5gx4qQ2e4GbyJ82huwCgkROC74c3yzLWPVVIREN7J3COZXMQCpi/SD1kIJJmfVfjgbVUO17ytp9kSlZ/ryTnPo0GVDpfz0dOPuMEGXVSHv3eowOgW61kBOsihvQ8BdIOcn0V6W/P3J8MJZS1xgK0WBjm3CEksY0I2kjLaV4rQXBU8s0EW0U+ec06kPjSkTtpS9VFtURu/Gvg6/o7ntR640tAGP8ZaxCDeqez6PaeFJqQoUyTIply32Vinwr/RaQY3+IzSQRR/ElP3g8DzRLP2pi5iImDMuPki04gMc+LEqKpBVowLxxUiPPDGTZC1qNS1Sqf8o/RYXDqTyo2Gb8ApQ/Jv4rfVQ7uF6wYa2htoxErP+FDqbQmQ3tq+d/fqX4rNUVTLkljBKS6bz+bcey2kwUc1X4lqt6JHPAbsmKOvPPXPMbHSvF1gUb3oh65jvOcULmHEu3l+zdgWRAfdwd7tIYnBxvqMOvtzCfjvebES1/iwilFHJGejjpJcwzFDD",
+                "mac": "ppgz3K7/kHyMiCTJKU1fPA=="
         },
         "database.json/lore/chapter-07/content/page-05-01/content": {
                 "ciphertext": "a7boicRDcU5EL59ksmExT3oLFJXo6wtAnXb36JuGDkvhXkaCnGKGZpN14T50REY0qha+LreJ57QIoc3JvR8XMLqnWxsB9bKo57c+H5oyNvgrX9Fb1co2rGR6MSRHGyKG1E7gkEkw/fYFYDV31wRvvikC47LR1geyf0H1ghajXKE0FuSs+k5EjoW2t1lduN/JVQ2LC3t86pSZbHAVFj+G2C1anu/AxqLXP+JeCovwW5g5zLpLcEg3k9APqks08jZCgYPFRBgPEOSLDbaXL8s6wtzIWQHd5kIL94cxRtPqmvThOue4dKY8Lk1o4nHoKnahauJH1VwWDup9i0++XblBea0jjbaYwEsocf8RSAET/KL3jZTjszmZiLeeoCPQmouWr04ZGx19F47u+jatoASOHrSK17rc3S33AruwLGC3rgK+QEgYRtuoUMCzZBX0CYNFyd/9mjfIvjzKKsoDXAbStP9GqO0GDqOX0qePIpBCI1lLq6cr9hIo8kSeYJ1hkZZxhgcU1q8YpuO1rUBfecohmGGRmv1OZduB0dpHJXvWqj2PtMN1sOMcx4qhqdAcPt/JGsZJGbAyIEcn7CZP6O/QxsZ5XTgu9jvpMJJ3gZ9h1OXN48gb3rIprDmjE1R8K9nAuaRdbXBVGMtrWSgG7cLEpQRFYpsEeekxZdDLpiZzFRIRozgl/QX/HZB9Hz4eWmeYYM3i0n1V4NZ25EJsCPClDp4hWtBt0pIIhxPruchI8+aTojl5TlVOw5z2+JhbJDY1ftPJe9Pi43Zgrl4HRI+6lhdWYh6VNRoSOFy+LuZuGGamckGh1fp1V84kEwn3sLsgj/gJvmNRME4EbZp2P+tUZG+S5AOySB/1BDxgR6nuUZY=",
@@ -11603,6 +11636,10 @@
                 "ciphertext": "uOWATbWWt78E3K8Xn+MIvg==",
                 "mac": "u5D0JER37c91QFOs49h+Xw=="
         },
+        "database.json/lore/emilie/content/page-01-01/content": {
+                "ciphertext": "EbGXq2943nam2pwkXV9g9vMBy4hHy5YVfH4DWBuyXIHwji9voZoTndGDJ9CUt6Iy04su4mveZ74iEXsDPKk5u7Tv+IVDJs5TDM9qmom9AObb7RsknPvth33SYjuqpl61JKnw9eYW6N9xVcs1KiSzD5NtTIDxv62C59liPNR1XWH7nxYhxh3R7u9sLG82KAaJoCMNyEOXEzTq7Ov8XIr85rQrsEyMWTFiSjUg6wYbb3mxz1xOWJ1ji0rVd9ZDOGmCqUTjPaACqbU/KiLBHuLIvLoWreACrYE164T2TTjJHBc+XSnZCKVJSFzyyMf2OZuq5KDGdB/5VjF+vPb1F+yr22uQgIpiIAzRY0+MJr1WHJwNEXxSG49+2SHkv4LNT08O",
+                "mac": "AGrFfUpAJeKR4KihgmJxoA=="
+        },
         "database.json/lore/emilie/title": {
                 "ciphertext": "7qx0cdYBCiyDvw6WCJ4uGw==",
                 "mac": "HEy9X3FxojcSNw/gV72ZdQ=="
@@ -11703,14 +11740,16 @@
                 "mac": "vXN+z4SKnBAQgxZz4r2XSQ=="
         },
         "database.json/lore/gautham/content/page-01-01/content": {
-                "ciphertext": "pMMtxtlW8NzgexMfBmTxAw36TwA5QtihAR+NWcJCLerImKEqJRgqLiyDdHIhZsZMCbIANhyeNPqwfIEYaD5zGYeb/FFOoFOU7IfLZ0NDJQqcVvZ5FVqSP/d+zg0Is3dHizslNYwyU8Huj2+gITLLZQS+ytJSdv1DoNSbXuD9AqS0K1z8Qyx6Z5Hr3JxkWj5GpDdG3Y03pMucz3+Atw7mEYD8ul0GWykM6AsUBypyEle6LEr/2g2XY4wkSJ2a7Beu26IowDlN0LD1C+ZqMV3Txm7k0GOU8+pwJ5x7oWVtmDo1IN/gceYKj2IFnn/eLv6XYHX1DLKcMggDoPMq9mOMeCbASr74HWumE6CnEQ0q8bPnqRR9HY8sAFPvnva829Ik",
-                "mac": "7JLEPys7bLS0TKDpJpeZvg==",
-                "quality": "bad",
-                "ciphernote": "BdetmQB1w0UmG0ZCo0fTx6BlGrXIJNnG3PBFd2U4n/jxJBQhuClF1Br6yyTw6jsu"
+                "ciphertext": "pMMtxtlW8NzgexMfBmTxAw36TwA5QtihAR+NWcJCLerImKEqJRgqLiyDdHIhZsZMCbIANhyeNPqwfIEYaD5zGYeb/FFOoFOU7IfLZ0NDJQqcVvZ5FVqSP/d+zg0Is3dHizslNYwyU8Huj2+gITLLZQS+ytJSdv1DoNSbXuD9AqS0K1z8Qyx6Z5Hr3JxkWj5GpDdG3Y03pMucz3+Atw7mEYD8ul0GWykM6AsUBypyEle6LEr/2g2XY4wkSJ2a7Beu26IowDlN0LD1C+ZqMV3Txm7k0GOU8+pwJ5x7oWVtmDo1IN/gceYKj2IFnn/eLv6XYHX1DLKcMggDoPMq9mOMeM691F1pSaazEC7bsql2gogVEe9uTHVKNNWH9pVxQLQl",
+                "mac": "lO4zKSz8hYFU1z+otRM8QA=="
         },
         "database.json/lore/gautham/title": {
                 "ciphertext": "+mTw+AFrFKfJF0tOdNi6aA==",
                 "mac": "KQOwPXnxMyaauVEs2YxdiQ=="
+        },
+        "database.json/lore/glasses/content/page-01-01/content": {
+                "ciphertext": "/Yyt0nE0herzqpwT7R9BS294p0T3NVn35/yKm7jIZJjZeI5Ok4/I21Paj7Ya97b0QMDinGkt9tzYIhUcgLL1Yvxcf6jaGDB6Qs6WxRRQJsK8ddcLfbN2+HJqur5CCOCcE1axdq6Kqk7d1CdmhpHlyX2WDmHhPDejy8tzlZVtxK2XSRZCJZBubIOcACkq4mK5Wq3N6dkxEewMzETgZUuHuAf5T9dOLHZtenlLlAa1buX32N4DiLox3w2YWD04zDt2ZUjtXQcgL2TSl0tnmpoKI5L1nKpgtSzaKlT0m9mt3HzNt3wKdupcCsni661Bh9XIXmFxY87Cih5HFsrSrBkPHbFNUOC4oL61RFdkzvg0JKFPOgcHUpQz0epE1NjuBTp+",
+                "mac": "95rjkiqFCFJzj85H04J5AQ=="
         },
         "database.json/lore/glasses/title": {
                 "ciphertext": "DCTQUUvdXpj6sqdft+7W0Q==",
@@ -11870,6 +11909,14 @@
                 "ciphertext": "slZ+Bb3qYUtQkL/gBI/LBw==",
                 "mac": "WIErbUbm8Ilb4hFfaThZCQ=="
         },
+        "database.json/lore/heat-area/content/page-01-01/content": {
+                "ciphertext": "Vk2hTZdesnu3kfipNo9jKQm5tuskgS3/W0sZ8NAEHDlxfTRVSozaI9UST5XFqMqV2foMY4dGUPJWI63cA1jlvX78iNNCBOSL/9IJSNsrSEn8qFq3b4dmzhKg6ATgx62gIxkJYBfXCAOqDOeWKgJyPhXwjQJH1AR4sKjrdBcXkDJFxjkxtf0w0bp/+zQXtK2gDm9CzYPw4wpxMyFwEVwb4SS74E5RSpZbFW0oBE619qQiUkd1dUc2vhJs4p7jk9N75Yn3Qwdkwthi1lAqR0skNBEPRwPVT0vNNNSGxTOgORWPraefJyp0xZvAeDLbC42o5C0mFV+Pt+JUWXolyABypPVFEv0lWD3Jt0EZ5X3xT3zWZBCwyjnQ+qRBvE67ahk1n/8SvjGk3tV2iimEfsEJp0FgtOByYaxgAbm+X1ENZgTdwRRhvb0vY9lW0bZxC+etgCL4FzPwfDYNqEPe7gVkS6EN8tJVK1EGFGywdNbdUMh1sGH0flvTLLLek8Hvl/b7ERd+5nlIDv1Z3rEMf3k+rwwPCzAlb/3OIdRxnprRw44TwcoyYNXggSdi4KVhOFYHca1cWhG/Hchtg2gtbYv8LYWIqt8Fcjd2CK28HVkU6Hs=",
+                "mac": "Jcnou4RUfSd3L67QxJDtDA=="
+        },
+        "database.json/lore/heat-area/content/page-01-02/content": {
+                "ciphertext": "ayF8SkM5ypwp+b2gZAOZcZC/OunaPZdkEJz8cX8BaExmv3oKlUTBs88NYp1XRclymjAKJUyN4ERX1NqqETS1wSoLRydO5+ZXv0s/0dawzkNURZRc09QHQWlJ+a9RehOkb12DUTG24npF26XZkJYDBvb4616ueQx6axLNd/Es2/o3pJhpkTIMRMYWEK6+qL310qGJsyGX1v7E7Ai9aea/lVHi0Z6lEYKY3e/mdgCxk5OskwcTsvGiQmseESwqrwyZsqse5ayePy0cx7hGecrwxYAPAzuL5w7Hv7fYn3nA2zA2LZLIbpLWtJ538iYZby+2pQF8CVGGSR+bItpd7WqS4UUYKBvNK92JEsAKvNyV5ePDYQJ4TFwnRe4o15xO22Y3ThCH77IYBpjomHI6Wcy3Dw==",
+                "mac": "XODltIZsK6WzdCSc5ah29A=="
+        },
         "database.json/lore/heat-area/title": {
                 "ciphertext": "kXQLRAEoT56qGg0yeqj21VnpnvS7Iucf8c/HCjvLrg4=",
                 "mac": "z46EuifDGsFUH+luxLXrMA=="
@@ -11878,13 +11925,41 @@
                 "ciphertext": "hGuHrN/gNSRHQe/ibYW1QQ==",
                 "mac": "oTqFKveHCAKLGUHsw54cwA=="
         },
+        "database.json/lore/heat-dng/content/page-01-01/content": {
+                "ciphertext": "QrAZHP4IjqN9AbCojMsny/Dj2JHVmc72V/IPqNfAaH2h/9dftq+ZfznClH3s2m753lStvMeYk1jWe672s63aXPqWI//P/67rbMrBWC++SsqXUjCtTsroixqMvjbC3bpnoEj//p6cBoU1acJJwoCvC1uV17e50K9GzcH24D1tr9LxPDhV3Bi0X32UYq0dj1+M4gQj7gS4Ikx9rYreaMLo3Yg5JjHg659T6SLcCITnqCiF3Im1pqx7ArQqPjW5/6TdQGJn5YXpWdhyevJ36FiLhsS1UgwFWrf5usjeef7ozlvwYjFVy6keXx4d+JgToHWZTfAyP/om5NgeIDQiHQiry55r4V4dFciWlpmO5jkN31LdW+il+MXUDChcCx7P7ePMuL4OrZMI/HideUlUryln/b2Qoori7rKDA6ALYvvUk1xkt1foJ8Ku2oIKLjf8CaXs",
+                "mac": "lyNFkAhgVBAR3O/b8ZZqLQ=="
+        },
+        "database.json/lore/heat-dng/content/page-01-02/content": {
+                "ciphertext": "9wimtxAPH5ufiIqHWhKr88UPh7+J7vG6rXSxm9iZ1Ve3jnHWjKVrDPFoBwYaWryFe6jO83P3XtgMMFcIwhxachIEeygl40qLlCbeoNNy6toPG5UhKXP18srPD4mMdSKgomsUJw7hpHFd1T920E1wFbA13fKB0EERFaw5wsbWggcVYESlQK4HkFVMCV7XJjoX+13R0o/uBIm2VBvhxM8c5fCUSIUJnl8Jmm6/XKqFch+W0M38HFeGmy83nOMOmabSwtbiVbPPKfzP9yxerFfiSEKmic9DzAkMc9DpdyQrmtSzp3+Ko701aEPQU+TD9CO/",
+                "mac": "Duu0p+ihYDEKC74iMYGr6w=="
+        },
+        "database.json/lore/heat-dng/content/page-01-03/content": {
+                "ciphertext": "df9dJaGF5LG/9T4VpjkggxZac14CaQu/tBAcGIsLY1210lsnPUd8dTP8nNllyNZmw0thjHmJ+i1UUuFq6Rb2FqcH6VLEnBU/HbQpXgUOyBld/VAj9WzWGdSqyhMEc2ke/hNp92/tyxuT9UPAiRE0INDpDQdjaUPfdCuuc5R9yUfLlvaMzufusyU7ecVjrNCIXRwFrISBBjhKqs7pPgykSMrYr3BrWYBCzn2v964JfnWmFQkqH+3g1JCZpcav7gMq+nIfiuAlPawatyR2lDGVpD+UxlPtiU/fxZ3uIaMSOuLFxjF06ub170coD74cbevZt/m2fSx7J4ubeaae+/lpWXSeJ6YXz1rZ4RKYOeGPEUHUNGwODuKSflrrl0K1ZNFvSwVdBWQelPz+hGkrnPQEIt6CL3K1slh7Gl4VCHZlzLIkT4Ae/GJAAOnqLKY7rqsXoDSa3aZlKeT7zvPp89oWIVvQX5BSDHgIkfQNPNUSQAngvtiywYdKxDOw4/LifWNsgURcRWv9Y50J10W67KUOSPpWBZdAe4LMur9fUtIiDpDlEdkaqU5BIYFEOMS8MP2hXn+08OAJdX5kcWrNh7sJ6Q==",
+                "mac": "vh9fFZIa94Yd+RpmlHj1jQ=="
+        },
         "database.json/lore/heat-dng/title": {
                 "ciphertext": "lCQBpd6xaOhEwGf6f3MDlM+38OSUyf5SQkMrn6jAscI=",
                 "mac": "goA+bI+8rZODnumbaAfqdw=="
         },
+        "database.json/lore/heat-oasis/content/page-01-01/content": {
+                "ciphertext": "KsuOpa+/a59CPkwLBVAfN9X087KmYaANfGM9Xc8kOAauqTKwQBPgycI83FGPHnivfj0wYn3gGgYRneiSF53Ua4L4eENI7UPXMll2pNV8UHfeQ5U1xcSgt5z3UQCHuFzQ+2juLzDX+JvvUtG9gJwCDTKwJBi1AZIPKPM0hOdGAlji2UZT7yM/G9r2m0qh9XKIucJjt30JuvCX1XyK5nPYGhQVnNZ+KhiN9bKNOziPh0V3V5Qb1kQhBOWAQ89G0efi1M3upbNkjBZXEuJCR3KdOe2CiQ2vlrpuI4c7p+5fYr1b0L0xsNse9sFomUX/YJmPHtlJFf1dYqxH12HMO6G8m6tzn7ugH/29biXtZsP0erWk+FXFUdnwiyF0vlX/N02eOJRFghCgpbRcJ2K3IKBHfoEkgKDUlo+8cBNg2M4FTJLbN3618ObyoBcRpCQzWUrAu/vEIQw/4VI6c1v0+Ac1bpvr9LQDOVQXDXInyJ85xB4wmK3dX7S1wO4xonWtrQuFSGxZ/4jgYKVDHnZrOECo88bjpdWTBcJEHNjlbkKvj4MxvosjD8Dt81qxG3AXC6M6Uw9z3hY+dEcmFKbk54ELUGF3eegMMoA+QUSQFAhMp885Fl8P8718LpsMAYJUctcw38UDtbpKadHP8fpELFpZTtN0we8dvbbjuXQ+wxcmPFtnGK3nztG7SyWDzabY1gpz8YjBQNIIE9ZyAiitvKDkgS0ike5JmoronStQcbROysGNgrRNyl5Z/zhjGGrMiwSjzAZlDtuYdJ/at7EFMYlvTnGfDB5heTvrfHXJhBVsqJ5yA3/7h8I5Ki+DcKbCa/l3JeXa6rYYsh25fZg8MsMWNFXyPWSLyFzw+G9MRQTNlbHGkDoZYQmg7bjB1QgdIU4DY3tNADXE3LV+mbgPUEBmPqGPtkcaV4Gxd0A1E0RbV1UGlWb4jeWmJNOLLH096ohq",
+                "mac": "REnHfgNBgLBldn0/5lm4fg=="
+        },
         "database.json/lore/heat-oasis/title": {
                 "ciphertext": "90vYmMrdO//Ubd/GelRGMw==",
                 "mac": "VS+ChA+W1eVyLu7psOED6Q=="
+        },
+        "database.json/lore/heat-village/content/page-01-01/content": {
+                "ciphertext": "F6ZlMNp9XyWGx7QJ3OEFyx928N5dUuTquzc/qbTfJSBvBbphbIFY9+HIUwHhltvzDNrpfXkVNL5u6VrSdTkSbrGv3GLjQ02hfRyIqilnbd0NrdcTwNx8BMIvp7uQNDng5nxZtDmz24AMVi/ROKGLWvrrflyDVk7n5SdryfAZ3sGWFzHvnZ/mHCi+mu9tIgeKrgL6NISVJsBBjKflbN5soh+0im2GVwopWn+vEgs9GZugQ7psCg8+coW49Zjsj8XNP03TfsRPIhGJcLa9iKekZC2WWUiex2aJx0HyjgYano+1FnCsUBPda6Gf+shhRTTdNJoHDVULyvlGUILjPCQ9L1lTHLDynB0GJUm0KwK8S3Xx5UFI/DZBQNClw68VZnx04w5bbBY09OP+KDNJnfcl73FN3XQ4L7coN4gSm5YidbKrTJgtShr95DrhuTQhr77AY4mAMB6SAv6962HT+RZKYixSHKLY5MiYinjjGr7Rw79D/2eVWTPb/H8BZCICRwHPAm9QiayYvqDWnhnzXVOjLVFajFlg24G0CAP4tM5KOV6eUgddolIshnmZCVI/6WWo/dsbXB1c67iPuWmNJjw4rbjHcY1RBfjEt7IaYvl78U871BzMAljrfOEhweFHLiiXoq4XIOelQUfkHmFao02F7ZyyqqD2+81mdek/TcwUo8PY+NWmuefeM9Oa3wlZTNb+",
+                "mac": "v02CK9JQwQO3tzxi0rEakw=="
+        },
+        "database.json/lore/heat-village/content/page-01-02/content": {
+                "ciphertext": "CPDfl7bM+b41Px/iP+f5f8rTXe4C5bowvBDAs+o4SNl4eiaASIReDtF1z5FIjU4xuevJzheaBvoq7XxPOF5sJSVfBebpzZBmv72X6OVSQOE4Dq3Pffx+P9PpnVNdz+ZCrj7AowELzQ4QXcTEfLAi0pYtngkJdOverEVmXjbDbmX/cUQjtxqxVVMPZJNEUu9DWRJNjiumC4VqNx0Ug4SQCOtidDVqMCUQwE8oJV4WTBOOy+mQGizWXpMhUMHVi8rmLyf+hpkblbD2NHbiKXcu1MasL0ZHby6vCESK6TLxbuh4J64ilMePVG2T5bGAcpYY99lNx12y59hYYwBI/iQv1FtBYxgYgzp7mzE654Q7+DOvaovnW34F5nyNTLpRR4hsDhqPUEsVeJbLMAdNYqC2VgZs20jaOOKeesUGGZBvn09ivUyaA7EkhO9gq0Q5uoeYOgQJ4MoOm0r74hZqzNM1JujfOV0KYEOhWHZOtRnuEJ+CSQQtUZ3gDnSdFBQr/UZzqW4bgIOIcutJi37SgnVA6cjfmmOaKPE3jOWBAdMXSDeJzPCZiyCY7YvDARo2T7W2hqEyAXaM2bUGmkqSGm9kvQ==",
+                "mac": "BzQtW6dVA9iQaK0USvKwLQ=="
+        },
+        "database.json/lore/heat-village/content/page-02-01/content": {
+                "ciphertext": "3tAFm8YWcRSb4lZq1YbCfDGt1X3yQ++ZcnY8SkmsSslbcHsmaqS4MBoYay40TvxZRDSFROPQ8ceuC8r43LGyyPW54v4Y78taIis5yT8xsw9+nTNBB4ZWE9qNVjxOY1Cy+fPn69pdApb/VIQEWz2qB4dlKqwHJ73ufcPxAj422/rTQw73oD9ls2GKjpgU+drq14gDf9+OyAZlVYTqduvcNoZqB+Wve99nIM7gZC2z9hIKoGnYs4OqkrRCVVp2F49ySR8xBXwK798bZmVhEvmz/Ey/c55rcLaM2JtekHavHrTnDfziqIoofJNjTsMiyls1irsj3cOovzQ4UK/psG0fwYYRshB6Jsb4aF8VJyHzatnZmqoI2SNCa87oyCGA/XJ+cPCNI9a4e4EQtSOLo2O+byaVePd/6E3+lA3YInnIubpzrTxnW91KAQmB9uvJnAP0ZOvBERtXe38AoZlgNOdJyIpP/u6Q0bGPe5bY1T+PVFvPWIyHKs955SVj+LqiyMUgg27kesMBW1J1O2pw0VNNd/MP/+n7L2F/tdNKNm3q/EN6G9hVjL6sRrIFCcLN+V4DwkV6sAbE2KVmGj/3wa9VECy3bELrjEvJ177jOOl9+1UONobf9PrzC1hp3Qd/bIEbSGJaif9wnuHGaDmYclKTicTWqbCQAyi0JpF2TAIzfvKuQ7mSYNWOAj82SKZVWCKMP03DYtL5iUfS6vVc03AL8vQbE0HcjJ2kSuLIDzYaiDjjEF3KlBk77kaC6MQdax3bcp/K7q6/WhEUnvGIr+RvHoKRq91goGBcTLMO2RrUDLHLB3huvutYdqYJo+Ibnz5cMzUk2fK4spfVlbt/xTuUeENH75fphrqq6rvKZxRummv24eN8wAi7pSfIBkQEeFSoqTFFTU9nsdQ1o82fHJThrzc+fVTs2pap+Ulj0l/7228=",
+                "mac": "MyNXYb9NczqNNRCP3NXWdQ=="
         },
         "database.json/lore/heat-village/title": {
                 "ciphertext": "4sbLdjMOYBY7WSo+Z8HvuA==",
@@ -11906,6 +11981,10 @@
                 "ciphertext": "UnafwHL3ooFR/2psMd1EcA==",
                 "mac": "1TZz/C+QYs1u9jgJQD6NcA=="
         },
+        "database.json/lore/hlin/content/page-01-01/content": {
+                "ciphertext": "62Y5+CvbBSnoBAP5NR3hnUV4kfUyX5B0Ho1rbqNiVyvnRx0LB2w0oGAStlhiqgTzmudyaC37PeHcUWSV2zPc+wzLmuRjkBcxLe4qwJanASWT2nEk/M3VpYwXxjXgq8mZxtyhwGBgRZPcv2+9Zi5ZIwFCkxIrLJpni8M3GRj/fuLXBBQUMVWoVm4Ax/a2NJyDIlfi2SK33qXh+AFWHkg4u0fWiGBtTUGQcTIpnl9mlY5IpdgMTTx4xyPqUWb416ozGAssWXLe/W+p3Qui5jS6PAKI4iWcvowBi9j9/ZSVVFUY1xFUp4CuSV3sJxKiJZIr6QVU2InydQHBs/xxaD2RnNc0sOgAsoK1Vdj/u7r4iGWgzhPXBt9pizcNwjghGesJEv6AlGGY7y9pE6NmMVTxwxjkaEWWAbpm7HA86iyNKmV4rnUg9cKqVekbi0aZdElJ",
+                "mac": "SQEtehtbK3PJMUljn+kKEg=="
+        },
         "database.json/lore/hlin/title": {
                 "ciphertext": "7MJ41HdhdbhKA1N5C1HRkw==",
                 "mac": "7lAew55dVT3RyRGZ/uDVGQ=="
@@ -11924,11 +12003,19 @@
                 "ciphertext": "Gs+2K3Lbma9oaKITH9GPFROI/Tt4boCN17glwF/2iW8=",
                 "mac": "bL3WB8B8AZ5p14z9sttl7Q=="
         },
+        "database.json/lore/investor/content/p1/content": {
+                "ciphertext": "xdreJA3EqZsyU8QfslOlPTrUTb97or4WUyMsRdcsKRuKzjXhK7IqBK4SE1T6UKcpgU1Rwo+JLvXpqS0uzaFbmeNax7T0zTHNqcgnCXF4F8xg57+l1t8DL98ADnk4ehCWLZ0DtsE0GZBVK8CDEnR+FJdYsv+9DKMmDPOTCBGuH9hy6R/JDUoDW8oRVHpYrXiz8TO34YFBjh/gXUqDnCOhwnCVt8dTjSI4w192COsNlrL0DtAyk27BisAInDo39TZV/UO5Ofg7wn/hk6owpnJ8eDsvg4tz+NtL8Dc39RAeOGUUBeTWRpfSK79XYB7nkBmLP+obeh4/qUqeBA+Pm0CkfObmX2nNar2WvGpF9sYHlS7JGJQYqBiY9G5tyPG8WIPh",
+                "mac": "qhyaWpqxz4nja+o5e2dK1Q=="
+        },
         "database.json/lore/investor/title": {
                 "ciphertext": "AmkWNoUg441ntVOz8I/JaEX187mNzHkhuU9xMObOgDQ=",
                 "mac": "J1cszoe9frIOf+RbGiFjfw==",
                 "quality": "bad",
                 "ciphernote": "Sy5r/MriPLp8ivJ5XyZAzw=="
+        },
+        "database.json/lore/joern/content/page-01-01/content": {
+                "ciphertext": "etUgSVLWwkIizyy4crqE28Ft2Qzg2cjS6K8lKGuhNQ7ibbPJEzd8M3JFVW0a9AzB1e5+MmAXYR5GWQCiS4fwwhkUDNz6w2+sfloWRQjeuBfo4t55SlDXnN3Xc9nhIZOqdsxnguVjOHunBBo9TbQhsUyphTCmRhb6xlyCCbBE0IZr7EKcRRkQFJpVaNYNiYY+luVo/F/Jp5fKsfmaLV7/dgAfUYaa1JliHDsd8Z8FaOLE8eNRUbsGdoOt3OW3k8fyJPO/7rTUOuTXoEUk0dDhYoXmo6HfgOSqFOWnd3FLwqxlw7qk4M/OWu0n9DFkV+c8VY2ZM/r8cLp2qyf1ReUgBrMkszn7u3d/wI6SDevqQZcXUIo6ctds1CQX59d17AoC",
+                "mac": "E+sj0+MgRq+9kW2D+WpT5g=="
         },
         "database.json/lore/joern/title": {
                 "ciphertext": "yNWpN9XJVf8Y8HJyY/X/RA==",
@@ -11937,6 +12024,10 @@
         "database.json/lore/jungle-city/title": {
                 "ciphertext": "HRlJReGSATXTmozjc4ezvQ==",
                 "mac": "TztCyGgQlP4K6UYEq23nGQ=="
+        },
+        "database.json/lore/jungle/content/page-01-01/content": {
+                "ciphertext": "3wNvCKohDqe6mcAMHpfNcoMiTx8QeHZZSDmD96WBw1rVFLoK8syCeU5VDHDyysxdKIdbzSEoU2eH3I52Q8DivXRzAtTnvOvMPZVjjdEYO2QhoCTIOxz0VLqjH8/AzIl6RHYZNE6X4pgNMmYOz+68uEEZpReQD3jQFx5lSxonqBSEElA+A9Kdu9nYk3l4wlLbMkWZMk686vZLjIr05vixt4yb+IRCO8zT9HACwwq5q2jDqV4ceg/kyVMwClPPJpJ0s5fa2M8TJxbmFRbOwV9TRN3xHa7F721AU7pfANurhBeX5MW2tR6BULg2kdblCjQ4cJv9uGIyo5aQTgjIr9KQHbsLY4zmis13GAWtpBM3g/dA41t2WRMWaMiJZVu0ApflJbHlEqotmSH0n9Mu2R1Ug9QLFgnYNzkgT998t8KuPNPwGe+JFGlLzAmJ0kHKdMu4S/h1uCYrgR5MGEzHTA2jfOn1O9sgDSfnm2xkBqKDTVU=",
+                "mac": "TlSmoNe6PWIf5orzODcaHQ=="
         },
         "database.json/lore/jungle/title": {
                 "ciphertext": "ccpt3Hy2Jarkz712zRdw2g==",
@@ -11973,6 +12064,10 @@
         "database.json/lore/logs-header/title": {
                 "ciphertext": "qQ64Nn7/x3O2uaeyFl5RYLSPFmyroXaiyq8cccjz7LY=",
                 "mac": "Pa5GBZVIdvym96RVOgxHHw=="
+        },
+        "database.json/lore/lukasEvo/content/page-01-01/content": {
+                "ciphertext": "dGt6PI7ZH5eixgclyvZPLSkocGjX9G3Px+eywqxmbuMk1qztXsZWUO7K7gTngkZwXTnZUWfDnZEaXIiyT5yFO0A1MN9+t4fU2khoKsSsaIYZLFsoCXod3kxbgHvQaEDIGwqlC6DkVofJ/nLpUit72kSZZinEvXodn32M6Inly7dmOzyCH3dEVb+YYD/RrwBKoywvoiAbOX++MAibZ6C8o31isEt/entkI2cRQuNLkxfz0Hjucw/OqhAqSIRCq6JZpsIZiQCXpr/9P8v8aOzug7bc7CEXFzFzvh9Cd7wdZc3XKgC0Lszk20sCVLBCQ7JgTTVk8EhVS5PRBF6cWqWfw+YRjOYVy3ledfF1QFTT4VdLHCd+wkhTAIb2C8LO75Xk",
+                "mac": "eAII+2dPfeem7hxBi3vPvg=="
         },
         "database.json/lore/lukasEvo/title": {
                 "ciphertext": "0idljwGKNxOd3fyTtBSzgw==",
@@ -12101,8 +12196,8 @@
                 "mac": "him9PpNyMb/GR3xVhfu9fw=="
         },
         "database.json/lore/satoshi/content/p2/content": {
-                "ciphertext": "WKmHp80a8V/kbIYdJUWk0Rrc9hUnAYOZ9mbIayHxgW80l+1JitoUbdPdL1T0dk9zAWcRJRkuQVBTI09y4HEMYANbyv3QIPl9OhP2H+iueMtKkDfeg/9489OvXxcjYlTLcWTIFAVRHbfYGoiQzqGe2mZ01KR3iyZiQk9guGIEeNvpa8RmHFfBrdZY0VzWSmtY",
-                "mac": "5JnE6GXE+ZFT3Ai5b/qsRQ=="
+                "ciphertext": "WKmHp80a8V/kbIYdJUWk0Rrc9hUnAYOZ9mbIayHxgW+GMrhFT3cB8vDqXrITAS40VeCwOvXnmrdCYnO2qfPbDl2OdIq3U4ZTrUfOh9imIyfubBUuCco/k6KwhQ012jCTSulGtIOGDE+6yJ1cAMKgCQLMaQNbaIBssV3wbs79urw08CKDyOVT+/AaqOdE/jZd",
+                "mac": "GB4ywHgEW30dmQefzKunoA=="
         },
         "database.json/lore/satoshi/content/page-01-01/content": {
                 "ciphertext": "sISkFAdPfX9z50vHMjgEepI75wGoCLXoVpqnroCAsSSgw9zgx7Rjc0JJ3AnECTvGANLaTqIy8egoU4PSDadTJCtJOWW1vOP8VE0plkpzrKM4u61vqteqk5r/jH7Vy3I0Qh9B/48CzmtLxtq/B7nEglDwBIxgjsaR4jrGQnWliegumlfjTccqDuAgUuBViRoVgzwEagdGCneVkaPdEJ9ZiLifXym0AfsY6rAA0HmjWZKVVg5hqmkwaT+I3d+OPT9Y6kkpO5EwLHJ8zz3SKp9TBcKmSFrnpu9KDBclm/9yCWlUgkx9PkQCV/wlBd18dtH/s1Pv/bAif8W2HVhEeuDuv1BK0GJ04ZExzKWVfnqgGOJ5vFuacbAq1h9aSSKp3uYFJbh35rUF6d5jgy78hYsP5vmjlSilM2ehPxMNPu2lhfQ=",
@@ -12111,6 +12206,10 @@
         "database.json/lore/satoshi/title": {
                 "ciphertext": "iGxlNxGh4sDNqOhBOfLKJw==",
                 "mac": "C9E+z6B4xgvP8TpHjEI5iA=="
+        },
+        "database.json/lore/schneider/content/page-01-01/content": {
+                "ciphertext": "88hQpVprhh6t1qUIeCJhI8fgyFMrKKP8e4pBIuQuOoeQkPNI+rZPiA5TWIaQ/c4/YFIiN7YwHQ1KpzZKxtIinj9GJ3byWmX/u0CbdUoGID8jQrUqpElKrhbrq1KmN93RY2uDToeniXs2RFKwrfZ/Jj1AAFjFH9+2XM/B8ImWzrcXp/77HZqbHX7YOvDhOQS83oQ86A4uuXkAhglrN6HhbZ9o/4+PJmWDEGqujT7gKKJfVnFV/jc8GeWYzV9U4j1tp8reRhRLwmVgSj4sYKaZaz6U5Jo5NpEPnWiuctg3pW53LrtNAjqswX5D0LYzgtx2IEVBedGZZzGjdvi6u20hiDkUHP+4GYiVxQPcOn/x8DnGC7i2XSOaPiclcBMjqCRN",
+                "mac": "9ry7DzyEJMW5s1jMI4Pejw=="
         },
         "database.json/lore/schneider/title": {
                 "ciphertext": "EU8VgbQgypoq3cDYHyzGmg==",
@@ -12149,6 +12248,10 @@
                 "ciphertext": "gyxv1551MfK6iVwtWtXjHA==",
                 "mac": "8V+eEQsYfD/4z8lZkunQxQ=="
         },
+        "database.json/lore/shizuka/content/page-01-01/content": {
+                "ciphertext": "fZraKpnOURLn0WDU5m5EE45RryP6J/94Z3As0fDHElES9dHObH2vO2PcyEM90enZBkdwT0pldMXJJPOomsfnAidXmnTLiiviC5eiXh5wzLoZFcyb+pFOJ7KsiJu4JC2vnNT9/tVhmDIH/BHtQOnK9fzhWmgXlVTK0V8AHZdQTUtRbE7zuo3k197BKEkbiJWFkagJ5tt0gO7VIlrmcr5ytwZby3EHLnk9g449v9seS49lF9VXDsn5tlwEEk0RdNvaRriPrtGFtdYfmJr/bv140mB0jectpONkmL9kRfvB4RUH8eW8okIZrXVOYLeltxY7gd9JhcHrD33ZcJBN+g8BlvwSgln7v4GqkYDl3jMS/EykvK3G/mL7dURNV8p1yz/2zQSufppRdHM9N5higD0wWvik+WCOf+/LFjm4+5DQ3phpBmFPLX3hviJ5ou4OD60B",
+                "mac": "UXytl6hA5dwsMmIaFyCYIg=="
+        },
         "database.json/lore/shizuka/title": {
                 "ciphertext": "thnDE1BXHovBVdAiFmaBYQ==",
                 "mac": "rNADxtcVd+qBg3FvDmsedA=="
@@ -12160,6 +12263,10 @@
         "database.json/lore/shockwave-dng/title": {
                 "ciphertext": "AsEiuybK71MUorfc2uRhPA==",
                 "mac": "IGlUCtJT15TdUYkHbFAXiw=="
+        },
+        "database.json/lore/sidwell/content/page-01-01/content": {
+                "ciphertext": "ZLEJ+ujg/M65tRl0zs4VkRT1zdmyVGMtJPf/iZDnBL6alJw5pMCuZ+X/E76L/iMYGDDDf+eDyj0F7KQfxPUg1KLY8aEBi09IX1kTzivLg16qP41Tm1laSiJ6ZFvMgYHuj8oe4tI3WF+pMJtUJY6xn1Mn7+mOwuZlhGkdXBKiVeJxI6/gJkLa+HG5MOXpf5y/i5Ehjj7lP6GU4MgLoag5JSXMwp4LbsER4Nsj+4kRXwe9Xb5obi3NYzkdMe/thCL5hF+L/YyXVEhdS9pTjkjxR6X3T+wWlWaR/sG5hGQMuxvaVju3eexHNw6pTtGBKrGo5KlIed+97JZKwZRysSKF4pAKllB8DCBn87gYMPQ+Fk5Tcl4bFpDmuKlqBhegpjE+JQubJfRhQDhODuP/vcPseQ==",
+                "mac": "hSmbOIRYf4AwKgPrwvoiUQ=="
         },
         "database.json/lore/sidwell/title": {
                 "ciphertext": "EmmMV1h8bc4mdqTcPUcUtQ==",
@@ -12192,6 +12299,10 @@
         "database.json/lore/temple-mine/alternative": {
                 "ciphertext": "OTiTvJ4MvvzRbCKhnrkd4cobLQ5PmalRsdnTCpKK5mE=",
                 "mac": "h/3OONpHCTt/yhhB5d39Ww=="
+        },
+        "database.json/lore/temple-mine/content/first/content": {
+                "ciphertext": "zFYc62n+X4YkkS4nj7ttIGH4Y8esVe9K64y1U8gDrrcqlyb/UX86j3O5GRsr4DMxsXzV65SAdAgIgnazeYy0T0rMwwRECnDrH6L9C/68yqtnCwDSIzIVziZAubFnQN4nhKehOcfP3Amtxv2kqor4SthgdMAa+/tmPNZqrlrlhcGjxZMCC0z2CVrpgJjnOs2iLxWTmg/Bom0RjMfWB/Bq63iC2twlr0AM99kQgN3jEnptHDMHwaDCEFeLq/cKfslUFkgWw1V6eh+Nr2XYPoiaRJ1OjpgxdlaYcBcCqkKQADifu+Sd97S5kwo3brPiB2cFfXiyGRA7naiBf+6ANDXa6pcA9cfIhEQyz2Fo3LCdVwUZCI2bgXeCzuVr8Rt86BwtS3OaFDheRTHHVR5HOkYCV2LvVDIDqSMcAkcVuikneOd1az/GMbBdCsOkpqP0tsaeIa9lBAYKHjjh4tSbbH44CQ==",
+                "mac": "dIUzlcqYh29i2j+2rrsnCQ=="
         },
         "database.json/lore/temple-mine/title": {
                 "ciphertext": "R2ruES2NFlntkgrIIMlxfTurbqqkQEBo6Jsr+ltstfU=",
