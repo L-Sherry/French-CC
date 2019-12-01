@@ -1559,7 +1559,8 @@
         },
         "database.json/areas/arid/name": {
                 "ciphertext": "RqK5ja4GsdfVpSAORYB2Y6iMkvsVwLrX8aJQthAulEQ=",
-                "mac": "Ch7YS9I3FcjjwZJHi6r32A=="
+                "mac": "Ch7YS9I3FcjjwZJHi6r32A==",
+                "ciphernote": "dtRVs1B4e0vyZfPjHnLpOaivQL5G1UL+Gr7I0oUyNwo="
         },
         "database.json/areas/arid/shortName": {
                 "ciphertext": "34t1Nvli0X3idOURorkJng==",
@@ -2193,12 +2194,12 @@
                 "mac": "GLdmrYJ1RnkrKEgTD9/e2g=="
         },
         "database.json/commonEvents/all-dng-leave/event/0/thenStep/1/0_0/0/message": {
-                "ciphertext": "+sigNxBIsC/Nk1NnrcMtIGfyuR+DobEDSGkFwNR2+tLAn5So3pKFIPSK93QPSYTZ",
-                "mac": "pitY2AIKErNy19v4PW+buA=="
+                "ciphertext": "tytMAhcmrJfXW1WPR83QMFdqIsnDn0tPeNqeao0U0q5xHSaIGQoFDEFpTkf/QirPA8gS/bvyRfxprYCM0Py8zw==",
+                "mac": "TsBoB3S/DB1IujPqrCVp/g=="
         },
         "database.json/commonEvents/all-dng-leave/event/0/thenStep/1/1_0/0/message": {
-                "ciphertext": "cUZnh5Or1s6F8agZNeU+gJHXul/IvyBbyxEyRpf5by70+GGPEO/BeezfXncwhS4NeBlaTN2qfnSFWXUNqCIVCg==",
-                "mac": "oKdcdMJPrvtYsV3OOHfXmQ=="
+                "ciphertext": "cUZnh5Or1s6F8agZNeU+gJHXul/IvyBbyxEyRpf5by70+GGPEO/BeezfXncwhS4NR0ROaNyRO2tTg00Kram0dQ==",
+                "mac": "qkOdkAFMwwb7JuusYOzzSg=="
         },
         "database.json/commonEvents/all-dng-leave/event/0/thenStep/1/2_0/0/message": {
                 "ciphertext": "txekF7HBzKSbrcZkZXfwL5MD5oYLbb8HL0KlgV9uutsZAiDKIaH/i8K+mplKqAciEpYqs/3+G+qg+ohg7XlmFZdmS5gZE/94p3FME/GLIK0=",
@@ -2285,8 +2286,8 @@
                 "mac": "S2zvA1Gz4EvpRjv1mEp0uQ=="
         },
         "database.json/commonEvents/apollo-battle-over-S/event/0/0_2/0/message": {
-                "ciphertext": "xmV/7oYAd+rT28wtfIUt+SRHyIXn8G5RAMxkIAJFzvA=",
-                "mac": "xZxR50km+2OmIjWDgv1/0w=="
+                "ciphertext": "xmV/7oYAd+rT28wtfIUt+U1l2p8o26d7FhG+u5MDOFw=",
+                "mac": "af9+8CirNFCitLvKVAEh/w=="
         },
         "database.json/commonEvents/apollo-battle-over-S/event/0/0_2/1/message": {
                 "ciphertext": "Em7VpbBoOitVvzhfW+3S+er0Zyy8UAWDA/R/195+Q83PRrddvW3isklkozBJSxr3/s8oi6lgL8kTX29CPEBIIsN+uTYOyJqlpMtUhVMa4GYL2HUoNqlPPUYHsxX+smlX",
@@ -2654,8 +2655,8 @@
                 "quality": "bad"
         },
         "database.json/commonEvents/apollo-revived/event/0/0_1/0/message": {
-                "ciphertext": "gjjJ1O5WR6maPCLAFTYrkgFQDOyio2PXuieDGqSo1bw88Q757lETJwvEb/HxjnR0",
-                "mac": "lBsy/K1Q1HYIpnVjOXbQsQ=="
+                "ciphertext": "gjjJ1O5WR6maPCLAFTYrkgFQDOyio2PXuieDGqSo1bwD6BZq9PH3+4NQE4G2e5sh",
+                "mac": "vDBWdLMAzuTmrBTb79Wxug=="
         },
         "database.json/commonEvents/apollo-revived/event/0/0_2/0/message": {
                 "ciphertext": "MAsLoPbFBT2V/jrQZFIY0iEXCNIpy6GxNvnBAj0m671TacBQdUqC6c07/+0J1nBS",
@@ -2839,8 +2840,8 @@
                 "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
         },
         "database.json/commonEvents/buggy-contact/event/10/thenStep/1/elseStep/0/elseStep/0/message": {
-                "ciphertext": "J6qKl3Sm8VGGsuojbgMtXOxhZgPZdcA8ekb91KNjJMNcJuuiwcKZE6BlPekDFZdjuCz+TgpVkmM0IHyK5BXpA51/je3/Uz8wu7AcdBvG0ds=",
-                "mac": "vEX9mHHSFfueM37Zv+9mbw=="
+                "ciphertext": "J6qKl3Sm8VGGsuojbgMtXOxhZgPZdcA8ekb91KNjJMPoqns5blIjXgZRezCBAcGBqE19i7PlVLqcVhwMEF1edS3/02TfzCW34Rm5mgHXAu4=",
+                "mac": "XW3bMF3WsD2qDc55xiuxLg=="
         },
         "database.json/commonEvents/buggy-contact/event/10/thenStep/1/elseStep/0/elseStep/1/message": {
                 "ciphertext": "8QYuhTKSD/vslF5G6J7pPgXxCgTihoDzIbxK4YMe3ZsJvqL5Ij4swOvDUJoH0beYc+aakBe7tm3al1JGTVtVIBEnRaRWKJ3JeS1hz+RLHDc=",
@@ -3488,20 +3489,21 @@
                 "mac": "uwQjldCo1oLpF5MsMy9ksw=="
         },
         "database.json/commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/0/message": {
-                "ciphertext": "xLoJ5ZaPEPn54hZIxhBgEffc9CqMku3fzO3QLSmf2ARnHnIN6MupDDXM584O/a6piVHA8npvdnefkdZWh8xzH3azJnxupkCTyF0M92qbGWo=",
-                "mac": "dt2rH3orDo3MPWA10fuTnA=="
+                "ciphertext": "xLoJ5ZaPEPn54hZIxhBgEajWodpw2SKGSmKPI2FBcLlRrooULAroJ/f/7GkNnPgtUHOlm73CCkp+SwhcuRhESYFJ5kWPo5TZlSWe+/FT4ZU=",
+                "mac": "DsyTbb038uIkBYCcuZY86w=="
         },
         "database.json/commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/1/message": {
-                "ciphertext": "f4IKLZTzMFlRaB2kIdqggQ9jO3R0h1JpmilH7kk3WyuGJ63JDq6kOztmhBInyIq9voz9xlpd6TLGJLmI1wtPv1zO80F5x2vCvUi04i3qHGFwZsPKX7LgyzkF7IvD9Y75",
-                "mac": "BT4oLTxa2RoHS+7JEBkQjg=="
+                "ciphertext": "f4IKLZTzMFlRaB2kIdqggQ9jO3R0h1JpmilH7kk3Wyu4i3zf9fXiCvG7HFJcyBEq/ye1TpjnnexCBjO3afztr+pCydB5Bb8mFBFUvmj50qJk4irGGVDR78lVPx9v3QvsUWMaD2LnWogkKNAbkklumw==",
+                "mac": "yadINrKgm08uEp2/DpCNiQ==",
+                "ciphernote": "ix3wypdKg9m1VrwKNBj7LWbszXyzdJ1/Vx7Kgl31gl6b3A8eTbwxZ8mmqUc5PrNaJe4e5YiqwtjVLhsIcHf4duyt6qh64rraPjRJ8kIiQAJFE2sqlD8ZhvI8OFINyqkA"
         },
         "database.json/commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/2/message": {
                 "ciphertext": "3M1gaXgeCmuW1pVOVXWfuUXVmTnX1sMiduihbpnTYk6LcUI8GxJjnfhE4UnNJST8PMPesFNDCSSLTCQUhA8C+tDmmbL69vrA2HAQ/oGFajc=",
                 "mac": "OEx5DKL2Q7joRR9FRl5oMQ=="
         },
         "database.json/commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/3/message": {
-                "ciphertext": "gz5jlY96aJ8OsSWMyZvfnK5eyob6TzYivMO/FnfXgF/J1k2a1lkwId+pSUYwJRtDNxSBnTiVa0aHI/Arng19Ng==",
-                "mac": "E3LyYDqWXf3ILafAlSDNZQ=="
+                "ciphertext": "gz5jlY96aJ8OsSWMyZvfnK5eyob6TzYivMO/FnfXgF+cNu4PKR4R+pyPBd2DCbr6bvqfNX6cmsoGMR6Rtvh7pg==",
+                "mac": "hvkV0F5IZi+IRQ8Ay+wDcg=="
         },
         "database.json/commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/4/message": {
                 "ciphertext": "9d9LYEUS9cu5dpnLvGJQ4xmBJDL1xZpuXVh2U+xfo7U=",
@@ -3557,9 +3559,7 @@
         },
         "database.json/commonEvents/ctr-emil-spiders-end/event/0/thenStep/2/message": {
                 "ciphertext": "oo9XjYROzOS8Wr9WWZzgmDaBcbbocgtXfjiX07sQs8uzTDWb6PYqm27RhBw/8Pby5hwu0p57SX1+2Nv3uUDfBP/d9oPU0ERQDYCtM5EJkICz6zWmlb1ZUmgSG8RKuzlCnwyXPiHEdSW7B6WI424+Rw==",
-                "mac": "SpsasSGro8qbnuLAnp2nPQ==",
-                "quality": "wrong",
-                "ciphernote": "42K2z7ruqSLYM1wmyJcRpna/tLJ/mRDOOrDIHgXci+8="
+                "mac": "SpsasSGro8qbnuLAnp2nPQ=="
         },
         "database.json/commonEvents/ctr-emil-spiders-end/event/0/thenStep/3/message": {
                 "ciphertext": "e3TyUsN+rB8nqHPLLghNMQamvk3jDEhkFSprTFf54P87HDRud7AmO2cnw0Ek0wWMJBo6tMDT+QDgTgFS6hmklke1eVcaZ9RRmVyqtDMhP3IK6wcgivuNqwrGYp9SGlCzWivhue3UZodCuENqygDsBQ==",
@@ -4186,8 +4186,8 @@
                 "mac": "7DfAuke2ZxHvOVJobPM8Cw=="
         },
         "database.json/commonEvents/emilie-contact/event/18/thenStep/2/message": {
-                "ciphertext": "fDQ7mbf5NOTSiH4gvEjKWBgyu/03/pN5eJFcaipeqboRMoISvHEKdw65smO7Oibn2Cjhkgbq2f50FAzar2n0rQ==",
-                "mac": "VHRGD5Hml6VpTb7zbeigyA=="
+                "ciphertext": "fDQ7mbf5NOTSiH4gvEjKWDqjFujeOsedQnfc+8RQEm0AIslJZ3HUgsOAFw10DgBB4nMg9ihAutBAii6sQwWg+w==",
+                "mac": "wUaHIctDumEvPGxrBUaP5A=="
         },
         "database.json/commonEvents/emilie-contact/event/18/thenStep/3/message": {
                 "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
@@ -4958,8 +4958,8 @@
                 "mac": "N7AqkDXBo3MtvwuAtel8AA=="
         },
         "database.json/commonEvents/emilie-samurai-bug/event/5/thenStep/0/message": {
-                "ciphertext": "bJMkxRoUZwennHsugMtTAXj7rw+prBpzlEOAXZasS24=",
-                "mac": "QPcqW4Nr4Q5UksiOOFlrMg=="
+                "ciphertext": "bJMkxRoUZwennHsugMtTATE4SdSlRKj3gQVfDMipF8Y=",
+                "mac": "NjRNelDP6yQyFxmbNKoEUA=="
         },
         "database.json/commonEvents/emilie-samurai-bug/event/6/thenStep/0/message": {
                 "ciphertext": "VjS2AmecBz44XfBpT41ZBBglRlYq/wgOd+M3JgsyrTr1Psv0thPBQ9VgPWgF0/C1eVop+u1cS1eYn01JhI0WOo11p/7+qHNhXr1B0d0xuVY=",
