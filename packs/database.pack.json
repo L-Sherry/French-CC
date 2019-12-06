@@ -1776,8 +1776,8 @@
                 "mac": "nYtFGSoh34zcsPbYFRUjlw=="
         },
         "database.json/areas/forest/landmarks/temple/description": {
-                "ciphertext": "dfaEPK90Qsn/1jDeCuM+rYQmJ/UepbGUNNqj6JatTFMLuFv4pF9W15Oyse2GEPa9YpGudZsRpaDLENOEywnZSwO2lAMuVgcdr7rR+slRJPRJT2idBARug59xCCknXo30",
-                "mac": "f9j7kG9hC3/IDA+St7s+Jw=="
+                "ciphertext": "dfaEPK90Qsn/1jDeCuM+rYQmJ/UepbGUNNqj6JatTFMLuFv4pF9W15Oyse2GEPa9ZPLqClzOr3Hmpn+gDC007eCA9mbN2hbsR4YgPLFv7RvIwIzSBiQyjUp63LdWZWKI",
+                "mac": "oLP7b7pNrXCZmY11iixtig=="
         },
         "database.json/areas/forest/landmarks/temple/name": {
                 "ciphertext": "FOmi0tAnWZWm0LSEGyGsEtFjAJX/oBJsrIhiGq+Gric=",
@@ -1788,8 +1788,8 @@
                 "mac": "CTacwrGYCD0kI7YgyoBPXg=="
         },
         "database.json/areas/forest/landmarks/upper/name": {
-                "ciphertext": "4o1QPIr/BlPhmenJIduUTtxH4qrZKw5T3b9IbeaRqMs=",
-                "mac": "DR/Unv4quz0tQ42o6Xajbw=="
+                "ciphertext": "OX6mu2q6K0l1IC3n0e2Xbg==",
+                "mac": "XgpsfWrxMCh+o4u6pDV77Q=="
         },
         "database.json/areas/forest/landmarks/west/description": {
                 "ciphertext": "+xYt7R8ejZTHV7IOfT+ImSJu3gobSQ7n3ZO9IxXzNx5hjK3lBAVYgemGJ4XQLAP4tt2/pMvPPaQCPa+FO1l8AM76y0MruCeU210nKi3+pJpq5E3ZPTkGXE2oFDFUH7CQ",
@@ -10944,6 +10944,14 @@
                 "ciphertext": "fFjGTUTwz2qpUYywJd0ajg==",
                 "mac": "TvlmbjDBe5sv5TiF6ZWong=="
         },
+        "database.json/lore/avatars/content/page-01-01/content": {
+                "ciphertext": "5yxHB4SakzW4MTGj1EFnAEmPVw4T+4Zk1qfI46F12Jg7B9w681G3OgDfJr+KUeP96UA8p+y2kkffQ9pMwV5l4lyoMOXnC6LL9Spl8wxaQwVqS+9qkWOpALBK/a9GMoGo03G20b3LkYYFAI7D8I7rMGQ/uxxSN7ThQZSOMAjdtzkwitoxtZKjPOZD/22O9BEU6MulcydRrIphi5EoTfVc2Um8dbZdbnIY6AM0PGkAMdg8mi6b3ALxorHRBpxNJxy4",
+                "mac": "ICAYOfo/kK4FJM3g1y5PxA=="
+        },
+        "database.json/lore/avatars/content/page-01-02/content": {
+                "ciphertext": "7Bt9Tk4N0v3fGHBagc+33fmHwTIVbRMDlfySTrCsC1AnxEZxW2oSpm5dU+mDFbSxrK39hfDoZi9CG7MMx0OQYqFbwPBUdEB/J6ilY4r1Zkc8S1y6MeCJ3Vu/dgFL6/OtTJ41X14r5Xf/JXF4e4LWpRgDY/7v1FJFzfvX2e0CL4Oy/bYYtSLpXO8CcQfjUOX59im+O0//DXqsQOhzgHDc2waokwU7D5y+CJ03cVMhpYNTQlCE8oRbjr8P6Jt5HQ82PHmOi33Y5JAfaoM/i0xcntwntJi5f3Z9DPlM86jwORoPKU7FbL2xPYW8KBAB6or8SJ+0QO4bGG26BaGpLnlkFY1+oGW2NV/9a/JhPkmRjgPLTiZpf8qWBKBIABIH3GYQRzAwsT6aQTWd7rAxY4aYtafUcuL1+W6f+BoST/qqQnhvx9wl0MaIRABb7+qBVhCpsQeJjOnmbY2+Z++CZY0Y8Q==",
+                "mac": "56EOJfvdGnrt9Ig3ZQ0B5A=="
+        },
         "database.json/lore/avatars/title": {
                 "ciphertext": "iL6vXzuy0wtdkVh2f54jTw==",
                 "mac": "8y1cdWaBtTIa/XdcTnbNPw=="
@@ -10951,6 +10959,14 @@
         "database.json/lore/balls/alternative": {
                 "ciphertext": "MuBerD7RC2R2FXx/35Ozbg==",
                 "mac": "QUmGZUzoR6Tds6EXdGce4w=="
+        },
+        "database.json/lore/balls/content/para-1/content": {
+                "ciphertext": "jQQbWCC4cyucXan7oxWWWfn/UwiliFxwJuCiGSFl08aueiGThDOk1nbD7V4Vy8EFPwGpfj3b+LwE1F67MMi9khNTy6PKw5QmIQniU+znskz20LgOiDKZNOMs/SJR6YGp1YMhgBIK68HTjiPVhNCTISHY9U0pf+v5iryz4husjlMGT73Tro9VstYYv9VyTvcxM50NJy4Yku4IJCHhOflQI3S+HbID75YPIPt573/1s0uW9pWbSxCuc9H3lB4ny/V2X0wqP1+LK4HoqxRB76/K5WUVDXCsJxxDVcZjlDMS6UjEBDPLXxHFhjIkjtho4iKJFl2MSNgt6OYmp0NHLsIqIWLFBDXQdnn87IW3yx2yCukVd6gBo3AdWWrXhl1Ejhj2ordhg6fnrGq4t4574YQG7uqE6zKnnFRYPMp3pk/MFlC4GXaCn/NSrjkhwGxpAKrasDe3WyEqMuTPBqaNf961/iJ6LVX5NWdhuQ512qn4WHqxy0pL7rhHSgX4JJYRkupburHtSFot1dIhsnCid7V1EfRciGowvgfmdZ9hAaJUyyHs+Vmp35C/lV8d40cGRjoC4zeZQ1g3fNbZe+4nnQW7D/eB0G2hC3oZZ0Oivyhc4HGI09m0YOI2zxh97pjb2UyRPqXj2SFpkpPiRpv+apQGnOXPaHPxMstIxVi7wimpLrI=",
+                "mac": "1jCWpiOdhUtlqrVkBWsp7w=="
+        },
+        "database.json/lore/balls/content/para-2/content": {
+                "ciphertext": "Cd6FCDg+SXFCaVlWZ6hIQqL+9zD+rUd3hd6IN3jE8aUksbe5a3SZrG/PqW79KLTUzyj9pj86HNJbj2vCAkyBjlb2KgI7RG/hVKUu+sAPiAy/hKLz7yK6dhUbAFjekwBOOQSCa/2vuwWFXG4SEMLLiws9xTmvstZS9tgtR4/DIXQDx+utOJrtPfCU2aBxESTKUqWewADDuEQGmybKMf34YOGpHO3GvLd3pQAmRlnAraY8y4qBotR1vow8i36N9bWIJ8cIaEmXmcMfSL8ErOQkdMdtsaXZEApG6rmk6ETImZXOF4aMc9fN/dStpFlmb9puToyS4MOXysXTIDnKDyIE2WkUgvGC1O6P4zpjbt1OBj0pQyg/O9foF6TwdXf0XNwOD14jTH3ZxJYlH6xWqGnMH8c2xgaeKH1EUPRJSNH/Xjc7mKz+NmJvM0TbChLHtI+I19tWmoBFv7sxZ47vIsuOH4r36MKF0NYi7GnnyDZIUnIVxtqqOJsMzRDRlz7yRKfQ/B7uyvwf2Z7jsDdYqbbMTqZj+G9IL5brSiYUttxWsvJ5RtU6gbhxOlhYMqtXxZgRVd/RqnbFyL5NFRb8vME4zcWqC/46lfVlc0cCVufxQ6QSJNKxrM+eXuQn+3Y/hRev",
+                "mac": "41AqnSzniDcXdAEfUUybtQ=="
         },
         "database.json/lore/balls/title": {
                 "ciphertext": "tspVzDgdqW6MDN/5B6YGBeMfrSs2Z3Su3xfPGjnTLnY=",
@@ -11026,6 +11042,10 @@
         "database.json/lore/cap-jet/title": {
                 "ciphertext": "8Mp8OrWHEWYm7jP0vgVA7A==",
                 "mac": "qlEA5B2uGps7yH6pYxFR0w=="
+        },
+        "database.json/lore/cargo-ship/content/page-01-01/content": {
+                "ciphertext": "dz/AgbegoalaOKFcSJiw5PiLd9Es4G4izduCNAtHJV7qLn5zqYvlc/em0sHglNacznzqNk3jy6e7XDQ5YjPZeYv/vo6czQLLN0mgl2GOkfihcaEweckwMFm/gsm9pPIUkdqgjNDJay2LvGyvdRLWtm/RIWwDypvJ8MTF3e3gmSkemxAVvWRQQW7kr0ZG257e+JCgX8vK7PYt4qJLulMgnqABVAZwXuoE0di8Ctp1huqBUO0wGHLze8MLYMbKIqfHv3lNgjBmv+tad9K1FNYCmNDfaZZuO5U5B/HpFhrZf2aRG0Ei5WvN67Q6jvWyz/EtSTNYnPYRUmVTQYOnhkVgurYKEjFIO0/7DjNKr2wufn/pS8mbuc62iSZGLAyps6tDwj0h117R6XNLz6Xd+ET1gyQUhqMzZhWPY3L6GFCohfiJQB/fKWrp1xDXpq71t8QSenaiJzQuwkDKMuhMZoXjcLi2q3a9cZvp3+PtVNfFioRKETJTluo96/bSi9fBGuOVg91WDICG4UOQaKjNlEX3gv4ljnu1CPKSe8DwtgoGCKwY/b8MtmTpnFyzKSTZosQzhei2D7lc2+mFtpE0x12cUtugUvgJGhtNKgcjAU69QAJGyJIiWr8LAxnruKOkekHxD9Qp8lYP36+XAwn9WXs6VM8iEB2GPUYe9CNsms/iLO4=",
+                "mac": "DFtGZX6hoGURdtVJBVfaIw=="
         },
         "database.json/lore/cargo-ship/title": {
                 "ciphertext": "zza6UuchA+hPNQVfVAWkN20EVyYZANBv5Bh21gXhPFE=",
@@ -11568,12 +11588,24 @@
                 "mac": "f5qaoPn4GCMsaOuQIFKufw=="
         },
         "database.json/lore/colony-federation/alternative": {
-                "ciphertext": "G7s85vDGuqy6AaRQfloqGw==",
-                "mac": "Q9gBD3NtgPT0Ey/llNzzww=="
+                "ciphertext": "Z84mDKuK5EUMjACZ4usZhw==",
+                "mac": "NorY4Eev6bmXh4+vkKMxvg=="
+        },
+        "database.json/lore/colony-federation/content/p1/content": {
+                "ciphertext": "bZ4ukx9bHPCZ1vb5NXYMSMq/QzC+3Ru6LPNG1WzjXeC6qE8MCFQOjyvChmvs6ufA5+UJE1Jx4W1DMq6Aa6i1sEYULbL84uiZvvjco/CioSIaXuAhrpGFyq2AZWEcGIEwcMHNbn6QMM2ryXXNRfHZxOBctfRqdDP+1Fc99yJuJ6Y+mBqSFQCwh7j7qJpiGiRfLZ5Q4eG9K6a3yKAwGYBQu63kyO1PCt4riZ4LtwkhQ/yifMiXy/TdbOorM70aONIWl8r7CQkPoVTdEfffffmg9SJkE01HH0md/JdoxqWzQKOKI//jtHTg+X/3EPHqbNjyksYkBBf4YbFVwWa8ZX/vVHk/iZEGSNqhJaZB2l3zSH5O/wqq+W4mBTlIPv/KHdGHWWVajWWp1o2Pz8YBiTz3fQJyg8lbi0FhMJQJEEHpE/HaF8RDJZTbCsMoxrHxUspM3IBGL3kFY86SGKjMCXfy/d8X1A8Da3AULviysBl60S8htDDxiDUPRtVAG9rn25NiIQjYYkh8W5sxCglB0zb32eucv6m5B4nfz24+bBdhNnB6kKYJdfdEu4eQ55WswFsC1jPHMNhoCdOrnL/nyq13Eg==",
+                "mac": "sfdREYZpLESlPfcYMBSzdQ=="
         },
         "database.json/lore/colony-federation/title": {
-                "ciphertext": "prq/ioSenGmQEorfaNaD4tZ8lE/tOxH3wTGA4QIW/Bc=",
-                "mac": "U4aKeEUpoPFTuFRYKbpqbg=="
+                "ciphertext": "dhitVvtzTTxheOnuLjZbzgN9752fI9esyF7UCTz8yak=",
+                "mac": "164nr/kNdvgjaNBzf+ZDOQ=="
+        },
+        "database.json/lore/com-tech/content/page-01-01/content": {
+                "ciphertext": "2a7sd2zhkzmdoCWwQrkP1NQOq4bXlhEqJPiGkfSUZWkqqMIpioAJynWI3p95E2bbqpUKFKzM1ERZY+cvr/TAKTIrjDrHLMPr4lVdqSkvgbWuS1p+SghpYBJxPaPKy1jZIsexKLHY9gpE5rRIH09vD9XwGdXfrSKAbiJ22VPhr49QKQBfvoLiuw2J2iut9qzgWjAyUpaIplOYnhBknuCqeC4JaqW0TvXvn+RsFIEDiOpW3icfYqpItvnLDTEREb38ZIXLe5wD4y8heBSqTSZhchZYz7OFo8YCVm5QCGlC0oh0H60P1qFZa9ZwAHIVOwXaBQ/PavnH4SKqRQjzw86NsXCwRCjpMhxRqZOarz1DCsqcJy1ybO8i5xfFidWSMBwejVTi2arECEWBV8PbLh5GnaQx3M/N6Yiyd/iGQAZEErt37CMxJlguqHow7MyrsZDR/F4J9E27Es8gDTl0RxHZ/KDs9irLs2ZLUYfe2il1t8vTMRrqfqHcoNauXhupYYLozRQQVUPdHbzD3ZFlOti90DHH3yow/Bkg0JtP5b8EAkLrx3A/hu17n46b1OLUnALXkYGncc7hF4tCqm5N/2oyEMQqmd5xfBAqidmBKUV75wc=",
+                "mac": "oZmxWU7wPrSA95xfjIMFNg=="
+        },
+        "database.json/lore/com-tech/content/page-01-02/content": {
+                "ciphertext": "6aOzoOgO6JDByVAR2+NbodfJxCc89OIlSCjcGJauk6zk/sC7iD0Z2aogv67UUWMqMJmixYT6YW0D9cu8JFx8SJijhguojdeRSniWrWZTUbitgfvFhVzwxazLIewi94RHyALicvBGwz/0np7mo9JHgruYvpmDzPy00oktZrV/5jYDSZ6eAkkkT44GsBR8GMndnxR3Bq26MhYygqtPuSlg/jvnUnMfcHI3q1FgcAlcTHCE0oCAI4/OZF3lKQYnWqq6",
+                "mac": "KjCwzPb45xcS4u/Tmkrk8g=="
         },
         "database.json/lore/com-tech/title": {
                 "ciphertext": "/CPB3LwP5xwrAeky/Oqn6DhioHdZ+zSteq4IlURVwa8=",
@@ -11600,17 +11632,41 @@
                 "ciphertext": "AmVXi8Y2qPHRQPPBzRtXzQ==",
                 "mac": "GbmTePI24dX0Nlwdfilq9g=="
         },
+        "database.json/lore/cross-code-2/content/page-01/content": {
+                "ciphertext": "ptrVVfKAMMKqasglAh/X5bj0wV91cdjfPfh/Oepr8qI6zHCESsYmYxR+kG9VEdKxFoOOH1t2BjGm6/cyKPMpMaHFyqKuXxGB9HyTY7kQfGrPoGngS6kpTPSRWB1CBCiy1ICK3K3F1+9LSTB1ioYFz2o7QRU8xlADVIyjGyX5w7QL9VwZtdBuZJr/LUHoACc0aXUZ1nU/d1bpvXjPzYUWTg==",
+                "mac": "/t4/YjNDWB0w9ZE5BdjMrQ=="
+        },
         "database.json/lore/cross-code-2/title": {
                 "ciphertext": "PKHDw7QSghqFdVbGQEkcWQ==",
                 "mac": "wdgxpcrBTbTMQ8ho7B9BmQ=="
+        },
+        "database.json/lore/cross-code/content/page-01/content": {
+                "ciphertext": "yB2jkNl80AIZkVB+e3K5zeN4SK5vvqQ0DZGyrHbtJcrtFPH0T9a59oVi5eIiUlMnBk/o+RGzXVMtobNxXXYhjKLgRptHquSoQmAcS6H+kncbh7soX2Rtateq7Tq6xkoUgun/z5Ge8QmbpQGKvpR3CZDRITIN4io3mcPIhhFRqYsTNch1naNORZuHJDUFRk0HckwU5Ojv2MbN3lexP0hNwW2Dq+dzWCJakSvM8t4TWhPYSENpy42w+2Qgp1M/o77Wr0eEcbM0LZo+qb9fO0Rc0tFcdxb3LOwXTQFfd437YKDsHvLNkMA22KRvcBYY+Kzil3Mfkb2d6kXqLfopKvN+yWhf7UFfARHr2o5CP42m0llLsVMCtBFHCaSu1VdGRHWK",
+                "mac": "JCrQToWxoukoJFV0QOi9Tw=="
+        },
+        "database.json/lore/cross-code/content/page-02/content": {
+                "ciphertext": "3DOEOUPyrKqFsuIINRwEKtRb4rrHAaHqi4sleCzLZLFp+Zbsfm+z6En6DAPo6+LSGFyQcziafd8j55bs9E6nfNKvgLLJ//fOeU9vuoVkdxS+di2WL5C8PkucSILZaGTG0iEE4z/vxfCsAW2EcbBns10gy2REQPj9uV/UJGHMS9LezP0ZCiCemZz0uNgRQAH2Slc6YI4sNxEjRKEEmKWMvzRjEm7QIQ/bYHsYj9i8zSsVc8BORPuLORncFm0Cj75wFQP1d1lFhr735hcmBwnx8Yp3xeo2CZ5fct+WVEqoWpgzoulXasJqTrqYAcVTnbaC7jYolvRjzT21DbTIbT1EV0/CDfHJB6Bm5xa8kaaPm/y+RyI0i60YqQLo7SGJt8HwCKfmm/+WXYNEtPBnJ6vA3iPsM2K9ToraBGAfXvY7iEHQVbMQrc8GzYjjxENlEFnXai/ytGl7r648R88wZhOvcXpOJV/g/63qgcvh4nMXbHNsCLf0iRAyeLKqcvFdSw6kC02MLhmgvcgcbFyvD4U/ruMCEiznkoMwG5FfCKkE8ddfKICk5OW4zri5Fd2789agjkejgwKiA6vgp9nsv4c55Hkkb/Af8kBMZHZEjb9GxEU=",
+                "mac": "iZ9gknJpAO19p5RouI0EFg=="
         },
         "database.json/lore/cross-code/title": {
                 "ciphertext": "Ho01ob+UpfMAZeDIGtA23g==",
                 "mac": "LXKYU3EFT9QitBonNMBRTQ=="
         },
+        "database.json/lore/cross-gear/content/page-01-01/content": {
+                "ciphertext": "gbYMWCSCxsZFHIZ5xrK8c5U4LjYJSQzbUTboM5OIS3ahw/x04Tx4tJqhl62UWmGMUZsRUUIR1o4bfexQLHUR4YWi3Z8PiFIibBz2JXxnlP/DvhWcFitny5Lc3ql7NuhX2ia4u8pRmTMa88KPHDd7qkrnPRE53s4AHJiDQpew1q1M9fqNnGjJLKo+k8HHXTOgF0nO0zjQca5vTZnRY3i0Iz+IOi7cTubqsax2rzGeKMZ7uzAUbrzlvybbY+urfbOalQ+QrM0aWQYTQRV7ZXCH0+Mkk9U2OQ4rZRCpB+ZyCEX0hRo/DJd3RmhAVYaxXuwpXcWu7C6kMSBxWLGq4wCaCVek+8vaSnvYB5bwbWTi5wZRVFzpn2tn8BtqNNeO6kLNSGw9pmBuGp866AUbW1k2kA1eSRgwAPvaw4zpMO+/xp60qfDEGA9sUCoEb6Ne+gJ4haOusy91mzfLh2uFcUbO/nDlNtQf7lle7+rNnOgJ4HltQeqecVCTZXB494Y8BZsXsP2WJlqPmevChy610TBHM3mK7n74fvrudKSYT6p6pqOmnMwBQyU19oh4uA8G6VqbnPid5ioxf+/1il/C2nhhP52Iac5QJqxHyW4OEhT15LNKe6V8y7SY9t+dYGQ2z6pnqNk23fFBD5Ia/DjQ0d/lwcDZTt5tveg9UJ8SVz2HLtMfCLKFjZFCSEDz6q7WJk2WCo2ykgfXZ6q52xfc01Ensg3cMLdkkY/ozW/Dh+IxCM3dlkaSE9owmGgZ5ff47eTgZrLUSHqZ8Kws4StpKN8mMMaD7S2PjYDDUiGz1SJ0zx4uKwasN9dA777z8gZIIHUgLnhLVkIv3409uwVs3DlNuIMkAzfZywjw0rPNcM1woHmaaSII7b2g/0UHq8cMPVtOnzLvB4Z7rxI1K7cqSCKNEA==",
+                "mac": "OjIzz7IpvBrAInnjPiPFTA=="
+        },
         "database.json/lore/cross-gear/title": {
                 "ciphertext": "Uc4hOpC70JbxauoKn3PINQ==",
                 "mac": "z2YcQczljZGdMBiZzKjavw=="
+        },
+        "database.json/lore/cross-worlds/content/page-01-01/content": {
+                "ciphertext": "MTD9a+NX63I9Ut5Id4ifmRB4PI8fHn5gniWN4sRbrwJdbFQE3xW+F8gUiSA4z0ngb3TD1KYlG5dvAw24RX9HRgteEeyfs5F0EzzMY+fbmJMLSnGI4MzoU/H/iwA5PS/vBxis+FKCm93Ejxd4Vf3FKxDA2XniJQRu8tB/374U6DkxLVRE1BrQLJneLJOaaNLfLARG0IZhwVE88kEybKiKsvnOmrQwgyWOr9OQxxepbDns4iO9XTOJifbqHYW8YpGIVaIXsMTL1odoLPkPOodlGdAiLCpWzOvjHItsr9ktkRuPa2p+vIQpG0ib7oher4kW2LEO0a87gA+JBtlz98L+MkBlaNgBXGkUMYRisTLPvhMafG6eOWZlDw1lvsMeFctgMNnc1rvtRUF3clmvP9Xb9w36sv5S0yOi07WDj59Tnr3ff+vwS+9cOSjLQR+rQXsKCFZjiCy4SzJA4HHw+YlrEBUBLb2GoVpfqvHMxhrh8DBr7oLlxWNquXrgqOXHsZBF",
+                "mac": "WAC7F/U/su44eUhD87xooA=="
+        },
+        "database.json/lore/cross-worlds/content/page-01-02/content": {
+                "ciphertext": "0AQoPoKDWfqgvxM45UyjulwVb+Lh8apXyJAuTDRIjXC9bYbgCVj5eGuKlgvk+tbFwLlBNRqvCJKuKJ+PkTBBfL0aiXDMKRbFEInXnuYBGMxWMh4LEcBf1wloQe+LOPcgPJTgeJN2EN2EWpB+M6dMNJBOcMeHfKuVGA/q/OaKbccCqJjtaxRS56+BlTmFDl7CZSfNsIJkGy5EOJA+0hapa1s4rcfv5TTGkGZQ7NmHI4Hi9CmmRGsiOPtgpWz+ZnzcWUGe/7jVEd++dF6dCaJS6FhWp41yIdZ+jobz4PCl01fQm5STbPeGVT3mIBvpRnvN+lYBuI3Pbd4fhDGFRTAVlrgIC5o8V7O/MZk7TbBDU3GqlCS7nMU4+GYLIPZyhLVjUj0iQopd/aqSu25GoVwuqx+7C98TiFy3/RmQFH+dvasYGebUiFng1x2D892M1LNi",
+                "mac": "fgAYf8qqV/GZd4D63thttg=="
         },
         "database.json/lore/cross-worlds/title": {
                 "ciphertext": "NDbf3sl5CMAn7hO+1c2l1g==",
@@ -11624,6 +11680,10 @@
                 "ciphertext": "QtXhmb4qbGBX3doh94/9Pw==",
                 "mac": "4StOShxqLNzi8nPYqj6QCQ=="
         },
+        "database.json/lore/dev-company/content/page-01-01/content": {
+                "ciphertext": "zheqT8vRn9LShsdH7RV1bN/GZAfHY0BTP9DDYoWMJ/V6Saex2BUkW5VamAwu29i/+QsJ2rwpb4+Ji+2ZIuCurNN9Tf27bCkhogD7HrY/oJInZVFSPp7i/iBZfws/ICWH54XvocoG28a8EWflta77Pdr9Fnvo7zJK8U1+lrLrx+VHqSb9TG2qVGJjRkHSzGzesDUtd2smelTUhkV8NjUP9ydcGWznL3QvUOloZFMoOrWDaoZk29xKFEu906+TXoDG19dL2O5vggq9lZj9m5ZjxW/52jLmHlfZqXG1LKQMrye2c/6dm+JJqxWsS8O0LDYcFn/q0NE5mxCJEKOuyELFvkrNp5JoZVTtrJYvx6M9zcPHM5PHWVK2r2pxZ3M2aFxbSlWaTUz2k333vQPDE3AIBlyxonjEArL+bTCN+5PHxsRRadtbvhy6vhvEeW5i/nAF",
+                "mac": "YLouQC4mzsTX+dfeipgV7g=="
+        },
         "database.json/lore/dev-company/title": {
                 "ciphertext": "Rx4M9s6oRrbpofxr3vffz5DP5c284rkCxR+oiiv/6MU=",
                 "mac": "QpA3eSIbv/Ye1QxYudg6ZQ=="
@@ -11631,6 +11691,14 @@
         "database.json/lore/direct-link/alternative": {
                 "ciphertext": "lLD5AZyUMzrXivsJMOGt1A==",
                 "mac": "b2I7uWpVHlDJyUnU1LUcMg=="
+        },
+        "database.json/lore/direct-link/content/p1/content": {
+                "ciphertext": "4tUhwbDbWnyBNk/RMiBtBumUq7PDk9PozAYEuEnoN+Q4ANKpcY8mYGcdAcXVdhIh0fhbffsD4qxVUQF3Vu3j34PYmaPgvLWDRL82blYXccIc1t4ZGhJ80EQQvZleqoEzaI/Sk3+xLR98YxRcAnR3vPN1Q4vt0uPQa2EhFEC7CN7xGWF8MIwN9pwUf1E92nGWnQGQBKKmVGwGUreSCbHI+sTgNqTAtM3wJv39YFl9gSeG+aolU/6s47oZCDOgz37mBazX+tV3CME3iFWrZXRGkW5P4nAbQlt4or+AGF79NBzbo/LEKXp+jIegVQ09ySmMItXoJUiaplreSL6LwVOz2R8dEH7I4NxgBYzZY43nBQjfWat6uUepmXSsmPbVEgjRa4smzj5Up8ybtRJiad7rSwFvfWd9Td1Z70czQHXE66E86OvldOWwDtvMKWWaTE6w0/f3W8YD2hnV2Bk/26h/92lcXu9VM72VscXIm4HqIHapA3M05CMT+L4G0Uh22a9zypNVuNkdQdyWs0uoy+K4JV+cmdPsD67HGvWAcYejSJKIcirD823PQ6FdcGLkVIZWSqM70edtlv7ti1Ttai3bcL1dTp3Ph/CFNbTHW3vDoykHGvREWI8F8xw1XAg5wI4ifmQUOT356ya92oIX0i8aLA==",
+                "mac": "GETym90vD47mSmqirJIw3A=="
+        },
+        "database.json/lore/direct-link/content/p2/content": {
+                "ciphertext": "fnwNo+42I7WrxuyAPs6MhL7yNYUBWv9NGxf46MRv43nFiwm1tOW433Y0t8shMaMC4MzN5XrpWRzODYN+tqpCYmHY5uNqDA7w4atcBizxhvJRo3IKWqnykhtRplofNRI9JyciHW8OG/WhjWGA+f0G11xyQb0HVtOI+Wp/+xncEziuoNTh8cA3YE1Wl41whAv37Gd+tXfXvtU+KPBQEBgO2TlX0e1izWTTpyyEsIi5hZbOvnDkSNLDDisAcCPfJMti3iSlw2QKgn3+AzGN2KOmMKlxRT01VroQso0FzgOXf3CvPLnwef+xos+j6U6QP8YYYbg0VTmNOkGr6vLttlLn1EZgYuPjfVuGJnZq11y5YcuMbwgciqACO4md7MmVh1a6Jyy5FDQJceWG8ttAoaK0n9jYNl8Z2h301YfsMXmD90x5TBu4RSnbQmFWA0VaTywkcKgezzA1ynNzywFoSieU1Q==",
+                "mac": "XjdlWORE55221UMDVCk3sg=="
         },
         "database.json/lore/direct-link/title": {
                 "ciphertext": "uOWATbWWt78E3K8Xn+MIvg==",
@@ -11644,70 +11712,239 @@
                 "ciphertext": "7qx0cdYBCiyDvw6WCJ4uGw==",
                 "mac": "HEy9X3FxojcSNw/gV72ZdQ=="
         },
+        "database.json/lore/evotar/content/page-01/content": {
+                "ciphertext": "N1nLEG4A4YnEOcarOEccrxhIg8ZIpN+RbNR3S7AADKik5wNMMgYD7eBlcjwEmTFN+xrf9Uo1uJjmhM08ppFEAvgbxa0PGfzHU/zSMGUAE93IloKwFbm3fVjOVxgMc9RNrDEu9rdGm9sLmY5CJkDCPBhcX/Iv+cYZqKtxbaMDiBUinoYYzNPD0YnoQfaam0q91PFjoZS3JCGIaEW0KIPGPi69l+vdE9xp4JOKGnnrG/2SHrEHqv6Syl99J9gABduEKCPxx8n8ATeCwrCDClLitmvMqXbpzCaF3tgh4zCPrbe+1pXMIHJvwpndvTBOuKNfagnvKca4eS2NHQP2nYSuFTUxqvG268MUPL7GG52C2/fOaKUBAkWb2shMka2zrWZgX+nnk/HPE2IZIlR6S2VM+GtgP/oSHgDtbm406PveZjxTPIgpPdIe4ZC1kAPO6GFar+v7jNb9JeHfbIBMmQMFewj+kjA+XgecJFCvGsCoq3Ftzw7k9T/lFTaeBFKKNQkr5kFFTPBzq8p8kG8kyIaPXWjvKZUHtxNo7KN8b5PyvKVdGSj6iV1hfH2A7zM+nuqQFkYtMzSx9Zl/AD4Vvxu7Dfd18sD8tKH13RY5OIneXx/d6xsb3gZzrgNHSEwmPsC5vY9iB/LJ5ramkLGFhZ71Hg==",
+                "mac": "oaOwS+4bVF1s+jFbYIRq2w=="
+        },
         "database.json/lore/evotar/title": {
                 "ciphertext": "AnMgIhQYR7P0y9MUNvjppw==",
                 "mac": "v07pW3Rryz7UqtLyAGqtoA=="
         },
+        "database.json/lore/faction-cold-baki/content/page-01-01/content": {
+                "ciphertext": "6OHpu9BhTNPCRm2DojsuFbFLi3AyDFhH48Ta6nCXQbZIGVombjMQEzrIJGhScBcce50ACTB6rumruNQn8ceDfU2CrUuPUDq9QSi6TyZgNPB0mXKYoXE63bYA5mZLcSjWsmgJg36LBjssendBQkOY3t5YiZQTPz7x7BiA1i0j7cyTjBjKMs5Kx22H2jGP8fAVCWiP9taJBTByVlsa65CTlDNnjzRJwBB/3BXECD3hRc7VI9C9HbPOxILp89NvYCxPXo4vbH9rpU20uObWCnqFQT6KbI4vEBjtlABm/0MiKuUKO6G7aLTJ4M0Oocus59eEtK7iiNg6dcDaP7RiE8/mDrqDc4tw3v5b7a/gq0npoDpzF/Rxc4clrAkTYZWdT5Fy7fNENCL2kwF1YtWK3cksBQZv63h1JgVD380Q2fSdKUrg57xN5YhawBYhKUwVsHPR2FIWA7nWe90OajE+ylctn6OjBWiRBZVxE0Wt4I9I6AkMmE7Ui5DIUkmJLqpfOpdOx9OGX700R9ooivyr6SLmWJXfzZCrsPdALRHS8gZgcxDFLriakZurqPxHRFFF8BePDy0KJeCn+vNtlEqyK6asjA==",
+                "mac": "r6O3WKvcYNYnnDKJs68F8A=="
+        },
+        "database.json/lore/faction-cold-baki/content/page-01-02/content": {
+                "ciphertext": "RRB9FiKMLU7uQwy4pzofL4tGUIa1ugRsQ5fpQVMU+NnM6dWHpD7RijzNyla5TyJE3P0+GpOAk/Cvc94keMCiBVjww7RaTEItmLhYKbObSPlJCkqCVJ0Z/XcQE7P11hOOxRMd+J8kEqvIXeU5B/2hs5KBlmWLz6dA+TLke3PGIJtGvYCj1rzYLftCxLdJCks/SWCet5YKvVH91q2163eRAYSWD5evxmvKyoJImjWx49o=",
+                "mac": "bb8XcEuYjZvI4vhmv9mwog=="
+        },
         "database.json/lore/faction-cold-baki/title": {
                 "ciphertext": "aXnMsZrrI8tlUZ3cENvkLqkBi3Q0Vfzr2BawEvs9JpM=",
-                "mac": "vBjhcOVo7IdS8ds4c/j3Og=="
+                "mac": "vBjhcOVo7IdS8ds4c/j3Og==",
+                "ciphernote": "5thLyR6VI+LSF4yKvqNfFKfNt9codQvPZLpxE3Rwz+Csp8ocaJJXn5aE/KKq6ZEYNzb9IuUzgKvCK270ppHO5N1U+wCs7HHtMrDcuPmB5Y/KuxvS+INr99h51Us17ucjSBbAD0F4gcwh4PFW9WN3fQ=="
+        },
+        "database.json/lore/faction-cold-bergen/content/page-01-01/content": {
+                "ciphertext": "KQWKQAVep5b4dcpasbAZXYgp5FHWOceV0cyhaUN5zc/VC/6K8qZRWso0sawUpclOkEtHbV4gjMqWDkgH+d1s5acBEm7ykOrCRLtFnx5FBdyeSeTplLs1kVDDqeoDK3OPoG0LXBzdilGO0ZUC4l6UzpIBxc9DneOapQ/tNBMy81Y8dqTS4jxWwQF5CMOR7AocpTq7rVXJNuxuGUnZeBufei7PQoWUCRZPoDc7Fmj8p02CRkknaCRfsDTtRkjBqBrkqzZ8RkeDwxfqmE8NDb7Lvy1Q+yipFxGI5CBTvBtpGx4sav7LrHi0k1ruW3458JeVaktBDFXp8EB6PpCiGe8RCHhodSCNDhdVy7KjkK5bLJgIIXRXT1em5hIHIPhkju1Sap5cvw6XGDwX8053mk8AwZupVvJrj66ZsGkOnRqucD0Tkxcil9NeyVY3r2xle3KKJtEQLJt5oA9tX7S8uPZxjunm8KYH8fA2Kquolb0PqV0G/RpGWXwRPHO9pW4CV9l7Ulc9SQxutjMooE4WiqXkwU5ma6WK3semdJjnPyvQ4RNPDufRFtc7PWOOE+f9ySxwxHFLjxFrdEg7cQ1RR8IVHQ==",
+                "mac": "yq3LThNlkaA444bVfQWcdw=="
+        },
+        "database.json/lore/faction-cold-bergen/content/page-01-02/content": {
+                "ciphertext": "eZtJtwiVzE8zgV9r8X3HmYlpMPHZ010Efk05V4vmANbAZ49X1vVpBk5TcdStvHM9uoCpP2oYABtU/d/uL22Mo9UtqgTP5FhODISNTKvUDag=",
+                "mac": "XNxUb+Lz7WEykls1lmpHOQ=="
         },
         "database.json/lore/faction-cold-bergen/title": {
                 "ciphertext": "d2ohsxnvMreDmdMfvve9wg==",
                 "mac": "168T0Nr34GOwqEwq+RnNXA=="
         },
+        "database.json/lore/faction-cold-jungle/content/page-01-01/content": {
+                "ciphertext": "FjQct9dgxK1HVGgMDQyYHi/3MG+mvYs17wURho3gE8mX5NqOZmOb4K00JhM7wFeSL+PItNzeQ8c40qSyyV/7BkeTvx6nfNy3bI/PwGf2SuQDXkYVK8Nk2OMXwuvDkLCJcA3EtIgI0JDbxbxoKoiMtPkQwtowZc2mvDu3pm7r3DvG/H1GBBxnXBj8E2tFzA6M52/N7a6jtCyTi5Lc4sDivGozDj7C26mBhGDV4l4Vf+cugHleAHgBwyUSnDu65ekGmvffg6GTYSDOKWBJPHnGiRVBOm1tymC1oKCIUHOGNylNsLSng5F2A6VNdpF9M8BCq4LgFIx+k0nh7cIRp97k/emxjZ/vGfOEO6t9k4Vh6+nZKFl6NephTLSagz1ZzTGRjBrfsE5jZSJsbrhfux8i7TZkXQRhLi+HuyI11tHvjF/xM48gpcuZv0g15GxL0POBDkufCNkoSpPYXgTdQUHjhz/hukTfLvDS4yoytBNKq8+JJ3/inIxmeOJtyckkfa4+uWDP+I0WzQvlnVBbm5EapgXINrNEEVk/PkRuNzFl4MFHSgZPtzJlPf9xqA3prWen4/o4z5W9Qy7Xq/kIpesdJw==",
+                "mac": "gZN66jVogvQH03NAJfTCcA=="
+        },
+        "database.json/lore/faction-cold-jungle/content/page-01-02/content": {
+                "ciphertext": "A48dVJPy2HbO9b/QB35B4/e9nEj2ZHxiuVoFJGEnXdp6FiaH82TpAFrHus+HceOiCyaMWe3KlNFYidgdMdh3TAk4isjPUGuRYASXb070esQ=",
+                "mac": "P7LljWTYKnOyBn0uBB40ug=="
+        },
         "database.json/lore/faction-cold-jungle/title": {
                 "ciphertext": "etGQMHWC1ZoSx57PSPVOOa7xq0A/QtO7Pzg4UZ2dhow=",
                 "mac": "RtUByzi/88qgPcLSXeZzbw=="
+        },
+        "database.json/lore/faction-cold-main/content/page-01-01/content": {
+                "ciphertext": "YEgi+xq8o8x+/fheULFxsx3LuNPozHw/jWhB9XEakqyEyzioXKHzhTdAhUOuPRWse2yIQ+BwUAKddJxNgJ4CMvUv7r+t2RTW/zV2rrXxZfHtqJl7aiVh7o1UQYi69XgokjElHvLHJq86fFNZFe7vlnolNu95VLMfBhruAavEJoZOuwAQYNPgLMPo2e9xrBrurpveBgU8pi7C2xRB6HgaGflwT3YGRMCyMZcEgsjbEcA1E6InfBU0TzbFxisRmLqbtC1vOHPKmmTy/2ICoQBpvT7Wbf6eONg1d68me2brvhXNlZxcUm5lxN5mQD6QaY+eS8uwffDQcSlrpR9xjN1rM01vD+NHV7wEB5BXfbf0yR4lpgipVhG29ZzDfKndznRY6R/piVVzigZxg+w0wxaY0oGFj6r05jajRY8ypBrEeyclIk1YKoUUWX4vfpqQWnnMxhf0HWFj/Y3SVh/ESeAstQ==",
+                "mac": "gGFSCgU0yq32bonDmXx8hA=="
+        },
+        "database.json/lore/faction-cold-main/content/page-01-02/content": {
+                "ciphertext": "M5Cs+5uVGTHDk7TUiUJLM38lqZYeMmMJYgxXBdfF4tvGQI77mh+q7HG+FFmV9eLYWEQmr8SeVJzQk4QJHoCJDLpie1OE9yGe1CP6v3M+KJ6es9vJLlqcDn8mM7Gwoo6weCZM2zb5sIbol6vljEFluK8lsBbDDoe8UDpClDKXA4vE6/YH17KpjDzWv8iF2Wio",
+                "mac": "AD82D6rnggEbFbx9CMlshQ=="
+        },
+        "database.json/lore/faction-cold-main/content/page-01-03/content": {
+                "ciphertext": "hYwMdSCAF+mBkOtExu9oEt8y+u1KvOTL+8GkYWbmJbfPaogLuWKBHmFqINdGLsOi3RPLvgD8bNfYZPsn0ZwZh+dbI+ZJ3WRLREeJjahRjyix5npQkFo/a8pue/HNjyUj",
+                "mac": "2YNg6aXC1N1vZSHPP1yOmA=="
+        },
+        "database.json/lore/faction-cold-main/content/page-01-04/content": {
+                "ciphertext": "8bk6wlx5gt/LizptQlobxfjojVFp/xSmbPBxOuAP8UsYSxfANHVokdf6dDVaS5jEcOp5PUWfycpVysfudTL/QkxU5eJf03dlkFp6OJeKxz0Cr89u4KxZMyQBb2ZHAH9O",
+                "mac": "THGrLq/lQyFXOhKLhRtkaQ=="
+        },
+        "database.json/lore/faction-cold-main/content/page-01-05/content": {
+                "ciphertext": "+G/bbpcnCK4SAusL55195CL1w23hgkdw18SfWamN0R9Kb9IVkJBMwlz7EQXOpsXMgOou47AQjhYoQUkAbLPfLSZMGFOTb8FWCOz24rPw5l0DNUa/5ehNNUJbSS9uz+Wk",
+                "mac": "F6y7ZY1EkCqyvFrc/AQ0fQ=="
         },
         "database.json/lore/faction-cold-main/title": {
                 "ciphertext": "uXsZvdNpzGJCJWGKBYieNJh9BxUpKDAg21JYp6URAbEBWPazavt4dw8b8CGWq5pp",
                 "mac": "e0TClOpKmxMcVIEVkjKmMQ=="
         },
+        "database.json/lore/faction-cold-rookieharbor/content/page-01-01/content": {
+                "ciphertext": "mYH5FJ51ZLOIfb6Z2aU33Jc3oyPmlsSUjhUX05m0/ey9omOJSYeso517L8tcUTj/wCuGcfflW7Le8/SlLuxKkoStKdrezTS7UxWtBoxHZZnLWsiyGBXr7ycgX1tK4BGpIsnn7zsc2bfytMdElHiabHgRS81YeNYImbeRRDGUL+xJaAYHKrU/5crqJksgZmv5YkMfYty+vLN70nD+EMDAQgsg6c6SUKNYILgjWun6RdwgNgfXtL8lf6S+GJn8yhWmB2XFY2iI2DH3jGtmBNeWGSyRQERdxkG6HH/zfpA/pRgafNy8Jzl/DIFJzU1WKyxirp9otJwGtpo8kHtux6gFzLTOMtqX99yYdYXZXSACU3BF/CXxQsVDBolauIqahFcc/x1j//ylJLjKCMdYLTTS9+dUv752CwjT7STnaKtfEJ8aynKCUm4GMX8NVtdioIKC3ifmh09i2Ck3U4V1dpHGVWOmEMVEejUwTxoshuGXqW7SHlgVH6Mj4bThM02PIUsiLdmUN667/tJbxLZiSUU9akA2knq6eO/mkZKpT5QrhJVep7p79pUFC4rxlWVydMvB4njFmZQi+PRIb4BfGVU3W2j75vW+oEXzJut6Y4Teb+E=",
+                "mac": "Ys5zO7j3CmIcMMbiHGUiGA=="
+        },
+        "database.json/lore/faction-cold-rookieharbor/content/page-01-02/content": {
+                "ciphertext": "nWJgTr8PNFxooLJXnmixn7YbZpfHYIl7BIUp4pNui2bs9FwWE7VovgxVekzx5gaS5Mmv5ySa5uV4j6QtNTlUqr+n6RnShBVNTXFFIJhoa6Q=",
+                "mac": "Ct7QD7pnab0NVyi/x6G0xg=="
+        },
         "database.json/lore/faction-cold-rookieharbor/title": {
                 "ciphertext": "Ek/dGKkC5dxM9ZJModBQSw==",
                 "mac": "nGJMmDlPIPR3Vlq6alMh4g=="
+        },
+        "database.json/lore/faction-heat-baki/content/page-01-01/content": {
+                "ciphertext": "MCWaJwre77cadul5nsx8ZxIlS5CdATHpzARCz4LYwFMhHDq4or1ecfwtO/hKGUKRbFJ1CKABQ0fKsSD9f98vorYImt0U+CUP+PqHNXy6Pyv54lE5CnLNj0GbEI24mseSr+avYe23Y/JSlthIQPykS9EeDho6ARGFXIJwmtrhefA6yixQhR9VDDiyVYMYCrWBQUGPd4H7ueYBG96ZBQ/UgnYmHBCBmRvJaZM0xuaXP1GOGPyns/AtsfQVRagRZwNkpx/+87NAPZEbrk9BASyOpXLzjFRr2OG77Mls/6yhkyBVPVI5+kYLEoc07vowRa45XDz+eJnY8VhzkBjvtGph7HWg1sNohDiVP8RRPbbkBXIQN7TrHp5yyUVNGmDGyQXcrlUkc4SbzJgrXcVYW7CYWg==",
+                "mac": "ycO03WhytUg2RyThEG+d3w=="
+        },
+        "database.json/lore/faction-heat-baki/content/page-01-02/content": {
+                "ciphertext": "+tYAH0hmWGxkNztaiEBQCxcngz87CllphhmRmvRTAoTKNHz+/EW8pYUPtipJx11ip5Xxqwwat67jFCx2XlGQWyC6pRsCwl1oZz2PY97Pyy1qLlGhlPivCyV+ZRbh3uOGySK2cUXyY0+bgvhQ//EcM21KVHHRjvBWxlGASTQRMT1jwwFD6RUgQAoELXgAx9zmQwlALA/l7tQ900CB52G9EWO5zUbMuFe8cIFZKaWk4xCvRiW+i04N4tiMy0UpC3XO",
+                "mac": "j9cq51i0sNr07R1HUMxYlA=="
         },
         "database.json/lore/faction-heat-baki/title": {
                 "ciphertext": "PcXXn+WTzkNpOTvz5VIvsQ==",
                 "mac": "v5AZC8bT6tYB3fDjUOW9NA=="
         },
+        "database.json/lore/faction-heat-bergen/content/page-01-01/content": {
+                "ciphertext": "JUnjg2MC58IIS8g7BTknSuTG6inELlctTaOIEz2vun8SFMFJBGeUD/leIldd6NH+vanogtR7oEKXXfTfrbMk9/K/dCxn8X4s+KFu9A7nyDDVAOMaZrwgRREbFcD+xIDrfjKa6IBDNNkzBGz19PugXbYSdoPto+5I/MxNoDD3MBeq43mKEm4Q8p0dLK8Gcdzk+BvkZHu3kJBpcTY1oBwB8hjAERMwGmB7dj0h1ITLA/0UU6zo2NIaLJMN5DohgmDXv2ZtRuHgBR+GsLQbAt+8z8rBdx8b6Y9ZUn5wST+5rNjKZ24sHnc2LkYNfH+xIz4CzNF4G5ZLUzuXaMxDg+KAGQ9j4iMe9I206Pzw0vf0mKhDb14WX55SHuXP8BsIR06Q2wenfXJmUQggxI5QLAwMk/l6J8ii8QtuDN9MD2WW5dM=",
+                "mac": "AAvpfKulaQGH4wFbkeSUXQ=="
+        },
+        "database.json/lore/faction-heat-bergen/content/page-01-02/content": {
+                "ciphertext": "44zrGakaW6wCAqWdUZuEF1WOgzb6swb54W7kdUb82Myps63G0bar0ZHdBZmwx1kRovBCdF5q2LqJWLp0tTdLif2yDeq2EdGopwQrF/F6wEtfZGa/qlkRy2VDqQKqxiMidiFN1FYQgaMII9+enON/F6i2zzh0fCnBwDF8UaCYfc0=",
+                "mac": "EpjStBWfzXsZ3dDKnl+1Xw=="
+        },
         "database.json/lore/faction-heat-bergen/title": {
                 "ciphertext": "I+jvhWkCtX99IXuxD7V26m2SNfuCp4cN+P395YStKwg=",
                 "mac": "J/tOBiqSYBa+am3+TCMN0w=="
         },
+        "database.json/lore/faction-heat-jungle/content/page-01-01/content": {
+                "ciphertext": "Xsm+4is1MbhXg2F5dzDvq8aZfzoqXB+qXHhw1xvWo0vGPwl6oSEi5Vcs7rlWgNOSLdrCUgqHYcHY/bOjAXyhWsQQgB5Za5A2aevLJ8myuviJG5Byl2huSPMX/TYLWpxVIve7MeiGGfVpLtQxObZ8GKSNQB6YOhHQ/WE7VJNKakL2QZbMFguV8ixw+RCBZZc2srOHqDX7pf9usRiWWfIDdBtnedV63oMILIgZJ9zo6D5apTOCEBBUBUI8tdGwmZ9IRM9pRRtH2E6KH5RCTeft7dmQPKosA9pO8qaW+OOXrQAGp38mC59UA0EkFUFNaQZa1b6SuMXbWnWTrvBM8yyyIDf80EAXGJOHlnPiZZQxe3sPA02pye/MpGnNADgs8pXsKhL0IUYLrd/K63iM6oAUKbW4C8QItVo64oo2ZSgOAI+auRqn0OcwH+H5dR1Uz1qowoEep1UX2zXWEfa1sjoKiRBvDV8DEUv2YcScH629LLZRgA6m7VcP3VRtM/vU0PSBzk0QbfcpmbPeRLdY1iPpxE1xG2+kdHE5DxxfZX8gOpio4+0z+uM8LOE+8Q4TxeA3Txjh1i6uIoLveCfN22EReZA/HquJZ5iwEBlhlqr6VBRUJMRf4OOhW0Gh6rZTMgHj3NGWdQPtJBcTQf9s6fYotFLd34uhRAsayxkg5SMQa3lcdJ8Saep5tTlg5zSxrQlhfwbltMzscpEYjFlm3cz6gA==",
+                "mac": "ppeqcOD7BE9xbydgq8ZQcg=="
+        },
+        "database.json/lore/faction-heat-jungle/content/page-01-02/content": {
+                "ciphertext": "tf77O+6Ns1OYm1LcI1c/xFZsbuel+IjeCBdfLvpYoREke0ydDmuS+UqU5Keis2zoesUdr1DJ/Lbk78FtRSza5vNJwkTCpi5yfXuRZ3yKNE953U54MrNjqqcrllOFw/jhAw8qDQyge47U9uB+ql590v2g4tv/tNwH4kMZpwEK1Yg=",
+                "mac": "fZCC1Im8A5r3ObcXzbu/fQ=="
+        },
         "database.json/lore/faction-heat-jungle/title": {
-                "ciphertext": "3/8O2TJfl062SUHJnXLO2y+nLmtD0Afu64LkaI4wNLk=",
-                "mac": "UPh2ZsOiF7BwRiarxgE28A=="
+                "ciphertext": "H6Lk59cj2DgH/6jxa9scOfjZimOb7XUsiOWju3/kNIk=",
+                "mac": "D8lyzR18HxDOR9SASqxyeQ=="
+        },
+        "database.json/lore/faction-heat-main/content/page-01-01/content": {
+                "ciphertext": "saADvvNd5Gz3fpVqEtyuBSUQ7zzPU1LGrQmmZEaS26flUA8QWY2r+xJ3inCDWzuraWylMn/WJFMWogVjWxVEZSA7g7tjUSmNf0G0O+PMw/ZcM/VCsVgNPB7JQIeUffi46+8ee1nZVv6+oMEwGqCzuitj+UGv2axJlsZtwOHdB3n56XfBcKBSqhkAStn/J2TNdcCN+S/rEsG5rp1bld8qx6waLT50PDTcBJUuhLSNMyZOM1y70XnFAMV82ZOMyoIvW9xUPoI6vZ1iAHvZHaG3OJ+QFO6861yXHKh7k3+M9ZFW0rmGkROJZQ/wO+9MWakhGupGFYWqo1FKezKUqRGtTYtlLderrOG13QgDeME/TUxteNihwyBzvKaiWnTI3RATnrtacUU3TO0SXut48dGbjytpZH5I+EZ12KQlCiJydnmMEl8+txEx3KJTz3rIElW+yVeYDyxnXuLMJF+vAeS//oUau0AN50Kfg/QoKXYMonE6qbMmScNJZXGlzwImqnqzTJfrDMGS7uD11jwP3LohJzjMzuYqMmUI9P3BF9OfkDk=",
+                "mac": "Tp1Eld+IYuYPPjTx3cZRjg=="
+        },
+        "database.json/lore/faction-heat-main/content/page-01-02/content": {
+                "ciphertext": "LnExarZW3qbhYVw27hOr70c4KWVxn7dDFf29iSjdNS9wfs/nb0RFSo0dCTVYif2EcbctDGPgMDvgZkbLxcTP75KkPAjVthPdJ4g+jV8qnlagHdufM0fhr3QSHy6caMeRNF1mPrdgg5hzynEw1xULfNOiJVFRE/rUloolnjh9BOx3GMyiDEqZ+Ai8PzEbC5hs",
+                "mac": "OGBlhRiUAQ57GZFNenqUjA=="
+        },
+        "database.json/lore/faction-heat-main/content/page-01-03/content": {
+                "ciphertext": "OoRgDZKPkVNtbeIkTBYKn78+t8xvXXIhiB+0o8x9UaTqNnWqlYLRTASnPeb6WTzxzBJ2icluxos9hFyck8Xkk1556NnV3UxV+VNa/sfnQx5lwJWYsqetTG0IYgeKd6LB",
+                "mac": "7M91CMA4UPWauuiBYr26cg=="
+        },
+        "database.json/lore/faction-heat-main/content/page-01-04/content": {
+                "ciphertext": "DNrTaBPqlNkp6gTSUjcO4p4QOOB78BjuyaYTZmG6nBfg1C9QPZXBuStYQZ68dq6fImQtSW8m2Y0Q/l0Nu2P8XwFEPvVueQ5Z0iOlQa6dt0DAPvW18X5++up0pkF7ohfq",
+                "mac": "U+YI16w7wAmXRDmlCBzQzg=="
+        },
+        "database.json/lore/faction-heat-main/content/page-01-05/content": {
+                "ciphertext": "SU8hqYaNv/m0kd6OaAKOFNOtWjOuEoGTk0ArT5CyngpRhPnmjQ/00+hnDkgkHSvpHSUni1XPtiTA6IIeztmkBzXW6mfscq18pJdZBQpJZBj1nHpAf9TbAMKr0UlUMLAm",
+                "mac": "KegJQKY/YqEyHL0aK23uaQ=="
         },
         "database.json/lore/faction-heat-main/title": {
                 "ciphertext": "OFNYmE7N3KHINjTsc2D3ZjBcFZan8OFMxguBnApNI6Y=",
                 "mac": "ZNt6MxxZxz6RaSpC1tnx3Q=="
+        },
+        "database.json/lore/faction-heat-rookieharbor/content/page-01-01/content": {
+                "ciphertext": "Iv2CNEs3H/0IXkUL9Z6K/wbZSyDk9lcaFyKUbHjWAXknX8Tu+kEF2zOS59MS/M9cmusjQXnf3Vb3Ck2aicu83Oi0gGGBRAkLIAS2vGxj1Q10DPYApTRGrtUsn4fh8SOKMIsm7WdWIdhHGUDmFOrx3kBsyufRzaI2wJ09L+Kv+8X2tCSxfv0EtprQOAuW/2jhXQosFZ8H9anoCKE4czS4jB0t3XeB+cF3/ZSR3U8f8VucQRwCYmVZJkoTnA7b/kbSRBcHzbNWsw+b5qRucw6T4PTTDDZEZQsqjl7uKtQZlpleu+oRM1ChGBP4BPTPWhwlchOR1MZ7fmQVbXoUzu+S9NDpYn4zo2ISNo8ergL5p9ErOZHKnCPsyWAsorQxjtklxM4lDTzYKPix/EBwAFiMgHX7FNJWA76Kgdu075qqmKDYgAvpwQdR1kTiX9vvYVaCv35fvbc1MJhW8/Dn+/eDO75lY9grjVNMnL3xkIlIlL42cN4KS1OKjMDLlUqkQkX2kAACSs9BmQq7djGTbEQaJsUsOYEkKVr4Sax+zILmlHz7dR2W8JhMIqApSglTfJWnMWdiv8zoZKKhbgwVwhIVd7HCq6qkgxclSlG9SYXPUWaEKma1fNsBS9ungwXmF0/s0HUyGmEc8EE6uDFWteWR5wai3Qy4DcQaHjehFJvbjMw=",
+                "mac": "n0Utqyyw+1FTh/cwIs+/iA=="
+        },
+        "database.json/lore/faction-heat-rookieharbor/content/page-01-02/content": {
+                "ciphertext": "HIqVTrPQNZUnz1xNFYr69xvqyNeUJ0h7k6/rt9UFJOYjeLgWuD+KlJv+fjqDez3I+dy/gtznoXxIWXyaE7klYBc19EcsN8+gBNwqdfatRxCcRfpBrJB72jwvXePW/9poPZkRZJTz1wYXzpNEIaRsWaU3EsGjrDeUDhc+DA9E2IEJAMPJYMXJDZiw9buKUMEPUOdmTBTAdOtF+ZLlSzemjUu9+jplwg51Ky3LR3FWBXfhXyDYhQqrY45W3v7a00yWEWTNVhYcc1WmlBQm1JRe1Oq75vio+W4lBQblnBRDCki0Rw3glY0EjBbc7n/hsgrLz74Bfxf7bR+272dLLe2TZjDFjz7OJ7d+BQ6fv/yd9VA=",
+                "mac": "XXpB3ruw5PCpGxdvGqzGVA=="
         },
         "database.json/lore/faction-heat-rookieharbor/title": {
                 "ciphertext": "C95jXoexoNU54T9UOoEH+2EJqxznIW4OgXHhSH4UClM=",
                 "mac": "oO6KjSsCoaoc2HNrKDiVNQ==",
                 "quality": "bad"
         },
+        "database.json/lore/faction-shock-baki/content/page-01-01/content": {
+                "ciphertext": "4aCg4DKNiVVZqkFK2kOJ0M1q8lKQnc1vcO2vQ+00fGR0P25bxaAzkQs7eugaRXPvOl6l/33c8OcucpTQn4ECo7oyPc4gVbN4L9RQjUCpDbX+OJFKyLODQoh8KaQa2bOkLPH+O4hrbAWG51BszwU5wTk1H47x98mCD2eof5xzwyl51VgzOvZmw80C6t82elzgXicIdhGrpX43pKtHC6/snCukfjH2LevFHvH3ayZHS1aOHxXQaJV51YqkAZEjsuEnlaiPyyEu/5SpnyFYnLl9uWJvJWhUZtr7LXnTOExXnQqhT81nrCnPSSKq5hG7VUp1Y3niaWimQXyGI0wO+JIZUXH3CxF2zqAiJXvf2CUm8Uf1Sb3LKYrOZXWwh2prcK4c",
+                "mac": "y7m0j1R3dPO5FLmGe+AfhQ=="
+        },
+        "database.json/lore/faction-shock-baki/content/page-01-02/content": {
+                "ciphertext": "c+kyBt8vp416Rcc0QRdhdqT7CI/H0jXJl8CXgJEjDO3ME22C5NdSyWY8S9Jw+nB5GJIjJqB6XIOjK05LelDnrzaFQnzl9PRyJKGwv2Pw1gWXfx5E4DH0jdN0Gj+PjuKC5h9JXb7RaBzGTCMLR+avns6Fg1ix6mZcXvtV+sAl+f0wVwD6iwIVcD2v8TbWNHgwHwKOvVCuezV27zvL2sZK6JMPexBLGVrUs+s/NrwWg7X4xaIOpEBal9xk7/lclcle4MWCDlWlAJf1072UchLunQ==",
+                "mac": "aXTjz2jiNqsoxSiDUC+SiA=="
+        },
         "database.json/lore/faction-shock-baki/title": {
                 "ciphertext": "lgPYfm8JbO3O8F9BECX/Urt4wAgKoDmVcXU3SM/Hd/s=",
                 "mac": "lHj7GHC+2iRW/YO2YFNp2g=="
+        },
+        "database.json/lore/faction-shock-bergen/content/page-01-01/content": {
+                "ciphertext": "ICA0Xdt/+IQju5+Ee/k0blSsUPLdXXMEEvKRQf4DKx4oto3AnbDS7ptHnxYT6Z6H4VdO/JUG+Z3vXrxHaaMoZ/tZehEuMHb/uB+JIGUJcc5mfB6DKUX9ESqmtoO6RhkOZLsSf9R8R3mhSIVxY1pkijTIq5amQ+NA2yOWO/CGGKsl7gaba7caUO23be1IZyLv/EkXPmypjv+kEe4Hu/5gncKRlT52OAOFm6NBoimCMHzbMr+jx3XSffBw4fWlEKZG+Cfde8ThF29F3KXqlX13QtuTb4KkK7CDg41/zN6bSvmnRH0RNY44YBBi6F1Oo+EMTERHMHRrytwW5xh4V0XdyMcMCe833B9jQhyz1CFvbbw=",
+                "mac": "kT7UykHYKRc6+xZ3oxn0ng=="
+        },
+        "database.json/lore/faction-shock-bergen/content/page-01-02/content": {
+                "ciphertext": "voh2wKIuR8i2YBQwpdln2O2bJh470qtfrjKqyyGIJWyU3xxWCfPSPg9mWdLgW5hgpfGXaa2E43B0IxMOTVVt9F6lNtCiztb4fERZVub/leXXks8RFMAlRZp6iua3GPCyX6ohrOOtVqqhMfeTXH8D1o2/VjxV+pV4aHUb+DJH4Plclgg83sK8wiVZr6PhQuzguBFkffZnMl9+iaW1lgVJHTY147C6EFbTD4QzAWBo+8Sc1qY2n6tX+3b0eHRwp0YZyoNKRWY302unVFoyG501EQc/lXRuw182g8kjLpBHYTQmZkIG9EGHDAcjcGW5Fv0nEOQHNQ5EIwvOD/rvkU4rhw==",
+                "mac": "YZNz8eLhMaYYtDn6zMfR+Q=="
         },
         "database.json/lore/faction-shock-bergen/title": {
                 "ciphertext": "knfVT5zISvhSdrzwa4JxgLmlnz7jQKtBlw89aedxdVhK7QqksR1D6CCRBYOxb9Rq",
                 "mac": "C8OAOaeJYAGTAEUUIZV0Sg=="
         },
+        "database.json/lore/faction-shock-jungle/content/page-01-01/content": {
+                "ciphertext": "8XwmzSluciw+Jtzj2Y6wo2Q3auMjs/AAL7ompg08AFwOjkRjc4ap4w8owRkpmTq3n8Y9jZg+mTtR1quE7mGX0r+JZZOUfE0W77KQNoliKAo0xVbNJxhBjGCh7U2yq47JAO+kqvOL3PW9RQ4QwioniwW/a07YX+aQvw+coEXLeMAdIt8EahhfSeAmiSrPsZhufSsO/D/F1ZUkXeVsSgGSyI3expXmsGZiSG35RBFdBS4S/52S9/c5SSvdVjmjC4oMvGWV/FctI7HbyRWGkyMPdXeivRECLbWRm2zBHQsKqnFal12bEL+zo5krl7zfhuoNsbm6Skg7lbbuAP/cZROCQDvQsQL2JQjbxuqik4mEDHbIJE5IABPPBG8turv13R2K",
+                "mac": "DHCLG60w6MYWNgCdU4tNbw=="
+        },
+        "database.json/lore/faction-shock-jungle/content/page-01-02/content": {
+                "ciphertext": "qTv7mE8qZlxNhi1PNPkGMvILkTlAHSIMCMg5B6v1N9qUewMb/rZsWZU3tTSuWBdiWxJJHaXvJatOZ1rhON4+szF5bZLwFfNqZYq7RtWnl24LSdtr1sBlwiYl424BQGoezFHjMkBIYxyeDOVF0q9n7uh9dg8PbvqF1cXHMQ1TFT4OytWeff032Zaq1raYb4KaWVRy+IZEULIf9pLgFzRdwTL+Kd7OcU3Y585bV961rJtLLoFyT9FYoRJ1BGXshLoGhgdMd0864aS+qPJikuv0CIvrpq9SGfcA0Hj3+hTR/baXJfD9LbGuJRfxlG72LYwaQ82+CQn4BUkxCVECVB6zHA==",
+                "mac": "0xXZq9lfJIDfUTd9Ll6W6Q=="
+        },
         "database.json/lore/faction-shock-jungle/title": {
                 "ciphertext": "q8ZNz6SBkOIk2OcSbWW6Pa3PQjV/FUbkJwq6Q0aWaes=",
                 "mac": "yPPXZImqvzy8Z1TwLI1PFA=="
+        },
+        "database.json/lore/faction-shock-main/content/page-01-01/content": {
+                "ciphertext": "E8qoDRdcW/M+zynUUMzANnYzJRNboEkFB1meHs8cEJk1MNrf7LGx+W9Wly8HdwmbmZ+z/Fl5o0f1EZ7QC/QYwmTBzVh/vgIEbvAJtr1D4tP7hDB0kTRPN173/pMZ9bfrAb5AEG4cMeINd2lWWUivT8RCUc0VEqZBrZO17UhMtHV+Gaw56YLsKpsQjnvB1eF/cAJoWf5xNi7blJlirE4Dow==",
+                "mac": "NEv2DSSfgHiVFb8FQeEwhA=="
+        },
+        "database.json/lore/faction-shock-main/content/page-01-02/content": {
+                "ciphertext": "rFkpKw2uvBKlcZyWDgEEkJQQQi3n/vDwCkJRyxhaBaaUqzeVZ4G5a8wK4FGH0+tc1YlXVoweEcSVmCc9YDMa96eoT7jr7FKGTK+tLTVk28w3yD7LdpAZj+IPlgZy/rPiUASkhThD5jkn4q7gBVHCrsUKih6nycItY6yNohQebqh9ex/WMDI6SP673mi0iST6",
+                "mac": "gAfLJ8FbYE6N4W9NangmAg=="
+        },
+        "database.json/lore/faction-shock-main/content/page-01-03/content": {
+                "ciphertext": "9oLITA88M3bUIeipQFaGVEzDrUwjcCbvW34Pfoou+mRhGmysGSawrFSA0aIi6s3RAk+lxEMHKKYaFRHtN02UzoTanT9f59qQ3G1AXRKMTm1aqDWbk2guqjAs/DSrt5Nk",
+                "mac": "R6E8WXHrWrxYBp/GkMhUzw=="
+        },
+        "database.json/lore/faction-shock-main/content/page-01-04/content": {
+                "ciphertext": "pYowcjGmOZwSsuruB/ETDDFLdW1a8V4Q876z1YG9w3mf+8pgvTFJ4pWWflVDN14QGohPCFmu0eKYU4K3Cs8SNXowWbYGqYVi3miqcXGH+zI2/LjuFFbvwb35f+5nMCa7",
+                "mac": "dDrkwyaCKzGlP1nVNOD3XA=="
+        },
+        "database.json/lore/faction-shock-main/content/page-01-05/content": {
+                "ciphertext": "dnCQkO0biTWnkM+HJAE6BZbxlipl7FunJtwgXjCFWrAS+ZkmzxEVh2J0JXtt0NJYvfCk6NOSpunB8ScKxzYsdFuTIw4S2jHGH+5gztm3ogy8ePUJajL05lvpsVy6hFZC",
+                "mac": "eRYsPaJmET8vbGKTN6k0gQ=="
         },
         "database.json/lore/faction-shock-main/title": {
                 "ciphertext": "O7a4UJwyRMJ52y1nR+tDGAH1ELKKrdhrH4N1zmQOOIHeByHv6a3EMtq/fgudCSbk",
                 "mac": "P95aFXpD6AkqDhD2TCc8zw=="
         },
+        "database.json/lore/faction-shock-rookieharbor/content/page-01-01/content": {
+                "ciphertext": "Qs07AoCzhdUNsqv5GDy/FRse/Eq/cDqYG7fqdyRx5g9os/j4vVknM5OexHK52jcFGwcv2eKzmh+hWBC+WCw5AYUDB11Hhw16OvxEWAcVFBO31gF9EUTbt8M7CvviYwTRf2q9xb9pkHbjYK/hWaQ9MCrSC5GMBeohl0OTYZT5hVtgBuLg0cFL0xtLcmGXeZzTbFv66zbJdDPLfjzZZSrPr9OJzOWaUkmWunWD3j9Eck3A/MxP7rotluQlxRldgdjaD60v8L2tuc3yly9dAuRzz4Vf0DXDJ6FnTSh15uo8DDusObrzcMYj769EtAHoygfk9UHrWV9rpR4nEW9wAF8RsFCNUlf95jKinEjTpM2vHa5ixsZGf7BKuhse/P1V5Wbe8Smb0vqU872lf8JcylI4hdhmB6j9tchK5FE+z9woSknKKu+Y7upj2o4m7j9TCBS3aUOr5tbbKWJfFiz7c1uWwFXl/qPpigGZMELl+82gjsELiPr8vlowhc8tk0HEWkUSf6tXrYz8HsQCbWQ5vbd3tV7a/cKgVnnwaoDgVkUxOWmXe43CFA8tlIyujX+KMWrOf265fM3pYlHghYSqzjBWM4YU/UX71ZMydn4qxPMGO+nPAdrZmC7RJmA2BiM1ACqIUUoUdn+93SSEBkLFOu65NnGjpuNWcBdMY7vjaOW58Q/ID7Zzm4yjIjmFYjES5RUFdqIqriqFFEGYaDLr/rv4ag==",
+                "mac": "LCja1QltnkgVBOn4jEwSlg=="
+        },
+        "database.json/lore/faction-shock-rookieharbor/content/page-01-02/content": {
+                "ciphertext": "fpHKg+RVHywmcdUIzQyEfAnPdvBsZwwmmTGr8y6KIW0X25ZwlA0IX8rA+SNngCdLhqAfUCJehz170ySgbr/Gt7KUkC+YqWMpz/U+sO0BW+b9YON21sYYaemPN/38tQmmm+3848J4O2P2PN5Pm/oPhQ==",
+                "mac": "kuDk0Q/igBej9zudwii1TA=="
+        },
         "database.json/lore/faction-shock-rookieharbor/title": {
                 "ciphertext": "vDq2btUOlwRuyBVlb6rUlSGW7guZasBxrmYMCTlBmVk=",
                 "mac": "rU67qk7OTZLKNVh3X0kaNw=="
+        },
+        "database.json/lore/faction-wave-bergen/content/page-01-01/content": {
+                "ciphertext": "/9VSOPwOvrg8XfSzggX0Ftqv6yt/VclzsqUCNEswO5+rFBqR2vsNDFjtm3pXqRI2KtqkKBPMxcXFLKgYkAFjsXSF7MNKZxaGIOH3TwldBpTC9aOcNZlpEDPSeuhjI6QevNCK+Mo0f7jG3FZ1watpsEBZO0grNBrbyxAGhVKWJU5vj6jRu1Ac0bQlc3LMpoUPefHcNAd4SELW+q5dMVt7jnhgHtHE9wBjSFSKgWGja1FpAV40rMuMR1NJrCUNp4oPEbH2CX4fneliuAuejJ+ITs1Rty5bPwwn6tcTK+QByZqY6XzbaTq+/S7tQuABWG6cpn7kpBuFgDZ+cVqqt6y+9R6mmrsMm6jKc7otzcpgYVnznak2vDkAJa41k6GIewjJB8SXPSR3lcvekq45CHsrMMj4+Z7OLxV7fB7j4ohF7F6O0KeZxTemqTUnj6vH8W0j4q9OwkXUh/dWq3Bs+a+nuGctS7ioHF6XcZAejW5RA7esef3yPznYJFloN43ENtUjPPYcCpfW7pPJTjfRvwTMkJfulZIFSH79kfFKDdCYufLO9VjFziz0GRPx1ExSeG4C1xBCeHf5K66tu3hOaGb2dILnU8rbdnbJ50X25uyN7X8PkR8QZ23rdXT6wu/pSIR3pYvk8A9+SdsVMpWNwvoyLw93ufd4mqnQ12T003B23YMOmuf9vVcPodSEgkkg9rCHhIzy6c+e6ApYN/rwl0UxJvHlmNzl6hI9LTQTbpld1PqQAV63cdv9QFCBmIXmPKsQ8qhQ0U53zDjQm34CBOV7fatr1Vbm3io0gUrx1yoXCYDHYpvA/VkE7DKG0c5I0//SSwGFRNSjQ+JcgLe1uuPP2qv4CJDaCJWKRD8GA9ZukLw=",
+                "mac": "k+Yu/s4NKN+B94N3O/dcfA=="
+        },
+        "database.json/lore/faction-wave-bergen/content/page-01-02/content": {
+                "ciphertext": "/tZDTaJUzgGNNfHK8gHyKM9oLX7KjQn5BjDm6fMYkIdQK7/v5q0+GRIq7xO75lFPJbDkVeqpRQpylQ5PRSjXuaCc9P8OU7o/GtcRqtUSj6wFpU4ZfLef8akfHCPBAIrb",
+                "mac": "27BfmovhqRY1BFClIyeTQw=="
         },
         "database.json/lore/faction-wave-bergen/title": {
                 "ciphertext": "E4AUB78zWSNNF5t9w4eEqNzjQG76TNIjJij3D/DxZFA=",
@@ -11715,25 +11952,74 @@
                 "quality": "bad",
                 "ciphernote": "inCCt56kkcQ0FhqKD7mUSYOR48Y3+aS2chxlknG3jHI="
         },
+        "database.json/lore/faction-wave-jungle/content/page-01-01/content": {
+                "ciphertext": "zNS0ahkHZoDPTIOC5UpY68wRcL50abtq5gZX3ks8RlLIFhwXuZDl9DshGZTnFc7vVFWiA+tX1ON0FgZJlPZMEBb6WX/E+lhQz2GFVqEOn3UqbBRIVXPd2Kw9cR8NDX+k/l1QsLvHVIHp/Nf5utqefwh/5/GS+XlCULTyAm4nmb4UhTGowh60e0gL86JIKwVwczdN9c8gU8wi0rMLaSmo5ZVn5TBMVsKlci5DqN4bldC9MqcsFcUHvg4JRLxIKG1Why4mk5+9t3j7Xb9qTJKSIPc7NEc1eon979m7XNjvm6IG3HfOpQ9ng7cmqb8p3VSxK/VVOh83PgsKPLf4vrijIhbslloWst+AXmkH4NdeUsM6vtC8QAm5uuBNhkosEkog8WVYrVLn0S68QVTetSMJUw==",
+                "mac": "kTCMERgSP7tAkPJ4pNxnRA=="
+        },
+        "database.json/lore/faction-wave-jungle/content/page-01-02/content": {
+                "ciphertext": "16UU619pHa3y2QOKg8wyr3Wz9dAmIBgMwfYA3U0Z8o/+I+4iDj80qtuofzdcl8BYn0meyRdut+g3mWkDW8GV/pSiCRvU/5IW8TijU43VC5yO/c6jYNRxy4I/XMA3hN0fcft5x9j9UmAWdUGBbqyGXg==",
+                "mac": "sFjgHqq/I+H8EtqBfebm3g=="
+        },
         "database.json/lore/faction-wave-jungle/title": {
                 "ciphertext": "mp/G7sYCy82sikH+DIOPlbbDXw5fjM+Ga3J6meXC8OA=",
                 "mac": "80vs632oITzjElxmcoDxiA=="
+        },
+        "database.json/lore/faction-wave-main/content/page-01-01/content": {
+                "ciphertext": "kVYQQXnw/5DsaRtqqOPnEq63GRwzg5peP9t/PUdY0K4gDHuUMdvdcZhi1MILk6jxyBFp+B318Np2S7XZ1KSd8bfMydg3/34zSDQVO22V3kdeBbm758WjcCwudibeAWnfYFX/d3swNUSlH3NeC1A3nfX+08jlAxdp2XwUoF69RxVBb2i1NNoX9MuBkCh6ggKs6n4FhwafkTmFuH+zGNFb5q4DNnARQeZT8Bi40135YecuXJGfj1i4F4pH++d2uO2rJ4I+NQhUWiCHETThNIKmew9RuD886ZXlI/tMV5KTchJ4z7WDKoTDg37Gym+l0i5bOsL8stI0JHVwefaEsCpkZw==",
+                "mac": "rB+AY9V9OAV+MhPmP8A6EA=="
+        },
+        "database.json/lore/faction-wave-main/content/page-01-02/content": {
+                "ciphertext": "lRg4KirCN+0S//PzT7kTLqcqEE5rTScPIgowobpgK9nMJYMZwx0+rE9FtJI508P/0HoamM0EPdKc1aQfySe9f1Gs8WOVWEqMt1ohEh/UYugciG/GnG2ffJxv+DlluxuNACnp6U1M34WbT3CzkoEF7zdT5I+Di5vfI7tLwST9XnqGR3ECHVBvHJD4eGNFm01G",
+                "mac": "ltG7/iDCBvKWel5xX9F8vA=="
+        },
+        "database.json/lore/faction-wave-main/content/page-01-03/content": {
+                "ciphertext": "tphQpbBR5NONxFNhesPPH88zvUaSomE0VN23usBQPikEc61YlHfQDCeA+T07xGKccTL1X2Fb0G3bCaSV3oLTR+jI9iiSP0fsBaH0QJWwA2rWUgQAM5wxpBh51YD2Y1Wd",
+                "mac": "AVT7/z0/pF11Sj+5L/AlhA=="
+        },
+        "database.json/lore/faction-wave-main/content/page-01-05/content": {
+                "ciphertext": "TXGIXvE6JCfIT+7QJXixAq8tlLJafAUxhLaZnHrUNsjA6cLYxOg0eA5CEthBpOD8ETyOaVNprSL7Ft3BrJJPIzAbthJAO0IeIMPiBIrcNPS2DF4tDEvqP7g9PJ+xEfGU",
+                "mac": "nLREzsSiPjtSit1v3Fdl/w=="
         },
         "database.json/lore/faction-wave-main/title": {
                 "ciphertext": "OpEtqaQHYbZJbQbaUF3Vmb1MkIbp+lR72M24Vm/MFM8=",
                 "mac": "F27cPB1BLqDe+pNPnouQpw=="
         },
+        "database.json/lore/faction-wave-rookieharbor/content/page-01-01/content": {
+                "ciphertext": "pu+EFjXqt6xTfDRxLOuKahJCpNp1gYq7RdaYnXShCdmf5tfPo+0QUgGwYXnWjRwW+HWla45jzwCzL8+aQJ8/0AMMAGj8nVZTRA20wlsUdWiD3jC/p8vmOdOXEKs1Yw5+eY/CyCpdtn75d8KRKp10u1y5341O9URRRPYp27uBvKqDgFRbtiP6dqe0atvOUjFxixtmK5Jvl/oO2WEUFjqxkcAa62/Zy44i46hOihXvDdYpdUAMKiRpRcVCrrRwVBX9zb2S/RBLoDjcsx2vB5vjyy2rOsJEz+9XKr/AE8owHO2wjQfP19PHwXnimgqUWfwVtxbY1rivLRI3J+whz+VnQJgiG3g5ZiiwMLpfLykULBVwTnXSIBwCjp8v9+M+9r+6w/5Uv0NpvXRiIYXP6vOoAcXgMl4KlBXxxLBgk2JstJap3yPNPJbCwIjk+vBrdlm3No8ixJG5ZAqB9nCWBwOES3NMhC08/7PoWg4BiddjRkoRM7O+GGIfIJffS/E5d1Bn53KWhC0AC9EiALxVmW4cCq0T6mhkkV4ftejYjLcwRqDunVQ+nSK/0ZGzWORSgMFzarDwO9yiu8wustWBUDPp7RjZsU3NAVKocYSCw9GBD5CWt+dViDI9z0rq+74kIux7cmJLHuU3ui3j4AlCXEq5kJQZ/7vw3nqMzg84vpzJz1BVbp9b4RvMy8aUiMCnF3W1OKog/DyE3zSz4AJXXeGejxRu78c50NUeVlHUjY5GpaLy+per53f7XamwX5vz6qRLFLj0ntfuSUA/b2S6HmhEf1wkkqdKnlqnuj+0xiBKmfty9TOxAbJcr+VdPNbg+3u95HKg0ErekwRfhtsdnklP1K0lKiQaCy4VNJ4eHK20ZyZtttkvLBpPXDg6l/Dn9V8zChu8vD2gEEbHo/nBlCQUtg==",
+                "mac": "KXZhY9FtLUt1ZYdY4AT5dQ=="
+        },
+        "database.json/lore/faction-wave-rookieharbor/content/page-01-02/content": {
+                "ciphertext": "n/ElP0DRCYl7f+lAT2DJz6bMcTPI+7mfysfdu5xlm8xFBxaxu0VDi1s3ApmAVtoJSV3qrScoqQt2jvDI8MI56Um6zPuWoTu5JOqDqJtZV9ItoKwMJzkgLY3ocR+ImrkVmSm82yt1vwm0ceR0+iPc0w==",
+                "mac": "tCzrqgM+Jcn3WOSgalbuHw=="
+        },
         "database.json/lore/faction-wave-rookieharbor/title": {
                 "ciphertext": "l/TyAGoXYCmr5rc8xoD8JWI7QpmtWhP+Dq5ot9AZcsw=",
                 "mac": "n6c4AF1B7r9NgpuCDaHMvQ=="
+        },
+        "database.json/lore/factions/content/page-01-01/content": {
+                "ciphertext": "HokWdVYr+sqXH7wZEV7naxWq2pW0Bhynx6X5TP1/xRk9JhgWlvtNr0YHa82SM+Rt6qzxkJSZTncxSKt9+KcQvA7UeKDz8n5CtdWvnKbJ5h+4hSXr9V2d5oktV7mTuHYPVu+PS6FIFK+cELix4zk1TRlkUIVKDWtzB/xIeO12oQxc34KEhtqBPjXwYudzYDxQaTozQmTzFnce9K00u6Z3+YN67VERXwFo/XNwvO4VeOUAZvfph2jOhwfR8NkMmxBObBACyKSQykflx67bM4PerPoNavWe0uFA0Ihx+E1ESCVGHe0pFSENrI2UF2KzO5QizoYrBPlMXO0mdp9pcJ8ai1GXlEWKl6dp8fVzqynXq1IkddLDh6/qLDw/XDqD3WfJeXbZlt9jeR8r7HZ0Gp/HL3pMwSWLCJ6Titv+saD9JVWHtHjWzC+1ZIcpudqGq2kRBY0kxfnEfj8BAfPmVetQW/HeXOpUUWRIbHZ8ZMGoPKdfgYdTb5S0zcZTbsCAf/zw+e8iD9rrs1KtwyrQVTIPFF/eSfPLZFRFtStLoxG04tfrYuQX4MQoBnce7SiE90vd+VeWjhZiwWr5+fYXyj7oPuRIxU2dGNp+ewOMO2lnlgbSVlw315noOiA8GnsBGipytlVIGEHRg0SQ6zsiN9nzM0DLG2OZWpATrp/3hzCEUpr9ALwVLHooo+bQrem6XDyAbSyxHAESZmACwuLQVPys26T8ADUoRSgjYjuK5VRlar/PJgzQTSKgAXgLrqYqXBXOu+yjufDWpFuLzQo1s51BhLGIqnpij9ZYjSYsBZhAxZlRBJpat8E/D4d7SIz07VQnlnbDWLJ73JEAZ/qGdsRm7+SJRCCOLbHRP/m8+xHTb2BcRnmeyOVUzjNm3mDiwNGTPqlSwbcq0CekZbfTR+5t9E1dnyTDCiaHnE+AjfgZRCetIJ687fLkx522kr5JfVYim8H2UN0bG9hKYMsCyCJvSNTq40fnukDDqiFHH1YRZDSKm0ZnKrVmep+pn4Le3RX+8V6W0CV63jFtZyjh3pUdkP6BbQ0RxVhPPVWVmN5uNco=",
+                "mac": "4kw6P5/aJ4e9qf3fvokw5w==",
+                "ciphernote": "UsmlnuQJSGVG02P5Hcb4JBVfbmF8lV9bG5eUc7MGSqKJLG3XoX9wxsXxgubONvbrS2TG2fmho/jIEBe0T7064A=="
         },
         "database.json/lore/factions/title": {
                 "ciphertext": "yAKYhlZu1oc1OrmSf+8YBA==",
                 "mac": "n3mkno7TrnvHoRJLEKLNhQ=="
         },
+        "database.json/lore/first-scholars/content/p1/content": {
+                "ciphertext": "sHZBXtUU7dGfeZTAF0xldkit1gYKKLx7PqgblPI3MvgAZeJczTQlC53a2rV1KFsO2PMPx9EngRn1qqZn4rcBKrHBHvrFSn3djkxPo89GMvnHguZOgQAgOL7WQ/m6miJBzpSX823mrWOMTQf30brtMs7KPjbplzjEBCdr1w1mMv6V/wKIHj8zR1UwQpBQ0K+X5oat72zHtJizh/n1tRhWXP9ZX35rcRLHLSXRcz7M0gw/8bDzZH16Io/ZhYjRXsWTMuP8Fn4nKhuFa5fo9yQ+X55Dpl8/8XpY+Fus1E23MVaOv79uhZqPRTzU0MVI24I0d6PS4busohYE5Mif72jwtxHrZkgmgKkxs7hxVJF5qNRJ134SIvH0RuT+JCmsZUlh8auCWdVWQgPaQflvVnTejkMp1gUEEiJruQOhdVpTRGuiCE0MNHFkGqkoq3LqPrEvxl6IoorFEdCsArcS6g86x9kBSBim+4gqxIxYpDB5fxntGQnJlawsC3upDXi0TM5vpeAxkxhZdRQ8Wgv6XdERszARPJ/G6dFZJGb6JdeksRr3MHaaYvwS33pPlk1iO8Qw1cDY5kNtUSM+PP3+Xl2jhsW3z9GWmWxf/084WB3IuvtFgb43XnM0ymlU3tS7bKwEnSomptoB8eqE9Slhp/pB2BNn9qA9cAQZRYWH0+otUl4iLXR4j3YGxBiLcGny/Krr",
+                "mac": "xJzJZ+D8jWuxDgxAjLdupQ=="
+        },
         "database.json/lore/first-scholars/title": {
                 "ciphertext": "8PYWp538hYLsP53iRw4oMqCk70+Rzz48SY5aBLWzaIk=",
                 "mac": "8QQFo6P/zpqwTbHPzhYruQ=="
+        },
+        "database.json/lore/forest/content/p2/content": {
+                "ciphertext": "PgpmpDemkRhvPeoiwSTW+2C8DaSZ89VN54AIHD+BCeh4uk4TYNa0BgwYDKuO/N6J+DFLLxQ8NCCUqim6gpCPMVmT0yeijHaWTuZzVRqpaH7Q+IMGRTyVEFjCDUK47Yct5OqH8atW4F7gEStV/2arY0opHPJmXJcj/tk5eg51Pw3/PcLpMckrVwy2FDPwjqHNF6XjZpP++YnpsG4JrS3Hef4ybUKadIRwBY2tCBKne6g=",
+                "mac": "s9ivHNcKUwljyNRf3vpU2g=="
+        },
+        "database.json/lore/forest/content/page-01-01/content": {
+                "ciphertext": "uxU61fh/SeMlkon2rhU0PgpqVbadBEJqNSXUU6TAX7lAWY1IDbHc4cE7RheRrB+G+dSke18OTthU1KHfdC1hbFFoHMQlR3+/W6FCBNUJxKzAprTysIGwTi5aM7cJXBXoSQu6HaPaAMKFLjz90VYIeEhNNaIQRKFUKE9A3wAoNt4TmkTGxAh62+EoQC9mzkb1gCrrqyH2RWxFOZsLrMmkAigT43HABROkc+MLkiOpaVxGcjBCxEj5AXR0/0SRG0lOYVqxSUuFXivkCFvoM/ZL4ohrDCXPbMY0g0UUgHllYKzsTWqZOkxZ1z4ZrTjjwCdkowUJCGhe1X5YQcGd0EUmL0iLQ5waO8mowtI5DahOYNyUNuHtGax8VMfPqddQIONluQ6DNPKtzigwYTzYgAtcUjoJb6MAizLzoUSXfmehZlZlrGGp5Vg4JtCcTusH/cIatyMgoSV+bDw9oWYWvrv9+tD8FN1eE0ncMwdL6Sw1z+6zAHSmaVvAqNB4MycsNJvCE+/rPwlIiMqi8PmsBOsJHRNbvIAyaDAXt8x/Y5IN3AzVSN4DRiQuOvbQYU1p92nDUE+f9n/1RIdsS8hmZL8GasLGpxy9knaqdwUtyqhMIuqPK1G6mwMmWRrUW+H0Krb7hbKZmeFdPxTKR+D/vyw/LXzV2Itq1jbEGtxhm3DwUBJQsKI6AoXmxS/z31yg0hRFRp8uklejbl/t1QKroJKwB9LJ1SFoDIP9GlGrR3Aa8O3iFWs/rZzyWR6CO/1nT6SltAJVn15UTqG8BcOhkHaFs5LMYhwFyWN7aqYn+MIUPeDVf24cBBzSP1yvgVa1Efn8",
+                "mac": "BcCOrd2ISeaayDKeLQZsQg=="
         },
         "database.json/lore/forest/title": {
                 "ciphertext": "v76x21iy9vcmOoVgsKB080LqBdwdA5XxoN/UnlDOLbI=",
@@ -11897,6 +12183,10 @@
                 "ciphertext": "EDRC9IsGbckj736do9zeJmLScqebMBp5hGE+i+shtw0=",
                 "mac": "67oXFTTLCVgy9NWgzfOj5w=="
         },
+        "database.json/lore/guilds/content/page-01-01/content": {
+                "ciphertext": "d6KDzmB/+7Hd+JfA6In5pW2ltFpORwgif9CJK9jEplgv8eRCHWR4+Xpkuzs3DTLQdPx8yWiRSBvrLkhYj5SCISa6tq72usfOYeANNgIy3Kqfbv5/tWYVLXtmFigCeMbSLwwDTJkVO1kGXWXA7LmG075XL2DnTXfmeS+EvqHXHiEX9I2kl5d5FixC7aJ6g3GCRd91Xcqg4G9Z9X1weSInHQjZHn4q92kWAp6EIS9OOOMBqU8oVVnJFYcshF+7ayViBjCTtAbBHfoaiFM2nB+wR/jV78YoADX+M6VjkQ8dfRg9irtQKmOd1FnJCjUFp4CAtM0gE1qQC4oBGjpj3bZgye+LsKr8RgtRU4clcoXDemnb42+kt1/tFDLW6UvA5wkimGwF2SdXDYfPVzdRehry2A==",
+                "mac": "ZMpABgJQUbOdy6SCUFC+0A=="
+        },
         "database.json/lore/guilds/title": {
                 "ciphertext": "8f5Z9GE7j50hwLCBxhczBQ==",
                 "mac": "Et9IZoywAASJSfdSLpOy4g=="
@@ -11904,6 +12194,10 @@
         "database.json/lore/hackerspace/alternative": {
                 "ciphertext": "CyMGq2gIZx6yG7zjkDR+j0y5uwiv6mQBJAerpgPunzL07VDbsNYw7b9WYEnk+n2x",
                 "mac": "uuhQWnSuctQXz/Lt9cAJMA=="
+        },
+        "database.json/lore/hackerspace/content/page-01/content": {
+                "ciphertext": "xniTcQgfttBNJClxg5fBbXIbpQh3KekNAlysCRQBxOSMyiYLHC8tlYq2XdmxdDxuQBu1dL6afnwxx7uDZPF5GAp2443MQK84y1JWDeFVjXHmts9er1TDnDIfDFxg8NtSdCyFVz/3bC6b/xxoDeOdu8nikCKaQqp2GvEgCj30JjyYZCrwye3wNztLQCtbHrRDo0JXqdU7/fIRtc6qA9LFJhPrmC2/Lsv/m6sVkm5CjFnVU5Tz944ydjU7QiMDS/uoBcNRjDAbDfcaQ32xHwEjrVJUFOlaybfMMsoHKdcJAlXpa4HJFGssIoRVYWT9n88z5ANrJxq+70aQUHEI/EnCUcRCcNevjrcVc50PUNG95sp3LMwg3soNZXmOYx6g2XlXKMRBF4sm6TDTdUQTC3+wGfa+VxudxNRljzQPJAa32Xo6mKiNTyid3TDx75+W/g5oE5hdp8ptqmoYq+nCdv7Gn0GGd0AeWiCCwliGpdqq50otHHX1aLyk0DhTABiKsTx0N/aPe+NBSnPerLFhrQ47K2V1rF+I6RanaRiTXPtGI3VnYXHG6S0QtcxlPZC44ZENjuR/osKlJOV+YX2gZOGcgoH9m3u8N7HjL2JVR2zbimQ0Je4zesNBI4105MjVxA68Bg8R/urzhvbOc1fT+e4DappxFTfj3J2EmdPtb0DGAKXq0TVJcyb/NuvPIlVw6IbWhbOCxbKtNjQQF1j1/bn1MajRrCXetARKmZZ8IfHR38zW2Zo8oExwgtzeMUSJJcGRjutamTDddNQxcAtSkWo5Z6Cql7ymvieQLXXPOXxu+T13BrxsNMg4BMHFRscsqkbgp1H9WLvaJlzLzyTwUtceW+EG3uPF5MH4Iw4yuFN0JRs=",
+                "mac": "jPWTWV5moV7/zRWmFVgdxQ=="
         },
         "database.json/lore/hackerspace/title": {
                 "ciphertext": "slZ+Bb3qYUtQkL/gBI/LBw==",
@@ -11989,15 +12283,30 @@
                 "ciphertext": "7MJ41HdhdbhKA1N5C1HRkw==",
                 "mac": "7lAew55dVT3RyRGZ/uDVGQ=="
         },
+        "database.json/lore/human-government/content/page-01-01/content": {
+                "ciphertext": "iZNOu/4L2hEYSIa8RNeZV9cS5BoyrEuRLjgeCDY+Uy0DmPhlbJrI82ECMA2LhV3wm5gtF2XR4b54fMoAzgiubj5PtKWQ6dFMRmipXeREQt2AKZrD15E6x3izKvgG68lmg29yZelVpzs/E3kYKLxRMh9tROPOgiOPkXuJ3V4acdwtsQULfCCCiDrsgW87xFUegYGyESr+WyE9LTDEebf4jBfAnWz+SwGhcligqRG9Hb6ay+bzuGohYjpM8xnxmAIRzE7ppUdMWtNPKK2nvbJixc/CTvW2QSwi1aOBQDmYS59Y9FOPo8/ziJ5nP+Mfhf79/7nDG7tv4aTbkv2Up8oLrKHCw+IW2nF0qC8jas5tQC/f0+jYv02zPuzQuH1uzIbZfSypQ1OGXVA0I8M9FyyzTLxEC3GYjF/ID8halG29/d4=",
+                "mac": "ufKUrGV5PUPQXfLRUFIZFg=="
+        },
         "database.json/lore/human-government/title": {
                 "ciphertext": "qp5BmiqaUne5yuQixGhmdQM8wucErAOOhSBH2CYHXcc=",
                 "mac": "8wA1xw5PID9K1N3Ua45SJg=="
         },
+        "database.json/lore/insta-matter-bomb/content/page-01-01/content": {
+                "ciphertext": "coudAYq+aQuuKtDf5uJq1Uvh9zd8h7YBTXfxgRDqFftrgeaNJeyy/85LyG9xrE2rQwDGDS72i1rd8T8CSDb5fb9VVWQwNnZQx/92J2eXlNGvsjIvJ9jd+4yOEoRKtmlSHxK16pNtH909OCve366Scweyy8cOyk0zul/RQtG07WUF3N2JyKnHxsXKgKdy9dyJGm9Xwc3OHNiHkGO9yOinNzyxcEE83xQjGXfkzLWBGKqXz6OCYfrJp5sXewt4RdxG+l9HlhW2gWigTMoEdg7M9bUoOUVrZV9Ae91dcO1EfrLlTC5Kqv7IJa9g0zPzKAdWIhqvzivqlrapdmUq8VDbZXCJg8J1Ahs25JX8bso7lMBpbEgUQs8jkm4HskSE7k/OOgRyC9PDxAKooDJT3WqQyRb/yfsr62B+aUvYX9bn14nJlhYYN1FYSmQnnmTXDPJDqy57A3kdVigaR8mX5u58DkZkf4J6ED64L0Bt+EPi3lckmSGrLFPhyzvJQYRdqCpCE5mWKZ0e7a1opv9DAQWqUhzRjqhiYlsf4NGmdwRRpPWQpBKHC25Ri1jU9Y4WAqD/ZH7/6vH/zRQCEJk++CyK/aNyIa0B7uJ9CQSTVlr/oDl2uPd/tL40LtrXwG/vQwG1CxE2aABcrUGSV3LASk0q6A==",
+                "mac": "JKXbjYyHMWivpsNzPNhzEg=="
+        },
         "database.json/lore/insta-matter-bomb/title": {
-                "ciphertext": "dTp1hBS4t703MbQJ9EaMmKSIQa/AruYqatbEswaNqWs=",
-                "mac": "sfgSikTpxG0SBiYL9cBhRA==",
-                "quality": "bad",
-                "ciphernote": "IZMUYn/7i7lik0YxWlGBWbjpMIUfPdfkwD9DA5q3kBiOFMgFZRVVv3zlfPUn2R1I"
+                "ciphertext": "P8rMcvO9RUmkfrCWt7tYEUX+04g4nHxGilphHSDIGpA=",
+                "mac": "vVxfNdSy36dbXYkZTVRdxw==",
+                "ciphernote": "aH+Ld28r1uTw2ca9DxkNS5t9MpQJ+BwmSrEhI3TAORzCfOSEJlUMDjnQjlUp9g6Y"
+        },
+        "database.json/lore/instant-matter/content/page-01-01/content": {
+                "ciphertext": "ol9V2MLhBo/4OubL+/b/H+U1L7sd4zsWuUgDpLDfWTgDMME+cbfEKoTC2AJlhsP2FBNJYCvl9mimuBriymJHeMkEk2KrojYNPSHTLdNLtlZYBTMuwKrY1vXc9uY7rOC958p4M0D7KJDPfokgqXbbL+Z0H7IBqqYDMnLV/q079geFoAZj8E+jG6kSTTNo0r8+0yIPEkyuS1cUY7/5EDcR0/7Z2+z8eh5ze8S9W9ZI2vVcf3CnbeEKHEd20zDm944GpBcKN4PScrBxAvtwEOJbgP/62yE5O4LP1g+Bl8TlcTj3ogXFaCP7743H9pfO2wJ3wHtLhYVrr6CiDFMXBCvZHbkfv3IrQhuh6JODHfrlJ5tCp9L1099E+FLvmBTsPP4Gi7XofHFohXFATB5HumRKcRN9fRsdjazzIKWKf/NsoyAWFbjQN6oa6j5XCsdyWJ/WOxujisV0T2LnTyTFIC4TRtKDoBVNJIVS9E0ux3PPEeIWNsTr6f0D8akV+IWP6F5htbb4YGi2BgLlI2HidI61BQ==",
+                "mac": "yeqa4sjBajwvf+lnJFDkBg=="
+        },
+        "database.json/lore/instant-matter/content/page-01-02/content": {
+                "ciphertext": "dtH5i0WwHszJ3/R/5rz1aotPHQjS84OtP7W+Y5W/adbkXVEI+vk6ee4wrO/21pzkbJAhwevQWAMCbR20eoMfoz8YNJycF1Kaf1HKlPy/ky6qmyYxMl4jLF8jOUhHm5h8+0bvvlerycySSFr/Y39wQWKMCPioPoSkNvkGMZIF3rDK+CAeN7oHWEDuBkzXPwUjY5pRaFlmV5T7TH6b4hjRwm2weTuZZK9OWuWDnwt4G34wlcqLY/hXqlNlxSk9BjxCIDAyMmKEmoef62NNHekktXfJkZd3a2FkWh6rlaQuCv2VlCow8457pMH8F702tcHcUsQiZSwAua3o8geFcdeVVpzf0C3QEe8rgFUaK6zDRqhZNnLEmu7hXzbAtz7cm/9yFXW3bZgdcjDhFKe0JxS3bukafx8bABc58moLNu46RLUgfE6sMlh6YCaHztaSw5F1JJbr4ZJve+4zshqYzW8lOIzbsutJCwZsSQBA28e8gEgxVWSttT0eDyRYCNIIPNF+/aB1/oYP5qic6X0UP4P9h0X/Lk7q+JLOIzwY4EwrLZt0N5FeO17Z/IeXMkYL6Oj6feb1HJ+FZGJ0ChTWPdxWh9KL5UyWW/O6dC65zNisO8s=",
+                "mac": "TBXPn88cnEA1e03GLigWcQ=="
         },
         "database.json/lore/instant-matter/title": {
                 "ciphertext": "Gs+2K3Lbma9oaKITH9GPFROI/Tt4boCN17glwF/2iW8=",
@@ -12021,6 +12330,14 @@
                 "ciphertext": "yNWpN9XJVf8Y8HJyY/X/RA==",
                 "mac": "VUbDJB2r5qzxlTRBiPjYrQ=="
         },
+        "database.json/lore/jungle-city/content/page-01-01/content": {
+                "ciphertext": "wcg5rs9i18id9qFqjcza0QkuQ3CWVfR3bk5k5TpWPt227m/RBamduob/j84BjB1Awe7i1ykEHgViohPgAitG8dgnpMupmwVLd/8QbANOIdVb/L5ku/uWhR5ZJYDrOVwenzvfh5HcNatQRurIAczfl2zhB6ilAOPPzww8Y58EpaDyGcYlj/4s+HWeVNP8UaXj7QzT4Ttu5SP9g5u5l5scAn89kkQNLOp6BYGSmASbDww/y/j+BUzC+47lJHhGYeJC39AiY04HwBmBeIs2whwLyu5GNCHdIm+lTHOaib0RLIShTjMJWz32Mg12xr+WYOwGCEoC6h6cQHKD86DOWsK9+GyHBSwQ4TnP6DJFWEAuIyS5H8/JhPMOX/z/lmUikHy2BwGN2KcK2sfzR4QjGKE9Jztcoi0Z6H0J+YKoIugf2c9Y3UW/Dfy+GluVt2R1ifoMuykQgc+s/+5T8LizcrBcSvgknYEEDjdNDXiqCbJFuWEwblA9jsA1cEcXhcpz9VnDAw7d3c/vaJVZvFpB7fXcHG+QOijDMHVt3oZgNcITLt5G9izgGKPsVmscxPt2UfjfEKp/C2pqX3x2f2A2CnBWhErZL+9/Cd2O+XbvtdEXb6g=",
+                "mac": "0uNQw7/ZTkq5V38TTRs/Vw=="
+        },
+        "database.json/lore/jungle-city/content/page-02/content": {
+                "ciphertext": "vlPpO7At0yDB7Jays3OyXIo1g11xDucGHCYLVgSuFXPcPzEHi0rLRWl61JEeH6bH9w8DAjG4vOhIgy3kiakdXeFg6x+NRcxh1gSHz3VI/aymOYfAS8oMiW7wj8KUMSZv4vtJ6KQzmDAJ1JatPpI8AITaGdXFT2JCCYTiB83nUjW3o6mL9uyYKSb35uE+VXJdbUZoSlAtscEIb9+WnzmqLTIgmbqn6ORNkbafU/QnT9WHOmh30+8u0tLPxp1g07L5LOfkti8pTG8BPmXRqB2lBGBrHs2E3SxqlIfxuhXE31yzJUZGyAKhylLXs3uPEDoVTIisDZBwHaxDVb7TVqHUGKnC57orGyqmHt0pT51yqfVUQkQJryVZdTlTMvjPOumsDaMsb4c2d8EPwMuwW38uyObEnzlWqSvM2GFf2aO0PSS73aaETg3jaEfPexozTAIVE901M6mxNqPEJ6y8g9MUoPrLfmfze5sYupZ/1x7Lnzzycgeqn3SHikXXQjMCrDtkXYrBy1ZZutFdp+l8DBxf1YFsSS7JQsvi2ETR4tJn2pOPXEwTAco4H4i/6bpOxxCUHbbfND19JkbuLwFnJB0mNauHQqkz1/0tOgwsvgv+VeBKjFNV7yfpjFO+moF6acxVCT8YchL+rYiAIa1Wfjfpd9D2+vdn1cNzCnRMo6V/xCNjfAlZGyukLTIvjCs5ML5ADhlLp/xwg5MoOdFL71S0nbaGiJgg8O013rlA2ZMmDyCwMgOuUyyW1AKZcWEcg6zQ",
+                "mac": "0y44xrrcZtAUK0siyvm+AQ=="
+        },
         "database.json/lore/jungle-city/title": {
                 "ciphertext": "HRlJReGSATXTmozjc4ezvQ==",
                 "mac": "TztCyGgQlP4K6UYEq23nGQ=="
@@ -12028,6 +12345,14 @@
         "database.json/lore/jungle/content/page-01-01/content": {
                 "ciphertext": "3wNvCKohDqe6mcAMHpfNcoMiTx8QeHZZSDmD96WBw1rVFLoK8syCeU5VDHDyysxdKIdbzSEoU2eH3I52Q8DivXRzAtTnvOvMPZVjjdEYO2QhoCTIOxz0VLqjH8/AzIl6RHYZNE6X4pgNMmYOz+68uEEZpReQD3jQFx5lSxonqBSEElA+A9Kdu9nYk3l4wlLbMkWZMk686vZLjIr05vixt4yb+IRCO8zT9HACwwq5q2jDqV4ceg/kyVMwClPPJpJ0s5fa2M8TJxbmFRbOwV9TRN3xHa7F721AU7pfANurhBeX5MW2tR6BULg2kdblCjQ4cJv9uGIyo5aQTgjIr9KQHbsLY4zmis13GAWtpBM3g/dA41t2WRMWaMiJZVu0ApflJbHlEqotmSH0n9Mu2R1Ug9QLFgnYNzkgT998t8KuPNPwGe+JFGlLzAmJ0kHKdMu4S/h1uCYrgR5MGEzHTA2jfOn1O9sgDSfnm2xkBqKDTVU=",
                 "mac": "TlSmoNe6PWIf5orzODcaHQ=="
+        },
+        "database.json/lore/jungle/content/page-02/content": {
+                "ciphertext": "QG5agaf3dbALafXt6qlFw24b+ZtUMzbohluf5yAt/Nv5+2S0lpZHZZXrWtza0/tx9Z1HXTshMamVBy9LKOayhaGqFCh6Tjam7GN5Bc60G/hERzsQOkkiSWaJsbyNgZDbGP/5oNbIvXBcv0/B9HVwy6y/8Tv3SEK2zIXJMb5se/KKSuYv4vOY7X/rZrTTZUXvFv7/CBkyh8KSSiJhAVRUnUQ3O43eFxRuEHSfrW7GOhVTboLhs2Rq2VF/EB5T/QdoQU3LRua36awCc7Lkx+vfT4Lq7x5DjZ8M96KE4Qz9Wxcv71QKySi/SorwTfaHDvzj0svwlk2AhB4HYIhlPcjnfKshrjxUz4LzgK/SGgipOaW9QH4gmIw8jpq4XAEHDVocigo+Xeu/z0lQAXrLeQzmfWw+U5rjtX+6dp4WHgafK2rvt3vhFY5H8HZY29uM0O8uy0nVBgp+2EIxtPiPNFb4W7ueiLUniCzm8BFvhUjKlaQPsCilYgGaDSq4zJsHy/IH8b5oG06sgT04GQscT9wjPczjIPAVd64PsJTvfULLVGpaGY2UlNnKU3gXQ83JF1tR",
+                "mac": "ptl5nv3aKtWDTA1upDqP4Q=="
+        },
+        "database.json/lore/jungle/content/page-03/content": {
+                "ciphertext": "TR8CCoY5/u8Vr4uHuQjptRw2jTPv7okpDJnaDjJlOhsAd6n0e7vw0XKooWpFSFoLUSL9veCWni3lemSrMHgAB3uuFHT4ESvvj0LnfOIXwArDe2fCBRF+QTjcif5ed5Ln9bLNW8M/AS+QGF4GDaxrs28Smrqii4+no6bPGuXR0xUZKesddFT+HbnhA0snnvlhzNgR5LuJGgpZrEOwNMp/YRXIt6S02uwqqj+I/sCvrHSZ6ynpeWq46PXq0IXAuuT12+H+4xF7ozW/7E46E9cocSrnNYcNGTL8htXlnyrwCuPj1qqna1GGYJH9qunWd2TgRaxqhl7u7BwPTh0EkDrjfqAqt+nNPDNSDi8D0N0wmBInBJo0Znhzk+niRw100tBMttVF/zb2FVfhhTO7sjwlTLvDTr+WpcVE+AXS2oxA6eQIEnVnAby3jaDxMxCqttm+rGm28dloH5iTplVtMHf2y8YIt4u33RReEizQHx3h3qs=",
+                "mac": "eNjXu7skDgXM+8k09spZXQ=="
         },
         "database.json/lore/jungle/title": {
                 "ciphertext": "ccpt3Hy2Jarkz712zRdw2g==",
@@ -12041,25 +12366,58 @@
                 "ciphertext": "rEKAylb6LrrXhH4E8HzqQQ==",
                 "mac": "sihBUB6pHFBmYnLgEHCCaQ=="
         },
+        "database.json/lore/log-1/content/page-01/content": {
+                "ciphertext": "4kwdw4R3sZhQ8klr+JbMODPbNvUD/V4tKwvfhilDawo9ZosRC39pnAoBMPNF+/WkEPML5HmzknBiv2JOawuAjJNmaEd7AFDtf0wkwwDW+28GTWl4bp728pCPsgXp13AqOpvIim4Qba2t6n1KzWERcGNfgy/NGVL20O/dVitT1oOcTz3RJLk474W2jp+oaFoWrx/ovbWG6UIUK0yRle9p6hCnDjq5fQHsn47KJuA6ZRfKekBz+f0F8g0QEy3jYXV7nb7/uziKVgcZZfcceZP2ovjpCchYIRfdhyv134IeAl3Um3evRMCBBJRDomKuDlHzyS0sZZP2NRf20OQrBy41JyHivX63lCITyIBYVwuSidao9CtJX6A9dunZjAaSMigN7iWZP6qkFmBL0W8S2d0csf6KH+X8/ikZgQyoAzzHZlkBa3WOacTgG+v58Wmp+fGwSokaVjoJkLZLjucNaCjW61w/Fqjwf5LpMtnPjaSqHIIgNtqZA3ty8mgsnqpA7InkU/8qmFgQkKwYRNC4vL+8tt6eZjhjQBw6POf3HTHDd80WXCKlILs0mu9ZVpntvTYouvzjap8va7EKunAQeKPmMjI9nKp0yySdVJ1/7Mpbs6YAC2Mjvr9CgoRjh40dwI2zlLIcWQ4Kj0hH/eoFaH8pte9blSKDGmXPof1NY10spv3MIvloAgm5IGC0i6CY27SIPinSwIEkcyJ7Cy2HPdgucG0lreNP/XEx8IKkFChR+vjBRCXArAQFlUvEIdHXEc5L",
+                "mac": "MehfKlAMNSUC4IGYow+NuQ=="
+        },
         "database.json/lore/log-1/title": {
                 "ciphertext": "4Yh7TwD+yhjElh40tklFL/px2Oa62yIstX8XMdHiGgA=",
                 "mac": "0IprLQ/HsGTAzLcmy7heRw=="
+        },
+        "database.json/lore/log-2/content/page-01/content": {
+                "ciphertext": "NJ6EPU72DcsLTlH1/GsAj71nzNDHrbv+raKBsVdKLCt0ev6bEwzUDc+6WzwDKagPhH0mzOHIvOmSa6YFJM8xwZWXXBKl89evq4mv4T+inJzDAPBH0hsbk2fWMl9dMsrEgbEila5zVfLBG6HZsAZwuoZAHqHQXBJYdZoQ5yBHGXYfEBJgZQC6mvIMUr3ALyozhjwm0mR92iwKGNzfpmX8542PpliRBu0i7tN5fJIKmdTs8u6FlnP0ZXjs+pZD3WQh1gvMTO2S+JaQC53n0hjErR0ZErcKcOW9R4HvmH2prj0n1b418OAIxefcD5AMXYNFu+XacxbG5yGaMw2oo5sqDtHf9SdoxtM5KyQuxpl0hE8wAvDxihb/eX7W5aiqVLNjO4qCK3e76M+HT3xH/XJfuN8qGolsL01hou4tD45YYRhj+GZAfEitWW3fiIU0J7KTMgTPj5/6/J4qHnTazx1Uv1TuXEZRbW4deP3w3N8SjZ9FNMlTJTNHBtTQEkDfjA7j2cEyED9byCZFjPDmGR9zzxCa3sjxYF60qV0PBnMMXGED+autGq1QaompbcffpUMn6GjONTaWzCkqMwSFqZkfBTJoH2K0ei3rmz6SDdB2UsKCkhmyHY1lYVBkh/T9cToMa37ZRW/t+qWbiukHs5l+oVky2/xlE/vSej2YkrR+z+43h+ocq64jZUEZdGcvP+kbwOlKFING+m+YWI+/Ixxw0oBM8f8W7BL2MjSQpoYSHgJoJTM/Mq8PECIsxTL+0meKyXkVPBWBWJPjqNEoHXffKbe/JGEK0r6EZj0+w8zyiuobShvpNpIzq5Y2tFId7HIZBfM5i6wOArARUzCnb54qp4zvnJU87v3sKyaOY6VpicU+NghlceVvwVNtMOv7sEpKMHhQE+BwBOVVexy1Apjr/34HhXF/1ueEiZyskWokB2ho+2kqbMMoO2m5XaoBCwoC",
+                "mac": "vUk96Jh3d2Ff0od8yXzRHA=="
         },
         "database.json/lore/log-2/title": {
                 "ciphertext": "IPkMq3mZeMIqBceNWVfL/gcuj05yM+xpjXZOzvlcgsg=",
                 "mac": "N8pVORFGkVcEuIpO7Fj6ug=="
         },
+        "database.json/lore/log-3/content/page-01/content": {
+                "ciphertext": "LAtrRWLcsDINkFSXJxTpyRnVcVhOJ+iNLGeptGV6Ix8hwzCXkKLMUxdYXn7wUPg4bQVyrfPAwEIN4S1hy43AiivrQwau4TiBeM7C/jGcgEaf+ygXPWLRa1Dl62GyOty5STSKLaSi23HL81w/zBVfzljuf/R2bASzQ9CfiJRmKFQ7P/p3Z66pveW+KvvmRRnFqVpZ6Hxd7gmVhk/YZ/qaXlCiarlCR8cuqcuy4MqPyzunSOcqVIUZVP5pAM96QeZ2sL/se+KZJ0hKy4nl/a0UeKh2Bj6yaKDSOdQH+nmSuxxCxVaQR7qsrnCZCd7hD+pdzXQoCOXp/iDIf8LOjW0yBBX+7FU8s9+OwTh4kDR469hVg2h3qvB6n90xK2mEp5WEy/IzlbMOjxG3vAJAMDOiFPA2y/ochgsaNfqkQGD//zWdrvXsaIixkXZD2hGFqM5ORfORYv2eo/i5kmkCBHfP5ybL4UCnG8Rtw2/bjW4sO5sBWieNf2mUtAThrMyqq0WTgrGClZVQ++qx58NJXv25PyCEE64LzdhLKkhuqEw7i2adqfVeK9aoloxfFhACeersKd7HS/s8y9OxSD+MgODetYXC6D1hA0V90jPJU62XvFrzjbymhsrwYBVBuk7bCaJg7ksbvqmrR3MQxDHN5u48WcDCT4WB4cfnq7xJIR2mBgl2Fe9IP7ImA5RjuiQ4rDY3C/9Ez20C8rj4jHnuHXKldb73/nLEI3P79SB3mIJIx31m9aw6cDWEbFf46V9oOZ2vj6GjeQeK+Gtm0p+i+4MwgVMA9QvLFLxLQ55EWtP5kysu+kKy/palUPRcTpJWcyxU+VK6RX+zlMmZrlId5LDo6qkUnEo2bN4i4vGQI21C7RIo4C/GTeftK/eImEaaNPBymdRAJcBEcE6zj0kLBz5DewD1nMriDUxzxiQtxC70IBDDW9WG2DdwH1zTM7RBszdnvZJxCkqLK+IiM8Hujtf6ZdOyEDZmT4A3uqS/t1F634M=",
+                "mac": "Tc2Hk0DH6Fl+CU+Jw1Nztg==",
+                "ciphernote": "EH7QIdX+7ReDxdXRLHA+nH7jtldiD8JJ47Uq3Lm9dpfAPHd1HgrJJVXIxEsFLUhAooFONWNKyIX8UfB0q2u06d4x6YNcqhJkNMgjcJAkGEedFfn7FHZh1scyBUkQ3An4brc7mR0gEWdm9VG31vxSDQ=="
+        },
         "database.json/lore/log-3/title": {
                 "ciphertext": "9tjb66w/0+ZoF2xMuUFX8Vn+I7o/E3ugL0/4Mpu+z40=",
                 "mac": "IT/+0yu7tP+G/NWpK2UHkA=="
+        },
+        "database.json/lore/log-4/content/page-01/content": {
+                "ciphertext": "q9cjzXksjF3QJ2g1mpIJ5D5nOvu1jcPudSyoet0wmPRsp0nI12aZoVuYRcuMdW0sinp+KWeKrVGhNug96Pac59VoQCmKZcyfYlPth33ZQDvKpARYpSbMqyZijTpQwyFyVvAgKMvj//EUgdsLjSxS8B6fV9Q4lSIQKhbPdx44lLDkbJakfggd5W9i+qrv+gjuC+kVmaEHk+ADV/NlqgurBWVGIg1w/n5koQNKeWte7Eac9YGXnQpcrOkk/XsnZipRSm2dTinDSAg+fJFfSLyHnXe9CkcJNuKdYYHWJpDZPVUGuph1D5SqdLrOnzGB5aC0q6/AITpZ9yhFJPMs8RqHxDsqQ6mBWgJUIEAXPjf92TEdBqgb8Ka8Cbxw9iMsb1TnN1eC+KFI7cCbkwSxEvksg5E84sbO9BE0e2AAM1cdf30+Tt5EkqJrqWSPCkFhlZ05dj7D0It3lysMhsyVxwtsGLfQzIo9ly0v4xvncqgriGu7Wb1Rf32i+/5O9zdyqKhkSKVfuD1fngN+xkdXK7Zwzuf8ItM0YyNjnRz4zM3sreN4sOw+kBxxBrkRu7xZVDi0W2uxaexFtmWPZGE7mhgm6F7Kvuu6ra7BNusmntjXiv/j0Nb/N3CekgSPMVO7m/I+5xZZaiQd5odDm8cGuKW+1Ve03FTV+LgPRFCGRoZbuFwdRJrWA8cb5H0gmKSZQA3phDHAHSOmvkmlVEDmmTZ7+ENyU9AkSa7xoWhElgLqZAIp5gxwRf0cKuju20vJ4sxcTXxI++KQHoRcTaeLVBQKVoo2SpFqK3M5un1ghlnQmXo=",
+                "mac": "PCLKVP/RyUNkZWOhT+tf0Q=="
         },
         "database.json/lore/log-4/title": {
                 "ciphertext": "oov5JJT3EpKpSuTr2gN9PZf/CwgNLXDfzOAUUE+/Se4=",
                 "mac": "ZUSvOfCHtZpoZN29bOygHA=="
         },
+        "database.json/lore/log-5/content/page-01/content": {
+                "ciphertext": "2ayxpipfR41A3hYn3AuhLSSmeKORrqOnykIxhnpw1TI8HfHGeIeYWj2iikPRHjDW7QQbAEC3Ak1ydDpzirpCsBsSsjIOngiUsqD3ZA5iOVi4i3FDZRW2wYdSfXu0cGKD2fJHbXJGw/3OA9wEXWzsYSnScpfwz00BoUSwTf7C6Vz3LFAn4tC74twoUaCv1n3faggxcVwwiTc/BbcpuX60JBtGmhDSldYUzbk37VkcD3ubnMcLkzXBGMJfr62pJ21dLoGbvVIDRZHcVryrwMiD3ipWR316GW4A9QoaKOkfzMuxVtcFtj0LWBD0+0pYLvIBOA/b0D3+9936lJUoyrR02BS1HLycWhyVXvMRYFJesNHNVijFTYawn6CPwVCrksqtT0QTk+2VMB1dztp4Fugd8756xZwsmpRNZBZIqpPjckHCU/tt3qEvUPUSJ6zJajno5r9SgMe0fibX2EtLfKb3bUG9/S2ceysLf5JuYM3qDWLOtdw6XKPMrBNVO5FLzx7a0TEDCI3q7n31va3ILFC322nXK8CaKvQPNoUcH5pUK+okUNddrpd50oz70DjyZ2pXFLkLBtwejrAZ9DfVC3Xdfg==",
+                "mac": "W0OP3LGoIp+BqPwPTlGrNw=="
+        },
+        "database.json/lore/log-5/content/page-02-quote/content": {
+                "ciphertext": "cj8Gdl+051hSua/6r5cVAz1oc0qzxQyRIfg0JmlnYBpSUR+UMyl1FF6CPrI8FpHx4WQr7m09xRgOJSTCjjd9yaccIspk9nbKqItmqobhXOd4ajWPmWbdce5NQwhmjXytDt1cBFyv40mzg7VXRCPBgYjqfaIA1YerKBQ453W1besXvTGl9Yhse20UJt+pQVay3gvY6iZHAkCmldPGiP44Ll1XXkGeVz4OW61LoOQuhZSrOehk7I2SpCPxuXXHpoCEZpzqOa67wuWMLLnsivuyWdS9EUOp29No82YXWJto/Fk=",
+                "mac": "2E/BapmBCxUeb+XFUCzaHQ=="
+        },
+        "database.json/lore/log-5/content/page-03/content": {
+                "ciphertext": "n0o+WUDSnXEo6LQKCOiarvJ2Ro45HWyI1SfFEI+JSI7m4o1z5eauvmzlhsv08ZbWSlRgJZF31C4vSMBcB2Cg62lm3fD3vTURFcdUh7cn8kYoYneSTKVjmCsc10a5uD0nh9gIW1AAPTrFZOrB0sQAARlBXg9Uk6xn7jTKSVLIbavWSyuc34r1FN3DOekcYB5bWbIsvAsq6N0t2br+NQUNHhC9DUgP6UWv1+jYY9dL3RM7ciLstpEDw8vGwCfA8JTNnthQymFX2ANjiCb40GECu44+HpY9jNw4vfviEo5nEJU/6WlbdiMVRP9K6dfjaH3oB6lTT5NQM4dvzwmxrmCc7Lw6fXkuT7K6GVzN6VADD41OI+gzkhMufaRCy0MNzP2UNnalhqIVmD2eMCOd6FER1wGzDHrP0pCzA/iP9EOxouiZ7IYyQrJYP6ndieG93yRmBdYioMAohWETSZr/I5chrylQ2Y+pUczvIbogfOzqUhuOEqdmw6gzBMFXYwgC3HqnfzGxkoFNzyr+aATBqKinU9uDheE2LJkKkO9vLDxmr4iVABtqIALm7AV8lfL4sJtoYfTmhJ4xkuVn8K5PrG4eell5MuHlTrNaSHtfUyVVknCdEp2Dw4lPFP97EyFLAze8bGSbExGjYw7+QIYtozH/OiuBLtqbUYkoR3QlFeZE6JY=",
+                "mac": "dd/K5mXDe7CiBc/cQVjZJQ=="
+        },
         "database.json/lore/log-5/title": {
                 "ciphertext": "rYOw3oSQazN+bjeri6tLjTAk5CkfbY/HlR7omDsJRww=",
                 "mac": "prRZ5Wyg+UQQ/dU2ZIV1GA=="
+        },
+        "database.json/lore/logs-header/content/page-01/content": {
+                "ciphertext": "tZYaoAwNT+ZKriTdcbhG5V1IbsdbgzF7oAWYJALgfFF5pzru7mqxSwyZ4H35tYrpbFQlyWTEWPNe6UdePtUdGPGYJKmXUEJU8IM7Iah4e04LjmsOJO5a5BPFdNTDVXMW7t6evYFiCAasLuDxL5K80g==",
+                "mac": "PLTkScX2whXKVpPeCBCEJQ=="
         },
         "database.json/lore/logs-header/title": {
                 "ciphertext": "qQ64Nn7/x3O2uaeyFl5RYLSPFmyroXaiyq8cccjz7LY=",
@@ -12073,9 +12431,25 @@
                 "ciphertext": "ETc0xHVvjsJXwDqjLTIGzA==",
                 "mac": "skBWNcTg90vahSZJ1+kIJA=="
         },
+        "database.json/lore/milky-way/content/page-01-01/content": {
+                "ciphertext": "CzAI+0lCsjxiWgzB74vj6pml4K7Y/fjUPO5bBhDEXm5KCB79N5/JTPFMPuYmiUtWVJCdvDwLWT8xzOkzTaftS0m6U0rzCdpzvea4CaLKeskQkxG+czIfErQVck500OLlwFancjy8LEQVQVx33VgmvCoexsQY4349+4KK19i5PmEejiMBQ1/FqRFcAWAf9R7BgEBRTfif++oTqRVgwZObRADkjGYNkGM5QiAB/uxWo95OmmeMWRppntssMAgzyhCThqwkHk16p1//+xDNB2kCkNNcDwX2bisvP/zrVj/dJ+relYCiQn1Gysm150jT0jGO",
+                "mac": "ySohFXsbY9Zw/99zZdvfKA=="
+        },
+        "database.json/lore/milky-way/content/page-01-02/content": {
+                "ciphertext": "BuN8ndAc2i/PBj+2h+okxlh84kBfHKtOdbq9HvMXrd+iYqhga8Qij/ctVIGXDx4B7C/Dnvvg1jD9nH69T6fu15szhRentTfXm5dd1a/ifFNMcfK/6RkBonP1tsz9mssAg6Ybt6EONSmebIHVFJlphM2seDISrPdJIV+1eVOv+vjICTtc2cQPO2JNVGKYl7ZA0DqTOTmaUvkE/dMoNL5S8sWLLAxJhlXXWGFAChzJHVMJC8uxhJD52g+rtrSy5bKd",
+                "mac": "869BOocHNgVTy+BXIv/sOg=="
+        },
+        "database.json/lore/milky-way/content/page-01-03/content": {
+                "ciphertext": "K4rSqxW4SVPDHc2r7/U9qLbeSM1q+zgoycb5Uw9S2ZuEqwQWvnG0UAQjGR1vo1FvTbv3Whumold1xhJoE5SW0jeZztfGsdxe7Hth0E/YR6eW9NqzHy0+Fjs3zBGd2/Bta0XX6lEwAPOKuVuczU8htC+OBp20IMtTwZiez4Z81eASSyDEcOEOT4UziW9B4SpqjQ6firVmN3apoLO1gRUmFPjb5wNZ2d9QSZGtbzBXtJo=",
+                "mac": "neGA6QKJuCCiaHeiT9NGeA=="
+        },
         "database.json/lore/milky-way/title": {
                 "ciphertext": "8R7vPisPYxSPPxI3NzlrNuc8gQVd4HVCLavsySJMZ6c=",
                 "mac": "Y1GbG1fOvoONPNVcnNgZfA=="
+        },
+        "database.json/lore/money-trade/content/page-01-01/content": {
+                "ciphertext": "1p5Btxmw6XySlY7K2jdeFfNFAmweBnY6CtUYmJ+cxPPBlqatU6NwunKPQF8tY/IjO4WaA1nPcVwvM/IkCkWADmSU/ad7QwSvhZDq/Fk9HNiM8z5JqcFqCpM6+Yeg3oz9PgQiP8kOJ9kJpZT0nqJzS4cy2navbiIChacCWSbPW20JZqONf6ASCtLYZTT8tbwqOlUM+QVRe9JIwnCdFFwijPGu6QILOE3pOe23BcnooblkXIgYX32ZJMuTY8lrqCN4IHk2cVRS+k+EpyBOX0nw/8P2zRmci0XjTvb60VkmJUUJ0RTAxmin2VoyDnfjvLYaKM12DiQVXoTAzihrC2IfDzHcfukEy2KGs81rmlcxxRQJZ67VHEVb5ATzyTDTKZHGF76dmspCMwa+dPPDQxxB2AqHBiTdrpKXWqXpd83MgV7CMH0HCNAANrNqjgahu0NNXTqEEVv5b0aoVKgCpaoxQicCW6g/9QLKvj/xahFyZhpJcsh1GASvEBxz61K7OeTqJyGFGOhveW25HN8yR/7mM0wR8P4yVZ08HNK9xa+Lt1dY3Q11wJzJxZvwf7G3X6mEauRe/mPjmsskpjp4uDtNHE2E8jMp8XL9GtLmKYHxoIyVYz3ncEdOcwVwmuqW2McBBMdOnQ7v1NdZFBVh1yxPHcH1I1mBzHJ0EzQeJguqCeMdNFElKO758DrTxUdKI2Ly",
+                "mac": "x1IppOVZBU7XDg9/+7fXdw=="
         },
         "database.json/lore/money-trade/title": {
                 "ciphertext": "tMfqnCWguCWPe6NWCXuWTzo4+mgNyiJ0OmwlhxErY5k=",
@@ -12089,9 +12463,17 @@
                 "ciphertext": "wXIIhkrrUtDk4wOquigoDOSls0YHrA7QshD46O+JiTw=",
                 "mac": "IeTWIx2qw8hG5gkZjq6EoQ=="
         },
+        "database.json/lore/old-war/content/p1/content": {
+                "ciphertext": "yuFdH6LlE1SQN+evqwstlZShCDGPAvcGtmeU8GpEJdBWwTR/l1DvF0RFAybx8Oqi0lTxmtqHKXsq04wh/m/u3ywU+yy+FVZp2Kni34vAX0tjov9/CTYtvN2ekyzUEIo+AoKOYUbE4PH7lwnhpRxdFvs1jA0nTUruiem2E6Dj/Nkf6+1LKgEKaB8VA3FDSoDlBUUP8eoN7VKx5N0oGpTinJGvKDZFRnFCeYAEGyOT4czIcvr3dMjfgSjaIrTJ6uwoY1cBLxet4NidOgQkuwa2hDlzI186WgjCCOTVhTMxBKZaCQjRltV91nXJhbYSQvToUVs8GHkDmurE3kYfM60M37qSYj6V7ZJfQUZ2lsyJnpsKdE2EQCANg38o0h6KcQnM+ObeDWD9WggKeNHd0rF/i+ynX5orEJLuEdGzlND1IvGrXHfIZKsmDgT/Z4Kbj36AZ1ed+afyoWeOhgSoN3hrW6cJnQuMW2hpy3SRrzSA55yXEETbMRl/oz+3zhhBolcKmpubigC7MU+2QPfa2GKFWjZsayiF2cZ9Z/NL3WNzSGtqhZ6hcXcKc8k9fqdtK+iAntRmiEnZQ3Uu7B+pOndVws8IvLaMqbNajskDc8j4QkHDGsc/d5AqlKl7+Si4Ow42SwYT5WLD9bZUb7WNAwVMinGkezz0x80x6HbwnOk+e/9rUv6mIOud1bwe3A6ddlMdqQ+xpi/uHbg5JnQs/FYu8+vTMYu5Z6mJBpiz8pCKKpJxJGVzkV5YUbtnbTpEdLRgHV7uObpWRLnhcriYOQdG325WjLiso/Nio6VHtNVXOkmMUaKjf4/1ftODLnl3qKnNpyfZmMEuCy3DgDhrzYisDhuVYFLv4VMUF7M/ZjbnNC9ph6C4IAlYhbHbF0II6iQfbkJZt5nvu9mr8rJQfeJMfXdtyotQJv0S/2VaCfGPXak9gzBWlmiL7ZTLiz4DgFNW+2wvXAw8d+9l0z1vt351zvHtBgOC5vNzTd8azpvyh4X4WNBNBFCLvqBbBaPem5VHQOY4iTU1ffpMQMTh6YvC+iFgEtZTpVwrDokuQHXLhPIbyIiLRB6QQpHsVuGglEY4N/eDjO9vyF5BZnubxaqm5b7tRhe69YhhzH+ciki19r79foh47auT3JMcKjziw9YpMM3Dq7QTNpxhnKNkVMeezaMPAFXtfEJtdIsdp08QUD/h63djo0N+OLPiHCUGkK3BLczO8Mt8e72ERsKzVkWQyqpKMejVcTPMobpFoIbKYOs=",
+                "mac": "Q9XnnC5/8mnU6NvULXnUKg=="
+        },
         "database.json/lore/old-war/title": {
                 "ciphertext": "qLhKX0ZYZjg6+T5QFkuHpg==",
                 "mac": "OXYGZ3Y0ZC/ComfOnXdKSg=="
+        },
+        "database.json/lore/omni-gilders/content/first/content": {
+                "ciphertext": "OBPyJXxGOKMtoKp3/F8aTtnmSG2ChBk0LZrg9JbipggvArV6YlGWwuQrJm+/sS9W2Gd6Xr1h0E0HXxTkp2fUIw7+RIFGSb7Kifw34moyPfzpg4wHnBUZ9JOZdpxHZnvDBkWguDht7yO+aJgExSjANSkJ0FwYkP73CLsp0h7Ae8QgraLAuS4Z7aFtN+Jg7DIMSigCZl93R1Kstq0ZKd6qzH03pcmO6hmBk17BsoPW+/jsW6nza8p0IQAXXIo4kDq93ZJe83lZwOCo0j4YstAgUCMksMBHAHmhY2PAnwCYXdhMxT3i4mv1UnoN4VGZTbHZD2/8869/fbY+QbCMCnSkCWl7BdG0dxWJ15R9xg6lsQS1Q4xoBQTCOntbeVPYMAEY6SXGSEG8CjtSOP40jUa0Ux5kuaHInDdPsl/Z8l2XGC6fki4Vh7ptt7wo4aMAx+4+u6plXdWLm04Cu0PaN3FOxKo0gORA2DuptasaKVOFeAb2vioxIHEotMcjqxL9oerc7Te04SKUBlqdmkPdKEnb9g==",
+                "mac": "y0ckRikCBpPbRtb4bcqKdQ=="
         },
         "database.json/lore/omni-gilders/title": {
                 "ciphertext": "7UBeVPGJqWlyygsUwSv/ug==",
@@ -12133,6 +12515,10 @@
                 "ciphertext": "Lne3F1j/3tZLi9L9Mrvz6w==",
                 "mac": "DluT040znqhgt+onooq8Uw=="
         },
+        "database.json/lore/player/content/page-01-01/content": {
+                "ciphertext": "Lv6+wXJaqJMLE9dOI/ejKlgDoe7XJQZ/elAnUOeoCR8XvyNHgM905jlEZyY63WmLBTbh5r20pUpReV9u+MkxHtMI1Vqv2tgIK6WAHlGu5sUQatX8j8zJ1tcQ12ZiZC0pD5IjiPlX1pluBg0NMs5+nHcYKWmg2U0XRDg5OSlFxdQ5BWt0AjZHoY9/5XsNj3NfyCcaA81UB8vp+6SOIbX7+zLEY6eZ2Chgks3vjlhaqO0Nz4zutoDm1CLr7l6pLoXQs42R74YIxna1TyrXdfEzXUxS9KUyGWvT3FbpEIqp0PBmmxwzlTSwiEx6sfJ22EkE4qWB+XOFh1/irk8jg/R0j21PaszX79ZF2LUJ0G06jbHgedSHvY4821fcI5cC1u6xiQDDjGzwyYwz/mwItjlpkEP9KpFm171ohcXkhNDU6L+1BLBHkbWmpSooJdk66Vm6ms2FY87ofA+i9gDrWuWZMpEXPyBO3BOXCb9Ez7PBOLNEx0N1X5iAwePBDlzqaQdyAm6+dAqEnHvX0eNamjkGYjuEgKp5ZpvpydUbvml8tOAO40uPud1bOQ/3u2kv4sCE",
+                "mac": "JIVHzmuqrwTHqYpPrCQf2g=="
+        },
         "database.json/lore/player/title": {
                 "ciphertext": "a31ShBjQ+n3fRCHM/0l1rg==",
                 "mac": "wu7Da22aG+go9QvIR8W+Lw=="
@@ -12140,6 +12526,10 @@
         "database.json/lore/playground/alternative": {
                 "ciphertext": "n5CIg5kgn+oZRlzU9cFq5w==",
                 "mac": "mcBNBLT6SSY49fbPOqYesQ=="
+        },
+        "database.json/lore/playground/content/page-01-01/content": {
+                "ciphertext": "qx2IMnd/dYhZJgy4Kxc/cuhjLYzmzafYGuVdeOwIJ4txE5SxFgFerKaJTPqwpwZQZNP9K5iNYcvGLtFLgCpqdHan/pZIyIZrqmFA2kpeQ69UKy3j85KxmFXHIh6jbqpNOmGLtmNpMYILhv1c/wc26F0zK3V1pf69sFldNvg7HVLTq8Gm+rt8xBCu2COt+cLjau66RBX5YRRuFF7+fBLVJ4H6Kj78Na8ahWfzzdyjaclPS+opotrdexsSdePtBhekdJ9XSvigmAB3y40Evs3Iyg==",
+                "mac": "wubrMmUB6Bxqf1LHYJ+BEg=="
         },
         "database.json/lore/playground/title": {
                 "ciphertext": "8oIqE8mUfWo2Bivvt0MihQ==",
@@ -12158,6 +12548,14 @@
         "database.json/lore/prologue/title": {
                 "ciphertext": "9rk22V37pcaC/GsFWBTZdC4PZ9V5UnshySEtC6tM0ik=",
                 "mac": "YAh2dOPpdBlnrGQ7s4g1XQ=="
+        },
+        "database.json/lore/real-planet/content/page-01-01/content": {
+                "ciphertext": "XPKIgJNVb8EWKB5vNxP7mo/+7azLEg0yn9W41riwKALNkV4thr5lceQVPO4UqbZ4ZPbpwMWAMTYh7VF9cZaFlmq73ibWVJn+ttAy8fGnkuI2FOTSpPKi8rdOC0QeSxKgYs+MxneDAW50K6PRIq9sZPKX2TTXYXzilyEMjGA7LyiBNV8Gk/3D6h6ODlo4opo4vF+I/kWXvAH51AQ3fAq1/jJMM4v+dcguLRgHuzgIPfs5qdm9Id0SYSI6FRD0HquVrbhtBP+Iw9PNWjfPbC3tTq6zPWY7KQzF3fJCaydNAwDeiwKpKSo741Ba6173LV7JXPzyWzPvf8Ps51td/jHcY6/m7vCBcXNlG5dPoz8tYq6di1p14RoK5PJpawwrTa5Mns+sD9nNyVg1EHclVHjRH0DXOiS4lBKY3c7OOiuu3IL+9XKYwwqQuJ7GcMHZ9BBJyB9Y8BASJaB0uINpZTyje0Ku0twI7BAR50GLRYOJq6HkWFrga8zeL0xP2Ic0QLOYmwi7aqxgefhKLFcEI/tOuiv7+jQm6xUoqIgB6NyiNyhFvUmtqlXP9PVwQPJuHLZf9unPTKDaJ43XDTAvqki9FVp5DV4vHiZWKzcjV7ehBMte6kLEO6Q+Kny45nZ+rwqCyGvHsXHrljnC7wE5fUgB8ba/t1AN0WB0dAcqsbjnVpEXOpgroX3Zo5kyiYA9uI1c",
+                "mac": "fyn/Rg8fXDeSaHeAWuIEVg=="
+        },
+        "database.json/lore/real-planet/content/page-01-02/content": {
+                "ciphertext": "0xGYF3b+BIhor1axUvxhL8s9fuDS9aogLuPt0dmwuG/TShMHEmJSrkjC8SbQoim/MiGNKubLqbnHyGAi9zDzhl30ll+xNYNyjf70FS3TdEfoQ+eDrgxzFgwmejGjfs6jhe8RhLHTLcR/nbQ6RzCPAWPYr63+PURsQ15cXgZ8GGPS5/Iiptp8W6n2si0/3jP9k4WRzXXlMsvBbBhhaEpo8x1GkBjSBRPUhZqGhsIJoa8E2MZcAEuJggn9v2edsu4wP6wrZSTweCihfSzopFDEGklsWyjYoNLzLkJG7dxH2aXDFJ+x24ofE/ed2Pkv6Vb+",
+                "mac": "YHyHMM7CijP+u3N3VJApfw=="
         },
         "database.json/lore/real-planet/title": {
                 "ciphertext": "EWT9wZSzpqfOSDBEfLxLjw==",
@@ -12256,9 +12654,22 @@
                 "ciphertext": "thnDE1BXHovBVdAiFmaBYQ==",
                 "mac": "rNADxtcVd+qBg3FvDmsedA=="
         },
+        "database.json/lore/shock-dng/content/page-01-01/content": {
+                "ciphertext": "Qem3pc+Dkypmzr0wv6v7vKc5FP19jXRecWg5wWIm1XLiK07HMiJ21EU1aisobTZBukJZe4Se9hfWmyMCBIhUW7AnB7tgQg3HLwWtalDEsYaQzJDq2aaLBQoTwP5hb9eMrz7Ib87QAp65x9+DO5+Ts7+rUWrRl1CE7TK+dB3jvVyX0Dmw/RAq55uumkOJEDokJKFAdqGJ3O8jdzSMfouMMtXnjdXM1jjcMu5uL4TQoxQVs7cfJVqNxUhQ9sdJ2sbhJ/rIZDftMnBTG3kCPu/MEUTl/dKSBhVfGW0Zn11DT0Qy4e7sHdIZ8VeZ/cj+NndBW/r8nB2F/y6IVFYiRXhpz8lSv0D3Q5KZzJWkv5nw50afWP7xcNeSDMyN7535yNN2Vfnvr5wPz/3UHWZiKknTpbyR4nRRWib9GrlICLQ3QtS8EUYiolq6oKfOBGx1wmDomDAw3e0w3ah3eYEhvfq7BMjPautTkfLr+DcR2EpvfZFPMVQyBAtBeS0WkpnUUVxE",
+                "mac": "5W+OmsOpQgGu01+1RPFUsQ=="
+        },
+        "database.json/lore/shock-dng/content/page-02/content": {
+                "ciphertext": "sFQKvB5NlE/DJuB09WdqHrOyk6kDGoegEst+eB987K3NS7OVKp7pMvJ/C0HzdS/elykDt+tUdoGPBu0tM0l6/jjRtPwQVPKEqJ7g/IUaJDxGtc9eQtrVYzvejFKJR/MENE2fOjGgBZYsBZBr26gEgj/63BqMnUL3xkvsVHafmYDZyIktzvT5SB4D3WkMfeihuBOAN3kMyBtiWQ9OBDXuDrsQr7HF0L21rwx3ZTttiPJjQXizAGElsik+GMaIJJtunYnzUUkeOTOqW6+U8YV2OL441t0pLrEEKVCu7Zlk/jnXdPpwRQ9hdWcfY4kiX+oDybmJAQbwiJh/7NOttSYAaWQQ6fCdG0WhOwX15KU51avwCxCpiCKEm9eRatYY3KHBPggYSmQ/rEdlSTPJTla74uXaFnPact4l76fDnbOFSgA=",
+                "mac": "LeKKJmpWeABe6FyHxOqmdw=="
+        },
         "database.json/lore/shock-dng/title": {
                 "ciphertext": "/ihhrRUAS0UNhXcs0ufe5TlGpOURkVFwiJMo2m3JW00=",
                 "mac": "tc80DNQBPstwmLJylb24rw=="
+        },
+        "database.json/lore/shockwave-dng/content/page-01-01/content": {
+                "ciphertext": "Pq+0mhaalF7xAs7u+2V2I3qSPnp/NNE4IS8tjGIhU+AfLlpx5rSU8a8fJMEx3uhNNc80NbOGdrb7R+903i43IDFdF6id65GopAopcVbDlbUijF0nRBNh8MjN/BcFSdQ27LbMlZjlusXCTmm01isicE2ONXrXcedar8FACbXHB+3Ff3FpHdztbW+O2tTuT44hcCJAiS8JECHqx/JR0w1227bex9NfyJcAv/vPDHXqF1VP5Z34pERPyx31BPkOzL98GwrAOV2uz6pnQ+jtcYXRTqcakKCu42FnzCK4D2PHbd1/45+JFbbLnQt9j/+40Pqz1/y2ZDhUjs5jD0lEiT17KR/b5KBJyMtacyzLaTr+Gk6/AuBnFFfw8kjsDTZmg1dFEsmyy+hKfm5cGz9EBByz0a51RHHjw7GKU/fD9RxiedxBmqvuZZ9VIktsS3SU9XL1a+vQ2JXAQv47HSKwW52CayhpX3ztRlsS3ShA6WXRWLoJ2RfcCD0umUbofQliRo6xGZsbLxUi81iWrNVLdBtXz81hSoQ5wV4/wbqvSHRobIoOrjARS6efxMzDh6n6HDI+iBIpYG84gcCLyLIJNPGx1ESSqtWrBTyXpjTRQoY0tDTQu5Sw49aHp/x9jXnHVuZw9o3tM6Dg6Pu5XtRLHcuQAw==",
+                "mac": "wmrsEKy6NN1t/3ZNNfQrrg==",
+                "ciphernote": "zmdWVNB2JfTPBIm0kw4fh7fuJY2SSLix2wx7r1XP2tsUSGHXl0fR9O39mzQCL+ZlXJtaLrJlZRrloyHazeROiOaecogBZz3tlIsZHCojm3I="
         },
         "database.json/lore/shockwave-dng/title": {
                 "ciphertext": "AsEiuybK71MUorfc2uRhPA==",
@@ -12271,6 +12682,10 @@
         "database.json/lore/sidwell/title": {
                 "ciphertext": "EmmMV1h8bc4mdqTcPUcUtQ==",
                 "mac": "jyo0Rn1gaCbNIuYyN+USRA=="
+        },
+        "database.json/lore/solar-fist/content/p1/content": {
+                "ciphertext": "3yHmH8op7+fLkqAf8fmZX17IgKj8YKT6HxZR3pMjpVqNZX6eCQJHKyFMogIJSBmGcWX3Ez/01ovqTzVOkXvdDeWhsFspZh49Iiz/jAJtOgxALhf6w2jeoiLAq03TlGBdUD2326DEA3sYLeWE7yTXEAZa1N+xECyR3v2gzCd/6GAoA3Ox/7AfNaxpYDn2Ka2jw9Of/jnW+YBYU9c2prUdLHqqUauwXupf01oX9fRb88gopenDze6chIB9Cqy9B69QZC16qaoMPuQnBAj7xP2m0DPNcxDV7nnArGNfbqkYC8nWuSSzcqyhkm6AeCX3vj4ycuodqyJNKF9vBnKMiChw5A==",
+                "mac": "bgUzVwqnBom8a60q1ExXRw=="
         },
         "database.json/lore/solar-fist/title": {
                 "ciphertext": "xnTS3AEDbZQnvW0biA522w==",
@@ -12347,6 +12762,10 @@
         "database.json/lore/virtues/title": {
                 "ciphertext": "qLYFzZshwSxBlsXKB/SZ5g==",
                 "mac": "my5cXwNPfzbte0q5Krqssw=="
+        },
+        "database.json/lore/wave-dng/content/page-01-01/content": {
+                "ciphertext": "J1wOtpjXtYPkpXvCZzE2Jbm9dwi1PgajbjTI5KY0qqADElGUydqq1csckxFcFptyoMnFcnBNTAzBY1+MGKFriUp+XJx0DUS0Lnq5omPDFgRrK+tu0QkpAPuHxFk1zmzOdQWzYbbjsciWPvyq+kkbqO66SuFGqFGTY0HI3UN2J30gXMZy9HI72cbKgUeyE4EuujGRP1UATH94s38PELiCvVfbl1hGybsxIWpBafoLBYEO/UTNr/4L8NrYLXdaaN8VpOuPYb8y+aRNP0LQjqovJW5rE5UV3iF1JPm3gJRDb1ROOulj7ZMf6tlNSd/rwvrV7icK5DCAiG1xu9xMelOwLh689TGsU1u8UMcjZhan1QnHPntgg9BZK7UV1qV8OfTldDDfiS93d+0IEvUBt4JjtSvg/bpxmpHGS+8qmX1J1COFZI2/WaaInClivVFFQPsvri38GVMSJ2dgU4UrakxmVwdpFcWfUPACEjJ4vmJU3YZAHjxa1QPWCe5l9amsTh0Z",
+                "mac": "78npKGcfRwwghxKSsNLQdA=="
         },
         "database.json/lore/wave-dng/title": {
                 "ciphertext": "KrpdnL57bsTk4/FH6SzOOlgWzkeSzsgqVwjw8MDAd3g=",
@@ -13190,8 +13609,8 @@
                 "mac": "nnPebiUMmtmij/kHkSLITQ=="
         },
         "database.json/quests/bug-hunting-shock/description": {
-                "ciphertext": "sMpMZQMJHzQuGLH/eS4u36FsqXdjN4x0knkLH9p1By0/KCVAgdncw9FGKMOpPUDX21JMRtxiceBZhgR7E0jm2s0i+VsKPI5vcxKpAdCajSpNI+3AFp9VAdeu9hE5lJ20d2OrVEZXXzJrwvagScQrl5cprjtLK42SwFTbKu6vPug=",
-                "mac": "XAmTMI5n1ZZZqoVOjPlKPQ=="
+                "ciphertext": "sMpMZQMJHzQuGLH/eS4u36FsqXdjN4x0knkLH9p1By0/KCVAgdncw9FGKMOpPUDX21JMRtxiceBZhgR7E0jm2k3TXr6s1cnagXHTdkdDPUGjpGt9rCu754bRX9b6dOK6gG8ZnQhz3lu/seDlromI905t+Jv/FjrfQn5PUTWoQ9rcIowLToaRG7zHc20D+ObMTg+jcHoRTa1oRwgiH53p+w==",
+                "mac": "o+BVn9N1T6jtXJ9wu9dTJw=="
         },
         "database.json/quests/bug-hunting-shock/name": {
                 "ciphertext": "DYP16VjzTmpjLL9a3bqmdX4Vp42auH9YPZXOTPd7Ado=",
@@ -13202,8 +13621,8 @@
                 "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
         },
         "database.json/quests/bug-hunting-shock/tasks/0/task": {
-                "ciphertext": "Xu857U4jyANcULeQEYADb7SDC7LVyCGUV8wtwJyRMaFr4PG3IgAQzn7jdjzM/twTnpmQhykXeBM7myJMKT5aP+OHPoVkjofzwD/JYn9KYDm5zclqxmaviSEeVZwVo1i7OkR6w6ebfMRekSAmgrO8FPmNQIACzPc6JbRPwvBaJDM=",
-                "mac": "wjGxysbI7tqC4NdfIJDoQQ=="
+                "ciphertext": "Xu857U4jyANcULeQEYADb7SDC7LVyCGUV8wtwJyRMaFr4PG3IgAQzn7jdjzM/twT76fM4Nz6dFekK/HRhkHPrj06Oy5O0h5RiR6LNzR3/bHIluM6ajbWIs+d+SZchwk5HCyUMK063+juSW183SY+37oOFDrIDrPzg+REjbP8xXXyw0E40sOHt1RnxSR2dP79",
+                "mac": "rENgCICwjVVVEbakC+sjXA=="
         },
         "database.json/quests/bug-hunting-wave/briefing": {
                 "ciphertext": "zGSyHnNnoywWKxTnjGjFt5eZ/pENjuidvhIWCUGdY6Z+MND7sKaL3VZzHBJK41Qd4Dbw4kakFNqPqFbvHjxR0FBiv5n/1dDN6u0MUUwvPaDFKc3mlTvWqkG52JxO6GPQnZum8181d5Ee6fCLZ+sjV0mEXe3Aephxvh7qjz/QHhe3vxf7YRTLBXhnLEilMuQ9pkkgPfXaTLU5qiI44WZ8Hg==",
