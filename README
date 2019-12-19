@@ -1,29 +1,59 @@
+= FR =
+
+Une (mauvaise) régionalisation/traduction française de CrossCode.
+
+Elle est terminée, mais ne parlons pas de sa qualité.
+
+Les retours et les tests sont les bienvenus. Des suggestions pour des
+meilleures traductions sont aussi les bienvenues, tout comme les remarques
+méchantes des ayatollahs de la grammaire.
+
+Pour installer ce mod:
+1) Installez CCLoader[1], un chargeur de mod pour CrossCode écrit en javascript
+
+  1.1) Téléchargez le dépot en cliquant sur "Clone or download" puis 
+       "Download Zip".
+  1.2) Dézippez le fichier
+  1.3) Copiez le contenu du dossier dans le dossier d'installation de CrossCode
+  (Si vous êtes attachés à votre CCInjector avec mod-validator, vous pouvez
+   continuer à l'utiliser)
+2) Installez ce mod dans un sous-répertoire de assets/mods
+   (le nom du répertoire n'a pas d'importance)
+3) Installez aussi Localize-me[1] (« Régionalisez-moi ») dans assets/mods
+4) Démarrez le jeu et choisissez la langue "French".
+
+[1] https://github.com/CCDirectLink/CCLoader
+[2] https://github.com/L-Sherry/Localize-me
+
+Si vous voulez contribuer, regardez la section "Contributing" plus bas.
+
+= EN =
+
 A (bad) french locale/translation of CrossCode.
 
-It's far from being complete, and let's not talk about its quality.
+It's complete, but let's not talk about its quality.
 
 Feedback and testing are welcome.  Suggestions for better translations
 are welcome, as are snarky remarks from grammar cops.
 
-Installing:
+Installing this mod:
+1. Install CCLoader[2]
+   (Or you can keep using CCInjector with mod-validator, if you like)
+2. Install this mod in a sub-directory in assets/mods
+   (the name of the directory is not important)
+3. Install Localize-me[1] in assets/mods too.
+4. Start the game and select the "French" language.
 
-To use this mod:
-- Install it in a sub-directory in assets/mods
-  (the name of the directory is not important)
-- Install Localize-me[1] in assets/mods too.
-- Either install CCLoader[2] or CCInjector[3], at your discretion.
+[1] https://github.com/CCDirectLink/CCLoader
+[2] https://github.com/L-Sherry/Localize-me
 
-[1] https://github.com/L-Sherry/Localize-me
-[2] https://github.com/CCDirectLink/CCLoader
-[3] https://github.com/CCDirectLink/CCInjector
-    you also need the mod-validator plugin for CCInjector,
-    if you haven't installed it already:
-    https://github.com/ccinjector-plugins/mod-validator
+
+
 
 Contributing:
 
 To view/recreate translations packs in this mod, you can simply clone this
-repository and use the provided makefile as follow:
+repository (including its submodules) and use the provided makefile as follow:
 
 make generate gamedir="/path/to/the/crosscode/assets/"
 
@@ -32,17 +62,13 @@ gamedir="..." is not necessary:
 
 make generate
 
-Will attempt to generate a big JSON file under translation/french_translation
-that you can either edit with a text editor, or add more translations using
-tools/jsontr.py (assuming you cloned this repository recursively with its
-submodules, or else get it from https://github.com/L-Sherry/Localize-Me-Tools)
+Will generate a big JSON file under translation/french_translation that you can
+edit with a text editor.  All of the translations in there were created using
+tools/jsontr.py, imported from https://github.com/L-Sherry/Localize-Me-Tools
+as a submodule.
 
-tools/jsontr.py --from-locale en_US --show-locales en_US de_DE \
-		--pack-file=translation/french_translation \
-		--gamedir=...  continue
-
-You can then use 'make gamedir=...' (or just 'make') to update the files in
-packs/ and commit them.
+If you modified translation/french_translation, you can use 'make gamedir=...'
+(or just 'make') to update the files in packs/ and commit them.
 
 If you can't use the makefile for some reason, then read it, it's not
 that complicated (erm).  It basically boils down to calling packfile.py
