@@ -235,7 +235,6 @@
         "maps/cold-dng/b1/center.json/entities/36/settings/event/13/message": {
                 "ciphertext": "LdkVwufY6Xo3yRsU7Tju43UbRxNWpAvIuleKU2Oicms=",
                 "mac": "3yk5tAgMQhvIYm7pzdIx0g==",
-                "quality": "bad",
                 "ciphernote": "5Q90FWwiV3pZwtrSomkzsZX1/GH+nRkbI8uvZ6uwGys="
         },
         "maps/cold-dng/b1/center.json/entities/36/settings/event/14/message": {
@@ -472,8 +471,8 @@
                 "mac": "oEMSZRRGQN62OGx1SBbRPQ=="
         },
         "maps/cold-dng/b4/room9.json/entities/81/settings/event/8/message": {
-                "ciphertext": "yct5SPtasv1MT6ebf7Y9Ig9LT2J3pzRB4aJ3CGPnCadvfNQ1nqp0EMoeZfZB7Ywz",
-                "mac": "0Z2sQ01PxhO1USyj+a++qg=="
+                "ciphertext": "yct5SPtasv1MT6ebf7Y9Iq0pT8mgJZ8ICqEImaClLSeU4FSdkGtIN5Xj6QryVPA/",
+                "mac": "3WXUtZOYUo17gIQv3J5biQ=="
         },
         "maps/cold-dng/b4/room9.json/entities/81/settings/event/9/message": {
                 "ciphertext": "qgsZjd3hgnlLx/FCKZonyVmwuwkblndqw0VXPjbpYPiwWDGdVHNCqWbA8G22oEKGYwrp4QHtgH7cm3mnyQ2rGw==",
@@ -512,15 +511,13 @@
                 "mac": "ScE8sF/yULvkamq77mp1tg=="
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/11/text": {
-                "ciphertext": "YQPB1E0iXkD25D5eRh0aB3hRraGLD14ZQEy6fs56tsAhd0H8JkBoKdar73Jt7Cz591fGbm6mQ8imcK0X4r3jmOSl0zjAFHK75DoCGJBYL0M=",
-                "mac": "J1vxTw+Vmu+HtSR3ehfWPQ==",
-                "quality": "bad"
+                "ciphertext": "YQPB1E0iXkD25D5eRh0aB3hRraGLD14ZQEy6fs56tsDUcIdaqicOZ8+Ctlj6valjvQR/iPc+Zid/Qq+LuGdc9K8kiVc/oirE4DWolyE2IPI=",
+                "mac": "8Y9fktWvLjhV6L7BvXSp7w=="
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/12/text": {
-                "ciphertext": "RYhaDnuv2R4EbPIVZ5TDL4Tn/1tFwhtZbBOrLGfOt1cKuYZyZ1AAbNY18pI2q1RA",
-                "mac": "k1ZhthpB19iAYPDoTrUl2A==",
-                "quality": "unknown",
-                "ciphernote": "63RgIOITq6VmcbLbxRzwVkVJsE2NfphmoOmhDG4MKkdHFl51Q0TR4ci2grWQ4niAP7TM9BR7nTHoQ6IksOzQ9mTP7lNW9Pg7d3ybVJnOtXA="
+                "ciphertext": "RYhaDnuv2R4EbPIVZ5TDLwN9Z6pTkWYAAW35JCsAZUPGVZU+8mX/n0fCqe5fpjCg",
+                "mac": "V04E0QcefD6n1zvi3TpcSA==",
+                "ciphernote": "dxrqXmEcoUwXlGSzKkx/hqEM4un6MrJJRi59C9QVfp8="
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/13/text": {
                 "ciphertext": "gfhCllXkrxQq13oYCGWHrHzp47Z6yhZc3vhnEyWJ7+N9aFMDnmGedM4IwoSVzWZL",
@@ -536,17 +533,15 @@
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/23/text": {
                 "ciphertext": "ucPoLn+AzpR5JGo6aSBQaRNlbWLYnJvXb6dprwysz5O3v35f5seb6V4CKGfXcDThvuB8lczoUHzsqnTOeXTGzw==",
-                "mac": "jrSg32phxK9anYGLgKM2cQ==",
-                "quality": "bad"
+                "mac": "jrSg32phxK9anYGLgKM2cQ=="
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/8/text": {
-                "ciphertext": "tMJegHm2e6YDjSb89+jRkBik3ZDePs5eLRg56xNscsCGw9fwYwkxawG9AUHm08UkmqrrOmgbYDTbcbrsSjftug==",
-                "mac": "CvDe+l9s7RsToYN8YUHlbQ==",
-                "quality": "unknown"
+                "ciphertext": "tMJegHm2e6YDjSb89+jRkBik3ZDePs5eLRg56xNscsCMxHg4qRN/W3WpnG5jEXjPqAiBoyVb/ToRU8NIoYfzoQ==",
+                "mac": "lUt2cWQgzLlEgu4RovjIYg=="
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/9/text": {
-                "ciphertext": "zXkz8nXSjFlshHAPdac0KC3/x+lYW3vIt90FmRVfAj3TR2cw/oWhg5BI1Fd4VgQB",
-                "mac": "TC5BsIXvMM0BUp+mar6vBg=="
+                "ciphertext": "zXkz8nXSjFlshHAPdac0KNLncyqvXNjU80+tqbGsluQEciEL5u5ykcRdY6m8Tp5+",
+                "mac": "f/IFenMR9jPftY4sDQiPyg=="
         },
         "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/0/text": {
                 "ciphertext": "4QvS4hvnRMRekgegdINdaYqk3ZIzAwnVHJbhT6iA7+stz8ZTTDUcUDaN3qeTQKAbehQNJ87MdEo4X90hnc/KL4l/5q+m43hUH2llhvC2J1+IMAxXFZaq/z3oPKi0hbWUIQcavJGf3m+sym6LKro6OIRMeSa6MgStiQHsKS1s4sM=",
@@ -574,10 +569,8 @@
                 "mac": "KLFUm8gav9RFBVciUJ5HPw=="
         },
         "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/2/text": {
-                "ciphertext": "SfOCh4SW2wp8hdx5MgaUC+iW3PyO0H2l88MrHmwqkb+orRyb1TtA+doJlzXfHxfsStIKLwA5gq/s0NFZJRJTayEvQaZjOp53OYDiK4eTgiOu7eFMK/SkDRsr9huI3yTH",
-                "mac": "71VXoAH9Weg7h7OwSAx09Q==",
-                "quality": "bad",
-                "ciphernote": "Dohk3oTdaLFUdgOtK+TDG5mdY4vzCNe03b/NMCAY5DOBkEu3SghXMHN5wS3EbtSvE5T7nr1YPQFyixbuGHN94HgGQr87ne2775UuwpemVYQDBxgKhlgV17tSRfIMGlw54ZeITYoSO47mtdmnrG+8Vw=="
+                "ciphertext": "OI1HKkhjyda4uAtAVH2JSKRpXDEhtlwJyh0NwAhSEh1Ru6BRUMHGTJsFawzsHRVUSfPhnZHEjtBlL6bd9jBtSMfEk8MwQDz6ll6xHAoR1Uzmxaf1gVklYiRzaylWd/o2wzWxV24PV+hr7bvC8epqgURlcr1HkWQTtgp+ttflzF8=",
+                "mac": "h7u2zh8Be+qcZswUCWzE0g=="
         },
         "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/hoverText": {
                 "ciphertext": "zpAYM5uUKKYY9M90rDbSzkKIzSENvEOI6A2L2vbCuKA=",
@@ -624,10 +617,8 @@
                 "mac": "UKYbBNNo/cFzXONcWMTriA=="
         },
         "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/2/text": {
-                "ciphertext": "uUER9mDlbhjSSlR9/J+aDx7Ls0XV4JYys/RIjrHxM4hy6tV6eSXYn7SzF4le/R1/uiPE2hbMK1kIson3FwK3USiqpo+S/W3UxjG7aSD4Zc1oMwnMMWk29V8lyCZ/T6cGcGN3V/Py5lFhMZKQsjfQduyF5Kwh7ilBOURdQZVY50pr3rxpumPGB/nyGyQMlqdafgftS6X8/QbMoy7A3rUPKl6lMoBzoMJ8VPkVcq8WyLZBiKgW5ra9iF/mdbjUnws/RpNoOIKVTONw6FHgvplzzssOyZA1SIreeTmOraTM6dc=",
-                "mac": "FeU07FTze2xinf+FQGQ71w==",
-                "quality": "bad",
-                "ciphernote": "L6RcJu98XlPE/tRGx8cB7FEt4C7BCGswK1VhK2OhEYU="
+                "ciphertext": "uUER9mDlbhjSSlR9/J+aDx7Ls0XV4JYys/RIjrHxM4hy6tV6eSXYn7SzF4le/R1/uiPE2hbMK1kIson3FwK3USiqpo+S/W3UxjG7aSD4Zc1oMwnMMWk29V8lyCZ/T6cGcGN3V/Py5lFhMZKQsjfQdnuaOeFP+J8MPOCWKRJJ32a0kwSDHp8OU3J2TGEG18gibmrIFykY2LrcxG5moYVFhLRi88UYlB7lV+tFVHRSgrgv1UBe2N2fcayHjf6QCfLYQi3TyFiBnBySEMmyJ5rEVb9CgTn8XnDiYGATkvRDC4k=",
+                "mac": "NOdVQH3+Fo8YfNUYMFwvDA=="
         },
         "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/3/text": {
                 "ciphertext": "ZffoOVCHi4HvQ8OzVr05q4NUPNfiLCCYUGAMOxWX9H4gHLrZNt1hgy6HWmxUJ5h19CRo/xTivuaZChM2KyRV87VDD6o7YLmnr7xPJuTmF56K+hlq4aiaAeLgD7xykmzmhhHYiVng8pHR9GhlSMRyQ1UI2632mwzlnZcvqXAkRsT01DtvK4Dq6LR/X+3/go4vYXLJtclY5Ux9zXOttx+LkhV8KQRP3FiQu06zjlsL/bM=",
@@ -658,8 +649,8 @@
                 "mac": "hzrfmjNdT/uap5i9g5nmOg=="
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/3/text": {
-                "ciphertext": "zPq2IpedK2NxQMjC0Ki8rgPxZr/BNYDH2sNLXtpPN9ReyMhouNoNG0jugP/PLXcDi1/f6iAmAJInXO3JS+YcSZNidx09xZ8hHxGrrrkCkIs=",
-                "mac": "qlOnCowzmipfxZ6AnQ4KGQ==",
+                "ciphertext": "zPq2IpedK2NxQMjC0Ki8rgPxZr/BNYDH2sNLXtpPN9QpZ4Fh+rEH/EPclPO8/nNyNgm7BkBjNVyBjLrt/AcxdgtxnXLoY9GTn7Q8BoTM0Ro=",
+                "mac": "eah3vCnBjkY5ezjgt5AgTA==",
                 "ciphernote": "5WWwG71qgnamrKD7sgL2HtJFNsifnsvi3uINFO6vRlU="
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/4/text": {
