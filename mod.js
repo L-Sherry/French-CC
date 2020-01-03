@@ -48,6 +48,9 @@
 		text = generic_text_filter(text);
 		// nbsp.
 		text = text.replace(/ ([:!?])/g, our_nbsp+'$1');
+		// normally this should be done every time, but there are some
+		// degenerate texts abusing it, so only do it at start of line.
+		text = text.replace(/^\.\.\. /g, '...'+our_nbsp);
 		// shorter nbsp
 		text = text.replace(/ ([;%])/g, shorter_nbsp+'$1');
 		// there is sometimes the need to truly encode a nbsp,
