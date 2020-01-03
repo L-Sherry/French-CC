@@ -16,9 +16,8 @@
                 "mac": "rBBHhL0PXbk81kRDnRrbmw=="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "aAhSy5T0bxpMTPKWDY4Qiah/5sZItNbJRJIc5mRTApQJWzDMjeMe0p8L9bMcomuy2ly/A//ttva8ldnKK5e+vGF0PgVzGlAxR2eOE1pn6612CstQ26wflVLU3ExbO7Nf",
-                "mac": "Q9khHXvp//44Bdgiv4BSgw==",
-                "quality": "bad"
+                "ciphertext": "aAhSy5T0bxpMTPKWDY4Qiah/5sZItNbJRJIc5mRTApQJWzDMjeMe0p8L9bMcomuyiRP2iah1SI0LLAhxwDRTSEPGNKie3Un22Q0xxs0rafE8AaChKJLMUN97yBzeMfrq",
+                "mac": "S8wnRM31w8hUo9Fnvnvs7w=="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/0/event/quest/13/message": {
                 "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
@@ -47,7 +46,6 @@
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/0/event/quest/19/accepted/1/message": {
                 "ciphertext": "GDb6llo+uA4ggpOUEmk7nj7IDs+9rWAUDVLJ+xFT8BE=",
                 "mac": "Ysf2+sTrF6K7Yj0FT56Xtw==",
-                "quality": "bad",
                 "ciphernote": "qgwwuyNC02Mvg1tbcA4NA0SztIlfB7ZhaA932qkYl7D+jBuqq1zs0FENlBWrjRigZAhYlWfPxh4U83iZCrS0ETdhBx+uIl/M2XETDG1MGUg="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/0/event/quest/19/accepted/2/message": {
@@ -85,8 +83,8 @@
                 "mac": "kJlPXFzjFx/K/i3ouzLVRQ=="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "s5ZLqE1ZulT3aomxO1L1FIWAS+Ju5fjW2xHV869mBYk=",
-                "mac": "25d84UpRIaZRZLuDE3e7sw==",
+                "ciphertext": "BrENUZTsF2mrwR0mmAMDzSZKO5op/DZpVaym9Hjw0po=",
+                "mac": "tzN9FrlTE4MuUZxmao48Ag==",
                 "quality": "bad",
                 "ciphernote": "GWXzkKtdBxLrAamBlLeXtPq+dg+vzgn8BUp8VBj5BnmP8p2Yj8A1DdgK5eyUjFd3"
         },
@@ -145,7 +143,7 @@
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/1/event/3/thenStep/6/message": {
                 "ciphertext": "CICN3J32kjP1A9WzQLAuGAwnBtGoHHLhNFjkOB/e1g0=",
                 "mac": "GPvWKRcftYYTWIq04MoJWQ==",
-                "quality": "bad"
+                "ciphernote": "5ZTdQdA9k6AP8yWQYQ7g0wiNN85zgwAkIbdbXc6JyZM="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/16/settings/npcStates/2/event/quest/10/message": {
                 "ciphertext": "TQjXRHD8ChXKAQxrzw/5a4NBII4NQr5PZhVRNBKIjCOk1JITNM8omP43vyt3fn900527HtULrMFYkZa2XoFqlV/Rt3tPQeeMjbs3WxzzTLp2+cHu+nZd55/bDesI0dbI",
@@ -231,20 +229,18 @@
                 "mac": "QoV/U6Av5q7ySDG4g5j+Jw=="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/event/0/text": {
-                "ciphertext": "74IzeVVHE6LhmYXPBKJtf3PJ7FFXx9wZdFvpxPbx9Vgul1VShjzpA8xEWadzWRRMPT9h6d928uQIueBwJDHdSzPLIviS8sgHMRKyA7+xK9Wkc2ZiOEiCZUQECGh4DceFfXeFWNvaCKVEI7S9xLxRSsXUfWvhr8kk3CqsHxM1ufH6217rSGBsAKbFgYxKGRMEoEgLYoGzxips0wLuU6sIJth6P84WL56Ezyba16TEcv6tyNKoQH7CpPVKO2jikcKM6I46qZupJ2zFjXPlMqsMzA==",
-                "mac": "ezeicJYNghDXdrZMSfFnZQ==",
+                "ciphertext": "74IzeVVHE6LhmYXPBKJtf3PJ7FFXx9wZdFvpxPbx9Vgul1VShjzpA8xEWadzWRRMExR7lovTGAWUrVncnB+/HVsGm13aXGIM5bbdOZby5Iu57dSVS/yGj3NV7iDVfZOz9Pt9bhzM10Id6w9EIH0NRU07MhlsbP1XNwrMQJ2xRyzgIR5wNNmfTut0b1qqBHW98wsr3DF6h9DKjo1i30oLpt4+f0ABzCm68LurAvsVI6y2fVqPDbZ2MNTazHtiDn6AW/6q/9mlO720TsEC1omEkg==",
+                "mac": "fgwFEqOIcE9VQOHghLYs/g==",
                 "quality": "bad"
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/event/1/text": {
-                "ciphertext": "n9wtxGP0Uy2Q5y5nBfW/yUi/ZX1PwpDbyZx0dvIo9xXWrSL4sNEw5o5kQX08tsSrh6p3kdmKBVVAYydhE7cAGA==",
-                "mac": "MYVYb6u1TaToo3+HCTOVJw==",
-                "quality": "bad",
-                "ciphernote": "5yk8kGN0yqVAuIF8YGySpw=="
+                "ciphertext": "xO+PFlZ9PoMLMv2C2ntkEiOYVXepD0pscgO2wU8ZMahb2AvA7L7D9xQoWtEILqAKMUp6NdKi9FZrvtkqu9Ao4Os1xfJTDIGTeSlsh85Z9q0=",
+                "mac": "4silc+V7barvuxWMYw/1mg=="
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/event/2/text": {
-                "ciphertext": "VXXryBO6ZzPuJ9KkbHWE8dD8yGuX1zfytoGZK7nq6alHgJI51JCO4TfsfU42Rixm/mDnM0fy4VWUxog6wNgT3FtN74Cb2rCLl74AYO0gYw4=",
-                "mac": "ZDiCwTAj+b32xiP4evc4Cw==",
-                "quality": "unknown"
+                "ciphertext": "VXXryBO6ZzPuJ9KkbHWE8eIWnPzl4ZwztH9zMuaPUjdc7JKySTodN9gG+mE66OjP1wQfEz9O4ZVjkjnpic6b4puSW69ttMfi6N4p6hWD+9jsAbLfpErDf6qp19JeR5JK",
+                "mac": "NF8UDqrQleHMVflKdTYVJA==",
+                "ciphernote": "S0XaawKpyMStZXyfhg1Qks//lDq7RWGgrffZcSujlLLqhYyt3ZQFToe/P8aEg9s6rnW//q8LKzlzvbsZt7qUnKHugZg+QdLcsAprptSVAxC4G4VUkwsPEp8gy7ZVv7Fm"
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/hoverText": {
                 "ciphertext": "evdqS7XB9NvTeloukd6YQQ==",
