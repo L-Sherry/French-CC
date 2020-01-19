@@ -1424,8 +1424,7 @@
         "database.json/achievements/streak-kills-04/name": {
                 "ciphertext": "DxQSiD9vjOM0VhD/9Q3l5+rM1SUrbQCFVf/d2IK5C3k=",
                 "mac": "YpXH6zhjL+lke2m7QLEpVQ==",
-                "quality": "bad",
-                "ciphernote": "NxZXCAgSxB4daVbjt9k8pHHVTXWl6HSzVdprXpsG0fxzGnINspbbVppr8k/2UxdY"
+                "ciphernote": "lxyI4nls6bzwHI8tnaGnUAYyNmBgLN2QOn8D/2cormUnCmbG5vLfMilSEfdFHYat"
         },
         "database.json/achievements/throw-01/description": {
                 "ciphertext": "NShhabZP+316no5ORVkUJ21Tdl8wL37D1Kva1KDlbpKciL0A77pRrjyu1uLDJTKLl/91cndx+QPTJZcREVIQxTlVGm1rh1zSt5lJA8WseJc=",
@@ -1715,10 +1714,8 @@
                 "mac": "33JrAfvgl2eykbgznLYCug=="
         },
         "database.json/areas/cold-dng/description": {
-                "ciphertext": "r+SHSp97MG6UT+QgK5U8y30cytzRLNGzWy4+7wGJUI2wyjiC40awrQwzUXNAisALKnIT5njDCBAv9YBzaK4kfjQPj6umhY0/L8kC+UaGlYc=",
-                "mac": "BbqvAjyGTGl6LQ6i5OCT2A==",
-                "quality": "bad",
-                "ciphernote": "FeMfvJjDvJe5yljZI7nX9etSWq4+/X4JnsGdbQu+oRs="
+                "ciphertext": "WLr4sTbu+kkaohGRHS9kQh5O5fiEvthlaL9P0ATadwhbDnvuA9+/eDLfJHSLBbJ6GbhY0t3qmkPc/DgYl8kfKorosj4tjGK7pmSeFPLmm9Q=",
+                "mac": "t7bMofapUXAHr6bPN/Ua2g=="
         },
         "database.json/areas/cold-dng/name": {
                 "ciphertext": "R2ruES2NFlntkgrIIMlxfTurbqqkQEBo6Jsr+ltstfU=",
@@ -2001,10 +1998,8 @@
                 "mac": "9ryrRsjFg5aILPJSiYu5EQ=="
         },
         "database.json/areas/rookie-harbor/landmarks/center/description": {
-                "ciphertext": "hxkKxD960n7YQECFX7PkmBh8dc9BAGNGO0a39CeE0mnavui11xIHKO8qgaS1NhjMhET/brKfLppphot5KRccMA==",
-                "mac": "BG13ZWxbEsbp/dhMo6judQ==",
-                "quality": "bad",
-                "ciphernote": "LRZITm9AuUDkqZp5jw5XLw=="
+                "ciphertext": "hxkKxD960n7YQECFX7PkmBh8dc9BAGNGO0a39CeE0mnavui11xIHKO8qgaS1NhjMVL3dCYhEsQfdscMRxm8dKx8nF4El0vPk+KBliPVvKiE=",
+                "mac": "3y09fLTotVwM7GoxN7VJgA=="
         },
         "database.json/areas/rookie-harbor/landmarks/center/name": {
                 "ciphertext": "QyY7YWLq60ivthyRjbLPUxiCrXsNP0oW4py2i+LobfQ=",
@@ -5838,8 +5833,7 @@
         },
         "database.json/commonEvents/hlin-contact/event/1/thenStep/0/text": {
                 "ciphertext": "4sa0OhmiFSmyfLTTd2oZj/TtlgVsb/25g5LJp8AqIDYXXVIH2Lw7O+bt7SJBKee7Zhj0VC0V9s2oRovUnbIQfqH3X5Rs5Bhta32kL+WvM2I=",
-                "mac": "r5kA09U44th9kyiqz1lh2A==",
-                "quality": "unknown"
+                "mac": "r5kA09U44th9kyiqz1lh2A=="
         },
         "database.json/commonEvents/hlin-contact/event/10/thenStep/0/message": {
                 "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
@@ -8732,9 +8726,8 @@
                 "mac": "xYvGOI+hdio839LcJuxBbQ=="
         },
         "database.json/enemies/autumn-fall.seahorse-fall/name": {
-                "ciphertext": "ac73NuEiwzXZcQdaTx55Og==",
-                "mac": "Am9gX2TR0mxlCPUm3UCheQ==",
-                "quality": "bad"
+                "ciphertext": "QXlgcX7ZnKaMJH3OhsmC5GEfSZPV59+odWjJxCqBbB8=",
+                "mac": "/AVPDBHNijZ+8s2GepE+bw=="
         },
         "database.json/enemies/autumn-fall.seahorse-fall/species": {
                 "ciphertext": "LiX9DkODukRvLFi/OtzFvj7c7H1pLb4hhYqsk+p1xD0=",
@@ -9228,7 +9221,8 @@
         "database.json/enemies/forest.spider/name": {
                 "ciphertext": "0YMjh6cbbQLxxatbvMMCow==",
                 "mac": "QvEZskxdldVnonr9NwHH3Q==",
-                "quality": "bad"
+                "quality": "bad",
+                "ciphernote": "nmhEYFtZhUNRXuBZ+kiTew=="
         },
         "database.json/enemies/forest.spider/species": {
                 "ciphertext": "6VSMh2f8nDEfWc2vJqoT1w==",
@@ -10188,8 +10182,7 @@
         "database.json/enemies/jungle.waveboss/name": {
                 "ciphertext": "lvnhDwwK257yUzYAf5GDYvO8B6rSGX9LXvtrhcNtsio=",
                 "mac": "IvcGrTeEC8piQJi0IkCZ7w==",
-                "quality": "bad",
-                "ciphernote": "qgcGRpmFEzWCaic3sdh4X3d0YC75aw0fpIJkbL8zU6RMJqJ0XR/hdKDa0Z/627Rn"
+                "ciphernote": "qgcGRpmFEzWCaic3sdh4X3d0YC75aw0fpIJkbL8zU6QdFIlpxNR96XPuweZiWMn790qoibbllNUxcrPQqnYOymJS1W5MoGs9dLmPXLAfKaQ="
         },
         "database.json/enemies/jungle.waveboss/species": {
                 "ciphertext": "16md5L0Hbgw+vGAx75eBZA==",
@@ -10555,8 +10548,7 @@
         "database.json/enemies/penguin/name": {
                 "ciphertext": "TRDUIskF8KkFf6RXuu/SGw==",
                 "mac": "iwrClXPn/Jfr5A+4cbIznw==",
-                "quality": "bad",
-                "ciphernote": "GNF2Tee2eSmuv1XDFDMHwg=="
+                "ciphernote": "x3yswibqjXhTA8S9leb/ZVZZXeu8eFj2ya3wYko4iFegZmFAYpvxBULlwPwJoKIs"
         },
         "database.json/enemies/penguin/species": {
                 "ciphertext": "tn/keiotnlfkT0rSVWEIzQ==",
@@ -10583,9 +10575,8 @@
                 "mac": "aDg88ZMNnk45hALgFy7Y9g=="
         },
         "database.json/enemies/seahorse/name": {
-                "ciphertext": "x+WXjWiBnP6RLn7fKoCPrw==",
-                "mac": "l9+N8awupmDBSvPuuBeQXw==",
-                "quality": "bad"
+                "ciphertext": "bxmENfy+wH/ufScZWP17KA==",
+                "mac": "ZKDU0cPUu+CFFKegDQLB1Q=="
         },
         "database.json/enemies/seahorse/species": {
                 "ciphertext": "LiX9DkODukRvLFi/OtzFvj7c7H1pLb4hhYqsk+p1xD0=",
@@ -14982,8 +14973,7 @@
         "database.json/quests/foa-4-sick_bovine/description": {
                 "ciphertext": "jQkmwHxHIJ5PrX5N9lbc0dT+fzoKY9+ZnN4wq2maW6kOytyqKXJ1CY1dUoHKYbhhqFjsSdHykhFE+9E87xidXTEqW2vy6qdSaLmDxBDvKL3g9vPqhVsJspRrxEz/yC8wa7Bno6aux2mSwV7HIGzZkYsWQSUwzxyY20vkBVOwcVu1v+GxQ4VrKHT/OoAPKCUq/HJrhOF7n5tj46Loo7St5XpBweYc4dZMjyLf0duNVnV/e79ZhBRNmajC77aw1Nfa",
                 "mac": "ZHCbNDzIVxCzegfXUsDhWg==",
-                "quality": "unknown",
-                "ciphernote": "lTalIMItlaC1YLHZuvD1Bw=="
+                "ciphernote": "ZhdSgduRHqj87rFjmSoWAw=="
         },
         "database.json/quests/foa-4-sick_bovine/name": {
                 "ciphertext": "apjf8qnNHl3YvTLUXvTweLuBQUTbJsf4Mp2au2RT8fU=",
@@ -18555,14 +18545,12 @@
                 "mac": "ImLeqcQdSYl6W516zaHGGQ=="
         },
         "database.json/traders/rookieBuffs4/name": {
-                "ciphertext": "9zCFbPzqYb1xwRPuLcSPow==",
-                "mac": "bw8A5WGdhhIosbysJcrNPQ==",
-                "quality": "unknown"
+                "ciphertext": "TGLM9yo15CMucBa+rZeUEw==",
+                "mac": "0XhFZIJ/WAzE2djBSibO9g=="
         },
         "database.json/traders/rookieBuffs4Ext/name": {
-                "ciphertext": "9zCFbPzqYb1xwRPuLcSPow==",
-                "mac": "bw8A5WGdhhIosbysJcrNPQ==",
-                "quality": "unknown"
+                "ciphertext": "TGLM9yo15CMucBa+rZeUEw==",
+                "mac": "0XhFZIJ/WAzE2djBSibO9g=="
         },
         "database.json/traders/rookieDrillBoom/name": {
                 "ciphertext": "G0xfh055ji2IJ+CwTiSQ/w==",
