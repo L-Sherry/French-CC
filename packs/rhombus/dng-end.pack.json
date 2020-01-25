@@ -82,7 +82,7 @@
         "maps/rhombus-sqr/dng-end.json/entities/149/settings/event/137/thenStep/1/message": {
                 "ciphertext": "anUo6CEOr274hVNEH/ilQxlw64i2F/7hk1amLct8S7hTiy3msXZ+Y4rzpvXDEx0+EtM2kBgcNC5iJXkxbyYzwNTUrJjvuPPll5HY/dQEbK8=",
                 "mac": "/ugA27nvi86A9Jp4YgD++A==",
-                "quality": "bad"
+                "ciphernote": "T2QX3hxMp+NwpD19fusq6g=="
         },
         "maps/rhombus-sqr/dng-end.json/entities/149/settings/event/137/thenStep/3/message": {
                 "ciphertext": "G2q/i3cuk4nB+KH0QyZMRbBI0nvcE2xvYHvhWaBrfe08NHXkDfYIXdUljSdJMwKh",
@@ -403,10 +403,8 @@
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
         "maps/rhombus-sqr/dng-end.json/entities/149/settings/event/91/message": {
-                "ciphertext": "uTiu/5z/3LNB3nJolwdR04/ylKlm7VtSpQMiH8dMRPSp/YoEXiqDI7t3Kb/HUot3zfEnhndGY1oB+rYRNVDBI8+UKjvNDE0kOAWBhP9pn1cuQNZbTI67m+orEyA+x4EY",
-                "mac": "BNRa6mJjLQNdE/jUlH2sCg==",
-                "quality": "bad",
-                "ciphernote": "8Ig+Ph3EYmstgUigUPkIe40nun90GgETX7fIdMde47iqpqxraZVLumrM4gQtKLpx"
+                "ciphertext": "uTiu/5z/3LNB3nJolwdR04/ylKlm7VtSpQMiH8dMRPSp/YoEXiqDI7t3Kb/HUot3cK5oAEY3D/OMn3MLHVcJwsBXa5Q9A0UEXANjOO+j43rzuY3z2mvbDFd8B2q5ScwKd+VvsnktL2emyCRQ1yl6aQ==",
+                "mac": "Kui0VVd5iIR6b4haDk6I7A=="
         },
         "maps/rhombus-sqr/dng-end.json/entities/149/settings/event/92/message": {
                 "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
@@ -561,9 +559,8 @@
                 "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
         },
         "maps/rhombus-sqr/dng-end.json/entities/174/settings/dialog/0/text": {
-                "ciphertext": "vvEqXmoFJnjYxYN3jR7ivTZs3ppeIdf3cLO5w34tT8maRmwCkz6AJ5OH80jyNiRGu8U245fBOyKZcN+svMogHK5miwXqil3mV0p7rcjk44Q=",
-                "mac": "HPvoA3s9vLqlKTKegFIYFg==",
-                "quality": "bad"
+                "ciphertext": "vvEqXmoFJnjYxYN3jR7ivTZs3ppeIdf3cLO5w34tT8maRmwCkz6AJ5OH80jyNiRGoBSvBdrSm41XrFEdB9XmOX41upx/pz99TanYz4HkBPI=",
+                "mac": "nVMkwsiIJfRb+1qSZ3a8aw=="
         },
         "maps/rhombus-sqr/dng-end.json/entities/174/settings/dialog/1/text": {
                 "ciphertext": "grUtgsu+98NTW50/PnccrmcB1Jy5sOwIXA3xVoprLXsqNhIAkO+yME59015cSk7ZJJ0385/3gydbWqNvLG6O4w==",

@@ -158,7 +158,7 @@
         "maps/rhombus-sqr/arena-1.json/entities/831/settings/event/30/accepted/22/message": {
                 "ciphertext": "uKC5/A7knA55Iy26nlLxs45cQYU/4rryya6kbMaQ14aohpDUMuSxb/r1NjBxHo+BNLPQ/HtGWaDc7MCAu6Ahyw==",
                 "mac": "216jWEeRTMnYn5IXk6+ZfA==",
-                "quality": "unknown"
+                "ciphernote": "NfVvbB5GPc4QB3HnXPeTz3dRNLk9r8lnNoQLIWDVlKw="
         },
         "maps/rhombus-sqr/arena-1.json/entities/831/settings/event/30/accepted/23/message": {
                 "ciphertext": "ZoGPwRK+4GJKn23DXhNHxV0V7lFL4oYilR36GdVteRU=",
@@ -282,9 +282,7 @@
         },
         "maps/rhombus-sqr/arena-1.json/entities/831/settings/event/30/accepted/6/message": {
                 "ciphertext": "5wk5KC+wabmUPAJ7S0+Kp1cTYjsZpEk3ravaM4LtRWHzeqpif5eooDbTRbv6jW3s",
-                "mac": "8s+gZYO9oZ62Ul6zo8Ys3Q==",
-                "quality": "unknown",
-                "ciphernote": "w1Etv55yueW91wcrxYagXfUo4d8rK6v7h4P70c/OUMM="
+                "mac": "8s+gZYO9oZ62Ul6zo8Ys3Q=="
         },
         "maps/rhombus-sqr/arena-1.json/entities/831/settings/event/30/accepted/7/message": {
                 "ciphertext": "TruOHQD0YEZokqsdKMy7WQ1kTllv3bssjmWRvj6x5HnJHOYA37wn+nEfnctsWrcxJ3yjoEFA21HgXfOk1Eccks+Wwd87xOYEm6emizZoBvLYahrTMcCHpNJ8lFqgVWHI",
@@ -377,7 +375,7 @@
         "maps/rhombus-sqr/arena-1.json/entities/833/settings/event/136/message": {
                 "ciphertext": "yUMFdmYGxAHjZVM+VECwXNgJ5bL3L0zqiegtEHyBshI1yG5nnVPB2yAco6C80TZW/jmkcR+CoQh7aabHCXjl9g==",
                 "mac": "OSvohWSnRzPhxw4EDynqaw==",
-                "quality": "bad"
+                "ciphernote": "wtxT49JmfHlJMfO/XZ09nsEAj7W/gPUvCPtM6up5auY="
         },
         "maps/rhombus-sqr/arena-1.json/entities/833/settings/event/14/message": {
                 "ciphertext": "Hn5QuSOMQftjtNE3o7/1nE+CTlOY9fzVVQX94avXpZ4=",
@@ -436,9 +434,8 @@
                 "mac": "elGfccxBvJO81m0GU51DUg=="
         },
         "maps/rhombus-sqr/arena-1.json/entities/833/settings/event/32/message": {
-                "ciphertext": "R+SW1xLScjXoCqhaQBsDV2zGJ7h/Mncasiy28ll/S7g=",
-                "mac": "JyT67xjj3mNjcIErTsZI3Q==",
-                "quality": "bad"
+                "ciphertext": "HIc9y+nIVVN0C6SEkhi/D/XvHfttWXhqH0r/DPB2kRw=",
+                "mac": "3NPAZHm7iAwJSuhRr5FHYg=="
         },
         "maps/rhombus-sqr/arena-1.json/entities/833/settings/event/38/message": {
                 "ciphertext": "K3g8kGvEBrQudbg+vn9HHZfHvgW4j6G7Rx1AAE1eVUCHeSNisZ++6MCnA+rRJkhv",
