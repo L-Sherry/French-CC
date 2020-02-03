@@ -47,7 +47,7 @@
         "enemies/arid/mega-laser.json/meta/descriptions/0/text": {
                 "ciphertext": "f6FD0pgX3+mp9szOaSut0Ih1n43KZ3z5JSiBds+UJmo=",
                 "mac": "+lATnoboDNvtzznAfTFRsg==",
-                "quality": "unknown"
+                "ciphernote": "QPfpGFUOOQAr3HavdSdAsg=="
         },
         "enemies/arid/mega-laser.json/meta/species": {
                 "ciphertext": "/pnDI1qWcZyOqMYCBAHUoQ==",
@@ -127,9 +127,7 @@
         },
         "enemies/arid/snail.json/meta/descriptions/0/text": {
                 "ciphertext": "4yEXYAvbtW6PcbDE983qwj2LKdTny+ewnLKdyOWqA61A3hJ1KZbjk4tcgspxDaxX+yF6Db928PHeZmZ34i00g9cNXqIN5iolrTjWVxAg90ZMItTfEpdu3f+ia6d0dJzzSa7U6cjukvCGD4dG9Ale0mSOh8gBSiQElf+kTUujDf7NS0XK++J6ZxyBZamuk39Tbn7fVNXqUr8yuficYNCsfOcZL86Uu+Bx+XyfhBAwZNVCwTdaJ1swFenfL+nP6ob4r4MbeU3Pxq56yNp2Al/90L6aAd3WnChUi3hMNeECG1YuBwAbgfXoWDTxnvQxlNRXQlJ9rJ05QPTy1BOSvVY5ODT8ehhMS2VBk9JeVXZ0ElRwRbL5RkjmWo9MI9FYxA6k8VMLtS9xF13zIZcth8j7MjwyFAF77ctkjXwTwkenCqMiqlyVQ3u1TWqiJ0WDLUnOcBYsLIwX6DTxuXCnG8Z5v5l15xKQgAHzJ3LtMW5RoZrQbWjPqVeW1FQnCWLKYVQ4v+qBDpxOspN92dlXS1dddiY4MS73SpTZgrFnIP35FYIwtqk6nWarA+A6FNcQ/ZJcorTT7X9VBR2S8RQnXBA7kosnjQtSBfUlMoWBxVYY/by6SNokYYBdvkQGFRLMlO53",
-                "mac": "MbHHfyTlj4G6M1RsMSAFAQ==",
-                "quality": "bad",
-                "ciphernote": "+udZq+wwKykURcbe1+i6JQ=="
+                "mac": "MbHHfyTlj4G6M1RsMSAFAQ=="
         },
         "enemies/arid/snail.json/meta/species": {
                 "ciphertext": "2Vwux5/24gB0ZXyvqun/3g==",
@@ -882,14 +880,16 @@
                 "mac": "/3l1+JslbOklhtB7mNR20g=="
         },
         "enemies/cold/mine-diggingbot-quest.json/actions/HeatExplosion/10/text": {
-                "ciphertext": "vcO8hnQUfgb1EIeecPnFJzjt6IZGiO6/vPqzbwXW8M8br3l1Ia6LXYwbnFVDZlJZ",
-                "mac": "doN8imHBGW58RhhAD3dLiw==",
-                "quality": "bad"
+                "ciphertext": "qMc2sgDC+pyfKyW5YxJxP//sF+SbZj3mKdz9zmiNqDhvIf+NgGiW530yyhtaqH75",
+                "mac": "uhCuoFxMvYT1EyX7jVy2kw==",
+                "quality": "unknown",
+                "ciphernote": "vaf9RI3mKv5wnxFPW5WTSQ=="
         },
         "enemies/cold/mine-diggingbot-quest.json/actions/HeatExplosion_old/4/text": {
-                "ciphertext": "vcO8hnQUfgb1EIeecPnFJzjt6IZGiO6/vPqzbwXW8M8br3l1Ia6LXYwbnFVDZlJZ",
-                "mac": "doN8imHBGW58RhhAD3dLiw==",
-                "quality": "bad"
+                "ciphertext": "qMc2sgDC+pyfKyW5YxJxP//sF+SbZj3mKdz9zmiNqDhvIf+NgGiW530yyhtaqH75",
+                "mac": "uhCuoFxMvYT1EyX7jVy2kw==",
+                "quality": "unknown",
+                "ciphernote": "vaf9RI3mKv5wnxFPW5WTSQ=="
         },
         "enemies/cold/mine-diggingbot-quest.json/actions/ZeroDegreeSpawn/0/text": {
                 "ciphertext": "ZCqUl4RLJjpiABzHOgGUooDxgGpD7wlYmEJOC0B1bZA=",
@@ -1062,8 +1062,7 @@
         "enemies/frobbit-miniboss-femme.json/actions/summonGallants/1/text": {
                 "ciphertext": "E4PKgdKEJDNU1ZkOWvQiYjJHseWrD1cwHN7+hw8NBHw=",
                 "mac": "fBs0ehVs5gH9guYuAbbliw==",
-                "quality": "bad",
-                "ciphernote": "3/D8moofOpDFwy4uBq6jBg=="
+                "ciphernote": "5VgE0Suh26qxGiuW8wzounFcj+tlT/I0N7J8kRIpat8sv0wegQksrWYirSGTYhOY"
         },
         "enemies/frobbit-miniboss-femme.json/meta/species": {
                 "ciphertext": "1VZ6Z7Qz9QjFlsVMxgT7HA==",
@@ -2074,9 +2073,7 @@
         },
         "enemies/jungle/special/powerplant-quest-1.json/meta/species": {
                 "ciphertext": "7v5exJIYOxNjExZ8qdUWVHVMwbf72jzbtCT9rJF96fw=",
-                "mac": "uIoDfGtnyXjEeGrNYgpXGg==",
-                "quality": "unknown",
-                "ciphernote": "6/DenINTNdYCnuSqpKgEk/8kTNCCSuRJS+FXe0wJPQI="
+                "mac": "uIoDfGtnyXjEeGrNYgpXGg=="
         },
         "enemies/jungle/special/quest_td_blob_1.json/actions/EndFullShield/1/text": {
                 "ciphertext": "eNDIOqfh2B5Yrm6um9WSejzrHQbbrcA28+i/cABSSUY=",
@@ -2849,8 +2846,7 @@
         },
         "enemies/minibosses/henry-probe.json/actions/Overload/10/text": {
                 "ciphertext": "vEERfOXvUDJ5Mc5J7jxJTTedz1Yv8FKi3y8qg+401hM=",
-                "mac": "aZAmlUnrXNXRKDzjxp3jjg==",
-                "quality": "unknown"
+                "mac": "aZAmlUnrXNXRKDzjxp3jjg=="
         },
         "enemies/minibosses/henry-probe.json/actions/Overload/19/text": {
                 "ciphertext": "9exJ9wGp6NQBnRhcnMJ/M4O31tcpnJa8Cu37bpugY2k=",
@@ -3072,7 +3068,6 @@
         "enemies/snowtank.json/meta/descriptions/0/text": {
                 "ciphertext": "9FCUnm0bGwyit4Girei36Dojl44z2ursKVG4pOs6hXkNixCJs22YGjbvsLHTm+sVchLTWpXx45lmH3lQ1U8DaiKIR3+FsO/ra10xYEW2ezfzUz+JxyC3LzV/D1UQp0kq",
                 "mac": "WumLypnQ9wE6pvlKLNSZZg==",
-                "quality": "unknown",
                 "ciphernote": "SQamte1DV82btBORSsYVhhjvJquvRKjgMguXlY2DLDA="
         },
         "enemies/snowtank.json/meta/species": {
