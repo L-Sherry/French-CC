@@ -270,7 +270,15 @@
 		text_filter: text_filter,
 		patch_font: patch_font,
 		number_locale: 'fr-FR',
-		format_number: format_number
+		format_number: format_number,
+		misc_time_function: () => {
+			const date = new Date();
+			if (date.getHours() >= 11 && date.getHours() <= 13)
+				// french translation of that does not mention
+				// time... so a bit uninspired here.
+				return "Midi";
+			return `${date.getHours()}h${date.getMinutes()}`;
+		}
 	});
 
 })();
