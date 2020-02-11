@@ -278,7 +278,8 @@
 				// time... so a bit uninspired here.
 				return "Midi";
 			return `${date.getHours()}h${date.getMinutes()}`;
-		}
+		},
+		flag: my_prefix + "flag.png"
 	});
 
 })();
