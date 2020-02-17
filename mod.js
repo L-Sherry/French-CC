@@ -38,14 +38,7 @@
 		"Œ":"\u0152", "œ":"\u0153",
 	};
 
-	var generic_text_filter = map_to_replace_func({
-		// not in latin9 nor in the font. Don't feel like patching it.
-		[c['œ']]: 'oe',
-		[c['Œ']]: 'OE',
-	});
-
 	var text_filter = (text, result) => {
-		text = generic_text_filter(text);
 		// nbsp.
 		text = text.replace(/ ([:!?])/g, our_nbsp+'$1');
 		// normally this should be done every time, but there are some
@@ -147,8 +140,38 @@
 		blits.forEach(v => v.from.width = v.to.width);
 		font_context.blits = font_context.blits.concat(blits);
 	};
+
+	var patch_oe = (image, font_context) => {
+		if (font_context.patched_oe)
+			return
+		font_context.patched_oe = true;
+		for (const chars of [{o:'o', e:'e', oe:c['œ']},
+				     {o:'O', e:'E', oe:c['Œ']}]) {
+			const o = font_context.get_char_pos(chars.o);
+			const e = font_context.get_char_pos(chars.e);
+
+			const cut = Math.floor(o.width / 2);
+			const width = o.width + e.width - cut;
+			const rect = font_context.reserve_char(image, width);
+			font_context.set_char_pos(chars.oe, rect);
+
+
+			const dst_rect_o = { x: rect.x, y: rect.y,
+					     width: o.width,
+					     height: rect.height };
+			const dst_rect_e = { x: rect.x + o.width - cut,
+					     y: rect.y,
+					     width: e.width,
+					     height: e.height };
+
+			font_context.blits.push(
+				{ from: o, to: dst_rect_o },
+				{ from: e, to: dst_rect_e }
+			);
+		}
+	};
 	// Patch the font metrics and figure out how to patch the font.
-	var handle_metrics = font_context => {
+	var handle_metrics = (image, font_context) => {
 		if (font_context.blits)
 			return; // already done
 
@@ -173,10 +196,11 @@
 			font_context.set_char_pos(c['°'], degree);
 		}
 		figure_out_i_patch(font_context);
+		patch_oe(image, font_context);
 	};
 	// Patch the given font.  Easier than shipping 16 modified pngs.
 	var patch_font = (image, font_context) => {
-		handle_metrics(font_context);
+		handle_metrics(image, font_context);
 		var ret, context;
 		if (image.getContext) {
 			ret = image;
