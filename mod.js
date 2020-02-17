@@ -59,7 +59,8 @@
 	// font patching: make a 'î' out of a 'â' and 'i'
 	// font patching: make a 'ï' out of a 'ë' and 'i'
 	// font patching: make a 'i' with an accent picked from from_e_char
-	var figure_out_accented_i_patch = (font_context, from_e_char, to_i_char) => {
+	var figure_out_accented_i_patch = (font_context, from_e_char,
+					   to_i_char) => {
 		var trem_rect;
 		var base_rect = font_context.get_char_pos(from_e_char);
 		var shift_i_x = 0;
@@ -111,14 +112,6 @@
 
 	};
 
-	// Font patching: add î and ï out of ê and ë
-	var figure_out_i_patch = font_context => {
-		if (font_context.accented_i)
-			return;
-		figure_out_accented_i_patch(font_context, c['ë'], c['ï']);
-		figure_out_accented_i_patch(font_context, c['ê'], c['î']);
-		font_context.accented_i = "ok";
-	};
 	// font patching: fix "éèê" which are horrible.
 	var figure_out_e_patch = font_context => {
 		var crop_y = (c, y, shift_y) => {
@@ -142,9 +135,6 @@
 	};
 
 	var patch_oe = (image, font_context) => {
-		if (font_context.patched_oe)
-			return
-		font_context.patched_oe = true;
 		for (const chars of [{o:'o', e:'e', oe:c['œ']},
 				     {o:'O', e:'E', oe:c['Œ']}]) {
 			const o = font_context.get_char_pos(chars.o);
@@ -172,9 +162,6 @@
 	};
 	// Patch the font metrics and figure out how to patch the font.
 	var handle_metrics = (image, font_context) => {
-		if (font_context.blits)
-			return; // already done
-
 		var space = font_context.get_char_pos(' ');
 		font_context.set_char_pos(our_nbsp, space);
 		// Normally, we would turn a quarter em into a tens of em.
@@ -195,23 +182,14 @@
 			var degree = font_context.get_char_pos('\u00ba');
 			font_context.set_char_pos(c['°'], degree);
 		}
-		figure_out_i_patch(font_context);
+		// Font patching: add î and ï out of ê and ë
+		figure_out_accented_i_patch(font_context, c['ë'], c['ï']);
+		figure_out_accented_i_patch(font_context, c['ê'], c['î']);
 		patch_oe(image, font_context);
 	};
 	// Patch the given font.  Easier than shipping 16 modified pngs.
 	var patch_font = (image, font_context) => {
-		handle_metrics(image, font_context);
-		var ret, context;
-		if (image.getContext) {
-			ret = image;
-			context = ret.getContext("2d");
-		} else {
-			ret = document.createElement("canvas");
-			ret.width = image.width;
-			ret.height = image.height;
-			context = ret.getContext("2d");
-			context.drawImage(image, 0, 0);
-		}
+		var context = image.getContext("2d");
 		context.imageSmoothingEnabled = false;
 		font_context.clears.forEach(v => {
 			context.clearRect(v.x, v.y, v.width, v.height);
@@ -219,7 +197,7 @@
 		font_context.blits.forEach(v => {
 			context.clearRect(v.to.x, v.to.y,
 					  v.to.width, v.to.height);
-			context.drawImage(ret,
+			context.drawImage(image,
 					  v.from.x, v.from.y,
 					  v.from.width, v.from.height,
 					  v.to.x, v.to.y,
@@ -228,8 +206,12 @@
 			    || v.from.height !== v.to.height)
 				console.log("FAIL");
 		});
-		return ret;
+		return image;
 	};
+	var prepare_patch_font = (image, font_context) => {
+		handle_metrics(image, font_context);
+		return patch_font(image, font_context);
+	}
 
 	// Format a number.
 	var format_number = (number, precision, unit, template) => {
@@ -292,6 +274,7 @@
 			fr_FR: "Fran" + c['ç'] + "ais",
 		},
 		text_filter: text_filter,
+		patch_base_font: prepare_patch_font,
 		patch_font: patch_font,
 		number_locale: 'fr-FR',
 		format_number: format_number,
