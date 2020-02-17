@@ -1,14 +1,11 @@
 # input files
-langdir = translation
 bigpack = translation/french_translation
 mapfile = map_file.json
 
 # intermediate files/directories
 stamp = translation/.stamp
-clear_packs = translation/clear-packs
-
 # output directory
-encrapted_packs = packs
+clear_packs = packs
 
 # default action
 update: $(stamp)
@@ -22,12 +19,9 @@ PACKFILE=gamedir='$(gamedir)'; cache='$(string_cache)'; \
 				$${cache:+"--string-cache=$$cache"}
 
 $(stamp): $(bigpack) $(mapfile)
-	$(PACKFILE) split -p 1 '$(bigpack)' '$(clear_packs)'
-	$(PACKFILE) --sort-output=alpha \
-		encrapt '$(clear_packs)' '$(encrapted_packs)'
+	$(PACKFILE) --sort-output=game split -p 1 '$(bigpack)' '$(clear_packs)'
 	touch '$(stamp)'
 
 generate:
 	mkdir -p "$(clear_packs)"
-	$(PACKFILE) decrapt '$(encrapted_packs)' '$(clear_packs)'
 	$(PACKFILE) --sort-output=game merge '$(clear_packs)' '$(bigpack)'

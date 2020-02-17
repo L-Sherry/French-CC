@@ -1,273 +1,273 @@
 {
-        "maps/autumn/path4.json/entities/115/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "Xg0G5ZYYIuOdna1wewfdWv2wVGsM+6Sw1/Wg9ZOakXE=",
-                "mac": "S6JbkhGpDby+sGWhQBqiJQ=="
-        },
-        "maps/autumn/path4.json/entities/115/settings/condAnims/0/interact/event/6/text": {
-                "ciphertext": "TqpWk4GVUxg+tiwrHcWqxaUUgoQAx6hXHARecAok1BU=",
-                "mac": "Ini7pAK95gdS66igteNWQA=="
-        },
         "maps/autumn/path4.json/entities/115/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "yN9PIHwgBaCa0TMVDA/+m5WfMRfWSKfWJS1it0XOMZtaaRH6Y2zWFXy91xTtmsOWX7bJztqoLW3mWvoW8vlohv/E6baFgH5a9iaDIEhO7avYrxLLKzeQYXa4DYxIBxzD",
-                "mac": "wdxclZIHYGHejMsSy350YA=="
+                "orig": "One of the sick trees. Apply \\c[3]\\v[item.171.name]\\c[0] to cure it.",
+                "text": "Un des arbres malades. Appliquez le \\c[3]\\v[item.171.name]\\c[0] pour le guérir."
         },
         "maps/autumn/path4.json/entities/115/settings/condAnims/0/interact/title": {
-                "ciphertext": "LEO3d7zL8PYcpRB06nDvGg==",
-                "mac": "zy1g9ayWmNKx6evU+dt5qA=="
+                "orig": "Sick Tree",
+                "text": "Arbre Malade"
+        },
+        "maps/autumn/path4.json/entities/115/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Applying extract",
+                "text": "Application de l'extrait"
+        },
+        "maps/autumn/path4.json/entities/115/settings/condAnims/0/interact/event/6/text": {
+                "orig": "Sickness cured!",
+                "text": "Maladie vaincue !"
         },
         "maps/autumn/path4.json/entities/497/settings/npcStates/0/event/2/message": {
-                "ciphertext": "1/4Tunmk55RuVUc+urV3j2TB+O9JUQtpiV6XIxgBJdk=",
-                "mac": "a2q1wCigWT+B1aHjefDDOw=="
+                "orig": "Hello. I am the canonical NPC.",
+                "text": "Bonjour. Je suis le PNJ bateau."
         },
         "maps/autumn/path4.json/entities/497/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path4.json/entities/497/settings/npcStates/0/event/4/message": {
-                "ciphertext": "2FU0ijOsA0/Zh12EkOgatO+RYx+XSNyO0Ly508OUnHQ=",
-                "mac": "bNgD0G/AcVRShahu8uHN5w=="
+                "orig": "Nice weather today, right?",
+                "text": "Il fait beau aujourd'hui, non ?"
         },
         "maps/autumn/path4.json/entities/497/settings/npcStates/0/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path4.json/entities/497/settings/npcStates/0/event/6/message": {
-                "ciphertext": "tpSiPoM24PNj6x8mvEqxgw==",
-                "mac": "TlyIg4ImTskVvO+wP39MqQ=="
+                "orig": "RIGHT?!",
+                "text": "N'EST-CE PAS ?!"
         },
         "maps/autumn/path4.json/entities/497/settings/npcStates/0/event/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path4.json/entities/569/settings/interact/hoverText": {
-                "ciphertext": "o1EmffEd6+nR0aB1YYMapu3kxk1d+asQzqmeIQTgqWlbVJLnoYXcvs/KlIDsjnkG3zaSj1DsY+jouyRD9lueWW6IEnZCnioBqs3PHn6zYm9RiVz6N1YDliZbaTms922LvFLTmx/SkXET2q1SFaPpXAA3Rhyqe779opXVR/pLj1E=",
-                "mac": "n64aECgBtOYnImCxvOdY3Q=="
+                "orig": "\\i[arrow-w] To Bergen Trail\n\\i[arrow-ne] To Rookie Harbor\n\\i[arrow-s] Old Path",
+                "text": "\\i[arrow-w] Vers le \\v[area.bergen-trails.name]\n\\i[arrow-ne] Vers \\v[area.rookie-harbor.name]\n\\i[arrow-s] Vieux Chemin"
         },
         "maps/autumn/path4.json/entities/606/settings/displayName": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "1fUjuTS+uiM3/gKWMHRgDd0jzO4q7mrUCdWs36lgoIl/bFY6iCBLCu1xoqkrZeS3GBlpboWWdn0W/EcYl0Md6dRtc0Le60/QyxZWs6CF5Lw=",
-                "mac": "pysl76jl4Zm74QlaV1CnRg=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "8eFg/ERwcE1baMNDFrDzQYPIsH0mJcAzT20EacK+1AvwUfCDHvWc6WoJTym3mOvLVUR4qS1vZbhpSnF3mRmY39QgzT06IUAwSZqiCg10eaNJxtauPLb5tIffgTPomb26mrMxknewXblu6ttz3lCu1J/uVt7NUsv9LuOWE6/gCutA3+U2MsxCUrQSCbqkH6saKOPbqcwIc1O6HwNBBdwYj31Lh/xwXCELVIJh9C/Me6U=",
-                "mac": "BwL/H/Cljq4m17HW11+1ig=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/13/message": {
-                "ciphertext": "9DEC3cSZ4t02U9Naqnq3ZzxKdowS25eCBp0gzgu6CTsZ+7JAz1X8DEjwdTBADt2y2cjl8E2blwGBFcAg8JscMxnmCWYRCv/Q/qJIApm0bdwyp18Q+fwH5NrYfW8e7rKIjD80N5Z69Mn3xts4FQ09CG7hmHeZMuRp7G1xjCsjyDo=",
-                "mac": "oaDFbbjP3SqLgg+vMWJrGw=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/15/name": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/16/message": {
-                "ciphertext": "CPCXEpdOvNH3rjuLUkCQFSH+5TKp9AvakwZv+gK9G4zi/TVwv+MqGiDIX7uffkXeELczdC/tryFPIdd0MalD8U0hVYyU8U6spGWybDtDp94=",
-                "mac": "0A+PTaVIBwHlvNBvS1xlWg=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "beizBuUYBQ9Nirusnt4w4sKbEBha4Zh+v2/OcXpKFF4=",
-                "mac": "Boxo2jadgFQ4mpTxTPLGow=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/18/message": {
-                "ciphertext": "42Y+JlRkbK4rvAkWuK3nKGDXbIVqkr0u6xvkWheKZcRjuGOsVg6f665HGMmAfiHh8MtZ8iJZJ9bMa8XxaYmWJj44vVcNpF4IF+ZGReoYztw=",
-                "mac": "7Tmbtlq++2yQ5dAoKk6hSg=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/19/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Jeff",
+                "text": "Jeff"
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/20/message": {
-                "ciphertext": "yXRqjci8Lvx09bSQw/1RkY4cQU6BEwyIZHHG/zOzAaBRvdq9ybz61zKVAYwhecgP1TdifPwXO0FRF1oSMRr5v8UOES/iRoq6trX+8o4FrJBBe0dEqb9uEDkQEqb0jTfE",
-                "mac": "cdotTVBr8hojbflrfiecwQ=="
-        },
-        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/21/message": {
-                "ciphertext": "czZrjp4CAmfmnlDOlAVrdDxbKSZVFbU7xReC5H9hmQHahxCcPsDnJIN53hOlK+AwaAf/FA1KveEaAZFxdi51JrAVKlLg2vT1cwOXzCnU7/c87QtDpWLq40aNhYcLeogg",
-                "mac": "yxuBIQgxvFeNj9QJtds9BA=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "YhEC2JphQ5DH97dz5EhIeu88ibjjcfYjK4oLQkPXBFE3FhA65no1Cmk4DpfgTLCRFeiBgIESCCW+EJjlFvfZuaWvnR32mHz/e9OTch1RVxU=",
-                "mac": "xpP8SV50HPf9e6f8cnzecw=="
+                "orig": "Sorry, I'm kinda in the middle of something here...",
+                "text": "Désolé, je suis un peu en plein milieu de quelque chose là..."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "/zyb0HLY6YRAfJvDC/LEFaRhUCjrG0zRoDfMYlthB8wt7fjbyYoIkj277FsbunErBf9d3B4rjVGb2Rx/2XKP3Q==",
-                "mac": "E7SepryhCxIAu1hY065f0A=="
+                "orig": "Oh wait. You're that girl\\..\\..\\.. Lea, right?",
+                "text": "Oh, attends. Tu es cette fille-là\\..\\..\\.. Lea, c'est ça ?"
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "fZW6dbKwn11JkKnX1qwfDmKmaPoppi+5srQnlnmg2bBKy28EcaMVqMOp3c5SdHf9",
-                "mac": "/QKbfSyXnapvXfUBwkYPNg=="
+                "orig": "Jean already told me you'd come. ",
+                "text": "Jean m'a déjà dit que tu viendrais."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "Uvm00MQWH7R8NPb5IRm18FPthlHuoSHm9w6OppKSBLrTJKgz2PsfBOqbR52dEw0Cu+j0e1thaLmByiL4i+MaWeD3M5v9mh2tb83s7yVacsuEjFUytdiv5kjAEM2OqOTVUP731IymDbAfmm9ptmK6XI0pFkysmIB4ynCkvj5nv8efuPbNRJLlWeaHhSu+z3ZC",
-                "mac": "lDiu4nB+iibR0A3kXdlJGw=="
+                "orig": "Sorry to get you involved. I can't understand why she's not using the Direct Link.",
+                "text": "Ça me désole un peu que tu joues le rôle d'intermédiaire. Je ne comprends pas pourquoi elle n'utilise pas simplement les Directs Links."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "UI45JCgJBdmexm/dRkIWntA9Fwp2o2xCkwSIdj5gvEM=",
-                "mac": "LtrfFn65suB9tsBDgCPgWg=="
+                "orig": "Yeah, anyway.",
+                "text": "Oui bon, peu importe."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/10/message": {
+                "orig": "This is about the bunny or whatever she saw right?",
+                "text": "C'est à propos de ce lapin ou de je ne sais pas quoi qu'elle a vu, c'est ça ?"
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/12/message": {
+                "orig": "I do remember that you can summon some sort of \\c[3]Legendary Bunny\\c[0] by collecting 5 \\c[3]\\v[item.139.name]s\\c[0] somewhere in \\c[3]Bergen Trail\\c[0].",
+                "text": "Je me souviens que l'on peut invoquer le \\c[3]Lapin Légendaire\\c[0] en récoltant 5 \\c[3]Carottes Congelées\\c[0] quelque part sur le \\c[3]\\v[area.bergen-trails.name]\\c[0]."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/13/message": {
+                "orig": "But there was another requirement. I can't remember what it was. Maybe our Hexacast-friend Jock knows more about it.",
+                "text": "Mais il y a un autre prérequis. Je me souviens plus de ce que c'était. Peut-être que notre ami Hexacast Jock en sait plus."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/15/name": {
+                "orig": "Jeff",
+                "text": "Jeff"
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/16/message": {
+                "orig": "Yep, that's all. Also, I'm \\c[3]Jeff\\c[0], nice to meet you.",
+                "text": "Oui, c'est tout. Sinon, je suis \\c[3]Jeff\\c[0]. Ravi de te connaitre."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/17/message": {
+                "orig": "Hi Lea, Hi!",
+                "text": "Salut ! Lea ! Salut !"
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/18/message": {
+                "orig": "Ah, there's the problem with the speech module Jean told me about.",
+                "text": "Ah oui, Jean m'a déjà parlé du problème avec ton module vocal."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/19/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/20/message": {
+                "orig": "Nah, don't sweat it. I'll just DL Jean everything I told you.",
+                "text": "C'est bon, ne stresse pas. Je vais juste D-Linker Jean avec tout ce que je t'ai dit."
+        },
+        "maps/autumn/path4.json/entities/606/settings/npcStates/0/event/quest/21/message": {
+                "orig": "She should learn how to use the Direct Link System anyhow.",
+                "text": "Faudrait bien qu'elle apprenne à utiliser le Système de Direct Link de toute façon."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/1/event/0/name": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
+                "orig": "Jeff",
+                "text": "Jeff"
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/1/event/2/message": {
-                "ciphertext": "I29Ujoz9WJB2mYneuuVOYg==",
-                "mac": "TSvSLc8RKxxtpdFCYZHzYw=="
+                "orig": "Hi Lea.",
+                "text": "Salut, Lea."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/1/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/1/event/4/message": {
-                "ciphertext": "mZKTDvVCFFYvcQv8IZaV1F5e8izC/VOXbNPJ6WY65Eq1nPjORVuwgGOQ4BiEXY51XrCYK+GXaEZLX9e1ho8uffPK13glFmv1nmIEXZocgB8=",
-                "mac": "zFzufS0A+fTq2rR0yES9sw=="
+                "orig": "I DL'd Jean everything, so you don't have to tell her. ",
+                "text": "J'ai déjà tout D-Linké à Jean, donc tu n'as pas besoin de lui raconter."
         },
         "maps/autumn/path4.json/entities/606/settings/npcStates/1/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path4.json/entities/608/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/autumn/path4.json/entities/609/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/autumn/path4.json/entities/610/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/autumn/path4.json/entities/611/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/autumn/path4.json/entities/616/settings/dialog/0/text": {
-                "ciphertext": "qrCcQnuZsXXgN6uNjFYPLi2Ru6RX3yxz9et9hFIJf+Q=",
-                "mac": "xaNzwylb2Kf7cc8ozMZEyA=="
+                "orig": "I really want that treasure...",
+                "text": "Il me faut ce trésor..."
         },
         "maps/autumn/path4.json/entities/616/settings/dialog/1/text": {
-                "ciphertext": "WOP6tLDlIUzIpoLqWyZJBU7BHf+m+NnvxHvmVa0Oj8ci9oD1ogMSY+NqpD09eoHQ",
-                "mac": "vUQA/7wxEhXyyBaFPir1LQ=="
+                "orig": "Will you give up already?",
+                "text": "Tu n'abandonnes jamais, n'est-ce pas ?"
         },
         "maps/autumn/path4.json/entities/616/settings/dialog/2/text": {
-                "ciphertext": "YPTfg5XMsKwKa0IdDyLHiV3WSp++KhVUVHRjpD0lF/UDlId9Kj1s/1fmx61cSaZh1yhB2CtrgUD8kB7HWDzDpQ==",
-                "mac": "vMZuuzg0ohUg5eBNRWt2LQ=="
+                "orig": "We're clearly missing some key item here. ",
+                "text": "Il nous manque clairement un genre d'item clef là."
         },
         "maps/autumn/path4.json/entities/616/settings/dialog/3/text": {
-                "ciphertext": "/3zU7JNujPBZ3dosIcyarfjiXdza17a0bgyadsqi1WSvppagePRWBJBKXtzNXHt3a2sUU9QJjzwldzgzMBD1gv1jOr8euxcUlyNL6c4Z0dg=",
-                "mac": "u8bGeIcgkTDiUAYmseFosg=="
+                "orig": "They do that to promote backtracking to previous areas.",
+                "text": "Ils font ça pour forcer les gens à revenir dans les régions précédentes."
         },
         "maps/autumn/path4.json/entities/616/settings/dialog/4/text": {
-                "ciphertext": "rX2jtVPQa7rKHHfYfjsdnFNrzyfYMErrGxO98juTCAuexJu27lh8l2L6+kWezujG",
-                "mac": "VbwvXiYgciNElu80NRfU+g=="
+                "orig": "I bet the content is totally worth it.",
+                "text": "Je parie que le contenu doit être bien."
         },
         "maps/autumn/path4.json/entities/616/settings/dialog/5/text": {
-                "ciphertext": "9uCcTT+Bgak/NSBoz4EXRcW2YKCqsBNNoTom7gwVDJ4=",
-                "mac": "BWzktcyd7v0ZQL48Ff4zLw=="
+                "orig": "I hope so...",
+                "text": "Je l'espère aussi..."
         },
         "maps/autumn/path4.json/entities/617/settings/text": {
-                "ciphertext": "YmSNzyVJRXOG4+ePFlq5O6QhJi6cJboXkGlAw6ecjwJE9+/DFF07WmKuy5Mp/t27",
-                "mac": "bgK2tW8PnPxe40xfdvMuAQ=="
+                "orig": "An obelisk that is used as waymarker",
+                "text": "Un obélisque, qui sert de point de repère."
         },
         "maps/autumn/path4.json/entities/623/settings/text": {
-                "ciphertext": "d+fGeW79GQNXF5kn/BxjlXYq7fV+ju6AO93tctxQ2js=",
-                "mac": "7+wLdZxTWA5B/tZmsJtvAg=="
+                "orig": "\\c[1]Sick Tree\\c[0]",
+                "text": "\\c[1]Arbre Malade\\c[0]"
         },
         "maps/autumn/path4.json/entities/624/settings/text": {
-                "ciphertext": "vX+UUIR8efO1TIQFSZG6CQ==",
-                "mac": "aWah5XiDPm7FUzzgkT0YpA=="
+                "orig": "Healed Tree",
+                "text": "Arbre Guéri"
         },
         "maps/autumn/path4.json/entities/628/settings/event/0/thenStep/4/message": {
-                "ciphertext": "GmYkOn9B5+PxKDLPeO8QOg==",
-                "mac": "JDOTf6+gdRHiFtP5108N/g=="
+                "orig": "Bonjour, Lea!",
+                "text": "Bonjour, Lea !"
         },
         "maps/autumn/path4.json/entities/628/settings/event/0/thenStep/5/message": {
-                "ciphertext": "bgnqdq0boZKQNW0VMPpqSOlxPi7aHCIqn5FoT9KNF+RFjMcgcVgQAW1VNKfpuTbh",
-                "mac": "oZHl44Gw4bjEYKR2pTR7lw==",
-                "ciphernote": "4rHljQ66Ky5qy52d1NH2Z+eEXFIJcFO2EG8fSrjiOx8="
-        },
-        "maps/autumn/path4.json/entities/628/settings/event/10/message": {
-                "ciphertext": "XhY8rslijf8YikZKY3Wdgll65eJrn+QjyVhSkVnq3X3HjO2kySjUP/3ENp1cJMdUVxu8a/YE02NF+Kh0VRmNag==",
-                "mac": "y8sZoIhvuXn18oXWFLtj5A=="
-        },
-        "maps/autumn/path4.json/entities/628/settings/event/15/message": {
-                "ciphertext": "1xxV3PInwY6JPOB+CXu+sxoEVcbS5T4cRQFh/8A2OkK8iRvglvOoY5MlP+jYwBiBhHWwD1nkYy37XddzXYU93w==",
-                "mac": "YjdGVXNshN8lKQfFO+VtcA=="
-        },
-        "maps/autumn/path4.json/entities/628/settings/event/16/message": {
-                "ciphertext": "ui6R6BcbMojZGcftf+G5IHVALaGAaZnaI0dghUPXMB1fyLf6FPb7+vVaIT5oAscu9xwLLnZAF5WDgzerk6cUJA==",
-                "mac": "8e16/Q20gBXle1XvHSddmw=="
-        },
-        "maps/autumn/path4.json/entities/628/settings/event/17/task": {
-                "ciphertext": "UxcCih+/lbJAjhp4obHeBUKzpuwdwDSVgX7xLfijYW4E+LJfe/k/mYkG6B8+1mPVKQHMPuOWACudCTga2/hD8unShdYF/8hV2yZzXI2x4TUuBa5sPRT9AUC43fB1lSOLGpD6mFcF6SRp6Chm8go89q9+/Grbp3rNR2BkA65kHqE=",
-                "mac": "qrSjaZV3Na3orwrKJ1Yzqw=="
+                "orig": "There you are! Thanks for dropping by.",
+                "text": "Ah te voilà ! Merci d'être venu.",
+                "note": "lukas & emilie waiting for lea"
         },
         "maps/autumn/path4.json/entities/628/settings/event/8/thenStep/0/message": {
-                "ciphertext": "6VUDukiLdTiVzyjzEBl+51KJyfNIEv+9YEd7gxtW66Y=",
-                "mac": "L9+wzRpeAUWT98r1JfNF5Q=="
+                "orig": "Bonjour, Lukas!",
+                "text": "Bonjour, Lukas !"
         },
         "maps/autumn/path4.json/entities/628/settings/event/8/thenStep/1/message": {
-                "ciphertext": "ojypX9XjLgEr+k52gHRPCRJ5Qto/AqLdo+NUC+M+ofZnkSODIuRu68hpXQNyQzrU",
-                "mac": "/cwhJbKt01ODsSgmPEBheQ==",
-                "ciphernote": "B/5yD1yreLlKCBNwe6LjG7zoFvMLDoS/4KtYGrJh6bA="
+                "orig": "There you are! Thanks for dropping by.",
+                "text": "Ah vous voilà ! Merci d'être venu.",
+                "note": "lukas waiting for emilie & lea"
         },
         "maps/autumn/path4.json/entities/628/settings/event/9/message": {
-                "ciphertext": "VT0a4YgoH7StofDxIOREDevf/068fNhwdpacTtE9aB78QGyhcVK6dQi5ic4FqJSa",
-                "mac": "YiVLl2kYEOs/XxDKft2zBw=="
+                "orig": "Let's just go straight to the headquarters.",
+                "text": "Allons directement vers le quartier général."
+        },
+        "maps/autumn/path4.json/entities/628/settings/event/10/message": {
+                "orig": "It's to the \\c[3]northeast\\c[0]. Just follow me!",
+                "text": "Il est au \\c[3]nord-est\\c[0] d'ici. Suivez-moi !"
+        },
+        "maps/autumn/path4.json/entities/628/settings/event/15/message": {
+                "orig": "So how big is your guild, anyway?",
+                "text": "D'ailleurs, elle est grande comment, votre guilde ?"
+        },
+        "maps/autumn/path4.json/entities/628/settings/event/16/message": {
+                "orig": "Not big. You're about to see it yourself.",
+                "text": "Pas grande. Tu le verras bientôt par toi-même."
+        },
+        "maps/autumn/path4.json/entities/628/settings/event/17/task": {
+                "orig": "Follow \\c[3]Schneider\\c[0] to the \\c[3]First Scholars HQ\\c[0] near \\c[3]Autumn's Rise - Pathway 3\\c[0].",
+                "text": "Suivez \\c[3]Schneider\\c[0] vers le \\c[3]QG des Premiers Érudits\\c[0] près du \\c[3]Chemin 3 à \\v[area.autumn-area.name]\\c[0]."
         },
         "maps/autumn/path4.json/entities/635/settings/displayName": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
+                "orig": "Jeff",
+                "text": "Jeff"
         },
         "maps/autumn/path4.json/entities/636/settings/displayName": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
+                "orig": "Jeff",
+                "text": "Jeff"
         },
         "maps/autumn/path4.json/entities/637/settings/dialog/0/text": {
-                "ciphertext": "H4XJizhunylWzVdzRc1tKRvdakjBC2SZHIhwSCeN9RQSeQXJr0OEsOo9eZ7xBrbaxvi2ptDgwZo9PkaWqpCT708/1umZ0ckoXwQ0gKEkYg4=",
-                "mac": "f3ZHCPYhZk1sft7J5ex5IQ=="
+                "orig": "Those damn Bovines barely take any damage from my attacks!",
+                "text": "Ces satanés bovins ne prennent quasiment jamais de dégâts de mes attaques !"
         },
         "maps/autumn/path4.json/entities/637/settings/dialog/1/text": {
-                "ciphertext": "UcZFf8b5DHSrL6BRSrbRsgj1oguDJYdnEG8RRDgfq8TzJxyzI9G4ycZpD+2Vq7UtNiB8cmYZhZlu+hrxEaoGucGEqX06Z4tqcWte1taqhVz6tJkcrPf24EMUfVYyrzVG",
-                "mac": "Sk0vTQDa03fAJ/1NhB4pcg=="
+                "orig": "I told you, throwing balls won't impress them much. You gotta get close and personal!",
+                "text": "Je te l'ai déjà dit, lancer des boules ne va pas les impressionner. Faut que tu cognes !"
         },
         "maps/autumn/path4.json/entities/637/settings/dialog/2/text": {
-                "ciphertext": "/cL4ApJzEG/CP8yDQyZ2DDDdiM4Fj3X+ZgDTGXbaVlQVAgQdjdBVTrGfoa81UpBG39JTpnSsUpyfeNBUouFTFg==",
-                "mac": "6J+UNkMmDbMdQm42PYmLIw=="
+                "orig": "Do I look like some kind of brawler to you?",
+                "text": "Est-ce que j'ai l'air d'être un bagarreur pour toi ?"
         },
         "maps/autumn/path4.json/entities/637/settings/dialog/3/text": {
-                "ciphertext": "4aiHLXaHSyl6RP2TPxxJR+Ll7wHHQsEFagaNkIStIUsP29hnaAPGvb0Y4tOMSWddINHLhQ1V3r3it4buLvIj6Y91vG3ZFhXn0aa+Mo9Ulf2GyAOYmoDQBTH0+BmO9EMeOcGlQhzbKLzo1X0z6aWQHA==",
-                "mac": "6o0feuHPj0FWFd/byzMUMw==",
-                "ciphernote": "yuKPo8WNorGKnuVlo40swuyX4EeegecFxnbQivrlbFkbU9SJIGzwtw9z2HptBkXb"
+                "orig": "I don't think the Bovines care. All they understand is literal ass-kicking!",
+                "text": "Les bovins doivent s'en foutre. Tout ce qu'ils comprennent, c'est littéralement des coups de pieds au cul !",
+                "note": "de: les bovins doivent s'en gratter."
         },
         "maps/autumn/path4.json/entities/637/settings/dialog/4/text": {
-                "ciphertext": "eGuYbOhMN/4fH7DoC/tlRuQ/ftQxuc4Y0CUs1Uw559k6yBDDfeV18zvNKQT7SAao",
-                "mac": "6fTmj/eYAFiqs7z8Sir8yg=="
+                "orig": "Then I guess I will need to get used to it.",
+                "text": "Alors il va falloir que je m'habitue."
         },
         "maps/autumn/path4.json/entities/638/settings/event/0/message": {
-                "ciphertext": "H/J8frMlO5y75GzmWTjIcFCYLHfyAKV4fGR7F3MqTdo=",
-                "mac": "SB8NiHH54L1tYrQ1VCtKpA=="
+                "orig": "More Laser bridges!",
+                "text": "Ouais, plus de ponts lasers !"
         }
 }

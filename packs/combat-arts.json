@@ -1,941 +1,941 @@
 {
-        "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "6LjIvxyGt0GGNa0DVvWZLVjZ8c/GS7vy2ROfmzGQ+Xq9/6kVKvr79SuEu/mBUkK/xCutLfzScHpi8IYbR99woG6FK+pWZvwIwcqoxr/yHePkzzOi0ABV0IoCPHFd4EJ3XIVxRSULh+53CqdIw7YUTw==",
-                "mac": "KhLxPsdirZ7pFN0PjnET9Q=="
-        },
-        "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "591hNS06ds8PSGGha7fI7c+dnwhzwiT3SZVpKc9dWHk=",
-                "mac": "xkCsUqhKb2Ru2HE9W4Xtgg=="
-        },
-        "players/apollo.json/actions/COLD/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "7LZvStaZhIKxm1ptMYBmqI5UvdXJ6155K3R942qzy/Ny0upn7na0iXqoWv1Iz2ZRD4SF4vbklNOlo9R9sVpPRqVtREQbWlvlPU1T9HtTGys=",
-                "mac": "T3Tq7KE9t3P//0dSq9mK5g=="
-        },
-        "players/apollo.json/actions/COLD/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "6N/gnuHWP5B81XzgEgiS6913T3sFxIP5Afud1GByo80=",
-                "mac": "W3VanoMjQ6r18vrLNFQrqA=="
-        },
-        "players/apollo.json/actions/COLD/THROW_SPECIAL1_A/description": {
-                "ciphertext": "3330BEfKGnUE0FZik1Re2uyrmzm4s/l1pl5VeshyLFgvlaJexAIJ9xUhkBwARrNp",
-                "mac": "vKaI8bGVIdfoIOrINQ3kwA=="
-        },
-        "players/apollo.json/actions/COLD/THROW_SPECIAL1_A/name": {
-                "ciphertext": "oTtGvtbBacyw5tK7kM54D7TQw+b0JSJt6GJrTpQyVnU=",
-                "mac": "j24EnCri47roWV8ZjfzWbw=="
-        },
-        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "cXfP03InJV7wUuaOj5e3WXP19JWVsLmQ6mt+3SpJrfngg0ihA6EJPvIik14a2zUmF8d4nTBCCiWSRPe8qFTdfTHGnbuvoALl1eusbkK5SRA60eMeKS5SIL30R5X4+4he",
-                "mac": "w0pbsuJaxsufrTutA7vLRg=="
-        },
-        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "TygsZiFhKshrO7b/jidC5uXQ0yLjBucjMcEOf9cHnGo=",
-                "mac": "QaVAGHqGrLWD+wZAaIqPvA=="
-        },
-        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "084tws5c/IBeWKfpXTtyRuun5rkC72nlEjMjctsdQPjwLSPZpfPxPvx/SnFrITeGZJaOgegvcGccA+EHLsbERBetEdBAExVQRAfh8QqeCqe79wkB6Qn8LykqmGnUK37B",
-                "mac": "+7MufP49eYXh/91Bbxwd1g=="
-        },
-        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "c5R0hmQUAuVGctahf/Jmjw==",
-                "mac": "zL02h3nHwS1bTOX7/kCAbA=="
-        },
-        "players/apollo.json/actions/HEAT/THROW_SPECIAL1_A/description": {
-                "ciphertext": "4yHUirVjEENievkKrsBLIofFHxtaRtd80nUbn1/ck71jkVueOFOl76E4bExjwdNqkxyoCmPik6NwqZWy2+WpMusfDcfQWgJIUI7y0G8K1VBJOPYlYSG/B5734dNWx8J9",
-                "mac": "Wf/QAXE7UXC4TsqI3the9g=="
-        },
-        "players/apollo.json/actions/HEAT/THROW_SPECIAL1_A/name": {
-                "ciphertext": "JjwxI3sVikw7vLbtFWomnA==",
-                "mac": "IpexSkAHMcpoQxLgA1v2+w=="
+        "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+                "orig": "Spin Dance",
+                "text": "Danse Tournante"
         },
         "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "KogIwQpzYhe4t+KssldBgW1oi8KL11XEi53lSUGUnWgxgTOovYPhJGT3m3r877ZpCkzHXdXfjBxRPKP19P2AYvdT8fbNDAqYumT8mZzPWD0=",
-                "mac": "kTJSMCqZYblVZVmFuiBm/A=="
-        },
-        "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "iEbLhr3ggzeCcmLH+78iAg==",
-                "mac": "etNasYdn2qL+IxslD7AjBw=="
-        },
-        "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "lJu4y0vmw8o0B/Git1tfGiJkK7LIQ3/61Tlhe3SST0h1JOVsVLV9Pym1KhQORyV/GX2vgaPLLBLzFyUsDiGu7QWRJ6pnNxhYJihee3ACg0YM5CSI0+8bdwmTgnV0cI8b",
-                "mac": "gC4hKOnJcMI18oFS9XST2g=="
+                "orig": "A wide-ranged spinning move hitting many nearby enemies.",
+                "text": "Un mouvement tournant avec une bonne allonge qui frappe les ennemis proches."
         },
         "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "chRlvkBOFc0o6xCCdNIWSg==",
-                "mac": "REhy7B+JH10sDBIsMD4NdQ=="
+                "orig": "Spiral Dance",
+                "text": "Danse Spirale"
         },
-        "players/apollo.json/actions/NEUTRAL/DASH_SPECIAL1_A/description": {
-                "ciphertext": "WVcveYK6XkMQwUlQp59dx9FLEHmiJOQJ8BDvN0RGq0Tjp7PeLoHObEkIuu2Uo9GWQ46gv3D3Cr0yJFDdoFkYPvjnLyiW3XMRAx7WomEtVSM=",
-                "mac": "Kz8nnG++sQBBjLuatcT52w=="
-        },
-        "players/apollo.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
-                "ciphertext": "VSy/38ZWrACSAIpBpP1S8w==",
-                "mac": "MZfvav+BmKKqW3Yeiqm3JA=="
-        },
-        "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
-                "ciphertext": "D87pm2h7Cxdj+Ix88oDV4y4QFJkAOlC6JJO/g3/mW5ix6DPDw673sNk7YLR8JK7uGFcG8pmEUyjFwN3iKJwe1g==",
-                "mac": "MVDZCDzKkJ1VRrVytQVAPg=="
+        "players/apollo.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/description": {
+                "orig": "A Spin Dance with more spins, hits, damage, and knockback.",
+                "text": "Une danse tournante avec plus de tournants, de coups, de dégâts et de poussées."
         },
         "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
-                "ciphertext": "necHrtOxgfSdWiQchYdYWQ==",
-                "mac": "3HGKlDxjK8vi3eM0KOP9wA=="
+                "orig": "Bullet Rain",
+                "text": "Pluie de Balles"
         },
-        "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL2_A/description": {
-                "ciphertext": "WOdnmfc2+WmzxIu1IO7iL+CBhTE3hkBV4bCr+Zg8Zbv6rcsny50KUk0vx3FAK4DC12vm9ucEV8CMyq9+ZI37EenWXxEX7MUNkN9TnwgmxZg=",
-                "mac": "p+3Hb3SmfMtX+1llfZtqjQ=="
+        "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
+                "orig": "Fire a mass of small shots in a narrow angle.",
+                "text": "Tire une rafale de petit projectiles dans un angle serré."
         },
         "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL2_A/name": {
-                "ciphertext": "D8oRF8N+bdDugdPMEaEKPw==",
-                "mac": "SQ2ZiFujdqwBR8Ik1mFLzg=="
+                "orig": "Bullet Inferno",
+                "text": "Enfer de Balles"
         },
-        "players/emilie.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "o6lu8mRJ6Kq4cypfUo5IzA==",
-                "mac": "TLRDDx6IvKA5+ebpUgAktQ=="
+        "players/apollo.json/actions/NEUTRAL/THROW_SPECIAL2_A/description": {
+                "orig": "Fire an even larger mass of homing shots at your target.",
+                "text": "Tire une rafale encore plus grosse de projectiles autoguidés vers votre cible."
         },
-        "players/emilie.json/actions/COLD/THROW_SPECIAL1_A/description": {
-                "ciphertext": "3330BEfKGnUE0FZik1Re2uyrmzm4s/l1pl5VeshyLFgvlaJexAIJ9xUhkBwARrNp",
-                "mac": "vKaI8bGVIdfoIOrINQ3kwA=="
+        "players/apollo.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
+                "orig": "Azure Strike",
+                "text": "Frappe Azur"
         },
-        "players/emilie.json/actions/COLD/THROW_SPECIAL1_A/name": {
-                "ciphertext": "HRp13f42BHIH148YShh84Q==",
-                "mac": "l+Y51PXPchxQayCT4V4uRw=="
+        "players/apollo.json/actions/NEUTRAL/DASH_SPECIAL1_A/description": {
+                "orig": "Dash right through your enemies, damaging everything in your way.",
+                "text": "Sprinte à travers vos ennemis, en dégommant tout sur votre chemin."
         },
-        "players/emilie.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "uHn87vwkbtZrV22cMzMe5A==",
-                "mac": "uA02ngiQkwCSJdvFP/Fcxg==",
-                "ciphernote": "ou1DtOpehETvw3YhemxkoxYYzqD1fc4JhkT83atgqro3OJ9YWFjYhMy3AYCx6arU6N1gu/Vo5W0AyFOfCRnrHLbnNdgA9NjV6XkKUv/Zmuk="
+        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+                "orig": "Fire Whirl",
+                "text": "Tourbillon de Feu"
         },
-        "players/emilie.json/actions/HEAT/DASH_SPECIAL1_A/name": {
-                "ciphertext": "xDkza9kfGSBdM4ZgMYrVHA==",
-                "mac": "SxphpE3l8KlKwKZVUvLNyg=="
+        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
+                "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
+                "text": "Une attaque tourbillonnante incandescente, qui engouffre vos ennemis dans les flammes."
+        },
+        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL2_A/name": {
+                "orig": "Blazing Dragon",
+                "text": "Dragon Ardent"
+        },
+        "players/apollo.json/actions/HEAT/ATTACK_SPECIAL2_A/description": {
+                "orig": "Lock in enemies with 2 powerful strikes followed by a flaming air combo.",
+                "text": "Bloquez vos ennemis avec deux coups puissant, suivi d'un combo enflammé dans les airs."
+        },
+        "players/apollo.json/actions/HEAT/THROW_SPECIAL1_A/name": {
+                "orig": "Burn!",
+                "text": "Brûle !"
+        },
+        "players/apollo.json/actions/HEAT/THROW_SPECIAL1_A/description": {
+                "orig": "A controllable blazing burst of fire that deals damage over a small area.",
+                "text": "Une bourrasque de flammes ardentes contrôlables qui cause des dégâts sur une petite zone."
+        },
+        "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+                "orig": "Ice Twirl",
+                "text": "Glace Tournoyante"
+        },
+        "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
+                "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
+                "text": "Effectue une attaque stationnaire de glace tournoyante avec une grande allonge et une forte poussée."
+        },
+        "players/apollo.json/actions/COLD/ATTACK_SPECIAL2_A/name": {
+                "orig": "Blizzard Hawk",
+                "text": "Aigle de Blizzard"
+        },
+        "players/apollo.json/actions/COLD/ATTACK_SPECIAL2_A/description": {
+                "orig": "Take a stand and do massive damage with 3 frozen stars.",
+                "text": "Prenez position et causez des dégâts massifs avec 3 étoiles gelées."
+        },
+        "players/apollo.json/actions/COLD/THROW_SPECIAL1_A/name": {
+                "orig": "Hail Flurry",
+                "text": "Rafale de Grêle"
+        },
+        "players/apollo.json/actions/COLD/THROW_SPECIAL1_A/description": {
+                "orig": "Quickly shoots a mass of icy spikes.",
+                "text": "Lance une salve de piques gelées."
         },
         "players/emilie.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "m7Fi+BxJuC1NYiL5IygGuN332kqoN88MVVHHlKjOuZ8=",
-                "mac": "kmdj1xpYfozadRjLgTti2A==",
-                "ciphernote": "2qXapS6tAwGB5PVZ6rg5/E2OfQXIynaBnqnPnita+PY="
-        },
-        "players/emilie.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
-                "ciphertext": "VSy/38ZWrACSAIpBpP1S8w==",
-                "mac": "MZfvav+BmKKqW3Yeiqm3JA=="
+                "orig": "Beatdown",
+                "text": "Passage à Tabac",
+                "note": "ou tabassage en règle"
         },
         "players/emilie.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
-                "ciphertext": "06r6HlHykjZiTQs0NTZ1Bg==",
-                "mac": "9mRzlv5QhccG2j7JbxgONw=="
+                "orig": "Ball of Fist",
+                "text": "Boule de Poing"
+        },
+        "players/emilie.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
+                "orig": "Azure Strike",
+                "text": "Frappe Azur"
+        },
+        "players/emilie.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+                "orig": "Faucon Poing",
+                "text": "Faucon Poing",
+                "note": "this plays over the frenchness of emilie the canadian-swearing bourgeoise."
+        },
+        "players/emilie.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+                "orig": "Crimson Strike",
+                "text": "Frappe Rouge"
+        },
+        "players/emilie.json/actions/COLD/THROW_SPECIAL1_A/name": {
+                "orig": "Freeze Nails",
+                "text": "Clous Gelés"
+        },
+        "players/emilie.json/actions/COLD/THROW_SPECIAL1_A/description": {
+                "orig": "Quickly shoots a mass of icy spikes.",
+                "text": "Lance une salve de piques gelées."
+        },
+        "players/emilie.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+                "orig": "Frozen Cage",
+                "text": "Cage Gelée"
         },
         "players/emilie.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "5CoF7lBo/sy9Z7eCF/Z1Mw==",
-                "mac": "JlW/rGfYae0+Q/0oDymdwQ=="
+                "orig": "Pummeling Strike",
+                "text": "Rouée de Coups"
         },
         "players/emilie.json/actions/SHOCK/DASH_SPECIAL1_A/name": {
-                "ciphertext": "yzZpNc4smpzI7jp3PHi+/3sUNzQZ2MNa4SbzNlcjwe8=",
-                "mac": "h0iu0/9P0O4GghMwG3y32g=="
+                "orig": "Amber Thrust",
+                "text": "Bondissement d'Ambre"
         },
         "players/emilie.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "hBIrgVqGABC55xeb95CZ59q+MMnQ2JrjOnMV2cmzg5k=",
-                "mac": "xL8UDWrGcBpjHARpEsrUoQ=="
+                "orig": "Palm Basher",
+                "text": "Gnons à la Palme"
         },
         "players/emilie.json/actions/WAVE/THROW_SPECIAL1_A/name": {
-                "ciphertext": "pxUujqbL5ZUiymRqzFmqdw==",
-                "mac": "upYDw6WLt5b1E823IHQ6gA=="
-        },
-        "players/glasses.json/actions/COLD/THROW_SPECIAL1/description": {
-                "ciphertext": "nwMggcnC2kpn/3N58+lL70V4nPEYmeVMRYINS/Wc3KLUuIaUBkIsJI0WuaCHbXU6",
-                "mac": "Hm1GQz/nJxcBe+LMYSilzA=="
-        },
-        "players/glasses.json/actions/COLD/THROW_SPECIAL1/name": {
-                "ciphertext": "H7sivJJ+a8m2ZY7PFVstoZ/zdjQCXo+RkxGc+tOA1bc=",
-                "mac": "wlkXensUEauoSjCXNptQVg=="
-        },
-        "players/glasses.json/actions/HEAT/THROW_SPECIAL1/description": {
-                "ciphertext": "nwMggcnC2kpn/3N58+lL70V4nPEYmeVMRYINS/Wc3KLUuIaUBkIsJI0WuaCHbXU6",
-                "mac": "Hm1GQz/nJxcBe+LMYSilzA=="
-        },
-        "players/glasses.json/actions/HEAT/THROW_SPECIAL1/name": {
-                "ciphertext": "acBngFlgvgS2EgPF5R7ro4iMInDpPu8GeTL1pVnuLFg=",
-                "mac": "1Z5EyiK3s3pax7A7H2rMBQ=="
-        },
-        "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/description": {
-                "ciphertext": "nwMggcnC2kpn/3N58+lL70V4nPEYmeVMRYINS/Wc3KLUuIaUBkIsJI0WuaCHbXU6",
-                "mac": "Hm1GQz/nJxcBe+LMYSilzA=="
+                "orig": "Fae Stream",
+                "text": "Flux Féerique"
         },
         "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/name": {
-                "ciphertext": "/9z3JzwY6yog0KhTZ4oVgKSmg82AODGd5mqON+lWxSQ=",
-                "mac": "Y7wfCxunyiuuHVx38p+gGw=="
+                "orig": "MAGIC MISSILE",
+                "text": "PROJECTILE MAGIQUE"
+        },
+        "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1/description": {
+                "orig": "Use it to attack the darkness.",
+                "text": "Utilisez-le pour attaquer les ténèbres."
         },
         "players/glasses.json/actions/NEUTRAL/THROW_SPECIAL1_NOPE/name": {
-                "ciphertext": "vSlPUSv3ZVynMa3v8Je/ow==",
-                "mac": "F8r6pFInuu7OfIX7awQwCQ=="
+                "orig": "BUFF H3X!",
+                "text": "BUFF H3X !"
         },
-        "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/description": {
-                "ciphertext": "nwMggcnC2kpn/3N58+lL70V4nPEYmeVMRYINS/Wc3KLUuIaUBkIsJI0WuaCHbXU6",
-                "mac": "Hm1GQz/nJxcBe+LMYSilzA=="
+        "players/glasses.json/actions/HEAT/THROW_SPECIAL1/name": {
+                "orig": "Heat Missile",
+                "text": "Projectile Chaud"
+        },
+        "players/glasses.json/actions/HEAT/THROW_SPECIAL1/description": {
+                "orig": "Use it to attack the darkness.",
+                "text": "Utilisez-le pour attaquer les ténèbres."
+        },
+        "players/glasses.json/actions/COLD/THROW_SPECIAL1/name": {
+                "orig": "Cold Missile",
+                "text": "Projectile Froid"
+        },
+        "players/glasses.json/actions/COLD/THROW_SPECIAL1/description": {
+                "orig": "Use it to attack the darkness.",
+                "text": "Utilisez-le pour attaquer les ténèbres."
         },
         "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/name": {
-                "ciphertext": "k1Eq9g0G0YrLCSGDCE/QD3CO70d9mrZJtR2KMptcImo=",
-                "mac": "cqZ3Mwdm6OFtaDs8PII/Yw=="
+                "orig": "Shock Missile",
+                "text": "Projectile de Choc"
         },
-        "players/glasses.json/actions/WAVE/THROW_SPECIAL1/description": {
-                "ciphertext": "nwMggcnC2kpn/3N58+lL70V4nPEYmeVMRYINS/Wc3KLUuIaUBkIsJI0WuaCHbXU6",
-                "mac": "Hm1GQz/nJxcBe+LMYSilzA=="
+        "players/glasses.json/actions/SHOCK/THROW_SPECIAL1/description": {
+                "orig": "Use it to attack the darkness.",
+                "text": "Utilisez-le pour attaquer les ténèbres."
         },
         "players/glasses.json/actions/WAVE/THROW_SPECIAL1/name": {
-                "ciphertext": "SgGL8u9LcpaNF3Qkq1io9WZmXdaCGaKFRQKfnYkX1ss=",
-                "mac": "txxst/PPNioTMSXzt7mHaQ=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "rgWPIvljoFmB0QzPB5JVJnyXpSm5tmqNZa7OqL18P0OipvQgATlDeh0ICTjwjHIdTTBnXvCif7aFX6fPQqndGg==",
-                "mac": "RHMFVbNyU6mKxXq5bX9Eow=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "lDd+5Atbv7Nb42eMFAQnNw==",
-                "mac": "AfjDhgIdP60x6WZb+8hUrw=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_B/description": {
-                "ciphertext": "6LjIvxyGt0GGNa0DVvWZLVjZ8c/GS7vy2ROfmzGQ+Xq9/6kVKvr79SuEu/mBUkK/xCutLfzScHpi8IYbR99woG6FK+pWZvwIwcqoxr/yHePkzzOi0ABV0IoCPHFd4EJ3XIVxRSULh+53CqdIw7YUTw==",
-                "mac": "KhLxPsdirZ7pFN0PjnET9Q=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_B/name": {
-                "ciphertext": "591hNS06ds8PSGGha7fI7c+dnwhzwiT3SZVpKc9dWHk=",
-                "mac": "xkCsUqhKb2Ru2HE9W4Xtgg=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "7LZvStaZhIKxm1ptMYBmqI5UvdXJ6155K3R942qzy/Ny0upn7na0iXqoWv1Iz2ZRD4SF4vbklNOlo9R9sVpPRqVtREQbWlvlPU1T9HtTGys=",
-                "mac": "T3Tq7KE9t3P//0dSq9mK5g=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "6N/gnuHWP5B81XzgEgiS6913T3sFxIP5Afud1GByo80=",
-                "mac": "W3VanoMjQ6r18vrLNFQrqA=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_B/description": {
-                "ciphertext": "rklsmYYr8VjcMDhl1tiiueUOGJMXUjxgEIPoPxpZJPo4sM0bhhHShW7P80c+d4v7280Nuc48XNwrU7u9Za1B8R72HNbXSSs+PGsFuvTIHrJ6dn/9znw0XTo3ANlcKilrZSQ6yjxGzuu0lhBE9g2teA==",
-                "mac": "gNucJcRVr9bqjuKfurJjoQ=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_B/name": {
-                "ciphertext": "iQH6ufQx71XVvFBb0MZWCP6v8KAx/TOI+f/IfywKIno=",
-                "mac": "gG3BAmbuXbrE2skOd/b99Q=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_A/description": {
-                "ciphertext": "m9nD83U+LB6CgYqXvEU7dTt+yHVLF+Ib1syInUFDojG32HqZFt0MTOtK198Gdh8KoxHr5AaDLW5IAw3BDKFEOeOu2IiaOsKYacI4xEHtDoRbbzFIYyicheeQZn/SL3uH",
-                "mac": "atm9MkQx7COJ4rrje5hrvg=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_A/name": {
-                "ciphertext": "GKxOQZnlNXPSoBCGPa3+bA==",
-                "mac": "oRkhik7oI4HarTJMHDHmDQ=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_B/description": {
-                "ciphertext": "LxOOxt0EzVyandu61+myeubD3LQwrSvwAE9cPJ2oh7NVdjereZU+iBcAMJ7PKVQMBUjapVUw8H0/VwZdmF/kD9FrKleBYG1sXuAIZiq39iwgc5XRE6I4nQOfA9A+cJEYYouUREzKTwLhQlh4dxB6hCZTTCbx7jFxyTx3JlEcy6Q=",
-                "mac": "MC7JIY/7cqEtbzPboKDH1A=="
-        },
-        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_B/name": {
-                "ciphertext": "Lbq/f3hXMTrlIAnF0OUrMl43nD1chPmVtlz8dJP9oqU=",
-                "mac": "Q9bMIyj0Cpom2gh/jLhKkA=="
-        },
-        "players/lea.json/actions/COLD/DASH_SPECIAL1_A/description": {
-                "ciphertext": "JM/W5mNlanA6pwxozYk0r0+OVzMI2J+VY4+NlReTzJTtafUU9VpBfS5UPpkqLR8KA0U43iOCH9/EAY0Lwq53emO0hIqfEAQZ8trmgcYX1C5Lo9/ompAMVlI7o+x/SP4TV83f4r3rJCAT25j5aNj2/UjmtVm8epryHkQnI1wik/o=",
-                "mac": "Y9LTjHRjM0xcDL0xoLPIIw=="
-        },
-        "players/lea.json/actions/COLD/DASH_SPECIAL1_A/name": {
-                "ciphertext": "LKprYVr7NgczmgbC9+Bp1w==",
-                "mac": "jlqNvtBvh7EScTIxrHDnVw=="
-        },
-        "players/lea.json/actions/COLD/DASH_SPECIAL2_A/description": {
-                "ciphertext": "4cSBs2Iofe8o1cQlHb/tGOOOABrotYVzwZlco7eKIzSEau2p7sipw3g283eXVjau/kidlaTLCTiZjUv1qZyt0R3q20ztMJTlKGXcvK15G7jpooO8NegZxNRLuId8wKU8niVOk7Q25gAGBIkn6A43eKDuwnnRZqnIEB8u7gZovgc=",
-                "mac": "MdmqAFOw0iMySW5m22TO+A=="
-        },
-        "players/lea.json/actions/COLD/DASH_SPECIAL2_A/name": {
-                "ciphertext": "HaIQDD2ulwFjgkfm5SSS6w==",
-                "mac": "xN17TlYnZjrRwqylxur9UA=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL1_A/description": {
-                "ciphertext": "RgwtVfRDe7JkA8COYsITIFJaienxW9GSIhR29/Vt30oiDDBJgY2iHN0MSlYYqyVrmJUA2m3mAM1+GEapGUj5MM5EZu6pEGZKI3NqrRmjD8Q=",
-                "mac": "kGKiyv6aPF/DLztR2OYhtQ=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL1_A/name": {
-                "ciphertext": "PXbi72/0NDJ7QstSeQjIkw==",
-                "mac": "EE6O2WvB13NT26Z1gMfwSQ=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL1_B/description": {
-                "ciphertext": "CqioaZXDHwHAWyDudsNk0eqUufaNQuJqGpyEgILRfd3z84DXJ3/wPQnQLY7CD9IioPvm8G1H/33ZbrLb6v1uE62MGXQ7981CmLeijCkj/lq9SEr7zTinkP0J8Uth076/QhvsLTjEw1edsv82MdF8vrRr6IOiSsZE9gAeZyrUpge0K3g6yzRP7Is1nto+8Yo6",
-                "mac": "wAnnsDr4T/4FJ8TdQjYJew=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL1_B/name": {
-                "ciphertext": "F+gPuQP4fqPmot+YXBm0uuL+2/pVDBnp7tJZz0LM238=",
-                "mac": "MCdzyZDmJ8f3i77bQtekMQ=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL2_A/description": {
-                "ciphertext": "bg59va+0kaVsfCAjV0bBgAVGz/EJDSlPnZITAHjYUA7uW5/KxyfIrtT5kPEI8fgXIZa75bPQhydu78XADVqBK1elparBzTYhZgJOxZwTDUOk8uqcBQKsrw8lytXlUjvD",
-                "mac": "Yv6GxKXUcZwat7PiylmaaQ=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL2_A/name": {
-                "ciphertext": "fR2b9W2b5UvUD6ddZfWvIw==",
-                "mac": "zP/fK3FYcjW/qePSuLPw0Q=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL2_B/description": {
-                "ciphertext": "mCC4LWKJeywQ5SgDupA1FYT4i02xAufC6GZzq0/FpDlNds362Y03tuPTv2RZLFmL9NE8A1/uyKAkDzOH/kI4cKF6oAcp4J4cUQHEsOoHqYz9MrWimiNkjCW0IgLqTR+uEChFRyePZrcmVbK9RhXFVJ2it0rOeLLAPtDjjCz7PS4=",
-                "mac": "giEmFLhZ7vN0Nbj/e4VpTw=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL2_B/name": {
-                "ciphertext": "hN8qPU/4kQQV4OcOvfgP0H71zavWF0ycUltSjXnYsBw=",
-                "mac": "1L6RixW8JaqjhyEhkatGIQ=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL3_A/description": {
-                "ciphertext": "iB08uAHe/2YJpJJ2SVKe29popbm1pv6HNgUh4yCcuJSUvpV6R5eo8exbP4vpTMRbrtYgnE9meS3Y4tcu5rAhbpLJk6XnBOLa50J/CPlVv+HCueDps6rAXiTCQrEbMpYkHF31PijLJzWC4oo0UFfMYQ==",
-                "mac": "8wVdCQ5adacOGWBsBTVs8g=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL3_A/name": {
-                "ciphertext": "7zeaOBRdw2lh4wGYMe2kja+ka9QuBJDE4C2kTwzuUZE=",
-                "mac": "WAra7uLx/EAwn21piHD+zg=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL3_B/description": {
-                "ciphertext": "3YvfWhhKy1vEJdpdrP3IP3DLIXzekhVAWHugdbB671OX6g25FTjqhypwLffiWS4q/o9HRk8g0D0WKy805BsrLHSyESdFZitoqtOkkKuL1MXHQjemaIavhRu0Mfhp4rThzvhbR3OGf+qHX2yzSrETgk9FEasJ7b/0M7akdhjNj20=",
-                "mac": "vAdAQKAIJJG7HXAxu9hoSQ=="
-        },
-        "players/lea.json/actions/COLD/GUARD_SPECIAL3_B/name": {
-                "ciphertext": "+1nWm6mPT8+er4NkUI1KQA==",
-                "mac": "ne/kXRR13mF3yixwXhLNMg=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL1_A/description": {
-                "ciphertext": "3330BEfKGnUE0FZik1Re2uyrmzm4s/l1pl5VeshyLFgvlaJexAIJ9xUhkBwARrNp",
-                "mac": "vKaI8bGVIdfoIOrINQ3kwA=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL1_A/name": {
-                "ciphertext": "oTtGvtbBacyw5tK7kM54D7TQw+b0JSJt6GJrTpQyVnU=",
-                "mac": "j24EnCri47roWV8ZjfzWbw=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL1_B/description": {
-                "ciphertext": "HF2X64Ps0icm1bxQQtJMlU84TNS79sVYB4UboTB5efyjCuekN67gKEWeVi6XIN+sxEOeCh1BHlqvwDD2H+RfHP7g5axkE3uabYYnwFObYLVkzv8ErKti99BBL/7MHc/q",
-                "mac": "5ZwTnM+TqaiSxdPdbmxiGg=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL1_B/name": {
-                "ciphertext": "Z5/hlscBR8Ahv+Kei1pATMXSRBvBNnQapowIqfawpJs=",
-                "mac": "ixpgZGVgHBBh3rOwP3cFVg=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL2_A/description": {
-                "ciphertext": "L+sXTIw6W9PWF6nSB9qn3DfBdIKzXUPGqDTM8M4CHLyi2f+xsyeovc7TKmhSJevSAO2ctVHfdTcA1H3jJbNXYUmlSzAu2JUxt4V4735V2ozoMraiPbg8WWC3J3lb363vFTIFR3KyuOnD4qyqMbv2Zg==",
-                "mac": "U6Y83BwmBvFp5qLlyK6Q0g=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL2_A/name": {
-                "ciphertext": "q8qBN3LZC8nXxD/aR3/2HoXjTQv2OZxoPLOUm9LmJ4g=",
-                "mac": "3ay5uBXyu1utp5l4zUIysQ=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL2_B/description": {
-                "ciphertext": "ftxvBYLxpTdM+5ITrIOo1zb/h7hy1PkKlMAG1/a2fzTSC6Ga6HaxwCXV7DkiwGa/fsjaUKAx8xAi4qxK064O1VBMEO9yzLUWFDNCrimHT8Nw/fk9ZsDlnJFGAdzMgQIpzgOY0CDMS+UIovFD3OrwXw==",
-                "mac": "ZNkbnxYjirnzGl4Kn8Dz3g=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL2_B/name": {
-                "ciphertext": "RDHMbC8/LucflFv3sbW/VTpNkluyI9P1YFF+PSQ9E68=",
-                "mac": "hLGxUfMwb6jXLBteqpZBzw=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL3_A/description": {
-                "ciphertext": "rk6vqiKGAb38dzhPG99Jf18dG0cn6XN3E40jla7f4Cq50Fw7c2i7Q8D0toh04+czos5q4xMlkSamtxiWzQVMDemGqKBKlfbx1XxtvX4UJfUjDSpWAYCjLlAyorsER6BGijNTMLDzoCJTVETrRIZHdlquMA7beZpwbpKFj22WMoE=",
-                "mac": "kAVtwo4LURdUhJEzosWiTA=="
-        },
-        "players/lea.json/actions/COLD/THROW_SPECIAL3_A/name": {
-                "ciphertext": "VHcqdFvs1ndOhzigX8fr7rJd7X3yOkFfr63imx/L+rE=",
-                "mac": "Dz5593/84V9y2DezK3deZQ==",
-                "ciphernote": "vcINuqTaTzY9WBHOICYL9kF0DyDZQwI0wWiFKrNFSfkmhFLLY4pCP8Xx4uYsY9zL8FBtATx6jGYe/g4Wwc4oBw=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "cXfP03InJV7wUuaOj5e3WXP19JWVsLmQ6mt+3SpJrfngg0ihA6EJPvIik14a2zUmF8d4nTBCCiWSRPe8qFTdfTHGnbuvoALl1eusbkK5SRA60eMeKS5SIL30R5X4+4he",
-                "mac": "w0pbsuJaxsufrTutA7vLRg=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "TygsZiFhKshrO7b/jidC5uXQ0yLjBucjMcEOf9cHnGo=",
-                "mac": "QaVAGHqGrLWD+wZAaIqPvA=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_B/description": {
-                "ciphertext": "FlKQn8QwKN0kQwtsyxWemzByP8YW4dqbvuWSXSpx6wk0aNEl43ycjg92kCtLVy1wpFq7otDJXy08FK0iojbXh7iidWv+mc7xwFUdC1OmsYU=",
-                "mac": "3vrhCyF0DFIUSCqkEr+znQ=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_B/name": {
-                "ciphertext": "jmVe9E0R0XiK+IsYoJY/fw==",
-                "mac": "iwaapTmWTKukKzDoq4Jdww==",
-                "ciphernote": "uS/lfXGQ5irdwdRnHa+SvHahEhsmtZDtfamFxOiPBTw="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "xZ3NJh7DbDMSETxEE3oSVCGNxmo0XT32TMF4m9bb1SkDiPsorVcDcmiNyrp3fsF1QGauJi0+EcKYI4Vt3TbWItcCcrCyuqS2a++7AXZMewvqgBLgz6tg+Mx1+cnJng7lH73CcSLq/Y+nnFYU86W7qw==",
-                "mac": "E1aMwVyi2QQz6o08YTOB+w=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "T8sUk7SYJSJ/xvMpgcFv2ttlGlO1AnZiUxjMUb7wzc8=",
-                "mac": "8VciJI7Vh4BSkFRK3WTJPg=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_B/description": {
-                "ciphertext": "084tws5c/IBeWKfpXTtyRuun5rkC72nlEjMjctsdQPjwLSPZpfPxPvx/SnFrITeGZJaOgegvcGccA+EHLsbERBetEdBAExVQRAfh8QqeCqe79wkB6Qn8LykqmGnUK37B",
-                "mac": "+7MufP49eYXh/91Bbxwd1g=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_B/name": {
-                "ciphertext": "c5R0hmQUAuVGctahf/Jmjw==",
-                "mac": "zL02h3nHwS1bTOX7/kCAbA=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_A/description": {
-                "ciphertext": "DlkQknSS5hdQlIRBCDFLxWXmM+/KY+Hkg+7rYYf8MeRs9qD7sDy600dJdsbktck5lLXs96VpTx9JHr2QsKlS9Z8Zh501jYbOdrbAFWarI5ue0isCiSp1/Vo+ExNNaY2GYjbp9vcecMpzA5hXzgrSLISRFijohXNs44TD61joeXqXJ4VwhupAaAtCcuQrX/YI7ezlmphdZlFpNG1to4FdfQ==",
-                "mac": "twTxO/4D3RVOqSLUNXvFmw=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_A/name": {
-                "ciphertext": "Qaed7qGdIZJQ/0UI2N5FDQ==",
-                "mac": "lUjmRxnNekNMy0gP1FRNPA=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_B/description": {
-                "ciphertext": "t9sviRPUzp6m0nyDHBPw3VGZOzyzS5usm2fUVeCpafdvOpGJQ5uocTiLnFCx+58FHOf9yQ4YvTGaoO+64PV5umGeYTVBv8fiKLZrvG9iDw1h38vJZq4nWkMOfICXJQHfSAo7cwRlY0Chyvyd32uTM7H9NWwsSbHcq1WNLseffd0=",
-                "mac": "7G2V+qEKQh20KSP3NXZX6w=="
-        },
-        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_B/name": {
-                "ciphertext": "/mfL24TLfULeG8Ou6im8T9O9P1GTDagRdZIczkIS+fI=",
-                "mac": "PYOPD00GnVQik2qW649cJQ=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL1_A/description": {
-                "ciphertext": "6mgv+FNZuONidJVe9LU6dxoUGDR2DE/Gmozk4LSqH0g/wHLnvobigXAw6h5jmc4HB0i8+7b+b7Y4PLQq11oetaiv8v8sJQguARfMVlfTtbo=",
-                "mac": "36Vi4OBuXdsY85cXZrHAgA=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL1_A/name": {
-                "ciphertext": "xDkza9kfGSBdM4ZgMYrVHA==",
-                "mac": "SxphpE3l8KlKwKZVUvLNyg=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL1_B/description": {
-                "ciphertext": "PiyvJeVZnPR646Hc6VSwbN3g3VYUl6hO+GGtur422qYw5BkvGF3XgLQrZWAfmPXr6fx9HOlfimqnv2+Fuz7Iew==",
-                "mac": "12MYgmCVnE4Yj2gtItyhKA=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL1_B/name": {
-                "ciphertext": "Fr5uVH+pkEBtOtinmQYUJw==",
-                "mac": "JTtbS/at213KvLXpZX9RdQ=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL2_A/description": {
-                "ciphertext": "WfrJIMseesBFvCYDJpNq1ZElXACLePG4x7MFa7LC112HebWd094zFwbLdvp1xttLMtVlPvvHQGNtr6H7x9C8Ak6C9DIUTA7vyna+FWBt/rw5u8xYNpOOTdKp2GO3RAQHGIkpfJliJHiWg7nefHLfTA==",
-                "mac": "excvzWM4dZrLHFOlNyINkA=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL2_A/name": {
-                "ciphertext": "bJbBZTBPvRqeLbZiqoGJAw==",
-                "mac": "DfJDjtUv2fOuKDxNpz6Knw=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL2_B/description": {
-                "ciphertext": "gWy5SDUjZ9zt7eQHThOzjOrSz4eSs1lnWiq5Z9Z9XDYwzSUvpVIDD164voAM97J7YDFQZlUPIiqQfc3qvr5PnzZbFhVUSu+FzvwmlY2m2Su2RlHQyoL8xUGjGtS0Fzxi8PxbrVQ52igFpVvd3b4NQg==",
-                "mac": "XUey/g23y1uETvGHpI7/OQ=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL2_B/name": {
-                "ciphertext": "xry5pdumkykUwzS/Fc1CjaRzJ3m6vHhiwi9icZx2ZLQ=",
-                "mac": "9tYL6abDZndwTFvH532iDg=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL3_A/description": {
-                "ciphertext": "xTUT63ZMcYHMEXV2pT6F4s/AlhdqYFhhGJenFcF+amMRj3D+NSQ2BTFDU9zEzcxEiRWK5pUH36oYtxPIGCLqEGg6VaIZxro817uXPr3w9TZMTPOkRrrOYDgAVR8ORJ6kRnIZ0NNCYbcg8fKLl1POTg==",
-                "mac": "Z+lN8uM/ThuRcIlrRK6T8A=="
-        },
-        "players/lea.json/actions/HEAT/DASH_SPECIAL3_A/name": {
-                "ciphertext": "xRFe9na9rnrLFS0k9KxJQw==",
-                "mac": "2A0VqfhCbJI9e/A2uWzkOA=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_A/description": {
-                "ciphertext": "GdvmgAcF+lLo4ZXgr2jBjVLEE3VzM6oXV4p0SMlne/yTx9SNyxyOeIfGyzMLxwLK/NB3QqxJxIX8VE3X9nYNBLNzuzR5WF6KvU8Ale3TnbY=",
-                "mac": "o9LtlLZrbavw9G3G/4oZBA=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_A/name": {
-                "ciphertext": "1uLYLwAyonxL7Vp0wvskqw==",
-                "mac": "ThLVGRubZF7YhJlb+wqPvQ=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_B/description": {
-                "ciphertext": "j7PCee+5GHRTduH89sHFXI5VxAG+LnHDU3hq4yhaD48UJYgVhYLSPKY1fCctWVZtU5JvCR8C03PGZ0LBGmM0ilnd7BbcqhgAgnGCevwWPb7egV+EB1cQuOfelq56ckEJ",
-                "mac": "PV1GxXKyXezlQQEQtmeCRQ=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_B/name": {
-                "ciphertext": "usS/NKbm7Cq/ey3ZpylL8g==",
-                "mac": "B08od1PWj7YSYepFFq3Tng=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_A/description": {
-                "ciphertext": "g0l8LnqdJvrhhzr+fjioSTAPp7ndgB64dlATnNi84jIup406DHBCi/AflfZyAIMkC/KzHyfKho9ZIbYfg5ghf8rGjJqu5z2kgpbGitedl8rXDn9m8T9CNdjz6puxiXXji6pdh74ecmQDMyysUQwPOw==",
-                "mac": "MrsfVhVI6neU/jAG6MGwKA=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_A/name": {
-                "ciphertext": "Sntn0zWM7FdBPAUR6j47QlcKIoeK9kPT3kse3p3H3hk=",
-                "mac": "heEXD7SeJirWdhceyckOaw==",
-                "ciphernote": "5M3oz8n3n8kbuFM7VBjQbBFsTutbVsDCAGbOna6EbVuvG2HeKOIMEqNWjL/pdrHM"
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_B/description": {
-                "ciphertext": "2pQ2UPiKn6m4wvQw8gsmGNspNTxuxQdxwaHyYJpJnzf5+PbQKJ48ej2vxS5p0kvYWnIGjKPhAu3oU7I1Tzy1zDN4UrebKZjyEdDqQcOm93MBcZdGko1VSoh39D4M8nN+",
-                "mac": "5Cz5StSKit3WLuSKypi3Ow=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_B/name": {
-                "ciphertext": "dta7G4c7SHgJpqSjTRQ3cQ==",
-                "mac": "HXLhd+ZTOxHcXSAx81AgdQ=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_A/description": {
-                "ciphertext": "FLAmrRRpgwZZ3WNc9jM7SK+jfxL/USLcC16wvgVuVaxmNRHfKoHasd2wCfdxfamryFfsf0CCtSk2Fr0nOM23LSFIopW+U0wjLhVKQtv115e8r/5o6wWGhM8pqLbrWce423cH9CH5jMOg6xpnHm2Vi2xJeFtmjtrxFYd9rW4K0iW5fazmpgLtVOIfQdRkNOfw",
-                "mac": "62xobLF8eSXwQtucS1wxmA=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_A/name": {
-                "ciphertext": "4bvfUc9pXIkIvw3YjFqVzw==",
-                "mac": "aIvKuVTIaXJIrkFNgBb2YA=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_B/description": {
-                "ciphertext": "RCP/G7bTnUOyhV7K4orMtmXnCv+mPx2iUtUosQznruEXnxt14H+CFg6g/WbZ5T4kmklcPU9wHR6czliLQqVNZctjXfGXmhRGkIo4UfHsbJvrAHp+bR5bbmYZbyBoI+yXg8wdVclMZ7Uv6ZCS8NehG6TW7SNJnJ4q4Vc9221oNVLAj94DVEqbUrkCGOjB/Xgx",
-                "mac": "TM6E0OB3b2gQ0hsaDduFMA=="
-        },
-        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_B/name": {
-                "ciphertext": "F4or1VlNha6wZ1iC5QAocQ==",
-                "mac": "9DnxlWqrihLbsWHQeEUbAQ=="
-        },
-        "players/lea.json/actions/HEAT/THROW_SPECIAL1_A/description": {
-                "ciphertext": "4yHUirVjEENievkKrsBLIofFHxtaRtd80nUbn1/ck71jkVueOFOl76E4bExjwdNqkxyoCmPik6NwqZWy2+WpMusfDcfQWgJIUI7y0G8K1VBJOPYlYSG/B5734dNWx8J9",
-                "mac": "Wf/QAXE7UXC4TsqI3the9g=="
-        },
-        "players/lea.json/actions/HEAT/THROW_SPECIAL1_A/name": {
-                "ciphertext": "JjwxI3sVikw7vLbtFWomnA==",
-                "mac": "IpexSkAHMcpoQxLgA1v2+w=="
-        },
-        "players/lea.json/actions/HEAT/THROW_SPECIAL2_A/description": {
-                "ciphertext": "17UgvDSoZCQOpKh8wobSHY4Cr2Ggl0m3oF9+Yrl+f5xBb0QOxWAfIytxL0Pbpp4vpybOJzM5xKOqoQOYR5hjqPVgaOXGeuFJHvklba1+8P8=",
-                "mac": "Ap75JicU6ketv+2APOFseQ=="
-        },
-        "players/lea.json/actions/HEAT/THROW_SPECIAL2_A/name": {
-                "ciphertext": "pbE7QkS31Bd2vwenjqhkdQ==",
-                "mac": "jduhXu7Tcy+B8t9KdUFHVg=="
-        },
-        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "KogIwQpzYhe4t+KssldBgW1oi8KL11XEi53lSUGUnWgxgTOovYPhJGT3m3r877ZpCkzHXdXfjBxRPKP19P2AYvdT8fbNDAqYumT8mZzPWD0=",
-                "mac": "kTJSMCqZYblVZVmFuiBm/A=="
+                "orig": "Wave Missile",
+                "text": "Projectile d'Onde"
+        },
+        "players/glasses.json/actions/WAVE/THROW_SPECIAL1/description": {
+                "orig": "Use it to attack the darkness.",
+                "text": "Utilisez-le pour attaquer les ténèbres."
         },
         "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "iEbLhr3ggzeCcmLH+78iAg==",
-                "mac": "etNasYdn2qL+IxslD7AjBw=="
+                "orig": "Spin Dance",
+                "text": "Danse Tournante"
         },
-        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_B/description": {
-                "ciphertext": "+OJBvJ+iD4enPlH7+LatZCnQCVIt+fXuNEwJFIUCDvVf50TNzie2KEPkP5Ap4lSbesETFUxuLVjfLsSbQ+05lALWV6EpB/shmmmt+pLI6Z+lt0ptpRPKFPkyYVPgzptG",
-                "mac": "7oJsaTGJg8BoCMoHZTzBKA=="
+        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
+                "orig": "A wide-ranged spinning move hitting many nearby enemies.",
+                "text": "Un mouvement tournant avec une bonne allonge qui frappe les ennemis proches."
         },
         "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_B/name": {
-                "ciphertext": "dhdi7ZHaGxtFFx4MT25FXg==",
-                "mac": "tJuTMSI57EqaZSau9/v3Tw=="
+                "orig": "Sphere Saw",
+                "text": "Scie Sphérique"
         },
-        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "HL0S2oOZGxMccHXDZBMkV1oFGD4C18oK/ItPJcIokSesMTqoL1pI2XkvMiiM6PtDemqWE1zmvsFl/F1S4kM5k8YjfSICzOnBNEi6laqL2VdGVEW06QTFalTijqhpeinX",
-                "mac": "dCTrFUqcFo/fKagSx3bpcQ=="
+        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_B/description": {
+                "orig": "Catch your enemies in a spinning saw. Powerful attack with smaller range.",
+                "text": "Attrapez vos ennemis dans une scie circulaire. Attaque puissante avec une portée réduite."
         },
         "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "chRlvkBOFc0o6xCCdNIWSg==",
-                "mac": "REhy7B+JH10sDBIsMD4NdQ=="
+                "orig": "Spiral Dance",
+                "text": "Danse Spirale"
         },
-        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_B/description": {
-                "ciphertext": "hHrVyXOK+fBtgGIjUnLQheQ5D3ovYrOCk9UT+ASKAtFHIovYrvW78RaO+1okGY3PyUbsfcmPFIlyw9y5beyl0NZj55rElpj/+zazBY7Z9Cc=",
-                "mac": "I4z4jlPEzIHPvxZTJeuYDg=="
+        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_A/description": {
+                "orig": "A Spin Dance with more spins, hits, damage, and knockback.",
+                "text": "Une Danse Tournante avec plus de tournants, de coups, de dégâts et de poussée."
         },
         "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_B/name": {
-                "ciphertext": "IRdvuNxxHVnoJwk/PixjfwPFSAjtEPy4oiQKYr1cWvA=",
-                "mac": "lOqwyzpf2Wwl1dVqi2eCXA=="
+                "orig": "Sphere Storm",
+                "text": "Assaut de Sphères"
         },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_A/description": {
-                "ciphertext": "WVcveYK6XkMQwUlQp59dx9FLEHmiJOQJ8BDvN0RGq0Tjp7PeLoHObEkIuu2Uo9GWQ46gv3D3Cr0yJFDdoFkYPvjnLyiW3XMRAx7WomEtVSM=",
-                "mac": "Kz8nnG++sQBBjLuatcT52w=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
-                "ciphertext": "VSy/38ZWrACSAIpBpP1S8w==",
-                "mac": "MZfvav+BmKKqW3Yeiqm3JA=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/description": {
-                "ciphertext": "KN+FDHIWvMLddTYBxq+IrVGYqqVdzZixYF12h1YSldwXjJxaB/H2w9G1Hv3odSVMSy1z74+Edav3YsuCqh2v0w==",
-                "mac": "W8hIoHmrYsDRlzFIrL72mQ=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
-                "ciphertext": "Hm5DYGQSPYRceAyN4yyd0TdAMjtqcut+GvJQS3UjxSo=",
-                "mac": "Xz5+8H77H4reUitn90+WiA=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/description": {
-                "ciphertext": "s981GyPwC+Cj6gUiiOhf2ygYhyKhXX+TP0tfvTLMF4IM2uXK1lcRliKSmHP3NQR48jCi69Yex85pRjgdDKX6ysXUTevJifST/XSf7pERgN5V1WM6LzPmdzjhKVEiZzy4SC7FEkSW1QBydwTz02CjZiJaMw7qbs1XvSaDepZkTx4=",
-                "mac": "+kCfa73L8vQNZVF3QMZQrg=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/name": {
-                "ciphertext": "TSw5waF13vL6bzWYhe4PVw==",
-                "mac": "xBhPSCTGsJEvnAxM9w6uzA=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/description": {
-                "ciphertext": "TxpmMP3743bTvotbEJNfktNsEX3xnjGyrj3t45x+brcw0MZ1XFuCJfbn7KHZefIW399Xb3iczmSm8kotMePu8+Vdhihyp3sJUSbEQkM2eRZxcLx7th7e34EWKTU6ZtBk",
-                "mac": "BAlR/3X4Lo44oCQldP4F8A=="
-        },
-        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/name": {
-                "ciphertext": "5K2m5b3zKC3FHsPRM04GRA==",
-                "mac": "TvP/IbIxy5UaPqA/jmp76g==",
-                "ciphernote": "C2R7ryL2Qfpi0Nzl86o8y0uCA/GQDhISZ50DZX6nw7ryDwWzKlucQwvYHIoHi2Bd"
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/description": {
-                "ciphertext": "8rL4kIln0ET/Pe3bCJmfbs3+6aTQ8SIYeeAMmZIbIbAlESrii1uQBYwKGAzHhYg4FnigptAYN+UW4smW6BG8Olrq9NcUaEpwsFkqH3R293c=",
-                "mac": "Le73464Cs0thI2DJGYZyrg=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/name": {
-                "ciphertext": "jyxIw3HQu165Zp2p/5fS+A==",
-                "mac": "AO5D7V/0xm8kLiz/Wur+fw=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/description": {
-                "ciphertext": "8DpQxXTBfeqZMuXhMt9IonGBBBmB8Cy4592ACVESOGd6xhY73nGbHvWf1GDTlQlT7+mgoFwekR4A99YXVHlYIIgH0QMwfplmSQIVkEclLtPyJI3Diqwhb4Pktf1F9RjW",
-                "mac": "kLcVw9YMtkfqf339+UGbJQ=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/name": {
-                "ciphertext": "qk5W6xJ6cjjOl1WcuYqQFE3Y0MmVnggqR1aMnPbvyY8=",
-                "mac": "u74bTToTtI16hObUv1eTnw=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/description": {
-                "ciphertext": "o2piSwLIxOzWp735d4fRPUn7wgP+nNSE69WLsd5XJm1KVz832f2C/1xcbdrBVGcm7JJt0mV1S18CaJPkM+vC5vUD4cW0ZIUWGfc/2yrXRq7aYWsU2bC9zj5NTHzmxCy6",
-                "mac": "2w4W48tX5ZxAZR+FznGsLg=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/name": {
-                "ciphertext": "XcCigo7EbI/KhpGwvq1p/g==",
-                "mac": "MEDJI0OU67WtlWryusTwJA=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/description": {
-                "ciphertext": "GYm0o6IBdtnJt71bMPJMfvK9g0k1U5uj1sQKODdGyqBmrYbT5k0nklCpTxQJsz3r7uVVfO36yCRn71P74SGVTW/EUojWO8GeJc7ZDSoGa6RyObkFkEe8HUczpzo9jngus5yo588xiQ0txUvj7R0Efg==",
-                "mac": "jZUpSbrZgQp53+kGHLLFlQ=="
-        },
-        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/name": {
-                "ciphertext": "j7t6BFHUn884u0yv+zjxHt00y7wGe8qswUJsedUD72o=",
-                "mac": "IinxTUJFT/QNkuWUb73M0A=="
-        },
-        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
-                "ciphertext": "4FIaFaVEdoSwjFbKPiO8+qEgSC3saWerNP9Ylj8gL+lRZyDxXJGrwQFx3hT8ShdW590VCmajP0NlAoN+Vp1jgQ==",
-                "mac": "tPtkk8H/o/yEkXw96i4W+A=="
+        "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL2_B/description": {
+                "orig": "Catch your enemies in a fierce air combo with massive damage.",
+                "text": "Attrapez vos ennemis dans un combo aérien mortel avec des dégâts massifs."
         },
         "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
-                "ciphertext": "rQP0Pv5TNU7BfoSxCxCH9g==",
-                "mac": "T1FCfeFD9S8m17Nw9S06xw==",
-                "ciphernote": "cGj0TRs9G2msMp3A6ku+9fDVW0QhKRPj09WTgefli/wuq/FvSQmyknIIRCsaRSFv"
+                "orig": "Ball of Steel",
+                "text": "Boule en Acier",
+                "note": "should check that duke nukem translation"
         },
-        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_B/description": {
-                "ciphertext": "D87pm2h7Cxdj+Ix88oDV4y4QFJkAOlC6JJO/g3/mW5ix6DPDw673sNk7YLR8JK7uGFcG8pmEUyjFwN3iKJwe1g==",
-                "mac": "MVDZCDzKkJ1VRrVytQVAPg=="
+        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
+                "orig": "Fire a powerful projectile that will fly through enemies.",
+                "text": "Tire un projectile puissant qui traverse les ennemis."
         },
         "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_B/name": {
-                "ciphertext": "necHrtOxgfSdWiQchYdYWQ==",
-                "mac": "3HGKlDxjK8vi3eM0KOP9wA=="
+                "orig": "Bullet Rain",
+                "text": "Pluie de Balles"
         },
-        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_A/description": {
-                "ciphertext": "nETDwXx/6CNQSLfa0CWWcXiU8PMIcOv8tYa+OOFN8cch4RMzPa42DP/RwMXK18Q8F29y0RORlZSRRqxH5cAJlodqz4gkuh51ngzj+fVs+ElB4j3B0CQOMRESuJj70OjQ6YfPCH4QlSDngiwRlvDWzA==",
-                "mac": "oqH6KPUd6Lq2wajmJZ7kaQ=="
+        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL1_B/description": {
+                "orig": "Fire a mass of small shots in a narrow angle.",
+                "text": "Tire une rafale de petit projectiles dans un angle serré."
         },
         "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_A/name": {
-                "ciphertext": "s4ZtmqRNJ6rcdWoZEvSOFg==",
-                "mac": "x24HjOMPV6Tw/oxaX34EtA==",
-                "ciphernote": "4Lf3M3axcQ2OcBOIZ0vOF+lPzNhwoaWZduLfeSqQ4toyDHzBfKD/7Dl0sF5E4XuK"
+                "orig": "Ball of Boomerang",
+                "text": "Boule Boomerang",
+                "note": "Boule de Boomerang is too long, cuts at Boomer"
         },
-        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_B/description": {
-                "ciphertext": "WOdnmfc2+WmzxIu1IO7iL+CBhTE3hkBV4bCr+Zg8Zbv6rcsny50KUk0vx3FAK4DC12vm9ucEV8CMyq9+ZI37EenWXxEX7MUNkN9TnwgmxZg=",
-                "mac": "p+3Hb3SmfMtX+1llfZtqjQ=="
+        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_A/description": {
+                "orig": "Fire a powerful projectile with wide range, flying through enemies and back to you.",
+                "text": "Tire un projectile puissant avec une bonne allonge, qui traverse les ennemis et reviens vers vous."
         },
         "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_B/name": {
-                "ciphertext": "D8oRF8N+bdDugdPMEaEKPw==",
-                "mac": "SQ2ZiFujdqwBR8Ik1mFLzg=="
+                "orig": "Bullet Inferno",
+                "text": "Enfer de Balles"
         },
-        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "AZu6szMDniPklkmWyju5PuWfVCRHcUmrjyqHipUGj9x37Or48Ya4Y/0gt+dt89JnldZ0xE8DHzGpmIugEbjSnzQ6sz4Dfb/pINbzPHC2N07UmRuKrs5R3CNfCbM8b6Zc",
-                "mac": "GayPrqVe4DL/yqN6df59Ig=="
+        "players/lea.json/actions/NEUTRAL/THROW_SPECIAL2_B/description": {
+                "orig": "Fire an even larger mass of homing shots at your target.",
+                "text": "Tire une rafale encore plus grosse de projectiles autoguidés vers votre cible."
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_A/name": {
+                "orig": "Azure Strike",
+                "text": "Frappe Azur"
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_A/description": {
+                "orig": "Dash right through your enemies, damaging everything in your way.",
+                "text": "Sprinte à travers vos ennemis, en dégommant tout sur votre chemin."
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
+                "orig": "First Cut",
+                "text": "Première Entaille"
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL1_B/description": {
+                "orig": "A very powerful attack that will hit exactly one enemy.",
+                "text": "Une attaque très puissante qui ne touchera qu'un ennemi."
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/name": {
+                "orig": "Azure Surge",
+                "text": "Vague Azur"
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_A/description": {
+                "orig": "Dash through your enemies and ignite delayed damage spreading through nearby targets.",
+                "text": "Sprintez à travers vos ennemis et causez des dégâts différés qui toucheront tous les ennemis aux alentours."
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/name": {
+                "orig": "Final Showdown",
+                "text": "Coup Final",
+                "note": "Confrontation Finale is too long"
+        },
+        "players/lea.json/actions/NEUTRAL/DASH_SPECIAL2_B/description": {
+                "orig": "An extremely powerful attack that will hit exactly one enemy. A lot.",
+                "text": "Une attaque extrêmement puissante qui ne touchera qu'un seul ennemi. Plein de fois."
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/name": {
+                "orig": "Proximity Blast",
+                "text": "Souffle Proche"
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_A/description": {
+                "orig": "Blast away all nearby enemies, freeing up space.",
+                "text": "Projette en arrière tous les ennemis proches, pour faire de la place."
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/name": {
+                "orig": "Guard Sphere",
+                "text": "Sphère de Garde"
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL1_B/description": {
+                "orig": "Creates a damage-reducing shield, lasting for a couple of seconds.",
+                "text": "Crée un bouclier réduisant les dégâts, qui ne dure qu'une poignée de secondes."
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/name": {
+                "orig": "Vortex Blast",
+                "text": "Souffle Vortex"
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_A/description": {
+                "orig": "Pull enemies towards you, only to blast them away with a fierce triple explosion.",
+                "text": "Attirez les ennemis vers vous pour mieux les projeter en l'air avec une triple explosion."
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/name": {
+                "orig": "Blade Sphere",
+                "text": "Sphère de Lames"
+        },
+        "players/lea.json/actions/NEUTRAL/GUARD_SPECIAL2_B/description": {
+                "orig": "Creates a damage-reducing shield that also damages nearby enemies for several seconds.",
+                "text": "Crée un bouclier réduisant les dégâts qui attaque aussi les ennemis proches pendant plusieurs secondes."
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+                "orig": "Fire Whirl",
+                "text": "Tourbillon de Feu"
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
+                "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
+                "text": "Une attaque tourbillonnante incandescente, qui engouffre vos ennemis dans les flammes."
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_B/name": {
+                "orig": "Flame Jab",
+                "text": "Flamme Mandale",
+                "note": "Mandale de Flamme is too long"
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL1_B/description": {
+                "orig": "A blazing thrust of fire piercing through enemies in front of you.",
+                "text": "Une bourrasque de flamme ardentes qui traverse les ennemis en face."
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_A/name": {
+                "orig": "Calamity Trigger",
+                "text": "Début du Désastre"
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_A/description": {
+                "orig": "Draw in enemies with blazing fire balls and finish them with a massive fire whirl.",
+                "text": "Attirez les ennemis avec des boules de feu ardentes et achevez-les avec un tourbillon de flammes."
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_B/name": {
+                "orig": "Blazing Dragon",
+                "text": "Dragon Ardent"
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL2_B/description": {
+                "orig": "Lock in enemies with 2 powerful strikes followed by a flaming air combo.",
+                "text": "Bloquez vos ennemis avec deux coups puissant, suivi d'un combo enflammé dans les airs."
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_A/name": {
+                "orig": "Ragnarök",
+                "text": "Ragnarök"
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_A/description": {
+                "orig": "The end is here. Draw in Enemies, engulf them in an upwards fire whirl and end with blazing ground explosion.",
+                "text": "La fin est proce. Attirez les ennemis, engouffrez-les dans une attaque tourbillonnante de flammes montantes, et achevez-les avec une explosion massive au sol."
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_B/name": {
+                "orig": "Vermillion Echo",
+                "text": "Écho de Vermillion"
+        },
+        "players/lea.json/actions/HEAT/ATTACK_SPECIAL3_B/description": {
+                "orig": "Summon the spirit of the dragon and lock enemies in a fierce combo that ends with a fire tornado.",
+                "text": "Invoquez l'esprit du dragon et saisissez les ennemis dans un combo ardent qui se termine par une tornade de flammes."
+        },
+        "players/lea.json/actions/HEAT/THROW_SPECIAL1_A/name": {
+                "orig": "Burn!",
+                "text": "Brûle !"
+        },
+        "players/lea.json/actions/HEAT/THROW_SPECIAL1_A/description": {
+                "orig": "A controllable blazing burst of fire that deals damage over a small area.",
+                "text": "Une bourrasque de flammes ardentes contrôlables qui cause des dégâts sur une petite zone."
+        },
+        "players/lea.json/actions/HEAT/THROW_SPECIAL2_A/name": {
+                "orig": "Flare Burn!",
+                "text": "Raie Brulante !"
+        },
+        "players/lea.json/actions/HEAT/THROW_SPECIAL2_A/description": {
+                "orig": "Jump into the air and fire a destructive laser along the direction you are facing.",
+                "text": "Sautez dans les airs et tirez un laser destructeur là ou vous regardez."
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+                "orig": "Crimson Strike",
+                "text": "Frappe Rouge"
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL1_A/description": {
+                "orig": "Dash through your enemies while leaving a trail of fire.",
+                "text": "Sprintez à travers vos ennemis en laissant des traces de flammes."
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL1_B/name": {
+                "orig": "Ashen Mine",
+                "text": "Mine de Cendres"
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL1_B/description": {
+                "orig": "Place a mine that explodes when enemies are nearby.",
+                "text": "Placez une mine qui explose quand les ennemis approchent."
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL2_A/name": {
+                "orig": "Crimson Stream",
+                "text": "Flux Rouge"
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL2_A/description": {
+                "orig": "Surround yourself with fire and dash a long way, leaving hot damaging magma on the ground.",
+                "text": "Entourez-vous de feu et sprintez vite, en laissant des traces de magma en fusion derrière vous."
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL2_B/name": {
+                "orig": "Mine Valley",
+                "text": "Vallée de Mines"
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL2_B/description": {
+                "orig": "Dash and place multiple mines which can seek enemies when not touched.",
+                "text": "Sprintez et placez plusieurs mines qui viendront chercher les ennemis, si personne ne les touche."
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL3_A/name": {
+                "orig": "Scarlet Rain",
+                "text": "Pluie Écarlate"
+        },
+        "players/lea.json/actions/HEAT/DASH_SPECIAL3_A/description": {
+                "orig": "Mark enemies by dashing through them which will be bombarded by a blazing meteor shower.",
+                "text": "Marquez les ennemis en sprintant à travers eux, pour ensuite les bombarder d'une pluie de météorites."
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_A/name": {
+                "orig": "Recoil Trumpet",
+                "text": "Trompette Recul"
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_A/description": {
+                "orig": "Perfect guard an attack and counter with a flaming explosion.",
+                "text": "Parez une attaque et contre-attaquez avec une explosion puissante."
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_B/name": {
+                "orig": "Ring of Fire",
+                "text": "Cercle de Feu"
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL1_B/description": {
+                "orig": "Creates a ring of fire around you, dealing damage to enemies walking into it.",
+                "text": "Créez un cercle de feu autour de vous, causant des dégâts aux ennemis qui y entrent."
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_A/name": {
+                "orig": "Kindling Fanfare",
+                "text": "Fanfare Allumée",
+                "note": "allumage en fanfare, but it's too long"
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_A/description": {
+                "orig": "Perfect guard an attack, jump into the air and counter with a fiery laser beam.",
+                "text": "Effectuez une Protection Parfaite, sautez dans les airs et contrez avec un méchant rayon laser."
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_B/name": {
+                "orig": "Burning Pulse",
+                "text": "Pouls Brulant"
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL2_B/description": {
+                "orig": "Create a long lasting fire circle that erupts in flaming outbursts several times.",
+                "text": "Créez un cercle de feu durable qui projette une violente éruption, plusieurs fois."
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_A/name": {
+                "orig": "Ignite Embers",
+                "text": "Allume Braises"
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_A/description": {
+                "orig": "Perfect guard an attack, lock enemies in an upwards combo and finish with a hellish downwards laser.",
+                "text": "Effectuez une Protection Parfaite, saisissez les ennemis dans un combo montant et achevez-les avec un laser infernal vers le bas."
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_B/name": {
+                "orig": "Ancient Sun",
+                "text": "Ancien Soleil"
+        },
+        "players/lea.json/actions/HEAT/GUARD_SPECIAL3_B/description": {
+                "orig": "Conjure forth the power of the Sun and immolate yourself in fire making melee attacks burst out in flame for short while. ",
+                "text": "Invoquez la puissance du soleil et engouffrez-vous dans du feu, pour créer des attaques de corps-à-corps brulantes pendant un court moment"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+                "orig": "Frozen Star",
+                "text": "Étoile Gelée"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
+                "orig": "Long startup time for massive damage.",
+                "text": "Une longue phase de démarrage pour des dégâts massifs."
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_B/name": {
+                "orig": "Ice Twirl",
+                "text": "Glace Tournoyante"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL1_B/description": {
+                "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
+                "text": "Effectue une attaque stationnaire de glace tournoyante avec une grande allonge et une forte poussée."
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_A/name": {
+                "orig": "Blizzard Hawk",
+                "text": "Aigle de Blizzard"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_A/description": {
+                "orig": "Take a stand and do massive damage with 3 frozen stars.",
+                "text": "Prenez position et causez des dégâts massifs avec 3 étoiles gelées."
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_B/name": {
+                "orig": "Ice Tornado",
+                "text": "Tornade de Glace"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL2_B/description": {
+                "orig": "Extend the Ice Twirl by sucking in enemies with multiple hits and then ejecting them.",
+                "text": "Étends la Glace Tournoyante en aspirant les ennemis avec plusieurs coups avant de les éjecter."
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_A/name": {
+                "orig": "Eternal Winter",
+                "text": "Hiver Éternel"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_A/description": {
+                "orig": "Take a stand and conjure a massive frozen ice spear from the ground that impales your enemies.",
+                "text": "Prenez position et conjurez une pique de glace géante au sol qui empale vos ennemis."
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_B/name": {
+                "orig": "Polar Pirouette",
+                "text": "Pirouette Polaire"
+        },
+        "players/lea.json/actions/COLD/ATTACK_SPECIAL3_B/description": {
+                "orig": "Begin a dance of multiple huge ice whirl attacks and lock enemies in and end it all with a massive pirouette that blast enemies away.",
+                "text": "Démarrez une danse de plusieurs attaques tournoyantes de glace, attrapez les ennemis et giclez-les avec une pirouette finale."
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL1_A/name": {
+                "orig": "Hail Flurry",
+                "text": "Rafale de Grêle"
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL1_A/description": {
+                "orig": "Quickly shoots a mass of icy spikes.",
+                "text": "Lance une salve de piques gelées."
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL1_B/name": {
+                "orig": "Snow Flawke",
+                "text": "Cristal de Neige"
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL1_B/description": {
+                "orig": "Hit enemies with a big snow explosion, caging them within icicles.",
+                "text": "Touchez les ennemis avec une explosion de neige, qui les emprisonne dans des cristaux de glace."
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL2_A/name": {
+                "orig": "Hail Storm",
+                "text": "Tempête de Grêle"
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL2_A/description": {
+                "orig": "Shoot an icicle that bounces off of walls 2 times, creating homing mini icicles.",
+                "text": "Tire un cristal de glace qui rebondit aux murs deux fois, en créant des minis cristaux autoguidés."
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL2_B/name": {
+                "orig": "Frigid Flawke",
+                "text": "Explosion Frigide"
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL2_B/description": {
+                "orig": "Shoot a large snow ball, leaving an icicle trail and caging enemies with multiple icicles.",
+                "text": "Tire une grande boule de neige, qui laisse derrière lui des cristaux de glace et emprisonne les ennemis."
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL3_A/name": {
+                "orig": "Gatling Arctillery",
+                "text": "Gatling Artiquerie",
+                "note": "this is stupid, so is the original name. don't blame me"
+        },
+        "players/lea.json/actions/COLD/THROW_SPECIAL3_A/description": {
+                "orig": "Summon an Ice Turret with spikes around you and blast your enemies away with a volley of icicles.",
+                "text": "Invoquez une tourelle de glace entourés de piques et tailladez vos ennemis avec une salve de cristaux de glaces."
+        },
+        "players/lea.json/actions/COLD/DASH_SPECIAL1_A/name": {
+                "orig": "Indigo Strike",
+                "text": "Frappe Indigo"
+        },
+        "players/lea.json/actions/COLD/DASH_SPECIAL1_A/description": {
+                "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact.",
+                "text": "Sprintez à haute vitesse, en laissant une trainée de cristaux de glace derrière vous, causant des dégâts au contact."
+        },
+        "players/lea.json/actions/COLD/DASH_SPECIAL2_A/name": {
+                "orig": "Indigo Rush",
+                "text": "Ruée Indigo"
+        },
+        "players/lea.json/actions/COLD/DASH_SPECIAL2_A/description": {
+                "orig": "Dash a long distance, leaving icicles which create multiple additional icicle trails.",
+                "text": "Sprintez une longue distance, en laissant des cristaux de glace derrière vous, qui créent d'autres trainées de glace."
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL1_A/name": {
+                "orig": "Frozen Stance",
+                "text": "Position Gelée"
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL1_A/description": {
+                "orig": "Perfect guard an attack and counter with a cold strike, slowing down your enemy.",
+                "text": "Parez une attaque et contrez avec une frappe froide, ralentissant votre ennemi."
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL1_B/name": {
+                "orig": "Brisk Barrier",
+                "text": "Barrière Active"
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL1_B/description": {
+                "orig": "Blast enemies away and spawn several icicles in front of you, blocking projectiles and damaging enemies on contact.",
+                "text": "Éloigne les ennemis et crée plusieurs cristaux de glace devant vous, bloquant les projectiles et causant des dégâts au contact."
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL2_A/name": {
+                "orig": "Freeze Frame",
+                "text": "Écran de Gel"
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL2_A/description": {
+                "orig": "Perfect guard an attack and completely freeze the enemy, leaving it open for more attacks.",
+                "text": "Parez une attaque et gelez complètement l'ennemi, le laissant vulnérable aux attaques."
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL2_B/name": {
+                "orig": "Icy Bastion",
+                "text": "Bastion de Glace"
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL2_B/description": {
+                "orig": "Spawn multiple icicles around you and envelop yourself in a protective but slowing shield.",
+                "text": "Convoquez plusieurs cristaux de glace autour de vous, et enveloppez-vous d'un bouclier protecteur mais ralentisseur."
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL3_A/name": {
+                "orig": "Crystal Keeper",
+                "text": "Garde de Cristal"
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL3_A/description": {
+                "orig": "Perfect guard an attack, initiate a quick combo and completely freeze all enemies in front of you.",
+                "text": "Parez une attaque, initiez un combo rapide et congelez complètement tous les ennemis en face de vous."
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL3_B/name": {
+                "orig": "Fimbulvetr",
+                "text": "Fimbulvetr"
+        },
+        "players/lea.json/actions/COLD/GUARD_SPECIAL3_B/description": {
+                "orig": "Winter is here. Summon multiple huge icicles around you and envelop yourself in a powerful protective shield.",
+                "text": "L'hiver arrive. Invoquez plusieurs cristaux de glace autour de vous et entourez-vous d'un puissant bouclier protecteur."
         },
         "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "erId76LNPLJtngpAfvSrsQ==",
-                "mac": "g9rsjYAXiBM+UhGuaFiCRA=="
+                "orig": "Tesla Twist",
+                "text": "Pirouette Tesla"
         },
-        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_B/description": {
-                "ciphertext": "XdOFyjfKVZIGP2CXMQtoSiCZQvJL9+QMWBsQUFXklzYvO4OC0xcQSb/MGu+7LXTnfDym/gz6ZyyFgmU/Jh4bxNx7ftoz1xtGK6YfZ8d0cUM=",
-                "mac": "XtPYM84UDRXliuyiXfrOzw=="
+        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_A/description": {
+                "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
+                "text": "Attaquez avec une série de plusieurs attaques tournoyantes avec une petite allonge."
         },
         "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_B/name": {
-                "ciphertext": "FBqALJs61wwgiR76XKJuzA==",
-                "mac": "2AAIb6fIN88PcEVztdjo9A=="
+                "orig": "Plasma Spike",
+                "text": "Pique Plasma"
         },
-        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "tWboFppULKqsZbCE5i0nG7AuJtNLAcPqO3LnQelKEkbx7sN6bv6LsDEN12V2NgZvB4r4gWOqEatLsyFa5tmhbxDca/nM5P+QTpBDyJqNetbMVj+WBQH1ePKnLdWAiBcHN+8sG2jDX38srUPV7L82CXsSaBq/3Gg4M0WZE0XPk3f5qY8vrIeR6Rimv/n6vdY9",
-                "mac": "Vv0Ss1djKQuvR1i8XYYsDw=="
+        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL1_B/description": {
+                "orig": "Hit a single enemy into the air following up with a lightning strike.",
+                "text": "Touchez un seul ennemi en l'air et continuez en le frappant par la foudre."
         },
         "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "1dxtQ9izYdaQKsGSvwuO1g==",
-                "mac": "MxMWhNG/rEabAq8vRzEPyg=="
+                "orig": "Tesla Waltz",
+                "text": "Valse Tesla"
         },
-        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_B/description": {
-                "ciphertext": "qQJrIZ3j3ckEbBEXD7xkC4vgFl6/eJJIB18JSXVyxsamdfMd7Ja7QfEJB3cImptoHkqyoh/xwugvAYc1YvTaeep+Q3eiflw8r+cANUA/MsbSpCORi8GQbYOaSKGKmT3KqW27EcY6cINsC7PWHiu/UEgIxUpOy/tMLWUThI630t5BSzmihOzC77opT7Txpn6q",
-                "mac": "CmXFRYnFiLTqjW7NugAh9Q=="
+        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_A/description": {
+                "orig": "Perform a volley of controllable spin attacks while drawing in enemies and finish off with a powerful whirl.",
+                "text": "Effectuez une volée d'attaques virevoltantes contrôlables en attirant les ennemis, avant de les achever par un puissant tourbillon."
         },
         "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_B/name": {
-                "ciphertext": "BWd9Z6baspqfxNr57nWJlwCNVQ1TZV66S/mb/vBBtUg=",
-                "mac": "/5m+s5e6HTWuMiYPG5x89w=="
+                "orig": "Battery Assault",
+                "text": "Assaut de Batterie"
         },
-        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL3_A/description": {
-                "ciphertext": "H3iC8PPAdL4eyJyEp/ECj4R67AWgVB3XCh4NPJzEK/DQN3oBAgQHbRnQEZnZdFD8EKo3ZJydxOPCuum3KBSvM4W28JSTtOe6J1w0rbGtq2wcbzrn4mhi2jsFWBaJRfCX0JSLWwpNw+Jp1vs8Q9nNbbYW8PNIBJQ7nZT6P3yRLOeQyDUYgX4iimjWmEzAIRU+",
-                "mac": "4APhPYXAuB7lNHOI1mydCw=="
+        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL2_B/description": {
+                "orig": "Lock a single enemy into a fast ground combo followed by multiple hit in the air and a strong lightning finisher.",
+                "text": "Saisissez un seul ennemi dans un combo rapide au sol, suivi de plusieurs coups dans les airs avant de l'achever par une puissante foudre."
         },
         "players/lea.json/actions/SHOCK/ATTACK_SPECIAL3_A/name": {
-                "ciphertext": "BtIbi9aCnO1xOJcxc7ZL7Jqx6tXOWE8fGgHdX33aSz8=",
-                "mac": "X9yXTtz4sX1ZG+6aUeuQRQ=="
+                "orig": "Song of Storms",
+                "text": "Chanson d'Orages"
         },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_A/description": {
-                "ciphertext": "knqnTRdX26B1DroZtDYmBKR0tQHBDVYMWI7eDqFjgeN7AoDgYDnTPhS07haUiZ5MSH/QY784noTR2NkuKmv1BSWnjavhKzOPM+JbXp3tfO8=",
-                "mac": "P6xXsSQhcIsot5WypFA2jQ=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_A/name": {
-                "ciphertext": "B1G6muvpaN3ytVcpLpW/SA==",
-                "mac": "+A5NWpyTSVdbzgSUsF4Jtg=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
-                "ciphertext": "HLa9EoABCes4avKXkJ3gsIhRkp3hdUCCFgyScdQw7vrhYlZNO7R263UCRyfeEfbfADAtkHlrPri8CtO6VB3ECryytcfhJFVsmsUweo/ooD0=",
-                "mac": "zrNd4dsoVC1cTNthHYdSEQ=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
-                "ciphertext": "c9hWExQCbTG/8rvzCFmj2PHXPdjSXa6qbMh0Pqm124c=",
-                "mac": "DkQcVAYoBK+bMJ47lrrG8g=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_A/description": {
-                "ciphertext": "DLRV1rTjY4rp7Ljq28bPHJg0aTPDBBK34sql7g9CDZmP5T7CZU2O6jN4GJyRnusRL0BANPBDPc9YVu1lmU2HHh/m7Rje9Xf16yOqssMY2R4BmK0IRX+P4IV6XrrdIrFlv6YdUq+4uPZW7JLh8yYYtQ==",
-                "mac": "Pm7TZN4bS56K59W8CAv77g=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_A/name": {
-                "ciphertext": "uiu5pIgKQnCs/AgZf498Zf0Z4Lqnl7Z5UIuD1hSH2YI=",
-                "mac": "BW9f2+I0mfdQoz3EraCLOQ=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_B/description": {
-                "ciphertext": "rJmlay4K6dUfAO2o5V+tOhiD5r0iJgQ7vd+ttM/L/sK5TyfNZeiKSEDCXelgWYSRMH8NkReFmLHAuPff6cVxmwZxy1NRy8Kiu43WMeDjkALdAlNva9T5B+oL5va9BW5hxQHtcSHQJWZnuFEBKQjSl9EZe7H3jq6LtjHbJfvgpoM=",
-                "mac": "PcvYyizNIZhBUAUMDYr/ww=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_B/name": {
-                "ciphertext": "fd4NqPnYZKwsm+49KLyjUw==",
-                "mac": "Mv7n5DNU78QmEN2cYHMj4w=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_A/description": {
-                "ciphertext": "ocijHNFLQwKlwfEcaxji3ZrYvmdKtRUS2jeUq9JVkdA09ikHjkMm4kvqphsou5Hu0yxm2rVddtXF3v58sZATBQocH6lIxQOzi86Wax6pmj0toUG/0NUEMiog2FOcjb45sacBNrhKBrK/8L9tBv30QN1CO3wthrW/WsOPASzrTvLDQgf1ayEWjHtCIjSyBxSCz/bXkG8vqD+gH+C4z1SNPw==",
-                "mac": "xnmE9703bynUSHiPZHNJ+g=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_A/name": {
-                "ciphertext": "4EZSmVlmYb09/0/uoxX6Y47ixdsGWnpRnogmti0y+R8=",
-                "mac": "w+kLSVKxLV7ZKUmoD7NO9g=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_B/description": {
-                "ciphertext": "+urQYeZNhNPt2MxwvYr5NSKAQdY7dUaxJTjbuzYLJizYqBMZvNuqKOCaPaiPV8vHR/NYM2kuSWw31MlkxdaY+E3j8iIjlitrrQzOUWK9AqOsO247DcEKkD2vuG+Q2vVAGQzWobJcDYKIgbqCQvEJ8wW6wByErROBw/cMAB8vIaPD36OcBuw9yq813uruccM+",
-                "mac": "VQb4VLW141FutUbuJILOcw=="
-        },
-        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_B/name": {
-                "ciphertext": "5bppmjdQ0zH2GFYGPr/97w==",
-                "mac": "CLaBdjP3XKGDfa21lrG4YQ==",
-                "ciphernote": "21wkp3OpYM2sh96b/zmxqqzmCCqnvuBVBVPVaXcsMcZz5981nmoD/rntP17BJHzqxBe6J7lzj/bb5AmELVsIGw=="
-        },
-        "players/lea.json/actions/SHOCK/GUARD_SPECIAL1_A/description": {
-                "ciphertext": "eLUXzSoTBSwg0agm/X5l40Ic+MD8OOjdTlMAtX7u5sMPZVbw7D/n63lT5WpGgU+utOZiEF7QAprf6Uben2wAPgIbGFiA5CaMyqSrW/GFc9U=",
-                "mac": "l3X59GlVvxqDx4Q9brqW2w=="
-        },
-        "players/lea.json/actions/SHOCK/GUARD_SPECIAL1_A/name": {
-                "ciphertext": "ZXb/GZeTSn3XlqaoRyR9zQ==",
-                "mac": "vs1uXSPDg3CUzv+h2pSAWg=="
-        },
-        "players/lea.json/actions/SHOCK/GUARD_SPECIAL2_A/description": {
-                "ciphertext": "zLRKJTFtXCiWFsGTUWObkQGCz32eUIWX0/+9EFRzmawU5oOgFqUkKBbp19opaW3yqqNit+5coOvOI4oeaDPld0wbPs9wrQ06RBV42psyfKM=",
-                "mac": "TbqTY0AS9VUCzwVWaSgAfg=="
-        },
-        "players/lea.json/actions/SHOCK/GUARD_SPECIAL2_A/name": {
-                "ciphertext": "q379W8F23p91F+Ks/aGmVw==",
-                "mac": "ouGm265ThDAbUdMbANfUGg==",
-                "ciphernote": "2hSmuD5KvhgYXmAOFcGRQbZOx8V+gkx910roIDYdwASgYSkussBeGpnRdMyBaWLCc4tos2FYKCUxmhf4ZAQUQ+OSUm0z3jn0Bc7ffpV3qQc="
-        },
-        "players/lea.json/actions/SHOCK/THROW_SPECIAL1_A/description": {
-                "ciphertext": "Lkl3m0w/cmqQXdjnuuJKo3k8V2jbYF4aLmjbgeJ8SI5kEopaF7PLDhsfHWYwAqR8i/tjv0lcMTVqaG+GsXaMd8eAYQGe9iVF4r4Maqm8mr1tFRhQkclWICy2nYICkLdWLVAIsSBaO/SvA2uTNzmy9w==",
-                "mac": "L8AR5K3Kcj3iPC7Mpp/ToA=="
+        "players/lea.json/actions/SHOCK/ATTACK_SPECIAL3_A/description": {
+                "orig": "Lock a single enemy into a hyper speed combo that creates a doppelganger and finishes with a faster-than-light attack chain.",
+                "text": "Saisissez un seul ennemi dans un combo hyper-rapide qui crée un sosie et termine par un enchaînement d'attaques plus rapides que la lumière."
         },
         "players/lea.json/actions/SHOCK/THROW_SPECIAL1_A/name": {
-                "ciphertext": "mhbVINviMGnhv8bhvf8YWdSG02CDnJKdqoowuQkofOU=",
-                "mac": "SUhvbtsip3uPIsaKyipbew=="
+                "orig": "Diving Spark",
+                "text": "Chute d'Étincelle"
         },
-        "players/lea.json/actions/SHOCK/THROW_SPECIAL1_B/description": {
-                "ciphertext": "KUkhV4XIiWLRctGsbTTVM9bmeSY4sQj936Vc2aHXePWONh1RfwV2Nr4YiBGMTTaA",
-                "mac": "Ey9Slef1ckuehHzMqks2oQ=="
+        "players/lea.json/actions/SHOCK/THROW_SPECIAL1_A/description": {
+                "orig": "Throw a projectile that creates a delayed lightning bolt damaging everything around it.",
+                "text": "Lance un projectile qui crée de la foudre à retardement, endommageant tout ce qu'il y a autour."
         },
         "players/lea.json/actions/SHOCK/THROW_SPECIAL1_B/name": {
-                "ciphertext": "lNroDpOiHQeL1HRvnhm7u1h3XIbZkub22eHR3OHwQaw=",
-                "mac": "OcUFHVSWQ77Ji2P+vZVaFg==",
-                "ciphernote": "acoBu+0Xr4mNmzKOY/ZjI6mlzJiW6dOVQ2B/DDA3/wGxIkgP7DzUShd4+UKhlPheggcOG/zfEzFB+CTwM3H9Ew=="
+                "orig": "Homing Wisp",
+                "text": "Esprit Chercheur",
+                "note": "size constraint is severe, shortest Wisp trans is Flamerolle"
         },
-        "players/lea.json/actions/SHOCK/THROW_SPECIAL2_A/description": {
-                "ciphertext": "6b9qulGgkpWVA1DTuvOXhtJgIyCVtUrOIcckruTzx+A3RZAjk94LJ/L8EWwqB+81J+pNkunkUlINMXPOO0SkR2Fu5aBIC5Mg23cO35APyvLjtEgUx4O2VUBQLwHWtgpG",
-                "mac": "hlfcVp9g3setQUEqHMC2vA=="
+        "players/lea.json/actions/SHOCK/THROW_SPECIAL1_B/description": {
+                "orig": "Shoot an array of small homing projectiles.",
+                "text": "Tire une salve de projectiles autoguidés."
         },
         "players/lea.json/actions/SHOCK/THROW_SPECIAL2_A/name": {
-                "ciphertext": "d8l5g3ApXrRYfAkL4ZH1RgvP7vQbYAL0YcqDaG9J6L8=",
-                "mac": "on7qHlLToGPGRELA8EZaCw=="
+                "orig": "Chain Blitz",
+                "text": "Série d'Éclairs"
         },
-        "players/lea.json/actions/SHOCK/THROW_SPECIAL2_B/description": {
-                "ciphertext": "Kja45dZro4rj7F0w0MhvkNaBy1Xbj5TfYPoOBRB29TxNFa0xW1I9O0UAnIcrircQ/pJa7wCFhzeQiRQqE/toCzN0XwAzZgITMVpIzfaHTv4+ZPelAB7Sgqyu1/s2GqG/aBqHn+soZVSrX0odycs+7J70nhXo6U3kFQTyzm4nlBw=",
-                "mac": "D02fxmC8124EccdJ0e9+Aw=="
+        "players/lea.json/actions/SHOCK/THROW_SPECIAL2_A/description": {
+                "orig": "Fire a projectile that creates a chain along up to 4 enemies which will get hit by a lightning bolt.",
+                "text": "Tire un projectile qui crée une chaine jusqu'à 4 ennemis, qui seront frappés par la foudre."
         },
         "players/lea.json/actions/SHOCK/THROW_SPECIAL2_B/name": {
-                "ciphertext": "+e1cn5R3vKDAr5AqUS5VRQ==",
-                "mac": "IEmuTvNRjjViEBXCgil03A=="
+                "orig": "Radiant Swarm",
+                "text": "Nuée Radiante"
         },
-        "players/lea.json/actions/SHOCK/THROW_SPECIAL3_A/description": {
-                "ciphertext": "VJk1LBWLdHjerEgedIBlbt8o8C2W0QxK8w3dOb9pCqloj01rh/uSKO2l+ISV1W5Rd/9n4ODi3NITTFyPoCxaCHau+XyKQkIfeSRYroMH0PnEJruCMHnyFGfUG/zUGTWHTOiy+NwK6pODCytiFo8HcmnLD9f+/5XJRXNCAWrHIYY=",
-                "mac": "6y9weH7s0xf0rrz0EKbjWg=="
+        "players/lea.json/actions/SHOCK/THROW_SPECIAL2_B/description": {
+                "orig": "Throw a shock ball that will bounce off an enemy and create a sphere that emits multiple homing projectiles. ",
+                "text": "Tire une boule de choc qui rebondira sur un ennemi et créera une sphère qui génèrera plusieurs projectiles autoguidés."
         },
         "players/lea.json/actions/SHOCK/THROW_SPECIAL3_A/name": {
-                "ciphertext": "UioRhhCgT//Z52Pzdu3qEQ==",
-                "mac": "L/OzeHBPpkMtXXCTd4DsDg=="
+                "orig": "Mjölnir",
+                "text": "Mjölnir"
         },
-        "players/lea.json/actions/SHOCK/THROW_SPECIAL3_B/description": {
-                "ciphertext": "8WdOkF4JENMV6q5Nt59Jh2Q/TfPctseB3sD5SbPzNqkd9J7U4mcM46L54+hYDr71I3TJE0KhoqvDxYYEHqrN+S1cqulTe48yZwqgAXwGzoUs/cm3n4Gl3nwsbamjEpkZtVLcDHNmb7sx98DsV/tZ+2GeL/RRgvTwJ4AyXBy9iNrnCuVya8Xi1TnaMyzysORrtwYcspWVNW3mVRoauKUovg==",
-                "mac": "mEfdmJ2MJ5xT5fJ5zfA8BQ=="
+        "players/lea.json/actions/SHOCK/THROW_SPECIAL3_A/description": {
+                "orig": "It's hammer time. Throw a ball that chains multiple enemies together and evaporates them with a massive lightning bolt.",
+                "text": "Hammertime ! Lancez une boule qui enchaîne plusieurs ennemis ensemble et vaporisez-les avec un éclair gigantesque."
         },
         "players/lea.json/actions/SHOCK/THROW_SPECIAL3_B/name": {
-                "ciphertext": "MpsQ+QPh1BCwrSzuxfg9rzB/q2fBU77h46MI6IGG4jQ=",
-                "mac": "A/KfbO+nEDtY8FxrfTjJNg=="
+                "orig": "Celestial Legion",
+                "text": "Légion Céleste"
         },
-        "players/lea.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
-                "ciphertext": "Z4neaxFf3yY85Pwz19PTcuYIh9LfcBQc+uke7Udd7CnR35jwK7ahKo55z7pXfjcwQhYAxxRkQL0gvSsMGcKlb7pgMHjkSngBm5SD3xIF0Ms=",
-                "mac": "8mxxOqK59Y7dEG3g0As8FQ=="
+        "players/lea.json/actions/SHOCK/THROW_SPECIAL3_B/description": {
+                "orig": "Call upon the help of the gods and summon 3 spheres that spam an enemy with bullets and finish it off with a lightning explosion. ",
+                "text": "Demandez de l'aide aux dieux et invoquez trois sphères qui créeront une pluie de balles vers l'ennemi et l'achèveront avec une explosion de foudre."
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_A/name": {
+                "orig": "Amber Strike",
+                "text": "Frappe Ambre"
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_A/description": {
+                "orig": "Perform a fast dash that attacks one enemy multiple times on contact.",
+                "text": "Un sprint plus rapide, qui attaque un ennemi plusieurs fois au contact."
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
+                "orig": "Thunder Dart",
+                "text": "Dard du Tonnerre"
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
+                "orig": "Dash through enemies leaving a shocking trail of lightning.",
+                "text": "Sprintez à travers les ennemis en laissant des boules d'éclairs."
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_A/name": {
+                "orig": "Amber Breaker",
+                "text": "Briseur d'Ambres"
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_A/description": {
+                "orig": "Dash through a single enemy multiple times at the speed of light and finish with a strong punch.",
+                "text": "Sprintez à travers un seul ennemi plusieurs fois à la vitesse de la lumière et finissez par un grand coup."
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_B/name": {
+                "orig": "Storm Walker",
+                "text": "Marche Orageuse"
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL2_B/description": {
+                "orig": "Lightning returns with a controllable chain attack of 3 dashes which hit all enemies on the path.",
+                "text": "L'orage revient avec un enchaînement de trois sprints contrôlables qui toucheront tous les ennemis sur le chemin."
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_A/name": {
+                "orig": "Flickering Stars",
+                "text": "Étoiles Luisantes"
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_A/description": {
+                "orig": "Stop time and pummel an enemy with an uncontrollable series of attacks, finishing off with a diving spark and balls.",
+                "text": "Arrêtez le temps et tabassez un ennemi avec une série d'attaques incontrôlables, avant de terminer par un coup foudroyant et une bonne quantité de boules."
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_B/name": {
+                "orig": "Lightning Prophecy",
+                "text": "Foudre Divine",
+                "note": "Prophétie de Foudre is way too long, so is Foudre Phophétique"
+        },
+        "players/lea.json/actions/SHOCK/DASH_SPECIAL3_B/description": {
+                "orig": "Create an start and end point and dash between it multiple times automatically attacking everything in between.",
+                "text": "Créez un point de départ et d'arrivée et sprintez plusieurs fois entre les deux, en attaquant tout ce qu'il y a entre les deux."
+        },
+        "players/lea.json/actions/SHOCK/GUARD_SPECIAL1_A/name": {
+                "orig": "Clock Block",
+                "text": "Bloque-Horloge"
+        },
+        "players/lea.json/actions/SHOCK/GUARD_SPECIAL1_A/description": {
+                "orig": "Block one attack and slow down time for everything but yourself.",
+                "text": "Bloquez une attaque et ralentissez le temps pour tout le monde sauf vous."
+        },
+        "players/lea.json/actions/SHOCK/GUARD_SPECIAL2_A/name": {
+                "orig": "Glitch Time",
+                "text": "Glitch du Temps",
+                "note": "apparently glitch is now a french word: https://fr.wikipedia.org/wiki/Glitch"
+        },
+        "players/lea.json/actions/SHOCK/GUARD_SPECIAL2_A/description": {
+                "orig": "Block one attack and stop time for everything but yourself.",
+                "text": "Bloquez une attaque et arrêtez le temps pour tout le monde sauf vous."
         },
         "players/lea.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
-                "ciphertext": "Y9fdjSvez3x71zHCarQKag==",
-                "mac": "mok4LNUAlT7ec7nUWediBA=="
+                "orig": "Ki Thrust",
+                "text": "Frappe de Ki"
         },
-        "players/lea.json/actions/WAVE/ATTACK_SPECIAL2_A/description": {
-                "ciphertext": "uld2ldBEPjTy6uofe0S6AgKa28goZxX1jUtRuBHHhhb+I5ElXdP4feYYrLy6dfNhAAQQbc7UzpDhakuL6ncYVz5aB9NWJUYq7pQAA2drgdsQklF7C3evyY3+hNxxFDtt",
-                "mac": "zQItpnhfpKLjuvor8Bo8aQ=="
+        "players/lea.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
+                "orig": "Frontal attack with high damage, sending all hit enemies flying.",
+                "text": "Attaque frontale puissante qui envoie les ennemis dans les airs."
         },
         "players/lea.json/actions/WAVE/ATTACK_SPECIAL2_A/name": {
-                "ciphertext": "h5xI25PjcUgPRZQPHadgz9czBOIKGjy5zpp2YSBHFg4=",
-                "mac": "w+VDfT8I4CImArCAArdPjA=="
+                "orig": "Spirit Blast",
+                "text": "Souffle de l'Esprit"
         },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL1_A/description": {
-                "ciphertext": "JEorJh4szWXbcZmX469ZRXvEq4ZZYPfk0glsKn9qNquXPEcC3kSJ/cGZIdt5fSLRnPGF18issa/dVTdTPkg/l1hovIWmtew28LXQBDcctB8=",
-                "mac": "jflWnq3zaOz7jaiabpyRlA=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL1_A/name": {
-                "ciphertext": "KRXP1e4JO28r03eXznugFA==",
-                "mac": "lF2LBpQY2tt6lOaptR2p1Q=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL1_B/description": {
-                "ciphertext": "52QJGh4+8E6/IMNoG+QT2cDwr7eky06YAgCnqJOjUMG+9GdCd1iSNVhjSUSUFB0gFgJElJ7ErmIWSGNFft33u+P+rEDZbXeCcIC4D/tLsoE=",
-                "mac": "UuGLgV2iPGG16PvyJAjQ2Q=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL1_B/name": {
-                "ciphertext": "ZIBA5i6W/bGOhfMUQ5gYppv2UJ6NMcGDLXtf9R3BG7Q=",
-                "mac": "wS1pRf5OkXbXlOZYmW1C7A=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL2_A/description": {
-                "ciphertext": "jOlrDyKd7vfTa+KfCC0bdFQDqrx7jLPqQ25B8HEzAuLveulpEzStUw5vY5A9L17JtmnrPaO11g/NQgk/XnUa7xhd6QHKrkGkfohv7qb1B8Qth8Ny3no87xZ5+sUsoW0hkmQentjKdyBRnhqFqLn3MQ==",
-                "mac": "colk2hTgKJ47HQk9vKF1+w=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL2_A/name": {
-                "ciphertext": "t8GBvMyXrBKVPijstjPQOg==",
-                "mac": "G0GrGYf4CCHMM5ccQv5Qmg=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL2_B/description": {
-                "ciphertext": "rEIbuUH5Ec2GKjr2dOYD2I9g1yv4VEBe+1z1b+72U1uBIP6C4OffVl7THQp1k6GOjUvBkAKPnmeGx2iPTV7fJeTUY56vXrjuxoTOJ7tZZKcnD2DvAV+bdN5RTeiYdoeq3Dkg7d4dJoen+RzkuycLY4eK+gq+YBnIroz5pOlCAyE=",
-                "mac": "zQL7RoIvBcathZU5Fyo8qA=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL2_B/name": {
-                "ciphertext": "5Tr/Ug5Gzsg0OpA1LUe40Rs2wJVnIyFbcxUhhlZgUPk=",
-                "mac": "8QxhnhvKeqlrJMZh1zum5Q=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL3_A/description": {
-                "ciphertext": "Ix1TH4EwF0Hyyrbsxd8zFFuy+FMcTXfxL3LkZZp6LUKcvYyHrRt4a1vbfomW55h4yLXyl+66z42Dc10Fzei0bYjtZF/L97qXKLG6vusM5KVpEBUtxDkjKeyxU9eRs00AtvAS3XF0uN32RPOM331lAwNNrZd2OU506OSJLXDKrQI=",
-                "mac": "MXEllCcIgRK1MV827qs7fw=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL3_A/name": {
-                "ciphertext": "YAmKIQrn7KLpxtg3yMHGK6XQX6h+7WQJ3QEGdkNiJps=",
-                "mac": "45mboqkqi6BR2eo95vXQqA=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL3_B/description": {
-                "ciphertext": "ITe4pxiZpIi8A0Bkp3jBjoBPtI1LshWOyZRdIpW8OS7zXRXAISfBqY5vW9IE5YJyfhaw+EEnQ6IqlQVd95KSj7z2JfqeL1p8q2CDjL2+pzFMwLEHT/9I5VbiUX0ajMf1wVHdW02YiO53M6RxGB6ja24YecK2wGGTIctHKAXIrGuG9uQ8ArGJ77o2tVlV5tk4",
-                "mac": "dhAgDFpYqZrbMlgOmGfwcQ=="
-        },
-        "players/lea.json/actions/WAVE/DASH_SPECIAL3_B/name": {
-                "ciphertext": "csrfHNSJHwFX0dxN97BnFQ==",
-                "mac": "L4uoRY+7+6rpCV64J3ElPw=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_A/description": {
-                "ciphertext": "MjAr060NsK6XpoQsu6hPki8Fv+WbfmQZaeDLpMWp4s5JcSPyHUEOHxAyWZM+vj0ex5ycS2F4gG/ZlSdLFVwQHntYbnHNBFIRPK7ZHKk3JrY=",
-                "mac": "qtUiWL18f19U670IW/7jow=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_A/name": {
-                "ciphertext": "Pfkg3CIHoR7+/VSShPAr3w==",
-                "mac": "QBumoiud6bKaftJZgxv0sg=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_B/description": {
-                "ciphertext": "5+inuwh3C9f/MhlFnJsz0QRmpydew5EsreHEz+i6cM18EglWWVwc2AR4XlwbOa1yxcCfnTNTIC4nYvZ+o3OFijEAmUDZ5vWqOSuPEebNzWY=",
-                "mac": "YK+l3Y+43Q2zVtv4odI1JQ=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_B/name": {
-                "ciphertext": "P5m5zEJpK0Ybn/uQ7WYZrw==",
-                "mac": "Mda9VNAvCa77xis7tfeptg=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_A/description": {
-                "ciphertext": "WfPJxO8RbZHWj1AeAP+uRQme8U9tjNn/uV6rFzUJO6+0kAEmey51tCcApT2t0pTADydi2q6NzUWKbWJjr5kihlGTZexAba5wRkswMm2xahkjps7b7EFLJl8EILk64mZDLgYIAl0UglEVhWHXnW+m+g==",
-                "mac": "XfTuVuKEAV7DWgMgjbkYRw=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_A/name": {
-                "ciphertext": "Bgvj0j3JTDt0PsFchTaG0Q==",
-                "mac": "ZOUq8XkEfO/6nuuraq5CxA=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_B/description": {
-                "ciphertext": "vaVGprt3lTnFgHuxadR8Fd/oOKD17zE/AucbAg8G+P21S7425aPBN8E/zq+SBlB+cz4bxqsZplgXOhz87XD6yDYve/nx2SUxaq/2fv42V54/a5z/8UbPXt69W1+2lYlv3k89xqMb1V5eFSrWXW8h6w==",
-                "mac": "fjqdzOg6XZ4/RNs7CI1jXw=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_B/name": {
-                "ciphertext": "DMKyW6WULNRjYaTgPA+Puw==",
-                "mac": "esrHfVb8FVcV/5eXFEne5A=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL3_A/description": {
-                "ciphertext": "9VcrlciZek9FBuK2Hz4CrBao4zPFWdiHTcbG9b3ZbxRh8CruxH30k9F1OiCz6+CpzNCywv+ohdSgUmxzc4grZb/SH5UABVN3jnDzcTbAU6koZgCbEZAcUr+KYbNFShMHrT0AuP4TTFC86WRHi1opxv0IcSPA7FQTyFaZyhwvCrRVboMGBIFtkyFq5tGnslga7bSi1OA8KlTEXhB2u5LyEvpgr7qNH7XefcIVLLfbz7ZlhUqep6ZjdoctvlGCQIpOH8LuRnoBqhcsyXxsYwFnww==",
-                "mac": "daWvyFz/my/y/IWYTyEEKw=="
-        },
-        "players/lea.json/actions/WAVE/GUARD_SPECIAL3_A/name": {
-                "ciphertext": "g/+bS+qasd0pbTvXtCH8wQ==",
-                "mac": "8j9w80QhMbN/IQ5ydM24QQ==",
-                "ciphernote": "jXC+SpXWcbRTRyJR+8eMj+NNItczZu9DRytJzrE+6UOyWkrSfSMBCBtEC5XKyouD+HtGvLV321unMKZUxkRgyQ=="
-        },
-        "players/lea.json/actions/WAVE/THROW_SPECIAL1_A/description": {
-                "ciphertext": "MramHFui+/L+hL1hU5+XkPBc412CvyyD+pcI7S8e1wA8sMcBE+4jFlnkD8jlvgYWSYXaeHQByTo5eqlQkqUxqkKHFp9f4LfMlodjbwwM5kqwpe9JklY1fQxr6NYE4si9",
-                "mac": "H26+LTNFJoQKDFSLOBfpCg=="
+        "players/lea.json/actions/WAVE/ATTACK_SPECIAL2_A/description": {
+                "orig": "Draws enemies to the front of the player and then blasts them away with a powerful attack.",
+                "text": "Attire les ennemis en face du joueur puis les envoie valser avec une attaque puissante."
         },
         "players/lea.json/actions/WAVE/THROW_SPECIAL1_A/name": {
-                "ciphertext": "41xj0EN9LpnShGLtSPFClsucwEVMfKrtDFvFRNopfdE=",
-                "mac": "dC/rbUwtpdQ1s0RRtLX2Tg=="
+                "orig": "Fae Round",
+                "text": "Balle Féérique"
         },
-        "players/lea.json/actions/WAVE/THROW_SPECIAL1_B/description": {
-                "ciphertext": "gPVe0eQtcneLMFPImmzWyIpFX0vbsiLUns9UM1Y9z+4XoxEYEz6uz3rwnFX+kpGf9XnuM/audDwThMU2FiQeOq0LPaAODsDsshaggVcfxTE=",
-                "mac": "4zqLqNcgg0WV+ilprHFScQ=="
+        "players/lea.json/actions/WAVE/THROW_SPECIAL1_A/description": {
+                "orig": "Shoots a super fast projectile penetrating a line of enemies.",
+                "text": "Tire un projectile extrêmement rapide, pénétrant tous les ennemis dans la ligne de mire."
         },
         "players/lea.json/actions/WAVE/THROW_SPECIAL1_B/name": {
-                "ciphertext": "tJ9sZ38XirC/a4qV0APZGPUsDzKdT/1pVXAIVbqQtHc=",
-                "mac": "rBnphLEvYDhZC6tSJBnD6Q=="
+                "orig": "Essence Drain",
+                "text": "Drainage de l'Âme"
         },
-        "players/lea.json/actions/WAVE/THROW_SPECIAL2_A/description": {
-                "ciphertext": "zWg++1rM9OIHUwtICs31CDmpKHTi4iozG7zvKOvdpcSGr6DLAGDGBkaZJ+gfiZaGFDe1CUfLIvs7B8Td/WyhgHzdKisUotZH1ijzhLHjK7sCXmbx28/prINYRSBggqtauQUg1MpxN8S7pGW7lC0Kka00jLcI/m3luz0vlmEv2nE=",
-                "mac": "NU6KQlSNWRyawoX2Q1vJqQ=="
+        "players/lea.json/actions/WAVE/THROW_SPECIAL1_B/description": {
+                "orig": "Hit enemies with a swarm of projectiles absorbing its HP.",
+                "text": "Touchez les ennemis avec un essaim de projectiles et absorbez leurs HPs."
         },
         "players/lea.json/actions/WAVE/THROW_SPECIAL2_A/name": {
-                "ciphertext": "7pMWmd1jxeeLJaAQde1Azg==",
-                "mac": "ibizpy3n9WuKXCJAQYFEuQ=="
+                "orig": "Elven Orb",
+                "text": "Orbe Elfique"
         },
-        "players/lea.json/actions/WAVE/THROW_SPECIAL2_B/description": {
-                "ciphertext": "aMuF2x3TsAuK5n+YLhFTc8EGYIU23AvmaU06G3EFGGOZtflwWFAo4p0ba1s9l7naUua6XUgAfqJh6coSoupTXt+VZ6MXw/Ty78h2sXLJ4QOC1M4o4wFYa3umRE477CospZHg1Eox3cezqi2HOCjrQyki2oZV8dx8M1zQlkDkn1E=",
-                "mac": "L6er1qQrVtLWQJdUO6lHiA=="
+        "players/lea.json/actions/WAVE/THROW_SPECIAL2_A/description": {
+                "orig": "Shoots a super fast projectile that bounces between the player and a wall for several times and penetrates everything in between.",
+                "text": "Tire un projectile hyper-rapide qui rebondis entre le joueur et un mur plusieurs fois, en pénétrant tout sur son passage."
         },
         "players/lea.json/actions/WAVE/THROW_SPECIAL2_B/name": {
-                "ciphertext": "YE56Pi5FumDJbtPWZHsmuA==",
-                "mac": "wXOgStclSVPvsDXltMC/1Q=="
+                "orig": "Vital Pulse",
+                "text": "Pouls Vital"
         },
-        "players/lea.json/actions/WAVE/THROW_SPECIAL3_A/description": {
-                "ciphertext": "RoBpL2CG/mh4N/uqJHrt2y9+BNsW5J8jGU79trHPZHB4Dh6jeQw1+bulNKA+z6Z5SsIguQjT9UgR5GKQw91n0WhAIhOSku3c17P98lqqavVjM1jKU2LlERu+Y5xyw/PYsF+yBf23zlbALzCoA7I/bhzXP3uuTZGpSDU8EJPnxJwVd17HLLvouJ9claMJ8GmN",
-                "mac": "DIaNR2ZbL+RirdYLKdNkBw=="
+        "players/lea.json/actions/WAVE/THROW_SPECIAL2_B/description": {
+                "orig": "Hit an enemy with a swarm of projectiles, absorbing its HP before blasting it away with a final attack.",
+                "text": "Touche un ennemi avec une nuée de projectiles absorbant ses points de vies, avant de l'envoyer paitre avec une attaque finale."
         },
         "players/lea.json/actions/WAVE/THROW_SPECIAL3_A/name": {
-                "ciphertext": "UNQSflVD3/JBX0Lp1rULBHJGlDF+Cu81QJcJjWNTHUA=",
-                "mac": "TIFTPbiD5M9oN910muqBFw=="
+                "orig": "Ether Snipe",
+                "text": "Sniper Éthérique"
         },
-        "players/lea.json/actions/WAVE/THROW_SPECIAL3_B/description": {
-                "ciphertext": "uM5E0g35ljevx71FGQf65kUGeXUCf1LzZ9iUsnOq97G9tm2ySVuPN3RLoHUnKrMyb8R+UyhOe74iYwnspPrfGE1V1yjfLoSg5c0vObMSzKEtwVtNwlz1CzvbYz2RctrLTLRy4H4YlNeGmgFD685KYZAeMCNJjpe4PNBkU8I9lm4=",
-                "mac": "O4uRjE968egKOs7WF7EynQ=="
+        "players/lea.json/actions/WAVE/THROW_SPECIAL3_A/description": {
+                "orig": "Charge up a sniping attack that can bounce 3 times until it hits an enemy. Each bounce increases the strength of the attack.",
+                "text": "Chargez une attaque Sniper qui peut rebondir trois fois avant de toucher un ennemi. Chaque rebond augmente la puissance de l'attaque."
         },
         "players/lea.json/actions/WAVE/THROW_SPECIAL3_B/name": {
-                "ciphertext": "OlwRoPsWzId43NRKq/xiGw==",
-                "mac": "RUYGOtP8lHURj1B104gS+g==",
-                "ciphernote": "zri+et8C+/uvXhJ1T9L4TtQbEjv3+mJ6Lsz3uY9ZNKU="
+                "orig": "Wave Motion Beam",
+                "text": "Faisceau d'Onde",
+                "note": "forget the Mouvant"
+        },
+        "players/lea.json/actions/WAVE/THROW_SPECIAL3_B/description": {
+                "orig": "Siphon HP from the enemies and trade it for a huge controllable wave beam that drains your HP.",
+                "text": "Siphonnez les points de vie des ennemis et échangez-les contre un rayon d'ondes contrôlables qui drainent votre HP."
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_A/name": {
+                "orig": "Guarding Gale",
+                "text": "Vent de Garde"
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_A/description": {
+                "orig": "Spawns aura that pushes away nearby enemies for several seconds.",
+                "text": "Active une aura qui pousse les ennemis proches pendant plusieurs secondes."
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_B/name": {
+                "orig": "Pain Grip",
+                "text": "Attrape-Douleur"
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL1_B/description": {
+                "orig": "Block one attack and regenerate part of the blocked damage.",
+                "text": "Bloquez une attaque et régénérez une partie des dégâts reçus."
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_A/name": {
+                "orig": "Poltergeist",
+                "text": "Esprit Frappeur"
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_A/description": {
+                "orig": "Spawns aura that pushes away nearby enemies and throws projectiles for several seconds.",
+                "text": "Invoque une aura qui pousse les ennemis proches et tire des projectiles pendant plusieurs secondes."
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_B/name": {
+                "orig": "Circle of Valor",
+                "text": "Cercle Vaillant"
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL2_B/description": {
+                "orig": "Block all attacks for a few seconds and regenerate part of the blocked damage.",
+                "text": "Bloquez toutes les attaques pendant quelques secondes et régénérez une partie des dégâts bloqués."
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL3_A/name": {
+                "orig": "Karma Scale",
+                "text": "Échelle Karma",
+                "note": "Échelle de Karma is just one or two pixel too wide"
+        },
+        "players/lea.json/actions/WAVE/GUARD_SPECIAL3_A/description": {
+                "orig": "Enter critical mode but become invincible. Absorb any enemy attacks for a short time. The more absorbed, the larger the ending explosion and the more HP healed.",
+                "text": "Entrez en mode critique, mais devenez invincible. Absorbez toutes les attaques ennemies pendant un petit moment. Plus vous en absorbez, plus l'explosion finale est grande et plus vous regagnez des HPs."
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL1_A/name": {
+                "orig": "Verdant Strike",
+                "text": "Frappe Verdure"
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL1_A/description": {
+                "orig": "Dash with high speed, damaging and stunning enemies along the way.",
+                "text": "Sprintez vite, en frappant et étourdissant tous les ennemis sur le passage."
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL1_B/name": {
+                "orig": "Warp Decoy",
+                "text": "Leurre de Sortie"
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL1_B/description": {
+                "orig": "Dash away and leave behind a decoy, distracting your foes.",
+                "text": "Sprintez et laissez derrière vous un leurre, qui distrait vos ennemis."
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL2_A/name": {
+                "orig": "Verdant Stream",
+                "text": "Flux Verdoyant"
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL2_A/description": {
+                "orig": "Dash through enemies at high speed and draw them into your trail behind you before causing a powerful explosion.",
+                "text": "Sprintez à grande vitesse à travers les ennemis et attirez vers vos traces avant de les faire exploser."
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL2_B/name": {
+                "orig": "Toxic Revenant",
+                "text": "Revenant Toxique"
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL2_B/description": {
+                "orig": "Dash away and leave behind a deadly decoy that distracts and damages your foes.",
+                "text": "Sprintez rapidement hors du danger et laissez un leurre mortel, qui distrait les ennemis... et leur causes des dommages."
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL3_A/name": {
+                "orig": "Vortex Tide",
+                "text": "Marée de Vortex"
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL3_A/description": {
+                "orig": "Charge up by creating a Vortex behind you and blast off leaving behind a huge wave explosion.",
+                "text": "Chargez votre sprint en créant un Vortex derrière vous, partez et laissez derrière vous une explosion d'ondes énormes."
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL3_B/name": {
+                "orig": "Gungnir",
+                "text": "Gungnir"
+        },
+        "players/lea.json/actions/WAVE/DASH_SPECIAL3_B/description": {
+                "orig": "Dash through and create 4 decoys that pummel an enemy multiple times ending with a combined wave attack.",
+                "text": "Invoquez 4 leurres en un seul Sprint, qui agressent les ennemis plusieurs fois avant de finir par une attaque combinée d'ondes."
         },
         "players/schneider.json/actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name": {
-                "ciphertext": "cbbiS5w4gLuk66nln80C/6Ou7Bli48WcqQG1FxHT/5c=",
-                "mac": "AwW1t9A0H7csmDoZWXXsWw==",
-                "ciphernote": "aGZgvXlQxIAy6tkeAFr+AqJUb+RhOEpS5pCa2ROz6nmT+SA6K9tRJ3OvvIxO2TPk+RAatg2GtuXWWl105WZCdA=="
+                "orig": "ERST SCHLITZER!!!",
+                "text": "ERST SCHLITZER !!!",
+                "note": "PREMIÈRE ENTAILLE !!! but with scheinder's deutschness"
         },
         "players/schneider2.json/actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name": {
-                "ciphertext": "cbbiS5w4gLuk66nln80C/6Ou7Bli48WcqQG1FxHT/5c=",
-                "mac": "AwW1t9A0H7csmDoZWXXsWw==",
-                "ciphernote": "aGZgvXlQxIAy6tkeAFr+AqJUb+RhOEpS5pCa2ROz6nmT+SA6K9tRJ3OvvIxO2TPk+RAatg2GtuXWWl105WZCdA=="
+                "orig": "ERST SCHLITZER!!!",
+                "text": "ERST SCHLITZER !!!",
+                "note": "PREMIÈRE ENTAILLE !!! but with scheinder's deutschness"
         }
 }

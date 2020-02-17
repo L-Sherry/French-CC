@@ -1,770 +1,770 @@
 {
+        "maps/arid/lake-1.json/entities/448/settings/blockEvent/0/thenStep/2/message": {
+                "orig": "Lea, not this way. Head to the \\c[3]Quest Hub\\c[0], quickly!",
+                "text": "Lea, pas par là. Va vers le \\c[3]Carrefour des Quêtes\\c[0], vite !"
+        },
         "maps/arid/lake-1.json/entities/448/settings/blockEvent/0/elseStep/4/message": {
-                "ciphertext": "tx6ROzybQX3eXeddMlq+NDpKCrkFruk3EO0OQL27CMjTvrlfT+eaoWZs69OEwlnNuUCqywwoUFJsu4Y7GrWKRu02wH5/UsD3sKYQ5sP2kGs=",
-                "mac": "07A5HEu4GxovZB/WwOlJyA=="
+                "orig": "The tour does not include the river area. We've been there yesterday already.",
+                "text": "La visite n'inclus pas le tour de la rivière. On est déjà venu ici hier."
         },
         "maps/arid/lake-1.json/entities/448/settings/blockEvent/0/elseStep/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/lake-1.json/entities/448/settings/blockEvent/0/thenStep/2/message": {
-                "ciphertext": "OdEfTjMi99MGs5hWdLs0pEebdkxGTTwoLSggLCTaQPy2c+ogkhayLag/8ulNKsjptFCNwPI1F5wfnSNv61+VSxBHEBoC43k2rq6hb93YnkI=",
-                "mac": "tSul/LZsrqr7S7dNor7j7A=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/450/settings/blockEvent/2/message": {
-                "ciphertext": "OdEfTjMi99MGs5hWdLs0pEebdkxGTTwoLSggLCTaQPy2c+ogkhayLag/8ulNKsjptFCNwPI1F5wfnSNv61+VSxBHEBoC43k2rq6hb93YnkI=",
-                "mac": "tSul/LZsrqr7S7dNor7j7A=="
+                "orig": "Lea, not this way. Head to the \\c[3]Quest Hub\\c[0], quickly!",
+                "text": "Lea, pas par là. Va vers le \\c[3]Carrefour des Quêtes\\c[0], vite !"
         },
         "maps/arid/lake-1.json/entities/451/settings/blockEvent/2/message": {
-                "ciphertext": "OdEfTjMi99MGs5hWdLs0pEebdkxGTTwoLSggLCTaQPy2c+ogkhayLag/8ulNKsjptFCNwPI1F5wfnSNv61+VSxBHEBoC43k2rq6hb93YnkI=",
-                "mac": "tSul/LZsrqr7S7dNor7j7A=="
-        },
-        "maps/arid/lake-1.json/entities/456/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "ZyEPCn+qkwoiHPOOSJzAPFebSFwc6UutbMPJT8TMb9v8xsU3y/qY3QgwAogUkYiM",
-                "mac": "zRFVVFPHr4kzvMM7yCulvw=="
+                "orig": "Lea, not this way. Head to the \\c[3]Quest Hub\\c[0], quickly!",
+                "text": "Lea, pas par là. Va vers le \\c[3]Carrefour des Quêtes\\c[0], vite !"
         },
         "maps/arid/lake-1.json/entities/456/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "pUUcpxS3p+QIbbjz1r1SNKAGMFQ7pjXOqawkKJP4jfE=",
-                "mac": "7yIGojk/GNFUkJez4f6fiA=="
+                "orig": "Search Targets",
+                "text": "Chercher des Cibles"
+        },
+        "maps/arid/lake-1.json/entities/456/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Locate Targets in Area.",
+                "text": "Localisation des Cibles dans la Zone."
         },
         "maps/arid/lake-1.json/entities/456/settings/condAnims/1/interact/hoverText": {
-                "ciphertext": "YUNRkmeoPWzZR5IdQbhcDA==",
-                "mac": "d/eOFeyTNQ3dQpWEFylk8A=="
+                "orig": "Activate",
+                "text": "Activer"
         },
         "maps/arid/lake-1.json/entities/478/settings/interact/hoverText": {
-                "ciphertext": "+1eygA3Dnoz1kA19cLmC6JZGnG5qoVBnPE12gzplMZWvLmxXMqF3KiBhCnsAR1ZgkDp1n3woC3Vh0ROcaqtX5EenSyYE8g2Y1HLmIS/t1L5smYYqOo9QsBQipyLCZHix",
-                "mac": "BL0UlUWSmNu3bzELlXRP1A=="
+                "orig": "\\i[arrow-n] Forest\n\\i[arrow-sw] Cliff\n\\i[arrow-s] River \n\\i[arrow-e] Town Center",
+                "text": "\\i[arrow-n] Forêt\n\\i[arrow-sw] Falaise\n\\i[arrow-s] Rivière\n\\i[arrow-e] Centre-Ville"
         },
         "maps/arid/lake-1.json/entities/479/settings/interact/hoverText": {
-                "ciphertext": "1n276zy9EJnw0fIVN6m3n0KZZzcCPPl1ikfPgqSCnLkG6go0+gXsY4hPdRyWfi5lR+lIaIqU3GVFZs16J3xXcq9vruiDF5MCj36etK8pxm6lkA4I6YIKzDMw6YoUJ2be",
-                "mac": "pdX4mpSJzerR4DfU0bdaLw=="
-        },
-        "maps/arid/lake-1.json/entities/501/settings/event/15/message": {
-                "ciphertext": "iVEkAJl+aSsD9IiJIUxqG6nfKvtc1yFQsQlJr0a/v2U=",
-                "mac": "wE0GX2eBt8KRdo7QPW6i3w=="
-        },
-        "maps/arid/lake-1.json/entities/501/settings/event/19/message": {
-                "ciphertext": "zxggqYo0KtCv768wx0TxC44C1IIMqVP/ai6IGCZBTJAUP5I88W/uiOChRzM8qvvFANVGPbLB13Or/v24FmaqwxIvq8KhSwcFiWBFJlgL/dG/gWvkkq4yBkDVKfmJNPcBdYW9pm1HCY9n1NxHK0Wr8OKv7hQc/En/QCdflokHw9Y=",
-                "mac": "/bEdo/WzTRSkScUqvGLl3A=="
-        },
-        "maps/arid/lake-1.json/entities/501/settings/event/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/lake-1.json/entities/501/settings/event/21/message": {
-                "ciphertext": "R/GtQDLYGIOZZ8uojCcoEkNOZH3hbQlQ/0mux8xhvbpF1MD6e26OONIj4QrpdCTXGAiSX/4mb9rvdJAWSOJiCAnfIjRvDTsG24qrNGTLV6CwrpYou/KlwvIv2fsSvBh5",
-                "mac": "d6umrOpaRhW2egf/27USlA=="
-        },
-        "maps/arid/lake-1.json/entities/501/settings/event/22/message": {
-                "ciphertext": "KyPA30gKzj42B/N9VSIY0g==",
-                "mac": "YbkUxN5s+8U12Hcs8H29PA=="
-        },
-        "maps/arid/lake-1.json/entities/501/settings/event/26/task": {
-                "ciphertext": "dWiQ4VPtWVatuK33U1LaQZfYWVssqbEyv8ITiKe57rIX2bPGAX44qe631RoUK7IL+0ptJhYSqQSWn8+6+GyUv3ZmJUxNCnEt2+0r07Y3WFMRzDJi2a+nxsetkXJtc3pq",
-                "mac": "H8YYZvKBD9LoeXf5az7b8Q=="
+                "orig": "\\i[arrow-n] Forest\n\\i[arrow-w] Cliff\n\\i[arrow-s] River \n\\i[arrow-ne] Town Center",
+                "text": "\\i[arrow-n] Forêt\n\\i[arrow-w] Falaise\n\\i[arrow-s] Rivière\n\\i[arrow-ne] Centre-Ville"
         },
         "maps/arid/lake-1.json/entities/501/settings/event/8/message": {
-                "ciphertext": "rORtty9bBUBcPUlFO7b/fJ/Fm75hsWsjPLW18phuyX4CfiDb4B7IaaSL1v2zxAWLE3aoRRX3c4b2djjEq6lI8Q==",
-                "mac": "1mBjHtnr2BeyefFQA8+Frg=="
+                "orig": "So we're just out of town and oh look!",
+                "text": "Donc, nous venons juste de quitter la ville et regardez ça !"
         },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "KO+hMEu0Sjy7RyTQ/QOI6jlQsBXXT0T1KDKN5kixGYgc0nsse0ZdWDW8kXLuH698PZJROU2KGdcS8S37OaEGQRwMFMUEICiJIQePvF3JXaY=",
-                "mac": "o7ArUCl5AnFP6A6TKaw11Q=="
+        "maps/arid/lake-1.json/entities/501/settings/event/15/message": {
+                "orig": "It's one of these devices!",
+                "text": "C'est un de ces appareils !"
         },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/arid/lake-1.json/entities/501/settings/event/19/message": {
+                "orig": "Yet the almighty plot decided we're not ready to proceed, so these things remain unresponsive.",
+                "text": "Hélas, l'intrigue toute puissante a décidé que nous ne pouvions pas continuer, c'est pourquoi ce machin ne réagira pas."
         },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+        "maps/arid/lake-1.json/entities/501/settings/event/20/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/13/message": {
-                "ciphertext": "FYdtzWkXwKsvUP1VVpQQqMejgMuEOIcAelWD8GgColGw5P8hBE2iZd3ztEqK+5oE",
-                "mac": "JAwwLWxeppQ/R0PMz94Xdw=="
+        "maps/arid/lake-1.json/entities/501/settings/event/21/message": {
+                "orig": "Nothing to do here, so let's appreciate the amazing nature of this place.",
+                "text": "Il n'y a plus rien à faire ici, mis à part contempler ce paysage époustouflant."
         },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/14/message": {
-                "ciphertext": "OjpxuKWhM2se+m49gKwG4TBat6Qsi6eFDz/l8X9ssyzJsdLEY9YSFH/mFvqsF5eGK8rCwsmqh+uMDPyRizr3qg==",
-                "mac": "qn78Kjm3fArwgX/BO/Czig=="
+        "maps/arid/lake-1.json/entities/501/settings/event/22/message": {
+                "orig": "This way!",
+                "text": "Par là !"
         },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/16/message": {
-                "ciphertext": "D78OdA9jkyyyN0WA8cHWDrwwZJU9riQq9O353QNBWianwTqzEGRIkBtj0LObQiRNbXNteO5RV31MExGjwmIUfOK9brtQiPGnuRv9DZKm1aWW4FYe7DWi1sMworIz0X4N",
-                "mac": "JC9x9jvRV+LAW2GQIi0Wcg=="
-        },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/24/message": {
-                "ciphertext": "11mpfrBh6/BoPIFoiSeU79yW0VsqaKXB66KO17GiBm7GKcHX+oCEziOvyg5q2SdAPUlY3LsoKguAZRKPNvjhJA==",
-                "mac": "SbtFBzCGXhRHns+7bhxd9A=="
-        },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/25/message": {
-                "ciphertext": "/Epa56U4qHQjnIgLZwDaQWhxM2GWasD7N+Lw801gXEIYHL1KWZW6imelzK2+sgunJX65q5FBe5dXOvNA4VXWbg==",
-                "mac": "FnhbStNb9s4RFEyup9lbAw=="
-        },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/26/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/29/task": {
-                "ciphertext": "YACKXeoePWq+3cI5eKx+Ew1vuNDHMfv1/9Ul2mr/MKAhFcK/isHbsr+VUtk9uxYbNuaNlO8Q/+5gjegdgUhILG5dwgjDvt1EeayRVwtSWEWDUBBU6Rba2FkcKXY679nA3Vz2qwUCRHXJxYyFxw2aiA==",
-                "mac": "TSPQIs9lfh/DELAMTsdwCQ=="
+        "maps/arid/lake-1.json/entities/501/settings/event/26/task": {
+                "orig": "Talk to Lukas in \\c[3]Vermillion Wasteland - Crimson Lake\\c[0] to proceed with his tour.",
+                "text": "Parlez à Lukas dans au \\c[3]Lac Pourpre à \\v[area.arid.name]\\c[0] pour continuer sa visite."
         },
         "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "ig3qDa7KWSJZIWb8Kuh+yzS8B/MkimD6/tLytyHFBDY=",
-                "mac": "9YG46wGQdiWS/sjBSQ8c2A=="
+                "orig": "This...\\. is a lake.",
+                "text": "Ceci...\\. est un lac."
         },
         "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+                "orig": "...!!",
+                "text": "... !!"
         },
         "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "O8IAHuNSLtBLtzW/x06jCQ==",
-                "mac": "VaMoXzPKsY49CwyiO1+6yw=="
+                "orig": "...Why?",
+                "text": "... Pourquoi ?"
         },
         "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "jJbKKTjWNWCzlmMLOg8gJzctesDir6CFbZvrQK4H8BU8J2vDNPQCwZHsnzb2aO/rbT3cl2yjqXMX26L9CjZLfp8ZxKdYGKq/TczyzAuE8G9KrRHDepSmH+JU0f0oTFsA",
-                "mac": "Vrkz4E0L8A9eakqqpOQ4gw=="
+                "orig": "Because it's filled with water...\\. or whatever that purple stuff is.",
+                "text": "Parce qu'il est rempli d'eau...\\. ou de ce truc violet en tout cas, peu importe ce que c'est."
         },
         "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/10/message": {
+                "orig": "Sorry, this tour doesn't include basic scientific explanations.",
+                "text": "Désolé, cette visite n'inclus pas d'explications scientifiques de bases."
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/12/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/13/message": {
+                "orig": "Gyahahaha, what a tough customer!",
+                "text": "Gyahahaha, quel client difficile vous faites !"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/14/message": {
+                "orig": "I'm sure Tronny would have a good explanation for you.",
+                "text": "Je suis sûr que Tronny aurait une bonne explication pour toi."
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/16/message": {
+                "orig": "Aaaand he'd probably also complain about those weird rock formations.",
+                "text": "Eeet il râlerait probablement que ces formations rocheuses sont un peu curieuses."
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/17/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/24/message": {
+                "orig": "Let's continue. Off to the \\c[3]north\\c[0]!",
+                "text": "Je vous propose de continuer. Vers le \\c[3]Nord\\c[0] !"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/25/message": {
+                "orig": "Be careful not to step on a virus along the way!",
+                "text": "Faites attention à ne pas marcher sur un virus sur le chemin !"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/26/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/arid/lake-1.json/entities/502/settings/npcStates/0/event/quest/29/task": {
+                "orig": "Head to the north from \\c[3]Vermillion Wasteland - Crimson Lake\\c[0] to proceed with Lukas' tour.",
+                "text": "Allez au nord du \\c[3]Lac Pourpre de \\v[area.arid.name]\\c[0] pour continuer la visite avec Lukas."
         },
         "maps/arid/lake-1.json/entities/503/settings/event/0/message": {
-                "ciphertext": "C/phSDTta+1QOdq9X2h9VLC5/GySoXYql+a4tl51HWybwmn7vusMLLFqmoNeIu0VjTM4fM66MnFHBo6tWcZztrFgGUFOiNrWuibfV4DjU9s=",
-                "mac": "T5DxdNctVaSAoh/+WBQg/Q=="
+                "orig": "Alright, our final sight will be further to the \\c[3]west\\c[0]!",
+                "text": "Donc, notre dernière étape sera encore plus à l'\\c[3]ouest\\c[0] !"
         },
         "maps/arid/lake-1.json/entities/503/settings/event/1/task": {
-                "ciphertext": "u/rojmFTkTdd5z3sGT8xxAcN6XmUuhyqbvlDgTlnZzIdt1N1TmMeeG55nSzSZSRxRn7L6EtxUMCbCwVtGIWD1wP89nwc1rL/Hkb0ITCWauouP6Wew26/rfeTB5enSdbThUTLDWVYpncSJfRIvto4eg==",
-                "mac": "uP3lgaC6Kb19C4SnwT0dcg=="
+                "orig": "Head to the west from \\c[3]Vermillion Wasteland - Crimson Lake\\c[0] to proceed with Lukas' tour.",
+                "text": "Allez à l'ouest du \\c[3]Lac Pourpre de \\v[area.arid.name]\\c[0] pour continuer la visite avec Lukas."
         },
         "maps/arid/lake-1.json/entities/504/settings/event/0/message": {
-                "ciphertext": "l9D+V35VowPCn9p50ZKZCXA+cg2lQt8SrnnLy+cOSpGPpqYs2FWIEP5jzbmzc5dNeTGek6POVzgBgmGMZ0EjDnbbOtWcr9UcQeikEtyvp8s=",
-                "mac": "EcOkysNJjvqZbH/GO9hFCw=="
+                "orig": "You're so quiet today...\\. even for your standards.",
+                "text": "Tu es bien silencieuse aujourd'hui...\\. encore plus que d'habitude."
         },
         "maps/arid/lake-1.json/entities/504/settings/event/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/12/message": {
-                "ciphertext": "vOfuLJ43h5Dcz6sIOAxHu55Vg9OwXLfmx/Yx05l8KlKSr0ztWnqJRUKYJVl/zXzJ",
-                "mac": "ht2GdJiO+0seD77h5eEOug=="
+                "orig": "The view here isn't all that bad, hm?",
+                "text": "La vue ici n'est pas si mal, hein ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/14/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/17/message": {
-                "ciphertext": "YWI6FxbE/MWVO1Smuk87/WYZT81wqqUrrdz6DIXwIsnfLjKFMaDZiADICQQ8aO3dp0I/jEAPikImoOnIc1ye0g==",
-                "mac": "E5lbK3fUMkS+jRQKZFofuA=="
+                "orig": "Okay, look...\\. I can't keep watching you like this.",
+                "text": "Écoute, Lea...\\. Je ne peux pas te laisser dans cet état-là."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/18/message": {
-                "ciphertext": "iIDYav25YE/n4gjmTPzOO94FfHegBX/2eVJCCTCK/pwMsbOvgNb3HHWLuBE1s8lV2mkArX2Ll5UiBpeqNb7GwA==",
-                "mac": "uwHlXEJ4imsyTpXBjM0EHg=="
+                "orig": "There must be a way to help you out of this.",
+                "text": "Il y a forcément un moyen pour t'aider à aller mieux."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/19/message": {
-                "ciphertext": "udqQbUIZpgomgBDBqbmIbSC2mEEnEU3suvMhVGKOFjcFJ5iS73hVYkiNT2M5T5yWDtLXSfeosNXLKx4NhwGibw==",
-                "mac": "UQtM6Iz9yKWyJPibrZzxoQ=="
+                "orig": "We gotta try to talk about this. Somehow. ",
+                "text": "Il faut qu'on essaye d'en parler. Je ne sais pas comment."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/21/message": {
-                "ciphertext": "zaZAb2Ae3OrVYbsl0pOOPEwzezjn0JKNo5u1DsOVkqRuNa3oJolDCTWNsFhpGEMW",
-                "mac": "qjCXZcWSzWDPmdYnwpCX0Q=="
+                "orig": "I'll just ask some questions, ok?",
+                "text": "Je vais juste poser quelques questions, OK ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/22/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/23/message": {
-                "ciphertext": "ZnsM4BW1Sokasw49PDM+9U9SXWKEqNkML1gxgtZKW9c=",
-                "mac": "9sAeGhFAXmT715xlBP7mSA=="
+                "orig": "Okay let's see...",
+                "text": "OK, voyons voir..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/24/message": {
-                "ciphertext": "zr6Ll3BTTwDox+AvueHcTpdGF8GnFxvc/FSM0iLH+ofIjzH80iIMK93uj11zXFFKuFZSmKtBpI96P+FdQ4hkhJzs+28TTGRRC+PzCkceWlbbh83k5hZVGQn4J8S9dts6",
-                "mac": "/uu09sWWwwvB6GHLiFYNHQ=="
+                "orig": "I suppose you remembered something about yourself... Something that made you sad?",
+                "text": "J'imagine que tu t'es souvenue de quelque chose sur toi... quelque chose qui te rend triste ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/26/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/27/message": {
-                "ciphertext": "eFsRs+8eKbwyunV4Xw5GtBUTzFHrN/YbLYltaOmiiLzkTvBPrLZUgQ8qf5K1bGys",
-                "mac": "6j66iPyoEnTfj53emV4n3w=="
+                "orig": "Okay, so what could it be?",
+                "text": "OK, qu'est-ce que ça peut bien être ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/28/message": {
-                "ciphertext": "1Yw4qaA5HGNnSSWPxZb42dqlhXvVxVRJs8/TcvJM2/Pcb2ONBoHtXvgS41SOLkZ6",
-                "mac": "OimnKrbi/gHVb3cfgumsbA=="
+                "orig": "Did you...\\. lose somebody dear to you?",
+                "text": "Est-ce que...\\. tu as perdu un être cher ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/29/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/30/message": {
-                "ciphertext": "yYwDviM330MM6/DHTg14Ig==",
-                "mac": "9+6mxEsdC9cLau7gC6ZF/A=="
+                "orig": "Hm...",
+                "text": "Hm..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/31/message": {
-                "ciphertext": "d/bm14P5lc/s5wG62nzrseUID6NbBzFgJx7hfURuZXfE7Dv4C3ZUuhdHVGVbOmX/",
-                "mac": "RDRJB3QxOAgtwpPCRDIcbg=="
+                "orig": "Did somebody...\\. betray you?",
+                "text": "Est-ce que quelqu'un...\\. t'as trahi ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/32/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/33/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/34/message": {
-                "ciphertext": "ZkY9ZRibH7ekY3tyjn/RVA==",
-                "mac": "eNLALn79b1+/+qD2GnOdDQ=="
+                "orig": "Oh...",
+                "text": "Oh..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/35/message": {
-                "ciphertext": "Kd6HxXxxf12M+j3TE6XOuwOdoC90tedmN2jjkS3Gua/iyukXQzfm+bzHEDiKKpfS",
-                "mac": "8P5OyOIeEtlEhFwOdzCxGA=="
+                "orig": "I'm sorry to hear that...",
+                "text": "Je suis désolé d'entendre ça..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/36/message": {
-                "ciphertext": "5tXBIsUMsvW/K9pFaE9/8m5Jxo8zAR2tqmFFrqTm4TjyrDalX8QNEh7aSxxlqK4+o+mO6mB8tJcLs+aMDsck5B15smtV/iEGrRl5Q482hNg=",
-                "mac": "bUnw9MsKGn7rP3P6tW2NeA=="
+                "orig": "Just what did this person exactly do to you...",
+                "text": "Hum... qu'est-ce que cette personne a bien pu te faire exactement..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/37/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/38/message": {
-                "ciphertext": "8HTQ9uK9bUsBDXv8+v27gmCJc8/KuEZ0Ij5mp+9eSZYlLabbeuiXkLuo4/xGW8AI5XxOPXjI99DII3dpd5tIIw==",
-                "mac": "Lm3GQXFhNL9kNWjsqBh3Ew=="
+                "orig": "Are all your troubles... because of that person?",
+                "text": "Et tous tes problèmes... viennent de cette personne ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/39/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/40/message": {
-                "ciphertext": "JzwRPsPtBoBUDngyeL/7T3RHBr7W5KW4RK2FmzobmsI=",
-                "mac": "zQe4YRpWPf3EA+N/oFBnSg=="
+                "orig": "So there is something else?",
+                "text": "Donc il y a autre chose ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/41/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/42/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/43/message": {
-                "ciphertext": "h2L2S5orO6Tbxj83LyB9GtbNtiBMYluoYkCeOwLkY/M=",
-                "mac": "wEbmviU3ERiihBwMIoskVQ=="
+                "orig": "Man, this is hard.",
+                "text": "Et ben, c'est difficile."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/44/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/47/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/48/message": {
-                "ciphertext": "qTmezea8Xgbg7rXrjVzeFZEpZNlzxXx0c7fqU0ufvGBN5hWxvH5lUFkONpjelAD4+5/lPPvfbV+H9Ct6XBlY+Q4jE2KkIYggwHjWbl6Bb6KEXBaOxHlZo0TpRTc7j3OL",
-                "mac": "tR0QvVN6ZSVUkwr5zEg9cw==",
-                "ciphernote": "XPRY4X/IHdwDYWjstJEdUQ=="
+                "orig": "I wonder how the others are doing.\\. Hlin, Buggy, Emilie...\\. all of them.",
+                "text": "Je me demande ce que les autres font.\\. Hlin, Buggy, Emilie...\\. Toute la troupe.",
+                "note": "part of dream"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/49/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/50/message": {
-                "ciphertext": "Y3lfiG7Y7uBgN6+AYRUdQisk/NtTP8t770ccZJDnrnZkMy1U0n6WvBzq9WBEi9R1wZRiR5oZ+vlXb+cJD6+kke+rVqTLgTF0rAH92AXR6Fs=",
-                "mac": "w1gdupnBlxVxWjaiEQdgLQ=="
+                "orig": "It seemed like you got along quite well with Emilie and Tronny, didn't you?",
+                "text": "Tu avais l'air d'assez bien t'entendre avec Emilie et Tronny, non ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/51/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/52/message": {
-                "ciphertext": "vJ1gu3Is+KAKAmJi/oRjHVVG76hZ9LsuY+kfzpKYqwyRR0CjcElwakiKVojYMOxp",
-                "mac": "jLzxGaA9g3GdCo6/HkIuZw=="
+                "orig": "So...\\. I'm sure we'll be missed.",
+                "text": "Donc...\\. je suis sûr qu'on doit leur manquer."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/53/message": {
-                "ciphertext": "NyjZEbA1PixQCJtXBnbQFgQMSUyL/Ug/hyQl4eyGSwxPxKUQyaq1w/Ghptn6owBAEQB/aUlp8Ad7ir1o2K86JKQ6pA6E0rmYKYbOCwCY3kip6xdxOXmB0Ivn0VwVKvjTYa2MyQJmhUjsvyavnYj6/E+wkdYPBht92RLhBkA1wk1KvKfcj1qUKW4ChsIoK/IJ",
-                "mac": "hPhWpJhHfVHrmt7AKrx6Hw==",
-                "ciphernote": "a+iH9I3DwnamSAl3jdHZ/PkInQg8LZuY+a4lw6EJrRAmytHLRjQstVtUjpe3S9fs"
+                "orig": "In difficult times like these...\\. it's good to know there are people out there that care for you.",
+                "text": "Dans des temps difficiles comme ceux-là...\\. Ça fait du bien de savoir qu'il y a des gens en dehors qui se font du souci pour nous.",
+                "note": "also in maps/dreams/dream15.json"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/54/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/55/message": {
-                "ciphertext": "xyhaAWFKLejIgg0fHlc9Sn6pce6uI0FF7eNgm5dCe1m46w/IlRKwbPfmHPEW8dZYD6fsyEXYmJQ9BHBvTvAnGA==",
-                "mac": "TIxFmGpyQW5C6R2unypnSg=="
+                "orig": "Even though it looks like we're on our own for now.",
+                "text": "Même si en ce moment on dirait qu'on est tout seuls."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/56/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/71/message": {
-                "ciphertext": "/azbobbPQdGkWwupxEw0axj5Tnk1uDPS6Q8Bo8fOzuuSdsTyDM3fQNpsLpM3PQlRVgemWkC0ON4kKi/3ayNDe2ZhhUpJAjO7J7NP6W6CWV4=",
-                "mac": "9Wn+4bjRic5MsKLshkFxZg=="
+                "orig": "I think it's probably better if we call it a day.",
+                "text": "Je pense que ce serait mieux que l'on s'arrête là pour aujourd'hui."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/72/message": {
-                "ciphertext": "z0CCmMYNPSOCosmcMRZbNu/NWrD+wfr1iRGAuXClXtWteQ2MIgnudq+tf6JyMvu5",
-                "mac": "NEHzgnXvJ5ywxIYyu7yvMg=="
+                "orig": "Let's finish the trial building tomorrow, okay?",
+                "text": "On finira le bâtiment d'épreuve demain, OK ?"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/73/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/511/settings/event/74/message": {
-                "ciphertext": "PEnvfWmCKmsu+nIQo64Pzi77oxKGygWY3+3nOAapofR7jmQ8dhiOTFmwp8m1s4FD",
-                "mac": "a6lmzc0IjQuKz21AVzZYcw=="
+                "orig": "Alright then, back to the dormitory.",
+                "text": "Bon, alors retournons au dortoir."
         },
         "maps/arid/lake-1.json/entities/511/settings/event/76/task": {
-                "ciphertext": "uVYJJ5V8L8P39n5+kTx3xwo6V9MXSdI9nH5zqoraEEdWSqFdNg/lVRSO55H9hzMb73suBnyyFOWdwRXrT1PYqaLBm8qHPahCwErotVvOm1+D5hkDLQa0/DraNVH7k4rU",
-                "mac": "hKavA7+tJSoamFcZDIe38w=="
+                "orig": "You decided to call it a day and head back to the \\c[3]Dormitory\\c[0].",
+                "text": "Vous avez décidé que c'était tout pour aujourd'hui et de revenir au \\c[3]Dortoir\\c[0]."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/11/message": {
-                "ciphertext": "sTj9qjM6svXBKZtZmidh7RmCy//JGn8LlzbY0yFMG1C30h8utBmDG7ozznm3f7bvsjm/PLc9XodBpXqQ+2sLX9e8wOpeb6uvbT484GRVu6XtFHm2snphOJtA/rQfJ2H6Ijtpp8Aa2BV5qCtEUCpuZTDyD+RDqhRt1Gr+Mv2yG3W5MOKrjLMnPXc4Hy5yRKjwiQ9jpES1ncbD3nqIqOOX/Q==",
-                "mac": "O4/G3VxwmrFZNYYnmSQuOQ=="
+                "orig": "Beating up that Rhino-thing just to see such a place, I can't believe it.",
+                "text": "J'y crois pas ! On fait des pieds et les mains pour battre cette espèce de rhinocéros, et notre seule récompense, c'est de voir cette pièce."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/13/message": {
-                "ciphertext": "OxIMgM/Zhh3FI8w5PWtkvVtE040d2t69cjkdTEtYiCfu/7fyAiofeFxon3x6FpgaH5/VTpx6ju/1MsyWG9Fkwg==",
-                "mac": "BMqJwSXG20+2qLruFeIe5w=="
+                "orig": "How the hell do they even know what my room looks like? ",
+                "text": "Comment ils ont bien pu savoir à quoi ressemble ma chambre ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/14/message": {
-                "ciphertext": "YUY7VE0shFZqE1MphxMnS1Hez6tPjmDf027MyWe69EiwhHcTH5HNp1oKPMQcDdb2J5+JEp/XjO3dsMz06oZLzw==",
-                "mac": "XTx4/FRfVuiSq7PZovsCNg=="
+                "orig": "And why would they put that kind of reconstruction in this place?",
+                "text": "Et pourquoi est-ce qu'il fallait qu'ils la reconstituent ici ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/15/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/18/message": {
-                "ciphertext": "C4XKMJjZ9DEQ7i/DGnq0etHKantwYppcVWMvutgX2Zq3yCSpLNMNRI7C72UaAM+HRgtmvG6SU4rC82t7mkBWLg==",
-                "mac": "kYvitDB1DId2IqucMxHeoA=="
+                "orig": "Anyway... I seem to remember a little more now.",
+                "text": "Sinon... Je me souviens d'un peu plus de chose maintenant."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/19/message": {
-                "ciphertext": "618RR5oZPYtNdSUX40/pm5VXdnyHnVEAzVC1KGnPan5qMLtt3VPGhSC5m/1map+OXgfJ4WjL+yN3csXRdiGppQ==",
-                "mac": "evCEpLwon+Ski26SO6xRVQ=="
+                "orig": "Like the place I live at...\\. the place I work at...",
+                "text": "De là où je vis...\\. de là où je travaille..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/20/message": {
-                "ciphertext": "9ieOgSGBnXqLsv8omJEP/LOn6LgJicmwmdXbr1+LZmubPiSVOzhONcrX1irx4IGI",
-                "mac": "zlH+yuDfKUXopJn2jm3qFQ=="
+                "orig": "What was the name of the company again? ",
+                "text": "C'était quoi déjà le nom de la boite ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/21/message": {
-                "ciphertext": "t6oDCyB8xQHtApPb357MhejTBi7EA0sqw1GhIj7Ri69I/lN05dJsY7TBynL6roNcuK8h2X6n/S9KTgd4bauu5R69prHGhS6ui6N0wU+QNfg=",
-                "mac": "RBtxfKeSbQorFyXx6FcRaA=="
+                "orig": "Anyway, I think I worked in the IT department...",
+                "text": "En tout cas, je crois que je bossais dans le département informatique..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/22/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/23/message": {
-                "ciphertext": "7AFs/sNthKQHaYkuz/VaQnX2Fr+1zRlUY5gpbuKD0nVi81XC+GA0qW8pwdWPK5mUfRTokc6B+mfqrUip3hMofA==",
-                "mac": "XBriqiMRFUbzrTjxOtX+sg=="
+                "orig": "Still... this all feels very strange.",
+                "text": "Mais bon... Tout ça me parait encore bien étrange."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/24/message": {
-                "ciphertext": "3G9furU6A2BzeX093d9ewz2Be3FRH+R4vT8TzzzllBSmLnlqJIZ0h1hVmvv3WKBiXxCDVw24pTaUdjgklCHkKw==",
-                "mac": "v25XAexTl8AZFr511cLCnQ=="
+                "orig": "Like...\\. why did I forget all of this suddenly?",
+                "text": "Genre...\\. pourquoi j'ai oublié tout ça aussi soudainement ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/26/message": {
-                "ciphertext": "R97Ua0lP3LXPjp6T5/1LxlHgCgGa5eibZPuw8tnuJjWE0wi2iZA5rl1U+HwA1t2YqtJVaXekYx1wdjQmcCYyKQ==",
-                "mac": "XiM68iG6RqcYzNDxS69YKA=="
+                "orig": "You know... I had a... pretty scary thought.",
+                "text": "Tu sais... J'ai eu une idée assez... effrayante."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/27/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/28/message": {
-                "ciphertext": "JPmApAmkDtDkdQ30zKyCgAOuCchVv2d2auVUkquF5sxCvVK7USguxPjrIJ6QjFOHurTEX6mF/DeQFSI9QbDbnA==",
-                "mac": "ledF3zENWg5G6U0PDtWadA=="
+                "orig": "I'm spending all of my time in this game now....",
+                "text": "Je passe tout mon temps dans ce jeu maintenant..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/29/message": {
-                "ciphertext": "wHZnK64ARW31AjPLYaNHGj74Ts40ZIgV+jnjgkZl8/A58vjkYlF/1AgCsZh1xJEkwFdFR+2S8s6HOrL5JNjQYRtmMg9fpvio8/9/9r8ADqSirJeohMX6sVz08pyEW4YauMtDUtsC9HduHvpaf2QNig==",
-                "mac": "hLFgu/34IGCuevWb/07KFw=="
+                "orig": "The only thing left from my \"real life\" are those memories that are slowly returning.",
+                "text": "Les seules choses qui restent de ma \"vie réelle\", c'est ces souvenirs qui reviennent lentement."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/30/message": {
-                "ciphertext": "7fhEztPDRtVr349j6+ymsM6zaHTiZdZihFToqWPtpgHd2wQ6fDJRoA3MUoPutsUbTVL9tvTu/BLB4XUET1JHKg==",
-                "mac": "1PboOg3BCV3TXk59aAhdWQ=="
+                "orig": "But what...\\. what if there is no real life anymore?",
+                "text": "Mais si...\\. Si c'était la vie réelle qui n'existait plus ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/31/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/32/message": {
-                "ciphertext": "BgQ3S2Ec/6GUXrRXSxZq1Gu2MgYRVgywY+TXS5/5hsSsIvHI71yLS2etdH3tHr4+uKBw3Ag3Fi6eLCWCR90p+Q==",
-                "mac": "IfaNbM/Ez3YbBNZ/u4o4/Q=="
+                "orig": "What if we're just stuck in this game, forever?",
+                "text": "Et si jamais on était coincés dans ce jeu pour toujours ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/33/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/34/message": {
-                "ciphertext": "MiM4vGnBJxmD1zVleK6phS8ZFNH0aQvud3UATyBau2e10JH/dW/goNeZKeaR0Ye87gHRF2iqNGZ/WQ6VH4c2FQ==",
-                "mac": "SRN3kw9EbTLBTRKHzPVFnw=="
+                "orig": "Is...\\. is this maybe the feeling you had yesterday?",
+                "text": "C'est...\\. c'est peut-être le sentiment que tu as eue hier ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/35/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/36/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/37/message": {
-                "ciphertext": "MbbvvD/GPr26T+55kUH3LA==",
-                "mac": "PzdTWdNpRR6ejivvHdb4GQ=="
+                "orig": "I see...",
+                "text": "Je vois..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/38/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/39/message": {
-                "ciphertext": "IwKGgmx+/8c3MDUy38Y0iw==",
-                "mac": "sP3xUxmRdl1L4fhXefrDQw=="
+                "orig": "Well...",
+                "text": "Bon..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/40/message": {
-                "ciphertext": "EkJ/VxX5ls7axxMtUuRnWSlw14E9FY92vWyxeNIrC0I=",
-                "mac": "Tu0oQD3P8LfsAi54DekdPg=="
+                "orig": "Here's the thing though...",
+                "text": "Mais bon, au final..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/41/message": {
-                "ciphertext": "BC1zKNV4sAKI/i18+OaunWr3EoqwdlA5OxZ32B+PoJ8=",
-                "mac": "SYfJLHVFJbKnOa5E31pn9A=="
+                "orig": "Why does it matter?",
+                "text": "Pourquoi est-ce important ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/42/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/43/message": {
-                "ciphertext": "pKTrGCOiXS287G/Au0hrBHmSqvPbiBpkBZzaRtDi6yVSEFxo+ywKe5iWUhIzJotsQ3ZOfvSYG0w3AJvUDGWocQ==",
-                "mac": "EgFLF8nq8o7mxj6KwcUVww=="
+                "orig": "Does that make our lives any less meaningful?",
+                "text": "Est-ce que cela donne moins de sens à notre vie ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/44/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/45/message": {
-                "ciphertext": "lOwBpHC/X3Pe4NkJ4y8jSqkxiRPxEOep1Qxnmb4KlRW3+AFCRUoA/W8QlwZzKZrpD8jH9XCwAPiKye/kgbqUuQ==",
-                "mac": "r+iCcGNYRC0pIjexmdqkaA=="
+                "orig": "We don't know why we're stuck in this game...",
+                "text": "On ne sait pas pourquoi on est coincé dans ce jeu..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/46/message": {
-                "ciphertext": "0Bz/CtrCIpY4sdsKjB+kv3Uc95DWvMMwvkNPQwVaz3k059y+BCC+54WcVxlWJWE3cRO/kJ9kRRHcYEFH23NRVh/7gqR2zkPiN5/wdj/sZdi4PhWBi5XClAgoeIQJ+txo",
-                "mac": "zQe0b7uOUdd60HXo/i4fjg=="
+                "orig": "But honestly...\\. we don't even know why we live in the first place.",
+                "text": "Mais honnêtement...\\. on ne sait même pas non plus pourquoi on vit, au départ."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/47/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/48/message": {
-                "ciphertext": "+mWBcV4dT/jpoTRUVUYx+lHgZvFjy2Wk16JR6L9wkonFMCPpCYpJAIwcW5B3g9nsI3R2CLjyO+wWW+CwMJPcKrK5pJighMPai1UzvPUwGhNUkNC6D+bd/CEHqFveHZTcKDeQhyvfnnL9bPjuWpze0w==",
-                "mac": "gioVciwfQoEly6fXOBfyog=="
+                "orig": "So we're either stuck in this game or stuck in \"real life\". What's the big difference?",
+                "text": "Donc être coincé dans ce jeu ou être coincé dans la \"vie réelle\", quelle différence ça fait ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/49/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/50/message": {
-                "ciphertext": "gE8J8szsBjHOSKvA7tiqAKmb2bYzpUi1CHOEbxwyBAIiDWhevHJPWlPsgf03PthsrUpMnGuKyoEw9H6bwBAwNg==",
-                "mac": "dc9+elwtFUwcJOGxKSxfmw==",
-                "ciphernote": "UHSgJ2OuDnbQJcABhID7VNvKsfhtxz5vCfDgr3a+GqU="
+                "orig": "Is it so strange thinking that way?",
+                "text": "Est-ce que c'est si absurde de penser comme ça ?",
+                "note": "abwegig = absurde"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/51/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/52/message": {
-                "ciphertext": "t49kIk8iGzugqM56rPENFA==",
-                "mac": "1F48lLGOVUpzUU/BYMmeOA=="
+                "orig": "Oh well...",
+                "text": "Eh bien..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/53/message": {
-                "ciphertext": "00cL7c4xIvAGHrAGA2rU0iq8jVb8WYXtbhft3Oy5vktucJrXVwdQjsmrOf8L8xljTx+Uet1o4TS75xgcdy4xLTsgbqBf9060m04ZmpeBUdWHPwfJZAdS8OeZg5FcHk/r",
-                "mac": "ATKp4vz15ySjoKgag29Xhg=="
+                "orig": "I think what's important... is that it's a life worth living.",
+                "text": "Je pense que ce qui est important... c'est que cette vie vaut la peine d'être vécue."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/54/message": {
-                "ciphertext": "K3SGoBKj64Jffq493x8g7VfNTKxJ73Nkr71A1RfgRTiivUj634WlNTDHMnFdzg1O5ky0GaV3M+a1RTy/SEb+gSMkcRYYOuJTC5PsVQjZdJWTXVFv5fLa5MsgYH350Drs",
-                "mac": "BBiFOcq68FrEgUUQkxXGoQ=="
+                "orig": "And being stuck in this game isn't the worst fate imaginable, now is it?",
+                "text": "Et être coincé dans ce jeu, ce n'est pas le destin le plus tragique non plus, non ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/55/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/56/message": {
-                "ciphertext": "S1Qv78z+t7l5hwVZSpF8Q2miYM/rJdAvL0EcXFFGPIUWagIyFSCJ7dlajS8Fl0cO9nhx9Vd/zYjNXku94iDmxwWwBWn+q5PqqpVwEPkXJAY=",
-                "mac": "R8WZr7SctuO1zd2JPPB8yQ=="
+                "orig": "We're not alone. We have friends in this world.",
+                "text": "Nous ne sommes pas tout seuls. Nous avons des amis dans ce monde."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/57/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/58/message": {
-                "ciphertext": "dFAhpl/3NE4LUT9Vvlr6KDlnBo/CQaINS3W2tkQKQNz+fq4v8Piy5WJxtuN968FltVZjdgM4V5x7/Q2hN9USOmB09jkZjbe/pEhH0rAb7h+f1mU7yBQu9DgQMfvva/hT22I7dovWAl6LLZck2puSkA==",
-                "mac": "Rt3uUcg32HQ8lin62U+I8g=="
+                "orig": "And heck, I know a few people that would be happy being logged into CrossWorlds permanently. ",
+                "text": "Et bon sang, j'en connais certains qui seraient heureux d'être en permanence connecté à CrossWorlds."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/59/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/60/message": {
-                "ciphertext": "cHGkrgaBXCp2gKB/gmrZiyCWzvbS+sLcPo9ODfbsDXKXdsX715liTgS5eYg1ejsc",
-                "mac": "d/LGDBBhb1KW8Nrz+aa4Mg=="
+                "orig": "So it's not all bad, is it?",
+                "text": "Donc tout n'est pas si mal, non ?"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/61/message": {
-                "ciphertext": "OpRnG0nozDceWao7Cgxra8+GEvVWhESVsatFSMYTrJ1EvyLjg0OC2gq3MJPaNUoShdKFc81MmllEgVB82tlvOPBM7gRNKbbOm61lOMvYBc/64e4lXpTMLrnp3M9kqY+7",
-                "mac": "+neHtOgsnQbCFeEMm9mEKg=="
+                "orig": "Especially if we get out of this place. This place kinda sucks, honestly.",
+                "text": "Surtout si on arrive à partir d'ici. Cet endroit est vraiment nul, très honnêtement."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/62/message": {
-                "ciphertext": "ztOZbC5+ct7RT4AEQVxNO0EnhIs/UpHgkN0qvZuM0DiwcJcwqpx7FhMdEqMueL5Y1mqHQeM6yV9j2oapMjDSjXQypDqwrgNq2+eFvPEC3hU=",
-                "mac": "I4BRGzJAUzMb/p/r5pT14g=="
+                "orig": "Now that I think about it, my room fits in pretty well...",
+                "text": "Maintenant que j'y pense, ma chambre est bien à sa place ici..."
         },
         "maps/arid/lake-1.json/entities/512/settings/event/63/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/64/message": {
-                "ciphertext": "061CNxnusX6exVRty2jEFQ==",
-                "mac": "k0Vqphd6Nf0BR7FA+MSCKQ=="
+                "orig": "Gyahahahahaha!",
+                "text": "Gyahahahahaha !"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/71/message": {
-                "ciphertext": "H7M3zDmnvJJRfJUEaRR3oA==",
-                "mac": "kgwT7KJy6rCmEHlVawtIFQ=="
+                "orig": "Well then!",
+                "text": "Bon !"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/72/message": {
-                "ciphertext": "9vXKzi1z5/f9RrDxFa/cH1k+YWZSE7KZ9zrQbULdx2ZH/DWX32bMCbvu2zFLXqJw",
-                "mac": "Ony8WGO8iwSiJJtPz6u3Vw=="
+                "orig": "Let's hand in that quest already!",
+                "text": "Allons terminer cette quête à la fin !"
         },
         "maps/arid/lake-1.json/entities/512/settings/event/73/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/lake-1.json/entities/524/settings/dialog/0/text": {
-                "ciphertext": "ZGX/hYCvoU0Ksw4+Csx6bHZnTyuWB8sMi9qHXqYBWcE=",
-                "mac": "e0U4/fIVNEuj0DcmZFkBKg=="
+                "orig": "Hey what's the holdup?",
+                "text": "Hé, qu'est-ce qui te retient ?"
         },
         "maps/arid/lake-1.json/entities/524/settings/dialog/1/text": {
-                "ciphertext": "VSWKG3OeFZmM+i3jo2Uip/RqBfU/i3oAO+0On5cPXcbqjb+5yb3IuAX7o45jgBIs",
-                "mac": "A89Rg1QS3eoy6qw40jTW8w=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/3/message": {
-                "ciphertext": "TfXuXKMWrNlr1z1PphP/ZQ==",
-                "mac": "8AefI9FRKW3aTEAC8p+LyA=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/elseStep/0/message": {
-                "ciphertext": "tb/uWd7X4i6Omoym2aCd1A==",
-                "mac": "NxBU0xfDZpFcuuWtqe49CA=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/elseStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/elseStep/2/message": {
-                "ciphertext": "Q5Q1KymCCNUTXas79DZPDA==",
-                "mac": "u6UjkgyuW+FBmA2PvdyeUg=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/1/message": {
-                "ciphertext": "oVXsY1pqdaMd++aHGE4xrBbipiTjtCtv2X6PrDbqDzM=",
-                "mac": "mBLCgxGtvnligiT78sfhbw=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/2/message": {
-                "ciphertext": "sZPQvqeuH9H/vsyTc+nb1saBVUgH+tiZLKp9WhUv/0wBmJFSdhxHKkdWCdl3RInbhUSkyNsMZN2YnLtxSJYswh2Fhe/DKthRyf16pZUYKo0=",
-                "mac": "F8doWRbQ8UV8a9CBkkSzaQ=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/3/message": {
-                "ciphertext": "w3GBFufSc18rEo4a0n9eEC4t4VohhztOMt63txlqqwuEw34RxkSD/d3NaSKLUrQaov9zR6GidpsqGBoUUqaerP+Ywkk1AZXV//EV4aiIgWc=",
-                "mac": "K5/gJxmFUJzELDTup9ScYQ=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/4/message": {
-                "ciphertext": "B/QrUuFrqfgS/yE8kdtEGbKD533YGKg4uesvECtwqosSXicDysCtZXfml3fOhqeN",
-                "mac": "tHPRJwUid4b4rAMKByd2AA=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/5/message": {
-                "ciphertext": "7L22r7pquWvCFWHqKNskU8cWwuVi2FRmB8wWEGNklR8HmZknIddsg+pMnUZ6AokEMpBPLTWjS5dp2Hw2Wq5jKHpZJx/iO1O8LB8Tnn6EJQaH1VH+4QfSwQrBKuFux63tGelWW/r5U973zDMHZetnGw==",
-                "mac": "YbXOTrKWuF8bp/hSYc7/Hw=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/6/message": {
-                "ciphertext": "3QVKL8qzPATndjANX0qNcSH7Dv/gPFzSe8qVFJPrn/0=",
-                "mac": "Tbq/DH4HrD6yCM8bey/nLw=="
-        },
-        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/7/message": {
-                "ciphertext": "Pz0EU+2g+Cem0pOWLg2vTTl5fNY6hCOy2zxcFHTvzoKRqpnLCOiKD6C+OrxgzZxplyaSvU2kvrttcHOf/dES1g==",
-                "mac": "dUyIIKBC24T0Hee4FewuuQ=="
+                "orig": "Nothing... just taking a break.",
+                "text": "Rien... Je fais juste une pause."
         },
         "maps/arid/lake-1.json/entities/524/settings/dialog/2/text": {
-                "ciphertext": "IU+LgmLgioYOwUuGR2TCvP6HnUsRQq9zZz6gtBYTOiTcqoHU3ErWmh1/UVeXckDDOfwBQm8yiZ+JoDSM6P2SLt+tqWJYV9CQTL5i3E7ze9bbdfFz8f04Mf0A9MenfeQ7",
-                "mac": "ddmuBkKtUsh54LCEWjRB2Q=="
+                "orig": "Already? We just started the quest! We still gotta go to the forest!",
+                "text": "Déjà ? On vient juste de commencer cette quête ! Il faut encore qu'on aille dans la forêt !"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/3/message": {
+                "orig": "...Hi?",
+                "text": "... Salut ?"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/1/message": {
+                "orig": "Holerö, you two!",
+                "text": "Holerö, vous deux !"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/2/message": {
+                "orig": "So you got the quest for the second trial building already?",
+                "text": "Donc vous avez déjà la quête pour le deuxième bâtiment d'épreuve ?"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/3/message": {
+                "orig": "Yes, finally! That really took some time. I was bored senseless yesterday!",
+                "text": "Oui, enfin ! Ça a pris beaucoup de temps. Je m'ennuyais à mort hier !"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/4/message": {
+                "orig": "You can say that loudly!",
+                "text": "Ça on peut le dire très fort !"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/5/message": {
+                "orig": "No quest for us today, so all we can do is have a look around.",
+                "text": "Nous on a pas de quête pour aujourd'hui, donc tout ce qu'on peut faire d'autre, c'est se balader."
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/6/message": {
+                "orig": "That's too bad.",
+                "text": "C'est bien dommage."
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/thenStep/7/message": {
+                "orig": "I'm sure the quest will be there for you soon as well.",
+                "text": "Mais je suis sûr que vous l'aurez bientôt vous aussi."
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/elseStep/0/message": {
+                "orig": "Yes...?",
+                "text": "Oui... ?"
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/elseStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/lake-1.json/entities/524/settings/dialog/2/event/4/elseStep/2/message": {
+                "orig": "Uhm...",
+                "text": "Heu..."
         },
         "maps/arid/lake-1.json/entities/524/settings/dialog/3/text": {
-                "ciphertext": "EvSKZTExttpJSMtQb8L27NR4mcLwUYcWRifvgJBViryWcVDqHmMSsReORdN3zHfC",
-                "mac": "YGYk0GL//Hda4p8SXc2hFA=="
+                "orig": "Let's take things slowly, okay?",
+                "text": "Faisons les choses lentement, OK ?"
         },
         "maps/arid/lake-1.json/entities/527/settings/event/18/message": {
-                "ciphertext": "pPnlEYaS8fr4YKxlM8TxoquhKJqTZFCslpSUVR196AI=",
-                "mac": "MoXN49Ex9d9a1qShyby7DA=="
+                "orig": "To the forest!!",
+                "text": "En route vers la forêt !!"
         },
         "maps/arid/lake-1.json/entities/527/settings/event/20/message": {
-                "ciphertext": "mN/kutiPnYPoAxSk2hoson2F0I7I3GhejtKO1pu9HtM=",
-                "mac": "Ebg8Jo11d7CDz9PrEms54w=="
+                "orig": "Good luck, everyone!",
+                "text": "Bonne chance, tout le monde !"
         },
         "maps/arid/lake-1.json/entities/527/settings/event/39/message": {
-                "ciphertext": "REiITHzUwQEygsZFgcCaCD3iXw8h+JvyDNZOmU4r9JXgHsw7ThCZ/s4zhQRUmDio",
-                "mac": "Hq/llSAd0hBkOhKuzbtCqw=="
+                "orig": "Mon dieu, what are those... robot thingies?!",
+                "text": "Mon dieu, c'est quoi ces... machins robots ?"
         },
         "maps/arid/lake-1.json/entities/527/settings/event/41/message": {
-                "ciphertext": "P2I883lrf3nEyYvq9xxtZ/5cXO43HdIIgsFMZSgWAOQbKdUl0vPcQJBzvT9r0cT6zOpvBtYumgLVfTyZ2m8JJ/bcWG1JqC70mHKBW1q+rsH0cGHRI9omtDgqCai5gscg4KKj2sVwDHpM7/WUnRyExw==",
-                "mac": "JzoZ+aEmY5gTHke/68xNGQ=="
+                "orig": "The barriers are connected to those enemies, we need to get rid of them to proceed!",
+                "text": "Les barrières sont connectées à ces ennemis, il faut s'en débarrasser si on veut continuer !"
         },
         "maps/arid/lake-1.json/entities/537/settings/event/6/message": {
-                "ciphertext": "N+bdQCkurMgAUmS4TVOvAV0A62bevQY4udv7dnFYkiMcc2UtBQsOFLstZ9WdMR45G3R8wgR7hqGmeiYa4Ub1ZA==",
-                "mac": "dfN6dfrpkVaGR4t2faLuPg=="
+                "orig": "Onward, to the \\c[3]Quest Hub\\c[0]!",
+                "text": "En avant, vers le \\c[3]Carrefour des Quêtes\\c[0] !"
         },
         "maps/arid/lake-1.json/entities/539/settings/event/21/message": {
-                "ciphertext": "G1wDl4xCmtu3IVkf6y39TaTxqtRWlBHbBMgNZdilBOypD1T/rruKBDLRH78/krKQ",
-                "mac": "3IALcnd618GiTL3V1kXQzg=="
+                "orig": "More metal faces!",
+                "text": "Encore des boites de conserves !"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/15/message": {
-                "ciphertext": "TV106MvUtmbpz0M1TxSeLl0geg6N2dhurSKNuU0wOAWhWPeAZhC4u3iz4qbOx1q6",
-                "mac": "yzs/9bUuk8KpLgJmDmb14Q=="
+                "orig": "Look! It's one of those... Evotars!",
+                "text": "Hé, regardez ! C'est un de ces... Évotars !"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/24/message": {
-                "ciphertext": "8L0gchaiNQNmtWtommQHS52+ptXzuD4riXYo6UrVzpC4DaK6+fCJ0vmZmHVp6onCM2TMmJbKXUVdMqR5yyU3HA==",
-                "mac": "2BpUDP6UGMw+LCCJPDKvDQ=="
+                "orig": "Hey you! You should go to the quest hub!",
+                "text": "Hé, toi ! Tu devrais aller au Carrefour des Quêtes !"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/25/message": {
-                "ciphertext": "Ln24oAXQzPdpvSWBtCO5DQ==",
-                "mac": "ed0zTxAI1S1ObcKZP4BTgQ=="
+                "orig": "Huh?",
+                "text": "Hein ?"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/26/message": {
-                "ciphertext": "XeAY8hOQN1iTy9N2zpxza6XE8YHJd1BSLt9rVROFHGkLbD7anj12jOGnmRpZMB3a",
-                "mac": "WtevK+Asc6nnzilikGOx0g=="
+                "orig": "Uhm...\\. They got amazing loot there!",
+                "text": "Heu...\\. Ils ont mis du super loot là-bas !"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/27/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/540/settings/event/30/message": {
-                "ciphertext": "NqxYnH2lZJiIR1zhU2uG47Dfhr/bwmzorrh5tNkxERcpqJpGfHKdZzBEjV96+iO+",
-                "mac": "XdTTUCz+ORL4DY9Z0ZGOfw=="
+                "orig": "Go there if you want to get out of here!",
+                "text": "Va là-bas si tu veux sortir d'ici !"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/31/message": {
-                "ciphertext": "fAdfwRsx3PEmkkq1R79RhDhD41/B0vO1Ve7kxfrUR01/bPOhJAZMcV+1G6+QpzC+Yji/x7mLuGt/2akRVH9T1A==",
-                "mac": "x77Gdqed/lwjxzBMYt5BbQ=="
+                "orig": "Quick, there's just this one chance!",
+                "text": "Grouille-toi, c'est une chance qu'il ne faut pas rater !"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/32/message": {
-                "ciphertext": "DB21bQfwmhloytsh/ELHMjS/2iqt+yjGBskMaCUxe1huUa+g9gjww58CmVDBdNtv",
-                "mac": "yu+6ofKAzpTQTPLYkKEAow=="
+                "orig": "R-Really?\\. Quest Hub you say?",
+                "text": "V-Vraiment ?\\. Carrefour des Quêtes, tu dis ?"
         },
         "maps/arid/lake-1.json/entities/540/settings/event/41/message": {
-                "ciphertext": "wfKJPmtq0YZdRRQ36ljmE8PIlaCzm02LS2igMxwQ2ts=",
-                "mac": "P0a7hfpaPk5Zy4tUeIwdtw=="
+                "orig": "Huh... that worked well.",
+                "text": "Hum... ça a bien marché."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/24/message": {
-                "ciphertext": "lus6sXgDu/fGlcVO95m0AYci+ymJSGKJk6wyt10aTOg=",
-                "mac": "0NIbTj89MhnemHDfb5kK5A=="
+                "orig": "So, uhm...\\. Sergey?",
+                "text": "Sinon, heu...\\. Sergey ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/26/message": {
-                "ciphertext": "8tKblUrJ+TOMy5YDplN7pg==",
-                "mac": "mpsIubryLgjETfayp03NxQ=="
+                "orig": "Yes?",
+                "text": "Oui ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/27/message": {
-                "ciphertext": "g/q8j6NS1HQn7GhnZG/t/sRPTrPyvMJ6UpM71y+p4PzlsiYWTfnBLkElhLkxHLv1sRNc6nE3n9l/okKftfy2ryPrAa6c15Iq/x3eSTV6JBA=",
-                "mac": "7rn5L1WUVjFjw9HKu/5pUA=="
+                "orig": "Now that you've gathered the Evotars, what's next?",
+                "text": "Maintenant que tu as rassemblé tous les Évotars, c'est quoi la suite ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/28/message": {
-                "ciphertext": "kARBmjQg1gP6AL96lKcApQ==",
-                "mac": "OoRSgd8XdT0NKKt/K+PrYQ=="
+                "orig": "Well...",
+                "text": "Eh bien..."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/29/message": {
-                "ciphertext": "pu6keUtVf29FaMRScTsXq+n66TvCY61L9UYdC6gL+8v+UkCYVn9xqE6c4mGGWz7flkf0qGHgnSewqKf8y8qjJGIpHWETqiQRedMa4O740sDssh7w8QfE0IxapLf6oAEB",
-                "mac": "/hyqfalx1ZpvHS2qItShjA=="
+                "orig": "I have to get in touch with Instatainment and explain the whole situation.",
+                "text": "Il faut que j'entre en contact avec Instatainment et que je leur explique toute la situation."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/30/message": {
-                "ciphertext": "RqPOQiCW0N324rlY/S3o7FsQFnJzW0W+SYb9dP0KD40LTDOLx1eS13VuhAkL+lUi1mqoy8xbmDbRr4Jg+f3C1MJN+2cG1DdToRCjNhsHktb6Wulpeakzfuf3bl9P96jV",
-                "mac": "jrXibnYXmDFWen5lb6ngMA=="
+                "orig": "And hopefully we will be able to create a proper future for Evotars that way.",
+                "text": "Et, je l'espère, comme ça on pourra envisager que les Évotars puissent avoir un futur."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/35/message": {
-                "ciphertext": "nkflZ+Me0MwMeHjyFoA7JC2xSVk0PYxqWFfqd+QKEmZ/Jrx/H0U62ivZSshmsKlM",
-                "mac": "3YG1/hEOKGiaf50ufQTIVQ=="
+                "orig": "So...\\. what will happen with Lea now?",
+                "text": "Et...\\. que va devenir Lea maintenant ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/37/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/39/message": {
-                "ciphertext": "ALpJwN1Cv9apKwhAuG6Q/m26jPotMMEGFz+y6uc3Uw3apqCzRm+FjB9o/4+TzJBlGvmSd6MfU0GbSE7eFhIVIDTJzMup42sIUlXvfWNH/2RJriqSyM2HYsNGYVVk1AX+",
-                "mac": "AM3hKp6m5GJN6FgRfjItdA=="
+                "orig": "I am afraid I cannot afford to keep her in the game for much longer.",
+                "text": "Je crains que je ne puisse pas me permettre de la garder dans le jeu plus longtemps."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/40/message": {
-                "ciphertext": "41yNUDQBOoyGQOaKGOStPUt8/SRYWxzFrMRTuJEIoLEiFP0RUQJF/tdu77TkfQj6lehhnydJXvECxuRzRD9cdYzgqP2dLPFTRJ2+jp2LmlIyKfP6J7QiovcC/s8oIsr7",
-                "mac": "RK5RX+7moUQ5WVQs2hUznw=="
+                "orig": "I am not allowed to do that in the first place...",
+                "text": "Déjà que je n'avais pas la permission de l'introduire dans le jeu au départ..."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/41/message": {
-                "ciphertext": "WmOZ8sEmKmffIVV0ogZfJhrgp9oi9/Rwxe6LQK//hZfiZgc7E71/M8/ljmMJhtJS7cRgvZOxmpVfhkDlKBCoO7nfpGG+p5s3FD8Pjr6qZYIOAmKwvmIy7KGHaOf/eX58R0Jy1gArL9uJ61dMuh93fg==",
-                "mac": "h3DiQbMwn9rjNtEecFkiAA=="
+                "orig": "And I really should not break company rules while I try to discuss the matter with them.",
+                "text": "Et il faudrait pas que j'enfreigne les règles pendant que j'essaye de trouver un accord avec eux."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/42/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/43/message": {
-                "ciphertext": "fWCuv5PI+Jk2X5sby+rRl2Spix/PSbMyDGJFECM+NLMs2N1jiAH6EuUb1rgn/XyeBhtG+ZlSGuDhr52MinjaxG25Ig7ets/8/yi8MevJlxM=",
-                "mac": "yJEyfL4hTTjVaWpHtGeYDg=="
+                "orig": "But...\\. there is no need to log her out right away, non?",
+                "text": "Mais...\\. tu n'as pas besoin de la déconnecter tout de suite, hein ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/44/message": {
-                "ciphertext": "cT3hf4EnXeyZO1DWtsudwePAhLYednZkCpz63WFl3LnNZlh2hW/pwhTdSAiXmjFZM2R2s2SjbEHOtiabGY0/JID0i4NU94birnDf9+a4QxM=",
-                "mac": "9NyhLdrrejtlINUwEgp6iw=="
+                "orig": "We can at least play together for a little longer, oui?",
+                "text": "On peut bien continuer à jouer ensemble un petit peu plus longtemps, oui ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/45/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/46/message": {
-                "ciphertext": "YVYH9ANw+j0CqF3bkYJo8DJjqzU4spSdGg9RXq/0LZPSs3nAtNDsnEOUe6vcWoMqGZjsgw6JOTImurmHaR4Oeg==",
-                "mac": "EOnPCDmdSrjjpPdZ+o1cvQ=="
+                "orig": "I suppose... there is no reason to rush things now.",
+                "text": "J'imagine... qu'il n'y a aucune raison de se presser."
         },
         "maps/arid/lake-1.json/entities/547/settings/event/49/message": {
-                "ciphertext": "Jj9bkhHpH4UxNY9Trahb+qyIxSKijVVuinH7dgElzdY=",
-                "mac": "x1a5q+SyKe7K1I+yEoEb8A=="
+                "orig": "What are we waiting for, then?",
+                "text": "Qu'est-ce qu'on attend, alors ?"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/50/message": {
-                "ciphertext": "MONnlbOmCA/HsxpOSJf/0125F0WOqHxGC/43zK3Gmlg=",
-                "mac": "+eTiBWsHrs99aSZiDu6wJQ=="
+                "orig": "Off to the Playground!!",
+                "text": "Allons vers le Terrain de Jeu !"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/51/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/arid/lake-1.json/entities/547/settings/event/68/text": {
-                "ciphertext": "XrSGsl0oV/7WQYCt28onMW9+3RGV8O+trRPvkXPGExiHFxY/qLUILTXP+2zHubWn3XDmUy2q9zUZNPqzHxU6wbP9475OXFevu1eqCIh7hsMFfiMFV6P6kMaLn63IkhIWqFk/hVyWAtA1kKrFybpl9g==",
-                "mac": "c9iNqT+i7Pn++tEJi4Ywsw=="
+                "orig": "It all began when I set out\\.\nto find my long-lost colleagues.\\.\n\\.\nMy old friends...",
+                "text": "Tout a commencé, lorsque j'ai voulu\\.\nretrouver mes anciens collègues perdus.\\.\n\\.\nMes vieux amis..."
         },
         "maps/arid/lake-1.json/entities/550/settings/event/10/message": {
-                "ciphertext": "BizaiKuH8eEwsP1AeN/1fw==",
-                "mac": "zW5gdBxRClk7yOxkr9oa9w==",
-                "ciphernote": "Bp/c176vtKKsMCIpeg4q6hs2r3lxHR0qUarlfhKjaRgMp7aaoy36xp+ehorpgLkZP+9EElltNSO8C1YN7dAlkIEpBoAVzOBT/LfS0XfBm8O1klwc9GL1RFA51/e6RmXraQko6QDmIY6sGx4a/E8yEKkwAgXc5PaVN0avvePiXqs="
+                "orig": "He had a point.",
+                "text": "Il a raison.",
+                "note": "end credit cutscene, responding to schneider2 earlier, saying he would complain. major story revelation (and troll)"
         },
         "maps/arid/lake-1.json/entities/550/settings/event/11/message": {
-                "ciphertext": "3/uUoxQcpq729WmxhMktVh0ttT2F+JiuosuTrhHx2nYvRbmQH521aqSHJz8a1Cfg",
-                "mac": "O8KPk9VOx+7PuwTlS+2uXA=="
+                "orig": "Those cliffs really do not make any sense.",
+                "text": "Ces falaises n'ont vraiment aucun sens."
         },
         "maps/arid/lake-1.json/entities/551/settings/event/0/message": {
-                "ciphertext": "8rovp2ok0f0mADfX9qJIOf5ti9N2TmHdChRdfiVmiMw=",
-                "mac": "25e5l+mhBX4+Vl72t9kT1A=="
+                "orig": "Laser bridge!! Awesome!",
+                "text": "Un pont laser !! Ouaiiiis !"
         }
 }

@@ -1,168 +1,168 @@
 {
-        "maps/arid/interior/stealth-1.json/entities/21/settings/event/10/message": {
-                "ciphertext": "iuoSUXYiwRFfBSeKp1av9C8kfIrrekgAJuhrgjV23Jk=",
-                "mac": "I5HwD55d4ds1TZb575YuJA=="
+        "maps/arid/interior/stealth-1.json/entities/5/settings/destinations/0/label": {
+                "orig": "Down",
+                "text": "En bas"
         },
         "maps/arid/interior/stealth-1.json/entities/21/settings/event/7/message": {
-                "ciphertext": "j/gDSqW7Jv/MtfsNzaEiSMX9nQGQUYapTcRxJDaWejY=",
-                "mac": "8Xa7heR7tZItAP0tgxJ6NA=="
+                "orig": "Phew... that was close.",
+                "text": "Pfiou... C'était chaud."
         },
         "maps/arid/interior/stealth-1.json/entities/21/settings/event/8/message": {
-                "ciphertext": "Xf3gZs7WzaS/xlx7WZX5wMpG/VZ+9EAP9QVjXTdyVCw2elmSHjpjnENI71cUmgpm",
-                "mac": "lzu2BZv587oReF/zQ4l4ZA=="
+                "orig": "So many of them out there.",
+                "text": "Il y avait tellement de gardes dehors."
         },
         "maps/arid/interior/stealth-1.json/entities/21/settings/event/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/arid/interior/stealth-1.json/entities/5/settings/destinations/0/label": {
-                "ciphertext": "rnIM3HavQJ4SLxEARZw9XA==",
-                "mac": "/aucSfYE9GclNC9YOUzCCw=="
+        "maps/arid/interior/stealth-1.json/entities/21/settings/event/10/message": {
+                "orig": "Well then, let's take that elevator.",
+                "text": "Bon, prenons ce monte-charge."
         },
         "maps/arid/interior/stealth-2.json/entities/0/settings/destinations/0/label": {
-                "ciphertext": "CG+Kkw+roFq/VguYB3nkWQ==",
-                "mac": "cpj1T7rNOG626ggddDMySA=="
-        },
-        "maps/arid/interior/stealth-2.json/entities/100/settings/event/8/message": {
-                "ciphertext": "xCsK0B1dz/mFV6oqCdecr/otHOVYqoMIIyWmPZG9HRxQcuBezEgYLMN+saeoqXcnplX3sfodPYYzbJnGsqu70f3SD2P1HuugzkN1F995zhCJf7U6lOqWSWOMAvTggDoK",
-                "mac": "4gZ5sChHtVH4tkFhr5oHVw=="
-        },
-        "maps/arid/interior/stealth-2.json/entities/124/settings/event/7/elseStep/0/message": {
-                "ciphertext": "YlXibxeTGvEJKawk+vgVkw==",
-                "mac": "YrWEio51XOlcCZKBySoMLA=="
-        },
-        "maps/arid/interior/stealth-2.json/entities/124/settings/event/7/thenStep/0/message": {
-                "ciphertext": "JJaxLh5cepMJeN0BfkVu3u7gnqoLwJgSRrcHsyYFFhw=",
-                "mac": "NpzQph4m+sp5MTFU45QiZg=="
-        },
-        "maps/arid/interior/stealth-2.json/entities/125/settings/event/11/message": {
-                "ciphertext": "L1rlm/oEbG/R/FveY/ZZfWfEXjcdKS9R49x+EZj/EjLVapX8Evu5F0qaDyqc8HzEe9sXkMETVkO4eY8kT0LrEc0Iw8km72zq9fpCklOxPQI=",
-                "mac": "2p0xAh2oHzCHwZhoopQArg=="
-        },
-        "maps/arid/interior/stealth-2.json/entities/46/settings/condAnims/0/interact/event/31/message": {
-                "ciphertext": "1SpmUDX0SVqPsdq9sZQhFyBZO/ldCur2ieppEaggX45m1gDbNMAGUsmUEJIKWUsfSOzI3nqOV3W+csdPYpei+g==",
-                "mac": "qoVH5Y0Q5g3y00hc/TyN6w=="
-        },
-        "maps/arid/interior/stealth-2.json/entities/46/settings/condAnims/0/interact/event/32/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Up",
+                "text": "En haut"
         },
         "maps/arid/interior/stealth-2.json/entities/46/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "ZgfJ3obargnIJr1b9i1KhScCWWlEF2GTMi9uWrd/DIQ=",
-                "mac": "SnpC2Wezr6ahPNXyotJUTA=="
+                "orig": "Use Terminal.",
+                "text": "Utiliser le Terminal."
+        },
+        "maps/arid/interior/stealth-2.json/entities/46/settings/condAnims/0/interact/event/31/message": {
+                "orig": "I totally saw that one coming!",
+                "text": "Oh ben ça alors, je m'y attendais pas du tout !"
+        },
+        "maps/arid/interior/stealth-2.json/entities/46/settings/condAnims/0/interact/event/32/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/interior/stealth-2.json/entities/76/settings/destinations/0/label": {
-                "ciphertext": "CG+Kkw+roFq/VguYB3nkWQ==",
-                "mac": "cpj1T7rNOG626ggddDMySA=="
+                "orig": "Up",
+                "text": "En haut"
         },
         "maps/arid/interior/stealth-2.json/entities/90/settings/npcStates/2/event/2/message": {
-                "ciphertext": "qC189N/FIIDpelsCpBlTGurvBc/W9ZjzrI0Cevg48SbWB2u8Jhi4L/W0jpfg0Jz1xD0pSU8oza7jnC6idTIe4w==",
-                "mac": "7PvgXhPGNfOSKIL8UHIPQg=="
+                "orig": "Now this terminal is almost too conveniently placed, don't you agree?",
+                "text": "Bon, ce terminal est un peu trop bien placé, tu trouves pas ?"
         },
         "maps/arid/interior/stealth-2.json/entities/90/settings/npcStates/3/event/2/message": {
-                "ciphertext": "897ho/ipqlgT5IVEZwuub3tXuZTS1zfQ0lqdRVPiL5dLxRfRO8q9K1OYc5njKEx9wpk0z1BjfNqeQa5vhMTzDA==",
-                "mac": "XBzOU08niMsaT2Y1x9Iy4w=="
+                "orig": "Let's hope that exit opened up now...",
+                "text": "Espérons que la sortie soit ouverte maintenant..."
         },
         "maps/arid/interior/stealth-2.json/entities/91/settings/event/7/message": {
-                "ciphertext": "eZQf10SIXyZ2t73WwVRgHXnyr/WfHRS24QEmw962cZjKEGrYPpg0f1kc+HuLGJ6+",
-                "mac": "CSIu+IxSdJNV4STrYosoLw=="
+                "orig": "There's supposed to be more guards down here.",
+                "text": "Il devrait y avoir plus de gardes plus bas."
         },
         "maps/arid/interior/stealth-2.json/entities/91/settings/event/8/message": {
-                "ciphertext": "Y45pYYAEWjmkuVpx+ypp6byh+4G6CcqmyfRCxNA6R3k=",
-                "mac": "AKMf4VZfEQtc3gqrVwBcWA=="
+                "orig": "Stay on your toes.",
+                "text": "Restes sur tes gardes."
         },
         "maps/arid/interior/stealth-2.json/entities/91/settings/event/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/interior/stealth-2.json/entities/100/settings/event/8/message": {
+                "orig": "Hm... this is the only way, isn't it? Maybe there's something in this room.",
+                "text": "Hm... c'est la seule issue ici, non ? Peut-être qu'il y a quelque chose dans cette pièce."
+        },
+        "maps/arid/interior/stealth-2.json/entities/124/settings/event/7/thenStep/0/message": {
+                "orig": "Aaaaand done.",
+                "text": "Eeeeet hop, fini."
+        },
+        "maps/arid/interior/stealth-2.json/entities/124/settings/event/7/elseStep/0/message": {
+                "orig": "Finally...",
+                "text": "Enfin..."
+        },
+        "maps/arid/interior/stealth-2.json/entities/125/settings/event/11/message": {
+                "orig": "Alright, another elevator! Let's hope that one goes up again.",
+                "text": "Bien, encore un monte-charge ! Avec un peu de chance, il ira encore en haut."
         },
         "maps/arid/interior/stealth-3.json/entities/1/settings/destinations/0/label": {
-                "ciphertext": "rnIM3HavQJ4SLxEARZw9XA==",
-                "mac": "/aucSfYE9GclNC9YOUzCCw=="
+                "orig": "Down",
+                "text": "En bas"
         },
         "maps/arid/interior/stealth-3.json/entities/11/settings/event/6/message": {
-                "ciphertext": "yvzPAZk2v5ARQca5glvFrLymCHiMKjaCUws2a4Yl8B8=",
-                "mac": "ylP5+wdk8idw3URnp0hvQQ=="
+                "orig": "Looking good...",
+                "text": "Ça a l'air bon..."
         },
         "maps/arid/interior/store.json/entities/29/settings/analyzable/text": {
-                "ciphertext": "5vEfLabmlAgXXTcpyguzaNVS5uMAgPZTjwOaVHxiNN0=",
-                "mac": "zgfMb9dus1fgdQ7ym+8zLw=="
+                "orig": "Vermillion Equipment",
+                "text": "Équipement de Vermillion."
         },
         "maps/arid/interior/store.json/entities/29/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/store.json/entities/29/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "fM9MwVpvW8RUZFSOwp066C8ce0g3HaZDpGvxAc2fwBeuPJscr6v1cDmbjty+a3nyFQIq0DXPruZjmQCpSxtiKw==",
-                "mac": "QOy+u/cDnAMR3gWzM5haxA=="
+                "orig": "Hello. You can purchase equipment here.",
+                "text": "Bonjour. Ici vous pouvez acheter des équipements."
         },
         "maps/arid/interior/store.json/entities/30/settings/analyzable/text": {
-                "ciphertext": "X0x5ELsEzzrjagwpjytLHsit/JqZm8hEV/3p2juHLIM=",
-                "mac": "myPPMVk+WvU3OGjQKfa+xQ=="
+                "orig": "Vermillion Consumables",
+                "text": "Consommables de Vermillion."
         },
         "maps/arid/interior/store.json/entities/30/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/store.json/entities/30/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "nB41fqOE84qzpv9nASzvuC/ncDvBbiS/Njvg65IqSBzgWfJBnWic6diUyCTfDbDSsj1Cf2Fewjn0MxFpIhA6Gg==",
-                "mac": "9wFyJ9sQIJ+rUdPSKTnrZA=="
+                "orig": "Hello. You can purchase consumables here.",
+                "text": "Bonjour. Ici vous pouvez acheter des consommables."
         },
         "maps/arid/interior/store.json/entities/32/settings/dialog/0/text": {
-                "ciphertext": "ejgfubHmAPEpM0tSkhzqFpQJb77r/V7icW3B3t7YpokNxClS4CCU9pXueR+pDNrF",
-                "mac": "3NMtMTs8lLafH0+zb4iU5g=="
+                "orig": "I could use a sandwich now...",
+                "text": "Je me mangerais bien un sandwich..."
         },
         "maps/arid/interior/store.json/entities/32/settings/dialog/1/text": {
-                "ciphertext": "rUJXpwLZDCJZp0zFj5oXOs+NT4Vnt0R6OT++Qi9B+JY=",
-                "mac": "bLIUAWz6fVOWEPrHr6n8ow=="
+                "orig": "A real sandwich...",
+                "text": "Un vrai sandwich..."
         },
         "maps/arid/interior/store.json/entities/32/settings/dialog/2/text": {
-                "ciphertext": "s3nzN5BnEC/dy2aYD85oJK6SqQ3RWjC2AdqF5oG/gJE=",
-                "mac": "GV1EjJW4V5MQSDC8Q6naiQ=="
+                "orig": "I'm... hungry...",
+                "text": "J'ai... tellement faim..."
         },
         "maps/arid/interior/trader.json/entities/21/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/trader.json/entities/22/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/trader.json/entities/29/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/trader.json/entities/30/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/trader.json/entities/31/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/trader.json/entities/32/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         },
         "maps/arid/interior/trader.json/entities/33/settings/displayName": {
-                "ciphertext": "TMpoc2iSTNRCMKxyvhjpyh6kBtHLmb1du/gIWAy2PMY=",
-                "mac": "8rEKFj4XmrEZgFbghH6SfQ==",
+                "orig": "Rookie's Best",
+                "text": "La Fière Recrue",
                 "quality": "unknown",
-                "ciphernote": "ZoWkouphSHg67rOHp2GXcA=="
+                "note": "this like de"
         }
 }

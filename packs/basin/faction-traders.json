@@ -1,474 +1,474 @@
 {
+        "maps/jungle-city/interior/faction-traders-1.json/entities/8/settings/npcStates/0/event/2/message": {
+                "orig": "This building houses the office of the Basin Trade Partnership.\\. Please talk to our spokesperson if you seek to assist us.",
+                "text": "Ce bâtiment abrite les bureaux du \\v[lore.title.faction-shock-jungle].\\. Veuillez parler à notre porte-parole si vous souhaitez nous assister."
+        },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/analyzable/text": {
-                "ciphertext": "jwwHYu7BOrRxzAe9JOTP/Q==",
-                "mac": "/69DbJnxsdidIIAArcs7Hw=="
+                "orig": "Esha Basu",
+                "text": "Esha Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/0/event/1/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/0/event/2/message": {
-                "ciphertext": "ev5aHysmadjn5yt9VwhUBkt5gyfe3CbeUHBjMWqvPkapxT6LFJeLCalfrAkxLLXBAmFJZ16s4WReRYumf+8nvrTtKdyGwfXQbdOcvkc5AjmwIEoE+vJa3AFYA0D2oC05lY24F2aIaGihASO4i4zr15190ePcsVjrZiIWNF1VJR4=",
-                "mac": "xL9VpCaQ9FU7Fu6iq01FYQ=="
+                "orig": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now but please enjoy your stay.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Il n'y a pas besoin de votre aide pour le moment, mais je vous souhaite un bon séjour."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/2/event/1/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/2/event/2/message": {
-                "ciphertext": "z8E16D5E3iOYiTd/wPzE28b1FastK/pvSzepTfSx1cAcOVEO/fC7TT5cLSW9poJ+qwyvrSkRIqJ+KqXCfIFPQqf1768v6eYpb/qVPm/lK2m3Uv8dXeihPMgbFvjwtZjjf2Gdxgk58e6BEFJlMyIeOz3OWd8pZ7E/ygBZSBNxa1chtDMffQmAkhk2F6DBlNWAjxm3RrXaK4sAn+oKa2ZQEQ==",
-                "mac": "rU6BOZqJHcxOfBLppv0yYA=="
+                "orig": "The authorities were able to track the lost machines up onto \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name].",
+                "text": "Les autorités ont été capables de tracer les machines perdues jusqu'à la \\c[3]Vielle Souche\\c[0] dans la partie est du \\v[area.jungle.name]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/2/event/3/message": {
-                "ciphertext": "r2p/IugfHKEfUp/pfFaACRbWm8qjvPSnuv5z+jz2bFzFIZ6G1Bx0G/vRifWMrf3kRru2Nj25Xwcv1sJEiqvVSDp1OlAZOc5Qoo4y92ZimRMgUy+pUk0ldCcXM0vdc3GMC9a8n0MwH/3v6wNPTqyGJTDIHSpDN6gJpGIi9CZHfrJ3d9fCGblvoGah64VD+B9j",
-                "mac": "S6RJTeX5GbZrjRKQZmSPNg=="
+                "orig": "Maybe your specialized \\c[3]\\v[lore.title.seeker]-senses\\c[0] can find some traces that they overlooked.",
+                "text": "Peut-être que vos \\c[3]instincts de \\v[lore.title.seeker]\\c[0] spécialisés peuvent trouver des traces qu'ils auraient ratées ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/4/event/1/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/4/event/2/message": {
-                "ciphertext": "PiKlmuAM9rTVDPOj/VACZP0BtsX4C8O86Bc07UBYbP3b+gkKKH0qSGRLri5a29c1bVMkXgHFqF15g+Zfk7cOf66SXQa+cgnxpdd8oRB+AhUUoMB1OrMOswzyOO16SnaCukKVeT9NwLi78u2zuP+GiMhPT1WBj0IP3fNkaMiipgNFyAto6QXv0JGxu9S1SjyUp6vTn9csRm6hDyvaFpFpaw==",
-                "mac": "XZ1JvP3BX627rOoBJULyEg=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. We are still preparing the tools to assault the frozen cave.\\. Please come back later.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Nous sommes toujours en train de préparer les outils pour l'attaque de la cave gelée.\\. Veuillez revenir plus tard."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/6/event/1/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/6/event/2/message": {
-                "ciphertext": "Xgwx4nWGkqc9bjLZIjLk8qeVUKfEtMgYkoXhZQ7xRLSpDjsi+0x/0Uv1PNZymIUVqAEgIQKrPWoN511F+tV/+I5SeIgRbmxw6Db3uAe4P5RoEkHm2V1k2egKUznfEUw7",
-                "mac": "i4nD+71P8nawgdxeU1o2HQ=="
+                "orig": "Go back into the cave in \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name].",
+                "text": "Retournez dans la cave dans la \\c[3]Vielle Souche\\c[0] à l'est du \\v[area.jungle.name]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/6/event/3/message": {
-                "ciphertext": "1tNKOXO1O9U3C8/Z1BK/ULIPNy8NtjLP1C53oxQ5hH7PLQJabR+SE5GBjiCTeP7rHh69unMY84CB2V+mbxr7IGjTrFC2OOZIplaxYGI8F4U3W+VNa3FhCrMdkMgRjP63NNjuQmtmoxhwcNKZmxCGgcb1JLp+PYgRwqgm/m1GioY=",
-                "mac": "IEyC4lsLnOF/Ws//ESda/Q=="
+                "orig": "We have prepared a device that will help you reach that criminal \\v[combat.name.snowman] and exterminate it.",
+                "text": "Nous avons préparé un appareil qui va vous aider à atteindre ce \\v[combat.name.snowman] criminel et à l'exterminer."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/8/event/1/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/8/event/2/message": {
-                "ciphertext": "ZZ7Ps+NJUzFniSRMSfzT9HCD8dbpRviLZ5WikK/Rd02hrQiFXb++wE3Q58pGTSPjq1TZCxumG+j+Eolmd6o/aUUvAXV2hv+Dxoc1FHvkQmM+PKdK5UrFmNC9/Njr697KeLmYaY28Gx+qwr8GvooIr4PSDKq6dOMay/AYlCmxuF4=",
-                "mac": "nIY+lZlPiPOUrmC6cpaQbg=="
+                "orig": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Il n'y a pas besoin de votre aide pour le moment, mais je vous souhaite un bon séjour."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/23/settings/destinations/0/label": {
-                "ciphertext": "G6EuqbhfQ/COoEVwJ6hEQQ==",
-                "mac": "HDQY3siXxkVGJsZCGUgyyg=="
+                "orig": "2nd Floor",
+                "text": "2ième Étage"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
-                "ciphertext": "71C5n02G9uTzT4CqXYbiAw==",
-                "mac": "ch0kKwpjbzIj8b1LQXIPBQ=="
+                "orig": "Tony Frigo",
+                "text": "Tony Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/0/event/1/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/0/event/2/message": {
-                "ciphertext": "7ufCFuSbnr7Upwb3qhTxYWLJBPUZnzuI/hr6ro+Uur4OzQhCCChdDHQCYAGEv3JD1fPGHaIHJx0yofl9K7gtUmfi7IfcRzTlfhjIwbuOgpCegps40nSsrkV/c7kvKPiNBwLL7l+vgbalDO9JRdoYfw==",
-                "mac": "70TtxvBL8DmUtOD0eV5dVg=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Please work hard for the prosperity of our city.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, travaillez dur pour la prospérité de notre ville."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/2/event/1/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/2/event/2/message": {
-                "ciphertext": "6ZJQEwMlIFgNzF0T2xCMPCQOdWve9cI0tmgDPVgRv1axuwNSo4P2qskxzzSLosJk+4FNAZrPnpLZPGyiLcJsjHn2l1G+7ymIH2Sih4O4KneWlPi/BXFrm/PjXJXTI2QRzTahR6uGs41QJgC0xjwYHNcEcq6BixXeN61A2wXtn7I=",
-                "mac": "7+lHTSOqnz319sI7sTBqfQ=="
+                "orig": "Please concentrate on finding my cooling machines.\\. They are state-of-the-art and extremely valuable in this climate!",
+                "text": "S'il vous plait, concentrez-vous pour retrouver mes climatiseurs.\\. Ils sont dernier cri et extrêmement utile vu ce climat !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/4/event/1/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/4/event/2/message": {
-                "ciphertext": "DLyMJlqZSobk5JmnDxerF3xpGGR+N+hgBE7hxW4MGoh78LsL1lwJ1zCit7hCZ3LJHAziYQX2u2pBGLpgnLpXyVhzBbpC7uK3Mq7L40CwEvuDhUEhtlCAZLMV5ZdAhYSTXvqnO1nIhaYgagzBMjcDi1r2QBxrNN/ZX7QAxfAWA3StTdZeWUNB59VWihXk/SQ1",
-                "mac": "QbeFSc9HlLXMlhMTf4VecQ=="
+                "orig": "Hello, \\v[lore.title.seeker].\\. Our engineers are still working hard on a device that will get through that wall of ice.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Nos ingénieurs travaillent encore dur sur un appareil qui sera capable de passer à travers ce mur de glace."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/4/event/3/message": {
-                "ciphertext": "ze4N3w58UNEvHAg1VzHzcXH3itm61bR/sV7Tb6UvKmoK4LH/+XxAplyL3fdVmJrt8jIDZFpKS5rBrQo/MNzNbg==",
-                "mac": "pQI2YIEVctTpu+dy1NRqdg=="
+                "orig": "Please come back later, if you want to help us again.",
+                "text": "Revenez plus tard si vous voulez nous aider à nouveau."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/6/event/1/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/6/event/2/message": {
-                "ciphertext": "TSwMpSkvHrVw1zPVZ+ZzWtr4cpv0oY5liN9j5cVn6cmxh2fNYCtZazEYQzU74X1dBAusIHEgJaedZ1cUVzcWuMK/J+S9C1vhrTna35gxN2AMhDA9RWFjtNRPiKU4XI/f",
-                "mac": "TKGoDP9VL7/HrUgrScCRJA=="
+                "orig": "Our heating device stands ready in that cave you found that snowfiend in.",
+                "text": "Notre appareil chauffant est prêt dans la cave où vous avez trouvé ce voyou des neiges."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/6/event/3/message": {
-                "ciphertext": "S/OWhEJ3T7GPigOQmbaWMy5qZx7Upn3rb4MMiNVcSiTSylzCQCVQKLtOnX11IGiHfSuAj3dWPhPkiZNkCCesFtdjsEVlrIImDN9O2Q31EmurKWYwu3mR0KgG0vaZKpNm",
-                "mac": "yVUeqdzATCA2oAcwDRo5rQ=="
+                "orig": "A few of my employees will wait for you and give you more detailed instructions.",
+                "text": "Certains de mes employés vous attendent et vous donneront des instructions plus détaillées."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/8/event/1/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/8/event/2/message": {
-                "ciphertext": "7ufCFuSbnr7Upwb3qhTxYWLJBPUZnzuI/hr6ro+Uur4OzQhCCChdDHQCYAGEv3JD1fPGHaIHJx0yofl9K7gtUmfi7IfcRzTlfhjIwbuOgpCegps40nSsrkV/c7kvKPiNBwLL7l+vgbalDO9JRdoYfw==",
-                "mac": "70TtxvBL8DmUtOD0eV5dVg=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Please work hard for the prosperity of our city.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, travaillez dur pour la prospérité de notre ville."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/3/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/4/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/0/message": {
-                "ciphertext": "X4FoeZPBI6ub0SXIkNYi/Q==",
-                "mac": "xKd0yfBXiCCSO0RsQRa0pg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/12/message": {
-                "ciphertext": "2h6AL3MO+eRzbqQxeTc0lgssN5z0eem/+mEAeh+AQKOu+b/0oCDYwBeJuXSrggA4z6n05VsuXqr166+EcusMGdlHNQR1uiY5Udc4vhM888EZHkn5SGNEhOYBtqgVmaaUF52QZfP5qStaSvUgxY40VA==",
-                "mac": "vKyxGLQXpk1B4Eo2NDBJ1w=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/15/message": {
-                "ciphertext": "7LESxTLhdQxdKTV5A6nwhB1V8EekfRREDpZ8eRostzQlLUdxJnD618GB54S+uO9hn56z6Ux7XIU2w/QCwG8v5lmGw2pjILjy0l23vnEAqWf8djQfs5CbC+fVyQcK+jeH7AhSCAoyyCLz3LhEYWYDaQ==",
-                "mac": "KF70zHx5UVTWlofTYxHSbg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/16/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/19/message": {
-                "ciphertext": "dM+aizgYBT0e6JFmY73OfPsdiGIC3rzv7HgYH61lMPu86G08epiJ524CJt396pEhCYQ/y1/As42mLf/1mCT0Krtcuw4PcZxrDOnOvjtrg18HQGk1BdA/XuosqnCz9BlY8vIX8PeKI9hyxDOLqVh5tg==",
-                "mac": "MkI5XvZbvKASwBaLpugE2w=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/21/message": {
-                "ciphertext": "VTo8Uu8lF9N0W9I3iH6bRsIBnwcWSgzzSEFRhuyt2UbIxXYkzsFiCuqeBHii3GZskHqW5akG5Ca0Fr55sEEApDpBOUNvoh0womZh0Bh3rdM=",
-                "mac": "v1WyF4PL3RTdboAApOLIPA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/4/message": {
-                "ciphertext": "JGjXNbZl3CDE6nXJr6QH3lsarC/5eaI1fN0FiDY8G7xxEUAJCvq4JLrMGd1A6FJZdFNqPxvUDJGr0VHO2TUC7GTE1XuI+YLIbYjE7zrPlAIl3rCvJGOe5o8TxqBEs6QTL6bUxoSvmh14EbKyuWUGcQ==",
-                "mac": "WqNKdtlca/6IUtpYzzIjag=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/7/message": {
-                "ciphertext": "F7NZsA9E6T2LRsmGsP+oGEsohujKHdz6Pu7Bi+8d4irWcPq36bUcWwIBD4QYi4yLQdDEwqbjAq/ZZ3EE7jw+rqavZOMVP1hVkwce5leSd2M=",
-                "mac": "TI39ZbqtpkFPJsdV8FvVSw=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/9/message": {
-                "ciphertext": "mGnY9IHxmTe9yhSENnmEuQq+GR2b8zmJarkh+EYxZFo=",
-                "mac": "/KGFMU0PZgnc2InMnWaGvQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/thenStep/0/message": {
-                "ciphertext": "v7mVq8IOs/BW0PmaddHwZQ==",
-                "mac": "jnmvUjdCMGORump82c+6Hw=="
+                "orig": "Hi...",
+                "text": "Salut..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/thenStep/3/message": {
-                "ciphertext": "23NibsbRGJEkQre6dTkBJFIOfLt18rsICrZRf1ICWHMmSL/VFc5W1qSY2ydeKITg",
-                "mac": "Luh8RTtbAY0BC5oe6srJwg=="
+                "orig": "Well, well.\\. Look who came back again.",
+                "text": "Eh bien.\\. Regardez qui est revenu."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/thenStep/4/message": {
-                "ciphertext": "V2gKE2f1psiFuwNzT92Buqll9ZMNNYyi7H2RKea9UFpe2Su4vOTZGI8IYH7o0CZTf8oroF0SUNtj48CM0/Iq8QvV09dhfM78TCgyR9P6YYKTfoBkZUfUHvw6iW9JbtAd",
-                "mac": "INOuN9tUqh83uKmUwkYeRg=="
+                "orig": "Welcome back, \\v[lore.title.seeker]?\\. Would you like to help this gentleman now?",
+                "text": "Rebonjour, \\v[lore.title.seeker] ?\\. Voulez-vous aider ce gentleman maintenant ?"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/0/message": {
+                "orig": "Hi...?",
+                "text": "Salut... ?"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/4/message": {
+                "orig": "What is it, young woman?\\. Is it not obvious that we are having an important meeting right now?",
+                "text": "Qu'est-ce qu'il y a, jeune dame ?\\. Ça ne se voit pas que nous avons une réunion importante en ce moment ?"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/7/message": {
+                "orig": "Well, actually.\\..\\..\\.\\. You are a \\v[lore.title.seeker], am I correct?",
+                "text": "Attendez.\\..\\..\\.\\. Vous êtes bien un \\v[lore.title.seeker], c'est ça ?"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/8/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/9/message": {
+                "orig": "My, what wonderful timing!",
+                "text": "Oh, quel timing merveilleux !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/12/message": {
+                "orig": "Sir, this young woman should have the perfect qualifications to solve your predicament.",
+                "text": "Sir, cette jeune dame pourrait posséder les parfaites qualifications pour résoudre votre problème."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/15/message": {
+                "orig": "Oh, has she, though?\\. I am not entirely convinced by those new-age \\v[lore.title.seeker] folk.",
+                "text": "Oh, est-ce bien vrai ?\\. Je ne suis pas entièrement convaincu par ces \\v[lore.title.seeker]s à la mode."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/16/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/19/message": {
+                "orig": "In any case, sir, she might be our best chance to get your machines back in time!",
+                "text": "En tout cas, sir, elle est peut-être votre meilleure chance pour retrouver vos machines à temps !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/21/message": {
+                "orig": "So, \\v[lore.title.seeker], are you interested in helping us?",
+                "text": "Donc, \\v[lore.title.seeker], êtes-vous intéressée pour nous aider ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/1/message": {
-                "ciphertext": "hXd+xVZZ7NS4Gp6JKFeOA9hXIqzyap8dqiRUPjZADdJddRHKR/r+R1R/zR/6jrCsyxc9ssbJd/v2VXmHt/+9bWYUtFz4RJ6GnUKGBX1AufxGNccOCflOoUQ9/Wd+28ed",
-                "mac": "Tta2fAaj9aAVfLLHybU8Tw=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/11/message": {
-                "ciphertext": "7f7QbXOiyESSyNaYwZ3asMuSZC/xZv4vCkgkYgauxbmZPxJy7vIM7FCoYs3HhOE76qWmSpmYNXEc2KCeB1x+NeaLm/LB91V3hSlrpoIGIURkbUkFkTQzcVZOmA/kKTU0HS0erq+ihpua79fKhecqyJg1sIcxUyxF/gW5X+7q5IoLUQDx0lqortqTiAB4X7Pvo7OsL5g+U1Qmv3DEyub17w==",
-                "mac": "SiyxfSD+diFdr+lv2WF9MQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/12/message": {
-                "ciphertext": "WOZn8LLbqmgsMflV39ekl4UetY+1CXw3f/fT1tonTkC4z04X1s2tlclGGG0GjsnRy8fgku8EKmsf7bcvVrEMt0drog8K8DouKXpglGuygIXBnS7FIDICvUjf1XkBUfXsRBochN3MX4udIMaD3OifRFB17hBJRupuyI+H8Jvu0lMO42I8s37NthNErEZ/Ff6LighhMC0JKxAHZygRvI/eyiB97V7j6e/NiuvuHW2jkZM34BRHJ7OPWJxa4neDMNIN",
-                "mac": "Mb8ky4GUfr32oDc7tAuY9g=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/14/message": {
-                "ciphertext": "vDP7JEJ2qMoBdnRP6wgzFA==",
-                "mac": "d/wKgH6PqvqMqj02ySl+SQ=="
+                "orig": "Wonderful!\\. Then allow me to give you a briefing on the situation.",
+                "text": "Merveilleux !\\. Alors permettez-moi de vous donner une brève explication sur la situation."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/3/message": {
-                "ciphertext": "ge/Sm/2/QdpJ5DNaAfwEO2GiWHY+/0bN2gvCh5PuK33O4wQ5usatrjUOfnrD7A8kTAxa7LCAe4fZAAuXFdJc/Vhg336LGUYQrm2ZVRraMmeJCSa2BeRHzdXG0fBj6+OQlMUdJjNn5S+turmIhYQxvqewM4vm03A4G1/9cPd/t8k2ROfvBtHR9R9gnpbEm6XkKYZ5fzATgIrVskHQC/d8CBAoISo35jcsuksFpRGQLLM=",
-                "mac": "AUK9yT0ZYF8i5T5Gv1ReJg=="
+                "orig": "This gentleman is \\c[3]Mr. Tony Frigo\\c[0], head of \\c[3]\"Frigo Frost & Fire\"\\c[0], producer of the finest domestic appliances on \\v[lore.title.planet].",
+                "text": "Ce gentleman est \\c[3]M. Tony Frigo\\c[0], propriétaire de \\c[3]\"Frigo Gel et Feu\"\\c[0], producteur des meilleurs appareils domestiques de \\v[lore.title.planet]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/5/message": {
-                "ciphertext": "3GVT4HjxPjS0SS6HdRPHYw==",
-                "mac": "wOJOkO2FFBH7I+EubzffIA=="
+                "orig": "Hi\\.! Lea!",
+                "text": "Salut\\. ! Lea !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/7/message": {
-                "ciphertext": "P74ghHLsKoDagAal9AcdMSI4RgQwGqVLg61hk1MYancWADdtDosBZT28Mfquz7AO8NxJZ+b4ePOpxJmmEApzCAkOsX7Efh/K0Akfc92HlVC+zEK/Q2s2SOijNUCWK91aKGq9xHVt99pukgYDK8uy9ICR9y9MDwPsn9sLx0oQTblVkDS/9zU2aibetlUPl6kY",
-                "mac": "WSYZT+i50f2JIrKV877IwA=="
+                "orig": "Yes, yes, enough flattery.\\. I am more interested to see what your enthusiasm is actually worth, \\v[lore.title.seeker].",
+                "text": "Oui, oui, assez de flatterie.\\. Je suis plus intéressé par voir ce que votre enthousiasme vaut vraiment, \\v[lore.title.seeker]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/8/message": {
-                "ciphertext": "CxemgmMqs42p9wR/fT4oK1vtV6O8M/DRvtiWpIoAbI5FUyx8FLBbcPHMgw4W8UxKapcAhpOz0pfI8QPrAacYpk9tSdx27NhnqbyTq129PVvjkaDvsUSvrkA3/jOfQ6u5m88z8fQOBmh/IsKtZRia/ts7pLnZlRo/PFYuegbEUBIFOE+1m5nxzGM8VacEOvMtx4JyLJhKMDtnFSrlUjO3bwV53VD9MHGfobJv7HvYbXY=",
-                "mac": "wgEADk6G4lthyuGenByzhw=="
+                "orig": "An entire line of \\c[3]powerful cooling machines\\c[0] has been robbed from our hands.\\. Find them and I'll see to it you're properly rewarded.",
+                "text": "Une production entière de \\c[3]climatiseurs puissants\\c[0] a été dérobée de nos mains.\\. Retrouvez-les et je ferais en sorte que vous soyez correctement récompensés."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/9/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/11/message": {
+                "orig": "Indeed.\\. When the authorities were investigating they lost the lead on \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name].",
+                "text": "Effectivement.\\. Quand les autorités ont enquêtés, ils ont perdu leur traces sur la \\c[3]Vielle Souche\\c[0] à l'est du \\v[area.jungle.name]."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/12/message": {
+                "orig": "Maybe your specialized \\c[3]\\v[lore.title.seeker]-senses\\c[0] can find some traces that lead to the robber's hideout.\\. Please be vigilant!",
+                "text": "Peut-être que vos \\c[3]instincts de \\v[lore.title.seeker]\\c[0] spécialisés peuvent trouver plus de traces qui nous mèneront vers la cachette du voleur.\\. S'il vous plait, soyez vigilant !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/14/message": {
+                "orig": "Bye...",
+                "text": "Bye..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/declined/1/message": {
-                "ciphertext": "wYNDncy2qm9VGDIYnWiW5fMNktgwwDxaHopAfsy2VPjyMBffAV7af1bRRoC4YaY1jOOt67Ss5Lu3Bcjg4FvVT79og9Nkekg+SxX12hdV6i5orkAICKnjJt630s+4f8e2f4i1K9qjqbV7TqrGZvFmRTu8ssOxf+gBr/x8YBUM8mBjuKiLDnz9B9WtLp+uO4XLuABLiHoM9l6wClxsB5vpq/n8e2WyLfbn84CcPcAvUYc=",
-                "mac": "iroYPtmD1bfrLCl3pA7c9g=="
+                "orig": "Ha, as expected.\\. Those young people are too busy with their fantastic adventures to help us hard-working businessmen.",
+                "text": "Ha, comme je m'y attendais.\\. Ces jeunes sont trop occupés avec leurs aventures fantastiques. Ils n'ont pas le temps pour aider des hommes d'affaires qui travaillent dur."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/declined/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/declined/3/message": {
-                "ciphertext": "z8ZDtnkcCbAyw1poGB6b9d9Y9z4PLF7C5Ar3OevxkDZ3V/AqVB7I8sX1/9MM8fZtXrCsFutNo0xJlKcHcGBmN6935Fsmhnl3WTy6U2z7Eflzhs90pLhMg1sFDYiIvnIFVVZbbR8asW95+1RaESwao+2GaplSBU266Q17+UFSgSqYTqWmeQeGxBVs/mcg+MHt",
-                "mac": "yHWXRQ+LRT0h39lqVXF4Rg=="
+                "orig": "It is indeed a shame.\\. Please reconsider, honorable \\v[lore.title.seeker].\\. It would be a great help.",
+                "text": "C'est vraiment dommage.\\. S'il vous plait, reconsidérez votre choix, honorable \\v[lore.title.seeker].\\. Ce serait d'une grande aide."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/0/text": {
-                "ciphertext": "f4trguUN5mb+4KUmd6lqJeplzb2P5aRZS61r2AEVvgDPMpIj0XpQPCSIBzGbf1n18/ZhFalxQDBVZK0gxZwosZMDyDV2CbW6HjurSe795loQlJZm1GjsDBLL+9BLRxFJF2OC11u+u58jietbwgImLw==",
-                "mac": "DHAbfqcw2aQ/yeXIsyIKYA=="
+                "orig": "So you are telling me that the entire production line is lost and we can't do anything?",
+                "text": "Donc vous voulez me dire que la ligne entière de production est perdue et qu'on ne peut rien y faire ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/1/text": {
-                "ciphertext": "zD3tqapcaL+1q2DQZf2kcaxqEKkTLHmfbI92eIA15l1v/O6X16NZ1objwpOH1qoJ1+UDLNXHlFoojMXSNRMQPUpuJ0f0n48Wz31p6KpRHfONKf2U0iEuk64IrFIZyivZ/t4E8QqbDknSW5HTRZb5w2A8/gMGCjNEY+ADWcOfDhTod59AhsIiccsE1/e/O/gAN/vEVOV+aR9cRNBhFKWKl0ynf3u4JgRb8HDuCZebD4I=",
-                "mac": "N2GazRprwZJxYX2u1P+rJA=="
+                "orig": "Sir, we have already worked with the authorities but they lost the trail and currently do not have the personnel to intensify the investigations.",
+                "text": "Sir, nous avons déjà travaillé avec les autorités, mais ils ont perdu la trace et ils n'ont actuellement pas assez de personnel pour intensifier leur enquête."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/2/text": {
-                "ciphertext": "y5bjRdan6KDCQ9IingR5yTwj6JuG/PQEw8lCqouNoyoxigpKANQs7JOoRlqdnTxK9SnoeuaX76R62ysRzb2DEUkga04IMitFhppTcYJQ25aStLLo8pSXqNNE7fJ2NSA8pTWRvtISp2Q64oNwppFwuPZQdc1bXwo9C+zcLq9ye+yusVbLqoDldq/5B4IwS8Hsi0W9ePCAaJTWAlWgdkUgCw==",
-                "mac": "CIxXD1tFbnKY1g7ljIorow=="
+                "orig": "Our clients are relying on our cooling technology that got stolen and I am supposed to just calm down and wait?",
+                "text": "Nos clients comptent sur notre livraison qui a été volée et je suis censé rester là les mains dans les poches et attendre calmement que ça se passe ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/3/text": {
-                "ciphertext": "sEW57ZxoDILY2WjAw/2x2bkQAHdUYLlNnUYZ8mp20Ij0RgiD8T3TaKiwBQ2e5yWitQW5DJdkfkoBoeGPwTnAB4iJRFCRaOm/6aLUWeTQw7kYM9bU+vR0vcq833WISD/Ib1SFAUIu99ONkOstBE6C7KojmapEuxQGOhjyjdOqAYahSZoDXigEp2MNvpSf+7+iTa8ZxXdJlF4+X66EkLJ+8hlEV62oxuUZJwf+QVdXIni3dmQYMBAcpVTieihSJ9q5qtYmqNuUCeNxNv1OhQwQ4w==",
-                "mac": "8Eyf7hWDxdrHaDQnefaFag=="
+                "orig": "Yes, sir, we understand your displeasure.\\. We even requested \\c[1]the help of a \\v[lore.title.seeker]\\c[0] to solve this.\\. One might arrive at any second!",
+                "text": "Oui, sir, nous comprenons votre colère.\\. Nous avons même demandé \\c[1]l'aide d'un \\v[lore.title.seeker]\\c[0] pour résoudre cela.\\. L'un d'entre eux peut arriver à n'importe quel moment !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/4/text": {
-                "ciphertext": "a3LNeat8UG5Hm9dABvI2T1Rspn5hPy37u5/7B2B65J/xU6ys52vnCaWf+THR2Fd6QpKyuduVqOgJqPiCI0ApNZ6jqdlwRKcjiwU3AvHnPah4Tn0miOLapWjhmE21RXi9ylJTAQI6QZ0NzlcTp/Q3diLP4SOWBcfhqTODfdqrpL5tYaLn253avZleNO5CfzLz5UvN6HL4d4roLgWqUp0/lw==",
-                "mac": "SJQHMNlKDVfoxOm1FI/mHQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/10/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/11/message": {
-                "ciphertext": "m1sfGMWlVrhF/87My2rj4Q==",
-                "mac": "l9CELMJMpFGnHrfrl9ovhw=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/12/message": {
-                "ciphertext": "AQtZoxhZw9pmDE+D6SRi5e087S7KW59Yje2TFwhDMv8aRBiEJeaOZ/G+O8lJa7sJJxRi3ySe7osYmez0VI++Ewl9uvC7u3y8+6dJ18NINMfBjdnBb4DnM/gARA1MCXkXvbKRbmTfV9LPFWWLfum4yxsBpUTy82gEAC6vDAjiTXg=",
-                "mac": "GrjeFjdB9hi4S1u14dwnEQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/15/message": {
-                "ciphertext": "uk3Dl6aCN1KQ/Tekz14nXqf3EbpoY5d6W8P2Rmh9xnWj5UHmdELJCIwToNVzOFutzgC6EJ8lQpl7J0dvpZNvo8dOtRCZlMtrCmVmNqT9WxhvUkJgKy0maKWCaboZ+zamxSJYGfJP1Cw99Nvi1zqcE1Wy3lp6xLcJs4CRBJeTqwzdGzzoaijoaz/LOeS3vAEmdSvpJq4hq3oJsPM/LYl0oA==",
-                "mac": "FvGxCZYaaR45cxjImpxNcg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/17/message": {
-                "ciphertext": "EOkvfrCE6fDpHUkslG3GM+a0xSK+4kihvtg9zOLQrd4WkoHa3a5p5PCmFrQAiNnLSJCNVaWHF7B5R0faMF0SEQxNjJtbGUxjAxIrLGyuF2RrkKUtCSfr5U1yXuSckNpzlom2eZMmDqC+4v6oWEmAaA==",
-                "mac": "Ei0yBE4xzBT+euysUQgpAw=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/20/message": {
-                "ciphertext": "0zbNMdBQiMmkoC60QUxRMrix1vtX838blf3Q3r6gWV42veeAQCGtW8rDg0UfDrNer856vuF5oIfgVo3xydVpB+GAN/aD/V45efD8pPTzqFmklqYO2npwKVc2zTw1TefQ9DcB5LngeyUjVO+YviGdbhpL3Pq58vzknLn59WRVNJLfoztUOwOtkcG40TvYDXfN",
-                "mac": "0T9pEKCCA0F+ifdKPg3TiQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/22/message": {
-                "ciphertext": "DVF4T4IJmZwF3g04N8rKmCduO9UKgadQ2dhV/MfZ3hyEVtHT2HlijN4ebgSoCv8/5RkZ1UrErXAb5NGUEI3qs1U4x0N46s92H/Od38OK0iAeYgi7r8U5HDFrbE6AdeZG0/aMOTuFE8H/1MKRvre2z9lJLo4LpKH29x4rTZFSrgTmMEOILqAK+ivZiGKnMV/T3rLPjBRxte+qSzgBkby8dE4vi7SLMMnDt2z3NzeIRv4=",
-                "mac": "azmCkLEroiyGf8zxpSiXtA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/23/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/25/message": {
-                "ciphertext": "vpPFeG3pnVBnn+cJxcsCP4WoalYiYN3RXThSaDOkYNz05a7R1uDekqolt0ftawzQYjZFwPeT9wxDmLK7yFMQ7srqE/qs/+STmd2JF7OSXEfsk9SWvBEdts2Qj295hj/EJgfzu7rjbjHZn7vxSh+UfNFGlOfU+Cn2KDw7jPyfNojPK8vGN+ixVxcRT0s6iEW/eCz8nO8BbHfODRsmSSHjPAP5/THaWQOTUxXqQJwK3qTXJdKyr4Gz8PK1lWO0g58o",
-                "mac": "0nyjIHNFBODP9rPkhGsVsA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/26/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "\\c[1]A \\v[lore.title.seeker]\\c[0], eh?\\. I doubt that those will be of use when even the authority has failed.",
+                "text": "\\c[1]Un \\v[lore.title.seeker]\\c[0], hein ?\\. Je doute un peu qu'ils puissent y faire grand-chose lorsque mêmes les autorités n'ont pas réussi."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/3/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/4/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/5/message": {
-                "ciphertext": "v7mVq8IOs/BW0PmaddHwZQ==",
-                "mac": "jnmvUjdCMGORump82c+6Hw=="
+                "orig": "Hi...",
+                "text": "Salut..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/8/message": {
-                "ciphertext": "sKccrU9UPRnACfB/q5abP1CnECqtMd21rNIaROGYu1P2R8evQGFrM7Us8L5ydIht/g2PMJJn+yM6x2PFfFSH2L5bVh765ZVd6KcUG5sibkc=",
-                "mac": "1GMXFMMMTvx2c9dOS8V8yg=="
+                "orig": "Welcome back, \\v[lore.title.seeker]!\\. Have you made progress on your assignment?",
+                "text": "Bonjour, \\v[lore.title.seeker] !\\. Avez-vous des nouvelles pour nous ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/11/message": {
+                "orig": "Lea...",
+                "text": "Lea..."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/12/message": {
+                "orig": "I see... so you managed to secure only some of the machines before that criminal snow-creature blocked your way.",
+                "text": "Je vois... donc vous avez réussi à sécuriser une partie des machines avant que ce criminel des neiges bloque votre route."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/15/message": {
+                "orig": "An aberrant \\v[combat.name.snowman] from \\v[area.bergen-trails.name] invading \\v[area.jungle.name] to steal cooling devices?\\. This is outrageous!",
+                "text": "Un étrange \\v[combat.name.snowman] du \\v[area.bergen-trails.name] qui envahit le \\v[area.jungle.name] pour voler des climatiseurs ?\\. C'est un peu beaucoup !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/17/message": {
+                "orig": "Indeed, and it presents a threat even beyond this robbery once it properly settles down.\\. ",
+                "text": "Effectivement, et il pourrait représenter une menace bien plus grande si jamais il s'installe là."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/20/message": {
+                "orig": "Not on my watch.\\. I will instruct my best technicians to find a way through that icy blockade.",
+                "text": "Pas tant que je suis aux commandes.\\. Je vais mettre mes meilleurs techniciens pour trouver un moyen de faire fondre ce mur de glace."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/22/message": {
+                "orig": "\\v[lore.title.seeker], you have proven your worth.\\. I hope you will return and finish this job once preparations are ripe.",
+                "text": "\\v[lore.title.seeker], vous avez prouvé votre valeur.\\. J'espère que vous reviendrez et que vous finiriez ce travail une fois que les préparations seront terminées."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/23/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/25/message": {
+                "orig": "S-sir, how noble of you!\\. Well, \\v[lore.title.seeker], I hope you will not let us down.\\. Please return to us in the future!",
+                "text": "S-sir, quelle générosité de votre part !\\. Bien, \\v[lore.title.seeker], j'espère que vous ne nous laisserez pas tomber.\\. S'il vous plait, revenez nous voir dans le futur !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/26/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/3/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/4/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/0/message": {
-                "ciphertext": "X4FoeZPBI6ub0SXIkNYi/Q==",
-                "mac": "xKd0yfBXiCCSO0RsQRa0pg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/10/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/11/message": {
-                "ciphertext": "4wubeYLW1wGJxntfNc8lsmPplpyGkJin9kcXAqCPFt23KWwvfQGgvSnqdlJ1lVlG",
-                "mac": "rA6aZjsp82pClvpCEFsPzQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/3/message": {
-                "ciphertext": "m8zqwAoC8Wl/ABVle/ucTBbzU4zpeHIL4oTr3cw1g8WTHW/WYhEbfQLmSPRdZeyfp1hQ4urbvqmdPgVamOS352bBr34g78tCQKcU4gZslEV+y81Nb/u9n1bdZZ6nU6feOBDpsbwmiOVx+hPFpenh8Z4vC+u+01XbDBqaKnJ/pHZoWtFhP4ZXwT58leJZFW3cRcSEmDcDoTBcj5y3k1qk+INzYay0zfc7GvY1N4sXAPc=",
-                "mac": "al+OQUd+83Ol5lXM1Hdj9g=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/5/message": {
-                "ciphertext": "8CBeneqJ9P3i62OQyirwLYEsqwph96kicRGS1311WJPCBxfHDe/oTqCwOjk0aJc9bX80bN4RyL+Y5eetYi8KHm2Z5bVERqb8dL2KiP9GeBF1aB06UTCtGIASbar9l5xZGw+as67n6hcK2TWlD1dI0U2YlH69Zne0UEf+UKce/ndxcHWMKGAFG+nHsnn4BAqF",
-                "mac": "KnNyiHcs446JeU0c0A4J1w=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/7/message": {
-                "ciphertext": "6lH31P48LLGuoBRQQ87kudAc3RoYWVGnmvhcRoM2nYZbcnZCz8NdVXbiquxamygoIIHYJMsJhnzm6hKpwMrNg/PTuIcHePPKf39DKcJPeelCgVYRDxzR8qJHogjJSF+V",
-                "mac": "csyymjxTKQMvmHotf/RnDg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/9/message": {
-                "ciphertext": "WpF4XyIt2eDyvKeYYnkRWQXcX/VMAWNVRRPWwfH/MG6bdSjSYxISqnjt+8wHNjmDd2F8uUYC9TK2sfyYYcn6CaMTPP2PvrHBG7L+7cxSovc8c9rcDwDTUrQo51tqlttzD9NqrEEsji2pyPQkW1CdhQ==",
-                "mac": "EeiEbmfvjppSkFUOb7AYrw=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/thenStep/0/message": {
-                "ciphertext": "v7mVq8IOs/BW0PmaddHwZQ==",
-                "mac": "jnmvUjdCMGORump82c+6Hw=="
+                "orig": "Hi...",
+                "text": "Salut..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/thenStep/3/message": {
-                "ciphertext": "3y3r8hn8ehRDO/MoeV1imJ1PGiYzWF2h3tieMNAf2diS21sfBM08kBG4Mwljp4oUiuVeG1rYq2SGBa6+HB9N2lGFgSeCfGVVzmLeQ0bMtBpRlSvGBOMXguBpsl8l+PJb",
-                "mac": "wjJkBO7IqW+CHNSNqpO/cQ=="
+                "orig": "Ah, you returned.\\. I hope you are ready to finally finish what you started.",
+                "text": "Ah, vous êtes revenu.\\. J'espère que vous êtes prêt à terminer ce que vous avez commencé."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/thenStep/4/message": {
-                "ciphertext": "Wk9PE50WJlKqxCscrE+0Anm/45ZRMsDnuUysn0ubmmhFelMdebs8VErgD4XIs3Wr5/fAx1Kd4FB3wd//S2gYRkYJCtRUcdE6icgEKbPKC/E=",
-                "mac": "cd0jCJwf6mkE0utvnuwwmw=="
+                "orig": "Well, \\v[lore.title.seeker]?\\. Can we count on you?",
+                "text": "Eh bien, \\v[lore.title.seeker] ?\\. Pouvons-nous compter sur vous ?"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/0/message": {
+                "orig": "Hi...?",
+                "text": "Salut... ?"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/3/message": {
+                "orig": "Ah, \\v[lore.title.seeker], good news.\\. Preparations to finally subdue that dangerous \\v[combat.name.snowman] have finally been finished!",
+                "text": "Ah, \\v[lore.title.seeker], nous avons une bonne nouvelle.\\. Les préparations pour se débarrasser du dangereux \\v[combat.name.snowman] sont finalement terminées !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/5/message": {
+                "orig": "Yes.\\. Our engineers have redoubled their efforts and created an oven that will easily melt through even the coldest ice.",
+                "text": "Oui.\\. Nos ingénieurs ont redoublé d'efforts et créés un four qui pourra facilement faire fondre même la plus froide des glaces."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/6/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/7/message": {
+                "orig": "I ordered one of my subordinates to deliver it into the cave.",
+                "text": "J'ai ordonné à l'un de mes collaborateurs de le livrer à l'intérieur de la cave."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/9/message": {
+                "orig": "Meanwhile, the target has not left the cave, so you should be able to corner and defeat it.",
+                "text": "Notre cible n'a pas quitté la cave, donc vous devriez être capable de le coincer et de le vaincre."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/10/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/11/message": {
+                "orig": "So, do you want to take this on now?",
+                "text": "Donc, voulez-vous vous y mettre maintenant ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/11/message": {
-                "ciphertext": "ab4QdOXDQ3MM3e7qNRTZPAFhw+g+ncgUdr76y3N6eN6oKkzVQqLYp1S1O36e+YmD",
-                "mac": "20cN22lzcVs3EkJWQ7weGQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/13/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/2/message": {
-                "ciphertext": "8Cw35zvxrkgkZmKiW9Wp5uQHmXozLWS/oeWY7JMBaBrhkynIYnqS8d1uRaonHu/5HYfRnmwqlXKoftkVx+ILNVO16LvTnNuWo4Er96BnlW16db5jNTmWPmTVG//sw9GQ",
-                "mac": "b9GiVXij8k1wBYXQg1uv2w=="
+                "orig": "Excellent!\\. Mr. Frigo will explain to you everything you need to know.",
+                "text": "Excellent !\\. M. Frigo va vous expliquer tout ce dont vous avez besoin de savoir."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/4/message": {
-                "ciphertext": "PdnVqDf97XqqKxnBOI4xNSm0zKkAxSR3e0u6pTgayW7fKgtIWB69FZVFS9a0dSmSLizl+PEzzKoxqo/o4abt0khWHOxPYbeFB6ohWu8xnVxsv/AUVGOKqze+/K5srMUGfSVEWRTUpAtXQaAhc6vg3RncW2LiuEjWyx2ludA26oNUVVNwOHkI0RQchBaYe+/D",
-                "mac": "ofAUXbt3fKNwIR3FMqh5CQ=="
+                "orig": "Well, I will leave the details to my subordinates on site.\\. They are waiting for you in front of that icy wall.",
+                "text": "Bien, je vais laisser vous occuper des détails avec mes collaborateurs sur le site.\\. Ils vous attendent en face de ce mur de glace."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/5/message": {
-                "ciphertext": "KI7hXtIm2ARrFkCsnMzN9IDattoQjkxG/Blfk3rmS0sbOOdrKJkKa8eObWAI2k9ZvbHYRndF4hfM5Oofw7pRpqYgcP9zQSEo80U4CRRiP20psXV97QzT42vn44EPXqxjz7FzmNfvfLmjzWClisbzTOGZidNVow5OsM1kpObX0mc=",
-                "mac": "qgHGKPBGzHEB4mEbNyT+MQ=="
+                "orig": "They will give you a short introduction to our specialized heating device and how to break through the ice.",
+                "text": "Ils vous donneront une introduction à notre appareil de chauffage spécialisé et comment casser ce mur de glace."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/8/message": {
-                "ciphertext": "JBTw0mMekVDzC4pRKHy+IKUNljF4FjzmOoqY2FIER/JVw4/BeIBVM4JUPvVGOrWYRIIqqKp58sIS3NFcu5BNzw74/fKTVC8ipMthihaLb3x+VsZ1jIinhFTdA9s+V8k44g0kI9IK7IF1HYk84MimlgdV+A+ZxE47/+zoZmOsiQDdA4RLLeddcme5p3wqd0MRsTduD2vr8f2+CGGx76Uk2UcSXiXDokycSZ314OU3XKM=",
-                "mac": "LhBWSaJVn3IuiDKBI/QdiQ=="
+                "orig": "Good, then you should be on your way.\\. The cave is still in \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name], in case you forgot.",
+                "text": "Bien, vous devriez partir en route.\\. La cave se trouve toujours sur la \\c[3]Vielle Souche\\c[0] à l'est du \\v[area.jungle.name], au cas où vous auriez oublié."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/9/message": {
-                "ciphertext": "g6COA9TQim236YXA55MW0Ir+YioGzWNc9e5ZkpJwqkrW2BXFhhd0OISk4ZlaiTxsLzhFIgLqmyPKOshesZR35QdQECUuD4fIAebQsqi+WXOvevH43y8Z8h8rU3G0axog",
-                "mac": "Yy3y3au1gzJobIXDKp+a0g=="
+                "orig": "Good luck and please get rid of that scoundrel once and for all.",
+                "text": "Bonne chance, et s'il vous plait, débarrassez-nous de cette vermine une fois pour toutes."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/11/message": {
+                "orig": "Yes, and retrieve my precious machines.",
+                "text": "Oui, et pensez à mes précieuses machines."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/13/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/declined/1/message": {
-                "ciphertext": "Ong8l1XwDncNigejqzPW0VaDN/x/eqhBveyJDaia7uFUn10hr+Dbk023wTZXNIzcpYGBq3TTO72K4XPTETdE2pQgw6zFcKLo9xdmXNHYG3NOQsj9DLBmyRgnjSimolB6",
-                "mac": "XlXYhEU9UBt8UrWkrG3b2g=="
+                "orig": "What?\\. After we had to prepare everything you still need more time?",
+                "text": "Quoi ?\\. Alors que nous avons déjà dû tout préparer, vous avez encore besoin de temps ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/declined/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/declined/3/message": {
-                "ciphertext": "wi2A6qsctyjxMMcq2OJiubRJZW/WO7PQbuIcqIE5kAa1Y4chpaQrz0RaiVvru9c0N17pYeU+MOfMHWnZy2tHDnJmh8okusKFoEpA/1g3vCAgQ1hZeZbgBXW/C4J/KvfKJoISlAkuvu2niU9/2gvOflGbqhp298gQjnbWg2TY4rwNPPps2MjaIXwKbkZXqTck9y7tE8+eyfOBGcBGFdrchosSiVOv8O221cKn07CkrJQ=",
-                "mac": "W/szoR2aptczi5ZARzTOVg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/10/message": {
-                "ciphertext": "K4yez2q+aWtIBYDQlxndQ/tnztFvuOgTQkv8DErQWxu6lXbax886GgoI2caergoizUt89aeVYdgPpqemK1MSotvxJtAE0u9950Pupkw2LjRQqdzjnIxgrURTYhrAgLZa6OK9mqYT0t89Rr943jJGbAq5ZMivjfCQCfgIxiexx10=",
-                "mac": "U3CGoUnCWUEluySswyLp6A=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/11/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/12/message": {
-                "ciphertext": "MZ+7oyNwL3sZirN17yUNbZqcgJYtqaRjQhixDX8fPr4g/7gpKZjpzdnyBFUMjlKRkmUc683ZtRHfngGAnA/3bZIBFAqIJq6TYnwihsqozrs6xbbLe8XGmr4Nnf7sRpUBIUo+GjXAjQrZIy6d0S8v/s3DGxJkeLo1vH4nKUZ0czoxMn//84GXPnKXkZuB5gUIQAmWa/XSlZ0ABn7WPCH4kOc/PD9vymkkVCZ+srOeFq8iH9/ekoLRFd5iRS8H0kDV",
-                "mac": "6B19XFiZKF2HUe8BRb+pDQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/13/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/14/message": {
-                "ciphertext": "pnq2IOx/lGvkp4DAiczazZIQErcDmmLsSK1+cAgibCMjIpCIAgntg3uc2FwxJ+IvHueOVPfNs9BanfIVkk5S/agiv+r3UGHBwI8is2JPf2RtdsNm2buahrvwpkEvJreq31wR9Y49uSKqvtTBPHULMMX0UkHikRvMhBKB3oOG/Lb1Fue7fb0c77ns37BIEZfG",
-                "mac": "znFEsr93OU3thykx3H1/Fg=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/16/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "I understand, if you still need more preparation but please return soon.\\. This cold hearted criminal is a threat we can not ignore.",
+                "text": "Je comprends que vous puissiez encore avoir besoin de vous préparer, mais revenez vite.\\. Ce criminel à sang froid est une menace que nous ne pouvons pas ignorer."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/3/name": {
-                "ciphertext": "V6cQlsiPM98RekrcRu+MNw==",
-                "mac": "yXTroUQUqmuBDJXoJmpdmA=="
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/4/name": {
-                "ciphertext": "hGzvwxy9lt6s4e8FmLxHMw==",
-                "mac": "Q0JuOj6vGQTUF4C6Jt2wCQ=="
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/5/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/8/message": {
-                "ciphertext": "p73JVXhizwHIvmFM8cSUnpHfYYxUGm2PdQqfKKxUbehhSExXfh7Q6kFYoI1xY/mx5ShAdM6RCpY3ANtWRpUEqCKuG2fz1QVenzPidnz1WpRNVu/SDX7OcJJfWopncuTWe4B116s4GdooP+uUarLVDA==",
-                "mac": "32w2AfQLGRsWUfOUAFH+UA=="
+                "orig": "\\v[lore.title.seeker], you are back!\\. We have already gotten the news, magnificent work!",
+                "text": "\\v[lore.title.seeker], vous êtes de retour !\\. Nous avons déjà eu la nouvelle, un travail formidable !"
         },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/8/settings/npcStates/0/event/2/message": {
-                "ciphertext": "+ww8OisJV/bHQKNfnXhG3PnfJC6DRZvlESLFEwPpe/jkMdSAhJmXlXfHXn9HXb4k4IvWmOOZ0NlJyO3S7E+iDxrlh0DsUtJraPTvUTPcMGnXuGgqEWVrkbD+rz8f732x04CwOAGRCrwl0KRyJSEij+OE1BABP/Vhsp5VlMDSfLc1Mdpr+sPV5f5nCga6RXUzeBXdSpSFzPkqpYXQ+2weTw==",
-                "mac": "+zCYJmE/RPWmMlsLvNQe1A=="
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/10/message": {
+                "orig": "Yes, you did well.\\. Impressive.\\. I should have seen your worth from the beginning.",
+                "text": "Oui, vous avez vraiment bien travaillé.\\. C'était impressionnant.\\. J'aurais dû vous faire confiance depuis le début."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/11/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/12/message": {
+                "orig": "Be that as it may.\\. You solved our problem, so you will be rewarded as promised.\\. I put in some equipment that might come in handy.",
+                "text": "Qu'il en soit ainsi.\\. Vous avez résolu notre problème, donc vous serez récompensé comme prévu.\\. J'ai même ajouté quelques équipements qui pourraient vous être utile."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/13/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/14/message": {
+                "orig": "My, what a lucrative venture for all of us!\\. I hope we can have more work in the future, \\v[lore.title.seeker].",
+                "text": "Mon dieu, quelle entreprise lucrative pour nous tous !\\. J'espère que nous pourrons travailler ensemble dans le futur, \\v[lore.title.seeker]."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/67/settings/event/16/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         }
 }

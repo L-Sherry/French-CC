@@ -1,102 +1,102 @@
 {
         "maps/cargo-ship/room4.json/entities/21/settings/event/1/message": {
-                "ciphertext": "wc4c+0E3ITCavQfieCfPaEJZNM4kgC4OcCto6lDA+pKEk+E34q4KKw7dVF9ChuKJ",
-                "mac": "/DKqqE4lEqvgdQM6grCpLA=="
+                "orig": "Alright, good luck in there!",
+                "text": "C'est bon, bonne chance là-dedans !"
         },
         "maps/cargo-ship/room4.json/entities/32/settings/event/2/message": {
-                "ciphertext": "uuAsGuIl439QnWI88ymGsEHOuk3UEfHFj2DVmH34w1V3xyjdMN0epBnUppz2GDb7ILZyPv4sD9+0sDafyMZR2LAk/2XEoGPQu/ZXeGRlt1xnxuczmCLJ5sqVoJtG+58c4mKyPXx9wTyVwxrIsVel6w==",
-                "mac": "Y2FjCncnpx4ZZrFWVguK8g=="
+                "orig": "A bit of advice!\\. Hit them with \\i[tech]charged balls to cancel their attacks!",
+                "text": "Un petit conseil !\\. Touche-les avec des \\i[tech]boules chargées pour interrompre leurs attaques !"
         },
         "maps/cargo-ship/room4.json/entities/37/settings/npcStates/1/event/2/message": {
-                "ciphertext": "JOSVTMSdFGtS2QAmjdVx1RMOKvs1TtGfg48IUPCQDoSnY5bqhcqJNdeJ+CklmE/Uif6rG8lJThMzCSRmZjCxL7DSmMlcDUKVvzTv+jwZ400=",
-                "mac": "EhEg+faYqTGgdMkb+6fcdA=="
+                "orig": "Enter that arena there to start the lil' sparring session.",
+                "text": "Entre dans le ring pour commencer la chtite session d'entrainement."
         },
         "maps/cargo-ship/room4.json/entities/37/settings/npcStates/3/event/2/message": {
-                "ciphertext": "VRIBW3JrO5J0EpTErVRO8EQD8GrXYY8l7MWlM/38dk70pLFJE1iBmqoUGFA0y3Ty/GvOhCjvEhSELgrebCqJ7mTJCG9q9PuU7cetxaSLPFA=",
-                "mac": "11So3qy0bRb7u8qa5C7osQ=="
+                "orig": "If you liked this room, you're gonna love the next one, trust me!",
+                "text": "Si tu as aimé cette pièce, tu vas adorer la suivante, crois-moi !"
         },
         "maps/cargo-ship/room4.json/entities/42/settings/event/6/message": {
-                "ciphertext": "tAGgh0nC59FAscCOID8MQrnBYQbUrRko19rKz1jbM/TXIl7vvYrB2NGdXpJ1ziaCtYkmG4BxLOgKpTYrow7p5LQBsdduDSBsfOBhVQcb1opSumlSCVNYGvJ1K/hCg1PEykWfApZN6o0bDBVtGb1VXw==",
-                "mac": "WW4NIrLpnExEMCEdzXQqDw=="
+                "orig": "Yes!!\\. That was awesome, girl!\\. Sergey, you weren't kidding! She's really got a knack for battling.",
+                "text": "Ouais !!\\. C'était génial meuf !\\. Tu n'exagérais pas Sergey ! Elle assure vraiment au combat !"
         },
         "maps/cargo-ship/room4.json/entities/42/settings/event/7/message": {
-                "ciphertext": "r8EQq1IoKB4ktyX6bHtw98HLGrCum9zZx7lZ4FUfk8ApxF/0qRm8k2mtuMZEEQEi",
-                "mac": "UYX/D5ZQFg3aHDcj45hoNg=="
+                "orig": "Yeah, that sure takes me back.",
+                "text": "Oui, c'est bien ce dont je me souvenais."
         },
         "maps/cargo-ship/room4.json/entities/42/settings/event/8/message": {
-                "ciphertext": "0BZR8Zr3PQjfPAH/Sh76bQ==",
-                "mac": "0A7eDRgFBYbRwajIf3bXQw=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/10/message": {
-                "ciphertext": "qxXTIFGotkkTlOsGl+FkUdusZKwww60sWAnaTU9E9pzggtrp5VOuWydLSDz1knuM52vVyIvU+PGUmU08fptSVqWve0aGYG9yidPeVYYACJw=",
-                "mac": "+owLWUIOqr5IRC9fQ5Qspw=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/11/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/12/elseStep/0/message": {
-                "ciphertext": "P6u6FHK5e+2DjAcKohRWFs7EcgxvoEdoyUkoYfxXH8htWCKPdeFpW9cSyD9wNIghkr/HBqht49FBzvyHmZWauA==",
-                "mac": "jrA17ms+y4+yDUmWqzULCg=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/12/thenStep/0/message": {
-                "ciphertext": "vYSAFXbDc5HqdkN20uMCbK4oLtB4P8ohRubI/xjNHYNjnLqXhtIVYF14MYCaeBcH1XA0SEy4woXqjTklV1HNUMJhLDhfLn5kqFqGue1ylhB2zfmtstyOMHUZz73FdDh/E/xBwvPjpFdYcwGU7bAFJ1Jn0VX3dcAAIoE2ePvWdhg=",
-                "mac": "CIt3SE39jtFihXr7eJ5yiw=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/13/message": {
-                "ciphertext": "S/YpCfZ27+LZ7L/6Ef1vKi9+9Icrfvbvm92U+/vY4yLhPhFUPv8jnp6sYKmHQsREFkMI0g3wGwB1ATvfsoZZXQ==",
-                "mac": "g+4sIQ++0H2CSMPumDitIQ=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/14/message": {
-                "ciphertext": "kkQFsSR8WTLzCFBFms0ghw==",
-                "mac": "k1yunaGIdZWrudwQbmikGA=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/15/message": {
-                "ciphertext": "JVoumnl6o9Ugs25qOZKfYZoVhGnGRA30/qaRwU3hIzrEhFiK5wpQUWQU/dw+/mukM1o385yTOAnhmvAH0Iyh8pHerwc/D0HKMlmLCBnwyfuHBQUQto/8riJxM1dDOPJgFWniJB9ZXcgQvOVxO//vXg==",
-                "mac": "r6MBvHd/PHHRnUlX9zrdmQ=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/18/message": {
-                "ciphertext": "8cqsxp7ytTIPMDz6UeqtMe3kAgYzchHWFT4SZisFvhIiAYrT7aVCpvrXwns9pZRu2YgeQ+T+ghUrqDk+oB1mGmRwkwokyEw6g+zJhGuFWFhrcgNfLGY4KmS0znlwWSbm",
-                "mac": "NaewiHuvdCWzuRjyP6MBvw=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/19/object": {
-                "ciphertext": "IG4XACAPMmsIIHomKfmIHw==",
-                "mac": "NIuLp/sYXymoLbz0Md4u2Q=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/20/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/21/message": {
-                "ciphertext": "12BIoNoLLm12k1RxtzuNxQ7+OysmRE0ZLNNlvcSbs4tzrAXUpQPx+EUP3PoNaGLi9mVQg/uIg/YFGWgZsBRKVI9GPjJOL6a6uMJnlgBb7RlhtBz/LxsemYDGzBGIzr0wvWNxbvjFv/PmsdezYnWBYKEZ14abQvpJO6YwZPKIjMk=",
-                "mac": "924gu06YS3qeqiE0f4e3lQ=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/22/message": {
-                "ciphertext": "BGrTuBU4e0VF222NbeeiDvGIpM2M/USvnrCEuVf0vy76GXZAtj2tqR41eD6J18dyyF5dqfqTTryoI23Rzsoje4RoarYZVGm8xjP5Q/NNF0BRr4Lju1PWZbedWu/T6+1a9PFrDv0oALFVZ5aQ4Fw+1Q==",
-                "mac": "UhiinPjy7ZlbIJbuZcm4SA=="
-        },
-        "maps/cargo-ship/room4.json/entities/50/settings/event/25/guiInfo/settings/text": {
-                "ciphertext": "N35AdOUzUMSXCoqsINFvP+hrodjyiGCpZYmyBh0dbwPO8yjHFmwZQWVVHsASf9rEZExtcZhH3+rEkHTfdm1ggophYndKhMxi5EEZ35pApbRi4JAAYYxPONQADZ+6Kzu4B75C9fEioFPXpEPoI0tCwYXq6ccsmjoYwuH6ReAa30d5NKDxvoL8bH2JiwqCsS+8wZ4hlV1t+7O4v6rAnaRGzmGujXjBpNKMdyemdWrgHMo=",
-                "mac": "Leb8PwUNuQRIHwHrfW2M4w=="
+                "orig": "...???",
+                "text": "... ???"
         },
         "maps/cargo-ship/room4.json/entities/50/settings/event/7/message": {
-                "ciphertext": "nHRXPRoKagu17wudHRp45PRN51s7e8d8NVW0Hbap+WE=",
-                "mac": "BGWDv7NAln11nquha74JOw=="
+                "orig": "Whoa, slow down there, girl!",
+                "text": "Whoa, soit pas si pressée !"
         },
         "maps/cargo-ship/room4.json/entities/50/settings/event/9/message": {
-                "ciphertext": "8h4b7vueYZJJgfJAPHIvKHSz+9dkWM+GDQUCKIq+1R7BJCpoJhmDF97lwMEJqK8sZMudn5FXfH/Njo5Gj3bvHnggU8p7ZhE7DMJbbdNsE3+HvD683Pyv8aE/so2aI4VZ",
-                "mac": "gIlr5kk6mOwxL4LbEvoHxA=="
+                "orig": "Just a short warning.\\. Here you'll meet your first \"real\" enemies.",
+                "text": "Juste un petit avertissement.\\. Ici tu vas rencontrer tes premiers \"vrais\" ennemis."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/10/message": {
+                "orig": "And by \"real\" I mean those things will, in fact, attack you.",
+                "text": "Et par \"vrai\" je veux dire que ces choses vont vraiment t'attaquer."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/11/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/12/thenStep/0/message": {
+                "orig": "Not that it's \\c[3]likely\\c[0] they'll get the chance with the amount of damage you deal, but anyway...",
+                "text": "Bien que vu les masses de dégâts que tu fais, ils n'auront sans doute pas \\c[3]l'occasion\\c[0] de le faire, mais bon..."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/12/elseStep/0/message": {
+                "orig": "Don't get me wrong!\\. They're really easy, but still....",
+                "text": "Ne le prends pas mal !\\. Ils sont trop faciles, mais bon..."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/13/message": {
+                "orig": "If you do get beat down, your respawn point is right in this room.",
+                "text": "Si jamais tu perds, alors tu recommenceras à partir d'ici."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/14/message": {
+                "orig": "...??",
+                "text": "... ??"
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/15/message": {
+                "orig": "Uhm...\\. that means there's no real danger!\\. Go ahead and kick some ass!",
+                "text": "Euh...\\. ça veut dire qu'il n'y a pas de vrai danger !\\. Continue et va me botter leur derrière !"
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/18/message": {
+                "orig": "Ah, just a moment!\\. Let me enable the dash module before we start the battle.",
+                "text": "Hé, attends !\\. Laisse-moi juste activer le module de sprint avant de commencer le combat."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/19/object": {
+                "orig": "\\i[tech]Dash",
+                "text": "\\i[tech]Sprint"
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/20/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/21/message": {
+                "orig": "Dash is essential in battle, since it helps you to quickly dodge enemy attacks at any time.",
+                "text": "Le sprint est essentiel au combat, puisqu'il permet d'esquiver rapidement les attaques ennemies à n'importe quel moment."
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/22/message": {
+                "orig": "Right he is!\\. Now please enter to the right in order to proceed with the ass kicking.",
+                "text": "Tu l'as entendu !\\. Maintenant dirigez-vous vers la droite pour distribuer des coups de pieds aux fesses !"
+        },
+        "maps/cargo-ship/room4.json/entities/50/settings/event/25/guiInfo/settings/text": {
+                "orig": "Press \\i[dash] while moving to dash, though only up to 3 times in a row. You can dash at any time, even while aiming.",
+                "text": "Appuyez sur \\i[dash] pendant un déplacement pour sprinter - mais seulement jusqu'à trois fois à la suite. Vous pouvez sprinter à n'importe quel moment, même en visant !"
         },
         "maps/cargo-ship/room4.json/entities/60/settings/blockEvent/3/message": {
-                "ciphertext": "wKv0t0XpK9c/PWrN0Z2Rt52Q4SrQOCQoB6P0nHqSwmZwqtV2bxiO01DdrWpLgx/mSJFSEavr1WUXyddoPoY9rfzyeDQ1qQGsUTv8QP/u1VA=",
-                "mac": "m7ro8+aYfXbGrw15O6Elzw=="
+                "orig": "Wrong direction, girl.\\.\nGotta reach the teleporter!\n",
+                "text": "Mauvaise direction, Lea !\\.\nIl faut qu'on atteigne le téléporteur !"
         },
         "maps/cargo-ship/room4.json/entities/71/settings/event/0/message": {
-                "ciphertext": "VoHoEDelJYpmAtaJLJXlrz1/oGnRnJFv4LqR/7k1V9/r21D+PvUVpfxzco6fBuvwjbnySn80B2fDGIJ//yxMWw==",
-                "mac": "/gILdUaU0oHI1prNKPuPTQ=="
+                "orig": "What is up with your damage?! We do not approve of this!!",
+                "text": "Qu'est-ce tu as fait avec tes dégâts ?! C'est inacceptable !!"
         },
         "maps/cargo-ship/room4.json/entities/71/settings/event/1/message": {
-                "ciphertext": "Z2WEbc43bvWZf5X9rylT54rHfQtMYZu0+2xnxS1VZXA=",
-                "mac": "Re/Jc0NQ0uJxyM7UUk5jsA=="
+                "orig": "\\c[1]...!!\\c[0]",
+                "text": "\\c[1]... !!\\c[0]"
         }
 }

@@ -1,881 +1,881 @@
 {
         "maps/rookie-harbor/inner-info.json/entities/25/settings/analyzable/text": {
-                "ciphertext": "fe1yyNBtZkQVPZFWdB+Qeg==",
-                "mac": "ldGMu+n6AmwXA4tFyqMjOQ=="
+                "orig": "Info Advisor",
+                "text": "Conseiller Info"
         },
         "maps/rookie-harbor/inner-info.json/entities/25/settings/npcStates/0/event/0/name": {
-                "ciphertext": "fe1yyNBtZkQVPZFWdB+Qeg==",
-                "mac": "ldGMu+n6AmwXA4tFyqMjOQ=="
+                "orig": "Info Advisor",
+                "text": "Conseiller Info"
         },
         "maps/rookie-harbor/inner-info.json/entities/25/settings/npcStates/0/event/2/message": {
-                "ciphertext": "j7WXPsWEFF8tLmBOS+J90GcM+44x2YOJn9SOh3o10G8OuJNH3eU9SF79mHz/awrv6FtTcSqRNAKPBsnWPcBN98fvGLobWHIE6GKA/QyHddZvDJor4BsAsUOpSdR0H8gm/HjC2CatKtMwJKlmdi8VJOBEG0DcORCrGSe1RO69BRZD/bhA0lyn+/nodERvZq0t",
-                "mac": "/iFaY2MKFqiiVs8CPBvD6A=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. If you desire more in-depth knowledge about your abilities, talk to our experts here.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Si vous désirez plus de connaissances sur vos capacités, vous pouvez en parler à nos experts ici."
         },
         "maps/rookie-harbor/inner-info.json/entities/25/settings/npcStates/0/event/3/message": {
-                "ciphertext": "GhGi82SliLCEt0ZXYXceYT1Hb1QA1VdYRh4UnqLtVuIKSLjf4VGdqTC2gEVAKurBWaLC0StSh01Nr2YGYvqC5Up76ZprNPf4sNIZ93UMitxON9X4y/zVFDaebuBGHkDGQfcf2fITlCQnfm3yKH9qcVXBYxplSW+iZfnHTxwABdYx5+XzJGx6PffrdoIqIxIb+GgRp4PKhJnVBQVnIc6ZEw==",
-                "mac": "83t9vVycj00mlsZX/kvj8Q=="
+                "orig": "Also you can reset your skills using a \\c[3]\\v[item.428.name]\\c[0] using the \\c[3]Circuit Reset Terminal\\c[0] downstairs!",
+                "text": "Vous pouvez également remettre à zéro un circuit en utilisant un \\c[3]\\v[item.428.name]\\c[0] au \\c[3]Terminal de Remise à zéro circuit\\c[0] au sous-sol."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/analyzable/text": {
-                "ciphertext": "iTehIaZ1ktv2EYlyZkDlog==",
-                "mac": "ZDWD4zYo8J9eDniDFwrRew=="
+                "orig": "Mys Li",
+                "text": "Mys Li"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/displayName": {
-                "ciphertext": "95VLFVLc1KX2N2Y+3/bEXQ==",
-                "mac": "3zB5QZOYrTRa4f82pT10yw==",
-                "ciphernote": "7Pp1GYl/hFm48bVfcabD1w=="
+                "orig": "Combat Artist",
+                "text": "Artiste Martial",
+                "note": "de is senpai"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/0/name": {
-                "ciphertext": "iTehIaZ1ktv2EYlyZkDlog==",
-                "mac": "ZDWD4zYo8J9eDniDFwrRew=="
+                "orig": "Mys Li",
+                "text": "Mys Li"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/3/elseStep/0/message": {
-                "ciphertext": "lXDBUC9w/rbxVaqAqYN9yOoGQuPll42CqQEPMfBIlr7aIr3tBaQ+mtaqcfLqVvlNOCeU0EYdWrc5LLwYn2eUPWKUNkokcp+zlVANd5mO9QU=",
-                "mac": "soNk//hg9gT+m+0lq8Z32g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/3/thenStep/0/message": {
-                "ciphertext": "OfcMIfgfHmR1yKI48WbfmLHbpggWaPYBXhwUKkgSQNT/qyyKks+1FzoYBcP+rPD6KcXBTurWNR4TwuaAoTA8pOU9oy3nE7t/5z5vl38+w19TI6kHez38bWfWtkneml+H",
-                "mac": "YkXezi+vyqqHuh6X5H604w=="
+                "orig": "Be greeted, \\v[lore.title.seeker]!\\. I am Mys Li, grandniece of the great Master Sensei.",
+                "text": "Soyez le bienvenu, \\v[lore.title.seeker] !\\. Je suis Mys Li, grande nièce du Maitre Sensei."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/3/thenStep/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/3/thenStep/2/message": {
-                "ciphertext": "plAX1LuEwBey3eg/verY5HJthaFTdTjEzUKj0Z8/b93RFzv3C9W6XQNc3y/TH5ZepjF/yHR5H+lKLXBE46VwarBjf/uPbPCg0CVspVyjHxgb8TJxSvbGnwfE9SKR8KZLKictGZ3arZ22Y7aZIAZKYtGwB6PU0jPfZIvcDrMOt/tGGlHYShvdSemU3J1MzYRe5Zx0DZrO2PgEFF4blZdIXA==",
-                "mac": "qwnK9Vyuw+RFmRCzTxcYEg=="
+                "orig": "The art of combat was flowing through our lineage long before \\v[lore.title.seeker]s were even a mere thought.",
+                "text": "L'art du combat coule dans notre lignée depuis des générations, bien avant que les \\v[lore.title.seeker]s ne soient qu'une idée de projet en l'air."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/3/thenStep/3/message": {
-                "ciphertext": "ZwVyHnVM2ohXQD3cyFugPIHYbxdu3i5+DFgrccPDnkqNYyyyaYNXspKwqaovrdP9S7ji5U4MJa4VRxuJ9vlxWwV9CKFxpjaipCsXXgnke2xeHqJUZYFJrXSRycg7vz9u",
-                "mac": "hvjq3WH12SWjaUfkI0LyHQ=="
+                "orig": "All that wisdom can be yours, if you are willing to learn.",
+                "text": "Je peux vous enseigner tout ce qui m'a été transmis, si vous êtes prêts à apprendre."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/3/elseStep/0/message": {
+                "orig": "What aspect of the fist do you seek to refine?",
+                "text": "Sur quel aspect du poing souhaitez-vous que je vous en dise plus ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/0/message": {
-                "ciphertext": "2MHBH26jTAWltMMgloUuX8DuubtmoOkRZvrQRyEJcM/gAbfmZ8hrOuiLo3UF5w5o",
-                "mac": "RZnQX1Pz/RQ+Vv2mbjMbZA=="
+                "orig": "[nods close combat question]",
+                "text": "[acquiesce la question du combat rapproché]"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/1/message": {
-                "ciphertext": "OYQm+eWt58X2UEidRB45WjxOqBQNCs2GBHanjyyS3HWSxqeG3arfZsaUJ+hK71mUAMwGrrgVRr5sAPbYwpyx5jrPMizzZMRYlQ8oLh653tU=",
-                "mac": "frmJObsijSC09e8BzbEIaQ=="
+                "orig": "Yes, the art of close combat is indeed fast and powerful.",
+                "text": "Oui, l'art du combat rapproché est effectivement rapide et efficace."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/2/message": {
-                "ciphertext": "ZZMDlyDMSY4uOrRDL2n5FkO+TS/rAeVW6uQJLW4G+b84OyLhmaaBqBxowST1X0wlWpsm9ylbE2eJHwiIAen2q2oTlgR4DxOMCSgPPHWoRBKJ+BrkUouBWTuM953M2BJh",
-                "mac": "ApOJVZl/PAc45FBbn0IAig=="
+                "orig": "Even groups of enemies can be kept at bay by skilled fighters.",
+                "text": "Un combattant expérimenté peut garder sous contrôle un groupe entier d'ennemis comme cela."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/3/message": {
-                "ciphertext": "OVyXue/Yb/L6Vey86Shm/6K5eEH3kEeNqw004mIokBiEe0wmdasdBqf14Ii2AViMHeMmrq0lXQLMgcswCY8ZpBVb/kwZ/OBzkwQTyH7CEQHLqZfC8+6KooWJ4dL0sJXZc5afEDvBe2u8goBrvXOh+iCSWy97zW+KxiFAKx4zI5GCEy2hKzg1SkkdbAhh2qDoUaQAG4mNLMdMH6HSnUzr4g==",
-                "mac": "n8jmXu8PXGR7AIJy2RNh/Q=="
+                "orig": "You, Spheromancer, will execute a series of \\c[3]3 swings\\c[0] followed by a powerful \\c[3]spin attack\\c[0] of great range.",
+                "text": "Vous, Spheromancer, vous attaquez avec un enchainement de \\c[3]3 coups\\c[0] suivi d'une \\c[3]attaque pirouette\\c[0] puissante avec beaucoup d'allonge."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/4/message": {
-                "ciphertext": "pOxafiRuY454E3HTwvv/68VsO/QGVzlPaeWg6Vwp0rlazajTKbYKiccwmXOrhr7vQhLlpoGIpV2I2JcHzGbNRIegNKjcwny4xEGnQ4pzglufJ+DKvNyq42usj+i3W4r4sSjgVxNkYCR7SKpPi6/ehg==",
-                "mac": "hoU/mG08XQ+YVd7eduIVtQ=="
+                "orig": "Though the last attack is rather slow, creating openings for counterattacks.",
+                "text": "Malheureusement la dernière attaque est assez lente, ce qui laisse l'occasion à un ennemi de contre-attaquer."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/5/message": {
-                "ciphertext": "cldkqMk0N/E7jVypzJjMnzaxmJnR9Fhzou4yry/CaKqsymEBXw4qxn9uFtnWlFaWNoer4GuOgX/7srA2zAvZEz6lPItTwt+mjSRdiIgYZB0ZCGgdsMsMmIuL2j5EPTfqW4Hj4GYVagrhQQM2Jyfa04dudfMTvaFQwKUfcCDRaFj32X5vKboTNPvsGe+xs4y+",
-                "mac": "h3CIv48E9+odycMrP8iB4Q=="
+                "orig": "Thus a wise fighter considers \\c[3]dashing\\c[0] out of a combo to continue attacking without delay.",
+                "text": "Un combattant avisé va donc chercher à voir s'il peut \\c[3]sprinter\\c[0] pour sortir d'un combo et continuer à attaquer sans délai."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/6/message": {
-                "ciphertext": "bgFrGcjsfbOlIxqZo/cN7+fhi5nZn237OxjTGfA95HZ8WU29WJzbUOUdcu6jiWBFOtI5iYkeg5M6xyzpAQjo7NGl5QySx02u81sxSF5sqZX4HTzqID8Uq+s5FZjh++Qwtzg8CdDJCUvo1QGQh6YoIaXgJrhJtdsuyr2fZKbDShSJU64J/diXY3yTVMzRrpVHhDwnC7NfQIuOoaTMQIrfYw==",
-                "mac": "vWpebRJQyAu+5wp8If6qtg=="
+                "orig": "This legendary technique is called \\c[3]dash cancel\\c[0] and can be used to cancel almost everything.",
+                "text": "Cette technique légendaire s'appelle un \\c[3]Sprint d'annulation\\c[0] et peut être utilisé pour raccourcir presque n'importe quel délai d'attaque."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/0/7/message": {
-                "ciphertext": "bDH2bmjEJvqphUM+YQJ7eMdK3OpyFhTz80mBltTon74=",
-                "mac": "HR7JHkix9DGjFHa+n5tn5A=="
+                "orig": "More questions?",
+                "text": "Vous avez d'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/0/message": {
-                "ciphertext": "CXFR7/t0Fyb1dHKDnCgj9s0KCBGLwAMgFAc3VhYGRzgZcSzsKpjgcWDx8u93dcSA",
-                "mac": "REpmtAt2OhZ3U0k9Lz1aaQ=="
+                "orig": "[nods ranged combat question]",
+                "text": "[acquiesce la question combat à distance]"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/1/message": {
-                "ciphertext": "0LmqoR5vGjs3o3bw+EVjA57DZDLT4bN3at731J+uM1Hf5FkgswF7rwBYgNoeK+byp7QnG54yBHRLRb4xPgsAEuI66c9yRHD//7/51Cfpzga1EQ1RcKCQCrzEkE3r74d8xnK5fxlOb13WetaDFK7FMpPBzTjPQt1g66QV72uc5AUGFY2AajXA3vOldXNqh5ea",
-                "mac": "e4rYA0r/qRDeJDd9uhE14A=="
+                "orig": "Yes, the art of ranged combat is useful indeed for it allows you to attack your enemies \\c[3]at a distance\\c[0].",
+                "text": "Pour sûr, l'art du combat à distance est utile dans le sens ou il permet d'attaquer les ennemis en \\c[3]étant éloigné\\c[0] d'eux."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/2/message": {
-                "ciphertext": "Nz8joK0sjWz24qrIMR6mzugL/p4b64nqZ0HRQqmezYfS63iqDyj2yUcjDZrslxgFMSBualuoyx1lcyGZprT4Ea2b8X2lhK7TQFCLHdAYFNUZFrx6heco7Y4c2ArX4/e7pbSUza7in0NwxodBvBruHYyKNqVXOaz+4VVPGEExNdo=",
-                "mac": "VVNXCD35ywVkTGs6TrY4fg=="
+                "orig": "It can be divided into\\c[3] fast volleys of small projectiles\\c[0] and \\c[3]well-aimed charged shots\\c[0].",
+                "text": "Il comporte en gros deux parties : les \\c[3]rafales de petits projectiles\\c[0] et les \\c[3]tirs chargés et précis\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/3/message": {
-                "ciphertext": "u8sry3SbGJ4fq/C/x4ioW90B89ftS6NZ9Pv5QMk9MRCj0cuIjnjMcU/OJnkIVy51Yi1OHG36y/j/9+1Q6K8TT2B1ih1H2lvX6NGK5NQHS1oqrF4FOBAC/75yIEKZfFugBqSj+4szk0KnEIvP4nacXNoftOTJYI2BHq++fJtrpHJedcaaUvj6chjoGfqsZoVGMYVhXu/Caawzfg+sSdgROg==",
-                "mac": "VB3rN2JVyJO/yclF8BKQoA=="
+                "orig": "Quickly fired small shots are one of the best ways to \\c[3]deal a lot of damage quickly\\c[0] as long as you aim properly!",
+                "text": "Les rafales rapides de petits projectiles sont l'une des meilleures manières de \\c[3]faire pas mal de dégâts rapidement\\c[0], tant que vous visez bien !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/4/message": {
-                "ciphertext": "gFhnWB+1Ko3CCe6OMdwUV9keOc/XxtC2NU20eQhPgZgfaYMCilAlqXZ2wICWrOoPYiC8dqniAgFjSERbWha158ug1zp3ZilG6fikvRa3/viok9iQb0n2nlhrn+QcJMY/OSRhWXh8TM1QEaAkgIjgzykrHpTnycuXq6aea421x9Fxcc3q4Y34nLesbwj4oDJl",
-                "mac": "padczakeImg7bOJUetA58A=="
+                "orig": "But keep in mind that impatient throwing will \\c[3]slow down your aim\\c[0]!\\. Better to aim properly before you start attacking.",
+                "text": "Mais gardez à l'esprit que lancer dans la précipitation va \\c[3]ralentir votre visée\\c[0].\\. Donc il faut mieux viser avant d'attaquer."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/5/message": {
-                "ciphertext": "cMwxZjTKsXl/Rjvauschq2ntLNqzDytpQ47FxgL4SuE9ocMijQydmATZAC5DWkj0P78ASUqIHprW7q0hVUgEd62mA5m3rsfpDCLcY53DaCJocTVG7LHW9iu/b+Oakz8c6Nc/mAbCz1CIeJKrVaGmI8PMYeF3zMWmF/vRA+lwiFI=",
-                "mac": "P2+xvNwOcNMqpWUETfs97Q=="
+                "orig": "Carefully attacking with charged shots, on the other hand, is \\c[3]a less efficient source of damage\\c[0].",
+                "text": "Les attaques précises avec des tirs chargés, par contre, sont \\c[3]moins efficaces pour faire des dégâts\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/6/message": {
-                "ciphertext": "o1s6ecu0SPxGJLfdTEK2ig0dWMWjypOSB6ijFqYo5Md9Xmo1MY6SAGj9dXdYip/F570kKVVtFrjQ1hLhnS+5xynmIr5gKf7CAU9+tkPgljJUxZtiRUDL9Re1lerOKJonzuUSmhmiL5vpfqjlo+sNEorfkg0cQ/aVOdIxGdiOuk008aVG9KtL29iv8lOJf9aj3D6Auuoc0Vpz9oaNGJ4b2n1cCuXpm1qF/kj+unPCTkeT+37sWSjrRlEn3cQY91RaZvpp5S+ImIHF+QNTfMyJCA==",
-                "mac": "pETXZ4qo+w5HSLBHNKLBvw=="
+                "orig": "However, they cause strong \\c[3]knockback\\c[0], can sometimes \\c[3]break\\c[0] your foes and, when used with an element, even cause \\c[3]status conditions\\c[0]!",
+                "text": "Mais par contre, elles \\c[3]poussent\\c[0] fortement les ennemis, peuvent parfois les \\c[3]briser\\c[0], et si on les utilise avec un élément, peuvent provoquer une \\c[3]condition d'état\\c[0] !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/7/message": {
-                "ciphertext": "Wn66Ovr6TCChtyGNPULs+cAWhnhCOqYqGsBBQ882R5mpZTbCgqR9ar3uJmKcnzSALBAE3Gr1WVB2Mmvlfoi94DW9lVM7xUf7aISJcr94b+jmwVyJ019MswPXyeBykL/j4ntOb8jE0VEu/SnbgjbZ8wbt71Z/Om6iHPhUYo+gde8=",
-                "mac": "RZkOJLbPkbt+HU8JQWU1Aw=="
+                "orig": "Also charged shots will \\c[3]ricochet from solid objects\\c[0] thus allowing for attacks from surprising angles!",
+                "text": "De plus, elles \\c[3]font des ricochets sur les objets solides\\c[0], ce qui permet d'attaquer depuis des coins surprenants !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/8/message": {
-                "ciphertext": "WUtiotQl9TuO92pCA5qk8qgWb95ysn8Fh2LlG/fkEIvAY/8Hy66hZ1LpsN3nVadZsVvqbEWNxLY170mlf1wBRKmI3O7f5327uIx4U3Erny8glpTuzgwRseNH+Hcj5glTJCCLWD2VVGccGxhgDQexdw8hvHoiBNE4DU3dAGhQVIdoIuA4mr9aaTGOKjd1zhhPlAZp5XwROeoyHkqbYtgg27tuAc+dsX47kKrZPEiCTxY=",
-                "mac": "YX2fKAiaT2QkXi/TM2aWpw=="
+                "orig": "You should know, however, that some enemies are \\c[3]resistant to ranged combat\\c[0].\\. Melee combat will have better results in those cases!",
+                "text": "Par contre, vous devez savoir que certains ennemis sont \\c[3]résistants aux attaques à distances\\c[0]. Dans ce cas, combattre au corps-à-corps sera plus efficace !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/1/9/message": {
-                "ciphertext": "ariOcltNCXXVTc2ibi+bpi1dzCLT9vvvopnYwPdqH90=",
-                "mac": "wwSKpbgEKAMmU2eFoWcg6g=="
+                "orig": "More Questions?",
+                "text": "D'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/0/message": {
-                "ciphertext": "FuUWV0xWA1ScYYTR2jJG9+MdOihTgQAteUYi4iINYpotbNyIYlp6o7l3yOghZVWo",
-                "mac": "k9tOYDi31+vl2tHE/saldA=="
+                "orig": "[nods dashing question]",
+                "text": "[acquiesce la question des sprints]"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/1/message": {
-                "ciphertext": "EZMiBKteLMEBxEHLJ0HXWLBbUivUI/okCLyOHiEDkTPneMG/oKDTjQRwvCYEPw28jW5yjtoG+pbLKyosvd+36e6dF179Y3lkkEPojeiYR7cWD8DgNb+p1AebjcRZEdmhuzcn5CVupxYwsudQ/nrqQTMSq8tjaTWONBn2IOQE24w=",
-                "mac": "TWrdvKrLUuN4gNekrHn1ag=="
+                "orig": "The dash is an essential technique in fights and allows you to traverse short distances at blinding speeds.",
+                "text": "Le sprint est une technique essentielle au combat, qui vous permet de traverser une distance courte à grande vitesse."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/2/message": {
-                "ciphertext": "htxgpRM/ung0bl1KQ09XSgXqCVwzGNcIVz5AYe7VtbGXWjwwUd3J1htsQssthhgbvuLSTg5rti8Y5C1HWVTN3epLcYkpMgDnbjCyq4AMP2iXzAzstEmrpfV/sFlVnaSL68VQOUi4e8gdqw6QKwVG5qoCQlJJVoAXaLwD3fT+tblDFzQsxmvrNPXNAbTlxvVKBs80wiwigwdwZUHMecWDjA==",
-                "mac": "sJOtj1j6NGRtPus1L7zjSg=="
+                "orig": "The speed alone allows for safer evasion, but it has another property: the mythical \\c[3]Flash Step\\c[0].",
+                "text": "Cette vitesse permet à elle seule d'esquiver des attaques, mais elle offre aussi une autre possibilité : le mythique \\c[3]Sprint Éclair\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/3/message": {
-                "ciphertext": "Z8ANSbnuTvZqu14G9qzrANPk6eO852VcWTClWZQNkKKYYQ5Cy+JX/7Ex48Qm6I+EW+ekZEAMl7jSkaLAwCN/HdDhdyqyKVI4Qp//dophFIpyjdYSD0soiCzaJmqPDbH/MzvVPZpnl0rotDscm4wKPM+6FqjzlsosnQVf/CsyDV0zF6Q6uQ/aEFPyQZQsWZjO",
-                "mac": "FbqtQpsaIZsG2GGMOTkmiA=="
+                "orig": "A dashing fighter will be \\c[3]completely invincible for a fleeting moment\\c[0] and even \\c[3]phase through some objects\\c[0]!",
+                "text": "Un combattant qui sprinte deviens \\c[3]invulnérable pendant un cours instant\\c[0] et peut même \\c[3]traverser certains objets\\c[0] !"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/4/message": {
-                "ciphertext": "PSQQc7nfUQ6WMgXp4ZUESlH6G8/lihELOu3SBOOogMV+JUqi2CIluD2OwmyD2Jw94OhEPVmnbElz5DXdafB0BnFwF80I3lGE+1tborQpE0JsJ3YZcqBZlMYafAW7VfgKgKkxwHgBucl/41f1EWM4Jx7OQ3OhMLxrV3AdjZf3ZoB5AbWzqyukM/zcH8hiBseA",
-                "mac": "n7kDGfMc61ThBbHKdDB+ew=="
+                "orig": "That moment is short, but it can be prolonged by strengthening your \\c[3]Flash Step\\c[0] ability and \\c[3]Focus\\c[0].",
+                "text": "Cet instant est court, mais il peut être prolongé en renforçant votre capacité \\c[3]Sprint Éclair\\c[0] et votre \\c[3]Focus\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/5/message": {
-                "ciphertext": "A4DS9Gq6J0hr1o1CvTWpp64ESnU9J7v62F8wOUusJt3YVbcNvFzHQ+O1iPpLFGxrQ1BEd7mS54sXkl2klkwYCVsjC35v1tF33Jeu/3Gt0WFKbmPgVbkCykdQpaKqA1KlrPexBLXQTbnIffVeITaLp6vsF8IhWKrVBakUpjGPC3WoiE28/BuUwpedQlz29TypFUtGqnjfkcVzFVt1UTbxug==",
-                "mac": "R/r62d3ZEWjWora+B4NU5A=="
+                "orig": "Do not forget, though, that the number of successive dashes is \\c[3]limited to 3\\c[0] and a short break is needed afterwards.",
+                "text": "Par contre, n'oubliez pas que le nombre de sprints successifs est \\c[3]limité à 3\\c[0] et qu'après cela, vous avez besoin d'une courte pause."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/2/6/message": {
-                "ciphertext": "bDH2bmjEJvqphUM+YQJ7eMdK3OpyFhTz80mBltTon74=",
-                "mac": "HR7JHkix9DGjFHa+n5tn5A=="
+                "orig": "More questions?",
+                "text": "Vous avez d'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/0/message": {
-                "ciphertext": "tZJfrxCGhWrqE3HQaipDgLZ8bHFqULrqebGNXj79MPqQ3bKSBSyhmfk0u4ecoqd8",
-                "mac": "u6aI/wlKy/7u0ioEjaOzbw=="
+                "orig": "[nods guard question]",
+                "text": "[acquiesce la question de la protection]"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/1/message": {
-                "ciphertext": "54PIlmzTcWSglSOixOAi70GIY8ndiWurgjtDQAMPkdQmXgSs0NSqD+sCIgOx5k71LNY7jcuxQEQ6RmMI7sBYvuuIn8TAo3cAMucxtZPHjd1kXcl6PU/sBEZgdBR6bXPSETo99od9r4RFjtgwmTyWZg==",
-                "mac": "idwuym40TVDmb0sc/g5mhg==",
-                "ciphernote": "PWBz0ryexiZ5BClxeRVsUZfgfoCIJgMhgqbKQfiOGROEEYJ7lHrh7AwmzY5qwwybJN4WcSCCMUE13RV1OD1fHm/htuyxX92iaysEjlWIfcs0pN5IcEUfbuIFlo6N/vFi"
+                "orig": "When facing vicious attacks, raising your Guard is often the wisest course of action.",
+                "text": "Quand vous vous faites attaquer violemment, la meilleure chose à faire, c'est souvent de lever votre bouclier.",
+                "note": "the limited trans of guarding shows there. usually i would say se proteger or something"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/2/message": {
-                "ciphertext": "dP6IPi8PpwGmgpvNVJW0K6+c+XZ/oLkPgsIgwSIlqllTULnrjR19ynHemIe3lLFufZoD2Th8VfslTvxnRtc5bHneDpL2cvxjBEO7Kj5GvM9hbrx6n8N00ua5xctES6GBK5sJrUGzFCihpRagQ6mot6D4ygn6dJW0JzERBhj8MiWc2obm+mHImbFrLQDYMrWR",
-                "mac": "Dr6E3/hgSE/lY+HwpO+Vqw=="
+                "orig": "It will \\c[3]greatly reduce all damage\\c[0] in the direction you face and is often safer than trying to evade.",
+                "text": "Cela va \\c[3]grandement réduire les dommages\\c[0] dans la direction ou vous regardez, et c'est souvent plus sûr que d'essayer d'esquiver."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/3/message": {
-                "ciphertext": "Br8Fz+NuiXEzULP7zOoou0kGAcfQre2/j1+ncdoKUFV3+pBbKd9TMBCrnNWJR1R4oCPwWQ9/8tFCScv1A8tz8g5PQSUp5VoT6PqulNRRYQGe3BaQgI2eg8pnrN2G4E74",
-                "mac": "NYAT8oGQMAcBN2ZEvBzDRw=="
+                "orig": "Though beware that your shield can \\c[3]break\\c[0] after absorbing a lot of damage.",
+                "text": "Mais soyez toujours conscient que votre bouclier peut se casser s'il absorbe trop de dégâts."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/4/message": {
-                "ciphertext": "o2UFPMg0CHHaBpPISrTDZVh0BTBmViHTyieD/9I9i5i96t45Q+zWYHKQKgU9EWgx1xEKEsA/iMtfizXQLD0FntZwma5o/7jQIJ/eGKmIZL0LbmOex2uafh8SOSm1TBOaKAFcxFLd081f+4eQJ7mhJHhvldlIl6lUR562hnUTY45s97vlta+6lo3ZvfP/yxquGiRMVNdyPimZjI2hBkGz0g==",
-                "mac": "AGsmekOyxNI6DiMBKCX0WQ=="
+                "orig": "The efficiency and endurance of your shield depends on your \\c[3]Defense\\c[0] and the specialized \\c[3]Solid Guard\\c[0] modifier.",
+                "text": "L'efficacité et la durabilité de votre bouclier dépend principalement de votre \\c[3]Défense\\c[0] et du modificateur \\c[3]Mur de Pierre\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/5/message": {
-                "ciphertext": "5LlyjIbWXx8bEbvhVFFwg6IK9Nq2RHmzhbLrqunliyQ6alSIABa85HBQsKLC1xFDj2aD8KgrcwvmHKtjzcPxoFbsstm/bQxcR1IZE6HCheO2wYpiuBAcGKvNEZCff3tgJLJtG+i8rsql64XpEoZDd1TIrQQxW4oEEhBwRZb5D7SMDcCdzwma8XflvmZ3qOVew5k8ZBOtwyO1sxY6cd0SBBegnM6zq9nlCAFFJEGRExMY1pZ1WK4Tf8bjmtKwYlLz",
-                "mac": "HHYqb/ViXItHCd24C0otSg=="
+                "orig": "However, if your guard is \\c[3]timed perfectly\\c[0], it will \\c[3]never break\\c[0] and \\c[3]negate all damage\\c[0].\\. This is the fabled \\c[3]Perfect Guard\\c[0]. ",
+                "text": "Si vous levez votre bouclier \\c[3]au moment parfait\\c[0], il \\c[3]ne cassera jamais\\c[0] et \\c[3]annulera tous les dégâts\\c[0].\\. C'est la fameuse \\c[3]Protection Parfaite\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/6/message": {
-                "ciphertext": "rXta+HSD5K549HCkp8VGZ1UOIPQcLycadxb1yglQioA92LLiw5sxa9SNYUS7VZB+3gwiSKZ0fCbyhkvDQRe+GllE0tBOvQ6tcekKxb0ulxoFhDTK6AWTJzaWD1/e/cCa4a2z5TwbIARt0bfCyeCHJoBWdJGe7e+E3QwvySD2m/M=",
-                "mac": "N7RBEDBk+pZ+qUN9Q2odvw=="
+                "orig": "There are, however, some mighty attacks that mysteriously \\c[3]ignore\\c[0] a shield.\\. Be wary of those.",
+                "text": "Par contre, il y a des attaques puissantes, qui vont mystérieusement \\c[3]ignorer\\c[0] votre bouclier. Faites gaffes à elles."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/3/7/message": {
-                "ciphertext": "bDH2bmjEJvqphUM+YQJ7eMdK3OpyFhTz80mBltTon74=",
-                "mac": "HR7JHkix9DGjFHa+n5tn5A=="
+                "orig": "More questions?",
+                "text": "Vous avez d'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/4/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/4/1/message": {
-                "ciphertext": "nxfScGstr6VRFJsQdOOdaZEkYXbAAzjGHBOiJdQNSXL8AqbBPefIc//OudXsFhT5BMqNW/79HK5V1PuHBUgoSZ6UAVBhL0To76DxrluLPN8=",
-                "mac": "StYtAO2iW51hpUF7UGPI3g=="
+                "orig": "Fine.\\. Come back when you desire guidance again.",
+                "text": "Bien.\\. Revenez me voir si vous désirez que je vous en enseigne davantage."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/options/0/label": {
-                "ciphertext": "uh7etAcNl29P0Lorgju1I7ZwafJFdEVjwDo6J/iWS3s=",
-                "mac": "TV+YsE7DBpWp3BjgEKUNOw=="
+                "orig": "Secrets of Close Combat",
+                "text": "Secrets du Combat Rapproché"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/options/1/label": {
-                "ciphertext": "ziIPMM6IlAavc6Ji4bAbL0e37T4K6VJVduVw0UH9zOE=",
-                "mac": "oHg0QWDMZq7VQm0oOhLPsA=="
+                "orig": "Secrets of Ranged Combat",
+                "text": "Secrets du Combat à Distance."
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/options/2/label": {
-                "ciphertext": "TUdiXBtDui0Y5s/C3sP1fV29TVl9nPFvbhiZq6Lg5Q0=",
-                "mac": "2T8VVMqrjzeZZr9bOfAKQA=="
+                "orig": "Secrets of Dashing",
+                "text": "Secrets du Sprint"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/options/3/label": {
-                "ciphertext": "jMhvYK04HFzrH0tsiN7ETb2qYxMk9+omEBdfSbdvXYw=",
-                "mac": "HxQtfBdfp+sgFul2CrKeeQ=="
+                "orig": "Secrets of Guarding",
+                "text": "Secrets du Bouclier"
         },
         "maps/rookie-harbor/inner-info.json/entities/26/settings/npcStates/0/event/6/options/4/label": {
-                "ciphertext": "vGW5IE8sZkNj0XvX8I4U+eblZNtxc10fwZHUAyRyXtg=",
-                "mac": "q3CB+K/XpEIBvD16byCXCQ=="
+                "orig": "\\c[1]No, thanks!\\c[0]",
+                "text": "\\c[1]Non, merci !\\c[0]"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/analyzable/text": {
-                "ciphertext": "EVlRknTFfTlE0+AGFZokhsgGyo3/C4kFkVMD3V8qLmA=",
-                "mac": "czfW6ffW+HdlSvh3ZrvLqA=="
+                "orig": "Curlo Statkovski",
+                "text": "Arnaud Statenegger"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/displayName": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/0/name": {
-                "ciphertext": "EVlRknTFfTlE0+AGFZokhsgGyo3/C4kFkVMD3V8qLmA=",
-                "mac": "czfW6ffW+HdlSvh3ZrvLqA=="
+                "orig": "Curlo Statkovski",
+                "text": "Arnaud Statenegger"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/3/elseStep/0/message": {
-                "ciphertext": "83ezs1oas4D94RQqwkyX5bKz4yNGEwvrnW6nTGi/rEGkaP9hR/6mB2zqDNIveiro",
-                "mac": "pyjZGduLJ94I2th/oqWzfA=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/3/thenStep/0/message": {
-                "ciphertext": "rUWHFz11v5zJTDdm1BqKk1JEDRfhPoPSl4mdorcNracLQodTm1e3lstYIzkvoHETpATq0bVKoUQK2Ys5OaB1AhdL0mUUUuea10gR+KXdD02JMJl9wPk3EojaAk9G4cuMWxwj+04C8uRbnUt4z3yk2p2Ct1MZ5DkopUTey4Lwup9Yicehi3mO3bXpe6BFJNRM",
-                "mac": "z0TduIX2kzs2qrP7cyQvZQ=="
+                "orig": "Bro!\\. Straighten up and get in shape!\\. Your body is your temple, man!",
+                "text": "Mec !\\. Ton dos est avachi comme celui d'un petit vieux ! Faut vraiment te remettre en forme ! Ton corps c'est là ou tu vis, mon gars !"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/3/thenStep/1/message": {
-                "ciphertext": "5NA6ATnSN9I9auD/i3p1uQ==",
-                "mac": "H0hDuCphZYAuIH5m4DYMNw=="
+                "orig": "...!?",
+                "text": "... !?"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/3/thenStep/2/message": {
-                "ciphertext": "p8ughEOQ1lRHSBjQ4538+l/7OHBYOC+NmNgXuAMXL9LkdrpThJQppuAgk5h6bwzWS2K+N3RbhrQ+SSGIH935v2zoUzhQ3EZpyiIBkst5tcz3mKV7c9GUhlBUnCXxPxhzwIdFjQ9R728HQINHBc1V6vc5x80elL3r8xWL4M28ABvltu5FPW7yQYr1I2blp3VliZvGdEp7GNnd8/t61kmcATU5V7pAvT4t1RQXsLSk6CSXgVi9XJkctZZz0aegrzKk",
-                "mac": "UDcYh+sytXC4kxy2GwSVdw=="
+                "orig": "No \"but\"s or \"if\"s or \"maybe\"s.\\. Your body is what keeps you alive so you must work for it, bro!",
+                "text": "Ah non, ne me sortez pas de \"mais\", de \"et si je\" ou de \"peut-être l'année prochaine\".\\. Ton corps, c'est ce qui te maintient en vie. Donc il faut le travailler, mon petit bonhomme !"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/3/thenStep/3/message": {
-                "ciphertext": "dWf2u+fJEii2GrGhvH0y5Dv0UsvYMw0z5NTQSqT2RPJMDOOhTzY7MZz0c771Ri3QR/e7Kb2U3gVKb0RBnZXzYqvgP3DzURDx3D/utDXF2bB2Wa/sHh4KEMY5l9JTbKaFn2cH84HDTODbPkUZ2FYkLAQq77cjZ6dDu2SNbjJ559zrZSRyIuQJjVoYuKXUjayR",
-                "mac": "ZMHYddNOug9P6MtzVqTDOw=="
+                "orig": "And you must know how your body works, man.\\. I can explain, just hit me up.",
+                "text": "Et tu dois savoir comment ton corps fonctionne.\\. Moi je sais comment il fonctionne. On peut taper la discut' si tu veux que je te l'explique."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/3/elseStep/0/message": {
+                "orig": "Bro, what do you need to know?",
+                "text": "Mec, qu'est-ce que tu veux savoir ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/0/message": {
-                "ciphertext": "apy2Rs07fFcoTzs/XOGvVISVw6p0J7t487FsFEbLrZfTzZXwS6hu/8hb03YZ/L4/",
-                "mac": "uz97E8gAx2LfSH8B6Ynavg=="
+                "orig": "[nods stats question]",
+                "text": "[acquiesce la question des stats]"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/1/message": {
-                "ciphertext": "UHfUNFZqc9QuKdon+VX5RZvYzdKtLWEtdYgJsOQ4TDBJqPKaCmtJKeLDFQTrbrLqC0XQ9c17fGZ8gFcSj8HsdQK96i/7lOV5X7fn8CXZSVNG+nG+CZVdUo3ayQcbgFwH",
-                "mac": "xv6IfSWLzTLYiwYblNEIRA=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/10/message": {
-                "ciphertext": "lT7AMuJnBJkEfz05ky6YMzvrc5WvDeWmzaqBQqDk9vT3VqMvfPlGbFYKVhjf0Lpz/zNn5QRL7uv4TYfcX+pvtTb/Gs0ByUixxrauseQTeWG0eEfqXw2FeFO8QypYPAZbcUjd6DaH2G/cbEzNxGrccT4ji3Sbq7RyAf7UWKdOAOC/Zk+6wnZXRfE9cKFouwg7dGrS3gCzuQJI5HpT1lexIa3pigf+vHf94ZWUya/Vi+ZPBCCAuXVcHJHH3xOwr88V",
-                "mac": "8TkoQwZvP4Xja7GrwEfj+g=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/11/message": {
-                "ciphertext": "43NkjMjX413gQqFIwomsdlnWYXWxtW6vLSH+T4vvMHssYNMmKSrz5y7DJHGu5eaQLD8NbubwuAAmX2ineLtqZ2WCvIszvrGmgzRQGA+3/u57QyuFZ9W21CYNRIqkeG8xTdRPRvViBRu5Adt1BrYfebGcHzCEff9w9bThmnNWMZ65/ZqYTM/dRZGhX7v+f2dU5Ra5+Q7zKyr+D179akfVSp/P9NQnECiCCBg79yLN6VY=",
-                "mac": "9+DzEv+TLep0KVhwoMGBkQ=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/12/message": {
-                "ciphertext": "LUtBRsEPTRBkpEbShkSMq7fomq0SElpfyPkipm/IvZdUOdCZy7UkZnY0RsCWtDwXr+9ukfyK0R/gAd9r/nJRUR8uigpdKSMB7ycYoLYsTMRD86pbf861VSohQRS2BE9nJur/uHfyJkdwVRWJUwzb/yhEvd+wy9Oe0G/M0O2xQeLLpUdgiEZ6p3f4LAgWuQAOA0V7IpV6HDvDA/Nm+u3Qa08V21I3/m3RiFSc9D5hnxGGAUCB51wrKIjR1xMKj56V9H+v5FiKBTNk9uwMA27dve66NjyNVdx5Aa5a1rDKSkZzkTjHUmaCkRiPHhM9mRQ9xl2e5FqpSwhlG+Q/eTdckw==",
-                "mac": "WXm897GwcWyOREq1jKpg8A=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/13/message": {
-                "ciphertext": "DcE2UINE2z4F7NNX0qKlDvFGTna8Ea2aDYNbuWUzQOGORhHpwkqOSporKXuK9hXa",
-                "mac": "PapwSdteuy0I4W08vXtMeQ=="
+                "orig": "Bro, there's 4 basic stats in CrossWorlds:\n\\c[3]HP, Attack, Defense, Focus\\c[0].",
+                "text": "Mec, y a 4 stats de base dans CrossWorlds :\n\\c[3]HP max, Attaque, Défense et Focus\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/2/message": {
-                "ciphertext": "aufIkm3zARkR/rHfG5jokbJT/i15ZjlEQPK4thU1JstQX3bfF+Kny79QcwsfS6ASUhfqv4LmzryZ7TW1XAZapt14imyAaS6/mydHsGBBMpDvr40QD0Fr5lKP8I7CfgEwMoI3JdFOFXzslard0DHMEDMu7rZGGayD4hGAHGEOces7R1KCJxSZ3EW2RVoRHjA3",
-                "mac": "zraefVzjGFoF8sR9eI913w==",
-                "ciphernote": "0L1zt212nWktUxnK16Kcz1m9sNi1kzNLlk+xzlPb9u0="
+                "orig": "The \\c[3]HP\\c[0] are your life. More HP means more damage that you can take and survive by tanking like a boss.",
+                "text": "L'\\c[3]HP\\c[0] c'est tes points de vie. Plus d'HP, ça veut dire pouvoir encaisser plus de castagne comme une vraie armoire à glace.",
+                "note": "de is even more colorful"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/3/message": {
-                "ciphertext": "w/m9TqLh5oQTODszlrTbz+kyX21TQgHcOJgnIB0b/GAmog845xSIw6svZDQ93ENCm3uTqHS9ETx0KCU0yX7b4YmueZ9ih6ez7tob6vatAEAvxGBpuKJz+uMnizDAnbrVkUu+izn18n0QSTgH3wjS+Zb97OOY6iXDBDXewgnKHYozqf9i1kp488aFKV5y/xzm",
-                "mac": "kXOKLkkHbi08U2Qg68YEjg=="
+                "orig": "Pumping HP will also make \\c[3]healing more effective\\c[0], both for eating and your body's own healing.",
+                "text": "Gonfler votre HP va aussi rendre la \\c[3]guérison plus efficace\\c[0], que ce soit en mangeant ou en laissant ton corps guérir tout seul."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/4/message": {
-                "ciphertext": "cXEP8JZPs+VuNCz/82nOftGCDZhUMcO4zpt1SgiShb7HxCHI9YWcfcd9WAjBFNmpknDeH++yXz9AALJGppgTWUaE7ZOAPybuvGp0zaEbJNWZWICsW46eRdQLJBlFVFYahgZ2hguIrC1s5Zw48S5xpr/uMeHvcV9ltnRo1bWAiWs=",
-                "mac": "VCh9xb4/0tq2iHGMwCdtFA==",
-                "ciphernote": "yqDIALxU5eaAG+IhD4pDNQ=="
+                "orig": "More \\c[3]Attack\\c[0] increases the damage you inflict with your attacks.",
+                "text": "Tu t'en doutes probablement déjà, mais pour mettre des plus gros gnons, il faut augmenter ton \\c[3]Attaque\\c[0].",
+                "note": "from de"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/5/message": {
-                "ciphertext": "8AevWHm2TmcJJnBdqC5YnFZHUDxo2IIxO4qhc3JD1dsHbvNk+My1bt6l3RUTOFiIJkYoKK8rlL6sJRW4x3nw9aDZ6540hhf3WXgMXzEZLq1iuFJ6K702wYPy07tZfLYRWVCSS/E2GRIrkY5CwZzR8jn9tw5F+1NGa65DXGXah3ivFCnq8FkPFMhlpzgaXHxIKvUsYjMIM6wZoEiOPm7oY5oyKiT10xx9Lh6NbFNHQQk=",
-                "mac": "TfJ+ROAxRod2m6zC3n1MmA==",
-                "ciphernote": "Kz0X52LPL2l62SPI6bv4fOArRo7LmUfqoX46bpO7uuQ="
+                "orig": "But bro, remember there's more factors that change the damage, like modifiers you get from your gear.",
+                "text": "Mais mon petit gars, il y a tellement de facteurs qui peuvent influer sur les coups que tu peux donner. Par exemple les modificateurs que vous obtenez de votre matos.",
+                "note": "at last a proper trans for gear"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/6/message": {
-                "ciphertext": "Bgd/CgQCixgfycKHbEX/BZEKcYbfIiplThXGB9zt8evk3yTurKQgsYsrdyw4vJc5WvqnegMwdZYX61jTZ+RVkVDgwXuB7Vf4Ss3Oq52AQ9vN78ZDqo1YxpwSE+glj7UElsdxVWd5dLKn0nUaLWSLG4PelbemgyxYoZRSBMhZ/8oUWiC/2kkInY6YEB9GIwtF",
-                "mac": "G5v/x6rSrJbHdHsfam1NZw=="
+                "orig": "Your \\c[3]Defense\\c[0] will reduce received damage and protect your HP from getting chipped.",
+                "text": "Ta \\c[3]Défense\\c[0] ne réduit pas seulement les dommages que tu prends, mais assure aussi que tes HPs ne fondent pas comme neige au soleil."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/7/message": {
-                "ciphertext": "CU0GZgIizyEzt8jSL17T2IMYmjcOCmu1rHyeRIqfv8Sx6KbHRJB6aRSdlYinMQwL82gFSkK0gs7UOilmfHHV2wJbLLJmvV75IGvCLr4t5+FiN1RsVeMJ8nycQ7fB3HZ+04U9qzFRtpyhKbz9q9yy+QTXCPd/j8bizqn1ScLB/DM=",
-                "mac": "PgoizVsqLqZrm2agXxq1wA=="
+                "orig": "It will also strengthen your \\c[3]shield\\c[0] when you try to block and tank damage.",
+                "text": "Elle va aussi renforcer ton \\c[3]bouclier\\c[0] pour éviter qu'il casse quand t'essaye d'encaisser des coups avec."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/8/message": {
-                "ciphertext": "vx5CjEeQkoOpwqXZCCMb4aY+ZvMzJdFpSnBR0yaxyGM/KpCicfYOC9utxjBP0NzfZq9CLl0mltaGxy6N+0ZmBhTOMffm8LOhuD6O/iZMdzl6McPL7cOpAYrl39RRHG0IKjvbuSL7JoBfnYnjR7ufLLS7MKLkmvjP+6ZCE4qQNAe/zN7U5N4TYAE8Jvb1heT9soCor6TR1klPH0DXUBeDDg==",
-                "mac": "V6kpFUo/E/fELHseCYqjDA=="
+                "orig": "And \\c[3]Focus\\c[0]... bro... dude... that's doing a lot of things, man.\\. Like \\c[3]how fast\\c[0] you increase those \\c[3]SP\\c[0].",
+                "text": "Et \\c[3]Focus\\c[0]... Mec, Focus ça fait plein de trucs.\\. Genre, ça influence la \\c[3]rapidité\\c[0] avec lequel tu récupères ces \\c[3]SPs\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/9/message": {
-                "ciphertext": "NKNGXCZElUPlMuGXv/xodoq6lI/SzIMGlIGVKbv6hhyz8i9FgaYFvJpE2Rpx4HVvXKE1fgGJHcZRDkaQiDa6XKXB6OnVk1175DDGnFiOljdRbTq2JeCdyipNkAWTFIJjtIXf/sdGliSq3MHjIxR+W1wKi625JxZiC1NTKI/VBusLUCKzy2IQ08KrSERnV1Lt6BWUO3wDdqgnRCPHu/ibMOF5XdYF9XG86e7ETAafPNA=",
-                "mac": "CVfwZaIql3rWJZbSbfPH+w=="
+                "orig": "Also having higher Focus increases the chance of doing \\c[3]critical hits\\c[0] and decreases the chance of taking them.",
+                "text": "Et aussi, avoir un Focus plus élevé augmente les chances de faire des \\c[3]coups critiques\\c[0] et réduit les chances d'en prendre de la part de tes adversaires."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/10/message": {
+                "orig": "Then there're those sick \\c[3]Status Conditions\\c[0], dude.\\. Again, high Focus makes you do more and take less!",
+                "text": "Ensuite il y a aussi ces \\c[3]Conditions d'État\\c[0] vicieuses, mec.\\. C'est pareil pour elles : Un Focus plus élevé, ça fait que t'en files plus et que t'en prends moins !"
+        },
+        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/11/message": {
+                "orig": "Finally, the window for \\c[3]Dash Invincibility\\c[0] gets longer with higher Focus.\\. Believe it, man!",
+                "text": "Enfin, la fenêtre de temps pour ton \\c[3]Invulnérabilité de Sprint\\c[0] dure plus longtemps quand ton Focus est élevé.\\. C'est curieux mais c'est vrai, mec !"
+        },
+        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/12/message": {
+                "orig": "It's all important, bro, so train your body!\\. And get good \\c[3]equipment\\c[0], cuz that's actually \\c[3]way more important for stats\\c[0].\\.\\.\\. Bummer.",
+                "text": "Maintenant tu sais pourquoi il faut faire des pompes tous les jours, mon gars !\\. Et prends-toi du bon \\c[3]équipement\\c[0] quand tu peux, parce que c'est \\c[3]encore plus important pour vos stats\\c[0] que les pompes.\\.\\.\\. C'est dommage mais bon."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/0/13/message": {
+                "orig": "Got more questions, bro?",
+                "text": "T'as d'autres questions, mon gars ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/1/0/message": {
-                "ciphertext": "f20dgbP1Aq37D6fbNKeUwNlSkmYTwF+swZHvREAV0a0QiCZ6QmTR/ML2vAdkYv5e",
-                "mac": "cvMRkWE5npxNZ0nVVY3DpA=="
+                "orig": "[nods buffs question]",
+                "text": "[acquiesce la question des buffs]"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/1/1/message": {
-                "ciphertext": "wP7rQLMMmL6n2sn3JbfwZS6o48BWNEntQbweK1lwpCgrDfyRBz6JX8Qd6bb2db7ef6nXivxQqo00pIQaMdB9AL9n8AkNLH7xcUgbw+Q9hvFYhBSaY/ULjLVhpyfJIffu",
-                "mac": "4B26MuhOOJ18n9Fg7IOqLw=="
+                "orig": "Dude, you're interested in a proper diet?\\. Good thinking, bro!",
+                "text": "Mon gars, tu te tâtes pour faire un bon régime ?\\. C'est une bonne idée, mon vieux !"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/1/2/message": {
-                "ciphertext": "82RPAhyZyjWXJC0iew+1O7UDHgIAhrWyoCCZ/CXeuNvUkmvNFycL42KDteZWAs2R/y+AQW28JARLzeNPtR6Mq0auTxpZO1XT0dGL19Ul61c6/6VjpBf7gSj3IVbv4IBTNrwvQ8QSfKRhet2IlBfFt4XCgY7uuMxlAq+EuyeH8zanthLA2hG3KCIvB7cmJexe6UvGQkslko55VXoUnaqdBhXJjp63hbbeKO8NC1D86dI=",
-                "mac": "frY7fUXjRoW1h/skMRDOcg=="
+                "orig": "\\c[3]Foods\\c[0] are the primary source of getting \\c[3]buffed\\c[0].\\. Use those and look at your power soar, man!",
+                "text": "La \\c[3]nourriture\\c[0], c'est ton moyen principal pour obtenir des \\c[3]buffs\\c[0].\\. Tape la croute, et tout de suite, tu verras ta puissance décupler, mec !"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/1/3/message": {
-                "ciphertext": "f7HRcmHluGehxF9Qsb+4H1X0ajyC4IpmTv0aBzJjASmgMfOCI2CJQDK/GSAe1HutE39SU2I9HJpE3UD85UYKetTsrghtRK9gBKtlvkQZ5qx+4fFaWRr0uyIjHew5iPJDWlUAKmZ5p7Tr4P9n3BSg27UqBDqWJUdqqzHMxL8uSX8zHDziVYfOKAJaTSl41rGNiTjg9lrPMzMQqCaiOYiSip8E3uOlXVdUfgVdRAZ5EkI=",
-                "mac": "G+ez/mtKJoA04jUEkf6Vow=="
+                "orig": "It's only \\c[3]temporary\\c[0], though, and you can only have \\c[3]two food buffs active at a time\\c[0].\\. Limited digestion, man.",
+                "text": "L'effet est seulement \\c[3]temporaire\\c[0] par contre, et tu ne peux avoir que \\c[3]2 buffs de nourriture actifs\\c[0] à la fois.\\. Ton estomac ne supporte pas plus, mon gars."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/1/4/message": {
-                "ciphertext": "xuNF2HKwe2pQb2vz11SVt9jn2QbjQ2jv5p269gC6ZL7r0fxjP9CvruYiXhi5sQgXaAp2MbHHDlw9YVyjxnFrghUg6m5EUtMZwzXmD4Df+SYmKCxmbcu3GxjBDhIMuhA3mSVVf0sPeedSQZitcgAkpg==",
-                "mac": "j/Qv5Msz+3zIgoKQn53Z8w=="
+                "orig": "Staying buffed can make a huge difference, so stay well fed.\\. Your body will thank you!",
+                "text": "Rester buffé peut faire une énorme différence. Donc ne reste pas le ventre vide.\\. Ton corps te remerciera !"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/1/5/message": {
-                "ciphertext": "DcE2UINE2z4F7NNX0qKlDvFGTna8Ea2aDYNbuWUzQOGORhHpwkqOSporKXuK9hXa",
-                "mac": "PapwSdteuy0I4W08vXtMeQ=="
+                "orig": "Got more questions, bro?",
+                "text": "T'as d'autres questions, mon gars ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/2/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/2/1/message": {
-                "ciphertext": "d/gaVVjAhaHsAm6NUIUCXFKvGI4H+9y/lDR4Xk+bkEI=",
-                "mac": "0Sm1t/oFkEjE9bJk5GJ/zg=="
+                "orig": "Take care, bro!\\.",
+                "text": "Porte-toi bien, mon vieux !\\."
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/options/0/label": {
-                "ciphertext": "YoNiwBJwoC/hOPOUZsUb0b1LqirqNwK+4xTYeYzDdVk=",
-                "mac": "EOFM2tf3Uy0uwC5DnlZRbg=="
+                "orig": "Explain stats",
+                "text": "Expliquer les stats"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/options/1/label": {
-                "ciphertext": "68rnlqON0ZxNOwIJ3Qh/Pwl5JHwh/QpQtELm1dXhfcg=",
-                "mac": "OIYVGYgnUtUQ8ApyByqszg=="
+                "orig": "Explain buffs",
+                "text": "Expliquer les buffs"
         },
         "maps/rookie-harbor/inner-info.json/entities/27/settings/npcStates/0/event/6/options/2/label": {
-                "ciphertext": "vGW5IE8sZkNj0XvX8I4U+eblZNtxc10fwZHUAyRyXtg=",
-                "mac": "q3CB+K/XpEIBvD16byCXCQ=="
+                "orig": "\\c[1]No, thanks!\\c[0]",
+                "text": "\\c[1]Non, merci !\\c[0]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/analyzable/text": {
-                "ciphertext": "X+ybUG/N8bzpTp3j+GHmVg==",
-                "mac": "nMr96BiUXDdiSGWX/3TnRA=="
+                "orig": "Avon Chet",
+                "text": "Avon Chet"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/displayName": {
-                "ciphertext": "iWVGrK5mOslIYqGh2knZtw==",
-                "mac": "fUZOikH0LzailaWeoBWnwQ=="
+                "orig": "Circuit Man",
+                "text": "Homme-Circuit"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/0/name": {
-                "ciphertext": "X+ybUG/N8bzpTp3j+GHmVg==",
-                "mac": "nMr96BiUXDdiSGWX/3TnRA=="
+                "orig": "Avon Chet",
+                "text": "Avon Chet"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/3/elseStep/0/message": {
-                "ciphertext": "Xl1gRw4JLFQq7XD5BZDCARa+gB2Wu85lw3/bTBe2yhM=",
-                "mac": "JstAiElmd0FAxwlLqJCOVA=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/3/thenStep/0/message": {
-                "ciphertext": "Lgkvge2j4P3QZEujgKQIM1ENMpdXTi2Ls6XclOzddDF5VMWXEYkriRIRWbN9F4ukfwuIOBNGapZkZN67kYN/Ve6wZWwJqr/LqP6IDnCnYPsAhlLzAdWS3pdr2n+sHaR5",
-                "mac": "CZ6+vEsRNox9wXuhorDR6A=="
+                "orig": "G'day, mate!\\. I'm the Tech professional, specialist of circuits and other hardware.",
+                "text": "Salut poto !\\. Moi je suis un pro de la Tech, spécialiste des circuits et de hards divers."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/3/thenStep/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/3/thenStep/2/message": {
-                "ciphertext": "Pm18+/+4if6sLcDtaOTxVv118IImvhYEphkYjpr1NlarSXUK732XdpA5NF89RVx4yBn8wEt1VpkO2e32d/AnzToK5oDPkYnkxQJDhQjgcb9PMz4J7OBrtxRtyRnFusq52UjgNRkTUPFZ1e3BnEgyHjehNWPZJVX65+I8NYFRVho=",
-                "mac": "ndcMPMlUbY6Hja6btKmJZA=="
+                "orig": "\\v[lore.title.seeker]s like you are utilizing advanced biolink-hardware to draw powers from the Track.",
+                "text": "Les \\v[lore.title.seeker]s comme toi, vous utilisez du matériel biolink sophistiqué pour tirer parti des pouvoirs du Tracé."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/3/thenStep/3/message": {
-                "ciphertext": "WEYFYg9GH06L1PczwjRMoxSYNOwhZE5C+GGHYsXjbFAEVbjkcSyDV9+dhnW8Dp+Mu1G7uQA2QY8E8c1dEIwWxnyWdSBTImvjT+XF8iZqy9I=",
-                "mac": "w4Pk3rZeMy3yaL199gWQuQ==",
-                "ciphernote": "HfqyRVq+ZDMSSEPyd1p42IcYUj+CEbTP/fR0z4nxHetvofUGlhpTECj4mA/494DZjr8ToeOr0SQEb7XMZOguhw=="
+                "orig": "If you wanna know more about the application just shoot your questions.",
+                "text": "Si tu veux en savoir plus sur ses applications, balance les questions.",
+                "note": "application/anwendung is original. doesn't make much sense ..."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/3/elseStep/0/message": {
+                "orig": "Any technicalities to discuss?",
+                "text": "Tu veux causer technique ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/0/message": {
-                "ciphertext": "DEM92i7n0qo3AWzUn/KJx8rTy2NXUl9v6qWq6HxlDldCXrvFjrzrT4Dc7nREZZ3W9wkr9qfNg9THTkZtxQySlg==",
-                "mac": "+NHz1nXYImFoYdMmsyrLyw=="
+                "orig": "[nods basic circuit question]",
+                "text": "[acquiesce la question des fondamentaux des circuits]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/1/message": {
-                "ciphertext": "qpou0WDogu8KJj1ZU26oYXHsQinRTZOhhj+2cWID9Z9Df9QD3ZEzZfYOZfzb9xr1jMhcteSugAwsaxAPxx1NS32qtqVWpooT0Co8xmXTquUsY7br8u6zfSfLEfNeW4R1",
-                "mac": "uN9dR+Y+RyE+sustKqm6vw=="
+                "orig": "Well, to improve your Circuit you need to collect \\c[3]CP\\c[0] (Circuit Points).",
+                "text": "Bon, pour améliorer tes circuits, tu dois récupérer des \\c[3]CP\\c[0] (Point Circuits)."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/2/message": {
-                "ciphertext": "tBJgEV+xwhELBL+ug8PbdLt6b20BfZEWCXko5NSwScIbQW3BRL1D4d5M/IN/6VvYCwKkatMX09LGNWBf6wPki8I8XSFfPlC4HzeqZCxXpdP0/nCTctTUsaToS38EJ8jL5gzWdawdxtm8wAfMKuXdAHiGz/wnWCbLvM4gSY2NozpCPv7WkyjWJ8E5yYUqvlG8hj6h+B8kam9rZvvHbArAOtGEQ83drkoS5MkneHMPkMk=",
-                "mac": "aWmurxNUxtrhL0iLNl8j2Q=="
+                "orig": "You can get more CP by \\c[3]growing your level\\c[0] and from some \\c[3]special artifacts\\c[0] that sometimes get awarded to dutiful \\v[lore.title.seeker]s.",
+                "text": "Tu gagnes plus de CP en \\c[3]montant dans les niveaux\\c[0] et à travers quelques \\c[3]artefacts spéciaux\\c[0], que l'on donne parfois aux \\v[lore.title.seeker]s méritants."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/3/message": {
-                "ciphertext": "UwTHQ8roo+gjKTf63p/G47vOdKuXFf4txOjjEiBt6shz/6lfc9YSduNGt1khZYVHyfXwi0axpzmUqzkhc8ZpITFwBfhwcBzh5+Obx76gGg/L04nINqEmAX6vwHXRg1A7dDMvJkj0hGgIb4mqwEuBW5lMhJpcxt01YR3XSOGr/NkDdmWu4UKfa9AcI8Qv22zf",
-                "mac": "E1i2dEihhmbOIXYqODlrdQ=="
+                "orig": "If you have CP you can use them in one of your \\c[3]Circuits\\c[0], either Neutral or one of the elements, if you have any.",
+                "text": "Tant que t'as des CP, tu peux les utiliser dans un de tes 5 \\c[3]Circuits\\c[0], soit le Neutre, soit celui d'un élément, si t'en as."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/4/message": {
-                "ciphertext": "YXF+UDOUQBqYM/f+6bAEqWoFT5j0iJ2Av4mZfMY5C2PPDNmokueGRtvsQqxoiHO0LufDA3fR9jRUEg+kbYcplbyUTYm7AK/44oSVk5GPuLQujLqTjYNOwibnLzfL+eM7n5xqaxUlZl1oCsSI6SUsQA==",
-                "mac": "+4KU9sD8zWSBIMwky2r8JQ=="
+                "orig": "\\c[3]Skill nodes\\c[0] need to be connected to the center and have one of 3 levels.",
+                "text": "Les \\c[3]Nœuds de compétences\\c[0] sont divisés en trois niveaux et doivent être connectés au centre."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/5/message": {
-                "ciphertext": "cGjmzwbclJGutKaEqw67X4LKsKSZhz6Yp2zXbW2N5g2AhG28wnSIjlSiv4sSPXG5yEgOxWdHg95Lk/jNuUbM0gq+D8aqiZwTnH3BqzkTw4E=",
-                "mac": "3uum3D44tT284bzCmubPrA=="
+                "orig": "Higher levels tend to be more powerful but also need more CP to activate.",
+                "text": "Les niveaux les plus élevés ont plus de puissance mais demandent plus de CP."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/6/message": {
-                "ciphertext": "/7YZxy+E33MsCC8b8ikfO2xWW9DlBgMZ4ckMLaVY6RD2lkbmog6YP37NUgTTSuDTcYILx+EeemyS+cjsokIbleaEUiohmYSFt5mQSHTaxuADsQZramTluuMk2YREjQfFGcTAbZhnfrXkfK3ZJIn4lRzU3MZrjc5y4kMScu6FFZXjxlCWNALHHAa7a3cDNehapTqw5uP9UkiRWdfF84Af8m4+oAj+6bvWKP5O0yehnorXCpGGE+ZMpJCMYS0FsShTf8gTgTcvVVNQTbDqUInFATJp3g37E8VgiZqH/gdcovY=",
-                "mac": "2oCw4lCRFG0Bw6gLuKHL4w=="
+                "orig": "Skills on \\c[3]branches\\c[0] can be \\c[3]switched at any time without a cost\\c[0].\\. For the rest you gotta do a \\c[3]full reset at the terminal downstairs\\c[0].",
+                "text": "Les compétences qui sont sur les \\c[3]branches\\c[0] peuvent être \\c[3]changées à tout moment sans dépenser de CP\\c[0].\\. Sinon pour le reste il faudra faire une \\c[3]remise à zéro ici au sous-sol\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/0/7/message": {
-                "ciphertext": "gOnoYlhqEniv/T+tSQxxiAKsm8jAAf0wmgKjH4xPgSU=",
-                "mac": "QsyNa3RYnV8Hvt6Sjg5Hhg=="
+                "orig": "More questions?",
+                "text": "T'as d'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/1/0/message": {
-                "ciphertext": "wzUJj8SgjPm58Z+qtxlMrb2piqU6F6Ma35jWfc0eQ2ZptjXIBR/DY8eDbAjQdWribw/+fvGyfPz52zIw5XlASA==",
-                "mac": "wEk61rGgdUN3U3+7TxqZbw=="
+                "orig": "[nods circuit synergy question]",
+                "text": "[acquiesce la question des synergies des circuits]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/1/1/message": {
-                "ciphertext": "2ZzFmCVMUgAYavTfD/j9n6t0Fb4XYgT8AzhZ4aVDEm8hgtg3KsbJQH+1T00vqm5HApKuLiBCdKJBTZtrJavvcvuE+ZgxYkt+Ncs4SGRDl+C6yfhkHLFXp32gewR+y0j10OZLn96uz7V0EdqN+bXI9fSYMYqP++MJ8K7sXN6r6ko=",
-                "mac": "WX6104K1whHc4pd0/OZETg=="
+                "orig": "See, as you grow as a \\v[lore.title.seeker] you will wield up to \\c[3]4 elements\\c[0] in addition to Neutral.",
+                "text": "En progressant en tant que \\v[lore.title.seeker], tu obtiendra jusqu'à \\c[3]4 éléments\\c[0] en plus du Neutre."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/1/2/message": {
-                "ciphertext": "tFwrsyR/ekqY/Gcg8w4GnG/ljfwSNmrriz1QgQPzts/tEqbrr8UvphrlwthR/F8816mjmtB5xscIinwfy+0tdPQns1N2xi6R9f9O1W3M1KzcGxXbWxrqmcPmgfvRizKzYLrlGPMy/89sqaSueylS1NEOA+ueLwMGtyLtwR61QEE=",
-                "mac": "Hya03a0LosSjwq6TNNKGUg=="
+                "orig": "Each of them have their own Circuit that \\c[3]only empowers you with the right Elemental Mode\\c[0].",
+                "text": "Chaque élément vient avec son propre circuit, qui \\c[3]ne s'active qu'en étant dans le bon Mode Élémentaire\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/1/3/message": {
-                "ciphertext": "IUS0n5quZJv0UJgqpOyz7vdJJZLuzoI+gLG3Mlt4JKv/j/2QbtsSOj/aglKYI4Ic7gCdd5qpC9Zt9WZ5NsKKa9cNbQsageIQz2Mg1SOvxy+KPd/gTSTZtvV1PgSXOQUS",
-                "mac": "n33IveRGUCkKKcvbp54XyA=="
+                "orig": "An exception is the \\c[3]Neutral Circuit\\c[0] that represents the very core of your Circuit Board.",
+                "text": "À l'exception du \\c[3]Circuit Neutre\\c[0] qui représente la base de tes circuits."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/1/4/message": {
-                "ciphertext": "x5Cim0skqPWkiLlHOxyGWyOWcFT/BR5WR825CTVTBw7siZQ4JbPnZRVPOtP98zTC53y+XuudDYGQ+KPREz7STkGGzUKqfp1RU2m4M9Fp+ydzPv9Zr3CWHQOAwdeLiPeQWaW6ER7Edw1WTylWtp3kgInlz+l1EtdOALQ46XM3dVw=",
-                "mac": "wSIuJGSRxmB6WuEZnUvPYw=="
+                "orig": "Activated Nodes on the Neutral Circuit also empower elemental modes with \\c[3]50% of their values\\c[0].",
+                "text": "Les nœuds actifs sur le Circuit Neutre sont également actifs dans les modes élémentaires \\c[3]à 50 % de leur valeur\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/1/5/message": {
-                "ciphertext": "gOnoYlhqEniv/T+tSQxxiAKsm8jAAf0wmgKjH4xPgSU=",
-                "mac": "QsyNa3RYnV8Hvt6Sjg5Hhg=="
+                "orig": "More questions?",
+                "text": "T'as d'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/0/message": {
-                "ciphertext": "8Nw1IBzX4Mhc5gouuWOjn3tczZ03b4af55AucV1wfiLnU4eV62teEE6qiVgkGrCvJSQobAkl5NgOpmidOq1RIiuRClqQe6UkAGCmvG2NHc0Mks9KpoBxk66nEfpuDyEiJ76v0PFaiTrs70r632UHWQ==",
-                "mac": "I8ByldLxi4uyuTevtFlnrA=="
+                "orig": "Ah, some modifiers can be tricky.\\. Which one confuses you?",
+                "text": "Ah, certains modificateurs sont vraiment difficiles à comprendre.\\. Lequel d'entre eux te pose problème ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/0/message": {
-                "ciphertext": "mJjH143yPWm0vAHWD54lTB++327VFnaGB4l9mcnVyjID4m0d/skRIlbI6r2aA+wJ",
-                "mac": "uRkEzMo9+/xIJl5Kj0cQKg=="
+                "orig": "[nods Iron Stance question]",
+                "text": "[acquiesce la question pour Inflexible]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/1/message": {
-                "ciphertext": "Y5ssbP3+54L6iEvWK965E7YwX2LqzOpf7Zr2XctXVhmlmcLudEUnjJf6GQtG9IYyX0HyZRDrfhDI1695XXGFHYJZVfQ2BGl8+PkBQaS7WmJ+0PqIY0vSaDoD6owOwdj+ygfrnafpLa+kUauXAlPu7ku5X5QGZw3sWaWgExFQr7GOZKQLM3PG2+neaf/jjzk+98HyFbdbTRzmnBZ7l19eteNxpgprJ/4VdTXj7DbK2kk=",
-                "mac": "QY2BgRdTlA+jLM/yvfYLuA=="
+                "orig": "The \\c[3]Iron Stance\\c[0] modifier lets you \\c[3]ignore the stun and knockback from attacks\\c[0].\\. So you can just keep on fighting!",
+                "text": "Le modificateur \\c[3]Inflexible\\c[0] te permet \\c[3]d'ignorer le recul et les étourdissements des attaques ennemies\\c[0].\\. Comme ça, tu peux continuer à attaquer !"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/2/message": {
-                "ciphertext": "LmfXHeRjGMYILVjt+RjaTY+2Wz5sc3oHIS++vKqW1nhRJusTM519SriXzi7xXe4BQiqMVMu82Mqo/dKpMSVhDKqTYXtZ7x08cUiwlZscyghesiJ01+FdaCSWLgh1fuCcViyCJoTGvA8qsaLUWJ6xaW+KmO74W2JzggMosAs1CUk=",
-                "mac": "S7VGwCB4GhvAzl/MXMIJbg=="
+                "orig": "Though you can only ignore attacks up to a certain \\c[3]limit\\c[0], depending on their \\c[3]damage\\c[0].",
+                "text": "Mais tu ne peux ignorer les attaques que jusqu'à une certaine \\c[3]limite\\c[0], en fonction de leurs \\c[3]dégâts\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/3/message": {
-                "ciphertext": "UFnD5N4c6VG19OkUvXFPQgataZZM8L8EDfN+sErifmdttT2UUtc4dsziROMmVQ3lnDzn76iGwBZvnh6Gu2lzOThuUlzgdzKvoT63T9cn9TorRSfUxGerhpdWOTk/23o3fItwKQWpPEaA4lxqueJz8kKoHD7D/vLBqXv2awrlv18=",
-                "mac": "+mwEEKRlL/PjaEAIAmnk5w=="
+                "orig": "The \\c[3]maximum damage\\c[0] you can ignore is the \\c[3]Iron Stance percentage of the Max HP value\\c[0].",
+                "text": "Les \\c[3]dégâts maximums\\c[0] que tu peux ignorer sont fixés au \\c[3]pourcentage d'Inflexible de ton HP Max\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/4/message": {
-                "ciphertext": "KhOSlTXmrJ1wKRQq/lldceueBkb+crD3V3c0SuVP0OCyfDPOuL6qRV0IcyH4UErTwgzAk8Hjb5QBh/mND0BTH5ka4WJFWczhnbTTZpxELbcDUb7sxNQQcVHT0rZbPDEZ7SCtPrI5hyY+NSxo0w/gscEQk2p6H2FDeAayV+IdQcrAPXi4dObmpzwX3l0ckQtk",
-                "mac": "ovb1p4U40BppI+bkwBpsmQ=="
+                "orig": "So a fighter with \\c[3]1000 MaxHP\\c[0] and \\c[3]10% Iron Stance\\c[0] can ignore all attacks of \\c[3]100 damage or less\\c[0].",
+                "text": "Donc un combattant avec \\c[3]1000 d'HP Max.\\c[0] et \\c[3]10 % d'Inflexible\\c[0] peut ignorer toutes les attaques de \\c[3]100 HP ou moins\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/5/message": {
-                "ciphertext": "Mhj8zEYzZTXx6unZV0lT7bKYMCUiR8A0hhwwwBqlLrio2yeIKju76e482mL2e2XzqdQUddZPCciiF2CzPUw3B+xz+ln51Zt0Pas/JKLhCyg0UKzwnUqtnV0ekqhtB3rnN8GKGVrd2gmiuDhHC2p8fA==",
-                "mac": "wh15v8J5IVWNfHxAGSiFjQ=="
+                "orig": "Obviously it's more reliable against many small attacks compared to powerful hits.",
+                "text": "Bien sûr, il est plus efficace contre plusieurs petites attaques que contre les plus puissantes."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/6/message": {
-                "ciphertext": "JIBj++GTZTAO2FsEhVT563j76AumTQ4JrSuzcOWRkQsLgOrvLcvTuP3Qjvuz4ErzZcYMeb+I9rRe4Z41YLm/UJxBeFHTW4byefETlMk7vVs=",
-                "mac": "gFAfRL9juO1s3zuWAXFunA=="
+                "orig": "And without a decent Defense and MaxHP you won't find it very useful either.",
+                "text": "Et sans une bonne Défense et HP Max., tu ne le trouverez pas très utile."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/0/7/message": {
-                "ciphertext": "2jG3HmvGfRSi27zSEvrtXlpbPAZYMD13Q1rVDlQiDe6zRX1ALjbMfxR1b9+fQb1Cf2t2N14wOnnzcWjjXlLZsA==",
-                "mac": "XnLqOPOi1Z+jhQs7cXjq2w=="
+                "orig": "Any other mods that confuse you?",
+                "text": "Est-ce qu'il y a un autre mod que tu ne comprends pas ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/1/0/message": {
-                "ciphertext": "NA0+howhJeEcuH8x21kfNljshoVSeAXIsBxm0ngnrrIxf9nPj2jw1PTGETTamdDK",
-                "mac": "aIloYJA3wojnd1/0OxhKYg=="
+                "orig": "[nods Pin Body question]",
+                "text": "[acquiesce la question pour Piquant]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/1/1/message": {
-                "ciphertext": "JYZD0jx0qVlpYkH7746pQj/zANZYKPxWyYdPc4LgqMVJC/Ki8D1l1JHeWJnN6J2eB+0+/XmIgAZgSRJCYnWavNozmb0kCOxIdmMcDm1vgd3Fc9hXwTUIs4Ij1R+DutiSMFVlJ/CvGygklbkBKPjpBset2zP2kozNeFBbPHI+Yhrttm27mEMH7KfR3TlB54i6",
-                "mac": "Dj7mN8qWrFftIHeO+KGfFg=="
+                "orig": "The Pin Body modifier \\c[3]reflects a certain amount of damage\\c[0] to attackers when \\c[3]blocking\\c[0] their attacks.",
+                "text": "Le modificateur Piquant \\c[3]retourne une partie des dégâts\\c[0] à l'envoyeur lorsque tu te \\c[3]protéges\\c[0] des attaques ennemies."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/1/2/message": {
-                "ciphertext": "TbrCq0WwxaYzZ65+KYyU7xiZxIxMW6ojMEVuqEL4wjf8j1ut8Hc9MS2MGiVe66GjBcyLbWHjJVAY4ptNO1EEnau81+JYuKbD6+Tg6g69hxJYdU/41YRMJunimH8OucMgBKS6Pli0TtlG/DYxUGaq5/43MLXu512Qs6moHq5645k=",
-                "mac": "huz4/SQz+1ulVUnRg2BZ5Q=="
+                "orig": "The reflected damage depends on how much is \\c[3]absorbed by the shield and your overall defense value\\c[0].",
+                "text": "Les dégâts renvoyés dépendent de la \\c[3]quantité de dégâts absorbé par le bouclier et de ta Défense\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/1/3/message": {
-                "ciphertext": "uB26M2Fj9H0R3BddBY4384BJssl6hlI53+TgEvZv5Z8h9qL2WI+8vpqsuE9QulrMH0DU1X1ArwTMgs1rMlFWO0hYjW/yOCQRRW1CgA/iVms5awHHL4uA7KpsCNWrA2d5Xh/mR4U+zg6GhIj1Prh2GFEshAus2XWbgLgjHypPPKv1+9+oXQ1gHJj6KNo4twN9",
-                "mac": "bY0lYW7L1Hww7+EJ9pEVdg=="
+                "orig": "While the attacker's defense reduces the damage as usual, the \\c[3]defense of the defender further increases it\\c[0].",
+                "text": "Alors que la Défense de l'attaquant va réduire les dégâts renvoyés, \\c[3]celle du défendeur va les augmenter encore plus\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/1/4/message": {
-                "ciphertext": "oumzaozY8TR6dWRMridnmzTqhGaz7ozqNw9jV/LReW2xJ6VDZSPy8zS5XYtDUtNDhOOB9+w7TZkR69bWLk9U6v8MYJLyE7CPNIDcSaSgae0d0nDwXuP8jKPbWMRoYgiLS1p2leaIjhg4vPQHLJHNayOSSuavMQv8DJJtRs33KScaF9HpmYKqPP8NIx1nVAZrMSxMLZ2Y4EP8uOkoYKvMrQ==",
-                "mac": "O7iKsK//CXm4cqw92CT0Iw=="
+                "orig": "Thus it is a very useful ability for defensive fighters.\\. Just tank your enemies to death, mate!",
+                "text": "C'est donc un modificateur très pratique pour les combattants défensifs.\\. Encaisse les attaques des adversaires jusqu'à qu'ils meurent, mon pote !"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/1/5/message": {
-                "ciphertext": "2jG3HmvGfRSi27zSEvrtXlpbPAZYMD13Q1rVDlQiDe6zRX1ALjbMfxR1b9+fQb1Cf2t2N14wOnnzcWjjXlLZsA==",
-                "mac": "XnLqOPOi1Z+jhQs7cXjq2w=="
+                "orig": "Any other mods that confuse you?",
+                "text": "Est-ce qu'il y a un autre mod que tu ne comprends pas ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/2/0/message": {
-                "ciphertext": "WNPgqjCwTvCygqb8NU4NqT/DzbF+1ZOUN5EdjPeT8fNOvSY/hkLpf++Wnp2Rqeco",
-                "mac": "vrovabpSyyBt2niIea1Ujg=="
+                "orig": "[nods Assault question]",
+                "text": "[acquiesce la question pour Assaut]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/2/1/message": {
-                "ciphertext": "psp2mxaJyLjF7RvTPxqHAYjlXQbQCrVw+KFCKJJo46ybkbrCxhHg9ZwqKV+cM5duAfBV1X6uYXXLIvP0acYaRVmxfR9BNMmckiP8PQx1mExScMe6C5Pre3VOUEFU38W5TBD6v+LqWLbdRfN4dflfEg==",
-                "mac": "7j9IwjLuSip0v9E13hGTGA=="
+                "orig": "The Assault modifier adds \\c[3]additional shockwaves\\c[0] to your melee attacks.",
+                "text": "Le modificateur Assaut ajoute des \\c[3]ondes de chocs supplémentaires\\c[0] à tes attaques au corps-à-corps."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/2/2/message": {
-                "ciphertext": "UCTJ53X60BT4I62risjPAqXxCiC5L4UZTGtCjkUXxWgd9ynGyp/0+efyG3UwgnZYHtX0HEzkJQwXkLPBsZPkc4kfCl1eO5FcB+iqE0ErTDeIYkpAQYy3O6SriTN6mOI3VUE31IDKEbdpTL5V+yluNNpPaEq55LX/AIJfeGd6npU=",
-                "mac": "ytwq9vziCh7ewfwsp+NjPw=="
+                "orig": "The total strength of all shockwaves is the modifier percentage of the normal strength.",
+                "text": "La puissance totale de toutes les ondes de chocs est un pourcentage de ton Attaque égale à la valeur du modificateur."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/2/3/message": {
-                "ciphertext": "NFjZ0yFIdEl9AvRAWvdfCAsOV8gdbyyFoN9vOsvN7xVgud8ZQnPo93X6Bk6Uhdp3yreTzSfLHoT95EsBnGHGjTARUHWO9wVdrKmOhsMC6+lV3vrXpVf8EYx5XTvrNg3ET6edqQfWP706D6MqBJHuBsLax4DuUdtkZRm8PFn86EGJgyf94coVJUJLxmpRbWAas4QnOrV+i8F17YJIu7MfasNC1X4GJ2qiZPftJcFBag4=",
-                "mac": "Yd3ogVfXC25avrCM/KvY5A=="
+                "orig": "\\c[3]Additional shockwaves\\c[0] will appear each \\c[3]25% modifier value\\c[0], though the overall damage stays the same.",
+                "text": "La probabilité que les \\c[3]ondes de chocs supplémentaires\\c[0] apparaissent est de \\c[3]25 % du pourcentage du mod\\c[0], bien que la moyenne des dégâts reste identique."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/2/4/message": {
-                "ciphertext": "2jG3HmvGfRSi27zSEvrtXlpbPAZYMD13Q1rVDlQiDe6zRX1ALjbMfxR1b9+fQb1Cf2t2N14wOnnzcWjjXlLZsA==",
-                "mac": "XnLqOPOi1Z+jhQs7cXjq2w=="
+                "orig": "Any other mods that confuse you?",
+                "text": "Est-ce qu'il y a un autre mod que tu ne comprends pas ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/3/0/message": {
-                "ciphertext": "7ngn7FuubzC3RN7J9q7WCeSSry3b9n+eCXtvTupJDE8MDBkzaLbl3biX+VoaraWs",
-                "mac": "oTiK4iueux4tA65j7oNPaA=="
+                "orig": "[nods Cross Counter question]",
+                "text": "[acquiesce la question pour Contrecarre]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/3/1/message": {
-                "ciphertext": "anxZPTjWzKPtd5WlAp41yu7RovkdZQ3WVNk3KMvX+CbWKi6LnLY004Pbh/ZUB2TWa1h2c0/Uo54VK4gES74ZjelyMk5NmpEYZXR157Hfnxg7ckfMpIrHSPweBFp9g7fu",
-                "mac": "zy1VH0jlviBwQsE0VaEGAw=="
+                "orig": "The Cross Counter modifier increases \\c[3]damage on a counter\\c[0].",
+                "text": "Le modificateur Contrecarre \\c[3]augmente les dégâts d'une contre-attaque\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/3/2/message": {
-                "ciphertext": "Owmp2NpyA8DkkMEv3AcKm8+kY7BWt4+TpcFJ1WKpQzqA6oKV5JZbc+HP5F8IT4VxnCBrXY0rJyvfJDcLnuK6XV3JigS4aeuEcgYfbX68ZGR8U25xWLESP+pTDhfe3xelFor6SVnZ+qup9NigOVt5O6mtt568fg/+vYF4n2v5JavjWepWj+hwtOh55DoVgrjA",
-                "mac": "Pa3efd8CspK6jBqzlclzQQ=="
+                "orig": "This means attacks against enemies that are either \\c[3]currently attacking\\c[0] or \\c[3]preparing for an attack\\c[0].",
+                "text": "Cela vaut aussi bien pour les ennemis qui \\c[3]sont en train d'attaquer\\c[0] que pour ceux qui \\c[3]se préparent à attaquer\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/3/3/message": {
-                "ciphertext": "2jG3HmvGfRSi27zSEvrtXlpbPAZYMD13Q1rVDlQiDe6zRX1ALjbMfxR1b9+fQb1Cf2t2N14wOnnzcWjjXlLZsA==",
-                "mac": "XnLqOPOi1Z+jhQs7cXjq2w=="
+                "orig": "Any other mods that confuse you?",
+                "text": "Est-ce qu'il y a un autre mod que tu ne comprends pas ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/4/0/message": {
-                "ciphertext": "m91APE9wPP3511ZYg7JkYncPaYzSPnKlRBAQxDUnw7AOhWE1GybNxxdm8/JO7pQl",
-                "mac": "xHjcYwuf9AwymDmOJzCvYA=="
+                "orig": "[nods Bouncer question]",
+                "text": "[acquiesce la question pour Prends Ça]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/4/1/message": {
-                "ciphertext": "WnOYTHFpGoSrHhv/UNi+Uk16IzAvuFAWQRiKGwLW6rm0q/vOdgij2jKnOb/vmLVn5+W1AfO4g5OAdSW7lLAAfuH3BDdb35+pje98G3y6RWzFcyCyZj9MznztsoQzia8R",
-                "mac": "pZd8PuAtYcVGSe95QSAeqA=="
+                "orig": "The Bouncer modifier increases \\c[3]damage against weakened enemies\\c[0].",
+                "text": "Le modificateur Prends Ça augmente \\c[3]les dégâts contre les ennemis affaiblis\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/4/2/message": {
-                "ciphertext": "hxgJjE9xmVK/NF0C+Z+O4JmVwzXh+/OpHSqgz4YzSm3nQWkLffGO0Og+NkJ3wzpN3lOb8r+RQVmqWnCNGaqblMRzwEcrIDMG59SIhJMiHmsjkh6IyXy1unueNNo0wG4z6Hxle8570opk184tUqNcjcmgFLWLUK9FQV3lgO9f24F8M4TiIkDZwm8GeSnIKKWCKDKUj3as8vRQrZM4I3TTaayrz0dHyXcDGHLgHIUsH4g=",
-                "mac": "5eWdzgOc/qnMUf7AxYEERA=="
+                "orig": "This explicitly affects enemies that have been \\c[3]broken in some way\\c[0].\\. Breaking works differently for every foe.",
+                "text": "Concrètement, cela concerne les ennemis qui ont été \\c[3]brisés par un moyen ou un autre\\c[0].\\. La manière d'y arriver est différente pour chaque ennemi."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/4/3/message": {
-                "ciphertext": "Vd2LDYj3KY3GIEg5xDyq3rYGFOum6oFlX6tvJo68oGlmoHklJmlLk9FQMLjosQKIRSVAQiT8PZUFslbuBQZ7zISO99M+lzWLr/iXd4VmaFDQy7q+yRy4/DL0+64Htl3UHu6aQFzJ+bdiK9VodsLdfxQllo4q1dIwg2THz0GMlCUZrEUsJ6YRBEVf0sndF1fI",
-                "mac": "+Y/dnuhMb3nY/XWhafKY6Q=="
+                "orig": "You'll find this only in special equipment, though, not in any Circuit.",
+                "text": "Par contre, ce modificateur, tu ne le trouveras pas dans les circuits ; il est seulement dans certains équipements particuliers."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/4/4/message": {
-                "ciphertext": "2jG3HmvGfRSi27zSEvrtXlpbPAZYMD13Q1rVDlQiDe6zRX1ALjbMfxR1b9+fQb1Cf2t2N14wOnnzcWjjXlLZsA==",
-                "mac": "XnLqOPOi1Z+jhQs7cXjq2w=="
+                "orig": "Any other mods that confuse you?",
+                "text": "Est-ce qu'il y a un autre mod que tu ne comprends pas ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/5/0/message": {
-                "ciphertext": "LjTCTdDJKlWkTNGv51vnVQBuCTWqvIwXDEOYsHLlBZ4nMTrWeRQKN+0Zosg23t5E",
-                "mac": "S18vy5eGJ6JscK9/IjuB9A=="
+                "orig": "[nods Momentum question]",
+                "text": "[acquiesce la question pour Impulsion]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/5/1/message": {
-                "ciphertext": "mviaZPV41BWAWYRFKntEa/0BpsI5Tb6ju6CjP54ANbQmd9J41TcIQkVcWIWy+irYTUOOSqOQ2cNUMCIoQ/Coq9x7D5Js0ZgkSOkHYll8OrHXrLmmFLTgfAXwrJ9G2MxFjAF8WWvquFC7kfgLeEnqeAiIHJ9C9VVqy1BlR7FGndrw3yb7+pqwjekCjnOqIZgh",
-                "mac": "rAUhO4wn2CXneY8v9iQRwg=="
+                "orig": "The Momentum modifier increases \\c[3]the damage of any action\\c[0] that is executed \\c[3]directly after dashing\\c[0].",
+                "text": "Le modificateur Impulsion augmente les \\c[3]dégâts de toutes les actions\\c[0] que tu fais \\c[3]directement après un sprint\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/5/2/message": {
-                "ciphertext": "xOsXVeuQPegCHZYz8ozHvyP/23lvcEZO1/yF3NDetCx82+PNU9Jj0yvRMOwKEETNlsm8vdsR+g9Tv1uqwazHVoDZFbg/NNQCuAV7jyoZSPHrcNEu46mFdok7rPvkLfmSJrRoMD89PsHKNezknRHcyyaBonIohTyBs3JE/u/erRSm545NDKzRd49oZ+LLypZg7nwfYTKuM4dRKlVejZk3Ng==",
-                "mac": "ToyJWQhsXEzP8HvlCgbr1A=="
+                "orig": "The modifier \\c[3]can stack for every dash you do\\c[0], so \\c[3]dashing 3 times with a 10% modifier increases your damage by 30%\\c[0]!",
+                "text": "Ce mod \\c[3]peut se cumuler pour chaque sprint que tu fais\\c[0], donc \\c[3]sprinter trois fois avec ce mod à 10 % augmente les dégâts de 30 %\\c[0] !"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/5/3/message": {
-                "ciphertext": "g+jX5eCDJy2HuQvm0sRcHchtlUzd285/SoARfeB9Lyk6U3EjZXlJj1koLD+ulK+XI35Yuc5thbzxlwuau3rpBkET9WAJ/lEZny0c/X2n+gwgLIE+NzWQSHG/P3cJZMZvX5iJbjwukz663WaAUvgYKeLzGDGsQdVob+zM6rEZBbY6lJ1LdtX1nBqQ6you3xXUVmeJ5OJ/4rNjr2Cprn4Bk2vccbPvrGbhAAN5DgznOtOmropcbIMhjGVsmrigmLJD",
-                "mac": "3R2VLULREnSOFf7YN9DvDw=="
+                "orig": "The bonus will affect \\c[3]one action\\c[0], no matter if it's a normal attack or an entire combat art, as long as it's executed \\c[3]quickly after dashing\\c[0].",
+                "text": "Le bonus s'applique pour \\c[3]n'importe quelle action\\c[0], que ce soit une attaque normale ou un art de combat entier, tant qu'il est effectué \\c[3]juste après un sprint\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/5/4/message": {
-                "ciphertext": "ZJ9P1Y9UkAk+xCCznKc/H1rl8gqbymrQPLF/yz34ZlGT4AxknfmSTp+oPdTuajS6cKbP2rM7pjyVXRC77+xLDNgRPGQ5fI3QVqpz3+U7Wr0gO7J+AUGt7/ySQulSel2vExSrxaMY+58JxwAOvFpGieprTME95LFWX3OpFiBoZsDZ8ZMmfg9DrMIeiwyXStpS",
-                "mac": "cCWJAhSIAXPZN8ycIrG/KQ=="
+                "orig": "You'll find this mod only in special equipment, though, not in any Circuit.",
+                "text": "Par contre, ce modificateur, tu ne le trouveras pas dans les circuits ; il est seulement dans certains équipements particuliers."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/5/5/message": {
-                "ciphertext": "2jG3HmvGfRSi27zSEvrtXlpbPAZYMD13Q1rVDlQiDe6zRX1ALjbMfxR1b9+fQb1Cf2t2N14wOnnzcWjjXlLZsA==",
-                "mac": "XnLqOPOi1Z+jhQs7cXjq2w=="
+                "orig": "Any other mods that confuse you?",
+                "text": "Est-ce qu'il y a un autre mod que tu ne comprends pas ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/6/0/message": {
-                "ciphertext": "gOnoYlhqEniv/T+tSQxxiAKsm8jAAf0wmgKjH4xPgSU=",
-                "mac": "QsyNa3RYnV8Hvt6Sjg5Hhg=="
+                "orig": "More questions?",
+                "text": "T'as d'autres questions ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/0/label": {
-                "ciphertext": "sN6ARsZw2Fxh5RMdI0MZ+w==",
-                "mac": "Bh0IRFkdVwaG3bBPOtbu0w=="
+                "orig": "Iron Stance",
+                "text": "Inflexible"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/1/label": {
-                "ciphertext": "sokP9QBRJ4W7N2S3UogvDQ==",
-                "mac": "WZ2YR2KjSJ4ZzffIYAFTXA=="
+                "orig": "Pin Body",
+                "text": "Piquant"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/2/label": {
-                "ciphertext": "jREnYYzGJ/dVRZplCdMRDQ==",
-                "mac": "L03Zho8gCOpJv+jfuF6AiA=="
+                "orig": "Assault",
+                "text": "Assaut"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/3/label": {
-                "ciphertext": "OvUrrLsJR1qoslB0DgwH+Q==",
-                "mac": "bsaN1P9C5O+9fALPaK7xLA=="
+                "orig": "Cross Counter",
+                "text": "Contrecarre"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/4/label": {
-                "ciphertext": "BplJpL5BoOOVHMFfUcTpZA==",
-                "mac": "tsKW7XVr2YARpIj4GmAyiw=="
+                "orig": "Bouncer",
+                "text": "Prends ça"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/5/label": {
-                "ciphertext": "5jrJB6LYK77P8yn6FgL7pQ==",
-                "mac": "W/cw4gY6SVGlns5lKEVU1Q=="
+                "orig": "Momentum",
+                "text": "Impulsion"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/2/2/options/6/label": {
-                "ciphertext": "oRJwChfG3i3a1ANGC6+mtMibrzAOb7v92hSZXxiVOG0=",
-                "mac": "+BKupfWS4yarj2QR/xOOjA=="
+                "orig": "\\c[1]Other Question\\c[0]",
+                "text": "\\c[1]Autre Question\\c[0]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/3/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/3/1/message": {
-                "ciphertext": "ohEilKrDgee6naiCnlpWi6i3D4z+DMB6jR+UIUh2kX2kSrXCEi1DkNrB3oRqYXiGeqDUGcSH/I0kW9Xg33yXAV49fM6cp6PLztb34S0uAn6zTHHSedhitevsX0IgDxYu",
-                "mac": "94DTz+7wHlbuz+07ppN+XQ=="
+                "orig": "Alrighty.\\. Come again, whenever you're confused about skills and the like.",
+                "text": "C'est cool alors.\\. Revenez me voir si vous avez un problème avec un Circuit ou autre."
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/options/0/label": {
-                "ciphertext": "VaDN0yJZOaoryKYeFEGuqJJVRuihhw1opJJ8f7I3dxg=",
-                "mac": "OX/vJJzoBA7lpaNcXR79ag=="
+                "orig": "Circuit Functionality",
+                "text": "Fonctionnement des Circuits"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/options/1/label": {
-                "ciphertext": "u1Z6SW5+TuMsGE0tVOyxVsZJp6XWMNwbDCUmonPMt+E=",
-                "mac": "UyL+qTKLVXSKtLi2hM09dA=="
+                "orig": "Different Circuits",
+                "text": "Synergie des Circuits"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/options/2/label": {
-                "ciphertext": "PPaMLKBc/8DTqWmERxRRCd6KwGVHEY+SqXcEfnxJZeM3L+Mz8uNR2RsW6me8QbiqoPDC13AxD9b1jgJMwawDlw==",
-                "mac": "AsIN3kX4QINORAuhS9sVog=="
+                "orig": "Specific Modifiers \\c[3][new page]\\c[0]",
+                "text": "Modificateurs Spécifiques \\c[3][nouvelle page]\\c[0]"
         },
         "maps/rookie-harbor/inner-info.json/entities/28/settings/npcStates/0/event/6/options/3/label": {
-                "ciphertext": "vGW5IE8sZkNj0XvX8I4U+eblZNtxc10fwZHUAyRyXtg=",
-                "mac": "q3CB+K/XpEIBvD16byCXCQ=="
+                "orig": "\\c[1]No, thanks!\\c[0]",
+                "text": "\\c[1]Non, merci !\\c[0]"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/analyzable/text": {
-                "ciphertext": "G1/J8gfvxEZDOXpE3LDeDQ==",
-                "mac": "fTCEPy77G6klDi6JpLTJLw=="
+                "orig": "Ela Mint",
+                "text": "Ela Mint"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/displayName": {
-                "ciphertext": "oE2k6OU0t2raR0nIvZAK8qGFpdhUzh4EDUpK1na9SHs=",
-                "mac": "Sz9ZnWpypqgqi8lBqU2+bA=="
+                "orig": "Element Helper",
+                "text": "Assistante Élément"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/0/name": {
-                "ciphertext": "G1/J8gfvxEZDOXpE3LDeDQ==",
-                "mac": "fTCEPy77G6klDi6JpLTJLw=="
+                "orig": "Ela Mint",
+                "text": "Ela Mint"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/elseStep/0/message": {
-                "ciphertext": "bCOsu17olPNFiqJJgaWFwGvcCI+8iFTUnhZxiIXDpTKKptRC7fp5SXYWFVnRJsYIAPuLWZrZuUc/dV4tLAa3AA==",
-                "mac": "Me7NKbnjLali/BgRR3DEIA=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/thenStep/0/message": {
-                "ciphertext": "WaQef6ftDxeOtWLdgYiNC1IImK/b0ciSMoKYNGBBcgIB4KhNtRLAW8KEbYgw9jC91L1iKuzKOZ0tSU6hPSo8dfefOizpAejhkD98tpUxKkQU8qCC4KV7H09C8n0gIwT1",
-                "mac": "r5JGSlYvwgWN7jUDfwjRVg=="
+                "orig": "Yes, what is it?\\. Who dares interrupt my science?",
+                "text": "Quoi, qu'est-ce qu'il y a ?\\. Qui se permet de m'interrompre pendant mon expérience ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/thenStep/1/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/thenStep/2/message": {
-                "ciphertext": "5KHt0TWyKBWoi8RO47CffVld2EqDYcI9HG5mQlAgc2k5XRd1/GRD1i2qP445Xzi0z5uaYAsZgUAqH5qcKsE3Mt8p8sS7o7/9GRfgJq/O2fRSNmACiL1nyy6PrnkgmilRkLAJ6sbdMY2/h+MriooZkQ==",
-                "mac": "B8ueU3uAGdiFaNeO4/TupQ==",
-                "ciphernote": "1kmrbaCLF0qwf1r5cVXhcx5rnyqPf3v/FNpGxoE+h2k="
+                "orig": "Oh, it is a \\v[lore.title.seeker].\\. Oh well, you might be worthy of my knowledge.",
+                "text": "Ah, c'est un \\v[lore.title.seeker].\\. Bon OK, vous pourriez être digne de recevoir ma connaissance.",
+                "note": "would have used shared..."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/thenStep/3/message": {
-                "ciphertext": "OuzXWS6vatLrig7qeWOOnKbK+P5aam2B5/aj3zJrDydyLk4oF404M9BAryHTiw+WA+2tsZnVuyGKdS27hnSxTg6P2GHiNh4mMt/jRgKRRHN6XqXX52GJJfAfxPwcglbOpOS7Uehh0mfDPnKhjEjFQ0OuZJpUsVfz9IAa1S2ktmA=",
-                "mac": "LrP3AtVKqDQmiTjCnmIrEQ=="
+                "orig": "You must know, I am the greatest expert of Elemental Science in all of Southern Rookie Harbor!",
+                "text": "Vous devez savoir, je suis la plus grande experte au sujet de la Science des Éléments de tout le sud de Rookie Harbor !"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/thenStep/4/message": {
-                "ciphertext": "1DZkw1knXAOMT6URHwbFRL51HHpz2e21Mh879WkN22mQpeSnChJ9m93wVzu7zPv010b7dkV5OjO60mvftyIVQQeeq4VIr6Qz8bqPK0BLDp9h58NoabpqoeH5N2SOVKRc",
-                "mac": "O9cZhfcyojTctmPLFeynjw=="
+                "orig": "So give me all your banal questions and let me enlighten you!",
+                "text": "Donc posez-moi toutes vos questions banales et laissez-moi vous éclairer sur le sujet !"
+        },
+        "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/3/elseStep/0/message": {
+                "orig": "You need help from my genius?",
+                "text": "De quel sujet mon Génie peut-il vous être utile ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/0/message": {
-                "ciphertext": "4HupRixnmHUvzlEuyU8XsY7SUa9dIPhFj6Aa/fJe5o3h3I9uUjbvFNrb6MgjIUr8",
-                "mac": "1FJlchPy1XrIHImMF9sOew=="
+                "orig": "[nods elemental question]",
+                "text": "[acquiesce la question des éléments]"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/1/message": {
-                "ciphertext": "OaiK9vgUDy90PGNqN4Dvo88FNrPbgUkfUXLcEaKB27TAv+OG9ZXZGYs9Y/LOXvyMhJZTUYsuHbXQKxyn7R/pMw==",
-                "mac": "Qk+cUy9KBhBzyqmVhY2YyQ=="
+                "orig": "Oh, you still need to understand the basics?\\. Alright.",
+                "text": "Oh vous avez toujours pas compris les bases ?\\. Bon."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/2/message": {
-                "ciphertext": "mVSSHUs04P03cq5X4v26U5QNJBb0xqYtkhHpwyGsslTAucduXWQfMBnVjkWUECUziIabd1CbQQ34j7FgEz+WBlMrojOVosJKETChs/W947Tp80Y6djcIb+xJk9P9plxNPSmS38UrfXqvyu704DZ7kxsVTDozM3CbKvsUTP/zcXr1OixbTvdIgf7xiRVh2U2G",
-                "mac": "WASiuSKn40SGm39HrcpUDA=="
+                "orig": "By drawing upon the power of the Track, \\v[lore.title.seeker]s can extend their basic abilities with one of \\c[3]4 elements\\c[0].",
+                "text": "En tirant parti des pouvoirs du Tracé, les \\v[lore.title.seeker]s peuvent étendre leurs capacités de base avec un élément parmi 4."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/3/message": {
-                "ciphertext": "crLz6XT+VJksYeD3d2++st6Z1AhvCpos/CguGSgB9u7foiwzOzj73gUs90A2juzxhZL7OspXmgqNjYQO04+oDxYSBKRvyyUP+xPZ41mEdTuTu64bTqE0DiFfJAGIYcSMk4SkAqbXZ8lHyfgFk2FEKgWgj2U4eOMPnIEWcsftRjk/pkkMMtf7lDqpjvtwRD3ZWeKHLT5PVfmil1S59rjVCb+b37dCQIyL3/qsepDi0FM=",
-                "mac": "uRZxPgs9Km+69xwOyDgCWQ=="
+                "orig": "To actually do that, though, you will need to \\c[3]earn\\c[0] each Element in the \\c[3]Temples of the Track\\c[0].\\. Prove yourself worthy, so to speak.",
+                "text": "Pour faire cela, par contre, vous devez \\c[3]obtenir\\c[0] chaque élément dans un des \\c[3]Temples du Tracé\\c[0].\\. Prouver votre valeur, pour le dire autrement."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/4/message": {
-                "ciphertext": "TcnSgPWgV8drbYZVnBsBB6wEnUfSRhJS46eIN6XVXUxqXkgiMlrrbfaNWiODCW826hnWa8+YLFjhe+3zqsa4e+W1g0auCIq6hE05xf25C+iooMRjYA5wW/ZajsEZ2d8vk4dCN0rQvf2D1ZvUu+zL+swfmIoRjgJRPu1kodbVQBGYfSW6eBPoreD9jvYNVPJ5gr51wXFSWsBAy4ry+KLEFcAjSQBe/5sEYLBer+gbbLA=",
-                "mac": "PaSuTerHtsAY/PRAgMeMCA=="
+                "orig": "Aside from being \\c[3]superior in raw power\\c[0] compared to Neutral, they can also deal \\c[3]additional damage\\c[0] to the right enemies.",
+                "text": "Ils possèdent \\c[3]plus de puissance brute\\c[0] comparé au Neutre, mais surtout, ils peuvent causer des \\c[3]dégâts supplémentaires\\c[0] à certains ennemis."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/5/message": {
-                "ciphertext": "R6cbz/+zzBtcFq3WZZnjiXRHFxLXnSjlcE9RGxvJd+GZ1XS+l9IfM8dypPG6uleTy3YgmbVcezVcKrqxeg3f19Rlw7wF6ixQcpRjCuIIdiCUnucpov4wyqBy4jzzrlS6tvPIXvlPre9R6+GNhgBPxaACfz6JPkzF4BueuCPPOc6AEMvfPc3mYTEh5QAkYEnuBUK8JXUjXiMMeJTZXWr30tEJhcRs9YVM/k6zXkhQID0=",
-                "mac": "5Gv8A6XEFt6TFHnXKY1RKA=="
+                "orig": "However, there's also the possibility of enemies being \\c[3]resistant\\c[0] to one Element or another, so don't turn your brain off!",
+                "text": "Mais d'un autre côté, il y a des ennemis qui sont \\c[3]résistants\\c[0] à un élément ou à un autre. Donc n'oubliez pas d'utiliser votre cervelle quand vous combattez !"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/6/message": {
-                "ciphertext": "1wEJnIaYJnjequHwuMOHHX6aDmeojseU2G+c2MyZoelwEnznUqbSHefNKM844xPlS/rxpIHa7H14dsn7xNAIHmhIky6ZXn256GJASfmv3XuqUx1uOm3FXybv/4trEQwAQaJi1V/Qc4c8DIOVw+QaYmfSr34Zgf1V+QeCbh9258gN2F3WkueLNUpW34D82seHW8n9GnMA02mmJ4h1Q89lzw==",
-                "mac": "7pJPvZ5CCdMF5tlOtVqaHg=="
+                "orig": "This also applies to you as well, so keep an eye on your \\c[3]resistances\\c[0] if you enter dangerous environments.",
+                "text": "Cela s'applique également à vous bien entendu, donc gardez un œil sur vos \\c[3]résistances\\c[0] si vous allez dans un environnement hostile."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/7/message": {
-                "ciphertext": "eOo2AaBYCeGqcgWQhAUcIIzNxLEK54ttmi35O9o9qyVbKGhAcu/GBZKcvN75Skn97boSx06BREpKr6TU+7b7Fwv0VWZ57By/fdQGMWnVQl8GmYwyL0LZUP+rG/77nhP4RuPwCyCyVeC61kx2xMy3PpJmzedQ38Kj4JzbQxQWjyrkRdsz9rYMf2Mwhos4Pfh9z+Lvbig9QvAg0knVc3yDRg==",
-                "mac": "yDouJwuZC2Ht9tf6YFr81w=="
+                "orig": "Also you should know that Elemental Modes incur a \\c[3]natural resistance penalty of -50%\\c[0] to their \\c[3]counterpart\\c[0].",
+                "text": "Sinon vous devez savoir qu'un Mode Élémentaire \\c[3]pénalise naturellement votre résistance de -50 %\\c[0] contre son \\c[3]élément opposé\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/8/message": {
-                "ciphertext": "BqdI8L7X6pfCP7KdTIQ6lMusULe4nxBEjtm7BJxxWkIl2G407/s3HTdiWmBnZ021GD7npBUB8ptGaC5jfkze7zvyjS6wBh49q0qpKU5xVNgMhHXsRAYtP1gYor3Xj3EDx3BYztq6JvyOZ8wc3JqGU06R1rm4qV0RwcslYn3ElA2TQrQKmMmUGK9S6gg17VJUFfebyD4ir6Ptvgw2Xz2G5w==",
-                "mac": "WqPE/kj6n7hm1esItntPJw=="
+                "orig": "For example, using \\c[3]Heat-Mode\\c[0] you will take \\c[3]50% more damage from cold attacks\\c[0], unless you raise your resistances.",
+                "text": "Par exemple, en \\c[3]Mode Chaud\\c[0], vous subirez \\c[3]50 % de dégâts supplémentaires des attaques froides\\c[0], sauf si vous augmentez vos résistances"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/0/9/message": {
-                "ciphertext": "K0z+y5pgeyzr76j/WqNqCA==",
-                "mac": "M8r9OtO+b9/2gwxpjn35Pg=="
+                "orig": "Anything else?",
+                "text": "Autre chose ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/0/message": {
-                "ciphertext": "vwj7eW15quXr3M5lPbDuoJbGlkYhJrTu/q3OX0fzs4mqf3RvZB2gkvvfufyYaBbJ",
-                "mac": "CO8btNlR8APWAzznMKfq4A=="
+                "orig": "[nods overload question]",
+                "text": "[acquiesce la question des surcharges]"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/1/message": {
-                "ciphertext": "K7UYVFuyq4b/UJr3NMSbkjP09Z4WYuvXQQlviT8sr547cSPDRup5eFX5hL6wk+zU7paRGKMpZx/B5XXARIQ2zNxTMLd4D0kTcxxaOK1Ih+/TGt+P3f9q0tW9jVSJN4jJIWCPu3T9DU9AG4GmDIe67A==",
-                "mac": "U5eNbpAYwG1FcT6669Ojcg=="
+                "orig": "When using an element mode other than Neutral, your \\c[3]element load\\c[0] will increase.",
+                "text": "En utilisant un mode élémentaire autre que Neutre, votre \\c[3]charge élément\\c[0] va augmenter"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/2/message": {
-                "ciphertext": "Uybyz5e/j4nLpKU/Gfq9n4hWy2fdjuvrlYx+8TwLpaf733AgHwqU2GlRQpVt1QFP/ou3ceCLOed68yPY0K7kofHjTAN31COFb8s9UP9pF80eHxuovfEhFewQDrlD43jRiQWzpAfbJRfvFZ8cS4m/E65oo5sHFx9OPQ2MVjdv73tG9fkVy2SIxXwn5o3R53Ht",
-                "mac": "DmQ4KYcofFo0PniseLoOqg=="
+                "orig": "This happens when you do any action during \\c[3]any\\c[0] element mode: throwing a ball, doing a slash, etc.",
+                "text": "Cela signifie que chaque fois que vous faites une action, tel que lancer une boule ou donner un coup, la charge élémentaire va s'accroitre."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/3/message": {
-                "ciphertext": "aOvnxBnoJmA06Lfwk4hxtw/09GRoyyo0S5Sl+LCr14F6k4oQauIxmquTyMboWpRr9Qay4X3lbRYtLGEzfWjYhq0DQg2/bMcioPzcyUNR1TYquByZs1IGO/MOvAWNmqJYfPZoQ/2a3POdeqmAUeVecs4r1DXdCA2i2BtiEsJjVL8=",
-                "mac": "fY0FWIIQRPEBQvCpKKSOXA=="
+                "orig": "It is of no matter if you hit a foe or not, so blindly attacking is a foolish thing to do.",
+                "text": "Et le fait que vous touchiez votre adversaire n'y change rien, donc attaquer à l'aveugle est tout sauf intelligent."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/4/message": {
-                "ciphertext": "l3r4FfkooSM+oqawnhkUv3qBigrb75y1uJvtWR0EoefNtn7lxyXj4mJpCNLafvA7G2ncZBwO5r4i+x/yerWjh+z2qKOuOlNuh+VekkEE+oGIkVF2VL7dXOQWnVTFMWU/Gq3oLsY8KV/L3FQhRvUYRfCtgSZAvY3xoQ0Wrj7XauHvsaNmrrKORzIZg1IYt+94",
-                "mac": "cV0zzUY6f80Qzm1+jNXclw=="
+                "orig": "Just pay attention to your \\c[3]elemental display in the upper left corner\\c[0], if you want to know your Overload.",
+                "text": "Si vous voulez savoir à quel point vous êtes en surcharge, jetez un coup d'œil à votre \\c[3]afficheur en haut à gauche\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/5/message": {
-                "ciphertext": "daVVUV94SzZtNqS3sNrJt/h/pghCKrRoWaIgtTZbv4LJbkj3Iewv0xccrTz46GlANev/V9ehURNkxJk1gwFjgk1BT6aqG6qj3TErxfrfjeIQyWCyFMc2kmY5AEHXOm4hKjnyAo+qBrxMB0AoHB6Nr8Hj4aiMykNpi3QHT9m0J6Kt5Ht9U7Td2wKng9yky6DcrYv4jzbDZObNrpLmiig8Bw==",
-                "mac": "MKkaH2KJgKkiwtDwlxqZFA=="
+                "orig": "The icon will fill up in a \\c[3]yellow\\c[0] color.\\. Once it's filled, an \\c[3]Elemental Overload \\c[0]will happen and force you into Neutral.",
+                "text": "L'icône va se remplir de \\c[3]jaune\\c[0]. Quand elle est remplie, une \\c[3]Surcharge Élément\\c[0] se produit et vous force à repasser en Neutre."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/6/message": {
-                "ciphertext": "6AtyJaKPZRySkMWgzRwLFJPJspg48cNVMDbrNutA6b8A/9iMytK87HJxMwtd10AEP1r3CK7e610zIgZY8klN6SoESlzUkpjZT9jgdy6wO/t4JySnCYG86E6ww2dIEJm9p7CW4nfMH2UGoR2ua6hXFeK0qoQWAMgW5ycPXF9BhR/+wjuI/Rq61WytC4jdCTXJ",
-                "mac": "3Qer9JRYGCg4FmxX3mTBDg=="
+                "orig": "To decrease the element load, you can switch back to \\c[3]Neutral Mode\\c[0] and \\c[3]continue attacking\\c[0] enemies.",
+                "text": "Pour réduire la charge de l'élément, vous pouvez repasser en \\c[3]Mode Neutre\\c[0] et \\c[3]continuer à attaquer\\c[0] les ennemis."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/7/message": {
-                "ciphertext": "WL+u+jQg6LL0MzlXtYVCeyxFaR0eO8GBjNc3KFwsoGY8jmRzMNIkPiSj+AZoYn3twxTPdcaYn5tPSW9POnUmDiOqksAMK8FOGK4pyKJduNw=",
-                "mac": "YYE4DEoOe9sXjpKZtLiVvQ=="
+                "orig": "\\c[3]Using Neutral\\c[0], especially when attacking enemies, will cool down the Overload much more quickly.",
+                "text": "La charge élémentaire diminuera bien plus rapidement dans ce cas."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/1/8/message": {
-                "ciphertext": "K0z+y5pgeyzr76j/WqNqCA==",
-                "mac": "M8r9OtO+b9/2gwxpjn35Pg=="
+                "orig": "Anything else?",
+                "text": "Autre chose ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/0/message": {
-                "ciphertext": "vkrP5flCTh55ke1cLGoSWxcwjqxRKjlQoUWANbXud81u+HZo/W/cx4PvWWeH7s2h",
-                "mac": "9y80QIOIgmXfPwGey2dcOw=="
+                "orig": "[nods condition question]",
+                "text": "[acquiesce la question des conditions d'états]"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/1/message": {
-                "ciphertext": "pjeIGkDFiWaWGwjg/BpApuXfoRiteAGbldzNY9l13aAGzzlyjHHWrQHiuUK4WugtMJhuep4pWW9HZNSMDVWlbzAqZFhPW63m56qTIjJXe5PhsIp5XjzIiSOa84vM5fbgbyMU3ymmRtkPqKi9RbLdIfZDVP5gKosGO3djTo9p1ezvmnIb26W9R7DlgE47VP2Z+hfgbWuqg2i9NXsQxLaQgQ==",
-                "mac": "O2/lvIf33q9hE7tWl+furw==",
+                "orig": "Ah, status conditions.\\. An immensely fascinating topic.\\. Some see it as the truly cultured way of fighting.",
+                "text": "Ah, les conditions d'états.\\. Un sujet vraiment fascinant.\\. Certains voient cela comme étant une manière intellectuellement raffinée de se battre.",
                 "quality": "unknown",
-                "ciphernote": "O2+W1hmDZPAE5CaOLVWRWw=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/10/message": {
-                "ciphertext": "LnHdTAsd8Gf6f2SRSq/28us+M2ur/+Gpe1Ei+IOxe9AXd+qGEmlE4klnKaBh4tvAr7wWViQUzCfejhvwsirMNI0sldG61qIB0n2aYwtMapW0DXxSyqxmwSUx2xnDChDmMEN9nLm7HSPIwoe8ocLezS4q1YcqGVixwJXi+lYirVfZvWVwXaU97EX2pJ5dMw6f9luwhXOoO9RKlqUtA6sxJKqtqfYU5Dczul42yxmocU43f28emboB8SdLtjbVsP/5HPxg3gaijMZx4EHrlJ0jVg==",
-                "mac": "GA64ZSPYjywvdItd2s8Vow=="
-        },
-        "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/11/message": {
-                "ciphertext": "K0z+y5pgeyzr76j/WqNqCA==",
-                "mac": "M8r9OtO+b9/2gwxpjn35Pg=="
+                "note": "spell"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/2/message": {
-                "ciphertext": "xVlM+TG5teR8MU2PQ2i29DqsFOcljR/hyJZEQJDuVC0J3VcxVUwJg1CwSPl4GPEi64xlKhHW0cEinnA7Ytou7EECyFP1DmY8B9h1L7BDzmgeEgh8gBT+3eOSmuwe8vRfCqdQTaMbn6ZWPQELndSkZQ/R0XYqvJrUXOhfNi+wDaIbirnFJyRGEXd9FqyxvtE4",
-                "mac": "sD6mod23TXVe3sHSDhtgXA=="
+                "orig": "In any case, each Element has an associated Condition that will weaken the victim in some way.",
+                "text": "Mais je diverge ! Bon, chaque Élément possède une Condition d'État associée qui d'une manière ou d'une autre, affaibli la victime."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/3/message": {
-                "ciphertext": "SfYCGXQ0Xynbw/Y+ZDWvrVnnODMs3jozIlE6nP0qRZGJVKuSFcNJYoQhOUoYeTUXlvfe46fvMvjl+7vyjIOMO1b5EcJm7/ddO+y5R0Qjtd8TJMegVHlw5Ui0fkD1ok9yYeHEibx8q44ootAaV4hNgkL+NwIzmzZIZzL1gf9cvmqYchXIgHmu9tj6QLKD9ksEi+Cf4OKCL/VVBF2rzfSfvg==",
-                "mac": "vUD6oYuAlP1kI/bg7vWDsA=="
+                "orig": "\\c[3]Heat\\c[0] can cause \\c[3]Burn\\c[0], which causes \\c[3]damage over time\\c[0], depending on \\c[3]the victim's MaxHP\\c[0].",
+                "text": "Le \\c[3]Chaud\\c[0] peut provoquer la condition \\c[3]Brûle\\c[0], qui cause des \\c[3]dégâts avec le temps\\c[0] en fonction du \\c[3]HP Max. de la victime\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/4/message": {
-                "ciphertext": "lAM8ExulAcKVSbaJ9ay04quMU1yWp5X+bhtc2+Nb04nnrPRsdjUi96Yi7ZcA5jfiZ7QeeSKOfh4p1GTTfHhgJS8Q05qc+A/LvmAVJNgSiu3788MYzmC+k2tQgmsfozRk+YsHrTxEDJb1UWF0fdXHsF6DjQm/OgQfrUCOes8+OMtIjrOHcqRWhujY+vzsZIH7",
-                "mac": "pCiJEzMEMRrc4WAFFkyQ/A=="
+                "orig": "\\c[3]Cold\\c[0] can cause \\c[3]Chill\\c[0], \\c[3]slowing\\c[0] down the victim's movement and attacks.",
+                "text": "Le \\c[3]Froid\\c[0] peut provoquer la condition \\c[3]Gèle\\c[0], qui \\c[3]ralenti\\c[0] les mouvements et les attaques de la victime."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/5/message": {
-                "ciphertext": "9i5zuCKUoMFV6ioaf3G7eOiXYOuY8Utok7u7HM7tdBwbXd+iYobxqAttOzuNeXP3d9sZaHa0A2/L+qNeBgUrTmjdDcoq9vrQEi6FDmDWMjZF2wRZptATd8HeasLEjju07j6O0RvOSyHKf3yirNV6SLFFitaeMnXYZYuXzuCy6PoFt3rsB/mi9qjP6NvJtKAd",
-                "mac": "PdnWXriWgU3m4jjWjoP2sg=="
+                "orig": "\\c[3]Shock\\c[0] can cause \\c[3]Jolt\\c[0], which does some \\c[3]damage over time\\c[0] while also \\c[3]interrupting and stunning\\c[0] the enemy periodically.",
+                "text": "Le \\c[3]Choc\\c[0] peut provoquer la condition \\c[3]Décharge\\c[0], qui, \\c[3]périodiquement, paralyse et cause des dégâts\\c[0] à l'ennemi."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/6/message": {
-                "ciphertext": "cWP6gOzhYHn3Ik0wwPIwxfN3IXAi/V1tnUN3+UYb/y/0bBgTHDQMsmiPkSCaUmNXaP1LdfhyHiqmeXs9+zaKa9Wo5yb9kuQ9RV+BaZOgVXZxzYMoy8uvzbAk91Q/Zz1CoGqhyTZ2XcS5r+NJcjNX/8DkJv8SVb/atHSJ0Dvulqvo8yneWL3/rqJUhfUMQCwYsKTavEWrLQz4HgmZ5PKRKg==",
-                "mac": "WKmnRFVynZKNhKaphd/iEw=="
+                "orig": "Keep in mind that \\c[3]Jolt damage\\c[0] depends on \\c[3]the victim's own attack power\\c[0], basically as if they were performing the attack on themself.",
+                "text": "Sachez que les \\c[3]dégâts de Décharge\\c[0] dépendent de la \\c[3]puissance d'attaque de la victime\\c[0], un peu comme si elle se frappait elle-même."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/7/message": {
-                "ciphertext": "bNB8BcWLZ07QsAxso2i4e0ASoAHinfaLyK0nWTKJy8HfKo6IR3PG3okgkw0sVRyqQzd5MCfFGyPC2JIoJopP7mYRF3fC8vCF/jy0U1jqC+lLCOpfNuU3Q2BJ9cbX0xAQ1sP3rNg8Go/OW2dmog8WD0acmSWGznMtdgX1E8A6ndeGegAIhqfWfRWphg8Aju5K",
-                "mac": "RcT6wF2X1LYOuCuHGPsF+A=="
+                "orig": "\\c[3]Wave\\c[0] can cause \\c[3]Mark\\c[0], which will \\c[3]increase all ranged damage\\c[0] that the victim receives.",
+                "text": "L'\\c[3]Onde\\c[0] peut provoquer la condition \\c[3]Marqué\\c[0], qui va \\c[3]augmenter les dégâts reçus des attaques à distance\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/8/message": {
-                "ciphertext": "Nmzhy2auYKRQdu62DWlMg13rJOdVWTR6sfQzRRlnSPQge/KSGdOVm7DZomW+1WbkU4UY2rmpJSRO62AqA22jvKQP87jqJ70lsI3Mzg2Md1+ja6YgDUmiVH1nuTnnzyykCyDV4kwNcUJax17i6M6RkIs729oxic4vsJbuXUeJky8nfFvRP66XSdqJaoCUinP6",
-                "mac": "lpF+JSrPhNt5wPVMj12bsQ=="
+                "orig": "To trigger a condition you must repeatedly use \\c[3]charged shots\\c[0] or \\c[3]certain combat arts\\c[0] on an enemy.",
+                "text": "Pour infliger une condition d'état, vous devez utiliser plusieurs \\c[3]Boules Chargées\\c[0] ou \\c[3]certains Arts de Combats\\c[0]."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/9/message": {
-                "ciphertext": "cEeqKdtBP8Wv0iT9vlaBUpd1lXQhRvpttfeaIMK/HDHt0DTrGgLSolch53bj09MPWXRBTVSZIUvBxbB5b5RNkJNYowfuPTDFNiTyzkyq6F18YJjCjksJDM/wWiKJUvlsTVpqGD7I/WMsxO4YxCve6cxRnldvDe9RiL+aSQLW0RQuts6MJf+x6Th6FKinHkeF",
-                "mac": "6aRxxgyCv91XSmzGixuWCw=="
+                "orig": "You will see a \\c[3]special bar\\c[0] under the enemy that fills until the condition is finally triggered.",
+                "text": "Vous verrez alors une \\c[3]barre spéciale\\c[0] sous l'ennemi, qui se remplit jusqu'à que la condition d'état soit déclenchée."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/10/message": {
+                "orig": "It will trigger faster if the attacker's \\c[3]Focus\\c[0] is higher than the defender's.\\. \\c[3]Rush-skills\\c[0] will further increase the speed and effect.",
+                "text": "Elle se déclencheront plus rapidement si le \\c[3]Focus\\c[0] de l'attaquant est plus élevé que celui de son adversaire.\\. Avec des \\c[3]compétences Divines\\c[0], cela sera encore plus rapide."
+        },
+        "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/2/11/message": {
+                "orig": "Anything else?",
+                "text": "Autre chose ?"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/3/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/3/1/message": {
-                "ciphertext": "jqDxCjUP4rgIOt+RGvhSLyyk1qhYbCCfZnwWk643GOrkzctBgQtaZJpzVaCU2/lc",
-                "mac": "hy0I7zBhhteE5ocigj1Pdg=="
+                "orig": "I hope my lecture was of help.",
+                "text": "J'espère que ma leçon vous a été utile."
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/options/0/label": {
-                "ciphertext": "f6k1FXDJz3kQOYScIlbt19Q9DIF652ytLZ939l/gO70=",
-                "mac": "2rxdlE35TxcWjXoGoNFnxw=="
+                "orig": "Element Basics",
+                "text": "Fondamentaux des Éléments"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/options/1/label": {
-                "ciphertext": "Vlv7VVT4At+vraHKXX4G3tLmuZr++As25oKpQa2LxWM=",
-                "mac": "yDo8/mdWHmMffCzr0fLcXA=="
+                "orig": "Elemental Overload",
+                "text": "Surcharge Élément"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/options/2/label": {
-                "ciphertext": "vfGodAWOYRsCj2mQnXH47Load7avFzBbv9DK7WmRGRk=",
-                "mac": "3xH1uq7KR6vbPn7RViT0Ww=="
+                "orig": "Status Conditions",
+                "text": "Conditions d'États"
         },
         "maps/rookie-harbor/inner-info.json/entities/29/settings/npcStates/0/event/6/options/3/label": {
-                "ciphertext": "vGW5IE8sZkNj0XvX8I4U+eblZNtxc10fwZHUAyRyXtg=",
-                "mac": "q3CB+K/XpEIBvD16byCXCQ=="
+                "orig": "\\c[1]No, thanks!\\c[0]",
+                "text": "\\c[1]Non, merci !\\c[0]"
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/0/text": {
-                "ciphertext": "ICnb2brih5dZ9zVNWYljYmTajieen7EkkxAHu+dq8HSSB1/DZ24NUWt2nvv0GPHUxBeC8JuwnB1omycejA2k5UZ8c6K+C7sWWxzP2fjzmos=",
-                "mac": "6aaWQCiwfsaWV3Jt5VKQ0g=="
+                "orig": "Just look at her go! I tell you, Mys Li is best girl.",
+                "text": "Regarde comment elle s'écarte ! Je vous le dis, Mys Li c'est la meilleure."
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/1/text": {
-                "ciphertext": "VJO+KNq+cTWXmgqqjTzfg7f7yRSugX7U0QHXr0IhFe0BVRGcDzSrJjMXGBDPMMTtVenb0CW/I9GCP01hFfgVrZBe6U/5J6gj4gs0oqDiXuw39Y9TLiCrSH8t96H9QszoHXal0kGoEJ4cy/GbJ+Lb0Q==",
-                "mac": "TFxG9qVpb8javvzqh55HwA=="
+                "orig": "Dude, I heard you the first 100 times. And I still don't get it. She's just some one-note tutorial NPC!",
+                "text": "Mec, je t'ai déjà entendu le dire 100 fois. Et je capte toujours pas. C'est juste un pauvre PNJ de tutoriel !"
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/2/text": {
-                "ciphertext": "qkrMJyx6swP0G0pOwzHl4cNc3ydXtwrs0b0GXGnxskwT27iJ6BVO4FodckQUfH8rVEM0vPyUW+Tfs1OREyLoQwW3YnQmFC9L0fv8ls7e9iE4pYoYU3Cr0scZXCsJdu+u",
-                "mac": "gCMqHBl/YOhywkGI4ndNZA=="
+                "orig": "Well, actually she gets fleshed out nicely in the tie-in graphic novels that center around her adventures!",
+                "text": "Oui, mais elle est bien gaulée dans la bande dessinée associée qui parle de ses aventures !"
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/3/text": {
-                "ciphertext": "k6Fxwbgog+JixM256IXGz9eN4a9NFR5osHi+ij/mR2ChQ7ABNexGYV33flW65aDBcxlcmT823UoJ/2nlBlxj7TTZGdM3MlB1EFvjTNBMiLQ+Az8BqGYQQfsxf0dT8kgDHwzOBaGtABfGrH8BqNgj/UKu8Au3WtRmEY75vA4kFMA=",
-                "mac": "4X6JNgRKJJWiZpX7FiCBuA==",
+                "orig": "She got what...?!\\. What else is there, \"Mr Nomsworth - Middle Management Miracles\"?",
+                "text": "Attends, elle a quoi ... ?!\\. Y a quoi d'autre encore ? \"Mr Bonmange et la Magie du Management Intermédiaire\" ?",
                 "quality": "bad",
-                "ciphernote": "MnDSlFobUT5iGzKZj3ZD4IqXJbDGmHIGsOHL8BlnfTw="
+                "note": "meddle management"
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/4/text": {
-                "ciphertext": "/JzCNuBLC/FAEHLJr9snav8eMvumoznEw82JWVYjE2Kx+zOLzUClsJnP23xNdMBEU+U12+zRqUJp39QA/Y8E9yQfWo+q4Fzv1amkL9Z9OBGBnrnkOvIJLSgCdIVQiXqCHummLixpqXR71kftQOtDhpcWGT1Lf38z2LqPx0b9ZM3iGjVXWQAUXNPxSr1KIMqx",
-                "mac": "H3kE6ojOlfXqkT/Ld0SBPw=="
+                "orig": "Hey, her growth as a fighter and the final confrontation with her corrupted father had me on the edge of my seat!",
+                "text": "Hé, entre sa progression pour devenir une guerrière et la confrontation finale avec son père corrompu, moi j'ai trop accroché !"
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/5/text": {
-                "ciphertext": "CpbyS2iDMetr5Bo8sU4EbLmzcY7auCkH0IwMB4UI1f8yBi7FW6bxpX5Juwz0EW5olyXTsnbXWv2FUO8oWcy+0jKFkXoXCDijwgrYuJdnIV2g4TIErhlylg3MEwdqJ887qP3bTZ+vZVpvI4HvWYl+fA==",
-                "mac": "iNFNCBQd8QiEynSc9uxDZQ=="
+                "orig": "And now she fights a sandbag all day, what a perfect character arc.",
+                "text": "Et maintenant elle se bat toute la journée contre un sac de sable. Tu parles d'une progression."
         },
         "maps/rookie-harbor/inner-info.json/entities/37/settings/dialog/6/text": {
-                "ciphertext": "7QtvONjEveiIDfrp7Qf4TAjnzgQxwQR+SzFtbLpi/1mFAgsmB06Bykge3uCLaoQN",
-                "mac": "1j7PJHnzJEuBwPqvIw6Vvg=="
+                "orig": "Shush, my girl earned this peace.",
+                "text": "Chut, ma fille mérite cette tranquillité."
         },
         "maps/rookie-harbor/inner-info.json/entities/38/settings/analyzable/text": {
-                "ciphertext": "q4M2GauRgHOd+zm+9WBvkw==",
-                "mac": "hwFcd1L57nnFyMNJOsYyrw=="
+                "orig": "WorldWideWeeb",
+                "text": "WorldWideWeeb"
         },
         "maps/rookie-harbor/inner-info.json/entities/38/settings/displayName": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
+                "orig": "Jeff",
+                "text": "Jeff"
         },
         "maps/rookie-harbor/inner-info.json/entities/39/settings/analyzable/text": {
-                "ciphertext": "pZBVhaC44q3WoZ4VCZLrBobCp2lfY9t/NHoPC1tH6+0=",
-                "mac": "xwz84gCeHuPdxaAIlgta5w=="
+                "orig": "ScepticalShield",
+                "text": "BouclierSceptique"
         },
         "maps/rookie-harbor/inner-info.json/entities/39/settings/displayName": {
-                "ciphertext": "gVLb39jaCs4M5ov4b1kxmQ==",
-                "mac": "segqzAmRuTpZOLMa0ErByA=="
+                "orig": "Jeff",
+                "text": "Jeff"
         }
 }

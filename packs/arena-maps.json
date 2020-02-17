@@ -1,449 +1,449 @@
 {
         "maps/arena/boss/cold-midboss.json/entities/5/settings/event/8/action/0/text": {
-                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
-                "mac": "/3l1+JslbOklhtB7mNR20g=="
+                "orig": "Threat detected",
+                "text": "Menace Détectée"
         },
         "maps/arena/boss/shock-boss.json/entities/13/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
         },
         "maps/arena/boss/shock-boss.json/entities/42/settings/teleportLabel": {
-                "ciphertext": "T9MoKlSzbIYTjCmWOP9KJwDTWjkLPsX+HLitJkHxFgE=",
-                "mac": "z0h9y5G0Y/E2BJuvkEuvXQ=="
+                "orig": "\\i[arrow-n] Up",
+                "text": "\\i[arrow-n] En haut"
         },
         "maps/arena/boss/turret-boss.json/entities/18/settings/event/0/message": {
-                "ciphertext": "a/Uo46yWYIZKt6myeQSKNg==",
-                "mac": "FWZ0QLatIG0AQ4DjPDkQZw=="
+                "orig": "Incoming...",
+                "text": "Prépare-toi..."
         },
         "maps/arena/boss/turret-boss.json/entities/18/settings/event/1/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/arena/boss/wave-boss.json/entities/179/settings/teleportLabel": {
-                "ciphertext": "T9MoKlSzbIYTjCmWOP9KJwDTWjkLPsX+HLitJkHxFgE=",
-                "mac": "z0h9y5G0Y/E2BJuvkEuvXQ=="
+                "orig": "\\i[arrow-n] Up",
+                "text": "\\i[arrow-n] En haut"
         },
         "maps/arena/faction/autumn-meerkat-1.json/entities/6/settings/event/13/text": {
-                "ciphertext": "+da/9UizTH6qKpVgSszPHvoQK8AuNGjpx5UZcccNHlM=",
-                "mac": "B6VIjGmzoOr6W7fuk5BmQQ=="
+                "orig": "[angry Hillkat noises]",
+                "text": "[cri de Hillkat furieux]"
         },
         "maps/arena/faction/baki-bots-1.json/entities/32/settings/interact/hoverText": {
-                "ciphertext": "MEAW8XBsWjr2ScM/w/+7HxFSaRK6WHB7zxW/A0unV4+aRzrL7my5KFaVN06OENwa7fGfej9vNMQHqSiqgQaIRjrjpjmtokdKnpLeOHyqQnA=",
-                "mac": "8DNvN4FjpXp+TgZzNrp42A=="
+                "orig": "The rough gem in the west. Home to collectors and the Shad.",
+                "text": "La Gemme Rugueuse de l'ouest. Maison des collecteurs et des Shads."
         },
         "maps/arena/faction/baki-bots-1.json/entities/32/settings/interact/title": {
-                "ciphertext": "rXcYSJOHywAcrm/cOWrNIM47ZU+G/fFG4FivE3MAakJjoRZtnHceJ+RyiSY3fIK1",
-                "mac": "y0ZDhSfD9JmRLgdJx62o5w=="
+                "orig": "- \\c[3]Ba'kii Kum\\c[0] -",
+                "text": "- \\c[3]\\v[area.heat-village.name]\\c[0] -"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/analyzable/text": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/1/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "dHSt+U1bhixG5Upt2IUihgphYCAgivdpTVM1cqpf8sEpkEYaylJ617E88kUykhH2voLe3P/OzG+GvPouzDhXwh9CG5xEloHjX1bJ1vpDTjQ1vPiCNOXX6B09IR3XPiAX",
-                "mac": "uGCK5GVLKAs1xCstnXivDQ=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/113/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/115/message": {
-                "ciphertext": "7dik/ak7M8+u6Xye5aCQIXb4RnoCasaTSWuP2fuEtDl+jXXT//colnvkSQutjGx5",
-                "mac": "F/rYNeHXaDhGaWtLlvwjew=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/116/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/117/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/118/message": {
-                "ciphertext": "fpjyagslbinJu04IFpwtImgpXUSs2/P9ZT1e4uFQT+/cggVQDfq6uozd4Fp4G7mWNQaO/V2jQIHh59c68hOOrv96fkS/uaWGSUgAsKr/EY4=",
-                "mac": "yzkTze6HwHE0JTakkK5TAQ=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "wT6HwDwR0l9wdLqFNbh9JCGqm6c1gSiKEDhyobftUwE8Hi2V1GORslzi7Szx8K+TpYnP0qAV5G5fCcvFGfjG7T7TSklfGx1NdhGKmzupDUY60yXLlbVNJ2LXd2wVE52BY5D2jImNpmPAuqwVa7Pm+B9J1bpvrmu35pK38e5jUFP40y5NmjekHwbrJm/VjIpPCh3e1DXAL0MqbO8vO1KpJA==",
-                "mac": "G1gOT9IocF+XkODUPGz2bA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/120/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/13/message": {
-                "ciphertext": "ESyyq9BSGYI2tLLqXcSmE31ogyRoyRUPRk4s+p4Uhh+7rvIkVSClINkzDBUT8r1/8ip2Hs5sjMayoodTaHFluONu1fIojsgIENbbmY5i70Vs5UAclivTKfpCKdUqNYhoPYEB/yR/EpeAdk2614OOj7nxh7gYsFTpOqiSANYbXZt0LONeIoBTtJzDUlJb+z+zPA/Z4nenbrGw6OmCs2HC7g==",
-                "mac": "9wFIpFnGhWHvB+255Fneeg=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "D4iPzu2/CqpmF3X4YdrwEJAb+2uOJW6tT3d4X5L+j7A39cNhdCp0HRJZ4mKlNGJCe0zqDPB9o/irngmTYQJMy9RdNoTg826JyBKKMXypE4m0plXgU9o0uiaVyI7dUpV9ImCM9yIumNAZY3KnzoT01oBKhA59J10iNExrFI1jGkU=",
-                "mac": "TtfXzWst5yWPDUUxOPat8A=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/18/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/37/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/38/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/40/message": {
-                "ciphertext": "rR1QGe+GRI7JkaXRGerDO6W+mfg8viwf73oIm1BuravvculqMYTXOgdxiiC2sMQdO8l2Yn1VeLi0y6loGk4aEEp38DjLUO8plilGzTj0H9M=",
-                "mac": "RzrJnTOFYzZKFUuB7QsO8Q=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/41/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/42/message": {
-                "ciphertext": "hNKzkuAeFmpRTx6wCXYtnkZEbQZ4vjy+1qpshFsn0d1WuSXkwaNw/9squk2QncN5Es0T9TCYN+eBELJsZ4LGUCA6wOqMqbK2Von52yBnK1LsRK0NoErHSiul4k31OFHhLgSYG08QVM1WL0cccppZX+/oUDs0i+4i1YCtgLz+inZpjQG/X9bU1EtyBQe9CnYkdMMqVhakQDpPqmbJakNhTE0ufBsYrQZmPtUQAW+oPu8=",
-                "mac": "xS3HPOHRqgTjBZjwWynrUw=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/44/message": {
-                "ciphertext": "a0cmCUkZ54euK/HIfA0pxODeT6fnhAR1KFQUB9tSL2fK9SlqUVH4EZ7RILE6N0Gz1GtDZ7wKeWVqAf1fvFmapQ==",
-                "mac": "6dONW60+KCyM2cnUYtAMhg=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/46/message": {
-                "ciphertext": "ABa8Bd2CoryMEGTwdmKyAnNvrEKnbsYmrI9lhz7bj50=",
-                "mac": "k7FjQznhr1xhZcNmOkueMQ=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/47/message": {
-                "ciphertext": "V1b8D3mUjjZ36N8CgQ2GaI4p8ek6n+YHMk1pW7HLrlHjJyUCcZ9bhU6axeF0bdWZK5Dv6bpR645km+qTrc91p4IZkBE5YZbTLE+g2FyDe5rGKmJhCkZ43RbII6kE3B2ToCaASOoZr1uF3Mty+cr9TRQkrXVDnVJJv/nX1x9I6jaDzItHD51yy87swfJVQwp/",
-                "mac": "RfuRBDQsX4bEWSejbGZszA=="
-        },
-        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/48/message": {
-                "ciphertext": "5NA6ATnSN9I9auD/i3p1uQ==",
-                "mac": "H0hDuCphZYAuIH5m4DYMNw=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "/w0Swqb124LvGtsGefDAhiCytEPlspRB1y/iIkMwI3frq8xGPXlPBjfrrQ/8mQ9bjGheARcTf0vgEYQed81iaQ==",
-                "mac": "9I9MJB+Vwxv0fsXW96S1UQ=="
+                "orig": "Anything wrong?\\. I'm just sitting here.",
+                "text": "Qu'est-ce qu'il y a ?\\. Je suis juste assis ici."
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "s3ggyVpdc13belWcHRbcM1GqnpEw2Y8+ggperWohhFTGpcXyWQlY3wqBtVMuLFm0JaXZSyh/OdFudffs9IoGtY5P4C8ygvAAtJ6h2pe1URI=",
-                "mac": "f+iAOAHvLeiv6hchIT8/Gg=="
+                "orig": "C-crimes in the bazaar?\\. What are you talking about?\\. I don't know anything!",
+                "text": "Des crimes dans le bazar ?\\. De quoi vous parlez ?\\. Je sais rien de tout ça !"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "sBsNL9ukYohGNkdgg296qeklSguRagUdNiMK6Jk2EYSBDBJoscZPa1x0mPFHpdQE5VpUMfcuA58w/cj3rKEb04O8b0xyULketjW2JziVy20=",
-                "mac": "DrfxcU++Gqszz91qXY1V/g=="
+                "orig": "So it was you on the communicator?\\. Damn that Billston...",
+                "text": "Donc c'était toi sur le communicateur ?\\. Ce satané Billston..."
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/10/message": {
+                "orig": "I thought someone as ruthless as him would at least be more careful.",
+                "text": "J'aurais pensé qu'un type impitoyable comme lui ferait un peu plus attention à ses affaires."
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/12/message": {
+                "orig": "He roped me into this, I swear!\\. Told me about all the money, threatened me if I refused, all that!",
+                "text": "Il m'a entrainé là-dedans, je vous le jure !\\. Il m'a parlé de tout l'argent qu'il y a à se faire et m'a menacé si jamais je refusais et tout !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/13/message": {
+                "orig": "\"No one will care about it,\"\\. he said. \"Those scaly idiots don't know how to handle the money anyway!\"\\. So much for that.",
+                "text": "\"Personne ne s'y intéressera.\"\\. Qu'il disait. \"Ces idiots d'écailles ne savent pas gérer leur argent de toute façon !\"\\. Tout ça pour ça."
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/17/message": {
+                "orig": "Well, time to come clean then, I suppose.\\. At least I can bring down that jerk with me.",
+                "text": "Bon, il est temps de faire mes bagages et de me racheter, j'imagine.\\. Au moins je peux faire tomber ce salopard avec moi !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/18/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/37/name": {
+                "orig": "Dourk",
+                "text": "Dourk"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/38/name": {
+                "orig": "Billston",
+                "text": "Billston"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/40/message": {
+                "orig": "Well, well, well.\\. Where might you lot be going?",
+                "text": "Bien, bien, bien.\\. Où est-ce que vous comptiez aller comme ça ?"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/41/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/42/message": {
+                "orig": "I knew something was wrong once I noticed my communicator missing.\\. You \\v[lore.title.seeker]s are a sneaky lot, hm?",
+                "text": "Je savais qu'il se tramait quelque chose dès l'instant où j'ai perdu mon communicateur.\\. Vous les \\v[lore.title.seeker]s vous êtes plutôt du genre discret, hein ?"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/44/message": {
+                "orig": "Forget it, man!\\. You messed up!\\. This is over!",
+                "text": "Oublie ça, mec !\\. T'as merdé !\\. C'est terminé !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/46/message": {
+                "orig": "It is,\\.\\. r-\\.right...?",
+                "text": "C'est terminé,\\.\\. h-hein... ?"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/47/message": {
+                "orig": "Oh, for you it is.\\. Me, though?\\.\\. I prepared something special just for moments like this!",
+                "text": "Oh, ça l'est pour toi, oui.\\. Mais pour moi ?\\.\\. J'ai déjà préparé quelque chose de spécial pour parer à une telle éventualité !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/48/message": {
+                "orig": "...!?",
+                "text": "... !?"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/90/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/91/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/93/message": {
-                "ciphertext": "4DvyVw8TM5mbcfPInO4rX2yR2O0gl4MoyCrByb2EbZQ1Wj+KNzYUCSe2k3C9lHkuEPOLXklYHv6nbyeMCUatyGz7IEMTE6uiJpmZYlNToR0=",
-                "mac": "4Ih+DUncfs0UC54bEp0q5Q=="
+                "orig": "This will be the end of you and no one will ever know the truth!",
+                "text": "Ce sera la fin pour vous et jamais personne ne connaitra la vérité !"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/94/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/95/message": {
-                "ciphertext": "WrA3bBgc780tN4FVwiPZ6x6T2wvwQQxrOhf/G2WhRK5yVTUjsDdPOAzYnHQM5fZ14PwiuhN4uNfcPxHdcCsNqw==",
-                "mac": "O02fqPlsbgTI+j3m63W4yg=="
+                "orig": "D-dude, look where we are...\\.\\. this is madness!",
+                "text": "M-mec, regarde où on est...\\.\\. C'est de la folie !"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/96/message": {
-                "ciphertext": "ThmBlH3FNLO71FPKzC9K1n4I0m9iHHlGyLLayVOVOiqhONiOwoA1zHLVsALtfsruASCVrksBjEKuIPdMzmqs6rzgnpzDVZJKNAH7H8q9caGM9rWufsLJBX1hD4NGcIMr",
-                "mac": "ufBWKFdBR8H0J0lbIur6EA=="
+                "orig": "Silence!\\. These expensive preparations won't go to waste.\\.\\. And I'm out of here!",
+                "text": "Silence !\\. Ces préparations couteuses n'auront pas été en vain.\\.\\. Moi je me tire d'ici !"
         },
         "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/97/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/113/name": {
+                "orig": "Dourk",
+                "text": "Dourk"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/115/message": {
+                "orig": "W-well... you know how to handle this, right?",
+                "text": "B-Bon... Tu sais déjà quoi faire, hein ?"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/116/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/117/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/118/message": {
+                "orig": "Good... so... I'll just be hiding around that corner.\\. Good luck!",
+                "text": "Bien... Donc euh... moi je vais me cacher derrière ce coin.\\. Bonne chance !"
+        },
+        "maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/120/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/arena/faction/heat-firebirds-1.json/entities/23/settings/analyzable/text": {
-                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
-                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+                "orig": "???",
+                "text": "???"
         },
         "maps/arena/faction/heat-firebirds-1.json/entities/24/settings/analyzable/text": {
-                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
-                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+                "orig": "???",
+                "text": "???"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/12/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/15/message": {
-                "ciphertext": "1wJvrH568xmn1FPC9xfGwb2V7n3MRNU8HZES+H/Q0Qm8RfRy9xJRa4M/WbeBOmuVxlwxrmF/n7EaywOzG/8DFg==",
-                "mac": "hnpDJB81NeSoFfje8IGOqQ=="
+                "orig": "D-damn it.\\. All those preparations... done for nothing.",
+                "text": "M-Merde.\\. Toutes ces préparations... pour rien."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/28/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/30/name": {
-                "ciphertext": "r6wUq8H8wTE3h/7+LnzXIw==",
-                "mac": "vIRU7nCqLLAWNGFXVz6Qag=="
+                "orig": "Zaida",
+                "text": "Zaida"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/31/message": {
-                "ciphertext": "+f26vd+2wy4D9f5maHkUA+N/xCtgr0D5G5WroJ6O3LtSYUNt7My3VWCjNdtI5CjccDh2B8uspOVFJZv7NtgE6QDyj99MtOlTmm5s7rlspOI=",
-                "mac": "c/5tX2ndMJfUs85DlL8Zng==",
-                "ciphernote": "T5V9ntuAfgXHrf+fLxsCTGNgEdGzKfT0T+PvHYQA41NrqjIIrhJHqKTVtrXrQAE4"
+                "orig": "You are coming with me, traitor!\\. You are a stain on the honor of the Ba'kii Guard!",
+                "text": "Tu viens avec moi, traitre !\\. Tu as sali l'honneur de la Garde de Ba'kii !",
+                "note": "faction name is Garde de Maroon Baki"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/32/message": {
-                "ciphertext": "745hNPsQNG+uFiSjhA+SLQ==",
-                "mac": "T5Gr4Z1u3usxVSjMn8EYGg=="
+                "orig": "Hi...!",
+                "text": "Salut... !"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/33/message": {
-                "ciphertext": "MgH+mzFLr39DK6fU2O/dpX98ABJB2ASgCbNXRWE0oiayCbPRC2fRCX1h8ObH/0Mow/OoUuk//kt90EsBawWEv2/bigTDqY0yGoQhW5CrXrXaYwp8h7maFEPZithXd4O2DI5OW/idLk9lQJ6lk67IqbZOw++vpl621udtq2kErTcw4NrZDG/prDwqknUiSWcSrynpTsS0+FTWO+BXpeKHjQ==",
-                "mac": "yDdFrkLxx9kR4geODU7P4g=="
+                "orig": "Ah, hello Ms. \\v[lore.title.seeker].\\. You have done well in apprehending him.\\. Now we will bring him to justice.",
+                "text": "Ah, bonjour Mme \\v[lore.title.seeker].\\. Vous avez rendu un grand service en appréhendant ce type.\\. Maintenant nous allons le traduire en justice."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/34/message": {
-                "ciphertext": "KqMZZcmpqyeR+BLNyW0XeIdKaXZqAgBW8x1rQHx5D/un1M9KIk64OjwOzN8+t2p++vxorzQSFg9DijFs3PSv3md5VxalRtc8RNqRoiIkndg=",
-                "mac": "FpO5JpKmXaHKhXozoGb7Fw=="
+                "orig": "What, you?\\. I was your superior and that is how you show your respect?",
+                "text": "Qui, toi ?\\. Donc c'est comme ça que tu respectes ton ancien supérieur ?"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/35/message": {
-                "ciphertext": "UWNy67NO7ooriVbVupi+Uxs8iSssrRXj1zQb/z2Hm9lDpS8/yH/KvnMpmLKPVFI/LI7t3BDeubDRxXS90ZBGjw7LdY31CMhxuqkorJU8eX6LMtXeV1KXHNnv54Qi49b9IyBTUXnPCuWKlS2cJdEIkDRS6kL+gCLHZLR0tV31p9g=",
-                "mac": "2iIQA8nlXIHIH1YqPqBqAw=="
+                "orig": "I am a guard of \\v[area.heat-village.name] and sworn to protect shad- and humankind from evil.\\. Like you, traitor.",
+                "text": "En tant que garde de \\v[area.heat-village.name], j'ai juré de défendre les Shads et les Humains du mal.\\. Comme toi, traitre."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/36/message": {
-                "ciphertext": "t2AUPAN8dVOSUAhF7HD/ZjGp3xK2pIvxp4CndCzf1kJT7BkpzYOAjowOSdhPb03+yGlJZqe3oDVyWpQzuoYKxQ==",
-                "mac": "I9VefuX7+xF4HXk8+R07ZA=="
+                "orig": "I see...\\. the guard truly has become soft.",
+                "text": "Je vois...\\. Le garde est vraiment devenu tout timoré."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/40/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/42/name": {
-                "ciphertext": "r6wUq8H8wTE3h/7+LnzXIw==",
-                "mac": "vIRU7nCqLLAWNGFXVz6Qag=="
+                "orig": "Zaida",
+                "text": "Zaida"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/43/message": {
-                "ciphertext": "rSU7R48pbT1zfDmQxqO3YFqGbUkCf/8lrbxDKKRBm4xzkqDthroPl8K63tUbUb+P",
-                "mac": "dlBa5np521t9kbAEPsKpdQ=="
+                "orig": "And you, \\v[lore.title.seeker]...",
+                "text": "Et toi, \\v[lore.title.seeker]..."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/44/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/45/message": {
-                "ciphertext": "yEiAPPffkRJvnnNfJSKdKzAN08uVxo4iJJw4rbcDd/IXtpA6uGGBDDkZjGYBmRuYePaxDEyfLLBM+fHHX0T47Um8YKNJQD6PNDT+yQyoC0rnFK/MnBGjT/JuTqp/vs1S1wJsJbTIcjn+cVB9B20TNA==",
-                "mac": "GYEH94cPNtLEdMR1Bq7vPg==",
-                "ciphernote": "X3YzoeQaIVvWVeN7zQqzP1zoVXZKgTUlh/0JYy0lAbQ="
+                "orig": "...don't think you've seen the last of me!\\. My human ingenuity will always find a way!",
+                "text": "... ne pense pas que tu en as fini avec moi !\\. Mon ingéniosité humaine trouvera toujours un moyen !",
+                "note": "orig is stupid, so is the trans"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/46/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/48/message": {
-                "ciphertext": "FT1H5CgBuzRw0maaqeWktSJesNORlvwbuI02q3xOj86h/buibDkBlSiuwtORxQ2c8nIv9qp1kJEhws6XtksNmPyguh6/FRjZj3mlAqPLgDUbAXQ9fQG7aVc4sWzbdlHH",
-                "mac": "0uSIeHE2AGnLLx0/MHjKEw=="
+                "orig": "We will see about that.\\. For now you're under arrest.\\. Now move it!",
+                "text": "C'est ce qu'on va voir.\\. Pour l'instant tu es en état d'arrestation.\\. Avance !"
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/49/message": {
-                "ciphertext": "kHEkktyMFyrAPRJsRpRlUeugWZQbN/XuVPBZTpFlbXPGOdowNORF1ZxGTBp3ypq1nyF/fdMVJ+d0fARPTIj36A==",
-                "mac": "F+a9jsOJg0LwcIyniqtLcQ=="
+                "orig": "Yes, yes.\\. Whatever you say, officer.",
+                "text": "Oui, oui.\\. Tout ce que vous voudrez, Madame l'Officier."
         },
         "maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/50/message": {
-                "ciphertext": "qv+4MxHc1A41+cGhFLkl2g==",
-                "mac": "ocoXKMDSQlIJ2USp7SOxYw=="
+                "orig": "...bye.",
+                "text": "... Bye."
         },
         "maps/arena/faction/maroon-turtlecave-1.json/entities/15/settings/event/7/action/0/text": {
-                "ciphertext": "23ajZ5GNfaRpVz/pAOlO9YFycVeT9XqwIqCT74DGhfc=",
-                "mac": "z5OgRwfPJHGaQUpZFPxR5g=="
+                "orig": "Returning to station...",
+                "text": "Retour à la station..."
         },
         "maps/arena/faction/maroon-turtlecave-1.json/entities/15/settings/event/7/action/4/text": {
-                "ciphertext": "r3zlu/cpM3HXksbf8a0XNw==",
-                "mac": "TCwpEs6u4lY2EbekYHEanQ=="
+                "orig": "Deactivated!",
+                "text": "Désactivé !"
         },
         "maps/arena/faction/mine-heatbot-1.json/entities/37/settings/event/7/action/0/text": {
-                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
-                "mac": "/3l1+JslbOklhtB7mNR20g=="
+                "orig": "Threat detected",
+                "text": "Menace Détectée"
         },
         "maps/arena/faction/mine-heatbot-1.json/entities/39/settings/event/1/guiInfo/settings/text": {
-                "ciphertext": "SnBwLQaqlFFLYcGtFPb4cQ==",
-                "mac": "ZM6o3C9og2bsXZChaEaxXA=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/0/message": {
-                "ciphertext": "7CtkCqtInvikU0beWDIKNg==",
-                "mac": "LwOVrT/luKN+pxrapLkwRQ=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/elseStep/0/thenStep/0/message": {
-                "ciphertext": "7QSSnmSW3y3OXfMoSg778OZoaoiihl6wbngLG16+tW0=",
-                "mac": "HLec5/k94ccmXybyiQM7/g=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/elseStep/0/thenStep/1/message": {
-                "ciphertext": "Uu8/q4/d9vUprqPcOw6H73an+uH6mzqJrLquQTc255DPqBjmR4JMNL1hMVP20FOY",
-                "mac": "Cp5Bzx2+SOIbwvrCLtxiqg=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/thenStep/0/message": {
-                "ciphertext": "PpDWbQ7ilYr7ks3oCkABiTgQ3gtzVB147JCo5L9PGtE=",
-                "mac": "y0fq4xd70x+L8c4ywpbnrw=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/258/settings/teleportLabel": {
-                "ciphertext": "Tsb427A5gYq9lSJit/tFFw==",
-                "mac": "e+9/PK4AKfaZ9oxepvlUiw=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/analyzable/text": {
-                "ciphertext": "VKaIH9P1hp5ZQh7R2DbB02og0GB0LVfkQFMoR/TXgPM=",
-                "mac": "K1kRruqdwKiPOZ/leCxFJA=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/0/event/1/name": {
-                "ciphertext": "cQ2u6wH+M8gdcZ2QQGGA9A==",
-                "mac": "ROAgaufQtwFDYFMi08fj8A=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/0/event/2/message": {
-                "ciphertext": "XH1WEh9EOtV3YAxDiFWt6mzMU4lQ8Uk5e0bgfnjb4oliUNfbyMPY4fhc4B28ugM/SsfniQ7MYyrXk8DOGn8u5CkLY5+PTHMODrKQYnFaBoSTHeutYy8DeHBOZpY2DcnINjMwKhmParlqSgYsrk2WauYT4xzoxPPEpkVQH0FxDcHpx6MS/IK9nk3MDr2/tebs",
-                "mac": "/5VLpXttTGLGW/pGje27Nw=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/1/name": {
-                "ciphertext": "cQ2u6wH+M8gdcZ2QQGGA9A==",
-                "mac": "ROAgaufQtwFDYFMi08fj8A=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "f7nTLiTV2RbR4ZX9Jdv+walprsutliC61i6GremEvlwDRnm8jJTcfPGnwqdXFMOE8F6acb/z/JOcRsNTRMTknEOUYA2oEAg7Vx1+ZdtAMeppBxntu5/zYJ90B+zvhIMJAWDKRAcZHfi/oODEFX9OBZJSe9I2cPzMEAqRca430sI=",
-                "mac": "pMIVvEVLpT70LoJhju37tQ=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "vTdX/crzb9lBwEWi50HwvoRc6w5JstUWTi4pXJtFMz1B/tnMGZx+dFFRhrdmBhJg8JTYghtT6/msYQzb4C8aBu4IFkODnUGIbImMdWXml3BNJ5kNGXkvRQ/ecl5Uhesz",
-                "mac": "dAsSgIBLjPLF0mG5WL5Hrg=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "BqJ1xcZ7MFkcrh8At1lhwpss+ecvf6Otm/NtT7k7Ehg6icO8scZtQCAXPcZPDqzr130EMM92+9jLjk/5i+kIWiFJXteOq3+//qoO0WFJvpyWtK6OHsJAabRK+/RHKSxDP4cA375V8gA9WUqjYqNvRXKnXQNDd8WFUgf32TZ1bDo=",
-                "mac": "2595pduDi76DXK87hgc7zg=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "hCKXD8jV/E30PF1pJ5OZ7J/Yh1eyWDjOzXCQCZizBnnxW+SrYw30d1yuA4H6wKbbz+612QiDnBZggxROnXS0ZVNB1L5Ur/67kzsuPkqzZ2ODvKqpy3fJc143aMjCsAiN",
-                "mac": "j6QZrympLf75VY+UeOPlFg=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/2/event/1/name": {
-                "ciphertext": "cQ2u6wH+M8gdcZ2QQGGA9A==",
-                "mac": "ROAgaufQtwFDYFMi08fj8A=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/2/event/2/message": {
-                "ciphertext": "EhqSBAO73sza1oYBD+33WT6Z1nAihyk9gNS501+Zq2eTpVCSI98IT96HTV0LyT32upL0RZzrjiluq5+/9NLm4M8WUeGI3Tq1FGwXEVvVC7slUvsk3OUzXylyyZmCMpiX",
-                "mac": "6eK2DIvV19VKAJ9o0SahFw==",
-                "ciphernote": "PC/V6fUE1l+uQtVJvijV3a6sULEHeyFxcStuUWuEs2s="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/4/event/1/name": {
-                "ciphertext": "cQ2u6wH+M8gdcZ2QQGGA9A==",
-                "mac": "ROAgaufQtwFDYFMi08fj8A=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/4/event/2/message": {
-                "ciphertext": "KhL/iclqzxJlIIUkeCiPYI2ClYhSXDEk5loit6XZvlPTl10UdX6b9OMLPgHmITVHLXEon8o3S34K4oEfpS6Z1tM1izjy3G9mhfMzOGbaIq7McDbs10Autbnf5sUyVWeH",
-                "mac": "xi/TyzuIU6ysNQuKmQQL1Q=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/7/event/1/name": {
-                "ciphertext": "cQ2u6wH+M8gdcZ2QQGGA9A==",
-                "mac": "ROAgaufQtwFDYFMi08fj8A=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/7/event/2/message": {
-                "ciphertext": "roV5tLon/GCfRWzRti+z9DFjwD8iYTDg4LAdAZ8YgKecq2KLAQzyMD8YCKjgam4LPOgqR4s+ExD3DQAftDwA0BWiBgNGwjiqnZYNY+uJQwOez75/Umet2sQW5NSGH6d3vyVltfWJYL++0jwTrRI9/FwhUnU1/XtNpS+vEHobWcg=",
-                "mac": "wHBC+E03ypUyxxJVdOoxgQ=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message": {
-                "ciphertext": "N8+4PNsf8kr+VknE5Zqg15KHi7w0JYi5RR1/uqw1xH0HQFHdc4YfROc24RYAmRBYiGXjA7iPEJWUoeac5Dejdw==",
-                "mac": "zecFY9Y9BaRfHBuM9s4hrA=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/thenStep/1/message": {
-                "ciphertext": "bvfDeyL31GC+ziDOSaUT2GVElOWPoihkn4k5Qcsy/QXG2avCLlBBZ/EvdSP92wGm4CpP93HldByu/mapWXX2Xs8hGZjIKYy28WmuEiOdSRA=",
-                "mac": "qf6s6yEP0nTrzNGuIqdslA=="
-        },
-        "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/thenStep/1/message": {
-                "ciphertext": "vPmVF1tl/t9QW8HHRU16y5bA43obEjZeLS/Gim8yHUnOSN22mtX8c3aAfbcts+l20whdsP9H2E9MC5Y/Ru/2ymdLSGc0KfyGYn35hJLOUfE=",
-                "mac": "sBtMSBe5WqjfMJNsMaHpZQ=="
+                "orig": "Enemy Heat",
+                "text": "Ennemi Chaud"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/62/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/63/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/64/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/65/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/66/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/67/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/68/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/69/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/70/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/71/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/72/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/73/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/74/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/75/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/76/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/arena/faction/rh-turrets-1.json/entities/77/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/0/message": {
+                "orig": "Let's go!",
+                "text": "C'est parti !"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/thenStep/0/message": {
+                "orig": "Wipe out, bummer!",
+                "text": "C'était nul, éliminé !"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/elseStep/0/thenStep/0/message": {
+                "orig": "Killed it! Sweet!",
+                "text": "Super, meuf ! T'as réussi !"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/elseStep/0/thenStep/1/message": {
+                "orig": "Come back here to get your reward!",
+                "text": "Reviens ici pour ta récompense !"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/258/settings/teleportLabel": {
+                "orig": "CrossCentral",
+                "text": "Cross Central"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/analyzable/text": {
+                "orig": "Guard Offcr Cedric",
+                "text": "Officier Garde Cedric"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/0/event/1/name": {
+                "orig": "Cedric",
+                "text": "Cedric"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/0/event/2/message": {
+                "orig": "Greetings, \\v[lore.title.seeker]. I have to keep watch on the harbor and protect our citizens, so please excuse me.",
+                "text": "Bonjour, \\v[lore.title.seeker]. Il faut que je monte la garde au port pour protéger nos citoyens, donc, si vous pouviez m'excuser."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/1/name": {
+                "orig": "Cedric",
+                "text": "Cedric"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/2/message": {
+                "orig": "Hello, \\v[lore.title.seeker].\\. I assume they sent you to help me investigate this smuggling case?",
+                "text": "Bonjour \\v[lore.title.seeker].\\. J'imagine qu'on vous a envoyé en renfort pour m'aider à enquêter sur les trafics ?"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/4/message": {
+                "orig": "Excellent.\\. I want you to examine the crates on the eastern part of the harbor.",
+                "text": "Excellent.\\. J'aimerais que vous vérifiez les caisses de la partie est du port."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/5/message": {
+                "orig": "The data signature of the suspicious goods has already been sent to you, so you should be able to sense it.",
+                "text": "Les données de signature des marchandises suspectes vous ont déjà été transmises, donc vous devriez pouvoir les localiser."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/6/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/7/message": {
+                "orig": "I'll be here investigating our leads to potential culprits.\\. Come back when you've found something.",
+                "text": "Je vais rester ici et explorer d'autres pistes.\\. Reviens ici si tu trouves quelque chose."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/8/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/2/event/1/name": {
+                "orig": "Cedric",
+                "text": "Cedric"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/2/event/2/message": {
+                "orig": "The crate should be somewhere around here so you better find it!",
+                "text": "La caisse devrait se trouver quelque part dans les parages, vous feriez mieux de le trouver !",
+                "note": "de: ameliorer vos recherches"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/4/event/1/name": {
+                "orig": "Cedric",
+                "text": "Cedric"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/4/event/2/message": {
+                "orig": "You go find that suspicious dockworker!\\. I'll make sure he doesn't leave for the city.",
+                "text": "Il faut que vous trouviez ce docker louche !\\. Je vais m'assurer qu'il ne quitte pas le port."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/7/event/1/name": {
+                "orig": "Cedric",
+                "text": "Cedric"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/7/event/2/message": {
+                "orig": "Well met, \\v[lore.title.seeker]. There has been no further trouble at the docks so far but we should stay vigilant.",
+                "text": "Bien joué, \\v[lore.title.seeker]rr. Il n'y a pas eu d'autres problèmes pour l'instant, mais il faut rrrester vigilant."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/thenStep/1/message": {
+                "orig": "Sacrebleu! Why would they add a door there?!",
+                "text": "Sacrebleu ! Pourquoi est-ce qu'il fallait qu'ils mettent une porte ici ?"
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/thenStep/1/message": {
+                "orig": "This door honestly just went where it was supposed to. Very consistent.",
+                "text": "Cette porte mène vraiment là ou il fallait qu'elle mène. C'est cohérent."
+        },
+        "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message": {
+                "orig": "What was that? Did they honestly design it that way?",
+                "text": "C'était quoi ça ? Ils l'ont vraiment conçu comme ça ?"
         }
 }

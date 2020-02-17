@@ -1,318 +1,318 @@
 {
         "maps/heat-village/interior/tradebuilding-eg.json/entities/12/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/analyzable/text": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/0/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/0/event/2/message": {
-                "ciphertext": "0zFb9EO2uPBR+YGKBMEzmbFEL7fDI+WwihvDW30JPIO1VHZ/2KHxMrbGKwo48XwL2XlW71VgKEZ3QI/hUDqJsiP9ngd2zD+YhrtvrQoeEGVYVu5OaW6QUWRG+my5yD6fnKfzOvthHp3+ODqY/wb6KgfNNF/NJ6f2rfwuefmN/b0=",
-                "mac": "pDxqlVA5zwPi5NlA4gUt+Q=="
+                "orig": "Oh, a \\v[lore.title.seeker] wants to talk to me?\\. I am sorry but I don't think we got any business right now.",
+                "text": "Oh, un \\v[lore.title.seeker] veut me parler ?\\. Je suis désolé, mais je ne crois pas que nous ayons quelque chose à se dire."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/0/event/4/message": {
-                "ciphertext": "lZ+b1H7FIDsyy7HsPagjBvwbPgwqhbEftZ53Imx0M1MxM2FPLr/TGbuz7UP/DVYUDEfmJZ2y2IgTcIydP2q5AhWErKtEn1c6JI254dFXIis2zym+EfN0NETm72gTSlwM",
-                "mac": "w8JtIf0gFB0wU2JFMxEEbw=="
+                "orig": "Aww, don't give me that face.\\. I'm sure we can talk later!",
+                "text": "Ahh, me fait pas cette tête.\\. Je suis sûr que l'on pourra discuter plus tard !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "+cM+WuMKfv4JtwAgeLTHcZ5NONQNgl7Bu5Hu6QdMcon3FsHj9mzwn08hZt0RJmbVFO03nldPsmZJCVrtsbvdc8zcXH74isEDxfRvXlKsKPxJBqgO2eXXzlQgR8s82ySf",
-                "mac": "8d3EL6F6STJY6zK8kHhS9g=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/13/message": {
-                "ciphertext": "Hp1nI25amyrhYMYMq4oAsilv6/c9pUj7g5IVLiY31wkbFtrLRJ0cIElvcsgWfgyn6yAywiW1aHEL+v8GgRfj3S5kA+lQXFFCsWVbp25aYVK4SphcfmXsAN10BpAfGoqdfstp9zuZmZu7ChepBzMyk2Np1zB/M4EfCjhp3KoDWoDAUgmKYLQXxKoFFUHbp1ou",
-                "mac": "egzqDKESIE7b1qaToX3HVw=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/15/message": {
-                "ciphertext": "WYJq99iWdedAatPqPvL6OyTshPvhH0M8xaTrmbcIhduhwVUAQiJUscayYLODA57DiN1U+xYcfTq1s9ULhNH/M0oUki97NMMIIOkGi37OlyG+gtw98x/KvgBNs0SpSt0i7u7dXYxmDDCi/D1HhxVHHMsCW+jkEJV0GDpZSmb1ab3D57QqtT1IkXJG3zo0hCZK",
-                "mac": "o2GNbGZDufWPdwmQKWIf1g=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/16/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/17/message": {
-                "ciphertext": "gxZCH+mFF7AEfH0KLnvdtkhuf/ctzpHWZQOd8U4SqN5MjJUSWscCfYa+oVi2ffHxGtevaGmWaQFNlM7QgVAJ7A==",
-                "mac": "HLQuDrP7pA/fzMbjYekMFg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "DjSFUW1NYlL7OQc9ACEn5kE8sOVGiy57C3NEWux4vn7lL2Tp2BPUozCHtP4KY1im8eSQ0/qN2v5pQajqbDSl1A==",
-                "mac": "+2RMJUhWKLkeFsOs9vuquA=="
+                "orig": "Hey there, lady.\\. Anything I can help you with?",
+                "text": "Hé, jeune dame.\\. Est-ce que je peux vous aider ?"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "mGZ+wvchFWYgPv1m81X2yKbCHwM+nJoaOF1a4sM+g1k6bGNX2yUm+d4RnkWANzYj/0srhRm/bGdCLyqdxEh7/CDDC1E/tDTyA+DJKjb+OPXLFCVg2VtYRspsxaJDvOe4sCQxry2yk2+fftUU+D0L+Q==",
-                "mac": "bGezLktrHDl6DyfP7iWgQA=="
+                "orig": "Kney'tehab sent you to me to test our new toy?\\. That's amazing news!",
+                "text": "Kney'tehab t'as envoyé vers moi pour tester notre nouveau jouet ?\\. C'est une excellente nouvelle !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "oXMzj+96sAejBUQXAZvSGb1R+eHkKcBdFhP9gMZpjNHTcmGJgKi6q561BzwfthbU9Y1JiFvAVXtyyT+UjBdZ2qeZwFtPaZQlvfsZDklGXXSqR2FCygf3P03n4nkbFERtdZx15OPxGmGC7/VxlmHuC5kL/qdxRwFYtrl9uuiAK5Q=",
-                "mac": "opiZpYXUTIAJ54kDgkNp5g=="
+                "orig": "Even finding a \\v[lore.title.seeker] to help me.\\. The boss can be such a sweetheart when he wants to!",
+                "text": "Il a même trouvé un \\v[lore.title.seeker] pour m'aider.\\. Le patron peut vraiment être gentil quand il le veut !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "6gMcP7/PWh+CnS0HEMg5sZUlJXUsQdVILmfmEwCSSA+eQL6B8x8ODNgTIS0OlN0/ur/2hQZ9TSBML1iPo5E2djF8a8ZKQjY6ke8TZMhVqMvjofHZDdO5pZremVoyOMOfQAVFZV2yuFJQI7NUvG1Irg==",
-                "mac": "N14qGwvSq9h1Juka7W5+oQ=="
+                "orig": "See, we have found a way to implement a human device into locations flowing with Ancient energy.",
+                "text": "Tu vois, on a trouvé un moyen pour installer un appareil humain dans une zone emplie d'énergie des Anciens."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "QK13h4u3gCv0Lwac6sUcKegLWWOYOAc3zkrzPQW2cMIVg4ALYgW+R11xialcYZeW8JJKDiaLMYtdjQOBIy0SN1WVPj1cEJzdEvpJPpb3AsvBkWbih0bKqGJ0TZA0ia7KyGQPSkSoWLIAnoK87T7d5BDwKQhr6ZmSK7zO4kCjxFc=",
-                "mac": "p0SK+TcL+HKTAxWZ8mWF5Q=="
+                "orig": "Here we wired a distillery into a puzzle to brew ourselves some drinks in the way of the Ancients!",
+                "text": "Ici nous avons branché une distillerie dans un puzzle pour brasser quelques boissons à la manière des Anciens !"
         },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/10/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/10/message": {
+                "orig": "...?",
+                "text": "... ?"
         },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/10/event/2/message": {
-                "ciphertext": "dLlwZaY5gA2nJs3+KXgOKR30uT4NcIQV36zCyTyrOah1gFS4SJEI69fp5cPPibt7BEvwOpakKrgCaY4cmlwPZBz83d7MvQrbr9U5wzIOH4c=",
-                "mac": "Od+Jdwh9NN1x/40hgvwtSQ=="
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/11/message": {
+                "orig": "I know, right?!\\. Drinks flowing with Ancient power must be the stuff!",
+                "text": "Ouais, hein ?!\\. Des boissons remplie de la puissance des Anciens, ça ne peut être que bon !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/13/message": {
+                "orig": "I'm so excited I'd love to start right away!\\. But we need a few materials first to get our baby running.",
+                "text": "Je suis tellement excitée que j'adorerai commencer dès maintenant !\\. Mais nous avons besoin de quelques matériaux pour démarrer ce bébé."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/15/message": {
+                "orig": "Here, take a list of the things.\\. It's mostly ingredients from different places and some ice for the cooling.",
+                "text": "Tiens, prend cette liste.\\. C'est surtout des ingrédients venant de coins différents et un peu de glace pour le refroidissement."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/16/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/17/message": {
+                "orig": "Great!\\. It will be worth it, I promise you!",
+                "text": "Super !\\. Ça va valoir le coup, je te le promets !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/2/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/2/event/2/message": {
-                "ciphertext": "pCw4M5d60PxS9H2cMwzJ4B3VaVYEBn+qNRotv9PR3LGbbWivCau/W191XHt+uN7EsF7uvjMHcUCZZtEYoP70dSoe1cBcle4k/eUDYQBdWvup0LlK+IoIdrQeg2GGFjjq8VyKXzExnCHMqvm3sj+fPFChpmcxdKQyz78SCLsKO/E=",
-                "mac": "njN1gnXPAVGYfOGQbDrVbA=="
+                "orig": "Gather all the ingredients that we need for a test run.\\. Oh, and some ice for the cooling!",
+                "text": "Récupère tous les ingrédients dont on a besoin pour faire un test.\\. Oh, et n'oublie pas la glace pour le refroidissement !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/11/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/13/message": {
-                "ciphertext": "bTd85e9J6tcnAogyeAeM/Szqj9piSu8gVtgPKlM2afP0mA5xAiyU5IlS31wjEWa9HoBXLMwckNw72go3SJ5ohAV+XHFI4TARgavAG7rGk4jItR2+yUbRasTOGWa3yFF+",
-                "mac": "mz814JjXvi/pno9bjlrU+Q=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "7HKLkYMf3rik2um423NEFs+ukpFXOX3xfsej3gZtab55JAeGZRCM4dc244JekSjw",
-                "mac": "Z4p4a9xWp9yCp/UawlvE3g=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/23/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/25/message": {
-                "ciphertext": "Fyyrr6Qkafe1+zKy3wsZPuxDrU1+O3gLxL5zLjfdkci54golpp80LzOpe9JRha5mkcOC55meoaJynK4YecpPaZ77iojGgkG2BrPZHe+R9prdGWdiwfsLW/Ezxb8OC5G9",
-                "mac": "cXIspnEtlbT+KiAgnAqZ/Q=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/26/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/27/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Heya \\v[lore.title.seeker]!\\. You got everything?",
+                "text": "Hé, \\v[lore.title.seeker] !\\. Tu as tout ?"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "2QII21m5l8KEHIA0bjmYL4bzxz2tkoYrINmUQVrXpG/5hvr0NexvK4f4wRInzRs0cxy99e//kHpOItXPok5/QOixQz28hvtCfGp3hFhtblJ4+XuO5pfgGArz7NvepLko",
-                "mac": "c6wIxy+sNDpWkNEe5enE/A=="
+                "orig": "Amazing, you really got everything!\\. Now we can begin with the fun part.",
+                "text": "Super, tu as vraiment tout amené !\\. Maintenant on peut commencer la partie marrante."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "Wq6Z7gfFWG58PPxaIGVt8qDA1tfmFfD3udeRirE8PYAwCQUoEbeArK6M1B4EWj57",
-                "mac": "nTIyMNA/RZhQRREHlGdnNQ=="
+                "orig": "Let me just prepare everything you need!",
+                "text": "Laisse-moi juste rapidement tout préparer !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/11/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/13/message": {
+                "orig": "Alrighty, that's it.\\. Here, take this and go down the stairs behind me to your right.",
+                "text": "Voilà, c'est bon.\\. Tiens, prend ça et descends les escaliers derrière moi à ta droite."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/23/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/25/message": {
+                "orig": "I will follow you and tell you how to get our precious machine running!",
+                "text": "Je vais te suivre et t'expliquer comment faire tourner notre merveilleuse machine !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/26/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/3/event/quest/27/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/4/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/4/event/2/message": {
-                "ciphertext": "G/AhjvdmexalAHyHd3Ho53ersjd4WhBZDcyqx7anFvxZoC2ZswkNBlJqPvadZzAVCcPANQdhnRevwNnBy7iVBDHdO1GquM4ruFy7JnjDWPkzyZGMhpOdieBIfCMf3phMOhOwHZwkGMgSvp5NTNsptw==",
-                "mac": "B1hvywJb1d3K5PMlhtNkmA=="
+                "orig": "Go down the stairs behind me to your right.\\. I will follow you and explain how it works!",
+                "text": "Descends les escaliers derrière moi à ta droite.\\. Je vais te suivre et t'expliquer comment tout fonctionne !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/5/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/5/event/2/message": {
-                "ciphertext": "tD6e+wrWhgZxN8I7TSVTBB9bJ4lmzUx83Pnze7yMKUKXd8js6V3zp+h17VOokeJ2adtdPrFh7nDc+GxX6pBGJBlnwQqSaKP+bwQaulnY+sSwqz9oLxjLgZTXEp10Ow6xrNxpiRp/EVpEykL5gzoZdyiQdTtDl6zbbSq4TiAJpDnxDdATKK+xyQ2dH4XzUGMxz958hQmD7msYB6adakx75w==",
-                "mac": "/az5FQ/Oqrbf5/n1YB1HEg=="
+                "orig": "Sorry, but I'm busy here.\\. I'm sure you'll manage on your own.\\. Don't forget that the console has an instruction!",
+                "text": "Désolé, mais je suis occupé là.\\. Je suis sûre que tu t'en sortiras tout seul.\\. N'oublie pas que la console possède un guide d'utilisation !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/6/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/6/event/2/message": {
-                "ciphertext": "EhoUCyo53qG55qefzxnII9z0uOW4SUWfnTKbV6R/UvF5G+XHK0TjbiRo039+zHjQPTEdRFhyYM/sJFJyviQ1W71KhVkfrtJUdBKKN2O8ykbpvHFQoABihkKSt9JP453KYjN2rBeMoFAShi5+bJVbMKJdjzWDAqtxUJ9RY8YNMT3ddbkwm3ROyxJT/owCTueWgdMdzq6D0MUxBNKd8soz6w==",
-                "mac": "LCF9UACLUH3IZNdi5QyJKQ=="
+                "orig": "Amazing job down there, \\v[lore.title.seeker]!\\. I already told the boss so he can prepare your reward!",
+                "text": "C'est du bon travail que tu as fait là-dessous, \\v[lore.title.seeker] !\\. J'ai déjà informé le patron, pour qu'il puisse te donner ta récompense !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/6/event/3/message": {
-                "ciphertext": "Pe7q8EfdL3YwtlVQQG1jH6EU1lkDLZp/4ECiyM0ElwVHt+nZP23pwo0HwC+XGEZTKHuN1KfWkam02Ee5vQ14LECHm0/GgUvHlr0Tcr6X/KE=",
-                "mac": "s7mN+31enUg6I3prP80kpQ=="
+                "orig": "\\c[3]Come back afterwards\\c[0] if you wanna brew more of the finest!",
+                "text": "\\c[3]Reviens me voir après\\c[0], si tu veux brasser plus de bons trucs !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/3/message": {
-                "ciphertext": "M70vshWsxCtoVuEKjwHjq+ahwoMTbnMUgd7M+HcqCYo0tVj38ikQM84Y0/NRIewGEVpDtcFCV/b9PEjj/WIChg==",
-                "mac": "V75WV6clnUxU1PsXArjHHg=="
+                "orig": "Heya, \\v[lore.title.seeker], great to see you back!",
+                "text": "Hé, \\v[lore.title.seeker], c'est sympa de te revoir !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/4/message": {
-                "ciphertext": "ksV/QNrL+3IuoHS14eF473emAIMLC1rCaKLna0CCmdjxg4x9H9XjdXu2632EtKGoAdo4ZuQBvBU94nC05Og4Ft6ypCklQsRXhXu5QRISiS7K5Zj5IyYCOPbvT7ML+SQZwK++fW+tNGUtBWrU/J+vDmal9fJR2bynEYv1FRWoUYs=",
-                "mac": "mKkGt1s/SMqLEp6t738ILg=="
+                "orig": "We already tweaked our sweet little machine with the data of your tests.\\. The stuff it produces is just the best!",
+                "text": "On a déjà fait des réglages sur la machine avec les données de tes tests.\\. Ce qui en sort, c'est juste le top !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/6/message": {
-                "ciphertext": "YvumhDiBVjLOEXTd0tYaqX+c+DBb2eziHhDbbz6LIH8hGuWL5bbNdRDwoCpjfDxJ/R3sWNRijFSP4qGKEf6MHOrUtOoipzzY5nuh0WLpru0cHW2iz6eFbJ8LBKB3z6oYosczc1dt2l1eW+wAdpe/Ew==",
-                "mac": "rnOiG9yaE0g2O21IvwvdQw=="
+                "orig": "We can open it up for you to use it on your own again, if you agree to give it some further tests!",
+                "text": "On peut encore l'ouvrir pour que tu puisses t'en servir comme tu en as envie, si tu veux faire plus de tests !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/1/message": {
-                "ciphertext": "+9/Sr76T5BDwmzu3dbsIPfDct+3H0iD3zcoVbL+lfpJPibrUQg8wgSvxYaiNctHUgw8SFtw9z4z90vF0od3GlWmC4VeDg8BPK3EkphdqdoQ=",
-                "mac": "ife8/6Lc199Oa7Yrus48Ew=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/10/message": {
-                "ciphertext": "ljJV032u+ujI8otqaHGR5EG4zSd+ogF2/5sJTKmwjh4fSFtrI9/qanKMrh+d8EoUyG2RqHbxfbTeTCPVwH5M0+geOjHRv38laRr8XKqgPvrvDoiG/DrGrMcJ98HNaibF",
-                "mac": "j24bXVg7Ur1ytM1ZWn2dCA=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/11/message": {
-                "ciphertext": "jzcaSo1N9qe4VQDklaE3IA==",
-                "mac": "XL4b8tcFCItst3WDK1pofg=="
-        },
-        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/12/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Great!\\. You will see that we have changed the way it works a bit.",
+                "text": "Super !\\. Tu verras que l'on a changé un peu la manière dont il fonctionne."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/2/message": {
-                "ciphertext": "u+LTbA/rHhzf2sibEbn3BYwzYg4AZArEcQ/Tlz0zc0fqWNlk10XfH9NTtK2T087QjTXWHfHlXkoLSxHAVljWqmTKrpJ1I0nV+wh/yvw6x7KB57uqB2jkl3XlriKn1y0c7hHoHE7rcIuaYEsFZK3OHA==",
-                "mac": "zQzMMHuYT69zhfbxa7Rx9w=="
+                "orig": "You will now have a \\c[3]limited amount of time\\c[0] to refine those ingredients as much as possible!",
+                "text": "Tu auras maintenant un \\c[3]temps limité\\c[0] pour traiter les ingrédients autant que tu peux !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/4/message": {
-                "ciphertext": "pxB1cYLtkh0k6REWttQohB19cLVyiwBD+m/B4ssVGr42wkIm8uDVwPUBuT8wLOY/acN1JxnIjEyeYKfo0cIMZjbO34qisIuVPoENW/cI0k6jCVE1mBpU2OHafyKGBrom6U0hjhb4X2jj+Ot37rtrLQ==",
-                "mac": "eOO6iJc1cREmXCcHHoQfqQ=="
+                "orig": "Basically, to help us out you should just try to reach as much \\c[3]quality\\c[0] as you can.",
+                "text": "En résumé, pour nous aider, tu devrais juste essayer d'atteindre la meilleure \\c[3]qualité\\c[0] que tu peux."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/5/message": {
-                "ciphertext": "PutS9SZ50MOxGkIVwl0l+RBNHAXzTUW5zaAziTKYs1gbGlljYhE+cA76zs/FRvZuEcfTxsvHn982NBMra+L8mDv8PfLvGdIgNFGgMBcI31ZfyaX8vmW/HIMD/Z4wjX6+usmd4djvQv3LxKr2rAFCQA==",
-                "mac": "jaE5I24U6AKDsg5dQv6R+A=="
+                "orig": "That'll also \\c[3]increase the number of drinks\\c[0] produced, so it's win-win for everyone!",
+                "text": "Cela va aussi \\c[3]augmenter le nombre de boissons\\c[0] produites, donc c'est gagnant pour nous deux !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/7/message": {
-                "ciphertext": "ZqkKBBsYM0gSmk+X5OMPHCjACghY6L9zA/5EvMGClA2aZvTK3kZKUf+wHB9723PY/Ww6VPpu5gw+IVMBeZ7OgGv9xbzRtw8x+MilnM0Z3pILcAxJAl3imAr1EshVae+j7TIbUTrqwqIyqo8b91ybZN2RprqfzKuIydL1Av/RkOOvHWio7Ll8AYNCDA/CK4dy",
-                "mac": "ZY+JBQgocIh/dszEV9bICA=="
+                "orig": "Thing is, reaching high qualities is tricky, because it's about maintaining a \\c[3]high heat\\c[0] without making mistakes.",
+                "text": "Le truc, c'est que atteindre une haute qualité est difficile, parce qu'il faut maintenir une \\c[3]chaleur élevée\\c[0] sans faire d'erreurs."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/8/message": {
-                "ciphertext": "ZvZBI/GiPMJOFwKqDoPxcA==",
-                "mac": "JPikCG7JMxIAI9UwSCEpbQ=="
+                "orig": "...?!",
+                "text": "... ?!"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/9/message": {
-                "ciphertext": "c7OJgfX0A8JIcJKy0PLS13oGNTt8dqPbbgUZq9EdWY4vGJkZ33Oaglw0OrfKsObZBl24rTGOsUsg5PsvQ3EohLuSKj+bC+18NCxLyOi5UPs3q6yRr+ZbvzT3P5JrOmmZtrFrTgu9sBe4LW/0sWPm5HDHESnmV4ZTaW2Gj4nt5jc=",
-                "mac": "/ASybOo3I6bL6wfpg2MaJg=="
+                "orig": "Well, I'm sure you will get the hang of it.\\. I will give you another batch of ingredients to start right away.",
+                "text": "Tu devrais rapidement t'y habituer.\\. Je vais te donner un autre ensemble d'ingrédients pour que tu puisses commencer."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/10/message": {
+                "orig": "You can get more from my assistant down there, if you also bring the base materials.",
+                "text": "Tu peux en avoir plus en demandant à mon assistante, si tu as les matériaux de base."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/11/message": {
+                "orig": "Good luck!",
+                "text": "Bonne chance !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/12/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/declined/1/message": {
-                "ciphertext": "DCEVTIlzENOmhofWf1deHyVYntxvNQmGnZXlFvNzbVRIxVnZ41Voa8wfCijKecgCsb9W/Vfr6/z7cAcNzmzhgF7R8I1y1fDrIFmcpTGJhw0=",
-                "mac": "Mky4t2vob0VSCIBwcvu9wQ=="
+                "orig": "What, seriously?\\. But why wouldn't you?\\. There's no pressure, really...",
+                "text": "Quoi, sérieusement ?\\. Pourquoi pas ?\\. Il n'y a pas de pression, vraiment..."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/declined/2/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/8/event/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/8/event/2/message": {
-                "ciphertext": "bfcXjxNkmHhDz18DDggTK6PvgRab9ogLeXtVgeu1h5hSB5+keaXr+DAR5IVZ6RFDJhlw7I5pUU19HytNAplnbIBcF+DODrMPJgGXchtHC4YcsqFtLS9N5doExpE2nyQbHwk6mItmG393y0DfELggI5mL8Ng0f0+KGWT908ElMYlKfuSbBzXGXBalPpE/Mgvznl7R2wEgyC+9J9+m8rGojQ==",
-                "mac": "SBCecSJYq51+YcuamnJtyQ=="
+                "orig": "Try to get as much \\c[3]quality\\c[0] out of it as possible!\\. Our data says that \\c[3]maintaining high heat is key\\c[0].",
+                "text": "Essaye d'atteindre la meilleure \\c[3]qualité\\c[0] que tu peux !\\. Nos données indiquent que pour ça, il faut \\c[3]maintenir une chaleur élevée\\c[0]."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/8/event/3/message": {
-                "ciphertext": "2mV+/bxMLDMIuRwCXfWRkO4dhgg8klxL3NKGG0ngew1Srtl1IicnDkU8vkB3FxF+GAe+10xFuusxOGhY90yVseRpXM6ficueHgbUMMFJ/e3VqqvVynAFUgHp6pCO3BGc",
-                "mac": "BR3g8UJD3b4qsX0SroGtFw=="
+                "orig": "My assistant Bru down there can prepare more brewing sets if needed.",
+                "text": "Mon assistante Bru en bas peut préparer plus de kits de brassage si tu as besoin."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/0/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/2/message": {
-                "ciphertext": "2no9J+OrYyhCpU8hiSfP/fw89+gw5fFeV06lJqYsynFnwanHS5rEkVo4ZLuu+twUBpA++N2DLhU6lIWGcMwBUymJmHtKaSHCOfrpg1TnXcxiOnX5l4psXBQUmyH9AgTkBuZpGP4PESyVkAn+gRbf2Q==",
-                "mac": "9g4k6z8LDnkoeLEg34jjEw=="
+                "orig": "Wow, \\v[lore.title.seeker], Those quality-ratings were just off the charts!\\. Amazing work!",
+                "text": "Waouh, \\v[lore.title.seeker], Ces niveaux de qualités sont juste de la folie !\\. Un travail formidable !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/4/message": {
-                "ciphertext": "OlL4noEgbstRRcQdABrMqpQDl3Z1PLPdxRS1/Bfhh3gXX1rGp56tsNW8ZzokLmS4",
-                "mac": "3iDORL+Y8qPv+0mBVtDZjw=="
+                "orig": "That'll really help us refine the mechanics.",
+                "text": "Cela va vraiment nous aider pour plus tard."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/6/message": {
-                "ciphertext": "PbssILwjLhUwY46lC3DkMTMKbJ3P6w9t4St85eQgzC+KXc+6r9wuWKZldJanW/pyzFT5Q++NgpRUvOOZcgmg7OpnV41lafMRo/HIb6LZ06lQMXv3Cf1E6TXDSL8TxODyfezuDqvToSULlb6YbmotJqTklzZxLE5lrPoVS5j3TQ8=",
-                "mac": "2Crix1HiW8MfNJM1g4YQKA=="
+                "orig": "Also, we worked on another recipe for you to use.\\. You should try it out when you have the time!",
+                "text": "Sinon, on a travaillé sur une autre recette, pour que tu puisses t'en servir.\\. Tu devrais l'essayer si tu as le temps !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/8/message": {
-                "ciphertext": "XrQwDr/CmHvCU9wBbW5RQWIM2ECi9UEgKTE7iI9bbBak/JMSP7TwfkLasnFwOPqk5T4pYNjxNv9gPaRgi6Y+Umn7oZImxzezJOQxdjJXbQw=",
-                "mac": "Z9c49785wAQK5JZtt3Uojg=="
+                "orig": "Anyway, things are getting busy again.\\. See you around, \\v[lore.title.seeker]!",
+                "text": "En tout cas, les choses continuent.\\. À plus tard, \\v[lore.title.seeker] !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/9/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/10/event/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/10/event/2/message": {
+                "orig": "Heya, \\v[lore.title.seeker]!\\. Wanna get more drinks done?",
+                "text": "Hé, \\v[lore.title.seeker] !\\. Tu veux brasser quelques boissons ?"
         },
         "maps/heat-village/interior/tradebuilding-og.json/entities/42/settings/interact/hoverText": {
-                "ciphertext": "K5v0qJ1ySBo6nM026xniKA==",
-                "mac": "z1yLx3bABtr++a1PR/nkqQ=="
+                "orig": "???",
+                "text": "???"
         }
 }

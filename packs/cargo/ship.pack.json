@@ -1,300 +1,300 @@
 {
-        "areas/cargo-ship.json/floors/0/maps/0/name": {
-                "ciphertext": "Qe1K+CtfJ/zomc7ujL73JA==",
-                "mac": "31BvreRD/rL7enS9Yqpxwg=="
-        },
-        "areas/cargo-ship.json/floors/0/maps/1/name": {
-                "ciphertext": "r26kfFbTpQrjgv4VZEJwHw==",
-                "mac": "EHhLY8XZmM4X3SpQ5dhW6g=="
-        },
-        "areas/cargo-ship.json/floors/0/maps/2/name": {
-                "ciphertext": "QbfMIfZwWbR7JyexEYY6pw==",
-                "mac": "K7YXeibxZIO0l6C6q9dsLA=="
-        },
-        "areas/cargo-ship.json/floors/0/maps/3/name": {
-                "ciphertext": "vPoahS+M0fJlz0nbeevBVQ==",
-                "mac": "bbwy2v3XqoofvikBbGSOJQ=="
-        },
-        "areas/cargo-ship.json/floors/0/maps/4/name": {
-                "ciphertext": "mlFI4NCBS5KnahLdgd/m0Q==",
-                "mac": "pLwCNbJkII+8eCw8C+AXMw=="
-        },
-        "areas/cargo-ship.json/floors/0/maps/5/name": {
-                "ciphertext": "zDe/h6e3rwuCf/q8mLa4Ig==",
-                "mac": "UqjdGdHFJExDgHJgKnY33Q=="
-        },
-        "areas/cargo-ship.json/floors/0/maps/6/name": {
-                "ciphertext": "JEG31qLsYfhfz/l3r/F1Q4HnmmdMXMYlPFK3n7Z3tYk=",
-                "mac": "16OQTnpxUYTzXjgoF43krg=="
+        "areas/cargo-ship.json/name": {
+                "orig": "Cargo Ship",
+                "text": "Porte-conteneur."
         },
         "areas/cargo-ship.json/floors/0/name": {
-                "ciphertext": "mIMBZQHJXPZUaqZ3zpBA8w==",
-                "mac": "RFyzo0c4nKaQf8Gnu4gMTQ=="
+                "orig": "Cargo Hold",
+                "text": "Cales du navire"
         },
-        "areas/cargo-ship.json/floors/1/maps/0/name": {
-                "ciphertext": "Muj7ELDry2MAKN4QGVNWZw==",
-                "mac": "Lp516S5blL5EJ7iA7hZP4Q=="
+        "areas/cargo-ship.json/floors/0/maps/0/name": {
+                "orig": "Teleporter",
+                "text": "Téléporteur"
         },
-        "areas/cargo-ship.json/floors/1/maps/1/name": {
-                "ciphertext": "ZrVaY5Hekt4VVvx+xcwNUZAKQW5MOjff3QBRerwZpIY=",
-                "mac": "+/uMMxcrAkI+FCA3iPXj0Q=="
+        "areas/cargo-ship.json/floors/0/maps/1/name": {
+                "orig": "Cargo Hold 1",
+                "text": "Cale 1"
+        },
+        "areas/cargo-ship.json/floors/0/maps/2/name": {
+                "orig": "Cargo Hold 2",
+                "text": "Cale 2"
+        },
+        "areas/cargo-ship.json/floors/0/maps/3/name": {
+                "orig": "Cargo Hold 3",
+                "text": "Cale 3"
+        },
+        "areas/cargo-ship.json/floors/0/maps/4/name": {
+                "orig": "Cargo Hold 4",
+                "text": "Cale 4"
+        },
+        "areas/cargo-ship.json/floors/0/maps/5/name": {
+                "orig": "Cargo Hold 5",
+                "text": "Cale 5"
+        },
+        "areas/cargo-ship.json/floors/0/maps/6/name": {
+                "orig": "Cargo Hold Elevator",
+                "text": "Élévateur des Cales"
         },
         "areas/cargo-ship.json/floors/1/name": {
-                "ciphertext": "4qAvpJGyzB1SxkbvkjC44w==",
-                "mac": "AXdWjJ1IuAh37dmYYoVnPA=="
+                "orig": "Deck",
+                "text": "Pont"
         },
-        "areas/cargo-ship.json/floors/2/maps/0/name": {
-                "ciphertext": "rODBwoKD5lytquv//rip/Q==",
-                "mac": "3qvZoBj/OBLxbiJ9OPQQdA=="
+        "areas/cargo-ship.json/floors/1/maps/0/name": {
+                "orig": "Deck",
+                "text": "Pont principal"
+        },
+        "areas/cargo-ship.json/floors/1/maps/1/name": {
+                "orig": "Ground Floor Elevator",
+                "text": "Élévateur du Pont"
         },
         "areas/cargo-ship.json/floors/2/name": {
-                "ciphertext": "rODBwoKD5lytquv//rip/Q==",
-                "mac": "3qvZoBj/OBLxbiJ9OPQQdA=="
+                "orig": "Cabins 1",
+                "text": "Cabines 1"
         },
-        "areas/cargo-ship.json/floors/3/maps/0/name": {
-                "ciphertext": "a2fSIoFLQB+0IZou+EhiRA==",
-                "mac": "0/QU6WKVDmdDauXNHwK1EA=="
+        "areas/cargo-ship.json/floors/2/maps/0/name": {
+                "orig": "Cabins 1",
+                "text": "Cabines 1"
         },
         "areas/cargo-ship.json/floors/3/name": {
-                "ciphertext": "a2fSIoFLQB+0IZou+EhiRA==",
-                "mac": "0/QU6WKVDmdDauXNHwK1EA=="
+                "orig": "Cabins 2",
+                "text": "Cabines 2"
         },
-        "areas/cargo-ship.json/floors/4/maps/0/name": {
-                "ciphertext": "jJBoNmDAt2ysvMZLHR4Xmg==",
-                "mac": "18WnpFzWTtZ/bmOeEdJj0Q==",
-                "ciphernote": "wy31LRa4MsvlugWFEiPYZ9xfYYY/nijln6qyy+cCMYZkAlsNwkNGPiQS4nB3rYOGlVVrgTB6cmJyWx2DjyLS9wphYXQ3wdk8bYr58CpPYfUyLecLXGp6rYmHNS65ScJx"
-        },
-        "areas/cargo-ship.json/floors/4/maps/1/name": {
-                "ciphertext": "qlu5VvVxor9CoXbS1aR9ww==",
-                "mac": "pUjqJX3sZrdBMpqgb7xSjA=="
+        "areas/cargo-ship.json/floors/3/maps/0/name": {
+                "orig": "Cabins 2",
+                "text": "Cabines 2"
         },
         "areas/cargo-ship.json/floors/4/name": {
-                "ciphertext": "jJBoNmDAt2ysvMZLHR4Xmg==",
-                "mac": "18WnpFzWTtZ/bmOeEdJj0Q==",
-                "ciphernote": "wy31LRa4MsvlugWFEiPYZ9xfYYY/nijln6qyy+cCMYZkAlsNwkNGPiQS4nB3rYOGlVVrgTB6cmJyWx2DjyLS9wphYXQ3wdk8bYr58CpPYfUyLecLXGp6rYmHNS65ScJx"
+                "orig": "Bridge",
+                "text": "Pont Supérieur",
+                "note": "is there really no real word for that ? except \"pont de la superstructure situé à l'avant\""
         },
-        "areas/cargo-ship.json/name": {
-                "ciphertext": "Q/0X/z0/mU2ZWNj+rV0lTjdMQfVIujTVJ2NxfapU+sc=",
-                "mac": "lptM6L2vXKv2gz/TryQFxQ=="
+        "areas/cargo-ship.json/floors/4/maps/0/name": {
+                "orig": "Bridge",
+                "text": "Pont Supérieur",
+                "note": "is there really no real word for that ? except \"pont de la superstructure situé à l'avant\""
         },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/17/message": {
-                "ciphertext": "vGR2l7Kq9ciCjhKKfbdGYwZd+RG/NOEeiRHFHj1fEbqhUBcVTZLt5SR6T1vA8XgSArZwl+roOSDgRs/cx7VLCw==",
-                "mac": "Bz1PVJlO78uRPmPXutpW2g=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/18/message": {
-                "ciphertext": "aeQZSwyYUEojQV6EFitalp8VZH9Vd9c10HrBBOdqff/hNcDtdbAX9wmT2tJLibG+Rm8VFVYON0hoHegJKsIQCQ==",
-                "mac": "V9xirZIDz8I2/P2rtGM2Mw=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/29/message": {
-                "ciphertext": "30feNnefv/PD9AJ9hIUuzFyPeifmPVsiyBBZdKpXY50WpGILQpBz0rExTf3PGwYLhvtXg8IT0PbHDqBTXAKxXg==",
-                "mac": "VHEMvo/mzwZU5pOt+Hqofw=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/30/message": {
-                "ciphertext": "PsTdVq5mZZsvNm6T8/knTCWlttyWuNCWKVP4ux0k31l2UXcyGGtyYqvlOjBh1Ry0/HDI4fOSc2VMFnIeUagbXbGVQmKNfRyHXL9e4Rr7cto=",
-                "mac": "XJooY/ERlHlpZQ1CnIcwyQ=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/41/message": {
-                "ciphertext": "tEMqwqHKQUo/fT/uh9dIz2bY3G0AZOFulyqq6FCJcGc=",
-                "mac": "W3PNX6ARd0kMQ/FgpyRZkQ=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/42/message": {
-                "ciphertext": "s92A75w0iRSLgGPcQgfuZNo5v33s9WZ+XxIvsv/ZsQPhclzIbXoNqk5cNPsXLoy3/tROLz+eC2+hrd2bgmrG5/YPGdHzI0T35UDiRP7FfAc=",
-                "mac": "O7kDKbQjr++uW0Fbe7fRmA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/43/message": {
-                "ciphertext": "629PauLA+9+HUAS9Yku+/bIHbKpgtbinZb4EDgZl/htyno8ws56lo+ecmHWkkFM8uE6uv9Eo6fnoAHfSQXqBGA==",
-                "mac": "67AnJUsKEWvOhP8iraBKhQ=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/44/message": {
-                "ciphertext": "kSaaO7JU4xWq02Ry35igeZodIKr4GUsNvnuDY4mY47s15/nnV/LhEWUjPy3K4ukh",
-                "mac": "xM495GiAQcIdkDNMpABk2Q=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/45/message": {
-                "ciphertext": "VUx+UxiRW9TCuTteus6XU4/PDJeiOZr0VkLMOuVqqNpShpFbfBFM1EzYZZpbpdKdN/CJMyCzzB853/D7pSRxJw==",
-                "mac": "OIIISM1Tn0seoeuBFEOiEg=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/0/message": {
-                "ciphertext": "3oA6hbvuymhv3DsA9XYdfk2EiYj28y1LZe3GM+JcH5mfgvjT90ptt3ci+P6z1xgw",
-                "mac": "JeeDoG/ueZe/em+Pmgbk4g=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/0/message": {
-                "ciphertext": "RyDp6jQMqClUSfdPC1pgvi9ZkP2Dl/5JLuONWAu1g2tUoRxjubPPTRvWE7vCxd5/iS2AGAwfQxSH1lRYUnkitQB5VhyA8B8KDwrgXuj7KoQ=",
-                "mac": "JZ9hUSm6YWpXU+8nrkA45A=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/thenStep/0/message": {
-                "ciphertext": "uHhtf9vYDbJXRKjGM/NHsYU+i8GicORRqWIU+f7YB3RwWFdH0sZoVqYAbIBbd5kjeCTs4WLMOsK+i7M4GpBBnRi+OHGPI9tEyHjKm9LdaEE=",
-                "mac": "R3kx9mYYAGRB34nKVcK1dw=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/thenStep/2/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/0/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/2/message": {
-                "ciphertext": "FSd0G3ELZiFCyDPctWTVCdgMenTk5XX3eS8oMSx3kAbQin1wctgDYnikqPVqwYK+k5w8JgDtuuddxS4tOW1JhY5kXA0hOfM8Z4QGGcBOJzLJyNRCbr2B2PqeUfCdAsEa",
-                "mac": "hQKAK99yNozwR7+Cg8rG/A=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/4/message": {
-                "ciphertext": "0/5MX5Dlluhtm8H+pwacv8vT4fPnNU2JvvHr1nrKEoj2idI9d1VP14USi//SRkMvlGa8cg//a1xOL5mDHb3qMQ==",
-                "mac": "MKfCda1vgM3HoDtw+DXG6Q=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/10/message": {
-                "ciphertext": "2U22fCDjeUOChHqyGBQvea10iDJR0YNKJ6IEHIMT89JrVKdwXU7sBRIlQjdZ1KmAwpJB+APmSyJj2nU/TOa83g==",
-                "mac": "2FUmeo1K6uAlJC2vfmT7tg=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/11/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/13/message": {
-                "ciphertext": "J8/tNFV0lC4pkaANZx1G5eDzrigYwLSaiYg4jUQUTls=",
-                "mac": "4ewY05HicLiAQ1Sk3VA5Wg=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/15/message": {
-                "ciphertext": "sxXCQciD+MKyrwOm9lFSq45a6RtieAm7RDqbaj63oty3nya6w9jL4/lEtw828jggyDeg5BK8flbu98LHWMtxWA==",
-                "mac": "mxoiOw4q4OJ5Q1Rurz53rA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/0/1/message": {
-                "ciphertext": "d3c0vM/wN2g4L6oB7rBjHQ==",
-                "mac": "5jQhoIyr4TfD40gTtsT4cQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/1/message": {
-                "ciphertext": "Kf3vPvLYLxSuWv5tUP18D6zIiWfrFUKkmd4vquAMRuTDE50X/RtZyR+Q0qiXEwLHU3a08Xj1GEtp+m3MsoOVqw==",
-                "mac": "aaV2h67fIkPTIXmvN7727g=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/2/message": {
-                "ciphertext": "loKwYnU92C5pC1TPbu+5vLR+XyRaM0ZTWxjPUOnNTXREvfkUD+RqxSPLerqUuALGdw+WqqPOF7d6uD0cm4Sa/KOyMnr+rTY9vgZX/0LBA2lWs/ET5XpzVdHWx+BLmMZr",
-                "mac": "ofhv+8HcdaX5sY/AEuL2+w=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/3/message": {
-                "ciphertext": "WjC0ro3LUn5T3Wvl9KNcjRrKx85IeuDfP1e7qWKhA6uq00EijzJY7aKh79C5S1JoBdqh09cVwU9H+shMBGL58QXXo8c+CQqylEpPTuwjKTKmzoGGmuG6c009zDtt8isdnl5h1tJk6uVzh9EDb41yeA==",
-                "mac": "TOpJwCbl3LFL5OyeiNkHhg=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/16/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/17/message": {
-                "ciphertext": "xws13BtutGEc6yobVcINquEx0dC+NRjw8oEv3kt3h9a7/MmYGb1k0nXeVLCMKhsnQ6R+F5B1G5O0MBexWVbgzsZHeArerFEbR5W8Ncc8g3o=",
-                "mac": "G9FOD1vkvBdmhpfgbMHAEA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/18/message": {
-                "ciphertext": "UEUo4ylx0nHXj5iSTQUGAj7Q5V+hiVxygBut5ll137EGACBSAhHr+fiTGcD8bMZK8nb7gSe0rwXAXpUxsKhG0w==",
-                "mac": "+AtyAD5YPqG2hlmORi+asQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/19/message": {
-                "ciphertext": "ULG2ktkgNEVqP3cjmcV1B012Pm4vdD7ZiXilwAVR4X8u7Jp0bTd+hnBf66ndA5+ikMAlz/nWTrwMO0h79cZ7yNYl5Bi4VJSgwozu3wFr16o=",
-                "mac": "mJHYahP9BewSQoBjisv60w=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/20/message": {
-                "ciphertext": "XDwK6NzyEdgyLL80IBwE75TUHxxg9QmT0kNXh7eiyojci+JtgwgDtdajtlZ4upimpBUxrQmcx6HLYL8Ivdn0/E8MWJaXIxz3URb9Idtp9h3g8a/3+ZyEwhMQYrHvzZBI",
-                "mac": "gov0MRO1ab+4bZKvQ/1hYQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/21/message": {
-                "ciphertext": "xhVrulLT/J3pUlACvM71TF5M4fTUKPzw72V7sfoHRqfjYxCkY24sE+5fQczo3GA589j5HCJ5ejwJgUoMeajQLg==",
-                "mac": "xGhpWxZCnL5yz3PJbePd/A=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/22/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/24/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/25/message": {
-                "ciphertext": "J1iXGtkIPGJRRDaGn/sf5q/rYNU4ksWGgFO5kIVhlvCNaZMUJ3Ftp2THd1reJKFqB+eY1AFekcAkmbEpFbF61nRdS35rXqNkjoPO9vsflxI=",
-                "mac": "alCjL/QBFrAmW7WBBfmt7w=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/26/message": {
-                "ciphertext": "5KieXvKpUGnzbMxM+qF2QIipSV8wInK6WXKQGp3uHsNXbGAekEyIp5zoxfwXnihp",
-                "mac": "w/LpdML466kxlNzdbSwuEQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/28/message": {
-                "ciphertext": "KTgL7psBki5mCTKT6bZLJlWWdARuIpXZqPDRWpiS6lRytqqgS+QC4cd7mvt/t8rwguP3NM53WY0xnEJ7O4gvpGsdRJeehu7ygbiIMYxGbwuMscDiBmbICN58Xvt5pnE7",
-                "mac": "0k5E2Gcbwb9r/h1r5t9qGA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/29/message": {
-                "ciphertext": "AlNQBrEHwgtTKuRPkL3nvCycai0x/jYKj/vaUPI/gAJe8aq7ob30Kj44Lu7eN2rRQ4j9qzJMbGSCdRvW+P1Kq3INWSuhGy1WpD3fjEvYh8Ae1CmxYacKcd3FSncIGmae",
-                "mac": "5X6Alqr6sO57Vtz3cXrBlA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/30/message": {
-                "ciphertext": "3t11tqpmwBkRu3CBIl+rimoGtMIwlMHF8LfhdOF38R3KVGqYcnCShuqhyFhn2VnFsoDR3ZgOgr0/o+iFRDJFQM21a+J27e074DMULuQiCUlY4HdBBZifQEnqHRmG0+Be",
-                "mac": "t8n8+3s1Xd+ScVoPS+cdYw=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/31/message": {
-                "ciphertext": "ETMVNSn1nIAmXraGXwp91c4g0VCNcnuR4z4X1MD7TG5OcPszwL27s/BHsdtOVT9Elwa6VvVT0I+wbEaVpJ5Zpw==",
-                "mac": "EFrqGvRrS/0KSEXE2jOGiA=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/32/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/33/message": {
-                "ciphertext": "sH4dw5Xqs2qwujAIGVyJGeUQYazRSZ13DWujzf87usis71lVCXNRYA08MBydrHuU43/xWIXMwXB9i2K3fqeMew==",
-                "mac": "CH9w25IJpJUTOv1mp1sQqQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/34/message": {
-                "ciphertext": "1bnjsnGgp853k02t9V2/jF79tP/r4zIgkxrlePdmkuiLxudQBA6Y4S4Quxt1VTiijTF1i2YDtBZ8EJZnnosIRtUEodSK+bQAc2tDlhrlSwMKm2FGxfNT5adcOZk73O+Y",
-                "mac": "LxczFAd3ykjIUGkgoQcaEQ=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/35/message": {
-                "ciphertext": "9c/SKt0NIr8K4M54hTBkVeTEt9A9EuQ5C7JDSwgvhfTKIYwU7aVN1U1aKuZQyBKCHB09rhFInJiOxQx0+B/UfXh28SE3DVLPS/o+T03LpnbcazOZMdR1/i+Foze4nLmM",
-                "mac": "R3qXYAuhzaV2yK2Rexvr+w=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/36/message": {
-                "ciphertext": "Ns8QsE/s9CKozwF4DcgivKr4xMoRy+fabbeD6iAUmbGkTYYhd86Ep2a+RPt00o5M/gPU4zaOou+sB4JPdDrFfr4TtUzZVuRENbUQ19BnGGk=",
-                "mac": "QsPpzTsN3lCLF906MkIY3g=="
-        },
-        "maps/rhombus-square-view.json/entities/9/settings/event/42/message": {
-                "ciphertext": "qEFbQqtGFu4mUrfKF/CAp1MVpC2iD3330Z27FrJgP01hFy9z1OH0kOyc00TKqwiPPse9VjkdznxoMtFM6qYaVwFg6glpJvn1FZDNkZ/lOMc=",
-                "mac": "cS2mvkRqBCFnfYAW1dtM+g=="
+        "areas/cargo-ship.json/floors/4/maps/1/name": {
+                "orig": "Deck",
+                "text": "Terrasse"
         },
         "maps/rhombus-square-view.json/entities/9/settings/event/9/message": {
-                "ciphertext": "073co6LYTIkK1yQL7pMrRPrrEZJmMMs5Dogr9XCnd8g=",
-                "mac": "cebCCH9ec0huVWFvamqb1A=="
+                "orig": "Okay, where to start?",
+                "text": "OK, par où on commence ?"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/10/message": {
+                "orig": "How about:\\. Welcome to CrossWorlds!",
+                "text": "Si on commençait par :\\. Bienvenue à CrossWorlds !"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/11/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/13/message": {
+                "orig": "One step at a time, Carla.",
+                "text": "Une chose à la fois, Carla."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/15/message": {
+                "orig": "Lea, do you remember the concept of an MMO?",
+                "text": "Lea, est-ce que tu te souviens du concept de MMO ?"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/0/1/message": {
+                "orig": "Alright.",
+                "text": "Bien."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/1/message": {
+                "orig": "Well, MMO stands for \"Massively Multiplayer Online\".",
+                "text": "OK, MMO veut dire \"Massively Multiplayer Online\"."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/2/message": {
+                "orig": "It is a term for video games that support a large number of players simultaneously.",
+                "text": "C'est un terme pour les jeux vidéos qui supportent un grand nombre de joueurs simultanés."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/1/3/message": {
+                "orig": "Usually, all these players are connected to a virtual environment from all around the world.",
+                "text": "Habituellement, tous ces joueurs à travers le monde sont connectés à un même environnement virtuel."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/16/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/17/message": {
+                "orig": "Now, CrossWorlds is like an MMO, just with one striking difference.",
+                "text": "Eh bien, CrossWorlds est comme un MMO, mais avec une grande différence."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/18/message": {
+                "orig": "The world of this game is not virtual.\\. It is real.",
+                "text": "Le monde dans ce jeu n'est pas virtuel.\\. Il est réel."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/19/message": {
+                "orig": "All players are remotely connected to this world through special avatars.",
+                "text": "Tous les joueurs sont connectés à ce monde à travers des avatars spéciaux."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/20/message": {
+                "orig": "These avatars have a physical form and are tightly connected to all 5 senses of the player.",
+                "text": "Ces avatars ont une forme physique et sont fortement liés aux cinq sens du joueur."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/21/message": {
+                "orig": "And you, Lea, are currently logged into this game as well.",
+                "text": "Et toi, Lea, tu es actuellement connecté au jeu."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/22/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/24/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/25/message": {
+                "orig": "Oh, me?\\. No, I'm not a player.\\. I just work here!",
+                "text": "Oh, moi ?\\. Je ne suis pas une joueuse.\\. Je travaille ici moi !"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/26/message": {
+                "orig": "In fact, you're the only avatar on this whole ship.",
+                "text": "En fait, tu es le seul avatar sur ce navire."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/28/message": {
+                "orig": "That is correct.\\. This cargo ship belongs to the maintenance staff of CrossWorlds.",
+                "text": "Correct.\\. Ce porte-conteneur appartient à l'équipe de maintenance de CrossWorlds."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/29/message": {
+                "orig": "The actual game takes place in the land you see over there - the Playground.",
+                "text": "Le vrai jeu se déroule sur la terre ferme que tu vois là-bas - Le \\c[3]Terrain de jeu\\c[0]."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/30/message": {
+                "orig": "The reason you are here, Lea, is because you are not a regular player.",
+                "text": "La raison pour laquelle tu es ici, Lea, c'est que tu n'es pas une joueuse comme les autres."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/31/message": {
+                "orig": "You have lost your memory and we are trying to recover it.",
+                "text": "Tu as perdu la mémoire et on essaie de te la faire retrouver."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/32/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/33/message": {
+                "orig": "You see, you have been in this game before.",
+                "text": "Tu sais, tu as déjà été dans ce jeu autrefois."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/34/message": {
+                "orig": "Being logged into this game, there is a chance you might remember your past.",
+                "text": "En étant connecté au jeu, il y a une chance que tu te souviennes de ton passé."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/35/message": {
+                "orig": "And that is why we will try to get you into the real Playground soon.",
+                "text": "Et c'est pour cela que l'on va bientôt essayer de t'amener sur le Terrain de jeu."
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/36/message": {
+                "orig": "Yeah, in fact you'll be going to that glass palace of a city over there!",
+                "text": "Oui, en fait tu vas aller dans ce palais de verre qu'est c'te ville là-bas !"
+        },
+        "maps/rhombus-square-view.json/entities/9/settings/event/42/message": {
+                "orig": "That's Rhombus Square. It's where all players start.",
+                "text": "C'est Rhombus Square. C'est là où tous les joueurs commencent."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/17/message": {
+                "orig": "What a convenient stage we have here!",
+                "text": "C'est une scène bien commode que nous avons là !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/18/message": {
+                "orig": "Now, it is time to face your trial!",
+                "text": "Maintenant, il est temps d'affronter ton épreuve !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/29/message": {
+                "orig": "Let us see if you are the genuine article!",
+                "text": "Voyons voir si tu es véritablement l'article original !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/30/message": {
+                "orig": "A display of your talents shall suffice as proof!",
+                "text": "Une démonstration de tes talents devrait suffire comme preuve !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/41/message": {
+                "orig": "Lea, do you hear me?",
+                "text": "Lea, est-ce que tu m'entends ?"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/42/message": {
+                "orig": " I am just as confused about this whole situation as you are...",
+                "text": "Je suis autant perplexe que toi sur tout ce qui est en train d'arriver..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/43/message": {
+                "orig": "It is certainly a mess, but we will get you out of this.",
+                "text": "La situation est délicate, mais on va te sortir de là."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/44/message": {
+                "orig": "For now, take on this challenge and keep him busy.",
+                "text": "Pour l'instant, accepte son défi et occupe-le."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/45/message": {
+                "orig": "I know, this enemy looks intimidating, but do not lose hope!",
+                "text": "Je sais, cet ennemi a l'air intimidant, mais n'aie pas peur !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/0/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/2/message": {
+                "orig": "What am I saying?\\. You can beat that thing with a \\c[1]single hit\\c[0].",
+                "text": "Ah, mais qu'est-ce que je raconte ?\\. Tu peux terrasser ce truc en \\c[1]un seul coup\\c[0]."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/thenStep/4/message": {
+                "orig": "Just make sure to hit its weak point.",
+                "text": "Fait juste bien en sorte de frapper son point faible."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/0/message": {
+                "orig": "I am confident you will be able to handle this!",
+                "text": "Je suis sûr que tu vas t'en sortir !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/thenStep/0/message": {
+                "orig": "As a matter of fact with \\c[1]your level\\c[0] this really should be a piece of cake.",
+                "text": "En fait, \\c[1]vu ton niveau\\c[0], ça devrait vraiment être du gâteau."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/thenStep/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/0/message": {
+                "orig": "... Because I can see its battle stats.\\. They match your level!",
+                "text": "... Parce que je peux voir ses stats.\\. Elles correspondent à ton niveau !"
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/boss.json/entities/15/settings/event/46/elseStep/2/elseStep/3/message": {
+                "orig": "...!",
+                "text": "... !"
         }
 }

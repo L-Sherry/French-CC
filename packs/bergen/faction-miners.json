@@ -1,358 +1,358 @@
 {
         "maps/bergen/inner-faction-miners.json/entities/23/settings/analyzable/text": {
-                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
-                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+                "orig": "Receptionist",
+                "text": "Réceptionniste"
         },
         "maps/bergen/inner-faction-miners.json/entities/23/settings/npcStates/0/event/1/name": {
-                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
-                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+                "orig": "Receptionist",
+                "text": "Réceptionniste"
         },
         "maps/bergen/inner-faction-miners.json/entities/23/settings/npcStates/0/event/2/message": {
-                "ciphertext": "W6p702ozwzyKLUwtGBsAQV+YumtIbSCKVATVvufputtepGGeIhTCqmIT9TcixiD62+ESwiZyOCIBiCZG6DPpT+gpIc1l44Im4ixRJ505U7VmqsLGxO+2HmSXCgTHe452mAuUAwM1G+ljisZTPZS/uRVqif/nWwdqLXb5FVqLdXE=",
-                "mac": "CJBjM3duYnEovsWUMxkHwQ=="
+                "orig": "Hello \\v[lore.title.seeker], and welcome to the headquarters of the \\c[3]Bergen Digging Mates\\c[0].",
+                "text": "Bonjour, \\v[lore.title.seeker], et bienvenue dans le quartier général de l'\\c[3]\\v[lore.title.faction-heat-bergen]\\c[0]."
         },
         "maps/bergen/inner-faction-miners.json/entities/23/settings/npcStates/0/event/3/message": {
-                "ciphertext": "QM6Palx42tdKuTwzBLu98pgRrH6dlLzsApB4ZCeekGy2gXk9HSKEOHVPrdk4wIsXWXNDeHmOuh3fNqSJ+Q7dY3B5GheGIhl0aQo8tQq0HIzw6T7M4Q8EddFmfLvuG3PiX67lBsvWbdfm7HvsSjsLaBfCsCC2bp0aweH8DbrMDe6/dj5DY5IScw6+CUVMn0ba",
-                "mac": "h8EE4dDfVUpJ9JREi9gl6w=="
+                "orig": "We manage the mining operations at Mt. Bergen and also try to reclaim the areas that were recently lost to the Track.",
+                "text": "Nous supervisons les opérations d'excavation du Mont Bergen et essayons de reprendre les zones que l'on a perdus face au Tracé."
         },
         "maps/bergen/inner-faction-miners.json/entities/23/settings/npcStates/0/event/4/message": {
-                "ciphertext": "xpFg1nfuNRMzW9xY0Xt/kQUmDoeeJE0UpEJ5DjQLIX48Y/GihoFnpuyLEcNsKJijTOhcKghG+inV++lF2tqGMciUzHKxOqQh6VshiyRai7hOFLqk0DhCUVVtAoQYX+n6",
-                "mac": "LedYUeSEk1Z0yCnoZrEezw=="
+                "orig": "Talk to \\c[3]Chief Miner Turis\\c[0] back there if you want to help us out.",
+                "text": "Parlez donc au \\c[3]Chef Mineur Turis\\c[0] derrière moi si vous voulez nous aider."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/analyzable/text": {
-                "ciphertext": "E38TPMAH3nhJQy5jUlcsXqPj4vYEboLyRgHlmEbIR/I=",
-                "mac": "ks1Fs3GSYbS7azQ/Czs1zQ=="
+                "orig": "Turis McEdinthil",
+                "text": "Turis McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/0/event/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/0/event/2/message": {
-                "ciphertext": "I0tCI4ih/5vnepc/GmrPcSgmLxEAI7tGHqq6WykjuRSh1gzyb86AIDb/Lk7R4g3w8QI6wd3M8Tf0fxi0oApVd9DSPNayApQXmXyi0wJsmqcQdAeF73+8xi3Ytgnudpy15lQlXvBOqeUCf///Y9Brv6h56Pk9DvjhlhbvU6K7b6k=",
-                "mac": "E7kUeLGPZ/hSFP17rlltbg=="
+                "orig": "Greetings, \\v[lore.title.seeker]. No complications in the mine lately, so there's no work for you.",
+                "text": "Bonjour, \\v[lore.title.seeker]. Ces derniers temps, nous avons eu aucun problème, donc nous n'avons rien à vous faire faire."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "GrQcuvI4khHdql068vLcTnJA1AJnJl/kdkR9cbIPMEsFCWKcK3B+BNHztmNIrU3nRWXpTpAqSFfANUIlERxR3F7WrpPSqqjl+DBIy2Va/hit3fAphYT3HNhK7Ckle6uDzxs+hJun2+/n/MHZfuyEMFE37VQ/GK0EajPfWz4nzIolfDjnC+dsVAv7nI9/k0YB",
-                "mac": "pI6NSCPXdVXCFdxxdvwN3g=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "GBPrzKYuqsqj1cSaENvsag==",
-                "mac": "hdKzngw8j4aAAFj2IIGp+g=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/12/message": {
-                "ciphertext": "CzPMqFEcyeqoB1uszJnb8Y0lv9hydEtYv0vOSYljG5rJZtYN9dRrhxbujASADu6PbYbUQrG9+dKH7QrFdwNrwESRKXFZUqdpnCJjUDC8traqDrpYYenJVgY392feCSit4DqAyRB899o9fm0smalZRw==",
-                "mac": "fFJMZ8eiKBYIv8u8MCsgJg=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/13/message": {
-                "ciphertext": "gFz9AhRD+VWqIrYM8XFPFPIIiiasyJJjkLz1lpBBAse+2RyZijhk6Rd8eDK5QNMbpTDIk+Kj/AluDa3QX2F1LPNnJfEMTLXp9oFOYK0faOHsGEiuEMeSTf/UgljNGyxX0Q85BX/8J4ZbSecm1By7dWmomK9MhDY5qNG6d3YpAiZsNn2ne7rymnpgJ6aKHaefZO8fv0uu95bGZ8Ranndt1w==",
-                "mac": "wgRPHTQ88Y894T+ypwRbgA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/14/message": {
-                "ciphertext": "MaKdISb+wKG9j5b4vsUFTRFEX61X4OInwGPaabDP1dNfwfQ7B/t9JRc+CxUKIp6RiZjSB/RfV6etyJTMHfHs/JcE3YGvHwHz8OZgI+xSJbI1oRr11BMTq5gGykjxmKOH/0l+yMvrJcZo6pF+grOiyiPUU4+2SaQq/C6v9C6sxTK9UXlR9/jT3KG5kCGqmGK0jTK7Bs4IS/NlsfHcy2Yoxw==",
-                "mac": "naYaYEaK8C13we6lgenCyQ==",
-                "ciphernote": "ZaNtMe8deNjFnyLR6Oq+tHgFRsyw6HPIQauXPoE2UfYyNFdfFODSOSN8wj3IGiAy"
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/15/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/16/message": {
-                "ciphertext": "pdkN351Wp4kn1eUB55lGW+zPSMbtv2apmW+VlgmdmKFViunwL5hpiX8Cj0tMJWSRgkd3JE9PaSLFqr/R3LEBSXAvohBAGrDU38Fhsl5+Uo5143n9a4lknyeWzJMjq0Nczq3OG8mAeQo3MYDpflSx4bFnMN4Lf/Du/JXVr59vPN0=",
-                "mac": "q4krGm8TtIIcAZmfGs03yg=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/2/message": {
-                "ciphertext": "LuFpUSkLLJy94ufyFaMsc0wl3Z3scwr0X3zNIMUrHmBpyQLFmZpB2cifI/8CPe4Mzz8/Eog3DiiG2p2iBCjapKXnX47eWDQIts3ZdLhaN+QOS1usJ/MofarTAyRq6NOCXjG1QuOwmOIcvI36N3XRlpn54avAPBLATJZDrqXGu7s=",
-                "mac": "7vejhBcU+MSafvdGCAIhOw=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/3/message": {
-                "ciphertext": "K68X4Kz6rVAIFL4BC31Dd5M+jFyMMLdkDITK9EUcTWVxr3GQcqXGJ3YuestxQ8oHmapvlfWMY9y9ZSFp4v+8UBFxujMEBKtmgpo9JXRq/wXjX+eaxSJgG8JIGkxUrzUid2bdEo3RwcBg8sj9UmpJTb2CLscyD/OJuj+xw+ME91I7iVjDHu3lXAL1RyNVVrSs",
-                "mac": "A987MiR6NphMxZYJ7Y2jiw=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/5/message": {
-                "ciphertext": "SOZStzOIyXpOOUEvZiNFTu79tJ6P+ZJEuDpIFITFig77yiQdhYce0WCn39RtEuzovowVJ8MHrIUu+gJcIj66bZLo1yOhJ2hMpttpanVlpaw=",
-                "mac": "AjNNnNhzB8zuD3cSKB9Wnw=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/6/message": {
-                "ciphertext": "79JEW5M306xPwASMzA6jSKvRK8S6TMzsg2v2Rl2gPgAs/2k8cZbDwr8P9x3N7/t66YxhAIvWcI5Oag1obf0sqGMnUVkhCcB0cd1aoxI1Jb2TJOD08Z3oXLUWZygJc9+EdZh98qr8zN5UD9f1FAcsBmMbPYWIss2I0vKLJPf2OS4=",
-                "mac": "ooUpwLlGP0Hz52yozZFftw=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/7/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/8/message": {
-                "ciphertext": "utehyOE0nFAmbo0jx2tdRx86SLISbxHz5jH6SxJ1tj0PwDWLHdgPDi8hv2Th0HSf+Vefuk53+e+yiEITHw3yepwoFeWROcJWDKcQb2PjVRY=",
-                "mac": "SwRkVa5PUhav+Gg+Tw8aCw==",
-                "ciphernote": "lzb4gFgbVisJ7rLZDtu2ys7186OJUUb+t60wg30HRyUPgHEcYakAc33VXt70DgY2"
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/9/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/declined/1/message": {
-                "ciphertext": "wLXMNCp0EFEQLvMZmHnond0mSyVEkqe8hdvjBmNLp1FPmjkdfgdCUtJuBLw2LEdeBukNWLuYgUHsaInHcwkV8Vvf/I8ulr9qRu7KhuQyil8ftD45No7ChKC06KAoIQWT",
-                "mac": "72bt8lteBaYvb0kCo0VjNw==",
-                "ciphernote": "ccYT6M04lEjglcq7In/+L0gI3r2aUGdtPC/F3qQwrg+GKaVrGkeCAfxD4XvuOkNJHrhKv3UU3gLSlo9C06oVH8tdTfV0HFiGeTsohyBodPc="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/declined/2/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "k75B75Kn8aYV0y8o7JJI3V2xlU+RBFeGrGn5xmHxw952vss4x6h36fYvQ2hkg3MxLaXXsuaKWNJN4SZNR7y3shqA6Zgzm+FolcbnxomTWUKQ4UAGitRhLhvLJNdLG77QVNx1DQSeFq27C9FcGNb0TA==",
-                "mac": "CrMfD3RcFvd9egobuyqmZQ=="
+                "orig": "A visitor fresh from outside, eh?\\. No need to reply, I feel the sun's warmth still on you, child.",
+                "text": "Un visiteur venant de loin, hein ?\\. Pas besoin de répondre, je sens déjà la chaleur du soleil sur vous."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "fk2KkuPdo8vn/7Z6XoGdTw==",
-                "mac": "LRofuTMUo6Z+lvJNSLnLAA=="
+                "orig": "...b-bye?",
+                "text": "... B-Bye ?"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "XW4FNFlJYMvaEYTtfFc38R8ijNyWapHGRnaESc99BzbPcDz+ZqYKAvwjtvmgc8w7ylWKOujE/r+itB2FO1wRHBvnAQZ/iQqUZbCdnFn6pNZ3QzMFvEDUf22P/75gLuy+9d89pp0JVbS5FhE3Z452ID/JIl3T8fAGQKDjoAGCvlmUtOmkq1JGDuBZXPWfIo9iF3FxYd0gHx6saSLNfeYRFT3Ez7oxblOWAl8Fdb9gWFI=",
-                "mac": "YQRS8IiEA6TcCzVCy9QB8Q=="
+                "orig": "Har, that look on your face!\\. The name's Turis McEdinthil, Chief Miner of the Bergen Digging Mates.\\. Welcome to our humble headquarters!",
+                "text": "Ha ! Ça t'en bouche un coin hein ?\\. Mon nom c'est Turis McEdinthil, Chef Mineur de l'\\v[lore.title.faction-heat-bergen].\\. Bienvenue dans notre modeste quartier général !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "S+TYIvrrP+uoi05sXscmcqBH4Pd8TIyEN6tKTzpnNFigIhu0I5g8rFV+H7oHJhUL9IQwddiQMEWQyloo0cWYH4f5CyFyt7CvK6o7mZ4YroJX2Pzjwa4BczkUOFUCoz7k5aWPMNlFuk6twsDNRfPsIU8g8Wagna7XTREaBLmN7uMz8XVWUty+Qa0EGYRHfXANVnvSGWsxM3WWRA5vhWcg4g==",
-                "mac": "9e2n/N+eljWIZE9atK62qA==",
-                "ciphernote": "+X/xxO4LSRRoxzHFyCZl1F6JhuKAHRLpACsXVVuGFcn+J5wJHtxPbfQK7h06nBuZnNI2DWN/HnGxCMVWFvJ+lQ=="
+                "orig": "Don't you worry, the icy mine might have cooled our manners but we don't feast on the warm blood of the living just yet.",
+                "text": "T'es peut-être pas habituée à côtoyer des gens comme nous, mais ne t'inquiète pas, on en est pas encore à sucer le sang chaud des vivants.",
+                "note": "horribly hard, first is liberal de. but good enough"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "dcfXiDSABkoDtin2rsGmPezz2GzTaHcB7b2A97Ppt5zFKMDXIGTPqQqEYfAhixS5BHas1mIKjPRRdjg97laMNbDvVU8PzBZjRwLx7OcquPfmB5RwQkpQb1PMCbhS72y0sNnloi7coztn7MGsIDSaYw==",
-                "mac": "T1AzP8tVyUsT0VzQBv8z2Q==",
-                "ciphernote": "8qc8q42Cpu7izDBtKVhMxETfFrlShg1EhJqmrWJo/xw="
+                "orig": "Still, the mines have become rather possessive and demand our full attention these days.",
+                "text": "Mais bon, le travail ici nous épuise tellement, que nous avons plus l'énergie d'aller ailleurs.",
+                "note": "this de, hard to understand"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/10/message": {
+                "orig": "Some strong hands that can help clean up a mess on the surface would be most welcome.",
+                "text": "C'est pour ça qu'on pourrait avoir besoin d'une bonne paire de main courageuses pour s'occuper du foutoir qu'on a à la surface."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/11/message": {
+                "orig": ".\\..\\..\\.?",
+                "text": ".\\..\\..\\. ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/12/message": {
+                "orig": "There's been an incursion of some thrice-darned hopping furballs in one of our still-active mining areas.",
+                "text": "Il y a eu une intrusion hostile de ces satanés boules de poils sauteuses dans une de nos mines encore actives."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/13/message": {
+                "orig": "Those pesky things got contaminated by the ores and machinery inside and now they're running wild in \\v[area.bergen-trails.name].",
+                "text": "Cette bande de sagouins a été salie par les minerais et les machines à l'intérieur et maintenant ils grouillent sur le \\v[area.bergen-trails.name]."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/14/message": {
+                "orig": "What's worse, for some damn reason the filthy fur made them angry as drunk bovines and almost impossible to kill.",
+                "text": "Mais le pire, c'est que leurs poils puants ont l'air de rendre ces bestioles aussi agressives que des taureaux bourrés et quasiment invincibles.",
+                "note": "de: truie, en: bovin bourré, fr: ? taureau ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/15/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/16/message": {
+                "orig": "Just my thoughts.\\. Care to help us get rid of that mess before we get the blame for whatever shins they kick?",
+                "text": "On espérait que vous vous en occupiez, avant que ça ne dégénère et que l'on devienne les vilains responsables ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/2/message": {
+                "orig": "Finally some good news.\\. Now, I guess I'd better tell you how to get rid of those indestructible pests, eh?",
+                "text": "Enfin !\\. Bon il faut peut-être que je vous dise comment se débarrasser de ces bestioles indestructibles, hein ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/3/message": {
+                "orig": "It's rather simple.\\. Their fur is \\c[3]hardened\\c[0] by whatever dirt got stuck in it, so all they need is a good bath.",
+                "text": "C'est très facile.\\. Leur fourrure est \\c[3]durcie\\c[0] par je ne sais quelle crasse coincée dedans. Ils ont juste besoin d'un bon bain."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/4/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/5/message": {
+                "orig": "Don't worry, there's no need to hunt them with a sponge and bucket.",
+                "text": "Ne t'inquiète pas, pas besoin d'aller les chasser avec un seau et une éponge."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/6/message": {
+                "orig": "Just give them a good \\c[3]shove into the nearest lake\\c[0] and then hammer their freshly-bathed butts into the ground.\\. Got it?",
+                "text": "Tu les \\c[3]balances dans la flotte\\c[0] et ensuite, pendant qu'ils sont trempés, tu les frappes par terre.\\. C'est compris ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/8/message": {
+                "orig": "Good, you better get going then.\\. I will give you their location.",
+                "text": "Bien, tu ferais bien d'y aller alors.\\. Je vais te dire où ils sont.",
+                "note": "de: ferait mieux sur tes chaussettes"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/accepted/9/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/declined/1/message": {
+                "orig": "Darn, really?\\. Already scared of some dirty Frobbits?",
+                "text": "Mince, vraiment ?\\. Les Grelapins, y a pas de quoi s'en faire dans son futal, pourtant ?",
+                "note": "de is like faut pas s'en faire. t'a déjà fait dans ton pantalon ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/1/event/quest/17/declined/2/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/2/event/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/2/event/2/message": {
-                "ciphertext": "ocdC05eleBXjkUWJiQOuLCeSk/FeyWqwu8I3L13ps4JVs6b3hst60yxKMuMZXZxCUv9+wJoviOUqaZgDfSA5Kw==",
-                "mac": "1CxJO5hbzBXjR65u95Zepg==",
-                "ciphernote": "rUBtA2OOG1D+iy4twtUHHY0wcDAl3WFLDP/GrHp0YrKao4yceUGiH9/eSDYevZAKULYX4/ud2xcEqCB33+Rb5w=="
+                "orig": "Better hurry and skin those sacks of fur.",
+                "text": "Dépêche-toi et scalpe-moi ces tas de fourrures.",
+                "note": "de: scalpe moi ce qu'ils ont au-dessus des oreilles"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/2/event/3/message": {
-                "ciphertext": "42KbWvFlGGVNNc//sP/5ys/RSYtXSQq1Q9yYjPdEoRaHgUWVZbIkN4ENVtYWWgq5EYITqwmkNOSDuWZeTaJqgPk2BoM2ECZ7PSQovgQ9Wwuhjti60sVeldrRb+wdiQ+7",
-                "mac": "bWB/cwmQ6DRmyehT4RYpBA=="
+                "orig": "Remember, a bath in any body of water will clean them and make them vulnerable again.",
+                "text": "Souviens-toi, un bain dans de la flotte va les laver et les rendre vulnérables à nouveau."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "jYDH940/NzfLtpuLleubzDlPxGEmereiJRRgYWhXpHXsHa4ihjQ0yylrgiRIX4F46yMOjUep6N18Avavi7megw==",
-                "mac": "pKjjqbagD+N8ZFqg5hbbCg=="
+                "orig": "You got rid of all them dirty frobbits already?",
+                "text": "Tu t'es déjà débarrassé de tous les grelapins sales ?"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "oN6Ka18lQylmHS55jYtNNEUQr8bvZOPS8le2kB+43ymePdzmqOK2PlibM4y+I6f+NavlJ2LFz2hheH3be+I/Tkx4VeiSA6Mr4r3tQkrwEP3xfql1i7GV/yj9hoZvGDZV",
-                "mac": "rRh6B3VlucJyMDmvQF3Cvg==",
-                "ciphernote": "ZP4O3nTU65YOael9mu+F7G50C1t+oCkXXC8N8SVX8rI="
+                "orig": "Great, you really helped us out here.\\. We would've fallen behind with our mining operation otherwise.",
+                "text": "Super ! Tu nous as vraiment sauvé la mise.\\. Sans toi on aurait encore débordé du planning.",
+                "note": "de: sauvé notre derrière"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "8mKq6Wd2D0+7Q44qwTEUR24APAKY92aEDCVH0MIHJA/namkKiqJRZZ3h//bVmxtTtavsaZ1Jw+nTpy2ysW8puIP/i7Hs+Y+M94rqnpCWuEx7DxetCYCs43O+7PUPbRcLfqKN32ev6bkpOAsdDp4fJA==",
-                "mac": "0ZQniY6s29S3WJYwNKDJww=="
+                "orig": "Here, take your reward, fresh from the mines.\\. And there'll be more where that came from in the future!",
+                "text": "Tiens, ta récompense, tout frais de la mine.\\. Et il va y en avoir d'autres de là où ça vient !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/3/event/quest/7/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/2/message": {
-                "ciphertext": "13Lb8lLivZjlxPgJOqEWlLnWrS6YwnqMYVdLbDRvLtGOGzRT6t3qt6ywHhsLfyIyqKRp0EDYAmTMpQ+XR/dtzA==",
-                "mac": "lCkYeTb84Xdb0/HhLoS4Mw=="
+                "orig": "Har, pleasure to see you again \\v[lore.title.seeker]!",
+                "text": "Aah, ravi de vous revoir, \\v[lore.title.seeker] !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/3/message": {
-                "ciphertext": "H4yTJdsTDkOv/zBh86QVxmrCFLX/fa79zN01+OUGDla8H2iPCLwZBs/cqtOmquqDvhiFzj6ExIbVZgaB1l88hh0/J+w7G8K7LNoK2Hg0UZucE8It4Dba4rw2ILU3tseJ",
-                "mac": "L8CNLn7rP9QPrg8TUYDUBA=="
+                "orig": "And that warmth... you've conquered the Temple Mine and claimed the power of Heat, eh?",
+                "text": "Et cette chaleur... T'as récupéré le pouvoir du Chaud du \\v[area.cold-dng.name], hein ?"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/5/message": {
-                "ciphertext": "x8Cz6e1p9lUW4C2xBTTyqli2V9WNmW0cavarxrqOw6XmpB4VTDoGJXE7ILz+bP7ViqZHUJZMts66vFQz9/sgw1YC//Lb2H46l6wFAJqg3VM=",
-                "mac": "59vlh0l8y/4KfCX/aMlARA=="
+                "orig": "Well done.\\. That could help us a lot with our current projects underground.",
+                "text": "Bon boulot.\\. Ça pourrait faire des miracles pour le boulot du jour qu'on a."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/6/message": {
-                "ciphertext": "RU2U38aM4EBtq+qrFfGzIGKRR5i6IyotBIt+32diAgCGMynRWymoVO7oabAZs8Jhs+LbFOZR6aRGEV3O5jzYoYsMoZu5tPOKYea01PUZ5qUficNDxoAV4atAQgnhgAl4",
-                "mac": "EIcUTjluwmYhCB2iTJfb7Q==",
-                "ciphernote": "tFu0JeHT/7t4E0BXEKPkUCHd+BeUhr/9HUUhDvv78cU="
+                "orig": "Are you up for some mining work?\\. There are explosives, you will love it!",
+                "text": "T'es prête pour faire du travail de minage ?\\. Il y aura des explosifs, tu vas adorer !",
+                "note": "de: travail de bouteille"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/19/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/2/message": {
-                "ciphertext": "IwYwlFz2y5M5dKTZQnUljm3YUPDq1olw6KECoMkleUU/M/da33VxFdd5RjFw9QeTgw1MVDkqg4Zq3o1GiMBuEVO3ti5xCXqwEqvMjX7v73fzoK5CHT45MJxxs1eo1hBJ",
-                "mac": "7qSSF34VmRg61/hQF/Jj5Q=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/21/message": {
-                "ciphertext": "Zf/Cv/y9DBEbwemEYjNM5Qw7RizZ+llz+jIrgcDpIF8tCEvtx2g0BFX1RWkKiaEEPv7v5SU+emroex+E7o9ZlSXqKlcORZN+Ny6i9F5DezI=",
-                "mac": "1nASu68Q8qaF4LofGoJIFA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/22/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/23/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
+                "orig": "I knew that you wouldn't wanna miss out on a chance to handle some bombs!",
+                "text": "Je savais déjà que tu ne voudrais pas rater ça de manipuler quelques bombes !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/3/message": {
-                "ciphertext": "KafHlKPYGp2Qhab2NFyvT1c/t1eML7nMuFB3CWbIREK1oIdW2bQ0Q2Zylj8fM01+qCIRDXj7IljuiLscQYKRVF+mC0km2Zl5XC07Us4O4imEL9UrzTwXd1Nbhb4ohlnIzhF0rhNj8VFFIhWdprWEohagcddyAS+9b4yYG0W6+onA684j3F0IASOxl97WWqEf",
-                "mac": "ddUGZZLQnx8qTp0iWqMaYg=="
+                "orig": "It's not all fun and blasting, though.\\. You'll need to clear out some rocks and also get rid of some damn resilient pests again.",
+                "text": "Bien sûr, suffit pas d'allumer et de faire péter des trucs.\\. Il faut aussi s'occuper de quelques rochers et de petites pestes résistantes."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/5/message": {
-                "ciphertext": "ZiOJyBe4inkMTFVqkboREl0K5JC5rRv1HLtvJamm81uFAgqNDldnksyVoZkjQSsaDBwGZqn//VUew3RqelAmH8styuMIHqNaYphcnPb6z3pMmCGkcs2JOSxrVuUZCf8Nfk/hfEFHiR+x6445ySOyFJz9Bzr4fnyXqtLyzC0Skv6dS7kyArob5TugdFpj8CMe",
-                "mac": "PFCbWD9r7Cla6dysFt79rA=="
+                "orig": "Yep, whatever you do on the Track, those always tend to appear.\\. But this time explosives should do the trick.",
+                "text": "Oui, peut importe ce qu'on fait sur le Tracé, ils finissent toujours par apparaître.\\. Mais cette fois, les explosifs devraient t'aider."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/7/message": {
-                "ciphertext": "49CMTWo/hbF6UN/ibLPU0NwCwGln0TrYnvZSHInrgHTHSHCpCyinDvg39dMKm3OnIfiAAb633UaemKYlkxKLgFg55DV5DejVDy1TyLtlv+r3S0xUUL0HTmabOVXfzFW6Fq49XoKkIogYJHWvuKbg6LVhkbDNGbdJnEBWXHm8Td7bzRnw6w1cZMOWfznAUPU7",
-                "mac": "EaPcO4riTrcWPJ1Ptz7osQ=="
+                "orig": "Go through the \\c[3]door at the back\\c[0] and take the\\c[3] elevator down\\c[0] to the \\c[3]first underground floor\\c[0] to reach the mine.",
+                "text": "Passe la \\c[3]porte de derrière\\c[0] et prend l'\\c[3]ascenseur\\c[0] jusqu'au \\c[3]premier sous-sol\\c[0] pour atteindre la mine."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/19/name": {
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/21/message": {
+                "orig": "\\c[3]Miner Darrel\\c[0] will wait for you on the spot and fill you in on the details.",
+                "text": "le \\c[3]Mineur Darrel\\c[0] t'attendra sur les lieux et t'expliquera le reste."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/22/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/accepted/23/message": {
+                "orig": "Bye.",
+                "text": "Bye."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/declined/1/message": {
-                "ciphertext": "K1IPpAmJ7K45peyEMkJLeiYot1yQg7+A5nWXTjZUGYFfhXddXiOUvhm2SmybiYUnhkpWa3Cq2+8S7QxHTZq6CUSIc3aehPXmryJbcWiY8G4X65+Ja1dOmfvXQfwYXspj",
-                "mac": "324cyKDMFBMee7SAUDxJQw=="
+                "orig": "Not in the mood to blow stuff up?\\. Something's wrong with you, girl.",
+                "text": "Pas envie de faire péter des trucs ?\\. Il y a quelque chose qui ne va pas chez vous, madame."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/4/event/quest/7/declined/2/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/5/event/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/5/event/2/message": {
-                "ciphertext": "yTKHOXfb1pdDcYADH5jw2QzRGzj6RfUKKYHtYdcuvUPTs79OyemM/B4lBjzRWoNx0hxy8g/S2GTJCnGYOb1ieLtxk46K2GT07Io48GK3VLHWlu5hErjp/TOg4ZxNtIuc5KsONwtNy5+UWFkbqnDlPkGA0rI38hW73z4XkIX2Gcdo7/vzXp4d5fJKf/s/DAZQ",
-                "mac": "TEAgP2U0Jtnub6U0AnI7pA=="
+                "orig": "Report in with \\c[3]Darrel\\c[0] in our \\c[3]first mine\\c[0].\\. You can reach it with \\c[3]our elevator behind those doors\\c[0] here.",
+                "text": "Va voir \\c[3]Darrel\\c[0] dans notre \\c[3]première mine\\c[0].\\. Tu peux l'atteindre avec l'\\c[3]ascenseur derrière ces portes\\c[0]."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/10/message": {
-                "ciphertext": "VdvW9MgoT6rbGxILwq2SmkKrrgNeS/Bs+4WZzhac/Ncrbre2CKAd6QcD/l0v4ybbhz2mn/g9yvctVWoltGXSeZij/WONcGgAofLNHMcgUKQ+BX8FOjKW/tmlFs1aRvJeQe1u/qaAsuuuCAfhPfBpyCmti9lJ1B45v+M0m5pDeHs=",
-                "mac": "wHb2yYyOxs5u5VIy7SdSUQ=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/11/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/13/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/2/message": {
-                "ciphertext": "7jDKvbPFes/rZfXs92/Ps8CsGNSMl9geSVrLJbRU7Lyr5w2hypgyabgj3/rmC4FyPW40vU7hZG43d+u0sNVDtRZYfCsQ8uVfc/ZZHyxRm+E=",
-                "mac": "h7XNi8fKNWPhWhTkvainHQ=="
+                "orig": "Good to see you back, Sunshine.\\. Is the mine clear again?",
+                "text": "Ah, ma p'tite fleur de soleil.\\. Est-ce que la mine est de nouveau sûre ?"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/4/message": {
-                "ciphertext": "695D9q/Zl7HqFYTHAhlnVgaoIZxXVXLbkqytPW/9ERoeVBmekxajZJ+tlp7zGjcVvQGl1m+5eVfF+aaYVnGj+fk6JWKEwEeMZWdKNkov6lqXlukMjuNUm745ArLaToi3mP/lzLaDSSXhasxuBsyPpdXvv+ahM0tHUQp2Qpv9kSs=",
-                "mac": "TyuHODrHOBLIqKff5jRqiw=="
+                "orig": "I see.\\. And you even blew up half a mountain of bugs by yourself?\\. Splendid work, truly!",
+                "text": "Je vois.\\. J'ai cru entendre que tu as fait péter des tas d'insectes à toi toute seule ?\\. Du super boulot, vraiment !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/6/message": {
-                "ciphertext": "EfBYCZnCJKkMGsTp7/UE2CTCTXVUKG/JFkflJJqINmwyaV9/4w28MV2zA52IV4Q+6kS5UwPmCKXCNeDf80FpmhoWsRmkylRFUelZhdsgTwhu8/hmu0S0LEKWd+YCcesq",
-                "mac": "S3V8ofgoWDo1TsWSKQvIdA=="
+                "orig": "And that... whatever it is you found there.\\. It has some weird properties.\\. We will look into that.",
+                "text": "Et le...\\. truc que tu as trouvé, il a des propriétés étranges.\\. On va regarder ça."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/9/message": {
-                "ciphertext": "eX/tBVGLUMlBEy8IwYaDaUixw9NwcFZach7M+o73n4fjVAE5nxv2QqGw2uRm+7qWhLL/diUlPAlJfROXHiHEdIvqNOZjMTCGXd/lyTIdMjN/kJDOQY3Ay1wTZWA5jHqUlN1LQtypApyMO/oTDXGgNgvhddie8DW8K0rurF16rgU=",
-                "mac": "EW1ggg09Y+HYUnxO1ESaWw=="
+                "orig": "With any luck, we can finally make some real progress now.\\. You're always welcome to lend us a hand!",
+                "text": "Avec un peu de chances, on va finir par y arriver.\\. Tu es toujours la bienvenue pour nous filer un coup de main !"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/10/message": {
+                "orig": "In fact... you might want to pay Darrel another visit.\\. He had some bold ideas for after the job was done.",
+                "text": "Tiens d'ailleurs... Vous devriez revoir Darrel.\\. Il a eu d'autres nouvelles idées audacieuses depuis la dernière fois."
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/11/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/6/event/quest/13/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/7/event/0/name": {
-                "ciphertext": "gxeeMvM+p0WM3fUKKVJHmg==",
-                "mac": "It3T5rfxxz4EPIZOaR+Qfg=="
+                "orig": "McEdinthil",
+                "text": "McEdinthil"
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/7/event/2/message": {
-                "ciphertext": "U79opP+6ynzQwfrIVpOB4rDMMohddjuDgExdL2MXV8fVtd0OagHXDf9ubgHBssj/pr3UhvKt36Cp1OF19UUw3Q==",
-                "mac": "FSHU0MHjFfJU+hMzYZxKOg=="
+                "orig": "Greetings, \\v[lore.title.seeker], everything's running smoothly.",
+                "text": "Bonjour, \\v[lore.title.seeker] ! Tout marche comme ça devrait."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/7/event/3/message": {
-                "ciphertext": "OU/+XnNyZIrg2xnx/F0A611OkusKtV5moQNuktD969jpXXhvmx6Ktrt8DN26Kr4jBr5VHkq2V/2ez3DMBYaZb/HCVGPoUpNXoaLNszf7dkI7GWe7T/EGiBFTuKEFPR8EoLmHHFcgG9aOpsvnEOWBWW4g62OZJ7jklD5f0YK1Sq0=",
-                "mac": "5J7xH4TwY5JQNSmFcSqpsg=="
+                "orig": "That being said, there might still be work for you, down in the mines.\\. You could talk to our miners down there.",
+                "text": "Mais peut-être qu'il y a quelques petits boulots à faire pour toi en ce moment.\\. Parles-en à nos mineurs en bas."
         },
         "maps/bergen/inner-faction-miners.json/entities/34/settings/npcStates/7/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-miners.json/entities/72/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/bergen/inner-faction-miners.json/entities/73/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "xUgHBOCF8s7kHYa99PGqspb7SIjKQxTEWK3HzjgK6ziKN8Zy06siD2vq+QVsvrVPgBBF4x8gDyTxOTYLmaLs+re33+Utq6/30tZeWwH8/yidJ2UrAEyZBCQHniZ+JvmYhGk1nNlATYoSOrWvSJw+edbYwKYAMuGvzXshLMQ+LTQ=",
-                "mac": "oH1pNXypBfHWo74Fbo2/XA=="
+                "orig": "Oh, hey \\v[lore.title.seeker]!\\. I got something for you from \\c[3]Darrel\\c[0] downstairs, as a reward for helping him.",
+                "text": "Oh, Ohé \\v[lore.title.seeker] !\\. \\c[3]Darrel\\c[0] m'a donné quelque chose pour toi, comme récompense pour ton aide."
         },
         "maps/bergen/inner-faction-miners.json/entities/73/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/bergen/inner-faction-miners.json/entities/73/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "GX6e4PlCymtrQHIXDzkQOMAc8UDPjhGVHch+zFglzaqQlr507g78KdmoA+YKVbWFBgMUT6h9STUaOZSLvuor3RpHyoFhh2Zt5QKEeZ0Y1DO9rhn1HeQ0tTPoXpEqjLt3HjVfUQV7ujH6DaoDpEkaattdWU6/Lgl2WQxjZIL13YI=",
-                "mac": "IKvUjx0UVhpLUZUNV5f69Q=="
+                "orig": "I guess he just forgot to give it to you after the job.\\. Anyway, I got more of those if you got the material!",
+                "text": "J'imagine qu'il a juste oublié de te le donner après le travail.\\. En tout cas j'en ai d'autres ici, si tu as le matériel !"
         },
         "maps/bergen/inner-faction-miners.json/entities/73/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         }
 }

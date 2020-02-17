@@ -1,920 +1,920 @@
 {
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "nDeCMr13qvsWLUFd9y4ZLw5Wik1yDhHUnYVbYOEQFl3lccDhCxA1NClujtdvL30OZjEWSzrCVM1WDMWL4rQsvHaOfemjR3rBHfer71qTwxmZjmnu3ec+eua9jOgnpiVz+HJrc3oaOo8YTR7CyI1k2BvFeyCamZxWH6lXZXFfaJam21ySk8qieWpEoRzEK34/7da3fTi5olMWhjV0XFnznU9tiOIcEXnbpZ8IewtTkwJNvwhc4c8dqupAAcWPUlJnT8KxQyjEiuC1WGIRchCzwpHTwQDEUptc/b8AZVJUtV/YuadGa/SVhuHt5j/o1FlD",
-                "mac": "K/zezJHOIDgvxmOyYfYjPQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "bHNFQVvIOrMvUC6M0yQ6nWqYJWjGNH4aECz55Y4LSCxl/D6oeBFburkkNaijvG81PZFrdoRJv5rjejivQtC/AqmrG2hKbjbJR3NCzolPRLp8mTICFsvT4BMf9+ObOTF7",
-                "mac": "su6HoEswUwJ5NZaDsPFAKg=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "dDuzWBPiRzw6dFDegA3+X6nQ9H6GILP2Q5cLb0HpEHkG0B5V7REHEGr8uzalRB3CvK4l2Ss/E6SA6oXMvro2I+d6ouoBRmcMSVr8jnXTM8iLGCr//WRK3uOBqBFOKw1Y",
-                "mac": "FIFKDUIeBiuhQ9rUhU5cNA=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/3/text": {
-                "ciphertext": "3SB1b4zCHb02OaT8Rd37VYL38strYuLnORIAwbPiRWbV+h7H2HAcu1hWTW7RIN/eWVyXdKHgm6BpyEB5jDjO1Wz/a/GvAnpj0X6G9pCGcw+kK23NLjcBmROibp8HbrLS",
-                "mac": "+k5BuVIgg3mcEFBgESp6SQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/4/text": {
-                "ciphertext": "AHIH5e6/ey3jYMvGBs+S30Fmq9ObFh5CqKlOth6c4ckf2YTdapVVchcArtggbEDblCQtxxAOjUSZUo+DAyAwdUNN8ETkW+/sAF1EBIAGvg4eVaUocmO7B44pKPABBkU4",
-                "mac": "0htl6toANtrKs1yg0Jga3Q=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/5/text": {
-                "ciphertext": "rzDpiMhf/Fxp/ZzXXsMcfStYbvRT7wJf5HIhQcE1V/81NumbOvfSvQuZPM6tl6dcOjGNRPdIVx92QHC9I6+vsAW97RP44xvNX+t11whBzEf8jEKd6HPp/jMVz8DEcKsgWq30b1zMs9+2cBCQuDFFhHWbExAbbxx5fk0X7PMn3XSOj5E6xFXMarm26jOhFBVSRAZynbGiZIVRonwEYeajB7pBEe8U5NWl58hEAoKT9nw=",
-                "mac": "TXLZRBw2Xo+QltN5XfqRKg=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/6/text": {
-                "ciphertext": "0ynpD4P8f4Kdp8SJwUlNRguuzrgyn7PXTlFwYknCzrEHhGT+i7UVfBX9j5HaCOPb7+zbuwz9docqJZMle7k5z3PF9bMDndsbZWB/zvAkXTDoTtLjROsLfDCLLxGyMORw3C289tXZK+8sibMZm6xL6g==",
-                "mac": "JLfSFT75t+SA0RANT2bZRA=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/interact/hoverText": {
+                "orig": "Operation Track Walker",
+                "text": "Opération Retraçage"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "8EHwWHp4DjUPZ7RdmG/zQHYScMQfj1PFIqnpENuYuzg=",
-                "mac": "9kpl2aKx/XGrMnU3JxlwqA=="
+                "orig": "\\c[3]The 5 Virtues\\c[0]",
+                "text": "\\c[3]Les 5 Vertus\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/interact/hoverText": {
-                "ciphertext": "ehY/iEAOTujT5yykpSR4R7Co0j98MgHQ0ursvvQsgVU=",
-                "mac": "AtiXxNk0zCw3L2wso1tXPg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/0/text": {
+                "orig": "The five Virtues mirror the foundation on which the Ancients' culture was built. Before a participant can begin the Track of the Ancients they must choose a virtue as part of their \\c[3]Class\\c[0].",
+                "text": "Les 5 Vertus font écho aux piliers sur lequel la culture des anciens est bâtie. Avant qu'un participant puisse commencer sur le \\c[3]\\v[lore.title.track-of-ancients]\\c[0], il doit choisir une vertu à travers sa \\c[3]classe\\c[0]."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "/0PxHmZokK1uG9uLVlU7EZQuBPU2n3IpCw4Lun0V0wIoUJit4rDn7xEifcMY2pu90wY3qyL6qli9CJr5qoPjHQ==",
-                "mac": "fIMWNmqsA7ea55acpwJiWQ==",
-                "ciphernote": "gw/JIqaHS8qv6lj36UKJQNafQ/5tWXWA+yYSlh70NGwI5sFYH3r/Ks5YEeEGsTmfsKXkzunQpf5bOCIiRsvgWSXjKQjMfW0M+tw7nhUxvpA="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[3]Triangle: The Virtue of Strength. \\c[0]\nUsually associated with the Element Heat.",
+                "text": "\\c[3]Triangle : La vertu de la Force.\\c[0]\nSouvent associé avec l'Élément Chaud."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "5zsjMXIgkYo5xy82b4zXffJNAfbHe7uHhYAxYaaE3etZm1hJLlxounEhLfzIQOEnKMPtsRDXJSalETEDX2Z5xhoW6yF7LUWz0hpbHTw25WeHrO4cviwgLEV+0ZowjzlXUtY//NqVWG+c2VVhnOLboU5KAkn7FuR9vILiFxssd87VaUUwmNJfCf0onYuB99T+DtyX6w+asl/3zOLyJY0h594Yq+oxKCdxxeulGww3cU8=",
-                "mac": "L9hwY1yRnRlOG7ks52Cv7w=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/2/text": {
+                "orig": "\\c[3]Square: The Virtue of Endurance. \\c[0]\nUsually associated with the Element Cold.",
+                "text": "\\c[3]Carré : La vertu de l'Endurance.\\c[0]\nSouvent associé avec l'Élément Froid."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "ax/DQHB3hKpj5wxU0iI6LCNllN0th69YKux7OZd8G7lk3OFMnZVF88P5dl6f1DVjGzyxwN2D6+L/m+bE9uojpn7aIGReW1y6eQRSn4nmX+snuxICCOAXx1pygFf+yAFf9CSpi+il0hdWUgKcWxpFFyjTsuaiKZvamFI02mlCKmyygGElilTTBf097yj555xA5n5ZLNnu5PmZwUbASeK0aw==",
-                "mac": "6szbeaJrShr765d16xBHUg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/3/text": {
+                "orig": "\\c[3]Pentagon: The Virtue of Agility. \\c[0]\nUsually associated with the Element Shock.",
+                "text": "\\c[3]Pentagone : La vertu de l'Agilité.\\c[0]\nSouvent associé avec l'Élément Choc."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/3/text": {
-                "ciphertext": "2tFL9E8AAbTxt1GtyJTd1RikEWqYrxeCTsqleJXqcmip87CHqG9nsjviqy8bj/QfsntVdMZ/E8+i9LrNy3GhgROnZoDOHtbeioavLNKfzVrJKBxus/w6+zsKcVFzo/Nu05cj53GtpeKOL/um0LOk3/UQU7OApVb331g0hR3aiN/uGxvBLROTjqBoXc4eSRhi5eaVi9b990ynyQiuuWkIS6h07mLjwV0F1crL4pkeF5r/ejC6A0YAouEBg7zh1MRR",
-                "mac": "z3sR/rtvFcglYA7sG2vbew=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/4/text": {
+                "orig": "\\c[3]Hexagon: The Virtue of Wisdom. \\c[0]\nUsually associated with the Element Wave.",
+                "text": "\\c[3]Hexagone : La vertu de la Sagesse.\\c[0]\nSouvent associé avec l'Élément d'Onde."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "LBx4SbrEMPHUrdO5vGmbjD1oyCILU2GdjVOua8/TZrY=",
-                "mac": "Cej26W65FYqwVFlseWgumg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/5/text": {
+                "orig": "\\c[3]Circle: The Virtue of Balance. \\c[0]\nThis Virtue is not specifically associated with any elements and instead opts to balance each element.",
+                "text": "\\c[3]Sphère : La vertu de l'Équilibre.\\c[0]\nCette vertu n'est pas associée avec un élément particulier et préfère à la place trouver un équilibre entre tous."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/23/settings/condAnims/0/interact/event/6/text": {
+                "orig": "Obtaining each element in turn is the only way, as far as we know, of unlocking the mystery of the Ancients.",
+                "text": "Obtenir chaque élément un par un est le seul moyen connu pour déchiffrer le mystère des Anciens."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/interact/hoverText": {
-                "ciphertext": "iJ9GSKJAImBFqJvKt5nPQEr3kUuLyd0o/onndayGEmU=",
-                "mac": "kQBgTT7r5keMZRDltweViw=="
+                "orig": "The Secret of the Ancients",
+                "text": "Le Secret des Anciens"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "ZetSjSUf0NfC+l3/5XMLlrEcuccKAlAtOYCDbiM78LFeNBq0J5236SihTab7/HPw3Kn/EyfYAKw2PYdbKWoPBK/dpmBRgkNhQw1Xc0i8ZVydUdwptB+ORF02qgbAiTOU29ku1erRpjKeCVw3oh/kSw==",
-                "mac": "aHkOtQgdUdYK+MQ3E109nw=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/hoverText": {
+                "orig": "\\c[3]Humankind's Arrival \\c[0]",
+                "text": "\\c[3]L'Arrivée des Hommes\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "CStzkr4kQemc8oghM/CY8bvE3KPhgoq8ozXHmCF8pwMCxwlb2OyHGZhQ73LCL6CFUhWvbW9n6ut6DOXQP0clyCjM2Pdh/IMDnG+t4rnoYw42OFNgcXBNKxx3gOpaDfMaIvdDBeHY1cMQ+mdFr9QNKvJQLju/FC7I5VbJFYhDZiBT8pw522n+mOvgny0QgHYeXqZcIXe0cjP5VgGpg7Cc274uhAw/DXfmeDaYWUOuZf1qAxSfcS6Ya0BPQqgE1x5o",
-                "mac": "GprUuK5q5oZ9hbbnnbrMag=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Humankind found the planet Shadoon 30 years ago.",
+                "text": "L'humanité a découvert la planète Shadoon il y a 30 ans.",
+                "note": "de says shadoon is a moon, it is not, not in the in-game universe anyway"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "0rvckkhobO4pcrpWOHyW+M7c+b5VlNt5FJmB6Pxrwm+UP8cH3njGqONHSIw02URNFNCDFCF00UX7yMcLxgV/a2BqizByPYcuvAuuvWt+9AC73nFBkgiONXO5OgQnzcsczJggFyGAaqvKwfQecIjpvOXXhzDqdAkHPAOSglw0fEoKAzTXET7ZYx/VFkob2IStLKuHMBBj8Zg+sAVxffwA8LYsSwI9Z/YAs6UlV9xpwj26zBbPXOkb10kavHRpSvknMkqVmQ3BNK7F1pJpcmp4bFb6hWYOlHXYNgXs3cPv2o8=",
-                "mac": "PlZHT0GPq17bx87fT7llow=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/1/text": {
+                "orig": "At first we tried to harvest the planet for its precious resources. We built mines, uncovered ruins, and drilled into the ground.",
+                "text": "Initialement nous avons cherché à extraire les ressources précieuses de cette planète. Nous avons construit des mines, découvert des ruines et creusé le sol."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "vTOXyhHahoWbyu0qyssvNQM+AJxglig6z47u8mvgZ3E=",
-                "mac": "7wj7PGE47Nps5TvRz5iajg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/2/text": {
+                "orig": "While doing so, we also destroyed part of the Track of the Ancients. This activated the self-defense program of the self-sufficient system that keeps the Track intact.",
+                "text": "Mais, en faisant cela, nous avons aussi détruit une partie du Tracé des Anciens. Cela a activé un système d'autodéfense qui gardait le Tracé intact."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/24/settings/condAnims/0/interact/event/3/text": {
+                "orig": "After this it became almost impossible to harvest any more resources as the Track itself fought back. We became aware of the finesse with which this system was built.",
+                "text": "Après cela, il était devenu impossible d'extraire de nouvelles ressources vu comment le Tracé se défendait. Nous avons donc découvert avec quelle finesse ce système a été construit."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/interact/hoverText": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "PY0Z6rPTYnwE0vg+Lqz7IXH6nJ15KO9wQixuJRyZfNpDavDiFtVKqZqCVDhh3gDosDuLFdb1L9S02Ta9M4q5gfpB5c0dSp1tnIyo9sUbLoFpAc5VHtatead8zfL6BUShQ4vkXSh9DVFqJfJ4bDTLQcgE03zXciacqYGI53PUMOzmcDm246yFBjjHNIJCuC3/",
-                "mac": "SUln/Cub+8ntqP+eScs3rg==",
-                "ciphernote": "1vvlw3irPbBtwnGTFR1HSMmIfzP5ITZODLzQCbGE2Zg="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/hoverText": {
+                "orig": "\\c[3]Operation Track Walker\\c[0]",
+                "text": "\\c[3]Opération Retraçage\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "SmEbGdcqLbW/OfT6f/Jw25FEgfCp2stEtZUnt4V+0cRdWkFEzNnGor78OV1hbtjIKSA5f7ifw0L3XgvgAwEBXMgS2A0612gzMCPx/JW4tqsHggQh+/+imjDP0D4A2PPYm9Kh9b4q+O6J0/DipVKJ9k9k/ix8gHvR2hNF4eCT7CKMYAAOWfBPp96wRF00QtP0PQWllQLhmm+smb5uvn57Kg==",
-                "mac": "p9/jLuYA8H+1iaDdD15tfg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/event/0/text": {
+                "orig": "The Goal of Operation Track Walker is to \\c[3]research the Ancient Technology instead of destroying it\\c[0].",
+                "text": "Le but de l'Opération Retraçage est d'\\c[3]étudier la Technologie des Anciens au lieu de la détruire\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "aywPm+9exliJYtYtVhiNoHPa5jSNUhmqGT32PoQLIHdtlObxFQ/jNTM67P2zYTcWmfRXI09TNn05QO23xj9zhIuMCp8zo+xyUarKdN2ozY23tFQSBti3Ri37ZGDI82DYqnFZ/86sAL5Yj7TV/zhkhmJKRXA6k0BzBir34AQs5mTc6RiHqSJShiM2qbdnBzT78HYjHlTS8gebey9ursfhlbeiglz9HzjuNQBZmB9pCkH54ySY/OGYre81LV04Vu52MA6d8z+oTbrcpxBpIXiX5w==",
-                "mac": "sCK05mo098d4dx9eXleLAg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/event/1/text": {
+                "orig": "We began to look for ways to be part of the Track itself, to have humans participate. To our surprise integrating ourselves into the system was easy.",
+                "text": "Nous avons commencé à chercher un moyen pour que des humains puissent faire partie du Tracé. Nous avons été étonnés de voir que nous intégrer au système était facile."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/25/settings/condAnims/0/interact/event/2/text": {
+                "orig": "We were even able to augment the Track to make it possible for humans, or \\c[3]Seekers\\c[0] as we now call them, to choose one of the five virtues and collect the four elements.",
+                "text": "Nous avons même pu améliorer le Tracé pour que des humains, ou \\c[3]\\v[lore.title.seeker]s\\c[0], comme on les appelle aujourd'hui, puissent être autorisés à choisir une Vertu et récupérer les 4 Éléments."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "ToLFF/Rw98laInFtWHvIDr4g03BK8YgslcM8HDxqpYo=",
-                "mac": "9jK3Q8KhBKINTJF278j4zw=="
+                "orig": "\\c[3]The Secret of the Ancients\\c[0]",
+                "text": "\\c[3]Le Secret des Anciens\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/27/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "uyBWlnBEMFIGM/eXe3rAtrmQHoDrIMwsnlrzKOIAc6qISdVVSKP04Rf7mdLT+XDKHKxaQoOL58D8Hy0QMNPU1ytz6qjZ3utHitizmOtPIXK8mxmkcB83vRoq3uFmsYwWd7zPv8K+1aRImVWa9KYNzclrgLfW+AM4SiQcTRtCQQEd3wjlItIirZtn4bk07oryvjoZ216OfmVlvGOUW+8eZX8qT02EsE2WulPsBlvZhOUVtabI3cNPdPxdfi9ZYhW6zrPILsayldbhgwFky0iF6A==",
-                "mac": "5zwd8outZbrgSoUzUSIt3A=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/event/0/text": {
+                "orig": "What happens when all four elements are collected and brought to the center temple in Shadoon is still unknown to us.",
+                "text": "Ce qui se passe lorsque l'on récupère les 4 éléments et qu'on les amène au temple central de Shadoon reste pour l'instant inconnu.",
+                "note": "original badly formulated"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/27/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "aVbj1UXS6soPV5Y4QFGEmdVdpBFpci1WaKCzzKllLqe8I1b2uopWO40sDkncVbRYdVxeffam1y/hGlrgxqI9jjP/uJZt6R00ryhwGK6L2ut367z+9l7HqDcRg2w+AfhOvCOQE231ZPeE1V6dG7mloPLKblJA0klazANyzlRjdahVH6cv03up5Fv3U58iaaM1",
-                "mac": "o9iBssAm7TTiA52+g4cvug=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Even after 10 years of Operation Track Walker not a single Seeker has managed to overcome the final challenge.",
+                "text": "Même 10 ans après le début de l'Opération Retraçage, pas un seul \\v[lore.title.seeker] n'a encore réussi à venir à bout de l'épreuve finale."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/26/settings/condAnims/0/interact/event/2/text": {
+                "orig": "All we can guess is that the Ancients left their vast knowledge base for their descendants to find, as some legends and artifacts we've uncovered seem to indicate.",
+                "text": "Ce que l'on suppose, est que les Anciens nous ont laissé derrière eux leurs vastes connaissances pour que leurs descendants les trouvent, comme le suggère les légendes et les artefacts découverts."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/27/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "nhKvZLpSZeUayjgQSi+sbqms5ZHQKGVkP9FCGe3kySw=",
-                "mac": "r9Nhax1QICYd4m0qh48EwQ=="
+                "orig": "\\c[3]Rhombus Square\\c[0]",
+                "text": "\\c[3]Rhombus Square\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "Uuqr+8NanhAbkg7pcmgU8N/xKLocHsYRqw611mgLvdW3OxS8mwMNzjJzt+yAHE+0BUxsc+6JynILsiy+rZkuKmqBmBZLqst6rM6/W2NiZCv9JQVC9oqPGgV9Ag7Kk4IqDGRkw+F+kowb1j5LNkp6vQO03jC7j1ANzuzxUsYA6iXbp2Pj5gUh7ZPBH1wqi1DZ1Sp/EN/NcM+KeRE7lkjGS1L6Tmp7clCZqfiuclCRN3iD8KJqyiwjEjAdGeaDLYz6xY1XVka5Pu2/ulgG66hTPw==",
-                "mac": "aNJ7efBv3KcYUfCagaeh5Q=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/27/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Rhombus Square is the capital of humankind on Shadoon. Seekers start their journey in a custom course simulating challenges on the Ancient's Track.",
+                "text": "Rhombus Square est la capitale des humains sur Shadoon. Les \\v[lore.title.seeker]s commencent leurs voyages là-bas, dans une simulation prévue pour préparer aux défis du Tracé des Anciens."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "TPjsv19FgAslh+mycMpqnssVNsMJecM5kSyd0DYL2VQ1Zk8ciLJqgw64KNMSt7s6gijQgedeDyMRlyaX3ZRlZi6q32xDyf4wuej53LWOQz6HR0zwLQiVn/gQF+RhAEUzI+fTvLoWkA5jo6WTmigxr2ODldu7rBPnvvtGEGSVB54kUNgEYbyK9QPhWUEZNzH4U3mJWouAuwWSN0r6WUch+pfDXYV0PMLdLf+BttZqo3jmgcnyBxfytDgtM1KdmMOa",
-                "mac": "wwTp2EuHXAi4HNTVBDfRDQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "O1BvOxpHuS0fhf/KQ0mGSURR8g4MFWAFP/eNwQ8tl28=",
-                "mac": "R9ok8d/GsEc4693QKKcQzw=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/27/settings/condAnims/0/interact/event/1/text": {
+                "orig": "However, in order for a Seeker to gain access to the city, they must first collect all four elements on the Track of the Ancients.",
+                "text": "Mais pour qu'un \\v[lore.title.seeker] puisse accéder à la ville, il doit d'abord obtenir les quatre éléments sur le Tracé des Anciens."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/interact/hoverText": {
-                "ciphertext": "zptPI2Go6wQmTqiKz9cWsK3cVFVgANQcdbncixqbJWk=",
-                "mac": "BNbGw7SzKABOR6Jf8VHRDg=="
+                "orig": "Humankind's Arrival",
+                "text": "L'Arrivée des Humains"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "ou+QmC7EZxqy9xHOnEQPkg7pA0G1XvTEtu1pe+9pfqg9kpaWtxCiIkcKAHXzGWf29FncI7V9h0vglNqF9l9rkJyiO09cJKphe7polpcycww1bB1oKKZTgPgwWtjXg5xDD6PpKMIuz4ZzY4JAb22BzWAiZj30nrrXfd8fYVPrjiehJaEqydvVbeyIkIdjvRV+",
-                "mac": "Kb/ozGQrFQu9pYyWdXRkWQ=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/condAnims/0/interact/hoverText": {
+                "orig": "\\c[3]The 4 Elements\\c[0]",
+                "text": "\\c[3]Les 4 Éléments\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "O4ShuFj5rxXXwrsr7DOFZCNXRnhnzY+X8A06OlV7UWRLF1SxXzEThuhP5JAcqOK8nhl76VUJLmlKOam2wJ+1s/atnFE8plElJdmPaTQpfdLaP6iVkNKNJHfUpA/QjJji3YN/zXruXgimovgCJF1LQhfxBBJlWomlcwo1JmzPI8OmXVqtizvCybkurrbIdoAg3OQEHdQh7NQ11S65FOZNGQ==",
-                "mac": "xKEz4JERNI1rqX5jyBxztA=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Every Seeker must collect the four elements, which are scattered all throughout Shadoon. Each one of them gives the Seeker control over a specific elemental domain.",
+                "text": "Les quatre Éléments, que tout \\v[lore.title.seeker] se doit de récupérer, sont répartis partout sur Shadoon. Chacun d'entre eux permet à un \\v[lore.title.seeker] de contrôler un pouvoir élémentaire."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "VfUnZ23krpc2SFROmsxoNm7+reb+R9sXrWHlCrM8BRQ4hLJhV3S9fX61hDmKPxruRqupui/9rlSaVu+Kc+fgHwxMdYWtlmZ9Cg1syIQI1pmU9VWpjykfQDYhf7zfaSRJ",
-                "mac": "isfpKI2siXo46s4Q/icgSA=="
-        },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "XtpuiFBKyy211LHzgnYX67TvzGJWY1VNiiseVbEiQEE=",
-                "mac": "f7V4sWrPOCLB0tKBgPpobg=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/28/settings/condAnims/0/interact/event/1/text": {
+                "orig": "These elements are \\c[3]Heat\\c[0], \\c[3]Cold\\c[0], \\c[3]Shock\\c[0], and \\c[3]Wave\\c[0]. This enumeration also reflects the order in which the elements are usually collected. ",
+                "text": "Ces éléments sont le \\c[3]Chaud\\c[0], le \\c[3]Froid\\c[0], le \\c[3]Choc\\c[0] et l'\\c[3]Onde\\c[0]. Cette liste montre aussi l'ordre dans lequel ils sont habituellement récupérés."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/interact/hoverText": {
-                "ciphertext": "zNgcS0dMiz6rpfgzQu0NQpFpPYnUWtFrvPMt2PZz27E=",
-                "mac": "yJMAwHkzUV6Dd5OiMMq3Kg=="
+                "orig": "The Tracks of the Ancients",
+                "text": "Le Tracé des Anciens"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "tEuU+swTA1xfb+Y5yLq6T/fZppqNVQ6Fs/KcefzJc/Kf5KG84QM+BLZyG86jjghHxl/xUUpq7wGmRkU/AZfCfwtJ2DDBb4fce9vtKjMHudmUfoNyATaaEi5ZU3gUpg7tmHQUJNzsC/WAqz8WYVNcgiAzjXwjE0KhxYQxhJo1IE4+pR5JC+M99u7wIQhZb4/z",
-                "mac": "Q71EdUVPKN/0SmClr5qPSQ=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/hoverText": {
+                "orig": "\\c[3]Track of the Ancients\\c[0]",
+                "text": "\\c[3]Le Tracé des Anciens\\c[0]"
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "nNor2akRjWPdY5MdpowkrGUqJlLBxdWakyM4dolAksdQLavk/nNjdw+efbqxJPZRxkLcCJMbCQs2FmTUF+39whEO5yPu3+r3QwH7VfACJy4zErNqvKdY/QxdhNSqdI2tLq6phW/meyU/0vvM+1yeP6sntgL45VQUVKe4srYU1zM=",
-                "mac": "NZRkFU2BAP7KXdCunmMYBw=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/event/0/text": {
+                "orig": "The Track of the Ancients is a lengthy trial of agility, intelligence, and strength, which played a large role in the Ancients' Society.",
+                "text": "Le Tracé des Anciens est un long parcours d'agilité, d'intelligence et de force. Il jouait un rôle important dans la Société des Anciens."
         },
-        "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "ZRhJ4Bow6g2vTHXdo1QlqLDD4aXycHSgvmtiTlghZLsJU7qtMOJYQnI4z6J4LIe2+J7KwfhLaXH7+ZBBMZD5p+E3fFa1/PBRSSK348Qy4IM=",
-                "mac": "Vg/qzdFwbCDnVqi/4pLM+A=="
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/event/1/text": {
+                "orig": "It is a self-sufficient system in which a challenger selects one of \\c[3]five Virtues\\c[0] to collect four distinct \\c[3]Elements\\c[0].",
+                "text": "C'est un système autonome dans lequel un participant doit choisir une des \\c[3]cinq vertus\\c[0] pour récupérer quatre \\c[3]Éléments\\c[0] différents."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/29/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Even now, after 10000 years this system is still intact and active.",
+                "text": "Même maintenant, \\v[misc.localNum.10000] après, ce système est encore intact et actif."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "b/BkfLDQheJoai5Xt3vSCPjcIDlEq2l9tqAWnltlTc8=",
-                "mac": "u4ZlAMmPQ9AnGoevd8MpLA=="
+                "orig": "\\c[3]The Ancients\\c[0]",
+                "text": "\\c[3]Les Anciens\\c[0]"
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/event/0/text": {
+                "orig": "The Ancients were a highly advanced humanoid society which lived on Shadoon approximately 10000 years ago.",
+                "text": "Les Anciens étaient une société d'humanoïdes extrêmement avancée qui vivaient sur Shadoon il y a environ \\v[misc.localNum.10000] ans."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/event/1/text": {
+                "orig": "For unknown reasons they left this planet. Only a few native tribes remained.",
+                "text": "Sans que nous sachions pourquoi, ils ont quitté cette planète. Seules quelques tribus indigènes sont restées."
+        },
+        "maps/rookie-harbor/central-quest-hub-2.json/entities/30/settings/condAnims/0/interact/event/2/text": {
+                "orig": "The descendants of these tribes are known to us as the \\c[3]Shad\\c[0].",
+                "text": "Les descendants de ces tribus, nous les dénommons les \\c[3]Shads\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/55/settings/event/4/message": {
-                "ciphertext": "3jobZNRiY1cBO5RLWLob41jX1h4UdsONf8IMZaO8wPU=",
-                "mac": "Qg9HOVvePHtIWnZx1WYitA=="
+                "orig": "Mon Dieu, look at this!",
+                "text": "Mon Dieu, regardez-moi ça !"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/13/message": {
-                "ciphertext": "huqiF++v0W4LNuDqNfNb6qB1H+tM1jhOApI6rEb+mg4=",
-                "mac": "ctmHxp2WfmrOvwlIcj390Q==",
-                "ciphernote": "itjfK0/lZjyAcz9syC8nSnD+tbL4ssJSd28IZdvjkPm05OfhVIz9OsJX+0nwYJFK5L37T4/PD0cEzLnzP9ak1lm7GtVNfl4yjMfCGuJ4o5g="
+                "orig": "Wow, now that was funky!\n",
+                "text": "Bon, ça c'était dément !",
+                "note": "can't find any good french slang dictionnary, but seems close enough"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/14/message": {
-                "ciphertext": "3YYa2herX4DycLih0oVMNojnV+r+lZvlcKAbQ56UjeGskHgwkrh5R0ydKst+tsHOU3XHKk4BfoGuVguVsHAglx28rQELyGK1IEPAs2qr//bs9E+isbaGiIut4hpe2QG6g47K8eT7LfyIfqhiNWHmXA==",
-                "mac": "O4Z8q28LCRVZbanTCOnfQw=="
+                "orig": "Suddenly I was in the middle of space and this old geezer kept talking to me.",
+                "text": "Soudainement je m'étais retrouvée en plein milieu de l'espace et il y avait ce vieux type qui me parlait."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/15/message": {
-                "ciphertext": "ceir+IwxA+NJmJcRloTZbmd5opdcKdYlRaRCnZkaMNM=",
-                "mac": "0nlWBb7Ux4dM+QSOWqX6+g=="
+                "orig": "Same for you?",
+                "text": "C'était pareil pour toi ?"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/16/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/17/message": {
-                "ciphertext": "7rAGgel0dLFWTKIPz/yY2lymVjaqbxW0HfI37/qEvTQ7n4DCM76aCgoiIXu1cYzveWhYKT5t7xdoc0p9vhxZSeSQV5Y4DrvC6DozlwppmUWUwOZc7KQr970BEP4iBOVyH/JwitgkxI8da7tQ3VBoMg==",
-                "mac": "G8JgfoTLGBRKuz0N2fxsAQ=="
+                "orig": "I suppose they wanted to pep up the boring introduction, non?",
+                "text": "J'imagine qu'ils cherchaient à rendre leur introduction ennuyeuse un peu plus intéressante, non ?"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/18/message": {
-                "ciphertext": "4p4eYzekmS+p29o5H8N5RskeJCWfDb1reIDrLfmDRluiKdWIVsaAizmUGV2qBKFO+B0wX9b4Hh5Gt7V0tNlqYw==",
-                "mac": "Sy0b0Klo4R7vRU19qptjJQ=="
+                "orig": "Oui, oui! \\c[3]Track of the Ancients\\c[0] it is!",
+                "text": "Oui, oui ! Sur le \\c[3]Tracé des Anciens\\c[0] !"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/19/message": {
-                "ciphertext": "oWPnRd3X1oGxi6Nwjol9zbnl1uvW1K3CHzfeBo+8WHY7a6MuLMr8MMSG/VpruihC",
-                "mac": "mtTW3GECqs+8RxYkfF3kLA=="
+                "orig": "Let's go back.\\. Lukas is waiting.",
+                "text": "On peut retourner dehors.\\. Lukas nous attend."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/27/message": {
-                "ciphertext": "gjwZfonI6m3wH+iHL5JUkWEiPh66ndPkBjBdaUDr0WVVPyJPGLpEoI7iB1a3J1Nbm/7+fcujhUXchzgtd/fQ7i9ykinu5coX82pyB0+ycvVeTVcUMXOZuDiVpcwBOC2nQq4bE6tCPSNPs59/mfwL6VfT3tARobsFkcWzyU0OKEY=",
-                "mac": "ezjWltWtIOCGT5gZGMn9fw=="
+                "orig": "By the way, Lea.\\. I took the liberty of adding a few more entries to your \\c[3]encyclopedia\\c[0].",
+                "text": "Pendant que l'on y est, Lea.\\. J'ai pris la liberté d'ajouter un peu plus d'entrées dans ton \\c[3]encyclopédie\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/28/message": {
-                "ciphertext": "OLzwH5vLSQHEth1FnXJW6oM8fprXRbLaLLyVjE/DjqKTM+UOxdq1J2tEaKulFZbRHlzoOqWMVgQEJncxZ+jgrtvZD2Y+o5cDL5oLxIidiPptfszDih4eTqM230DlZfPe5AENWmYpHCPWWocmG+qJUQ==",
-                "mac": "ZqDqE+MOhXZ8dxies1y+uQ=="
+                "orig": "For example... all past events and people we have met so far.\n",
+                "text": "Par exemple... tous les évènements passés et les personnes que l'on a rencontrés jusqu'à présent."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/29/message": {
-                "ciphertext": "dAhRI0g9fZSJQE095d6tLL+lNry6gcj20RTRxJh4GAggTMakV9jD8KQXi9uLxaBNJQKd4WoAbgFInEyJsmdpDw==",
-                "mac": "jbd1r4hhFEZAry7EePAZOg=="
+                "orig": "And a few insights on the technology, of course.",
+                "text": "Et un peu d'information sur la technologie, bien sûr."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/30/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/31/message": {
-                "ciphertext": "UFXQWiZ/jD9aTpGVmFz1XZ6ib9Kyu6uwxSMyPdPIht6gz4x/6ZDOPxCZnbkFteTx",
-                "mac": "9dOi1Zhb571JaQ010KLrGg=="
+                "orig": "What?\\. I just like to organize things.",
+                "text": "Ben quoi ?\\. J'aime bien organiser les choses."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/57/settings/event/33/task": {
-                "ciphertext": "IgBnnoO9xFXBHBfiJbJMKp2tE0VCBMyHxI7fYwjGitMtHGEDuFYRRT9J8R82Y+8VHPJiQMZoMLwvLOnlhlu14Xs+flGknidjO7422Eh8Yd+biJslBiIfAN9wnlBMUStc",
-                "mac": "WXKUFMdisp/Sk58KbxD3Yg=="
+                "orig": "Meet up again with \\c[3]Schneider\\c[0] and \\c[3]Emilie\\c[0] to continue your tour through Rookie Harbor.",
+                "text": "Retrouvez \\c[3]Schneider\\c[0] et \\c[3]Emilie\\c[0] pour continuer votre visite de Rookie Harbor."
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/58/settings/analyzable/text": {
-                "ciphertext": "eX6bsbGCzKcq+wPNtNVbzA==",
-                "mac": "X6vtndTt65Ax2/6aBjhqBQ=="
+                "orig": "Advisor",
+                "text": "Conseiller"
         },
         "maps/rookie-harbor/central-quest-hub-2.json/entities/58/settings/npcStates/0/event/2/message": {
-                "ciphertext": "6N/U8nXsPrcOjV2wZd+rsePJtavD+bM5ZV4ptjNK3dcEGtTNJm1p3p0C4XRj65bHQ/zXsJQOZbUKRMok9PGpH0eP/KAxhTxQPQJ30NmJdszit63VfXS4jRg/RwpYRBaMEtMVqdkmsQxqosPDnHlt4ga83BkKvCb/Df7QbTfUEAMX2wGZHVek9Ya8iUUYisd4",
-                "mac": "2omRp415+lkdx3KtN/mpSw=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "0YFTDqmqYOYFTI9QqC84AUTX4d1Vf6NG0B2N2cc2ETw7Wc3LvARNVo4abv7cb3Klga84FnkPcNrqxQpnouMa558wTqDrqJLUG37KDRL7WzU=",
-                "mac": "+rMfABvLIodH/2cMdSKqyQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "kTIaTk4HEk1NEVAVf1DZUlcJSun8lgUAqTnFI7LyqS6BHP3oO+H6T3dD5L0TCO+7JdU8UKmV7LGLOlNtKTCC51b1y/DPA8Wua80sdz7m+LW21b1BrsqsT6hXR2pSefG+D01at54A3QgOqEVKrdoMZmwa04QBxK77SE+C7FEy1hTcZumdhOB54/Wke3lTvBlnvOrrBCLjxfHwphju+q5KTixCXw70hDxcio9De0gNXRk=",
-                "mac": "vVAFSFecKziNkR06eJDWoQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/2/text": {
-                "ciphertext": "ZlmaKO8ZAJOMNeTnCCEsvtBAGcz28v67mWoJuoYPn15lgPzCo/wXSvHrQdsAI7deQT2TKk6H7tOECCt4y7yYOatFvBf398SWlx+XTl5cz+JYoWTuLWyiDaeKwgh71ZPoGGxQbBbRil2ePPuuqapsSkSTdv1OHpgvi6yt2QF5nTebVRO3Z6m6SdKwd/zfWQAGPQGJQsB3G70QGckGVimlRd5JqvjP/O17Zu0MZiYkvnk=",
-                "mac": "Tp64Ehg2yw8yX0l8GbrA9w=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/3/text": {
-                "ciphertext": "RUkqDBZ4UyuwmprjdYOHWADUOgkD9xnMUtg9gCB4Mt3wPYLHfGrOo9Y3YgnNwuAbF8OH01kgPKvHXH8wITT+MlkEC3gBX52t7TdhjNOspYIVUxiv/OWYRfcMyjwxkJ1mX5whGx0c6Xik54YvUfTUhRZvcHbzXmQa9LmF3uAgfv5V8yNckRTJ1UyaMxc9+ntOigiu/A5Fv2XzcFq8iCR91WO/pDdDorC+IzFScKNPOuJpmNadP9oqUOTCUXzaWaltWb/pGOE2du5fEZ9cOQDpwqOw51pvXuFOrKUk3xmO4RU3+ntlxMmsOmzWbfnBumb9qRusFQ+edGc/QjkRlFrbE3V5Fr5wtx69fucXUBofSKH0R8gjFjM3+IrHkj5RUb474pmsmb+6DdmjDP6+s5KmcEqcdICIDvrsk9wXAs/5bcQWMZosySMLt8MG0ATbOm7n",
-                "mac": "/2zmFYyUnSS5dasd27m40g=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/4/text": {
-                "ciphertext": "zzSlpq+9b8TPSHqGlfNdPJBO3aOHcYx7WuRG5g2xiFDQ442sflqxmdnuCgivtNR0KVdVssdR8qL/GEiT45oYops8GgwGjbOACUCR0vETc9E5UK3VJjSO772yKLiDENKeTgkNVG3aaly8vBI5lL6PWayLXDfuclFfbWHeB2J7L0m/HY22pymtKtVvZAz/TESmA+07jxhceoFbEKcRp1kKqSCKj5LN2MpoWz+N3p6MA8Ws1gQZGV2ZCWTq/JA/zL5tQqF2y2qz+pT8a3cgVBHx8YUuxqj6bAou5C2/FOdIpyJFxlhN9+8C4emC4gKqYuwqQTeuXo+9jLRZ8xd/TSokWg==",
-                "mac": "VaseZ+S4It+MGH7tRjbyhw=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/5/text": {
-                "ciphertext": "Dd4jektp1GwEZcZKyruGvzwE0lS+9D3AEe8jUJjLIZtdtiyaa+uf7+a5+ylrdvXHWjmAdD0h7ztoaNAEBfvY9danjfsppvTT5xEh6cmbGhtL+eJKJOA0AuXybHsoMHTUIA4qxuNigORd2Mlve5JaNElko3CaFHPMi5hEIoU8gIfHlZwmlZ792HvkyD8Ou1JSr/KJpWXUpL6yWMR8TEGpon7d5e7EO8NIMzgzf9lGEDX9l5elLfBpsxEQxYh5Utu03aJVHiDAItuDMv/kCpwCGEST/MFEEnWKEDngZvSThQPRT90CNmBIRcVLmOqkxwCj",
-                "mac": "nyQ94hcU4mg83cxXUfGWbA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/6/text": {
-                "ciphertext": "X4DoM3ELXZXRgPgzOaqlsgEdFYxOnoVOQP5DKysrjSNB/vfPwEcDm8rowcdDX1EsSc0W4ALjeGngvB6mu10YI7VXSlQdTO7lS87Gf/kJZ1r3uMeqyz14B0gwxkHe3LpzLgqEVuRnklvgbXKC/lWIn+y2jNWVZNjwuXID288WBbWhAsfG6i856Z/sbFxAI0fgfoWgt3oEHIPH6qqcCHpT6IJh2nlhlGpYjTMFeySS015h6SJm+g0UGOnp3fNEdiJQhcYrvQDVHSrDpdr5S9Pc8xk3F5Ncd/nxt8opdu2TzWlcVF8pWQDiVCP7Yz7a3Uec1L8Yv81D7Z5nQV8QSxUEF5ynA7te8TFAU9JlcOfvhOu7ikIz3N3e9SK37YgVrBOLdolFoH0yTbBUT6QzaiYOf3McPtOwR6E98aVCDQdUm2k=",
-                "mac": "TRjxXfT2TPzTytQ5h2uvYg=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/7/text": {
-                "ciphertext": "pBAkJ1fcY5AYNIaMdIBKWN09EF3XZKSlcK1t/jL6pxmdwuClAQpkRmbqPBbxLB4HmbM3FoLYdKaoT//sN75yMwkazpDiSvShzEIbqWCRoww/GKFXsUk4QmvDCK434QlFkUj49ILF/Pcnc+JrHrX+8Fa1mGdJfI+AbpzY5S8hgQg3asUSKYPqGjEBs+QOejRS44Grhg39UT31tSRVA1WsDWycXOflFqr4UzrO2rNp+IMZk3FWIJ4k/ZUS4ndlmnRNhRAsF5p6/gWig75DcScY+MDhkOcnIeBTyA2hQLMwYoynI9P034U1FwtDBcwzQA0A",
-                "mac": "r0hpooros+8c/D8kwwz2hQ=="
+                "orig": "In this room you can read more about the history of \\v[lore.title.planet] and \\v[lore.title.operation-trackwalker].",
+                "text": "Dans cette pièce, vous pouvez en lire plus à propos de l'histoire de \\v[lore.title.planet] et \\v[lore.title.operation-trackwalker]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "R7DXme8vVrc+uv1Vy7iGM1tQHSCi989HiBhpCjBK7J5+F+7e+PgPbPcn7VOK+T6e",
-                "mac": "CV98jfLoBLaazonklbSfog=="
+                "orig": "\\c[3]The 4 Factions of Humanity\\c[0]",
+                "text": "\\c[3]Les 4 Factions de l'Humanité\\c[0]"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Large parts of Humankind are organized into the \\c[3]4 big factions\\c[0].",
+                "text": "Une grande partie de l'Humanité est organisé en \\c[3]4 grosses factions\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Each of them are responsible for different aspects of human civilization, all of them crucial for survival and prosperity.",
+                "text": "Chacune d'entre elle est responsable d'une facette différente de la civilisation humaine. Toutes sont essentielles pour la survie et la prospérité de notre société."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/2/text": {
+                "orig": "The main headquarters of the factions are located in \\v[area.rhombus-sqr.name] but every human settlement harbors one \\c[3]local subdivision\\c[0] for each of them.",
+                "text": "Les sièges principaux de ces factions sont situés à \\v[area.rhombus-sqr.name] mais chaque colonie héberge une \\c[3]sous-division locale\\c[0] pour chacune d'entre elle."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/3/text": {
+                "orig": "The \\c[3]Venture Alliance\\c[0] is mainly responsible for doing pioneer work by exploring and claiming new land, hunting and scavenging wildlife and mining natural resources.\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Falldivers\\c[0].",
+                "text": "L'\\c[3]Alliance Avant-garde\\c[0] est principalement responsable du travail de pionnier. Ils explorent et revendiquent des terres, chassent et collectionnent la faune sauvage et minent les ressources naturelles.\nIls sont représentés à \\v[area.rookie-harbor.name] par les \\c[3]\\v[lore.title.faction-heat-rookieharbor]\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/4/text": {
+                "orig": "The \\c[3]Human Preservation Department\\c[0] is mainly responsible for the protection and discipline of the human settlements on \\v[lore.title.planet].\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Rookie Harbor Guard\\c[0].",
+                "text": "Le \\c[3]Département de la Sûreté Humaine\\c[0] est principalement responsable de la sécurité et de la discipline des colonies humaines sur \\v[lore.title.planet].\nIls sont représentés à \\v[area.rookie-harbor.name] par la \\c[3]Garde Portuaire\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/5/text": {
+                "orig": "The \\c[3]Association of Human Advancement\\c[0] is mainly responsible for trade, manufacturing and scientific research.\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Coastal Trading Coalition\\c[0].",
+                "text": "L'\\c[3]Association du Développement Humain\\c[0] est compétent dans tout ce qui est commerce, production et recherche scientifique.\nIls sont représentés à \\v[area.rookie-harbor.name] par la \\c[3]Coalition Marchande Côtière\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/6/text": {
+                "orig": "The \\c[3]Amity of Balance\\c[0] is mainly responsible for farming, gathering and the research of native life and gaining an understanding of the inner workings of the \\v[lore.title.track-of-ancients].\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Fruits of Autumn\\c[0].",
+                "text": "L'\\c[3]Amitié de l'Équilibre\\c[0] est principalement responsable de l'agriculture, de la recherche de la faune et flore locale, et de la compréhension du fonctionnement interne du \\v[lore.title.track-of-ancients].\nIls sont représentés à \\v[area.rookie-harbor.name] par les \\c[3]Fruits d'Automne\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/29/settings/condAnims/0/interact/event/7/text": {
+                "orig": "While the factions are filled with highly resourceful experts of their field, they often need the support of the \\c[3]\\v[lore.title.seeker]s\\c[0] because of their special connection to the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
+                "text": "Bien que les factions possèdent plusieurs experts qualifiés dans leur domaine, ils ont souvent besoin du support des \\c[3]\\v[lore.title.seeker]s\\c[0], à cause de leur connexion spéciale au \\c[3]\\v[lore.title.track-of-ancients]\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/32/settings/interact/hoverText": {
-                "ciphertext": "TH4c8WSBumQKzPNpH8tenEeLuKBuFdzdaJ9u83Gl+cY=",
-                "mac": "VYK+6ZC86EO1rQI8e1KVuw=="
+                "orig": "Area: Rookie Harbor",
+                "text": "Lieu : Rookie Harbor"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/32/settings/interact/title": {
-                "ciphertext": "TQcwjsuq5i4HOboY+JRdZwS9h+yAIIigXNkSRCldqs8=",
-                "mac": "nSWV71fG92XGg5mK62m3Yw=="
+                "orig": "\\c[3]Bulletin Board\\c[0]",
+                "text": "\\c[3]Panneau d'affichage\\c[0]"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/46/settings/event/3/message": {
-                "ciphertext": "CucqkRGUDqk3E0+iul0FPqORq65iTZ51Y/GIFOdvxHceCl5BhmSV8KtfS8ni305I",
-                "mac": "j4cS6FsZPekLPnwhnNrsNA=="
+                "orig": "Whoa... such a crowded place.",
+                "text": "Ouah... y a tellement de monde ici !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/47/settings/text": {
-                "ciphertext": "+GAsy/T4llgI5gN2l5yUY7LQh8vs59+khYkzhc1OIYw=",
-                "mac": "/XItBvPwClkw/PZAfjgQHg=="
+                "orig": "Wilson the cactus",
+                "text": "Wilson le cactus"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/48/settings/text": {
-                "ciphertext": "qImFWrE9RnEtBuY+DwdDLK99s46AM44cDBPArbRCe8M=",
-                "mac": "hSQVsvieeqLWk0v6hQHfNg=="
+                "orig": "Bertha Bogenhanf",
+                "text": "Bertha Bogenhanf"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/49/settings/text": {
-                "ciphertext": "bc1ZVMDGN7VhQQG4F9erNGsPepMP2duquJtVEKIGUec=",
-                "mac": "ZpSYuWA2XR1stEBe156LQQ=="
+                "orig": "A map of CrossWorlds",
+                "text": "Une carte de CrossWorlds"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/analyzable/text": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/0/event/1/name": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/0/event/2/message": {
-                "ciphertext": "r8/l+vIKBfxyrWIGTP/9+bWPap6YDMUaIHOZ0camod7WqFzZdd0x+iudsGOSAlBLEJceo4cl+Ibf0pc8Td+I0o+WdGeXKR4q8JLFZWx2TClHwXohjgtiQBD1dN5ixlpxL4q15hUzWOzRkTBX7E97Z6y+QRiEg46Bp6dWSDFE5EKtT18cdqkZb3z9KJPttwh4",
-                "mac": "ob24z/wfQS17g01CP/XHhw=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. We should talk after you have gotten your briefing upstairs.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Nous devrions discuter après que vous ayez participé à la présentation d'introduction à l'étage."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/1/name": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/15/name": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/16/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/17/message": {
-                "ciphertext": "COTaQxgWsZGQ9Rg3XvCz1vo/J1obB0yVNv1qXzRMNk6wYx+fqxWuTQAcpZgShgRv1I5Kt69sc0snCOkqa5eUq6fIHpkZ15wEz/U7lyfDSZKWpoFsk5QDBDUOGYxcZDQAUz/Psdo+Qv5fDajQnxDAeSvju8oFb8Ybs5hPjz+Ub3nZ54zas9i2l3bnWm3GdJmH",
-                "mac": "GB0jQJB5unSM0RzXW0YjqQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/18/message": {
-                "ciphertext": "t70EmaIqI79NRiODr6v+KebuxzFpNN4zIC2N1fkToHQNu/oFMUx8qFTPOiVkflk0jetepLoX7nM4SwPfQr1y4Agy3tjgCjk0jbbImlgSqkYkhY7UXN7L2wGLnhl5+ubdxBEloIfaQy1+TI1dHNSNRkESBtuBnU8TTFjZWfexAEw=",
-                "mac": "VtDvzBBWK3VCuCdLHOv9rQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/19/message": {
-                "ciphertext": "+6nEDDbN0IDSevNvaXDSx8K/5t7XWXjoYhMQ67FKqDsreDU2c9pNZLvwyRPkk+HXbBUuLCGy4U01dykuH4ukHZTXptse/IWfzQpJn5/t42ygP3J0fg007cpXDGQ/Xlyr0ih6sRMGEc+k3xRwGwZnFw==",
-                "mac": "nLhtmQxROC0q/0vhpdOegA=="
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "Hee430wUe86Lk6Ud3SN9s8+BeprXSk/eZpVtXI9Pa4cnpVeTi9u8udXXD6jz31qQ1ks2lFd861pKNc5P2fPsvRtv+6PAe2SxORzCGINj9T2I2hv75E8XH37QhtTRL2bzuiAYO5VwE4ZYx2vGtp7qE2a0dclOerbKKHjFKaDIrZg=",
-                "mac": "MhDTx9lm52GV+la1RsCCNA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/1/message": {
-                "ciphertext": "l2IyCLt1UgB9KZt8jYMowrWRmqOy2pHhWQSvcUOUPO5UyByHruh5P2hYe3a4dQ0F+vwwaqS9viDNlfOW8xoOPToMYwWzR5fhtzTg3hW3LBc6oISqBtsmOL7y5Dyt5MCN0k7hOB9sf6PQXvwoWW2/KQ==",
-                "mac": "51Yd+9kDFn3Kjo0/M52qfw=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/2/message": {
-                "ciphertext": "CC79/VhWvy05mmR+DhCoQn/UrudZZ0FT2TgdZ7nFXN5ooKJPt+J2gC/zSJMDNk3SllfxUJzTDWCNr2aCHYgfydBE347/vL0/WsEa6TVW6ww4+XZYmirOt+P0B0G4wXBjPJ336rGPrsvk8XWiIQBri1ZlGsi9LXe6lf/4uRB2VU0=",
-                "mac": "4RkIcAM5rMeoaQpu6Q79GQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/3/message": {
-                "ciphertext": "FmF8PNpi/42KskkIIA5i3h7KTzkR/altWRSgqB+Cyjqn6TfOBuK1vCV2d5a/voKkM1kTQoaOSdJBeNVQNFBom8jfgUgV5xBDFngvyks7579UM5cWDWOf88jfydqSB9ceFaFcz5g3owZLp49zbqMTFwsExIGEw2khIqILQmkI5qtaVbrNxVkcXH6F4StCqOTqJGrbAxHQqb4knddcFUZEpbH70MIVHNhgSt9PpEQ+Hs4=",
-                "mac": "q538rOvuEp06NtaQa7rkrw=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/4/message": {
-                "ciphertext": "l9mcIQpc2J8mke1/AxHdG+rcfsIAWF3tlRG3LtMcc666QFepdpyqefD8453RYX8zl8zrJCqGjqudi+FEzAIl+1lmzQq/xQ/PrEuyCe5rd5B9lS5agSbP38W+WHDds2wE",
-                "mac": "PHHN9s0YYxaf4XFCHiw3NQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/6/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/declined/1/message": {
-                "ciphertext": "CJ4xXIMGyX/GTobtUD9PRtmMRS7V+3OFiqJDPA6G328oFeg1tounaOMl8gdkuuqh",
-                "mac": "guAdzoYZKa6h2vi3KZuM3Q==",
-                "ciphernote": "qmR4UXVPJqWB65OtH77VwJTShcDMGJP7OiqPieJiAIYPrCnV5XraU1He6y3gBNCcXaNNjBLVdG2vhYCSmvRrlA=="
-        },
-        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/declined/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Greetings, \\v[lore.title.seeker]. I see that you have completed the introduction to \\v[lore.title.operation-trackwalker].",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Je vois que vous avec terminé l'introduction à l'\\v[lore.title.operation-trackwalker]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "T3VDaMiZp4JbrPLHVoLpNQmcAP1jkx++osJqJYdM4czpRnkKGS2K1/U+mk/epAe0UZCJlheppRybQAS/hk2jVmdVuGVTjUb4T7+16htHjQDmXunQpPG5LHGQ7T5UhoFnYaN911B56jydlABBSgK/KNVBtFnayEUq/Oh9L7CE4V4QEGFKvRQZMSvlz+aOtM9A/bNLCmGNPO+36VT4S26+9y3O/WrxZpES8uLXmmg5w7k=",
-                "mac": "BW6B3uAkay+3jk9QIKozYQ=="
+                "orig": "Thus you are now also qualified to use your abilities as a \\v[lore.title.seeker] to assist the \\c[3]4 factions\\c[0] in their duties.",
+                "text": "Grâce à cela, vous êtes maintenant qualifié pour utiliser vos capacités de \\v[lore.title.seeker] pour soutenir les \\c[3]4 factions\\c[0] dans leurs tâches."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "f0C3QBK8n+CVT6wlvqyyrhq3Unpi21VVtTzlf68zn/PI/JRbatTN9MsnrDEjW+s+76iWDrM2pTXwemH7KyKotJg2dgu7T1PmFZLX7TmHv35lw5qKaYAUSoTmA/XAEVei1HCBrU22DQHqAbAz8N/RW8FTYXvt6ip21UNknDMiMVEqiWnUY72WHwAx1Qo6YYhDV5DoOCcdoTK+qmrqmWi66g==",
-                "mac": "+c9flfP5/jrQiYBVM3Xj4g=="
+                "orig": "They are organizations that secure humanity's survival and prosperity through their special fields of expertise.",
+                "text": "Ce sont des organisations qui assurent la survie et la prospérité de l'humanité à travers leurs expertises dans chacun de leurs domaines de prédilection."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "J1cuiFQOsttxb8BY95+YxUxtrJ1tHM7NE2w/SUOwqDZ35K3ru8Ry3pZNrkXOK//jJrjmd4jxn02kk6CcoC2qy61Nx87PDkZlp8rVtfbzA9lpKaoDaOX1ODqyVh/xJSiH",
-                "mac": "bHuh/+Ay0HftrWPRTjMyDg=="
+                "orig": "More detailed information can be accessed in the terminal behind you.",
+                "text": "Vous pouvez obtenir plus d'information grâce au terminal qui se trouve derrière vous."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/15/name": {
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/16/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/17/message": {
+                "orig": "For now you should know that each faction has a subdivision in \\v[area.rookie-harbor.name], like in every settlement.",
+                "text": "Pour l'instant, vous devriez savoir que chaque faction possède une sous-division à \\v[area.rookie-harbor.name], comme dans chaque colonie."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/18/message": {
+                "orig": "To better understand our society and your place in it, you should get introduced to all of them.",
+                "text": "Pour mieux comprendre notre société et la place que vous pouvez y avoir, vous devriez vous présenter à chacun d'eux."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/19/message": {
+                "orig": "For this purpose I will now issue an official assignment.\\. Please accept.",
+                "text": "Pour cette raison, je vais maintenant vous proposer une mission officielle.\\. Je vous prie d'accepter."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/1/message": {
+                "orig": "Good.\\. Visit the representative of every faction in \\v[area.autumn-area.name] and introduce yourself.",
+                "text": "Bien.\\. Visitez le représentant de chaque faction à \\v[area.autumn-area.name] et présentez-vous."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/2/message": {
+                "orig": "Most of them can be found in their respective headquarters \\c[3]near the market or the western entrance\\c[0].",
+                "text": "La plupart d'entre eux se trouvent dans leurs quartiers généraux \\c[3]près du marché ou de l'entrée ouest\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/3/message": {
+                "orig": "Though the HQ of the CTC is still inaccessible to new \\v[lore.title.seeker]s, their ambassador can be found \\c[3]just outside this building\\c[0].",
+                "text": "Bien que le quartier général de la CMC est encore inaccessible aux nouveaux \\v[lore.title.seeker]s, leur ambassadeur se trouve \\c[3]juste dehors, devant ce bâtiment\\c[0]."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/4/message": {
+                "orig": "Once you have visited all of them, return to me to get your reward.",
+                "text": "Une fois que vous les aurez toutes visitées, revenez me voir pour obtenir votre récompense."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/accepted/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/declined/1/message": {
+                "orig": "Please accept\\v[tmp.plsAccept]",
+                "text": "Je vous prie d'accepter \\v[tmp.plsAccept]",
+                "note": "what's this variable ? seems only set to '!' or maybe unset."
+        },
+        "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/1/event/quest/22/declined/2/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/2/event/1/name": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/2/event/2/message": {
-                "ciphertext": "nihDR9adrWJ4t7qf1nGGqno3/Nnb/kJMhJCY2aJd2JToJ4wpsAcPaxbRM0QO1CHC764/afL3SdvGFCcIr32jtK5h56EefRuw90ej4wCOS7icesGa3slzFDEHzIJ9FML+",
-                "mac": "i5fWCsrjz0xuvW75xT5Byw=="
+                "orig": "Visit the representative of every faction in \\v[area.autumn-area.name] and introduce yourself.",
+                "text": "Visitez le représentant de chaque faction à \\v[area.autumn-area.name] et présentez-vous."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/2/event/3/message": {
-                "ciphertext": "yXisbzl1QEklQY4yO365n0S9MPYMil5hlj0gMB6gwdKyFc7E6D3nYlNiMCPvsVs7LwCFh8aUbQob++6iSOBq0mrAcyg5F8ZVJr8ouWO3KhlLdSxqPFjUrxN+tOLLtSYoiFlMxDyQiVNlNx/l9+tcJAteb/5nLJTxxzamwIULyzc=",
-                "mac": "1QW9HRF4N9yf7Clujo81Sw=="
+                "orig": "Most of them can be found in their respective headquarters near the market or the western entrance.",
+                "text": "Vous trouverez la plupart d'entre eux dans leurs quartiers généraux respectifs près du marché ou de l'entrée ouest."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/2/event/4/message": {
-                "ciphertext": "FmF8PNpi/42KskkIIA5i3h7KTzkR/altWRSgqB+Cyjqn6TfOBuK1vCV2d5a/voKkM1kTQoaOSdJBeNVQNFBom8jfgUgV5xBDFngvyks7579UM5cWDWOf88jfydqSB9ceFaFcz5g3owZLp49zbqMTFwsExIGEw2khIqILQmkI5qtaVbrNxVkcXH6F4StCqOTqJGrbAxHQqb4knddcFUZEpbH70MIVHNhgSt9PpEQ+Hs4=",
-                "mac": "q538rOvuEp06NtaQa7rkrw=="
+                "orig": "Though the HQ of the CTC is still inaccessible to new \\v[lore.title.seeker]s, their ambassador can be found \\c[3]just outside this building\\c[0].",
+                "text": "Bien que le quartier général de la CMC est encore inaccessible aux nouveaux \\v[lore.title.seeker]s, leur ambassadeur se trouve \\c[3]juste dehors, devant ce bâtiment\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/2/event/5/message": {
-                "ciphertext": "l9mcIQpc2J8mke1/AxHdG+rcfsIAWF3tlRG3LtMcc666QFepdpyqefD8453RYX8zl8zrJCqGjqudi+FEzAIl+1lmzQq/xQ/PrEuyCe5rd5B9lS5agSbP38W+WHDds2wE",
-                "mac": "PHHN9s0YYxaf4XFCHiw3NQ=="
+                "orig": "Once you have visited all of them, return to me to get your reward.",
+                "text": "Une fois que vous les aurez toutes visitées, revenez me voir pour obtenir votre récompense."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/1/name": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "nEeE3mfD5vRGXmD/CQnm8x0MbtnUw4S/uWXJclhNIH9wfL3KeEdjOYxOUiLTyVNye1JtAXY6F+Of46ZVzsC22oBCzcSntjZbzu6hgA8Z4IUrjyvu9fmpplmGpeN36gDU",
-                "mac": "tlEdM54bNKgpQWf1Lb6hvg=="
+                "orig": "You have visited all of the factions in \\v[area.rookie-harbor.name]. Excellent.",
+                "text": "Vous avez visité toutes les factions de \\v[area.rookie-harbor.name]. Excellent."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "ZvyCn/vrv2CF4tMHxJ53kz3rPG/yqsCXqipUm/pmefjB18K6spFIHlXDdoB8Wj6R6Ik6wRqr+za6RycIAArd/JicPxG08KJgVc8wuImyt9JXwlAzjLXb/OFirCNGTvkxP9kdm86hpriGZPahSlYSFe5c7vzg8rlp/r7dEjlOewtHwGU8bQULAjA6CqX8TW0f",
-                "mac": "zX4r19upOQ4AaaDMACqa6A=="
+                "orig": "I hope you now understand how you can help humanity, besides solving the \\v[lore.title.track-of-ancients].",
+                "text": "J'espère que vous comprenez maintenant comment vous pouvez aider l'humanité, autrement qu'en résolvant le \\v[lore.title.track-of-ancients]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "/BrWwrBR5pTGTrthCEBRgnuWFCDu/uqomvw+KityQB6M+f4cVBEn4NK9aM4DktRQpWHOw23yWQxl217Rca94AACsbjwfilNGLsYXc0svGcilCx8ebXlk4WrTG+4/3zYj",
-                "mac": "tiUzx3r/j54PW/Vcf0KvwA=="
+                "orig": "And remember that they might have new tasks available for you as time goes on.",
+                "text": "Et souvenez-vous que, avec le temps, ils peuvent avoir de nouvelles tâches à vous donner."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "7cv3I06nhWHhoTLvmWY+bsjoE3VYxTkdMbqK3/LR5X5NnNDPT9St2Fpgb+h6OFxnam5lJlLlqg6+njDxr3kJ+HPvbkDwgFFtFIZD/urpAgs=",
-                "mac": "AebaoM6+omW8t0eutmvAAg=="
+                "orig": "So you should return and offer your help as you progress further.",
+                "text": "Donc vous devriez revenir de temps en temps pour pouvoir offrir votre aide."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/7/message": {
-                "ciphertext": "tpRra10GgWkfQnBVljpSMSEfxMlC0GsbJ5Cwc87NgmWwcCIn6ugYNljIstkWPu6arkj4+67Be58hRfx+dvS9tQgHmQJNR1nknNf8MR9ElgO3qrfHeSKa18YEXi7hYba4p53Rot95qgSagDofKd7o9zivtqfLz7lf1O0y2qlU/WU=",
-                "mac": "dbrxxV1rBSg8HeKf7/Q70w=="
+                "orig": "But for now take these rewards as a gesture from the \\v[lore.title.human-government].",
+                "text": "Mais pour le moment, je vais vous remettre cette récompense, en tant que geste de la part des \\v[lore.title.human-government]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/3/event/quest/8/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/4/event/1/name": {
-                "ciphertext": "9p8x0GfnL3VXVYZQTvjEMWEiVHWtVQOWsg1y2c3Ep90=",
-                "mac": "dHp3v9TYwru+lwx5P3SUlA=="
+                "orig": "Faction Advisor",
+                "text": "Conseiller Factions"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/4/event/2/message": {
-                "ciphertext": "EkqvDLhMQGS6v3YnSg3Et/2eS7jbupIjChRHiw03KYUtZRK4tgxG7skLrT5fi04l",
-                "mac": "bfpkwnRd/1vBBcnuX7HPBA=="
+                "orig": "Greetings, \\v[lore.title.seeker].",
+                "text": "Bienvenue, \\v[lore.title.seeker]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/4/event/3/message": {
-                "ciphertext": "IkNlpA5K/ZMnDfcSi4LwXWA7gf20Q4KqyWdop7SxnI6HEoxIwYiShrBX6VQEGnLPI+dNj+lyoJbCG4axoPYcQEbJ+Dt5rD1k8uuPTMf5Z5VtyrNtz3xpFi2ybgq4dPmfmO2paonUYy90+9GdSkmaKw==",
-                "mac": "h8+Vi/R+ghJBrLjr1Usxqg=="
+                "orig": "Remember that all factions might have new tasks available for you as time goes on.",
+                "text": "Souvenez-vous que, avec le temps, toutes les factions peuvent avoir de nouvelles tâches à vous confier."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/55/settings/npcStates/4/event/4/message": {
-                "ciphertext": "PoGxgUhhmByv+8Va87KyT4j/TyRt/r0dNGtmvqFXFofz+yk23904mz7/qPDh/mWYJxoEggVDiEpivp+y56WlmfwdlltOno5Ymf825UZXirA=",
-                "mac": "vtlZs2MRW6T5ju91TCNSdA=="
+                "orig": "So you should return to offer your help as you progress.",
+                "text": "Donc vous devriez revenir de temps en temps pour pouvoir offrir votre aide."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/75/settings/dialog/0/text": {
-                "ciphertext": "/sJubyB3q7IAlzr0mK09ftx+qklzQsNM1PEFLat2EOU=",
-                "mac": "BvQF1RfovCBJf1djZv6G2A=="
+                "orig": "That's such a cute little cactus~",
+                "text": "C'est un si joli petit cactus~"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/75/settings/dialog/1/text": {
-                "ciphertext": "UrA7bu/NDzEryvmmAHzLfZb9aYHKKlvT6eH2rVvRMz4+uwOmbkfNN2ETMljY9MXMIW6QFuFG+ZyVT6GMOCGDDQ==",
-                "mac": "4xh0ohDk72OMgm8q7oFfmw=="
+                "orig": "Look! I think it's starting to blossom!",
+                "text": "Regarde ! Je crois qu'il est en train de fleurir !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/75/settings/dialog/2/text": {
-                "ciphertext": "B9fKhO0kTisHp4f8iFowuQ==",
-                "mac": "YDsCiVmBnVKG9hdSaZMVbA=="
+                "orig": "That's great.",
+                "text": "C'est cool."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/75/settings/dialog/3/text": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/75/settings/dialog/4/text": {
-                "ciphertext": "7HaReaCjif3w6UYKJh337+zZr59Gpfp7UkVMutz49iQWVFK9dNS/DEKwqFtXL+LRsatMXH5sqUr4ezJyMMT1pTf/IfC/fzN5WHss6Wl2GqU=",
-                "mac": "XgmoNd9txcGelFAYWfOrNA=="
+                "orig": "Do you really have to sit on the table to watch it?",
+                "text": "T'es vraiment obligée de t'assoir sur la table pour le regarder ?"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/78/settings/dialog/0/text": {
-                "ciphertext": "2KGRHYcicgmk/tCEDa2g3lLnpl0m4324hL1adFDtCVY=",
-                "mac": "WBTy1ei6rN5I3345P8uk0w=="
+                "orig": "C'mon, I want to go!",
+                "text": "Allez, je veux y aller !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/78/settings/dialog/1/text": {
-                "ciphertext": "KAnPBAcYZB7VfOPYYmiKZguclvyN1ODlefNaQ5ENEaY=",
-                "mac": "Sceo8sW+Ts/9bIIREwwesw=="
+                "orig": "Hush. I almost got it.",
+                "text": "Chut ! J'y suis presque."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/78/settings/dialog/2/text": {
-                "ciphertext": "Gj3x/D8hAaeEETKLBcoW8E//GYr/diCGStv39IqV3kpmI55j+g8i+XDI55ucpdx7",
-                "mac": "E+AaZpx5OsTy0OAwUwfeeg=="
+                "orig": "You already said that 5 minutes ago!",
+                "text": "Tu disais déjà ça il y a 5 minutes !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/78/settings/dialog/3/text": {
-                "ciphertext": "ePk1nptswxiYGVO3M0cgdWAxN+2ibRrs8ALtWfpTWv1J5PKVcV8zCmCCddkzC7GBtnwfdNfhGKkwxOKUkoYXaQ==",
-                "mac": "IIz8Y7r8sAsk/AOZi1B+Hg=="
+                "orig": "Blame that messed up search interface.",
+                "text": "Va dire ça à cette interface de recherche mal foutue !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/79/settings/npcStates/1/event/2/message": {
-                "ciphertext": "PoDc2TJ+bbS6fqnXQ1Y3oNalFpcr/PohhoZCzy8UXsTxmB/PFZhzqEpaH5+gIT4X",
-                "mac": "SvywHBo6aB16vheRXbi8BA=="
+                "orig": "You look confused, Seeker.",
+                "text": "Vous semblez confus, \\v[lore.title.seeker]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/79/settings/npcStates/1/event/3/message": {
-                "ciphertext": "TaUEu2nUAtWW5/QhoAdIXCXvIBIW6zBMzsJLZV1qH4SWniCcBKCQ/A9Rj8B35ej1bd1Rd7Y8mycsHd7UKHnen56OBSxNsR9+EIkLOLvrHPjHpHwJjIV8fsIJlT92jPCj8U+7rshF0rMw9jFNXzld+63PZvxCo997bPngiDowRR9ArAYCmtEB6Xy6eJ6Nt8Q+",
-                "mac": "ztg8DOOMiYO0jpSA6dtz/g=="
+                "orig": "What you see here is the \\c[3]Bulletin Board\\c[0]. You can use it to see \\c[3]open quests in this area\\c[0].",
+                "text": "Ce que vous voyez ici est le \\c[3]Panneau d'Affichage\\c[0]. Il vous montrera toutes les \\c[3]quêtes disponibles dans cette zone\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/79/settings/npcStates/1/event/4/thenStep/0/message": {
-                "ciphertext": "KQMsXpHhVx94NH00IBxc1lqEvOnEeAaa9tHuHrMmhgSFspRGzOonXfRw5LbrNtOpppo2zfquc3CLxf7mEGuNPdE5OQVnAWXHQaKrkA0w1eARQEBWRCMhc9LMRgebwUfTil4YnZf/ueIs/Ggvdbdnnw==",
-                "mac": "C9SvpUX/54U5T0M0XDxwSQ=="
+                "orig": "If you want to know more about quests, I suggest you talk to my fellow advisors at the counter over there.",
+                "text": "Si vous voulez en savoir plus sur les quêtes, je vous conseille d'en parler avec mes collègues au comptoir."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/80/settings/dialog/0/text": {
-                "ciphertext": "sCwrTkscpAQRpN7I9UdJotlhV1k3Y1pL+vbRlxDS6tJ56euXLpw5oV+M3dmGhynRwBH5YAOI374RSeYT3K7KBESwoDVMrkj2Bz0YuDVAtmbbEIThOYDb8iGLlLh4eoLw+0MW14qavp/fREjoUmmzIQzw5VfHHXyLHXwVUstYK/E=",
-                "mac": "vFK7lma2C5cyG76nwibFaQ=="
+                "orig": "All new recruits, please go to the \\c[3]upper floor\\c[0] for the introductory briefing.",
+                "text": "Toutes les nouvelles recrues sont priées de se rendre \\c[3]à l'étage\\c[0] pour la présentation d'introduction."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/analyzable/text": {
-                "ciphertext": "SPBzoJVe5Ey1L67HZJJ9MtVmLNwdQPd1hr4gf0O1f8Q=",
-                "mac": "jNJVUB2PmNjlMbXwc7w0Uw=="
+                "orig": "Training Advisor",
+                "text": "Conseiller Formation"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/0/event/1/name": {
-                "ciphertext": "SPBzoJVe5Ey1L67HZJJ9MtVmLNwdQPd1hr4gf0O1f8Q=",
-                "mac": "jNJVUB2PmNjlMbXwc7w0Uw=="
+                "orig": "Training Advisor",
+                "text": "Conseiller Formation"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/0/event/2/message": {
-                "ciphertext": "I0oM1lTi2Ok0Ud8ktJKSE7nSh1+2brpNi3lwo1RE4k5jruvB9XGs6LFjBBR/oROCnVmDGyZt4ZSFdsoXYCXI3MPEdizoLlWxVVSeyFMEVR4vLuRl8sbvH5Zzmbf7fpbMHc2jj6fX1zcR788TP8pUUw==",
-                "mac": "hjIa4WDUEs799XSipT5aYQ=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. We should talk after you have completed your briefing upstairs.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Nous devrions nous parler après que vous ayez suivi la présentation."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/1/event/1/name": {
-                "ciphertext": "SPBzoJVe5Ey1L67HZJJ9MtVmLNwdQPd1hr4gf0O1f8Q=",
-                "mac": "jNJVUB2PmNjlMbXwc7w0Uw=="
+                "orig": "Training Advisor",
+                "text": "Conseiller Formation"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/1/event/2/message": {
-                "ciphertext": "Hee430wUe86Lk6Ud3SN9s8+BeprXSk/eZpVtXI9Pa4cnpVeTi9u8udXXD6jz31qQgCsZ+NsIYID/VWfSYykaH6vNLSSwRzlQlAaSFsbWkA7RAVrmZXaqY+MWmRTxs74ortXNWG+/aUH5ddHuzfdDOBOANbWZhcTN0fSS2PQt5kM=",
-                "mac": "oafuYC+AlVqmvE3KtrT+kQ=="
+                "orig": "Greetings, \\v[lore.title.seeker]. I see that you have completed the introduction to \\v[lore.title.operation-trackwalker].",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Je vois que vous avez terminé l'introduction à \\v[lore.title.operation-trackwalker]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/1/event/3/message": {
-                "ciphertext": "J8ogQqykFduGHsZ+ZpZE1N/iB0JYxK7i4pdo5QFFVFgNZNxcxzav67VFRnAN8wKlmpuSZR+XbNYMmCEYOPDHoOaf9bqrcsMY4tk2TsVhFMvuXvAHWUpNEDQ7wg1bXIRgRH/mwuAUfeKbRHsoxaqobNh8D3GRouwr0JxHQNW9f4LzNsVdsfqx2kORFvkiXdweke5LHtVNMl/buFZwKBsb4xN4iOauJ4dzNV9A3OGljFM=",
-                "mac": "Kv/WEkPfFHLN9xkYdwJyQQ=="
+                "orig": "To become the best \\c[3]Seeker\\c[0] you can be, we host a famous Teacher here in Rookie Harbor: \\c[3]Master Sensei\\c[0].",
+                "text": "Pour dévoiler tout votre potentiel de \\c[3]\\v[lore.title.seeker]\\c[0], nous avons invité un professeur célèbre ici à Rookie Harbor : \\c[3]Maitre Sensei\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/1/event/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/1/event/5/message": {
-                "ciphertext": "WK1G6ltKdb91aOswN6LsEDtc6lT/eslPvZaWRvUmjg4X80xSga6hBW1iwnVhCs5dvoI5itEi6SBaEjt/7OV4PPg0VjBXBtM5oet7x7s3U662c1Wnumb4NVgxm1OWn5LK/XwblHi1uxgzF6vt3rY6IheQjJ4Aq6DcxDQxOCs456Q=",
-                "mac": "5c3N2BLYqIRPtfd+zYkHbA=="
+                "orig": "He can teach you everything you need to know and more. Once you have mastered both the \\c[3]Heat\\c[0] and \\c[3]Cold\\c[0] elements, please find him in  \\c[3]\\v[area.rookie-harbor.name] - Info Hub Dojo\\c[0]!",
+                "text": "Il vous apprendra tout ce dont vous avez besoin et bien plus. Vous pouvez le trouver au \\c[3]Dojo du Point d'Information\\c[0]."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/1/event/6/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/2/event/1/name": {
-                "ciphertext": "SPBzoJVe5Ey1L67HZJJ9MtVmLNwdQPd1hr4gf0O1f8Q=",
-                "mac": "jNJVUB2PmNjlMbXwc7w0Uw=="
+                "orig": "Training Advisor",
+                "text": "Conseiller Formation"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/2/event/2/message": {
-                "ciphertext": "Dxcz6H8chPfqb0Oggz/kEkmJcsBF6KaG8mUhQoQjBHWgCxZhbLK/P7L1Z0d4kt4h3p6tXOLCJm4aQ0sTKbYe7w/4x+eZWk0pNhIsXoXh+UVgvAB+UIFpnIfwxwKefn1mS3WWCuG84jJK7sIwOvDY5g==",
-                "mac": "+lIzCcnRGFEWz+g2t3wAXQ=="
+                "orig": "Congratulations on mastering your Seeker abilities with Master Sensei.",
+                "text": "Félicitation pour avoir prouvé votre maitrise de vos capacités de \\v[lore.title.seeker] avec Maitre Sensei."
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/89/settings/npcStates/2/event/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/central-quest-hub.json/entities/91/settings/event/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/22/message": {
-                "ciphertext": "opKphUhFvTHPJM4We7DBji3IIYFfVSFdAynqzqVnT6PTOkUtTf5HSRJuXcR7D3PNJZ/WgITD4oV5cxtyVp2cLnSjFY531QCKOZw+PPk8Lal0nbya61+NcQ8m4Vu1syP0Vlz4G8ZMmprEYvWXe1oB5rnswscBJouJ7Yk9f+guILlr9+v9Q2mqJkdDYfU/fw9wGlL1M5nS9ehcSOprOftj+w==",
-                "mac": "N1+WJCTjJOuYMKhIL8TBLw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/23/message": {
-                "ciphertext": "eumzbIrfWeZZVb1uijy7nYkW8O11K/M7WqHVEkk0QBpUltz/DghCwhkSJVx7AlC2iV1qBdVJgZdvbQoRkx9PTTCnJhWlyzpVPGDL9BMJx7p9/DAzEvvJUeF1mqSZmiMP9O/3toDr6y49QtIqc/EvhXSIS+ceDLMXTLSCI09ILFEf4JW1hMpMrIgx6hH8/s1F",
-                "mac": "KulrOWngcMkez4ag1RNklA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/24/message": {
-                "ciphertext": "IOeAgn8AQqsx5tKjs+o/kSksI3SDJo/TUMR9OewUeOEXs7802TqeMMnpi5InyKLESjSF49T2LEm+wd0vhoxpz4n+0J9aPIV895MvOg1dCjarRnAmfzq5aKPqzPa4Ux6On79GoRTRi0BF+azjdO/qjw==",
-                "mac": "/un9/RPO+c5CLqX9FnV6sg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/33/message": {
-                "ciphertext": "16VtpwBuHNQy3pzrPdxKi8lCjVOCswtcJKWgtyBEgUJVo8IEX8xck6iTEiiLBHeD",
-                "mac": "PGmLyfJiYRoe0VsHSx3Jag=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/37/object": {
-                "ciphertext": "9lwveoNyMgYJw7VRJjLorO040lQ+mnWMAb6hCuyXtno=",
-                "mac": "o2s3OmFTj8Ma5F0XrSJFJA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/41/message": {
-                "ciphertext": "72zCggxisJMOvaVTfJaUY3rcn64VMwhOwKdJvBHSV89Tgwxw6JWzTU+qAJoaDY7hdDWXp4z3k1VuSYMTmvpqI467DOmbgH58R1NBlyaYcBk5mkE8J+iueFtC15mYLqBY",
-                "mac": "MdjRIiqaVB3nG7XoaR8lMw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/42/message": {
-                "ciphertext": "cHISYLIb4WbYKaL31gcqT1vwHKLfK4qTZvAeuc90X3OawmidT+FWfb8+U00Wuyo6UNDQoyKY5HtNvfnawaxJT3NBCkIuyHgO5cb4NHY3TR03s+GCa1dzufLW5d/JuEyqySaChs5xZ0O67JGQg/c9Jg==",
-                "mac": "6t3y1sbCQUhuHeCru0v/Wg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/43/message": {
-                "ciphertext": "XytzEgCaqCx2EuxCDuVXvQ==",
-                "mac": "JOnNSh+KIHeEO/sp0aPllg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/44/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/8/message": {
-                "ciphertext": "/awyvcrPj+OkM5AqWs4luEHyFNu23n1I7B4IOLKkdK48NrlEWr47GhnU+tZ5rTTS",
-                "mac": "2h6F18mWHaf80tLlfUgxdQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/9/message": {
-                "ciphertext": "1Bp+PDbnV64ctd7dhZFMakhG1o1QBVMv4Gi0YbZrXVxKTZwxSOFCdrjROXtulOMhq2fZTqS+jjXRHd2LXGer3YTyenshWIT6bE0ZHJHl0/oYBtWh8ucdSkihE+IDRHPy",
-                "mac": "N2IACdmpQjTB3UGTNbsB3g=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/22/message": {
-                "ciphertext": "deTLH7qE/uap+lxQw74FRMpJ+WGeNv200HKNdcGORbl1CbJApwbItgI1GH7+cMz44I59AM99lPm/1yVT0G719hGmTNa62wjyTnI3z48TtLcfKFqjrG2veP6LI0YiOAeWR/1qFFFnyXbL+ruQb/08+/VfwfVCwSStbS3cIXw1vwjS5/gaB77lR/K2i8Bo89fzB3n7K+Ze774ziriCRgpRCLVcWg0U/56Jeb1DLmIMyq4=",
-                "mac": "KULu8LypUceFhHB3+C+fIw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/23/message": {
-                "ciphertext": "mqGLG32eUaCKuGH0Adrotl4lHUgeMZpeY7QXru+ml6ZIlrl/yuxWq1Rx6xusidYe+WTBDciumRpiPXf2i4odIcPh0duvxb+4zEEdo6FnbRjVx2B7ohnz0RJ51G7drmjElVyk8cGulEwJkJSIs1yrFUHT20E2dyvZFa9gcNh8Msr56fQwtphAiZqPSlRWpU5Z",
-                "mac": "kD5ThhQy3GcusMg2uJb2pQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/32/message": {
-                "ciphertext": "16VtpwBuHNQy3pzrPdxKi8lCjVOCswtcJKWgtyBEgUJVo8IEX8xck6iTEiiLBHeD",
-                "mac": "PGmLyfJiYRoe0VsHSx3Jag=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/36/object": {
-                "ciphertext": "9lwveoNyMgYJw7VRJjLorO040lQ+mnWMAb6hCuyXtno=",
-                "mac": "o2s3OmFTj8Ma5F0XrSJFJA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/40/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/8/message": {
-                "ciphertext": "/awyvcrPj+OkM5AqWs4luEHyFNu23n1I7B4IOLKkdK48NrlEWr47GhnU+tZ5rTTS",
-                "mac": "2h6F18mWHaf80tLlfUgxdQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/9/message": {
-                "ciphertext": "EkODkh7kIj+reT8QMlWfprrXITyJgYFzf/0CoIdgwVDSb0Vp5PaC+XMrlQaB5xX+fN+bc8kj7FSFUY6ZNi+5dV+3MnWaBcE2XgUCf4Chgs/LPzJITp/7tgXSH03IOI792i5uPp7W61FeqdDOsbPlPqzXXmwS4/FF7F/IEkSGBDA=",
-                "mac": "wWzFTgBx0ALgG367aBsXsA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/21/message": {
-                "ciphertext": "m+ygN9z7ates9CxAAfrOxXkCCB/p+6BwcwWzEg1pvDTQkwXPD2Y4sueKH956+1NOAkseTei0rYtvK2MeKdMtJY6zkHkYmNBARaQ/lYSxiSMTbUvoU/zXk0BJ3V/g5YnxgcF0jN+N3Vo9o3IWIDG7XlJdWOkxzfuTWGfZ6R1hbaYmguz5Qeuia61HbjvzR9MD",
-                "mac": "vnnYK2sJyYtkKGIff9wAJQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/22/message": {
-                "ciphertext": "43L6ET0Sl6yaeqO/CjtZghbmHPsKKTuR2x/Ue6mMZlzz7JrjBZecHzDV+Frob0n6fXwstxIsDSZOAlty3g2xcw==",
-                "mac": "ItJdtaCiiSovhbBkt8jG0Q=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/23/message": {
-                "ciphertext": "iyfPqhfWLpxHE/l0MCmWySwrdFdDCIWxRbrqpVYpeHS9vBce+IoAvJuPDPbtTsPOTIUsvdzcelhSlATVzMx3gP8KgLuWnAQ5KeYOZRo6Nvs=",
-                "mac": "Clz7TldCGXr3B/gV3Ov4wA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/24/message": {
-                "ciphertext": "p6S7BXw3mKIf4XAtkMNsbtkMc7Rc4QGAMgl7J5sb4ImF6oibi7HvmxG/VCnoyNi09qIkypmgtottFGLZFC92sH4JNwddOCTmmILSI/+hxNkdjyv4ssDKBuUIrsNhw7V6",
-                "mac": "bgTVcnTT4uJ1Q03UxvWiRg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/25/message": {
-                "ciphertext": "nSnKXVMybJ0yhVGBRdtbB2RoS8sf/HKLBn6uoHkkVEZ0cag/k7hx+2FVeqrK2UJiy5Op4jimL0sRV6r8zygzUlGu3cVcwTJ0vnmYagKSrdIDqWz0ijcgxJNkVDPuiJ4u3trrsqWrFLAFdj+9MK9FAXqToKKlhEG9DY9C1WLbAdQ=",
-                "mac": "Cx1GQXrhVLz63LMLgX0Ouw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/34/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/8/message": {
-                "ciphertext": "/awyvcrPj+OkM5AqWs4luEHyFNu23n1I7B4IOLKkdK48NrlEWr47GhnU+tZ5rTTS",
-                "mac": "2h6F18mWHaf80tLlfUgxdQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/10/message": {
-                "ciphertext": "jR5iKZImTTgjMusmRP8TTxEX4z7mXKGi64VqVqy+ivmmeCj8BjJTnK0UGZo1DrTbbNEe4bfcEdQK24scgdgoUgzfsdqVvsizxElFfMmW80QmQIr59tdRiOCFGKXT+I0H",
-                "mac": "QVMQvKaAft9G+uen3iIviA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/23/message": {
-                "ciphertext": "nmPcDGvJL+KMF/iIkPxVXB1r0DaqZ7G630B2RzXbhy2p6wlGNicyY4t2LpcCTLPT2EEWAkPJVTTUfaAlz3Ehh3UGkWpr/VlcgBDAM+k2agyD9rr/0RFgp6z8WfgyBvUghFutlzw8kBsvEVaq/F+89RhS9bf+98lDzllN4XC2DTaocj3hUdbHnF1dIfPu2KnE3L26HEuVE5OXtSFrpR5CD7oBMq6w5E/E6Dl/VzC6Ec4=",
-                "mac": "/LuhzrXC3bL+9VwAE4qD/w==",
-                "ciphernote": "Q+/RFClfC3JrCtqZ+3XNBu9jxth9DSfGB3EvNm6RW0CmcE4a60vemMlcEN2cXtlqHv8FS34/7X8fS79n0tYlYw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/24/message": {
-                "ciphertext": "wSn0bcahLYp3ZaQ82Yxgf6sohfB+qAWreHYBt/YDbkOZ1Z8lbjPDCcvyNFEKuIjZO4BiT/GvasznUEEMfpwtMTnbLydndw8uu8Evcgheat21GsV/ZTmEYAXy5WZlQwdQ",
-                "mac": "1yzBbk90wZlf7hWYYGNumA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/33/message": {
-                "ciphertext": "16VtpwBuHNQy3pzrPdxKi8lCjVOCswtcJKWgtyBEgUJVo8IEX8xck6iTEiiLBHeD",
-                "mac": "PGmLyfJiYRoe0VsHSx3Jag=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/37/object": {
-                "ciphertext": "KQZIizdwhRSLvCzE2R/xm9QdaE+IlfbkVsKwlp/BDlY=",
-                "mac": "+Z56/uxg9ZmfnZf3ZyMncw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/41/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/8/message": {
-                "ciphertext": "/awyvcrPj+OkM5AqWs4luEHyFNu23n1I7B4IOLKkdK48NrlEWr47GhnU+tZ5rTTS",
-                "mac": "2h6F18mWHaf80tLlfUgxdQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/9/message": {
-                "ciphertext": "ZZbThKxpVMkBvB4pQbyBLM5IxqBbywp1Wg+loBhcB35FswujRWT3O5YWx/3GcBulgP7RzFeyjxrDVVDHYu6xfcSpeSfJBoKYxrO0T6ivKxTBYdXwGv/6GGvxH4BFbUitLjxTuiZbJO58D3fHuAfA0Ddu/CJyz/wkoojL22XJhvw=",
-                "mac": "eK9f3yW8kU1pH6H9wgzS7Q=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/10/message": {
-                "ciphertext": "Q3bgu8vBXJ7P5Z5U8Dlhse83lPujHK5RinGF5w27IB4=",
-                "mac": "YoU+gGSjGyRBpRrsmqbkng=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/11/message": {
-                "ciphertext": "a7fYpxcuEAok4gScNLdIuvpD4+I7LIe1R+lc9EdE3mDpEl17zDI4yMffLPQKR0opS5iRntLzOZFess65R9FP9Q==",
-                "mac": "b56caT4exsIEX6niSBxJ3A=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/12/message": {
-                "ciphertext": "eDZtvKTdLy5t1qAib0Yp2q4QupkP/Z0bqmCnxpoVmsSsdX2mKeKeToBMgcA/Gc/9/qS/SyuurSbTFz1jP1qShYHj4VMUl4ZSYvBgIfs87U9lEZNyEyfMRWdu2bWRk2x9DsIvYPfFttTDQhQR9I3XxmIdlpsIXV9MG6sncniimvQDTjpPkgWFrx1JFiry1oS4",
-                "mac": "TsIhe6zds3w/VGuuWRNuIQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/13/message": {
-                "ciphertext": "qlM0Oifh5hoku96Q/VsAgeKEkn6qf40VuY70wXDnQ4jvWYAdHvrMXRHcgt7qNPgde1Pe9ZzmZ90XXrukv6FcOPu54/cyEZQ5fziP3NR5bpU=",
-                "mac": "4KI9LiyiP7W446YRtPRx2g=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/14/message": {
-                "ciphertext": "HrBaex85+acSsupmprY+8/g7uhbw9K/D8sEMvSUgLAdjpxxcfpBfKIzellPglZm5qvUNWyyeMOdZj1pUtvbQm01tHxU774eNWW3Z33Z3/1U=",
-                "mac": "/n5qFhfJ7AL8mP1iiq3DmQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/15/message": {
-                "ciphertext": "x4v2w6Zc06WKNtePWtgz6q+9GfgyUWqd7MkYUhlcEUg=",
-                "mac": "GVEX7xT338fRM/XbB5JILw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/16/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/17/message": {
-                "ciphertext": "ZAlb7WruebimxTkrQlgCnSlZbVqQO3GBUHzo2dzEg3pIc/exGORKZ4EzkFrQiBMtMZPc+M+nKOhowalSa/2qeEgKWkLOusNlyZCPqd6D7KButXjtcivd/af/pHiYm2WSKVWceuD72hJigDIXKoBIDmKhV2z1REw0ZEa8wXCkT450daRr/jgloj8i7E+wEuI8gFT8Bbhr60hMKbGdD/k4vt6YizWCZvTArCunC2trlZDbOdONXRB75G8eziBMHgiZa67dbzuyMoxq1ejeQiqJ+Q==",
-                "mac": "vBig5c9V4UmZiY7M1AjpVA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/18/message": {
-                "ciphertext": "6fXx5RtfanhmKXm0U24sb96eNHvFsL0VDDNXFh+ERe4xH0U2wKDJDbM5lX1gSuK+gbG8qqkg6gPtoqFTXKvloI551Sf27IBnb37TgfjIKW4=",
-                "mac": "Lt5+XE8JKNNJd9pdcPYS9w=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/19/message": {
-                "ciphertext": "CXG45MEVvgVw4l4puCyeavrVeipGEpOvs5tQZWEzA5DduHZtfYrwPy1jLQTJZ8xJ5Z9eSeUFsmF1zPbfgz2mkeemKUxrSqt9zw2hPs7Wu0QV6c6G9Igmj+XQ1oiBbLFvX7jaZAZMIdKEiaQ0px78iA==",
-                "mac": "e7zvzzKD3xGp5BCE7buGWw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/32/message": {
-                "ciphertext": "ZXKscZHRERpmTRfS0ImoWa+wj4X9ynSORimcB+rNhjXyGK672NTOmojgs4rNyE9vkNgPbj84R55RuCSbIMXvnytIDmvLHbwa3o5AEnBDyMHuvMpcokZ+JCvDgtJfMf0hgMC3CV97BhrA7JzohZa+PMT3l2m7D8Jr/B0pTsoEDHU=",
-                "mac": "E8sVXO3lcf59fvERz/NTmg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/33/message": {
-                "ciphertext": "SrOKq7kbv1BTABS5kDry5f2ONeybuDqVWZE31YPiJzYVJhS92pVeodeQTULMUERCVzIM8OGA60rjSM+GISigCcWeaDYM4t7bsnklAC09s+KnIBQmp3FkBUEKBopIF3Bh9ENVGhk3okQOUwyCBZOkRg==",
-                "mac": "Qu/N04gF4Z+aQVxrkyuaRQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/34/message": {
-                "ciphertext": "dZQNsQqd62iZ1pgEowqpCaZqSsiMxFhvh8dPBfVvAPSMlY7BE1O6o/9OR0l2Ufl3NkqaZM/jb8BnrWgc+vm86uDVT+bd5TC9NszgNMwMH9cxvMsaXx6gg1GAtosKfA3sIOReRrsPiFT10qxwOd3WXGHnJOKbAxsrghAMPyHqwOM=",
-                "mac": "u6JX+ml5Ue6wJOOYywjuPg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/43/message": {
-                "ciphertext": "xBIBfv74fCll9H1Ln4oLcYKRVP0wUOL0lAkCZd5D4CEQPm0R6a7mLR3REO1P7CbtDeFPAFJG9MHgdCIrpFK8ZTEMqKnj9tI0EOJG0KHC7FE=",
-                "mac": "L3Gl6ZoPWZwF9au1XtyYdg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/47/object": {
-                "ciphertext": "KQZIizdwhRSLvCzE2R/xm9QdaE+IlfbkVsKwlp/BDlY=",
-                "mac": "+Z56/uxg9ZmfnZf3ZyMncw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/51/message": {
-                "ciphertext": "cn8DqGTqyGtVTp8FNw5HryT0NHE8X7SQ0IUyruGSDKiYCQirEymmsYS2pryMJAhzJ5BohMVdGG7CAHsrCC+pks5TJnSEZAYky8NR5fOr5L8Ficn3c+C+VH5jUgsFqXgf",
-                "mac": "RUWi7YG4I8oo5Bu85pSw0Q=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/52/message": {
-                "ciphertext": "whEZfBrskrg8NCLzK5sDbBfRs8tAYKDRhkoWa5ZRHlV4J7srhLIvFzRmNE/xEHmp4upE8tIUzvCzyife+KDFf53OvX5Bm7SsFO9gp26fj+G6dt7Pb8poGSXB6vjnFLaB",
-                "mac": "BxAQ3RVqQ8wiETh6RbvVsQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/53/message": {
-                "ciphertext": "FZ9Lgr++rU43Uf5YtapZ+koENCcFwlMHtTW1/L0N5x8FrP77jmVgXG8JpZzLt+FRj8rs4Y1xoBKCRZDe9cT5dnrfQe2PfbO2D+NB3km3i6s=",
-                "mac": "/eFb4Iq38MoIWrup9Qujqw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/10/thenStep/0/message": {
-                "ciphertext": "X56C7zWGGOhfUGi5kakmSNFxM853u66GRHQBmo3RG/Iw7MM78jmwinF64Jozwm9+E8SO0iZbBzlw7OS3OoRh1/dAewMdNMdpTSGJf2ZzaTYUxnHvDL/5h2vVC+IWFXXEwIU/i2I+RRNe94paa0Gl00jf82+1u0j6k8X3K67LGrz/d48Ye0hO0Fo76ZlwWpsm",
-                "mac": "r3n1kDbejzcnYaL5hO8JwQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/11/message": {
-                "ciphertext": "16VtpwBuHNQy3pzrPdxKi8lCjVOCswtcJKWgtyBEgUJVo8IEX8xck6iTEiiLBHeD",
-                "mac": "PGmLyfJiYRoe0VsHSx3Jag=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/15/object": {
-                "ciphertext": "9lwveoNyMgYJw7VRJjLorO040lQ+mnWMAb6hCuyXtno=",
-                "mac": "o2s3OmFTj8Ma5F0XrSJFJA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/19/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/8/message": {
-                "ciphertext": "/awyvcrPj+OkM5AqWs4luEHyFNu23n1I7B4IOLKkdK48NrlEWr47GhnU+tZ5rTTS",
-                "mac": "2h6F18mWHaf80tLlfUgxdQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/9/message": {
-                "ciphertext": "WMlpvnqZubhCfOt8zSjwk8Gi8rzVMiRqJZGMIk7TIseUcqsX91I020AjOaXD9+eqYtVOI9W+izAVNvnkO6G554C3DGYRURRM3iAI2j6MM1g3XTTAOxgqdzG9l8XBDaB3dogxnCDHafZfveywqvm5DbgVPGLy6iAn3Kw02opnXnH1/G0tc14xO0tOZWeLcAegbkayOEvOnwUHGJz6RSGhxQ==",
-                "mac": "N1+PeKRK2fTeE7qKp9vhBQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/10/thenStep/0/message": {
-                "ciphertext": "T0koB00waFiSWzEMGZPPrtrqZXqzxCfFcYeqBXWzaEgg7DGsN/zwGh7NbplqLj1oFemwgrreoWa/Y746WHtIsUTLPGM+vZogQqn3hiFpLcSFGs4ksPBDth0K+eDpqFZLH11899zb7bOcIUg+CjPM5ZsvRvY3NlsF7RNCt3PpRHTlbD30FZ29+RHQLvMAOsYe",
-                "mac": "hLiCeorzvkvqb2xyOiu76Q=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/11/message": {
-                "ciphertext": "16VtpwBuHNQy3pzrPdxKi8lCjVOCswtcJKWgtyBEgUJVo8IEX8xck6iTEiiLBHeD",
-                "mac": "PGmLyfJiYRoe0VsHSx3Jag=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/15/object": {
-                "ciphertext": "9lwveoNyMgYJw7VRJjLorO040lQ+mnWMAb6hCuyXtno=",
-                "mac": "o2s3OmFTj8Ma5F0XrSJFJA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/19/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/8/message": {
-                "ciphertext": "/awyvcrPj+OkM5AqWs4luEHyFNu23n1I7B4IOLKkdK48NrlEWr47GhnU+tZ5rTTS",
-                "mac": "2h6F18mWHaf80tLlfUgxdQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/9/message": {
-                "ciphertext": "JBcmNmYAiUFH/3cGvhprjEzqG4r3YQ4JLYOGcXqNXHo/6Dxjr6+c0Mko9FFhM18WYKh0zltWxLwOXWxjG3Ur0KhCfEBv8ZqHaTzG8h+ec/TCmmKj+FVzq0f+hHQdNjcb+4OwJCDIF/O/BBcgibFhZIW8cst/5BuxtJD89zuRE8f0ZCsDlf3qYUVCAaaYWWvDmtsUCcdZKQNMVKoS+saHlg==",
-                "mac": "nvD2kUdg3HJBT4Fn7DaEBw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/11/message": {
-                "ciphertext": "2lpwZ7G9D8NBNB4Paj1U6mDiP/1AiqclEr056VLJCd2AEpxVCP+nt2QGeNG/zAKVazkggegMvjEsp4zmZOkicNIFzwkXe4uTfWPUsM5hi+5zQEOJi5t2LPovE3LGl/Y5I/a+I1YJlAR1DoGSIfepcA==",
-                "mac": "apYJC5sW6Xm6OKthaTx3Ig=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/23/message": {
-                "ciphertext": "55AYVoNz4An8l88Mm6lBMhskdr4vqzZOUosypAqWhWe+HojDMndK2W2HBnT5W04A53dhd5fEwWFsPfLkUNbP0DXSdAnx3xJ3wAsdIbK4C9Y=",
-                "mac": "CCyCuu8GLn/V5Af5Tws7aw==",
-                "ciphernote": "yyMMGO3tatQfN4OIidqrsLX+6U8+7s3zHotNevcZ1Uv4utYygqPDHvFGNp1g/hmd3uQAIHuRKExuDLzTWEBQLQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/24/message": {
-                "ciphertext": "J6LTHUMpkTLiobErGTvV8d210y7Tcoz4JiDQCUTuji2wxiAhr06BkAJrF317e7xOMzWMD0utl23nFlEXvTSwFUqlLrsnjwK8FiW2hd1AL50nPFQZ1eUr5HWAsYwNiimMCh5/I/i94BohNRGNlD63CA==",
-                "mac": "PkSyd6V2vAa9555f4LQcWQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/26/message": {
-                "ciphertext": "bx3XA/P0uc4bxLGU8YV2tSWyuJlwIe6R5B9PksCeNIMTIxgCaK2c/Qhpa/+RoaeskT56C3SQzAZvsibCllgzS2PiZU8Ju/2kzCS9xNNETGNsOXe60Purlat8kbgsP/4yeO6VEUKn+gdXgDdNvfEUYVI0y65xuQIKo3LFVf3dq7S0APjz4ja8yQsJiXgQ9BIc",
-                "mac": "Y1uqbGTojx70CUDdBGFbDg=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/35/message": {
-                "ciphertext": "m8AXYXiOFkaUUJAhfz1+6AZJkkew6YaT8fNn6jPnUp3gPx3XKPSrW4gvOiL09hpg",
-                "mac": "8wC732u8vB5YouuonW+qsQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/37/message": {
-                "ciphertext": "/WxHsjoOl96RmhM3Gjg4teqSU+iOgEJruWmEXirar6AHDSZRGjxIJwOAHEL4hk4Cc2pUgfS20HeEbCLUsG2kYM7WxYc/rr78R8vkrGPID9b8mSWcB+pzjhRKlDxwllzrlKSjkYO5W1kP6IN26g41pQ==",
-                "mac": "aK+rTXqrwTu8QCWCJuQ5Fw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/38/message": {
-                "ciphertext": "a8AwXa0l4W8+v/ag5Ta3r8xDTRjM7yyz8n5sQPp0Pqy610Rriv1VJ7xzExYw6P578QNSwwlJomwgJI1ZZQRdlRDQhXqneewWHokgfzd8Qcps215FkjKV+Or6SmCJro0TLvPZOIT00YJjf6e9yJKuww==",
-                "mac": "6tPK2hdxgIIB0QrdZ7HNQQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/39/message": {
-                "ciphertext": "c6SyOlBYwqOphkENIaZB4q5Jguew3Ax0G1fEWGh6t4r1SL0bXghqhW3uDX8dEH1C1zEr8haTbgPKxiD5C8bmWnandZ2iXYEwwWEOwM/liPCnvoa3bdpvDzdFrmE6EfBgco09JgeMRmRANL21CY3yeA==",
-                "mac": "ys7wYAFxlnmsE4HslieZOw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/40/message": {
-                "ciphertext": "X3TzX/WLJEWeSfipzxhcyGZcsfQxVmUbziYkL9CR64DoJRif86NUCR4eZ6EpiMiiFuimUhcHHWR+w5hZKecQZMZz9TJjGnPXuf3OIpAUzRA=",
-                "mac": "cS43y/HIG+a/ngupj8E6kQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/42/message": {
-                "ciphertext": "rOMQMyuImd90x8W7c0Dumdp5tR+JvtM+fdJK7BeDofM82hM5FtxQPAcnoaHmiEch3BjKxpxHn9D3m8hr23lrDWLZALKfQ6r9a/fGQoRlxcV6c3F5jve6K9iDrE29PlQG",
-                "mac": "+0D7/JiBDu29tdBdZT0YIA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/44/message": {
-                "ciphertext": "9PDqH1UlgwW2QCGO1xqs9M1XXMSd3GWt5gqtilhPubwCmUhsUyssb7yyOIlqLUCGuZepOlTSXpC+1TQO0ekuIg==",
-                "mac": "dglmAxdS3Qe38zJmdReMAw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/46/message": {
-                "ciphertext": "6NmaWW7JSCHk91ndmqya2RAhnbiY0kIRJgplIVO9P9aC+Ust/v4d8klY7XpzgaoOsqpiHURvtekfI6dBWrev8F/Lfc1RDgyokLjKsPaV4k8FY5rKhZXTBm0SvfQgdCbv1en1JtDMInwTUU9lFSg2mA==",
-                "mac": "Wk5rV1uqeCT2avvuOYHkVQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/47/message": {
-                "ciphertext": "yI5+FMq1fJ0Z3lfK01wpfs5gmmlYgqSY9134LhCfxo314liEK8iHpFXalPrJER+vpKUwLR25XI1ThlipKeUHG26INAqzhec5bJJE6l5wOGzxytgiqXcX7M6ho0JxAqs2",
-                "mac": "GZhSHEnhiaT1+6JqBc1OiA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/49/message": {
-                "ciphertext": "7xRuzfA2NLJUZiZcuwRnzUkMz2ktfYbz2gN797FKGZZrorZog83uod787K4R7H5l",
-                "mac": "D3q3PdmAYljsejcdwSXbHA=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/50/message": {
-                "ciphertext": "7LqRdDOMVatROuo8Gluhem7UF5piKkSHyexzO6r7dIWJ2Ca7L5Ek2fwEULwS6yM6LRE4T7ukPQ47tDiS/zA2pvTJanrsMBro1rfLN+v2zm8fg1h4SrkgvB4MuczV1fVf/w1ZQ3iUp3dM0BSjeqQq4w==",
-                "mac": "rhVLSB4fDI/5kI2pzlYjrQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/57/message": {
-                "ciphertext": "ZK5xv+HZYP7TVASnk6l99ggtNpDwZGORAPGH/peJ/wEAkCGufMGbDgvmRymJUXI4SC3IDjXNWZZqpDYaAKFrFunDABopq0w8HE7zqDf/34WZs8xaTU3UfIPDxbrpu/mGncgehT+RGYgHaZwdwcmuUAhHZpR8cd756kgTyGlmxrQ=",
-                "mac": "kb7/w31kiUzvBQEbqrWnRw=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/58/message": {
-                "ciphertext": "qVnp9PscKrXHW53MtaX933TS+LNyul9nUUOjrmkS1rayPls771GOgxpOw+UldPlZS5XHptKffAzv49N4XlAltSY1MI+F1H3e2vELL4bIjLh8+oxrjGTDe7v3Y7UWDl0n",
-                "mac": "3wWQHm4YUo6hLygcr3k06g=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/67/message": {
-                "ciphertext": "tQvKFcFLe/TgWvrRQlg5q5po/63vPgoG215euYLYldlbp4aY6NLrxxaWzScw2ND8c5d3k3HLGMStr3GRjrRNMDP43jfobtgBadtzOmSPZ/6SaIH88qfQh2B7nizaZOYw7vxjzJswNN2uvpJOWvuSlg==",
-                "mac": "tP/N8/yDLGxPmkyXTToifQ=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/75/object": {
-                "ciphertext": "e2WLxwDAcHO5iZrPns8sBS2Ah8vz+fGeHOsvtLddt94=",
-                "mac": "nZyGf72ftXKxBIjihOZ81Q=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/79/message": {
-                "ciphertext": "h0Z4kvo4YtkVoWyheoLN3lU4sZIzSjJtXdzyeanGlPc1yGvr0wlT/PeEal5sWzstztWCadjbbcINnC7C2LBQ9Q==",
-                "mac": "Vd+ljYxFYv494SZPJUG3Ag=="
-        },
-        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/86/message": {
-                "ciphertext": "DYHSTXJWYtwBEdxFP7VoSrExg7QUromov859omOikqT4mVQrGPM/jcuCgkNkmLnTGgUylLc9uHUcxJIXhdyQCTtZLbe4TbltBDDol/86sQ6zw4TjeU7XNiNOsVZufkgW",
-                "mac": "WVRRiJ/pSGZvVOzjdFw6Ww=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rookie-harbor/expo-space.json/entities/9/settings/event/9/message": {
-                "ciphertext": "hc+YJmtK63gtKrmxzZBJftMcLJAbogu3mMpZRQR70w89OwG59ynopJDoG17aMM8tr35pDIggco7Hsga5hbZGSg==",
-                "mac": "kAp/vaa21lMtcaTALpbC5A=="
+                "orig": "Welcome to operation \\c[3]Track Walker\\c[0], recruit.",
+                "text": "Bienvenue dans l'opération \\c[3]Retraçage\\c[0], recrue."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/11/message": {
+                "orig": "This briefing serves as an introduction to the history of this place and the nature of our cause.",
+                "text": "Cette présentation sert d'introduction à l'histoire de cet endroit et de la nature de notre cause."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/23/message": {
+                "orig": "We're currently located on the natural satellite \\c[3]Shadoon\\c[0].",
+                "text": "Nous sommes actuellement situés sur le satellite naturel \\c[3]Shadoon\\c[0].",
+                "note": "so it's not a planet ? is there any consistency at all ?"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/24/message": {
+                "orig": "This place was once inhabited by intelligent lifeforms that we refer to as the \\c[3]Ancients\\c[0].",
+                "text": "Cet endroit était auparavant peuplé par des formes de vies intelligentes qu'on appelle les \\c[3]Anciens\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/26/message": {
+                "orig": "While the Ancients ceased to exist a long time ago, they left behind a technological heritage to behold:",
+                "text": "Bien que les Anciens n'existent plus depuis un long moment, ils ont laissé derrière eux un héritage technologique impressionnant."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/35/message": {
+                "orig": "The \\c[3]Track of the Ancients\\c[0].",
+                "text": "Le \\c[3]Tracé des Anciens\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/37/message": {
+                "orig": "Originally, it served as an assessment of social standing within the Ancients' culture.",
+                "text": "À l'origine, il servait comme épreuve d'accès à une position sociale dans la culture des Anciens."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/38/message": {
+                "orig": "It is a technological marvel, a highly-advanced and self-sufficient system that remains intact to this day.",
+                "text": "C'est une merveille technologique, un système très avancé et autonome qui reste encore intact à ce jour."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/39/message": {
+                "orig": "It wasn't long after humankind arrived on Shadoon that we realized its value.",
+                "text": "Il n'a pas fallu longtemps après que l'humanité débarque sur Shadoon pour nous rendre compte de sa valeur."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/40/message": {
+                "orig": "Thus, we initiated \\c[3]Operation Track Walker\\c[0].",
+                "text": "C'est comme cela que l'\\c[3]Opération Retraçage\\c[0] est née."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/42/message": {
+                "orig": "We augmented the Track so that humanity might walk it as well.",
+                "text": "Nous avons amélioré le Tracé de façon à ce que l'humanité puisse aussi l'emprunter."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/44/message": {
+                "orig": "And that is where you come in, new recruit.",
+                "text": "Et c'est là où commence votre travail, recrue."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/46/message": {
+                "orig": "Together with the other Seekers you will start the journey along the Track of the Ancients.",
+                "text": "Ensemble avec les autres \\v[lore.title.seeker]s vous allez démarrer votre voyage sur le Tracé des Anciens."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/47/message": {
+                "orig": "Your path will be paved with obstacles, but every step you take will further our cause:",
+                "text": "Votre route sera semée d'embuches, mais chaque pas que vous ferez, fera avancer notre cause :"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/49/message": {
+                "orig": "Discovering \\c[3]the secrets of the Ancients\\c[0].",
+                "text": "Découvrir \\c[3]les secrets des Anciens\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/50/message": {
+                "orig": "Your main task will be the collection of four elements: \\c[3]Heat, Cold, Shock, and Wave\\c[0].",
+                "text": "Votre tâche principale sera de collecter les quatre éléments : \\c[3]Chaud, Froid, Choc et Onde\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/57/message": {
+                "orig": "Beginning with the element \\c[3]Heat\\c[0], your first destination will be the village of \\c[3]Bergen\\c[0].",
+                "text": "En commençant par l'élément \\c[3]Chaud\\c[0], votre première destination sera le village de \\c[3]Bergen\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/58/message": {
+                "orig": "To reach it, you need to pass the \\c[3]western barrier\\c[0] of Rookie Harbor.",
+                "text": "Pour l'atteindre, vous devez passer la \\c[3]barrière ouest\\c[0] de Rookie Harbor."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/67/message": {
+                "orig": "I will now give you your first \\c[3]Shade\\c[0] to grant you passage to the west.",
+                "text": "Je vais maintenant vous remettre votre premier \\c[3]Symbole\\c[0] qui ouvre la porte vers l'Ouest."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/75/object": {
+                "orig": "\\v[item.145.name]",
+                "text": "Symbole de Feuille Verte"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/79/message": {
+                "orig": "Finally, I will give you the \\c[3]Disc of Insight\\c[0].",
+                "text": "Enfin, je vais vous donner le \\c[3]\\v[item.135.name]\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/9/settings/event/86/message": {
+                "orig": "This device will record all of the knowledge you encounter on your journey.",
+                "text": "Cet appareil enregistrera toutes les connaissances que vous obtiendrez dans votre voyage."
         },
         "maps/rookie-harbor/expo-space.json/entities/9/settings/event/91/object": {
-                "ciphertext": "4pFbDa+iLNrKYCcODgREi+Xvd5aNapGHR7O9A2dt73M=",
-                "mac": "bcnBhGYAEvf8K2TzASlobw=="
+                "orig": "\\v[item.135.name]",
+                "text": "\\v[item.135.name]"
         },
         "maps/rookie-harbor/expo-space.json/entities/9/settings/event/95/message": {
-                "ciphertext": "XytzEgCaqCx2EuxCDuVXvQ==",
-                "mac": "JOnNSh+KIHeEO/sp0aPllg=="
+                "orig": "That is all.",
+                "text": "C'est tout."
         },
         "maps/rookie-harbor/expo-space.json/entities/9/settings/event/96/message": {
-                "ciphertext": "92PQFE7nIxwoc1VpqJTNkE81tO8CzOZDCMLUpcaFmommL8AuTtReXIZIkwgzB8qG",
-                "mac": "e32Bv9eo91BnMu5tSUaBZA=="
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/8/message": {
+                "orig": "Congratulations, Seeker.",
+                "text": "Félicitation, \\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/9/message": {
+                "orig": "You reached the \\c[3]first milestone\\c[0] of operation \\c[3]Track Walker\\c[0].",
+                "text": "Vous avez atteint le \\c[3]premier jalon\\c[0] de l'opération \\c[3]Retraçage\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/22/message": {
+                "orig": "With the \\c[3]Blue Ice Shade\\c[0] you can now access \\c[3]Maroon Valley\\c[0] to the west of Bergen.",
+                "text": "Avec le \\c[3]Symbole de Glace Bleue\\c[0] vous pouvez maintenant accéder à la \\c[3]\\v[area.heat-area.name]\\c[0] à l'ouest de \\c[3]Bergen\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/23/message": {
+                "orig": "Therein awaits your next destination, the \\c[3]Faj'ro Temple\\c[0], housing the second element: \\c[3]Cold\\c[0].",
+                "text": "Là-bas se trouvera votre prochain objectif, le \\c[3]Temple de Faj'ro\\c[0], qui abrite le deuxième élément : le \\c[3]Froid\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/24/message": {
+                "orig": "To proceed, seek an audience with the Eldress of the local village \\c[3]Ba'kii Kum\\c[0].",
+                "text": "Pour continuer, trouvez l'Altesse du village local \\c[3]Ba'kii Kum\\c[0] qui vous donnera plus d'instructions."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/33/message": {
+                "orig": "Take this reward \nfor your accomplishments.",
+                "text": "Prenez cette récompense\npour vos efforts."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/37/object": {
+                "orig": "\\v[item.428.name]",
+                "text": "\\v[item.428.name]"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/41/message": {
+                "orig": "The circuit override allows you to \\c[3]reset one of your circuit boards\\c[0].",
+                "text": "Le Réamorceur Circuit vous permet de \\c[3]Remettre à zéro un de vos Arbre-Circuits\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/42/message": {
+                "orig": "Visit the first basement floor of the \\c[3]Info Hub in Rookie Harbor\\c[0] to use it.",
+                "text": "Visitez le premier sous-sol du \\c[3]Point d'Information de Rookie Harbor\\c[0] pour pouvoir l'utiliser."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/43/message": {
+                "orig": "That is all.",
+                "text": "C'est tout."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/10/settings/event/44/message": {
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/8/message": {
+                "orig": "Congratulations, Seeker.",
+                "text": "Félicitation, \\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/9/message": {
+                "orig": "You collected your \\c[3]second element\\c[0] and reached another milestone of operation \\c[3]Track Walker\\c[0].",
+                "text": "Vous avez récupéré votre \\c[3]second élément\\c[0] et atteint un autre jalon de l'opération \\c[3]Retraçage\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/22/message": {
+                "orig": "With the \\c[3]\\v[item.230.name]\\c[0] you can now access \\c[3]Autumn's Fall\\c[0] to the northeast of \\c[3]Rookie Harbor\\c[0].",
+                "text": "Avec le \\c[3]Symbole de Flamme Rouge\\c[0] vous pouvez maintenant accéder à \\c[3]\\v[area.autumn-fall.name]\\c[0] au nord-est de \\c[3]\\v[area.rookie-harbor.name]\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/23/message": {
+                "orig": "To proceed, seek the \\c[3]ancient statue\\c[0] within Autumn's Fall and accept your next trial.",
+                "text": "Pour continuer, cherchez la \\c[3]statue de l'ancien\\c[0] qui se trouve à \\v[area.autumn-fall.name] pour démarrer votre prochaine épreuve."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/32/message": {
+                "orig": "Take this reward \nfor your accomplishments.",
+                "text": "Prenez cette récompense\npour vos efforts."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/36/object": {
+                "orig": "\\v[item.428.name]",
+                "text": "\\v[item.428.name]"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/11/settings/event/40/message": {
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/8/message": {
+                "orig": "Congratulations, Seeker.",
+                "text": "Félicitation, \\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/21/message": {
+                "orig": "You acquired the \\c[3]\\v[item.376.name]\\c[0] giving you access to \\c[3]Gaia's Garden\\c[0] to the north.",
+                "text": "Vous avez obtenu le \\c[3]Symbole de Graine Verte\\c[0] qui vous donne accès à la sortie vers le \\c[3]\\v[area.jungle.name]\\c[0] au nord."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/22/message": {
+                "orig": "It is an expansive jungle and home of several temples.",
+                "text": "C'est une vaste jungle qui abrite plusieurs temples."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/23/message": {
+                "orig": "The \\c[3]Zir'vitar temple\\c[0], housing the element \\c[3]Shock\\c[0]...",
+                "text": "Le \\c[3]temple de Zir'vitar\\c[0], qui abrite l'élément de \\c[3]Choc\\c[0]..."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/24/message": {
+                "orig": "...and the \\c[3]So'najiz temple\\c[0], housing the element \\c[3]Wave\\c[0].",
+                "text": "... et le \\c[3]temple de So'najiz\\c[0], qui abrite l'élément d'\\c[3]Onde\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/25/message": {
+                "orig": "Your next task is to acquire both of these elements and complete the final trial of the \\c[3]Grand Krys'kajo\\c[0].",
+                "text": "Votre prochain objectif sera de récupérer ces deux éléments et de réussir l'épreuve finale du \\c[3]Grand Krys'kajo\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/12/settings/event/34/message": {
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/8/message": {
+                "orig": "Congratulations, Seeker.",
+                "text": "Félicitation, \\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/9/message": {
+                "orig": "You collected \\c[3]all 4 elements\\c[0] and mastered the final challenge of the \\c[3]Grand Krys'kajo\\c[0].",
+                "text": "Vous avez récupéré \\c[3]tous les 4 éléments\\c[0] et réussi l'épreuve finale du \\c[3]Grand Krys'kajo\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/10/message": {
+                "orig": "The time has come to enter the final stage of operation \\c[3]Track Walker\\c[0].",
+                "text": "Le temps est venu de commencer la phase finale de l'opération \\c[3]Retraçage\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/23/message": {
+                "orig": "With the \\c[3]\\v[item.410.name]\\c[0] you can access \\c[3]Sapphire Ridge\\c[0] to the east of \\c[3]Autumn's Fall\\c[0].",
+                "text": "Avec le \\c[3]Symbole d'Étoile\\c[0] vous pouvez maintenant accéder à la \\c[3]\\v[area.forest.name]\\c[0], situé à l'est d'\\c[3]\\v[area.autumn-fall.name]\\c[0].",
+                "note": "item 410 is the only one short enough to not be abreviated"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/24/message": {
+                "orig": "To proceed, seek the \\c[3]Cave Inn\\c[0] to learn more about your next task.",
+                "text": "Pour continuer, trouvez l'\\c[3]Auberge des Caves\\c[0] pour recevoir plus d'instructions."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/33/message": {
+                "orig": "Take this reward \nfor your accomplishments.",
+                "text": "Prenez cette récompense\npour vos efforts."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/37/object": {
+                "orig": "\\v[item.428.name] x2",
+                "text": "\\v[item.428.name] x2"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/13/settings/event/41/message": {
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/10/message": {
+                "orig": "Seeker.",
+                "text": "\\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/11/message": {
+                "orig": "You just acquired the \\c[3]Meteor Shade\\c[0].",
+                "text": "Vous venez d'acquérir le \\c[3]Symbole de la Météorite\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/12/message": {
+                "orig": "And with this, I am proud to announce that you've reached the very \\c[3]frontier of operation Track Walker\\c[0].",
+                "text": "C'est donc avec fierté que je peux vous annoncer que vous êtes arrivés à la \\c[3]frontière de l'Opération Retraçage\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/13/message": {
+                "orig": "This is as far as humankind has walked the Track.",
+                "text": "C'est le dernier point du Tracé sur lequel l'humanité a pu mettre les pieds."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/14/message": {
+                "orig": "In other words, you successfully completed your objective!",
+                "text": "En d'autres termes : Vous avez complètement rempli votre objectif !"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/15/message": {
+                "orig": "Congratulations!",
+                "text": "Félicitations !"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/16/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/17/message": {
+                "orig": "With every Seeker completing the Track, we feed essential input into the Ancient's system, enabling us to access it further.",
+                "text": "À chaque fois qu'un \\v[lore.title.seeker] termine le Tracé, nous pouvons introduire des données essentielles dans le système des Anciens, ce qui nous permet de le débloquer petit à petit."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/18/message": {
+                "orig": "However, we have yet to unlock its final part.",
+                "text": "Car il nous reste encore à débloquer la section finale du Tracé."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/19/message": {
+                "orig": "Until that time comes, you are officially freed from your duty!",
+                "text": "En attendant, vous êtes maintenant officiellement libéré de vos devoirs de \\v[lore.title.seeker] !"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/32/message": {
+                "orig": "As a reward for your accomplishments, you can now access the main city of Rhombus Square.",
+                "text": "Comme récompense pour vos mérites, vous pouvez maintenant accéder à la ville principale de \\v[area.rhombus-sqr.name]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/33/message": {
+                "orig": "This place provides many opportunities to further enhance your skills.",
+                "text": "Cet endroit offre diverse possibilités pour vous permettre d'améliorer encore vos compétences."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/34/message": {
+                "orig": "And of course, your continued assistance to the community of Shadoon would be greatly appreciated.\n",
+                "text": "Et bien sûr, vous serez toujours le bienvenu si vous continuez de porter assistance à la communauté de Shadoon."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/43/message": {
+                "orig": "In addition, you shall receive your usual reward as well.",
+                "text": "De plus, vous méritez également de recevoir votre récompense habituelle."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/47/object": {
+                "orig": "\\v[item.428.name] x2",
+                "text": "\\v[item.428.name] x2"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/51/message": {
+                "orig": "Seeker, you have our deepest gratitude.",
+                "text": "\\v[lore.title.seeker], je souhaite exprimer toute la reconnaissance que nous avons envers vous."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/52/message": {
+                "orig": "When the time has come to walk the track even further, we will meet again.",
+                "text": "Lorsque le temps sera venu de remettre le pied sur le Tracé, nous nous reverrons."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/14/settings/event/53/message": {
+                "orig": "Good bye and as always, stay vigilant.",
+                "text": "Au revoir, \\v[lore.title.seeker]. Et comme toujours, restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/8/message": {
+                "orig": "Congratulations, Seeker.",
+                "text": "Félicitation, \\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/9/message": {
+                "orig": "You collected the \\c[3]\\v[item.286.name]\\c[0], one of the two shades required to enter the \\c[3]Grand Krys'kajo\\c[0].",
+                "text": "Vous avez récupéré le \\c[3]Symbole de Goute Azur\\c[0], l'un des deux symboles nécessaires pour pouvoir entrer dans le \\c[3]Grand Krys'kajo\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/10/thenStep/0/message": {
+                "orig": "Now that you collected both of the Shades it is time to take on the final challenge of Gaia's Garden.",
+                "text": "Maintenant que vous avez récupéré les deux symboles, le temps est venu d'affronter le challenge final du \\v[area.jungle.name]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/11/message": {
+                "orig": "Take this reward \nfor your accomplishments.",
+                "text": "Prenez cette récompense\npour vos efforts."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/15/object": {
+                "orig": "\\v[item.428.name]",
+                "text": "\\v[item.428.name]"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/15/settings/event/19/message": {
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/8/message": {
+                "orig": "Congratulations, Seeker.",
+                "text": "Félicitation, \\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/9/message": {
+                "orig": "You collected the \\c[3]\\v[item.231.name]\\c[0], one of the two shades required to enter the \\c[3]Grand Krys'kajo\\c[0].",
+                "text": "Vous avez récupéré le \\c[3]Symbole d'Éclair Violet\\c[0], l'un des deux symboles nécessaires pour pouvoir entrer dans le \\c[3]Grand Krys'kajo\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/10/thenStep/0/message": {
+                "orig": "Now that you've collected both of the Shades it is time to take on the final challenge of Gaia's Garden.",
+                "text": "Maintenant que vous avez récupéré les deux symboles, le temps est venu d'affronter le challenge final du \\v[area.jungle.name]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/11/message": {
+                "orig": "Take this reward \nfor your accomplishments.",
+                "text": "Prenez cette récompense\npour vos efforts."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/15/object": {
+                "orig": "\\v[item.428.name]",
+                "text": "\\v[item.428.name]"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/16/settings/event/19/message": {
+                "orig": "Good luck and stay vigilant.",
+                "text": "Bonne chance, et restez vigilants."
         }
 }

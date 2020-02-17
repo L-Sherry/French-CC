@@ -1,270 +1,270 @@
 {
         "maps/jungle/path-02-crossroads.json/entities/23/settings/interact/hoverText": {
-                "ciphertext": "MaxgK2PB4EFZVYAs/rw2ncwZU7flD1bPSGmtcB6KiMDwds2FKMg2mMlDe7AmdYFXUkczxAv1PJIxZ1iwD+2cY/XzRhuOEpErJBGBHjme/XPnQJxpeO41UkjEGz/Hjn/rPN459icXomEDkKNFcCi1j+TCRnzjJoZiUw7m29ui1d04psmTIIhw1QgjpIbCnWjQDGRDH1TytZjLU5DWFfEGpraIsV4KCjoSWSfn3Q/TROc=",
-                "mac": "F2ewBy4zcg4uG87/85DWFg=="
+                "orig": "\\i[arrow-n] \\v[area.jungle-city.name]\n\\i[arrow-w]\\i[arrow-e] Roads to Grand Krys'kajo\n\\i[arrow-e] Road to V'rda Vil\n\\i[arrow-s] \\v[area.autumn-fall.name] ",
+                "text": "\\i[arrow-n] \\v[area.jungle-city.name]\n\\i[arrow-w]\\i[arrow-e] Chemin vers le \\v[area.tree-dng.name]\n\\i[arrow-e] Chemin vers V'rda Vil\n\\i[arrow-s] \\v[area.autumn-fall.name]"
         },
         "maps/jungle/path-02-crossroads.json/entities/641/settings/npcStates/1/event/0/name": {
-                "ciphertext": "D1/FenlmdPwr4KmL4kXvhQ==",
-                "mac": "s9/24SlRcDNvW98ztTCzjA=="
+                "orig": "Henry",
+                "text": "Henry"
         },
         "maps/jungle/path-02-crossroads.json/entities/641/settings/npcStates/1/event/2/message": {
-                "ciphertext": "2DaelbDDpLdy8SGdXtVugg2dATTXbtW3sF0FvuwAgYS+1/FlB1ceuoJ6HDgF4VsrF9rTpXDPpI5Okammohmor+N5CtqibneCKk6f7r0jftljNqztwlAjWM4TH8kGpOJtRjKr+NFlHn2RS9wYaK3rOg==",
-                "mac": "taSmxivnJjxpVYcd4hxbcQ=="
+                "orig": "I d-d-don't have any probes left, but I g-g-guess you know how they look.",
+                "text": "Il ne m-m-me reste plus de s-sonde, mais je p-p-pense que tu sais à q-q-quoi elles ressemblent."
         },
         "maps/jungle/path-02-crossroads.json/entities/641/settings/npcStates/1/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/1/name": {
-                "ciphertext": "D1/FenlmdPwr4KmL4kXvhQ==",
-                "mac": "s9/24SlRcDNvW98ztTCzjA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/11/message": {
-                "ciphertext": "WOxOS5LWUDRDK5f8tOALVffPuHi0kEvb/xNVDAPgaEFpITC/nDMfR9IePFu6+dItw/UUes/DOlaML9e8/9zfqw==",
-                "mac": "X2G5fRZjztltXs7PgqNFJA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/12/message": {
-                "ciphertext": "kbkw6q30N+1CfR1sSxFuT9iFOe++io/ibTP63nttfH6Tr7nFfSdv+0aiUClkeS/8wO1jkjbPKYSD9p4+Gvtv8LrlJLYdNXVTt7hz1jiNg1Q=",
-                "mac": "KLj1GiUUABMByMGxpSbXAQ=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/13/message": {
-                "ciphertext": "GQSy9a8ddIkmmwA3BzC6EszbFSvecDxfIckAjLQBxE4K9h1DG7tlJ8TC8VjZj1UNhwW+m5ivbf5LYR/qczxhSJD5q2LawhZZJ7Q/LEXjgJE=",
-                "mac": "0u1gG8sQCebdNzzmg/y3cA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/0/message": {
-                "ciphertext": "mOMq/Ctoq5xsP/y96+m+Xzz3FD/DfYzaLm6D4zJFqAZ/YLHMRhCqZpIjCl7laEebfADs/n9dTaurxEYPCvgepQ==",
-                "mac": "wpEZbWVZNooLb4HcaITqKA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/1/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/2/message": {
-                "ciphertext": "N2KFQ6UWdZGwvvONdr0TCFb0mVYoOHUHOMAofmMyJBwU9bkDa+aWDLLuOlSoaFigveUDgRSVggPQMuaNQI3AmGsRpSmaz5gAkmgqCmemIUqY9jNeggc89jJlC9XbA4VlPcxncQHAQ9PHDA+/6M176w==",
-                "mac": "S5TxM0pOvYxmsNiWmK3vAQ=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/declined/0/message": {
-                "ciphertext": "bDN0SDLPJ8wnDWeV85eS3mYxVlOd53I5WJKB8pB9do8TfrWDSlAnBTbEkcyFYEIP",
-                "mac": "8rc/+ngwMZQ+RFhJqewOew=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/3/message": {
-                "ciphertext": "2cDg4dsGD6kYIJkgycdBag==",
-                "mac": "edj3eufVTalmNkVEn8MjmQ=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/4/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/5/message": {
-                "ciphertext": "gL3y0ThczDX4iDh//UBd7oKyuuRtnfROGy7udafQElVh5NC5l9IRRJb/g421gie0sCxDDUxUwdTgTxYjJW4KUw==",
-                "mac": "885mTMjP41U7o4UgEvNa2Q=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/7/message": {
-                "ciphertext": "o9ZQOCPg6lhTDyKjkEC95yJ+R1jwfgTqaUZ3Rd1zPolQr7IRUOthXQt3YTwGq5pSCV5H4p0zE6JJsASfNs1Oto286USzC95LMErgru1wVKY=",
-                "mac": "ynASpbo2dfbpBHFuIMzoJA=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/8/message": {
-                "ciphertext": "GT0Lino1hntiGo/lTz7t7er9cAK7YRW89gkRdB8GHAcpf01+gIFK5y4BoeHpl/Lin507C/xrqtCAAhdz0hCdmRVf9c5f2ZYEBG2nDknbLy7uYYLr4a/sGsDSA9wb4sTR",
-                "mac": "bQNJNURwRALy711J+qfxzw=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/9/message": {
-                "ciphertext": "5yaRSkZcXb5J4bjqXikZ+y2FUj63bQBLnDD8nXMgsqguWskw+Pfxi/2XWV3BSK9kVLEHYvDHxOz7Sp55h+P1FQ==",
-                "mac": "oB5Pdg3RIoT5iaTY+XCTfg=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/text": {
-                "ciphertext": "lbi02RjDtQQhbXkPWhiGEqFil7u0waGRGpJz981OpOwBD+Lsznd0FS1KOR1ZducI",
-                "mac": "l5/F/4Yr5CIg6fanVxtRZA=="
+                "orig": "I wonder if she'll turn up again...",
+                "text": "Je me demande si elle va encore se montrer..."
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/10/message": {
-                "ciphertext": "XoPB8/s8UByGhMVkid1DGDkWeGi0UT79zESsvv8c7CzT9rSR7ckR7VdMblLd+7PunnQBO3QA5gGOZSA6ZuLsO6OVgYKnIaQczcQoc5yVLDE=",
-                "mac": "xjhG/4hOYiHUoqCP3NaY5g=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/1/name": {
+                "orig": "Henry",
+                "text": "Henry"
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/11/message": {
-                "ciphertext": "1wGoVwjngqptxFTtWLC48JcH/+oERqieZpjvmbtUyLgLhy5exutX1P9CA4w/+JbB/hWASoOYG6YpYZ6xUXxxN2SBADh6lAikySkeq+hhAjSgu/QpMGfb9gnz2/NWwS9oyLmjlaPpwDeM1alCjVGCfw==",
-                "mac": "5rn82giJQ8ArnUkmPJ+sfQ=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/3/message": {
+                "orig": "I-I-It's you!",
+                "text": "C-C-C'est toi !"
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/4/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/13/message": {
-                "ciphertext": "agY2e0zkrp27iJc4NS+OxHmu7yW9ZZYiZ2bKxmEW8SjcyOHxTcp+CGT7YOE7P7HIfOTXN9uvKtCN417GVbRzUO7p2s9LZVhed2NNkcleKO0ebOEEgnHTw80xK++ys6wY",
-                "mac": "I8Au0v7wfPsqb5ntvtm+DA=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/5/message": {
+                "orig": "At t-this point, someone might t-think you're stalking me.",
+                "text": "On p-p-pourrait presque se dire q-q-que tu me s-s-surveilles. "
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/14/message": {
-                "ciphertext": "3BKyXQVqtFCYTj7DoEsIgzjSbRN6W2i2jKeN3H9MaFahMBu0BMzAtPJWryzxgGNRDf8ytYBTWNFcbb7ksiZQLOWdheWDgY+kQfXoPu43wgs=",
-                "mac": "CDNXQE7YIkKbDDt5kfzKrA=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/6/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/15/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/7/message": {
+                "orig": "It has been a while! And a-a-as usual you came at the right moment.",
+                "text": "Cela fait un b-b-bail ! Et c-c-comme d'habitude, t-tu tombes à p-point nommé."
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/16/message": {
-                "ciphertext": "KzfhOtvzAcyze6qr608kF+cQ7sEzTDwTOk695j2bD8FXjSD1K6gw3kvALvtFDmTRE0QNTwGv69hoZlCJPTbGl5/sutxVXvm2JuXCWgc2g7rorDgMuXprbP6Cdw1L7p57",
-                "mac": "cz7fMrPVtzb2rS+jwwdt5g=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/8/message": {
+                "orig": "Another player has just p-placed a probe somewhere in t-t-t-this jungle.",
+                "text": "Un autre j-j-joueur viens de p-p-placer une sonde quelque part dans c-c-cette jungle."
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/17/message": {
-                "ciphertext": "aIbKPX+Q1PHdSE52K4itRovDxbFPrweTnpgrCWisdWKDXkMR86W5OKeK4mTq/Y46cbyBO/6HcfV8VlcVb6vXvKsGahurHlvoAS2Z/G0m0kdCX5lTe+RJVjFim//CqfRW",
-                "mac": "LMVa9CO5iSibdW0BOAdDVA=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/9/message": {
+                "orig": "Even though I had some problems earlier.",
+                "text": "Bien que j'aie eu quelques c-c-complications auparavant."
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/18/message": {
-                "ciphertext": "DHAYgLQ/0+JFcMol2ecKuVxccSVfPCnU6JIauqVpiedcOn+HqBRiH9iDVt4ccyK9oNo4vDFu+IA/htVra9oUZ/3gjoR5A+wcqr6xC3lF16G8Ebu9AykA6lezVh3fgzvH19Qn0AyfHY3UkMH1p0z09A==",
-                "mac": "ZXdJJ9noTMPOTe5IJ94Ncw=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/10/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/19/message": {
-                "ciphertext": "xQ75LVvOjwA8MyTUmNA3aQWtxK/BZzKkJPLhnNBN6XC1fPVPPhOXKp1gwoNgu7C58VSzJ58QpkSegJiTPJTsIjotv+TGgTqYnpqeN8RIGJ0=",
-                "mac": "lzn+tgzsK2bVqKGFp9+81A=="
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/11/message": {
+                "orig": "D-D-Don't worry about it... It was just a misunderstanding.",
+                "text": "Ne t-t-t'inquiète pas... C'était j-j-juste un malentendu."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/12/message": {
+                "orig": "It j-j-just means I don't have much t-t-time left.",
+                "text": "ç-ça veut juste dire qu'il m-m-me reste plus beaucoup de t-t-temps."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/13/message": {
+                "orig": "S-So would you be willing to help me survey this area too?",
+                "text": "D-Donc est-ce que tu veux m'aider à é-étudier cette région ? "
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/0/message": {
+                "orig": "T-Thank you! T-this will be the last time, I p-p-promise.",
+                "text": "M-Merci ! C-Ce sera la dernière fois, p-p-promis."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/1/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/2/message": {
+                "orig": "I d-d-don't have any probes left, but I g-g-guess you know what they look like by now.",
+                "text": "Il ne m-m-me reste plus de s-sonde, mais je p-p-pense que tu sais à q-q-quoi elles ressemblent."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/accepted/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle/path-02-crossroads.json/entities/642/settings/dialog/0/event/14/declined/0/message": {
+                "orig": "O-Oh... You are not interested...",
+                "text": "O-Oh... Tu n'es p-p-pas intéressée..."
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/2/name": {
-                "ciphertext": "Jt2fjNrYu5qzqcFRwO/APg==",
-                "mac": "Ax98XwfIC6NrEEd4cFcIeQ=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/20/message": {
-                "ciphertext": "M8sBx3hmGbgM95/y3jH37RIydkULp6kUW4DSVQ0SPp2xOt+YA4Q/r5xqGWL5iI4J3tWfaHIWYvxQLQ3VUOzj5hAhJ4sVxHgFSuxWQOzvYbtkdZFyJiOaEYwAuPGKoN3F",
-                "mac": "vyezFTPvEVY1e3IMWeitYg=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/21/message": {
-                "ciphertext": "UV5yPidluvBRjqk2L6FA+FhLoqtQO0iQxHb4UxEcwrvEzYEA/UuNgI746OZOsX5mrXrvDLjPk3hU7MtcvHFRxeGzEgzH/fLgXXWNSb/d2W7J1p09zksBj0GHe1MjVOUzSszn30pm+w2mS7yYDf3KbQ==",
-                "mac": "3AfSOXWsItlj55zgfvGkyQ=="
-        },
-        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/22/message": {
-                "ciphertext": "vDP7JEJ2qMoBdnRP6wgzFA==",
-                "mac": "d/wKgH6PqvqMqj02ySl+SQ=="
+                "orig": "Baxton",
+                "text": "Baxton"
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/4/message": {
-                "ciphertext": "hjix7NE1/rm9w49dblZew13UJ91IR3KGiWwohOYxs20=",
-                "mac": "o4CGC4wYv0PMEKKZnu2YIA=="
+                "orig": "Lady Lea!",
+                "text": "Mademoiselle Lea !"
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/5/message": {
-                "ciphertext": "745hNPsQNG+uFiSjhA+SLQ==",
-                "mac": "T5Gr4Z1u3usxVSjMn8EYGg=="
+                "orig": "Hi...!",
+                "text": "Salut... !"
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/6/message": {
-                "ciphertext": "mDGHmN1juiDU+N/MHlGWwrNJawB8SraDKRk6oP3NNH+67OzOkwEmFY0FGPmk+ftROxQ87uY2+/HSzjrHEgxdFw==",
-                "mac": "s8S0voGvYqbQFp7U/pCwtw=="
+                "orig": "It seems we meet yet again. It must be fate.",
+                "text": "On se rencontre à nouveau. Cela doit être le destin."
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/8/message": {
-                "ciphertext": "y4kstVSpTVwTcH626tcpxq45KLEC2ZDqj7ui3Mf48aRceVrTysYF69Boq9HmDgjy0b440fu+pXI9BhvbljwC2gIlGSE0J8pK+NzBoKns0LfLUWcNsV4mINoq8XyxqIOEZT9WKcLCm/2lgDjsT+2dlw==",
-                "mac": "jbx4DJeprQVltYvvbxupvA=="
+                "orig": "Reports in this area have been made by dutiful players that a strange player was seen here.",
+                "text": "Des signalements de joueurs consciencieux indiquent qu'ils ont vu un joueur étrange dans cette zone."
         },
         "maps/jungle/path-02-crossroads.json/entities/660/settings/event/9/message": {
-                "ciphertext": "w6BWKFX0nFtSQxGrsGHKJBJNVfQvYq73pQBXNVGy/1o9fbtL4xAS0b9iHeJL522/jkkxwUGEHTJOoKzWl0xVCQ6e70oV14kDhz/GHtQ4jeY=",
-                "mac": "WWoNtpDLTzw7iPUY2SSPbw=="
+                "orig": "One that appears as a humble NPC seeking help from other players.",
+                "text": "Un qui apparait comme un humble PNJ demandant de l'aide d'autres joueurs."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/10/message": {
+                "orig": "Let me ask quite bluntly here Lady Lea...",
+                "text": "Laissez-moi vous demandez très franchement, mademoiselle Lea..."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/11/message": {
+                "orig": "Did you accept a quest from an NPC by the name of... let me see here... \\.\\.\\. \\c[3]Henry\\c[0]?",
+                "text": "Est-ce que vous avez accepté une quête d'un PNJ du nom de... laissez-moi voir...\\.\\.\\. \\c[3]Henry\\c[0] ?"
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/13/message": {
+                "orig": "Well this is quite unsettling. You are the third person to report so. ",
+                "text": "Bon cela devient assez inquiétant. Vous êtes la troisième personne à le signaler. "
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/14/message": {
+                "orig": "I fear we have a person with malicious intent here.",
+                "text": "Je crains que nous avons à faire à une personne malintentionnée."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/15/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/16/message": {
+                "orig": "Ah, fear not Lady Lea. I do not believe you are involved in such shady business.",
+                "text": "Ah, Mademoiselle Lea. Je sais que vous n'êtes pas délibérément impliqué là-dedans."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/17/message": {
+                "orig": "I must however follow procedure and file a report against this player.",
+                "text": "Je dois par contre suivre la procédure et écrire un procès verbal pour ce joueur."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/18/message": {
+                "orig": "Even if it is highly probable that \\c[3]Henry\\c[0] is just a cover name.",
+                "text": "Même si c'est hautement probable que \\c[3]Henry\\c[0] n'est qu'un pseudonyme qu'il s'est donné."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/19/message": {
+                "orig": "For now, I will manually complete the quest that has been given to you. ",
+                "text": "Pour l'instant, je vais manuellement terminer la quête qu'il vous a donné."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/20/message": {
+                "orig": "I am following a lead that will take me all the way to \\c[3]\\v[area.forest.name]\\c[0]. ",
+                "text": "Je suis en train de suivre une piste qui va jusqu'à là \\c[3]\\v[area.forest.name]\\c[0]."
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/21/message": {
+                "orig": "May we meet again under more pleasant circumstances next time, Lady Lea. Goodbye! ",
+                "text": "Puissions-nous nous rencontrer en de plus plaisantes circonstances, Mademoiselle Lea. Au revoir !"
+        },
+        "maps/jungle/path-02-crossroads.json/entities/660/settings/event/22/message": {
+                "orig": "Bye...",
+                "text": "Bye..."
         },
         "maps/jungle/path-02-crossroads.json/entities/664/settings/event/0/message": {
-                "ciphertext": "tkqbOKhVKPzvUlMuhqhj0Jr+rmSMYvdED6TvMe/Nu2AuA0EOpMRm1ohWfYRn8ciUv3vHlS/cL+mdlj0z33pk3Q==",
-                "mac": "9WtZtIbJggASqdjyveedmw=="
+                "orig": "So... a city in the middle of the Jungle?",
+                "text": "Donc... une ville en plein milieu de la Jungle ?"
         },
         "maps/jungle/path-02-crossroads.json/entities/664/settings/event/1/message": {
-                "ciphertext": "kGqA7S5K/Qg3PiBYLzPRbwfCvC/PAR+9zRm9pvTIJjA=",
-                "mac": "k24mG4yP3KpRtaWCNoN2mA=="
+                "orig": "Yes, and a giant of a city at that!",
+                "text": "Oui, et elle est gigantesque !"
         },
         "maps/jungle/path-02-crossroads.json/entities/664/settings/event/2/message": {
-                "ciphertext": "nMEmYM+GxyC//Y33VxtMhAeaOnrfhGuW0UQV/byRiFc=",
-                "mac": "i+gGuvMa2ilQI8V8KKFO7Q=="
+                "orig": "In the jungle?",
+                "text": "Dans la jungle ?"
         },
         "maps/jungle/path-02-crossroads.json/entities/664/settings/event/3/message": {
-                "ciphertext": "s1M8Y3Qp6Hr8B0nobpemOjMRbC1ptmJoNILNCXgN4cf0l9F53JHFVZGktqOCBzgLHMR+SQdTppnQNgkltQKEaFljubCdEXG/1EXTQC+U0k+D6DTHTlkS+TLQ77Vc+lc6Ppr6SbZ245S/bPiJUCWE4A==",
-                "mac": "pCSb0ezFg9EWLO8W0BR8+w=="
+                "orig": "Indeed! Human ingenuity shaped this hotspot of civilization amid this hostile environment!",
+                "text": "Exactement ! Une merveille de la civilisation humaine se trouve au sein de cette nature sauvage !"
         },
         "maps/jungle/path-02-crossroads.json/entities/664/settings/event/4/message": {
-                "ciphertext": "rC/YZYLbbh29asOfh3A3LHjzdwpcv5C/ygUGUgwUfDM=",
-                "mac": "rXyIpoK703Ik2mAVdKRGpQ=="
+                "orig": "I can't wait to see it.",
+                "text": "Je suis impatient de voir ça."
         },
         "maps/jungle/path-02-crossroads.json/entities/664/settings/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/13/message": {
-                "ciphertext": "bjArqdIBiN8ZXbQNaiBLTl4ZKCZEewH9Vq4NVVRqEpE=",
-                "mac": "/a1H7pQ+lL3TCg3/S0qMyA=="
+                "orig": "Back in the jungle!",
+                "text": "De retour dans la jungle !"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/21/message": {
-                "ciphertext": "2sJ0UJLdza+yLtsAp/ZSdj+CmSnYKTGCAAv6ZFF0z/EOErPKagWCR4D1VIoQigUT1t95RWNU12GtZ3pteUjNJQ==",
-                "mac": "iyYK0Kfdv0LZTmFKVghNtQ=="
+                "orig": "By the way, Lea.\\. One thing I was wondering about...",
+                "text": "D'ailleurs, Lea.\\. Un truc que je me demandais..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/22/message": {
-                "ciphertext": "HTYFNXAFsmLA36abNf/icaxzDIk8BVQWeDQGUXusWBdMq8DYqaNqhTsgGghsvaMH8mvrdEHM7tx44c5n5OkVpc+sg4/vZfnb5iaNhDm+rBU=",
-                "mac": "Myc8FsSoaartb215Q8FlGA=="
+                "orig": "Back when you explored the jungle together with Grasshead.",
+                "text": "À l'époque, quand tu explorais la jungle avec Monsieur Tête-d'Herbe."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/23/message": {
-                "ciphertext": "/zrDwAGMz+bTCW2hA+QVaSuvE4eRgXLocuxtraDAYRavS5Jv9a1wkhqjBtp3wnJF",
-                "mac": "sQzjQIeh/PufxDkiVG+Vow=="
+                "orig": "...\\. How often did you lose sight of him?",
+                "text": "...\\. Combien de fois tu l'as perdu de vue ?"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/24/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/31/message": {
-                "ciphertext": "0u6EgT4bR0tdXHUUTEq3GLx8JdHs9qbitiPpYEm9SkU=",
-                "mac": "+2exx2VWR+Blv7+lWj9Y/A=="
+                "orig": "What do you mean?",
+                "text": "Qu'est-ce que tu veux dire ?"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/32/message": {
-                "ciphertext": "Lhs3bqPvPevcqvEmfUBF0TshwMcqW8fGKbkEtVVCDQ0=",
-                "mac": "Do0Y17KxvA2Ld1FLbvh8xw=="
+                "orig": "Just look at your hair!",
+                "text": "Regarde un peu tes cheveux !"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/33/message": {
-                "ciphertext": "2+210ow6FyQhTVLc1g+++UpuD+QPb2jwmuMwTsq1e5HzTic3GpTR+4j8kUC9Buko+Qx3jm9xLQzKUPML6WgMRg==",
-                "mac": "VhdS5ZdTbRPgvS30bqk5SA=="
+                "orig": "It blends perfectly with the grass and plants of this place.",
+                "text": "Ils se fondent parfaitement dans l'herbe et la verdure du coin."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/35/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/36/message": {
-                "ciphertext": "Wl/Z09lV/EPxr9NojvPaG0Nsm4WdVzDHyLq0odSowAw=",
-                "mac": "XEOyTfd+fjClcanGYTqbCw=="
+                "orig": "This is nonsense!",
+                "text": "Quelles sottises !"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/37/message": {
-                "ciphertext": "i1khK86IhccLCsmqHKKIJg==",
-                "mac": "+aiFQrMfAC1i5NwO1+5YWQ=="
+                "orig": "Ah oui?",
+                "text": "Ah oui ?"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/38/message": {
-                "ciphertext": "Jkg5rYidbOSUQOhcv8yrYdRZDVb5QBAabCC0n/kLl7w=",
-                "mac": "5oxrew+y2TketLdA301J7Q=="
+                "orig": "So?\\. How often, Lea?",
+                "text": "Donc ?\\. Combien de fois, Lea ?"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/39/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/40/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/41/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/42/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/44/message": {
-                "ciphertext": "+qKiGhFpx3aHcx+Ja5pbWdwk+MvlLQL7rTILDIs3dgw=",
-                "mac": "lQ+ThK4fpxXSJSOs02jM0Q=="
+                "orig": "Oh, you have got to be kidding me!!",
+                "text": "Oh, tu te moques de moi !!"
         },
         "maps/jungle/path-02-crossroads.json/entities/665/settings/event/53/text": {
-                "ciphertext": "Q5jbPpuv2l38Ca+sdjx7Qz+cS5EN4grJUZN8uxzVWh/9HjOkuNlXgQWnifRN6+eew3Ilw+b0H6PZXs77llQ9KKKBokn0j4vkyZM740cDCP6kl6u6l8AIkaH7MSh2d0CTojr7VOvddDGgv/r6CQpC1jAUu1WQ76TjgDQPY6MCjrtG+gkJWs7H3pP/BuswokIU8sHvI2z/8QQA36jkNFRHq4irgc4/W9pzriwd27DLmmM=",
-                "mac": "I1ZgvabZYa1sIXk9kw23hg=="
+                "orig": "I lied to her to keep her going.\\.\nProtecting her from the truth.\\.\n\\.\nYet over time I noticed this...\\.\ngrowing feeling of guilt.",
+                "text": "Je lui ai menti, pour qu'elle continue.\\.\nPour la protéger de la vérité.\\.\n\\.\nMais avec le temps, j'ai remarqué ce...\\.\nsentiment de honte qui grandissait en moi."
         },
         "maps/jungle/path-03-sync.json/entities/31/settings/interact/hoverText": {
-                "ciphertext": "/5+g+Hx4aSYlEE/4zoMlRyVO9NDX76Aajub01lk6mNgacFGR+rleZJ2G5FvuufYX5Z9rQTA9PvPt7D2J26b+re52KbA6eADeec7/EOG5xLAkSzizCmDYfXwehO12Qiq+g8Ufwq7frQERSiTGfopkf4Ou+Z1bigPjtb7gyj60tfHs/Zk1eQjwmPsRQjb5Z49j1Li5ndPs5/but+fjQ7975l1fXhaxBADT2LLIDvgXMTFmHNIWfQwz9vcL/MpKdbF5Sr/JRVA3LEq0Ea8+r1f7hQ==",
-                "mac": "cSQ5Aws07Z7F21Np2Rfmnw=="
+                "orig": "\\i[arrow-n] Grand Krys'kajo\n\\i[arrow-w]\\i[arrow-e] Roads to \\v[area.jungle-city.name] \n\\i[arrow-w]\\i[arrow-e] Roads to \\v[area.autumn-fall.name]\n\\i[arrow-e] Road to V'rda Vil",
+                "text": "\\i[arrow-n] \\v[area.tree-dng.name]\n\\i[arrow-w]\\i[arrow-e] Routes vers le \\v[area.jungle-city.name]\n\\i[arrow-w]\\i[arrow-e] Routes vers \\v[area.autumn-fall.name]\n\\i[arrow-e] Route vers V'rda Vil"
         }
 }

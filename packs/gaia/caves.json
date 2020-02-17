@@ -1,251 +1,251 @@
 {
+        "maps/jungle/caves/grove-cave-01.json/entities/133/settings/condAnims/0/interact/hoverText": {
+                "orig": "Henry's Data Probe",
+                "text": "Sonde de Données d'Henry"
+        },
         "maps/jungle/caves/grove-cave-01.json/entities/133/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "vfIn7/JAkkDDfHPD/QjppGvO2zVETKSx9NtKbsrt/2s=",
-                "mac": "DN4GuqIU2GwTXXle+azYpw=="
+                "orig": "Retrieving Data",
+                "text": "Récupération des Données"
         },
         "maps/jungle/caves/grove-cave-01.json/entities/133/settings/condAnims/0/interact/event/16/object": {
-                "ciphertext": "MpcGDzNY3ve1Zs88f+gDf/iCMtOqNhjoro1Zqc34f7w=",
-                "mac": "IJVwFJUvHpRWnLQ2+Tl20g=="
-        },
-        "maps/jungle/caves/grove-cave-01.json/entities/133/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "cKzxUz9h4gz7fwLNdRzhv4my74XjT22awwv2kSdSnXk=",
-                "mac": "oc3moGVoEVjMIRkHr8mP7A=="
+                "orig": "\\c[3]\\v[item.377.name]\\c[0]",
+                "text": "\\c[3]\\v[item.377.name]\\c[0]"
         },
         "maps/jungle/caves/infested-cave-01.json/entities/151/settings/event/0/message": {
-                "ciphertext": "bJaul6CzKmB6tYl+NR3JdG3d1zYVEvBs6pozVmkN6zEsnyBTGZTK2uHOvqDJKY3rmFJF/T/fc+SHT6JpclURJlpis1LxE1/tnuEU74ZMVw8=",
-                "mac": "a8jXvEdALUtSWrIyHccXiw=="
+                "orig": "Oh, the cave is instanced. Looks like we're on our own.",
+                "text": "Oh, la grotte est instanciée. On dirait que c'est chacun pour soi."
         },
         "maps/jungle/caves/infested-cave-01.json/entities/151/settings/event/1/message": {
-                "ciphertext": "mN/kutiPnYPoAxSk2hoson2F0I7I3GhejtKO1pu9HtM=",
-                "mac": "Ebg8Jo11d7CDz9PrEms54w=="
-        },
-        "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/10/text": {
-                "ciphertext": "6Ok9ud7ZEdaxq5ajEHhxpX6HZDazjy+aQfJFgCiyU2s=",
-                "mac": "0bhSRDE75kw5zaR6juNqpg=="
-        },
-        "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/11/text": {
-                "ciphertext": "ccXO/jmqy7uJhRMgOg1F0uKwQZy1B758apiRTmWtdcs=",
-                "mac": "2elAj5faXejfPa/Lgz24SQ=="
-        },
-        "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/18/text": {
-                "ciphertext": "vaXYossQVPLdr60dcmJJXZpsFxD46iOt4hxfDItetC8=",
-                "mac": "dtTwujfdUlj+y7tlpMLo9g=="
+                "orig": "Good luck, everyone!",
+                "text": "Bonne chance, tout le monde !"
         },
         "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/9/text": {
-                "ciphertext": "lyObl9qYPqJoQRxq2mO2mg==",
-                "mac": "nx95JKsCvUlThu0pchoM4g=="
+                "orig": "Who am I?",
+                "text": "Qui suis-je ?"
+        },
+        "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/10/text": {
+                "orig": "So hungry...",
+                "text": "J'ai tellement faim..."
+        },
+        "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/11/text": {
+                "orig": "Must... eat...",
+                "text": "Dois... manger..."
+        },
+        "maps/jungle/caves/infested-cave-02.json/entities/173/settings/event/18/text": {
+                "orig": "You... eat...",
+                "text": "Toi... manger..."
         },
         "maps/jungle/caves/infested-cave-02.json/entities/176/settings/event/16/text": {
-                "ciphertext": "kxug9g3hYa+BN1vrNkMwcA==",
-                "mac": "F6Q0t7q42UvjV9x+nv6oPQ=="
+                "orig": "Bug found",
+                "text": "Bogue trouvé"
         },
         "maps/jungle/caves/infested-cave-02.json/entities/176/settings/event/18/text": {
-                "ciphertext": "vyaBpVO408IU/PAXFw5pD4E3BvMfPlNHG1cX8rNp56o=",
-                "mac": "LjA5h/6pA5bOt2ihgNV7SQ=="
+                "orig": "Initiating error routine",
+                "text": "Initialisation Routine d'Erreur"
         },
         "maps/jungle/caves/infested-cave-02.json/entities/176/settings/event/20/text": {
-                "ciphertext": "dU7PTIVUckbpBM8BSpWa5g==",
-                "mac": "Vs289WsjKuBVJg8zfbxHHw==",
-                "ciphernote": "eezF0iaBixSfiNDroDThFg=="
+                "orig": "Working...",
+                "text": "Chargement...",
+                "note": "this de"
         },
         "maps/jungle/caves/infested-cave-02.json/entities/176/settings/event/35/text": {
-                "ciphertext": "C4F2JsU80OfqtXTiV9zM6g==",
-                "mac": "UUGglDdvuGhQ7+SgKg4iiQ=="
+                "orig": "Analyzing...",
+                "text": "Analyse..."
         },
         "maps/jungle/caves/infested-cave-02.json/entities/176/settings/event/37/text": {
-                "ciphertext": "s0yaOu/VnZxAaIfKB+bRcQs8NK0pcYUxNJ2I9eK2T+Q=",
-                "mac": "JnIU4ACltlv+Dwn5WtFnEg=="
-        },
-        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/5/text": {
-                "ciphertext": "FNszpwiZevngapjGU7NbGw==",
-                "mac": "tQZ+6LJdgMFhn6NmdOwFng=="
-        },
-        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/6/text": {
-                "ciphertext": "FNszpwiZevngapjGU7NbGw==",
-                "mac": "tQZ+6LJdgMFhn6NmdOwFng=="
-        },
-        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/7/text": {
-                "ciphertext": "FNszpwiZevngapjGU7NbGw==",
-                "mac": "tQZ+6LJdgMFhn6NmdOwFng=="
-        },
-        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/8/text": {
-                "ciphertext": "FNszpwiZevngapjGU7NbGw==",
-                "mac": "tQZ+6LJdgMFhn6NmdOwFng=="
+                "orig": "Finalizing error routine",
+                "text": "Terminaison Routine d'Erreur"
         },
         "maps/jungle/caves/questcave-snowman-1.json/entities/98/settings/event/5/text": {
-                "ciphertext": "FNszpwiZevngapjGU7NbGw==",
-                "mac": "tQZ+6LJdgMFhn6NmdOwFng=="
+                "orig": "[SPAWN]",
+                "text": "[APPARITION]"
+        },
+        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/5/text": {
+                "orig": "[SPAWN]",
+                "text": "[APPARITION]"
+        },
+        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/6/text": {
+                "orig": "[SPAWN]",
+                "text": "[APPARITION]"
+        },
+        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/7/text": {
+                "orig": "[SPAWN]",
+                "text": "[APPARITION]"
+        },
+        "maps/jungle/caves/questcave-snowman-1.json/entities/194/settings/event/8/text": {
+                "orig": "[SPAWN]",
+                "text": "[APPARITION]"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/13/settings/event/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/13/settings/event/4/text": {
-                "ciphertext": "a/uczYJ4ojANsqkY/l+MtZIytwa63U9BF9sMRFyRYWyVZAzPsU1jrae1Esd+6RUpOlITtCAiaxSMsGjTdL6ruAoreAqxBKGoJ0Z+Eh7M/eWWx57cgloreUckE8VfVa2PzbJnZCodPrDxf6/npgnMmthh9CXd7k7uSHkRzs4YJc0=",
-                "mac": "Ne0X1lCWTHCB5dHae6cK8A=="
+                "orig": "There is no way to break that icy wall alone. \\c[3]Report back to Mrs Basu in \\v[area.jungle-city.name]!\\c[0]",
+                "text": "Il n'y a aucun moyen de briser ce mur de glace tout seul. \\c[3]Revenez voir Mme Basu au \\v[area.jungle-city.name] !\\c[0]"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/17/settings/event/5/thenStep/0/task": {
-                "ciphertext": "Xi3wS7IbntzsJDjpACJT1TYBiEkej0iDEmSAeNm6XZ5oNuu8QlJczW34wH43HEOkHbK78oovqQya0QjDe+HY5Y8Nfgbk3AgcNoeMelcf1TzCm+AEG4QromLzC/Cs0x1K5JvLblaFrfUas6DUK87ucYpaO/5kpoM0dEt7kgk+5Mc/VcUOJYH0pOgwYU6iqWYkZEV2LIXOMOGANnOmBOiqdeErxjJznugf3tBhHAIKMBvgMOB73pP4J0AbEwm8IVejHWel31tI4PfHbwdA0Ip6u/rtoYi9iUiqbZOl3TvqsQysTbJoaVGYFiFO/XSvrDik",
-                "mac": "FP9Hep2EWwvj1OfCSpfl5Q=="
+                "orig": "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
+                "text": "Utilisez le \\c[3]\\v[combat.name.jungle/special/heater]\\c[0] pour faire fondre le mur de glace.\n\\c[3]Téléportez-le avec des projectiles d'ondes chargées\\c[0] et \\c[3]déclenchez des explosions avec des attaques choc répétées\\c[0]."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/14/name": {
-                "ciphertext": "rbv8Asdo3x7LfCdfyMz7ig==",
-                "mac": "XkMOFnoXMozPMUUCNeER8g=="
+                "orig": "Forni",
+                "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/16/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/17/message": {
-                "ciphertext": "x9fOerA/Rl4CErVhVxFY6UmL7KK2ogJcM+Thx/71jQ39cCmWRlu2WVOBvd3kU7556Qv0XktbImULFQzHRy96+s6mg27n2kBMFA0V4AR4XaM=",
-                "mac": "CSVWCkKlgKeI+k51DkzgZw=="
+                "orig": " S-s-seeker!\\. H-hello.\\. I-it is good to see y-you f-finally arrive.",
+                "text": "P-P-pisteur !\\. B-bonjour.\\. C-C'est bien que v-vous soyez f-finalement venu."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/18/message": {
-                "ciphertext": "X4FoeZPBI6ub0SXIkNYi/Q==",
-                "mac": "xKd0yfBXiCCSO0RsQRa0pg=="
+                "orig": "Hi...?",
+                "text": "Salut... ?"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/19/message": {
-                "ciphertext": "xDH+OYRf//HdHp2uTCRBimlyRf7DKq+bCIthZRB+hTTi8uwAtewzvBjyxkmt23EYYW/j/kXS5TMvqP7cjD/V0g7dZ8GDQpOvZqEoSoQH2CEwDqy8G40wHHPsZmQxtpUz+HD1StPmfucVFYkU9FvKlzLLWgoH99OIoib7r+1laDU=",
-                "mac": "vBs3HYJQL2LhdeAueGPHbw=="
+                "orig": "O-oh, I-I am s-sorry.\\. W-waiting in this c-c-cold m-might have g-gotten to m-me.\\. P-please exc-cuse me for a s-second.",
+                "text": "O-oh, J-Je suis d-désolé.\\. A-Attendre dans ce f-froid a peut-être f-fini par m'avoir.\\. E-Excusez moi u-une seconde."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/22/name": {
-                "ciphertext": "rbv8Asdo3x7LfCdfyMz7ig==",
-                "mac": "XkMOFnoXMozPMUUCNeER8g=="
+                "orig": "Forni",
+                "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/24/message": {
-                "ciphertext": "7LROCU6Nw2QKD5z23xjG7eB/o8jL9HddjmfeTW7lEb1LvTlpyVr6W2G6nWpwYkxup9vzaeaLfrDIYIAQG+ThoM9bhJ0EM0680xvQ34guuwJD6eqZ/aNYuHgfFTXctAUHPh1WOjcSex85O5qmHzt6tw==",
-                "mac": "ncoan3pnG1k3Ocr5YENHLg=="
+                "orig": "Alright, much better.\\. I am sorry, these temperatures may have frozen my professionalism along with my tongue.",
+                "text": "Ah, c'est mieux.\\. Je suis désolé, ces températures ont gelé mon professionnalisme autant que ma langue."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/26/message": {
-                "ciphertext": "4tUfTD5+5MdMzOXcvm08MSB9ZjPdibigFjgm1aCxgGKSVpS87yON+7EDEKyof86wP6JGBiPg5+KltkI3cUm4+DO6Z0G0WaSkzaFzCpVX59XZSe8t7321CXkyzZ9L9VRkfUZ1RMi/cKz6Ltd5XdduJkA6hFPKdivsLzlTyPKpKVM=",
-                "mac": "d+cHYWZdBYB4mDAwN8DMrA=="
+                "orig": "In any case, \\v[lore.title.seeker], we have work to do!\\. Feast your eyes on this technological marvel!",
+                "text": "En tout cas, \\v[lore.title.seeker], le travail nous attend !\\. Admire-moi un peu cette merveille technologique !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/31/name": {
-                "ciphertext": "rbv8Asdo3x7LfCdfyMz7ig==",
-                "mac": "XkMOFnoXMozPMUUCNeER8g=="
+                "orig": "Forni",
+                "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/33/message": {
-                "ciphertext": "NnUMizUN6hpgnz7k0HeN4xAPqJPVkW1yr9OthhvWhYHbY/egugMlCm14Neuhxxh1OEKkYE/pVK1+jKOwTMpZMoGBvOalPYd4s5DVopqR1k7kukmpRk/DC1+Dyd99u9VppEs92KL7jDIhNjPOPlpIVs++08NkVCjGjVicBsZLTAULCJb+tldGENUuGm5mBFNY25GuAyj+PdZXsNckMKHsAw==",
-                "mac": "yDLx2VzxapBE33jhR1c0ng=="
+                "orig": "Our engineers called it the \\c[3]Hyperforce Plasmaoven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched.",
+                "text": "Nos ingénieurs l'ont appelé le \\c[3]Plasmafour Hyperforce\\c[0].\\. Ce nom est stupide, c'est sûr, mais sa capacité de chauffage est inégalée !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/34/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/35/message": {
-                "ciphertext": "I7jE/Fc4IhROAwHAHGK8QtqB0LRVF91A0fP+XwVcpPGlXi5ADIh1IDsuiMx9OzcXmN15/rY+6ByQeVlvZQ8tDW+MwDT4uP1lv3qS0nLnmJyZ/bByy61Tnm65VT8B9FgWxagXWFr8s8WYCxiguFKmvw==",
-                "mac": "Y8FQtZdFdDrRhP/vtcCB5A=="
+                "orig": "It's finely attuned to Trackwalker, meaning that you, \\v[lore.title.seeker], will be able to control it with your abilities.",
+                "text": "Il est adapté au Retracage, pour que vous puissiez le contrôler avec vos capacités de \\v[lore.title.seeker]."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/36/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/37/message": {
-                "ciphertext": "1tcIRXhOEQR5x5nRxIE0KlNQ3ZKyz1BWpPivNFNgdJsQndGvMDk+qFRmPoJcR/gkMJoQb5nrwjPlpGtn05VLVsBGq/Hj5HSPzp5wl6exN2B9Vsj1uvt0uiSnIHUNrFi+6YVlHMNV0mjHalXzo6CoJmPC7rzwkbG2koXAnGe/aynBLasdQpWEo9qq/lbI+lwVupBQ4oQJd8hTf0eANEXm8Vu96wvsooVngcIaoJKns84=",
-                "mac": "uFTjkyM0woqAndF4Nry/mw=="
+                "orig": "It is too heavy to move, but a \\c[3]charged Wave projectile\\c[0] will start a teleportation sequence that \\c[3]relocates it to your position\\c[0].",
+                "text": "Il est trop lourd pour être déplacé, mais un \\c[3]projectile d'onde Chargée\\c[0] va démarrer une séquence de téléportation qui \\c[3]le placera sur votre position\\c[0]."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/38/message": {
-                "ciphertext": "uczHpdQtE7ECVzyYgqMgHfwltyJaGpGceRdBNO9Qg3c/pxsmA6Wn7NiSfWC6v9fzwaww9rLsQsMQf4fO4wlR+d/tyRFxcqhLQgbeAxf8Q7Ye3JSf7vb882aJ7y4IytXw5VTp7Y0RjM6fl1unmw0rE4OrM+vyl7mlvTUlws2hlaMohVO30EIgYoO5e1m8NiwuBN1Juai7v1kcr/qFB1p1hYxbuBOC/EFAHfOKyF9mn5g=",
-                "mac": "2rH2cVgMR0AV3H8/H7tObg=="
+                "orig": "Hitting it with \\c[3]repeated Shock attacks\\c[0] will trigger a powerful \\c[3]heat-explosion\\c[0] that will melt even the thickest ice!",
+                "text": "Le toucher avec des \\c[3]attaques choc répétées\\c[0] va déclencher une puissante \\c[3]explosion chaude\\c[0] qui peut faire fondre les glaces les plus épaisses."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/39/message": {
-                "ciphertext": "J4q4XKzaHyRl58CW2X9+hvbG7fo6hg2QAChkFkobbSgFzjod+VHklWpW8++jPBLpCG4v4uRJo6fGEUvZ/RcyF66CVpfHOmxb6burize+T16s1DS0cTFdHYpX/anNr6T/",
-                "mac": "xeLodi2aKkxHQ4jzzNebMg=="
+                "orig": "Though the machine will enter a \\c[3]short cooldown phase\\c[0] afterwards.",
+                "text": "Bien que la machine aura besoin d'une \\c[3]courte phase de refroidissement\\c[0] après cela."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/40/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/45/name": {
-                "ciphertext": "rbv8Asdo3x7LfCdfyMz7ig==",
-                "mac": "XkMOFnoXMozPMUUCNeER8g=="
+                "orig": "Forni",
+                "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/47/message": {
-                "ciphertext": "BSoudSgwdyw0H8D01RjyhWEV1zhKWYnxcY7o06YjLDEAy13WQG5DFisM2BOFnQTYuXAEwbTe0cDefJnJ+nGLMNo6W+5nO3UuVywQvxl79KJugWrTjrw1YqZOf4tDuO+s",
-                "mac": "IJWnE3xcZQFT0oD3QlWu7w=="
+                "orig": "Now use this wonderful machine to melt through the ice and solve your assignment.",
+                "text": "Maintenant, utilisez cette merveilleuse machine pour briser la glace et remplir votre tâche."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/48/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/56/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/58/message": {
-                "ciphertext": "RWCsw3SOtwL+VfnQh/I3snt6+ZdBp3bPueowQi7CB7oLZ2H86c5vUaQHlfSR/76Ya9uMM1dQNH78YO6NPxV6m9OmjhNVuX34bm/pXYaGHYT37iNGLEZJ4itDXfrOR9sn",
-                "mac": "ielHIBAJdZbBvAV5yjlhdA=="
+                "orig": "I will be waiting here.\\..\\..\\. In the cold.\\.\\. So please make haste, yes.",
+                "text": "Je vais attendre ici...\\.\\.\\. Dans le froid.\\.\\. Donc dépêchez-vous, s'il vous plait."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/59/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/60/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/62/text": {
-                "ciphertext": "Xi3wS7IbntzsJDjpACJT1TYBiEkej0iDEmSAeNm6XZ5oNuu8QlJczW34wH43HEOkHbK78oovqQya0QjDe+HY5Y8Nfgbk3AgcNoeMelcf1TzCm+AEG4QromLzC/Cs0x1K5JvLblaFrfUas6DUK87ucYpaO/5kpoM0dEt7kgk+5Mc/VcUOJYH0pOgwYU6iqWYkZEV2LIXOMOGANnOmBOiqdeErxjJznugf3tBhHAIKMBvgMOB73pP4J0AbEwm8IVejHWel31tI4PfHbwdA0Ip6u/rtoYi9iUiqbZOl3TvqsQysTbJoaVGYFiFO/XSvrDik",
-                "mac": "FP9Hep2EWwvj1OfCSpfl5Q=="
+                "orig": "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
+                "text": "Utilisez le \\c[3]\\v[combat.name.jungle/special/heater]\\c[0] pour faire fondre le mur de glace.\n\\c[3]Téléportez-le avec des projectiles d'ondes chargées\\c[0] et \\c[3]déclenchez des explosions avec des attaques choc répétées\\c[0]."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/analyzable/text": {
-                "ciphertext": "rbv8Asdo3x7LfCdfyMz7ig==",
-                "mac": "XkMOFnoXMozPMUUCNeER8g=="
+                "orig": "Forni",
+                "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/npcStates/0/event/0/name": {
-                "ciphertext": "rbv8Asdo3x7LfCdfyMz7ig==",
-                "mac": "XkMOFnoXMozPMUUCNeER8g=="
+                "orig": "Forni",
+                "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/npcStates/0/event/2/message": {
-                "ciphertext": "HAL2vS5Wp7RiXkCRMnM4IpVXwQgLfENhwt/4mZ7rVssD78IWTSmmk2qtBC+QrJq8f7o+287xbAuyYwBrMVgJ5FvtXUHw7iFvSJXMQcGlGJCFroa6ZR6eVQBuSEvqflDBTaC718Gb54SJ1XBs6OH3rSA2m4lJgcG62DEyNmu+sHE=",
-                "mac": "tH2KHBhmdfPJVt/qqvfSrQ=="
+                "orig": "You will be able to control the \\c[3]Hyperforce Plasmaoven\\c[0] with your \\v[lore.title.seeker] abilities.",
+                "text": "Vous pouvez contrôler le \\c[3]\\v[combat.name.jungle/special/heater]\\c[0] avec vos capacités de \\v[lore.title.seeker]."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/npcStates/0/event/3/message": {
-                "ciphertext": "NZIqnuNhh7Ux5Bey6QsNaoFNmfVJl/j8e0oMLPK5ZY7yt0kFToVuDXTd0SwG3uZ+zmKqAiAiQJoYwHY5fm86ix4VQVHfIHMoSIyLDuOf4doPLAHful5V2nDGF0heXDq0S4J0yJzy02NXbZQYnQCwf5C8D4k2pNiltlMmlVidCWbCh/9QtvXCGTcyrTVZGSq5+KDr6sBi9R7NFVesskEhim3niMWNBXHeFx6Ou0yEgyuUnVlZll0614PVfJW/9TrR",
-                "mac": "YOy+anBbIFoJTxaI8FF4og=="
+                "orig": "Use \\c[3]charged Wave projectiles\\c[0] to \\c[3]teleport it to your position\\c[0] and \\c[3]repeated Shock attacks\\c[0] will trigger a \\c[3]heat-explosion\\c[0].",
+                "text": "Utilisez un \\c[3]projectile d'onde chargé\\c[0] pour \\c[3]le téléporter sur votre position\\c[0] et déclenchez des \\c[3]explosions chaudes avec des attaques choc répétées\\c[0]"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/npcStates/0/event/4/message": {
-                "ciphertext": "lEXdZpW8kEPUQerh1nHC6KrLeLPxFTSeVR1AiSLDtsmeWLme0fVlp3OA3s+RO8L54oL3TYKgAevBdYfvYr8AKMEd/ztKdXIneXh25SFtHvXzkxHY1KZKvCE8DX+v6OfER7OsX//l3/9xDZs38F13OBDGW4rEBUhakcv9DmxDj9w=",
-                "mac": "QRMGDbLflEzCnLXcZET5lw=="
+                "orig": "But remember that the machine will enter a \\c[3]short cooldown phase\\c[0] after the explosion.",
+                "text": "Mais souvenez-vous que la machine aura besoin d'une \\c[3]courte phase de refroidissement\\c[0] après l'explosion."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/npcStates/0/event/5/thenStep/0/message": {
-                "ciphertext": "A4TA4ROz6EREDqQycruFUHIiTVh0+S3/fmBL9F3/kvsD71KN1JaS3zuBA6IEiWcyFk8c6iO+hTwBAbOlPOTwKj7UK4luLgdFpzELcdTU0uhbrvLuP8oRD3JBFhoZwtRw/GUM4jkymnTXDleh0aFyuN9Sd87JM4ZQvjj1Oh5af0k=",
-                "mac": "cPKGK/9v61B+ia3ugSlDIA=="
+                "orig": "Now use it to melt that icewall.\\. Teleport the oven next to it and then trigger an overcharged explosion!",
+                "text": "Maintenant utilisez le pour faire fondre le mur de glace.\\. Téléportez le four juste à côté et déclenchez une explosion !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/39/settings/analyzable/text": {
-                "ciphertext": "3d0pEmicwrUqbPhlhq/aHg==",
-                "mac": "m+IxcZoEcquJkWPRxVgdwA=="
+                "orig": "Lawfer the Lawyer",
+                "text": "Voca l'avocat."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/39/settings/npcStates/0/event/0/name": {
-                "ciphertext": "3d0pEmicwrUqbPhlhq/aHg==",
-                "mac": "m+IxcZoEcquJkWPRxVgdwA=="
+                "orig": "Lawfer the Lawyer",
+                "text": "Voca l'avocat."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/39/settings/npcStates/0/event/2/message": {
-                "ciphertext": "BGDUoyhWNksgzSGZc+CSBrcoa6nFpRe2RVoKdoiwciGUwRV9I5h0Op7JGNaM//4quEoZTVhNSOaAj4R0rxJRqJmCQV/cVbJoAocrarZveoY=",
-                "mac": "iYWUXAWOwrAVs0ov5h72eQ=="
+                "orig": "I-I'm freezing.\\. This is not what I studied law for!",
+                "text": "J-Je me les p-pèle.\\. C-C'est pas pour ça que j'ai fait du droit !"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/39/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/40/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/40/settings/npcStates/0/event/0/name": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/40/settings/npcStates/0/event/2/message": {
-                "ciphertext": "d2dGFULbFHChVHpbg+5bs4VYJ74lzhzw5Izn1xHluQA6trb4wbPSg8YDPqfsLjmlJ44yGtWvd/iyHM18MhLNi/7TqO/+nQtjPbyoiAYExNiBLcbBNrDqs7NExWhSLmfU",
-                "mac": "5cbPfTV0RDlwc3taBvq39Q=="
+                "orig": "I am protecting the civilians from monsters.\\. Please do your job before the cold gets them.",
+                "text": "Je protège les civils des monstres.\\. Faites votre travail avant que le froid ne les tue."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/40/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         }
 }

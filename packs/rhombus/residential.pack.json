@@ -1,396 +1,396 @@
 {
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/3/message": {
-                "ciphertext": "s0RaShthMVHY9SvOjpCbcfBAmFkEGJ+XNBmeBV2jeqQ=",
-                "mac": "77DKptFlb3yA4BmWW+OpuA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/4/message": {
-                "ciphertext": "LuG29usvgTbnufAgJ29HGmS3FLCLfWes+GBOnRJbNHK9+0wY+oi3UJhr9FhHMNpi",
-                "mac": "8B76OrDGopjJ5syDPSY6xA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/6/message": {
-                "ciphertext": "DvoHydGGD5NeO/LpyajwTfiyvWXWvTNDF9lI3fE89dUIcGh+j6EDogCnzYd2PALi3+kAEhuzAxvKcpbsXKsDOQ==",
-                "mac": "aIR/frYmqKUKMruX18ShCg==",
-                "ciphernote": "b68lNuWnxVrTR1J4rwCumg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/240/settings/interact/hoverText": {
-                "ciphertext": "pxUSvriuhqvKJ/tEJEpxssBJ5d3OgrlDGWqy9lhKEvY=",
-                "mac": "ez6dQ9yxfn7QxszXCjZKsg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/276/settings/interact/hoverText": {
-                "ciphertext": "w1q6f38luH6yh0GeDuzmrlSE9YZJVUjVtN0zBNYmPpc=",
-                "mac": "N5V5bI4sNtqUwclhjrYaYg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/276/settings/interact/title": {
-                "ciphertext": "66gaKJkNnmw2off5R5qRcQ==",
-                "mac": "3zGoR5/G/vzlSpP9RY+03Q=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/329/settings/interact/hoverText": {
-                "ciphertext": "Gkfz7pJZc0UmBTYiQqOZCeDxiIba1f4+oj4fFyOkWJY=",
-                "mac": "/9HoHydRGODaRBtc8bkj2A=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/329/settings/interact/title": {
-                "ciphertext": "p8S2/1oTm1KHAglgGdNaCw==",
-                "mac": "vnQ0JVnw470jLB+QYmBsiA=="
-        },
         "maps/rhombus-sqr/residential-s1.json/entities/37/settings/blockEvent/2/message": {
-                "ciphertext": "gxwzA8Re4Vf4S8kUZTrSLbM0q5ZJjcdxEyHOtoijcUYmyEOyTqWaWKArGa7tSkZrURhxFod4KnjuB0jsZD5DAV///1a6pYP2W8+9fxnbMvjiyacF0HmFxS48HNOW1Ak0IlNddabOZC1FsBwt0ZX8Ez8GfoHFrard9dsAQpwNhBK9CJYCpnyUM96rQeXhc4e+G9bGJ0/Iphsr5yk7bvZsI2FB4Xg8CCDMabThOdJ/GcQ=",
-                "mac": "FRzuCksdMsYguRApCTW7Cw=="
+                "orig": "Lea...\\. It should go without saying that you should meet Mr. Vestorovich in there \\c[3]alone\\c[0]. Please disband your party.",
+                "text": "Lea... Je pense que c'était clair qu'il faut que tu rencontres Monsieur Vestorovich \\c[3]toute seule\\c[0]. S'il te plaît, fait partir les personnes de ton groupe."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/37/settings/blockEvent/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/3/message": {
+                "orig": "Hello young lady!",
+                "text": "Salut, jeune fille !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/4/message": {
+                "orig": "Isn't this part of the city quite beautiful?",
+                "text": "Ce quartier n'est-il pas magnifique ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/6/message": {
+                "orig": "Indeed you could say it is very...\\. fency!",
+                "text": "En tout cas on peut dire qu'il est très...\\. balisé !",
+                "note": "de: \"zaunig\""
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/8/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/240/settings/interact/hoverText": {
+                "orig": "Do not Disturb!",
+                "text": "Ne pas Déranger !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/276/settings/interact/hoverText": {
+                "orig": "\\c[3]Kuntabunt\\c[0]",
+                "text": "\\c[3]Kuntabunt\\c[0]"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/276/settings/interact/title": {
+                "orig": "Villa",
+                "text": "Villa"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/329/settings/interact/hoverText": {
+                "orig": "\\c[3]Mr. & Mrs. Oolo\\c[0]",
+                "text": "\\c[3]M. & Mme Oolo\\c[0]"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/329/settings/interact/title": {
+                "orig": "Twin Home",
+                "text": "Maison Jumelée"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/374/settings/interact/hoverText": {
-                "ciphertext": "Gkfz7pJZc0UmBTYiQqOZCeDxiIba1f4+oj4fFyOkWJY=",
-                "mac": "/9HoHydRGODaRBtc8bkj2A=="
+                "orig": "\\c[3]Mr. & Mrs. Oolo\\c[0]",
+                "text": "\\c[3]M. & Mme Oolo\\c[0]"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/374/settings/interact/title": {
-                "ciphertext": "p8S2/1oTm1KHAglgGdNaCw==",
-                "mac": "vnQ0JVnw470jLB+QYmBsiA=="
+                "orig": "Twin Home",
+                "text": "Maison Jumelée"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/636/settings/interact/hoverText": {
-                "ciphertext": "XOh410+IlRO55c33PxtOMk1jvvCkWjuFLJx7igFig2+r20QWXmGu0rtd4Sk8t6kj",
-                "mac": "e7g0A3UpdYF5hpcFpTMYHw=="
+                "orig": "\\c[3]Bring Back Fishing\\c[0]",
+                "text": "\\c[3]Rendez nous la Pêche !\\c[0]"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/636/settings/interact/title": {
-                "ciphertext": "uEXpNtghaKMBuAclNhv42g==",
-                "mac": "/b8YNmaScISpIIUw3A8Ebw=="
+                "orig": "Fan Club",
+                "text": "Fan Club"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/2/message": {
-                "ciphertext": "hFKavWgC7I6uIZBF99KWi7rkDkClaFYUrwX8qKmxpnMJa1Hx1Y3QQa8NrgnBs0USY4ormK/q+RMsTTLHghn6TNByKUEjag7sXwIGe52cHXk=",
-                "mac": "8oJJM88UW0Npe1Z0eTZMHg=="
+                "orig": "To fish, one must become the fish. Become one with the water.",
+                "text": "Pour pêcher, il faut devenir le poisson. Ne faire qu'un avec l'eau."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/3/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
+                "orig": "How?",
+                "text": "Comment ?"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/4/message": {
-                "ciphertext": "wQQxv5nFbC/OIzgpKjXJxQ6+RWXRTN0+rDB4lAfgSC4=",
-                "mac": "5KXu0oh14JJonhA0OVtCFQ=="
+                "orig": "Feel the fish.",
+                "text": "Il faut ressentir le poisson."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/5/message": {
-                "ciphertext": "4H7tOCIkAtIz4UDBbK3hsg==",
-                "mac": "M05ib//9KMD9G3WwxGVyaA=="
+                "orig": "Be bold.",
+                "text": "Sois forte."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/6/message": {
-                "ciphertext": "Cpg4WpvoNMT+kSjlSOqKNrFoyNwvsmQXrLAE3EAbcOg=",
-                "mac": "lYk5QQ3Hz8BrB1AJZJyzvQ=="
+                "orig": "Be rash.",
+                "text": "Sois audacieuse."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/7/message": {
-                "ciphertext": "lgxoFBaqDYuviyxkc8lTtyMA8AUxiL4MtcilLTmf+eE=",
-                "mac": "2EOukeTRWq+DGOMGe7Wo4g=="
+                "orig": "Be a radical fish, my friend.",
+                "text": "Sois un Radical Fish, mon amie."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/705/settings/npcStates/0/event/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/708/settings/dialog/0/text": {
-                "ciphertext": "FYHzIdub6DWpGfTkx6Rm8OePvNC0OZAr1l/USLjNkVc4CxFjkntj8ZjUsIgz97eaX5EgBumoMxDQMheA9F8Sig==",
-                "mac": "lhDohzitfp0i2IFSFn0K7g==",
-                "ciphernote": "KhpG3cXgnrzs3qXOlX5sEpbzXM8zWyLerxuYiBRQrO8/YYXUkNBjrSZqiBZJj3u7j3ZB/8eR9jIuAl0Xq1GjwA=="
+                "orig": "Have you seen the latest comment on the fishing thread?",
+                "text": "Tu as vu le dernier commentaire sur le thread sur la pêche ?",
+                "note": "no convincing word for fishing thread, and no joke"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/708/settings/dialog/1/text": {
-                "ciphertext": "2YD0LzWf4AyKPNP0ydh0uyPARSR6AB94kns5NpEiPTk=",
-                "mac": "H+IwVMChSHfMo+6wItKtEw=="
+                "orig": "Nope, what's it about?",
+                "text": "Non, il disait quoi ?"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/708/settings/dialog/2/text": {
-                "ciphertext": "YBSbNh8ntaqsY2BFAyp4rfSpyG6E6tV9tFAOLg3kWM7H4IZn3GCqKP0bnNBdHIqj1ZEAzs/S/dWyxvDxhj8rye4MKfrtwSoRBkUp4ibHK6Rj3LtxO32UyXhMAvBZp9HS",
-                "mac": "77t888atYekof0+PsWGntA=="
+                "orig": "One of the devs said that they have no plans to ever bring fishing back.",
+                "text": "Un des développeurs a dit qu'ils ne comptent pas réintroduire la pêche dans le jeu."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/708/settings/dialog/3/text": {
-                "ciphertext": "KpPoCTpZQ6ExMh4O/r9Wn1Du0LmaAZ92xxtE05/vRJM=",
-                "mac": "Hr7qEtajFj/hED1bURnwug=="
+                "orig": "Oof, that's harsh... ",
+                "text": "Aie, c'est rude."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/708/settings/dialog/4/text": {
-                "ciphertext": "qfj4QGnxeyuEZCS0NTOppwM5A9mF7oKaeoi65Mj826R/q04u2ZyusW5/nRa1d2VlzidWACNwSIGWW/FXVoHv0KYi6FB6JjsPpKl7AK/eIco=",
-                "mac": "bLZNm8Y3I+Zl/LFsfusF8Q=="
+                "orig": "And the kicker: They said most people just enjoy hitting plants more.",
+                "text": "Et le pire : Il dit que la plupart des gens préfèrent frapper les plantes..."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/708/settings/dialog/5/text": {
-                "ciphertext": "xh4Ecd+XLnlwSyFYWA06mOjtuFZnLrnM2tqrBZg79w9v+Cyxzsl2kLkuT/grxdxjCZZkkzmpyzJENoJgXXsInrqYKejSp2SmT5erWU/AZ6jFT8eXVRkOXe/gtnaUOqbm73byCV6fbo0xBuK4tRr3BQ==",
-                "mac": "ROIQ7zRWu7Rw4tCHC0+gcA=="
+                "orig": "But what about us? Some just want some peace and tranquility while fishing.",
+                "text": "Mais et nous alors ? Il y a encore des gens qui apprécie le calme et la tranquillité d'une bonne pêche !"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/748/settings/interact/hoverText": {
-                "ciphertext": "bX7sQkBcy/wyo8foC5ZBzHbhMq9cyU3Bhfi3iuyoXjQ=",
-                "mac": "ejfvAj4s4RVO0ynKBek5Lg=="
+                "orig": "\\c[3]Omni Gilders\\c[0]",
+                "text": "\\c[3]Omni Gilders\\c[0]"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/748/settings/interact/title": {
-                "ciphertext": "X/Z7LD2xgvk0kLJobMvCtMMCdlQKunp/zWnCsPTIKG4=",
-                "mac": "H548kNgrCPDGYkCDREHxSA=="
+                "orig": "Coming Soon",
+                "text": "Ouvrira Bientôt"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/894/settings/event/0/text": {
-                "ciphertext": "y2ut4F12zmvSCitEAl5DFQ==",
-                "mac": "iEmq8TKwjMvIAP1ZCB2edA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/0/message": {
-                "ciphertext": "pivtaZXBgrj7x1OW9+1vGmYij2Jyxw1wympj0M7Nh8A=",
-                "mac": "uu9wEj8qXXxPMO5cQP8Trg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/1/message": {
-                "ciphertext": "PUZxivsP9i0bchKxSZiL6I+4xRx2XJSzu9Mylc2pw+uCSlVS4D8bNHy9Rqvz+GCoN0jOsC8RtXB3mpNIe8OOug==",
-                "mac": "c5ICqOIbGV6HGt8M5XtM/A=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/13/task": {
-                "ciphertext": "fDfQM1ZmH1q7iF+zEjiJaZcvTqcb1fciv3zNSS/dYaht4CMo92jJKgvkmyfodPbRKdLq82nE3XMLP98L0KTvaofHokIbV76svD0GFCgwckAjJI0+GdNi57xQOs2OtQeE",
-                "mac": "w7ntjrrJgPGJA7h1kGTCtg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/2/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/3/message": {
-                "ciphertext": "c7VDs2ITbG+GRZKroFIDIZFsodIi08diJjnXxkxwAJitDs3x4HOj5Fr2oBoZAEEiaowy3DAMqogziEpqulBOkVO/cnB6MQMnPr5GaGlnIVY=",
-                "mac": "YzH3HZiiD5xx7OkhBKzPHw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/4/message": {
-                "ciphertext": "1fw6yEf/o0eRxymsBX6CAw7pIulz8jxmtYcJwP/Ktgv8CaMngAUUnrI3Oz7GfARn",
-                "mac": "YXwA86vwd5mK8aWcaTDrGg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Missing Pass",
+                "text": "Passe Manquant"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/thenStep/0/message": {
-                "ciphertext": "BYDTSXpjWTdE+iySngLdqGjmVEChSKhqctIW73vds8yUEikuO+EHpR9ytGbeSssCzaWpzt5IJp0NpkE1LI1LbhSyTtp1Vchm1RLgyANg9e5d1bGQixZiLM9rFcU3iN9xL3vCGXZaxM59mcdTJKn2jA==",
-                "mac": "YqzohySYhxuqzZkKVCFnbA=="
+                "orig": "Lea, you need to enter his mansion \\c[3]alone\\c[0]. No one else must be involved.",
+                "text": "Lea, il faut que tu entres dans cette villa \\c[3]seule\\c[0]. Personne d'autre ne doit être impliqué."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/thenStep/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/0/message": {
+                "orig": "He is waiting inside.",
+                "text": "Il t'attend à l'intérieur."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/1/message": {
+                "orig": "He wants to find out just how advanced of an AI you really are.",
+                "text": "Il veut savoir, à quel point tu es une IA avancée."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/2/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/3/message": {
+                "orig": "Well...\\. just try to \\c[3]act naturally\\c[0]. Human-like.",
+                "text": "Essaye juste \\c[3]d'agir naturellement\\c[0]. Comme un être humain."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/4/message": {
+                "orig": "Pretty much like you did so far.",
+                "text": "Comme ce que tu as fait jusqu'à présent."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/1/event/quest/2/elseStep/13/task": {
+                "orig": "Meet Mr. Vestorovich in his mansion in \\c[3]Rhombus Square - Residential District\\c[0].",
+                "text": "Rencontrez Mr. Vestorovich dans sa villa au \\c[3]Quartier Résidentiel de Rhombus Square\\c[0]."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/2/event/2/message": {
-                "ciphertext": "2JR08GA/97pSHDxy0ryRhjyPlPtHI6UoQQnkH0rdaA0=",
-                "mac": "/GvwrezE0MKQ4uIFV6vfXA=="
+                "orig": "Good luck in there.",
+                "text": "Bonne chance là-dedans."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/990/settings/npcStates/2/event/3/message": {
-                "ciphertext": "UucQS30kFcGCh/fF2rXRiyjeLO2Bh7P6ilZaeOrK1WQBW87yPOUEj91aFdOM6aWpxALtGMI7TVzqdY2y/7t7uQ==",
-                "mac": "IivjfOOQXQJlXrd39aATCw=="
+                "orig": "Remember, just \\c[3]act naturally\\c[0].",
+                "text": "N'oublie pas, \\c[3]comporte-toi naturellement\\c[0]."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/992/settings/event/0/message": {
-                "ciphertext": "E/jih0S7kdvdDvmjLF+G6P7PDFbQDc7aebNWRtQkOso=",
-                "mac": "QtN1zi9mJrghwS7ZsEPHrg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/0/message": {
-                "ciphertext": "jwSByJNMcz1E97JGZoDQveZCmf5jqhLft0aErYc5o2Q=",
-                "mac": "i8NzIagiA5VH2u0+mj3Fpg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/10/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/11/message": {
-                "ciphertext": "1Jf5UZmBt1EWOXYoa+V4FZY0pNnB0jMfqvF2IoWbB6y2LvsebHt6NRKT7ZqDNhcXdWSJWrm6LyftfKjT4YTaOfIrGNajbf9Xaqj/jHqkAFyDEayb9GuGiSJ2xPnw2JT1",
-                "mac": "ZURsklGMBlE5HgU3cTehXg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/14/message": {
-                "ciphertext": "TbHfYrcw/Pf1223RjgyC6g==",
-                "mac": "4dAhn9C9N9CKTnW+WF/ftw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/15/message": {
-                "ciphertext": "56A3sxW/L11t+eaTR6az1koQQZgZROOoFyFBdYkXgfSlya8eHLQjOUhj8gohKTliMHajoA9oaD7ra2FYIRIFdA==",
-                "mac": "kokllCiz2vNbF5uwbj5ehw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/16/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/17/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/18/message": {
-                "ciphertext": "PRkvP1M7CHJAsUFTDDgaR+ZAlHgvA5wxRhPiynD+sbLm/1pKuPYfuJ7XiMzVxbgL",
-                "mac": "QJJ36CcGec1uq2xTCG5Efg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/19/message": {
-                "ciphertext": "hG/3g5A/eFiFA1752e0qF4lrodF1J81JrS9dDZ2wpMaWiOk+qzuoXYU8fRMb8EgEpuSvLsqxXQwfOcet7jMFeA==",
-                "mac": "TdmnaZQR2bNUzTM86XigKA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/22/message": {
-                "ciphertext": "Ey/hBl85U4/goAXt57V1OmXZU2jDiKrRhIUW9kkqEEg=",
-                "mac": "vew5uRt2cBqQJ+72EfqtxQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/3/message": {
-                "ciphertext": "OZT+fwwmtu/1DTk8Dv6wh8lIwCGTMMkcxCZABgt1wsg=",
-                "mac": "n7mSeXNfJZsQSGrq87/+yg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/4/message": {
-                "ciphertext": "sjOc88+7Peham6IHImdTNg==",
-                "mac": "dimG1P2Y1yT01H4e64JSXQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/5/message": {
-                "ciphertext": "HRVFGRgMChrcheuBnw0B4b0BreqUnRGzM4V5BGGYxTBB/LMJZPcnnMweQzpY51HVyZ5PfV3587Jq+/2KJkXkWelzdrRUDYagHW2OLv28RQ0=",
-                "mac": "HXUcjZCZSFEdX3tIcgTzTg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/6/message": {
-                "ciphertext": "8F5K/mrlMCCHZRPiZ4jNprNSOfVFhZiuPo3pVNYy4QfIDp32+ciWLXdI/74yMWKoiqSZ50I48X+0570JQd0tyw==",
-                "mac": "xAg5hKnbkWXrAmZF+aIrqQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/7/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/9/message": {
-                "ciphertext": "52VItD8FZM4TDgf+8z68qBZ4eAaiiHB2RWqTdMHqwzo=",
-                "mac": "xW+zy/KIv2Fad10xLn8Wxw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/0/message": {
-                "ciphertext": "rjBpih/YmEm+iXUifYe0fIxAiewdWMcAg2mDOTOMo4B0SXRM7W+72kuog+uzgJXT",
-                "mac": "gBKjyjAZMcBjNLHSfce12Q=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/2/message": {
-                "ciphertext": "NCIRejg+kHcPOvqrK+aiy/9CarLau9dI7ajtS9RFzYXa4lZ70eHCyvQYKiD5qiBcAWaxrxT48+eRO3UhVwHvBrrSPR48lhSmOhJC+/dnh13f8Lt7Qg2k9ksFG41AfhlD7T6oc3/9iQ2xd+uOBH5Cig==",
-                "mac": "58UP/lyolACN49THi0zmuw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/3/message": {
-                "ciphertext": "3ke4FNg6qeauDpQnhAhPSV564Qn99mdxmA+x1dJ2yGhW0KKo+Oal5zmNv+DgZ3r7ZMhaPkj0dMqWu2PjWZbofc+35OrnuoQUY5Va666vETlOoAvUKWYfDpcXNOi8bU3J",
-                "mac": "5K6plfRy32/JE3ZTEmAFtA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/5/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/6/message": {
-                "ciphertext": "pqMqaYsxieF8qIddsoHt5NE2KC9+q289P1Ktue2QjzCwLqoE0PdcJGjJSKtq6KI8",
-                "mac": "FlcEUibCNreXz0grEEZxwQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/7/message": {
-                "ciphertext": "Ey/hBl85U4/goAXt57V1OmXZU2jDiKrRhIUW9kkqEEg=",
-                "mac": "vew5uRt2cBqQJ+72EfqtxQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/12/message": {
-                "ciphertext": "i46M6A/0o5JdIX92URfDUe5MZ8sv1rQlIKr+1oqd2GsU5r0UStYI15bCSlCL5rN1af+fsyRVMWu/dZ/u0+uZBrgcBs9VDxOFMI1YZQ79s4G9u5PySnvhron5/NQWJUp5",
-                "mac": "ZtKHnatP/fxE28e76NNAyQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/13/message": {
-                "ciphertext": "swhCMzMrACWdGjYrYEX0oO+7xuSgX23v/CSs9HHff+8=",
-                "mac": "pCXPbBHR+SE7SPcMJDKJWQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/14/message": {
-                "ciphertext": "89wp6fnq3Eqv/ztombBAkNTDQcByiLOUMEThRdu7I4Vk9bZe+/FRMFwewPz1DK3F1aUJuvwekDsTr9I8anQjrxQlAOfgCD6PiL3LILxt3M0=",
-                "mac": "/8x98TS2Gwb3q2KHnLjQaw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/15/message": {
-                "ciphertext": "UEQd5YR57O/3nzn4nYg/+VCG0eetQ2ZQ9Jlu2U/F2ZptiIiu5XKqiRsKZwHiF/6YwY5V5RpzqRXRjKTOyjdcPw==",
-                "mac": "i3QttNIjpqMIhNgY6s37Mw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/16/message": {
-                "ciphertext": "Db5Tjp4tzJI8nGx7S4QuU9Iy1QjXwLY2eKr6DEwuFai0SEjo3pqtyuSIdKBRaIXtsSvHyeKHwB3bhMPpgiaqDg==",
-                "mac": "qbftI8t8zIuYYnT6TpTS6w=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/17/message": {
-                "ciphertext": "pIdALTyZ9SuxZaVyViX3BfGPMTYPn4X/SNfLkoYdF0xqZ9IxpCnkOlCLjugB8Ihc6sryC1XJc0U5o3/3gH6R6uBYH454K/eG7WK0XpngTXAQBy+4JOLbCDb+zrb2DJDZ",
-                "mac": "034CNJzuGN+oVTuou1CBJA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/18/message": {
-                "ciphertext": "pd1GKH0r3zPz3uYdzcCG/AOe7Jb3znIIod3krb8JTkI=",
-                "mac": "i5nrVo/Dn/mXIyKmPtMb8Q=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/19/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/21/text": {
-                "ciphertext": "dsIJ80ZORWhQdZGMqn60zQ==",
-                "mac": "uCOww8vKy7tlT92bgS+jBg=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/30/message": {
-                "ciphertext": "izZJJ8QT1hxUtbZy8oNT7+qk441lwtUmfLDhWx/Fxtw=",
-                "mac": "KTsvCaPZ/XAUAv1zr91AeA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/31/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/32/message": {
-                "ciphertext": "lzJt+o3uddlDXlI8hHoK7jhUFIr2SbOYtmXUbGW90EnwHsTdtE5kHMQJz8NYeyRAsgv3AVaMOaZbf6BbGUugMmR//wCTvpA+DVpIt8fL+3Q=",
-                "mac": "i6C5aYgqLvyJ2LLQ2ZAc6Q=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/33/message": {
-                "ciphertext": "nj5YnC66bQFpmbkLisvRpIpaK8PeJ5CMCzQcqhyd77uHc++jytk5DILh3gUGfBKR7Frkk1yNwEPZPFmgvza7CqPxoa57nqR7DJUMpE0JlnTLJNg+8iG6JVLchEt6q4f6",
-                "mac": "05JoUMORq85Rx+cSP8IW0A=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/34/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/36/task": {
-                "ciphertext": "OwYTgvoEGa+0WOPoVV39pxPLNE76ngp4XxQBU4F6khpIbGy3n1CubTCE5dpbsN36MUNUpqMd1SeK4g313XeK/tfkVuJPQuT7Efac/z5uGFKRSTQ75q3lPkqfIppFMdfVDlHeOQFtJoVaDcXbK3i1ELR80F+aoWE9lOlTNeOdgBSpTlsHuVC0GGubo3xKhc34",
-                "mac": "tvVXjPd2Z6xwYTmu/0YfeA=="
+                "orig": "The mansion is further down.",
+                "text": "La villa est plus très loin."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/6/message": {
-                "ciphertext": "rFpPlfYgQzIoXs0je7G+Rb4ghM0EZQQpNtmmSBjCUCKZ7waq4k4IVU9f/wS8TD0/",
-                "mac": "ZV48Hl/YOwcQIQBNg8gUgg=="
+                "orig": "Back again?\\. How was it?",
+                "text": "Déjà de retour ?\\. Comment c'était ?"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/8/thenStep/0/message": {
-                "ciphertext": "mMwhuOZmcJ2NTHZjGT7MoaYVsZTBs22FVL7yee+Ot8w=",
-                "mac": "fw6XFVdrPHBvH1UYntVhgg=="
+                "orig": "It went really well!",
+                "text": "Ça c'est très bien passé !"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/8/thenStep/1/message": {
-                "ciphertext": "MkSMpECmmm51tyYu0medvZQ1uMs0j4XgdQmsCrcb2wGHvKYoYscTsiBGaJc7Zq09lZrznqECpTbuxOw7s6kE+A==",
-                "mac": "SNHmM7JDtgIrLU9GSTJ98A=="
+                "orig": "Mr. Vestorovich at least seemed very intrigued.",
+                "text": "Mr. Vestorovich avait l'air d'être assez intéressé."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/8/thenStep/2/message": {
-                "ciphertext": "dmbK7v49E3/SfaUCUVWzuo8w0fDdhR3JILzma7j8+Z2PM6wYg/T+bB/yRPLih3Ky/t25uf/sFR+0jnHq6F3lz9ANwRGA3Ld2JAt6q87xHz/JZBAA8CpAXVxpbD9n63HsqePxcfP/Mj7nK6/sSv8FZjGanwuCbd5G6pyuIA46x/k=",
-                "mac": "eftUx8dShyUwKDMM2eoSiA=="
+                "orig": "If we can convince him of the potential of Evotars, we might get Instatainment to support the research after all.",
+                "text": "Si on peut le convaincre du potentiel que les Évotars ont, on va peut-être réussir à obtenir le soutien d'Instatainment."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/8/thenStep/3/message": {
-                "ciphertext": "2sHB0RvhiisnJ6ckfsTWc5VfN11vrvx7QVXQkDHf1MFZCYeYYyRSq/dm+l9wpheHTkk3kkvLcdaVddyBP+TJGHJ0mqK2tyynL4ELTCHTWp1K1plPT5xzFSllsxijYMtQ",
-                "mac": "8NVBAeNDVNIiy9cHud8DBw=="
+                "orig": "Which means, we might be able to create a future for Evotars!",
+                "text": "Ça veut dire que l'on va peut-être pouvoir construire un futur pour les Évotars !"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/8/thenStep/4/message": {
-                "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
-                "mac": "ahS7SIG0IeLx4nW36TYvEw=="
+                "orig": "Lea!",
+                "text": "Lea !"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/8/thenStep/5/message": {
-                "ciphertext": "pQXVy2XUBuE3V2sNpWYMKlv0z+99Yq6wuuGY2N3/0eg=",
-                "mac": "xcYEuVTbLxYPejv0Zzl9Ug=="
+                "orig": "This is great news.",
+                "text": "C'est une excellente nouvelle."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/9/thenStep/0/message": {
-                "ciphertext": "izPKK6Qyhy8xxTgTWq9YOQyY8KM/3aMxn5/Faq/y33LDlk3gD+PobNNpaBOJByzmwPyTIBr8G0+FdsaF7CrYFA==",
-                "mac": "7opv2wJxSC5XA+fobvrpOw=="
+                "orig": "I am not sure, to be honest.",
+                "text": "Je ne suis pas aussi certain, pour être honnête."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/9/thenStep/1/message": {
-                "ciphertext": "UZhwPnmgHwQghLRZGrAY26xCz4vQacg3tfmQuwtDi90xCZA0jiVewS1dYYFwSAkwknygpS/r3V41J6tZPZSJLaDwo2KcFAZYOEk+27mgpMM=",
-                "mac": "Qolea60mH44esyx372h9aw=="
+                "orig": "Lea, you behaved a little bit strangely in there. Were you nervous?",
+                "text": "Lea, tu n'étais pas complètement toi-même. Tu étais nerveuse ?"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/9/thenStep/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/9/thenStep/3/message": {
-                "ciphertext": "MvxryVlHd93PO/QRYu5h0441BPV4k3QuOPWUYitqcU4wvSSyTlwCVYfPWdtwJCo+",
-                "mac": "buDIO0dW29yHvMKed7eAmQ=="
+                "orig": "Hm...\\. we will just have to see how it turns out.",
+                "text": "Hm...\\. On verra comment ça se terminera."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/0/message": {
+                "orig": "Honestly...\\. Lea?",
+                "text": "Sérieusement...\\. Lea ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/3/message": {
+                "orig": "What was that?",
+                "text": "C'était quoi ça ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/4/message": {
+                "orig": "Lea! Hi!",
+                "text": "Lea ! Salut !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/5/message": {
+                "orig": "Did you even want to prove you were an intelligent AI?",
+                "text": "Est-ce que tu voulais prouver que tu étais une IA intelligente, au moins ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/6/message": {
+                "orig": "It felt more like you have been messing around.",
+                "text": "On dirait que tu voulais raconter n'importe quoi."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/7/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/9/message": {
+                "orig": "This is not funny, Lea!!",
+                "text": "Ce n'est pas drôle, Lea !!"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/10/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/11/message": {
+                "orig": "We might have just gambled away our best chance to create a future for Evotars.",
+                "text": "On a peut-être gâché notre chance pour construire un futur pour les Évotars."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/14/message": {
+                "orig": "...Sorry...",
+                "text": "... Désolé..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/15/message": {
+                "orig": "I am afraid saying sorry will not fix this.",
+                "text": "Je regrette, mais un \"Désolé\" ça va pas nous aider."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/16/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/17/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/18/message": {
+                "orig": "Well, it happened.",
+                "text": "Bon, c'est trop tard maintenant."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/19/message": {
+                "orig": "We will have to see if more opportunities come up.",
+                "text": "Il faudra voir si on aura d'autres opportunités plus tard."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/10/thenStep/22/message": {
+                "orig": "Hm...\\. that is a shame.",
+                "text": "Hm...\\. Dommage."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/0/message": {
+                "orig": "Lea unfortunately failed the most important test.",
+                "text": "Lea a raté le test le plus important."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/2/message": {
+                "orig": "That was weird.\\. Sending you those recordings usually works perfectly fine.",
+                "text": "Curieux.\\. Jusqu'à présent, ça a toujours fonctionné normalement quand je t'envoyais ces enregistrements."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/3/message": {
+                "orig": "Was there maybe an issue when Mr Vestorovich used it?",
+                "text": "Peut-être qu'il y a eu un problème lorsque Monsieur Vestorovich l'a utilisé ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/5/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/6/message": {
+                "orig": "Well...\\. it cannot be helped now.",
+                "text": "Bon...\\. On peut rien y faire maintenant."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/11/thenStep/7/message": {
+                "orig": "Hm...\\. that is a shame.",
+                "text": "Hm...\\. Dommage."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/12/message": {
+                "orig": "Anyway, next I suppose you have to resolve this whole \"Evotarground\" situation, right?",
+                "text": "Bon, j'imagine qu'ensuite, vous devez vous occuper du \"Terrain des Évotars\", c'est ça ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/13/message": {
+                "orig": "Right, and we are on it.",
+                "text": "Oui, et on est déjà dessus."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/14/message": {
+                "orig": "Please make sure not to tell anyone else about Lea just yet.",
+                "text": "Mais assurez vous de ne pas parlez de Lea aux autres pour l'instant."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/15/message": {
+                "orig": "It is important that we keep things secret for now.",
+                "text": "C'est important que tout reste secret pour l'instant."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/16/message": {
+                "orig": "Understood. If there is anything else I can help you with, just let me know.",
+                "text": "Compris. Si je peux faire autre chose, faites-le-moi savoir."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/17/message": {
+                "orig": "Of course, and thanks a lot for everything so far!",
+                "text": "Bien sûr, et merci beaucoup pour tout ce que vous avez fait jusqu'à présent !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/18/message": {
+                "orig": "No problem, see you around.",
+                "text": "Pas de problème. On se revoit."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/19/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/21/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/30/message": {
+                "orig": "So...\\. what next?",
+                "text": "Bon...\\. C'est quoi la suite ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/31/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/32/message": {
+                "orig": "Right. \\c[3]Getting ready to re-enter Vermillion Wasteland\\c[0].",
+                "text": "Ah oui. \\c[3]Se préparer à retourner dans \\v[area.arid.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/33/message": {
+                "orig": "Once you feel prepared, let us visit Shizuka and Satoshi again at the \\c[3]Old Hideout\\c[0].",
+                "text": "Une fois que tu te sens prête, retrouve Shizuka et Satoshi dans la \\c[3]Vielle Cachette\\c[0]."
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/34/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/residential-s1.json/entities/994/settings/event/36/task": {
+                "orig": "Prepare yourself for reentering Vermillion Wasteland. Talk to \\c[3]Satoshi\\c[0] at the \\c[3]Hideout\\c[0] when ready.",
+                "text": "Préparez-vous à re-entrer à \\v[area.arid.name]. Parlez à \\c[3]Satoshi\\c[0] à la \\c[3]\\v[area.hideout.name]\\c[0] quand vous serez prêt."
         }
 }

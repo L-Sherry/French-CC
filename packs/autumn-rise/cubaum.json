@@ -1,307 +1,307 @@
 {
         "maps/autumn/cubaum.json/entities/192/settings/npcStates/0/event/2/message": {
-                "ciphertext": "DFR26yVlCCknFk7EcOPe7zcI3iwOlRgRiIHse/tPxgGSV0aornFQKFEXMWC236yq77sT/ugsXjrDYUdPrkOiig==",
-                "mac": "/4dICo9k0mwroaK+1JxglQ=="
+                "orig": "Apparently some hacker hid items in this area. ",
+                "text": "Apparemment un hacker a caché des objets divers dans le coin."
         },
         "maps/autumn/cubaum.json/entities/192/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Mx1/WZBcag+ah3dxXlCNaIpNHvrrAxLkUtOUcGxc5koCMohDX4ZHqe8ar2nIz00w",
-                "mac": "JBUtA7v6XPiZhOkYEbJ7Cw=="
+                "orig": "So everyone is looking for them right now.",
+                "text": "Donc tout le monde les cherche en ce moment."
         },
         "maps/autumn/cubaum.json/entities/192/settings/npcStates/0/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/cubaum.json/entities/301/settings/text": {
-                "ciphertext": "Nec5G6fwoXesfnUTtFCkNtqBqm8EtsTzyhRP6uxVgzw=",
-                "mac": "uPy7H9DIeKSZN9Be0nL61A=="
+                "orig": "A perfectly regular tree",
+                "text": "Un arbre parfaitement régulier"
         },
         "maps/autumn/cubaum.json/entities/509/settings/event/1/text": {
-                "ciphertext": "VDN4okx/cSiSm6TGzr/g9A==",
-                "mac": "ee+GyCOdQfZy4JKQnj4pVQ=="
+                "orig": "Access denied",
+                "text": "Accès refusé"
         },
         "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/2/message": {
-                "ciphertext": "Ei82XEHOgdqGt8DRJfte4CWZpki8h7NkHDVnXctFeFM=",
-                "mac": "NBNCZJ3Ko0V1xyQnw6oDJg=="
-        },
-        "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/elseStep/0/message": {
-                "ciphertext": "/PmMT2JJGqaejf8L+EhEIJ+nW//HFrM9WS+J0Xv1N7uSjLjS6E1rqV0wXRhgzGBQeFcgAEE6NexKyOg9S9Z+Uf4uWbCLku1okWGAOvj+wuzA0tnoXkVKnWwSv6KdLzOa",
-                "mac": "RB6FC8wHJxZL7ehuec5+QA=="
-        },
-        "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/elseStep/1/message": {
-                "ciphertext": "Iiang7DE5Dndps1A2eU24Db0FKlbh3CvlJIw9Y3+XGCZZWTZKk86/pNC3z9i/gh760u6s9uKlRRmCq9vRY+hrVPW/1EcM7tflyQY/ByO8fv7LRvMHHvDmVf6Zl4LpQv/",
-                "mac": "Lm0QK252XSed8R/mVNdAPw=="
-        },
-        "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/elseStep/2/message": {
-                "ciphertext": "MNhUxB8SnCY01QwrPZWoioEj8Z55URhGcRyoAsNuE7WfjAxCKD7TUCeNiDLPeWzU8jgt2Z8S+pOpxLZpXlXjEYpKQhOlKeDEtFwM1riONii85WqeSARbx68GJ3iCAfjnqTgZv737KJWVcl0qOxQ2Cw==",
-                "mac": "R6prhxpLVXaoYMAitBcgKA=="
+                "orig": "Yo, what's up?",
+                "text": "Hé, quoi de neuf ?"
         },
         "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/thenStep/0/message": {
-                "ciphertext": "00UECFKDAsX3SF39gv2Y2EBn56Cg/87ORLaYy7dQyTw5b0Y00x7uq2niOI2knn1okvMll4kHD+T94vGqdl3SMNSOKKnqaPXUoIAZwfJVcFQ=",
-                "mac": "rwRkasCF6XhqFmng2V3gAw=="
+                "orig": "I see you got the \\c[3]\\v[item.230.name]\\c[0] with you! Nice, nice!",
+                "text": "Je vois que tu as le \\c[3]Symbole de Flamme Rouge\\c[0] avec toi ! Bien, bien !"
         },
         "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/thenStep/1/message": {
-                "ciphertext": "aRPqo2ys4u2tS2lq0Wz4arf+k+1FI6vEiIA1PXoIVKjZA05pbsFSgSjHs4TtEkEp",
-                "mac": "A2UEVrKQY2i/o8JLmynfTA=="
+                "orig": "Well then, good luck on your journey!",
+                "text": "Bon alors, bonne chance pour ton voyage !"
+        },
+        "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/elseStep/0/message": {
+                "orig": "If you want to pass this barrier you first have to collect the \\c[3]\\v[item.230.name]\\c[0].",
+                "text": "Si tu veux passer cette barrière, il te faut le \\c[3]Symbole de Flamme Rouge\\c[0]."
+        },
+        "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/elseStep/1/message": {
+                "orig": "You get it at the end of the \\c[3]Faj'ro Temple\\c[0], right after the boss battle.",
+                "text": "Tu peux l'obtenir après la fin du \\c[3]Temple de Faj'ro\\c[0] juste après le boss."
+        },
+        "maps/autumn/cubaum.json/entities/521/settings/npcStates/0/event/3/elseStep/2/message": {
+                "orig": "In case you already beat the boss, just go to the final room and fetch your reward. It should still be there!",
+                "text": "Au cas où vous auriez déjà battu le boss, retournez dans sa salle. Votre récompense doit encore y être !"
         },
         "maps/autumn/cubaum.json/entities/526/settings/event/1/thenStep/0/thenStep/0/thenStep/0/text": {
-                "ciphertext": "DS8ovrH0RYOnNIot/E/qndKToPgX3+D55XmM2vE5VFY=",
-                "mac": "yUptJz3uCxuFsnGYucanDw=="
+                "orig": "<ReturnPos Changed>",
+                "text": "<PointRetour Changé>"
         },
         "maps/autumn/cubaum.json/entities/527/settings/event/0/elseStep/1/thenStep/0/thenStep/0/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/527/settings/event/0/elseStep/2/thenStep/0/thenStep/0/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/527/settings/event/0/elseStep/3/thenStep/0/thenStep/0/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/527/settings/event/0/elseStep/4/thenStep/0/thenStep/0/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/527/settings/event/0/elseStep/5/thenStep/0/thenStep/0/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/528/settings/analyzable/text": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/14/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/16/message": {
-                "ciphertext": "rRNWvFAQ6I5T6CeiCT5l6Rb4kt8J6TR7fGnd09hz6Xf2eXU0USImcdZBwUbKsL5NwK2lr6+6HasATDhbdWUoqHFhm6I+tBmy9WPCbxIMg9dzLvt1zihnZWn7FJWFalXY",
-                "mac": "2j6ToUeYWPGjLtyVSILO5w=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/18/message": {
-                "ciphertext": "PwxA/TB5KzevasoLO3AcTN41K71yk2sDj/MrofiSLjta/+OWFq+ERBMvkduHGGdGM7iui9PZaeaMKvOpF3piGA==",
-                "mac": "3zXLWvkQVAc7n3g7F8jjng=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/19/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/2/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/20/message": {
-                "ciphertext": "UhoNvHsvz3xhdxqK5hFvbV07qiqSkD7rUyeays6/fdfdc77kEDRMv9bNM88T9EjWSANTc+iims2v+45W+kh1lO/xeLfbN/T/9vKGIecTEQWEJhJPNSXnl67Xh3eZt61l3kpv/AyIkTptJP1fAbi/7lAApFP7eCzx2luH9C3HsJqHw8q3sDhOq+nkbQZqNDNV",
-                "mac": "ri8iu4SHKtsz5jq9cDq4RA=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/29/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/31/message": {
-                "ciphertext": "YdBXiAgUOG0jbXdZ+AunWuuI+D8CjvWBvqhqoSY2V2BhC4iZoMcPuNQkvSM2oOiQkyHyMGjaoLUpQ9GD8qYkHA==",
-                "mac": "YOpgPpA6vsoXd9b4TaifBw=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/32/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/33/message": {
-                "ciphertext": "keZ9b+uCdDQ8NnUstEq3GJKTFd9Nf0+HoG4+56GYDVPoAnIKuB1kKqyL9dlY1IzaFKO/A6Sisux/FWrdDj57r6KpPZSpfhgkwHsiKep2sHJTqzDeXj8H3qAu7dvB6tAJ",
-                "mac": "BIfxHbL8iEPGKnn68m3hGQ=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "ReZtNc3Kus1IiFJ3aHUbUlVODkN3zrxWafZqq7aCK/tOPiNfGuaVQkMMmXUj/wiAneWxSlpvxFmdR5g9RQRwAgK1RxYRZDlousnPBkcex6Rxqz/fmqb9rnYL2hM4cjjO",
-                "mac": "zLDTB+OGTfqYR87idTbfug=="
+                "orig": "Great, there you are again.\\. About time we finished this task, I would say.",
+                "text": "Super, te revoilà.\\. Il était temps qu'on termine ça. Le temps devenait long."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/14/name": {
+                "orig": "Deggart",
+                "text": "Deggart"
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/16/message": {
+                "orig": "This time, all the energy signals can be found around that lonely tree there.",
+                "text": "Cette fois, tous les signaux énergétiques viennent de cet arbre tout seul là-bas."
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/17/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/18/message": {
+                "orig": "Weird coincidence that, considering there's nothing really special about the tree itself...",
+                "text": "C'est curieux ça ; cet arbre n'a vraiment rien de spécial..."
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/19/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/20/message": {
+                "orig": "Though it seems to be rather unstable and fluctuating this time.\\. You should keep an eye on that.",
+                "text": "Mais le signal fluctue bien plus fortement cette fois, il est presque instable.\\. Reste sur tes gardes en approchant du point de pouvoir."
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/29/name": {
+                "orig": "Deggart",
+                "text": "Deggart"
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/31/message": {
+                "orig": "In any case, knocking our probe onto the Powerspots as before and clearing hostiles should do the trick.",
+                "text": "En tout cas, la même procédure devrait fonctionner ici."
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/32/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/0/event/quest/33/message": {
+                "orig": "I am ready whenever you are.\\. Just give me the signal, \\v[lore.title.seeker].",
+                "text": "Je suis toujours prêt quand tu veux.\\. Fais-moi juste signe, \\v[lore.title.seeker]."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/3/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "IEp9o+yPU0N1O1r1AWnqy+PX5yzIpjAQiengnpA3ur7Xod/M8pbu/cba5avHqsWX",
-                "mac": "LMT3hmGIBHDXMnXpxf5nig=="
+                "orig": "Ready to finish this up, \\v[lore.title.seeker]?",
+                "text": "Prêt à terminer ça, \\v[lore.title.seeker] ?"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/1/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/2/message": {
-                "ciphertext": "lg7UsCV53LU3l0K95vaQ31xlT5tcUDeW5HoeCMIVpdYhfM5CSJs6WqtYMJFdnd9Y",
-                "mac": "LjKrfQNQ/bokdYcksFOhAA==",
-                "ciphernote": "Z6TfzHTjbseKccyP3ePFP+93xTkXulMd+h2tgLwqrSfnY4mr8mzXp2b9+EO2+ZfN"
+                "orig": "Alright, then let me start this thing up!",
+                "text": "OK, laisse-moi démarrer ce truc !",
+                "note": "de says: on va démarrer ce tronçon ?"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/23/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/25/message": {
-                "ciphertext": "Ryix7aNs2oETlLzp48h8ACczpXE6xLczxfts+I2u0GOjM/NxvA6LwzGhwYyofAA8l+JRap0puTNBdkdTnX4C+IyE7UKvxejuo/xYzaY5Lf8=",
-                "mac": "kt8y/9fjDGa+5jYWkw9wtA=="
+                "orig": "Probe has booted.\\. Prepare for the first point to appear.",
+                "text": "La sonde a démarré.\\. Prépare-toi à voir le premier point apparaître."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/34/value": {
-                "ciphertext": "745cbatuTuhbM+NSCY5jdA6udhtO9hqbHqeXp+scL0g=",
-                "mac": "XZUcJYppLO7Bj5Gl32fIQw=="
+                "orig": "[Expecting Probe]",
+                "text": "[En attente de la Sonde]"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/38/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/40/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/42/message": {
-                "ciphertext": "bHjZyRqQdd/4jIY4w+HQWZfBX8K+MhgpqLoqJ1MngZmJZTW6601urM1gyA1lqCaopyV8l0zXuLBoIHK+3npDthQrcvLDMm9zWjDKwsiACz8wz1QYk271pZCvuQ2wXS3x0YeusSfbB5teBWCc6svlFKpmaamnmaIWxel2Ua8QXRU=",
-                "mac": "oVzjPPtEQiat55XhytS+3A=="
+                "orig": "Alright, just like before.\\. Knock our device onto the Powerspot and then defeat all the enemies that might appear!",
+                "text": "OK, comme avant.\\. Frappe la sonde vers le Point de Pouvoir puis dégage l'endroit de tous les ennemis qui peuvent arriver !"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/50/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/52/message": {
-                "ciphertext": "9BpLoxKAD26hbfiPjmtNQaDyYrjgzRqXsaTIiq2A41aPOJqD4RIo4N1VgXFctETYvXadDjE1VAu8NQWEBujeNvrlC+sKHXzZ+Hohd6YnxMY+nqJxxM/EReHnrQ9kx6dw",
-                "mac": "eSmli4srBoGf5fBGRwKn6w=="
+                "orig": "Just remember what I told you about the unstable energy fluctuation.",
+                "text": "N'oublie pas ce que je t'ai dit à propos des fluctuations du signal énergétique"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/53/message": {
-                "ciphertext": "vhnLcW240feDJIo5XiiGFVFgrDOC5nPmz7F6l39mjQki4R3Qory3PlB03vKKcJlbLSBmB1h0BUvKi89CK+CRLf+L5jQfiULzD8d/DHb1RhBvYEuHOITh2hHg57Jantai",
-                "mac": "SM/iM+RKh3LHUVYBy4Xy1w=="
+                "orig": "Be prepared to readjust the probe during the operation in case the Powerspots move around.",
+                "text": "Sois prêt à réajuster la sonde pendant l'opération si les points de force changent."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/54/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/0/56/task": {
-                "ciphertext": "2CuDSFTmQ9F5c95Aet1S/QRC1G93/WLIZmq4KhjmqeaPJRAvh4j0NRpozLwoF4QJ+ZWVWHJ3VL1U2Cozp5nVNHEAopIOoiC+R6fmhrSDwOTG2TJt5wbxip2yknkwF7qBHRttPthYGAOAUeNWGM2nje07+z1rClXb60dFk0KWvE8=",
-                "mac": "Jha32460IP/qrCMgY4gg1A=="
+                "orig": "Knock the \\c[3]Probe\\c[0] on the \\c[3]Powerpoints\\c[0].\n\\c[3]Heat\\c[0]: More knockback\n\\c[3]Cold\\c[0]: Stabilize",
+                "text": "Frappez la \\c[3]Sonde\\c[0] vers les \\c[3]Points de Pouvoir\\c[0]\n\\c[3]Chaud\\c[0] : Plus de poussée\n\\c[3]Froid\\c[0] : Stabilise"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/1/1/message": {
-                "ciphertext": "Zzpil98scY7nXQsXc0yNKS98nNAx1hbvVAbSeqWZupprTieJt6ORw4J9LFthZ2Xv",
-                "mac": "5ubbH7gtH2s0IvhJ1D+fSQ=="
+                "orig": "Alright, come back when you feel fresh and ready.",
+                "text": "OK, reviens dès que tu le sens."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/0/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
+                "orig": "How?",
+                "text": "Comment ?"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/1/message": {
-                "ciphertext": "pbhYeVagvunsJNC+8RCv0u38vpbM8ZgqfbFwtynQ0ngqKR6XiIuqkl5U/Tvq1VsOuLEhriRMWT8PAtbzLSOsfA==",
-                "mac": "0B0LxFn6gxYuJmN4AOQW9Q=="
-        },
-        "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/10/message": {
-                "ciphertext": "6L1Qrkfpcr+YZm2B8EjDIwSh9uaXkc2y44GNGTWR73OHduAIXI+OTOWceU33hMbq1bYdpZtZkQSYIEzUCk6RMA==",
-                "mac": "8ZyRyq5eNBOAzOe2DGEAmQ=="
+                "orig": "You need me to refresh your memory again?\\. Alright then...",
+                "text": "Il faut que je te rafraichisse encore la mémoire ?\\. Bon OK..."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/3/message": {
-                "ciphertext": "Ftt5wes5yg4zSznZyEmhspHEQo8fuutly5y3KPf70ZmkKyqotUAtJ/wmuveXyG8vRpl1nJbqo0+AP+nOLBG2g7j8bjMi3M57TYy27Lv6e+4WLryMivE9zq96E3+7FCctPz8aNP0w/8wDerzF8VdgjPpd5HaHkrqS4wGlR/MNw+TaWYGjfsBL0x/jGp6Q4Lx6XhJm638lQZkqEE2JhCXM4r2dtN2ic5KVVdEJAaN1Ras=",
-                "mac": "rbcb6ZuNT77PAC5NGlpomA=="
+                "orig": "You need to \\c[3]push this device around\\c[0] and move it onto certain spots of power in this area, short \\c[3]Powerspots\\c[0].",
+                "text": "Il faut que tu \\c[3]pousses cet appareil\\c[0] pour le placer à certaines positions de force dans cette zone, des \\c[3]Points de Pouvoirs\\c[0] pour faire court."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/4/message": {
-                "ciphertext": "HdaOA66jo2S9wc6ZkIQ9PMedUztA0KVpnVs1Vb78lYRkj4aLIy+eS3Fpaw/kda4MAqkNieJNzlQ2kMI27RrO4BO5hJTUlWnEsEfVAZwzg6TBwAdSJypJFiOXAPuK0kcp4urXY0wv3fSKqFfHFqC0/mKvQzWbJtwCJchQmVOGTVbLZYtbUJ3rrye2MznZA6oYWekbJSXlfSfceK1xyxsKHQ==",
-                "mac": "iJ15TIUC9dsN6RA7N/VwsA=="
+                "orig": "You can \\c[3]move\\c[0] it by \\c[3]attacking\\c[0].\\. Using \\c[3]Heat\\c[0] will greatly increase the distance and velocity.",
+                "text": "Tu peux le \\c[3]déplacer\\c[0] en l'attaquant.\\. Utiliser le mode \\c[3]Chaud\\c[0] va grandement accroitre la distance et la vitesse de déplacement."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/5/message": {
-                "ciphertext": "2c5oUciB4aAD0HqOVS4koAsEPnCKhtUURtV3/+DpdF4F/ICryB8oBELmfCU0DIw9jbIJv3pQ4fO11zxrs7xFl5MOervL3sI/rwpOR/sCOJSprlKNb8zdFYD4NEUhzwwXrKyreZtnwnyQBcPymKb+aK20fxL2et72ZOvAXd3y280=",
-                "mac": "l2KVVRUH4Ze0O65PtRt0Ww=="
+                "orig": "Approaching a Powerspot will usually attract some \\c[3]hostile wildlife\\c[0] that will protect those places.",
+                "text": "Approcher d'un Point de Pouvoir, va attirer de la \\c[3]faune sauvage hostile\\c[0] qui voudra protéger l'endroit."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/6/message": {
-                "ciphertext": "jPk2itIZzwyfc8iRAhSmAEZmf1vIUb06DM6U8QDg3AMKqA9nH/fcOuBya5wBraHADpQSiOnRfrrCOaKdS8MfwXpayy9QRHHUS1uyWLt7YTci/VjNk15f6oe0nfvzioaQ7CBLT15lcrauzZlj8Ul8q+aOHnLZ/19Fh76QpkSu0wE=",
-                "mac": "Bbvn74QkrZuJmh7fvuTFfQ=="
+                "orig": "The Powerspots will grant them a \\c[3]shield\\c[0] that is almost impenetrable, meaning invincible enemies.",
+                "text": "Les Points de Pouvoirs vont leur donner un \\c[3]bouclier\\c[0] qui est presque impénétrable, ce qui les rendra invincibles."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/7/message": {
-                "ciphertext": "sKnE/lrA6fH1IxOFSGzp7AtqxLbg/xVFR3Cmx9cgsKaSnTrICszpsPaZDLqxVtFYwfpjB09XZByYJYyny5boIqHJAALRYCAfHy/VAl9mFfYppazvvhwepnq2dFPOlOQI833gRbCeLGalKBROkeRT+0veARCHqOhuAOMQ0M4DJsE=",
-                "mac": "L+Et/r5eIhMi+V6Ytm1SEw=="
+                "orig": "\\c[3]Placing the probe on an active Powerspot\\c[0] will \\c[3]deactivate the shield\\c[0], though, so that's a priority!",
+                "text": "\\c[3]Placer la sonde sur un Point de Pouvoir\\c[0] va \\c[3]désactiver le bouclier\\c[0]. Cela doit être ta priorité n°1 !"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/8/message": {
-                "ciphertext": "yfqWVAnkJxuhethAlueKWfaWB6me7MeyTE7Pz88Uace+FbkgWUJlYfqI9upOZj7us9OrZNAc3OYAMsxtZ2YdbKpuOsfj+H+nHNpsnni9O5NhFxumPZNWCgbbvO32zcL+3+qywLOzAyfAa5wI3Hgh9Sb5M5lzelDYvWMZnhYPUvW+lehZWX9OHRFwAveCTMPn",
-                "mac": "Aj3b13QBNTquDy4oWw1xNQ=="
+                "orig": "Make sure it doesn't get knocked away again.\\. Hitting it with \\c[3]Cold\\c[0] will \\c[3]stabilize\\c[0] it for a bit which should help.",
+                "text": "Fais en sorte qu'il ne soit pas poussé ailleurs.\\. L'attaquer avec du \\c[3]Froid\\c[0] va le \\c[3]stabiliser\\c[0] pendant un moment."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/2/10/message": {
+                "orig": "I hope you got it now, \\v[lore.title.seeker].",
+                "text": "J'espère que tu as compris maintenant, \\v[lore.title.seeker]."
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/options/0/label": {
-                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
-                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+                "orig": "Yes",
+                "text": "Oui"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/options/1/label": {
-                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
-                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+                "orig": "No",
+                "text": "Non"
         },
         "maps/autumn/cubaum.json/entities/528/settings/npcStates/1/event/quest/8/options/2/label": {
-                "ciphertext": "WAIYtFEF1fnvQrchnoyFscMn8KL9dcqVJgiiW5VTHGs=",
-                "mac": "8IvfrsFfHTEJ6OfoHEPH8g=="
+                "orig": "Repeat Instructions",
+                "text": "Répéter les Instructions"
         },
         "maps/autumn/cubaum.json/entities/531/settings/event/1/thenStep/2/text": {
-                "ciphertext": "10DLKidiJwonLxtej1bL8VKbmmSVu6mKpjvjp4pNAQA=",
-                "mac": "JWyu4qLbNQUZHlDqjEkWnA=="
+                "orig": "[Powerspot unstable]",
+                "text": "[Point de Pouvoir instable]"
         },
         "maps/autumn/cubaum.json/entities/531/settings/event/1/thenStep/5/thenStep/4/0_0/1/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/531/settings/event/1/thenStep/5/thenStep/4/1_0/1/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/531/settings/event/1/thenStep/5/thenStep/4/2_0/1/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/531/settings/event/1/thenStep/5/thenStep/4/3_0/1/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/531/settings/event/1/thenStep/5/thenStep/4/4_0/1/text": {
-                "ciphertext": "bJYcnEfPdCwuIAJeSh2EQrM9nfGV4IWBy7hIeqs3n7Q=",
-                "mac": "cfFzekKXXhluk3upccue0Q=="
+                "orig": "\\v[tmp.questBall-markerText]",
+                "text": "\\v[tmp.questBall-markerText]"
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/28/name": {
-                "ciphertext": "+/8EYKhMFmJinDnzMXLhug==",
-                "mac": "AO+xu6uQV7Vg315pRnA5ig=="
+                "orig": "Deggart",
+                "text": "Deggart"
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/30/message": {
-                "ciphertext": "jQd5EIVnzWkZxdR/pDOsEO+/W0HqqnBpxuQE+2p6MF1RdwHZZgsF2lcClwUVsVUJW3Q787lpruhIzZDVJR9Keb7z/AuwfFzRwKh2c7HXt+Q=",
-                "mac": "/N6BjPVjEZxov1vvN6DAmQ=="
+                "orig": "Seems like you're done.\\. Everything's clear.\\. For real this time.\\.\\. Finally.",
+                "text": "C'est fini.\\. Tout est bon.\\. Et vraiment cette fois.\\.\\. Enfin !"
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/31/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/32/message": {
-                "ciphertext": "EKMfz+tujC1HoylQOL5qS5fbMPnMgjPnvQO3rgZlXIWn5VlsUl/zxFD6V1A9dyD14X5z0NZGIIrYJ+yg+3lADLuauTCVLpeXcH+G65rtJOoDcoNZ41RRvHBSFzt20tlGOzBrKxvOUQALJ93iOc9tJ/GOAMCC92VkpgYO6EFaJq8=",
-                "mac": "qjILVR3qSqXFFfHC/Z1utg=="
+                "orig": "I'm gonna skip further fanfare.\\. Our probe needs to get back to HQ and I need sleep.",
+                "text": "Bon la fanfare, ça ne sera pas pour cette fois.\\. Il faut ramener la sonde au QG et il faut que j'aille au plumard."
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/33/message": {
-                "ciphertext": "hWJ2bgvUXY35f89ZxwjsrSDDt0uU3rfXgb7hjPPhIoH9UEKe11nyRoiwJM1X3Jl0MUzKAaq7G/z0zqh1Ig9F6oPydHvpcCNmJgaOf/ic8RITPgBxLUcfVWi3AYFTpkcKSYi3C+9Lo7e1mLMEkWNbzA==",
-                "mac": "EpI2+0yKG2E21b4kUtNLKw=="
+                "orig": "Talk to our leader for rewards, you know the drill.\\. Now excuse me, I gotta get going.",
+                "text": "Parle à Elenya pour avoir ta récompense, tu sais déjà comment ça marche.\\. Moi il faut que j'y aille."
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/34/message": {
-                "ciphertext": "qv+4MxHc1A41+cGhFLkl2g==",
-                "mac": "ocoXKMDSQlIJ2USp7SOxYw=="
+                "orig": "...bye.",
+                "text": "... Bye."
         },
         "maps/autumn/cubaum.json/entities/556/settings/event/39/action/3/text": {
-                "ciphertext": "lep1ZzNcRz62rqzt1Rtle7KPIsrO1PnLdtebSkgZwYc=",
-                "mac": "2GYskfmCmnlM/IdykHFYgw=="
+                "orig": "[Remote Control activated]",
+                "text": "[Contrôle à Distance Activé]"
         },
         "maps/autumn/cubaum.json/entities/563/settings/event/0/message": {
-                "ciphertext": "jf2SO/foCu83vgoWiNxs94KXEP/mWZVp31A3RPN1giLz89JwuDlhhGClRp7OIPPu",
-                "mac": "cd2KV/qL2PdoW4mqhdzm6g=="
+                "orig": "What a nice and regular laser bridge!",
+                "text": "Quel beau pont laser parfaitement normal !"
         }
 }

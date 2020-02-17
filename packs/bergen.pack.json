@@ -1,111 +1,111 @@
 {
-        "areas/bergen.json/floors/0/maps/0/name": {
-                "ciphertext": "iJLCp42dc213oOd5HobzD3ljMDbycMxLJj1YuxdSWz3JJsFCBXnPHRSPDEqc8hcH",
-                "mac": "tEGF6670is3yoFVlR699uA=="
-        },
-        "areas/bergen.json/floors/0/maps/1/name": {
-                "ciphertext": "KZ5sYaRoPMBS1u3CkdZiGFyXEEjn96EBcbH4Gl86s80=",
-                "mac": "1NXBfpvh3QDWLeRqz0XsHw=="
-        },
-        "areas/bergen.json/floors/0/maps/2/name": {
-                "ciphertext": "ld8Nvcb8Wu2VWLZPBRRjGA==",
-                "mac": "E0UwX7+BnZb9b+UAzUftMA=="
-        },
-        "areas/bergen.json/floors/0/maps/3/name": {
-                "ciphertext": "/EUt2jERkq+LQgsKy6tL9xow6Ar36cnS8knh9dmx8uo=",
-                "mac": "5+3IIGOCAsbyhH0BDnt5Iw=="
+        "areas/bergen.json/name": {
+                "orig": "Bergen Village",
+                "text": "Village de Bergen"
         },
         "areas/bergen.json/floors/0/name": {
-                "ciphertext": "we9+rOL4ZcIPdnbqM+UMsw==",
-                "mac": "INKqVZ/eMdit6UllU22g4A=="
+                "orig": "Cellar",
+                "text": "Sous-Sol"
+        },
+        "areas/bergen.json/floors/0/maps/0/name": {
+                "orig": "Seeker Hub Cellar",
+                "text": "Sous-Sol Repère des \\v[lore.title.seeker]s"
+        },
+        "areas/bergen.json/floors/0/maps/1/name": {
+                "orig": "Miner's Elevator B1",
+                "text": "Élévateur des Mineurs SS1"
+        },
+        "areas/bergen.json/floors/0/maps/2/name": {
+                "orig": "New Mine #1",
+                "text": "Nouvelle Mine 1"
+        },
+        "areas/bergen.json/floors/0/maps/3/name": {
+                "orig": "Omni Gilders Basement",
+                "text": "Omni Gilders RDC"
+        },
+        "areas/bergen.json/floors/1/name": {
+                "orig": "Ground Floor",
+                "text": "Rez-de-Chaussée"
         },
         "areas/bergen.json/floors/1/maps/0/name": {
-                "ciphertext": "xJch4ablLvaob/yJMkiqcRq+648fX2SUEmDSClH4vnA=",
-                "mac": "aW1TWjydrC70/Cp4R8pkiw==",
+                "orig": "Holiday Man Cave",
+                "text": "Cave de l'Homme Vacance",
                 "quality": "unknown"
         },
         "areas/bergen.json/floors/1/maps/1/name": {
-                "ciphertext": "MrkjI4WdO73V6eLiRRBVKA==",
-                "mac": "VWwLuM7B8NuUFQr/Wzg2Fg=="
-        },
-        "areas/bergen.json/floors/1/maps/10/name": {
-                "ciphertext": "wKgUF3wyypipfKLCtIVgokKKUpomFU9JV4zgTM7TNvw=",
-                "mac": "TLvmFrrwLAA/IsD73jKf2Q=="
-        },
-        "areas/bergen.json/floors/1/maps/11/name": {
-                "ciphertext": "Q8iYOpHKB7PD/fzV1llzdw==",
-                "mac": "F398dneNqS9hQke8MkQF3w=="
-        },
-        "areas/bergen.json/floors/1/maps/12/name": {
-                "ciphertext": "tLcdfZMS0WwkE/KmJ5RF+0Khu8bgBBLTwDqE6lwYK0+er/t0cFJm55qfYuIhj17o",
-                "mac": "1y9XeSzyD0+F3+IfjgE3+g=="
-        },
-        "areas/bergen.json/floors/1/maps/13/name": {
-                "ciphertext": "Vp5mjQdX3faQAhyPLWs0kWrAVhECjEe/HT6tAqJhdbQ=",
-                "mac": "bTPaay9D6BVO+r/nkeFXCQ=="
-        },
-        "areas/bergen.json/floors/1/maps/14/name": {
-                "ciphertext": "Sg5gX0tAVTpvCpTBTrqOCKbBbsAJXAxThLBGT6Fk/Ao=",
-                "mac": "DXLjzV84+15Hwd8Ueam18w=="
-        },
-        "areas/bergen.json/floors/1/maps/15/name": {
-                "ciphertext": "lI0xSVxKBQ61EzeEQGyYZw==",
-                "mac": "Qs3VMpoX8XZPTnsSy8HUhA=="
-        },
-        "areas/bergen.json/floors/1/maps/16/name": {
-                "ciphertext": "e5A4hkfhudf8RlUVb0zDCAw9Cjil/ybK2hMgUwCF/kM=",
-                "mac": "oyqspJnBrd++Bgfa3FuUcw=="
-        },
-        "areas/bergen.json/floors/1/maps/17/name": {
-                "ciphertext": "FoH3PG2YmZmbyTIF9VCE5sE4WD6Nokx1c68SKaw/v6Y=",
-                "mac": "UNWepBGnVfOu4Lh+7zlRuQ=="
-        },
-        "areas/bergen.json/floors/1/maps/18/name": {
-                "ciphertext": "uicelPL3C1HSy6qc2ff/Jon1lJQUiJ2T8RbxIxFIq4Y=",
-                "mac": "UizuzLvPv6JjnmQIE8IUmQ=="
-        },
-        "areas/bergen.json/floors/1/maps/19/name": {
-                "ciphertext": "4xUGZtJWVSFaXxVlGr1xIV6HG9HRvNLGMAIZxcCuvZs=",
-                "mac": "4MnVL9dRln6vHtz9UMILow=="
+                "orig": "Bergen South",
+                "text": "Sud Bergen"
         },
         "areas/bergen.json/floors/1/maps/2/name": {
-                "ciphertext": "GJMvR0HnjzRf/WXFaZGMtg==",
-                "mac": "y59QmJaQxAwehf8gd0SLyw=="
+                "orig": "Bergen North",
+                "text": "Nord Bergen"
         },
         "areas/bergen.json/floors/1/maps/3/name": {
-                "ciphertext": "vLv7YCOVHKtnjX03ihRjr7gXXfD5GzdLv7KsWj6tinI=",
-                "mac": "JOYeiB52zfs0MrEM5yXhqA=="
+                "orig": "Temple Mine Entrance",
+                "text": "Entrée Temple de la Mine"
         },
         "areas/bergen.json/floors/1/maps/4/name": {
-                "ciphertext": "QLFjOBobYeAZ0zp8RNrHcQ==",
-                "mac": "IbDVxak+QffwKRfBgxd2EA=="
+                "orig": "Storage Room",
+                "text": "Entrepôt"
         },
         "areas/bergen.json/floors/1/maps/5/name": {
-                "ciphertext": "Wc5fhF5RBnvVrYhUd/l+hw==",
-                "mac": "Aikhk9rQDJysx763CR60Qg=="
+                "orig": "Bergen Bar",
+                "text": "Bar de Bergen"
         },
         "areas/bergen.json/floors/1/maps/6/name": {
-                "ciphertext": "Q02A8doZjhjYrxVKqtibBA==",
-                "mac": "7gSTFSwBs4B1ghovAfbvgw=="
+                "orig": "House 1",
+                "text": "Maison 1"
         },
         "areas/bergen.json/floors/1/maps/7/name": {
-                "ciphertext": "wxAnSq0XHtjde9v1azoY1w==",
-                "mac": "Er9bdHDKvQR8MnjYwJu7Qw=="
+                "orig": "House 2",
+                "text": "Maison 2"
         },
         "areas/bergen.json/floors/1/maps/8/name": {
-                "ciphertext": "wq5GiF0rRUzU0H45uc3FGQ==",
-                "mac": "QM72I2miKjolWrm096muXw=="
+                "orig": "Inn",
+                "text": "Taverne"
         },
         "areas/bergen.json/floors/1/maps/9/name": {
-                "ciphertext": "UpraAlVd5qAEHBN+qxS5Vw==",
-                "mac": "RbIWT3oDigoUTIzy1ShxOw=="
+                "orig": "Omni Gilders Base",
+                "text": "QG Omni Gilders"
         },
-        "areas/bergen.json/floors/1/name": {
-                "ciphertext": "jfgUA3Wi61eucLkaHiGX/soXw0O4yZS0GkZd3KhK7HI=",
-                "mac": "Br6HChpROWZlrXhpmE5lfg=="
+        "areas/bergen.json/floors/1/maps/10/name": {
+                "orig": "Trader's Den",
+                "text": "Antre du Marché"
         },
-        "areas/bergen.json/name": {
-                "ciphertext": "r/UW3R/EWcewmAxeyAMEmBKTBPrCTzFKpYQqMRfXWY8=",
-                "mac": "Yw7exRw67yUyQbBP0nTG8Q=="
+        "areas/bergen.json/floors/1/maps/11/name": {
+                "orig": "Shop",
+                "text": "Magasin"
+        },
+        "areas/bergen.json/floors/1/maps/12/name": {
+                "orig": "Seeker Hub",
+                "text": "Repère des \\v[lore.title.seeker]s"
+        },
+        "areas/bergen.json/floors/1/maps/13/name": {
+                "orig": "Diving Railway",
+                "text": "Rails Lasers Descendants"
+        },
+        "areas/bergen.json/floors/1/maps/14/name": {
+                "orig": "Digging Mates HQ",
+                "text": "QG Amicale des Creuseurs"
+        },
+        "areas/bergen.json/floors/1/maps/15/name": {
+                "orig": "Bergen Guard HQ",
+                "text": "Garde de Bergen"
+        },
+        "areas/bergen.json/floors/1/maps/16/name": {
+                "orig": "Bergen Monastery",
+                "text": "Monastère de Bergen"
+        },
+        "areas/bergen.json/floors/1/maps/17/name": {
+                "orig": "Cave of Aspiration",
+                "text": "Cave de l'Aspiration"
+        },
+        "areas/bergen.json/floors/1/maps/18/name": {
+                "orig": "Miner's Elevator G",
+                "text": "Élévateur des mineurs RDC"
+        },
+        "areas/bergen.json/floors/1/maps/19/name": {
+                "orig": "Cave of Progression",
+                "text": "Cave de la Progression"
         }
 }

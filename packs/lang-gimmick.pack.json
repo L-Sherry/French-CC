@@ -1,46 +1,46 @@
 {
-        "lang/sc/gimmick.en_US.json/labels/caramelldansen": {
-                "ciphertext": "NSGzS3BmvE5JpvvxgZ/sSVQgD6fZfdWBJav533FPwSojdxMw4zOF3HEQ2BjsBOf2D3Av1CcJ06n2Qa6qRcXVJQ==",
-                "mac": "d/iCP0O00+2K/SvDqoSuGQ=="
-        },
-        "lang/sc/gimmick.en_US.json/labels/caramelldansenRemove": {
-                "ciphertext": "rYVmbNCXYCq6W4zQfccoyNnM1lnXvH8FmKr8uHKA638Ao1yZcqh25MIJo3J/0tlM9HVXEB8ZJk087AOY9MR8kQ==",
-                "mac": "FSzgczrzSUn9h4r4rbEh+A=="
-        },
-        "lang/sc/gimmick.en_US.json/labels/holidayQuest": {
-                "ciphertext": "Os+c0desqHlK7V1mChBzXvOURQp/y1dtHG/MQQHriWjhG2bo4AlDk2KgFtgtpb2+pQY8h16GijkwUJtf6se+Eg==",
-                "mac": "QeSwVYgQqf1hucJff9UWhQ=="
-        },
-        "lang/sc/gimmick.en_US.json/labels/regularTrees": {
-                "ciphertext": "zPOYdlxeQDPcYKDiGxsHiIaVZMq9mXU9NBUEFwUy59SxN6QMlTRNLhhUGDZzS0xclmk7/P6SiRoYlX8ualh+3A==",
-                "mac": "QWhwSjhGU6YMMu5wOJ8K2Q=="
-        },
-        "lang/sc/gimmick.en_US.json/labels/regularTreesRemove": {
-                "ciphertext": "Yn5DiN+KnCNTd9eeAx9S3MhdbRu8ShTonBrATGjWeZSByZGbUO/VGQPJHubq9/B4hLwEILSWsLPT/YNM6/3edpRtYMM0Nl9qMMh5vGoNVx0=",
-                "mac": "1lyBt+4yYp5OyOQttghJwg=="
+        "lang/sc/gimmick.en_US.json/labels/unknown": {
+                "orig": "Unsupported Bonus Code!",
+                "text": "Code Bonus non supporté !"
         },
         "lang/sc/gimmick.en_US.json/labels/sparklingShoes": {
-                "ciphertext": "aTnDH+kq1y16o1y2KlCR3IYRZPxjnBQxljKCsF3tTXbI31msFUQ4QuqW6vaufiPTX8j2UDd6lsazH6e3L0I8oqkw+L7WQrH2K/3V8LHtQoE=",
-                "mac": "/GdeLqiGZXY4wfbWFNXnYg=="
+                "orig": "Sparkling Shoes enabled! Check your item list.",
+                "text": "Chaussures Étincelantes activées ! Regardez votre liste d'items."
+        },
+        "lang/sc/gimmick.en_US.json/labels/holidayQuest": {
+                "orig": "Holiday Quest unlocked! Look for it in Bergen Village.",
+                "text": "Holiday Quest déverrouillée ! Cherchez là au Village Bergen."
+        },
+        "lang/sc/gimmick.en_US.json/labels/caramelldansen": {
+                "orig": "Caramelldansen on idle activated!",
+                "text": "Caramelldansen activé lorsque Lea est inactive !"
+        },
+        "lang/sc/gimmick.en_US.json/labels/caramelldansenRemove": {
+                "orig": "Caramelldansen on idle deactivated!",
+                "text": "Caramelldansen désactivé lorsque lea est inactive !"
+        },
+        "lang/sc/gimmick.en_US.json/labels/regularTrees": {
+                "orig": "Trees are now more regular in Autumn's Rise and Fall.",
+                "text": "Les arbres sont maintenant réguliers à Autumn's Rise et Fall."
+        },
+        "lang/sc/gimmick.en_US.json/labels/regularTreesRemove": {
+                "orig": "Trees are now less regular in Autumn's Rise and Fall.",
+                "text": "Les arbres sont maintenant moins réguliers à Autumn's Rise et Fall."
         },
         "lang/sc/gimmick.en_US.json/labels/speedlines": {
-                "ciphertext": "z8LwHLA/VcnlKggQei4ie+7ypfeZ2AzJzLvv4bcAKIFYlS3eEXVybXiN1meEd5QOWn6sQoCYCTx3h25gCOE8/CqauvnjU22bDYZJBHe/YkKyj50uT403H/aze7U0dsOg",
-                "mac": "JlBP61kotmLA7eOC8LPaTw=="
+                "orig": "Speed lines added to make game faster and objectively better.",
+                "text": "Lignes de vitesses ajoutées pour rendre le jeu plus rapide et objectivement meilleur."
         },
         "lang/sc/gimmick.en_US.json/labels/speedlinesRemove": {
-                "ciphertext": "XNAW2oRgciCBghPkp4YIOZ1pww+o19JDRvyJVsJev0daV+uklDL1VNDONqiIvzhn0lOK9V1gIeOklSJA4o5VB0WbMeblCTFmQkRN+BcJ9pHiNFiMM4cWg7bdsB/j5HYy",
-                "mac": "UQwzvY1VyiWr3RwYeKxkkQ=="
-        },
-        "lang/sc/gimmick.en_US.json/labels/unknown": {
-                "ciphertext": "vaIIs7sGK/yRlTyM9iTPknSGdTeMm5wtyRkL+rQ2mzc=",
-                "mac": "GgEqWWSAeBDSW8DdbzQK2Q=="
+                "orig": "Speed lines removed to make game slower and objectively worse.",
+                "text": "Lignes de vitesses enlevées pour rendre le jeu plus lent et objectivement moins bien."
         },
         "lang/sc/gimmick.en_US.json/labels/voiceActing": {
-                "ciphertext": "krCTZJPVwTKQXbGar5mru8fZfN4F5012/eQA3vlYtTAgTbhZ7nhfUb3DEG82CmU3+THwTpd+PUcyxjGHDckTMb82kObN6hp+0jIHlqUIdWKM6WBJwodd6YfFHqrsnL65",
-                "mac": "vruuJHdZMZ6KZlHbS35nfw=="
+                "orig": "High Quality Voice Acting is now \\c[3]enabled\\c[0]! Enter the code again to disable it.",
+                "text": "Doublage de haute qualité \\c[3]activé\\c[0] ! Entrez le code à nouveau pour le désactiver."
         },
         "lang/sc/gimmick.en_US.json/labels/voiceActingRemove": {
-                "ciphertext": "1ZLLNqWQsEhd9EcuAOXP/21Y6qz5LY3eu/xOSLfshrwJ2hI1q+Vh8PvRpWfM8DYXt7nF+pX8sIFro8xowxZ9MfFo1DyZTwZ+mgkXYC4egH6QEDreuWIB4wPeKTuoVUQd+kiunYLhFm0vnzs+UcfCWw==",
-                "mac": "PqjTY6dbmA10sHwqjLqrtg=="
+                "orig": "High Quality Voice Acting is now \\c[3]disabled\\c[0]! Enter the code again to enable it.",
+                "text": "Doublage de haute qualité \\c[3]désactivé\\c[0] ! Entrez le code à nouveau pour le réactiver."
         }
 }

@@ -1,277 +1,277 @@
 {
         "maps/autumn/path6.json/entities/921/settings/analyzable/text": {
-                "ciphertext": "AyvR4pu8vcNRRWCVHEq7CjowBUxGkcba9aRiGsJvUzM=",
-                "mac": "9YI8uauJb7dzeP6Af0QlEw=="
-        },
-        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "xOyntBuuWAILQnZc1fxXPVCKBV4eVWXL+Ro7wBp6RwIKDw4raflIhOtzPU30PYAN6u+YVs1NqzTFXIHTuiR5QE6KAB8eiHa6zqNt4iLU1wP9N5efERmfnwwhgmipGYQEwP93pu9WVb9eZqGWrBNCEV42oRCD0q/eLPUHxRS145v05ZFVhV1vuxAN1/EvH6dvUEjKv6/i4nOpvN3Va6HgjA==",
-                "mac": "j63WNBVK6x9nompZ2KW8/A=="
+                "orig": "Food Collector",
+                "text": "Récolteur de Nourriture"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/26/message": {
-                "ciphertext": "wf06nxbXEfOY7lPGKXgtkAVxO21uuLwzCXNKdkuPw4VcaaEG1l86cRj0nVT4Jlm945ymA5RCjrhxtwL7VUYQKaFprg0Hp2dtpmcgw6wPK3F8OWV/L6jOTNCwaWjX6gq1Zse6qVsnDPiNRvU5oOTsSohhztF7dHpZt+k686jMwfAUh73XAymfzIFxcWW3yXTN",
-                "mac": "QLslsvRBC1LpSnSivKLgfg=="
-        },
-        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/27/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/28/message": {
-                "ciphertext": "xckOVeoUwqrIbX4Am15I+4MMIai5gKhwp2pzE7/LB7zxkKMhhkgroStJkcfq1HBzoiIqWXDDA76hI+abeEXUjvsuM0aPNYGW7mvz1pUOQtJ3iL3DTw5BoOeNqHxFA9ni1ItNhyMOGXKwSOFrqLHQLfp6qo7Y8qLTiicB/HjQEBFayFacIQky9yXLrNE3vQr24PTRf8nFVRSSictMNCpKH/g1HndF4YskaCAHgsnHqxI=",
-                "mac": "xrzLBQd/gPojlwW+wlRaPA=="
-        },
-        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/29/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "3+4Eeut4IEo8YeV+s4adFZOWpYzkFqT+eL7xMiVBJh+sAcRKD82D1mCxewo0NvHJ0gnadgLXf702hQfYE1RB1EvUvf2BQ0F23n7Nq26ep3c=",
-                "mac": "0bk6LMURHeDO/6EES61fMg=="
+                "orig": "Waaah...!\nDon't be so loud! Do you want THEM to hear you?",
+                "text": "Ahhhh... !\nParle pas si fort ! Tu veux vraiment qu'ILS t'entendent ?"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "I/fjf6xLW8DXU9IB9oCiYZbPqbnWfUJEdgvcfcppk5BQ/WPMsOoUCD2mAUojAfmMJKDH5YYr33S/gquT+rrqTOyjdZxdoFHpGQQKuf5UBAlfxzfJqE5bquBVet9x5P7OGQT1TYhqu1MpWSWENN5ttUrsYK5eIpELvKnzAzW44xY=",
-                "mac": "RfYQvIeQr0iqMFM68VWf1g=="
+                "orig": "I'm talking about those thieving Bovines!\\. They've ambushed me and stole all the fruits and herbs I've been gathering!",
+                "text": "Je parle de ces voleurs de Bovins !\\. Ils m'ont pris en embuscade et volé tous les fruits et les herbes que je récoltais !"
+        },
+        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/17/message": {
+                "orig": "Look at that beast, grazing there like nothing happened!\\. And there's more of them in the bushes, just waiting for a victim!",
+                "text": "Regarde un peu ce bestiau, qui broute comme si de rien n'était.\\. Et ils y en a d'autres, cachés dans les buissons, qui attendent leur prochaine victime !"
+        },
+        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/26/message": {
+                "orig": "But... you were sent to help me, right?\\. I worked all day collecting that stuff, we need to get it back!",
+                "text": "Mais... Tu as été envoyée pour m'aider, c'est ça ?\\. Il m'a fallu la journée pour tout récolter, il faut qu'on récupère tout !"
+        },
+        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/27/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/28/message": {
+                "orig": "Well...\\. you have to do it.\\. I have to...\\. watch for reinforcements.\\. So...\\. good luck!",
+                "text": "Ça veut dire...\\. euh...\\. qu'il faut que tu le fasses !\\. Moi il faut que...\\. je surveille si on a des renforts !\\. C'est ça !\\. Et sinon...\\. Bonne chance !"
+        },
+        "maps/autumn/path6.json/entities/921/settings/npcStates/0/event/quest/29/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/1/event/2/message": {
-                "ciphertext": "voZg4k6heExLegRFuOUnR7RGzv62ftZKzAybztMYrd1tSnMS3gVUcSDylFoUIhRLZ41FLzetNYtq4VOw8FLxpWfqtMkoKDCeZa5YoH+zQI0SlGAW00O/kAo2X25WD6IXqVaocnEgf7YB5JU8PJ8wVQ==",
-                "mac": "eI0SD57uuqderovD6UV/9g=="
+                "orig": "Go slaughter them and bring me the package!\\. I'll be right here, surveying the situation!",
+                "text": "Va les exterminer et rapporte-moi le colis !\\. Je vais rester ici pour garder un œil sur la situation !"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/1/event/3/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/2/event/2/message": {
-                "ciphertext": "Tcr2XpKybsJbfSrQvxwdCP0yijhbtKSJPZxTdxn1cdiEonQ9TV7NgFOR5GcBGs+lE1kOJUd+fIfCqG0996ZsgXawtquiCzfDEso4XMSx2GIi8AFXD4K2fLXFv0MDQBCExtXFhUaglZJPhe88EHc5xw==",
-                "mac": "ZlDy9G4wgtGV0OIrPxe9BA==",
-                "ciphernote": "whJ2ThoS0221/BT/q94FZJtKWYvjyElFhWXMmwO25QXLuOKcQ+4xK21iW5Zl43TKWEACSvx49rQ18q1/6avEVQ=="
+                "orig": "Great work!\\. Now... please bring me the package?\\. I don't trust this silence.",
+                "text": "Super ! Bon travail !\\. Est-ce que tu peux me ramener le paquet maintenant ?\\. Ce silence, je le sens pas trop.",
+                "note": "is it lea's silence or the area ? probably the latter"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/2/event/3/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "xN/LxXTTbBDQEqIttAcErShnnMorX7V1rqIE2Cjib0MyF5f7XUSlAPHTPIii97YH8rl4TH6M11ARQrF1PIC04g==",
-                "mac": "4vMgoV/LLbMdW4d2fML/jA=="
+                "orig": "There they are, the fruits of my labor!\\. Literally.",
+                "text": "Ah les voilà, les fruits de mon labeur !\\. Littéralement."
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "4AeF6vuOY6EKSdWGkX4WpUMvNJlSJuFBSi0BzB6523lRWzqf8i8TBGdPk6LnkSBF/WCuBAdwPfZx/m6CP79sgCqjgqhCw+LO5btONhEDmCtAC3u2MWZJmwxSlUxyhvjfP82mf3xBqd2NOJLHyoOs1B9uHC1K1krXQTyxddjn9bmnnkUpUvt+iDGDQ8caj1nt",
-                "mac": "xLMYpYqg/JZU+OnqGy7gmQ=="
+                "orig": "Thanks a bunch!\\. You totally saved my butt here!\\. But now I gotta get going and deliver these before it's too late.\\. So...\\. bye!",
+                "text": "Encore merci !\\. Tu m'as vraiment sauvé la vie !\\. Mais maintenant il faut que je livre ça avant qu'il ne soit trop tard.\\. Donc...\\. Bye !"
         },
         "maps/autumn/path6.json/entities/921/settings/npcStates/3/event/quest/7/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "DkPu9fLhbHFkMDU4KyiNkuqpdwVRoevuvS2QkSgvDaoY07xKgqppdD7T1DEg0gpkYmgHegcT4AKqU2RL4/lznNz8dxiS+Jzg0tKENIuqRsQ=",
-                "mac": "oqLDYmPS6oW6IIMR/l1o7g=="
-        },
-        "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "GBkvZd7Ia47j5NeITgOj6uAlPhTcOEnEKNoRIRIgAM4=",
-                "mac": "Z3Vz7sqdvSKVPPDUIQhFPA=="
+                "orig": "Ah, what's up?",
+                "text": "Ah, quoi de neuf ?"
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "WRqgFLoRpzxe2+ZPTNqcFg==",
-                "mac": "xjj1WJYIaQQc9FT6HiwavQ=="
+                "orig": "For me?",
+                "text": "Pour moi ?"
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "kwVcnEhLUy22ux4GklDHCw==",
-                "mac": "oYURa41T6Oe7DL8LmTT0pw=="
+                "orig": "'kay.",
+                "text": "'kay."
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "I2m2ifRLFrl7klzrG45+/P1XnzacZ3RMHZKUIiKL8ttLtecof6+Q3bRltBgoQXsjxPLs2JQBgcaYZcs9NxNBBmxyW4h9lTQNdeoAlY+3ZEiZ25E5qHnl7L72HfxgArNa",
-                "mac": "62D8CdE7Z++JvoVIM3pGvg=="
+                "orig": "Sorry I can't muster more feeling, but I get these things way too often.",
+                "text": "Désolé de ne pas être plus enthousiaste, mais je reçois ces paquets bien trop souvent."
         },
         "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "DfXkC5JEd7VXboRwrLOb4vQXrPjyIeJBbGOHIOSB9NjGor8hmF8fP3vTnPTcJ71C3G3t2ui1YxgQz4PZZVZsWzGFQvlne5eBwuDA1uZ/S0A=",
-                "mac": "Eax8iQIysd8gFvvkWMDaAg=="
+                "orig": "I don't get it. How does a stranger know what I want?",
+                "text": "Je comprends pas. Comment un étranger peut savoir ce que je veux ?"
+        },
+        "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/11/message": {
+                "orig": "I don't know why you give me these but you gotta stop.",
+                "text": "Je ne sais pas pourquoi tu me donnes ça, mais il faudrait que ça s'arrête."
+        },
+        "maps/autumn/path6.json/entities/933/settings/npcStates/1/event/quest/12/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/autumn/path6.json/entities/951/settings/analyzable/text": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/0/name": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
-        },
-        "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "rQD9J2fRNSt6vYyeY7lYWQnohqNVL+DaFib+nlnFSYs7e5KL3YmPjITOADLC260uLVWdQ8sBnJ5OiyjDIYTjz8HzwphXtHxVYCRrg+YN/+AYw92hVQRDVbFZOX6WXTp9",
-                "mac": "m8JgKceBQ/KQ3C/93zhWGA=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "MxbcyEtZySfjqL2BmY70ocLrOzamBiLlcIXKLpijTR1cH5jDpeGZ5d9vBjEspI9hNjoAFUCLoMB10hC68r0WM1kzAcwKqbQn2s54lbOcN7T80AHLs90VJmWIhcli67tpBYdi5QC6w/1tDMxCqq4NIRaUu3chCNCPqrFo5ZbT1lc=",
-                "mac": "w4Etm6B+SUK6WwT2Vd7Qhw=="
+                "orig": "About time someone showed up.\\. And I hear you also helped us out with that lost data?",
+                "text": "Il était temps que quelqu'un arrive !\\. J'ai cru comprendre que tu nous avais aidée pour les données perdues ?"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "gxq4PgPIzw+DptkTDj9QksQ4xp17ZSSDPnqdnaAED+/tIwPlPa2o3lYnI8Kw++sOv6PeQ/LTGsFmjR0tlr1C62/APnlQJqgMYr0Wy9XimFs4GDGZ8FAKn3USqRR29kx99rQgNpBbLetZuBeUuUvDZGnMPHN8EgcR5tBZ6NcnIII=",
-                "mac": "Up0PaQ/WtiYP6acQGPCqmw==",
-                "ciphernote": "b07PDEOXS9Hb/nbplPIHZUeOL78vnoWL/RFkUNaT2zSQv+lHha778Y1SiAwtLKz9"
+                "orig": "You really saved my butt there.\\. I would've lost weeks of work if some critter had decided to eat it.",
+                "text": "Tu m'as vraiment sauvé la mise.\\. J'aurais perdu des semaines de travail si jamais ces bestiaux avait décidé de le manger.",
+                "note": "de: mon travail aurait été donné au chat"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "ST3AEozXH5PY6KVL+QaHjNQnniIgQq6/YJXCWNZdAyzB6cCotDni82dd5G8oqjcPQ41q7bka9amSiamqJ8ZXY1d2n68hjshVTE+Qclp9u94QJ7eJp6BEXw9TSz1lMPtzvyzwIJnZlkuopqOAlX1Deni7zbvIjDTTRyFzXjxOHS5sGJi9Ud+Ym72iBbK41QClFEtUWNFG/8/ul6RIcMGiDg==",
-                "mac": "6B/tMnV7arSXiK1fQceBSA=="
+                "orig": "But we gotta make it count now.\\. I'm sure the group that jumped me had a special leader with them.",
+                "text": "Mais il faut récupérer les données maintenant.\\. De ce que j'ai vu de la bande qui m'a attaqué, je suis sûr qu'ils avaient une sorte de chef."
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "2LTsYJSb3k/GE/HYRRvuTUHa9AhKeXTl5YwOZO0n7n5kFtE2oxJQDVePOzoksDGNQm9kvczB9139Ez7fuUtcV/VimWTqgu2jt07KRFi2oRoIX7ajMyhDjAuuFsqHEnwz",
-                "mac": "QO3/g65t7Fhku6TIizdC7w=="
+                "orig": "Cut that one down and they might just become your usual pack of beasts again.",
+                "text": "Si tu t'occupes personnellement de lui, peut-être que les autres redeviendront normaux."
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "VYFZQsq4BHv3gYK4ujLe1LKe9OW05MDrW6Ihhk+4MrOewZT6hts6vIPv3XLtI1yj7XIWGgYZXNTEZX3yaNPHIekJ1N1Cfmjryc7blSmQafvyp3QLwHJfwhId0d1UQ8IR",
-                "mac": "5q4YyznSa7Z7ZxFh99Sc5g=="
+                "orig": "Right.\\. I've already spotted that sneaky rat again and tailed it to their hiding spot.",
+                "text": "Bien.\\. J'ai déjà trouvé où était passé ce lâche et je l'ai suivi jusqu'à sa cachette."
+        },
+        "maps/autumn/path6.json/entities/951/settings/npcStates/0/event/quest/10/message": {
+                "orig": "It's in a cave across the river northeast of here.\\. Follow me!",
+                "text": "C'est dans une grotte à l'autre bout de la rivière au nord-est d'ici.\\. Suis-moi !"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/2/event/0/name": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/2/event/2/message": {
-                "ciphertext": "GQE5h7vZediA0Y7VVj/WBAKxq3nwc5NE+8HBAwAFdl+kBV4DLHt/80g32fG0e1bkfvijFGGTlPhkhAPA2dnjBgr2jFAXSnT+9LYB1yZRPzuBPXZVQKIhmea2/eaLiU+y",
-                "mac": "nJqtsboZCQc1wiNGW8s+HQ=="
+                "orig": "You should go inside and see what you can find.\\. I'll guard the entrance.",
+                "text": "Tu devrais entrer à l'intérieur et le chercher.\\. Je vais surveiller l'entrée."
         },
         "maps/autumn/path6.json/entities/951/settings/npcStates/2/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path6.json/entities/952/settings/event/19/name": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/952/settings/event/21/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/autumn/path6.json/entities/952/settings/event/22/message": {
-                "ciphertext": "VZLAPPQ7zDUZaxHCZ5Z41Gcni5scdVXP00k8HBfDRTU=",
-                "mac": "jNtS3Ykr+HVpRok76K9nGg=="
+                "orig": "Ah, welcome back partner.",
+                "text": "Ah, rebonjour, partenaire !"
         },
         "maps/autumn/path6.json/entities/952/settings/event/23/message": {
-                "ciphertext": "PWdVsx9dFUd2RgZuFzqAdfKC1300FEEQvJwAuZv2+rkmKzP3NMIvTRllD+xzXrNotp7zLYMw/FXA3LxDRvHdc8LgWqhEWJxpHhPo4wU/5+E=",
-                "mac": "gL6xwoeKxOoeIBHUkLHvtA=="
+                "orig": "Judging by that satisfied look on your face and the noise you made in there I assume you got it?",
+                "text": "Vu ton sourire et le boucan qu'il y avait, j'imagine que tu l'as terrassé ?"
         },
         "maps/autumn/path6.json/entities/952/settings/event/24/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/autumn/path6.json/entities/952/settings/event/25/message": {
-                "ciphertext": "dUD+nunJu/cWVWQuMqarQqsOXZVBZDgMl5yRCGeWosGFdrUQ9KX2Y/g0Zy/UbDhT4Otuqys2Y0F3nhe+2onEiLz2kmg847t6YJ1uL3GrqMT0yj799S3idpAemabDfPu3VX8D/VY0H3lifpU3ZBaJ43cAR0JECq/KgwPwIFQIB3A=",
-                "mac": "do4lxNLwXstpWb6nHGYmmg==",
-                "ciphernote": "yTGRGNdu4qB7G5pwECZIJ5bgXfUNkqca/iFkJWDManI6oc2pyeHfEj1KGFEiepLR"
+                "orig": "Ha, that should teach those things to not mess with a Falldiver Pioneer.",
+                "text": "Ha ! Ça lui apprendra à ne pas mettre des bâtons dans les roues d'un Pionnier des \\v[lore.title.faction-heat-rookieharbor] !",
+                "note": "de: il y réflechira à deux fois avant de ..."
         },
         "maps/autumn/path6.json/entities/952/settings/event/26/message": {
-                "ciphertext": "KJwOEfLHFLK2EEhRRqO8H1dBKxA59wqGL7LeBC5tk4mnCZ2Astq1P5LTe8kNsj4aP1rhdeVCQL5VxbKNrBsiTF8K/ebQduDjQpBSNTZHfodOCWjEgcVAJ0KABXNU7O6w",
-                "mac": "FoPMBh0YINs3V2KsQL1Wzg=="
+                "orig": "Seems like you also found something interesting.\\. Lemme have a look.",
+                "text": "On dirait que tu as aussi trouvé quelque chose d'intéressant.\\. Laisse-moi regarder."
         },
         "maps/autumn/path6.json/entities/952/settings/event/27/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/autumn/path6.json/entities/952/settings/event/30/name": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/952/settings/event/32/message": {
-                "ciphertext": "jnHMAF3FoLt6o53cf3W4s0xPQhzrEC0klh+x32GBU5KwPH9gZg+BRXoz96OJnqQYHNhYofeXtwb1t9lV+rCqvAOjwKASK4hGCHvUtdS2z0MDfKxwDvol4cLC5x91S1E/zU7+JSn1XUpcgUr/sXBqb1+uZq2MB7jSIDi0iRPr1XI=",
-                "mac": "CG7RzEh0oNm6cwT9WDVA4Q=="
+                "orig": "Huh, that looks like some kind of \\c[3]data storage unit\\c[0] as well, but not the kind we would use.",
+                "text": "Hé, ça ressemble à une de ces \\c[3]unités de stockage de données\\c[0], mais pas du genre de ce qu'on utilise."
         },
         "maps/autumn/path6.json/entities/952/settings/event/33/message": {
-                "ciphertext": "cwoXZfKXRSRPHbrdfhNiKC0TWvVAMfnnQ9fRPJrFUuHPwqEE0okngo8U/XCaxVQsSKf0VnBP5LQKusPTvFrgNPkas6tFxAUQowFPj4JerPMp4MQeipokzlGK2SAbB1HgJMKRn9K+QUoKsZtzSdy7eKTXDi8slQ9LQjfDtSg220Y=",
-                "mac": "3+L/PhO0FOuGaCwBsDx+Iw=="
+                "orig": "If that Hillkat bigshot had it then it might be extremely useful.\\. HQ should definitely give it a thorough scan.",
+                "text": "Si ce gros dur d'Hillkat l'avait, alors ça devait être extrêmement utile.\\. Le QG va de toute façon devoir l'examiner."
         },
         "maps/autumn/path6.json/entities/952/settings/event/34/message": {
-                "ciphertext": "lgelMtG/8OQklCTAwq0fx4f/WYOyLKh/J8xG9nuiBqdiKeqqWxI7IbOw4U3Ta8WXyoR7R28x8y8rXFK66bkcZNcVqdt9KZFJp+peeUGYoI3gqiGxk12Ov1//FxJLoK3Skb7wE04T0dYgnn7ObQhlOg==",
-                "mac": "ZS36uClLj3liCkvAP1Bh4w=="
+                "orig": "Here, take it back.\\. I'm not gonna hog your glory after everything you did.",
+                "text": "Tiens, prends-le.\\. Après tout ce que tu as fait, c'est à toi que revient l'honneur de ta découverte."
         },
         "maps/autumn/path6.json/entities/952/settings/event/35/message": {
-                "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
-                "mac": "ahS7SIG0IeLx4nW36TYvEw=="
+                "orig": "Lea!",
+                "text": "Lea !"
         },
         "maps/autumn/path6.json/entities/952/settings/event/44/name": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/952/settings/event/45/message": {
-                "ciphertext": "ZMGzXQ9MiN+qj4BnQUoUizFPVz4pUsl+cUPt72FQWqYy8LvBIwgJ7HtXCP6avVf3thyZUjaOozG4P2QTij1eu9NrimDNQQ6LZH/eZHb8cnY=",
-                "mac": "vX8dQi5EWxaS3TM4SajwmA=="
-        },
-        "maps/autumn/path6.json/entities/954/settings/event/10/message": {
-                "ciphertext": "2sqPOKeDlomIlRbHHxl5xquB94CBwT4VLYGP+2FkFzqs6VHwe6PPNj6WhDskMMR5Q+vq8e1+e5qqP9JCoTkvxfWKbADTPHaIKZLoq6YuWU6xaH0JXTXiufuT+18UJwsC+/NrrccH+PXcVUZFjqShIcoimVtLuBzn7ufm6Snd2Ic=",
-                "mac": "Ky0lVgYPZ7cJeN9Cd8kyGA=="
-        },
-        "maps/autumn/path6.json/entities/954/settings/event/11/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
-        },
-        "maps/autumn/path6.json/entities/954/settings/event/12/message": {
-                "ciphertext": "9Fhhp+shhcG3ToU3tBPcY6U/m8hvzg6ypsCOITGmIHFP0dL6GbaQlO/ZwSovzg+KfL0wfhmvelN5EjV+fKLQVoxVCpKqqMow7Npa4fHmpDZDT4bHXdBNSX+KibkJTFpsR48CHnzLz1eprENY1tTK5c8KYdnq4fc44mtEwW2hjO2EBaH5uZzxE3eI3HeuKF1zRc0joHoJBM8SAgJ0u6zYpg==",
-                "mac": "EJLpEeT3ydMTLifqWLpuPg=="
-        },
-        "maps/autumn/path6.json/entities/954/settings/event/13/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
-        },
-        "maps/autumn/path6.json/entities/954/settings/event/14/message": {
-                "ciphertext": "zOVOpcYPzTSmBpkKQAw4UOfE+ZhSw+MtQWlewSZi/hIcQQPcaqoFZQZhWWfgU9AvDY6zmPdkuhYQh0igLTK+zmLCPtQteGDwAWQoHRZpO00=",
-                "mac": "gzr03ayIgmJGKaSqHJLOMg=="
-        },
-        "maps/autumn/path6.json/entities/954/settings/event/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "A'ight, I better get back and share my report.\\. 'Til next time!",
+                "text": "Bon, je ferais mieux d'y aller et de rédiger mon rapport.\\. À la prochaine !"
         },
         "maps/autumn/path6.json/entities/954/settings/event/5/name": {
-                "ciphertext": "OjwVjROw699MJdOrQsSJMg==",
-                "mac": "6sb59Gsgh1W6NKYnuqfhvw=="
+                "orig": "Tucos",
+                "text": "Tucos"
         },
         "maps/autumn/path6.json/entities/954/settings/event/7/message": {
-                "ciphertext": "Py2NEkof1CcklFvmMbT8wAF/cbStSLEXeLF0wRdZzCCK7FnQBLXpITyJdM5TSR01cF5jXgetLCtBaGS+1ibVbtSK4vmftog8KL/GoX5t1+Y=",
-                "mac": "bM6vhY5nHmGRvQ6DiTry5A=="
+                "orig": "Alright, here we are.\\. It seems quiet out here, but don't let that fool you.",
+                "text": "C'est là.\\. Ça a l'air d'être calme, mais ne te laisse pas avoir."
         },
         "maps/autumn/path6.json/entities/954/settings/event/8/message": {
-                "ciphertext": "/BhtJTVZR/AK90Zuvz9N4LdUrVfqN/HXi9K6mDjQQtHbI/AIyIAwiaYYyJUsammlyt9l/VJd64pyZ94vaUsiSURm4Fcu+DhACKn1mLTvoPg=",
-                "mac": "iU8EfCSXsvzW6A+CH3DSfg=="
+                "orig": "I didn't sense it leaving, so it should still be inside.",
+                "text": "Je ne l'ai pas vu sortir, donc il devrait encore être à l'intérieur."
         },
         "maps/autumn/path6.json/entities/954/settings/event/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/path6.json/entities/954/settings/event/10/message": {
+                "orig": "So...you go inside and deal with it, while I stay here and make sure no one enters or leaves.",
+                "text": "Donc, tu vas à l'intérieur et tu t'occupes de lui, pendant que je reste ici et m'assure que personne ne sorte ou rentre."
+        },
+        "maps/autumn/path6.json/entities/954/settings/event/11/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
+        },
+        "maps/autumn/path6.json/entities/954/settings/event/12/message": {
+                "orig": "Hey don't gimme that look.\\. I'd love to settle that score myself but extermination in the wild is Seeker business.",
+                "text": "Hé, me regarde pas comme ça.\\. J'aurais bien aimé régler ça moi-même, mais la chasse aux animaux sauvages, c'est le travail des \\v[lore.title.seeker]s."
+        },
+        "maps/autumn/path6.json/entities/954/settings/event/13/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
+        },
+        "maps/autumn/path6.json/entities/954/settings/event/14/message": {
+                "orig": "So go on and give it a good beating from me as well, will ya?",
+                "text": "Donc, fais-le pour moi, OK ? Va là-dedans et balance-le contre le mur !"
+        },
+        "maps/autumn/path6.json/entities/954/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         }
 }

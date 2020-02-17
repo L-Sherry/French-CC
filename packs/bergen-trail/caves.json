@@ -1,291 +1,291 @@
 {
-        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "LU9MUhSdrS8hVvqsPyqW39XmPY36zrAr/6PYeXSvySV6U2ryF4DUyaJMQ8/fgPaBNti5KKAoAqT+z5yhJVzUX9A7L5DO+08kPJokdf8wYiQ3BFs6CAR+ifLh9A54K34qJQEdlKFRt/Hr2DLjpdxrdq9TKq4iz+72kWJDNboKOXwQQVEftUzd7UAVVy5Un0KwC/3SAd/Hvj7YQUvzlZwhT51wVz5J0AByEVyeMo/eFqe6+wCIi9YtyWFHivTr/GbB",
-                "mac": "jVcbcv1FUi+70+ckvKJr2Q=="
-        },
-        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "55u3d1fkTAxhlFGz7Ue8/XrV+ZuRluFC4FCOEpF40q7PDiqKVH3Z77VSlAPPBttkreWtSXoIxRsdTL8dJpG+bxIQQ1xaMRjf4KTDGFtZEmOUyT/3TuBCHyVQrk2di2wPiqhGwVAK4mgJc2hM2OVYaqDELnND5IM6q76MjAhVz/QrHxDDuXqUc1So+wgiVJGr",
-                "mac": "VZYiB4/nZPFvO23YAl0g7g=="
-        },
-        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "Yz/MKN2g3mASm0LWXjByvWlZ26q+Ippek/faDegLyDk=",
-                "mac": "xNR9yw8QrmD1Iq0Eh20ZgQ=="
+        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/interact/hoverText": {
+                "orig": "Read Diary",
+                "text": "Lire le Journal Intime"
         },
         "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/interact/event/0/text": {
-                "ciphertext": "j0Hbytlfp3YlWjeS16Z6b3+iB8QyVTJTSjbQFOKrfp/BB4fZJ4P+D4xHaUBPXIwj4h2Q1DET6QFaI+974KV499EzEMNSBkCxyEp8uHwoTMI7g+8dDf7klJYU/YElOJsSPdyjpO5RTiEFiNkGDgkJT9QdrovVMwQ5g8BnluncYjl/H1hMitR2WUr1FFHM2NKrZ1VYcc8BZe1YKFKAizZUecWRWmbj99wS6LVzEs6cNKDixSMTayHVz+Rq1sfO8AlO",
-                "mac": "gHWuXVZ2PMCRg4CrZQoYcA=="
+                "orig": "Day 32...\n\nI don't even know anymore. Screw this! I'm packing my stuff and leaving for \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. If you're reading this, you're too late.",
+                "text": "Jour 32...\n\nJe ne sais plus vraiment. Oh et puis zut ! Je fais mes bagages et je me barre vers \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. Si vous lisez ceci, vous arrivez trop tard !"
         },
         "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/interact/event/1/text": {
-                "ciphertext": "6NPb6LJ4Pkz+n4OrfspnRz854P1WXBC/uQfV4oLDWJ50aa2UnC5iH7ETgP8V3leW9ACldl5XUlQPclFvOKpNt5LwOJ6XqpQAGPPfbU0moA0UAy/TcF43d+i0o94I/eXFS2ngNtZXpO2h4Wo/DwHx0gKbvpu3wA7RkbRccFlBE6aRUShAw+DJ3eE4cOpiwML6",
-                "mac": "rEpy2c92qmGNrRrOnMFVPg=="
+                "orig": "No more forging for that guy!\n\nThe only thing I care about is a nice house in \\v[area.rhombus-sqr.name].",
+                "text": "J'arrête de forger pour ce mec !\n\nLa seule chose qui m'importe maintenant, c'est une belle maison à \\v[area.rhombus-sqr.name]."
         },
-        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/interact/hoverText": {
-                "ciphertext": "Yz/MKN2g3mASm0LWXjByvWlZ26q+Ippek/faDegLyDk=",
-                "mac": "xNR9yw8QrmD1Iq0Eh20ZgQ=="
+        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/condAnims/0/interact/hoverText": {
+                "orig": "Read Diary",
+                "text": "Lire le Journal Intime"
         },
-        "maps/bergen-trail/cave/cave-4-1-1.json/entities/19/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "vfIn7/JAkkDDfHPD/QjppGvO2zVETKSx9NtKbsrt/2s=",
-                "mac": "DN4GuqIU2GwTXXle+azYpw=="
+        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Day 32...\n\nI don't even know anymore. Screw this! I'm packing my stuff and leave for \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. If you read this, you're to late.",
+                "text": "Jour 32...\n\nJe ne sais plus vraiment. Oh et puis zut ! Je fais mes bagages et je me barre vers \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. Si vous lisez ceci, vous arrivez trop tard !"
         },
-        "maps/bergen-trail/cave/cave-4-1-1.json/entities/19/settings/condAnims/0/interact/event/16/object": {
-                "ciphertext": "A6sP7K/oleVpuHzEoX2lEzEVxgUEeqZxyXv9YPBTJ7Y=",
-                "mac": "sAdNB1h78VobZA0eviwkqA=="
+        "maps/bergen-trail/cave/cave-08-smith.json/entities/12/settings/condAnims/0/interact/event/1/text": {
+                "orig": "No more forging from this guy!\n\nThe only thing I care about is a nice house in \\v[area.rhombus-sqr.name].",
+                "text": "J'arrête de forger pour ce mec !\n\nLa seule chose qui m'importe maintenant, c'est une belle maison à \\v[area.rhombus-sqr.name]."
         },
         "maps/bergen-trail/cave/cave-4-1-1.json/entities/19/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "cKzxUz9h4gz7fwLNdRzhv4my74XjT22awwv2kSdSnXk=",
-                "mac": "oc3moGVoEVjMIRkHr8mP7A=="
+                "orig": "Henry's Data Probe",
+                "text": "Sonde de Données d'Henry"
+        },
+        "maps/bergen-trail/cave/cave-4-1-1.json/entities/19/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Retrieving Data",
+                "text": "Récupération des Données"
+        },
+        "maps/bergen-trail/cave/cave-4-1-1.json/entities/19/settings/condAnims/0/interact/event/16/object": {
+                "orig": "\\c[3]\\v[item.224.name]\\c[0]",
+                "text": "\\c[3]\\v[item.224.name]\\c[0]"
         },
         "maps/bergen-trail/cave/cave-4-1-1.json/entities/20/settings/text": {
-                "ciphertext": "cf30oO4IZpiOGJOVa19Bcl9ii6byeoOO3aBgWePhdpJ3q+STQPtrbOAoDYHciYxyh6nhjmdCUb+y7LxUkzYfmg==",
-                "mac": "uTcFn6fNNXuYkFTQp32A/w=="
+                "orig": "A data probe installed by a player for Henry.",
+                "text": "Une sonde de donnée installée par un joueur pour Henry."
         },
         "maps/bergen-trail/cave/cave-4-1-1.json/entities/21/settings/text": {
-                "ciphertext": "0r2bF59ZNedn1VqjO2MZax+Hx7+XvIcKM7Iw+OeTtRt8nwc9o7BSCD4HuZzVOASgm2pA9wwVlC4VUVfFVXNm1mRAnGsQbyGvpIi8AN6qzzICIXv3hYXtutuPpHYwPKxt",
-                "mac": "jQ7s9zi8e42+6XzaNG1/4A=="
+                "orig": "A data probe installed by a player for Henry. The data has been retrieved.",
+                "text": "Une sonde de donnée installée par un joueur pour Henry. Les données ont été récupérées."
         },
         "maps/bergen-trail/cave/cave-6-1.json/entities/26/settings/event/0/message": {
-                "ciphertext": "upsbZq7T9BxYnmVHyBbqrAbauD/nMvJOztV+YjWJ+f+a70j64tcwqvSbR4Hls8eO",
-                "mac": "7G3odD7FlYjN4nUWcdwfxQ=="
+                "orig": "Oh, this is one of those instanced caves.",
+                "text": "Oh, c'est une de ces caves instanciées."
         },
         "maps/bergen-trail/cave/cave-6-1.json/entities/26/settings/event/1/message": {
-                "ciphertext": "bwHAPUjrC/aBMLbXJQx+CeTWGJhKyw6bqWVM4mvq59naVM6iVFOYvMLveJO9aPMIDIXe009yvfu4CNjhd9vxng==",
-                "mac": "JUboqxhm/gOEYqxcR1oQSg=="
+                "orig": "Just like the dungeons. Let's see what this one has to offer.",
+                "text": "Comme les donjons. Voyons ce qu'il y a à récupérer ici."
         },
         "maps/bergen-trail/cave/cave-6-1.json/entities/26/settings/event/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/17/message": {
-                "ciphertext": "KS67EL34bSBIGnx/e2hLHaZopAVyE3VuufGVQLRrf29Xr0ZFsPXMW0C0TV9EuxrXAqET3xnn4ZwF2mY86t8t6X3x12SsKcu1GTfZGLEBCp6HIqQFmQzvkxh+agHTsPRwwcX89E9qF5nTywfBz0JY5Q==",
-                "mac": "Zsi33lA6mj117LiZPvmY5A=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/18/message": {
-                "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
-                "mac": "ahS7SIG0IeLx4nW36TYvEw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/19/message": {
-                "ciphertext": "f2ivjRULXKGQ1kger4bcnZOAKlJHhFwupXWaabX7wJhh3YCQhZEx30z0ljhGp4eZgcgQRFckBUtXKh3OHKcqxQ==",
-                "mac": "pD4HzYcpKwDfj93nxQim3Q=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/0/1/message": {
-                "ciphertext": "57IXJo16/27+RXRlV8fcBx2GMYYpfhC4zLM+oeclymZtAcAHlrNhQq8fO03gCSx9",
-                "mac": "s/UVEd4iyNjTfd0DOX0jQw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/1/1/message": {
-                "ciphertext": "hOoQY7PFntORePtCEYJDFxd4RFudzXJbkpA1f/2q3FIPPFihl19HS67/A23YOKVc",
-                "mac": "l4MS9BWoxIXmNXA8hD/7IA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/1/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/options/0/label": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/options/1/label": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/21/message": {
-                "ciphertext": "BSqqslUAJmitvR2juyOHqACeBMaI2Pg5TmuehZCu9s3tMpYoH62qMX+Oa9QJBo6rt2ImI5BtnPbrM+yTW75DvWTfJgh+GMsKE1vutfDqjJVwxZcoKcft3G6hEZmJouRW3H1Qt2VI/mqBr9gSfNCrScgh7bT7tOivxHjosqyDiZo=",
-                "mac": "2UyDr/HPKF0ClLKGtoETQg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/22/message": {
-                "ciphertext": "Ba7JK7OuT3ybYdJn7glze5BUMEAOWdXYalYU7FZzkxDSIioM0saDGavuJLLnooQ+JOPtlt5Eb2kyohax8uXItD1KHgxhxB3CnVua5oRv6uaYvPtaTaqVSBPqvVCzfjplM3v6a1N5TE8Bw4xXsYCENw==",
-                "mac": "XpovKchh7VFEH3fGq8kv/g==",
-                "ciphernote": "iYe7djMLnM0QBNvqY190TrAVQtPL7ZJpiXO7WgU3oDFaarUmY/W8fZOHxNJHhOcFdEs/hPVlSZnqtAGrcAYHT+N6+OLt/THA1ciuVHR2ZJA="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/23/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/30/message": {
-                "ciphertext": "5FH+5B/52Sd0qEksDboncRUktk9WSy7/R/j8pbJekFErOSwH0+azDp4iRUd/F0UA6n7kLjJ6O3gUuOoaLVI67n9f3FQMfumHuOlVa5PuHZE=",
-                "mac": "wpmQ3fPzAA+ZKPSfl1jbVw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/31/message": {
-                "ciphertext": "cjARwoY2t/ffiYbEo0lAzjobl+2s1q4eG53nBQPBaK+KgT1V8D96poVkXqVBzFoDy0y8kfrvAOHyrueZmwleg0RsZgGVxie3csTFKFHqCLmvJXXAY0pKj8oUi282HLzIxdJ9CtRJF2yHUpo2eXhRZQ==",
-                "mac": "YR31ILuPiViN0mAfl6ZwTw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/32/message": {
-                "ciphertext": "4j8D05Kw2cpU74JqkUcJ6QrAvKdr748Krp3eeS69r2gfw0ixjXHRaBF9tgFaJu63R/0P8Va8+t90ah1HXsXiICa8K5sRpV5x426pBiQZlpnVWZ1FzGFsLAnk6ip44tL+v+spzyCc0JGCX7GtwxEH8A==",
-                "mac": "YOYQaWtcK3kK6JIwXJ895A=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/33/message": {
-                "ciphertext": "qf7+HB2dLQgav5qJhjLARhXuXF5z95dQ1wvvwYIxN56rJTybNPtMVHKJmHC55QWfMR3qwfuNA3c/aED9VamUS+FiLVMIYIdpZwJIcTwNsOhf+zkeWhpVTp/dCv423rrN",
-                "mac": "ZZgm1kY1P+i8ONFAABbtKw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/34/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/40/message": {
-                "ciphertext": "x2LB0bRPw7smFNjVpQxCnHyTlF1VmzsXbO3NlWEK8p2pUQPyK2LicxRYXoNm2GJybSboaM0y2vN9XE6iqASomSK3ez0TnHiuESlHA+/2QpbCwtqwPaiwuiJ8Q2pg8GC2",
-                "mac": "AFrLzmRcfh8tBGkHmhq+HQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/41/message": {
-                "ciphertext": "j4R2Lh/dg8DxvjmiTZqp5w==",
-                "mac": "3hntWZd4nik/F51aBlUXgA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/42/message": {
-                "ciphertext": "4ArPY83YpCIDcX5C8+T4TX9z+uHKsmlWD6W1wWKcVJAjTg24HnIOFbzvBmkOe3X1xcXdwokfIqS6fp1BMRyV0QjXBtgDNhAFWys1vZy+zGOSDByZHuMqz51PnASYgt0HrccfBcgWw7CKt78rR8K9EQ==",
-                "mac": "WSuIZiKt0dBrFakHA4T3Qg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/17/message": {
-                "ciphertext": "mgkJBtdvXvR8mWwUqEWOFFvKIfMeIb1U9/ojnajvuDmkEwROG1KHH1m7kNTGHLWhK88t5w/yVg+oGRtyZB+yxZt/HPNHOBZB8wcUKjCus457/hsp85tiC9/TX3MiyiEz",
-                "mac": "zRWnZpy6O1dVEmf2QU+BTw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/18/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/19/message": {
-                "ciphertext": "gTgZxsop2bbBuWycc45n0X284SrgLsC8IVsCFnR0i8htnsOKb/sZZuWAWRSO/AD2rguN/A2bXVG/sgWTiapRYxkMVjZzuQRBFs7djjg2lICyawpblZ3APKkLJ/zQTqi8W6Zz9p6aT0QkLikl6dyogy1RYKaw8kDFjcRzZ0Ky53E=",
-                "mac": "ruGEBHm1wjCX4KHIOzD0eg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/20/message": {
-                "ciphertext": "FhYFL7hASwmDjarI9+YH6MWiDIeBMbEYCO+WIV2joAcvTPntfKbsH8TO7tC19NLnSpvzeHyjO/l+7TSFA2wbBlzsEscxNaXcYHnxY9JdQksAPWeo1q77NCuRCD7i4ltJ1tzILn/tjBgkVez82yF8Pg==",
-                "mac": "feKR+LyOTU9I3Uo2+cpqzw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/21/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/41/action/11/text": {
-                "ciphertext": "Khnu/BkA+aCnEMSASUazPk/GIKvVkYnfh0ikVFXm4uU=",
-                "mac": "yV2ghzpnrCZ/G+ZGi3oC8g=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/48/message": {
-                "ciphertext": "Vj2zdQAdwr3Hmr99w363+3H4vdKpuAniBBJiAazOy07B9gA1PNLpxjfAUyb7o7p/Co0pNzfUxZN4qZZKvnzPqQ==",
-                "mac": "USvJ5kjzMzrRoJtiuXbkRw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/50/text": {
-                "ciphertext": "MIFc3GyYL7jjJp7vktM90XobcyHzq9g0Hp3DeMnrWcE=",
-                "mac": "y+DBHudWE3FzTiUNttVx2Q=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/54/message": {
-                "ciphertext": "MMh2mlNEbYsvSDQYYVrpmD6Sgcn6/aWlLEAnbfSHUWTbZLOdqPh8QkI6QlBIMZyUNMTWhulONJcutLDW3lHrlTfhNO3PGnNhrj8SQBFE6PM=",
-                "mac": "zs0NBsrvzEHSCt3SCPZjyg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/56/message": {
-                "ciphertext": "X/48AQfP7Sg4WcwZi7FN98Yj0Fti5Snaw6M3ArIdn/6FENyqQUxTN+krffaA41KykqbKknTxvcWmQ6M1QjTYfKHWSHHy5LdX/OItb0L9Xps=",
-                "mac": "20tK/mz0HB9K36qiq+eoMg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/62/action/8/text": {
-                "ciphertext": "TkgGzvQR12+gkYzhT0XkduKUe0+lpoUN6OhmalPzvdE=",
-                "mac": "f3BU6VYn4h8QRZ+PUEvqfg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/70/action/16/text": {
-                "ciphertext": "O+12n87HDUSqAjYlCnWmcHpX1yHIkByDjCmxCME3APg=",
-                "mac": "zVR8vUDPeVH3XSzAjsOKww=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/33/settings/analyzable/text": {
-                "ciphertext": "Fyf0Ts4QidbVHE1bfXIU7Ptw3ojzOTF5/kpBBqJOD48=",
-                "mac": "zB3ly50iAoF6o+ye7gpWUQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/12/text": {
-                "ciphertext": "KnW4hAfRyVGDECTmFuJU49KOHX2t+djKQzTFtQ3VpT4=",
-                "mac": "t41VyxKgS1EOXzx4Pj2bow=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/13/text": {
-                "ciphertext": "UwtHqjpNkgcQxSRGcUBsrBLqf5y3abO/2U+C7A9F6rz7Q64uM3r7bU2idsncetiXnUOzufLxC9nesXpxwaqZ7EXieKqu5ab0xksHhyN/7eaMPx004AlM+Ft+3OgJLs01xihgS+vl26367cYjz8kpiQ==",
-                "mac": "giTyBzjrze6YwbtiknbWdw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/15/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/17/text": {
-                "ciphertext": "7pxB8IrbQihsV1F96qlbQfu9DdI124r0RsPCLIGHzykEjOhaWQv43KWsGEIwshZg",
-                "mac": "Z863d/vSl0euFOUWF0x8tg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/18/text": {
-                "ciphertext": "y/LQh7NpBJ+InGydAwyjs+isIfdPitkInHLjQ7FkuLuCCx/yz+6gt1G6aoo2ftPX08BUwfdM7Vqwg9YFrUHY3gTaAiTesQ4IJNAtZ/gu6YoO/aStZKAkufKAsmM6SB3V",
-                "mac": "/mz94PemCgg5rzZ14aBtog=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/19/text": {
-                "ciphertext": "xr30sziZPIu7UjRgqMMlvqTIhiWtEYUL4LOm2xqZNYaW+06VzLy6AYoovIk6AW+G3Crv1sbsv9Ux8IWrGiXchhjhRNvOwAiuWbW3VK2XE7L09Beabz3KQXxaMNx2AQbE",
-                "mac": "BeOhJwvmzi7tpW8y10RxhQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/21/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/23/text": {
-                "ciphertext": "XHzAN6SlxuUGL3CstUtMcoRjkIia99MHPb8vcqUWtnc=",
-                "mac": "p0s/yNZaAOACJWXiQ+i5Hg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/24/text": {
-                "ciphertext": "ln6zXXBfZSNFySi+YRDDSYKziTa6UPKoeXQ0Neh7CGCRkbs2B42nUl7InCGZSS0a",
-                "mac": "Izq0f71B5QqRTDlV7NSazA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/26/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/29/text": {
-                "ciphertext": "eynGUb2fYEyvl/RwnMiXwWWvY45PE30Sgg+j6cazlUA=",
-                "mac": "4TC+o7pxJKCkbfYRQdU88A=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/30/text": {
-                "ciphertext": "HlIy31THuGj4R1uCuynQ4Q==",
-                "mac": "EZg4taUXu3tEEzXpoNyWXw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/32/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/34/text": {
-                "ciphertext": "MIFc3GyYL7jjJp7vktM90XobcyHzq9g0Hp3DeMnrWcE=",
-                "mac": "y+DBHudWE3FzTiUNttVx2Q=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/35/text": {
-                "ciphertext": "BjbxwMslhabxbsCLijTTUs6fp2dJhNxni6qnNuHr7vLnTUMmI93O+Xq5pyFIr6aLaIMRPhBCkWRISmcelddbyhYF2cvTvT6j7rFJ9cHT+js=",
-                "mac": "yFT2QudLlzEkOms4GugwUg=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/36/text": {
-                "ciphertext": "3qMa+j75Xnc4127+lPw/JSzeH/mROpuy3psSHNMgzlm1FQQvW4QLalj2W8V2VlW4+0Pguj43H52+IlEEU4Jb+jH5mD9XV7rvqj5PAXnFBf8iYE3Q3T5+x9Kc9U5t0RaKmsDDKUPJtPbSF8faiwjU50/3rZo8DJ8RabvCu7hstTA=",
-                "mac": "Ur/gudkFdAG2O7EYF774iQ=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/38/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/40/text": {
-                "ciphertext": "eynGUb2fYEyvl/RwnMiXwWWvY45PE30Sgg+j6cazlUA=",
-                "mac": "4TC+o7pxJKCkbfYRQdU88A=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/41/text": {
-                "ciphertext": "+9cKySnHrkJxpo3+m8Cyt+Zv4WAKLA6xU1O8TIpSC6EIAvspCwTvkIjZGS+lXCir",
-                "mac": "xMxuQ9NsxwakpXYKbIHGiA=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/43/message": {
-                "ciphertext": "x4wfrubYcuIGBurY/4rEwA==",
-                "mac": "cWCSr6+p3Agy5AipC96vxw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/47/action/13/text": {
-                "ciphertext": "aa5xjfpfRuZ4yqOlUTprDCScDiBz8EOVYrQ5AyGkci0=",
-                "mac": "DPfnSVYdb7JDIw9veDjjWw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/53/text": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
-        },
-        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/55/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/8/settings/analyzable/text": {
-                "ciphertext": "d9DEI2PI2IDMu1dswAR5Mg==",
-                "mac": "WvNe5+F/WZ/2OdqQ8+MIAA=="
+                "orig": "Impostor Guard",
+                "text": "Garde Imposteur"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/17/message": {
+                "orig": "Who would have thought that you were the intruder?\\. Can you not let a man and his goats live in peace?",
+                "text": "Qui aurait pu penser que c'était vous l'intrus ?\\. Ne pouvez-vous pas laisser en paix un homme et ses boucs ?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/18/message": {
+                "orig": "Lea!",
+                "text": "Lea !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/19/message": {
+                "orig": "It seems you are wondering what all of this is?",
+                "text": "Vous vous demandez peut-être pourquoi tout ceci ?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/0/1/message": {
+                "orig": "Very well, let me explain.",
+                "text": "Bon alors laissez-moi vous expliquer."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/1/1/message": {
+                "orig": "Well, I shall tell you regardless.",
+                "text": "Bon, je vais quand même vous l'expliquer."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/1/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/options/0/label": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/20/options/1/label": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/21/message": {
+                "orig": "You see, goats have always struck me as majestic creatures that deserve a bigger place on this world.",
+                "text": "Tu sais, les boucs pour moi ont toujours été des créatures majestueuses, qui méritaient une meilleure place dans ce monde."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/22/message": {
+                "orig": "Thus I used my knowledge of the Track to help them enhance their minds and bodies.",
+                "text": "Donc j'ai utilisé mes connaissances du Tracé pour les aider à améliorer leurs esprits et leurs corps.",
+                "note": "en could use an inversion (body and mind), keeping the inversion in fr"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/23/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/30/message": {
+                "orig": "This stellar specimen you see here is my greatest creation.",
+                "text": "Ce spécimen exceptionnel est l'une de mes meilleures créations."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/31/message": {
+                "orig": "He has developed great intelligence and holds power over all the lesser goats that you fought.",
+                "text": "Il a développé une grande intelligence et contrôle tous les boucs plus faibles que tu as combattus."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/32/message": {
+                "orig": "In fact, all of them are genetically based off of him.\\. So you could call him the father of goats.",
+                "text": "En fait, ils sont tous issus génétiquement de lui.\\. Donc vous pourriez l'appeler le père des boucs."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/33/message": {
+                "orig": "He is indeed the pinnacle of all that is goat.\\.\\. And I am his master!",
+                "text": "Il est la quintessence de tout ce que un bouc peut devenir.\\.\\. Et je suis son maitre !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/34/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/40/message": {
+                "orig": "Soon we will trample the goatless masses and make the entire Track ours!",
+                "text": "Bientôt nous écraseront les masses de non-boucs et le Tracé deviendra nôtre !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/41/message": {
+                "orig": "... Lea.",
+                "text": "... Lea."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/18/settings/event/42/message": {
+                "orig": "Say all you want, it won't stop us.\\. Your meddling will end here and now!",
+                "text": "Dites tout ce que vous voulez, cela ne nous arrêtera pas.\\. Votre ingérence s'arrête ici et maintenant !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/17/message": {
+                "orig": "Impressive.\\. But... what you just fought were just lowly hoofsoldiers.",
+                "text": "Impressionnant.\\. Mais... ce que vous avez combattu n'était que des petits soldats sur sabots."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/18/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/19/message": {
+                "orig": "Mere offshoots of what will become the source of my power, once we rule this world!",
+                "text": "De simples produits dérivés de ce que deviendront la source de mon pouvoir, une fois que nous domineront le monde !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/20/message": {
+                "orig": "Now, \\v[lore.title.seeker], you will face the genuine article!\\. ",
+                "text": "Maintenant, \\v[lore.title.seeker], il est temps de te battre contre ma plus grande création !\\."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/21/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/41/action/11/text": {
+                "orig": "[excited goat noises]",
+                "text": "[bêlements de bouc énervé]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/48/message": {
+                "orig": "Zira?\\. What... what is the meaning of this?",
+                "text": "Zira ?\\. Qu'est... qu'est-ce que cela veut dire ?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/50/text": {
+                "orig": "[angry goat noises]",
+                "text": "[bêlements de bouc furieux]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/54/message": {
+                "orig": "And why are you looking at me like that?\\.\\. It is I, your master!",
+                "text": "Et pourquoi tu me regardes comme ça ?\\.\\. C'est moi, je suis ton maitre !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/56/message": {
+                "orig": "I created you and rewired your brain.\\. My control is absolute!",
+                "text": "Je t'ai créé toi et ton intelligence !\\. Mon contrôle sur toi est absolu !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/62/action/8/text": {
+                "orig": "AHHHHHHHHHHHHHH...!!",
+                "text": "AHHHHHHHHHHHHHH... !!"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/19/settings/event/70/action/16/text": {
+                "orig": "[playful goat noises]",
+                "text": "[bêlements de bouc joueur]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/33/settings/analyzable/text": {
+                "orig": "Kid Goat Zira",
+                "text": "Enfant Bouc Zira"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/12/text": {
+                "orig": "[neutral goat noises]",
+                "text": "[bêlements de bouc neutre]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/13/text": {
+                "orig": "\\v[lore.title.seeker]... with this communication device you should now understand me.",
+                "text": "\\v[lore.title.seeker]... avec cet appareil de communication tu devrais maintenant me comprendre."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/15/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/17/text": {
+                "orig": "[appreciative goat noises]",
+                "text": "[bêlements de bouc reconnaissant]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/18/text": {
+                "orig": "Your intrusion in this place of goat provided the perfect distraction for that human.",
+                "text": "Votre intrusion dans ce lieu à bouc était un moyen parfait pour distraire cet humain."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/19/text": {
+                "orig": "Thus giving our youngest member the opportunity to disable the devices that controlled us.",
+                "text": "Pour que le plus jeune d'entre nous puisse désactiver les appareils qui nous contrôlaient."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/21/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/23/text": {
+                "orig": "[thankful goat noises]",
+                "text": "[bêlements de bouc remerciant]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/24/text": {
+                "orig": "For this you have our thanks.",
+                "text": "Pour cela, nous vous remercions."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/26/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/29/text": {
+                "orig": "[stern goat noises]",
+                "text": "[bêlements de bouc sérieux]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/30/text": {
+                "orig": "However... ",
+                "text": "Mais..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/32/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/34/text": {
+                "orig": "[angry goat noises]",
+                "text": "[bêlements de bouc furieux]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/35/text": {
+                "orig": "The blood of many of our herd is on your hands.",
+                "text": "Le sang de nombreux membres de notre troupeau se trouve sur tes mains."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/36/text": {
+                "orig": "We will forgive you this one time but humanity's fate will depend on its behavior from here on out.",
+                "text": "Nous allons vous pardonner pour cette fois, mais l'avenir de l'humanité dépendra de son comportement à partir de maintenant."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/38/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/40/text": {
+                "orig": "[stern goat noises]",
+                "text": "[bêlements de bouc sérieux]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/41/text": {
+                "orig": "Now begone and leave us in peace.",
+                "text": "Maintenant, partez. Et laissez nous en paix."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/43/message": {
+                "orig": "... Bye.",
+                "text": "... Bye."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/47/action/13/text": {
+                "orig": "[cheerful goat noises]",
+                "text": "[bêlements de bouc heureux]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/53/text": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/55/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         }
 }

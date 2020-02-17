@@ -1,580 +1,580 @@
 {
-        "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/10/message": {
-                "ciphertext": "RW7DMzH6wirBxA2bNBR2a1zUc0+qIOG+Wqnk/cnR7lXWNCxGXV5Hc7wgy9ikxXvkcu+SJI0P5TcQLei1K8C59uwSTF2mz/lxinX3B2DlVLtrDN9jOnZmnOmqYVSmLze67aW3s2YB+vYXc+chIJiF5Q==",
-                "mac": "cw3it3IWoKIwg9/HCcLuQg=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/11/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
         "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/7/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/9/message": {
-                "ciphertext": "0CTxNGSEmvTJz4YtEhAda0cfWp3Hta78lYF2VN1qOempvuXigUio+6J1DmKn+XXdklLYt5BIkyax/zELCWec4+8HIUqEh40Jf+Jg2WnqQtBHb98jLR1IkuiQDsARnyQlyvpcTkWmpjm8wcU1eAsCaA==",
-                "mac": "gwCVCO7LzL80HmiOlP5RPA=="
+                "orig": "Nice job in there, the area looks mostly clear.\\. But I still detect some weird object.",
+                "text": "Bon travail ! L'endroit à l'air d'être sécurisé.\\. Mais je détecte encore un objet curieux."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/10/message": {
+                "orig": "You better pick that up and bring it back for analysis.\\. We don't want rubbish lying around when we mine.",
+                "text": "Tu devrais le prendre pour qu'on l'analyse.\\. On ne peut pas avoir des détritus qui trainent quand on mine."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/14/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/16/message": {
-                "ciphertext": "OJnylEQvdCxWCEZjT7CNiBk1nBvIOEmG/ApdW6UAXFdV7354XW176FXtLZVG7V7cvORg8vKRlwjfQQZFtVSs3E86V+rpOYLlktgT1ns8/gFUXAr/zifjkl475iYC2ZyV28WxLCCmCcgk0AVXaUhtk8FU2mff7oARmfVe7HaBpBzZdOt5MXSBvG8+Tp+GfWys",
-                "mac": "8c9BywlYbzsTortb6lQ1dA=="
+                "orig": "Good job, the bombs are back online and it seems like you already got the hang of explosive bug-extermination.",
+                "text": "Bon travail ! Les bombes sont à nouveau fonctionnelles. Et on dirait que tu as trouvé le bon coup de main pour exploser des insectes."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/17/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/21/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/23/message": {
-                "ciphertext": "9ViIdmlVQi7SaP/JfMs/nFjW0EQw13rTuH/jSgAbqBQ4jUwFRR/tXrBz5qRVfzzTgMGGA+NiWwQs/xPFul+0RuhbUmblO+fVXSr/IWNugy0DgOld1BRcQQdUobRXqpRS",
-                "mac": "8/zkBtbdEruqo2s8LyClxQ=="
+                "orig": "Now continue with those rocks there and stay alert for whatever is inside of them.",
+                "text": "Maintenant continue avec ces autres rochers et fait attention à ce qu'il peut y avoir dedans."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/24/message": {
-                "ciphertext": "CySRvl9qXQUxHVGs6H11wrOuOnIFTy8wnTmbfsYI7N7+fxzXeTU863209Mz8OWQKfLY+COZs9YFzpaYol64H+oabH/sNcQHkHqNcG45/BUoDRyCCt6ROEeqmU0FH4Pzupmac96z8wGTaYynEG0o5Zg==",
-                "mac": "Tln/dliNCrBD0pif8r9NWQ=="
+                "orig": "Also, there are \\c[3]protective barriers\\c[0] on those narrow routes leading up to you.",
+                "text": "Sinon, il y a ces \\c[3]barrières de protections\\c[0] sur le chemin étroit qui monte jusqu'à toi."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/30/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/32/message": {
-                "ciphertext": "dXBn3W+Bo3Oz4Py4NTtkmdXsyPPv6uHYxZfZDDBVIIJqdmj4KyzX9y+IfQCoXJ2tfPm06WR6bOJbZ7zDNgDnDnN0ZBtI5xHT8tz52BTGh89O6YRI8gnudHGU7xbnN8JOjUdRXQDJ0c051+2HGeYs5g8VfJpiIJGqWZXkt5OH+RnHhW5sGs2iEbC3l4CoY+0X",
-                "mac": "7QiSaT7iJyKySjv/dibyiQ=="
+                "orig": "They'll slow down whatever's causing trouble, but they won't hold for long.\\. So don't rely on them too much!",
+                "text": "Elles vont ralentir tout ce qui peut causer des problèmes, mais elle ne résisteront pas longtemps.\\. Donc ne compte pas trop sur elles !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/33/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/52/settings/event/0/thenStep/0/thenStep/0/text": {
-                "ciphertext": "t3H/9m2h7iOaS0OMCtvMm/uxxWYPggOatMnrvk5mP8HDomNLX7q7pFGjyRIXgaL1pr6wurdyJWTGlYbhCNCCcw==",
-                "mac": "GAkPeIhVFB0sVHfs0xbdJg=="
+                "orig": "1.Barrier DMG, \\v[tmp.barrier-1-hp] HP",
+                "text": "Dégâts Barrière n°1, \\v[tmp.barrier-1-hp] HP"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/52/settings/event/1/thenStep/2/text": {
-                "ciphertext": "M/RJSp0oglFBL4qGilbtgOWtR6/d2jF+YL3IPRlBND8=",
-                "mac": "pmQiKcNVKzVMGdXt5SyENQ=="
+                "orig": "1.Barrier down",
+                "text": "Barrière n°1 tombée"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/53/settings/event/0/text": {
-                "ciphertext": "Rc88eyM5uRzYqZvzT1V+8UApN6SOZB8D4nxq7o+DZD7m4UAXaexUdPxDxEhiUUAT",
-                "mac": "I2/ZECp9QPXcuU+EJb2qdA=="
+                "orig": "Opening security barrier...",
+                "text": "Ouverture de la barrière de sécurité..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/53/settings/event/3/text": {
-                "ciphertext": "ybARn8XMUIHYsed89n9NTyvl2oU9+TwHYYo/RI6gUDRvyAWIPxQOc7Z/KPU0Cf8H",
-                "mac": "uT2lDmlGxUCV6YUJvwn/2A=="
+                "orig": "Closing security barrier...",
+                "text": "Fermeture de la barrière de sécurité..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/54/settings/event/2/thenStep/0/text": {
-                "ciphertext": "Vj2SZejSU4XbZv5DZCmEZUe5P0qF4vDv4BdI9MzTxQjryp8BvG7lbam/Lo551++R",
-                "mac": "yiFAUAo8QHGRZ6hW8JgT/g=="
+                "orig": "1.Barrier HP: \\v[tmp.barrier-1-hp]",
+                "text": "Barrière n°1 : \\v[tmp.barrier-1-hp] HP"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/54/settings/event/3/thenStep/2/text": {
-                "ciphertext": "cXHtIZvskvRvp6xVMX4pIIC4qUwWZVgXq1Tl3CAu1AQ=",
-                "mac": "mXZu2nIrCXOwX/mlZM82RQ=="
+                "orig": "1.Barrier restarted",
+                "text": "Barrière n°1 redémarrée"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/55/settings/event/0/thenStep/0/thenStep/0/text": {
-                "ciphertext": "ROjCt3fz750bEniomDOXKBdJJmu541OZrCvDDOpKgYeb4+qPCHV32wkPV6kZtaLmyU7g9WB8rhM1Kvf5G7QKhg==",
-                "mac": "q0QFzB//HMK3JElTCuRkwQ==",
-                "ciphernote": "msb34Y40dGTs9mlBkXjcHPJd5A0GpXxouOEXeMA+w30="
+                "orig": "2.Barrier DMG, \\v[tmp.barrier-2-hp] HP",
+                "text": "Dégâts Barrière n°2, \\v[tmp.barrier-2-hp] HP",
+                "note": "de has an error ?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/55/settings/event/1/thenStep/2/text": {
-                "ciphertext": "94Wct3ZPonGZB3oNWwCbCfCIX6Er2KSds2EMBanwz4A=",
-                "mac": "Or7LrZls6d9FcZZfNH3CoA=="
+                "orig": "2.Barrier down",
+                "text": "Barrière n°2 tombée"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/56/settings/event/2/thenStep/0/text": {
-                "ciphertext": "7EAULTGNDQq4MA4Mvf0uS2J7uxbb6sP63K3E+mTHnonyzM57B5Pz1Fkdo+erjAqJ",
-                "mac": "ADm48N32ZfZGAgTHMvPyKA==",
-                "ciphernote": "r+mn/2605ERffgcZ10eFUoatP8SWJmwowv1c8BI8PhY="
+                "orig": "2.Barrier HP: \\v[tmp.barrier-2-hp]",
+                "text": "Barrière n°2 : \\v[tmp.barrier-2-hp] HP",
+                "note": "de has an error ?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/56/settings/event/3/thenStep/2/text": {
-                "ciphertext": "4x8XJAVmG575XNxLzc27VXvsSLrED3Fm14NWQcpERj8=",
-                "mac": "gG8OMb4G14mD8j7DP2ppAg=="
+                "orig": "2.Barrier restarted",
+                "text": "Barrière n°2 redémarrée"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/4/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/43/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/45/message": {
-                "ciphertext": "LB9A76VW5HcxtM4bjTDeOuBcGiH18sT0hXcshH1crW94X6jDRU9J0HmGL0Ut7KbligZEhqYc4Y0NGYz/o0pC1aKPh141lrEZ3mYHI53ehOI=",
-                "mac": "Gr6PisBfJKyoiA8I1UE3Bw=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/46/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/47/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/6/message": {
-                "ciphertext": "STT0LSXdWZSV01WMBuxHfCiHo6nGWl2kmOBCZ3WNHyl9WQ6VW5Y3ltRdZeuCr4DJeSk0AJotNzjmHbpmEFurPBUOWqANztmdtLC5hvIPoC/aNlhQHsRg2erp/uMx3tY0",
-                "mac": "yUyXqVW7juw6NE61BjOTqQ=="
+                "orig": "Alright, you can now report back to...\\.\\. Wait a second, something's not right...",
+                "text": "Bien, tu peux revenir et faire un...\\.\\. Attends, il y a quelque chose qui ne va pas..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/7/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/43/name": {
+                "orig": "Darrel",
+                "text": "Darrel"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/45/message": {
+                "orig": "... well... seems like you've still got work to do.\\. Good luck!",
+                "text": "... Bon... on dirait qu'il vous reste du travail à faire.\\. Bonne chance !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/46/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/47/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/73/settings/event/17/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/73/settings/event/19/message": {
-                "ciphertext": "EyhuVeTTw6LFJogbFE9gcGCzSARZWX/VuSHjL5LMCTM6/NzMrsLKoNwhKdok176Iq1+M2UU4LYR2e3Q46yMA2EB/nSPmiVzRycorbqEnL4GfzjexObWEVdYvWj5Srg8X3MSzQDZZKJk44YQFBQEV7hBWqiUiFAq4vPqiS/YmCDU=",
-                "mac": "23GFOVvalyQcWkB3UeNxxA==",
-                "ciphernote": "s+LjMoVIuN0lTXeKem24zg=="
+                "orig": "Seems you handled that as well.\\. Just did another thorough scan and there are no signs of activity left.\\.\\. Finally.",
+                "text": "On dirait que tu en as fini cette fois.\\. Je viens de faire un autre scan, et il n'y a plus aucun signe d'activité.\\.\\. Enfin.",
+                "note": "balayage?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/73/settings/event/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/73/settings/event/21/message": {
-                "ciphertext": "iCAr0ZJwkgiSxHzVSW7p2bwnNJgsEin48kv7n/HAgVrQPtXq8Jk9i5pT+rOisjMjMHP1B9F27wK8ebveiRx603WzdP9hf3fbI7woKeYW13TCtbwkhKojrWPqzFBpRjjdWCbTB8vumggnVu+IlHExn5rbY43n1Nh5yLi7s7fUvpJJpuRCwCagdd4De1svM1c3",
-                "mac": "NuyDLQXzh4GJhE7dLGSzYQ=="
+                "orig": "I got this under control now and soon we can resume work.\\. You can report back to the HQ, good work.",
+                "text": "Tout est sous contrôle. Cela veut dire que l'on va pouvoir continuer le boulot.\\. Tu peux retourner au QG faire un rapport. Bon travail."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/73/settings/event/22/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/analyzable/text": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/0/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/0/event/2/message": {
-                "ciphertext": "9XXP8G8XWydhZFEbVvJqK2Za4G7BvbgNuNlMzn0Vdmo=",
-                "mac": "6hhKwmZ55pY8Z4T/d2KxMg=="
+                "orig": "Hello, Kumpel.",
+                "text": "Bonjour, Copain."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/2/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/2/event/2/message": {
-                "ciphertext": "/xrQnbarFy08U3T0TJWGJPraRwvUgBi0T6aGgTiobIzHlNhSH+1NCYc1IJmO0su10RvO+/fPMN4HAovU0B1dMCCzCM4+sqMCCeLjUVOZmkCt+AVLjWXJhGXY/44yqLfOgzEM5CTHHnVI5EIetpK9GcV8NMSZxl+4bp/TZXsJ/oU48wP/boaZ/7KTP9RECSNcxbYbi6hiIllZwv3JU210Cg==",
-                "mac": "Z/e/9ggzUGObDO1STKPLRQ=="
+                "orig": "Go through that tunnel to reach our current mining chamber and lower the \\c[3]security barrier\\c[0] to reach the \\c[3]explosives console\\c[0].",
+                "text": "Vas dans ce tunnel pour atteindre notre chambre de minage actuelle et abaisse la \\c[3]barrière de sécurité\\c[0] pour atteindre la console d'explosifs."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/2/event/3/message": {
-                "ciphertext": "8umtHAbZiQYgCftB1TTEbYfzvxIwRcUny1+h/FnWnPevWeciQE5pobTtnAGfl4Y6UzRMdoBHat4OUkMTURMGr3LqILD/9us5RlqXeF/9ZbGafODxdCSQUtmWfeEyWUpL5aVgRNH+q7ErecUXPC+x3rV2k9WNNMKGzMqLzboHyIk=",
-                "mac": "aBrvjW+KzVZZsClZNqGPyg=="
+                "orig": "Be careful, though.\\. It is quiet at the moment, but our sensors are detecting faint reactions somewhere in the dark.",
+                "text": "Mais soyez sur vos gardes !\\. En ce moment tout est calme, mais nos capteurs détectent une faible activité dans la pénombre."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/2/event/4/message": {
-                "ciphertext": "lERTgBtL8daZyu2MHdL8uPPEegNPzhbrWMS5PZqkP1nZ1fb7Cn8dFK1SI3HjH8mcKsflp20+492jgXIi7vpavyZzfIXk18V3jyME22P4bXC4cBwgaVpXX9vYHCzC9svu",
-                "mac": "K0CtRxVFiiLqSvJTkUxagg=="
+                "orig": "If those grey bugs ambush you, \\c[3]use explosives to crack their shells\\c[0].",
+                "text": "Si ces insectes gris t'attaquent, \\c[3]utilise des explosifs pour briser leur cuirasse\\c[0]."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/2/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/3/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/3/event/2/message": {
-                "ciphertext": "TmoarA6G9A8atOS/kA+GsmYESMmtE5GI8svkTmqz0+EvifBDgz1p4HBZo8u8rX3uuFg/m4P+or/1Ktr+LIP9uWf79+MCyidAwzY4wkty8SVsxS7/M3ChewbciukGvtxZ7+VNsDQTq5OLE65lRTeL4f/ubdO6esCU+jSadHy/1zw=",
-                "mac": "ogSya5x8ulL7neWtOgZdlQ=="
+                "orig": "\\c[3]Pick up that chest\\c[0] and get it out of here.\\. We don't want some rubbish lying around when we mine.",
+                "text": "\\c[3]Prends ce coffre\\c[0] et amene le ailleurs.\\. On ne peut pas avoir des détritus qui trainent quand on mine."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/3/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/4/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/4/event/2/message": {
-                "ciphertext": "ctDPl/vRDXqrg7wSYyuE4l5UXi31f3wKBHhMnj6vu08UPd/3rV2YAefCef2tKeQp6rJxy7NR2wjh8E5EN7pXAfA39tbPcl07C/Nwt1ycl1FO/O3SHPY9pU8D11tYm0qp9ua8CPGCHTWjKrcYEcPisw==",
-                "mac": "2LT4FrdYd95FrJQKN7MSmw=="
+                "orig": "I'm running regular checks here and everything seems absolutely clear now.\\. Great work down there!",
+                "text": "Je lance encore des vérifications sur les environs et tout à l'air normal maintenant.\\. Bon travail !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/4/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/4/event/4/message": {
-                "ciphertext": "QW9yfVse0JyXxrGs58OpcGF29G7SZ6TPpOxmdUTm9KWbIY9IYs2rL8Bk3UTyZjFWLvt59Y8jstp5xf+l45utBcvQ/HHfCxc5KjtlVVXZwYLlXJLExeHX3tM2SMtdZHeI",
-                "mac": "8aVM88sUmnCXglUtyOAJ8Q=="
+                "orig": "You can report back to the Chief Miner now and show him whatever the heck you found there.",
+                "text": "Tu peux faire un rapport au chef mineur et lui montrer le truc bizarre que tu as trouvé."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/4/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/4/event/6/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/3/message": {
-                "ciphertext": "N+BKSiY/1k9Meb+eVB/teJ+utgcc/6ktU+NBif59EE53UnjFhBgcZnQzhPwgLfpBQ16w43UBLgyAuy4wMrYhg3w2bJDcsVcXcss1u/5V/iY=",
-                "mac": "w+DZx+I7pP5WNNEuD2nMgg=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Everything's still running smoothly down here.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Tout tourne comme sur des roulettes."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/4/message": {
-                "ciphertext": "PeNQpSUg6thRFDLlWIkdV9beR9J5dzMoe/CD4VAhRs+s0X02xJPeTYsUumjbGD2/YoGUfrRDRhppa3JaFlqjX51J7JBm+x9ckrwELNb5x5b30sDs/YKqqdZH381Douixzw0IIfhVaGJKeGqdomWPFLZEjbuYPwHtfAsbaITQ83/3SAA4cwAXG8c1qGzTPmUrplJj4uzMEhq2hda/p3Y25mIT3yH/c989xjAkS2QVzc8=",
-                "mac": "d+cagHplfn6Z+kKLdFmJUg=="
+                "orig": "Too smoothly perhaps... there haven't been any recent attacks, but those bugs might just gather their strength.",
+                "text": "Un peu trop comme sur des roulettes peut-être... Il n'y a eu aucune attaque, mais ça ne veut rien dire. Peut-être qu'ils se regroupent pour monter en puissance."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/6/message": {
-                "ciphertext": "dU34LzQBEiB2lae4fXIG91s1Ent9ekrloVq5Vd8BgFfpvQRInzDqYmwx2KbDUngMC1is2fqWbbQ1DjQfbFTcu6FEwIdZWBYKFDP9vX3/ueKfG6yTNw2XueNqerb4fucPyVG4OnhxBbTXQK4jybno3c5q+AScyyFIUeZVpxvfTvY=",
-                "mac": "gxNqb8xwfD23dofeS27zyA=="
+                "orig": "Fortunately, those crawlers are not expecting the wonder that is \\c[3]our highly-advanced nanosound-device\\c[0]!",
+                "text": "Heureusement, ces trucs rampants ne s'attendant sans doute pas à notre \\c[3]générateur de nanosons dernier-cri\\c[0] !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/7/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/8/message": {
-                "ciphertext": "auEHFE6bivYcojoSOonoDVdE6GV2z2YKOpwsWhcrVhWv1WV26al+N0+SFmO7I1QvyR5drz0A/5r4jlts2PagYFtcFXh8CK9CSPK1xev2nAmgDzJKfMFKWmAGECwyRhKNJ+JiSXzZIOmi/qgcOIYs0A==",
-                "mac": "Dh2l9p7uYWRVFxG/f91/HA=="
+                "orig": "We could use that to lure them in and then preemptively reduce their numbers.\\. How about it?",
+                "text": "On peut s'en servir pour les attirer et les réduire leur nombre par précaution.\\. Ça te dit ?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/accepted/1/message": {
-                "ciphertext": "TwoKOJwQwfJvc5XCKS9sb26x7WbkW2umizn6oW4N9YKQf+gmrtiiB8TdT3tTqVSta1y/x6QQOFANd7s5ojZ37R0OwfNYKCSdSOpEDrwzsno=",
-                "mac": "MbPY9A3hllIgu2SKHo1uYQ=="
+                "orig": "Excellent!\\. Just enter the chamber again.\\. I'll prepare everything for you!",
+                "text": "Excellent !\\. Retourne dans la chambre.\\. Je vais tout préparer pour toi."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/accepted/2/message": {
-                "ciphertext": "H+l0fPbJfTUBplgPtDOLNaVls4efaMYrcsDq6fCJCtZMUb8rnWzLVTS3tTksyMvxpg1aVMDxMxbWyw7nBwQN1+4GjX7EyyJy4ycyu8nI8/gV14vvYudTHI2PD2CoX1Dr9EbCa8/gklTjaTBqCCkCjZFK66BcW8JxLUPk1cHdsfSlC0TjX7+Z5If3KEUhosaiADbfA3PG+HEi9vX+tIdVjg==",
-                "mac": "6I8O//qr1xgUns1GOuqOQQ=="
+                "orig": "Just a warning: \\c[3]The nanosounds will most likely make them really angry\\c[0].\\. So expect even \\c[3]more aggression\\c[0] than before.",
+                "text": "Petit avertissement: \\c[3]les nanosons vont sans doute bien les énerver\\c[0].\\. Donc attends-toi à ce qu'ils soient \\c[3]plus agressifs\\c[0] qu'avant."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/accepted/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/accepted/4/message": {
-                "ciphertext": "rTfem2d9RZIyKlh1z+d7sV2Vtn1zATnZ+ENOzXpZ9uk=",
-                "mac": "eK6RNDOYf+7Zajw/SFhNZg=="
+                "orig": "Oh, I'm sure you will do just fine!",
+                "text": "Ça va bien se passer !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/accepted/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/9/declined/1/message": {
-                "ciphertext": "kTjwPZJR9Yv6BZpoQFZKQAMjT3oWB6b7bug25TTnAREJRShAv7HHnEJS+8ZJaB1cimPalGceZM69KZ0bWgITmQ==",
-                "mac": "cIu58A0uDLWhX9vRlcXSyw=="
+                "orig": "Lost your taste for explosives?\\. Such a shame.",
+                "text": "T'as perdu goût aux explosifs ?\\. Tu rates quelque chose."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/3/message": {
-                "ciphertext": "19Xi5CEHw5JAd2nAy+XYB8FCLqH4r/qF68vf7KJcQlfE52ys2rb8octkVe4swIkzvOqyuzxBrwyyQRB7vp6WoEZODus6AaL3bdLXflMsjM0=",
-                "mac": "inddL4IRgRNA/ITmBA9YwQ=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Wanna blast some more bugs?",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Tu veux exploser quelques insectes ?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/4/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/4/0/1/message": {
-                "ciphertext": "TwoKOJwQwfJvc5XCKS9sb26x7WbkW2umizn6oW4N9YKQf+gmrtiiB8TdT3tTqVSta1y/x6QQOFANd7s5ojZ37R0OwfNYKCSdSOpEDrwzsno=",
-                "mac": "MbPY9A3hllIgu2SKHo1uYQ=="
+                "orig": "Excellent!\\. Just enter the chamber again.\\. I'll prepare everything for you!",
+                "text": "Excellent !\\. Retourne dans la chambre.\\. Je vais tout préparer pour toi."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/4/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/4/1/1/message": {
-                "ciphertext": "WudCtdic38E57V6nkPuUVn0la80ATuoNhUt+QkYqDypo4WK+lV+Gl/Iy6cOngLW/mbprN2ZWOeOSPK0EIMsgHg==",
-                "mac": "IxM3h1ac8LTzPvWJUoUH9A=="
+                "orig": "Not in the mood for explosives today?\\. A pity.",
+                "text": "T'es pas d'humeur explosive aujourd'hui ?\\. Dommage."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/4/options/0/label": {
-                "ciphertext": "MijEXni6DVL4NAoPA78/IPt1j+fHfChI0rbgZZ3/25o=",
-                "mac": "SJcJCx8YPGzJz39VB4k6yg=="
+                "orig": "[nods for another round]",
+                "text": "[acquiesce pour un autre round]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/6/event/4/options/1/label": {
-                "ciphertext": "UVYoSPiLXQ/SHciI6fPnLVVsO3AKYwOOdk5MwbsTuts=",
-                "mac": "BD7BCZ2I98BUiBHbo2/KmQ=="
+                "orig": "[shakes head and declines]",
+                "text": "[secoue la tête et refuse]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/7/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/7/event/2/message": {
-                "ciphertext": "C77fVkwYBZbC2Mez4lyEz4OObXYQi77ciGuNw3PUjuygiCDtbq6lsIV7+4MAUxSLvBcuqol3QtcGfsgfRT0vm+S8XQPrws7bgOY9NE5vOOo=",
-                "mac": "wmSCbrf/e47oYWNeIBJWvA=="
+                "orig": "Just enter the chamber again.\\. I'll prepare everything for you!",
+                "text": "Retourne juste dans la chambre.\\. Je vais tout préparer pour toi."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/7/event/3/message": {
-                "ciphertext": "Nhcg4UveQODArvl3Y2TKxXpK6mfdcCb7GNsXyPDLS0WoCPfui4XCDxGQ4Lt0zgS4t80zTBY9+P1dWVlWv7VoVW79QGkbO+jphKApgsJwdKI=",
-                "mac": "4c8bWIfg36YtCRAMAPh4Rg=="
+                "orig": "The bugs will be more aggressive than usual, so be prepared.",
+                "text": "Les insectes seront plus agressifs que d'habitude, donc prends garde à toi."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/2/message": {
-                "ciphertext": "ZOCetpq+kUFDhilOTkZyERpsnhq2j7kcL+y6fyVTFaVykWZHn/0OnAciFY5v0eYlhPfDuEiF8aFcR2zqSRo1YQ==",
-                "mac": "l7oVTtbvn0DHurcZxl1Cmw=="
+                "orig": "Great job in there, that should keep them at bay for a while!",
+                "text": "Bon travail ! Cela devrait les calmer pendant encore un bail."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/3/message": {
-                "ciphertext": "efl+P555NcB7214qcwYy6Md9LTWmKmstw1g3CvMhZxcb4xwEZsDUMuXEHZ3h8bP97G5x+JVK6+CC2A04uS8X0HSm+ONO+PtawtT0T49npYrEHguNJzgBFF1OQ5LsrCcwyP5024cFNy4Y3OxyQbZMP4TdByuKFjYE2v2bCzE1sAE=",
-                "mac": "7s4mtwVLY+wjTF2lBsRHIg=="
+                "orig": "Still, I got the feeling that we will never get rid of them, no matter how often we repeat that.",
+                "text": "Mais bon, j'ai le sentiment que l'on s'en débarrassera jamais, peu importe le nombre de fois où l'on refait ça."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/5/message": {
-                "ciphertext": "9u+tNngXuV45k7m3X75HhiUm0fgUgciTPPkgDnBZQzve9qbWSTP/GgRjnUkN1yX3Er08/2MWewhPblQxpcA3HpvcGKGqGhcclC8t0S0KCag=",
-                "mac": "JFMXNP1yHp0YPb+1pPXPvg=="
+                "orig": "Well, at least it's still fun and profitable, right?",
+                "text": "Bon, au moins c'est marrant et ça ramène des Crédits, pas vrai ?"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/7/message": {
-                "ciphertext": "Z6fjog0VIKqh9UIW/KPZDCG2kf4/+mtHP0x03rpysGD5Qyy6RFVJ5+w3DChJhqFCZ88tf6LUGs1A2pa1zFOALwJP49xcnwrl0iXTGR5Og2IMpJKIKSzorziOPNJ5pRRhuUwvTcz86yIJT6x+vo6m76k7D7WQEZWQ40l9jR8DlKY=",
-                "mac": "JHLCbRg8yg8LluyYaMe+8g=="
+                "orig": "Now I gotta prepare everything again.\\. Come back later if you wanna go for another round.",
+                "text": "Maintenant il faut que je recommence à tout préparer.\\. Reviens me voir plus tard si tu veux un round de plus."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/8/event/9/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/0/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/10/message": {
-                "ciphertext": "uHOijYFE4t5x1eiKceXuVnNctZVTMAEMlM0ysspFHd4aMdkNHlCZkvOHKcfJ9K1gul1RSlImI2Cmogq2UfSNLOjPNalbwC4o09hQD0C3aGkeLbVMbpIvf14x0cODCV6j",
-                "mac": "Y4vUB/QINJiLhfH84j+i4g=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/2/message": {
-                "ciphertext": "ZOCetpq+kUFDhilOTkZyERpsnhq2j7kcL+y6fyVTFaVykWZHn/0OnAciFY5v0eYlhPfDuEiF8aFcR2zqSRo1YQ==",
-                "mac": "l7oVTtbvn0DHurcZxl1Cmw=="
+                "orig": "Great job in there, that should keep them at bay for a while!",
+                "text": "Bon travail ! Cela devrait les calmer pendant encore un bail."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/3/message": {
-                "ciphertext": "BKRs9XQ0p16YYc3Gi6e12BHLQJrA6myfqBQ9xCmWQ0zq15QQ+4OM37UpYTtZn4vI3qFAvHvG0Ml221cEQpiykjWdvzoJeP6QEbCmAxf7hD+sb0AiC4fA2AEeD3o7uLQM",
-                "mac": "1/biI3fCZt4+p+3h8I50Lg=="
+                "orig": "Though, I'm pretty sure we still missed a lot that will just reproduce again.",
+                "text": "Mais je suis sûr qu'il y en a qu'on a pas eu et qui pourront à nouveau se reproduire."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/5/message": {
-                "ciphertext": "cCOkXvRErjuKNuWNqoDLuikfU0vpq8o58aBYzg74a2ikOoYUBCikqE0XIbqWQSrF0tNYGB6j+BdakRkqFYSTd40t7/RfqCx9xJP4EU+BYedMJAMiNCKStyGDdScXKSnH",
-                "mac": "FihG2yptdMjqWsz2NtDeSg=="
+                "orig": "Remember, we still got the device here, so we could repeat it as often as we want.",
+                "text": "Souviens-toi, on a encore l'appareil ici. Donc on peut répéter ça autant que tu veux."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/6/message": {
-                "ciphertext": "ZTAq6UX+H4hjc9nw4YiOU00Hp/7rnCGANeSufBE9XKdKyRa3OtCdgDk2hCyMKeyeXNfQ+5GuBT3fDt0gNyxTXw==",
-                "mac": "B/PzytYxqAzoU9v8g6WLNg=="
+                "orig": "Even if it's just for fun and profit.",
+                "text": "Même si c'est juste pour le fun et pour les Crédits."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/8/message": {
-                "ciphertext": "E5fS2HjwFkskxmp691lf8XBr5eLW7Rn+oJuyZXeLTVAWvvSKPuw+b1KGIpwUplfXa/4zryMmI50zEHv0t4B33zUeyU4IiSNJmv5/ukmucQkbDZIx81RBughy/d3HAHXwRGcBX79EpFylPWMFxztY5g==",
-                "mac": "ZL3jhHJagCh8CUQvDIrArQ=="
+                "orig": "In any case, I have to prepare everything again.\\. Come back later if you wanna go for another round.",
+                "text": "En tout cas, il faut encore que je recommence à tout préparer.\\. Reviens plus tard pour le round suivant."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/9/event/quest/10/message": {
+                "orig": "But first take your reward for helping me test everything.",
+                "text": "Mais avant que t'y ailles, prends cette récompense pour m'avoir aidé à tout tester."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/13/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/15/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/16/message": {
-                "ciphertext": "vAcFAXP0qlrG7CyjZA8uU1SIh3CgxaQhzHeiGh8a0Pc92aVbhuEsU4SfMu5mUHo6UyUIWzw/LK2TBCcfN306qAmgRNN/zBl+NrrI7iT2mAzUncvX3mV8O3EmwyXc3me4",
-                "mac": "S9trk31/icOFFy9cJZe+Rw=="
+                "orig": "Greetings, lass.\\. You must be the \\v[lore.title.seeker] they wanted to send down here. ",
+                "text": "Bonjour, fillette.\\. Tu dois être le \\v[lore.title.seeker] qu'ils voulaient envoyer en bas."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/17/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/18/message": {
-                "ciphertext": "oHcTr53//uvTep9xkHgVPENsH9OE5aibM61P0NCXhYV7O9PsaZoY47BKcokQjG6CyiZQwWb9raM1ippIf03//Q==",
-                "mac": "7NrNbgPkxQl/wV1DcskuRQ==",
-                "ciphernote": "TxWU4y2xOV4J5fW65GTNjMKA1/X1YEYa43+Y5tFttOaqCBhkU/ZNFrLQrgxwnEuzlFgiNsmBdmXA/fOXMLmPMQ=="
+                "orig": "No offense to you, but it's about time you showed up.",
+                "text": "Ne prends pas ça personnellement, mais on a failli attendre.",
+                "note": "might be a reference to bad french translations, i like it"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/19/message": {
-                "ciphertext": "dqYPObHivFK635RdwG/SNC5/iU/uLq944V968/jSDqxfNI/+uub93cKwuQlYr4znNAz9Y9xfTCpQS1tiPgh6Ax369BVHhgxG4QM7j+qUR2c=",
-                "mac": "JmY9Nn3V6CNiT/en8TB9Vg=="
+                "orig": "Got a bad feeling about things down here and time's not improving it.",
+                "text": "J'ai un mauvais pressentiment et le temps n'arrange pas les choses."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/21/message": {
-                "ciphertext": "Z/NsHATg+eDz/RER2lN4l0Ih/KXApp5DAKBpE0UY/wc=",
-                "mac": "tS307butqrQUcrCaAGUdEg=="
+                "orig": "Well, let's get down to work. ",
+                "text": "Bon, mettons-nous au boulot."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/27/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/29/message": {
-                "ciphertext": "btSdQqIbfwF0d6/nwzJlSrfp1menYn2YZK8cwxTSistGUCLpO5/PpQ+JNjk9LBCjRpKu8K/TEhg8hMIAI+VgRHTLuAoHK921nr6vuMURckygDGxLGkHX6CiHAmpAWEU3",
-                "mac": "f3c6qV/sCONh4xKm3aTiWw=="
+                "orig": "See that tunnel there?\\. It leads to the chamber that we last worked on. ",
+                "text": "Tu vois ce tunnel là-bas ?\\. Il va vers une chambre, la dernière où on a bossé."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/30/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/31/message": {
-                "ciphertext": "3gaEvMVtifAbtTp1rKiwkePDMgbTFuctT0HiKIpoCh68jb7iFidMi/HisFa++bwKwotzVgsfX5Uih52XjLVIDftjj+ZQ6zwAPiBrIA490tZhH9wrje9zAcrxkvCoI/bfNvfLAovKtv0MKqoZiEWIWLmki5KEJESNSuTuhpwylJxR75cAKVepjJHIEgYCz1k0NLLbWliGEottZK1nzYNwuQ==",
-                "mac": "nCDQHnKdXDGfzLADB2kw0w==",
-                "ciphernote": "4eMAI3pSTkWYSpwVB5uDr5P42gGhDFMOqCrDvw3LfyYRpgBLzJ+ey+Y+/OyxOiLP"
+                "orig": "The entire operation was halted by some \\c[3]rock-hard crawlers\\c[0] and now even our \\c[3]blasting devices\\c[0] are offline.",
+                "text": "Une poignée d'\\c[3]insectes durs comme de la pierre\\c[0] nous a stoppé net. Et maintenant même notre \\c[3]matériel explosif\\c[0] est désactivé.",
+                "note": "de: même nos abschussgerate s'y sont mis"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/39/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/41/message": {
-                "ciphertext": "1YNpeQ3ct3OoeQNVO5NDLZnkSz6WifW89+Qpg+THUnMBm5PpZOst4hQMRi1SDTcI/oCSBv7P+Dn/douLkgE/tuEVzMRMFoEBTFWdPHm8yfOCjVn4w4oQZyCVzzCkn6iXH9NNHmShY+Uf10sMxrktBBA5XQvEZZAGJ+lcvGbIW1o=",
-                "mac": "IE3iow8/IERkjiGfmsZ2ZQ=="
+                "orig": "Your first job is to \\c[3]reactivate the explosives on the console behind a security barrier\\c[0].",
+                "text": "Votre premier travail est de \\c[3]réactiver les explosifs sur la console située derrière une barrière de sécurité\\c[0]."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/42/message": {
-                "ciphertext": "4n/rVDnxQS3BNkK0RDLKilZ0GVzn0EfEQDLAZwdjUbzsD4AfrQyyXqt0a8KRj3zYbWO9PsRiFJGPQnhmWlQgP4KlHxxB6hNIjfhJwsPEad5f+AvLDpIoLNDnczbrgx1v2jt6HIn3Cmy1Ku+FiEll/0O3Gw/+dZ/gaPuS+9WexxTAo1wP5RFEWXV1Mh7eUCuG",
-                "mac": "FdlGuN5NI2Db0f4XaKxCgQ==",
-                "ciphernote": "+QfAGX2mrFFkpFhbHs1itaZNBdb5RV76SHVRF/JzraA="
+                "orig": "With those fine bombs you can then \\c[3]clear up all the rubble\\c[0] in the area and \\c[3]whatever comes crawling out of it\\c[0].\\. Understood?",
+                "text": "Avec ces bonnes bombes, tu peux ensuite nous \\c[3]débarrasser des débris et de tout ce qui rampe ou grouille\\c[0].\\. C'est clair ?",
+                "note": "kreucht und fleucht"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/43/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/44/message": {
-                "ciphertext": "CUkMFJgwjD8OXVA05xs1dIe8/S4ZgsHHPj66QcjhSSZWxnhgw9om8cvwV4O7aNklDPm7jkBP4wzFSd9Eh6mLKBvp6P7Lypgl/Gtdw6rEctjcFDZgnbZDVZ7OBR2ACHzn",
-                "mac": "ttv7L8OhKvSjLpAV2TDZag=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/10/message": {
-                "ciphertext": "1szeja7z3nWhl08f7wCsPu4Uq5bmx5TO2OwqxURdEVZis61fCRheZMB1MtmSTl+MM1q4EMGCMnI2TbFl6vUliA==",
-                "mac": "IOQpslCBlU74MwmRWJJ4+Q=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/11/elseStep/0/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/11/thenStep/0/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/20/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/0/message": {
-                "ciphertext": "Zs0tR5M3Ifs/tjRO4y1CPFFYYLgg8byM/K6akldQDGOmKCCxa6Pr5ymjgkwEWIa/QKJrBje3gb2TlF5SDMRGOYdZc2NSTk1nDegVis9IQRc=",
-                "mac": "Ok9g1NaSVtPqrt3H0V7wvw=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/1/message": {
-                "ciphertext": "y+3Ni3pnxJHHQcW0FQzUxg==",
-                "mac": "ONLHgGTR7dkJzbrogqHuSQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/2/message": {
-                "ciphertext": "OXRRKzVdrtZPf2b5fGZYpOn0HE96FA+dPsBnNsjZoR+nIQ6zMl2ODpNcLYsuvOotQrxljOLYP59S7gSv+y4sO1yzAg2gQEJZUBQchnylP/A=",
-                "mac": "i0hLsZBeo5+e4PsuuwNZTA=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/thenStep/0/message": {
-                "ciphertext": "lCh4A0w3ahUAJJ6ZQaCTmvEem/6ZufP05grL2S+eh7U88SaSTN47dPUIgqznVLALQUBfzPQo/vAh/neJD+r7szwb+uqTYpiv9kGoq54xbyAfpFLWqSo4Qw3ciEL2zT7grR+zrkIzuhdRKLF+927sZA==",
-                "mac": "/rhEbAf54qGG7vDfaUOdoQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/thenStep/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "Alright.\\. I will stay connected with you over the speakers, in case there is anything else.\\. Good luck.",
+                "text": "Bien.\\. Je reste en contact avec toi avec les haut-parleurs. Juste au cas où.\\. Bonne chance !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/8/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
+                "orig": "Darrel",
+                "text": "Darrel"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/10/message": {
+                "orig": "Alright... unleashing the nanosounds!",
+                "text": "C'est parti... il est temps de réveiller les bestioles !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/11/thenStep/0/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/11/elseStep/0/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/20/name": {
+                "orig": "Darrel",
+                "text": "Darrel"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/thenStep/0/message": {
+                "orig": "Pleasant as usual.\\. But our bugfriends are arriving soon, so better get ready.",
+                "text": "Au moins on peut compter sur ce truc.\\. Mais nos amis les insectes vont bientôt venir, donc prépare-toi !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/thenStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/0/message": {
+                "orig": "Well, that sure caused some tremors... let's hope there was no avalanche outside.",
+                "text": "Bon, ça a bien secoué... Espérons qu'il n'y a pas eu d'avalanche dehors."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/1/message": {
+                "orig": "H-hi...!",
+                "text": "S-salut... !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/2/message": {
+                "orig": "Doesn't matter now, the sensors are picking something up.\\. You'll get company soon!",
+                "text": "Peu importe. Les capteurs détectent des trucs.\\. Voilà de la compagnie !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/22/elseStep/3/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/17/name": {
-                "ciphertext": "IyK/I3Pjr9lC8I/RKmyElQ==",
-                "mac": "xzsWja1liS5TmS6t+DImgQ=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/0/message": {
-                "ciphertext": "/zoexF8lB6fxTtPrZyTlsHgCEONsRUX+ShvnktMHrZGrGA7gZTSylChk1Hdzv0C/",
-                "mac": "UqzCxjj74yTkqdRoenM2jw=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/2/message": {
-                "ciphertext": "eheA41RGp8PIGl+VuKJxDirmASc7s2ye5VvxHnGsjrbRX7YAQzw022V+KOpLXq54F5Wd/LtoKfVUsdZXv3cdXc52R7uT5GnXWdrQ3+dj7Wc=",
-                "mac": "NhGtrOygbSaE9UCmCr0BYg=="
-        },
-        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Darrel",
+                "text": "Darrel"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/thenStep/0/message": {
-                "ciphertext": "X8j3O5ljD7zmd4U6eEKkhbidzhtieSxk0w9JUlkPKb38joy7HjzGYFtHF5B4waIe",
-                "mac": "cqREI6kGDEPbVCaqAuGPJw=="
+                "orig": "You did it again, good job!",
+                "text": "Vous avez encore réussi ! Bon travail !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/thenStep/2/message": {
-                "ciphertext": "pX2ag11pUzsS/8WskwoO6PwmsO5x0RFckVTX/b6hO2ptmM+cePbiQHQCsYY06xiOzOip4yCkuqmMD08rsK3W7g==",
-                "mac": "mq/aPKA83q8iJtl6nM8+mQ=="
+                "orig": "I gotta set everything up again.\\. See you around next time.",
+                "text": "Il faut encore que je remette tout en ordre.\\. À plus tard !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/thenStep/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/0/message": {
+                "orig": "Okay, everything is clear.\\. You did it!",
+                "text": "OK, tout est sécurisé.\\. Tu as réussi !"
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/2/message": {
+                "orig": "Return to me as quickly as possible, so we can review the situation.",
+                "text": "Reviens me voir aussitôt que possible, pour que je te montre la situation."
+        },
+        "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/elseStep/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/99/settings/interact/hoverText": {
-                "ciphertext": "av8I5nGMq6R12w+q2iru6K8ejFG6yVU0uUs/5qzLXII=",
-                "mac": "fPRZo1CFHgd9fn+GpvIJWQ=="
+                "orig": "Reactivate explosives",
+                "text": "Réactiver les explosifs"
         },
         "maps/bergen/special/miners-elevator-g.json/entities/8/settings/destinations/0/label": {
-                "ciphertext": "JBr3FEa8kAo6NhTD3iy2Lw==",
-                "mac": "QbhdgqZx6fJ5tWy3r7ud5w=="
+                "orig": "G: HQ",
+                "text": "RDC : QG"
         },
         "maps/bergen/special/miners-elevator-g.json/entities/8/settings/destinations/1/label": {
-                "ciphertext": "Q1sg4bAhzaaLb6sQIUhl1fyLYwIh7YArnKTWzRbd8iY=",
-                "mac": "GdKxiBB3hH2rPzdkP8z4SQ=="
+                "orig": "B1: New Mine #1",
+                "text": "SS1 : Nouvelle Mine 1"
         },
         "maps/bergen/special/miners-elevator-quest1.json/entities/5/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/bergen/special/miners-elevator-quest1.json/entities/5/settings/npcStates/0/event/2/message": {
-                "ciphertext": "Um6xFOpruHkbhqkEIkXeYAOPn8xDE06j9o7yG/7tLzecZQqrBbB/HfRwq4n6/KCgbYTsRxKAyg/7gysDpl2HacZlMpZWLksrOpTGAxc2NZkz+q4rw753UxH5hIAjGBWu",
-                "mac": "QFKBg+Nv9UfiOpychA5VNg=="
+                "orig": "The first of our new mines is just inside.\\. Miner Darrel is always in need of support.",
+                "text": "Notre première nouvelle mine est juste derrière.\\. Darrel à toujours besoin de soutien."
         },
         "maps/bergen/special/miners-elevator-quest1.json/entities/6/settings/destinations/0/label": {
-                "ciphertext": "JBr3FEa8kAo6NhTD3iy2Lw==",
-                "mac": "QbhdgqZx6fJ5tWy3r7ud5w=="
+                "orig": "G: HQ",
+                "text": "RDC : QG"
         },
         "maps/bergen/special/miners-elevator-quest1.json/entities/6/settings/destinations/1/label": {
-                "ciphertext": "Q1sg4bAhzaaLb6sQIUhl1fyLYwIh7YArnKTWzRbd8iY=",
-                "mac": "GdKxiBB3hH2rPzdkP8z4SQ=="
+                "orig": "B1: New Mine #1",
+                "text": "SS1 : Nouvelle Mine 1"
         }
 }

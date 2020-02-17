@@ -1,437 +1,437 @@
 {
         "maps/bergen/guild-1.json/entities/76/settings/displayName": {
-                "ciphertext": "wUSNn3dsTvGML+jVsOUg5w==",
-                "mac": "FXvkwJsNoXHNuQOWkwcdnQ=="
-        },
-        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "vPBtfTeqfzWK6mwfnSqo8xDMjfALAETojXOyTjCHM1g=",
-                "mac": "edi5Bjo7xOIZsFlZm19YDQ=="
-        },
-        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/accepted/0/message": {
-                "ciphertext": "VI/ZIJdOZM+WrQirRKMiAeRNahFFdQLm/P3GEYKJKC2c2Weu6Vi17tQ4G8TwM+XE",
-                "mac": "1VBEqPRax9mh+2lh5rAGLA=="
-        },
-        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/accepted/1/message": {
-                "ciphertext": "iKAMu0yCHgyqo5UfOH8CMNQjhXr1P9ftY5BvBsjRxsfN6m8gN6rGCKhGO/ECEucAZvGiTSGbBrkToyDQudGNoD2pRPlKZfVvInaJZRiTEZg=",
-                "mac": "6uE9BJ12FdiN9LLWJObDfQ=="
-        },
-        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/accepted/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/declined/0/message": {
-                "ciphertext": "dFT5b2YoJrXvhBvMFG5NqBZ48NMloaZiurXECilFjPIs01p6idTD69scGxHmJkM5gLdQhpnMJjn4V4S6aFRmKaFxpeoODrJcEqelOTwZjus=",
-                "mac": "VHnWEJmrbiHMbG4y03ESiQ=="
+                "orig": "General",
+                "text": "Général"
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "JD3YXAfU/MmFOWAOGlrH3nZQU3YeouYbst9EO7tQJjqWcG91b9Yt8/4corwdbuDiULhdQ3Suzzj0muoJyG2WBL94oLKcgfFlH26TXiHEJzn34dAsJlQIzrYGEw9KMmDTGJJ2qL1klXq9nI0WbDn+Qg==",
-                "mac": "6NrFamUXj7MNFSf0aBSAAg==",
-                "ciphernote": "SZJTpU9yyAlMAMYc+O59NDcElsD3t4w4n/JQAdb887gFjqQ8ItmWFMzF/xRxvcdP"
+                "orig": "Hello, player, and welcome to the \\v[lore.unlock.omni-gilders.first]\\c[3]Omni Gilders\\c[0].",
+                "text": "Bonjour, joueur, et bienvenue chez les \\v[lore.unlock.omni-gilders.first]\\c[3]Omni Gilders\\c[0].",
+                "note": "de does not unlock the same thing ?"
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "Hv7Mj6DlHkKj8Dk34OyRojpu6mujRnE3vv28jeTWLFy3hZDmJkqsVPLuV93/Z7nQM0f92dxWepdwYB8rklmLpWPI4ezYpuji+MtCZ+Q7pBhAzLz7T8a1sMNwehTUvRdIPfjEU4iSnPVIVScwtODn1mnn2Lj3mJ4Sgs8gmGukXXo=",
-                "mac": "5N9fXj3ORD0ZJhc3arB7eA=="
+                "orig": "We are a guild of traders who try to extend their reach through offering players simple quests.",
+                "text": "Nous sommes une guilde de marchands qui essayent d'étendre leur influence en offrant aux joueurs des quêtes simples."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "eAqsvwbd8xtVyFEb2P3+fqFnFmbsUn8k7ocdNBoiFCvWR/N4t/qIi4DzIltdS/IJjor1VsRIV52zX+yBErc2CtH085pvhVcO897LHxJdE8c=",
-                "mac": "/ElbhSHrOthjXBPOI3OuxA=="
+                "orig": "And I'm a humble general. Kind of a manager for the guild.",
+                "text": "Et je suis un modeste général. Un peu un genre de manager pour la guilde."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "uhIc3ylgY2bXgCz+N5GwIRIaECkPUrsDRJub8B47ncc=",
-                "mac": "WKde792MokJg5/X7sHBuRw=="
+                "orig": "Yes...\\.\\.\\.Yes...",
+                "text": "Oui...\\.\\.\\.Oui..."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "IYFOL9IRskVMfDT1bnArMQzcRdTRzpmnsOOlkiV7PXajuin5djqX8a4nTTRC7i6RNmf8F7YIT6bFbhAkDJfNzA==",
-                "mac": "YHkih1V3kzwXg/1HM4QZJg=="
+                "orig": "Might I interest you in said quests?",
+                "text": "Puis-je vous intéresser pour une de ces quêtes ?"
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/10/message": {
+                "orig": "Well nodded! Here we go.",
+                "text": "Bien acquiescé ! C'est parti."
+        },
+        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/accepted/0/message": {
+                "orig": "No need to come back to me by the way.",
+                "text": "Pas besoin de revenir me voir, d'ailleurs."
+        },
+        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/accepted/1/message": {
+                "orig": "The items will be transferred here as soon as you find them.",
+                "text": "Les items seront transférés ici dès que vous les aurez trouvés."
+        },
+        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/accepted/2/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/guild-1.json/entities/76/settings/npcStates/0/event/quest/11/declined/0/message": {
+                "orig": "Well, no problem. We can find someone else.",
+                "text": "Bon, c'est pas grave. On peut toujours trouver quelqu'un d'autre."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/1/event/2/message": {
-                "ciphertext": "ox9jhIGPrK+OAsf52wArtJXRvTePUz+cT7+5ELGJHa1mY4+F+GgiV9LGoX/ocWNwi/onJeMRDKefVkuQIr/XuA==",
-                "mac": "p9VeliWJ+6wr2b/H8GiZCg=="
+                "orig": "Hey, we don't have any other requests right now.",
+                "text": "Hé, nous n'avons pas d'autre demandes pour le moment."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/1/event/3/message": {
-                "ciphertext": "G4ewmDa8iO2EGPwfm3aKKI4tZwIPJhHGZ5yXkJ+FJtKNCYQYhN5Z6HmrjhOlrLNtXRelHXaaARe66Ec3gEsBfQ==",
-                "mac": "VSu84Gnrd7KWpqdc7Btk/g=="
+                "orig": "Just finding the items we asked for is enough.",
+                "text": "Juste avoir trouvé ces items est suffisant pour le moment."
         },
         "maps/bergen/guild-1.json/entities/76/settings/npcStates/1/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/guild-1.json/entities/82/settings/dialog/0/text": {
-                "ciphertext": "nLoUaW+pLlX3nPhdYHi9suOVC0FBCyuxm6xFer0nWTZuonzjG6n96OgX5tx8U4UIijYXMXtAeHDnXsf+ZJPTGw==",
-                "mac": "0wm/++FUacUIZhBVs1BQQw=="
+                "orig": "We really need some low-level trade stuff.",
+                "text": "Nous avons vraiment besoin de marchandises de bas-niveau."
         },
         "maps/bergen/guild-1.json/entities/82/settings/dialog/1/text": {
-                "ciphertext": "CcirGPyTEJgasSTdvbTsljidNN2vqQIi4AULM6K6cWzItOq7fd8k3LfqR8WpZ5wW",
-                "mac": "MmSF2d/459Uz3sHgp6zorQ=="
+                "orig": "We won't be able to extend our base otherwise.",
+                "text": "On ne pourra pas étendre notre base sinon."
         },
         "maps/bergen/guild-1.json/entities/82/settings/dialog/2/text": {
-                "ciphertext": "8jgWyUsV78ZRJYAdE3EwsYnJWeyaOZ977ywo4wXpRQmZAUcUMnIwEqF/sznZp1PaNPJUUyxsS0XBMV934WlONXjxpN0pP5KweXRDp1TXooxtNT5YeiOBRFh+QY1o91zfXAVQcNev3NIuGUJMYqt8AeB6zsHeHwCGp+3vbSI6qKU=",
-                "mac": "REUnYem1gfGTZauCPZpZ8w=="
+                "orig": "Don't worry too much about it, the higher-ups have already started giving quests to low-level players.",
+                "text": "Ne t'inquiète pas pour ça, les supérieurs ont déjà commencé à donner des quêtes à des joueurs de niveau subalterne."
         },
         "maps/bergen/guild-1.json/entities/82/settings/dialog/3/text": {
-                "ciphertext": "Lf/9YBxpAMjUEUYqpimti0n0xJp7YQAZ4c7IxX3HBNCE0utA4VfZKSHr+/JoAFpSQ4hhP3cmzYRcT6fYyOb+RgC7m4GalMqys8cDYZFobPg=",
-                "mac": "V5rIz9Qcj0Rq5SRZDwuAMQ=="
+                "orig": "So we don't need to lift a finger?\\. I like it.",
+                "text": "Donc on n'a pas besoin de lever le petit doigt ?\\. Ça me plaît."
         },
         "maps/bergen/guild-1.json/entities/82/settings/dialog/4/text": {
-                "ciphertext": "eLE6iw3GY4qRCX1uXfby0VLmqxGRd6OovYa1jvsXsvf1Aa+FZsycYiApU59x73USE0uGb3xBh/igibiRbnhWpWBHpmgiaLZnlrltnVrG7f0=",
-                "mac": "gWVjZiJBX7oAVfF++8JQjA=="
+                "orig": "Until we have to grind high level mobs...",
+                "text": "Jusqu'à que l'on ait besoin de se faire des hordes d'ennemis de haut niveau..."
         },
         "maps/bergen/guild-1.json/entities/83/settings/npcStates/0/event/2/message": {
-                "ciphertext": "xmXGGS4vNmu7QAyWILsnrvjF1Mjsn9gjKLNy2VwzqXuG6Mj5A+GRqGzplmilivB/UkEFPu9xcRrmPZleNjpr6uAEiny66LtKDmBEWiQzF3W0T2Q2zBxMWep3DgQXF+3kSlp3MoKvnCtxbfnFvIXBSaJcYAKY66tU1cljK4Pw4cs=",
-                "mac": "M2d4lAvyHP1f7f43K4iRWQ=="
+                "orig": "I'm currently away from keyboard running some errands. Will be back later.",
+                "text": "Je suis actuellement loin du clavier en train de faire quelque chose. Je reviendrais plus tard. Fin du Message Automatique."
         },
         "maps/bergen/guild-1.json/entities/84/settings/displayName": {
-                "ciphertext": "u27S4+UJzlUfs+5xqfiUeQ==",
-                "mac": "ht7aS3oDiZM1KaxRa6YGaQ=="
+                "orig": "Jean",
+                "text": "Jean"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/0/name": {
-                "ciphertext": "u27S4+UJzlUfs+5xqfiUeQ==",
-                "mac": "ht7aS3oDiZM1KaxRa6YGaQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/10/message": {
-                "ciphertext": "6OSYqnriRBeRjvP5zwHpnofDAClwTP9dLmsIOGjI7R2xBONCjDn70KoPkaw7ztJ5",
-                "mac": "0v3p3kQwlkLHm+N0Z2oMGw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/11/message": {
-                "ciphertext": "Y1X6P3yGkWmq2YQipA9DyuZRlPPi326sjPTe+EwS40aJOAQgitIf3P88cRBiToipMCIvadrPOtv1v/nm9/a+VZ+x4fljmJ+VDOt/sCMlrmVBmtgjchh6O9Re+nde1fVb",
-                "mac": "uohjNBo6pnw2zKZmRmMviQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/12/message": {
-                "ciphertext": "AVUSWq5+eMKMB4m84m+JZXIaQUkiy/Sp0uVQABpqRLYSHWRHUHnjX1qfdLt1KFtL9D4H7L+s+HkRaMDeUbWdKg==",
-                "mac": "yNg13Ab0nMR5D8QfwQyKaw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Jean",
+                "text": "Jean"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/3/message": {
-                "ciphertext": "5UAbwbyBWMiyBLBpVsjoXf8pcFlJaj2RZ3HYQmd9pA1d7dp+CCnuBscGfNfu+8tE",
-                "mac": "8GIbrVlK3IQovnu11yR5tg=="
+                "orig": "L...Lea?! What a nice surprise!",
+                "text": "L...Lea ?! Quelle bonne surprise !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/4/message": {
-                "ciphertext": "yD3jsuk2oGpLOqxYny3eKOaSNHAJtCezPtK4THxgIp/rld8pfRy6jWAVZRD31CKjgeEvctvcMvDRR1AXz5VNFQ==",
-                "mac": "zteLb213HdBkayAsNajXuQ=="
+                "orig": "And you even found the guild I'm in!",
+                "text": "Et tu as même trouvé la guilde dans lequel je suis !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/6/message": {
-                "ciphertext": "/GRtBP/YQbGeEgf1DQgky2ZzW7cwJACTF6FGQ+lGsuj5fM5eTfGwh5UMoPIfapDo8YXn2S9LZyZHY2PDHF7gng==",
-                "mac": "yIJNiG+PNcuw26ri/VLIlw=="
+                "orig": "It might look small, but it's really just a small branch.",
+                "text": "Elle a l'air petite, mais c'est juste une petite sous-division."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/7/message": {
-                "ciphertext": "GoXHjb6N81N9hXj0VdQAz7sSwb8Pl3MKz6LKjO5YnV7wW/1SOEIiWXT05pvNS+sZvgQxbwqbDDVKdw1U/IZQow==",
-                "mac": "5FdCX0r8zAtMzU4hH7iUAQ=="
+                "orig": "It's actually one of the largest in CrossWorlds!",
+                "text": "En fait c'est l'une des plus grandes de CrossWorlds !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/8/message": {
-                "ciphertext": "KcyuWlymt++utz1hJANvPdAvUOPoywstuRfx4fR3gP9229lW8Fr4rpvc0cQ/AZaOpAVvKSeLbwNlGxI+eUwvRPV0vUUwTLwbTTmPAtYyk3stXhX0HNdX1M7UtawmMe7i",
-                "mac": "tuGEjLj9L/qu5amldHqRaA==",
-                "ciphernote": "6V9XuAFFmgCCIldWcQyuueia/kCRdQp1KaVk8YpmfF6whgUKI2QihUxtQXN5936w7q1L2CzAr/5ql/KdNtJCVw=="
+                "orig": "We proudly call ourselves \\v[lore.unlock.omni-gilders]\\c[3]Omni Gilders\\c[0]!",
+                "text": "C'est avec fierté que l'on se nomme les \\v[lore.unlock.omni-gilders]\\c[3]Omni Gilders\\c[0] !",
+                "note": "de: c'est en bombant notre poitrine que l'on se nomme..."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/9/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/10/message": {
+                "orig": "Yeah I know, pretty cool right? ",
+                "text": "Oui je sais, c'est assez cool, non ?"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/11/message": {
+                "orig": "We're currently looking for players to help us find some trade items.",
+                "text": "On cherche actuellement des joueurs pour nous aider à trouver des items échangeables."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/12/message": {
+                "orig": "So if you have some time, just talk to the pentafist over there.",
+                "text": "Donc si tu as un peu de temps, parle au Pentafist là-bas."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/0/event/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/0/name": {
-                "ciphertext": "u27S4+UJzlUfs+5xqfiUeQ==",
-                "mac": "ht7aS3oDiZM1KaxRa6YGaQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "rkUbc7rHXUpskNMKrBLK0T3wHSCiy/bEVj09ZhL0K4FqGr9F4GlBsZqyYHkCZHHORxhONk6cUokGZY68r92mdA==",
-                "mac": "39wqA9nphPqUtCulD1QaFA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/12/message": {
-                "ciphertext": "zW8XTsxFL6UK/kBJt1eX9rhOMn1/9WogRpuLXFs1+xAk33lsSL1/cgSr7ofE5fr0JX34WnhD1onYXteMU1N/3krB3nwmHiJTv9/2gZrd3t98BW+OFELygVY3DzQsTsi6",
-                "mac": "H3kKJJkNNNlO8Qwq01vWkw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/13/message": {
-                "ciphertext": "pOmw6HTV/oCjz08Mhd+Q706acOq67BF9C2phqzNY9/CsGwg6PdwtNCBYNeEoI3uK",
-                "mac": "f+Egfdk36BruNHEFiZ6qPg=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/14/message": {
-                "ciphertext": "boqnoVTJ8Jbd8LcO5UGYjjsWBSbyHo5WT5GhXMUm9SrG2QO+H4+zZfbk7WS54xgaoaSTj10Ccc5W2wzQR/pY1aTu6ktGGF77fjxZ8KCy+ZoukRPjgzdR6ejnPbPsAQY1Kkph6X0nzJmNaOnr2GLWTQ==",
-                "mac": "07uH1rAgF6BgIC732MiFYw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/15/message": {
-                "ciphertext": "PMAE9AOetGuIqZpvQ7DBVGBK3datqEdn9z0OaOECmtGlBAUHRZ/OsyIRD8s3wKwxUTiYXGP5eURXBWSjfLz8j1Hy8MPyMpe4O9Au+vyOV1PvAhXsWNDyOQvZ+krBBovBNSf6B1ZfslNNRkbVoUnAJw==",
-                "mac": "7gjrMTPZXeoaRHmxeDhp4g=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/16/message": {
-                "ciphertext": "+YSypCik/RWj5zyxOflHObOlhMRYwHr1UXxJ4VzKO6aolPbu14djqCSvLA346njowsCqWHhCzbFUzE0xXWlMu/iJ2MjokEa6oYYOQZUewzaBC9SlHycRsvToSagHP9b6",
-                "mac": "X0deb3mTVqI5XNx+EFoRCw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/17/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/18/message": {
-                "ciphertext": "vbvpcytSL2vjwfDkCoMp+Jcn9vfMfeJ5lWSxYANXnNuS5EPkgs1D7qhzlTgcyS40",
-                "mac": "ZhbN2hUdH0wcW82qTDpkHQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/19/message": {
-                "ciphertext": "1NUkG301nuFMKFkKxXxdBlMy5m+L6abp9w3K9pyFoAfw1PIOfBpx+mdJAm9DJCpcHOIbLsHxgs6iB+dgPwAV5hLwPqQk27xjqFG/X+FI2nlm57kEvv3bRRZ/AgJQdeMcgPZk3UyLRDs4WGJi94xPq9XWARjSmWwO8OTW5T455e0HPd0YUL8FnArSJY1fooQD",
-                "mac": "9PvMBx9rI0gBRFQRPnC75Q=="
+                "orig": "Jean",
+                "text": "Jean"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/1/message": {
-                "ciphertext": "CFa/MUFdyNXUm9gcGpgqKGVb//+jSpfbgVuTSDD3w3nuhWIVX09MPzO8+qk7Xblq94YaYRqCIzLic40McbxE8Q==",
-                "mac": "4ScDS6CKYHuk2cVUt/cVWw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/10/message": {
-                "ciphertext": "YWEf0O846hyr9iPxbvNluLIsCvmSUk4UrXCSjQqziDhD7f62IChu54+IIn5qehDxZpEiBEoY+mWaDmnWX4X25gLqKc92jwaVrrkIMHXo070=",
-                "mac": "MLGUbDNIexIzJtucGIw2AQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/11/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/2/message": {
-                "ciphertext": "UXpl6yO+b0V+Rpo1EZlgUkMm0Ys/3As6GZk89SLH+HWheZmryVvcpBj6H2/MnOcfAS6zbPrVS9y2UQY6Ied11w==",
-                "mac": "LFKbtstOukBYYa/x5OXRVg=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/5/name": {
-                "ciphertext": "u27S4+UJzlUfs+5xqfiUeQ==",
-                "mac": "ht7aS3oDiZM1KaxRa6YGaQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/7/message": {
-                "ciphertext": "Etoz48XzZgzhU4r0Cy5ARwAU+7MR0n0w033m/tFkCZctKb7UnmOF1HLny3oxNIdiU/dPidxk7sZd+9NRdYJfj7vpYbhxIHwobjGujSiNkgTqKERSMAgiNgONa8Tekrb4iknxuXg42KgT0fKuzr2Ui2jIE1kAkVBHFi2wbL7vL3YqgRB3RWDlKaXQqh1/BGGp",
-                "mac": "XfxPPm+YoO8htr3ydUo7OQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/9/message": {
-                "ciphertext": "I7At2jn6Z67kQTZD51HHCNPPLpz2//1a5KRj7FOCpL0i8I2zlIJ1YgsHsIkJXimMtPkpVHht6qLdJAXvPjKrwg==",
-                "mac": "hha15aSo+LcPH6z0T7LcXw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/declined/0/message": {
-                "ciphertext": "ewtZLV3NZZwuSPbI+Qnvhhc81YTMqhMiHw6Fb9PzD8YFDtb/cUzG3KzE5T0KsxB9vxwOUx5fH+IQWgv0PQLlQA==",
-                "mac": "lBuV1oS6AkOBlgbliHyUyg=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "q3/45Wb9eRkr2vKZJauIpb6O87G4vQbqDbSv0iz5CZk=",
-                "mac": "ldueOGhGyiyVfk4L+vQLDg=="
+                "orig": "Oh hi, Lea!",
+                "text": "Oh, salut, Lea !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "ERUV1kXAMdwF4Agj9tnOfB3cyvEQ1tf+PLki9aIslsA=",
-                "mac": "4416S6lLOasR1bV847j6uw=="
+                "orig": "You've come at just the right time!",
+                "text": "Tu viens juste au bon moment !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "XGnYJ2hwrCxzxq1Qzw5hUua+6mpsHnkl7AdyM0Ut8rLrOFH8OloucBHzoRND5tPrRWNopNf+SHPY7ri3JyjD5w==",
-                "mac": "6vdZ2NlTrBLz7vMYa9iARw=="
+                "orig": "You see, I'm pretty new in this guild here.",
+                "text": "Tu vois, je suis assez nouveau dans cette guilde-là."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "619A9co/P/8dY07utD+Uk7rV9qxDuHo5SR5PxNkPl5xFS0jikMDZXvptYCVsSpn8hYCL5FP2J9u9xxpfrCRuZlZHQNUrDGEmy42FQOtaXO4GE+/OTg6uIzgYcA0f3Wr0",
-                "mac": "8YYmFDtFBghVxvitY2C6lA=="
+                "orig": "New members are mainly on duty for farming trade items.",
+                "text": "Les nouveaux membres sont habituellement chargés d'aller collecter des items échangeables."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "Pq/+rfiEZri/QML/dLzG4coWPNmb9ZFCEunMj4dO3Skuyun0R7Bhjfg4DU3Lfc0Mo6VfSy3Lg4zLbnMQ9Y5UMA==",
-                "mac": "rJM5q1rh4IQQuNvCW7VLsg=="
+                "orig": "But we also have to do chores...",
+                "text": "Mais il faut aussi que l'on fasse des corvées..."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "NNYDLn9BrNY9+vD7kdHJnEz4tpMSideDyx4fGgGguqA=",
-                "mac": "nw8ADMAL2tzaP6OH8mYJcA=="
+                "orig": "One of which was just given to me.",
+                "text": "Et on vient de m'en donner une."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/10/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/11/message": {
+                "orig": "Oh it's nothing too hard... for others I guess.",
+                "text": "Oh, ce n'est pas difficile... pour les autres en tout cas."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/12/message": {
+                "orig": "My job is to get a \\c[3]Storage Unit\\c[0] from the cellar to the right. ",
+                "text": "Mon job est de récupérer une \\c[3]Unité de Stockage\\c[0] du sous-sol à droite."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/13/message": {
+                "orig": "But this thing is a MAZE, I tell you.",
+                "text": "Mais ce truc est un LABYRINTHE, je te le dis."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/14/message": {
+                "orig": "I couldn't find the thing. Instead all I found were boxes and more boxes.",
+                "text": "Je n'ai pas pu trouver le truc. À la place, tout ce que j'ai trouvé c'est des myriades de boites."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/15/message": {
+                "orig": "I already tried to talk to \\c[3]Jock\\c[0] and \\c[3]Jeff\\c[0], but I can't seem to find them.",
+                "text": "J'ai déjà essayé de parler à \\c[3]Jock\\c[0] et \\c[3]Jeff\\c[0], mais je ne sais pas où ils sont."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/16/message": {
+                "orig": "They are online and I even tried this stupid Direct Link. No luck...",
+                "text": "Ils sont en ligne et j'ai même déjà essayé ce satané Direct Link. Sans succès..."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/17/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/18/message": {
+                "orig": "Yeah... I wonder what they're up to...",
+                "text": "Oui... Je me demande ce qu'ils font..."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/19/message": {
+                "orig": "Anyway, I guess what I'm trying to ask is: Would you help me find the \\c[3]Storage Unit\\c[0]?",
+                "text": "En tout cas, ce que j'essaye de te demander, c'est : est-ce que tu pourrais m'aider à trouver cette \\c[3]Unité de Stockage\\c[0] ?"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/1/message": {
+                "orig": "Thanks Lea! I knew I could count on you!",
+                "text": "Merci Lea ! Je savais que je pouvais compter sur toi !"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/2/message": {
+                "orig": "You can get to the cellar via the right door over there.",
+                "text": "Tu peux aller au sous-sol via cette porte à droite."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/5/name": {
+                "orig": "Jean",
+                "text": "Jean"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/7/message": {
+                "orig": "Tell the \\c[3]Quadroguard\\c[0] I sent you in the name of our guild. Apparently that's how things work around here.",
+                "text": "Dit au \\c[3]Quadroguard\\c[0] que je t'ai envoyé au nom de notre guilde. C'est comme ça que les choses fonctionnent ici apparemment."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/8/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/9/message": {
+                "orig": "Hopefully you can find the stupid thing.",
+                "text": "Avec un peu de chance tu pourras trouver ce machin débile."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/10/message": {
+                "orig": "I don't want to make a bad first impression here.",
+                "text": "Je n'ai pas envie de donner une fausse première impression ici."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/accepted/11/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/1/event/quest/20/declined/0/message": {
+                "orig": "Aww... Well I can't force you I guess...",
+                "text": "Ahh mince... Bon, je ne peux pas te forcer, j'imagine..."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/2/event/0/name": {
-                "ciphertext": "u27S4+UJzlUfs+5xqfiUeQ==",
-                "mac": "ht7aS3oDiZM1KaxRa6YGaQ=="
+                "orig": "Jean",
+                "text": "Jean"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/2/event/2/message": {
-                "ciphertext": "VZcPraRQf2YH+AguKSCUgGGXpN8j3NhAKvKY3sQBYiyIQSOkq4ijvpMuMsFA3sNr",
-                "mac": "DntH1lw9f3dLX2P7CR9WLQ=="
+                "orig": "The basement is through the door to the right.",
+                "text": "Le sous-sol est derrière la porte à droite."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/2/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/0/name": {
-                "ciphertext": "u27S4+UJzlUfs+5xqfiUeQ==",
-                "mac": "ht7aS3oDiZM1KaxRa6YGaQ=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/11/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/12/message": {
-                "ciphertext": "aho34aLBP9Ubt5P6ccUedpCanNybeOO0DBY1PscHEzE=",
-                "mac": "d1rduOp6t1DO+3CoW3G8rA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/13/message": {
-                "ciphertext": "034r4K8cGUWMdlbxSPdxhBmPZ/U1KvLo4WOogpcMJyiY+MafZIwHy95v7KL6NFvkP9N3C9Ux3qW+lLInfGpZ+KgqVLSP1dyDwjerdo2q5Ks=",
-                "mac": "K9bYZFDF5qhl9ll28MFrQw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/16/message": {
-                "ciphertext": "RVzoUS1EkbdlAlUx9A7lQXhnd3u9pQEQjfoKmeDTYZo5t0a4aw3UojB+D6gfhcf5qRt3Lm3k5JiIv6hZ5hj7Dg==",
-                "mac": "bOHv2oVyBYc6SAqKK76g2A=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/17/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/19/message": {
-                "ciphertext": "ms91TZu3NZk3RkcIqBgOs+5osLozWNBqfXZi1gQ0Rhk=",
-                "mac": "aW2EHyF+Al4rdf7yHgkUqA=="
+                "orig": "Jean",
+                "text": "Jean"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "rzcTbVoZKlTFnFGmlFtFxw==",
-                "mac": "iDOOf+ktpvs5gTFXEk8Fiw=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/20/message": {
-                "ciphertext": "r3PKof9FzGtv8GnPLNaxk6b/s6UOb0br9KB2NOc2h5UshMmIYcN6pgMXevFXuneZ9Cl8t/ZNWAMwpO7sqLtbfG1bZx55zuUAusLydyZNYGYRW/11VjjCq2JwM7cpVG7hKmcbkI81IOtk07JQwZ3bphmzW+Fjc68jUhepEmHJvfnwIA5//r+hv+evdgIwpXoTtX2kkyV5iFWVQaQbNnCpvQ==",
-                "mac": "F8n7pT5Cx92Y0MD9G3UgUA=="
-        },
-        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/21/message": {
-                "ciphertext": "9NPYIvMwwaBzCQ8y8Xt7LbsmpMsOU/dBEgO7YypGnJpEzpYSkERJjSpInJr+GWwm",
-                "mac": "x2RKaNBfQtPTFPA/RnDAOw=="
+                "orig": "Hi Lea!",
+                "text": "Salut Lea !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "U2B9W3ukZtX1IS5BEkSS41zH0me51JvLlI3xsBOnu6oVPb1EYJnusCGUNL5or75n",
-                "mac": "wfd3yGsBW8R+1bB4heVKlQ=="
+                "orig": "Jeff and Jock just breezed through here. ",
+                "text": "Jeff et Jock viennent de débouler ici."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "9y/jTNGblyWt72uf9rWhLAZ9KzTQDsAFzWthjpNI/9ZWhYFa1O+CJF2jXSCgTrjt",
-                "mac": "VtyGRRpNsYiQJffFR7ATMA=="
+                "orig": "Coming right from the basement it seems.",
+                "text": "En venant directement du sous-sol on dirait."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "iHSxwbkuhAtziY9+IJmUSESFciGtoJBRHpazzc+N4GSdeVfmH9bsyXMXEFXa/WCh1mwr0/+1P2zB3Kg+qaKuUX7y4mx8PT43yoV0sUKk7yVHbAta7i8WxAD3pon0opCKptVIT9338rlhRBlSfyqJdw==",
-                "mac": "6VKw/QCToOgMXirRIGNh6g==",
-                "ciphernote": "eTzTO74ALfWRvHuqCtg663aUFFOmSV9vGQj5YGkAKOw="
+                "orig": "Those guys... I was trying to contact them all this time, and they were slacking off in the basement.",
+                "text": "Ces mecs... J'essayais de les contacter depuis tout ce temps, et eux ils glandaient dans le sous-sol.",
+                "note": "de: piquait un roupillon"
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/7/message": {
-                "ciphertext": "Rjd0AfWmm0D31pQmM50TAYaBGKXF6Rn2INmHrhQLMhdisLl+kFA3oMHgaTDvo5rG",
-                "mac": "qU8TCCptr3yXwrgX60G1AA=="
+                "orig": "Didn't even say hello on the way out. ",
+                "text": "Ils n'ont même pas dit bonjour en sortant."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/9/message": {
-                "ciphertext": "GGu0eILMAXOLz+KISbV4SB1KY/NQbyauqTmNS3iNzUA2cFIcZu/yThTKY2Gxoj6yRqNlVN8KuwP7HmGcwyNOBJxPlgzYvFxDYI+heLYvfq8bXVKANSQcPHl+Q5OSGEbmP7l2JaPcIFF7PmhNja+me/4VhRUV1p98toWuuPW5f0EapLREu2FR5fRTi2qQYqje",
-                "mac": "u/Xtkpu3H/hmA9e4GmdCQQ=="
+                "orig": "It's alright. I'm going to talk to them later. I have to recruit new players and they both wanted to help me.",
+                "text": "Pas d'inquiétude, je discuterais avec eux plus tard. Il faut que je recrute des nouveaux joueurs et ils voulaient m'aider là-dessus."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/11/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/12/message": {
+                "orig": "Hm? What is it, Lea?",
+                "text": "Hm ? Qu'est-ce qu'il y a, Lea ?"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/13/message": {
+                "orig": "It's really nothing. I'm okay with it. I'm sure they're just busy helping our guild!",
+                "text": "C'est rien. Je suis sûr qu'ils faisaient des choses pour la guilde !"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/16/message": {
+                "orig": "Anyway, did you happen to find the \\c[3]Storage Unit\\c[0]?",
+                "text": "En tout cas, tu as trouvé l'\\c[3]Unité de Stockage\\c[0] ?"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/17/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/19/message": {
+                "orig": "Awesome! Thanks so much, Lea! ",
+                "text": "Super ! Merci beaucoup, Lea !"
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/20/message": {
+                "orig": "The General of this branch is currently in \\c[3]Maroon Valley\\c[0] so I'm gonna head off and give the unit to him as quickly as I can.",
+                "text": "Le général de cette branche est actuellement dans la \\c[3]\\v[area.heat-area.name]\\c[0], donc je vais y aller et lui donner l'unité aussi vite que possible."
+        },
+        "maps/bergen/guild-1.json/entities/84/settings/npcStates/3/event/quest/21/message": {
+                "orig": "Here, take this as a small thank you.",
+                "text": "Tiens, prends ça comme un petit remerciement."
         },
         "maps/bergen/guild-1.json/entities/85/settings/npcStates/0/event/2/message": {
-                "ciphertext": "qDicbF5GfZqu2Dig2Tk14t2aXADKgbUNhb43IxBMmZnQyp685SqjCblAqfVp/JeERFzMPq7OfBtXWkiF4sZBkA==",
-                "mac": "Z+luSS2KNtrNmOZlP1Poqg=="
+                "orig": "Sorry, but I can't let you through here.",
+                "text": "Désolé, mais je ne peux pas te laisser entrer ici."
         },
         "maps/bergen/guild-1.json/entities/85/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/guild-1.json/entities/85/settings/npcStates/1/event/2/message": {
-                "ciphertext": "zh/MAQp2oFIsNZ2qbw32CbyseaZmofRXVq20LIVOwkD9w+dPudhDKKDTCoCRbgk9Snpz0HUpuseGvsxRr7G+XA==",
-                "mac": "1njPzuhFzUiqdgw0mPuW7A=="
+                "orig": "I heard everything. You're doing the rookie's job for her.",
+                "text": "J'ai tout entendu. Tu fais le travail de la nouvelle."
         },
         "maps/bergen/guild-1.json/entities/85/settings/npcStates/1/event/3/message": {
-                "ciphertext": "tEKVJk+bvRidKJaQZno4pVTHp5A8hk55Ugh5LEzNQXOKn6cfFySxQ+Fzl+novF6W/E1BR8iQnKj05ERlnWAb3PPpHgW6FwdYwYlWriqOsls=",
-                "mac": "+VrTxx41j+Rahks82eBCyQ=="
+                "orig": "Pretty lame of her, but I don't care. Knock yourself out.",
+                "text": "C'est assez moche de sa part, mais je m'en fiche. Fais ce que tu as à faire"
         },
         "maps/bergen/guild-1.json/entities/85/settings/npcStates/1/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/interior/guild-basement.json/entities/11/settings/npcStates/0/event/2/message": {
-                "ciphertext": "kh+53hNREz1sNAQk085v5ACJ2oZ/opo6vpoxhSmbvGnrAqIE9yBTsiiMmCSRDfXXSFVEHyFZ/rbWHDAlOX1Tld0hDEy7Ts6ul6h1LE+E9dCkaqgcMuOySHccBfFH6Slj",
-                "mac": "GuNSf9Z2NnelPVUOTE9smg=="
+                "orig": "Are you new? This area is only for the high ranks in the guild.",
+                "text": "Vous êtes nouvelle ? Cet endroit est seulement pour les hauts gradés de la guilde."
         },
         "maps/bergen/interior/guild-basement.json/entities/11/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/12/message": {
-                "ciphertext": "dcuRI48dlwANjbTbksB32h+ESpUaYYvofmiqVXK8UvrgsLjI3dq237GzVA0ru/0x",
-                "mac": "vsod0L7BR06a841l6wHMQA=="
+                "orig": "That should do it for today.",
+                "text": "Cela devrait suffire pour aujourd'hui."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/13/message": {
-                "ciphertext": "einvvZthFSWKFy1uRmHUhqCsrDy3FoJww18RB1FNcpYB71QHWFfkmuAMKBJE8nrTiYe+qq2wxFcigdnqEWWK7UQRhp06miiNyh50EsC4H75bo6h0bmQqYMQtya0aySJA",
-                "mac": "0j8E73iO6XRoYGKHxMjlJw=="
+                "orig": "Haha, indeed. A'maist enough tae overthrow a' guilds. ",
+                "text": "Haha, ouaip. Ça d'vrait faire l'affaire pour s'liquider toutes ces aut' guild'."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/14/message": {
-                "ciphertext": "8xTFWaCJfKZA+dVvPO4Fm3fW+f0xg20I8WYR63+pXbc=",
-                "mac": "P6W6OgKVkZ3MB/BMHUislg=="
+                "orig": "Well, at least the smaller ones.",
+                "text": "Oui, au moins les plus petites."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/15/message": {
-                "ciphertext": "akgOT9j2kxkunswML495Zu3T2duRz9sjl43Dle1EWK19YPU4AUHNsowb7fUJ7dnZ0Y+Wi8+ait1kPaLeCqHhiQ==",
-                "mac": "81H+w+f+ArTKAdfzL7FGJA=="
+                "orig": "Ye think it's aboot time tae fill in Jean? ",
+                "text": "T'pense pas que c'est l'temps de l'dire à Jean ?"
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/16/message": {
-                "ciphertext": "yP1gyLfRiXAHjTDmrgSqxFJv6lWPllUutA2hae/SZCLn3rDOMN4dUD52v+l1GDftRxbFqrdu/lWgvttq4gD7mfvue/YdWUVljMHfN1aEDng=",
-                "mac": "3g/wavomwJZ1gBi/aAsWWg=="
+                "orig": "No... She is just so naive. We have to ease her into it.",
+                "text": "Non... Elle est trop naïve. Il faut qu'on l'amène lentement là-dedans."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/17/message": {
-                "ciphertext": "YCR1zPgW81K7LJc5EPS7mk9/rZMX7QW+h42RVj5n7rAJjYGWdZJyl4KKtHTywUxzZhHhjiv6VtHU2Ay21tYv0B77pJv7yeIQgiVdqfZnz7QbpuhquFGNQ0iqxERNUJYiH3uxAXekuBA0Ua3fqKS5Iw==",
-                "mac": "ZhFEqYrC3UIeXywnDRFQYQ=="
+                "orig": "Remember how annoyingly happy she was the other day about the \"Legendary Rabbit\"?",
+                "text": "Tu te souviens comment qu'elle était heureuse et agaçante quand elle a trouvé ce \"Lapin Légendaire\" ?"
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/18/message": {
-                "ciphertext": "VQmzp/ieT//bhiT73H1sL4iAvxYnQ7Cyx8XsZ7ab3PYMUD4QNZZAKe+hwxHEEY4BeXSEkMH9tIuGhljsiX4SBfyNOkLTnt5t/Azn2KF6fesVdPDmmZxhmm9ZQ3jnP3pf",
-                "mac": "mA5pC/RHH/f/GNEUePcTiQ=="
+                "orig": "She still hasn't realized it's just a plain old \\v[combat.name.gray-frobbit].",
+                "text": "Elle a toujours pas réalisé que c'était juste un pauvre \\v[combat.name.gray-frobbit] normal."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/19/message": {
-                "ciphertext": "TLmDHYsfsy8J9wZLU/3A+lMyNMztyggFFcweIp2AL6m/KRDzAB2AyO07aRElfaVf2cwGtUIleEcajBNn4zOQrw==",
-                "mac": "O+/lDp/DQ5I8QDIqg7rtiQ=="
+                "orig": "Hehe true enough. Better tak' it slow. ",
+                "text": "Héhé, c'est qu't'a raison. Faut mieu'y aller lentement."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/20/message": {
-                "ciphertext": "IBYfk4epBG9DhiH+FIo240v1ueZIl+TclBZe1QpgwzbGlo/dSfd2r9wsIWFTERb94xIIBlRpxWh3f3h/4JOJ+HJk/cDZqvVKoNSel6qQHy8jSP5zyiLToXhYYK8WQ4FG8MntyTgEuimIsvPKd7irJw==",
-                "mac": "NXD/CpvkWDusxyViTKQBRg=="
+                "orig": "Plus, if we tell her now, chances are she bails and puts our operation at risk.",
+                "text": "En plus, si on lui dit maintenant, il y a une chance qu'elle se tire et qu'elle compromette notre opération."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/21/message": {
-                "ciphertext": "rcktAYkeWFhRumll9RLVhGVuEfB1vf83P5oSpKRFwMAyphHLs1GA2iatUhit/uDR3sR/w6Q8+nstKt+8ILfW/mp9CReZuvYlw6uWzweBwyk=",
-                "mac": "o6BqmUtsJHI3gORqBPtEwQ=="
+                "orig": "We need her and her attitude to get us more members.",
+                "text": "On a besoin d'elle et de son état d'esprit, pour avoir plus de membres."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/22/message": {
-                "ciphertext": "Hdba2TITxgqtN0PhsOzi5ophHaYgreWoL4moFbm0kFm/4CvKWSLlIpKOPsWmUAw/PxKUV9fb2L2RzK6baGfhSzpMbjIIU+D8f3/XjC+FOmFMMIunWCStztoZ+GiCSV0+b4pAJ3EbkqwKyFtRL7XEcg==",
-                "mac": "U/fAVckVIIU9RbcIsylorw=="
+                "orig": "I hate that we can't just do \\v[lore.unlock.money-trade]\\c[3]Credit Trading\\c[0] anymore.",
+                "text": "Je déteste que l'on puisse plus faire des \\v[lore.unlock.money-trade]\\c[3]\\v[lore.title.money-trade]\\c[0]."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/23/message": {
-                "ciphertext": "6/BWbmV75C6Jq9OmSQ43IrXT0bxVxEf1gw+R4SE4XJcVKkdkecJs8yRbDmXHmGVu",
-                "mac": "R0b8zsGJ5QWPaCBvaQ06cA=="
+                "orig": "Anyway... \\. Let's go to the boss.",
+                "text": "Peu importe...\\. Allons voir le boss."
         },
         "maps/bergen/interior/guild-basement.json/entities/64/settings/event/24/message": {
-                "ciphertext": "lHKh7dFq5rLMf++PALNbsQ==",
-                "mac": "uPSMGlljHtFNiKqSzBASgw=="
+                "orig": "Aye Aye.",
+                "text": "Ouais."
         }
 }

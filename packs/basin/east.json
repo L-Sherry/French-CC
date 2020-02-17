@@ -1,524 +1,524 @@
 {
         "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/2/message": {
-                "ciphertext": "pNiJUb1LsMJjHsvGdWp9cuvYNxl/4U020nXWNRO0MPBClT0Zb/kH9jRRYfXEtH3M",
-                "mac": "tbU/y6z5M9uxuuBfjJjV8Q=="
-        },
-        "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/3/canceled/1/message": {
-                "ciphertext": "upi7TNMLTB9JGDqAeBCrmSLv7IOF4dxfR9gGAnUDrhrJiJXcu/PYr7SCguhljntix1VFid/Y2i4HOQbZyRuf5g==",
-                "mac": "U9PQnpNC25bdFSYNij8LIQ=="
-        },
-        "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/3/canceled/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Hey girl, ya looking for some rare weapons?",
+                "text": "Hé, meuf, tu cherches des armes rares ?"
         },
         "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/3/traded/1/message": {
-                "ciphertext": "HkAJoV4loy1tScQpbWKtBoGkSv2oir/KQH08fXnUhjs=",
-                "mac": "POXAvgknKTcsTpf/EAy/LQ=="
+                "orig": "You won't regret it, girl!",
+                "text": "Tu ne le regretteras pas !"
         },
         "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/3/traded/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/3/canceled/1/message": {
+                "orig": "Really? This is a once in a life time offer, ma girl!",
+                "text": "Vraiment ? C'est une offre unique que je te fais, meuf !"
+        },
+        "maps/jungle-city/east.json/entities/161/settings/npcStates/0/event/trade/event/3/canceled/2/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/0/event/trade/event/2/message": {
-                "ciphertext": "5WtiRJoBEL/96IF7pX8NindKIIPt31VYV8DXYg0gEvc=",
-                "mac": "HF2rIH2SCqxy7sPjN9sVXA=="
+                "orig": "Hello, young one.",
+                "text": "Bonjour, jeune femme."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/0/event/trade/event/3/message": {
-                "ciphertext": "52kyZO1KrsmShX27rZrBSQ4McqjvJBEENTXZPWG8VfJTpLIfV1x7u1R1abJdmezdxw7SMYJoUUsqcHUKR02G9jv/ZPz5mMYF19Q+mI6VVom+OU/CMqvo/p/gbPTQQA41",
-                "mac": "ISOp0ncXE/kwKQP3zcjvZA==",
-                "ciphernote": "gY/6kNmH4sGFuD9WVUm+CMV/3i6dOmdX/c17QeNPgMI="
+                "orig": "Just a simple trader looking for a particular \\c[3]Drill\\c[0]...",
+                "text": "Suis juste un simple marchand qui cherche une \\c[3]Foreuse\\c[0] particulière...",
+                "note": "item 90 or in the same family"
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/0/event/trade/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/2/message": {
-                "ciphertext": "WPOU8cJrBX3fzieXG1R0TUcSH7+CHUvntoK1Mkgcivrm8DBirb/WaOKHZqxj6VZW",
-                "mac": "Bg/gJnz2F0aVy9o6f4/U4w=="
+                "orig": "Well look at you, young one.",
+                "text": "Eh bien, regardez-vous un peu, jeune femme."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/3/message": {
-                "ciphertext": "mQwuKqB/upiVvIbMAzGFkzw3Mrx0NXqBTDS6Ld7GpQKFJ7ejC+LU8HCWk6rSYb9oQSkCaZ9FeqbWwlvH2cwZ8l2NF8eVoHb3oMPgMue3JLw=",
-                "mac": "RP8X4QK17kFDZLJMPflqgw=="
+                "orig": "Found yourself something rare with that \\c[3]\\v[item.90.name]\\c[0].",
+                "text": "Avez trouvé quelque chose de rare avec cette \\c[3]\\v[item.90.name]\\c[0]."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/4/message": {
-                "ciphertext": "daPRW/3LaLJqELPeZyoOomncdfl+9pwMGOrkVKXwVtgss5xROGhMYm0UohCvbRru9VyjJwVc1YhRRl6iWtXKNQ==",
-                "mac": "g8/D9l61jW8jwsjGoCKZOg=="
+                "orig": "Could upgrade it for you if you want... ",
+                "text": "Pourrais vous l'améliorer, si vous le voulez..."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/5/message": {
-                "ciphertext": "5bae5uKx0QSO00LXyk+Xp+/yUcmWomEgVW9e59bwlkk0T2/5gUyg0SyQB0bzR1OM",
-                "mac": "Qj3KGZifXIRnl+DrJNEfcA=="
-        },
-        "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/canceled/1/message": {
-                "ciphertext": "Mp4DPqmWD8i4jYOB+eJC2g==",
-                "mac": "kH2xF+hyxdmNcde/58DIyA=="
-        },
-        "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/canceled/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Only need certain items for it.",
+                "text": "Besoin juste de quelques items pour ça."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/traded/1/message": {
-                "ciphertext": "z3DEQ5Po/uZ7ZXc7gVB7rljbfS+XoiLSz+eL78KU8VLrcaI3w6t9xCdWIaalnnjV3S/WO3C9ivLDMA7IHFx8VSo5iEHEF1ozNDZFE/jvdU8=",
-                "mac": "pQ/pOr0fGaOWcccYWOcXlQ=="
+                "orig": "Been a while since I held this in my hands. ",
+                "text": "Ça fait un bail depuis la dernière fois que j'ai tenu ceci dans mes mains."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/traded/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/traded/3/message": {
-                "ciphertext": "ho8fP0GX4Ctki2e4DbJkHBTkx6U2BmV/AoWZ+XhyFeN9SL/W77vWUC8j6Az0N27uxb4wvh5XIQfTv52PzNDmnf8sf5x0K37QCKzGtlFW+r4=",
-                "mac": "h1RxkBD54OshDmQ7GnM7Vw=="
+                "orig": "Time to go. Find a new place to stay.",
+                "text": "Il est temps de partir. De trouver un nouvel endroit où rester."
         },
         "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/traded/4/message": {
-                "ciphertext": "4UKSuh3NU0csAkuMCP+1QTchxqtymF9B3egOWqfXOJ8bOmoBsYiNL6r5YySmWvZm4vDpdNAbVQ4ouaMvblCysCLtXUAv6BDHiNOUsWC7j99a2i/vsLcj8cCY5U5G4w/tzkFeCZKbY9B2+/VgbF65TXyUZ/oUV+ysG9CbtPKOC+I=",
-                "mac": "YgtsgazjciASgNCjx3Z1MA=="
+                "orig": "Maybe we will meet again, can still sense a greater power in my drill.",
+                "text": "Peut-être que nous nous rencontrerons à nouveau. Je sens encore que ma foreuse possède encore plus de puissance."
+        },
+        "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/canceled/1/message": {
+                "orig": "Very well.",
+                "text": "Bien."
+        },
+        "maps/jungle-city/east.json/entities/215/settings/npcStates/1/event/trade/event/6/canceled/2/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/230/settings/npcStates/0/event/2/message": {
-                "ciphertext": "kx/GdItMPmXaaRk8XE21Onr8yWaS8i5KDzDYGRJbs7y6y2WzIIWD/9hV1ofHZGGnCeOQRusZgsOfk7y44tSHSYd38KQGvBU7An2wITTtexND1bBPJJ+kSEuf2vtQotKjwPCSqA45MXvaOJj88GE7JvM1eCVN+qCfiHUQMwWduc7ZDHl8NRZCnnVtC0FtmT50",
-                "mac": "seabdb20gbs9bk1B1RTDeg=="
+                "orig": "The \\c[3]Don\\c[0] might have let you in, but that doesn't mean I have to sell you anything, \\v[lore.title.seeker].",
+                "text": "Le \\c[3]Don\\c[0] vous a peut-être laissé entrer, mais ça ne veut pas dire que je dois vous vendre quoi que ce soit, \\v[lore.title.seeker]."
         },
         "maps/jungle-city/east.json/entities/230/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/457/settings/npcStates/0/event/2/message": {
-                "ciphertext": "fO6PpkydZEhHW4cmcJhHk5vJkvXCgi9SyilUmf+llHHAyD6plM5amBE50ggmlio7kl/MU2URrcrDos58hM+cyR1czdlsqSarMe5v+PfdQ3Q=",
-                "mac": "zTUyl87xBUYtPKkWVgi1EQ=="
+                "orig": "A seeker inside here? You sure must have some good connections.",
+                "text": "Un \\v[lore.title.seeker] ici ? Vous devez avoir de bonnes relations."
         },
         "maps/jungle-city/east.json/entities/457/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/572/settings/interact/hoverText": {
-                "ciphertext": "lWoOE7Pk6PRQmlmwE6sR6YxJ0bgsDXneNjZNipHZZpI=",
-                "mac": "uvyKvLiX8r3ayRLnBn6d8Q=="
+                "orig": "No Littering",
+                "text": "Dépôt d'Ordures Interdit"
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/0/event/2/message": {
-                "ciphertext": "ib+yNmb3IPMrXx8zqubxFdwdbmyiwTHPm6TtdDiJKtociRXSP88QBE3N3hRuMBp73/ZdUus5gvNONOyE2Bc2IFE9WlcHMS9sdwr3JfjY8TrZjhXgYP8GIhT4PNFMSbjWo+7/XrE23XUzv7fHEiq3UQ==",
-                "mac": "6NSBTEw1OnBT30F/OFft/A=="
+                "orig": "This is a private party \\c[3]Seeker\\c[0], you better run off\\..\\..\\.. fast.",
+                "text": "C'est une fête privée, \\c[3]\\v[lore.title.seeker]\\c[0] ! Vous feriez mieux de partir\\..\\..\\.. et vite."
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/0/event/4/message": {
-                "ciphertext": "/3WWKcYQnm92SYCGHPMn8RRVxxRphr7TPkfCM9+n221Mc1zkE99ExKSxr1N9s5Sb",
-                "mac": "LmmuVKR77ZZAZLn/U2Jpsg=="
+                "orig": "Unless you got yourself a pass of course.",
+                "text": "Sauf si naturellement vous avez un passe."
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/0/event/5/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "YVHo8OY490Efr27LOhWHmGMQIe/84H+NNt7UNgxfJLrjJaK9uCHR7kGR/BT4fZe7e8buRSgzivjpuQFNXyxJMw==",
-                "mac": "WPzYNkVOsACSY/WJfq/FsQ=="
+                "orig": "What's this? A pass? From the Boss himself?",
+                "text": "Qu'est-ce que c'est ? Un passe ? Du boss en personne ?"
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "HNXal0+w4o1XGWNYoBOppwOmHoucTgldM1h39H5tkvHDVEni5sXpRpGnHCWAejqdvj703fEOgfUMOvPeCkoq13MShNaAwE/a8HWOsNs6PZX89exB+gehM9AYd46SU7C3IwRUyvWT+5Rs9t0yOKTFZQ==",
-                "mac": "CdctRGtcNXFDOtl+3IxoTA=="
+                "orig": "I don't know what you did \\c[3]Seeker\\c[0], but rules are rules.",
+                "text": "Je ne sais pas ce que vous avez fait, \\c[3]\\v[lore.title.seeker]\\c[0], mais les règles sont les règles."
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/2/event/2/message": {
-                "ciphertext": "p9dWpmvhYLkXFkYxVXl10J6Bqfsq8GC5m3Fv10dk8PQH4+rAXV4KLXge0g39DCQW",
-                "mac": "9bxCQbBttK/9wZpEnXE0MQ=="
+                "orig": "Enjoy your stay, \\c[3]Seeker\\c[0].",
+                "text": "Bon séjour, \\c[3]\\v[lore.title.seeker]\\c[0]."
         },
         "maps/jungle-city/east.json/entities/590/settings/npcStates/2/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/0/event/2/message": {
-                "ciphertext": "uLBl0xJx3FhekvU8FLLhdGG1t1s9QYLC3My2n/QLXiFMfKa9iEvfE7naiZ9A2jE4qhRkbftTVts2yFug9fSK0MvlsqYWgcXh8E3gZIu4NXrEqTdeakDzryb7VYk7MEgV",
-                "mac": "VvM2363WWzb6K0AebFbI0A=="
+                "orig": "Sorry \\c[3]Seeker\\c[0], the market is closed off for your kinda folks.",
+                "text": "Désolé, \\c[3]\\v[lore.title.seeker]\\c[0], le marché est fermé pour des gens comme vous."
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/0/event/4/message": {
-                "ciphertext": "k47gUeHZZMyZ01/iqY6byDD0dVYDy4jXoTMoy8wnbXqfIfqR3bHLlD4OvwZNGxt7",
-                "mac": "9UM9L6PjywCaMauNlZeX9Q=="
+                "orig": "Unless you got yourself a pass, of course.",
+                "text": "Sauf si vous avez un passe, bien entendu."
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/0/event/5/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "x/IhhmW6/vHbbtN5sI3SaSrHZmEuO4n1GZHJCy6RA+CswB/IJT63erMzXHHwJtCeoab32EvR0ZhdfJpZhXGL8LqHRrsAoRdNx+Ib5mx2z6Y=",
-                "mac": "Ko3Ge5Yo2FqHKnUUAd+WYA=="
+                "orig": "Now look at that. You got yourself a Pass. From the man himself.",
+                "text": "Oh regardez un peu ça. Vous avez obtenu un Passe. Du chef en personne."
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "OW2of9MciTbV1gcqQyeCBYbgjUXDiZc+9aDi+XmlZ/N+xxk9aJwIbhlWXuBRYMfA9geSnkJHznhkV4PzrTfF0A==",
-                "mac": "g/6+ofglCSSwLT9HQPpzoQ=="
+                "orig": "Make sure to leave lots of cash, alright?",
+                "text": "Faites en sorte de laisser plein de cash, capiert ?"
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/2/event/2/message": {
-                "ciphertext": "yFz/XpEC3FXWUWiIkV24brjF4eK5RygVi8xks9oaFKdzVnIr6IxbaOHkski1xuqxUN3PYKB4YXQ9lxgBjm+uHluzwLgKLGXczOioMTSRNKk=",
-                "mac": "j7ltzs3v3lCBCK/hhjkwag=="
+                "orig": "Have fun, \\c[3]Seeker\\c[0], and don't lose the pass.",
+                "text": "Amusez-vous bien, \\c[3]\\v[lore.title.seeker]\\c[0], et ne paumez pas le Passe."
         },
         "maps/jungle-city/east.json/entities/593/settings/npcStates/2/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/621/settings/analyzable/text": {
-                "ciphertext": "QTHdnU9Tooj+ArmrRsoyXw==",
-                "mac": "wl0tPudtzeruqsw39V4i7g=="
+                "orig": "Yattamaster",
+                "text": "Yattamaster"
         },
         "maps/jungle-city/east.json/entities/621/settings/npcStates/0/event/2/message": {
-                "ciphertext": "R2li2mwoQYLxqjlaljexdyZNAvA1GUYqCr0qlvMbexk=",
-                "mac": "T2Jo1J6F4wVz/EdpqXxBpQ=="
+                "orig": "The rain will cleanse your soul.",
+                "text": "La pluie va laver votre âme."
         },
         "maps/jungle-city/east.json/entities/621/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/624/settings/dialog/0/text": {
-                "ciphertext": "Puz88bf41SqDsRW8n5ie58tX2V7wB3QJqEva+0uBAvUl70mvJLRqvDAOddlqqkLsT0n3OxocWBF0nR0lR2oRAw==",
-                "mac": "X8jh+LpOkTbV/Ah1BElaMw=="
+                "orig": "What's up with this part of town?",
+                "text": "C'est quoi le truc avec cette partie de la ville ?"
         },
         "maps/jungle-city/east.json/entities/624/settings/dialog/1/text": {
-                "ciphertext": "L8oBnOZovySaBD7jgKRpfPNVax378m1XFHb6avyyYzs=",
-                "mac": "0jqvy6m1a9b7WVh+eqGVKw=="
+                "orig": "It's all dirty 'n' stuff.",
+                "text": "Elle est toute sale et tout."
         },
         "maps/jungle-city/east.json/entities/624/settings/dialog/2/text": {
-                "ciphertext": "DBXvobiwciLfxjWoD90qJp2har8Douhgjsi7S/nGmW6mjRHUxGGxJZ+STy/OzJ+mzWMKNb02pZGiLX7VYGgauLUGeJzSyn22pmecH8NvMBB1Uvoc7QrZIvBuEXA8EQVzbpnMnSXnbRxcNIIPhdApjNIw5GHGdScOGvx2eVuodrs=",
-                "mac": "/1071zAS+uHdQ2r3k0CNmA=="
+                "orig": "Well, apparently this used to be the workers' quarters back when the power plant was built.",
+                "text": "Bon, apparemment c'était autrefois le quartier des travailleurs lorsque la centrale électrique a été construite."
         },
         "maps/jungle-city/east.json/entities/624/settings/dialog/3/text": {
-                "ciphertext": "zIaTr71+ULdGvDX0bgl1nagTNmBOEs1wvCinTbz0pNrSu5iRODRLNhJrFSpAZ3ggZYKzyPENWS9S1IsKyWhJVI4gmku3vAPrcx7kMCLoWUOWicaChmvUTGabLhGOoO/t",
-                "mac": "s00oauOozJ3/MJ1bRzzrZA=="
+                "orig": "But it became a slum after most of the traders and the general businesses moved in.",
+                "text": "Mais c'est devenu la zone, après que les marchands et les entreprises se sont installées."
         },
         "maps/jungle-city/east.json/entities/624/settings/dialog/4/text": {
-                "ciphertext": "FcRkQV1hJAk4YmItsssuDdRZpKpAfLnia/WY5j0gDRzjRIi5WhJboZGL3vwr6lFqqPxSUEUD7yWiQ9Zg2NWLlQ==",
-                "mac": "FCJLoAtv219afXYEDm0ymg=="
+                "orig": "Wow, alright. Kinda makes you sad, don't ya think?",
+                "text": "Wow, OK. Ça rend un peu triste tout ça, tu trouves pas ?"
         },
         "maps/jungle-city/east.json/entities/629/settings/dialog/0/text": {
-                "ciphertext": "9wy4/kTPxh58bUME9Qk5Yn5dYs0g7MrjPo/vgU1kVobporEbTbRYfEqvySPfyiEt5RXfLHf5/b8d7EKsPB+WCom3ldG5//LUgMV/pOV4/88=",
-                "mac": "9reCDXQ95up6me0fyzLavw=="
+                "orig": "Don't you think it's strange that we don't take damage from the rain?",
+                "text": "Tu ne trouves pas cela étrange que l'on prenne pas de dégâts de la pluie ?"
         },
         "maps/jungle-city/east.json/entities/629/settings/dialog/1/text": {
-                "ciphertext": "SA0nozQjAxpsUrbWmT06eU2KauE/45tibLz6cygsObfL5VL8A8mSKTQXtRaqQL8OHz/AG+6ReFC+bjqfxy4iBA==",
-                "mac": "etzB8prH0XRBoFWxW1roEA=="
+                "orig": "I think it's strange that you're sitting on the wet floor.",
+                "text": "Je trouve ça étrange que tu t'assoies sur le sol mouillé."
         },
         "maps/jungle-city/east.json/entities/629/settings/dialog/2/text": {
-                "ciphertext": "9y/wCB1CZMhKGfWHm8om517QQHiH8QCaU8Nk1MV2paRjrJFJkDf0cPaSoa9e4DLQkfzXR37mhjUL62HWg/eJNfIr3uMtN8TIXECOWMNN4B+7CphMC7H4mT8jbrhB+pah",
-                "mac": "PC080rojRmGWgqaavPyAwA=="
+                "orig": "But yes, it is weird. It's pouring down and I feel the rain, but no damage.",
+                "text": "Mais oui, c'est étrange. Il pleut des cordes et je sens la pluie, mais pas de dégâts."
         },
         "maps/jungle-city/east.json/entities/629/settings/dialog/3/text": {
-                "ciphertext": "XiedY81GkDZ82Hj0Q3ecQliz9ZTBaLDqPniU9beH8th9Dr7uOpm0/W7RuR6GCPVdLRoV+LMes1pyfuSRQg4nF5vXcfDBYJ1KrN4EFIgO6ZV/xW7GIXD4QSudzjqMXIoM",
-                "mac": "utqkqyVfvkcJTLYE3ecA8A==",
-                "ciphernote": "lwSX0xt58TPSQSVoaK7ZMUyYaWF3PxCZ1nBybLC8vNY="
+                "orig": "I guess it's some kind of game development magic again.",
+                "text": "J'imagine qu'il y a encore de la magie de développeur de jeu derrière tout ça.",
+                "note": "wrong but better"
         },
         "maps/jungle-city/east.json/entities/629/settings/dialog/4/text": {
-                "ciphertext": "ajvET0TLpc1uc4pJ6w9l8If0a+62JjwY8lzzU8+1cp0=",
-                "mac": "GduyiM6nXRxY+tRoTvaK9w=="
+                "orig": "Mh... maybe, yeah.",
+                "text": "Mmm... peut-être, oui."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "1bvhiCwJUs4IMHKrW3I1jVKJVNfT6hj1wy0mIXD8YQK3lQcIzLW6n7TH+0BFbs8Cajb1UWGj4gseSdlXQ25WYehKq8NTaB1WH7uFub4vhfei23xvXi4nlWCOP6B9J09BeMFzwc4pD7Gbsb/WybyczJIhg666KdDWWw2ptI8W5V8=",
-                "mac": "lkk/PXqqLqV7O7nPzkuTqQ=="
+                "orig": "A Seeker? Should I ask her? Guess she's as good as anyone, really.",
+                "text": "Un \\v[lore.title.seeker] ? Est-ce qu'il faut que je lui demande ? J'imagine qu'elle est probablement comme les autres."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "y1ci7pr1zGCtSAzKSLZznYatVs0z2lMbCAyIM0Yp9Zg=",
-                "mac": "3mw9waOGg8LiCDa9sOcPzQ=="
+                "orig": "Well, here we go.",
+                "text": "Peu importe, c'est parti."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "HRLcMOZNTuNfYZD71N2Dn7PdpDZujCfY4MqpZq8nbZZO5wbJAVeyolBO4qOQGI85iZb8+tzYarjR8+GUGosZ9g==",
-                "mac": "n79bouv0kZs/aJYglp7qMw=="
+                "orig": "Hey, ya looking to make some quick cash?",
+                "text": "Hé, est-ce que tu veux te faire de l'argent facile ?"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "+S6RBzfw8tLXcnRRdAGKgSHeXDdlzwJExBtfHjWwNfCljE4Lh6IpGmUGg5l6G4pIKeBfjNfay5bpL6/u/uUKx4v8CW09ufmFwYfp7F0xksPfvhwgVqNxPpXGTjTOQ+rj",
-                "mac": "NXhxoXzMGm5elL6tYsAfbw=="
+                "orig": "My Dad wants me to collect some goods for him from the infested jungle region.",
+                "text": "Mon Papa veut que je collecte quelques biens pour lui de la région infestée de la jungle."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "+LKak1HQ2VTaYSosYcYJrxcsugupgcWynLIN2isWbjxXBzN4L+2bNXKA2+Zk1ex/DtH0ty3GE13885NVRrpKxb0ju3qoSPycjKHZaOWUrFUoQYOwQxLh95oEnb3IhVgg0fUK+z5+F/5W+JLANUpxvsoQQC2i4B/qGa/T48f+4AY=",
-                "mac": "FA49oGn4YnhRwelyGCd5yA=="
+                "orig": "But I ain't no fighter or collector. Dunno why he thinks this is a good \"entry trial\" too.",
+                "text": "Mais j'suis pas un combattant ou un récolteur. J'sais pas pourquoi il pense que c'est un bon \"test d'entrée\" pour moi."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "paJ/EKwD5sjYw7+l1hWrUCV9AKLmEkvlkEVATyh+QO25rQiuKkvDWiNMfs69VQjD7uFQyKa6ZqoTynd8cMRRnA==",
-                "mac": "GwhoOoYsbiyk6qSubsUjyA=="
+                "orig": "So, ya in or out? Ain't got all day.",
+                "text": "Donc, t'es avec moi ou pas ? J'ai pas toute la journée."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/accepted/0/message": {
-                "ciphertext": "mvqDe1eXTqBKMpXfeC0gKlhv5r1oE/elqUSnwXTrR/w=",
-                "mac": "lxxpVNGKqeaGc/OYba+H4Q=="
+                "orig": "Good, then let's get down to business. ",
+                "text": "Bien, alors parlons boulot."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/accepted/1/message": {
-                "ciphertext": "KXNxoWLiI41J3yMUt6/Eozo6CN5Pm7Fghh6b4lESLvJ5b9r+TxYvWQqvTWIJCA6mTmZzKGZumvuHlh4tOXar+KfxLdtWVIG0gM6FWTgfqDjTwvhtB8XZe0SK74E5/W3EPF/W3yIKT3Jp9YOcUdeqjw==",
-                "mac": "7KEJdB8R6VlfVfcFA+5qQA=="
+                "orig": "I need ya to get me 10 \\c[3]Venom Shrooms\\c[0] and 5 \\c[3]Glowing Spheres\\c[0], gotcha?",
+                "text": "J'ai besoin que tu me rapportes 10 \\c[3]Champis Venimeux\\c[0] et 5 \\c[3]Sphères Brillantes\\c[0], capiche ?"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/accepted/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/accepted/3/message": {
-                "ciphertext": "y8mFNaLj7IivQywjmYFzuTjT7ZTNKLJnAuWuqnHYN8Yb6FBft/sgs0NpurOiPpUXRb+ju/Y1euktkm9alnV0ICh96i0ss72N0hpKP76/LJY=",
-                "mac": "3BEyATqqC0QmriQS0E5NyA=="
+                "orig": "Good, good. Come back when ya got them. And make it quick, ya hear?",
+                "text": "Bien, bien. Reviens me voir quand tu les auras. Et fait ça vite, OK ?"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/accepted/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/accepted/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/declined/0/message": {
-                "ciphertext": "09YrLSqZswXV/D/J7NXAooH9FZplKW45axIArps9dnPJvAoqb94rJzX6Cx5U+Uwr32lZDoTyaBMRcIfyUW1eKSwcdOIosY0Cq9LBHR0PlxipVJ8t3pdVLINUKde2ePGx",
-                "mac": "/jEvUr4WvQjb1GzTRyw+wA=="
+                "orig": "Buzz off then, I'll find someone to do the work for me.",
+                "text": "Casse-toi alors. Je trouverais quelqu'un d'autre pour faire le travail pour moi."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/1/event/quest/9/declined/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/2/event/2/message": {
-                "ciphertext": "RQxhtb6EHsKtxQrAMahLgU5ZKNFKYtr4WRnUfzzTlSYJdgFo8k+0Siwpugk2v0OcMw0/gJJH4FibrC9Qe7WD5JykiWC1X4+DyAI4VL4ox2LP+TxRdAE+G2c4BsHUJe2y",
-                "mac": "PjoreI9VntUgQjojNdC2bw=="
+                "orig": "Still here? Doesn't look like ya got my goods. Go on then, make it quick.",
+                "text": "Toujours là ? On dirait pas que t'as trouvé mes bousins. Donc pars, grouille-toi !"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/2/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/2/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "VnjagBdG4fgRUHlEN1Ot2RimfkAvfbIbnHioR4D+2vzvHxtFNK0yVj4NM+StrB+f",
-                "mac": "XugWMRW2gHbVAy6pNOb3rg=="
+                "orig": "Oh it's you. Ya finally got my goods?",
+                "text": "Oh, c'est toi. T'as mes bousins ?"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "rtcXzkaKJn2rZOqXldEX6mppPr1QV/7dAuI9aEyNOzLomVGFv6q5jrGuU9lVf41K",
-                "mac": "8ouL1rXnjx3YrQc7b5PT4A=="
+                "orig": "Well, about time I might say, woman.",
+                "text": "Bien, il était temps, mademoiselle."
         },
         "maps/jungle-city/east.json/entities/632/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "GUq3JSn2bY4ICS8FiRLDYBmbuK8H+rP5nljNmJ77cRiI6Eyhj/xqWFP9a0s8BFOUp9lW4kQqNQBQBpRA5++doq2vQBP2EwZ2OI9AVhq8uAjz9pN+XeJF4kykceX1l45Z",
-                "mac": "Q2OftqXEo4c6hwY35tJ3kg=="
+                "orig": "Alright, that's all I need. Here's your cash. Nice knowing ya, I guess.",
+                "text": "Bon, c'est tout ce que j'ai besoin. Voilà ton cash. Ravi de vous avoir connu, j'imagine."
         },
         "maps/jungle-city/east.json/entities/633/settings/dialog/0/text": {
-                "ciphertext": "2W6U6bUmGunbCaOiMjgHhARDZ+JcMUMPROHgQemYZRvqsUYUB/7QGosn1g4tbfXmAAumPNDcPD6Uj//Izs2o/vMu3AcH6Pai1aWZOpWF/UM=",
-                "mac": "/kU+aXbfby/V42lov8OktQ=="
+                "orig": "Can't do this for dad. Ain't no fighting in me...",
+                "text": "Je ne peux pas faire ça pour papa. Je ne suis pas un bagarreur..."
         },
         "maps/jungle-city/east.json/entities/643/settings/analyzable/text": {
-                "ciphertext": "+thli4V/QYivVYUW+zTZ8A==",
-                "mac": "jlgMCsCrkTd48OLnTXJUXQ=="
-        },
-        "maps/jungle-city/east.json/entities/645/settings/interact/event/0/text": {
-                "ciphertext": "7Y+ILnHdBV1ZNxSRiUdZtYt5xQ3LO+6FxJFC+eCqiCxnLJmdj6m7g17qK1wb8C96/3zONCwdeXgp1SbKEe9LVw==",
-                "mac": "0fLCenrridwpBwIc99MfjA=="
+                "orig": "Rikh'tshard",
+                "text": "Rikh'tshard"
         },
         "maps/jungle-city/east.json/entities/645/settings/interact/event/0/titleText": {
-                "ciphertext": "rtCMq92eZe3kYFkFaHnjpdjCOv+3Nq3NNsp22RoVqbI=",
-                "mac": "z3UIQusRA1cNlMhBolUS2Q=="
+                "orig": "Old man's Book",
+                "text": "Livre du Vieil Homme"
+        },
+        "maps/jungle-city/east.json/entities/645/settings/interact/event/0/text": {
+                "orig": "\"Note to myself - Visit \\c[3]Sapphire Ridge\\c[0]\"",
+                "text": "\"Note à moi-même - Visiter la \\c[3]\\v[area.forest.name]\\c[0]\""
         },
         "maps/jungle-city/east.json/entities/645/settings/interact/event/1/accepted/0/object": {
-                "ciphertext": "aOfDtVAd9wfHnldyv73XzyZ2L2h4NqFezoHdaPXYTWA=",
-                "mac": "BSzl+DtaEbV8hVAy6niUyA=="
+                "orig": "\\v[item.378.name]",
+                "text": "\\v[item.378.name]"
         },
         "maps/jungle-city/east.json/entities/682/settings/analyzable/text": {
-                "ciphertext": "qRgfHMG/GTM94dSAUx86Uw==",
-                "mac": "jtYkMLazZsytfN/LkHI/MA=="
+                "orig": "Sonya Bolt",
+                "text": "Sonya Foudre"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/0/name": {
-                "ciphertext": "qRgfHMG/GTM94dSAUx86Uw==",
-                "mac": "jtYkMLazZsytfN/LkHI/MA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "iA5uARktQthKyNCLXWQxhS9MLAqkvJOXoBNvb91Na7v7HZo0qIG6cEC3/UC4xzeKfEbxuZvxHAske+TYPQn07rGPE/TPd0o6AdKNi2neeYGLSxQbsJTbNmApbt0beovfx/PqsSlGEOHCJVIuhwWaTA==",
-                "mac": "hXIcOzNiG35o+xFzuZoXXQ=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/13/message": {
-                "ciphertext": "ot5aDEf5xFdYhMwcv2kNyAOkwvaTDfWFhuDCM99Tx4GjhxxFfR6iJXEjn4cIrbJ4TKOG1C2mkYk1CnRmEDFQ7stCWqFv9W2KUVQBH2TJq38ztpJwK3Rx5et8rmtr/UGfUNX65B6E1EMB1E0MMe3Zulwn6D7sob2oldD2dcin05c=",
-                "mac": "gM0d/G7d+TWsW82G59Q9ZA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/1/message": {
-                "ciphertext": "jjAjlgLViYyC2SqlqjCfrxeq39M6U4mrwo14/3Y7s7GMGAJTw9IuIVrO8FeuyLT7dVkkidsZVYRgFBG/h+PMwl9EY13KOxszy5mlxxej1cX39ALUo9zpCCRw1e88u5qd",
-                "mac": "owBa4Lh7PtIF2E8GkxQv8A=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/10/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/11/message": {
-                "ciphertext": "ZiCMgsC9RmiCTrrKUDSzPhl0VfBy44liCfJErP/bzgqSBNgTzWbDRUt4YzrnjQEmVKkiFXGffOyC5zNLLCc9xg==",
-                "mac": "z7je5utZlcvXuEBhxChing=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/13/message": {
-                "ciphertext": "5M3tMhC0/tcMVhgj6Mqx3f7pWBBXnNgByRIcnWOpX48WQoWVH22IgEub7u6acIv88KYMvG9M3YA3fAvKlAxX5PNb2E0hx/QFmj+gZc6lrfdOc4JFevQVesdk/oWMbGckJ33QNXa2fX0BxF7Xf8iRwQ==",
-                "mac": "FmxBNJn/hPxF7NzGQuIADA==",
-                "quality": "unknown",
-                "ciphernote": "h95bSW1KF69HC0+fWUTkwbTa6qqgzFUsTm9d8iVuUqc="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/14/message": {
-                "ciphertext": "VZBezhyjke7TkOmU4ksZTMRSv8vsTKr32yco9zqz9qRaSmGGSoy0BdM/vLN+zN/lwUNOgWhXmxY4+oADC6uzFiwLw2YPsONuTEhVLknrTRTIG1KCQwrqXvztM+I/+yiRuFwDVWgy6vkISJyAWbIKjgRc7je40Nl3afYtbLeBkJcos9WdSpVIYOiyfoD6f+qj",
-                "mac": "+n8amWBVNQCZ3ZgMLtCDJg=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/15/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/2/message": {
-                "ciphertext": "KcvS7dbd/A2/6fKa0zNMJg==",
-                "mac": "SqpckfkUg0L1Z+hS0YfASA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/3/message": {
-                "ciphertext": "DlwGV/pO4sgHDR1xxCHkRfxQFBYe0QVq6Yqu50AhO66I4SJMXARMPgdtGKBh0TsE0po013xMdZRQhLM97PhXgsKC2X3+Oto7MSYi0pv02/ARioGLjKMUb9B4pVmlbyVQJMsMa7SWu/3nbhlFOwXUKfdy6GSUdisGA4D1hViFB+ry0XNZebTPtJeGdz4o233a",
-                "mac": "LZ9xzl20p4swz0WBq6bsXg=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/4/message": {
-                "ciphertext": "mV+njwfTpNLt6sHQelHWUhmrgSLgjeXmQydd92RCpSpKiYZbJ8gxHeHo7v3D26U3PWCTD0LSPuaGFC3p2ZkeKoU2/oE4a4+Rp4w5IWL4nh6yB5oB5Ey+jwZAc0p+KoNSD5ARegW6d+R1FP8ggxaGD48HHGYVTv38KdnfBWpvqol94csUn/z2LoAZD0IG12/T",
-                "mac": "A+aDe2/5S64YUaVheF8Uig=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/5/message": {
-                "ciphertext": "LjKDR4SnJLIJ8AX0+ZYU3A==",
-                "mac": "DRDPEUWtMgt1N10HBcazaA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/6/message": {
-                "ciphertext": "mltToMR65cs7jjOfGNQxoHdK1prQIV8GzPNIw5JgNOsia7egc0q++coNomYfnlClxIOBsCtO12VZx8Xnz/pxYWF/t9tGU9LcSHotnSJg2sboQaReyzA3/1KqkhrGnQXE",
-                "mac": "MLgwpVyaT7HW15hYeGHAQw=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/7/message": {
-                "ciphertext": "NXRBgyjuf5Xdx6Oc4FRyEl3iuuZz8sz+IZeGV+ntZ9iqkyX3lazekckaK8NLhkPZjGym0t8jxfJwWIpT7f0AK92lEod4l7+M1XzRXg/1i78dTxtYS/5pxL3tSp7eU7qz",
-                "mac": "8EY9evjozYpCX79x3a4mKA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/9/message": {
-                "ciphertext": "NYcT60c5Eyb2V7h2bui5dHzVa1Q7UEBWp02KX8nzwfuDu2bIadOH/UUJj4fGVPfFJ075GdVLnJerIlHUWkVTTL0cLzu0+1YMXZ3hQ+T7zmLZpN0oUPGxs/CObTdIGn2Q",
-                "mac": "OnY5tTsTaze0DbExYYrnow=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/1/message": {
-                "ciphertext": "47I89Y2r0ICS97g77YUoVgzquhgWjeWx8j4yb1lz/nMVbL6bAYk/tvUQ8NWDXpYqiuv8kuDHd1G1hUgCbbLnpLTBKngpl1rY65vXPrqgtTn5nZUu8nF97AjhP02sE0fB",
-                "mac": "5aeFCOBHPypDgtdp2ph3+A=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/2/message": {
-                "ciphertext": "9Jl1I00iFO/bBrdVIKP3hQ==",
-                "mac": "9QMrUX3FC1n00LfuJY1dPA=="
+                "orig": "Sonya Bolt",
+                "text": "Sonya Foudre"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "f3WjVXy28fy5Ar1f8Zt2Tw==",
-                "mac": "8esVpMpKf8mTZZbtK8JbBg=="
+                "orig": "Hi.",
+                "text": "Salut."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "7BZu2i0OgE6hVpXzkXHSL+ZK6UGPdcOFMmymThYBr6V7Eo2paAdG/OiuHcpzJIJmUDAQrpF1Zr7UtzJNSnGTQxMDS7mOBal2I+PYxD3c9Jb5MUqCa/ilZKS6CIbKgJ5e",
-                "mac": "Lrg6PLQ0Sph91cqYo60tdQ=="
+                "orig": "A \\v[lore.title.seeker], huh!\\. I see, an agent of the \\v[lore.title.human-government].",
+                "text": "Un \\v[lore.title.seeker], hmm ?\\. Je vois, un agent des \\v[lore.title.human-government]."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "X4FoeZPBI6ub0SXIkNYi/Q==",
-                "mac": "xKd0yfBXiCCSO0RsQRa0pg=="
+                "orig": "Hi...?",
+                "text": "Salut... ?"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "j6C1FsRLCM6ekwoCe6B1xmVDj+Mjg4PQKM9W022Ypk6n2ounhIqf3IJ+FKXZwITpu6603KR1rvI085E1hzagXBFrfixL33SbA973kxGt5xCCQdLkx+9zKaxb94EkLK+PWROG4NniEQm70/LMzF6VREHdHWry8++SrgIR6yTFM5w=",
-                "mac": "jkY/PAUTlSNJ+Qdr3tRSTw=="
+                "orig": "Yes, the \\v[lore.title.human-government], supreme government of all of humanity on \\v[lore.title.planet].",
+                "text": "Oui, les \\v[lore.title.human-government], le suprême gouvernement de toute l'humanité sur \\v[lore.title.planet]."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "i3ih/zAgP0upP0Bx4NKr7xCeO/WT91gF2O5p9BOWOWUZfEzEo9qO+7g8b+0RAUASn2OoyMu2FS54wSV8bX4K0hY25kr0D2jmpK2g4Uajumy0OXWhuHtVgxAEHyd8sUCbHy6US9AOglgBpiR7Ss6Wx2kXpvUGGQjY4JRTNNeCdOpKUQQ+Ww2yxsH4e2d13JTk",
-                "mac": "1vJP8o6yn0cpE7Rrj4PgTQ=="
+                "orig": "The driving force behind exploration of the \\v[lore.title.track-of-ancients] and protector of prosperity.\\. Among other things.",
+                "text": "La force de frappe derrière l'exploration du \\v[lore.title.track-of-ancients] et protecteur de la prospérité.\\. Entre autres."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "3UP0HK7RaEpc+/wNGHNK0g==",
-                "mac": "dKxOzbUhGpmucMfw3EzdOQ=="
+                "orig": "Why...?",
+                "text": "Pourquoi... ?"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "IDCfSPYCXVTT6eNw8hRzacgGIoKA8F3ipcvmEmRZUzC3msjAJNK511O17BAHD5HUs1Vm78B9P673KDpZDUXtft0mGOtXiQ6gpEemXpYV4l9A87fxWDHqyNe910IBwEMpIEhEX4vZgXO/xHN5nFOfPLTl+5cEJPg1facloHZWeJByZe14VH6DGvpKDqlxFWgn",
-                "mac": "hdLHo0jX4KTstcMMeIr5yA=="
+                "orig": "Prosperity requires progress and security.\\. Power is the key to both.\\. And power is gained through tools.",
+                "text": "La prospérité nécessite le progrès et la sécurité.\\. Le pouvoir est la clef des deux.\\. Et le pouvoir s'obtient à travers des outils."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/10/message": {
+                "orig": "Tools powered by the Track.\\. Tools like you, \\v[lore.title.seeker].\\. And weapons.",
+                "text": "Des outils alimentés par le Tracé.\\. Des outils comme vous, \\v[lore.title.seeker].\\. Et des armes."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/12/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/13/message": {
+                "orig": "Seems like there is a solid mind of its own there.\\. Want to help me reveal more of the truth?",
+                "text": "On dirait qu'en vous sommeille un esprit solide, \\v[lore.title.seeker].\\. Voulez-vous m'aider à révéler la vérité ?"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/1/message": {
+                "orig": "Yes, good.\\. Motivation worthy of the true \\v[lore.title.seeker] spirit.",
+                "text": "Bien.\\. Je vois que ta motivation est digne du véritable esprit de \\v[lore.title.seeker]."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/2/message": {
+                "orig": "Lea?",
+                "text": "Lea ?"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/3/message": {
+                "orig": "The \\v[lore.title.seeker]s mission to beat the \\v[lore.title.track-of-ancients] for the advancement of shad- and humankind.",
+                "text": "La mission des \\v[lore.title.seeker]s est de battre le \\v[lore.title.track-of-ancients] pour l'avancement des shads et de l'humanité."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/4/message": {
+                "orig": "Many have been made puppets of individual interests.\\. Corporations, the government, their own personal motives...",
+                "text": "Plusieurs sont devenus des marionnettes d'intérêt individuels.\\. Les entreprises, le gouvernement, leurs propres motivations personnelles..."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/5/message": {
+                "orig": "... why?",
+                "text": "... pourquoi ?"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/6/message": {
+                "orig": "Greed, \\v[lore.title.track-of-ancients].\\. Thirst for power and control.",
+                "text": "L'avarice, le \\v[lore.title.track-of-ancients].\\. La soif du pouvoir et du contrôle."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/7/message": {
+                "orig": "And the population turns a blind eye, as long as peace in their little worlds is maintained.",
+                "text": "Et la population ferme les yeux, tant que la paix dans leur petit monde est maintenue."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/8/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/9/message": {
+                "orig": "We can make a difference here, \\v[lore.title.seeker].\\. Bring the results of those actions to light.",
+                "text": "Nous pouvons changer cela, \\v[lore.title.seeker].\\. De mettre au grand jour ces actions."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/10/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/11/message": {
+                "orig": "Let's not waste too many words.\\. Time is already short.",
+                "text": "Ne perdons pas trop de mots.\\. Le temps est déjà compté."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/13/message": {
+                "orig": "Go to \\c[3]Clinging River in \\v[area.jungle.name]\\c[0] and search of suspect lifeforms.",
+                "text": "Allez au \\c[3]Fleuve Collant dans le \\v[area.jungle.name]\\c[0] et cherchez des formes de vies suspectes.",
+                "quality": "unknown",
+                "note": "Fleuve Collant marked unknown"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/14/message": {
+                "orig": "I will keep contact with the \\v[lore.title.direct-link] and give you further instructions.\\. Good luck, \\v[lore.title.seeker].",
+                "text": "Je vais garder le contact via \\v[lore.title.direct-link] et vous donner plus d'instructions.\\. Bonne chance, \\v[lore.title.seeker]."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/15/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/1/message": {
+                "orig": "Maybe I was wrong.\\. If you prefer to be blind, be be blind.",
+                "text": "Peut-être que j'ai eu tort.\\. Si vous préférez être aveugle, alors restez aveugle."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/2/message": {
+                "orig": "...bye?",
+                "text": "... bye ?"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/1/event/0/name": {
-                "ciphertext": "qRgfHMG/GTM94dSAUx86Uw==",
-                "mac": "jtYkMLazZsytfN/LkHI/MA=="
+                "orig": "Sonya Bolt",
+                "text": "Sonya Foudre"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/1/event/2/message": {
-                "ciphertext": "5M3tMhC0/tcMVhgj6Mqx3f7pWBBXnNgByRIcnWOpX48WQoWVH22IgEub7u6acIv88KYMvG9M3YA3fAvKlAxX5PNb2E0hx/QFmj+gZc6lrfdOc4JFevQVesdk/oWMbGckJ33QNXa2fX0BxF7Xf8iRwQ==",
-                "mac": "FmxBNJn/hPxF7NzGQuIADA==",
+                "orig": "Go to \\c[3]Clinging River in \\v[area.jungle.name]\\c[0] and search of suspect lifeforms.",
+                "text": "Allez au \\c[3]Fleuve Collant dans le \\v[area.jungle.name]\\c[0] et cherchez des formes de vies suspectes.",
                 "quality": "unknown",
-                "ciphernote": "h95bSW1KF69HC0+fWUTkwbTa6qqgzFUsTm9d8iVuUqc="
+                "note": "Fleuve Collant marked unknown"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/1/event/3/message": {
-                "ciphertext": "CgsbaZ6eD5Zi+xl1QTy+rVm01+subz6fgueB0UrZoOHXSwyA77b7YtEKW3WNF1IzZWhEtTAHeaZxvFGQ+Pte3eZu7XE8xKxcwYZ/REnQre/BLsf9B373ZY2ov3qU4MO6",
-                "mac": "xyY06Bjdhl0Qg6yuk6Kpcw=="
+                "orig": "I will keep contact with the \\v[lore.title.direct-link] and give you further instructions.",
+                "text": "Je vais garder le contact via \\v[lore.title.direct-link] et vous donner plus d'instructions."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/0/name": {
-                "ciphertext": "qRgfHMG/GTM94dSAUx86Uw==",
-                "mac": "jtYkMLazZsytfN/LkHI/MA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/10/message": {
-                "ciphertext": "g9cAycyohU39SXay+nYCyARxt2sEWg0MBqL8VC8/W0G2ROiwZJjVUAD/3boKpImaE84+dZyfqvch8mB/PPfOAEXxawNf2OZDUz94QUFr57SBSx9yf6lfa7hX+AvryhDiFDMgFKW20Ik5kiV/mgYJeNm9ECpxItwGlcGzKbT3FmcOG3RPpzBoDNmGJwBAaMTTC+7Ivf9+L4/4vPU0uO9uDiOhH59b9stBY0+p8gpeIKA=",
-                "mac": "zmt/uudpgSra9V6T8TbBiA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/12/message": {
-                "ciphertext": "PS1TAPGty2Xt8oXM8A0pOqB/qY2kE9H6lNeTQwTlMKymCVH2LhKyoFaWDQL10bdHcHFPlrZcyRoejNxfQ6r+mW1ocOvyTpOWft/VxY9nBmU=",
-                "mac": "jPptDCILpHVRxJDGxbus2w=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/13/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "Sonya Bolt",
+                "text": "Sonya Foudre"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/2/message": {
-                "ciphertext": "f3WjVXy28fy5Ar1f8Zt2Tw==",
-                "mac": "8esVpMpKf8mTZZbtK8JbBg=="
-        },
-        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/22/message": {
-                "ciphertext": "Dp3QylYpVZWxczYNiIP3Pg==",
-                "mac": "9Wi+IJLz3Fr5IKNF1v8DQw=="
+                "orig": "Hi.",
+                "text": "Salut."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/3/message": {
-                "ciphertext": "5umeMEcSN6cGj8QoWQArnp9sgXiiP61d0mAuuDWeSasl1/+xJu9zNeg8lNSrGnmc6EOSRwGKeAwOjDh+clhunAf7p7tYs94O+u2j3J73BVE=",
-                "mac": "YZTHLYrQ7jCeLCHPxk3DIg=="
+                "orig": "\\v[lore.title.seeker], you returned!\\. I am impressed.",
+                "text": "\\v[lore.title.seeker], vous êtes revenue !\\. Je suis impressionnée."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/4/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
+                "orig": "Why?",
+                "text": "Pourquoi ?"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/5/message": {
-                "ciphertext": "k3GqTm/h7yrdVBf1+x59BRQOZ/Tp6XHyMFF5GOZAvYH1VDze9ooTt+C+WB0hKbQLKIbVoRR7RLez88yBux5lgRl7ZPi5QNzYZ1R15YA5EYGlkG7ktuPFL3XOWyhU3aF8An2x+/9YstWy7RBPFHNqeDhZIpJLJWjxh5u/Bdn/uFSb6KilAynaYZavI46qkdIa",
-                "mac": "ywBMAUtphIsCqmcB29y8zw=="
+                "orig": "Assassinations.\\. Bribery.\\. After all you have learned, these methods would have been possible.",
+                "text": "Des meurtres.\\. De la corruption.\\. Après tout ce que vous avez appris, ces méthodes auraient pu être une conséquence logique."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/7/message": {
-                "ciphertext": "iEB7oymjV8GyDZQiLqURv9qtLujGYmcz6+4fD/rt6mV/qsdwvpdH5dyA3Bcp+5c9usgId9G/5BR/LMnKGHmnoPxJQGUOFqTBjXO2IW6x7SRJCIwi7K7z6wLQ/iB0sOgbBLqPnnaVO8TFVXMom/0WIw==",
-                "mac": "QzlzVDYlMS0XrOnP9jUzCA=="
+                "orig": "Sorry, for not telling you beforehand.\\. This mission was too important for you to refuse.",
+                "text": "Désolé de ne pas vous l'avoir dit avant.\\. Cette mission était trop importante pour que vous la refusiez."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/9/message": {
-                "ciphertext": "TkTkZFXrAIL+DZWvtt8+m8EH1jVNGI0N8GgxysTLZe9xLkKrrQoLrjdRFNiSvIVJkgkqdRlfWMmTtLHHXckugCBb6OxFrf56xHrw8PrDgd4YIKzcrZE2feqYsvKpFZpoK17ULMdv+27vAJYcjs8mT1Jcvfwb4xS+d81wyYrnQFU=",
-                "mac": "sqNBtV/1ngZL96wtUblhCg=="
+                "orig": "It all turned out well, \\v[lore.title.seeker], so calm down.\\. You may be too valuable to them.",
+                "text": "Tout s'est bien passé au final, \\v[lore.title.seeker], donc calmez-vous.\\. Vous semblez trop importante à leurs yeux."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/10/message": {
+                "orig": "This time, however, you were truly valuable to humanity.\\. These documents will be of great use in fighting injustice.",
+                "text": "Cette fois, par contre, vous avez été important pour l'humanité, \\v[lore.title.seeker].\\. Ces documents seront d'une grande utilité pour mettre fin à cette injustice."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/12/message": {
+                "orig": "Well then... here are your rewards.\\.\\. And also my farewell.\\. Stay vigilant.",
+                "text": "Et sinon... voici votre récompense.\\.\\. Et mes adieux.\\. Restez vigilant."
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/13/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/jungle-city/east.json/entities/682/settings/npcStates/2/event/quest/22/message": {
+                "orig": "\\..\\..\\..\\.bye.",
+                "text": "\\..\\..\\..\\.bye."
         }
 }

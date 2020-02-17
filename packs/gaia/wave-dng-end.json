@@ -1,367 +1,367 @@
 {
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/10/text": {
-                "ciphertext": "WJLB4DUFJjLyuCUvg16UaY4ZbldX9MVNr+31JhmjnnBK6OLGlxvwedHoLaOGyg5Rv8ITulcd0o1gbH+Hpa6NOEPUVceEWAviYplwq+QPnfs=",
-                "mac": "fTykdb6Hr7Io7c8tfkc39Q=="
-        },
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/11/text": {
-                "ciphertext": "QXWLXqc+LwU/7L9nIPUIolSzDrWzUTs7TbkU++PIbmBztRtqKnAfOHrTw59jH33IjaJ3tx/UNL7Fab33ChBP/LfQPbNIiBUQdItSzpCHTztB0RqfV+D3GNlCbvICp+Pu59+VlkTPb8XfJe2rJmcs+g==",
-                "mac": "/LGuYooKSKZQWkWvDqxMWw=="
-        },
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/12/text": {
-                "ciphertext": "wApQ/mK3rB/e2yMQvLLTa8HmYQQzVapEvD1OrZzVaPhuq+7dHLup67O9R0Drcs4k",
-                "mac": "Hke+q4W0V/WZMFOxsL3qqg=="
-        },
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/13/text": {
-                "ciphertext": "gfhCllXkrxQq13oYCGWHrHzp47Z6yhZc3vhnEyWJ7+N9aFMDnmGedM4IwoSVzWZL",
-                "mac": "NP57FgxuSnB9Ue+AaRbPLw=="
-        },
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/14/text": {
-                "ciphertext": "/FOqPbyNLHrPd4hb/YA1Bp238N3ZZHSkFxr/mPinqTupJdA3cuWsAana++ElNibeVEO44F5g7pQTdi5J/g/z1l2/uqZJxowpsDhVRG685mc=",
-                "mac": "dznfZhCroF6fSesCR2bscw=="
-        },
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/21/object": {
-                "ciphertext": "rZKzBOqIzz0EsPH8lu4Bu7GCbkvyy6oX1YTpyHXjgFI=",
-                "mac": "ExURg3p2CQm7bE+CtOPa2g=="
-        },
-        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/23/text": {
-                "ciphertext": "ucPoLn+AzpR5JGo6aSBQaRNlbWLYnJvXb6dprwysz5O3v35f5seb6V4CKGfXcDThvuB8lczoUHzsqnTOeXTGzw==",
-                "mac": "jrSg32phxK9anYGLgKM2cQ=="
-        },
         "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/8/text": {
-                "ciphertext": "/GwPZT+wS+lEYqdORekVfnicFI3hJe80hVWwXqJAGnLsrlfSaB9+b18Ae1QX5OkIXmljwu8rXlNEU2gU/m1mEERaHUt8ekdim152Yw+nS7Q=",
-                "mac": "yrXlosYaW2EommR0bjL8UQ=="
+                "orig": "Water rises up to the sky,\nfalls upon the earth, flows into the sea.",
+                "text": "L'eau s'élève jusqu'au ciel,\ntombe sur la terre, s'écoulant vers les mers."
         },
         "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/9/text": {
-                "ciphertext": "nNGO5iiHo/guD/qAq6OyxMhzBn9Nd+TCsSYPFEJiu1SY+H/571zSYVouvdBHPblWsidDBFZKXCMGI6tCFzGw+mKdmkOEpexU8ZBv2uYYViFgKWL5XeYWGpPwD53dGOBB",
-                "mac": "o2/qcUKVV5sDPMENhq5sxA=="
+                "orig": "An everlasting circle painting this world\nin the vivid colors of abundant flora.",
+                "text": "Un cercle sans fin, qui peint ce monde\navec les vives couleurs de la flore abondante."
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/10/text": {
+                "orig": "Yet under the pressure of deep waters,\nyou stayed persistent.",
+                "text": "Malgré la pression des eaux profondes\nvous êtes restés persévérant."
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/11/text": {
+                "orig": "With lightning fast conduction,\nyou pulled your way through fluid obstacles.",
+                "text": "Avec une conductivité rapide comme l'éclair,\nvous avez franchi les obstacles fluides de votre route."
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/12/text": {
+                "orig": "You, the traveler, \nthe envoy of change.",
+                "text": "Vous, le voyageur.\nL'émissaire du changement."
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/13/text": {
+                "orig": "You have proven yourself worthy.",
+                "text": "Vous avez prouvé votre dignité."
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/14/text": {
+                "orig": "Take this Shade, one of a pair,\nto reach the grand tree.",
+                "text": "Prenez ce symbole, l'un d'une paire,\npour atteindre le grand arbre."
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/21/object": {
+                "orig": "\\v[item.286.name]",
+                "text": "Symbole de Goutte Azur"
+        },
+        "maps/jungle/dng/wave-expo-space.json/entities/4/settings/event/23/text": {
+                "orig": "Let your every step\nform the path of your growth.",
+                "text": "Que chacun de vos pas\ndessine le chemin de votre croissance."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/337/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/10/message": {
-                "ciphertext": "G8LzNCSLa0CxiT9skk/qltXsRF4A+A1A3HYPO0CPTLuW2b9WM2Gmig9ZoHYjWzJQ",
-                "mac": "PbhNOAsIlzbYukNXj09wIw=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/12/message": {
-                "ciphertext": "vhW4shxptvQTOyMq8wy7k6tfyEoMEPXfN7vwsmEixY95qOld/lRvu3N27KYy4BHMX7+XuFVZ9K10Rki6YUdzVg==",
-                "mac": "JvX3Xd32fWhZ1bqTb7Bwdg=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/14/message": {
-                "ciphertext": "6q40o+C4uUCiNAiEubeP/JVqqYV7qhbkzyPFhWQ5snolx+VEiAU2BAePt3BuYrCDMdg4nFes9x2xRO1lcWd76cevqIeqkHklxNgx5VZT5HI=",
-                "mac": "TfHfyccP8NP9WatyUjCkHg=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/15/message": {
-                "ciphertext": "YS2hoTS5CnAaYSpYQbMH8hbclVymGj1CJtYjLj2nLNDl+nVm+PqpqQ+yO2oayH45",
-                "mac": "vqDCgdOGXAKmDdtK9anR1w=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/16/message": {
-                "ciphertext": "wrbJ8pE8Fw5BzsIFC9ys9fdlPwSBUuupLeo9ohoaI5zf3TiEVlRvqAcnk4k2lXIBnT1fDM7EzwSkSviSBj+nVLl45OB4/m16ferU8lGzmi4=",
-                "mac": "Uu4sMUdgd+aW0GJyabbP2A=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/17/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/18/message": {
-                "ciphertext": "ddgdVLv51EsAJPGsD2zaG6zqkoFI85LMMEseJ5eVY3soNCqr/h80TaHsGyRWogNt/jJpw4+SDnrFyqaa6CnqVg==",
-                "mac": "mBqrVFvNgPEdxbBozOIa4A=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/19/message": {
-                "ciphertext": "aMEOvzWghFR7XY6m/sL3kpvpSwUtZLPNO+c7U6IHf21CzoMyDL8Tlt9X7fCpjWZZCoChJRSl5UqLCB9Lrj/d8uKdbQDvzCmdZMU3WCBf85gqD2Ui8HPPe6ba+rnbcaxc",
-                "mac": "zXcF/33H39CTr3UVWF9iFA=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/20/message": {
-                "ciphertext": "rzMXOQqYBHd7FKF2DGYKjijz18AUMF1KHqdIi43MuuUrcYTmMoAMrkKRilRmBUVvOm0ueRpzCheix+noakfx5A==",
-                "mac": "/mBkuWWwwoscNqPfoiY8sA=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/21/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/9/message": {
-                "ciphertext": "qoZo/NQ/NXJ6AZJlXLXQ4g==",
-                "mac": "9yMEwkYFVCGLHEG6pceLBw=="
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/14/message": {
-                "ciphertext": "nQWvAl4qHuB+fDP3J90REoqaRT5lWAlptGKobVGLNqOlW86QmERs/1Ono/RdD6RJ6bL6toE2HzCAAmtcD5gAmGXzRT1Fnlipds+oY7rpwKmQWvjaHq9UMnpW5OjS3EjD",
-                "mac": "QHtfFrzU3NVve2pghVkbhQ=="
+                "orig": "Aww, just second?\\. I thought I was rather quick this time.",
+                "text": "Ohh, juste deuxième ?\\. Et moi qui pensais que j'avais été rapide cette fois."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/15/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/16/message": {
-                "ciphertext": "x8JG8YB467lxYXHzelbO5mWJ6kl+178V70va5a4uBEc=",
-                "mac": "yqbrNqjWSczlXrTYbGW2qA=="
+                "orig": "Anyway, congratulations!",
+                "text": "En tout cas, félicitations !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/29/message": {
-                "ciphertext": "R6PHxKkUajemHt4fsUXVuxUqZm23KzJiHQIMdI8vr0E=",
-                "mac": "mvUygft3MJdlzoS4eZIDbw=="
+                "orig": "Whaaat? I'm the last one this time?",
+                "text": "Quooii ? Je suis la dernière ?"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/30/message": {
-                "ciphertext": "/GWPQom65SpoV7MvNPo29S5qobalT+w94IehIMeCbHQ=",
-                "mac": "pYvvvKl9mucrbV2igPPhKQ=="
+                "orig": "Looks like it.",
+                "text": "On dirait que oui."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/31/message": {
-                "ciphertext": "OOgskvhvzZ6w23KpKpP2qA==",
-                "mac": "qENmtzgEkIL6KkZ0ylwQMQ=="
+                "orig": "Lea wait!",
+                "text": "Lea Attends !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/32/message": {
-                "ciphertext": "0QTnj5F86eJyjOxHtKYT7wxH8cq/QZRXF/xhL/sb3YSiI7PJ7q+eEPEyUKHwE/8r1vGmsL/q/WxQxsKw8wPi5w==",
-                "mac": "GsDN/wcgUXNWhmBYpsNOZQ=="
+                "orig": "Yes, Lea!\\. I get it!\\. You waited!\\. Mon Dieu!",
+                "text": "Oui, Lea !\\. J'ai compris !\\. Tu as attendu !\\. Mon Dieu !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/33/thenStep/0/message": {
-                "ciphertext": "753xHOzqDXL5TVogbgqLYnb29MK0g0eWsdZkYYlwSPTUcJ0XAd0XqovNg2Oj5ZT6Xn1KFUBtQm5BzXqvdbNOx5w0SFjwZ5K0srzQjfatQ+rA/+TgjS+XczhdC7TiofxqYkru2mfyQkMsPcAWSQyytSLDZxPNOgavo4VXZ1SjySs=",
-                "mac": "C7Nnqr6Az6PQxHU02kJXQg=="
+                "orig": "No wonder you did, with your weird \\c[1]damage thing\\c[0] or whatever.\\. Cheater.",
+                "text": "Ça ne me surprend pas que tu aies attendue, avec tes \\c[1]dégâts étranges\\c[0] ou chez pas quoi.\\. Tricheuse."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/34/message": {
-                "ciphertext": "H9Y1p2DGpW3XVgGDnbwWsg==",
-                "mac": "nQS6U3bSQq0aefRuUwRfug=="
+                "orig": "Sorry~",
+                "text": "Désolé~"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/35/message": {
-                "ciphertext": "p+T6VtW7NKsXasVASueugtBkl3ohCZSIda9IRXy06lKw4OmY/8jr6bwef5T+nUS64sMdmxm+E8FXro4C7VQ9SLqIQmOw6kiKSO/fKF+Sdaw=",
-                "mac": "Fuwd2ycGEwqTPzxeJ5bgUQ=="
+                "orig": "To be fair, we didn't really wait that long. It was pretty close.",
+                "text": "Pour être honnête, on a pas attendu si longtemps. C'était assez serré."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/36/message": {
-                "ciphertext": "Lm6jAigA4RPKTSItKzefsrDVyjJyWQM4Rt49+Az1mu1/j/86CPmTfE7ACkGLYmEF1rdSvDXOdXlCcUPncXYXlw==",
-                "mac": "5Q/YXS/dHu+Clm7XRzL0CQ=="
+                "orig": "Oui...\\. And this is not our last race!",
+                "text": "Oui...\\. Et ce n'est pas notre dernière course !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/thenStep/37/message": {
-                "ciphertext": "90lXx66AWzSoxwA0tq5G62E4+YvOThk/SbXpT2g8ZfHPjKNHABB7P+uSlXwcl3RvXSwoqALZOpyQiTBLwF/I2w==",
-                "mac": "6p4vfDh7qeDqwdZwxHPhZg=="
+                "orig": "Anyway, let's just go to the space bird.",
+                "text": "En tout cas, allons juste voir l'oiseau de l'espace."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/0/text": {
-                "ciphertext": "erp3FGKNVi5DBk4/t/l8Tuq/pYbiYE3t9fdVTtG1Ar5Wh3yrPEZ9fnxfIeeONGe7qzedhCpI243oIaS9t9aEsOUHuPs88TgRUp4Ur+jqx/tBwKGUyQc0C0ip3DyOxaPPFsNyxgA7WqaHBCUwXuSC8PmGosV28qC1X215d27kBzemDTxeETEJlGcu9vkfFTb9nCp3xyN4pcKHDhb6LVwIDA==",
-                "mac": "toQGapO5O8/JS67hDcQvhg=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/9/message": {
+                "orig": "Oh, look!",
+                "text": "Oh, regarde !"
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/1/text": {
-                "ciphertext": "+N5wFHfEKhIj0HWyamEib/xOx9yjQSLsyLipJGRV/eiEVU2Bdz0p6U5SaP7r4L+Gr9m7cWRRKQlPgFvgRGqsOUMa4zMbi5aadY8EKyE/AHxmYC4O4rygrR7YBNU9qVTjgCtuAkHEuw/KiVPabz7OkeLQUO0b2aPQCWH1b02yYxLMy+FsEIN/wTRJNwMKQPAz",
-                "mac": "7QTMu0VFvDv+FasqKKNd7Q=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/10/message": {
+                "orig": "It's Lea who wanted to \"wait\" for us!",
+                "text": "Voilà Lea qui voulait nous \"attendre\" !"
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/2/text": {
-                "ciphertext": "KOkQ5gQ7V+EEpD3hOPh3HVcGxFMeZLm/f5s3Fea2fXq+yo4+2ketXcPTTcuAE5SJRhIuOnrmIYeJnMFgpmmAtupDEbjKSibcwowqckFaTitJeFNUudFEnlscTR5aA1EZvpS8pG0p0TxprWrJO+3WaA==",
-                "mac": "KtXzf09f1/enTjt0SGx3DA=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/11/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/3/text": {
-                "ciphertext": "NxncMxX0Wp7VxLckCKYerlvpFOWb9FiWWw4g2EJJwi8znA8+Z6264sBCwh5YIgOLAoeYZ6q+tGlur8penEYYR/ZmCTj5pCXb1in1Xp5eHy301ZfgaZbh2DnLVYYzsYR0EbUtvCrQpxXXXqzwRO4BCaAB6qN5L8DCYzGBh/w7ULHbGW9GSg+A1Bu0ZaQg0FbO",
-                "mac": "GMBDvIrL4EjJ44JQ9C+I6Q=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/12/message": {
+                "orig": "More like you made us wait, chérie!",
+                "text": "C'est plutôt nous qui t'avons attendu, Chérie !"
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/4/text": {
-                "ciphertext": "Yh2kzKGHwpoQIKfhWxZM14d3qQcILZdIHzeFik3FJsxDYAJi7ZxjQ+Q9keYP0Z59/HygUvemzS/ZxiDxIuS2WairosryivfDskjTU9guGhM75ZdUU6bSB+hMmFvC7OUFAjCZhKTFHIfz5oq/FxtMu4TdJ1FOF2Nvse1yBVNReHO7TbHF5wbvQ1lr0Je01Ohp",
-                "mac": "bQaVxK5OYEH/Hpc5Jxql5Q=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/13/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/5/text": {
-                "ciphertext": "T0tvlHa47wkb1JW8dTbIBh+C+5bAEXaZnMJTjYDh7vQ1RK2K25KTZ9U688LZtOXqoTuXhRLhUSnrlZpLFz4CBorqAqIu7bQ4jQ7wgM2HPv9i4LgdTNCoWM+P1Sfo0oq3MB1SyETc7Trs9aCw57JmiyobDoi1hnzD28z+VvcDtpcG0l/XQzhO3FrfIFZQs/Mw0bZH/1rCGxs7UZTaRiTHLy9Ma3y/Gi5EO3e8dXYx6zw=",
-                "mac": "oaMqedCKuoevG2GAe7smQA=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/14/message": {
+                "orig": "Well...\\. it was close.\\. So we didn't wait that long.",
+                "text": "Oui bon...\\. C'était assez serré.\\. Donc on a pas attendu si longtemps."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/6/text": {
-                "ciphertext": "ir/T/FIxwFBVywW3EkRhOwFwiYr/Ue6zOtZqgIVw3C+Z/pUXGV2d44Sc4o4rALFB9XEkFJnhDTTrIZXJz5yvUrHz4gdETGZUngIOnU+tm3SrANUmOwZu62zSeSitbAx1lBjA63ZYbpA9qdEypoFRxw==",
-                "mac": "f/QzPa3TelMZQlfuttcs0Q=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/15/message": {
+                "orig": "Hush!\\. Let me have this moment.",
+                "text": "Chut !\\. Laisse-moi savourer ce moment."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/7/text": {
-                "ciphertext": "SLaSsJmv55DHL9KT3+EDRYK0vZEc5zRfu3Wt8J/MRCZ0iov861Ywn9bvPk0y4myYM7ALNL4Yb8gGKZWQIbTGuZALR4SugNHYqm8w0VOumdHpBqu+PoN/M+4IB//rzKzCF+hkEMP51F7oM7gBPhCpTpB6vpX+Jsyg4VwAFz0dsJJ2ajwNqp9mRxoy8jOgVVJirXaWG5iA8mEKguVo/kx2KA==",
-                "mac": "uFIMe0iutYZB6UVb1STXzg=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/16/message": {
+                "orig": "I actually just came in second this time. Tronny was first.",
+                "text": "En fait, j'ai été deuxième cette fois. Tronny était là en premier."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/8/text": {
-                "ciphertext": "1qD2gtSxcpI8zfpAk5fX+CQ/m3XgEEiaLDTQuGHTzti8iQnkY0bxDRmuynehCfgWsoSkOHgKF7MoqMMXS/sk6xv+MHDnOccQ9i1XF+3bcryK+P9orpibb9pyZiq41tP01BiWIdn6hzfKa0NI2l5JlD3WGWIJwHkijmd7jXI6W1clonS2TFk9IVw6VpEAADLV",
-                "mac": "016BG6CisjhwPbNlHJKrAw=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/17/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/18/message": {
+                "orig": "Well...\\. I suppose water is sort of my element?",
+                "text": "Bien...\\. Je suppose que l'eau est un peu mon élément ?"
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/19/message": {
+                "orig": "Oui, and you didn't even waste any second complaining about water pressure.",
+                "text": "Oui, et tu n'as pas perdu une seule seconde à te plaindre à propos de la pression de l'eau."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/20/message": {
+                "orig": "Well then, let's head to the Space Bird, d'accord?",
+                "text": "Bon sinon, allons juste voir l'Oiseau de l'Espace, d'accord ?"
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/338/settings/event/20/elseStep/21/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/hoverText": {
-                "ciphertext": "U3wkGjs7YqO6mPIujB0qalaRePMtrY0vnPbnJGqHUYk=",
-                "mac": "DL+seYWxSDGh5VKgqcTd9Q=="
+                "orig": "The Flow of Water",
+                "text": "Le Chemin de l'Eau"
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/event/0/text": {
-                "ciphertext": "h4FvoGIiNW79VkxZLhbUg3HHdEjupXSDvbKQ5CkAxdqoU15GfeNfHwOGqQvSMJRMwCe/38GdFGJFZV36f6RNtqfAtOUlOKpQ5M/aOSN2J4Y=",
-                "mac": "xMk2hUqMWtgNqueTAbx6Ug=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/0/text": {
+                "orig": "As \\c[3]G'oni\\c[0] created oceans, lakes, and rivers spreading across the land, he was happy to see that plants flourished close to the water.",
+                "text": "Alors que \\c[3]G'oni\\c[0] créait les océans, lacs et les rivières de ce monde, il se réjouissait de voir des plantes pousser proche des eaux."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/event/1/text": {
-                "ciphertext": "WIaZnpdYtDfwE9ALGDQS8wbyYAuYrXaRi25PXMePL3EUn3BRFVvJ/CUpugHhSsdxeOAeTi0DxNfWwWZapioH6LjMufmyk17P9UBSUJSzU88n04THIlwqGh26ce4gSlwWhs+xaWlFDbNqxhMo0dPOsql9KXzw8NexWp7CFmMXibA18G1Uz1vVzFM+LJ1U71H02VWgvgK8mwHis6IMAbUHJe2Pf6fBcBW3RnFF/4zLHuE=",
-                "mac": "n+EcbRlbERFcJd+egPrPbA=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/1/text": {
+                "orig": "However, he was constantly busy refilling the lakes on the land as the water kept flowing down the hills back into the ocean.",
+                "text": "Mais il était toujours occupé à reremplir les lacs alors que l'eau continuait de couler dans les fleuves et de retourner vers l'océan."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/event/2/text": {
-                "ciphertext": "BbM+014MySTinTRUB6Z9VR6wYB0eNEcfdlV4fggGhMkONkYoHBl/Ingv1Qu1Q9v0av8ovPTg0NDdkhIQW6CtHa6N0QTzJItaIajhs4k639/XUaMRrz5ULOyFnlJFxCDL9LhYRu0RmpXe4xuWeA//LhSBoiFHRmEIh+Wi5AC1d6D+GvaeXJm0SfCo/oDieT/o",
-                "mac": "xeajCZ5p9OtFPSsNagRgfQ=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/2/text": {
+                "orig": "Then G'oni had an idea. He took the water from the oceans and moved it into clouds floating high in the sky.",
+                "text": "Mais G'oni eu une idée. Il prit l'eau des océans, et les fit monter haut dans le ciel sous forme de nuages."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/3/text": {
+                "orig": "Then he asked \\c[3]K'win\\c[0], his twin-sister and creator of wind and thunder, to move the clouds back to the land.",
+                "text": "Ensuite il demanda à \\c[3]K'win\\c[0], sa sœur jumelle et créatrice des vents et tempêtes, de déplacer les nuages vers la terre ferme."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/4/text": {
+                "orig": "Once the clouds would reach the lakes, G'oni would let them rain down, refilling the lakes and making the water flow in circles.",
+                "text": "Une fois que l'eau des mers arrivaient sur ces lacs, G'oni les laissa pleuvoir pour rempli le lac et faire que l'eau s'écoule et se recycle."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/5/text": {
+                "orig": "K'win, however, thought this flow was boring. So instead she decided to move the clouds all over the place and let them rain right over the land.",
+                "text": "Mais K'win trouvait cet écoulement ennuyeux. À la place, elle déplaça les nuages dans toutes les directions et les laissa pleuvoir sur toutes les régions du monde."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/6/text": {
+                "orig": "At first G'oni was furious watching the water being spread in this chaotic manner.",
+                "text": "Au départ G'oni était furieux de voir l'eau être dispersée aussi chaotiquement sur la terre."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/7/text": {
+                "orig": "However, he quickly noticed how rich plant life started to appear on every corner of the land, far beyond the edges of his lakes and rivers.",
+                "text": "Mais c'est alors qu'il observa que des plantes se mirent à pousser sur de grandes étendues de terres, bien au-delà des fleuves et des rivières."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/347/settings/interact/event/8/text": {
+                "orig": "As he saw the planet covered in trees and flowers, he quickly accepted the chaotic nature of rain falling wherever it pleases.",
+                "text": " Alors qu'il vît la planète se couvrir d'arbres et de fleurs, il accepta la nature chaotique de la pluie qui pleut quand elle le veut."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/hoverText": {
-                "ciphertext": "DsxojYwuW3RnbPBf2Up2BMcax0dbVpPbDQYYepbO33A=",
-                "mac": "VEwCKcCApClGNdU60U8yWQ=="
+                "orig": "The creations of G'oni",
+                "text": "Les Créations de G'oni"
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/event/0/text": {
-                "ciphertext": "4QvS4hvnRMRekgegdINdaYqk3ZIzAwnVHJbhT6iA7+stz8ZTTDUcUDaN3qeTQKAbehQNJ87MdEo4X90hnc/KL4l/5q+m43hUH2llhvC2J1+IMAxXFZaq/z3oPKi0hbWUIQcavJGf3m+sym6LKro6OIRMeSa6MgStiQHsKS1s4sM=",
-                "mac": "FaTsqdFLTI8U7bTPVdGnnw==",
-                "ciphernote": "RPsoHut80sWSPnNxgaQMEuSXt1rMxsvFqlsUI2Ib+8qdeAvPzogi5+22Ot9rfUsmlcZwlDk/vHHbKRPWNHlPGpzJS+FTTER+vIvrnPwYpEz2o44itIxmxRpbTDEGT2tLyRDG5Vg6DynF0pFAsPWxKJDwC+1fGVtFTsUW/LvNKZ4="
+        "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/event/0/text": {
+                "orig": "\\c[3]G'oni\\c[0] is the creator of \\c[3]ever-flowing waters\\c[0].",
+                "text": "\\c[3]G'oni\\c[0] est le créateur des \\c[3]écoulements d'eau permanents\\c[0]."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/event/1/text": {
-                "ciphertext": "CMdXYoDNX8WyGxom4jXD1GqMOo4wDNRLxrm5flPFLBqNkTQbpIr0VrXhHaX4UIXBggQFxcJ2eYseqfFX67xgNgtVj8nxs7THEMHcIRlyTpPHsK/N5sYbCTASu+dXr6WGCZHSnRzy44mdYNacJsltZAT1U984PJP1Y2DamB2qpLE=",
-                "mac": "D0fMiq0tfND4KC0wH8QIWg=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/event/1/text": {
+                "orig": "He blessed our planet with vast oceans, strong currents, calm lakes, and long rivers stretching over every corner of this land.",
+                "text": "Il bénissait notre planète par ses vastes océans, ses forts courants, ses lacs paisibles et ses longs fleuves qui s'étendaient sur tous les recoins de cette terre."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/event/2/text": {
-                "ciphertext": "vbMrracl6zeZ4oAJ2W5cFcmYqltz1jJaF0ESQVb8IPpeKagcjTxgTkEnn0gFOEI/V8Q9ebKlBBb7M5Eh8w1im63jP7YbFtzARFO9bwzjq8x7DB9BoS+T1dNQyxmyu1hNdI4fjYKNI4/cylUmIfNSdGfq9CyJLRJJuXhk4OOcOVaZ61fuqNmiR/gQNcM0iA1920XiIfFzCRr8SW0JGCJxD4lG7dyxbQ3t6bCShfb97wY=",
-                "mac": "8YBzBwYFYqMofIzXtsRTEA=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/348/settings/interact/event/2/text": {
+                "orig": "His creations also gave birth to an endless variety of plants, painting our lands in beautiful colors.",
+                "text": "Ses créations ont également donné naissance à une variété infinie de plantes, qui peignaient notre monde avec des couleurs merveilleuses."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/hoverText": {
-                "ciphertext": "k9kX4R/8TxJ6AdD7STL1GLN8nbcVXx95wYj62L+oyuY=",
-                "mac": "4xk0xBDFtZQrBl5PhZi5mg=="
+                "orig": "Birth of G'oni",
+                "text": "Naissance de G'oni"
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/0/text": {
-                "ciphertext": "v4lVmyGnklkX2pqoClP2DtKfipkR8MjHi5rKAV11EMDvv3C5ElApRezEeLuDzzixp8HpfXsrQvW3TjbGx7Mh8aAvRN8sv/K19Lex6ptW14A+IOZMLmPB9Nf+VmLoB5uZ6I6KHcPH5oCrS7e84rQixgtTkPZ58y1Dgcx1r6Jl5wuXgGPZFNwoUG+7SGzrxkXoYsHpxGVT62cFVkBMRJfYJjv6L1dT4St+0EmQbs5iyRvQmf2gDfxuccRwjZkss/l6uozLUYQs1QXM0kZXI3VFlxWaKZ1E1kpi1l2yFeB76iKP+yqplDsRmtYr30RQClEA",
-                "mac": "HTak3KcTYy6uGvxdvz6v0g=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/event/0/text": {
+                "orig": "It all started when \\c[3]Di'orbis\\c[0], the ethereal god of creation, was born into the emptiness of the void.",
+                "text": "Tout a démarré lorsque \\c[3]Di'orbis\\c[0], le dieu éthéré de la création, est née dans le vide du néant.",
+                "note": "this text, and the following ones, are based on database.json/lore/godstories-diaro, except 'the anciens' is now 'we'."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/1/text": {
-                "ciphertext": "0gfdh5QXWrR9gib7JsbEsVb8joq4WabkaLeTJabIeSPEeWHzGFZPCG+wdSEqbViE3GS5jzVp/iuTSL3HxqnzTdTCSM18DLfN20cDGyU1nFvIy2gqNhVqKYHx2rFcnOD37wrrWr30V1JWOhpYA8mtlahnx5Hdka6V6wq/JJzjfP+D1kmHvZqDsTQ2GYWLPetLC1Q4Q3oN8oFlLbhw34muYg==",
-                "mac": "PeYssm+9ILQJ+N1lz0ouGA=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/event/1/text": {
+                "orig": "After pondering for eons in solitude, his desire for company gave birth to the \\c[3]Gods of Shape\\c[0].",
+                "text": "Après des éons passés dans la solitude, son désir de compagnie a donné naissance aux \\c[3]Dieux des formes\\c[0]."
         },
-        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/2/text": {
-                "ciphertext": "UUo56A5JmqpzHa5adCXzDr23dlCAqzTXO+LD9QKyhpnnR1B6n2/zRpa/zLD43zEvnwF8FSl5+FOukEV5AnK2PtN+RCQySTl6/rpJnPAbToTczVck/7rMGWUTw/yXWewh3/6ilOvJItWRR0I74/Fp1y8fMdkKsYtdxfchgDytUyifyap3qZGADo2P7rnhfKWw4CzRnMkb+sixBlI+ulnzmxaRu4AXpSF3jbYUzYQzkLE=",
-                "mac": "WUeI855ePHmJEZlpgXAdyg=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/3/text": {
-                "ciphertext": "xk7enbIvz+Vxg25OWWozxlHNqUXGe4+aM2MG6tzeRR+ofMfIi4RlSfcUWSeNJpD3NfwEgpyxnrlxHOXdbsN1WDls055+YCLyLqvFrHXmU1t0+bNSUX+/EWVCit0Ug+m86yHGkvP42lL+ECbI581/GhuQOfiGoj6NqrGwgGUuJJY9S9K6WJtuGuOmgxdtMGfg",
-                "mac": "VY7vK1N3uzHRTG5SImSPbA=="
+        "maps/jungle/dng/wave-exterior-end.json/entities/349/settings/interact/event/2/text": {
+                "orig": "\\c[3]G'oni\\c[0] is one of these gods. Born a twin to \\c[3]K'win\\c[0], he is the God of the \\c[3]Hexagon\\c[0] and the creator of \\c[3]ever-flowing waters\\c[0].",
+                "text": "G'oni est l'un d'entre eux. Né comme frère jumeau de \\c[3]K'win\\c[0], il est le Dieu de \\c[3]Hexagone\\c[0] et le créateur des \\c[3]écoulements d'eau permanents\\c[0]."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/hoverText": {
-                "ciphertext": "+RAbB77TdX0+gyzc9TT9r+KI/jzm5ISl3DnatwjxzcU=",
-                "mac": "P04IQmo9PM88Yd58cdBO5w=="
+                "orig": "The Message of the Sky",
+                "text": "Le Message venu du Ciel"
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/0/text": {
+                "orig": "When \\c[3]Di'aro\\c[0] and \\c[3]Di'orbis\\c[0] witnessed the advancements of our kind, they decided to send the \\c[3]Message of the Sky\\c[0] wrapped in an \\c[3]Envelope of solid rock and ice\\c[0].",
+                "text": "Quand \\c[3]Di'aro\\c[0] et \\c[3]Di'orbis\\c[0] ont observé la progression et l'avancement de notre espèce, ils décidèrent d'envoyer le \\c[3]Message venu du ciel\\c[0], \\c[3]enveloppé par de la roche solide et de la glace\\c[0]."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/1/text": {
+                "orig": "However, Di'aro was concerned. His envelope was massive in size and it could lead to great disaster, if it landed in the wrong spot.",
+                "text": "Mais, Di'aro était inquiet. Son enveloppe était massive en taille et pouvait causer de grands désastres si elle atterrissait au mauvais endroit."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/2/text": {
+                "orig": "Fortunately, \\c[3]G'oni\\c[0], being quiet and observative, detected the \\c[3]signal\\c[0] from our kind and determined the exact position where we expected the message to arrive.\n",
+                "text": "Heureusement, le calme et observateur \\c[3]G'oni\\c[0] détecta le \\c[3]signal\\c[0] de notre espèce et estima la position exacte où le message devrait arriver."
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/350/settings/interact/event/3/text": {
+                "orig": "He told the other gods and together they aimed the envelope in the right direction so that our kind could receive it properly.",
+                "text": "Il l'expliqua aux autres dieux et ensemble, ils ajustèrent la direction de l'enveloppe pour que notre espèce puisse le recevoir proprement."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/27/message": {
-                "ciphertext": "d9Z1rz1GNex1eb6AeVoHRw==",
-                "mac": "WYzFz1ESvEBaOabDwiG4BQ=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/28/elseStep/0/message": {
-                "ciphertext": "9bclrk6KruiN39K1YxPqo1aGAibVWfsRHW7cFgfAM4qfpQ4teE8/fZFA31MlbSjVCIeKhtn+JYX1L8ShSlqm5FSdnkoJFMr17E9c2B2ckZ9fzzWNObrRmyOGt34JAA3S",
-                "mac": "XTbC/oK4sR9eGHwIBnQaWw=="
-        },
-        "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/28/elseStep/1/task": {
-                "ciphertext": "MRqgYGCQf/trM2SuZ42ulYNlOME+IH1KKqYpApm+Y2z+bjNslGKGs9S6RNaiRGCEKOpfNovNOm59jj8GG3OtAnF6B4lKSFtXZAH1r+egrSBjsEXlLT9p75SgKel90Ib9",
-                "mac": "csuGMu7/HjJy7FVeyok7KA=="
+                "orig": "And done!",
+                "text": "Et hop, fini !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/28/thenStep/0/message": {
-                "ciphertext": "m2Z2l6Vy6fEJovmWqskPkYizpE50jZzH2PKddxboC5HE0BSlXqCR8lugvHI9po8AZpj5HYqTW2UMii2tC3fK4w==",
-                "mac": "keAMqxM+9XG09E+oR1YSSA=="
+                "orig": "One dungeon completed, two to go!",
+                "text": "Et un donjon de terminé, il en reste encore deux !"
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/28/elseStep/0/message": {
+                "orig": "So that means we're finally ready for that Grand-something dungeon, right?",
+                "text": "Oui ! Ça veut dire qu'on est enfin prêt pour le donjon du Grand machin chose, c'est ça ?"
+        },
+        "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/28/elseStep/1/task": {
+                "orig": "You are ready to enter the \\c[3]Grand Krys'kajo\\c[0] now!",
+                "text": "Vous êtes maintenant prêt pour entrer dans le \\c[3]\\v[area.tree-dng.name]\\c[0] !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/29/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/30/message": {
-                "ciphertext": "U/1LfBFMj4JiREvofoU/TnLL2ACziws9sEzYCQAQW7c=",
-                "mac": "gLK77ZdZPhrbNK5JaKq6Kw=="
+                "orig": "Well then...\\. let's go!",
+                "text": "Bon alors...\\. c'est parti !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/31/message": {
-                "ciphertext": "CCkfz/zGrgIP15jn/RWgkDmgdK1F612mpwhVgoJPOhg9lbS2EeqASnZOAFJxlp8pgjY9uaCkBOKklcnjqEq6Nu6dUdQEiajlZms4imAva1w=",
-                "mac": "MByiIp1f98LXq6evszozfQ=="
+                "orig": "Honestly don't feel like staying here too long.",
+                "text": "Honnêtement, je n'ai pas vraiment envie de rester plus longtemps ici."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/32/message": {
-                "ciphertext": "Z5oCg5FARQFBOAvP/wUPngcs1LYDNR6U4qCV36k7j5/eOZudQVqqoBrXGIJoFP9xvZMt7yza2BY+xgZCaQ4avA==",
-                "mac": "1f7VJfZEvoKiNPNiREUKEQ=="
+                "orig": "Yeah, the constant rain isn't all that comfortable, is it?",
+                "text": "Oui, la pluie constante n'est pas très agréable, non ?"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/352/settings/event/33/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/353/settings/teleportLabel": {
-                "ciphertext": "LWIADtM7eGil2qsewakSGONywyzhynK0BPlv24UMhCWWq7SDW4c554pIbF+Ygodf",
-                "mac": "hrk8fxa8B/aC7huuEPueLw=="
+                "orig": "Back to \\c[3]Rite of Passage\\c[0]",
+                "text": "Retour vers le \\c[3]Rite de Passage\\c[0]"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/0/text": {
-                "ciphertext": "ye7bOEO2x6xPqsAmSlLmMuDBjT5LCtiAVV3IjEewAIkTJFL68jdP7bnKuhNxcULd",
-                "mac": "vJOQwXrh+rrcbCJzsIV6lQ=="
+                "orig": "We did it! Another dungeon finished!",
+                "text": "On a réussi ! Un autre donjon de terminé !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/1/text": {
-                "ciphertext": "J9F0/3egVRno/qwgTGtJDtSoKCqpGJgD7KQhpy4alZR0T83f5ifkXmwQWcVOwBQ7",
-                "mac": "IVv5kJrz03JU7OifaHnEYg=="
+                "orig": "Yep, under water dungeon crawling. Pretty neat.",
+                "text": "Oui, un donjon sous les eaux. C'était classe."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/2/text": {
-                "ciphertext": "dsp2Gaedbr8HbNh/h9ljxgSxNButFRaUsGN9bD8G/hl85xLgbUNXvIrzcUFfik33Teet6+D2kwkb1JZr6jbtqQ==",
-                "mac": "kZfbumanFzYY21DAGRZnjA=="
+                "orig": "In fact I think this was my favorite dungeon so far!",
+                "text": "En fait, je pense que c'était mon donjon favori !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/3/text": {
-                "ciphertext": "F3H762mkEuLGm7vAenjO2igHRrrXYZL7sAescbNJHVwpvWrmuGqFxmuv+BLRlDHDYDy7VNVSqucdDw4Rfvu6M8h+NwjvGpMHVpMEj0Plnk0=",
-                "mac": "awc1mrGaUXDxvZLO4VpuuQ=="
+                "orig": "Everything on one floor, no chasms to fall into, perfect!",
+                "text": "Tout sur un seul étage, aucun précipice dans lequel tomber, parfait !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/4/text": {
-                "ciphertext": "DV+mDbAyH6Rkj3G0zxU8Ow==",
-                "mac": "mk6skkA47ikhrBMr8v88+g=="
+                "orig": "Heh.",
+                "text": "Eh."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/5/text": {
-                "ciphertext": "ZygMGOufObtRo8lPtNOlnSU/enf51dDAdKqcSjQ7BubYBpwzEf/OitoGA8N0oAL6LViuUHWVYtxniCvX+aWc2w==",
-                "mac": "MLbN5vKobB3wmG6ElfTeuw=="
+                "orig": "With the exception of those teleporters that send you straight through the ground.",
+                "text": "À l'exception de ces téléporteurs qui font traverser le sol."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/357/settings/dialog/6/text": {
-                "ciphertext": "hBaeM5rJVZUZ7967Ng30btkpwqsRvQzXVStrKmg3oW0=",
-                "mac": "tcyJdGD3O/hlz0TGhm/Ljw=="
+                "orig": "I hate those.",
+                "text": "Je les déteste."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/366/settings/dialog/0/text": {
-                "ciphertext": "6tKtDErdFHqqqNJmZRRWM46VF/H/HlxCytTFdLSqCiI/U+8fcP+9l1d0Q3lcZ1N4UjxUytlee5+srdKsFB16WQ==",
-                "mac": "IHXMzdmK49irVM9ObEBtiw=="
+                "orig": "... How often did they do the race already?",
+                "text": "... Combien de fois est ce qu'ils font déjà fait la course ?"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/366/settings/dialog/1/text": {
-                "ciphertext": "jAbcgbL+yERcmA3rHen8OLLEjHCTbzR2jWxYhOeWybg=",
-                "mac": "qCtdhsh2yCSatAxPdHicAw=="
+                "orig": "I honestly lost count.",
+                "text": "J'ai arrêté de compter."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/366/settings/dialog/2/text": {
-                "ciphertext": "TioyDoiG71HdC6cCUzAcaBHnlQbWgqALs/XJUR8GaQd5TB2insAsLk9qLyobyeGo",
-                "mac": "JRMfpwexKO6pE3Z46oIp1A=="
+                "orig": "Some people have too much energy.",
+                "text": "Certaines personnes ont trop d'énergie."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/369/settings/dialog/0/text": {
-                "ciphertext": "NJEa+DXuPqzphEGziQbG5vtBc8vw0PZEI51eyNtcGDyWvBxw+vosyGXFEKJs6vaSmPwxr0AvSCBQVBTUw7yVBtBydbq+rJ6oWJ900k5STq8=",
-                "mac": "Ejj0GG07n0st7cbaQOWqYw=="
+                "orig": "Can we leave already? The rain is getting on my nerves.",
+                "text": "Est-ce qu'on peut partir maintenant ? La pluie me tape sur les nerfs."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/369/settings/dialog/1/text": {
-                "ciphertext": "F+dEzhHyCiqatp3997DzmlDLDHCmZ2LufdOsewadjePnpWLnqWPB3FLrSB53hGHktwKn6ZzK3QHF+GNBB60saA==",
-                "mac": "vtux7hc5dQdUjLQKuxnNZg=="
+                "orig": "I swear I saw something over there in the lake!",
+                "text": "Je jure que j'ai vu quelque chose ici dans le lac !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/369/settings/dialog/2/text": {
-                "ciphertext": "5FXVfwV/CEagVoh0im6j/mk0wQePAGbO+k54qflPaXohNw0a/IutdS5glAwRXxJ5B4GbAfErBJAA6p9pX0CH2xFYcI12pRSPWAgErtDf9iJAw/hj0tJ2gScjS1SOCWcS",
-                "mac": "qBIc7Jvhx+6w7sy1iKHH+g=="
+                "orig": "If you want to watch more sea creatures you can just head straight back into this temple!",
+                "text": "Si tu veux observer plus de créatures maritimes, tu peux juste retourner dans ce temple !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/370/settings/npcStates/0/event/5/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/370/settings/npcStates/0/event/6/message": {
-                "ciphertext": "YLNDNixLNKBBTqclD+eX1wBa2ENfBUhqz73aaerbSFk=",
-                "mac": "5a0s6cpwKtM6/EFjrDhVxw=="
+                "orig": "The rain falls...",
+                "text": "La pluie tombe..."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/370/settings/npcStates/0/event/7/message": {
-                "ciphertext": "0Y0stDFCC31v/V9ctNyf9FjN8aZmrkGR3fdYamCTDUE=",
-                "mac": "cK8XZ1jMS6SpQqfoyEXT+A=="
+                "orig": "Dripping, flowing...",
+                "text": "Gouttant, s'écoulant..."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/370/settings/npcStates/0/event/8/message": {
-                "ciphertext": "gp59q3/gCRWqDL4rHzESZB+z3oa4TUFp3MBpyzRZmkves2iArcqFH67S8azC6vu5",
-                "mac": "+r3zUdJHYVzq9w2iSWdSBA=="
+                "orig": "Cleansing body and soul...",
+                "text": "Nettoyant le corps et l'esprit..."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/370/settings/npcStates/0/event/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/373/settings/dialog/0/text": {
-                "ciphertext": "PiUJp2ea+IBFL3GrNrMuW1/BwhlUSGZOr6M1sE3DMCa6eklgSJQFRjkyEjzIhcqvxHivOffOh6OD1HhYK2SwXA==",
-                "mac": "OV+1ImkGfffWb3H+dQPdVA=="
+                "orig": "So why are we standing here again?",
+                "text": "Donc pourquoi est-ce qu'on reste planté là déjà ?"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/373/settings/dialog/1/text": {
-                "ciphertext": "dJi6dCT58qZIoHvBOVRn5N1ryzolTb5kTTjZMFeEtV0=",
-                "mac": "Td9kWUSJqJAE4f83Yco8EQ=="
+                "orig": "Waiting for our last party member.",
+                "text": "Parce qu'il manque quelqu'un."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/373/settings/dialog/2/text": {
-                "ciphertext": "qI2evV7Z/UBOahNW7noE8kH3/VkndVTxO2veVQN7860WeuOFJdbU4pEdOMlTNNsJ1jWWNfi0zTJB+4Ghm+XqAw==",
-                "mac": "WQJTkNFkSYelOsS9x9FnGg=="
+                "orig": "Can't we just wait at the crossing?",
+                "text": "Est-ce qu'on peut pas l'attendre au croisement ?"
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/373/settings/dialog/3/text": {
-                "ciphertext": "MCoXF5IPs815jZ6X+efOPDWyZ4loy34kFLffSuZBEPRR2CTtiMpJpI+7cfbmgl+d",
-                "mac": "MTgg2LUxyQyELg+zV5+3kQ=="
+                "orig": "We agreed on meeting here...",
+                "text": "On s'est mis d'accord pour se rencontrer ici..."
         },
         "maps/jungle/dng/wave-exterior-end.json/entities/373/settings/dialog/4/text": {
-                "ciphertext": "D4n3haLALfqfbWbIOm6TuZsBwx/+yNW6Pw4sTmvpqLIMovUvdtgIm9NpBSGbrW1r21gOk4rf9x7DXIIKjymlEboSQvqvBUqCQFVy4rABI70=",
-                "mac": "+5khqGwze3+aVv4gMAEDUw=="
+                "orig": "Yes, but back then we didn't know it would be raining non-stop.",
+                "text": "Oui, mais à l'époque on savait pas qu'il pleuvrait tout le temps ici..."
         }
 }

@@ -1,195 +1,195 @@
 {
-        "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/18/message": {
-                "ciphertext": "9azo7+3AX05evYol07eUbA==",
-                "mac": "gNiJxRj/xnSNshqEK6e2OQ=="
-        },
         "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "jW9Q7NeDC2ezfGwDYAP/zY1KQDPqHnNot6Kj2rT3IAE=",
-                "mac": "8X048FYNdIHLTpN66e/KtQ=="
+                "orig": "Urgh, finally you're here.",
+                "text": "Eurk, enfin vous êtes là."
         },
         "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "6YROSKvoIZ000zLBf7zoO2GQG3HLbMPgkiwIAVvaX3ZnpEuhSynzxRxB2BQ1sTM1bmx8X2eR6vHS8jXLt99qPG8RracVMGzxiU7HFxAIkVM=",
-                "mac": "xBRm/LTRpQq6s9uX8EcJdw=="
+                "orig": "Another minute in this infested mess and I would have died of boredom.",
+                "text": "Encore une minute de plus dans ce chaos infesté et je serais mort d'ennui."
         },
         "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "stWBY6LfTCWpGHFJ2Pxfoj8lSNn3wxol8y84KXZMvabvyar8mzpf0zvKMKBa2qePWL25KxcbXSCMKeuaVIxrNw==",
-                "mac": "GGuOA3ypX56aqCtSB45pSw=="
+                "orig": "Now come on. Let's get this over with. And stay out of my way, capiche?",
+                "text": "Bon aller, on y va. Et reste en dehors de ma route, capische ?"
+        },
+        "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/18/message": {
+                "orig": "Follow me.\n",
+                "text": "Suis-moi."
         },
         "maps/jungle/infested/infested-path-01.json/entities/722/settings/event/0/message": {
-                "ciphertext": "ulGS6p+uKjOwt5m9yML29S8aJqT37BUAE7X9mgbmWn9iKLiALKWHhlyrrpnlSv37",
-                "mac": "d9tTAKBczSAxTwrIiFEsXw=="
+                "orig": "The place looks...\\. different.",
+                "text": "Cet endroit à l'air...\\. différent."
         },
         "maps/jungle/infested/infested-path-01.json/entities/722/settings/event/1/message": {
-                "ciphertext": "UDrwJqRkt4EeoJDFz6jvhpioxU/Cam9gFXA35z+tWiWjwh3BWkAOLH6sO1va3nLoaXnbeHWrhBQp4HTm8Qdo8W6ope2FVRc/d6CKlZTzg02iml0I9+TYjeXj+6Jv/5pYA4yyLg4wPlGxhOWpogi8N89B9/t5AlWSrwTXdXs+W0AW2kMdTFOOe7f6ZaWvPbik",
-                "mac": "5+x598hcAcTuwAZYKviNFw=="
-        },
-        "maps/jungle/infested/infested-path-02.json/entities/630/settings/event/1/elseStep/0/elseStep/0/message": {
-                "ciphertext": "wH5+HN645frNUj/xzbayqhDiGt1etWO2rNMoSfiEETie8Hz2OirfL4oq7297ctyr",
-                "mac": "LC/EZAEs8bQ2NUBd8zWOIg=="
-        },
-        "maps/jungle/infested/infested-path-02.json/entities/630/settings/event/1/elseStep/0/thenStep/0/message": {
-                "ciphertext": "QZYHbOeuxbjYcuECtUBgBUJKIizdCQJAYrHbUUJKLjew0WGsIDdclnuVtLH72nSE",
-                "mac": "Xvi2Qsi9T03nTS3jz8Pr0g=="
+                "orig": "That's right! We are within the \\c[3]infested jungle\\c[0]! A mysterious disease has befallen this part of the forest!",
+                "text": "C'est exact ! Nous sommes dans la \\c[3]jungle infestée\\c[0] ! Une maladie mystérieuse s'est abattue sur cette partie de la forêt !"
         },
         "maps/jungle/infested/infested-path-02.json/entities/630/settings/event/1/thenStep/0/message": {
-                "ciphertext": "1xLqceEGmqndPxFlbHccpU8M+fxuMzmgEN2yB+1gMpMD5kVU6vTK1CYqvS1F9Rwl1v3kbk1/Tynsw2z9nnVDaA==",
-                "mac": "n0q4EQVBoEyNQj/ntTzNTg=="
+                "orig": "Look, such a nice and perfectly regular mushroom.",
+                "text": "Oh, regarde, un beau champignon parfaitement normal."
+        },
+        "maps/jungle/infested/infested-path-02.json/entities/630/settings/event/1/elseStep/0/thenStep/0/message": {
+                "orig": "What an admirable and perfectly average mushroom!",
+                "text": "Quel admirable parfait champignon typique !"
+        },
+        "maps/jungle/infested/infested-path-02.json/entities/630/settings/event/1/elseStep/0/elseStep/0/message": {
+                "orig": "That's a nice regular mushroom, isn't it?",
+                "text": "C'est un beau champignon normal, n'est-ce pas ?"
         },
         "maps/jungle/infested/infested-path-02.json/entities/630/settings/event/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle/infested/infested-path-02.json/entities/631/settings/event/0/message": {
-                "ciphertext": "p7WnZo9rQGkjqoS7EgSD3w5x+HF5GMd0Kj8uy4JoXSabpwhENgWQp3W4FjA6Z5sc94sfRzIAZ4rltgu8++iJOQ==",
-                "mac": "8rIKl/I4e9XPRxtHVWcVZA=="
+                "orig": "This part of the jungle is pretty creepy, non?",
+                "text": "Cette partie de la jungle est assez angoissante, non ?"
         },
         "maps/jungle/infested/infested-path-02.json/entities/631/settings/event/1/message": {
-                "ciphertext": "r1i149/dxZLeNVUAc5aDDa0OUObC9P0tF9f4L7OKmcGGnpyz9EBt6UaS/qJMgIv2",
-                "mac": "02MEUlmNdbumQx4LwIbpHw=="
+                "orig": "What is it, Pentafist?\\. Are you afraid?",
+                "text": "Qu'est-ce qu'il y a, Pentafist ?\\. Tu as peur ?"
         },
         "maps/jungle/infested/infested-path-02.json/entities/631/settings/event/2/message": {
-                "ciphertext": "v9zi9NIbIrAEiLuk+okIDG375xKxnWxHdSokmSAtYckLbUVHyvCjYlIVZWHWqCz0",
-                "mac": "NBv09whh+/RywsYfZtnY3w=="
+                "orig": "I have a name, Grasshead.",
+                "text": "J'ai un nom, Monsieur Tête-d'Herbe."
         },
         "maps/jungle/infested/infested-path-02.json/entities/631/settings/event/3/message": {
-                "ciphertext": "Xr25zq5OcJtcwFac65o+cA==",
-                "mac": "UI+dxqDxHC4y4paX1Kwdhw=="
+                "orig": "So do I...",
+                "text": "Moi aussi..."
         },
         "maps/jungle/infested/infested-path-02.json/entities/631/settings/event/4/message": {
-                "ciphertext": "0mDj9OacOqPxTDLIK5YcYQ==",
-                "mac": "AufLmXVA6TLLwdvE809s+Q=="
+                "orig": "...Lea?",
+                "text": "... Lea ?"
         },
         "maps/jungle/infested/infested-path-02.json/entities/632/settings/text": {
-                "ciphertext": "G0KzbJCFCbAke6xzpCauccFy8O/9NtUg/AMTqwSa4LWCPntsI2kdGcVSb7ntLb0s",
-                "mac": "8mHd9UGwhNRGMVaHNV/AYw=="
+                "orig": "A perfectly regular mushroom",
+                "text": "Un champignon parfaitement régulier"
         },
         "maps/jungle/infested/infested-path-03.json/entities/171/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/jungle/infested/infested-path-03.json/entities/172/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/jungle/infested/infested-path-03.json/entities/173/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/jungle/infested/infested-path-03.json/entities/174/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/jungle/infested/infested-path-03.json/entities/175/settings/interact/hoverText": {
-                "ciphertext": "giEqPNKayu8DrwB7xSL2/3qvwTVjGIKBzKLWRtBcl1o=",
-                "mac": "PBtBmtPlKA9NJ8FSsiqSkA=="
+                "orig": "\\c[3]Infested Marshes\\c[0]",
+                "text": "\\c[3]Marécages Infestés\\c[0]"
         },
         "maps/jungle/infested/infested-path-03.json/entities/820/settings/event/0/message": {
-                "ciphertext": "9cPFX9xWFfZHuT28MINmW78I3eRQAYdOgCB0NbChoJEHj8cfwzFPjLIPuohyEP7+",
-                "mac": "f18PZ0YASm4QFj6ITR++wA=="
+                "orig": "Hm...\\. getting kinda hungry for mushrooms.",
+                "text": "Hm...\\. J'ai un peu faim de champignons là."
         },
         "maps/jungle/infested/infested-path-03.json/entities/820/settings/event/1/message": {
-                "ciphertext": "ivb2FczI2AdHOfpyIXue4xH1JMti04eI9252xkl/5vLl+CxN80fbTJ6Mkr9NZRi3CIobSwF31fJJELMAZ7qnxSWyjv9DLueTHzx9A0MBbdI=",
-                "mac": "p6HwDaHCvukK9jO9U/JYFQ=="
+                "orig": "Really? Those huge blue and purple mushrooms make you hungry?",
+                "text": "Vraiment ? Ces champignons énormes bleu et violet te donnent faim ?"
         },
         "maps/jungle/infested/infested-path-03.json/entities/820/settings/event/2/message": {
-                "ciphertext": "YutzVvwlj/oaCwwUbQyCAEi87spt/2vF1jmJDmhNCRtxqIE7G8GMEV/g8Fj414NroygXMoLuGWG5srbHyP9dx10Cf3woCuZ3Glvo4jbWlHFShaI6dffrymGFYPicM/Xr",
-                "mac": "/QZbxgxUAsV6qzMFcHNywA=="
+                "orig": "Why not?\\. Don't you folks eat cheese with blue mold and stuff like that?",
+                "text": "Pourquoi pas ?\\. Vous mangez pas du fromage avec du moisi bleu et des trucs du genre ?"
         },
         "maps/jungle/infested/infested-path-03.json/entities/820/settings/event/3/message": {
-                "ciphertext": "hvTJ253dhhXtGEKU9EexZf78jb2emAbuAGFwmS0Ch2wD4jK+DPa/AIiWRhPMQkHJIgVmiSMXLstMjpvgu8rolw==",
-                "mac": "mi5Y1DKvqMjPXFXEIMUaQA=="
+                "orig": "Whoa, hold up!\\. Let's not fall back to stereotypes here!",
+                "text": "Ah non hein !\\. On va pas tomber dans des stéréotypes !"
         },
         "maps/jungle/infested/infested-path-03.json/entities/820/settings/event/4/message": {
-                "ciphertext": "D3ApKuhNIcn0gSQQ0i6uFP+Jxfy1ZjMLqTkTApEerfK9aaz/DQlG5MEtSdEzEHmLzdu9pzotF7rEgZFZB1yrKA==",
-                "mac": "rKUCflSDhF8wz4opVFNWmQ==",
-                "ciphernote": "UbLMhTNRtJaJ6PNWOlSkkJTE5lvd+XhU7jSS6zakAoQ9TXTUMvFGO3Z7jtSnXgFMaItplDNE/LcCKbMSuliad8UHfl9LqTxljhPTiHofCi8="
+                "orig": "But oui...\\. Roquefort is pretty neat sometimes.",
+                "text": "Mais oui...\\. Parfois, le Roquefort c'est super bon.",
+                "note": "So neat that Société is starting making non-Roquefort, 'to please customers'"
         },
         "maps/jungle/infested/infested-path-03.json/entities/821/settings/event/0/message": {
-                "ciphertext": "KcgmmNVdtcyIQ0hij4AOO6tKIt3kwmCpXiA6GYem61AlmZ8qAlwlOGuKTANxY8HS4eBnDj4kn/bKCY1Vry4f1SnkOVuunB0Z4q+Zl6d/FYYX5IItjiKRDsKujk/0JSbuqwoWxIrPVsFcfD7QIMkJKg==",
-                "mac": "KuS7kfB/BcwpXpB2CA25mQ=="
+                "orig": "So many giant mushrooms in this area.\\. Do you think those are edible?",
+                "text": "Il y a tant de champignons géants dans cet endroit.\\. Est-ce que vous pensez qu'ils sont comestibles ?"
         },
         "maps/jungle/infested/infested-path-03.json/entities/821/settings/event/1/message": {
-                "ciphertext": "HSMByLowOXJnmZ9E1V7Lx4Glr5Fj8sFaeJHfW2wm8EkwknOQlpCQ6ssScPWtK0jzqZdjsLj6eESMBXX7D2S5NQ==",
-                "mac": "YFJH8sd8ZoqMW8YdosyQag=="
+                "orig": "It's safer to assume they're not!",
+                "text": "C'est plus sûr de considérer qu'ils ne le sont pas !"
         },
         "maps/jungle/infested/infested-path-03.json/entities/821/settings/event/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/infested/infested-path-03.json/entities/832/settings/event/4/message": {
-                "ciphertext": "STyG7z5RYkLScRE65QyCYw==",
-                "mac": "WZl+kBZ5xcAgbhsz6V07hg=="
+                "orig": "...Wait...",
+                "text": "... Attends..."
         },
         "maps/jungle/infested/infested-path-03.json/entities/838/settings/dialog/0/text": {
-                "ciphertext": "h6ct59YIcOTfvigV/iU5JhsWtXuyWnCZ5Z/uX5q/QQRXpwSQAf+XvEF3jlQg7YqGVGubvn0c9ssZrrn6EtFwreDMHUlZJbQML0519x1DBt0=",
-                "mac": "a0kd992Hg+yL7uH8ZQkozg=="
+                "orig": "Those enemies definitely don't belong here...\\. this is weird!",
+                "text": "Ces ennemis n'ont vraiment rien à faire là...\\. Ça colle pas ici !"
         },
         "maps/jungle/infested/infested-path-03.json/entities/838/settings/dialog/1/text": {
-                "ciphertext": "SaAX7yylZzU4aX9zdIgAYxRZb1DK/73odYoW29tI2lTJFKMdv2AppKTiz5BI+rJR",
-                "mac": "WTxfyeQmXoEbQ6XhCdCvkw=="
+                "orig": "Yeah, how did they end up here?",
+                "text": "Oui, comment ils ont pu arriver là ?"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/16/message": {
-                "ciphertext": "qfh2d9hlxc0vMHyM+eFvgPt1xY2qzDtCbNQfQuvj3OHBGPZcX8RFXlYHXqJoJ/1osmgAcsEgf+AWObkQTAX7ow==",
-                "mac": "W+dvQvogrKcjMC1NfmneYw=="
+                "orig": "Hey, thanks for cleaning up this mess!",
+                "text": "Hé, merci pour avoir remis de l'ordre dans cet endroit !"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/17/message": {
-                "ciphertext": "/ScMErUnZOIJelLiIO3FbeYBe0IgQXGbnFHsN0JRJVuY+DQecGsdyzTKf3/s4eD3",
-                "mac": "RFXFRn+pgOWAPbk3oePzkQ=="
+                "orig": "Seriously, how did this even happen?",
+                "text": "Sérieusement, comment ça a pu arriver ?"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/18/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/27/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/31/name": {
-                "ciphertext": "P35bXY9lcW0pQ9q3qEq+EQ==",
-                "mac": "H1hgGXm6cqsSDAbadSO5mg=="
+                "orig": "Lily",
+                "text": "Lily"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/32/name": {
-                "ciphertext": "tWaW7woXb3uFQPz0cue5/Q==",
-                "mac": "5yiCvOCCIxHdKBTNk47pUw=="
+                "orig": "Priel",
+                "text": "Priel"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/33/message": {
-                "ciphertext": "Ht7zntcVS6W+RQFlxiWOZQ==",
-                "mac": "WKAcWe5fWVurLYr5JbmU7g=="
+                "orig": "Hey, Lea. ",
+                "text": "Hé, Lea."
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/34/message": {
-                "ciphertext": "XSQe2bD6H4zefjvkW2hSd+oQPsqagagk00x5HiX4zE3NpWbhBwWzbJfVlANIBJEeU5OR/22d4lhRxD5gVe6mrcCbHJAwqp1CSXhJmGFaFWZt8jxqaORbE81FhDVkVBj7",
-                "mac": "nY5ZZrjSUh//7Oe0/8aGrA=="
+                "orig": "So it seems there is this huge commotion going on to the \\c[3]south of the arena\\c[0].",
+                "text": "Donc on dirait qu'il y a l'air d'y avoir du beau bazar \\c[3]au sud de l'arène\\c[0]."
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/35/message": {
-                "ciphertext": "JNJrXy8o/H6l4X+pf3VYu9pS5nOj5xqE+29tiq7K+pN1GGUHA7pbbMrCIXKu8QBwlUspREqM3CFQByjYGQU9IA==",
-                "mac": "sDbgDNo05Otn9r3Qjzr2Xg=="
+                "orig": "Yes, there's all kind of random enemies here!",
+                "text": "Oui, il y a toutes sortes d'ennemis rassemblés là-bas !"
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/36/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/37/message": {
-                "ciphertext": "4+K5V1OwTZQMFNpAw9U7qi3E20V9h7sOTElxsqSu+QseGKCMPmRsuJ24e1I0TyhY2i4qjPETP/Xez2MpDYd14x0rS5/uVfeoaYAaaJpjF9A=",
-                "mac": "bo9Ywot7cqSgMf+bDXb+ww=="
+                "orig": "And we all know what that means.\\. Reize must be close.",
+                "text": "Et on sait tous ce que ça veut dire :\\. Reize doit être dans le coin."
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/38/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/infested/infested-path-03.json/entities/839/settings/event/39/message": {
-                "ciphertext": "r9UEAesmT+1NSnjrIw15eWi5xg8y0+yRDh3m5z+h40gd7sxzrMRkWEqNbG9bWfhJWePUorbHJuRU1kG9Ct/4Oi67ovtG0Vojc61DIVDgbTKROp1iYpyVOVSlQ93vRkpAklGipIj+RLrbAxt+NHyhVw==",
-                "mac": "GbP4lQ+AY3PUvzF4CvUGEw=="
+                "orig": "We're sorry for all the trouble... but your help would be really appreciated right now.",
+                "text": "On est désolé pour tout le dérangement... mais je crains qu'on ait à nouveau besoin de ton aide."
         },
         "maps/jungle/infested/infested-path-04.json/entities/814/settings/event/0/message": {
-                "ciphertext": "0qVmmUXjfHbPWlCLcRTmPn5h4KGzqFXhWwJWNtiM62Q3rRXat5rArbe5CZUdypLemxsasgW5mZu3yssiuNyfTQ==",
-                "mac": "wzqxKamOwfe8SjRHKBNZeg=="
+                "orig": "That's an oddly shaped mushroom...",
+                "text": "C'est un champignon d'une forme assez étrange..."
         },
         "maps/jungle/infested/infested-path-04.json/entities/814/settings/event/1/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         }
 }

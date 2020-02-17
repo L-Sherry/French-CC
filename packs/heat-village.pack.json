@@ -1,608 +1,608 @@
 {
-        "areas/heat-village.json/floors/0/maps/0/name": {
-                "ciphertext": "UpPtYBjMwH6AOtqI+SIgqXknHvPUi6sdJ5PAlr6ctEx63B6+VJjaJvb96Ayw9RH8",
-                "mac": "fP2olEIacWg5VRYDH6tsXg=="
-        },
-        "areas/heat-village.json/floors/0/maps/1/name": {
-                "ciphertext": "vdLh771OP2i1D/OwIEr10Q==",
-                "mac": "scIUrOYxjBpe8a9XxLC3pQ=="
+        "areas/heat-village.json/name": {
+                "orig": "untitled",
+                "text": "sans titre"
         },
         "areas/heat-village.json/floors/0/name": {
-                "ciphertext": "2QdZ9KJUI2x6cSokT4rAhA==",
-                "mac": "RjQ9CqgxYWm3Q/983mqlJQ=="
+                "orig": "Cellar",
+                "text": "Cellier"
         },
-        "areas/heat-village.json/floors/1/maps/0/name": {
-                "ciphertext": "64RCePecEyk9wLrrBf75qm0qhVKdXmNBjGxgNsZfBtM=",
-                "mac": "3HOiQ6ouJRRHyiAKad48iA=="
+        "areas/heat-village.json/floors/0/maps/0/name": {
+                "orig": "Seeker Hub Cellar",
+                "text": "Cellier Repère des \\v[lore.title.seeker]s"
         },
-        "areas/heat-village.json/floors/1/maps/1/name": {
-                "ciphertext": "vH2PsRniQWv3jyXz8IIp3A==",
-                "mac": "UEg6I5n0K78uujh1RbNVVQ=="
-        },
-        "areas/heat-village.json/floors/1/maps/2/name": {
-                "ciphertext": "tLcdfZMS0WwkE/KmJ5RF+0Khu8bgBBLTwDqE6lwYK0+er/t0cFJm55qfYuIhj17o",
-                "mac": "1y9XeSzyD0+F3+IfjgE3+g=="
-        },
-        "areas/heat-village.json/floors/1/maps/3/name": {
-                "ciphertext": "Q8iYOpHKB7PD/fzV1llzdw==",
-                "mac": "F398dneNqS9hQke8MkQF3w=="
-        },
-        "areas/heat-village.json/floors/1/maps/4/name": {
-                "ciphertext": "fyuiMJ3YlpXJb472ySpUtA==",
-                "mac": "yQiOdfCmv2wTlnGXDmio7A=="
-        },
-        "areas/heat-village.json/floors/1/maps/5/name": {
-                "ciphertext": "HBXu5bksSeFYgTw/VUsxE2BNRemUFYhTCQUVDr6ja6w=",
-                "mac": "Jf2y1798SYkpfL/vgc/Hjg=="
-        },
-        "areas/heat-village.json/floors/1/maps/6/name": {
-                "ciphertext": "Is9orMc1n+rf3c6favXnfw==",
-                "mac": "O8Q5nwuQaeoCvfa3CFFaHg=="
-        },
-        "areas/heat-village.json/floors/1/maps/7/name": {
-                "ciphertext": "CYtWmEm1mA9egNjKOFiywA==",
-                "mac": "T1pLvYOrTx1yLglByO2Lzg=="
-        },
-        "areas/heat-village.json/floors/1/maps/8/name": {
-                "ciphertext": "fNqTrWnigKET/UToy7GZnujtyZLGDlMItxhPQG7zshw=",
-                "mac": "LD4J/Xqj2QHNJkTEuEYGFQ=="
-        },
-        "areas/heat-village.json/floors/1/maps/9/name": {
-                "ciphertext": "eSqXjt/6gwkOBpIGm4DJgsLsuRvln17WWHKfMxQy2SE=",
-                "mac": "WlrflKYE8By9H4s741T3Iw==",
-                "ciphernote": "iEdkB28Npmi3QoOvX8YGCECJKAyTyAMANu7U3mZCJJeWY6WXytxZjtwU0D34pKdj"
+        "areas/heat-village.json/floors/0/maps/1/name": {
+                "orig": "Distillery",
+                "text": "Distillerie"
         },
         "areas/heat-village.json/floors/1/name": {
-                "ciphertext": "gseL23BB3b+WnBINxTqnzQ==",
-                "mac": "1tO3C35M5qxRXqxNAdpNkw=="
+                "orig": "Ground",
+                "text": "Terre"
         },
-        "areas/heat-village.json/floors/2/maps/0/name": {
-                "ciphertext": "LImD14OvVJEXxrukZFnRvFXpcswrcIIe+yt2Td9b9n5pBUbY5/RAX4dE8UwIUQGH",
-                "mac": "UdbhdhhP+K0C8z0JKFzBAg=="
+        "areas/heat-village.json/floors/1/maps/0/name": {
+                "orig": "Solar Farm",
+                "text": "Centrale Solaire"
         },
-        "areas/heat-village.json/floors/2/maps/1/name": {
-                "ciphertext": "srzKEfvgiti/38ABOLdYFA==",
-                "mac": "kqbFNEfL6P0RDuxiI/zTkg=="
+        "areas/heat-village.json/floors/1/maps/1/name": {
+                "orig": "Market",
+                "text": "Marché"
+        },
+        "areas/heat-village.json/floors/1/maps/2/name": {
+                "orig": "Seeker Hub",
+                "text": "Repère des \\v[lore.title.seeker]s"
+        },
+        "areas/heat-village.json/floors/1/maps/3/name": {
+                "orig": "Shop",
+                "text": "Magasin"
+        },
+        "areas/heat-village.json/floors/1/maps/4/name": {
+                "orig": "Shad Home",
+                "text": "Maison Shad"
+        },
+        "areas/heat-village.json/floors/1/maps/5/name": {
+                "orig": "Arid Breeze HQ",
+                "text": "QG Souffle Aride"
+        },
+        "areas/heat-village.json/floors/1/maps/6/name": {
+                "orig": "Baki Guard HQ",
+                "text": "QG Garde Baki"
+        },
+        "areas/heat-village.json/floors/1/maps/7/name": {
+                "orig": "Bazaar House",
+                "text": "Maison du Bazar"
+        },
+        "areas/heat-village.json/floors/1/maps/8/name": {
+                "orig": "Dusty Home",
+                "text": "Maison Poussiéreuse"
+        },
+        "areas/heat-village.json/floors/1/maps/9/name": {
+                "orig": "Children of Shadoon HQ",
+                "text": "QG Enfants de Shadoon",
+                "note": "there is no lore entry for it, and no quests."
         },
         "areas/heat-village.json/floors/2/name": {
-                "ciphertext": "5w4GpD5sOmwhoSC7jntfeQ==",
-                "mac": "Z4R5+j3XKOsyfbRAUCWrog=="
+                "orig": "Upper",
+                "text": "Supérieur"
         },
-        "areas/heat-village.json/name": {
-                "ciphertext": "FaWNNcTP4kbBTqDCKqqJdA==",
-                "mac": "vmFl8w/8qkkacVdD494Hfw=="
+        "areas/heat-village.json/floors/2/maps/0/name": {
+                "orig": "Seeker Hub 2nd Floor",
+                "text": "Repère des \\v[lore.title.seeker]s 2ème E"
+        },
+        "areas/heat-village.json/floors/2/maps/1/name": {
+                "orig": "Bazaar House Storage",
+                "text": "Entrepôt Bazar"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/25/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/30/settings/analyzable/text": {
-                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
-                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+                "orig": "Receptionist",
+                "text": "Réceptionniste"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/30/settings/npcStates/0/event/1/name": {
-                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
-                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+                "orig": "Receptionist",
+                "text": "Réceptionniste"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/30/settings/npcStates/0/event/2/message": {
-                "ciphertext": "UHkzUfjtSahjV3rZ122j/7RKewls/L7TCbPb9ed+Mq4=",
-                "mac": "OveF9x+2pRerskWUxhU8MA=="
+                "orig": "Human, hello!",
+                "text": "Humain, bonjour !"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/3/message": {
-                "ciphertext": "YDva9IJIPalopTZoSRzy7fmyYacfoRL+IccaIQMjE/Nepvlz2m3xgIJP1waE6Eps",
-                "mac": "gLrQHQEeTRCqRI6luW9nQg=="
+                "orig": "Ah, \\v[lore.title.seeker], welcome!",
+                "text": "Ah, \\v[lore.title.seeker], bienvenue !"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/4/message": {
-                "ciphertext": "6O3AA1H3WYSsa6MlMrcCMLkk+NcYeAoQrsU3ksZegOHYBgHhPQxDzF1XrTF5Gz+JZEpbKe45wOM1efJpM9Zgiw90kh/gYNKrVoazmsSDhwJsVbh1VzM/+/IOf4gqzwPwog0J3THd5s7qUZ4iX7/SmuB/GJOEXfYF/FN7odhZVe4mrOMmbv0TbsZq0h6nXD2K",
-                "mac": "BeKqoGzehglXAX8ljuG3fA=="
+                "orig": "Would like to give quest of spiritual journey to help find wisdom.\\. Sadly, it gave humen brain difficulty to handle.",
+                "text": "Voudrait donner quête de voyage spirituel pour aider trouver plus de sagesse.\\. Hélas, difficile à supporter pour cerveau humain."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/6/message": {
-                "ciphertext": "darj9vQ1qATX8USXdaUSvcEgI1dAeWAL1RtxC0nw7ikqNl3BAnK4kzBnl/5pe8mwfCje+kw8iwCuuICGwMNkpLSmSPUfXq6Yy91L8ID/cKYaTuO01UZYfHYQgxYr4Kx4AvT2OmhX2+3w34wpdj3h5w==",
-                "mac": "SDKNAr/gjTwSk0INg8slrg=="
+                "orig": "Shad working with wise humen to make ceremony be friendly to \\v[lore.title.seeker] brain in future.",
+                "text": "Shad travailler avec hommes sages pour rendre cérémonie amicale pour cerveau humain dans futur."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/62/settings/npcStates/0/event/8/message": {
-                "ciphertext": "qv+4MxHc1A41+cGhFLkl2g==",
-                "mac": "ocoXKMDSQlIJ2USp7SOxYw=="
+                "orig": "...bye.",
+                "text": "... Bye."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/0/text": {
-                "ciphertext": "hdN0aPkWfCsi5hC9HKhKqhkGVjXgt+bKeGZfNjHhRBB9jOmXgRRKVEpFBmjO9whbTOSJBuFnutqXqpLAmaF6cw==",
-                "mac": "zGeSpmpnvK9Mqqh6LjHb2Q=="
+                "orig": "It's really a shame that this faction does not offer any quests right now.",
+                "text": "C'est vraiment nul que cette faction n'offre pas de quêtes."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/1/text": {
-                "ciphertext": "NxcR5gQctoKv9Z6ZcFJ7w5qAldcJrnV6nID5Ke8BonIqK8HwKMMmzJDl3+oOYu255aEkhfIphr4bl6/lzHQXUlDKoJGrGM8LEmoSGqsjP2jxEOdWg74Y2XC29MLQOUVpQTlC2iFN7Gzz441nDihFmxUNhBQebhDkrnpgRNHuoFk=",
-                "mac": "tm+gxjx2WGw2cTDFcWR3yA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/10/message": {
-                "ciphertext": "QSvVa4+xO72JSHNXDg45D6ihbyXRHcyGvoiimolnt6pcgYRhXa5ptfGGvQ8Lp+7RgX5lR5+1WmYa9Nl1ahPPMwFmgbQ4FkNIZOErBxPMdj0mT7o6ZowFXkCwK8cpCYqwj3JMfQfqtJ0ymCewqHM2LPTXfvXupb9CErTEuM2dpV3NJBH8y0J6lxf2sEuHRyaP",
-                "mac": "0usrK8gX99sYGaNxh/G7TQ=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/12/message": {
-                "ciphertext": "t30TfJ+RqEyzCYNqEvONRplhyxdbKdzUL2lt5IYZaES3WbXjE4LfT6F1QdHxJBvHcFJ4o9abagNMcLdmlpENuj05CW8EERAWYw1zjzmJlT0TO615e9XklNfwZY8I1l4sUtrQ6m5/Pgc11KCeNNiUA7BibwkRF/rPc9S0H+CIBhsXnk+Cw8KXKolXYjIkF5XaZOCfW65iBZsXZQ1LFRg7Ri8FS3RN+t3MLJyl9tgpGkE=",
-                "mac": "x/NsxqqQw5JycJyhn8+H0A=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/13/message": {
-                "ciphertext": "BRmjbIg36RT/qA/g06aMqchXvnnslL/z8grOGSVDm0WBW8FSrIACHq3BChmaUBlIwESIDotobIAlB6AgeScKReXGV+DymKRMWjK68Lc2hfR6deJZG3zv1duJDkXxWFl5",
-                "mac": "WD7imOnd9N4tXX3sMRf6bA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/14/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/3/message": {
-                "ciphertext": "X4FoeZPBI6ub0SXIkNYi/Q==",
-                "mac": "xKd0yfBXiCCSO0RsQRa0pg=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/4/message": {
-                "ciphertext": "Ye32dOv8TGmDf8JfVJxqqoBEZKZ7fZz+q+fM6/afxxbnAaeyOq2S2050CjeU5zxNX5QQaU2M5/MYvVfLBMA2MvDYOhX0fpwelT5Fr0Uj/AcR9lIDgUZTh5mdD893fFLNuQ+5CFd5VbeBaHXM+MWbDw==",
-                "mac": "3XU3FHtyzdkr0/bpr4NoBg=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/6/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/7/message": {
-                "ciphertext": "wlsXtOywakzbv+PWnGpkXdODtsrABzOgzuSSOIbW81Sq0rfVB1PvUurHPC2eGlsRgEX2WNN8tmyBEhCgjx2sGlqtCdMSr7qs6Ciz/tf6UYM5UW+ut5kWYoxr87vRnp0zaLPmFG6GwSxVydfnctVAIfB7BuxJ5beVKTLZsU1V9k0P8kOdQ5P4g2+wWi0uC5vQHOMg340cMRfzUVnnU872jw==",
-                "mac": "DGvwUDiX1ptQegGNAjbIRA=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/8/message": {
-                "ciphertext": "B6aK//Mv8N63AVukzh+GAq84Ys4cV95DOxTs5Swo+L6iWQKNXaDYnkTlIizSGvHNbFHPwoVsGRoo4ManURB1qgKJxR9xFCEqhLkpsjk8fXtw7qAnKte7AzMB3N9tKcC1Rb01MCG/OqGGhbKC6CL0e1SPBDFYKWRfAmTn8O2stceFqKbKESFPwzmxnoVObQST",
-                "mac": "ai4h4RQJJb37z+hQQw+jLw=="
-        },
-        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/9/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "Yes, especially since it apparently was very heavy on the background lore of the Ancients. I would have loved to see that.",
+                "text": "Ouaip, surtout que c'est complètement construit sur le folklore historique des Anciens. J'aurais bien aimé voir ça."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/text": {
-                "ciphertext": "zpDZvRoAsB9lTP9vv17cSs0zq2iNJQ9D0L4Oa3bXFJgKsw3Hu+bX86Q1ZcWzQn9kw3t5Pr9rfnhAkmM13LkMuuTA+0rIknp5n6KV3/KJxTTtpSfvqYXrffjT5PauTP7YMNt/nmKZ/PYGPxWMnudZ38jlQMVN2ZujfLrxaxHSXBQ=",
-                "mac": "TgN72IwpVoh1GqCXe44Ytg=="
+                "orig": "Dito. But \\v[lore.title.dev-company] won't risk another lawsuit \\c[1]after what happened here\\c[0].",
+                "text": "Pareil. Mais \\v[lore.title.dev-company] ne va pas risquer un autre procès \\c[1]après ce qui est arrivé ici\\c[0]."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/3/message": {
+                "orig": "Hi...?",
+                "text": "Salut... ?"
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/4/message": {
+                "orig": "Oh, hey there.\\. Are you wondering about the lack of quests from the fourth  faction of this town?",
+                "text": "Oh, bonjour toi.\\. Tu te demandes pourquoi il manque des quêtes dans la quatrième faction de cette ville ?"
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/7/message": {
+                "orig": "Well, supposedly the entire questline has been about exploring the Ancient past with some sort of dream-ritual, or whatever.",
+                "text": "Oui, apparemment l'histoire de la quête était à propos d'explorer le passé des Anciens avec une sorte de rituel de rêve, ou je sais pas quoi."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/8/message": {
+                "orig": "Yep, something really colorful and funky.\\. A friend solved it a while ago.\\. Told me she got a burning headache afterwards.",
+                "text": "Oui, quelque chose de vraiment funky.\\. Une amie à moi l'a terminé il y a longtemps.\\. Elle m'a dit qu'elle avait mal à la tête après."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/9/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/10/message": {
+                "orig": "Sounds bad enough, but for some people it was worse.\\. The news were full with cases of seizures and such.",
+                "text": "Ça a l'air nul comme ça, mais pour certains, c'était bien pire.\\. Les news ne parlaient que de cas de crises de convulsions et autres."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/12/message": {
+                "orig": "It was rare and caused no lasting harm, but the PR was still terrible.\\. So they took it out until the problems are solved.",
+                "text": "Oui, mais ça arrivait rarement et il n'y avait aucune séquelle, mais ça donnait une image terrible.\\. Donc ils ont tout enlevé le temps de résoudre le problème."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/13/message": {
+                "orig": "It's a shame for missing content, but better save than sorry.",
+                "text": "C'est vraiment dommage pour le contenu manquant, mais bon, la sécurité avant tout."
+        },
+        "maps/heat-village/interior/faction-bakigreenies.json/entities/71/settings/dialog/2/event/14/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/73/settings/dialog/0/text": {
-                "ciphertext": "125gFdxXLazta23EvhV8aZ/k3s71ZSiFf9Br+aNhZCslOwbWm+HKdiRbUs73v8ZJLMZmxSAhA56Fri7YJNMmOEN1PFKC4S0gTHQiEdt8UzQRr2XPFXvpRdB5iP+czlJ8rrDJLYnrCF55jYV8JQJuM1LMsNvsWVKkgqNm5wE9/Hw=",
-                "mac": "73/s7k1/H0nGIL6kikfIRw=="
+                "orig": "Dear players, due to technical difficulties, the quests of this faction will not be available right now.",
+                "text": "Chers joueurs, pour des raisons de problèmes techniques, les quêtes de cette faction ne sont pas disponibles pour le moment."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/73/settings/dialog/1/text": {
-                "ciphertext": "3fN4MJyV/PZsb5DrLFGIij/j0eT9LPje5cOigRO2qiCtR8KreJ1J4En+jr1K9EeEG6BmsyImfRRiYZ2gB9lKC2qSedIUjGF+xnasEuvbedIascl15vOjwDxSSNBijIp3dozQ4bVkJtrB9TjIOJ1fDbtQZqd53RqTcNl/7W0G6IChzxfZjygdQ8owJRTtPP3mI9oodZpaF2i4HajDiogoa8Ii4l2thi5ukiL7pNP3YeWbgpepqrc/7kzKiJ179v4Vg98CGjUSXUneJmSbDmT/JfvlDYUeTHxlawd4E2d38Fw=",
-                "mac": "ZKqVPRyh+zf0+qrc5ySZ3w=="
+                "orig": "Both the health and enjoyment of our players are very important to \\v[lore.title.dev-company], so the quest will return once all the problems have been  safely resolved.",
+                "text": "La santé et le plaisir de nos joueurs sont très importants pour \\v[lore.title.dev-company], c'est pour cela que ces quêtes seront disponibles dès que nous aurons résolus tous les problèmes liés à ces quêtes."
         },
         "maps/heat-village/interior/faction-bakigreenies.json/entities/73/settings/dialog/2/text": {
-                "ciphertext": "I5fRNXATlfix0emTKKhjIE/MdjlQbCFc0IXEV/OLp7ALHbVo5XvvO6mHrW9zDoBKSW4sAzkBGq/fIV+LAixrXFHthS827BThjyctb26JM9k=",
-                "mac": "rTqITa//rnpH4FMFtq6dOw=="
+                "orig": "Thank you for your understanding and sorry for the inconvenience.",
+                "text": "Merci pour votre compréhension et désolé pour cette inconvenance."
         },
         "maps/heat-village/interior/house-1.json/entities/38/settings/dialog/0/text": {
-                "ciphertext": "KjHcPRHapeUwu80sPBb5ofFUcrEPTtk/SHuvndrhxrjlDHBti9ppty5weE1MTdcV",
-                "mac": "e0sDR7MGiHj480gI5A44eQ=="
+                "orig": "Mh... Bread has strong will.",
+                "text": "Mmm... Pain avoir forte volonté."
         },
         "maps/heat-village/interior/house-1.json/entities/38/settings/dialog/1/text": {
-                "ciphertext": "+lxAPSVQCpxf15wmUZRG/O+kMBqLDWDG2Ala+ng8fyY=",
-                "mac": "U1FKTZaDHBKxmTWSOISYxw=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "SDuuejziZQqnJKIGT4xWsyCQqsIPaJWn8AqP65xc9D8mWzDLWzeW8OGWu340aJ/p",
-                "mac": "ebIhlowXbFJ7qzRK+rlSRg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "SQ7eSo0NkdLBfRHk462fQYzeGHIV4v+Az1umt1soNpfR43r1qiGbAnb6F63iJ7+taT/edquT85kVrwhYsMy3fqJh/mqvCYarFhnwA4CokJbgZz7Fk0u8HLu+BLjo2OdQ",
-                "mac": "A4UKN1yqYZ9KdNOn0tmO0w=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/13/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/14/message": {
-                "ciphertext": "YEXhuQKGBX4qpL8s8ONZomJamkBuk5UC3ECC82mjd5h0gvj4COegIuwerv70VbEloQ8tcL8h84IocjnsbVq0fgxR2JXg9FLM5JdI4JS7H4LkIlrgvkPBOjoXARPwuEZ7",
-                "mac": "rKz2ZWOrlMikZE1hUYOqOg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/15/message": {
-                "ciphertext": "rO7+OJSBo/6KoSP6WFSyXkJP4vk4uCGQmeC38w1esCg+FArn7zwl3ZJc/xIR9cX7AzjqL0VzmzC8Clqnye2edA==",
-                "mac": "ii8y7yYDFwAVNQFQWrmVrA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/16/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "8kR3MI0gdVTnaAe7ZNGZx0eAAu+fTL9xY9PvGUiBEn5uOsLANWafLMWEhlUSSutZ",
-                "mac": "KsswcbcJ610RFxloGBt/hQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/18/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/0/message": {
-                "ciphertext": "Cg2CsSxf8k72CGLZJ1fUTA==",
-                "mac": "owVML8GZffTBxRnqAmJWRg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/1/message": {
-                "ciphertext": "vkFn4Wg2wU13jB41n13X0sxpw4EKbJ0XkvIbKmpCoDATMK4Y/F41OYgwp59LvljlqeOnb6hT7Qbf9+amjChhQA==",
-                "mac": "3UEhSs8NuqfTVBnO7P4GqQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/10/message": {
-                "ciphertext": "Uq7UfJDJzZ6+tbNDzins9FunzdkdE5xU6WVtLd7QaBIvuOFFUGtGb31RukpUKgk3",
-                "mac": "B3NZ91r2k5Ws4maEnqn86g=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/12/message": {
-                "ciphertext": "22wmOk1zP+sB7Azarpsq/54Je0Th9GfHic0A29SCRAHBkEwdIHa/6NyW9HAMsiLppjQgsaroeJ09SWqE9Irl5g==",
-                "mac": "IFrOOpcQPInJei0waROh7w=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/13/message": {
-                "ciphertext": "kR14s/cU+wbDyaK12NAzhbYoAttr2v1bQVo36QQqs+zjwOME1tSFvNQtLnpgGBmZ",
-                "mac": "e5L4oazFTkTedNWXRRsd/A=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/14/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/15/message": {
-                "ciphertext": "GU9twS5k1GPEOh+bz450pn9w+LwoJh1AuKp/nbIwmdYhNhXAg4zSKkRAnKb2mMJgtvsehIPLTuQMYkOl2u1oMA==",
-                "mac": "hSjCbSAiDpOuIbjggOcQVQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/16/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/17/message": {
-                "ciphertext": "5LNQnQ3PoWXS0FNMBO9JpkNS5ApGJsO2IXHtiTndIGw=",
-                "mac": "BNiVAz2nmafqHBAFKFmD7Q=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/18/message": {
-                "ciphertext": "1cNpJDNy9LdszMPBaF/mDyjmx3R+mu1IQZkt7+iLCYezRpGI0/M2F3QF5IxvmgFX5NSJBMU5BRc3zO2Zpm84hw==",
-                "mac": "jIt3azBhHncmgkf6rTtfhQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/19/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/2/elseStep/0/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/2/thenStep/0/message": {
-                "ciphertext": "3UP0HK7RaEpc+/wNGHNK0g==",
-                "mac": "dKxOzbUhGpmucMfw3EzdOQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/3/message": {
-                "ciphertext": "5Jeh5XF5SD0r7h9HTmczuZIEujH91b+wVWl200JaUE+HNC0EwwJUV/WC4Fgor6NrEBumRGGSHiscInvnx9Mkpw==",
-                "mac": "GH2sc+1a2QzusWxE/YBxXA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/5/message": {
-                "ciphertext": "UA16az+bV7SVwvzdQd0pbCiroX/S28W1GNE6lpYBp5u9aL+/WEdsF5QUdQVl8KRuJqiDMSW2qzr1V6ggt8UlTcDMQsJ3KRFn96P6QqgxZh9btJpHQc4uknidaMR5tGa0",
-                "mac": "Wb42bJeLa3387uKmPa1WKQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/6/message": {
-                "ciphertext": "EYL12JUJKBL4bpaYLKVLgDoJk2ZvfXgpg1qv+JJ5BqbaSvWrYhcdXFXIGTgybbw2Sk+V4aBo1gMo1J0ku30KDQ==",
-                "mac": "iuYrdO+etIcpAp3l/9Oj5Q=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/7/message": {
-                "ciphertext": "lk+UVprrHkYxcZAyp9ihzu+JPe9LuhxYxnsvwyPrxwOStbdDKqXlsZHYiKKHRI4dAQBnOuoxo+lRtdb29/ha5beHIGB9DW/dIdWjUBgAw0I=",
-                "mac": "aldNEz7lgN7lbpvMZGkf6A=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/8/message": {
-                "ciphertext": "02zXdgF7Oxa3co0O2EAsgJgXihYzC8cccKmL66W495kV8BdtkrcYWZrsL9mYv3NCl+XsAhFLX5YBbKLcvgwzomlTu8571CYhcTgJKETj9SKNCG4blWM9a9H/sFeg9UhLvl8YBeWFYWXBs1/+rY7UfA==",
-                "mac": "ybJ5Mwsf5FFiLESvQ/2zVA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/9/message": {
-                "ciphertext": "85YfUvBl5mOJJazzhhbbd7cGYHq0keXsqmUtgEQyAcrEgrQcDWwjTz4lULaLvpcAkJos3w4SH8vcQFPfRwyB9ieGJJ3xfU6tRkUx2KI8GcLswMSTTk72lKeKLnxNhVloR7VgeD7HO2ASXD3HZmAUOg==",
-                "mac": "VYoMAqgKtnkSWp/jkpZviw=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/declined/0/message": {
-                "ciphertext": "1Ivb55vw85RPXOrqfgf8wFAWNjbz8PSrD1U9tWa9nMa8iSlq+8uO4M809DtTpOZW6rYGbKcC1Xq9pLRHXJNAxg9pnlk7w56Ea470fnQBVZ2fOPVFLvRhTWJLXvOM9L43",
-                "mac": "H7VpJKBxz2Zwe+0OkgZiMw=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/declined/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Hard as steel.",
+                "text": "Dur comme acier."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "W5jrS+fU1XwpR6Ffb4nYNQ==",
-                "mac": "kJlPXFzjFx/K/i3ouzLVRQ=="
+                "orig": "...! ",
+                "text": "... !"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "W5jrS+fU1XwpR6Ffb4nYNQ==",
-                "mac": "kJlPXFzjFx/K/i3ouzLVRQ=="
+                "orig": "...! ",
+                "text": "... !"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
-                "mac": "ahS7SIG0IeLx4nW36TYvEw=="
+                "orig": "Lea!",
+                "text": "Lea !"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "BL9g4WIHoKxikbg3RwF5rV2Pj+4ToSCCsj9XMfVgHwV8qwk9aV5BcSGZQ7B6TmxNuT8oH/yGEvTwMtoK6kERPQ==",
-                "mac": "JpnU0bFzffz4bZ9io7MIQg=="
+                "orig": "You have a rare talent at surprising me, kid!",
+                "text": "Tu as un rare talent pour me surprendre, petite !"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/10/message": {
+                "orig": "It seems like I found myself at a dead end yet again.",
+                "text": "On dirait que je suis encore dans une impasse."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/11/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/12/message": {
+                "orig": "It's another of those broken items I'm searching for, for my kids. A sword this time.",
+                "text": "C'est encore un de ces items cassés que je cherche, pour mes enfants. Une épée cette fois."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/13/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/14/message": {
+                "orig": "I have an actual lead this time, but I can't find the next clue.",
+                "text": "Pour l'instant j'ai une bonne piste, mais je n'arrive pas à trouver le prochain indice."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/15/message": {
+                "orig": "I fear at this rate, it might be too late for me...",
+                "text": "Je crains que à ce rythme, ce soit trop tard pour moi..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/16/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/17/message": {
+                "orig": "Would you be able to help an old man?",
+                "text": "Serais-tu prête à aider un vieil homme ?"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/18/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/0/message": {
+                "orig": "Thanks, kid!",
+                "text": "Merci, gamine !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/1/message": {
+                "orig": "You don't know how much this means to me at this point.",
+                "text": "Tu ne sais pas à quel point cela est important pour moi."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/2/thenStep/0/message": {
+                "orig": "Why...?",
+                "text": "Pourquoi... ?"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/2/elseStep/0/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/3/message": {
+                "orig": "Ah it doesn't matter, let's get right to the point.",
+                "text": "Ah, ce n'est pas important. Allons en directement au point."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/5/message": {
+                "orig": "This time, a broken item is hidden somewhere in \\c[3]\\v[area.heat-area.name]\\c[0].",
+                "text": "Cette fois, un item cassé est caché quelque part dans la \\c[3]\\v[area.heat-area.name]\\c[0]."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/6/message": {
+                "orig": "There is a secret passage in the \\c[3]southwest\\c[0] of the area.",
+                "text": "Il y a un passage secret au \\c[3]sud-ouest\\c[0] de la région."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/7/message": {
+                "orig": "But to unlock the passage you have to offer some sort of \\c[3]Coin\\c[0].",
+                "text": "Mais pour ouvrir le passage, il faut donner une sorte de \\c[3]Pièce\\c[0]."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/8/message": {
+                "orig": "I don't know what exactly this coin is, but I found out that an NPC somewhere in this village has one.",
+                "text": "Je ne sais pas exactement quelle est cette pièce, mais j'ai entendu qu'un PNJ dans ce village en a une."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/9/message": {
+                "orig": "It should be in one of the houses since I already talked to every NPC in the village.",
+                "text": "Ce PNJ devrait être dans une des maisons, vu que j'ai déjà parlé à tous les autres dans ce village."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/10/message": {
+                "orig": "Maybe it's somewhere higher up, or hidden? ",
+                "text": "Peut-être qu'il est plus haut, ou caché ?"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/12/message": {
+                "orig": "At my age, jumping around on houses is a bit too much...",
+                "text": "À mon âge, sauter sur les maisons, c'est un peu beaucoup..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/13/message": {
+                "orig": "So this is where you could help me.",
+                "text": "Donc c'est là où tu pourrais m'aider."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/14/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/15/message": {
+                "orig": "Alright! Talk to me again if you forget anything.",
+                "text": "C'est bon ! Dis-le-moi, si tu as oublié quelque chose."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/16/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/17/message": {
+                "orig": "Well, off you go then. ",
+                "text": "Bon, bah vas-y alors."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/18/message": {
+                "orig": "And don't keep an old man waiting, kid!",
+                "text": "Et ne fais pas attendre un vieil homme, gamine !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/accepted/19/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/declined/0/message": {
+                "orig": "I understand, though I'm also disappointed. I expect you to help an old man. ",
+                "text": "Je comprends, mais je suis déçu. Je m'attendais à ce que tu aides un vieux monsieur."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/0/event/quest/19/declined/1/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/2/message": {
-                "ciphertext": "mNkqa1k4WhNLomXi2YuxhNau3j+3vXRswulJeBglPmjCADnnFW3JdF1iCnnPGrVlmSLLgmIhxllA0JwtIE+Ml81Y7HWPh9fqIbSlmzqUvR4=",
-                "mac": "NzhF6mIqEeJUljLD8uF5mQ=="
+                "orig": "Hello young lady, do you want me to tell you about the place again?",
+                "text": "Bonjour, jeune dame. Veux-tu que je te réexplique là où c'est ?"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/1/message": {
-                "ciphertext": "MbbvvD/GPr26T+55kUH3LA==",
-                "mac": "PzdTWdNpRR6ejivvHdb4GQ=="
+                "orig": "I see...",
+                "text": "Je vois..."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/2/message": {
-                "ciphertext": "UA16az+bV7SVwvzdQd0pbCiroX/S28W1GNE6lpYBp5u9aL+/WEdsF5QUdQVl8KRuJqiDMSW2qzr1V6ggt8UlTcDMQsJ3KRFn96P6QqgxZh9btJpHQc4uknidaMR5tGa0",
-                "mac": "Wb42bJeLa3387uKmPa1WKQ=="
+                "orig": "This time, a broken item is hidden somewhere in \\c[3]\\v[area.heat-area.name]\\c[0].",
+                "text": "Cette fois, un item cassé est caché quelque part dans la \\c[3]\\v[area.heat-area.name]\\c[0]."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/3/message": {
-                "ciphertext": "U3lBP2vC/YzmUp80DxztUjIWWODoX5bCw220XVvfTCzI0yEkDOjWwgYuYaBC9BNr4EYB4p8piw+x66+Dv0wQ5g==",
-                "mac": "lHP2OqS458VgPj9lxuFvzw=="
+                "orig": "There is a secret passage in the \"south west\" of the area.",
+                "text": "Il y a un passage secret au \"sud-ouest\" de la région."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/4/message": {
-                "ciphertext": "lk+UVprrHkYxcZAyp9ihzu+JPe9LuhxYxnsvwyPrxwOStbdDKqXlsZHYiKKHRI4dAQBnOuoxo+lRtdb29/ha5beHIGB9DW/dIdWjUBgAw0I=",
-                "mac": "aldNEz7lgN7lbpvMZGkf6A=="
+                "orig": "But to unlock the passage you have to offer some sort of \\c[3]Coin\\c[0].",
+                "text": "Mais pour ouvrir le passage, il faut donner une sorte de \\c[3]Pièce\\c[0]."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/5/message": {
-                "ciphertext": "02zXdgF7Oxa3co0O2EAsgEWeYAJmn+to7uD9acz0UGMzB+GsZcRb2wbqDQKVSD6k/iSygCuZX8TN3CW3nYf0oBvb4/RBCZvjQs7qNVTK4UfDeuxD07m5VxWsFr8KV/a/GSPJY2V4p8/1lhqn5iRe8w==",
-                "mac": "iSEM+ZyMPGxHsZFRoBXUfA=="
+                "orig": "I don't know what exactly this coin is, but I found out that an NPC somewhere in this village has one.",
+                "text": "Je ne sais pas exactement quel est cette pièce, mais j'ai entendu qu'un PNJ dans ce village en a une."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/0/6/message": {
-                "ciphertext": "85YfUvBl5mOJJazzhhbbd7cGYHq0keXsqmUtgEQyAcrEgrQcDWwjTz4lULaLvpcAkJos3w4SH8vcQFPfRwyB9ieGJJ3xfU6tRkUx2KI8GcLswMSTTk72lKeKLnxNhVloR7VgeD7HO2ASXD3HZmAUOg==",
-                "mac": "VYoMAqgKtnkSWp/jkpZviw=="
+                "orig": "It should be in one of the houses since I already talked to every NPC in the village.",
+                "text": "Ce PNJ devrait être dans une des maisons, vu que j'ai déjà parlé à tous les autres dans ce village."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/1/1/message": {
-                "ciphertext": "io2t7m7Fo3abVYbJcTj8w86KRbrB2EVIJaag4G1x6Ok0czlzzT+NsYP7O7C8uBi3m1xEToioA7O6PNAY7mAKz/bjwCxjBrHfhwEfOf0gHrQ=",
-                "mac": "AhjX9S/z1y94ndH5GmOhpA=="
+                "orig": "I see, then off you go. Don't keep an old man waiting.",
+                "text": "Je vois. Alors allez-y. Ne laissez pas un vieux monsieur attendre."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/options/0/label": {
-                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
-                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+                "orig": "Yes",
+                "text": "Oui"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/1/event/3/options/1/label": {
-                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
-                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/17/message": {
-                "ciphertext": "WeIhvQgVB7B/IoQ8WY6SCihzDtHDJ0JOpKUez1tJs9p8vSzl5xcIOwrTi8yh1yDYSjXqOfY3ok+RRi1k0VvHztDXjLdxDSUjrwdH1z/IzY3wOar/LOVO+N6u8hl1ofcL",
-                "mac": "UANsFN9qk6BRucebz63e1Q=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/18/message": {
-                "ciphertext": "siRek3jnlJ/P7qoJ1IncTJtLfsI8UoiBzhQ/mR+5fLxAA3NhWtYRmHilzgJjNpdYCTC6jNqvBCrtU98vt3TNWoEgX8KbvC1m/YalhpOq9C8=",
-                "mac": "Q4S4/f1qKZvWX9IAhfHK1g=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/19/message": {
-                "ciphertext": "fiQ9yDWWGgVQbwW0Mj+VkszcfinNhguHT3Togm8ydIcftnCEasIgXZjgViJwabV3CpOiM2WDmAdnI+uDGvFQsQv6pa33JwHEqh+6mCix9/4=",
-                "mac": "k+3HcRMkW3jRgBvvAH306g=="
+                "orig": "No",
+                "text": "Non"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/2/message": {
-                "ciphertext": "SQP3BDWg9/cVsl9WfUFVmLaWaj3vTCGwqHoQiRGY3Dpf+3xHCbTFLn2FdSfvZSp7G1S9MiM5R3LCpcprdLlKdam62MmdcW5UKy/0HmV4hBfNZH9SIM1KU7h7Z2MjiXSo",
-                "mac": "eJDhcGbud+C72zVmfTGN7Q=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/21/message": {
-                "ciphertext": "JSr8ycEuHu9UIh2cACp5UvkU4Xa0wSM3RPhwU49qZ0ovJUWRDfBt38PZxFUSUVZ5+P0JyiMVRx1MCz8gfxUGVOv0y86J0kf6+knD2e5pqZbePsxdRHIN/SjYXZCGfQ3s5APc5LcQ9IioZI94wHzZWw==",
-                "mac": "aDAvAhT1jWXT95qbArJHRw=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/22/message": {
-                "ciphertext": "/s20sb7FxnZowzPrlWNdNQ==",
-                "mac": "T6ti8cLyga+6KfKnIY1Crg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/23/message": {
-                "ciphertext": "DsyE4uKDZ48BfgrPubChkelN1xtAN5utgrQRn3/rjDpqFoe/Afv8P1XHbLmasghRDwf8rFWe7o5RB/PCmYgJ5A==",
-                "mac": "nL3FE7IQbUy6zpewkzOprw=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/24/message": {
-                "ciphertext": "E8Tln4xBYcrnqD78WXrei3OU7sBV0LyFCZ4TiHJDPyJBZo0wkgy+/2BopwytUUzetv+JdnIKpOU4QG4MLjOfdw==",
-                "mac": "oss0z3JLduToFrDm3PuuOg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/25/message": {
-                "ciphertext": "hXmzlg4cFBigB5FVfOYj4DzKlo8T5y65BkGmdL+fQnV+1U89ybXoI4FDdJwCDqRO47swcXn17P9i317bLBKOJ3UcL3O38kOIwOUWf80kSB/L6YkdND8XpGC5lMijLKEhk1uPUZf/m5FiU/Bwkgc0Izf/HU+SOto/DKzyZH+HYHM=",
-                "mac": "errR86YgLEFAxLnTo2fXvQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/26/message": {
-                "ciphertext": "y1yVvQ7lDy4z7vJbCMyjhD/Okkkvahw6iYlAns5RsZkRQxn6lOnwAYmCFyZitmxTrGYkQiWuh2lu1nucUNo75EhM8NYTM853AdZSTyFomVE=",
-                "mac": "+3cflG7RLYFA9NdYsJiCog=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/27/message": {
-                "ciphertext": "v+tfB8enj9mUBhn7/YmlC/CuwXsEX3pbqUfx/74PQLUf2sOlJLhWBJpLJJ7xdd2d",
-                "mac": "cC/esqS6LpObvfitCRAZiA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/28/message": {
-                "ciphertext": "c9edS4DFCsZ6dIXTVHtVhRTxCyZchZtdXsPC8uJqHKxVwMzvRms2+uVhzdGRsbWGSXqJmNCwLLTG22pEuzFDSSmKaki1KNBFpK9q/uYRj5M=",
-                "mac": "8fULvT1eI7HcA8dIAuY10g=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/29/message": {
-                "ciphertext": "19ZHmzh+X8W7QF43Ke4JliKpOwpX50saVKlYoTOFsQTZdTQ3MQ/3kKV69TFhTjzoRvg2TmSW9lhIs40vtJZ9+GUz772PF3EzrkS+nOAdjSk=",
-                "mac": "WT8ulmUDtJOA15SHN0e4ow=="
+                "orig": "Welcome back kid, any luck finding the \\c[3]Broken Sword\\c[0]?",
+                "text": "Rebonjour, petite. As-tu eu de la chance pour trouver l'\\c[3]\\v[item.404.name]\\c[0] ?"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/30/message": {
-                "ciphertext": "EL86cJSXT9yIrW2BB+7DP+to5ZbPqu+CiRGLfUyaxOb49nb/oM5i5R1fc8H2W8yd",
-                "mac": "7j7uhTQydLFYCTY8ZgUOxA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/31/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/32/message": {
-                "ciphertext": "LnSENxxxnFQTqFZxRUGSOy2wmuhpYvni/XOg1iZv5qNVrL+dG8bunG8dogmQmba8",
-                "mac": "pAx4h1gp7HGftHEEU5H0yg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/33/message": {
-                "ciphertext": "QCIf9spimlT/iFa3zQFTOZGIPxXjOzbsu+gpYj4cmoaaEHp2VV7E0D20EWRDYbwiyirHbM31ddw4BDFDr0DuDCrX40Utu3iK2htXX+RIcP1V5Jggn1vbLUZ5HPxIhIOH3O6oEpg01o1DbI7QamqeQkDeZPeOLkEm8Y1VLi3XwLo=",
-                "mac": "0w7+YL/oy0ksqOEH32zWGg=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/34/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/35/message": {
-                "ciphertext": "wzRGneyuewgg6WvpUV0Hd4UtYS7uYyRiVPMHcCBax5RClHK6ylyEwSDXsTlBPsUJROWWbjOs8WaUzJ4rghs5eA==",
-                "mac": "l5bQb0dozF6/uw9VBh4KzQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/36/elseStep/0/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/36/thenStep/0/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/4/message": {
-                "ciphertext": "7jTYH5SANFpCT/+jVTHspTzOFEUz19HE7e7UVy2SdFU=",
-                "mac": "coTdItvbhNU1TEMyQlL43w=="
+                "orig": "Ha ha! Wonderful!",
+                "text": "Ha ha ! Merveilleux !"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/5/message": {
-                "ciphertext": "v8vw5SkNJif9UpkeP41b/0kglHLueC5xpfzHMmJfCXWsp/Q8hTvRDPQwpJKXLmp7",
-                "mac": "4uEjIMtiHhgP1+FNAytIfg=="
+                "orig": "Only 2 missing now...",
+                "text": "Il n'en reste que 2 maintenant..."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/6/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/7/message": {
-                "ciphertext": "if41H0RbbELdt9eKmEkRqyxtJh6GF+HOkO3J2ee9vfgz0bUBZ6mCVn/q+vQbTu0PepmFGD7t9jnzEqg+emHPavCDIt+5M56GvQ1RWnqe8sN0tbwOZffVtCekGBBfKCeU",
-                "mac": "Zn6MA1a3t8NueqZLB0Winw=="
+                "orig": "Mh... Yes, I think it is time I told you why I'm searching for these, right?",
+                "text": "Mmm... Oui, il est grand temps que je t'explique pourquoi je cherche ces items, non ?"
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/8/message": {
-                "ciphertext": "0ZKxfjLGpDjdNmXq1UMLU2j2NS2EjSbfNP8NEWoiC/w/utbfUbnm1VnVhS3qZrYjCiLxg3MBSeV0sAOnpTcD6ccdNhDEX+9PUYsPjW9w2EA=",
-                "mac": "pXiYmXLjeQdmM+WP9EsE7A=="
+                "orig": "You've been a great help and it is only fair for you to know.",
+                "text": "Tu m'as été d'une grande aide, donc tu mérites bien que je te le dise."
         },
         "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/9/message": {
-                "ciphertext": "4ZFUAbBJwPgv6+8kxTpqIv4c/RHLPO4JfLfOEhrOPE+PiqREBOvJ/tg6nC7EVm+8fBtFltXRDAUj85GhizqAFW940/69Cu/1CS5B+tg9yQ8=",
-                "mac": "Virp1XGZ1qYFYmtXpczPkQ=="
+                "orig": "Even if I'm not a fan of telling other people about my problems.",
+                "text": "Même si je n'aime pas vraiment parler aux autres à propos de mes problèmes."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/17/message": {
+                "orig": "You see, I played CrossWorlds with my kids since the game was in its testing phase.",
+                "text": "Tu vois, je joue à CrossWorlds avec mes enfants depuis que le jeu est en phase de test."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/18/message": {
+                "orig": "I think they called it \"Closed Beta\" or something like that.",
+                "text": "Je crois qu'ils appelaient ça une \"Bêta fermée\" où quelque chose comme ça."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/19/message": {
+                "orig": "It was a fun time. I was able to spend time with all of my 4 children.",
+                "text": "C'était le bon temps. Je pouvais passer du temps avec mes 4 enfants."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/20/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/21/message": {
+                "orig": "Everyone was off somewhere in the galaxy, so this game was the perfect meeting ground.",
+                "text": "Chacun était parti quelque part dans la galaxie. Donc ce jeu était un moyen idéal de se rencontrer."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/22/message": {
+                "orig": "But...",
+                "text": "Mais..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/23/message": {
+                "orig": "Half a year ago, everyone just stopped playing.",
+                "text": "Depuis 6 mois, tout le monde s'est arrêté de jouer."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/24/message": {
+                "orig": "And soon I was the only one playing.",
+                "text": "Et au final, j'étais le seul qui jouait encore."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/25/message": {
+                "orig": "My kids always told me this story of a hidden quest where every class needs to participate.",
+                "text": "Mes enfants m'ont parlé de cette histoire d'une quête où pour réussir, il y a besoin de quelqu'un de chaque classe."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/26/message": {
+                "orig": "You find some broken equipment and bring it to a special place.",
+                "text": "On doit trouver des équipements cassés et les apporter dans un lieu spécial."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/27/message": {
+                "orig": "But we could never actually find it.",
+                "text": "Mais on a jamais pu trouver les items..."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/28/message": {
+                "orig": "It was only a couple of weeks ago that I started hearing rumors.",
+                "text": "Ce n'est qu'il y a quelques semaines que j'ai entendu des rumeurs."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/29/message": {
+                "orig": "And thanks to you, I found 3 of the 5 broken items in less than a week. ",
+                "text": "Et grâce à toi, j'ai déjà 3 des 5 items cassés en moins d'une semaine."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/30/message": {
+                "orig": "I can't thank you enough, Lea!",
+                "text": "Je ne peux pas te remercier assez, Lea !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/31/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/32/message": {
+                "orig": "Well, it looks like it is time for me to go.",
+                "text": "Bon, il est temps pour moi d'y aller."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/33/message": {
+                "orig": "I hope we meet again soon. I'm sure you are as motivated as I am to find the last 2 broken pieces.",
+                "text": "J'espère que l'on se rencontrera bientôt. Tu dois être aussi motivée que moi pour trouver les deux derniers morceaux."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/34/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/35/message": {
+                "orig": "Have a good day, young lady. Goodbye.",
+                "text": "Je te souhaite une bonne journée, jeune dame. À plus."
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/36/thenStep/0/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/heat-village/interior/house-1.json/entities/45/settings/npcStates/2/event/quest/36/elseStep/0/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/2/message": {
-                "ciphertext": "as0NnxwxL0cHnVcYym92E4kRGvWfBCtb0cv8MO9ZUZLisCAhgwBtYP7wtKpVh9TqvS1zxKBshQht0Dd3AT9LVA==",
-                "mac": "HT8sOE1QpyVvNeJwYadf6w=="
+                "orig": "Oy Lady. Can I interest you in a rare trinket?",
+                "text": "Arrr, Madame. Puis-je vous intéresser par un rare bibelot ?"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/3/message": {
-                "ciphertext": "OJ1alxvpr0Rj8GSPaBeMA7DdXmyZy1D1yBqmrM7IK4qTti3QAA6wfdSkCud65ylN00bKMdyDtVwXblNzxPdXlaLwpAI3gCkrjuI8ZfJLAh4=",
-                "mac": "TQ1jTkjDv4elkUe4ocWDnA==",
-                "ciphernote": "5hvFvJtsHEc5HQSzRD9qPFLIyHr9GyuijSCRkMfwfWbPv+H5ziGT4qUMlpPIY7ICGzqWauxe+LN/H/CZHmlZPA=="
+                "orig": "One that will surely bring you nothing but good fortune, I swear!",
+                "text": "Un qui ne vous donnera rien d'autre que de la chance, je vous le promets !",
+                "note": "cannot translate fortune joke (he gives a cursed coin)"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/1/message": {
-                "ciphertext": "SDOtPJv7d4bXIz4i8/kgmTmMRdoB3xk03KPJpcrLvOE=",
-                "mac": "pleKRVYJlhkRZHMJRxpdag=="
-        },
-        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/0/message": {
-                "ciphertext": "eF9iuDiEEW9jlux/BCajBShEzI78F47RdiDv7GCWMP1FdIv2VX2rw1PGp/n8OIlS",
-                "mac": "78LhDCSMeGHjc2kyfZL0jw=="
-        },
-        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/2/message": {
-                "ciphertext": "722kNFzK6U4pXfcWRefOXfnQpcu3xx76i/QXE8jBu3yE+BK+0HlTv7fk1vwgSP/m",
-                "mac": "Hd0COKRgDYe7cp7rBbHlMg=="
-        },
-        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/3/thenStep/0/message": {
-                "ciphertext": "lvh9orEpTK352Pxn1IbRm1POFk74ksNA32FLtyHqu5IC7nhHIsGJCrDWxFJs90mko9Jz7dbH7fvrDG7H8RQrvQ==",
-                "mac": "H5AVlGShgt5bp/PugZjf8A=="
+                "orig": "Finally... I'm free...",
+                "text": "Ah... Enfin je suis libre..."
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/2/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/8/object": {
-                "ciphertext": "KmGxcKRUI3uLNxpnFwg8qcILs5h+gvIyaw6Xa5Ip6Ck=",
-                "mac": "SvjEC/AcuJMFljKuI6cAfQ=="
+                "orig": "\\v[item.403.name]",
+                "text": "\\v[item.403.name]"
+        },
+        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/0/message": {
+                "orig": "Well, that was strange...",
+                "text": "Hem, c'était un peu étrange..."
+        },
+        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/2/message": {
+                "orig": "I wonder what the coin does...",
+                "text": "Je me demande ce que fait cette pièce..."
+        },
+        "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/0/10/thenStep/3/thenStep/0/message": {
+                "orig": "A coin is sometimes used as a fee for something.",
+                "text": "Parfois c'est un moyen de paiement pour quelque chose."
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/1/0/message": {
-                "ciphertext": "U3UdYigIx3wwSY2VoW7KijW12zIjbsdCLqyQhW5ysfc=",
-                "mac": "q4vXGbPOAG5k//JTgCPO8Q=="
+                "orig": "[Shakes Head]",
+                "text": "[secoue la tête]"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/1/1/message": {
-                "ciphertext": "YZOsj4w2Z2BVZx9wMNeZuYJPhZk7qoVfcsn6GBh512Y=",
-                "mac": "F/56uC7R+HNqobnAZhJkmA=="
+                "orig": "Aye... ye sure, sweetheart?",
+                "text": "Ayé... t'es sûre, mon chou ?"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/options/0/label": {
-                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
-                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+                "orig": "Yes",
+                "text": "Oui"
         },
         "maps/heat-village/interior/house-2.json/entities/25/settings/npcStates/0/event/4/options/1/label": {
-                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
-                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+                "orig": "No",
+                "text": "Non"
         },
         "maps/heat-village/interior/house-2.json/entities/28/settings/event/0/message": {
-                "ciphertext": "Zi17TnoVAFmbFBuw8NeF96AK10qaHOFfZCdlUUdx1jVW5A3Nk4UX1Uf+c39k1/zTx1YVZqOHMQIto4Dj5ZbVKA==",
-                "mac": "kpuz4mCx5ECPEtYTwK8ZSA=="
+                "orig": "A flame inside a building? Really?",
+                "text": "Un feu à l'intérieur d'un bâtiment ? Et ben..."
         },
         "maps/heat-village/interior/house-2.json/entities/31/settings/text": {
-                "ciphertext": "jXpuj3SMgSpDsznn6t+tvYzPygGXSVR+XTh0qGY5xfo=",
-                "mac": "ipjpf+6P+xUg0jO6k4ldCA=="
+                "orig": "The Book of Dead",
+                "text": "Le Livre de la Mort"
         },
         "maps/heat-village/interior/shop.json/entities/2/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "uNAWw/B3HxAMx0NKmLHnLYq/U7LFybiHjR40lkaB2E+cLd/0tHsuEr/Ey/RD8ZnmCyFwwWBGytcdK3/xFLU0IhJklc4s7Gn1/VGhmKCztUY=",
-                "mac": "gwmkONYeVwHH/dgWpnBuuw=="
+                "orig": "I can offer hardest steel to protect soft human body.",
+                "text": "Je peux offrir métal le plus dur pour protéger corps humain mou."
         },
         "maps/heat-village/interior/shop.json/entities/3/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "M6w+JLX0BzzwBzxkmh/Ob35JAeyalV9HUrAyjAI9W9tBUE7jHsnr4DomCvOmB0Rq1wqRtqoWoQDTW77C9bqaToab0OYwmzQiNSiLfcrnyt/sLwyZTjkOzbvlcItf8EVd",
-                "mac": "7RPrG482Fz1AALomvxSH9w=="
-        },
-        "maps/heat-village/special/expo-space.json/entities/4/settings/event/10/text": {
-                "ciphertext": "Jq+0DwAh0YS3VeYCqXftdIgJI4lvavtF06T3ZPO4yMMnLeYJDZKx1LDkvhyC9iaKWa5nauctr6MI6lZQm4XgbA==",
-                "mac": "dsIJoHGdw0eiWQ82ykxCwg=="
-        },
-        "maps/heat-village/special/expo-space.json/entities/4/settings/event/11/text": {
-                "ciphertext": "UhCVHzgmhToDZ7iiSSRptVuQzKTYcBYUQnPEGN2Xp0JiRmhlBrH69+dDuFwf2kOdQxXX4kXNJYNyyCukxjI2pWJ56IvkRBf90STQVCRMRDQ=",
-                "mac": "A4PIYMXRgWNLdrgSEurOZA=="
-        },
-        "maps/heat-village/special/expo-space.json/entities/4/settings/event/18/object": {
-                "ciphertext": "0ah5QtYyezOu7RUXlqiFEyzMKwZeYbq/oZDCZSx3EB8=",
-                "mac": "E/dH9HRFWpu/06B/vgb2wQ=="
+                "orig": "Hello, \\v[lore.title.seeker].\\. Need some provisions on this hot day?",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Besoin de provision pour cette chaude journée ?"
         },
         "maps/heat-village/special/expo-space.json/entities/4/settings/event/8/text": {
-                "ciphertext": "u4VvMTLRuaWvC3YqNyYTjDpcJpo4vY/ilGmGENoaX7GHUXFFgweuEiQeHAqvgQKYWP6srgiING4bDFUumfKJ2igCnQeY4v//rZg18u8EzpU=",
-                "mac": "nnVgyzHcNRCDpGlNTsutCw=="
+                "orig": "Your prolonged journey\nbrought you to this barren field.",
+                "text": "Le chemin, que vous avez suivi\nvous a mené dans cet endroit aride."
         },
         "maps/heat-village/special/expo-space.json/entities/4/settings/event/9/text": {
-                "ciphertext": "HZJD82tKO0iAIMfdSq2Y713Qxb2kO1QvMWb6PPrpvuUOpv+Eo1tfplOEX5cAQY0w/71KT/xkM5T85gWxwLco8k0hQeNINNm9YG6KnFR20u8=",
-                "mac": "+3WmKYtDa6JZKcG77kvy1w=="
+                "orig": "Surrounded by boundless sand\nI shall hand you the Shade of the same.",
+                "text": "Entouré d'une infinité de sable\nJe vais vous en remettre le Symbole."
+        },
+        "maps/heat-village/special/expo-space.json/entities/4/settings/event/10/text": {
+                "orig": "It will open the passage\nto the \\c[3]Temple of Faj'ro\\c[0].",
+                "text": "Il ouvrira la porte\nvers le \\c[3]\\v[area.heat-dng.name]\\c[0]."
+        },
+        "maps/heat-village/special/expo-space.json/entities/4/settings/event/11/text": {
+                "orig": "Traveler, envoy of change,\nyour next trial awaits you.",
+                "text": "Voyageur, émissaire du changement,\nvotre prochaine épreuve vous attend."
+        },
+        "maps/heat-village/special/expo-space.json/entities/4/settings/event/18/object": {
+                "orig": "\\v[item.148.name]",
+                "text": "Symbole de Sable Jaune"
         }
 }

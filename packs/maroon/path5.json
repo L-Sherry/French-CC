@@ -1,812 +1,812 @@
 {
-        "maps/heat/path-05.json/entities/202/settings/event/29/task": {
-                "ciphertext": "5NQ5jvRy+1lXT5ieCXpUroCfsoGRDtJc2JXFFy/xEYkiPTnY6w8mRnesDVcEuXhg6ZZPiOU3k4zbn/C+TjaFu0TbaPYvVmDuK0ScRF5HMUbqojBUp/O8Qltemo9l8Ech",
-                "mac": "OyMHbCSP4Q9xmHPNuqV9gQ=="
-        },
         "maps/heat/path-05.json/entities/202/settings/event/4/guiInfo/settings/text": {
-                "ciphertext": "fj2woTCxNe8aRKB83NICNA==",
-                "mac": "zVtTtLTonkaq1bHhbhDVTw=="
+                "orig": "Crate HP",
+                "text": "HP Caisse"
         },
         "maps/heat/path-05.json/entities/202/settings/event/5/task": {
-                "ciphertext": "QDoeLmoP4faT2crlrFlL1dLwMZxcUW2QxBNnUo/LgsB6ZoTJ+qPjYtcdw0pE3l32",
-                "mac": "3XM5Awc7iEnVM8IPnp3tPA=="
+                "orig": "Bone-like noises approaching!",
+                "text": "Bruits d'ossements en approche !"
+        },
+        "maps/heat/path-05.json/entities/202/settings/event/29/task": {
+                "orig": "\\c[3]Defend the transport for 2 minutes\\c[0] until it is repaired!",
+                "text": "\\c[3]Défendez le transporteur pendant 2 minutes\\c[0], jusqu'à qu'il soit réparé !"
         },
         "maps/heat/path-05.json/entities/203/settings/event/1/thenStep/4/thenStep/0/text": {
-                "ciphertext": "wICqtXJ/dxwxhTlBgQNzHA==",
-                "mac": "NLRNrQ++f7XqSxzRd4EGkQ=="
+                "orig": "Crate scratched!",
+                "text": "Caisse rayée !"
         },
         "maps/heat/path-05.json/entities/203/settings/event/1/thenStep/5/thenStep/0/text": {
-                "ciphertext": "40W7GloKeRYySXabCqBlSF8iTkoaIbHPDbfVA5eqq8o=",
-                "mac": "lJG0pbG3WgmmGPJRGtQaZQ=="
+                "orig": "Crate damaged!",
+                "text": "Caisse endommagée !"
         },
         "maps/heat/path-05.json/entities/203/settings/event/1/thenStep/6/thenStep/0/text": {
-                "ciphertext": "71IbAhB+KVNXs1RFAiq1BdW6/x4Z1swPiVCQe7uYkq8=",
-                "mac": "nSwCtKUXmKLLrE3aCK//Zg=="
+                "orig": "Crate heavily damaged!",
+                "text": "Caisse lourdement endommagée !"
         },
         "maps/heat/path-05.json/entities/203/settings/event/1/thenStep/7/thenStep/0/text": {
-                "ciphertext": "txLFueaCoA5LUmzxBvySCtBWO9GGWlU51Eaguqhwg4A=",
-                "mac": "H1cKkpXJuJrGMOW+IXJoqQ=="
+                "orig": "Crate critically damaged!",
+                "text": "Caisse dans un état critique !"
         },
         "maps/heat/path-05.json/entities/204/settings/event/12/text": {
-                "ciphertext": "u5at/sArNok1mISTGaX05cGlK4U76ueA/ZcFaJXYcH4=",
-                "mac": "BSk53ReeNYzHBjYh5piusw=="
+                "orig": "Crate is gonna blow!",
+                "text": "La caisse va exploser !"
         },
         "maps/heat/path-05.json/entities/204/settings/event/25/text": {
-                "ciphertext": "0rqP/V9tj+15pZNJulE7KDiDzSC2Hc5E0nwIHsruHYA=",
-                "mac": "TW9kgbaRjxQGdOco3/Dg9g=="
+                "orig": "Crate destroyed!",
+                "text": "Caisse détruite !"
         },
         "maps/heat/path-05.json/entities/204/settings/event/38/text": {
-                "ciphertext": "EOhSW2zQkly9qBN1u/hs72vOJQ3Y/589DjbMg8hxR1Ykiw/txefx2y1r0o9Alw4juX8fyk6+fRQ4wIGRKlOmFryj4RKGRl+O9L7iO4eghSA=",
-                "mac": "Yn+VZWA1Xhcnl2DQ73do3A=="
+                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
+                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer."
         },
         "maps/heat/path-05.json/entities/205/settings/event/18/text": {
-                "ciphertext": "kiJ3vvtsvRvhyrqLFtYwuUFWRgIlZnbEs9YFyLHUeXc=",
-                "mac": "WyUQNIr2tdM68SpjJEXIYg=="
+                "orig": "Transport repaired!",
+                "text": "Transport réparé !"
         },
         "maps/heat/path-05.json/entities/205/settings/event/34/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
         },
         "maps/heat/path-05.json/entities/205/settings/event/35/name": {
-                "ciphertext": "eyW9S9NaS6NsCBLet9AjkA==",
-                "mac": "IhFhXJSr6fwuqXmKSh0Uog=="
+                "orig": "Diaz'trez",
+                "text": "Diaz'trez"
         },
         "maps/heat/path-05.json/entities/205/settings/event/37/message": {
-                "ciphertext": "JxovDCTGOgqfNNwEuDtIcRfwegdOdaExpX+6i8Y1Kc4=",
-                "mac": "Zz/Pc4sVo6gJgi10FS1a2w=="
+                "orig": "Human did good job!",
+                "text": "Humain à fait bon travail !"
         },
         "maps/heat/path-05.json/entities/205/settings/event/38/message": {
-                "ciphertext": "qs3vdl+FX/Ji9pC2UPzkgTNWPgiansKD2pXi2j3TIEgjCDMCZwUCPpc2w/95wfh1TNBh/KwClSPGHnHhac/m/g==",
-                "mac": "jZK5eRcQaRQvOdskg9gL1Q=="
+                "orig": "Yes, cargo saved, \\v[lore.title.shad] saved, day saved!",
+                "text": "Oui, cargo sauvé, \\v[lore.title.shad]s sauvés, jour sauvé !"
         },
         "maps/heat/path-05.json/entities/205/settings/event/39/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat/path-05.json/entities/205/settings/event/40/message": {
-                "ciphertext": "Wpfn0tS0FWiULm4XMrqzWHDwAj2xgQ5eU8uwOQd31cJZUaotq+yeomsbnQumy1Q0csFsbPuuXZdhPg8WYoTqq4Tjog3F3A592hJuyGLLjGOIOn2B/YYg3ozY8dRA+Ots",
-                "mac": "w+lBa9qmjggMXWR8aqENnQ=="
+                "orig": "Now travel continue.\\. Hopefully uneventful.\\. Boss already angry as is, I wager.",
+                "text": "Maintenant continuer voyage.\\. Espérer calme.\\. Patron déjà énervé, moi imaginer."
         },
         "maps/heat/path-05.json/entities/205/settings/event/41/message": {
-                "ciphertext": "M5NnQ+VH5NcmHb4zAT962OeG46YkZY/73KXu9TFx3/9JdRptdpqNOu/QhbwG1T9Vz+3w/kQvNYREZ6MxuVhvJA==",
-                "mac": "UDAPPJplVZDhPgY5CrAQVQ=="
+                "orig": "We, hurry then!\\. Boss rage scary!",
+                "text": "Nous devoir se dépêcher ! Patron surement fou de rage !"
         },
         "maps/heat/path-05.json/entities/205/settings/event/42/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/path-05.json/entities/205/settings/event/43/message": {
-                "ciphertext": "EcmNkbdUQR5V3Iz/iFowe8elaKXp+M4uCEKZMGoi5i2IHc1Y3A3v4DbGQggZgldaGavxY0Oshz77Cie5mDYKZ6hLsLxOiDuIRjgCmnPZ20xuX0I/sv1UenL+J+HJX9Aa",
-                "mac": "7RqDb3b4pdxQlDt+cXkO8g=="
+                "orig": "Thank you and goodbye, \\v[lore.title.seeker].\\. Talk to boss in town for reward.",
+                "text": "Merci et au revoir, \\v[lore.title.seeker].\\. Parler au boss au village pour récompense."
         },
         "maps/heat/path-05.json/entities/205/settings/event/44/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/heat/path-05.json/entities/208/settings/analyzable/text": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
         },
         "maps/heat/path-05.json/entities/208/settings/npcStates/1/event/0/name": {
-                "ciphertext": "eyW9S9NaS6NsCBLet9AjkA==",
-                "mac": "IhFhXJSr6fwuqXmKSh0Uog=="
+                "orig": "Diaz'trez",
+                "text": "Diaz'trez"
         },
         "maps/heat/path-05.json/entities/208/settings/npcStates/1/event/2/message": {
-                "ciphertext": "wnnn95lytV5TCo3F1SLgo6XPeVAcU0BBw4lFzYd2xO++z38FIhJrvBiLwSvduqnDZax4czZtyLlHF7wvLlZI+hoPgm08z74M8sJaVET7FV4=",
-                "mac": "JB3/Wqm85P1aVYGoW/jEeg=="
+                "orig": "I don't like the sand.\\. Such coarse, rough... and full of biting bones!",
+                "text": "Moi pas aimer sable.\\. Lui gros et rugueux... et plein d'os qui mordent !"
         },
         "maps/heat/path-05.json/entities/208/settings/npcStates/1/event/3/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/heat/path-05.json/entities/208/settings/npcStates/1/event/4/message": {
-                "ciphertext": "lU1taozPBcgwq/8NUNoHsx3qKPSV9aHFKC6TPCdsPNig0M6Vi0PU2BgrjFUbuU+lfa2PC+8kB9COmB7fVnWWlInaPIJzc4qH/Ad9EM/hGdg=",
-                "mac": "cgGVCRInyvZYzL2xzP2HJg=="
+                "orig": "Please find items quickly, so we can return to town!",
+                "text": "Trouver items rapidement, pour que nous pouvoir retourner au village !"
         },
         "maps/heat/path-05.json/entities/226/settings/event/1/thenStep/0/text": {
-                "ciphertext": "cPgDtAZpCMure5rrRgDJ4g==",
-                "mac": "n4A/8MG46w2N8/V5HWVsFg=="
+                "orig": "KILL",
+                "text": "TUER"
         },
         "maps/heat/path-05.json/entities/227/settings/analyzable/text": {
-                "ciphertext": "Ixqqn3EhOWNKx6tuQ79KinwZD2xoeWDD9rwGG81XZ8k=",
-                "mac": "pV8TMiwAr19AU2TTdddt/Q=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/10/message": {
-                "ciphertext": "LWoApy++0DQzY/7+NwZ1K8Mqp2RNxrj+KM7XBLHRpEJlnvg47rDGJlpCAFMKNlz5gbZPMczR54Gh1k5SY0AofA==",
-                "mac": "5au6LjOyWdbPQ/Tyz8Y5aw=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/11/message": {
-                "ciphertext": "/5HLe5W6BSXF+woUyweC9RPpxLa4tJOeH4OUd7PvBED7ObN8ii4gX+rk4ar607aCy1HBEWqJBxe4hUCy9BwCGw==",
-                "mac": "635Igjxr+vBW7Rb14ftWlg=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/12/message": {
-                "ciphertext": "B63Nx+9XHf2uz3CGC2mMtnwYPtAYt9eOAjreS4B5M8M4Cy0xe5U33QCMrJCn4HCNsfuSRnPwr1+AWj3UOeHW2+6DuSSJ3tqNZoo7+hi5qxA=",
-                "mac": "GxdkB0/Urxi4NPHharnJow=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/14/message": {
-                "ciphertext": "AS3Zwdg479p1Sr6AjrajkBwFtSmgxYGGDe7JIKplbNqrTE8R0g+iP9dx5ZWIr7WR9MWoioqaOS0OxLK11jt3NFLnscTm7ExFVHQcnLYunogLOjDr4vStx/0Dn4H2V/hB",
-                "mac": "rma75Fc3MCY45vJnQP5yBw=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/16/message": {
-                "ciphertext": "B8QkQDLnJ7jEYYJ9P8tMGF1jdT+eO8KvlPSkdpyw1fbmEYVVCL+R300PjQgs9Bjz3jG1xhdsYtQbLtwK/tMvLk3q9j9H8Nk8hp6eLhHBcchIGEQsRYHnZbIxjjMPisM+",
-                "mac": "zFDB7u3nqgNTtQ2xghbKvg==",
-                "ciphernote": "uzI3vvRZcKAa8idmURXiRA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/17/message": {
-                "ciphertext": "CWc+OVnKiO8QxTxLq1Dh1kJ6LJCdMKZbPXgCqPKoj4zgDT5g9/i+Lj9o27u0NJplQDgfDGcQ0LU29do1/EPeEUXBkUmgfspPequkvmqV7yGx6QuUTUPajVmpfku9Cj9S",
-                "mac": "pgwkgS0sR0jVHwXFhDR/iw=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/18/message": {
-                "ciphertext": "iFnIlKnGVX7PCI2MZ1d1lK/HzzFZCmvw/j9XkChivuGTc0kd4KMK7TwYHCL5wzYWJkv9MOQ58NwpVWdT0CF2s40JF7eRHXFuww97MJxduwY=",
-                "mac": "/fBTjMq7v8jabqGjZhtVGA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/19/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/24/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/25/name": {
-                "ciphertext": "75aTQLWZsZ4vh7I4m+v1nw==",
-                "mac": "OrEAS+Cf2qRuxJoZkZAz1g=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/27/message": {
-                "ciphertext": "IgnIfwn+EzMlGrRZrTcl6pQvuvPVzcYZ7SDFnRSLcPIV+kC9CloML/p5JwAh/MQuOg6ff6Ib/E+m98iNl9ZP3JJK1XS3sh41MoY0nKTpyfQ1L9ZlDLrjaKqz1cvvGAWW",
-                "mac": "4KZb0a5I3C6nmsTZ3RH55g=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/28/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/29/message": {
-                "ciphertext": "3iXW9/mygGbsLNcBfJI1vkhxf9RZWwRfKMeK6KN4RbNu32he7DyzXbe6K9aKdzFRD2fb4XAuflsKIZJeaO7sFH4P2kF5H1pjqyOkOCWQAH5A5yGebJ6F+l+vk6en/PGGhGE5A1yY0ab8ZtZxzAuBJ1LNPZZBAMcVSddWHG36VY0=",
-                "mac": "qqDFcdLPajrcXuQI/Gtx1A=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/30/message": {
-                "ciphertext": "mWawTRWkrM6SpTIm4ZG4Qzf3AZHtsyNbhoGAbFwbaMHV9iD26lcv9p2Zps1MwoE6KcVQ7skwd+ssj7i4OEaAMqE/Ue2Opkz6EiMfir7NV1LjoTcUT0hzv2Np6XPanR9OQBJQWenBTWysTlwVn7zPgeGSxyGCGdRq5rfqP3Heh2M=",
-                "mac": "YldUxAwFbUaZfgrhigve0Q=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/31/message": {
-                "ciphertext": "3fGcVqtIoY7Fep8Tht+yzPuZj0lSiILfpwbsaox/ZVEXYcDvFseGiLhDLXQ7BOpJvQiOe7N9TJKWGAFGfrDxgyb/iFnkQwzEvgJmsG/UHNssR6Sdb9Zxn77vtN9CpvNq9VZ28fDRU4dYGW/hbo4k1mykOz7Vnw3qeohXm9zHecECbA52SMoEZSRqZZlQgvq0",
-                "mac": "1X141QNoUhfFtVZwhdP3GQ=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/32/message": {
-                "ciphertext": "/eGSRPzJjFPf+1vfNjRxCB2uXjFEPDRuhyP/McbI9dv3LRi/k3aAXK+c+auXdz0mtqUHaWwajQfMnMYWhpIGGQ==",
-                "mac": "x3Y9+wcb+XQYv9iE2DvE+Q=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/37/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/38/name": {
-                "ciphertext": "75aTQLWZsZ4vh7I4m+v1nw==",
-                "mac": "OrEAS+Cf2qRuxJoZkZAz1g=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/40/message": {
-                "ciphertext": "0c7mnqIlZ6TWrXbDYMs7yND/LsLbdV5VzGFM/yD8VBVRm3Iedm5P2dVo2u4Fzqzp",
-                "mac": "Vc4SoQpkdUK4zplWGKoRFw=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/41/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/42/message": {
-                "ciphertext": "AliB1mTyd+3ngss2Tj/ZBfnj3kariE2d+LpYTct8VowOTXkiXBozz9ZX+qYAkCQU/JyvBdY7qsRU3ouAfQM6qw4Fy85QykZlEMVoI4bQqQyAkG3ktLgg7qStRj5pe4Fu",
-                "mac": "YxqC8mV2AH2YhSGkWmu4ZQ=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/43/message": {
-                "ciphertext": "p5U7aCAluo3MI+EkHSXEtRByjTaDCdk+j1i+6pK2rMrd0+EEkUFTNBnyREHpBTNNWJdjg4TPTVOQHeo8ofEOwr+JVkWOw4TaEsrWcDr3im0=",
-                "mac": "TZvDYJbDoXtHyZLmz15AEA=="
-        },
-        "maps/heat/path-05.json/entities/228/settings/event/44/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Important Crate",
+                "text": "Caisse Importante"
         },
         "maps/heat/path-05.json/entities/228/settings/event/6/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
         },
         "maps/heat/path-05.json/entities/228/settings/event/7/name": {
-                "ciphertext": "75aTQLWZsZ4vh7I4m+v1nw==",
-                "mac": "OrEAS+Cf2qRuxJoZkZAz1g=="
+                "orig": "Dia'strez",
+                "text": "Dia'strez"
         },
         "maps/heat/path-05.json/entities/228/settings/event/9/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
-        "maps/heat/path-05.json/entities/229/settings/event/10/message": {
-                "ciphertext": "rtCMXkMm4ksNKP4/d6uInvsV20cSWfk9YnamTsfyTjQNns69pzDVTd4gEdHkcC4KUFefwUy1OfQENqf+3fl8ng==",
-                "mac": "NYLfTZ67a/JyqkcSLEZDCg=="
+        "maps/heat/path-05.json/entities/228/settings/event/10/message": {
+                "orig": "Ah, please no eat scaly Shad.\\.",
+                "text": "Ah, pitié, pas manger Shad plein d'écailles.\\."
         },
-        "maps/heat/path-05.json/entities/229/settings/event/11/message": {
-                "ciphertext": "yqYf5pCVqenANNRtC9hPRLsJc3rXVRCkj+8lcib4l74DLKHRpWRLA11p1ShZhBRKjwL/77ccrS1KT67BvNppRq/8HU5qY4zzlHCEQFeLTQnUuYZCcw79wTBQTeYbhSucjWXN6ix9mV8Lk4xZ+3qEIg==",
-                "mac": "b+XHBdBBKZW+joO7rDtF0g=="
+        "maps/heat/path-05.json/entities/228/settings/event/11/message": {
+                "orig": "Oh dummy!\\. Open eyes, it not a monster.\\. It human!",
+                "text": "Idiot !\\. Ouvrir yeux, ça pas monstre.\\. Ça humain !"
         },
-        "maps/heat/path-05.json/entities/229/settings/event/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/heat/path-05.json/entities/228/settings/event/12/message": {
+                "orig": "Oh.\\. Yes, that true.\\. Such danger here, not good for Shad nerves.",
+                "text": "Oh.\\. Oui, toi raison.\\. Trop de danger ici, mauvais pour nerfs des Shads."
         },
-        "maps/heat/path-05.json/entities/229/settings/event/13/message": {
-                "ciphertext": "h47yfjrlNBHd5NhwkBv8KFd/xN6Mbd9MQ4weqSyECNzcicHXd5n9/eLGqQ+YtvJEcNydsCkDhLtcIK22DICWmuK2q6cxi5LL4ayqqKe2c0m4iREkH6Z5iQC2Kz+SCDlmKAlhJkm5XVwdtVAbEOmtZQ==",
-                "mac": "Ic0l2fQYGYone9zH8m3T4A=="
+        "maps/heat/path-05.json/entities/228/settings/event/13/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/heat/path-05.json/entities/229/settings/event/14/message": {
-                "ciphertext": "rOwrqNOFC+rxZGUEuQVH5h9rAJ2HClU8JeAqJ9WgX92MaW3aQ3Uu+6+iD3pHbI/5D1TsXRvtowFmI32B/eYqsg==",
-                "mac": "dWyBpYpq6O0Kp0S1iuVtVA=="
+        "maps/heat/path-05.json/entities/228/settings/event/14/message": {
+                "orig": "Ignore big baby.\\. Is human here to help?\\. Us could need help with great problem.",
+                "text": "Ignorer grand bébé.\\. Humain ici pour aider ?\\. Nous besoin d'aide avec grand problème."
         },
-        "maps/heat/path-05.json/entities/229/settings/event/15/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        "maps/heat/path-05.json/entities/228/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/heat/path-05.json/entities/229/settings/event/16/message": {
-                "ciphertext": "Mh/jEk0RLJ9cak+4RJM0djXgDd8TOr5mBkJaxDkepWIbc79FLeQLI6KwONyTxdzsxKMoNnKbJqzZ5xW3JadJMSI/CXXWcNvWQj2fZ9EXp6uVKPaMK/zU18fNTxbEFXsZu2xXiWSB+0Ik8tkRoOMhXxBS2nLEnswOzvOWdOl5boTx6HTkuL3dOfZEmm0ZhoM9",
-                "mac": "gsC2CdPCKFi6thEwWRV/Gg=="
+        "maps/heat/path-05.json/entities/228/settings/event/16/message": {
+                "orig": "Sent by Bazaarboss itself?\\. Such kindness, he thinking of workers!",
+                "text": "Envoyé par patron du bazar ?\\. Gentil de sa part, de penser à nous travailleurs !",
+                "note": "ouvrier ?"
         },
-        "maps/heat/path-05.json/entities/229/settings/event/17/message": {
-                "ciphertext": "m8j2fxn+4+4Hc7OnfxnMAQIFRsWzjpDFVHS0Q5whQlYKabbWNA45CMCUiSxiXbJZQ2y3iVEDnJ0LrwokRSzqHMzOvqdc9tNwusZze86K2HQ=",
-                "mac": "NkxMsPjQRmO0C9FrxdMD8w=="
+        "maps/heat/path-05.json/entities/228/settings/event/17/message": {
+                "orig": "He more think of precious cargo, me think.\\. No matter, help is help!",
+                "text": "Lui penser plus à cargo précieux, moi penser.\\. Mais aide bienvenue quand même !"
         },
-        "maps/heat/path-05.json/entities/229/settings/event/18/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/heat/path-05.json/entities/228/settings/event/18/message": {
+                "orig": "\\v[lore.title.seeker], look at transportation platform behind us.",
+                "text": "\\v[lore.title.seeker], regarder plateforme de transport derrière nous."
         },
-        "maps/heat/path-05.json/entities/229/settings/event/19/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/heat/path-05.json/entities/228/settings/event/19/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/heat/path-05.json/entities/229/settings/event/20/message": {
-                "ciphertext": "p3WwL6odkAHMTxU2A6bMYZ2u7ytVnPeEtDhrsEumSArUMsjkekoxGR7flynjDGfR0TYtcjXrZOYQR0msZ6ShAdWYhn9jlXj/dyb6y6vGreA=",
-                "mac": "pJm1kf2OZaGmsfK/vXQKkQ=="
+        "maps/heat/path-05.json/entities/228/settings/event/24/name": {
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/25/name": {
+                "orig": "Dia'strez",
+                "text": "Dia'strez"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/27/message": {
+                "orig": "It fine human technology, helped us move much crates.\\. But now it broke.",
+                "text": "Ça bonne technologie humaine, aide à transporter beaucoup caisse.\\. Mais maintenant cassé."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/28/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/29/message": {
+                "orig": "Yes, shield still work, so no monsters eat precious cargo.\\. But floaty device not work anymore.",
+                "text": "Oui, bouclier fonctionne encore, donc monstres pas manger précieux cargo.\\. Mais appareil flottaison plus marcher."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/30/message": {
+                "orig": "Meaning we stuck like rock.\\. And need materials for repair. Like \\c[3]\\v[item.190.name]\\c[0] from city.",
+                "text": "Du coup nous coincés comme rocher.\\. Et besoin matériel pour réparer. Comme \\c[3]\\v[item.190.name]\\c[0] du village."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/31/message": {
+                "orig": "Also \\c[3]\\v[item.186.name]\\c[0]!\\. And \\c[3]\\v[item.177.name]\\c[0]!\\. Both found in desert, if hit plants!",
+                "text": "Aussi \\c[3]\\v[item.186.name]\\c[0] !\\. Et \\c[3]\\v[item.177.name]\\c[0] !\\. Trouver eux deux dans désert, quand toi frapper plantes !"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/32/message": {
+                "orig": "Yes, but different plants, not forget!\\. And that it.",
+                "text": "Oui, mais plantes différentes, pas oublier !\\. Ça est tout."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/37/name": {
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/38/name": {
+                "orig": "Dia'strez",
+                "text": "Dia'strez"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/40/message": {
+                "orig": "Human understand and bring materials?",
+                "text": "Humain compris et apporter matériel ?"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/41/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/42/message": {
+                "orig": "Good news!\\. Please hurry and help us move again.",
+                "text": "Bonne nouvelle !\\. S'il vous plait, vous devoir dépêcher pour aider nous à continuer."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/43/message": {
+                "orig": "Yes, we wait and guard crate.\\. And try not be eaten.",
+                "text": "Oui, nous attendre et surveiller caisse.\\. Et essayer pas être mangés."
+        },
+        "maps/heat/path-05.json/entities/228/settings/event/44/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/heat/path-05.json/entities/229/settings/event/6/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
         },
         "maps/heat/path-05.json/entities/229/settings/event/7/name": {
-                "ciphertext": "75aTQLWZsZ4vh7I4m+v1nw==",
-                "mac": "OrEAS+Cf2qRuxJoZkZAz1g=="
+                "orig": "Dia'strez",
+                "text": "Dia'strez"
         },
         "maps/heat/path-05.json/entities/229/settings/event/9/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/10/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+        "maps/heat/path-05.json/entities/229/settings/event/10/message": {
+                "orig": "You got needed materials?\\. It splendid!",
+                "text": "Toi avoir matériel nous besoin ?\\. Ça splendide !"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/11/message": {
-                "ciphertext": "3/qEEACnGlNwOVCeFNUzfXufHcpolPRH+nydEuCvQbqgNUAEFvhRvTrx+H/1mhTk",
-                "mac": "3Bzto+23Cp6xqxo7KfZtvg=="
+        "maps/heat/path-05.json/entities/229/settings/event/11/message": {
+                "orig": "Yes!\\. It splendid!\\. Now we can do repairs and leave sandy sharkplace!",
+                "text": "Oui !\\. Ça splendide !\\. Maintenant nous pouvoir réparer et partir de endroit plein de sable et requins !"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/heat/path-05.json/entities/229/settings/event/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/1/message": {
-                "ciphertext": "YIXQYQVq8QyoXETrx2wjfg==",
-                "mac": "/Me/7XKNsbXw+n3Dudm/Vw=="
+        "maps/heat/path-05.json/entities/229/settings/event/13/message": {
+                "orig": "Yes, but there one problem.\\. To repair engine, platform needs restart.\\. Including shield.",
+                "text": "Oui, mais reste problème.\\. Pour réparer moteur, doit redémarrer plateforme.\\. Bouclier compris."
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/10/text": {
-                "ciphertext": "QIRQ3uUPKllYWLyU8Fh98fQlw8SPCxDv1XnyWjIdpUClVJeBjk7K3/WTCHVho2wAKBh891kQhOsA3BtwpiIB8w==",
-                "mac": "KA3gdYU/jktcvggI3unmrw=="
+        "maps/heat/path-05.json/entities/229/settings/event/14/message": {
+                "orig": "Oh no.\\. Then monsters can attack precious cargo!",
+                "text": "Oh non.\\. Alors monstre peut attaquer précieux cargo !"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/14/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
+        "maps/heat/path-05.json/entities/229/settings/event/15/message": {
+                "orig": "...!",
+                "text": "... !"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/15/name": {
-                "ciphertext": "75aTQLWZsZ4vh7I4m+v1nw==",
-                "mac": "OrEAS+Cf2qRuxJoZkZAz1g=="
+        "maps/heat/path-05.json/entities/229/settings/event/16/message": {
+                "orig": "\\v[lore.title.seeker] we need more help.\\. Please also protect transport for time needed to restart.",
+                "text": "\\v[lore.title.seeker], nous besoin encore aide.\\. S'il vous plait, devoir protéger transport pendant temps nécessaire pour redémarrer."
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/17/message": {
-                "ciphertext": "fCdvfjDyc3y1mTpclIseoepsMj+bMDRhuUoJrfzIv6Y=",
-                "mac": "uaq1E3VufBk+wsJHhqj4DA=="
+        "maps/heat/path-05.json/entities/229/settings/event/17/message": {
+                "orig": "Yes, yes.\\. Please help.\\. It only around 2 minutes!",
+                "text": "Oui, oui.\\. Aider s'il vous plait.\\. Ça prendre que 2 minutes !"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/18/message": {
-                "ciphertext": "CKJp8zFqQ3+dy0N9ZTwMyJrOgAKlywz1BGfBZYnD5yzy0Pq9f4BTTcyLDvxtDkXHMj4n2DaB63a4FYhG1GmripPWL/vnxVC+inYGh7Mq+sE=",
-                "mac": "I57hYGznZepNPEu/9Bw/Fg=="
+        "maps/heat/path-05.json/entities/229/settings/event/18/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/19/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        "maps/heat/path-05.json/entities/229/settings/event/19/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/heat/path-05.json/entities/230/settings/event/12/0/2/message": {
-                "ciphertext": "LWCHUDzJdMNK/CmD4cYz+U63/saN+ef2zfAGAjRpt8/8MjzLWMCXp1I+7r7Q+6CGKSbWgjt4qqB8tLC7J9xkM+29AhbAEXoON2uf/taSjGy4VyhsLk/rYuFqU3NAmOZ4",
-                "mac": "9zeqWLZpApSpRAbP5+n8lA=="
-        },
-        "maps/heat/path-05.json/entities/230/settings/event/12/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/heat/path-05.json/entities/230/settings/event/12/1/1/message": {
-                "ciphertext": "uLx4/Gc9JuS4L0osgppclvz99tR5FcnVyeIeDAqEwnC5uNeUHm3Rhq9qd1NY2ook5L1KH4Z7mMqLRehUepfbrw==",
-                "mac": "W1tpUUx2E4gbLNqppy3C6A=="
-        },
-        "maps/heat/path-05.json/entities/230/settings/event/12/1/2/message": {
-                "ciphertext": "N2oaxiP5Qa8buxbqDtUiWbm+fwW8K0Zlu8wrC5kzJwknpjB/3EYC0NO22Tubzohlz07lI2qdskftooORAy5jwibFcQsd2bI/CNaU/nh9U9xbfM6kidbw9F979x9JgIyb",
-                "mac": "lYgexDHODAhGyyq5j1WpnA=="
-        },
-        "maps/heat/path-05.json/entities/230/settings/event/12/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/heat/path-05.json/entities/230/settings/event/12/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
+        "maps/heat/path-05.json/entities/229/settings/event/20/message": {
+                "orig": "Good, good!\\. Please prepare for protection and talk again, when ready!",
+                "text": "Bien, bien !\\. Vous préparer pour protéger. Parler à nous quand vous prêt !"
         },
         "maps/heat/path-05.json/entities/230/settings/event/7/name": {
-                "ciphertext": "VPKl90shgahd2V38zEqB1A==",
-                "mac": "MLcdW5dQ+KiEU4VgnbpEqQ=="
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
         },
         "maps/heat/path-05.json/entities/230/settings/event/8/name": {
-                "ciphertext": "75aTQLWZsZ4vh7I4m+v1nw==",
-                "mac": "OrEAS+Cf2qRuxJoZkZAz1g=="
+                "orig": "Dia'strez",
+                "text": "Dia'strez"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/10/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/11/message": {
+                "orig": "Human ready to defend crate?",
+                "text": "Humain prêt à défendre caisse ?"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/1/message": {
+                "orig": "Hurray!",
+                "text": "Hourra !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/2/message": {
+                "orig": "Good, we starting repairs then.\\. Please protect crate till shield is back!",
+                "text": "Bien, nous commencer réparations alors.\\. Vous protéger nous jusqu'à que bouclier revienne !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/10/text": {
+                "orig": "Self-repair process started. Shields offline!",
+                "text": "Processus d'Auto-Réparation démarré. Bouclier hors-ligne !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/14/name": {
+                "orig": "Quo'wark",
+                "text": "Quo'wark"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/15/name": {
+                "orig": "Dia'strez",
+                "text": "Dia'strez"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/17/message": {
+                "orig": "Oh no, bad feeling!",
+                "text": "Oh non, sens pas bon !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/18/message": {
+                "orig": "\\v[lore.title.seeker] be ready!\\. Angry bone creatures come near!",
+                "text": "\\v[lore.title.seeker] être prêt !\\. Créatures enragés d'os arrivent !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/0/19/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/1/1/message": {
+                "orig": "Fine, come back when ready.\\. Please return soon!",
+                "text": "Bon, revenir quand prêt.\\. Bientôt s'il te plaît !"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/1/2/message": {
+                "orig": "Yes, please not leave \\v[lore.title.shad] in coarse sand much longer.",
+                "text": "Oui, s'il te plaît, pas laisser \\v[lore.title.shad] dans sable rugueux trop longtemps."
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/heat/path-05.json/entities/230/settings/event/12/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
         },
         "maps/heat/path-05.json/entities/231/settings/analyzable/text": {
-                "ciphertext": "eyW9S9NaS6NsCBLet9AjkA==",
-                "mac": "IhFhXJSr6fwuqXmKSh0Uog=="
+                "orig": "Diaz'trez",
+                "text": "Diaz'trez"
         },
         "maps/heat/path-05.json/entities/231/settings/npcStates/1/event/0/name": {
-                "ciphertext": "eyW9S9NaS6NsCBLet9AjkA==",
-                "mac": "IhFhXJSr6fwuqXmKSh0Uog=="
+                "orig": "Diaz'trez",
+                "text": "Diaz'trez"
         },
         "maps/heat/path-05.json/entities/231/settings/npcStates/1/event/2/message": {
-                "ciphertext": "w+gIA1Z97WeRyP+YcgRccZk8q8IQ+S8Hsr5iuqJLH37s8pY0wZjFnTQRwQPhPaGvKwxjGQGnTh2KnuuLkgRRASt3DWMUALcFhNu5OSL82AJ2QsMdHjc75dEIpgtZdpAX",
-                "mac": "PGgt9EgpK/FyKGriv/20Tg=="
+                "orig": "Human please bring \\c[3]\\v[item.190.name]\\c[0] from town market!",
+                "text": "Humain, s'il te plaît, apporter nous \\c[3]\\v[item.190.name]\\c[0] depuis marché du village !"
         },
         "maps/heat/path-05.json/entities/231/settings/npcStates/1/event/3/message": {
-                "ciphertext": "sh1iRH2K2/iFV3eMhMUMHZ9KRu3YlUsGtmFSwX+wTOFfCFb/JGvRPTqhBQUtinJQH7EDssv0UMU1cKjZVAj+c2WbsOxLwYc06DZ8igoGgtPpr5k48JlwBNdd5B5RyoEE6hSKqaKLZ6yo7N1P+vgq9w==",
-                "mac": "0I6eP5mo0lXOQJJ96KoYCw=="
+                "orig": "Also \\c[3]\\v[item.186.name]\\c[0]!\\. And \\c[3]\\v[item.177.name]\\c[0] from plants in this desert!",
+                "text": "Aussi \\c[3]\\v[item.186.name]\\c[0] !\\. Et \\c[3]\\v[item.177.name]\\c[0] depuis plantes dans désert ici."
         },
         "maps/heat/path-05.json/entities/231/settings/npcStates/1/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat/path-05.json/entities/233/settings/event/0/text": {
-                "ciphertext": "iZv4NXXsEqSMZ7nVsnJmTQ==",
-                "mac": "7bhWeaUeVXOaYiHMMMuufw==",
-                "ciphernote": "6iRbpHsLTLtGNs98evvUJwa+lkA1t9bG4NMQm+Kt/Eo="
+                "orig": "TRIGGER",
+                "text": "INTERRUPTEUR",
+                "note": "unused, probably"
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/0/thenStep/0/message": {
-                "ciphertext": "NGvNZ91Q4kMSSW9IPZyRvBg8Q3mf+8/F0/ptNE+JLHV1Z25e9ydr9XRFTHnqWtw/xn3PIWHxi+GjoIEHgD2bwsK9wp5RXD2KUAJyz8eKZkg=",
-                "mac": "ldWWh/b7N8fEaxFLkIM9Bg=="
+                "orig": "Ah, \\v[lore.title.seeker], defend us from mean sharks!",
+                "text": "Ah, \\v[lore.title.seeker], défendre nous contre méchants requins !"
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/1/thenStep/0/message": {
-                "ciphertext": "QgFhbSmK5p6XyXx9F4jSm82250GzKNZp5aexso9rqILsHcflTh/wzpLYueS6dI47",
-                "mac": "SG2R4WJbqrcy7l6+sXaUeA=="
+                "orig": "Boss be angry when he sees damage...",
+                "text": "Patron être furieux quand lui verra dégâts."
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/1/thenStep/1/message": {
-                "ciphertext": "ur2DTXwzYmyfNvvyFeEQRQ==",
-                "mac": "EhXx84ymFzSM0LEPM9zMXw=="
+                "orig": "Oh no!",
+                "text": "Oh non !"
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/2/thenStep/0/message": {
-                "ciphertext": "zOJi1PD5CJX91Cn0izUFgBa7BvzR6SGvNlZzG1DeXW4=",
-                "mac": "EDoLrgNVtS1fIxm91Xdi8w=="
+                "orig": "Ouch, not sound good.",
+                "text": "Ouf. Pas bon signe."
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/2/thenStep/1/message": {
-                "ciphertext": "uZCU7hEOq9MdnsbUN87qAnQhFZfpGPij0cFiyiAFmfE=",
-                "mac": "DUo9k/6+W8hM69XltUhi9Q=="
+                "orig": "No, not good at all.",
+                "text": "Non, vraiment pas bon."
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/3/thenStep/0/message": {
-                "ciphertext": "3UrKG2rmGubgdQxrnZZ33FMerLulaS2KZlCrxoAzF3dXlp59iVmzhfrit1kwXev62g92OL3eitpqUNz3bv5Jhg==",
-                "mac": "rSUR1Gzclj4zl/oKIRjbgg=="
+                "orig": "\\v[lore.title.seeker], crate get unstable!\\. No more hit, please!",
+                "text": "\\v[lore.title.seeker], caisse instable !\\. Plus de coup, pitié"
         },
         "maps/heat/path-05.json/entities/235/settings/event/1/thenStep/3/thenStep/1/message": {
-                "ciphertext": "Rkc09IE1j34IkhYa9He7C8M40m/eQ6kdu0s47jS3xmLYzfQBtTEXAPMNF11jNhOt",
-                "mac": "n5cRhrUGsb61FWXtuHWEhw=="
+                "orig": "Use body to protect, if must!",
+                "text": "Utiliser corps pour protéger, si besoin !"
         },
         "maps/heat/path-05.json/entities/237/settings/event/0/message": {
-                "ciphertext": "XiigalfSRO095+xXIKUtmMut3uh9IXtBUUxE1ZmEXl/OfBF+0dzxQDMGrhm+AhLM",
-                "mac": "l+G+6EcyhC/2n5S+FQ3+Ow=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/10/message": {
-                "ciphertext": "6M+S32QACEiyBaS+7gdsEmQgUtgrK3pVVyNLeixk/vFuYO8S0Ooi1XV1ACr592DZ",
-                "mac": "M0XXRrh7/97bGDg7BDSdFQ=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/11/message": {
-                "ciphertext": "MABoVhv3R64kmNnKsEQaxocFWeK63zoKPlvRjCfEgIWibB5s0AOzmeqns7J7N0W9",
-                "mac": "73Nsum7FNI7v2aXnrk0r0A=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/14/thenStep/0/message": {
-                "ciphertext": "uPhUD+xrrQLgjMqz/F13ob6UOVyQFFSZy4ugIPJKMDjplrsYeWtbcQ6FZfsmv4j8rRH28YuZLKs4sGWCyilznA==",
-                "mac": "AZmIcadAjExVVwmVhRlpAw=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/14/thenStep/1/message": {
-                "ciphertext": "S3vRvQ8q2Y1bGZsvFpT9x0voZytbK94Rj7IEtUB+2DP0rkv4jyDNAJYPNdwNorfA",
-                "mac": "DfBL/W01X7MraA07QdZklg=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/14/thenStep/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/17/message": {
-                "ciphertext": "JoqQqtbaDx1uQp3LcY7fGvWkWyae0I8NvZjQ2abKMoO1bN0BRo1SuSP0fB6Tfjb9cUI/eJ68leyA6MoJuHSwxPFpcVBbgk1eOj7NIzeLJXs=",
-                "mac": "4FK2QkEwYp4xZBRACM0+6A=="
-        },
-        "maps/heat/path-05.json/entities/238/settings/event/18/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Whoa...\\. you can actually walk through here?",
+                "text": "Wouah...\\. On peut vraiment passer par là ?"
         },
         "maps/heat/path-05.json/entities/238/settings/event/4/message": {
-                "ciphertext": "rzcTbVoZKlTFnFGmlFtFxw==",
-                "mac": "iDOOf+ktpvs5gTFXEk8Fiw=="
+                "orig": "Hi Lea!",
+                "text": "Salut Lea !"
         },
         "maps/heat/path-05.json/entities/238/settings/event/5/message": {
-                "ciphertext": "LowQD12cIgZRpEKiMcqXZA==",
-                "mac": "eIEYMOgc5JWt+HsOCdQFdA=="
+                "orig": "Hi?",
+                "text": "Salut ?"
         },
         "maps/heat/path-05.json/entities/238/settings/event/6/message": {
-                "ciphertext": "6I9dlDC4g/kt3REc7vPDxA==",
-                "mac": "h3ukTRbMCBwDJ3tHf6Ifcg=="
+                "orig": "This is Kit!",
+                "text": "C'est Kit !"
         },
         "maps/heat/path-05.json/entities/238/settings/event/7/message": {
-                "ciphertext": "SB3/NNZTFEsCkC/3qRsYO2FOnBwPCexmBLIskySFJmZaq3QFIXx6Pqo1DPPjWp6lmS7BW2SmSg8MUmFb7HOG/g==",
-                "mac": "fdzPQXxMC5H7PQJGyHD/tA=="
+                "orig": "I see you arrived in \\c[3]Barren Arcs\\c[0]!",
+                "text": "Je vois que tu es arrivé aux \\c[3]Arches Perdues\\c[0] !"
         },
         "maps/heat/path-05.json/entities/238/settings/event/8/message": {
-                "ciphertext": "+TzkZPQOH8NkFC+OUek5Xg8URZvPRO9l5j9XqybbPiBusGtlpBExSDDDIsCPJmUXI3ZhW7MIisckcjEFwQhXS74Urj1x3mkee3y8cRkY5jbNsa28oVtMHTcIlamiSJD1",
-                "mac": "BPmOXgvMS/jl+qY2BADYOw=="
+                "orig": "We'll need to meet at a certain spot...\\. hm...\\. how to describe it...",
+                "text": "Il faut que l'on se rencontre à un certain endroit...\\. hum...\\. comment le décrire..."
         },
         "maps/heat/path-05.json/entities/238/settings/event/9/message": {
-                "ciphertext": "SJ9Q4PTCZLe/7/btR5cRh/3UD09f++jnlFdwtclg10Rw7PO55sCcELgVznV3LsAASKhrwfihiizyVSnMT0ttbXuq51/E+jZ+DY3enrHyKfcfGdvAd/0GE1OK77GyWH1Z",
-                "mac": "hT5a9502ugE/1C8HyzPASw=="
+                "orig": "Okay, first look for a \\c[3]lonely pillar\\c[0] in a \\c[3]nearby chasm\\c[0]...",
+                "text": "OK, d'abord, cherche un \\c[3]pilier solitaire\\c[0] dans un \\c[3]fossé pas loin\\c[0]."
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/10/message": {
+                "orig": "From there, just head \\c[3]straight to the south\\c[0]!",
+                "text": "De là, va \\c[3]directement au sud\\c[0] !"
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/11/message": {
+                "orig": "Got that?",
+                "text": "C'est clair jusqu'à maintenant ?"
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/14/thenStep/0/message": {
+                "orig": "Oh... and also please make sure you are \\c[3]by yourself\\c[0].",
+                "text": "Oh... et assure-toi que tu arrives bien \\c[3]toute seule\\c[0]."
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/14/thenStep/1/message": {
+                "orig": "We need to keep this confidential!",
+                "text": "Il faut qu'on garde ça pour nous !"
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/14/thenStep/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/17/message": {
+                "orig": "Lea, again, are you really sure about this?",
+                "text": "Lea, encore une fois, tu es vraiment sûre de vouloir faire ça ?"
+        },
+        "maps/heat/path-05.json/entities/238/settings/event/18/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat/path-05.json/entities/240/settings/event/3/message": {
-                "ciphertext": "qlU5S6xc5Xs4swBKYcfEsWET53kHwnGHTYeKgPgjDm9q82LpoBZkvVr+pyHzuc9F5M3+cTmzGMrS+7MXWc20zQ==",
-                "mac": "oKeWgtNCpLJ94BwFCm5Awg=="
+                "orig": "Right...\\. you found the \\c[3]lonely pillar\\c[0].",
+                "text": "OK...\\. tu as trouvé le \\c[3]pilier solitaire\\c[0]."
         },
         "maps/heat/path-05.json/entities/240/settings/event/4/message": {
-                "ciphertext": "OpogV/htBe1zoH5zOBVbsRxr4qcR91njSU3Ng3HKs5Z/zKYmw1EC1w7qaqyv9pUC",
-                "mac": "11uqvST4xof7nA7qrhHbHw=="
+                "orig": "Now just head \\c[3]straight to the south\\c[0]!",
+                "text": "Maintenant va \\c[3]directement au sud\\c[0] !"
         },
         "maps/heat/path-05.json/entities/240/settings/event/5/message": {
-                "ciphertext": "kX2YLUmcaLBAkgYifzN9r6kkETY4gdDgNeHBCrJrBks=",
-                "mac": "uSiSdYYNSmNjQRTC3Z7X1w=="
+                "orig": "You're very close!",
+                "text": "Tu y es presque !"
         },
         "maps/heat/path-05.json/entities/240/settings/event/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/1/event/2/message": {
-                "ciphertext": "O22FNGpIgk0V8XOK7HPNzwE9Qs6miNZsWTQF1fXnVQiRgsMX7eKSNFWiLPZuq6fYuKvrL5Yfwag/j60RlrVDRQ==",
-                "mac": "Wo/yhzQ9P8TZq+BOKWuhig=="
+                "orig": "Just keep running at this wall to \\c[3]east\\c[0].",
+                "text": "Continue de courir sur ce mur à l'\\c[3]est\\c[0]."
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/1/event/3/message": {
-                "ciphertext": "Bs2NtnSfpDHKbBNvGmp6ZdAI0zHEo2x9dvyL+7J6jgtNC0MvE1788fJohur+VInx28bA5vFMjIIPj8cUASYSG40FDtpCcVOZDH6ezPMZ3Dp9nh5sGm5l56mpu70/PcgTjEkanWgHHrsMKrUaMT4zyw==",
-                "mac": "4lXvnNtX99QFRexsT+fDbw=="
+                "orig": "Once you do that, I'll give you instructions to find exactly the \\c[3]right spot\\c[0]!",
+                "text": "Quand tu commenceras, je te dirais quoi faire pour trouver exactement la \\c[3]bonne position\\c[0] !"
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/1/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/4/event/2/message": {
-                "ciphertext": "POMNHaAATiB4ePzISuX+SZ7bnoCyRvk2Ksk5zh529prKJxOI1T8tdWN/PLiwEFkueh0mqaYB4BM7YmyUjBDBGDhX/mujHDs23/Wqz4Ri/Ik=",
-                "mac": "LSyATi20HVIt3gJ9kkTvTQ=="
+                "orig": "From here keep running at the wall to \\c[3]south\\c[0].",
+                "text": "De là, continue de courir à contre le mur vers le \\c[3]sud\\c[0]."
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/4/event/3/message": {
-                "ciphertext": "TgGah3mfVkQ2bge+CCh5ME/5waruPcPFJ5+nRyc9h4RGIC2DmqyGNg5nxNXtt5uoUGpHnHrf6WlcnJRjF0cxQm0HINbon/GwwGlZI9MzC2uREESUyDjTGAlTKnsVwoPD",
-                "mac": "DpJ4bext3huXu3hA1wrkZQ=="
+                "orig": "I'll again give you instructions to find the \\c[3]right spot\\c[0]!",
+                "text": "Je vais continuer à te dire quoi faire pour trouver exactement la \\c[3]bonne position\\c[0] !"
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/4/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/12/message": {
-                "ciphertext": "VtlS3Pswh/Tc8mVirqq7aw==",
-                "mac": "tOO1FwNnw9cQhXgiKzYYZg=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/13/message": {
-                "ciphertext": "Pbx/goLSxAkfgoFsej/hFg==",
-                "mac": "j5z7uM/WQFKmHdQsJA/NAw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/15/message": {
-                "ciphertext": "0erXYqoRmGJ7kHvbNj+vTqXOEYI26JDWvPm9twSRqnOC99EXqrnpPEV9CGfECwHRfAjeU7spJx8ifvMpWED2nQ==",
-                "mac": "kDEkq5GRlj+szR5pyn6HCg=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/16/message": {
-                "ciphertext": "FlSj6NdkhNKAR+Aiy7V6BBdXApcLEodmjiuQDuKn50FfVYX/gs5lw8meao9gASFuBRdlzuFK/ztt1HBvdJQgXA==",
-                "mac": "i5+l4Zc8QbVRgCC45PtDPw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/17/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/18/message": {
-                "ciphertext": "o7+tI/e4ElsAGOBcNkMPV10eAKdqf6cZKvqu2q53kf1fNwUKaiLawfJ16xBH9u0gd17cgql6GQPn49msVR3PnXktnE2hwU4Kd0nVw4d0lqr8fDQM3bUFmRuCMYio9Yzn",
-                "mac": "zTxKR5glYUylkl27y7Ctpw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/19/message": {
-                "ciphertext": "a/DqxaEaVCw5ZIM8AZQ4kPkqamEEb3g+FHa6AiARPQ1K4U8/YYviFzgO6xAy1TyaKAXS1qgR1FYUJPggWnlO135TjmBMPHkvpQPyLIhebjZrxEJp+UriMfTxbUL7q2iQMTUH5Eusd6K7pD5gyvykx7Apr03AquhOraoVSkA+Xg0=",
-                "mac": "l5bFME2o5tmJ9UPAwlzg3g=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/21/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/22/message": {
-                "ciphertext": "gqvkY7o42FfTkoLLdtCp+wXOAt/s+TLpH85buyadq9RAkMxEXSE3x6RoQamwFVH+",
-                "mac": "P1onqZzz5fuWPYrBVGBQEQ=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/23/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/24/message": {
-                "ciphertext": "cC2+pvooITv9o63+Ald7NoIfxFpoXwJxxDFqsil2dmNAo9Pao/UzJfVESTHFj13P",
-                "mac": "woDkplFPMMMtRVy4IHpBfw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/26/message": {
-                "ciphertext": "S7b8Abu04VUiN1kDWiK/PDmBFp82cdi204a4kbVGMFHWqYaGqX+80CM0R3i4/yhitzPFqdEQOsOMLomrcwD7Hw==",
-                "mac": "wk0SpYNJubfuyawXxL2ZJw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/27/message": {
-                "ciphertext": "UHcJKHrjTu+3MLAGTA/APUheTUywwnDL33DJFxArv23FNV1m0McaQ7Ob+5pfNej+6Vry1c8sI/+wA8vFJvXgJvFUu420TYK7FfVk9+P1BF2W8vLnm6htnMXNn7dDjSWk",
-                "mac": "wsS2gG7XP0l8tyDU2bp2+w=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/28/message": {
-                "ciphertext": "4cMgUjkIRNBUe6ADAn3xrPYq1IvlUEIy834VsR79/F6UL2/dn7SQb5KiMXa71JXdAqhFyFzzF8EJx6hKTdMNlg==",
-                "mac": "XpZlkUobTyk0Lea4n3XFGA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/29/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/30/message": {
-                "ciphertext": "pO83erKRDF7GQtkgT5MFjXLLQYkmqvia0Bcj/R9Fr4EUj02ciJ50cW+CXRnuHgS5tzxKSCsfWFJ2B62g5qecrjxLK3SOhzzcFVXeFFVWOWU=",
-                "mac": "f7dhcaC94NYSWvbLczDBvg=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/31/message": {
-                "ciphertext": "QEXPDNksDO21+ibN2iPGijhuEOYKC6VxXB5CVDdNZgWpw87DdDKqDg1ZsB8j1PauXsEtOpEk8o2njluD3zNNkw==",
-                "mac": "DvxHo0aydGsBS+FRq2afWw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/32/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/33/message": {
-                "ciphertext": "5OSz9dMF8ts3pNzW9NfIeLrZqJAc6k4pD5j/l/tIwXSuabLbyzyXiCUJfapNi+6GMbr4oQQpSz1mTmQD9LFl65pILMaVAF/qN3pH9FC1d8DzSDYWkuBUegJXZV8BzckuSXbCZG1VHSoWpa3+OQgBmuJFgMj6Q1WVwgZrYeHnV4g=",
-                "mac": "0y6V1wYfcVjzm1RGpbMySA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/34/message": {
-                "ciphertext": "U7iySroc9wlro1JqdtPCaCUZpxIZClniIN5EhhS9HCypKPBMH83jFSh8biHCJR/Y",
-                "mac": "SuaniA+Zcq3q/YWxCSiThw=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/35/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/36/message": {
-                "ciphertext": "t/QwR6E3SihrUDZtwJTpK7DokCgoYsMncWzSBgigVMbdCZIFHhwi8WaoWqESPXJ+iw8wW7PAlgouJrZA3w6lFzJnkysOfkVVBKYgpBYBVxTfh+8cUfEo17qeYT+iikJT",
-                "mac": "2wnUPmsesyDjtxvMj1NwTA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/37/message": {
-                "ciphertext": "KyPA30gKzj42B/N9VSIY0g==",
-                "mac": "YbkUxN5s+8U12Hcs8H29PA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/46/message": {
-                "ciphertext": "kMZR7Pnz7k1X04nvBCSFl33piPa9cwja1N1a5TJN6q3fy5o5qQDe8lEAPs5tOYFfv4PbExoF7d3yNrg2Yc07j+Pb+JGmvMm6Ek87uubi/fM=",
-                "mac": "froUUhif4RijRi8eAZeCNA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/47/message": {
-                "ciphertext": "/Bf9QO6GLAZCW3vS0EskzQrvXyFJJRvvNnHNd+CxIVV8SU0fjqhaJT47w8/N5sg4SGTQa7eMrSUM0nWFNblpbf59hh9l/f7UGwQD3gxWggE=",
-                "mac": "PR6AhnEqU44kkWN0wPNI0A=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/48/message": {
-                "ciphertext": "T0BR1kQgkSzBfCGuKuRgnkJ072/bAV/Iql6LbqFFmov8KWeTms46eJ6AhejpuoPHl9R+XE0LJceMNuGTj4YgHwRnCbk6zrW/rfvZK+D7OAwjRDfDEw4TETrYmDruOHrU9cd6M/nBEDxeOqma7qsKXbJZxBPCXIga2aZxMgi7y8AJS+yTF2k0Q/FW7CDrg3j3",
-                "mac": "0i8AGJwspkNORjUZ8WVCVg=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/49/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/54/message": {
-                "ciphertext": "zpHpMmfw/4EkAFwrI0RjfkzETNdaqs6jLLiXkJfpRltmmeYcO3b3dqd44mFsKny+",
-                "mac": "QlIop/Ag+NtzClJ2nYQPOw=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/thenStep/4/message": {
-                "ciphertext": "MCbR0hSv3ZYkfUbA347BnvAeyagv0cVs6bG8yKBAPPF4T4VV/w0sDXe/OXSExZUeIQ4YaXKDSAgtK1LDKIpJasHfjKlaayuzZeFyN7KgfJw=",
-                "mac": "cRFgR3VcP3RofLv/S1hpSQ=="
+                "orig": "Lea... you need to \\c[3]disband your party\\c[0].",
+                "text": "Lea... il faut que tu \\c[3]fasses partir les personnes de ton groupe\\c[0]"
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/thenStep/5/message": {
-                "ciphertext": "4W+00fpm2QSMKvTu7cILKGazR4WEmN8us5jo84w9qGwDYwM4mXmPgYRMP1R90hcIou5iiQX0f9BfAi/3V4m8okFqe2ZOhXfe5D+L0QvSjEU=",
-                "mac": "ZxYX9Mkg6hjSZOnYnlLnng=="
+                "orig": "We shouldn't risk to have more players involved in this.",
+                "text": "On ne peut pas prendre le risque d'impliquer d'autres joueurs là-dedans."
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/thenStep/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
-        "maps/heat/path-05.json/entities/244/settings/event/3/elseStep/0/thenStep/4/message": {
-                "ciphertext": "N80rrZRvt7GwSRQiBbbt2En67+WqY9eqi/I/CId1YjLlqlGXeAs6/nyJfGUc4tcnSfAzS8L5sVpUqtvs96sfvMaYCANxTRhC6lQuX20SsY0=",
-                "mac": "4n+kMp8vyhK7swXBcLAEcA=="
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/12/message": {
+                "orig": "There you are!",
+                "text": "Ah te voilà !"
         },
-        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message": {
-                "ciphertext": "FIDO4JixuKBi4Ke2PPGXKBFgsQmYmArIKqMi7FTfAbBiPLwqPozwlOKcs02SDbCUyH15r3ClgcVTW09Jut3rKhFjvBuEBPSA1o+cwrMc44M=",
-                "mac": "RvYrQSW0E43IcrZAlVTuTg=="
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/13/message": {
+                "orig": "Hi?!",
+                "text": "Salut ?!"
         },
-        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "UOpJxL/b6s1qfpi7Y9uxsyAN1cxt630LAPzWL0xLO3Cg5KjhbZArBmQJEt7c8PGoazZm10H3i5IzChb1cwOI0Q==",
-                "mac": "6SJBNL1OAVWGd+lN5zEMgw=="
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/15/message": {
+                "orig": "Ha...\\. you look confused.\\. That makes sense.",
+                "text": "Ha...\\. T'as l'air d'être sur le cul.\\. C'est normal."
         },
-        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "Ixk2B5qO31XgI9sCtCXHtfputFKNYXUfATYhedWBLR0=",
-                "mac": "cnO/um+QepEYd0MiWENyBA=="
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/16/message": {
+                "orig": "You don't see avatars like mine around here that often, do you?",
+                "text": "T'en vois pas beaucoup d'avatars comme le mien, n'est-ce pas ?"
         },
-        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message": {
-                "ciphertext": "mTQWGnedNqI3BFdn1pMCGJAoqgH8O1lmxjISIjpTzRALBu5JVd5u6C7pE78i4Q/vXS+XWyheGejuzVo4/4XnSQ==",
-                "mac": "k8nH9v2f1EzXKCQE0UQH9Q=="
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/17/message": {
+                "orig": "How?",
+                "text": "Comment ?"
         },
-        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message": {
-                "ciphertext": "owU87w6QERckwTl9jZHbITX5AE9ulsgQ1ejLgGUFzsY=",
-                "mac": "rKSsYBZAsejGK7wfqsX+JQ=="
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/18/message": {
+                "orig": "Well...\\. there are some tricks you can use to get an avatar like this.",
+                "text": "Ben...\\. Il y a des astuces que l'on peut utiliser pour avoir un avatar comme ça."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/19/message": {
+                "orig": "Though this isn't exactly allowed.\\. Which is why I can't just walk around all willy-nilly!",
+                "text": "Mais c'est pas vraiment autorisé.\\. C'est pour ça que je peux pas me permettre de me balader partout comme ça !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/20/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/21/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/22/message": {
+                "orig": "Huh?\\. Why am I using this Avatar then?",
+                "text": "Hein ?\\. Pourquoi j'utilise cet Avatar alors ?"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/23/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/24/message": {
+                "orig": "Well...\\. it's cute, don't you think?",
+                "text": "Ben...\\. il est trop mignon, tu trouves pas ?"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/25/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/26/message": {
+                "orig": "Also it will be helpful for what we're about to do.",
+                "text": "Et sinon on va en avoir besoin pour ce que l'on va faire."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/27/message": {
+                "orig": "There is a reason they don't want modded avatars like this.",
+                "text": "Il y a une raison pour laquelle ils ne veulent pas d'avatars modés comme celui-là."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/28/message": {
+                "orig": "The game tends to glitch...\\. just a little bit easier!",
+                "text": "Le jeu a tendance à glitcher...\\. un peu plus facilement !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/29/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/30/message": {
+                "orig": "Oh yeah, I probably should explain what we're doing today!",
+                "text": "Bon oui, je devrais peut-être t'expliquer ce qu'on va faire maintenant !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/31/message": {
+                "orig": "We'll explore some \\c[3]new and unknown territory\\c[0]!",
+                "text": "On va explorer des \\c[3]nouveaux territoires inconnus\\c[0] !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/32/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/33/message": {
+                "orig": "In fact, I understand it's a little testing area for developers that has been left in the Playground.",
+                "text": "Quelqu'un m'a dit qu'il y a un petit terrain de test pour les développeurs qui a été laissé sur le Terrain de Jeu."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/34/message": {
+                "orig": "And it's supposed to be quite the experience!",
+                "text": "Et on m'a dit qu'il devait valait le coup !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/35/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/36/message": {
+                "orig": "We'll just have to do a few things...\\. very precisely...\\. to get there.",
+                "text": "Il va juste falloir que l'on fasse certaines choses...\\. très précisément...\\. pour y aller."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/37/message": {
+                "orig": "This way!",
+                "text": "Par là !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/46/message": {
+                "orig": "I'll need you to run against this wall here. To the \\c[3]east\\c[0].",
+                "text": "Je vais avoir besoin que tu coures contre ce mur-là. Vers \\c[3]est\\c[0]."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/47/message": {
+                "orig": "But you'll have to run at just the \\c[3]right spot\\c[0].",
+                "text": "Mais tu devras courir en étant \\c[3]exactement à la bonne position\\c[0]."
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/48/message": {
+                "orig": "I suggest you just keep running against this wall and I'll give more detailed instructions for your position!",
+                "text": "Je suggère que tu continues de courir contre le mur pendant que je te donne des instructions détaillées sur comment te placer !"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/49/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/54/message": {
+                "orig": "Are you...\\. about to use that glitch?",
+                "text": "Tu vas...\\. essayer d'utiliser ce glitch ?"
         },
         "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "ra1zvhjjOjCS79ThwEJ9pIPd9uUQmDxkf4WtDABr6vFd0SlVWv2OA/RrW1O/txuIrEZL8ZKpfQuo7XMeL/J0IA==",
-                "mac": "AgyFsHDwpXe5AsSeihYfww=="
+                "orig": "No, wait! Your position is \\c[3]wrong again\\c[0]!",
+                "text": "Non, stop ! Ta position est \\c[3]encore mauvaise\\c[0] !"
+        },
+        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message": {
+                "orig": "More to the \\c[3]south\\c[0]...",
+                "text": "Un peu plus au \\c[3]sud\\c[0]..."
+        },
+        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message": {
+                "orig": "Just a \\c[1]bit\\c[0] to the \\c[3]south\\c[0]...",
+                "text": "Juste un \\c[1]petit peu plus\\c[0] vers le \\c[3]sud\\c[0]..."
+        },
+        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "More to the \\c[3]north\\c[0]...",
+                "text": "Plus au \\c[3]nord\\c[0]..."
+        },
+        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Just a \\c[1]bit\\c[0] to the \\c[3]north\\c[0]...",
+                "text": "Encore un \\c[1]petit peu\\c[0] vers le \\c[3]nord\\c[0]..."
+        },
+        "maps/heat/path-05.json/entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message": {
+                "orig": "\\c[2]That's it\\c[0]! Just \\c[3]keep running\\c[0] at this point!",
+                "text": "\\c[2]Voilà\\c[0] ! Maintenant \\c[3]continue de courir\\c[0] sur cette position !"
+        },
+        "maps/heat/path-05.json/entities/244/settings/event/3/elseStep/0/thenStep/4/message": {
+                "orig": "You need to \\c[3]keep running\\c[0] against the wall, Lea!",
+                "text": "Il faut que tu \\c[3]continues de courir\\c[0] contre le mur, Lea !"
         },
         "maps/heat/path-05.json/entities/252/settings/event/15/message": {
-                "ciphertext": "rR24VwjlghUA3nr0v9d/c8EPvKjV3zGcG5TquOfLmsGYf4BEenxf80p3Swca63sLlY3DLtcFyJsxojSaewoRWw==",
-                "mac": "0K/I0wF1pKLPvhgyuPPvUg=="
+                "orig": "Nice!\\. That worked faster than I expected!",
+                "text": "Super !\\. C'était plus rapide que ce que je pensais !"
         },
         "maps/heat/path-05.json/entities/252/settings/event/17/message": {
-                "ciphertext": "MgrgplwVE5j8ee8TcNMmbA==",
-                "mac": "LyDUjKOutp2aylfFNNy2MQ=="
+                "orig": "HOW?!",
+                "text": "COMMENT ?!"
         },
         "maps/heat/path-05.json/entities/252/settings/event/19/message": {
-                "ciphertext": "CABqNen5FtPu8Pv7bH0Oo8WWjBeWgJLuLLROO+JRNio=",
-                "mac": "A8YASftFD0YTcra5cxcOvA=="
+                "orig": "LEA!\\. Stop doing this!",
+                "text": "LEA !\\. Écoute-moi bon sang !"
         },
         "maps/heat/path-05.json/entities/252/settings/event/20/message": {
-                "ciphertext": "zsrRhA1bbTK7XvJj8RLiTAhBohMGZeHlcH/6jorPPKLQHnq0EdD7Sf8GiD0TSe3h5lc73rB16GiIr8gSzjmim5W+CRNuN5xQkZsEo4tZY1Bzi4Js9kfwmRav/qsGbZ3U",
-                "mac": "Zfu5D1WqMMNLxDjo1tHazw=="
+                "orig": "Hahaha, I suppose that was your first \\c[3]wall phasing glitch\\c[0].",
+                "text": "Hahaha, j'imagine que c'est la première fois que tu \\c[3]glitches à travers un mur\\c[0] !"
         },
         "maps/heat/path-05.json/entities/252/settings/event/21/message": {
-                "ciphertext": "Gt1k0ZsLQIIGVVQNpRYxA8i1I4lxO2Agqk/U3IME/Mq1rucAb/jocW0vJzJsrCwIdt09bypneGWjQrPYt1SH+Fn1HeHnKXKtapxGlyxZyGIG8gf0HpPiOtoZVfL9VCmgeuKOT18uCaMMTJmiuiP6vQ==",
-                "mac": "anDYXardOHII+J4sGcWYcQ=="
+                "orig": "In case you are wondering...\\. it's due to a little workaround they added in the early days.",
+                "text": "Au cas où tu te demanderais...\\. c'est lié à un petit contournement qu'ils ont ajoutés au tout début..."
         },
         "maps/heat/path-05.json/entities/252/settings/event/22/message": {
-                "ciphertext": "EXFbEXj9Vo7ahAbGuBN0YQ==",
-                "mac": "WPk+83UMnWibuRcp3EZYig=="
+                "orig": "...Why? ",
+                "text": "... Pourquoi ?"
         },
         "maps/heat/path-05.json/entities/252/settings/event/23/message": {
-                "ciphertext": "QrhkwyGAwaF4Wwq+jlvA4aEZ9+D4dAg8ZZTyuFJVJEw6UAasMtYUrRXBHnh22c8Ph6OWc7osjhiVLAX9tVCmIxgHX67dmg05t90IALh7EpE=",
-                "mac": "L0aqHc4cRdZCc8f5Q24Zgw=="
+                "orig": "Well...\\. back then players were stuck in arbitrary locations.",
+                "text": "Bien...\\. à l'époque, les joueurs restaient coincés un peu arbitrairement."
         },
         "maps/heat/path-05.json/entities/252/settings/event/24/message": {
-                "ciphertext": "qG/f6u+sHmGiJOZ/BCA5hxBVOe5B9u4acH7ovDDgXr1tljxNqHirdCeQeUY0X7N9VSeQ8tMsYnugDkofiP1VRAS0R8ZDJuXn0bPm+rlSFWfBK3tQVbWflIGOeSWBQWNERZRxoGBLVVRe+W9h9DJt8W6KR9o6kBNpSUE/Dybutlw=",
-                "mac": "f/jVo5Dvt7HVUUj8Xk/DXw=="
+                "orig": "The workaround would just slightly teleport them forward if they were stuck for too long.",
+                "text": "Le contournement, c'était de les faire se téléporter un peu en avant s'ils restaient coincés trop longtemps."
         },
         "maps/heat/path-05.json/entities/252/settings/event/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/path-05.json/entities/252/settings/event/26/message": {
-                "ciphertext": "CySbXy5g5PnenNg5s5r70lvS0vFyArWiIWXV6uplBuZbm6dQwzkd8XdCp7emFX0LI7477l/jjyrd5sPj/WsWTh0vBaf6jXQbUokpKj/fyT6SIc+N6sCawHNJJrsfy80E",
-                "mac": "D7yBYNiRD/XDtPdPwCEpRw=="
+                "orig": "And it seems they never managed to fix the bug entirely! ",
+                "text": "Et on dirait qu'ils n'ont jamais réussis à corriger entièrement le problème !"
         },
         "maps/heat/path-05.json/entities/252/settings/event/27/message": {
-                "ciphertext": "YVn+snqH0v/BWFTawmdhkvX8UFgtGwBzY3STJqBACkyKsQroPAN9ODPQVq+R9tpwVu0Wt+2vQJvVK5Zrd8MkdA==",
-                "mac": "mnKEtT+ctzk/dHulR5V+bg=="
+                "orig": "Yes, yes.\\. It is really complicated, you see?",
+                "text": "Oui, oui.\\. C'est que c'est pas facile, tu sais ?"
         },
         "maps/heat/path-05.json/entities/252/settings/event/28/message": {
-                "ciphertext": "kmvp+WZgmguEuaYgQcESvlu7Ut0pkX4hIQigpbdty2csfo/X/3w2786cuysMXiZ/rZ6cxZV9sCNrEkiU4GaoqCcTafgu95LK2T5SvTGm9I8=",
-                "mac": "Mp/Zm+2B9zgYjb5NUSLpQQ=="
+                "orig": "Sometimes you still see other players just running against walls, right?",
+                "text": "Parfois on voit encore des joueurs qui courent contre des murs, non ?"
         },
         "maps/heat/path-05.json/entities/252/settings/event/29/message": {
-                "ciphertext": "8IEj9HjDH8s1ZVV8GSEYdF02pcU886kXLDJyRKZCH5X5fuz8zaHgRdbcR2d5o2qVNvL7JtB4V6eyqhXuv58FSwc3UWR9BCQpIFxNdhRtTyUv0ZhyStruz6W1+KeNovY8a2p8pyUUoaXyP2pQyYTP/A==",
-                "mac": "ZM6fy1QMgTO+RVO9erRwng=="
+                "orig": "And that's why the workaround is still active, it’s just much harder to trigger than it used to be.",
+                "text": "C'est pour ça que le contournement est encore actif, il est juste plus difficile à déclencher qu'avant."
         },
         "maps/heat/path-05.json/entities/252/settings/event/30/message": {
-                "ciphertext": "2cH8u4VSlmNfM6sbuzOrZ6wmSvIZKLwdc31ROonMsam499rc5S/aK/e9G2vvJFejBgmNft5AStw79GS8XFx+0abEamrqOyx+Hv6mCLau6XJX+VJvWiWs2fnPOwK8CyzLIe/8H66s+cbwCf26CsOwIA==",
-                "mac": "mBqm7F6Yo7WE2Uwp/d9XHw=="
+                "orig": "Well it should be!\\. We tried really hard to make it impossible to abuse.",
+                "text": "Et c'est parfaitement voulu ! On a vraiment tout fait pour que plus personne ne puisse plus en abuser."
         },
         "maps/heat/path-05.json/entities/252/settings/event/31/message": {
-                "ciphertext": "h8WpXTO52Wk9gjA2G9a5BvR93TvDLm/0UnquKsNJ0IFa5N3j6pUKrX+ofLW4oYMlWuWnCqei65ahSP6w04GvGjano0XuO9ogHUndWqnV218=",
-                "mac": "JLGrzvs3S4Ix013PhcW3iQ=="
+                "orig": "It's actually close to impossible to trigger it on your own.",
+                "text": "C'est en fait presque impossible de le déclencher en étant seul."
         },
         "maps/heat/path-05.json/entities/252/settings/event/32/message": {
-                "ciphertext": "IVvYgV97AP+cO2EKg+F4JGX/gyDo8y/eTrLX3xiXkw+3vwqb/q/V3VflFxxdfzQcQATzp45Q/GRG3W2AX4sza7bEQmefJomsJZT/xEVPP2FRIZlsoTgNu6PIGoF75fUDTyfuwGvmtn+RmXkdpQToGSvvE4g5g66dWzQTg93LpLA=",
-                "mac": "owzdhTH0O6KRVpcE3/VnIQ=="
+                "orig": "Of course, we never considered multiple players would cooperate to make it work.",
+                "text": "Bien entendu, il nous ait jamais venu à l'esprit que plusieurs joueurs pouvaient collaborer entre eux pour y arriver."
         },
         "maps/heat/path-05.json/entities/252/settings/event/34/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/path-05.json/entities/252/settings/event/35/message": {
-                "ciphertext": "MPEbcIXHUOxFDF51DbwaJA==",
-                "mac": "HOe8Xox07+xq/w42yq6YOA=="
+                "orig": "Why-\\.",
+                "text": "Pourq-\\."
         },
         "maps/heat/path-05.json/entities/252/settings/event/36/message": {
-                "ciphertext": "YOCHLQzKHOQtpX0qE7lNbJDeLDnkpqmzZ8J8QNb1V7Q=",
-                "mac": "m6dDj2+DJZGNZJezsEycLg=="
+                "orig": "Anyway!\\. Let's move on!",
+                "text": "Assez discuté !\\. Continuons !"
         },
         "maps/heat/path-05.json/entities/252/settings/event/37/message": {
-                "ciphertext": "Ul6r1GIKWUvlnjxVP7I4bvXnvsGHGwZX9LnEF9QYNMpnq9XlF7eE7QWILuNp8S5jGetrlss5Ac/iSvxM2RohH/2qDYnxq6g5DlPeya/tAcA=",
-                "mac": "8tvMY9zTLkbuwvUZ/2hHOQ=="
+                "orig": "From here we need to move to the \\c[3]south\\c[0]!\\. You go first again.",
+                "text": "De là il faut qu'on aille au \\c[3]sud\\c[0] !\\. Tu passes encore en premier."
         },
         "maps/heat/path-05.json/entities/252/settings/event/38/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/path-05.json/entities/252/settings/event/40/message": {
-                "ciphertext": "yQk0mk6N8PEv7gcny6U2LGRO6Dsj6hb06OCFkIrpXtkZQSRjBGdN4k+7/6sGCj55+8kms//W3vOZAEd5DRHD8i2J/0p8E7mn5blic0t02kA=",
-                "mac": "IzoHmOKlQNd1SMP/3bU9aA=="
-        },
-        "maps/heat/path-05.json/entities/253/settings/event/3/elseStep/0/thenStep/4/message": {
-                "ciphertext": "N80rrZRvt7GwSRQiBbbt2En67+WqY9eqi/I/CId1YjLlqlGXeAs6/nyJfGUc4tcnSfAzS8L5sVpUqtvs96sfvMaYCANxTRhC6lQuX20SsY0=",
-                "mac": "4n+kMp8vyhK7swXBcLAEcA=="
-        },
-        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message": {
-                "ciphertext": "FIDO4JixuKBi4Ke2PPGXKBFgsQmYmArIKqMi7FTfAbBiPLwqPozwlOKcs02SDbCUyH15r3ClgcVTW09Jut3rKhFjvBuEBPSA1o+cwrMc44M=",
-                "mac": "RvYrQSW0E43IcrZAlVTuTg=="
-        },
-        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "HsAqU/cxQGqCS+yFZXHsg+hBHJN5dT5HAEHDSfYtianq4W9WLOf+K5U0nVnDZkIPWF4/9kMR4zaJ27wfRNg97Q==",
-                "mac": "2KMOP4ym9oVef4a1sesAQw=="
-        },
-        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "WDgx2rAAQ0WSGhgi1HdkH890d5DstgLNjnWUAmOotk8=",
-                "mac": "07wQgE62H5SE8xI0PSpbSw=="
-        },
-        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message": {
-                "ciphertext": "cT3vKiwX5n7mVHBjS8F2Rh2lPdPiK0jkrVpBaX3xxZkcskbQeow8EWrLfhMh2Hyh5XN7wF6VRtNkh5jmQY0lKA==",
-                "mac": "xLv6wbW4AN05ClLHzjGFNw=="
-        },
-        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message": {
-                "ciphertext": "hSVf6jRn5m3QXVvKJAVB11cECUXTwnZqlt+A7G1OiWo=",
-                "mac": "PSJMnHfYX61mivLsP7O8rQ=="
+                "orig": "Seriously Lea!\\. We might really get into trouble if anyone spots you doing this!",
+                "text": "Sérieusement Lea !\\. On risque de gros ennuis si quelqu'un te voit faire ça !"
         },
         "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "ra1zvhjjOjCS79ThwEJ9pIPd9uUQmDxkf4WtDABr6vFd0SlVWv2OA/RrW1O/txuIrEZL8ZKpfQuo7XMeL/J0IA==",
-                "mac": "AgyFsHDwpXe5AsSeihYfww=="
+                "orig": "No, wait! Your position is \\c[3]wrong again\\c[0]!",
+                "text": "Non, stop ! Ta position est \\c[3]encore mauvaise\\c[0] !"
         },
-        "maps/heat/path-05.json/entities/255/settings/blockEvent/2/message": {
-                "ciphertext": "o527R/H5L+XEspHtmz9A/sm9IMRQmqKqw0IgmLYsn7M=",
-                "mac": "3IVDr04krOAw4a3dDfbHUQ=="
+        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message": {
+                "orig": "More to the \\c[3]east\\c[0]...",
+                "text": "Un peu plus à \\c[3]est\\c[0]..."
         },
-        "maps/heat/path-05.json/entities/255/settings/blockEvent/3/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message": {
+                "orig": "Just a \\c[1]bit\\c[0] to the \\c[3]east\\c[0]...",
+                "text": "Juste un \\c[1]petit peu plus\\c[0] vers l'\\c[3]est\\c[0]..."
         },
-        "maps/heat/path-05.json/entities/255/settings/blockEvent/4/message": {
-                "ciphertext": "XrhEanrgQ001IDDuXQWo34z5QmzTNkbDDMdXQ8u3zbJ/MjE/KPCkuTKTBjEM7EmCnHecRzkQTwR9enOGcvlbFA==",
-                "mac": "U7DU4tCwSKOsSsTBfPouBg=="
+        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "More to the \\c[3]west\\c[0]...",
+                "text": "Plus à \\c[3]ouest\\c[0]..."
         },
-        "maps/heat/path-05.json/entities/255/settings/blockEvent/5/message": {
-                "ciphertext": "lVEjH/pxMmvkIzO7sVHl5btC9JimjwCRkgLLVlKm/qvF4nag982lzVYEGC4+FgrjdTS4XggGQIaZP+nAuuG429dQGzaWas5FhgzyLBiAC1w=",
-                "mac": "xi/Vx/yEFpUfxft4eQNz7g=="
+        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Just a \\c[1]bit\\c[0] to the \\c[3]west\\c[0]...",
+                "text": "Juste un \\c[1]petit peu plus\\c[0] vers l'\\c[3]ouest\\c[0]..."
         },
-        "maps/heat/path-05.json/entities/255/settings/blockEvent/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/heat/path-05.json/entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message": {
+                "orig": "\\c[2]That's it\\c[0]! Just \\c[3]keep running\\c[0] at this point!",
+                "text": "\\c[2]Voilà\\c[0] ! Maintenant \\c[3]continue de courir\\c[0] sur cette position !"
+        },
+        "maps/heat/path-05.json/entities/253/settings/event/3/elseStep/0/thenStep/4/message": {
+                "orig": "You need to \\c[3]keep running\\c[0] against the wall, Lea!",
+                "text": "Il faut que tu \\c[3]continues de courir\\c[0] contre le mur, Lea !"
         },
         "maps/heat/path-05.json/entities/255/settings/teleportLabel": {
-                "ciphertext": "JQoNj1uMiCpjMVdnX87mek/eDyfc8afdIjGCCsvVjPgP+BwGKdhE9z+yeKbzegtf",
-                "mac": "95oTTp/Ud8fEuvx1wAjgZQ=="
+                "orig": "Go to \\c[3]Testing Area\\c[0]",
+                "text": "Aller vers la \\c[3]Zone de Test\\c[0]"
+        },
+        "maps/heat/path-05.json/entities/255/settings/blockEvent/2/message": {
+                "orig": "No, Lea, stop this.",
+                "text": "Non, Lea ! Stop !"
+        },
+        "maps/heat/path-05.json/entities/255/settings/blockEvent/3/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat/path-05.json/entities/255/settings/blockEvent/4/message": {
+                "orig": "Do not drag other players into that testing area.",
+                "text": "Tu dois pas amener d'autres joueurs dans cet endroit."
+        },
+        "maps/heat/path-05.json/entities/255/settings/blockEvent/5/message": {
+                "orig": "It is bad enough that you are walking around in it.",
+                "text": "Le fait que tu y ailles c'est déjà suffisamment mauvais comme ça."
+        },
+        "maps/heat/path-05.json/entities/255/settings/blockEvent/6/message": {
+                "orig": "...",
+                "text": "..."
         }
 }

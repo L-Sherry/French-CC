@@ -1,142 +1,142 @@
 {
-        "maps/arid/river-1.json/entities/269/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "ZyEPCn+qkwoiHPOOSJzAPFebSFwc6UutbMPJT8TMb9v8xsU3y/qY3QgwAogUkYiM",
-                "mac": "zRFVVFPHr4kzvMM7yCulvw=="
-        },
         "maps/arid/river-1.json/entities/269/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "pUUcpxS3p+QIbbjz1r1SNKAGMFQ7pjXOqawkKJP4jfE=",
-                "mac": "7yIGojk/GNFUkJez4f6fiA=="
+                "orig": "Search Targets",
+                "text": "Chercher des Cibles"
+        },
+        "maps/arid/river-1.json/entities/269/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Locate Targets in Area.",
+                "text": "Localisation des Cibles dans la Zone."
         },
         "maps/arid/river-1.json/entities/269/settings/condAnims/1/interact/hoverText": {
-                "ciphertext": "YUNRkmeoPWzZR5IdQbhcDA==",
-                "mac": "d/eOFeyTNQ3dQpWEFylk8A=="
+                "orig": "Activate",
+                "text": "Activer"
         },
         "maps/arid/river-1.json/entities/387/settings/interact/hoverText": {
-                "ciphertext": "ZG+fdZ+ygnD2W3IV//qgoZiGn+9zuPkXl84LbgpkkoN04gR6kKXXmFdCEUbD9BJgUvihioHEP9jQl/tti3EqboNSpxdSsp8xKeq0Io4OeeE=",
-                "mac": "DYvj/DCaLZqfRc2mxGwMGA=="
+                "orig": "\\i[arrow-n] Lake\n\\i[arrow-sw] River Delta \n\\i[arrow-e] Town Center",
+                "text": "\\i[arrow-n] Lac\n\\i[arrow-sw] Delta de la rivière\n\\i[arrow-e] Centre-Ville"
         },
         "maps/arid/river-1.json/entities/404/settings/event/0/message": {
-                "ciphertext": "VVI+kf/yn5+02rmN90UBZSB6jeaDdrB9yNRt+bnu9eo=",
-                "mac": "LeWDamJFycs3/7PzqxeN4A=="
+                "orig": "Laser bridgeees!",
+                "text": "Des ponts laseeeeers !"
         },
         "maps/arid/river-1.json/entities/405/settings/event/0/message": {
-                "ciphertext": "tm4wsz9uowZFaWex3DWqvV2CTxlJXlMiTqOsZChozJ8=",
-                "mac": "8YOv/5uS7kDmPeV5+B6wiQ=="
+                "orig": "So many laser bridges!",
+                "text": "Pleins de ponts lasers !"
         },
         "maps/arid/river-1.json/entities/407/settings/dialog/0/text": {
-                "ciphertext": "IuNa22Kfp+mvk9yelP2YOovoY/vFxbtao4ofC7WC0Rd84hi0T64zyAMm6OUotd1gDW+WaLj5HxVJxnTtgkqqdw==",
-                "mac": "CJ85IF5K3FL1r5nYa3M2sw=="
-        },
-        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/elseStep/2/message": {
-                "ciphertext": "c7BLq+BZXHos4FOdWgTNog==",
-                "mac": "tj+yL0K5Wm9zUDQDnme1Aw=="
-        },
-        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/elseStep/3/message": {
-                "ciphertext": "OrQncjVZJHwESOD17lrDXkbTSIM2mVirFph/e+jaAAIgtYNiTPFy/7Y2AsuLqouY",
-                "mac": "sC+HPe4eMmuy4OIryuZMkQ=="
-        },
-        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/elseStep/4/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/thenStep/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/thenStep/3/message": {
-                "ciphertext": "5e5jau/uehe1/ABgo+7qmw==",
-                "mac": "n5h6Gqr33LXqXcETSjLt6w=="
+                "orig": "Red light...\\. so shiny...\\. so bright...",
+                "text": "Lumière rouge...\\. si brillante...\\. si lumineuse..."
         },
         "maps/arid/river-1.json/entities/407/settings/dialog/1/text": {
-                "ciphertext": "1Y+ReRzGaIfRujcTwAcMCdrz8XRiprkLKyDh/gk3DG6m/tTr3wSFferq0WwIsKFH",
-                "mac": "C0QqLD9AQX6tmUxcxyEiaw=="
+                "orig": "Please take away...\\. my sight...",
+                "text": "S'il te plait...\\. Enleve-moi la vue..."
         },
-        "maps/arid/river-2.json/entities/390/settings/event/10/message": {
-                "ciphertext": "kzLNKTsQNcW7S6PWXGkNKjxV2CE9b25HgWc5W3CzreRyNI46dmIC3WTGSYu95pd+",
-                "mac": "zZT00QqFiK2/3CoTIkop5g=="
+        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/thenStep/2/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/0/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/thenStep/3/message": {
+                "orig": "Hm?",
+                "text": "Hm ?"
         },
-        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/1/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
+        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/elseStep/2/message": {
+                "orig": "Why?!",
+                "text": "Pourquoi ?!"
         },
-        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/2/message": {
-                "ciphertext": "8Ux95wFyzxOKiu6KyJ5JiA==",
-                "mac": "+YoIzS+GEdYbqpNNv0zakQ=="
+        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/elseStep/3/message": {
+                "orig": "Because I don't want to see no more...",
+                "text": "Parce que je n'ai plus envie de voir..."
         },
-        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/3/message": {
-                "ciphertext": "Zpxv3g8tHWnff5nZiK0SrwW3H6xGITwlHaU96EcHhlmKSSsVl8YWp2Jr0mNR+N+5oVUmpCzwGDWtvy6HoFp+F1LWf7wASm9bI/Qu+e4lsN9tWh1eGH+hOEbGoyBqhUnek+UsypvIa5A4VCqdY23MWg==",
-                "mac": "1xd4we5pLGZeYK4GFm5k3A=="
-        },
-        "maps/arid/river-2.json/entities/390/settings/event/11/thenStep/0/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/arid/river-2.json/entities/390/settings/event/11/thenStep/1/message": {
-                "ciphertext": "1Uz8ZZJTZsd6kuWcRfjPWnOGdGBH5ee2T0YtjoQLwM/8ZRC8tYM0ku71C82irQjz",
-                "mac": "tc5qwhriPYgOYMOoGBYBSA=="
-        },
-        "maps/arid/river-2.json/entities/390/settings/event/11/thenStep/2/message": {
-                "ciphertext": "MPONMUT3AFsIeWMtQQRRAo4PK+MHwPXoQupyaWW5c3P7xeEdh8WIpLMccvSE73tc6iy7VmTeDItnvo2U6LaCjwGD1ZNAudxUCPsdUWbIpQ9A+1At36Nt48DTEVemgElU",
-                "mac": "jcl1zyAZnVpzIRoi6wn4yw=="
-        },
-        "maps/arid/river-2.json/entities/390/settings/event/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arid/river-2.json/entities/390/settings/event/8/message": {
-                "ciphertext": "8Zd5QLiKSXyYnqu/efb8fbvjhm5+CJxSp0at9UUa6TTe90SWPpf42CDIv6CqFj6fDI3VkK1C8/Xw1POut72pRg==",
-                "mac": "O0zJLxO841BMiB79xucLlg=="
-        },
-        "maps/arid/river-2.json/entities/390/settings/event/9/message": {
-                "ciphertext": "UE99M/XWQxiNitSSHkGyviRrgIa7L6hJey4c9p7X72s7ZTN9MGf6mpixRJLCOAk4Fx9QiXrpIMSUt8fw9qs/G37o7ZR7QsYCMaEw51k1aZRnD9RLPhUc7dCVfosEbw4j",
-                "mac": "h4Juqqk6v5sb25DX01idCQ=="
-        },
-        "maps/arid/river-2.json/entities/400/settings/event/0/message": {
-                "ciphertext": "kjUzmR35nmx7g/C0uMPwry9qigtkMo5a4IgLmkHUHGM=",
-                "mac": "Sc7VDVGSGXFGvUcjsxBO7w=="
-        },
-        "maps/arid/river-2.json/entities/401/settings/event/0/message": {
-                "ciphertext": "3nBgnq0YUStVFAFlYdJVL/P4ZxBheXrftu3fYOFtsVxMK5Solu3A1U0yuTdYdI8SVaNgPVK9EIGBwqRIB0kglw==",
-                "mac": "ecJ3Luid1VVgHhR6JnWG+A=="
-        },
-        "maps/arid/river-2.json/entities/402/settings/event/0/message": {
-                "ciphertext": "EioH1Xo8ZDD7e8I7ddiNuaNipovdfzSfNtE487s3zj4=",
-                "mac": "o9mj/8wvULoKnKBe/CHwHQ=="
-        },
-        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/2/message": {
-                "ciphertext": "HFffCdGkdMiHCFit82hNgzbQI7ObCuuURLj0mQ0ewtxN8uCqB9wFP1t0eO0EoWPS",
-                "mac": "Fg8b0EmHh57qq6cqZ5EZ2A=="
-        },
-        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/3/elseStep/0/message": {
-                "ciphertext": "O8IAHuNSLtBLtzW/x06jCQ==",
-                "mac": "VaMoXzPKsY49CwyiO1+6yw=="
-        },
-        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/3/elseStep/1/message": {
-                "ciphertext": "24EcWtlTNvvT31dBMr0GwA==",
-                "mac": "gXIINogHc1TuLAj5bLOHmw=="
-        },
-        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/3/thenStep/0/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/river-2.json/entities/72/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "ZyEPCn+qkwoiHPOOSJzAPFebSFwc6UutbMPJT8TMb9v8xsU3y/qY3QgwAogUkYiM",
-                "mac": "zRFVVFPHr4kzvMM7yCulvw=="
+        "maps/arid/river-1.json/entities/407/settings/dialog/1/event/0/elseStep/4/message": {
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/arid/river-2.json/entities/72/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "pUUcpxS3p+QIbbjz1r1SNKAGMFQ7pjXOqawkKJP4jfE=",
-                "mac": "7yIGojk/GNFUkJez4f6fiA=="
+                "orig": "Search Targets",
+                "text": "Chercher des Cibles"
         },
-        "maps/arid/river-2.json/entities/72/settings/condAnims/1/interact/event/13/message": {
-                "ciphertext": "L94/DJB08oknYCKOSdeBrfqshMb+BUjs2u1eMEqb748=",
-                "mac": "TAyrWRTCF5cGTfI16aju5g=="
+        "maps/arid/river-2.json/entities/72/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Locate Targets in Area.",
+                "text": "Localisation des Cibles dans la Zone."
         },
         "maps/arid/river-2.json/entities/72/settings/condAnims/1/interact/hoverText": {
-                "ciphertext": "YUNRkmeoPWzZR5IdQbhcDA==",
-                "mac": "d/eOFeyTNQ3dQpWEFylk8A=="
+                "orig": "Activate",
+                "text": "Activer"
+        },
+        "maps/arid/river-2.json/entities/72/settings/condAnims/1/interact/event/13/message": {
+                "orig": "Ugh... enough already.",
+                "text": "Raaaaah... y en a assez."
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/8/message": {
+                "orig": "Right... so this is a \\c[3]Trial Building\\c[0].",
+                "text": "OK... donc c'est un \\c[3]Bâtiment d'épreuve\\c[0]."
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/9/message": {
+                "orig": "Does that mean more of those low-level virus thingees? ",
+                "text": "Est-ce que ça veut dire qu'il y aura encore plus de ces virus de faible niveau ?"
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/10/message": {
+                "orig": "I'm fine with those, just keep them coming!",
+                "text": "Pour moi ça me va, qu'ils viennent !"
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/thenStep/0/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/thenStep/1/message": {
+                "orig": "You're with me, I see!",
+                "text": "Tu es d'accord avec moi, je vois !"
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/thenStep/2/message": {
+                "orig": "Well, let's hope they won't pull out a weirdly overpowered boss next.",
+                "text": "Bon, espérons qu'ils ne nous mettent pas un boss surpuissant sorti du chapeau cette fois."
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/0/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/1/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/2/message": {
+                "orig": "Gyahahaha!",
+                "text": "Gyahahaha !"
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/11/elseStep/3/message": {
+                "orig": "No really, it would be troublesome if they threw high level enemies at us now. It's better that way.",
+                "text": "Non, sérieusement, vaut mieux ça pour nous que des ennemis de haut niveau. Ça serait compliqué sinon."
+        },
+        "maps/arid/river-2.json/entities/390/settings/event/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arid/river-2.json/entities/400/settings/event/0/message": {
+                "orig": "Red Laser Bridge!",
+                "text": "Un Pont Laser rouge !"
+        },
+        "maps/arid/river-2.json/entities/401/settings/event/0/message": {
+                "orig": "Laser Bridge! So many laser bridges!",
+                "text": "Un Pont Laser ! Il y a tellement de ponts lasers !"
+        },
+        "maps/arid/river-2.json/entities/402/settings/event/0/message": {
+                "orig": "One more laser bridge!!",
+                "text": "Encore un pont laser !!"
+        },
+        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/2/message": {
+                "orig": "I am not here...\\. you didn't see me.",
+                "text": "Je ne suis pas là...\\. t'as rien vu."
+        },
+        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/3/thenStep/0/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/3/elseStep/0/message": {
+                "orig": "...Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/arid/river-2.json/entities/403/settings/npcStates/0/event/3/elseStep/1/message": {
+                "orig": "Go away.",
+                "text": "Va-t'en."
         }
 }

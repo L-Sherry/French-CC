@@ -1,679 +1,679 @@
 {
         "maps/forest/path-04-hostel.json/entities/519/settings/teleportLabel": {
-                "ciphertext": "Tsb427A5gYq9lSJit/tFFw==",
-                "mac": "e+9/PK4AKfaZ9oxepvlUiw=="
+                "orig": "CrossCentral",
+                "text": "Cross Central"
         },
         "maps/forest/path-04-hostel.json/entities/520/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/0/name": {
-                "ciphertext": "jRynvhwX84ka3e8Tn8IoMw==",
-                "mac": "042CFiRhHSh0QTp2LYDqAg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/12/thenStep/0/message": {
-                "ciphertext": "5jn+CS5rq1gwM2YKiDz8jiIVga6SYznTWAwpRoChlMneVzjAWp2y96MkKVwimXBxXJbg8DI9JTUPu5C8k6CgQVmg7M33Pl5cRQmWXx0Qb4M=",
-                "mac": "iiHNA2YuR0MECXnxoRWxfA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/13/task": {
-                "ciphertext": "+dmTDRCxBvY6cV2Hx0WRsNEjfx4Dcjm3P4n6UBKA+KXC9AluPPC5sbLDCHpyO5GCpO0Xf85Fy9b0SwckwIHbMo1D+MQF4ErkB98Iu4lGQQVWqbqX0YUt5RBFznE9C/X1DSJcDHGPTzNdqx1/uvUCbsUfHEdmUiFMfCNzIiYjpYDB4NbBCdqeWKUXF7lVFxiENyMEtbCcC7sM+h9krXk0kdqr1cRmIXG+diIO5rcOXcc=",
-                "mac": "Owgi/4dZDL9rn9qOiENpMg=="
+                "orig": "Hau Ling",
+                "text": "Hau Ling"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "q2Puq7xu1R8/2Bv1S4cEaWK++m6FsDe3yYWByM69kDFEiNMhBvcK5xlurArnvWvziOWP0NiWwmoxs3JGlotOLZgAx5lJ360M6GqOOPmY6wk=",
-                "mac": "1PjpjzDXsDaKVnmaye7trA=="
+                "orig": "Ah... Another bird approached me. Welcome, bird!",
+                "text": "Ah... un autre oiseau s'approche de moi. Bienvenue, petit oiseau !"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "LowQD12cIgZRpEKiMcqXZA==",
-                "mac": "eIEYMOgc5JWt+HsOCdQFdA=="
+                "orig": "Hi?",
+                "text": "Salut ?"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "mu4q9Dl2hMYMijn3BdzNk6YN6lqzWxkl+Vi3M8+ywtC/quTUcjQ0+8CnVkDWo2EdC6KKfbJWmuRg+CeFD+thJLueL8DKk98mlHoUk4eWx4pMYW35bThX7EeYMb9/ATD1PQPQoCZrfT3ETwV6AgxXUw==",
-                "mac": "KKrx41DewmFOGyeyZSGZaA=="
+                "orig": "The bird is trying to find a worm, but a \\c[3]bug\\c[0] is what it needs to catch.",
+                "text": "L'oiseau essaye de trouver un vers, mais c'est un \\c[3]scarabée\\c[0] qu'il a besoin d'attraper."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "mP1McQx9LZE/qo52OxB04evyEJXuD6PziyaMbr7ptHG4GUPlA3IHbXjtw8IZ1DphUHzBxwy0SmRMCdvty6A0+EQ7ASK3FxlEdSAjgg+U10Q/6SOTCsKU9pEzn0sRi/6gLWb+l9K0Ms3TnBWUECjG3g==",
-                "mac": "/uFSr3FXnJh86wM6mkk8Bw=="
+                "orig": "To the \\c[3]south\\c[0] is where the bird needs to fly, through \\c[3]bamboo trees\\c[0] and beyond.",
+                "text": "C'est vers le \\c[3]sud\\c[0] que l'oiseau doit voler, à travers la forêt de bambous et au-delà."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "q1FZId/7FiI25jP8ndYyMBpJIEonvomlGaHrEOFN9EB6h9f1LkEz8LHOFr4zOvDtYYLsefEXaV7fW5+6xgAwURSNSoTZwWEVryBENTYjFH0=",
-                "mac": "M0IIEycvBbSB3R1tEoowTA=="
+                "orig": "And by \\c[3]a pond and a fire\\c[0] it needs to land.",
+                "text": "Et c'est près \\c[3]d'une mare et d'un feu\\c[0] qu'il doit atterrir."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "rqzNSgYPA2IN+7QEENPQ1SldpJFF+asNqaKZiKnK6SK5gsqCEy8gOsxKWIRCHUCt6j7m+zZrpacRWm1G9QCO9g8cRV75c1MSpegLMk6CENA=",
-                "mac": "ftdXJ325eONuTjd4vq8ibw=="
+                "orig": "Now fly, little bird, fly and let the wind carry you.",
+                "text": "Maintenant, vole, petit oiseau, vole et laisse-toi porter par le vent."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "Wy1XED0R/QUNxNrA48wUSQ==",
-                "mac": "XlEsF7TwwENASinmePdE8w=="
+                "orig": "Wait?",
+                "text": "Attends ?"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/12/thenStep/0/message": {
+                "orig": "Non, mamie. I do NOT want to catch a bug. No bugs.",
+                "text": "Non, mamie. Je ne veux PAS attraper un scarabée. Aucun scarabée."
+        },
+        "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/0/event/quest/13/task": {
+                "orig": "Fly to the \\c[3]south\\c[0] through the \\c[3]bamboo trees\\c[0] or something? Maybe someone in the \\c[3]Cave Inn\\c[0] can explain.",
+                "text": "Volez vers le \\c[3]sud\\c[0] à travers le \\c[3]maquis de bambous\\c[0] où un truc du genre. Peut-être que quelqu'un à l'\\c[3]Auberge des Caves\\c[0] peut vous l'expliquer."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/1/event/0/name": {
-                "ciphertext": "jRynvhwX84ka3e8Tn8IoMw==",
-                "mac": "042CFiRhHSh0QTp2LYDqAg=="
+                "orig": "Hau Ling",
+                "text": "Hau Ling"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/1/event/2/message": {
-                "ciphertext": "mP1McQx9LZE/qo52OxB04evyEJXuD6PziyaMbr7ptHG4GUPlA3IHbXjtw8IZ1DphUHzBxwy0SmRMCdvty6A0+EQ7ASK3FxlEdSAjgg+U10Q/6SOTCsKU9pEzn0sRi/6gLWb+l9K0Ms3TnBWUECjG3g==",
-                "mac": "/uFSr3FXnJh86wM6mkk8Bw=="
+                "orig": "To the \\c[3]south\\c[0] is where the bird needs to fly, through \\c[3]bamboo trees\\c[0] and beyond.",
+                "text": "C'est vers le \\c[3]sud\\c[0] que l'oiseau doit voler, à travers la forêt de bambous et au-delà."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/1/event/3/message": {
-                "ciphertext": "q1FZId/7FiI25jP8ndYyMBpJIEonvomlGaHrEOFN9EB6h9f1LkEz8LHOFr4zOvDtYYLsefEXaV7fW5+6xgAwURSNSoTZwWEVryBENTYjFH0=",
-                "mac": "M0IIEycvBbSB3R1tEoowTA=="
+                "orig": "And by \\c[3]a pond and a fire\\c[0] it needs to land.",
+                "text": "Et c'est près \\c[3]d'une mare et d'un feu\\c[0] qu'il doit atterrir."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/1/event/4/message": {
-                "ciphertext": "rqzNSgYPA2IN+7QEENPQ1SldpJFF+asNqaKZiKnK6SK5gsqCEy8gOsxKWIRCHUCt6j7m+zZrpacRWm1G9QCO9g8cRV75c1MSpegLMk6CENA=",
-                "mac": "ftdXJ325eONuTjd4vq8ibw=="
+                "orig": "Now fly, little bird, fly and let the wind carry you.",
+                "text": "Maintenant, vole, petit oiseau, vole et laisse-toi porter par le vent."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/1/event/5/message": {
-                "ciphertext": "vDP7JEJ2qMoBdnRP6wgzFA==",
-                "mac": "d/wKgH6PqvqMqj02ySl+SQ=="
+                "orig": "Bye...",
+                "text": "Bye..."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/0/name": {
-                "ciphertext": "jRynvhwX84ka3e8Tn8IoMw==",
-                "mac": "042CFiRhHSh0QTp2LYDqAg=="
+                "orig": "Hau Ling",
+                "text": "Hau Ling"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/2/message": {
-                "ciphertext": "Wv2l/Nw7UZ/fuwfIN/NuIPZC5k4ekT2lzbfSgKICE+o=",
-                "mac": "s0dA2qK5Ao0kJmzKEgZmEQ=="
+                "orig": "Ah... I can feel it...",
+                "text": "Ah... Je peux le sentir..."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/3/message": {
-                "ciphertext": "aUb9ZhO9igHsEwAvU3bSvlwiIvW44xG4zuHNwyB29gRqwCP7lY6A5Fh37It5dT5v7vZ2TMP20PXRHQjmUH81eQ==",
-                "mac": "bEON5ntWAKplDDg+krGhgA=="
+                "orig": "The bird found \\c[3]the pond and the fire\\c[0], didn't it?",
+                "text": "L'oiseau a trouvé \\c[3]la mare et le feu\\c[0], n'est-ce pas ?"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/6/message": {
-                "ciphertext": "QgRhqlV31JiNCY4WeyhCM8wPsku3Z8mItU06A2MNKtM=",
-                "mac": "UYBkaEGYlCE9+bVL6ioMGw=="
+                "orig": "Good bird. Yes, yes.",
+                "text": "Bien, petit oiseau. Oui, oui."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/7/message": {
-                "ciphertext": "CR9CqxEM0z2MZxZFHO/Q0SAWoR/v98PgUy4aRz3yDysC51WJTL3T8xgo/60Mp7bm35uFJeH5Us3hvD9b1biAlkXsQa45lx+vK20RNt7BPaQ=",
-                "mac": "XpayS22H3196vcU3iJ+IFQ=="
+                "orig": "Now you only need to catch the \\c[3]bugs\\c[0]!",
+                "text": "Maintenant il vous faut juste attraper les \\c[3]scarabées\\c[0] !"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/2/event/8/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/3/event/0/name": {
-                "ciphertext": "jRynvhwX84ka3e8Tn8IoMw==",
-                "mac": "042CFiRhHSh0QTp2LYDqAg=="
+                "orig": "Hau Ling",
+                "text": "Hau Ling"
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/3/event/2/message": {
-                "ciphertext": "9dwshkbGpND0gocNqfTlkcUea6v7XOBUQwJntQbh80o=",
-                "mac": "bxWDluZktSfFYJJa97fEUQ=="
+                "orig": "The Bird again? Hm...",
+                "text": "Encore le petit oiseau ? Hmm..."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/3/event/3/message": {
-                "ciphertext": "VgPYG0KR6+SyHh7Qd32wKZFbZ+HmDLUvp4VCN2qEnwSofzBvxEzVLDqck3sqi1PlrB1gmHoSqGww6ukyX+vrMQ==",
-                "mac": "tZtMeOy/YY28NJoZy4Do1Q=="
+                "orig": "I see the worm found the falling rock.",
+                "text": "Je vois que l'oiseau a trouvé le rocher qui tombe."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/3/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/3/event/5/message": {
-                "ciphertext": "lmshircbSlwOR5MTDOUZHiBcPWvMdUomtnvLIbiaOhejiE92SBZYCZopPh4in9zZMDQ5Vl6mK/mAsdZ7zNhhLg==",
-                "mac": "6knHL5G25yyo1CNHFpZPLA=="
+                "orig": "Now it can pass the grand door to the light.",
+                "text": "Maintenant il peut passer la grande porte vers la lumière."
         },
         "maps/forest/path-04-hostel.json/entities/928/settings/npcStates/3/event/6/message": {
-                "ciphertext": "IxRa+NIaSECK+z3OpvKLnzGOZTUFpE40NEMaLIx3wYpoEhzla+H2Moajb3swn4zFvz5VYhQs1Vufq4U9BMFpag==",
-                "mac": "nGu7mlHgnO/feA4RZU4gmg=="
+                "orig": "Now, don't clip your wings my bird, yes yes.",
+                "text": "Mais, ne range pas tes ailes, mon oiseau, non, non."
         },
         "maps/forest/path-04-hostel.json/entities/933/settings/dialog/0/text": {
-                "ciphertext": "qHqPjSPREfY+QK0wvlwaHpJuWCgRh1Fpsxe6ceOhWVzJ7BVxJu0lM6NIIOi2x/MbmNLdypu3l5bgl3+zhaPOVQ==",
-                "mac": "1SpDdlk8AdNO9MLDbFxixQ=="
+                "orig": "Why didn't you take the deal?",
+                "text": "Pourquoi est-ce que tu n'as pas accepté l'offre ?"
         },
         "maps/forest/path-04-hostel.json/entities/933/settings/dialog/1/text": {
-                "ciphertext": "hlpvSkNnvnhAJ82dby/CbGHO0PGfq4UhHXaQoHsj/pmviIOufNB0iRYn+5cF2h+bRIrZ2gyAKdvMDupvYEk2Nw==",
-                "mac": "OS/IiirsxxKS314/OAeLFA=="
+                "orig": "You mean the player offering real cash?",
+                "text": "Tu veux dire le joueur qui offrait du vrai argent ?"
         },
         "maps/forest/path-04-hostel.json/entities/933/settings/dialog/2/text": {
-                "ciphertext": "IruKRE1k2hwF6HQrTv7EYA==",
-                "mac": "lSEXzgTsesnIAlOE54eieA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/2/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/3/message": {
-                "ciphertext": "tCiXYMdyYRMfrck1zQQoTc+pIWvxoLwna09xXlv19vTaXJdZ+owINEAYXdif7Zd2",
-                "mac": "EGoF/UqS2y+AV+VMh8+lbQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/5/message": {
-                "ciphertext": "6/NYCmy2oPUWOlpyG4Rx65ZwIOIQ1ACGmUBBMGogPTapLvfXkIMPKYxUcIwJCU82zzZl3WB5k2LFuIyfTIb06fq/jQxY9w2irvYjsEwZjMg=",
-                "mac": "9awrGfF8hyD1j8JfsRDnmQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/6/message": {
-                "ciphertext": "lqnUD8pMpbRZ/bh/qC4TscXVurmXw7nNh+oi0k8dt8V9ZN+5NfNZJDGDDxogWUd/90u5q+JfdKbNakbgssT2ug==",
-                "mac": "gKRAt6Lxm05cgjfIqC9uJw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/7/thenStep/1/object": {
-                "ciphertext": "ZhUUwxjz88DWtWvL/8/A2Q==",
-                "mac": "VOojIw4sUmufGMoaaMBwMg=="
+                "orig": "Yeah.",
+                "text": "Ouais."
         },
         "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/text": {
-                "ciphertext": "TwFdDJTmmSg1hdIasHZKvJv4Hf5EM5SAtJVdc34EF01G/5SOY5PFxbIluLrXjttRTRHxDU0xQGEdXiaf0kA0Sw==",
-                "mac": "8QAGlGG6V9m7OS7WiXgCXQ=="
+                "orig": "Sounded \\c[3]way too shady\\c[0] for my taste.",
+                "text": "Ça me semblait \\c[3]bien trop douteux\\c[0] à mon goût."
+        },
+        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/2/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/3/message": {
+                "orig": "Oh hey. You mean the money thing?",
+                "text": "Oh, hé. Tu parles du vrai argent ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/5/message": {
+                "orig": "Yeah, some dude just offered me money to deliver some kind of package.",
+                "text": "Oui, un type m'a promis de l'argent si je livrais un genre de paquet."
+        },
+        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/6/message": {
+                "orig": "Just looking at his grin gave me the creeps.",
+                "text": "Juste en regardant son sourire, ça m'a donné les jetons."
+        },
+        "maps/forest/path-04-hostel.json/entities/933/settings/dialog/3/event/7/thenStep/1/object": {
+                "orig": "\"Money\" Clue",
+                "text": "Indice \"Argent\""
         },
         "maps/forest/path-04-hostel.json/entities/944/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/945/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/946/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/947/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/952/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/953/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/954/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message": {
-                "ciphertext": "M6tzMlJeYj6gpMo+qKsmmBonuxFMdtPH4aWTLuYge6gYY7GvUdLt2nKGDlG/FAP+dZlWQkJSVMITXyqOXoHtRFhPNEcDhJ2rINv80/NCdVc=",
-                "mac": "3soYfhPEp855yy9FKQua5Q=="
-        },
-        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "zwgdB+s1JuvlMwaFtLuLIooveSIUXF55Sonm45AYeERx3SW4SCBCYRrcb+DNWwkZ5d0diI5RiF4vlkkSPG7uRnICxRdudOux2QZjWR/NKbpvFqmsL5Si2qSSUDo3bxdryHv5rR0zeUgdLbvmgxmvdhxwKP3PN6Ahq+Gi770QwMw=",
-                "mac": "whT7WHEDSpwPelCJdgIjnw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "GesqhDm+yI3qY5/6dOr6csdW/9gq7eejOWnzv3QFulV1RFWUevPNYHYgYyR9wUKZ/Pf10yfbptdrXk/WbfF9XCYDX6+yq1GCkFGVDdXEGlOjW7UeG+tp0WCy1BxGEX8J",
-                "mac": "wsIoz2PRBsxCfqO/b2UHSQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/thenStep/0/message": {
-                "ciphertext": "TawtQHVpKTSy+8yOHEcMHB9oqUEwnThsrKhEQ8v7RNPQlSdc9Lt+773Y0Lpgw+67WGEHFYOJu/nQ5z49zkiRAfgcPHAMR/0jStEt0hKcaSA2Ynh7F8+KrGVerlpnTvp1",
-                "mac": "x/fW8ejajYXmNFgaMdP+4w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/forest/path-04-hostel.json/entities/955/settings/event/1/thenStep/0/message": {
-                "ciphertext": "scl/dhnvS3U0c5AlkcEtCQwJ6bHRGvCoWa59dCdZ4uLzOnfbpeMstOV0aKbUnXC+woBubMhYvMVZqIVPRsrRioYF+dncGHFK8Gh9gV8Oe+awgqljYAkzb3H5Dn/dTsHg",
-                "mac": "mHYiSbNtxQ8L8EQva6XxNA=="
+                "orig": "Look, there is some perfectly regular bamboo right in that river, cute.",
+                "text": "Regarde, il y a un parfait bambou normal au milieu de cette rivière, c'est mignon."
+        },
+        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/thenStep/0/message": {
+                "orig": "There's bamboo in the middle of river.\\. Very regular bamboo, too.",
+                "text": "Il y a un bambou en plein milieu de la rivière.\\. Et il est très normal en plus."
+        },
+        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Spheromancer Lea! Here you can see a prime example of perfectly regular bamboo!",
+                "text": "Spheromancer Lea ! Ici vous pouvez voir un bon exemple de bambou parfaitement normal !"
+        },
+        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Whoa, such normal bamboo. I want perfectly regular bamboo like that for my garden, too.",
+                "text": "Ouah, qu'il est normal ce bambou. Moi aussi je voudrais bien un bambou parfaitement normal comme ça dans mon jardin. "
+        },
+        "maps/forest/path-04-hostel.json/entities/955/settings/event/1/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message": {
+                "orig": "Oh, look! That is some lovely regular bamboo, right on that river.",
+                "text": "Oh, regarde ! C'est un bambou joliment normal, juste là sur la rivière."
         },
         "maps/forest/path-04-hostel.json/entities/955/settings/event/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/path-04-hostel.json/entities/957/settings/dialog/0/text": {
-                "ciphertext": "pBIHaz3Slq15TTIFzY0yrk8AsitP6zZZxBFfLZ1JFgmHdkiO/cmjtU3HJ66veCbj",
-                "mac": "BdIVhjKh7gHHGFDeHKHBew=="
+                "orig": "Can't stop, won't stop.",
+                "text": "Peux pas m'arrêter, vais pas m'arrêter."
         },
         "maps/forest/path-04-hostel.json/entities/960/settings/dialog/0/text": {
-                "ciphertext": "4JNeygTlKYuNBBxRawFWYbARxXV/5FmzJ082lbC2C+8=",
-                "mac": "JaiE2+/cpiUDZno4bEf6Kg=="
+                "orig": "He is doing it everyday.",
+                "text": "Il fait ça tous les jours."
         },
         "maps/forest/path-04-hostel.json/entities/960/settings/dialog/1/text": {
-                "ciphertext": "nR07aGR25sBirhUp9LCsBI/cqGSVxhTRk+gLUGXlbzuBvatea48+taKQB68npD8V",
-                "mac": "wLjlApA9k2mYr48pVCqosA=="
+                "orig": "Says, it keeps him fit.",
+                "text": "Il dit que ça l'aide à rester en forme."
         },
         "maps/forest/path-04-hostel.json/entities/960/settings/dialog/2/text": {
-                "ciphertext": "RW+WwwaxjDhr60P7yFkksk7yLwA2FRVLtLEg8jurAhaPN/mjUpuP0NZ7gvNGfFa/m6bJESo1YrixRAZiiwd+7g==",
-                "mac": "qZbL+tU4AuSyrmGkl99a9w=="
+                "orig": "Fit? We are inside a game, how does that work?",
+                "text": "En forme ? On est dans un jeu, comment ça peut marcher ?"
         },
         "maps/forest/path-04-hostel.json/entities/960/settings/dialog/3/text": {
-                "ciphertext": "DCnE9LinyNIQbMKZNIUggdlj5gxFYTrkrH8+/5sEmrSAHdLZ8cZaSO9rTZcEn3AhsO6b1YWzfk+2N5dckD7ENA==",
-                "mac": "OYQQV6mlPLEUotJeF3EP/g=="
+                "orig": "Well...\\.\\.\\. You are as fit as you feel, I guess.",
+                "text": "Bah...\\.\\.\\. Tant que tu as l'impression d'être en forme..."
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/0/name": {
-                "ciphertext": "/dtZ4Gb+kymbt5tGTkwPvA==",
-                "mac": "qCJNCIRWZ4dP+wNJlN3wkQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/10/message": {
-                "ciphertext": "TfXuXKMWrNlr1z1PphP/ZQ==",
-                "mac": "8AefI9FRKW3aTEAC8p+LyA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/11/message": {
-                "ciphertext": "zZzUP6Zf3Rekv56yr5Ba0ZSLd11qpN5pHWDYJJTq5QjXETFY0Q/nVq6CCjXdjmQRIke/3MYIkYncHEX/98tVC2f336cRLrldz2BXEAg1m1cW46IyFuMUiD5dWmZCUnnzFV3S20uNkNtPWyh2AkKt6A==",
-                "mac": "jPAUDtH7cOpPZ2qIFa9m9w=="
-        },
-        "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Ling Ling",
+                "text": "Ling Ling"
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/4/message": {
-                "ciphertext": "0gR/E7u8dfhq9Snq0rwXnTb7hJCUqtGw0p6DVC36ay5UaOuMGaQaFJhevpB3+deZl8/6noGRBPk/syHX/vsAQEPNuMxRv8op0EygWcCZEVY=",
-                "mac": "1D1OvRLISeYXlTnj7h7gEg=="
+                "orig": "The name is Ling Ling and I'm the youngest of the \\c[3]Lings\\c[0].",
+                "text": "Mon nom est Ling Ling et je suis la plus jeune des \\c[3]Lings\\c[0]."
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/5/message": {
-                "ciphertext": "5p2AaIbTfSDlqHa2oQwoug5++YFGvVPx+m3R6eQxhO0s47CnDrR1tEg8Ok1LzGFvriXJs/ZmJno8xZbozJOaDgfxtRjJBWCoj6zup2btN7gkH+5NRFfkFZWmQNNT5s0H",
-                "mac": "UIvAJhqI+qj4ZZtQ2pArEQ=="
+                "orig": "Well, technically my brother and I are the youngest, since we are twins...",
+                "text": "Bon, techniquement mon frère et moi sommes les plus jeunes, vu qu'on est jumeaux..."
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/6/message": {
-                "ciphertext": "lAKWo51A7FGK42OWxnAktAHtALtpL/S811kNJoGeHpN1YmiwF4a2PqYak2s6pnyU",
-                "mac": "0tFS/hLJ28BtZ1rVxbwojQ=="
+                "orig": "But I'm the youngest female!",
+                "text": "Mais je suis la plus jeune fille !"
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/8/message": {
-                "ciphertext": "QCr13pf3RcHyUaXSCDgfk55/WnnlOX/WMrKMgRp2sQOfsFCUwyoB/IQqhLw8r8baVDOP5USUCSGA+XXDGSJX7y0Bh72KD8wK8hal6/3JrT2n3x7WwdK3T9wQ2/Oav2tlFxDYFA9hYQUpiZof4RdoADPN0QpJt23wRacveYAFADwkdxq3N8/Jq2A24S8s7poJ",
-                "mac": "3hgZpZjfpVaTAGhtkLm+6Q=="
+                "orig": "So tell me about the big cities! I always wanted to go, but my mother keeps saying that I'm too young, sad.",
+                "text": "Donc, dis-moi en plus sur les grandes villes ! J'ai toujours voulu y aller mais ma mère me dit toujours que je suis trop jeune, c'est triste."
         },
         "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/10/message": {
+                "orig": "...Hi?",
+                "text": "... Salut ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/11/message": {
+                "orig": "Oh is that so? Wow, that is so cool! Please come back and tell me more, okay?",
+                "text": "Oh, vraiment ? Waouh, c'est trop cool ! Il faut que tu reviennes me voir pour m'en dire plus, OK ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/968/settings/npcStates/0/event/12/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/path-04-hostel.json/entities/969/settings/event/0/message": {
-                "ciphertext": "ZvTfFouyA+3jbmLaDUs76GIDUTzRNfVBv/2DUkTkemukZgjp6Ka4sukFoaTl4Cb/",
-                "mac": "/z975RZ/78uQ6ZfPl9kp1w=="
+                "orig": "Oh...\\. Nice view from up here, non?",
+                "text": "Oh...\\. Il y a une belle vue d'ici, non ?"
         },
         "maps/forest/path-04-hostel.json/entities/969/settings/event/1/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/path-04-hostel.json/entities/969/settings/event/2/message": {
-                "ciphertext": "+mS8qFSjI3NrobWHYR0ReU1WEHYRtZ2FafXOu/RO3QGt6j2yUKcDz+LH/hyoP38pGYpmcVHKd/HjyJSoNo912/6V05hCD54TQDhL9KrBZaSiduiQtrnHT909Rbea+TY3",
-                "mac": "hi8yKeQfRlpYRP1Y169vAQ=="
+                "orig": "This really would be such a nice location if it weren't for all those bugs...",
+                "text": "Ce serait vraiment un endroit formidable s'il n'y avait pas tous ces scarabées !"
         },
         "maps/forest/path-04-hostel.json/entities/970/settings/text": {
-                "ciphertext": "wL9L7Upv/AWBMOx6whuOsK324aUiW+0wPKaIP/LpCJw=",
-                "mac": "kyXYro/WPEfz5nDcriuztw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/971/settings/event/10/message": {
-                "ciphertext": "bw06/+ODRWZMaeFEk5X0R4JEL6c0m8vIwGs8r2wV65KsjiSgTQ9bLVbjHt65rlwdR2FpjhHs8VLx/qPcfZdoPoN4M8/7BsQ4Q1hLbhoY8ho=",
-                "mac": "zsvXUpHe+yUU9rRqNj9m6A=="
-        },
-        "maps/forest/path-04-hostel.json/entities/971/settings/event/11/message": {
-                "ciphertext": "5wn4OgK3r1dpL8f4R9vgxDX0I/l130LESfdUo4sLWgpex5NK04apurzH0fbR+RaGdmefWKRyKGItVfAd+GlL4QkoZ/STNOR8g2w8HhqK5QU=",
-                "mac": "ceh20bj2WP9ROEjdf0PYwA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/971/settings/event/12/message": {
-                "ciphertext": "FhfzMtoUs9UAQ5w6v4fSOjxGb6jnoOeDjRaxo+tOLbelQH/TcdQcc2WFXnH19HOanUho4YLv/WgXKCmmAFoR5RU8sHgcIyy9aG8LwIBRuxg=",
-                "mac": "aTanainlr7/3QGNf/6wLXg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/971/settings/event/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/971/settings/event/14/message": {
-                "ciphertext": "IeuiSdD1/rSZrZWygMuZ6wV9PcoONSJPlsVzsDwD7abcqKWezoug6Mg7bFHzNEKF",
-                "mac": "mMixNulJDtj8OXCujPUHsQ=="
+                "orig": "Perfectly regular bamboo",
+                "text": "Bambou parfaitement normal"
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/2/name": {
-                "ciphertext": "OTYtCnVT4NhN4yRT0gUwGQ==",
-                "mac": "N+8hAwiUHlSK2zGd5wDj4Q=="
+                "orig": "PuellaDocta",
+                "text": "PuellaDocta"
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/4/message": {
-                "ciphertext": "7GFj4pcG2BkoHrX800mlAQ==",
-                "mac": "kPOq+R8HMTaUjh6Oibxbgw=="
+                "orig": "Boo!",
+                "text": "Bouh !"
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/5/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/6/message": {
-                "ciphertext": "W/BDUOAAr6LbVU1B8lu9YVX832qqIS6pWvwQaeNL9IJuGsr2pjsGFZJ83VIL3H/kDzJqIowDIFDpMSVjMef5zQ==",
-                "mac": "E2KoSTwxvmUn7+1pw8n0IA=="
+                "orig": "I see you've arrived at the Cave Inn.",
+                "text": "Je vois que tu es arrivée à l'Auberge des Caves."
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/7/message": {
-                "ciphertext": "od4YNzZmdCEWSnz4zY/NZRVI2TQohwDBn4zncYrtgBRlZS66Cnj6QgHwKCNu+0UfYH6HGQSNdFx29VFGjTmrqz42KXxQbrSXijY35GiOpBO4EQ6NeUsbIhcU51YbwB8s",
-                "mac": "p3FCqEB47nm4yNjTIqszHw=="
+                "orig": "Now you just have to sit tight and wait for the perfect moment.\n",
+                "text": "Maintenant il faut juste attendre et rester à l'affut jusqu'à que le moment parfait arrive."
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/8/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/forest/path-04-hostel.json/entities/971/settings/event/9/message": {
-                "ciphertext": "AWlpYdrVgaGl2Ki9TeeIYh7yDHpMbXOf9eqM4JHlaoWrU++idXSltge9XsF+VR78/h0/SWHUi9kXK32MuiL7p78fxe6xkO/yuPMy2T+HjC8HPurMpX0QqNI2Sin9EadlbUOLc5jYF64dgnbxy72HGw==",
-                "mac": "btBuP21+gRHWy0GNWaJDdg=="
+                "orig": "Yeah, it's like Wervyn says, there's a fine line between being early, late, and right on time.",
+                "text": "Oui, comme Wervyn le disait, il y a peu d'écart entre être trop tôt, trop tard et juste au bon moment."
         },
-        "maps/forest/path-04-hostel.json/entities/972/settings/event/1/elseStep/0/elseStep/0/message": {
-                "ciphertext": "b+P3dYrADZMso5773A+vLZ0xGZ7TUYxSRWxJBdrpK0wQFDoUiCszoRwsNXZHFfTY7JjBQFwHKmvXOxjPfMwY6wwLyMI3RUDeuj31eQOjYIM=",
-                "mac": "YOm/yT60xWwMD8YCEd1DOg=="
+        "maps/forest/path-04-hostel.json/entities/971/settings/event/10/message": {
+                "orig": "And you don't have our finely-tuned senses yet.\\. But don't worry!",
+                "text": "Et tu n'as pas encore nos sens aiguisés.\\. Mais ne t'inquiète pas !"
         },
-        "maps/forest/path-04-hostel.json/entities/972/settings/event/1/elseStep/0/thenStep/0/message": {
-                "ciphertext": "uPIJDtgUgzUDPl3yTg1Qtc2JKCDxcN0fnOTuSzFVNeJhqmWnrSnWhqzTNM1fXQlpopXqq03hFdSiEYvh/w3feAy1NQwRYdCfTcKAq3xvrzg=",
-                "mac": "A9jSNnneF+EqhTzD+//USQ=="
+        "maps/forest/path-04-hostel.json/entities/971/settings/event/11/message": {
+                "orig": "Since you're new, I'll let you know when it's time to move out!",
+                "text": "Vu que tu es nouvelle, je te donnerai le signal lorsqu'il sera temps d'agir !"
         },
-        "maps/forest/path-04-hostel.json/entities/972/settings/event/1/elseStep/0/thenStep/1/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+        "maps/forest/path-04-hostel.json/entities/971/settings/event/12/message": {
+                "orig": "And I have a feeling you won't have to wait too long!",
+                "text": "Et j'ai le sentiment que tu n'auras pas besoin d'attendre très longtemps !"
+        },
+        "maps/forest/path-04-hostel.json/entities/971/settings/event/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-hostel.json/entities/971/settings/event/14/message": {
+                "orig": "Thanks again, Lea!\\. PuellaDocta out!",
+                "text": "Merci encore, Lea !\\. Fin de transmission !"
         },
         "maps/forest/path-04-hostel.json/entities/972/settings/event/1/thenStep/0/message": {
-                "ciphertext": "5HqQkE12CwemXsNEP5MKAebxUrR8fnWIEZG3KUXfegTsSJqRY70k98I7DJSl6rKG1x7ZZNbpbFcxcYe35FAlSS3qspACDtgiVk3yKfWYt2D/IqZeTJ6Dqrgh3Q6aCx/p",
-                "mac": "iMidfzoV71o945KapfpJUw=="
+                "orig": "So...\\. we have to wait?\\. Okay.\\. Hopefully not for too long.",
+                "text": "Donc...\\. il faut qu'on attende ?\\. OK.\\. Avec un peu de chance, pas pour longtemps."
         },
-        "maps/forest/path-04-hostel.json/entities/972/settings/event/3/elseStep/0/elseStep/0/message": {
-                "ciphertext": "2mLIJsz8gfecbYWxWG3q1XtZ5Ac+1t+ltG58Me/K41RJ4gOYsIF1ZVAD5PAZtdSO3q3ZmyzMz1od25vJU9i4ttUZ40h6+TeMQ6/ShlK4VMOiG82Mj4HzrnqPAASiOgmn6GcP9IkbM575mpnYlZ6oyQ==",
-                "mac": "fF1R49ycDSVBqQpLExyHQA=="
+        "maps/forest/path-04-hostel.json/entities/972/settings/event/1/elseStep/0/thenStep/0/message": {
+                "orig": "Hm. Didn't expect to get involved in this field of work again...",
+                "text": "Hm. Je m'attendais pas à encore être impliqué dans ce genre de travail..."
         },
-        "maps/forest/path-04-hostel.json/entities/972/settings/event/3/elseStep/0/thenStep/0/message": {
-                "ciphertext": "ruBUworaWaZcmAo+wq1rpGqFWjAfF41j693qy+bMf+vdIRhkypazAgzUMFqkA0AqQ89OtWX7WJtdU5PoxDPqrlEZS1M7J05lGqZs7ePgr5vU8F84GobqQyuSlGhn3bWx",
-                "mac": "zrc5vNUuSjf3X+wcJ6iKow=="
+        "maps/forest/path-04-hostel.json/entities/972/settings/event/1/elseStep/0/thenStep/1/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/972/settings/event/1/elseStep/0/elseStep/0/message": {
+                "orig": "Well... I suppose waiting is all there is to do now.",
+                "text": "Bon... je suppose qu'il ne nous reste plus qu'à attendre maintenant."
         },
         "maps/forest/path-04-hostel.json/entities/972/settings/event/3/thenStep/0/message": {
-                "ciphertext": "hbFbXU9s11lG3jltGCjFL90ds4ey/MxyHc8R2K9fj/0O2Xy5Fki3Q0AAj59SuMOP",
-                "mac": "lGqAhTWTDHv6bX/Iq/yZzQ=="
+                "orig": "This is certainly not the most exciting task.",
+                "text": "C'est vraiment pas la tâche la plus exaltante."
+        },
+        "maps/forest/path-04-hostel.json/entities/972/settings/event/3/elseStep/0/thenStep/0/message": {
+                "orig": "This is a good opportunity to just soak up the atmosphere of this place.",
+                "text": "C'est une bonne opportunité pour véritablement s'imprégner de l'atmosphère de cet endroit."
+        },
+        "maps/forest/path-04-hostel.json/entities/972/settings/event/3/elseStep/0/elseStep/0/message": {
+                "orig": "Hm... No surprise they have trouble finding volunteers doing this kind of work.",
+                "text": "Hmm... C'est pas surprenant qu'ils aient du mal à trouver des volontaires pour ce genre de travail."
         },
         "maps/forest/path-04-hostel.json/entities/973/settings/event/1/name": {
-                "ciphertext": "OTYtCnVT4NhN4yRT0gUwGQ==",
-                "mac": "N+8hAwiUHlSK2zGd5wDj4Q=="
+                "orig": "PuellaDocta",
+                "text": "PuellaDocta"
         },
         "maps/forest/path-04-hostel.json/entities/973/settings/event/3/message": {
-                "ciphertext": "wG3pB0knIO5/MVgKMMRUK94rOqq9WdcJNQGXLLHw6+4=",
-                "mac": "dddxVXxcPnJ1pXlocl6yCQ=="
+                "orig": "Lea, it's time!",
+                "text": "Lea, il est temps !"
         },
         "maps/forest/path-04-hostel.json/entities/973/settings/event/4/message": {
-                "ciphertext": "usL7WyleR5HXsEMNAxk936r7ZdyeRlSg2zIpxU8iM0oTFzPbAjLnsMtaMxvhZ7NuhBmhRerzBVIFr4ZYMybICDjGX92xiCNwZQZV9hBGMNDeTlO1xjoJ8zJ8HGotP63i3nu/OVL/y1V1GPF4ZG/U5w==",
-                "mac": "D2AbyOv/RKQ2DHr5cNoYwg=="
+                "orig": "A fellow player is in dire need in \\c[3]River Road\\c[0] right to the \\c[3]west\\c[0]!",
+                "text": "Un camarade joueur a besoin d'aide à la \\c[3]Route de la Rivière\\c[0] juste à l'\\c[3]ouest\\c[0] !"
         },
         "maps/forest/path-04-hostel.json/entities/973/settings/event/5/message": {
-                "ciphertext": "X9Zbu9/x4EkXvWp2Gey7hh0VZgr7KzjJgMqXCI179TwMZA5dS2QlEYUQYeCtUVAI",
-                "mac": "pQ2B+0I4UbhVkGZDI8q4IQ=="
+                "orig": "Let's be quick! Time waits for no man!\\. Or woman!",
+                "text": "Vite ! Nous n'avons pas le temps de trainer !"
         },
         "maps/forest/path-04-hostel.json/entities/973/settings/event/6/message": {
-                "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
-                "mac": "ahS7SIG0IeLx4nW36TYvEw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/974/settings/event/1/elseStep/0/elseStep/0/message": {
-                "ciphertext": "s3MP3/rW+l1lkZhf0VTwyjbc6JjwIw+caQETlr8SuTseUasnlfBgRFYCjqXstoQeXIpv6risBWKevShO7wCgfMRcqw6mfu9/4D1QW89X8SJdCbKzHLjjwK3jhsEvqjkc",
-                "mac": "HQtyNrIv0CkPqCeBUUQULg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/974/settings/event/1/elseStep/0/thenStep/0/message": {
-                "ciphertext": "DGNVQKbv72t6l95DAv96L3bAxM7fkn2iss1niDfj+/B/RxFRi3h5yjPo7dpAxisPdEP2KOa6VtgcyPWwWfVIkl8v7XAtJaJitHB+HyLCaOc=",
-                "mac": "rmzAWY0awcQUuiPx4ONZgQ=="
+                "orig": "Lea!",
+                "text": "Lea !"
         },
         "maps/forest/path-04-hostel.json/entities/974/settings/event/1/thenStep/0/message": {
-                "ciphertext": "gCJPc1JtPD+FKGYJkw8dxM3jA8oqdso24yN3Ged5evU=",
-                "mac": "Z9rZ5Fzu9FPDrfvnBl5m7w=="
+                "orig": "Aaand...\\. more waiting.",
+                "text": "Eeet...\\. encore de l'attente."
+        },
+        "maps/forest/path-04-hostel.json/entities/974/settings/event/1/elseStep/0/thenStep/0/message": {
+                "orig": "Always this waiting for the perfect moment. So bothersome.",
+                "text": "Toujours cette attente pour le moment parfait. C'est tellement pénible."
+        },
+        "maps/forest/path-04-hostel.json/entities/974/settings/event/1/elseStep/0/elseStep/0/message": {
+                "orig": "Right...\\. back on standby.\\. Let us hope there will be another person to rescue soon.",
+                "text": "Bon...\\. de retour en attente.\\. Espérons qu'il y aura bientôt un autre joueur à secourir."
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/1/name": {
-                "ciphertext": "OTYtCnVT4NhN4yRT0gUwGQ==",
-                "mac": "N+8hAwiUHlSK2zGd5wDj4Q=="
+                "orig": "PuellaDocta",
+                "text": "PuellaDocta"
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/3/message": {
-                "ciphertext": "9sQD3zkzBaaPqsC7oMpBWUt+idGSjIEWev/1DurzXsBlRRuloloOnUAVV3pCmVpkKFoDszHKw4R3ccSCKLracg==",
-                "mac": "6leqwgYesUc91O1EI17NKQ=="
+                "orig": "Uh...\\. Lea?\\. Remember that guy from before?",
+                "text": "Heu...\\. Lea ?\\. Tu te souviens du type d'avant ?"
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/4/message": {
-                "ciphertext": "M1N7m3zwCcOce703GkNG/C3+9JkdLTgm+Yvu2KfEdCElzhfuGhaiBBB/7/xz+1IK",
-                "mac": "0gdiVVedKB3p7TlxGPy82A=="
+                "orig": "It looks like he's in trouble again.",
+                "text": "On dirait qu'il a encore des ennuis."
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/5/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
+                "orig": "Why?",
+                "text": "Pourquoi ?"
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/6/message": {
-                "ciphertext": "Hz3VgM5KdR2eU3UOlpdE6tNnQGeCMtxaiNyP0vTVLzRHENErOLw8QMLJ4/LqJyahM58QL/ZVOiHjsHMlVnjvK4jbWg6yoy2/EoAjWsx+yKf25RPf2Si896wCbx0eR+CW",
-                "mac": "X4D768OEnnJBlkLo8Y8HmA=="
+                "orig": "Heck if I know!\\. Anyway he's currently in \\c[3]North East Path\\c[0]! ",
+                "text": "Si seulement je le savais !\\. En tout cas il est actuellement au \\c[3]Chemin du Nord-est\\c[0] !"
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/7/message": {
-                "ciphertext": "1v8QvQgydY+Sr9gPnUNcQwUxJLnGjL9FqRB/uMpjAVMetK+ZWXjXD9npJAascBdG",
-                "mac": "972d0f7n7ya7+wj+xM7TYQ=="
+                "orig": "Better hurry!",
+                "text": "Tu ferais mieux de te dépêcher !"
         },
         "maps/forest/path-04-hostel.json/entities/975/settings/event/8/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/analyzable/text": {
-                "ciphertext": "nJqUmVsjDirxrzT6H7d2Ew==",
-                "mac": "qKwmU3NHWyafpN9qlMShBw=="
+                "orig": "Kat",
+                "text": "Kat"
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "p8qio9klKRqZYaaNoB1JreyA9qQFrwMSLFlOPbxeZ2s=",
-                "mac": "TISn6pa3oC9qgMlcMBLlYg==",
-                "ciphernote": "esFkvMNzPdWs69C3IDX0ny/MAZNyIZcopnEDXVodQE5DgeE3Tk8LpAF9IF7lvjtzhl5Go1v03kNREYNEbkwJd+stE6pFrOz2SenYNqcMkQR/adkGGM89eAtueViquhTRsom80dDPKhwCq8ao5K5lFjilUWw54NS5XK1hoQCRtNg="
+                "orig": "Hello, fellow seeker!",
+                "text": "Bonjour, confrère Pisteuse !",
+                "note": "the only text where seeker is gendered in the gendered language that is german ! So here i genderize it too. Just because."
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/0/message": {
-                "ciphertext": "ExO9zxPXEcYXjvkSuvSmgMwMdOAOeDnoRMGQFzRMVeNru4KT98joPJePu1zIJX0MJVetCLSkiC7c2tDw2sHjBw==",
-                "mac": "5cBncDPAk5VBeTmiGGFG2Q=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/1/message": {
-                "ciphertext": "yKa3EU1ZE1MSXV7d7WdmYHNHWI3xu7bSAV/5LtIQ413rLMvm/86FtOjtBI+fhC6yU5rFCjr5lRZDMzVikrkhVA==",
-                "mac": "aiekRHAxO4KcHljueVLnPA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/10/message": {
-                "ciphertext": "9VnTUQj+Hqh4QJaqN2fkvpbQR8xJAutuCC26Cf6tWKfZxPqVLMWsDpZCbxW3QtMo1nwbpdBPNZ0xTQ5MMPwLUeueikZYAFQPJELstfVB6aU=",
-                "mac": "b9iiCxv6ZFqQY8F218SzQQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/11/message": {
-                "ciphertext": "I0Al6v+Ctgq8QD9L1dnBV4q5LDCYgrdEVQbR+2BCXv4i9nmOrt/IpyNUqz8ikkpTD3+6BljUvjEbhwfN3slHEQ==",
-                "mac": "5gOiVE5Bkty3clMDQiZQpA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/13/message": {
-                "ciphertext": "RqBGLHMUOxg0e773mGnpBTWeP0t9UbE8Y9M8nCPZ7xUHBju2EvAJrg25XfVdS5Y/NY/tL6ZSwrM1E8FlZTFbfNItbKB4C+Rj/ZKUdMkmo+7Ty9StLaJvKxP41RyIzsMo",
-                "mac": "FZ8BKpkW5yIwl5VYSQPGJw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/15/message": {
-                "ciphertext": "QVo5If60le4RSYzCnLwLeTU9i0NU1arQFjDD2/GgfYsf5QIIqD2wLD//aHt+0JJasr90zvQaV+p4Zu4ahtaIbOkWGlYFq2P0DXmjQ1oBJcs=",
-                "mac": "yltpzjvQXk3YaYC0IoTKYQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/16/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/17/message": {
-                "ciphertext": "wHPAseQTTVW1wXOShR5f2A==",
-                "mac": "atkhEhH/22wxlKamyC+ZgA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/18/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/19/message": {
-                "ciphertext": "otwrPldxS1pmCK3U5DUqV+Ixcwx+B4d8qj6NY/IcVgvBbwR2VR1Wym8t/p3p0BX19omOp1CvF6aIpIjcKJBZvIIiy/4GO3/adM7Y1pC5dEE=",
-                "mac": "CsWGAbTiBOt/ILkCMJKhOA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/2/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/21/message": {
-                "ciphertext": "QpUH2jyF4d53mG/iW2ua9dHmM/uUy5fnKgiUJ4hgkfmEzftjE7vDLocOAanHloig",
-                "mac": "5n0u7meNxXxXbDIi51iwXg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/22/message": {
-                "ciphertext": "k0x9Qd01O1KaDDHfWP9RyWSIW3rsUWRJFZ13cng+qh8QI+Ttl6XzNmxV4ONEbNpl",
-                "mac": "sG9tx6FN9biYjpWfU0ewMQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/24/message": {
-                "ciphertext": "xFpgGyHCpZqAini1nDdW9Q==",
-                "mac": "eHC6i5Frw0FNtUX7WkG5Ug=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/10/message": {
-                "ciphertext": "VBNSaqhyvrKccyUAneD29CW0skOfgQds0EQUIiRlCXA=",
-                "mac": "OkXdfol0RWH1bIXn3Nzg7A=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/11/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/13/text": {
-                "ciphertext": "dsIJ80ZORWhQdZGMqn60zQ==",
-                "mac": "uCOww8vKy7tlT92bgS+jBg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/21/message": {
-                "ciphertext": "YwE1Br648Lbsev1LERuBxFDHf6CXPcxYTTB6j4p06v2ig1sGWeBvOxcg8ozpFOA8otdfMRb2UaEbKKW/oZJaow==",
-                "mac": "Oap/e+XcJYZOqc2zbZkhjQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/22/message": {
-                "ciphertext": "fbD9kw7lYj84x/oGy+vVz0jD/SgUU7kiEJGWNyMnfKKJ4Tp6hMOmjZQRG8F84CWzWzhGUXoOHvR7BMhQzj20MNG9CCiTnMnp4M4zdqkC+cU=",
-                "mac": "KbWqxquKL87KdfM+Y/8rPg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/23/message": {
-                "ciphertext": "pFqZ3cvGwKwgfqhKv7P0o/kaUfutIEUq2O/6YvdzOMDZZ9OggEhu3S834yK/8XLi63D6zyNpZS6qIt2upNc7PnXYt15ajqBng1qiAzn4Qxk=",
-                "mac": "J7FLTQ1ToBU+GVFsSRJHpw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/24/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/3/message": {
-                "ciphertext": "Pe8VKjOLZ+5XWXVthAdEvMAU+7dl4YuHZJ38Ki1ekk9fqe0Mw+k6zuV8MK679FHjUIjj3n7zl4G8Q25JSX6wCAK22tZfGZKZ2ARiUR28dmcVBmDaS93Da0K7NWS6jO6FtFstEoAYZQtGLLFH6f5CMw==",
-                "mac": "tnL/Tf8jdSqInsE8W5eBDg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/5/message": {
-                "ciphertext": "6lcd5o5VlqG5Q1x7s9g655pLSAaHrtFpsYmAhQ132l87X42gKhkI8JH3KQ14LCA+vsxnay+FseOk/LXJzffLqw==",
-                "mac": "/HYAazaeqKPUJZKxV3sOag=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/6/message": {
-                "ciphertext": "yGX7qEllLe0Wb2Cl0Vy9ud0t7i4qkJ4C8TqrXdGAk60=",
-                "mac": "EOJZcpF71xpCSi2VKBqarQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/7/message": {
-                "ciphertext": "pBC8yr1tSf0QOU6iT4JNvQ==",
-                "mac": "ahS7SIG0IeLx4nW36TYvEw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/8/message": {
-                "ciphertext": "WPx184+WsAuZ2aOR11iRpTHULAgid4p39Jwmn2UBNZ8sX+h+tDklJBFJKoGUKHtmNoUj9mAetg2pP48qkOXHs+aSFjqxFp7g9SSlbd9i7Ec=",
-                "mac": "gi6hkphmuZ2MVJTBbq+Qcw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/9/message": {
-                "ciphertext": "n77idrB9Eha7OmM2RIp5KhEsDH/jf3r/YXMkuMsZUU2VSQhtp83lOHxpQCn3GTYxQQYJ+A0CU3KhpPc/zqwN8Q==",
-                "mac": "/qrLOUkOXmxst+IagnFZ4g=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/2/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/3/message": {
-                "ciphertext": "EcbHQUAGV8B/idr/hftiwg==",
-                "mac": "R3F3fR8Ie+c9qAZA+XEItw=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/4/message": {
-                "ciphertext": "Kl7Ef8PEy3V1tOjJuvKKO4vZ6JCFFVhwMDjLsxX51mbf0g+gTyfEV+lsPg9fn1M0r4RB0uEeVFUWYKpmgc6kUw==",
-                "mac": "9UYlRMdRUB+ZMHjU/Yq68w=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/5/message": {
-                "ciphertext": "sRXr6t/+b4fz4ClfLaItaem3WKlsq5VREMR0sRANZo0=",
-                "mac": "idxjHl+npaPQF9GuyWv8sQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/6/message": {
-                "ciphertext": "7FBY6T9bjkY7cjkbdkNQXJgAZmkzwt23Zsw/9fx7tlc41ZzAhSBfcFrNI57ODCgJ",
-                "mac": "BYLCREyWt6cynlEclyD73g=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/9/message": {
-                "ciphertext": "bZ0cNQCOgcJzRrw6SnUOqkLop1zNq+9NEslkMX9ki5EWoDe5utq0IgM4r76UlUFprC4Uo5ruHnyQIS4PzG/3sHzzN0gq/h+HF976p+A5ELmrnQM5Rkb7Qlfz93PuRYz9c9kkGwsIXPkygyPg9lM+VA==",
-                "mac": "F4zI3+dQ/4hO8IcvOsiuxA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/3/message": {
-                "ciphertext": "uIe5XCQnARz9jgT2AdsHBMdFsHRhpgUh2tMkK4Tk0H51+Qo46xPCIMGPnyo4MoHy",
-                "mac": "srfIJo4dSExXwQ+ilfEdEA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/4/message": {
-                "ciphertext": "53XzGpdluMbaqboEc+VkVq+tydya/iyWDy/KYgssZDdq2H00tWxlevMgjCAV97PrA8WIGzg7Kdm9zSAYsBQ0UUCb2i4AdULjetK+JGdi4YuMK4yptc1uNd6ltr5mZKC+",
-                "mac": "rFbgS5p6DgM5cxMZtZGBbQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/5/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/6/message": {
-                "ciphertext": "+unIT9ssLAQvXji7C6mthlN32U1FvjqkKaVrFrAKsqwZqNyiZuaJ9K+Man5jDH4FGiGCa4iNqwAYvguPraJseWfvJ7ovhGQ1agY6j9ZIaGBhFpLgxF9LjwtX4NhpASyq",
-                "mac": "KMObWm9Wi/sBYioJmlP9Kg=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/7/message": {
-                "ciphertext": "ZvZBI/GiPMJOFwKqDoPxcA==",
-                "mac": "JPikCG7JMxIAI9UwSCEpbQ=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/8/message": {
-                "ciphertext": "F+D6UGm3Fa4+kZqwJ+Fe1xYz68iEMkulJgdjtYgzdF4Joxji1hxX7L9quG39lSBf",
-                "mac": "0JIMFR6j8ieZWLiDxVDqBA=="
-        },
-        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/9/message": {
-                "ciphertext": "zo0LM7aLrUlVclqMFo16etrXXDJJ1/mzTBBNpCLri/oM4IldT83gVv++ngQ6gh3MrBwURKz1EzhvLZhdyNmKXg==",
-                "mac": "jOgD4VrMC072GMA12NGG7g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/thenStep/0/message": {
-                "ciphertext": "KBboC40O4RMHu54Zxp3CJJZiJhvdohR0kJg4UsixvoHY+DdKR88Nm//iZz6/XH/xKKSZ69zFxpbHekR0IuPo9H2bqww2Puap2w7fizsaiO+Ssfk/QKqw+SjNwv3X3fayuvAqdVoDdq4syD4rHZ6bGw==",
-                "mac": "3gnoSQxVGSD+yR5gAiqGQQ=="
+                "orig": "Hm... I'm currently looking for help, but \\c[3]just one person\\c[0], not a whole party.",
+                "text": "Mmmmm... Je cherche effectivement de l'aide, mais \\c[3]seulement d'une personne\\c[0], pas d'un groupe entier. "
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/thenStep/2/message": {
-                "ciphertext": "nu4q5a69jx/wc6btPPA0tUFgUbBJ/aErOif8A8gfjHkE9gQv+o2wnYlkuT3oVQYdQt/F0WqogYMc9lAcwQ69a1kDA42wP5uYEqB5WTCK7G4=",
-                "mac": "DQTpS3bLB2gD0BCP3ZA6Yg=="
+                "orig": "Just talk to me again, if you happen to be by yourself later.",
+                "text": "Reviens juste me parler, si jamais tu te retrouves toute seule plus tard."
         },
         "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/thenStep/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/0/message": {
+                "orig": "Perhaps you saw my posting in the Quest Hub.",
+                "text": "Peut-être que tu as vu mon annonce au Carrefour des Quêtes."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/1/message": {
+                "orig": "I'm looking for some help with a little bit of...\\. exploration.",
+                "text": "J'ai besoin d'un peu d'aide pour une petite...\\. exploration."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/3/message": {
+                "orig": "But there is something you should know about this first.",
+                "text": "Mais tu dois savoir une chose avant."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/4/message": {
+                "orig": "Let's just say we might see a few things that no one is supposed to see.",
+                "text": "Disons juste que l'on risque de voir des choses que personne n'est censée avoir vu."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/5/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/6/message": {
+                "orig": "And in order to do this...\\. we might have to break this game...\\. a tiny little bit!",
+                "text": "Et pour voir cela, nous devrons peut-être casser ce jeu...\\. mais juste un peu !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/7/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/8/message": {
+                "orig": "Oh, but don't worry about it!",
+                "text": "Oh, mais ne t'inquiète pas pour ça !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/9/message": {
+                "orig": "We'll both be fine as long as we handle it confidentially.",
+                "text": "Rien ne nous arrivera, tant que l'on garde ça pour nous."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/10/message": {
+                "orig": "We just have to make sure none of the officials learn about this.",
+                "text": "Il faut juste qu'on fasse en sorte qu'aucun officiel ne soit au courant."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/11/message": {
+                "orig": "So in short: I'm looking for someone who can keep a secret.",
+                "text": "Donc en bref : Je cherche quelqu'un qui sait garder un secret."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/13/message": {
+                "orig": "Now that I think about it...\\. you didn't say terribly much so far, huh?",
+                "text": "Pendant que j'y pense...\\. Tu n'as pas dit grand-chose jusqu'à présent, hein ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/15/message": {
+                "orig": "Does that mean...\\. do you have problems with your speech module?",
+                "text": "Est-ce que ça veut dire...\\. que tu as un problème avec ton module vocal ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/16/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/17/message": {
+                "orig": "Oh, perfect!",
+                "text": "Oh, parfait !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/18/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/19/message": {
+                "orig": "That means you'll have a hard time sharing any of this in the first place!",
+                "text": "Ça veut dire que tu ne risques pas de pouvoir raconter ça à tout le monde !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/20/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/21/message": {
+                "orig": "So what do you say?\\. Do you want to help me? ",
+                "text": "Donc, qu'en dis-tu ?\\. Tu veux m'aider ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/22/message": {
+                "orig": "I promise it will be exciting!",
+                "text": "Je te promets que ce se sera marrant !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/24/message": {
+                "orig": "Uhm, Lea?",
+                "text": "Euh, Lea ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/2/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/3/message": {
+                "orig": "Great!\\. In that case, let's meet in \\c[3]Maroon Valley - Barren Arcs\\c[0]! ",
+                "text": "Super !\\. Dans ce cas, rencontrons-nous à la \\c[3]\\v[area.heat-area.name]\\c[0], aux \\c[3]Arches Perdues\\c[0] !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/4/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/5/message": {
+                "orig": "Oh and just so you know, I'll need to switch my avatar.",
+                "text": "Oh, et pour que tu le saches, j'ai besoin de changer d'avatar."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/6/message": {
+                "orig": "The name will be \\c[3]Kit\\c[0].",
+                "text": "Le nom sera \\c[3]Kit\\c[0]."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/7/message": {
+                "orig": "Lea!",
+                "text": "Lea !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/8/message": {
+                "orig": "Oh, yes!\\. Nice to meet you Lea!",
+                "text": "Ah, oui, quelle impolitesse de ma part !\\. Ravis de te rencontrer, Lea !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/9/message": {
+                "orig": "I'll contact you via D-Link when you arrive!",
+                "text": "Je te contacterai via D-Link dès que tu seras là-bas !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/10/message": {
+                "orig": "See you soon!",
+                "text": "À tout de suite !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/11/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/13/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/21/message": {
+                "orig": "Lea...?\\. Are you really sure this is good idea?",
+                "text": "Lea... ?\\. Tu es sûre que c'est une bonne idée ?"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/22/message": {
+                "orig": "I know we have broken the rules before but...",
+                "text": "Je sais qu'on a déjà enfreint les règles plusieurs fois, mais..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/23/message": {
+                "orig": "I honestly have no idea what this player is up to.",
+                "text": "Je n'ai absolument aucune idée de ce que ce joueur à en tête."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/accepted/24/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/2/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/3/message": {
+                "orig": "Dang it...",
+                "text": "Ah, dommage..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/4/message": {
+                "orig": "Seems like everybody is too afraid to break the game.",
+                "text": "On dirait que tout le monde a trop peur de casser le jeu."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/5/message": {
+                "orig": "Even if it's just a little.",
+                "text": "Même si c'est juste un peu."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/6/message": {
+                "orig": "It's honestly not so bad though!",
+                "text": "Pourtant ce n'est pas si grave ! Vraiment pas !"
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/9/message": {
+                "orig": "That was a good choice.\\. Better not get into risky business like this.",
+                "text": "C'était une bonne décision.\\. C'est mieux de ne pas chercher à prendre des risques comme ça."
+        },
+        "maps/forest/path-04-hostel.json/entities/976/settings/npcStates/0/event/quest/4/elseStep/26/declined/10/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/path-04-hostel.json/entities/977/settings/dialog/0/text": {
-                "ciphertext": "pfbPN/QNH0ycmYF3Pxsqo0CCk4C+vmMHZnmfqaqkNR76RSByIAL7aG+WZ9gEtGVwbcO/PDFpMzoyVS/Mc0+sijtc9zLP149+0nuEZ7EAZMk/dN6kIB0MuUc89OjhyoTh",
-                "mac": "qQLyfsV3kZ1jBtheZSlz+g=="
+                "orig": "You have to wonder how they would be able to grow the bamboo so densely...",
+                "text": "On se demande comment ils font pour faire pousser les bambous de manière aussi dense..."
         },
         "maps/forest/path-04-hostel.json/entities/977/settings/dialog/1/text": {
-                "ciphertext": "k2/QPj5wAoqdZoUM99LpD3eYSHfTuC9BJRGXmYB6XJGjk8se1VWju6ex4SFh/wXZQ2PtIvGWwvYLiVKcldnPdw==",
-                "mac": "hhFfU0WgT7HbL+4qY3v/3Q=="
+                "orig": "Maybe that's what the giant shoots around here are for.",
+                "text": "Peut-être que c'est à ça que serve ces pousses géantes."
         },
         "maps/forest/path-04-hostel.json/entities/977/settings/dialog/2/text": {
-                "ciphertext": "BHpnBQ1wAL7vnYT5lkLXSfP6MCCCuRK81TwUJE5I/42s3Q5ha870TU+Fnv/uWiQOYJDnEdILuH+1kbpqhmnVMg==",
-                "mac": "W4VdauC0Wd6m//StLYShIQ=="
+                "orig": "They grow into a ton of bamboo stalks!",
+                "text": "Elles poussent en des tonnes de tiges de bambous !"
         },
         "maps/forest/path-04-hostel.json/entities/977/settings/dialog/3/text": {
-                "ciphertext": "OLw7zsCpODx8VRetgzqntjA7YPzRypO4WePPKfAKzW1BA0fP/b5/CnriaVmI9kCdYLkDY2jXCgXnIYaBbLjiGc6Xh4DwU98oGZiIm7NvJnSDrKtJp0L6KY44xH2f+CYJ",
-                "mac": "glIPMSfCMBBJ71H/WjD5PA=="
+                "orig": "Then they make more shoots, and it creates a whole forest almost instantly!",
+                "text": "Ensuite ils font d'autres pousses, et ça crée une forêt entière presque instantanément !"
         },
         "maps/forest/path-04-hostel.json/entities/977/settings/dialog/4/text": {
-                "ciphertext": "jaeXmMcjEBbobqZszQyJo4fOfcvdTCaJI5JeJpqYwE8vQmtbbEU/6GQannR2+HU54sFG+yJzJ6cSMMt8bx5JGFHLH4cM4E2+BexK8a7sMks=",
-                "mac": "+q5vF9ieR3J9kb8hqr7DgA=="
+                "orig": "... I was going to suggest someone out there just really likes gardening.",
+                "text": "... Je voulais juste dire qu'il doit y avoir quelqu'un qui adore le jardinage. "
         }
 }

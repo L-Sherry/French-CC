@@ -1,339 +1,339 @@
 {
-        "maps/arid/forest-1.json/entities/245/settings/condAnims/0/interact/event/1/text": {
-                "ciphertext": "ZyEPCn+qkwoiHPOOSJzAPFebSFwc6UutbMPJT8TMb9v8xsU3y/qY3QgwAogUkYiM",
-                "mac": "zRFVVFPHr4kzvMM7yCulvw=="
-        },
         "maps/arid/forest-1.json/entities/245/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "pUUcpxS3p+QIbbjz1r1SNKAGMFQ7pjXOqawkKJP4jfE=",
-                "mac": "7yIGojk/GNFUkJez4f6fiA=="
+                "orig": "Search Targets",
+                "text": "Chercher des Cibles"
+        },
+        "maps/arid/forest-1.json/entities/245/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Locate Targets in Area.",
+                "text": "Localisation des Cibles dans la Zone."
         },
         "maps/arid/forest-1.json/entities/245/settings/condAnims/1/interact/hoverText": {
-                "ciphertext": "YUNRkmeoPWzZR5IdQbhcDA==",
-                "mac": "d/eOFeyTNQ3dQpWEFylk8A=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/10/message": {
-                "ciphertext": "XBxR/+6eEYKFfRMEND6pXJwRhJKvaes1vcWNArQPO4JL22aTLrIDpibTxa6uCrdjvEJ2bck5LJ8xKpLd3hMt4A==",
-                "mac": "l0FC4ZP9Bqrc0cI4pNSiAg=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/11/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/12/message": {
-                "ciphertext": "IqXqoovuvli+IoULobVezbMhpIvzoxnoOtJ/Wq9KxA5hrKcp50zRVEbs3ycVPux6UYvos9UKcgD6l4TLTELVuULD3gTSSmMp1DSYdOUHArRxtnfFtAf4htYMiN/prt1A",
-                "mac": "K1ngN0ONrR/rBexFgSE5EQ=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/14/message": {
-                "ciphertext": "jCT8VVrwMY8O6N/DVps/DKOLxrDM5mjM9qmW85WGL/LtmVz5Yc6Hv30h6JzXn/OcH9stKJVvJj1SaxEHK8jsQwNIaY2RfU2UvsOJigze6Ro=",
-                "mac": "4i/88mDaNpzBFMR5hp/ICw=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/15/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/16/message": {
-                "ciphertext": "Y6MfSjGtCO2Sfoo6CErcUGn4l6p20PeIylU797nySmje/KXJsBTvmnx1EPudXTFD6NFVb1WwDJlQ+8KpYntHXbRQsu37G7Q5cqN382qAdvAFvMfON5fbGdhCgYJYfQkZ",
-                "mac": "WpOfKMvrVIMKIwqdIh4G5w=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/17/message": {
-                "ciphertext": "L1O711O1d1cpQMuDsJFPDYzt2eNsU4chTF5bNpy6ecYfEGVK+/yZ19ExndXPzluTwJV1DkaNITsnXuiSTp6py7VVyMFpkMDaKdkzOgCUeYFDv32rJXgPvsEB6xc8ce82jgsk0ascc69kraTVlWk9bQ==",
-                "mac": "bElE+hLK4dWMLw+z3FPu3Q=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/18/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/19/message": {
-                "ciphertext": "ziOtD7rX+S72pRUqxRMuqjS7clul8HlPGeu7NyztZGv5aBu5Kxu1xIcxiyD7EHR2fIJYIENrEQQOLTiyMJwdbm73ixTVVu8eYhDLG/RG02s=",
-                "mac": "WR1FiLk2IBODNoXnU7OrEQ=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/20/message": {
-                "ciphertext": "Lkfq+TotDleJga3rXytd/g==",
-                "mac": "94hdT/37sHs+uvLzTGDfag=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/21/message": {
-                "ciphertext": "zqIhn7PfdRTbq6lmt9l0A1rlE6EqvoNw3bvBY03MPhlJClEK+FO+Y0aMMOzCExzT3e6uRVBA7jlj1IGJSja+VYnuvPSIoVpFyJJfUH6G1cq/g0TPBRSwNuxenGSdoRDQ",
-                "mac": "w235JeNSbmaohmUrdtBWqQ=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/22/message": {
-                "ciphertext": "OjoyDKERb73Qm172WMS6lxLk4Y3TXi38/eL2VTamZE8MZsSd6bLhUBoMraORLNfZyw6ioqVOGBXhrJxjrtMihSFjRCmm64JsBCsLHViiuaIsJAA/X0JLgXmGWr/cr98U",
-                "mac": "9+aQCmHEKeWhHKTbH93CCA==",
-                "ciphernote": "5ms3tOtjAHBDlq9TrwCVltyq55OAbblIIntVrkBZcPg="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/23/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/24/message": {
-                "ciphertext": "u9wRQPrWjpSJYGMX9gj3xCe7Exfrg2QdUAVWinOyLt7nMNmQX1ZsHPtY6eE0bkx5",
-                "mac": "8pDkDctTgdKqEaWdqlKOMQ=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/25/message": {
-                "ciphertext": "1OImxxbeEjrNz7U4y1TW6A==",
-                "mac": "lNxSRJ/SbMBAnmh1pX6jmQ=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/30/message": {
-                "ciphertext": "Pt2hpA+kwjKQWHjFAi84tZUbHOyYrp7Fbs96Ui4969t8v6QU1Yk+uWdFcQzSObW9",
-                "mac": "sHiLGNII9sFeSHKaYK+iag=="
-        },
-        "maps/arid/forest-1.json/entities/510/settings/event/34/task": {
-                "ciphertext": "Am7IYJEPAKazVryE4h25zPtGWls1XWaAsDrPlUVaojFsL6cY9q4dm+3hM+tmwnbZ40S7RUmejgTL0/l2ZrFnzNdXJkIzV0eWlerJ1Wve1NhwhfXWuIGwCSMnKZ6tGWtjGGsqVqICM4PFs65Oux1UEA==",
-                "mac": "oYPt2EtNZ2/T6ii8C0UEDQ=="
+                "orig": "Activate",
+                "text": "Activer"
         },
         "maps/arid/forest-1.json/entities/510/settings/event/9/message": {
-                "ciphertext": "I3cDgJCSDc/xbNLFq35nTXVi4sjP/POT4qysaAxmS2XE55mZf0g6XWph0BCC9Wb23rIHS7baVCSR0DlBnew1ZarfcviNiR2BdhEQZtnIQbg=",
-                "mac": "OQiVxQj8B3hCWq7jomZ5RA=="
+                "orig": "Now we enter the realm of \\c[3]Ebony Forest\\c[0]!",
+                "text": "Et maintenant nous entrons dans la \\c[3]Forêt d'Ébènes\\c[0] !"
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/arid/forest-1.json/entities/510/settings/event/10/message": {
+                "orig": "As expected...\\. it's full of trees.",
+                "text": "Comme son nom l'indique...\\. c'est plein d'arbres."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "O8IAHuNSLtBLtzW/x06jCQ==",
-                "mac": "VaMoXzPKsY49CwyiO1+6yw=="
+        "maps/arid/forest-1.json/entities/510/settings/event/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "T6NN02Jhtf6rxXYx4IO5lXde5vjs0mpCJnVxKDW990nHXbwI/qJaHOlbwpKGrKpfIqwpL96mGUOas84KrHGEohPr27fzEo8HIr2oKYYpExm9mhEk+tz6UF0mQLNKemP9Ad8FLseieWzUgi+ZsewLtnezeY6jKUhBkSlr5lutsU8=",
-                "mac": "uZ5H5Qe/vLdhmEGplYLkBA=="
+        "maps/arid/forest-1.json/entities/510/settings/event/12/message": {
+                "orig": "Yet there are no evil wolves in this forest. It's just viruses as always.",
+                "text": "Mais pas d'inquiétude, il n'y a pas de grand méchant loup dans cette forêt. Juste ces virus."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/arid/forest-1.json/entities/510/settings/event/13/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/15/message": {
-                "ciphertext": "1Mmp98puf1DYkZ1pjGVJWhwgOLY4tVNw3zti35Ns4CmPLM5BdX0e8wENMYY6csrVhbTb68QVXIGwgwta6OolZGxilIEnUsX3KyyGVBJMC1WN3OEckzctPKeDHb2VscrJeBCuZZvuFsNwwZWkVuIVmA==",
-                "mac": "o/iZ3sXZT837NuwxhLluTg=="
+        "maps/arid/forest-1.json/entities/510/settings/event/14/message": {
+                "orig": "Also no bugs. I'm sure Emilie would be glad to hear that.",
+                "text": "Et sinon, pas d'insectes. Je suis sûre qu'Emilie serait ravie de l'entendre."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/16/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/arid/forest-1.json/entities/510/settings/event/15/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "ubiyjp5jLvnzcNV0U0uSuc1iMgFHl3INikiPoI4YBWsLvnvm7l+BkBOWyZE98sNQqM200G+osyNUubahO63jdjY8lBJ2fXIfhxioNWStuqhuV7aOD0GNJBDdgDuT5sE8+YtUEMzdZXlXx6fzzWwWtw==",
-                "mac": "rtYuQb993t8WvH7pOatt2g=="
+        "maps/arid/forest-1.json/entities/510/settings/event/16/message": {
+                "orig": "Seriously though.\\. Emilie and her fear of bugs...\\. I don't quite get it.",
+                "text": "Mais sérieusement.\\. Emilie et sa phobie des insectes...\\. Je comprends pas trop."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/18/message": {
-                "ciphertext": "zcvMpWe+Uwrsyc3BNyi+qREFB4r1AAUhsy6bKuwdQRZrrIpL6oZmaFnCPXfGkorKMDpACEZ4QgUG16FbYC2JXFozCLJRcdIUowZnjrBkkj4bZIS6y6t1JhgtT/gqJjPz",
-                "mac": "MfWv/G4f+7rtovP3Asf26w=="
+        "maps/arid/forest-1.json/entities/510/settings/event/17/message": {
+                "orig": "She made such a huge deal out of the Faj'ro Temple boss. That giant moth, right?",
+                "text": "Elle nous a fait tout un plat pour le boss de fin du \\v[area.heat-dng.name]. La mite géante, tu te souviens ?"
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/19/message": {
-                "ciphertext": "dErn9JJq7T6hByMe4b6xdUNCPdnfEZsxFCA18P1ANDrS4cQ3Px5MFUkmTmGYMRar7VS04cnIf7iwFFdo9oOyKg==",
-                "mac": "3IcjGzy0clC9XSSrq0Zo3Q=="
+        "maps/arid/forest-1.json/entities/510/settings/event/18/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/arid/forest-1.json/entities/510/settings/event/19/message": {
+                "orig": "But when I asked her about the midboss...\\. that antlion?\\. No problem there!",
+                "text": "Mais pour le boss du milieu...\\. ce fourmilion ? Aucun problème pour elle !"
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/27/message": {
-                "ciphertext": "oKwprJDplhnVHwpvLSgUiNzoOU7kTc/Y+yPhjGmofplaFghCzeXc52sLmdpBRf+A0/BTOxN5kpEZX2I+GWUySwVCk4su2fA53qa5o5WlnHXM3LjpRMck6ZMBk4LdR4IL",
-                "mac": "PeP//YicIwq6KS8ItXOHWQ=="
+        "maps/arid/forest-1.json/entities/510/settings/event/20/message": {
+                "orig": "...How?",
+                "text": "... Comment ?"
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/28/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        "maps/arid/forest-1.json/entities/510/settings/event/21/message": {
+                "orig": "Yeah, apparently it's all good because it's \"slow\" and \"stuck in the sand\".",
+                "text": "Oui, apparemment pour elle, ça va, parce que c'est \"lent\" et \"coincé dans le sable\"."
         },
-        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/31/task": {
-                "ciphertext": "EUNYCJYgSsWksoWC1dJrMKsFSPU/jSHTfAoYDazZBsiOsmbpU0VR4nLzGJozP4NLXgHdIC64ndTYbcr+R1ciDA3PFt9rKylmFhZWxaVEXZkF0EeEj6C6rJOfKxH6faye",
-                "mac": "avWz1DUvYCjrbI2dwWrl8Q=="
+        "maps/arid/forest-1.json/entities/510/settings/event/22/message": {
+                "orig": "Personally I thought the antlion was much higher on the scary scale.",
+                "text": "Personnellement, j'aurais cru que le fourmilion lui filerait bien plus les jetons.",
+                "note": "de: chier dans son froc"
+        },
+        "maps/arid/forest-1.json/entities/510/settings/event/23/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arid/forest-1.json/entities/510/settings/event/24/message": {
+                "orig": "Right? Well, that's Emilie for you.",
+                "text": "N'est-ce pas hein ? Mais bon, c'est Emilie."
+        },
+        "maps/arid/forest-1.json/entities/510/settings/event/25/message": {
+                "orig": "Let's continue!",
+                "text": "Continuons !"
+        },
+        "maps/arid/forest-1.json/entities/510/settings/event/30/message": {
+                "orig": "Over there is a pretty interesting spot!",
+                "text": "Par là, il y a un coin assez intéressant !"
+        },
+        "maps/arid/forest-1.json/entities/510/settings/event/34/task": {
+                "orig": "Talk to Lukas in \\c[3]Vermillion Wasteland - Ebony Forest\\c[0] to proceed with his tour.",
+                "text": "Parlez à Lukas dans la \\c[3]Forêt d'Ébènes à \\v[area.arid.name]\\c[0] pour continuer sa visite."
         },
         "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "F+A9Zh4dZOKco4BlGFhfQ1qomaOmxpU2F66TLIkfJ+R7l20CaV24f2KzyAtuFOhh0dte0l3i0CvUxfpWSx3vfg==",
-                "mac": "H1J22VIvkEDM0x1I71hgjg=="
+                "orig": "I call this here the \\c[3]field of the indecisive flowers\\c[0].",
+                "text": "Ici, j'appelle ça le \\c[3]champ des fleurs indécises\\c[0]."
         },
         "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "xwKu3y7sOLuaeRxEcY6Mqm195s3noVv8SGDyaPWwjW4P1fcStMv/tTd90vRWClTRhu6snNbGmYi7qkNrFcR550Szw2dEwkhoMmO4ejK3D0ibAxtCHN8LqxD1AYjfQq2rfFgOp+JuXILx2IToUIIttg==",
-                "mac": "4UaO4ozWHJ0A6eZS395cBQ=="
+                "orig": "Indecisive because they can't decide to what height to grow.",
+                "text": "Indécises car elles n'ont pas réussies à se décider jusqu'à quelle hauteur elles devraient pousser."
         },
         "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "ZiecawlglgCkdwkkJjlmVQSQ6gM6mkOgiYVJ84Pu70mDKe0c6u8v5tZUJ5+H0Zxffpbne6Bf5z00gal/+/c6yzmLJ66LsHg/gVyV5B93LvyXRxTP8jgaPjbdl7tCKsAToHKhZ47PQy5WDEVXaGB6nY4mAovuKP//xcPGVB2ByBY=",
-                "mac": "tfhoaHjgEAGxe0XPJj1UyA=="
+                "orig": "I mean just look at them. Some are stuck on ground level, others several meters high.",
+                "text": "Je veux dire, regarde-les. Certaines ne dépassent pas du sol, alors que d'autres font plusieurs mètres de haut."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/11/message": {
+                "orig": "...Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/12/message": {
+                "orig": "Look, I can't even explain a lake to you, so what do you expect now?",
+                "text": "Écoute, je ne peux même pas t'expliquer ce qu'est un lac, donc qu'est-ce que je pourrais bien dire là-dessus ?"
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/15/message": {
+                "orig": "Anyway those flowers are awfully convenient for an elaborate jumping path, don't you think?",
+                "text": "En tout cas ces fleurs sont un peu trop bien disposées pour faire un bon parcours de saut, tu trouves pas ?"
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/16/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/17/message": {
+                "orig": "I mean this wouldn't be CrossWorlds without unlikely jumping paths literally everywhere.",
+                "text": "Je veux dire, CrossWorlds ne serait pas CrossWorlds sans tous ses parcours de saut improbables partout."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/18/message": {
+                "orig": "The only thing I'm missing here is the treasure chest to collect.",
+                "text": "La seule chose qu'il manque ici, c'est le coffre au trésor avec la récompense."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/19/message": {
+                "orig": "So I suppose we both can guess when those flowers will come into play.",
+                "text": "Mais on peut déjà deviner quand ces fleurs entreront en jeu."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/20/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/27/message": {
+                "orig": "Enough of this forest. Let's go back to the lake. There is one more location I want to show you.",
+                "text": "Bon, assez pour cette forêt, revenons au lac. Il y a encore un endroit que je veux te montrer."
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/28/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/arid/forest-1.json/entities/511/settings/npcStates/0/event/quest/31/task": {
+                "orig": "Head back to \\c[3]Vermillion Wasteland - Crimson Lake\\c[0] to proceed with Lukas' tour.",
+                "text": "Revenez au \\c[3]Lac Pourpre de \\v[area.arid.name]\\c[0] pour continuer la visite de Lukas."
         },
         "maps/arid/forest-1.json/entities/512/settings/event/0/message": {
-                "ciphertext": "hGDGvvUKQQy4s1FkUSDtjglmxXJbpFRFkC0qKBTLZBsZb6w7wHn7E0kG68hZ61lxDjfr24LfDARQBSUtQ4JvZQ==",
-                "mac": "Suqd3h0UtGSeK5aqUl0HqA=="
+                "orig": "Is there really nothing else you'd like to do?",
+                "text": "Il n'y a vraiment rien d'autre que tu aimerais faire ?"
         },
         "maps/arid/forest-1.json/entities/512/settings/event/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/512/settings/event/2/message": {
-                "ciphertext": "U1fvxEU8QfnXixbRqQ4v/w==",
-                "mac": "75ykuklEEkg0ZW5UYXfcew=="
+                "orig": "Lea...?",
+                "text": "Lea... ?"
         },
         "maps/arid/forest-1.json/entities/514/settings/event/0/message": {
-                "ciphertext": "cqDCpYOVt/RcFcYff5a8JrdGrStRmOs1kacw8gI7RCSfrsmEPFjej0VBpAo5q5+2GVjAXlhapMOdM9mziq6Fazk2L8lDVBuuj6/nBLU1MHo=",
-                "mac": "YWBv2yXFupE26Aropv51pQ=="
+                "orig": "Hah, told you we'd be jumping over these flowers.",
+                "text": "Ha ! Je te l'avais dit qu'on finirait par sauter sur ces fleurs."
         },
         "maps/arid/forest-1.json/entities/514/settings/event/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/514/settings/event/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/538/settings/blockEvent/4/message": {
-                "ciphertext": "57ORY6hj0JfHuY09kdDlh2wQ9F4JPmxdGMKkKwAg4K0kJC8YjwlKtVM3v0+W49L2g8hdE6N51Z35vvPoQ//qvw==",
-                "mac": "/UgQF7FVOrodOZfKIplqXg=="
+                "orig": "Come on, Lea. Let's call it a day.",
+                "text": "Allez, Lea. Arrêtons-nous là pour aujourd'hui."
         },
         "maps/arid/forest-1.json/entities/538/settings/blockEvent/5/message": {
-                "ciphertext": "f8YDU/HB4KIWaZxDQ7/C/I6GKvYhCyZeokTLJHbP7c9GC3c22Y60aeWGEgsf8H8WTqADHCuDEyaf5AS7sOTdVQ==",
-                "mac": "ilLvZQtQ5TiPsAAswxPl2w=="
+                "orig": "There's still time for the trial building tomorrow.",
+                "text": "Demain on aura toujours le temps pour le bâtiment d'épreuve."
         },
         "maps/arid/forest-1.json/entities/538/settings/blockEvent/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/forest-1.json/entities/541/settings/event/14/message": {
-                "ciphertext": "Ln24oAXQzPdpvSWBtCO5DQ==",
-                "mac": "ed0zTxAI1S1ObcKZP4BTgQ=="
-        },
-        "maps/arid/forest-1.json/entities/541/settings/event/25/message": {
-                "ciphertext": "CdzL9pIfi/7P7a/o9w9Z4VasK1UWZfzjebf5PBVWbCG/DvPC4dfo39D+Ekvx2e49NVZxEFmRKzYVYFMEpU5v5nLhqwBnmGqunbdjDEhI0Lc=",
-                "mac": "TFsroEk/eGJyHvvjj1Z8rQ=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/541/settings/event/6/message": {
-                "ciphertext": "BdV54JU4DqcBzpt86b8mdjC8Ot4YMa5eE/xE5UPBwxA=",
-                "mac": "V06XDL3NGYJ9WB6XiBW3Kg=="
+                "orig": "Okay, here we go again...",
+                "text": "OK, c'est reparti..."
+        },
+        "maps/arid/forest-1.json/entities/541/settings/event/14/message": {
+                "orig": "Huh?",
+                "text": "Hein ?"
+        },
+        "maps/arid/forest-1.json/entities/541/settings/event/25/message": {
+                "orig": "Enemies already?\\. Let us enter the damn building first!",
+                "text": "Des ennemis ? déjà ?\\. Laissez-nous déjà entrer dans ce satané bâtiment !"
         },
         "maps/arid/forest-1.json/entities/560/settings/event/13/message": {
-                "ciphertext": "YlXibxeTGvEJKawk+vgVkw==",
-                "mac": "YrWEio51XOlcCZKBySoMLA=="
+                "orig": "Finally...",
+                "text": "Enfin..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/17/message": {
-                "ciphertext": "/lvdnp0flAK9dByfnE+7qcTLYPqcj10t2i4euQExLesCdXR/I0A6/RvvFZ6T5A36",
-                "mac": "PeramvymlgOUb/g2WX6GoA=="
+                "orig": "So...\\. should we enter?",
+                "text": "Donc...\\. Est-ce qu'il faut qu'on entre ?"
         },
         "maps/arid/forest-1.json/entities/560/settings/event/19/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/20/message": {
-                "ciphertext": "jG+3R6GMnA5WXBOLF9SEM8tySYYQPQW7LMCd+DwIM8+QsHFUMhh7zA0936Z5oY1QOfhgtQjrCweOeTGu7cJ8nw==",
-                "mac": "7TxFFbLPMFJVD6MTXEfQWg=="
+                "orig": "Honestly, I don't have a good feeling about this.",
+                "text": "... Pour être honnête, j'ai un mauvais pressentiment."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/21/message": {
-                "ciphertext": "yMCeX9UYlUs5WaNLIW05GBvZLWgiaR4IzmeW7LDg6KnJTacv18w4Lmw7QdkY6RPnGKUT+SSSp1krR1EgvgVchcGC1XVDb3/8tUIVvU3aWR8=",
-                "mac": "acvzGyf5xPCpC4AAGvS79A=="
-        },
-        "maps/arid/forest-1.json/entities/560/settings/event/22/elseStep/0/message": {
-                "ciphertext": "Ohy5gEs78Oae8tFJ5pFXOPb94k29k7MBYEQ47oPkqvk2r4P5OOPkJDHQk4F4/vEA",
-                "mac": "5kvMS/vxKdVZknZ2WUzc2A=="
+                "orig": "There will probably be more high-level enemies in there.",
+                "text": "Il y aura sans doute encore d'autres ennemis de haut niveau là-dedans."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/22/thenStep/0/message": {
-                "ciphertext": "FWtS/lpICZENhk5a/rqCtsveo8WtIq8+xQ2X/Wzk8kSZqPJ5cDpRUBe+ZAgAOwWuNEtLNxQa69oGa6asz4rjxxkvwDx4nTK9qbbfKBC3UrmRX86LGQQwe/zwe032ZPiJ",
-                "mac": "cPyvKwX78bAXHoZMnstBcA=="
+                "orig": "Not that this matters much for you, but still...\\. with you being like this today...",
+                "text": "Non pas que ça change quelque chose pour toi, mais bon...\\. vu comment tu es en ce moment..."
+        },
+        "maps/arid/forest-1.json/entities/560/settings/event/22/elseStep/0/message": {
+                "orig": "And with you being like this today...",
+                "text": "Et vu comment tu es en ce moment..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/23/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/24/message": {
-                "ciphertext": "AoENNvRhSpgeCoRVZy9+k2fLjYbadid+YLsFSj641WNknnutGAQNRJOrjF3sDHxE+wh1OTHK+C7WoHmQs/dkmSDD+jlEatNfSwO6OYXshX5MZXfGcw44Vl4UTN117Gvk",
-                "mac": "eP+Fsrv63zJiwkxXjkVOrQ=="
+                "orig": "Should we continue another time?\\. There is no reason to rush this, right?",
+                "text": "Est-ce qu'il faut remettre ça à plus tard ?\\. On a aucune raison de se presser, non ?"
         },
         "maps/arid/forest-1.json/entities/560/settings/event/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/26/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/27/message": {
-                "ciphertext": "suoP8F+a2xFcVAfQuOjX/yg8Rh4Q3zNG8m1TG8IslqfroZ93lemDbbx0jcbEkRwunTcrV9xgezJC3HWFGCTP+Q==",
-                "mac": "thdNuesSuSwfzuxEacBXag=="
+                "orig": "It really would help if you'd respond... at all.",
+                "text": "Ça m'aiderait si tu pouvais au moins me donner une réponse..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/28/message": {
-                "ciphertext": "PFFLEfF6WTo19hl/DuJRqqC1/dTozZQUh4MoKnZLKQl7Zm3BGPDWeyd+M7EbDn2mPjvFO79SiJfapHkqOe9He1HD8IoNQEP1SnuV2LfLsyk/kU39Z/KoU5VvUoZX4KZb",
-                "mac": "jhKkQaAnKeR21lKCPMZhGg=="
+                "orig": "I mean...\\. I understand why you'd feel down in a situation like this.",
+                "text": "Je veux dire...\\. Je comprends pourquoi on pourrait se sentir mal vu la situation."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/29/message": {
-                "ciphertext": "zPNd8UvjWhuNU5JFKaS4XIcHfXtVkr4x0iN5vA/3b8YIrcmo42zOu7LrWybqjCEg",
-                "mac": "9wcYBEWDnj2OF4HLvOol+g=="
+                "orig": "But...\\. things don't have to stay that way.",
+                "text": "Mais...\\. ce n'est pas fini pour autant, Lea."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/30/message": {
-                "ciphertext": "ZgaP4NQHnOR+vbtFa5WPbuRgjQF18Wm+Wvv3byVjDawrmbQaJSp0Czo0+tIeuGbRBF6JZmdEd+m9IKZZNyMnG1Gezr8wuOhJAZEBbSkyzTTEXdh9DlYJPzAttXHGaf4U",
-                "mac": "jfY2LH9TBP7kFR0dPMozaw=="
+                "orig": "I'm sure we'll find a way out.\\. Out of this place...\\. out of this game...",
+                "text": "Je suis sûr que l'on s'en sortira.\\. Qu'on sortira d'ici...\\. Qu'on sortira du jeu... "
         },
         "maps/arid/forest-1.json/entities/560/settings/event/31/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/32/message": {
-                "ciphertext": "ikNZBcFPhzxJvLmx/wKhXS3/8JXwUT14IGb6gtaueH2/EYgpsLjSOeAT9u2CqZ0R",
-                "mac": "6hMBMrYiS73kfzLejHN1+g=="
+                "orig": "We just shouldn't lose hope...",
+                "text": "Nous devons pas perdre espoir..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/35/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/36/message": {
-                "ciphertext": "j9J3Y9ueoFmSYaOIjTPubA==",
-                "mac": "piLyOGgCu8HssIUJzf93cw=="
+                "orig": "....Lea?",
+                "text": "....Lea ?"
         },
         "maps/arid/forest-1.json/entities/560/settings/event/45/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/47/message": {
-                "ciphertext": "/PYlhJfEsefyGIICQ0VHIQ==",
-                "mac": "TpeLlLfmY9/uwrUXDQkSIg=="
+                "orig": "... Oh...",
+                "text": "... Oh..."
         },
         "maps/arid/forest-1.json/entities/560/settings/event/48/message": {
-                "ciphertext": "wkp9A3XFog/n799FdxT8qg==",
-                "mac": "tCKGY374OCbnoIxtibN1fw=="
-        },
-        "maps/arid/forest-1.json/entities/561/settings/event/14/elseStep/0/message": {
-                "ciphertext": "WvZEVtQR20x/5ktJZtT8H4pNCpiwTgU37TouNk0ACXhy1qJWbVtdFZk79I/7rnpvn+sMSXmaclpwFvvAaRMwZhvQd3A1xqE4zAwYikQFPyaCafyTTW/p3qEVXgKrxGMpRJoU6LMvvlUU3LRyP+KNQA==",
-                "mac": "YNdIlGg7IiCA4MMSVKaR0A=="
-        },
-        "maps/arid/forest-1.json/entities/561/settings/event/14/thenStep/0/message": {
-                "ciphertext": "aPdAfFCMQ0hVLD+mDAlUvJVm/SWOT4vxDjqQtqyBFxb4E6UCPLSaGueu5Qx9xh/n2bWPTCR0PoM+2G3iFpL2s0uV8homnW13S3l0L10HOrxXXVp4XMQhkJbcfc9Yv3vpEZ7O6xAh8CePokwq/SXr9w==",
-                "mac": "1cBVVZFIxtWQJl1u80Twig=="
-        },
-        "maps/arid/forest-1.json/entities/561/settings/event/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/arid/forest-1.json/entities/561/settings/event/16/message": {
-                "ciphertext": "+TTBiIYHS8wJgh//PwxAQZvzZFT3emiUF88vJayr0niIEX2XgAT8fgzeOlyD/3fwMCl8BymlYZTKvdLI0NDPf3+lqNZQkkk3p5UnOjFOiMGSZwDAzO7+3BXmt8m3YRei",
-                "mac": "odOFgLzIbMZChu77Oydo2A=="
+                "orig": "Oh Junge...",
+                "text": "Oh, Junge..."
         },
         "maps/arid/forest-1.json/entities/561/settings/event/6/message": {
-                "ciphertext": "Y9ov1vJWugomgZEAe7Nb6QdGGet6C18CKBVEiaUtBpzIjjRIVV/yBPCnoDPU7PWf",
-                "mac": "GxW6ce6mB4kziyj2MAAfig=="
+                "orig": "Here we are. For real this time.",
+                "text": "Nous y voilà. Pour de vrai cette fois."
         },
         "maps/arid/forest-1.json/entities/561/settings/event/7/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/forest-1.json/entities/561/settings/event/14/thenStep/0/message": {
+                "orig": "They might throw another high level enemy at us, so I'll be counting on your support in that case.",
+                "text": "Ils vont probablement nous mettre un autre ennemi de haut niveau, donc je compterais sur toi pour m'aider."
+        },
+        "maps/arid/forest-1.json/entities/561/settings/event/14/elseStep/0/message": {
+                "orig": "They might throw another high level enemy at us, so better keep your guard up.",
+                "text": "Ils vont peut-être nous balancer un autre ennemi de niveau élevé, donc reste bien sur tes gardes."
+        },
+        "maps/arid/forest-1.json/entities/561/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arid/forest-1.json/entities/561/settings/event/16/message": {
+                "orig": "Can't wait to see what kind of room they'll show us this time.",
+                "text": "J'ai vraiment hâte de savoir quel genre de salle ils vont nous sortir cette fois."
         },
         "maps/arid/forest-1.json/entities/568/settings/event/0/message": {
-                "ciphertext": "iNZy2pG8PxjX6cjcQDclUZKKxLmVSL9uUGBvfhNtgDs=",
-                "mac": "FKc71Y86w5iCRMdFWZOnJQ=="
+                "orig": "Secret laser bridge!! Yaay!",
+                "text": "Un Pont Laser secret !! Yaay !"
         },
         "maps/arid/forest-1.json/entities/570/settings/dialog/0/text": {
-                "ciphertext": "mTnbxcDdpj0vDfnxkzUeuqT91XeeAOp86/HH1Vl8dZc=",
-                "mac": "D+xI5K24rK5xCUV0iWRmRA=="
+                "orig": "Must leave...",
+                "text": "Je dois partir..."
         },
         "maps/arid/forest-1.json/entities/570/settings/dialog/1/text": {
-                "ciphertext": "DP9dtkYROcix/TUnnPo/4w==",
-                "mac": "W7CZqBM9/p04aGOfm+h37Q=="
+                "orig": "Leave...",
+                "text": "Partir..."
         },
         "maps/arid/forest-1.json/entities/570/settings/dialog/2/text": {
-                "ciphertext": "YWooFykOMb547RyZfMVZgfzoe9gNAntbVZLrw8Ujtzk=",
-                "mac": "HIcezVlMpmuVAeYZV73NLw=="
+                "orig": "Please let me leave...",
+                "text": "Laissez-moi partir..."
         }
 }

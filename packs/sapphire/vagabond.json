@@ -1,334 +1,334 @@
 {
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/0/name": {
-                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
-                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/10/message": {
-                "ciphertext": "pSYCpSD80QWpL+YXYHuZtQXzHU56YZzHXDUAzswdr2mMgrkbxXgTvSjMJMLtwkO8KjOyj/GN6WQBemRzpac9QyMOQ55inltR87t7/wYfyZLcSxKlP6Rm3yCA46vEgV8v",
-                "mac": "qiVRHnm0rGBKsK7VmreBGA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/13/message": {
-                "ciphertext": "Df2mxITFRrUvFP8s7FGV69VCwGbbN2IfHtPsYoDgplHUV599xWSEuJvkNb0mGl3AfsF+3fS0/bHmL4Vo6cwSfg==",
-                "mac": "DJhGiHX6f+25vUjxx43PKA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/14/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "Vagabond",
+                "text": "Vagabond"
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/2/message": {
-                "ciphertext": "WXWbZvNIFl60hDwxer9HaRdTvlI48dCWf1HGGtpjZPzwvmo7EGGmZPkgykCgRntcZzF5axQg8bV/PP0Ef0UT4m4OTCEGzB7swg+MvebkUog=",
-                "mac": "KhFXvmOKWd9YZ3Mmuv2v7g=="
+                "orig": "Four by the number, the trials can be a found in Sapphire Ridge.",
+                "text": "Les épreuves, 4 de par leur nombre, se trouvent sur la \\v[area.forest.name]."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/3/message": {
-                "ciphertext": "o9UiqiZFyaZUxfR2MYPRouuBRTAvisZgPnfcw/TbmXjonrJRqlr8wVYd9bhcNcDPlLSdNR3Nu7DUubeJChEHgpeoWI6AB1p6pvtEzw+Ufg4=",
-                "mac": "I3eKhXa6oD4F9u0L2tXwdA=="
+                "orig": "Each one guarded by a \\c[3]golden bug, holding a lantern\\c[0].",
+                "text": "Chacune est gardée par un \\c[3]Scarabée d'Or, tenant une lanterne\\c[0]."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/4/message": {
-                "ciphertext": "5PjVoge4GeZQ6lWi83UXMFVX3soEQBwbX8YHJ94NQJN10sxWz/a9GK2n7Nvf02/mJg3lJlF2EoDxzPfqczBciZ4FRrQlkItbHTY7G+qsaMyRPu9VD8vJCYfuXRh5/R+nZrU5ets2YZE1DP+5IBWNGg==",
-                "mac": "U4z5yo+4pDgGmZQStZu79A=="
+                "orig": "And each one testing you with a trial. Only those who overcome them may move forward.\n",
+                "text": "Et chacun d'entre eux vous testera avec une épreuve. Seul ceux qui les maitriseront pourront avancer."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/6/message": {
-                "ciphertext": "8CnSpgAyyykdEe62sLtzPkECe+9Ds+L1OipSlTwQZaRIANkAIsdVXg7G8o7Mp6qVfwoWtxmO4ojkE9YyzV9yIeD+2T1Ot/2MEtey3+UTZRx6RjSjLNVecD09EFt67p4UJ0tyUdWL2apVNbf68wa4f9ve2l5cNZ8mOnXLDEnIIYDJR9Btl7vMa+ckUWJXdnMNQlv9XM7wFBusQQm+hLr7OXmkKdq9aCEqBcZp5ES5iUT3dio1Q9UVBkq9yC3UNYvX",
-                "mac": "jxMcY8S9ivMs+VWkDu1Igg=="
+                "orig": "The first is the \\c[3]Trial of Vigor\\c[0]. It can be found in the \\c[3]Nesting Grounds\\c[0], an easily missed cave north of the \\c[3]Eroded Passage\\c[0].",
+                "text": "Le premier est l'\\c[3]Épreuve de Vigueur\\c[0]. Vous le trouverez dans les \\c[3]Terres de Pontes\\c[0], une grotte que l'on rate facilement au nord du \\c[3]Passage Érodé\\c[0]."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/7/message": {
-                "ciphertext": "6FQOZQUNIxBSo1pUh/dvgR2fFOBnfE47/k7xCciZSJ61CtQizI6Q19eende5haAHGKx9ZQkcqI/qy4KoFvDftiVSCwETmKqQGpRjYolxvuzUNKXZ0r7TsrqICEdCz3iTuzVolccLa5cdA50UZUNV6g==",
-                "mac": "ZicGdWTgA56Z46sc12MulA=="
+                "orig": "The second is to be completed at the \\c[3]Flower Lake\\c[0] and is called the \\c[3]Trial of Patience\\c[0].",
+                "text": "Le second doit être réussi au \\c[3]Lac Fleuri\\c[0] et s'appelle l'\\c[3]Épreuve de Patience\\c[0]."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/8/message": {
-                "ciphertext": "OgOhXaantPRVkMiTJyL9dAXYbopEOd/HXqnZ17KFiTm2pUyKkhnBOVjy7VX5+LnG1qOAMVNLl7NFxkQFrbyII+1j7mWvMNkmDagbjbsPvqjyOiKKlxnSPPoRG3U0XOmj45mIh+wsGyap9nvrcV0Loep0PJDxWN0PRE5kp0ncl+4=",
-                "mac": "o9Gmf5boGPfsh7+YYDdNew=="
+                "orig": "The third goes by the name \\c[3]Trial of Agility\\c[0] and is found at \\c[3]Carved Pathway\\c[0].",
+                "text": "Le troisième est l'\\c[3]Épreuve d'Agilité\\c[0] et se trouve au \\c[3]\\v[area.forest.landmark.name.upper]\\c[0]."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/9/message": {
-                "ciphertext": "FvxSYqoC9aKiA6YBEJcQ5jqMpo5NQUDoBkdEqLh7kmCD6eeatjIgmSOWNUFGRRzSLOrqojR9ciipihdhgnWDXhrtlrgAXi0WzLk9gyXYovwPznEKzu2w9NYH9EQdQk+4zQMkCno2uVIFK5Hmw/ogWOA9rS/+rfwCMJPfnRhw32Y=",
-                "mac": "docBt3AyV/1/KuFggOHfPA=="
+                "orig": "And the last is not far from here by the \\c[3]Bamboo Thicket\\c[0] and is called the \\c[3]Trial of Insight\\c[0].",
+                "text": "Et le dernier n'est pas loin d'ici, dans le \\c[3]Brousse aux Bambous\\c[0] et s'appelle l'\\c[3]Épreuve de Perspicacité\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/10/message": {
+                "orig": "Once all trials are completed, you shall return to me. Understood?",
+                "text": "Quand toutes les épreuves seront réussies, vous devrez revenir me voir. Compris ?"
+        },
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/13/message": {
+                "orig": "Good. Stay ever vigilant, Seeker.",
+                "text": "Bien. Restez toujours vigilant, \\v[lore.title.seeker]."
+        },
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/1/event/14/message": {
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/0/name": {
-                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
-                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/11/object": {
-                "ciphertext": "ID2GOJwn1nSap9Zc5dvH6eMv4h96LFb8gB4OyWVXbfI=",
-                "mac": "/Gwnx/ZXroteYOwtf8iclQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/13/name": {
-                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
-                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/15/message": {
-                "ciphertext": "GLCHiNQRcw14cLGlrIIdHiE6QK4QFO2uKtLStgZ0d+s/lILlcwHiYoqCJ/kRWNC33iSt8Ie5IVKJKtyUGckFBGZrLCnayxQCPDLUu5d9VCRA4kGAmXuY1quuREJ3cQxVYGHYQSg+jt+4+RKSfp3H2hHdiYhAHex6vJKd+x+kY8fho8RsfUOqARE/6vs5REkE",
-                "mac": "qHIDu6Zva1Ath5Tow0qFuw=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/16/message": {
-                "ciphertext": "c6a+KNUQAna105rATwFl8o3EY3BPYGV2/OYoJG71XQs4wDK7TTpCxa8mIsI7A5UVSgt9YOm7mIrp8ilTAG9znzj1r4WFalPdw7kWtyOMtA3dRsiJhAzyXsy8TxyV7e8mvjN01DAXqe9bb4F6GOpAS5ijdw2bTSrMEjNdFz4DH0c=",
-                "mac": "+k6USpnzqpUIQ2SZROnybA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/17/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/18/message": {
-                "ciphertext": "bkcmH8V9+uUAdppSLGdkp+XqZYv5OoWqlFXeOjCSHVPGmudFwoyC9VuP5Zd4PAInwNO1KlZ9hTrVeQMdED8L8756EuL5KWClfPcXaSjiaMI=",
-                "mac": "46js5xCOnZ3jfIniFLWKpQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/19/message": {
-                "ciphertext": "P59DaEbZPcOwBpOABn74pW+GbAcrrUr4GHi0+In0K12X4NQwRdYH9nwtT8g+TMZ0uRkuPUptdqEO5T3wgtDSsOnCypdF6eoqTHUpnaIh+GS+sIayJrn3pjoXuVgonmsQ",
-                "mac": "i0ce0lMlmgTv7YZ9m6u31w=="
+                "orig": "Vagabond",
+                "text": "Vagabond"
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/2/message": {
-                "ciphertext": "JMOGrZGNlAQynsL8VQ2pL6wvsSE4eKpOYS+kz5wpPkk=",
-                "mac": "azNNg7KHk7F70cwbhV3kBQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/20/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/21/message": {
-                "ciphertext": "4hVrXdsea8D3vlIMmgnC6WYC8KMw21ZDoYTXRONvzF8V/jS6Y+4Xg+6xO0Fz2KWS/9hUiHK9aAWdkowMgnkHpA==",
-                "mac": "LjmquJr8hu9bTLJOFJFVig=="
-        },
-        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/22/message": {
-                "ciphertext": "1TuhJOOSYAHoqBC1ffu+SsPpaFSEbhQKw42jbWDANbEdNzqKMuplYmfR6z4a6z0zLhjriEn50r7Wbr2zDhDylw==",
-                "mac": "oRh2KQLGdQmiHS88iFIvnQ=="
+                "orig": "Seeker...",
+                "text": "\\v[lore.title.seeker]..."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/3/message": {
-                "ciphertext": "5Meg+Uiq7/+xrSsOyejfZcIyMF0z5CpDe2eukthp5KlN0Mehd7hsIe/IJ1Ce825UwPA36j6526pYMWXPwIp3PXwdSqCdX6z0hO1QeubeStpN0SkNG7+ckMpdyCBragVv",
-                "mac": "sRah3TmA3cKf/DsHHWh91w=="
+                "orig": "I have been expecting you. The golden guardians of the Ridge have whispered of your feats.",
+                "text": "Je m'attendais à vous voir. Les gardiens dorés de la Crête ont narré vos exploits."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/5/message": {
-                "ciphertext": "ShGhdytk9Thkl60P225wJg==",
-                "mac": "wcCfWqXKs7gl/aVM0mOV+A=="
+                "orig": "However...",
+                "text": "Mais..."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/6/message": {
-                "ciphertext": "zFBvmrIjZNbYWol9xeiwJqatkd1tthhfs1xbpio1sD1wn0cj9X5NAdWH6ROXcKX8j1W346Qzj11s8D+mUMXbXA==",
-                "mac": "yPa1tt9O4LL7mMMLvuYFnA=="
+                "orig": "You have yet to complete one final trial. ",
+                "text": "... Il vous reste encore à accomplir une dernière épreuve."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/7/message": {
-                "ciphertext": "Lkfq+TotDleJga3rXytd/g==",
-                "mac": "94hdT/37sHs+uvLzTGDfag=="
+                "orig": "...How?",
+                "text": "... Comment ?"
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/8/message": {
-                "ciphertext": "pcKYqVPL7F5+X+8KEVC0Vg==",
-                "mac": "y1uG27DaRLFq6PUQbvQs0g=="
+                "orig": "It is simple.",
+                "text": "C'est simple."
         },
         "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/9/message": {
-                "ciphertext": "vBHPw1QIJYuLRTD2rsDPGkYoeeYtFWoS4lvzxZtJsgs=",
-                "mac": "VjnzmJZi+UKTRmaMq/dsTg=="
+                "orig": "Take this key.",
+                "text": "Prenez cette clef."
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/12/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/11/object": {
+                "orig": "\\v[item.439.name]",
+                "text": "\\v[item.439.name]"
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/13/message": {
-                "ciphertext": "978/HQq1/hD3ie73kNNgTderPOApJmabO6rkSurvUJI=",
-                "mac": "Q40Bd6i5Y6oszwdx9GZl7g=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/13/name": {
+                "orig": "Vagabond",
+                "text": "Vagabond"
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/14/message": {
-                "ciphertext": "lSiKodVQFZrg9akhB4Q1wOgGnrp2bMN5HEx2y4rkd+6yNx3W37++6BaowR+jxeSKoVweXVCIpJXXN7SWhrRDAc1ruvJutIQjvy6qbYPyn5RvlwXsmGY7GzlriLRu5LlPOIUK/V0Upb/232sNQ0iZJg==",
-                "mac": "tn6rrMdAc1rwa1wHlhTV6g=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/15/message": {
+                "orig": "This will grant you access to a long forgotten \\c[3]Dojo\\c[0] hidden in the \\c[3]north-east of \\v[area.forest.name]\\c[0].",
+                "text": "Elle vous donnera accès à un \\c[3]Dojo\\c[0] oublié depuis longtemps, caché dans le \\c[3]nord-est de la \\v[area.forest.name]\\c[0]."
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/16/message": {
+                "orig": "There your \\c[3]last trial\\c[0] shall begin and we will see if you are \\c[3]worthy of the shade\\c[0].",
+                "text": "C'est ici que votre \\c[3]dernière épreuve\\c[0] aura lieu et que nous verrons si vous êtes \\c[3]digne du symbole\\c[0]."
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/16/message": {
-                "ciphertext": "6F4nFworHDqKV47pJAqbae2ToGrmPrFWFC9Din39FiyuA1RcR+jDqn1aMIbz5JIxuTIHBeV0985jzMPHI++kJK0pR9NZP4Npxtr6E5/Y/U+irV3ThZX5st9JrxAln2SoOZDT1NyDLmfLeQ3q7YDlkQ==",
-                "mac": "7hOEe+ky5M0UcazKCqRrNg=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/17/message": {
+                "orig": "...!",
+                "text": "... !"
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/17/message": {
-                "ciphertext": "HNK6w01QWSbf0OUbabOstYJztKthZ9tUFcspcomYjPOvezIfSjm2hC0FTOiTtduIN2sc8UesSP48pITL1ZnwU1l/7McraLPxJlNqNlEg6OQ=",
-                "mac": "jIg4UzzQ5zb6TuzY8yDUEA=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/18/message": {
+                "orig": "I can see the determination glowing in your eyes, Seeker.",
+                "text": "Je peux voir la détermination briller dans vos yeux, \\v[lore.title.seeker]."
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/18/message": {
-                "ciphertext": "O8IAHuNSLtBLtzW/x06jCQ==",
-                "mac": "VaMoXzPKsY49CwyiO1+6yw=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/19/message": {
+                "orig": "Don't let it burn you. Remember what you learned and act wisely.",
+                "text": "Ne la laissez pas vous consumer. Souvenez-vous de ce que vous avez appris et agissez sagement."
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/19/message": {
-                "ciphertext": "DzI24x4Rr/ppW67XsMTrrQHQ4ru7n6ZRZEjI/LaXhY0Ym/BFveXo0PDl+Y36Wbu3IFOH4cvIH6vAcKucWmqma72joSCvY1goxMCVx1pmgRmFUuWSzqz/fT4Uc1kyd0Tr5XNPyMHS/EQUtE8QWnjg3se9oXxVDTi9o6qEE8I4Hwc=",
-                "mac": "cYs4yQ+eamsCjN7EEwbATg=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/20/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/20/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/21/message": {
+                "orig": "Good. Now go, I will meet you at the Dojo.",
+                "text": "Bien. Maintenant, partez, je vous rencontrerais au Dojo."
         },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/1/message": {
-                "ciphertext": "hp+6XXlS9440hPqTh5kfxvRoT8Y5xX9pMqNB+DjLFZdnbaNZSHSSKiwj5SU1LWHHiVNd0dYivhzCz5CiD7pRa2hNAe3NwEcICLkKcv3BCl4=",
-                "mac": "9ZESChnIleg4K4uFnIY4UA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/11/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/12/message": {
-                "ciphertext": "Df2mxITFRrUvFP8s7FGV69VCwGbbN2IfHtPsYoDgplHUV599xWSEuJvkNb0mGl3AfsF+3fS0/bHmL4Vo6cwSfg==",
-                "mac": "DJhGiHX6f+25vUjxx43PKA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/13/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/16/task": {
-                "ciphertext": "tzxqp7YbjG3/+iDkX5vGRVNOh7FEHqkOXpy1oLNQ5oQL8TISpkL53iE0crL3MjXlRJiwpqXK2pj2GJAaG8CP3A==",
-                "mac": "F1+8O6jUrqVa8ocd4mMJ7g=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/0/message": {
-                "ciphertext": "cZ3KPR6RkBMDXOLZtmT7nAk5w0NGV9QAtORtdW3daSKmBzyLV7GIPEH7r/A8+ynodxB1dWMYvXOC7aUxA0BwJOLgLZNjlzpVa5W+1Ee5252jVdxMTTkiCbDmIT58iemD",
-                "mac": "UpCx3OSYNreqSud7TB+csg=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "TA3+KxZ7pgP7Q2XLYyyMQsklc2jSOumWNfy/ns1X1qSHmKxgtuayste1Yn29FrqzWX4Q3oadqSCY0/ydg+n5Ro7KilhHelOti1gZq7fl1JPSP/8tW8s6OU2XE8QfKuUuZJgNR1XdAJfSHINEXe2CiQ==",
-                "mac": "l0aLnu1KdZ0vF7CoOdYC/g=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/elseStep/0/thenStep/1/message": {
-                "ciphertext": "BPllUN/WJhT5Lu6jKVH8N/WhKgLmsOAg7JY61AOlQ18=",
-                "mac": "e3zZ/fLmPe0wJb0tZbxHqw=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/thenStep/0/message": {
-                "ciphertext": "W59QhA+NsBh8etceph2d88eQgI5HMUgpx5+QUsCm0DxwGvuCH2KiRwPWiUSRd0IVbgjVrYQPnIaD8numnCrm/DHRINEn4osoAxKbyH3mGr8=",
-                "mac": "C4Hj328tpJ2GFKuPxg/uAA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/thenStep/1/message": {
-                "ciphertext": "z/+9qph2llO5icaDASUB4wUEBLej2UGzJWOfK61iz0A=",
-                "mac": "yM8qzHndWBDyJ6eplqopNQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/thenStep/0/message": {
-                "ciphertext": "B+7sMOK5wvlXqMst4De0K3+E7+zLuYnCIBO5Lqfnlr5KN6rIL7E64uGNhhigCNGg2Nhzpodo6RzFFaoAH8QK3g==",
-                "mac": "c3Im6SmxqMbsb0tRcDBe9Q=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/thenStep/1/message": {
-                "ciphertext": "GN7zN0+Y9zeasQ03nBBNegEj6XuMw/aoXW3hhWUuO93BaAPcqQHtjKYrF3CAsVgEXVfjnIvZcM8Klo1EVyjlSQ==",
-                "mac": "bDCEMl0CxBq1o9IuPv8rhQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/2/message": {
-                "ciphertext": "o9UiqiZFyaZUxfR2MYPRouuBRTAvisZgPnfcw/TbmXjonrJRqlr8wVYd9bhcNcDPlLSdNR3Nu7DUubeJChEHgpeoWI6AB1p6pvtEzw+Ufg4=",
-                "mac": "I3eKhXa6oD4F9u0L2tXwdA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/3/message": {
-                "ciphertext": "5PjVoge4GeZQ6lWi83UXMFVX3soEQBwbX8YHJ94NQJN10sxWz/a9GK2n7Nvf02/mJg3lJlF2EoDxzPfqczBciZ4FRrQlkItbHTY7G+qsaMyRPu9VD8vJCYfuXRh5/R+nZrU5ets2YZE1DP+5IBWNGg==",
-                "mac": "U4z5yo+4pDgGmZQStZu79A=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/5/message": {
-                "ciphertext": "8CnSpgAyyykdEe62sLtzPkECe+9Ds+L1OipSlTwQZaRIANkAIsdVXg7G8o7Mp6qVfwoWtxmO4ojkE9YyzV9yIeD+2T1Ot/2MEtey3+UTZRx6RjSjLNVecD09EFt67p4UJ0tyUdWL2apVNbf68wa4f9ve2l5cNZ8mOnXLDEnIIYDJR9Btl7vMa+ckUWJXdnMNQlv9XM7wFBusQQm+hLr7OXmkKdq9aCEqBcZp5ES5iUT3dio1Q9UVBkq9yC3UNYvX",
-                "mac": "jxMcY8S9ivMs+VWkDu1Igg=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/6/message": {
-                "ciphertext": "6FQOZQUNIxBSo1pUh/dvgR2fFOBnfE47/k7xCciZSJ61CtQizI6Q19eende5haAHGKx9ZQkcqI/qy4KoFvDftiVSCwETmKqQGpRjYolxvuzUNKXZ0r7TsrqICEdCz3iTuzVolccLa5cdA50UZUNV6g==",
-                "mac": "ZicGdWTgA56Z46sc12MulA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/7/message": {
-                "ciphertext": "qZjvVWm1ldHBIjp91APSRlXYIuuioTQ38NZk/+1q0ROju6itOS+e89eT5qNzLkVZrHY7vmul6Tlwd4xNYgZ+u1JcSI1z/e0sgWYYJ3GLo3HSWRjsIoBrNl3MOUH3N0ivBnVttEMqf4m+Efjb8AqtiONpxTRFdQMVgyPqup5xxn8=",
-                "mac": "W95dYJH3K0KBVrwnlEGOYA=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/8/message": {
-                "ciphertext": "FvxSYqoC9aKiA6YBEJcQ5jqMpo5NQUDoBkdEqLh7kmA67FJ5fBmqxJVNvgzqIrw+C9pJEXGXZiU/Ot65KD4+5SPwrKDJJNLRs/k54toS8qhGhm1ut6x4uELtZT7Vbv8y2LyGshgGWb+n15xikWFCVhHtbKzAg8XgnFc3chsSvU0=",
-                "mac": "U4ZxI1Z9eVdmB8bc/L2rCw=="
-        },
-        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/9/message": {
-                "ciphertext": "pSYCpSD80QWpL+YXYHuZtQXzHU56YZzHXDUAzswdr2mMgrkbxXgTvSjMJMLtwkO8KjOyj/GN6WQBemRzpac9QyMOQ55inltR87t7/wYfyZLcSxKlP6Rm3yCA46vEgV8v",
-                "mac": "qiVRHnm0rGBKsK7VmreBGA=="
+        "maps/forest/path-04-vaga.json/entities/384/settings/npcStates/2/event/quest/22/message": {
+                "orig": "Stay ever vigilant, Seeker.",
+                "text": "Restez toujours vigilant, \\v[lore.title.seeker]."
         },
         "maps/forest/path-04-vaga.json/entities/385/settings/event/3/name": {
-                "ciphertext": "tqOoto19V1/FBmK8Zs4tUw==",
-                "mac": "OaPU7Lsn5FSwiTIQ/GoYKw=="
+                "orig": "Vagabond",
+                "text": "Vagabond"
         },
         "maps/forest/path-04-vaga.json/entities/385/settings/event/5/message": {
-                "ciphertext": "ar6TqOZ39nrRsKwal0UgBJNPhkrz8tQt89cD24sUIoR6mCE2ist+udZxj7jLYmmn3xsHQ9PI6HfpkqW+FJk2r8bDF0luoKYthen4YVrAiJ+ZqJm/8jWrMHHJf8k7+7G7",
-                "mac": "Uqf0pk2sUq4gAR91wNTk2g=="
+                "orig": "It has been a while since a Seeker visited me.",
+                "text": "Cela fait depuis longtemps qu'un \\v[lore.title.seeker] n'était pas venu me voir."
         },
         "maps/forest/path-04-vaga.json/entities/385/settings/event/6/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/forest/path-04-vaga.json/entities/385/settings/event/7/message": {
-                "ciphertext": "2ag44uFDuOEgabNWK2J1KV3psQVwXT1bpEGz+ov8rnqRhKRyMQonR/2aRFlp6HZnckLLH5kQLo8pQlBrHmWC2FB9uCzVJoGVK1IijkhVnCP/GHEzc3LqEdvW0MOoMweRKLFeLOldiEmyOflLYZ+ndQ==",
-                "mac": "7X7sjlZnTPawofMm+BQa6A=="
+                "orig": "Most gave up by this point, not capable of handling the power they've been given.",
+                "text": "La plupart d'entre eux ont abandonnés à ce point-là, incapable de maitriser le pouvoir qu'ils ont reçu."
         },
         "maps/forest/path-04-vaga.json/entities/385/settings/event/8/message": {
-                "ciphertext": "Gq1/9hKf/iRs/FGeRDvW1gkmRgCJZuO+kDEVFT84cUgblZyPj95gRghuoPVPsL1dmNED1LjbvG9HdEhditnZ+A==",
-                "mac": "T5iSAVOjIvJBrr8ieUfOMQ=="
+                "orig": "Are you any different, Seeker?",
+                "text": "Êtes-vous différent d'eux, \\v[lore.title.seeker] ?"
         },
         "maps/forest/path-04-vaga.json/entities/385/settings/event/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/12/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/13/message": {
+                "orig": "Well, it shall remain to be seen.",
+                "text": "Eh bien, cela reste à voir."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/14/message": {
+                "orig": "I know what you came here for. It's the \\c[3]last shade\\c[0] you seek, correct?",
+                "text": "Je sais ce pourquoi vous êtes venu ici. C'est le \\c[3]dernier symbole\\c[0] que vous cherchez, pas vrai ?"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/16/message": {
+                "orig": "I'm merely a simple man, but I was blessed with the task to help any soul that needs guidance.",
+                "text": "Je ne suis qu'un simple homme, mais j'ai été gratifié de la tâche d'aider tout âme cherchant son chemin."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/17/message": {
+                "orig": "So, if it is the shade you seek, 4 trials you must pass.",
+                "text": "Donc si c'est le symbole que vous cherchez, vous devrez réussir 4 épreuves."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/18/message": {
+                "orig": "...Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/19/message": {
+                "orig": "Why, to \\c[3]unlock a path\\c[0]. One that shall be revealed once you have completed them all.",
+                "text": "Pourquoi ? Pour \\c[3]débloquer un chemin\\c[0]. Un qui ne sera révélé que quand vous aurez terminé toutes les épreuves."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/20/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/1/message": {
+                "orig": "Four by the number, the trials can be found in Sapphire Ridge.",
+                "text": "Les épreuves, 4 de par leur nombre, se trouvent sur la \\v[area.forest.name]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/2/message": {
+                "orig": "Each one guarded by a \\c[3]golden bug, holding a lantern\\c[0].",
+                "text": "Chacune est gardée par un \\c[3]Scarabée d'Or, tenant une lanterne\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/3/message": {
+                "orig": "And each one testing you with a trial. Only those who overcome them may move forward.\n",
+                "text": "Et chacun d'entre eux vous testera avec une épreuve. Seul ceux qui les maitriseront pourront avancer."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/4/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/5/message": {
+                "orig": "The first is the \\c[3]Trial of Vigor\\c[0]. It can be found in the \\c[3]Nesting Grounds\\c[0], an easily missed cave north of the \\c[3]Eroded Passage\\c[0].",
+                "text": "Le premier est l'\\c[3]Épreuve de Vigueur\\c[0]. Vous le trouverez dans les \\c[3]Terres de Pontes\\c[0], une grotte que l'on rate facilement au nord du \\c[3]Passage Érodé\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/6/message": {
+                "orig": "The second is to be completed at the \\c[3]Flower Lake\\c[0] and is called the \\c[3]Trial of Patience\\c[0].",
+                "text": "Le second doit être réussi au \\c[3]Lac Fleuri\\c[0] et s'appelle l'\\c[3]Épreuve de Patience\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/7/message": {
+                "orig": "The third goes by the name \\c[3]Trial of Agility\\c[0] and is found in the \\c[3]Carved Pathway\\c[0].",
+                "text": "Le troisième est l'\\c[3]Épreuve d'Agilité\\c[0] et se trouve au \\c[3]\\v[area.forest.landmark.name.upper]\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/8/message": {
+                "orig": "And the last is not far from here by the \\c[3]Bamboo Thicket\\c[0] and is called the \\c[3]Trial of Insight\\c[0].",
+                "text": "Et le dernier n'est pas loin d'ici, dans la \\c[3]Brousse aux Bambous\\c[0] et s'appelle l'\\c[3]Épreuve de Perspicacité\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/9/message": {
+                "orig": "Once all trials are completed, you shall return to me. Understood?",
+                "text": "Quand toutes les épreuves seront réussies, vous devrez revenir me voir. Compris ?"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/12/message": {
+                "orig": "Good. Stay ever vigilant, Seeker.",
+                "text": "Bien. Restez toujours vigilant, \\v[lore.title.seeker]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/13/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/16/task": {
+                "orig": "Solve the quest \\c[3]Trials of the Golden Bugs\\c[0].",
+                "text": "Résolvez la quête \\c[3]Épreuves des Scarabées d'Or\\c[0]."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/0/message": {
+                "orig": "Four... four \\c[3]golden bugs\\c[0], he says. I really don't like where this is going...",
+                "text": "Quatre... quatre \\c[3]scarabées d'or\\c[0], qu'il dit. Je sens que je ne vais pas aimer ça..."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/thenStep/0/message": {
+                "orig": "M-Maybe they're friendly bugs?",
+                "text": "P-Peut-être que ce sont de gentils scarabées ?"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/thenStep/1/message": {
+                "orig": "There can be no friendly bugs, Tronny. Never.",
+                "text": "Il ne peut pas y avoir de gentils scarabées, Tronny. Jamais."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/thenStep/0/message": {
+                "orig": "I can see how these trials will prove quite the challenge for you, Pentafist.",
+                "text": "Je peux voir que ces épreuves seront pour toi un véritable défi, Pentafist."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/thenStep/1/message": {
+                "orig": "Shut your mouth, Grasshead!",
+                "text": "Tais-toi, Tête d'Herbe !"
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Come on, Emilie. I know bugs are horrible, but I'm sure you can take it.",
+                "text": "Aller, Emilie. Je sais que les scarabées sont horribles, mais je suis sûr que tu vas y arriver."
+        },
+        "maps/forest/path-04-vaga.json/entities/385/settings/event/21/accepted/17/thenStep/1/elseStep/0/elseStep/0/thenStep/1/message": {
+                "orig": "Look, it's complicated....",
+                "text": "C'est que, c'est compliqué..."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/15/message": {
-                "ciphertext": "/z+6/dZSg4idlFgfvNvTwAZPC1MNkg1zCofCCUTGCDWVRGYTEBKi9RRIDpZwJd+ZaZGD0tGde4gABXHJdjjjOA==",
-                "mac": "t5CLKafZ6a69Oo8kQW/QXw=="
+                "orig": "Sapphire Ridge, man...\\. Good times.",
+                "text": "Ah, la \\v[area.forest.name]...\\. C'était le bon temps."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/16/message": {
-                "ciphertext": "H0nuYI0bFAYdbARlENjphHJxNZBp44sBj1kQi3SldgBwUn9+hEdS1l0hwuOCVHVl",
-                "mac": "rLqM3Rx3JSiPk2g9Ofbp0Q=="
+                "orig": "I played this part together with Lukas.",
+                "text": "J'ai joué cette partie avec Lukas."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/17/message": {
-                "ciphertext": "wV5oK1tmE9E6+9E5GZxdoZDQpI6DxTjtUx8xc21OS2i/SfIeSRYSNreE2tk6wKwk",
-                "mac": "VMhal97wbDv3D/2xz9cn/w=="
+                "orig": "The Trial of Patience was the best.",
+                "text": "L'Épreuve de patience était la meilleure."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/18/message": {
-                "ciphertext": "w991fsc7GvlJ4NBp0nKGqEWFx7vN3mnL5c3bp45FBSvwL1mbLA2FAIgsPXBKL43ryFDuxfGLfxvTj+mpECatIMk4oBrVT6rdTyF7apNSEhcs7xjHY3gdOzjnX8tbWLnM",
-                "mac": "I2ZVYME49hJDLAFjJ2MAog=="
+                "orig": "We did the challenge in parallel and I just kept miscounting on purpose.",
+                "text": "Tous les deux on a fait l'épreuve en parallèle et je faisais exprès de mal compter."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/19/message": {
-                "ciphertext": "rfwMsDpHBq5altJrBkVLCLlntdz/rmI5sypvAGTpQaWidCBPpd/xJe/61u1oOBtF",
-                "mac": "9gRbzXRqKQtEdkC/OQJnMw=="
+                "orig": "Lukas failed it like 3 times!",
+                "text": "Lukas l'a raté genre trois fois !"
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/20/message": {
-                "ciphertext": "TA2wwRC3odw2MhnZbttL7A==",
-                "mac": "/ZxkoaGyNdXDZ9w8T1pdOQ=="
+                "orig": "Nyeahahahaha!",
+                "text": "Nyeahahahaha !"
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/21/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/22/message": {
-                "ciphertext": "eu5xK/MyIk4u5sZ6FSN+Gw==",
-                "mac": "InnWQsxtRH7r3X1iloYDjQ=="
+                "orig": "That's funny.",
+                "text": "C'est marrant."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/23/message": {
-                "ciphertext": "vm2nvGnXw0ZDmQ6QftVUbhBedAVg2ZkSMeHN0BMTUQDwJy3SnLFOjsG+r0mPkt3k6IYWMigGdgjZ+na3DDhI8MOuCWA8JQ90gE5UrjMewPQ=",
-                "mac": "7HDOkB+pTY5zJkQtC6EJNw=="
+                "orig": "Well...\\. He finally did it on his fourth attempt.",
+                "text": "Oui bon...\\. Il a finalement réussi à sa quatrième tentative."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/24/message": {
-                "ciphertext": "18LjcrVew7x9ESB4fgbCNuxvk+hbld1+Cn32p0DjIDtoYYLWXZnR+N3HYRbJ7PYt+JuwDWz2639fD/Ek19VrVt/RH3LCm+VCDB+3QLYbHTg=",
-                "mac": "E/PPHE8P41jL5ItygyYW3g=="
+                "orig": "Because he kept pushing me into the pond whenever the bamboo tipped.",
+                "text": "Parce qu'à chaque fois que le bambou tombait, il me poussait dans l'eau."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/25/message": {
-                "ciphertext": "fZCFmtlMNJwGD1YpGsxeEA==",
-                "mac": "D3h0uZIybE9WFMYYmsPRuQ=="
+                "orig": "Ouch.",
+                "text": "Ouch."
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/26/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/forest/path-04-vaga.json/entities/439/settings/event/35/text": {
-                "ciphertext": "zbxUTwH9faw9oVTSJltZjVufE3QZYde+Qzwho3LB+fsVX5C3Cut+gv3+/OAGTP3/wHfs7xsfnRuuHybbzRJ4w+2HeFGz9eLPYIBTryPF+X2QOEpxeStb8UkVfpF4KMYL98FYJrUw7oECiYQv5RnpTdmytxdzJDuccJO3GJ+U0t/82+HWQMV3UBGNeYq9eDG9nURk1Mf+glFgtWCDluLVlfKUwdjEnNGpK9BEhbF0y14=",
-                "mac": "jZ/zRB+3srrfdPSU5a7F0A=="
+                "orig": "Eventually, I understood what was going on.\\.\n\\.\nShe was more than a means to an end.\\.\n\\.\nI finally realized...\\. that I found a new friend.",
+                "text": "Au final, j'ai fini par comprendre.\\.\n\\.\nElle n'était pas qu'un moyen pour arriver à une fin.\\.\n\\.\nJ'ai fini par réaliser...\\. que j'avais trouvé une nouvelle amie."
         },
         "maps/forest/path-04-vaga.json/entities/481/settings/text": {
-                "ciphertext": "cZG/Zks5veuDlehR4PrFKYKRqHMnVr24s4VCyH61Z2s=",
-                "mac": "F1Sak5Ul+9Y+B7g50O3q6Q=="
+                "orig": "A berry tree",
+                "text": "Un arbre fruitier"
         }
 }

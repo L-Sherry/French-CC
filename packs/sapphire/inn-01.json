@@ -1,641 +1,641 @@
 {
         "maps/forest/interior/inn-01.json/entities/19/settings/interact/hoverText": {
-                "ciphertext": "Oa6onlUQT1pm0DmKOzBM2UrPP+alKx51a5KKpXgBnrE=",
-                "mac": "L0HI2Ndx2gVA/bhCrBQGmg=="
+                "orig": "Area: \\v[area.forest.name]",
+                "text": "Lieu : \\v[area.forest.name]"
         },
         "maps/forest/interior/inn-01.json/entities/19/settings/interact/title": {
-                "ciphertext": "TQcwjsuq5i4HOboY+JRdZwS9h+yAIIigXNkSRCldqs8=",
-                "mac": "nSWV71fG92XGg5mK62m3Yw=="
+                "orig": "\\c[3]Bulletin Board\\c[0]",
+                "text": "\\c[3]Panneau d'affichage\\c[0]"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/0/name": {
-                "ciphertext": "TaEoHZGIqQKnZjwBcHUIxQ==",
-                "mac": "x8fwhlb5m8SYExrZ2GdL4Q=="
+                "orig": "Pi Ling",
+                "text": "Pi Ling"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "z6XUf1+QwG5t6mFSOtJe+mYKlgm4EazkWFgcfKkdt7W1ongBk0eVPeszUP5fmIHj",
-                "mac": "u/xJiH29w/GnNpF3qCWSvg=="
+                "orig": "Greetings, Seeker!",
+                "text": "Bonjour à vous, \\v[lore.title.seeker] !"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "TSo1UGj7iGkDhI7c2GlNrryUQuPUA17Z8DxKbSVz+jHU+6Z/rLhs1yt22ks+qNVUxIiRtIK1fzGq5muXfvk35Nxum9arTc57xXNHUMGCj3J50EHszUKn3/u5gFrr2IoY",
-                "mac": "LxHT9Gy9/T/UoHrgT9ehgg=="
+                "orig": "Are you looking for hints on how to get the \\c[3]Shade\\c[0] of this area?",
+                "text": "Cherchez-vous des indices sur comment obtenir le \\c[3]Symbole\\c[0] de cette région ?"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "sny8PNGmhx9AYtw6EZFeNWc7Qq137uh8gHW7P8STSEDSzK23zyjrAEa0ndiPXRx9A2DE67ra+6w6kA0Q+bAlLg==",
-                "mac": "/2IZ25R2V+PQZXfXQplCJA=="
+                "orig": "In that case, my grandmother should be able to help you!",
+                "text": "Dans ce cas, ma grand-mère devrait pouvoir vous aider !"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "eqMkZtXhvzWM8bzv8xUSi2S3aT1yg2SgILBbCQKEOpDhmhs4Cwbob+myQ4feemlz",
-                "mac": "RGDDSkbNRu3xNGAnhkNC1A=="
+                "orig": "You usually find her at the balcony at the very top.",
+                "text": "Vous la trouverez sur le balcon tout en haut."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/1/event/0/name": {
-                "ciphertext": "TaEoHZGIqQKnZjwBcHUIxQ==",
-                "mac": "x8fwhlb5m8SYExrZ2GdL4Q=="
+                "orig": "Pi Ling",
+                "text": "Pi Ling"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/1/event/2/message": {
-                "ciphertext": "z6XUf1+QwG5t6mFSOtJe+mYKlgm4EazkWFgcfKkdt7W1ongBk0eVPeszUP5fmIHj",
-                "mac": "u/xJiH29w/GnNpF3qCWSvg=="
+                "orig": "Greetings, Seeker!",
+                "text": "Bonjour à vous, \\v[lore.title.seeker] !"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/1/event/3/message": {
-                "ciphertext": "alvcxGSYlQimtiBIeRQ2QqChThdals8uK745IHdffJ/hYBmOYrA9FRcerTquNfjLpPez7xiSd7CSj6I7uPKyx+/GS6Q+p9xFirtX10kehpuJBRfSRZ464MWceS9b7D07t/nfSxBvXk4apTu0bd0zyQ==",
-                "mac": "sQKD2jQPci3wyvHNkGhZXg=="
+                "orig": "Talk to the owner of this establishment to learn more about the shade of this area.",
+                "text": "Parlez au propriétaire de cet établissement pour en apprendre plus sur le symbole de cette région."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/1/event/4/message": {
-                "ciphertext": "eqMkZtXhvzWM8bzv8xUSi2S3aT1yg2SgILBbCQKEOpDhmhs4Cwbob+myQ4feemlz",
-                "mac": "RGDDSkbNRu3xNGAnhkNC1A=="
+                "orig": "You usually find her at the balcony at the very top.",
+                "text": "Vous la trouverez sur le balcon tout en haut."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/1/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/0/name": {
-                "ciphertext": "TaEoHZGIqQKnZjwBcHUIxQ==",
-                "mac": "x8fwhlb5m8SYExrZ2GdL4Q=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/11/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/12/message": {
-                "ciphertext": "2Oq+8Z+469weeYgVZClL9XNZdWp68dVjlZivUuQNwyGli507ex+jF1ac9YR3A37L/zpmUn22nOABg/TKAcpN6GOKt+3xJ/ghJHYKBrOjmlQiReW5GaNVPxHtSyZQbU13",
-                "mac": "+V5rhBITxFaPGJ/rULFxFQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/14/message": {
-                "ciphertext": "gYLvUaMVSyb/jZHs5gJ7eg5C/fvaLN6V0KYcY5c73rb3IDbPfRS1fDBpQdsGENXB",
-                "mac": "XiCmZkwfk/iPJtKT6WwqXA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/15/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/16/message": {
-                "ciphertext": "7dy3hvEtmHwWQcOLIFRxQDs7c8OmBN4Fh2ooZhItWPEJQFTrT6VtnRmL63/TnmkYeUp1icE3RuGJEqoE/BLUkdjcQi4nVE5tllNg/63eRl0=",
-                "mac": "LHA142rBqhMt0oKEPcW9aw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/17/message": {
-                "ciphertext": "rfvwkvMAsfFi1UDig5veTsvlvhMx5lF/tD+BReoaloWY33kJufHS3mZcD6dn7OoVrGaOiGXLpm3mwdDHcmpv4Ad+eiETDsXGlCFlo8Cn1dM=",
-                "mac": "elmaCS3/ynxVFxHjvArMZA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/18/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/19/message": {
-                "ciphertext": "PNGQRCdBVLCqoOYp3IOgJ7vQTA3IRyBSOKVmU9ODAiopquF5L7fXNalIZaU2vXvc",
-                "mac": "iQvms52I7NOInA3ljCk4mg=="
+                "orig": "Pi Ling",
+                "text": "Pi Ling"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/2/message": {
-                "ciphertext": "tAeKa35t5TAQDAejBjIZFYFOG6D8KSbogmF0GhB/S2w=",
-                "mac": "bAJexW/SIhJMqE6eqbTdgg=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/20/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/21/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/24/task": {
-                "ciphertext": "EA0DJpJNESInWs1zSQ3v5RUTbRtHa4THPfQcCdGFjl/yhlUArj4JV05nttg/UFx6x7qIW6oEc33f2vbHy8Rx+Bu9ZREKxybydBfxuhL9Kb1rZzAiC8Px8iiwM6CKbEY/G0GjWKH58x5cuDkDeHtYT+OBsLLJCSxpWdfo+ExX8nw=",
-                "mac": "jZewcLRPOpC1zE43YZrr2A=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/25/thenStep/0/message": {
-                "ciphertext": "emeQ6uGXm7GHj7gPlZ4gXeTM1q36QgFIQdxgy0bujac=",
-                "mac": "ZNj0WT1Qa0e1VTI00wvFYw==",
-                "ciphernote": "PRCV7RD/AK3s5MsavzSLTsrAcX6Qjjsn1kd2e9gDrKTeWsKQvpxRbH8JjZUC2zaZ"
+                "orig": "And did you talk to her?",
+                "text": "Et ? Vous lui avez parlé ?"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/4/message": {
-                "ciphertext": "glEc6eR0IN7KWddB/OQ5XQ==",
-                "mac": "8KZXqmbILaxfqtcNqHVzuA=="
+                "orig": "How?!",
+                "text": "Comment ?!"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/5/message": {
-                "ciphertext": "o8tnR152WcgU5hJ+M3lfxQZoTe8IFC2dKRQgNnl4vAhBt+hv3LIXKyzo/UYIp+ebhfa6ziw1IjIIWqbtIBd7mh29A73PzKXZt7TBD0MSCqI=",
-                "mac": "DAnMJGDW+OHm0XMajq6UDA=="
+                "orig": "Yeah, I know. She is old and it is a bit hard to understand her.",
+                "text": "Oui, je sais. Elle est vielle et elle est un peu difficile à comprendre."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/6/message": {
-                "ciphertext": "5I1BXiQHrj0A7cpAs3CcJpAezCLpQjtZqPhULN9EYhupwl/8GFZzLjzhlWIfRrrN",
-                "mac": "5ju3GqKNdnr4s42sPLhdvQ=="
+                "orig": "But she really does try to help.",
+                "text": "Mais elle essaye vraiment de vous aider."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/7/message": {
-                "ciphertext": "+smPmPNRp3tuZjSjrMgMD4mrTyLbsnc8Z7d9CsLT09B4rdFaFYhkhWuEi01qu6cjbihVOhnMqt9vtyhhOR/3H8SbXKdymnJn9L+rEbJprts=",
-                "mac": "l8FqWtpqzJV2zgdtEGd1UQ=="
+                "orig": "Just go to the \\c[3]south\\c[0] from here. Walk \\c[3]through the bamboo\\c[0].",
+                "text": "Allez juste au \\c[3]sud\\c[0] d'ici. Marchez \\c[3]à travers les bambous\\c[0]."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/8/message": {
-                "ciphertext": "OZju1wjSW23KKBS4d05APimPU+QqpzRmqpRT4NaSpx0keU1qU18VTi5WRwjzit3UE2gkV8ftCpR6P/fuNA+kCA==",
-                "mac": "A0QyqGarfOwXqBxIYedDgg=="
+                "orig": "There is somebody there that will help you.",
+                "text": "Là-bas il y aura quelqu'un qui pourra vous aider."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/9/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/11/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/12/message": {
+                "orig": "Uhm... Do you wonder why I didn't tell you right away?",
+                "text": "Euh... Vous vous demandez peut-être pourquoi je ne vous l'ai pas dit tout de suite ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/14/message": {
+                "orig": "I-It's just tradition!",
+                "text": "C-C'est juste notre tradition à nous !"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/15/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/16/message": {
+                "orig": "Also... she's always so happy when she's able to help.",
+                "text": "Sinon... ça la rend toujours heureuse lorsqu'elle peut aider les gens."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/17/message": {
+                "orig": "She doesn't get so much company these days, you see?",
+                "text": "Elle n'a plus vraiment beaucoup de compagnie ces derniers temps, vous savez ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/18/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/19/message": {
+                "orig": "So... thank you for talking to her!",
+                "text": "Donc... merci, pour lui avoir parlé !"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/20/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/21/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/24/task": {
+                "orig": "Just walk through the \\c[3]bamboo trees\\c[0] south of the \\c[3]Cave Inn\\c[0] to find somebody.",
+                "text": "Marchez juste à travers la \\c[3]forêt de bambou\\c[0] au sud du l'\\c[3]Auberge des Caves\\c[0] pour trouver quelqu'un."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/2/event/quest/25/thenStep/0/message": {
+                "orig": "Such a kind lady.",
+                "text": "Quelle gentille dame.",
+                "note": "de: une dame avec un coeur en or"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/3/event/0/name": {
-                "ciphertext": "TaEoHZGIqQKnZjwBcHUIxQ==",
-                "mac": "x8fwhlb5m8SYExrZ2GdL4Q=="
+                "orig": "Pi Ling",
+                "text": "Pi Ling"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/3/event/2/message": {
-                "ciphertext": "+smPmPNRp3tuZjSjrMgMD4mrTyLbsnc8Z7d9CsLT09B4rdFaFYhkhWuEi01qu6cjbihVOhnMqt9vtyhhOR/3H8SbXKdymnJn9L+rEbJprts=",
-                "mac": "l8FqWtpqzJV2zgdtEGd1UQ=="
+                "orig": "Just go to the \\c[3]south\\c[0] from here. Walk \\c[3]through the bamboo\\c[0].",
+                "text": "Allez juste au \\c[3]sud\\c[0] d'ici. Marchez \\c[3]à travers les bambous\\c[0]."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/3/event/3/message": {
-                "ciphertext": "OZju1wjSW23KKBS4d05APimPU+QqpzRmqpRT4NaSpx0keU1qU18VTi5WRwjzit3UE2gkV8ftCpR6P/fuNA+kCA==",
-                "mac": "A0QyqGarfOwXqBxIYedDgg=="
+                "orig": "There is somebody there that will help you.",
+                "text": "Là-bas il y aura quelqu'un qui pourra vous aider."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/3/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/0/name": {
-                "ciphertext": "TaEoHZGIqQKnZjwBcHUIxQ==",
-                "mac": "x8fwhlb5m8SYExrZ2GdL4Q=="
+                "orig": "Pi Ling",
+                "text": "Pi Ling"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/2/message": {
-                "ciphertext": "z6XUf1+QwG5t6mFSOtJe+mYKlgm4EazkWFgcfKkdt7W1ongBk0eVPeszUP5fmIHj",
-                "mac": "u/xJiH29w/GnNpF3qCWSvg=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/3/elseStep/0/message": {
-                "ciphertext": "lRIejRUv0fJf8kUV37XYH2mu8PqIz/kuLjx6WtKEvh3ggZTXuCAcSb0SDIEFgtxDvOUu/9fcwMcuegi1Iyyv3u4VR+Y30dk5Kvx2ZqcbgsHisLlG0rSmc6aaCCfubDbGuwJOpUluHje5hCMSsT1kIw==",
-                "mac": "wTAJ/g0ASHsRnm9W8sGa1Q=="
+                "orig": "Greetings, Seeker!",
+                "text": "Bonjour à vous, \\v[lore.title.seeker] !"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/3/thenStep/0/message": {
-                "ciphertext": "ZrZHofRPa5iu95FxXAcjZ+2cfsEbrdYX+1X4weCUTWtyA+COZI4VTpFKRgQvQFNuHALHOdxtPHrixvhNoDbr2gGWbkAIXvVv8v8M+U1q0K4=",
-                "mac": "TUCBkX74DoQnBMgIyMcsPw=="
+                "orig": "Ah! It seems you found what you have been looking for.",
+                "text": "Ah ! On dirait que vous avez trouvé ce que vous êtes venu chercher."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/3/elseStep/0/message": {
+                "orig": "Ah... it seems you already found that person at the bonfire, didn't you?",
+                "text": "Ah... on dirait que vous avez déjà trouvé cette personne près du feu de camp, n'est-ce pas ?"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/5/message": {
-                "ciphertext": "4rbQxqtWD9GRYLnS0FRuWzzMmIAFku/kLowgKCm+DaJR+dnzTzqjTX0YKwIzTvkv1yTYwAhm9+s6CPZjv+ewE7I2pVLGukLD14gC1H26yED9B1ndRRGA97hY2XjSr4vhuw3SWG5dI9Wgvcj1HvIAeGOQ3Qci6IBeqHOvOlRPK4Y=",
-                "mac": "Gtph8z3LUsuVG8efM1bpFA=="
+                "orig": "Good luck in passing his trials! I've heard quite the stories from other seekers.",
+                "text": "Bonne chance pour passer ses épreuves ! J'ai entendu de drôles d'histoires de la part d'autres \\v[lore.title.seeker]s."
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/6/message": {
-                "ciphertext": "lHHCsXQ9Dp8b9Gkvlzd2I/WpkZLv7pYDXOHe+W58qrYijnmSgRlzG4elsWjSlsvseogroi3SXlZ2bj9xPwgdMo8f0umWP9uT5t0C9EeG33w=",
-                "mac": "fSRGJMf3Uv1PDq9h7rc3qA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/7/elseStep/0/message": {
-                "ciphertext": "vh9IVKfQe+idS/v9SC5JefhvepTR6pxTmSNk0+eNEMnSQCU7H6qRp1uX0Gc8gQSy/3DD+p49AqmU6jFPnBW62w==",
-                "mac": "EgU3/xuFqzeGdvYc5Mg/rw=="
+                "orig": "If you happen to be stuck.... maybe grandmother can help you?",
+                "text": "Si jamais vous êtes coincés... peut-être que grand-mère peut vous aider ?"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/7/thenStep/0/message": {
-                "ciphertext": "RTE/4BJEQuJw8AahXtZ9fUNga4/slUKPQRC+SQVask4xTXnR6FGE3JoStVR4r/RIPSK7RwonsRv4P3EFX5Uv/w==",
-                "mac": "TPDfzSfQnoZahmK/HxYpnw=="
+                "orig": "Or you know... she'd at least be happy to talk to you!",
+                "text": "Où, sinon... elle sera au moins heureuse de vous parler !"
         },
         "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/7/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/interior/inn-01.json/entities/65/settings/npcStates/4/event/7/elseStep/0/message": {
+                "orig": "You find her around the balcony of the top-most floor.",
+                "text": "Vous la trouverez autour du balcon du dernier étage."
         },
         "maps/forest/interior/inn-01.json/entities/74/settings/dialog/0/text": {
-                "ciphertext": "8x+a3rBMIa/C9w0zGMzVkg==",
-                "mac": "i1H4SfAVZVBlFunsu32rKg=="
+                "orig": "What a rude guy!",
+                "text": "Quel rustre !"
         },
         "maps/forest/interior/inn-01.json/entities/74/settings/dialog/1/text": {
-                "ciphertext": "A32itlI+60PS8pOGU6N2eZsaTJ9QIeGHfb2tIDqjF33h1RvJ6WE3oVbZ8CIRq2hVwW9JybNnav2EclBhyLrjbQ==",
-                "mac": "a7WWiN5P6ydwJAt1aqZ59g=="
-        },
-        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/3/message": {
-                "ciphertext": "za7EE8utVvEFJw/IzdJ9HDItIPkENmJw98M5dWOXZjU=",
-                "mac": "Xn2hwXj0lRL0bUZ8kk5sKw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/5/message": {
-                "ciphertext": "aleT+BVE3gUJjuwVsBROVgUQAPxcPe4FBJiT3ch7qTFJXAhaB2Lzzd6Df3tTrc0fDRuPV9/znrT4PajcQJK8nw==",
-                "mac": "gPlntWSPOwKKFCk5IDpUXA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/6/message": {
-                "ciphertext": "Z1UMkERf9RzNzxQlarX0xw==",
-                "mac": "CbML+GEGIAmrv8mh3SHnjA==",
-                "ciphernote": "LjFbQAmPfleQ7lFGq2OcPQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/7/thenStep/1/object": {
-                "ciphertext": "QzsxYfZTce3IhzCiAkj9mVBiAFrzIH7LTf0whlxJwbk=",
-                "mac": "7AU+zuAM7fdLLu8crdobAA==",
-                "ciphernote": "wHTT9MjZ5PbYoEiFoAQRgiTf8Ur9Gj2ggVoaIEB3v5Bj+tLVyO54GBXApOhBzEfZWn1nYlgDB5XOzNm9Pi4gyMpaL+1/tMuPwqelDGpSZpk="
+                "orig": "Typical self-centered player if you ask me.",
+                "text": "Un joueur égoïste typique, si tu veux mon avis."
         },
         "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/text": {
-                "ciphertext": "tKTlBO4QsY6VRzFe9Pq7e9GX8QES9ybssaNEb/xz2UP+1buMiBGseTkfvmnks9tH6JezlX1MF2lBRyMrq0TyKjSTHa+CsZtLCbVppKkLh8A=",
-                "mac": "Ynol/uLnppYN96zfxA6wFg=="
+                "orig": "You'd think he would have seen me \\c[3]with those big glasses\\c[0].",
+                "text": "On aurait pu penser qu'il m'aurait vu \\c[3]avec ses grandes lunettes\\c[0]."
+        },
+        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/3/message": {
+                "orig": "You're looking for that weird dude?",
+                "text": "Tu cherches ce type étrange ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/5/message": {
+                "orig": "He just ran past, even pushing me to the side.",
+                "text": "Il vient de courir par ici, en me poussant même sur le côté."
+        },
+        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/6/message": {
+                "orig": "What a douche...",
+                "text": "Quel idiot...",
+                "note": "de is bad ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/74/settings/dialog/2/event/7/thenStep/1/object": {
+                "orig": "\"Whereabouts\" Clue",
+                "text": "Indice \"Séjour\"",
+                "note": "localisation, ou est ce qu'il se trouve/ce qu'il fait, but less direct"
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/0/text": {
-                "ciphertext": "l45nrhQZU61zTtoiHDmcJMZhEOKTbxnLQxlvBjfxEQ4=",
-                "mac": "0rPJeWSOq/D6spbD3jbq8g=="
+                "orig": "Aaand back on the table.",
+                "text": "Eeet de retour sur la table."
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/1/text": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/2/text": {
-                "ciphertext": "m36HLZ2HB3BfBNcOBCYhPhCZVQ9jYi0RK5w67sSR2cE=",
-                "mac": "t/S1J8OCr67pEk1JOQjEzw=="
+                "orig": "This can is fascinating.",
+                "text": "Cette canette est fascinante."
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/3/text": {
-                "ciphertext": "HMOYqsb3rO2mglR4UPIK3o3ncf/GVBNqnu9KuwH86yr3V49koJazadDTRD7pVbEeqtJnQ+NdwV35H4wuwYsZoqdoC4nt333NEL4bXEiT2S8IaxIClQCZdzLL9Urz+1Of",
-                "mac": "BG8OjVzwXP8CJgDEdTbPDQ=="
+                "orig": "Can you stop the act already? I know this is not about the can.",
+                "text": "Est-ce que tu pourrais arrêter ton cirque ? Je sais que ça n'a rien avoir avec la canette."
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/4/text": {
-                "ciphertext": "tVu+tLAI7cixecW4cnZiuvW4LcpJW9/aanu016/QzBVJfcn90oPqpRCo2/CidLlx",
-                "mac": "SxrSP/zVLlgZWU9auEIjtw=="
+                "orig": "It's... all about the can...",
+                "text": "C'est... seulement pour la canette..."
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/5/text": {
-                "ciphertext": "TQCIpRrE3Yowd7YNibJ4sqJe0Y+8me2M1MaxiVXzzOtfvmKa3peVmSC2zLS6PgVq7/VKr6dxK6vIo5zddHxJtBdYL6sWwNIiOwhsC2QWBRy9qllfcrRzhK2oYk10PZFt",
-                "mac": "fuiT33PiRA9W3GCRyp96sw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/11/message": {
-                "ciphertext": "vX2jbpdGhT32Xi+8fe0sjVcBltmfu6OrzXQ8Kj1zXKp1Uw6xMXiHUrrwBKXL1qCFDGkggv9n++ixX5Y+9E/LvQ==",
-                "mac": "xj5KyAxkykc53kxj/7c5Eg=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/12/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/13/message": {
-                "ciphertext": "XTpdVU/8FtboorCWZ2lKN3H53mjW/l58krcnTApliRMcNpfvB1Ip3bR2Fr6nO8+8PmaD0MDPN/iMxL222BYFzsx6WbvVriLktuuLgIA8s5gb9mCLx8NIEktLtw6Ar4Ss",
-                "mac": "Ng0unnwPb5wBMIIu2abGHQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/14/message": {
-                "ciphertext": "EAWe/WwW3vDxeP30MhcsamnYq0EixvyiqXFgQab/I6MEOr24YOUT7s3Qv6vLc9OpRO5sWHBYRs19Qb/RhFWQ61if+7/4FZUuFU1HlTDC1Yg=",
-                "mac": "VINSTen4hwRBn649Ds+ESw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/15/message": {
-                "ciphertext": "rvadW989TbRIUbbhTvKztiMf1TqIZ20Bk3XTWroMJR2VH8s2mzg2CqoK1jyr4omtnmZDQpKxZfxVfDyHMFJf8VLiR7gwoJqLoDpOcYd/R9UEj9dLZb4XYXXrvnN4FeZSZdr5rdQccH9dJ43DQqfpCA==",
-                "mac": "vJfczNYiOndSXViG9u2uZQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/16/message": {
-                "ciphertext": "PG5LUqQfg8BqjcyUKQqq9Z9ZbBbQi6p0/KqclHqDDVwwhOhVly/qrrTzzGnjypJvLChjNLhbdYGARowv/BSnqafRTBmmUtuz4vilmTsyLldK7VpTTrSqiSaCHo5NU+8dYnAVdyianjysHjikfq1+RQ==",
-                "mac": "CUG6q95b3xD0nuF78xv+WQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/17/message": {
-                "ciphertext": "2IR5F4bgII0rQO7/ZA4t3PvexxzZ2XJ8fXote+pnnWWLZ6XLZqYyjuS8ygwcoanH8tkQ3TBkHR7U14IXLzKo5gcvLWRT851USML4a27M6GUt3+3l+L5XNF0v2kjbTvAy",
-                "mac": "7XkDQ5g2SNM2oXGqhx9ePQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/18/message": {
-                "ciphertext": "G1cUpp4nkqXygfST0FB7rw==",
-                "mac": "Eind7Wg9XzOKG404ktWjIA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/19/message": {
-                "ciphertext": "eXhqSUR4evG+sWSpINQz/AQztWmj6rYkwOQYAj+uYjxkor+H0i0aoRsJnhaM8l0F",
-                "mac": "h9mitfVNW1zJfO8hzdv+LA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/20/message": {
-                "ciphertext": "0YcvbTrykTJ1/NW3TfDh8w==",
-                "mac": "dIG2KHvGBT94It0EOlD9lw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/21/message": {
-                "ciphertext": "MdEnA4pX/ybDs7mMxXCVE+JLWd/vQmVum2Sd572uaTPkdNkqvBoT7A2iK1jACnn+",
-                "mac": "4oo0agTOZ0CC6f5tid0XXQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/28/message": {
-                "ciphertext": "tyNDQoE/knrclo+9f5PPEwlC/UFRJ1rK/QHWeGSh8rOty+dTQb1J4pmbgVzgHkYW",
-                "mac": "HBER8CWRiLYoalcJV0cdNw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/3/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/33/message": {
-                "ciphertext": "KAEqyhBNv0nfkw5Sht5laEGGmHc+WdHWTX13upKOA46E69KDlvnGKVcs23hFlpbMxhhxcyBOYScXMLfrFPOAlg==",
-                "mac": "YCaURNk1pXoyYw2rF8b/RA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/35/message": {
-                "ciphertext": "Ln24oAXQzPdpvSWBtCO5DQ==",
-                "mac": "ed0zTxAI1S1ObcKZP4BTgQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/36/message": {
-                "ciphertext": "m25Ne5YB3V3Ij3kVm6s6YpURdCjzHwbkkxCWURCCjWJQbJW01m6KU3iW0qOFNXPh",
-                "mac": "P03dKracxtOqrygpNmv+sQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/37/message": {
-                "ciphertext": "+eqJNYppmIR029q8C+zU9SQKCXdgoM+nHOBz7073Hzr3TCQy5DMH8RqxxUzN65kJztYQ6IeWCIBYVyyTztdqig==",
-                "mac": "OM38akbm2dl8/AeQ80Q+PQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/38/message": {
-                "ciphertext": "eYwO0C0LzzaUKmHVD0OJ1JqhaZmUufH2dCZU0c5P4Z+zmQaqS8Y+hoJE7dh1B2q6",
-                "mac": "guNpicMUd1MiX2FG3l9dRg=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/4/message": {
-                "ciphertext": "Ln24oAXQzPdpvSWBtCO5DQ==",
-                "mac": "ed0zTxAI1S1ObcKZP4BTgQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/45/message": {
-                "ciphertext": "QHLSDNJAh8lEcQNAfX3UJ68ZVHPHN1mSPqF1IykD1Aw=",
-                "mac": "6jjk7wovsfNbMwwZaygeHA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/46/message": {
-                "ciphertext": "kMl4ulueNZBoanAeqKmEzljrCT68qf+Rme625GjmSN9WBLVyrCNlCxvIFkqjZ4vt",
-                "mac": "FvJIs1HdLRJo6Qoc23MW5g=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/47/message": {
-                "ciphertext": "BRIXvaBh+nHSFoQC9j6yz+wpa8VMM7LygL+nVVG6tcMvbZ4iHqZWI/8Q4J9ym9RalBYOEUMtz65fCyA5PmtXybwm8DxUEXIaTjZU1DSU80c=",
-                "mac": "BjLBZBxYSbe0yjJsjToX2A=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/48/message": {
-                "ciphertext": "+auNDo7t0U39EtnXk3JF9w==",
-                "mac": "v8oQgDQYp1z6tMjcAO3A3g=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/49/message": {
-                "ciphertext": "I9gt4HPcZcxMU/ZsCVOA2AhMA7/uhHvfQycrmrpgmadNx8d/O6c+00o/JLd3lbkJBxZC0NmvfCk9BR0Uy+ZGqg==",
-                "mac": "7AoLPROWRqQyAly3lAt9JQ=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/5/message": {
-                "ciphertext": "ndXb1ZTRHi8X1LE0Y/hzNXf1eDoOC2dq+w01fW9LNVb8qFfToSvW3ma0Noj2b2vfqu3pvACuESea7K3l3UdeGw==",
-                "mac": "Nr+rT/Qxfr6Xr1r/9DhABA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/56/message": {
-                "ciphertext": "1ITnp7YGLDeXZlv/eG6MDjxXkldoggxdNBoHnIXQHfozeh3meEkjSHwbZKbQfdWsHLOAdOGEW1rctBLnP9JXlA==",
-                "mac": "otcpeWzr+sNHEEUl7R9TBg=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/57/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/6/message": {
-                "ciphertext": "vETWF97SLwvK6MdpumfBCY4yzS9Bm89Icdzliq4S1PEkdi4vb0xryGBxyzFnVDU+",
-                "mac": "tRY0qrYZMlTuccT+muA0cA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/64/message": {
-                "ciphertext": "6ifO/GYX3sUP4OTwDOWWt1Y2KOlkPMBpGDdsz1Ev33xMshnuKUViJJ2eHtOLQBlk",
-                "mac": "szIiJU+mJjv7FZF87lRh0w=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/65/message": {
-                "ciphertext": "ayUeooVPHI7njr/WCQBhXQ==",
-                "mac": "wc2Wq3A5rT0RrpLAIkgy2Q=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/66/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/7/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/8/message": {
-                "ciphertext": "0LtpIxLdIrIeCmQ7aPmvjg==",
-                "mac": "AwkJAVLeLGd9XmRDemEq9Q=="
+                "orig": "Why won't you simply admit it? You like to sit on tables.",
+                "text": "Pourquoi est-ce que tu ne veux pas l'admettre ? Tu aimes t'assoir sur les tables !"
         },
         "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/text": {
-                "ciphertext": "Rv45+dE6I/V02MR3934FXJV6z1OKF5pfW7M5uF/kgZs=",
-                "mac": "6EZCmiLTQh8Cp3W1UONfeg=="
+                "orig": "No, it's not true!",
+                "text": "Non, c'est pas vrai !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/3/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/4/message": {
+                "orig": "Huh?",
+                "text": "Hein ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/5/message": {
+                "orig": "See? Now even this random player here agrees!",
+                "text": "Tu vois ? Même cette joueuse là est d'accord avec moi !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/6/message": {
+                "orig": "She should just admit it, right?",
+                "text": "Elle devrait juste l'admettre, pas vrai ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/8/message": {
+                "orig": "B-But...",
+                "text": "M-Mais..."
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/11/message": {
+                "orig": "Look, there is nothing...\\. wrong about sitting on tables.",
+                "text": "Écoute, il n'y a rien de...\\. mal à s'assoir sur les tables."
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/13/message": {
+                "orig": "I mean sure... it's weird. But we're in a game. We're here to have fun.",
+                "text": "Je veux dire... oui c'est étrange. Mais on est dans un jeu. On est ici pour s'amuser !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/14/message": {
+                "orig": "If sitting on tables is your idea of fun then more power to you!",
+                "text": "Si s'assoir sur les tables c'est ce qui t'amuses, alors tant mieux pour toi !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/15/message": {
+                "orig": "But for so many years... people always told me to not do it. That it's bad manners.",
+                "text": "Mais depuis toutes ces années... on m'a toujours dit de ne pas le faire. Que c'était des mauvaises manières."
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/16/message": {
+                "orig": "Who cares, we're in CrossWorlds! This is a place to screw around and let loose!",
+                "text": "Qu'est-ce que ça peut faire, on est dans CrossWorlds ! L'endroit idéal pour faire ce qu'on veut !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/17/message": {
+                "orig": "And I definitely never saw any player being banned for sitting on a table.",
+                "text": "Et je n'ai jamais vu un joueur se faire bannir pour s'être assis sur une table."
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/18/message": {
+                "orig": "You're right...",
+                "text": "Tu as raison..."
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/19/message": {
+                "orig": "Of course I am!\\. Just admit it!",
+                "text": "Bien sûr que j'ai raison !\\. Admets-le !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/20/message": {
+                "orig": "Alright!",
+                "text": "OK !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/21/message": {
+                "orig": "I love sitting on tables!!",
+                "text": "J'adore m'asseoir sur les tables !!"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/28/message": {
+                "orig": "Sitting on tables is the best!!",
+                "text": "S'asseoir sur les tables c'est génial !!"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/33/message": {
+                "orig": "Everyone! Sitting on tables is amazing!",
+                "text": "Écoutez tout le monde ! S'asseoir sur les tables c'est super !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/35/message": {
+                "orig": "Huh?",
+                "text": "Hein ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/36/message": {
+                "orig": "You see the world from a new angle!",
+                "text": "Vous verrez le monde d'un angle différent !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/37/message": {
+                "orig": "It will change your perspective on everything!",
+                "text": "Ça changera la perspective que vous avez sur tout !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/38/message": {
+                "orig": "Damn girl, that's some deep stuff!",
+                "text": "Hé, meuf, c'est du lourd ce que tu sors !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/45/message": {
+                "orig": "Thank you so much, you two!",
+                "text": "Merci beaucoup, vous deux !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/46/message": {
+                "orig": "Finally I was able to open up!!",
+                "text": "Enfin je vais pouvoir me lâcher !!"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/47/message": {
+                "orig": "N-No, problem!\\. You definitely seem more happy this way!",
+                "text": "A-Aucun problème !\\. Tu as l'air véritablement plus heureuse comme ça !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/48/message": {
+                "orig": "I am!!",
+                "text": "C'est sûr !!"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/49/message": {
+                "orig": "I have to go now!\\. I have to spread the message!!",
+                "text": "Je dois y aller !\\. Il faut que je le dise à tout le monde !!"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/56/message": {
+                "orig": "Oh dear, she really did a complete 180 there, didn't she?",
+                "text": "Eh ben, elle vient de faire un virage à 180 là, non ?"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/57/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/64/message": {
+                "orig": "I better have a look what she's up to now.",
+                "text": "Je ferais mieux de voir ce qu'elle manigance."
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/65/message": {
+                "orig": "See you around!",
+                "text": "À plus tard !"
+        },
+        "maps/forest/interior/inn-01.json/entities/77/settings/dialog/6/event/66/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/0/name": {
-                "ciphertext": "TyFFHnjyVD1O5s+/EknkSg==",
-                "mac": "WwqUZUdYc52q/vWiTG30xg=="
-        },
-        "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/10/message": {
-                "ciphertext": "p7ETqybi0EFyxIt/vCnJ03YUZBFY36OxaqG9/FZ1q4k0TxPMGikzmwQiQ23Fv3TOoNZcAqUK7i6ZDkLogQCptT89VGo/Z3q6KUfNg6fHX2tdSiwJdHM9hZK68Bg2kpCH",
-                "mac": "t0YItg5Rz6jrlOrytOl1bw=="
-        },
-        "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/11/message": {
-                "ciphertext": "YizzTpePYD/m+/o1ofiCzenyIOxFTDgQiXehBJFXkxSkdiF0YNhfDO5tv37/wdna",
-                "mac": "t3ShnelnBllUlSQ86HcvPQ=="
+                "orig": "Sai Ling",
+                "text": "Sai Ling"
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/2/message": {
-                "ciphertext": "K3Z07gb8X7wgLIrBYGsayClIxYWVbdKPV12/eZOw1WB9yPG7pZDYTwotv6/5yQO/",
-                "mac": "PpwZSOEZS8EykxPh1ydnkA=="
+                "orig": "Hello, Seeker!",
+                "text": "Bonjour, \\v[lore.title.seeker] !"
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/3/message": {
-                "ciphertext": "4mudltKOiuPsgn24q/uydzQLTgdCMggaGFO5imyedcvv39sx1vdb1oijHSsI+k74IqsgKTSgS1vwoTYj64UBcbbys9uGsGvuVBXA1E5WjBmccoIZdPHjo6oE8osiyqJX7fAUw9Al76FNd3Y6qv8h+yX+JLuFX8CacTHCCxGzPO2tjkp+GjfjwGJL/qejQrwe77sA7b1L5vW17qTjpUCnGg==",
-                "mac": "aa/mKozHU2kOwR+EXiaDuQ=="
+                "orig": "This is the \\c[3]Cave Inn\\c[0], a hostel built inside a house from the very beginnings of human activity on Planet Shadoon.",
+                "text": "Vous vous trouvez à l'\\c[3]Auberge des Caves\\c[0], un hôtel construit dans une maison datant du tout début de la civilisation humaine sur cette planète."
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/4/message": {
-                "ciphertext": "SsftbVLfMKWbxVJBCcL9jUvGCzUbrL4FX8Hm9l4/i610MZcZ2Zy7daxDV62+QVmc",
-                "mac": "CtNHufPPc0R0X7SeO8uMkQ=="
+                "orig": "If I can offer you a room, please let me know.",
+                "text": "Si vous souhaitez une chambre, dites-le moi..."
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/6/message": {
-                "ciphertext": "8c4ijVjrWOUMkCk0ZSCWCrxNDK+x7tW1Tfud/GiR1TrRHJnaRG4c7hsHTEdZE51qkBpfSoAZ4t3hTbYQBweaY2K13LLHFNJIpPJDXos0D3I=",
-                "mac": "rO0WT+8VZ1vofFOTB4T03w=="
+                "orig": "...Is what I would say if there was actually any room free...",
+                "text": "... C'est ce que j'aurais dit s'il y avait au moins une chambre de libre..."
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/7/message": {
-                "ciphertext": "O8IAHuNSLtBLtzW/x06jCQ==",
-                "mac": "VaMoXzPKsY49CwyiO1+6yw=="
+                "orig": "...Why?",
+                "text": "... Pourquoi ?"
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/8/message": {
-                "ciphertext": "Ium7bYzXkKdGrSX7J5PzZYGW04AmyyMhp6LX1wzbjd0ViHg3/Ov3KFFYyw/pgXq5FoF4Nr/hUK0Eqd8wirjZ5oWxN8wuUu8y7GiYl3IAzDGOHKaWkubI2SLv6GnIEKq6",
-                "mac": "txseCiafCSi7diV6ws+1hQ=="
+                "orig": "I'm afraid business is booming for us \\c[3]Ling's\\c[0] again.",
+                "text": "Hélas je crains que les affaires reprennent fort pour nous les \\c[3]Lings\\c[0]."
         },
         "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/9/message": {
-                "ciphertext": "9AeGqT07wl+6PDdXpJaBpmmRmhynMRotOWjX2SUt6Uf8NQW1byiQiLnJ8wuBn5x1",
-                "mac": "TNltromc5K6//ppW/RiJfQ=="
+                "orig": "Which of course is nothing to be afraid of... ",
+                "text": "Ce qui naturellement est une bonne chose..."
+        },
+        "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/10/message": {
+                "orig": "However, our very own 24-7 shop, as well as a trade hub, are at your disposal.",
+                "text": "En tout cas, notre boutique 24h/7j, comme notre zone marchande, sont à votre disposition !"
+        },
+        "maps/forest/interior/inn-01.json/entities/78/settings/npcStates/0/event/11/message": {
+                "orig": "Please enjoy your stay!",
+                "text": "Nous vous souhaitons un agréable séjour !"
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/0/name": {
-                "ciphertext": "SmLBRHwZw+9F4EItmsX/fg==",
-                "mac": "hjSYpnxDWu4f2WzabxiDDg=="
+                "orig": "Paro Ling",
+                "text": "Paro Ling"
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/2/message": {
-                "ciphertext": "x7Jd0ZAkXqx1bergL1sZfyHxjVAv6wMF+87cqo2SxOa5py09m5SUv1Anjkm/s0TwcayOAnWuMdBSn54On9K85hmlVoYI2bwi7sktGEndEMo=",
-                "mac": "zu5p6ihDeZypdUtsLWYm+Q=="
+                "orig": "Your lot is pretty popular here these days, Seeker.",
+                "text": "Des gens comme vous on en voit plein ces derniers temps, \\v[lore.title.seeker]."
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/3/message": {
-                "ciphertext": "O8IAHuNSLtBLtzW/x06jCQ==",
-                "mac": "VaMoXzPKsY49CwyiO1+6yw=="
+                "orig": "...Why?",
+                "text": "... Pourquoi ?"
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/4/message": {
-                "ciphertext": "L2SZExu6Uu5Bs7i0qV+mzhtl1exx++jtYp6MvylGo8jTyOkPcubWGoRKVJeDmi7eAuzPKrP0KEKm8kQxu5n4CidueUp4kemSxRypET5wk4Ar62dpkjcAqzuJMcHu+ouMYclYbOkkGcAW8ZWrd/LevkCDMzwAnMRwb+ZhFiuNqJHiDfxuTY+mPx0FXkYlEX2t",
-                "mac": "jjayn2vV1aDXd1CYeoOgaw=="
+                "orig": "I still remember when I left home to find luck in the big city, our Inn was almost done for.",
+                "text": "Je me souviens encore lorsque j'ai quitté la maison pour tenter ma chance dans la grande ville, cette auberge était pas loin de fermer."
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/5/message": {
-                "ciphertext": "V8/pFwUHxCpVbv1UAE6ey9e3Zo2ltOf9geRaSD9nX/YF7eEc+o9bB3v7bILvGMA/pBZInZbT9fjw+DaBr4K/niC2UsyDMReVHycpK8eSLSgx64Zjnc5AbKh7S1avxABa",
-                "mac": "tn+RgEHSRE6mWUk4ewUSMA=="
+                "orig": "Imagine my surprise when I got a letter from my mother telling me to return.",
+                "text": "Imaginez un peu ma surprise lorsque j'ai reçu une lettre de ma mère me disant de revenir."
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/6/message": {
-                "ciphertext": "Ptvbf6PlgPRQy6Kn9fTNudbVPw8XbYMCu+EyTM+BI01a16sdnFtPstYWNikHvW+EY1lX+DWVk4siF4/3wrr6aoocmSpd2GdF13lLsTAu+Sybe7odZ8qEfEFLBChdm1lHdH3MH/+UQ/g/6tVcjEsE7UzQxm+XkMJ95ihs2XVQXPI=",
-                "mac": "qmARAolS3ZpNpvxzXu73MA=="
+                "orig": "Of course I could never refuse such a request. So my wife and I packed our things and moved here.",
+                "text": "Bien sûr, je ne pouvais pas lui refuser ça. Donc moi et ma femme on a pris nos affaires et on a déménagé ici."
         },
         "maps/forest/interior/inn-01.json/entities/82/settings/npcStates/0/event/7/message": {
-                "ciphertext": "JzFo+j9IteKzi2Xra+cM5WUsFp7c7VVJOhlAis3yVRD3UUW7o5A6OA55vtYSIbBBKEFSPuiCZWALjRYcx0kAUPhpwhlIAgScUcEnWOsJH4HuJaWe16Yy+0KkTAg6/1QHPpvZDcDXMJAwzz2P0Fgnwdq1tX7m2S2sriCaLsE3kjyVSmNwccaRyYPAe8015l/Q8lQ7bBCnYDsO3zE+6vC2FA==",
-                "mac": "8CqGnW9QmQ63TXQbE0Czww=="
+                "orig": "And we don't regret it! My wife still has some trouble getting used to our traditions, but she always wanted to live somewhere calm and peaceful.",
+                "text": "Et on le regrette pas ! Ma femme a toujours un peu de mal avec nos traditions, mais elle voulait toujours vivre dans un endroit calme et paisible."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/0/text": {
-                "ciphertext": "5HVqZRSQlb+TkmuKp09QJGj3C6W9gDLJfWiYau/fy5Jj8NtCCqGvPE9M9cFZNk4iD/WxgiWq9Iyvxhi8GVm9AyqilISzrEixXemuVhwJC+NmM3SxoKJTNEBrTOlyC0YZ",
-                "mac": "hElwOvL2mkc9HBSxhxpGsQ=="
+                "orig": "Now that I think about it, benches in crossworld are very different from other games.",
+                "text": "Maintenant que j'y pense, les bancs dans crossworld sont très différent des autres jeux."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/1/text": {
-                "ciphertext": "9e55nFrGTHyyauCDQlkDOg==",
-                "mac": "AGJ2fKKgO/RuyKTVNf0+Jg=="
+                "orig": "Why so?",
+                "text": "Pourquoi ?"
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/2/text": {
-                "ciphertext": "A1L4dJDRH5Qe6QhGmqBH8wMvOHaWLoOR4BfrZLSid79kIHRnlOnmVt/2wxWL15wnNI0VZcnS5s/ew9ib8Ny4vfvf3BBK70zXwhBCJlML1JRi9VdzzUeZOZsQu4W2LsuaMttPo7PMecLDrUd77IXLXoKubgPHXrs39cYaYHWS2d0rLarq06G6PysJTqqTg69j",
-                "mac": "D2IdrLoZJfdufFLF/+oZLw=="
+                "orig": "Because they are actually useful! In most game they are purely decorative and you can't really sit on them.",
+                "text": "Parce qu'ils sont utiles, en fait ! Souvent dans les autres jeux ce ne sont que des décorations et on ne peut pas s'asseoir dessus."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/3/text": {
-                "ciphertext": "9t9fRfvDdRE6zp9nGYqL6IzDbOwiB0m44urlGRFRrLl48WxAXGTju/UjPJ14rNIEH5D2FCWyYwS2w/voql575g==",
-                "mac": "co3bP4/6NrUsA3DJg5Klkg=="
+                "orig": "Yeah, it's true that avatars allow proper sitting.",
+                "text": "Oui, c'est vrai que les avatars permettent de s'asseoir."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/4/text": {
-                "ciphertext": "gaB/PVB5MTykV+8fq7N0xkgiPPtRj91KxbfRfJvengkPhIiyABPhreQaQ4Rt+7hvJmAR9tMKSOnE4Wfgw11uug==",
-                "mac": "//xE6kRoPVm9bIGkmO9rMA=="
+                "orig": "Yet, it doesn't seem to be enough...",
+                "text": "Pourtant, ça n'a pas l'air d'être suffisant..."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/5/text": {
-                "ciphertext": "0u6EgT4bR0tdXHUUTEq3GLx8JdHs9qbitiPpYEm9SkU=",
-                "mac": "+2exx2VWR+Blv7+lWj9Y/A=="
+                "orig": "What do you mean?",
+                "text": "Qu'est-ce que tu veux dire ?"
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/6/text": {
-                "ciphertext": "NvKspdG7Mj5AdmwnbbsH3P246N08LrbRc1D0+yFd0xFIi/rVysNFAVx7Mhj+cDQgmib3NUWSs80HcATOlhK8RBkKflBXqckMRIwSIFSOWPXSo+1KLZPbx0hJpkrx2dZ4svpNfjVnd0tBWMzmBZtDAPqiGGCKJ3g2NbLQUpdqtvpLgA17dXzHrnBIEpmWe7V2",
-                "mac": "5tWVQDRYmbbwbW5mdQiaCw=="
+                "orig": "I feel like everyone in this game is trying to sit at the strangest place they can find.",
+                "text": "J'ai l'impression que tout le monde dans ce jeu essaye de s'asseoir dans les endroits les plus étranges qu'ils peuvent trouver."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/7/text": {
-                "ciphertext": "gykXWk0CWiW6HJYvB5WcFeAepF6JzNiIzUd/o+AohMvmH/4QoXHIzB6ebdOWi11URQ+z0eVYnQkWaGsQtF8IC5R9du2gp8grHmNyG9++JNCi+gn64P+Xh19+HhgpZXOw",
-                "mac": "gIn3ReuFNG8UMkxLIbyb9w=="
+                "orig": "Oh, true, I even saw a girl sitting on a table not so long ago.",
+                "text": "Oh, c'est vrai, j'ai même vu une fille s'asseoir sur une table il n'y a pas si longtemps."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/8/text": {
-                "ciphertext": "IbOmq3mH3MNdpkSfgkfsLALE5l8k3gd7/eGxfRK/kSnOx2+NNAG/vjIrY+dI6hyW",
-                "mac": "NLGfZRNkUONAiS9o9zjDDg=="
+                "orig": "Right...\\. But I was thinking of someone else.",
+                "text": "Oui...\\. Mais je pensais à quelqu'un d'autre."
         },
         "maps/forest/interior/inn-01.json/entities/83/settings/dialog/9/text": {
-                "ciphertext": "p+z7SSXSqfuSYHR3Z9Cgbp4Hfnf6jBLASHH9l9eJXsU=",
-                "mac": "cAunFvXHV/d0v3FJtfD1lQ=="
+                "orig": "What person could you possibly be talking about?",
+                "text": "À qui tu pouvais bien penser ?"
         },
         "maps/forest/interior/inn-equip.json/entities/51/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "EDMQiINr1X78jWawGRNTuWyq2GFTVOUMtkrDzd+imN8/qRxEWqTloo2M71mo2ymrE2JzX6tevFFlRK4I6L2wuFz4Q6N52RTXnoYZPiWuxgWJiOiLaRwaI8ihbiIc+Zj9",
-                "mac": "KDeeuPWwbuKqyE5boJvWFg=="
+                "orig": "Weapon best quality of Shad but now foremost we produce for human being.",
+                "text": "Armes de meilleure qualité des Shads, mais maintenant nous surtout produire pour humains."
         },
         "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/0/text": {
-                "ciphertext": "sdujl28h2Kp7MsPDww7oQlnhEekItBkyr7r+hMsN0XSsgXgNwLeUe/1n02MNC7eG",
-                "mac": "/mjUegFMpsNflk+jXWufGQ=="
+                "orig": "How is your chest hunting going?",
+                "text": "Comment va ta chasse au trésor ?"
         },
         "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/1/text": {
-                "ciphertext": "NATMBhHhTecJE1RFvOASrA9C6vtV6+wSiNv4lRa3CLY=",
-                "mac": "kS42MVKKeqESvyzKqmxukQ=="
+                "orig": "I'm still missing a few. ",
+                "text": "Il m'en manque toujours un peu."
         },
         "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/2/text": {
-                "ciphertext": "+YyGcA0//giJJRUoA/fXcf+AnBIEdT5cTQFdkiOsCeU5pLmccDJIsn9Z68bZD0WUnsnjNtERCXmkRw0X76gs69n2MLKcBc82y0Dpd25i53I=",
-                "mac": "ZZ5X7Q35z/1c+vISl3+esg=="
+                "orig": "But I heard of a hidden path east of here.",
+                "text": "Mais j'ai cru comprendre qu'il y a un chemin caché à l'est d'ici."
         },
         "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/3/text": {
-                "ciphertext": "FV+wEb8nJLB6HSYcl7QgRIoHZ+F4wZhUkz2+o9OZ+1U7qFmJXaqt/ZLRolyGhTFf",
-                "mac": "OTLUDds2zQEHBY+jpp8VvA=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/3/message": {
-                "ciphertext": "4mJ1KcpRP0bxrX19RPLE3QGH7VvwcLOc9JJlEn8kIBdOhHYrnaxo4ZmUwv+eoq6Bxqop1CPVlmEFANOCGU0MEw==",
-                "mac": "Jzg2HlW2gtHGUFY+HRc3qw=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/5/message": {
-                "ciphertext": "qrEu+JhBLF44Tna0OAZlyIqr7t1qpZglra6dXPBfFR18FdCBZIX3JWk+3kh3HqRlR+1D1wYLegDJRPga9ceyA03v3pntn4KJoj9CiQVB86w=",
-                "mac": "cjIEneaO81zKtcCDyn2rvg=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/6/message": {
-                "ciphertext": "k2y5jM5ZVipRgsMRPHPnAlvUfOU6FhU4x/7AU1EXS2Fq6O0cyp5cfCJsFT0Yx6rR9M7my+FnOh12TT5oHv4M7t3vkJbKsQfMH5TSJTSw/u4=",
-                "mac": "FY28IXhqbhpj1J+6UF80og=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/7/message": {
-                "ciphertext": "cbkNDzCTCcbiV+yw/jgxjcpXIdtcX1e2oKaeawWF8R2r8DlSIjp7RYHQ8isIqTE2ZiElc+VFFNqM+d4M86Z26Q==",
-                "mac": "a3AWtW+FJDCNvXo0SLNLog=="
-        },
-        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/8/thenStep/1/object": {
-                "ciphertext": "rKrDxOzN5e1dfo+ywkEMGw2wsG7tOSfcCMD69z7zGvI=",
-                "mac": "dHCvrIBa0WfuMNu4uA/psg=="
+                "orig": "Where did you hear that?",
+                "text": "Où c'est que tu as entendu ça ?"
         },
         "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/text": {
-                "ciphertext": "11TdEKZHqbrrRN1+3J1bKsr3BEmGsz4zHFd+4p1ZS/sZNtc6//Fn2hx/I9/KGQ5i7TYj6hjYNDH2VcnM9P5Ciq+kDO/dcXfhu+qxRMdtoorhhOeDG/d+Rj/SojLKvbxO",
-                "mac": "BU46EzuHHZNXgb0n+mCxsQ=="
+                "orig": "Some \\c[3]player with the lab coat skin\\c[0] walked by, mumbling about it and stuff.",
+                "text": "Un \\c[3]joueur avec une blouse blanche\\c[0] est passé par là, en marmonnant à propos de ça."
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/3/message": {
+                "orig": "What's up, wanna know about that path too?",
+                "text": "Qu'est-ce qu'il y a ? Tu veux aussi trouver ce chemin ?"
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/5/message": {
+                "orig": "It's somewhere in the eastern cavern system if I understood correctly.",
+                "text": "C'est quelque part dans le complexe de cavernes à l'est si j'ai bien compris."
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/6/message": {
+                "orig": "He said something about using Electricity to charge some bots.",
+                "text": "Il parlait d'utiliser de l'Électricité pour charger des robots."
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/7/message": {
+                "orig": "Not sure what he meant by that.",
+                "text": "Je suis pas sûr de ce qu'il voulait dire par là."
+        },
+        "maps/forest/interior/inn-equip.json/entities/78/settings/dialog/4/event/8/thenStep/1/object": {
+                "orig": "\"Hidden Path\" Clue",
+                "text": "Indice \"Chemin Caché\""
         },
         "maps/forest/interior/inn-item.json/entities/14/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "bt8TItOLCH3t+5zqPfoSZXGacHmeKKBVIMDdHpZFUWETk1WAX281nWPvvEtjgu+85dVlHMsYuUKPRtgsB7rjpQ==",
-                "mac": "FN6VjgpqNGFUCEsiMOmu6w=="
+                "orig": "Shop.\\. It has the thing you buy.",
+                "text": "Boutique.\\. On a les choses que vous voulez acheter."
         },
         "maps/forest/interior/inn-item.json/entities/17/settings/dialog/0/text": {
-                "ciphertext": "dEvnVUMy7w/u/XQWb14jZXNfzuUpkY7PK/jwuoUXmdosicAuI8WVd3h2rM1/yZ+tf2WyHdeVjOqVZOx/ZQP7Ow==",
-                "mac": "oHERB0guyGDmA/forQ3pvw=="
+                "orig": "So, found anything useful in here?",
+                "text": "Donc, tu as trouvé quelque chose d'utile là-dedans ?"
         },
         "maps/forest/interior/inn-item.json/entities/17/settings/dialog/1/text": {
-                "ciphertext": "vODU9rS/J7s4nDuuKhE4TWdVxdJpzaPYSu2klWcoRMU=",
-                "mac": "DZXLqC05sOCe/1MNW74mOQ=="
+                "orig": "Not really, just one chest.",
+                "text": "Pas vraiment, juste un coffre."
         },
         "maps/forest/interior/inn-item.json/entities/17/settings/dialog/2/text": {
-                "ciphertext": "b+rh6PTfY2uDI4b6acH+dhlp2v9z4hJkiakvYypFYKdKJCfu6JZc3Mc5hqHcVlIn5UaARQv7NM2H1yjP87Nu7z3YhtTpLTmG8wZvmsARJRQ=",
-                "mac": "MkzSkpb0iFRd/ADSPMulIQ=="
+                "orig": "And this strange device in one of the storage room upstairs.",
+                "text": "Et aussi un appareil étrange dans une des salles de stockage à l'étage. "
         },
         "maps/forest/interior/inn-item.json/entities/17/settings/dialog/3/text": {
-                "ciphertext": "LhNAYLHY6YPB/wrGlHXbipdoMrdncJBOgrGrI7YTN7o=",
-                "mac": "95E1JiCPripmc9eOnU9ObA=="
+                "orig": "But it really didn't do anything.",
+                "text": "Mais ce truc ne faisait rien."
         },
         "maps/forest/interior/inn-item.json/entities/17/settings/dialog/4/text": {
-                "ciphertext": "937ko+Y+9wWlb8mjwJg89V5HBD4lMkYUJSHacysptfU=",
-                "mac": "/vc2rxIz3otdIG8SlgOi6g=="
+                "orig": "That's a feels bad...",
+                "text": "Dommage pour toi..."
         },
         "maps/forest/interior/inn-item.json/entities/17/settings/dialog/5/text": {
-                "ciphertext": "R5Y7erPOsO9+6vMxW67DPA==",
-                "mac": "yiqznNJBdek8AHueS+Ct5g=="
+                "orig": "Don't even start.",
+                "text": "Commence pas."
         },
         "maps/forest/interior/inn-item.json/entities/20/settings/dialog/0/text": {
-                "ciphertext": "1zqgMwGqCy1LqzFnxXAgE6NIFe7nNS448JxKO/n9G8SByqB7mo6dEXDbJpnum7pP",
-                "mac": "tH+H5xiSwgFcgvQ+sdy7UA=="
+                "orig": "Are you ready to do the trials now?",
+                "text": "Tu es prête pour les épreuves maintenant ?"
         },
         "maps/forest/interior/inn-item.json/entities/20/settings/dialog/1/text": {
-                "ciphertext": "tJS5pt7Ni/+QfmWs19BsWranYY5pPMQRi2VTRLgvBeXWE1Kr9DnjRGT+ZfT9QhbyITlZIm44QgS2CxE2gPoGiQV3Sluxnkv9jmlCo/v/i9M=",
-                "mac": "Fgb8+MkmZPw3XmXfJK3yRw=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/10/message": {
-                "ciphertext": "GHWLv9oYn0ULMjuEw3rzQ/62Q8nElrlsRE2G5z5V/1Jao+2plmhZmmjTqt348jF0",
-                "mac": "689xLklDALMjhxvRfXyYzQ=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/2/message": {
-                "ciphertext": "f3WjVXy28fy5Ar1f8Zt2Tw==",
-                "mac": "8esVpMpKf8mTZZbtK8JbBg=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/3/message": {
-                "ciphertext": "F5oOsPf8/8wxQl6cCxvuCA==",
-                "mac": "fSyhSr+croHXi2Um0ljcng=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/4/message": {
-                "ciphertext": "+rmrS+mceN7UCg9+8yBDf1vwPf7wmWJ2ChL6jDBXSidcMttOH4VUMWQ+i6m3W/5hPUJN2t6WJMkkM0lotnkkY6aJXEp6epxgLETKKDujcC4=",
-                "mac": "OZMXlCYgmWmcJd6CQePWvg=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/5/message": {
-                "ciphertext": "UySN+2bx/aIISw6pQ7pVYg==",
-                "mac": "tyRKMaGajx1JJY/9VFx6VQ=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/8/message": {
-                "ciphertext": "q8nUNAsB9jZyfQGKypWWVo+ZKtV1lN8cHT9gbKZhmeP89sS7giWYzZiMmylCQkvSqTr+Lp5jM1SvRAkN9PNUTzmqXDUf26Ah+5telStjE6aAU+4U6juDBW0Fwe2nPbe+",
-                "mac": "4gz0ctLFnH4E/7O0MqgteQ=="
-        },
-        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/9/message": {
-                "ciphertext": "AmASpErR3urDIKDiqY3AGf7I7ZkHdAdhtPNtyifZuD0cG85pCgDsSSx9apNX5ZlBlp5aq9yHYbD58vG0IWhCWw00I4LozDHxg4oy+ZxbOadA20VRHEvFACWGyW+kmzxM",
-                "mac": "ztKw2BelJ+CMUlAiU5fyNA=="
+                "orig": "Not yet, I used all my sandwiches on the boss before.",
+                "text": "Pas encore, j'ai utilisé tous mes sandwichs pour le dernier boss."
         },
         "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/text": {
-                "ciphertext": "Osnk8LhbUZIMBLJA4CLodx0n3dYimNAgb+dHTC9V8hv+7tZkLSPpfyOpwEi8ziDR",
-                "mac": "2I5hEPhm9NoPaS0KlAavsQ=="
+                "orig": "I'm fresh \\c[5]out of credits\\c[0], too... ",
+                "text": "Et j'ai \\c[5]plus de crédit\\c[0], aussi..."
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/2/message": {
+                "orig": "Hi.",
+                "text": "Salut."
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/3/message": {
+                "orig": "Hey, you!",
+                "text": "Hé, toi !"
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/4/message": {
+                "orig": "Care to spare a poor girl a few thousand credits?",
+                "text": "Tu n'aurais pas quelques milliers de crédits pour une pauvre fille ?"
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/5/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/8/message": {
+                "orig": "I already told you, they got rid of credits trading ages ago.",
+                "text": "Je te l'ai déjà dit, ils ont retirés les échanges de crédits il y a des lustres."
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/9/message": {
+                "orig": "If you keep asking for items, you'll just look suspicious.",
+                "text": "Si tu continues de demander des items, ça ne fera rien d'autre que te rendre suspecte."
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/10/message": {
+                "orig": "Seriously? Please don't report me...",
+                "text": "Sérieusement ? Me dénoncez pas..."
+        },
+        "maps/forest/interior/inn-item.json/entities/20/settings/dialog/2/event/11/message": {
+                "orig": "...",
+                "text": "..."
         }
 }

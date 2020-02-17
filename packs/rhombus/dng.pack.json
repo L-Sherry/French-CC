@@ -1,586 +1,586 @@
 {
-        "areas/rhombus-dng.json/floors/0/maps/0/name": {
-                "ciphertext": "p4bRxLrPwpXG4o+2f9vYFQ==",
-                "mac": "HFWPgw7tih0IUmT5TYf1/w=="
-        },
-        "areas/rhombus-dng.json/floors/0/maps/1/name": {
-                "ciphertext": "OBbUK+dxVb3q2tMhiOz1W5mo2TXqSVc5UFN8uWF3v3Q=",
-                "mac": "kN9zSURXnewFfMMPqjqSjw=="
-        },
-        "areas/rhombus-dng.json/floors/0/maps/2/name": {
-                "ciphertext": "iuakyQ5KbBm5Y290uaCuMxhyfbhgPeWMyamqqSbr1mw=",
-                "mac": "MPYux+7fZgZ4Vkk8TME/JA=="
-        },
-        "areas/rhombus-dng.json/floors/0/maps/3/name": {
-                "ciphertext": "wMIG65kDzStVX0tL1e/Rrhs/S2aVd25in2BmfKqQ3us=",
-                "mac": "0EobtPTX9vw1yFrwyZ9qZQ=="
+        "areas/rhombus-dng.json/name": {
+                "orig": "Rhombus Dungeon",
+                "text": "Donjon de Rhombus"
         },
         "areas/rhombus-dng.json/floors/0/name": {
-                "ciphertext": "LkzRgTmVoezfOupMjdLwGw==",
-                "mac": "lmCxeUnqImXl0TOyCnkZyA=="
+                "orig": "1st Floor",
+                "text": "1er Étage"
         },
-        "areas/rhombus-dng.json/floors/1/maps/0/name": {
-                "ciphertext": "z50h+m/GSnnReraHfMP6Rg==",
-                "mac": "9Wk3aCI8ehb6S0creAbgPA=="
+        "areas/rhombus-dng.json/floors/0/maps/0/name": {
+                "orig": "Entrance",
+                "text": "Entrée"
         },
-        "areas/rhombus-dng.json/floors/1/maps/1/name": {
-                "ciphertext": "rY9ATrWB/RXau+TtxDseYHCgdAnjeVb42GwEt6X6rs8=",
-                "mac": "oP/totNb0B0RqwnSsu6gcQ=="
+        "areas/rhombus-dng.json/floors/0/maps/1/name": {
+                "orig": "Puzzle Room 1",
+                "text": "Salle de Puzzle 1"
         },
-        "areas/rhombus-dng.json/floors/1/maps/2/name": {
-                "ciphertext": "VEbYD9klz8Cp1XrPh+CsY5xqMT5y7DOIBS+UY2btxsw=",
-                "mac": "BPi9mrws9Y7e1XvNyz1S4Q=="
+        "areas/rhombus-dng.json/floors/0/maps/2/name": {
+                "orig": "Puzzle Room 2",
+                "text": "Salle de Puzzle 2"
         },
-        "areas/rhombus-dng.json/floors/1/maps/3/name": {
-                "ciphertext": "L8YsPqYyL4AmxZIfCpvOfl9ouGyeiok/rTfWrxsXGqc=",
-                "mac": "A2/JuyFkz28LezLd2xo0wg=="
-        },
-        "areas/rhombus-dng.json/floors/1/maps/4/name": {
-                "ciphertext": "KQF3HPruWUYVyzUiksDJtcq3HSZKcPKTlTUlwTsHJIM=",
-                "mac": "ouxbHIt86yCV1lRLmxi4aw=="
-        },
-        "areas/rhombus-dng.json/floors/1/maps/5/name": {
-                "ciphertext": "uwBZ3wmXC0Ue8C+E0kbvixl9oULVKH9TzhvMJ7IzKfo=",
-                "mac": "3ZbPQSwzVD1HvnGF67bxSw=="
-        },
-        "areas/rhombus-dng.json/floors/1/maps/6/name": {
-                "ciphertext": "a5+0bvfNmEJHWIsiWeyEaxnCZ0nNbeYL6AVtulJv4/U=",
-                "mac": "BXr41na1QPZKQZxZs2k8Rg=="
+        "areas/rhombus-dng.json/floors/0/maps/3/name": {
+                "orig": "Ability Room 1",
+                "text": "Salle d'Habilité 1"
         },
         "areas/rhombus-dng.json/floors/1/name": {
-                "ciphertext": "G6EuqbhfQ/COoEVwJ6hEQQ==",
-                "mac": "HDQY3siXxkVGJsZCGUgyyg=="
+                "orig": "2nd Floor",
+                "text": "2ième Étage"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/0/name": {
+                "orig": "Middle Room",
+                "text": "Salle du Milieu"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/1/name": {
+                "orig": "Upper Path 1",
+                "text": "Chemin Supérieur 1"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/2/name": {
+                "orig": "Upper Path 2",
+                "text": "Chemin Supérieur 2"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/3/name": {
+                "orig": "Upper Path 3",
+                "text": "Chemin Supérieur 3"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/4/name": {
+                "orig": "Lower Path 1",
+                "text": "Chemin Inférieur 1"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/5/name": {
+                "orig": "Lower Path 2",
+                "text": "Chemin Inférieur 2"
+        },
+        "areas/rhombus-dng.json/floors/1/maps/6/name": {
+                "orig": "Lower Path 3",
+                "text": "Chemin Inférieur 3"
+        },
+        "areas/rhombus-dng.json/floors/2/name": {
+                "orig": "3rd Floor",
+                "text": "3ième Étage"
         },
         "areas/rhombus-dng.json/floors/2/maps/0/name": {
-                "ciphertext": "xgKmf9DthqR+VmiM7f9xC578jOvF76Ad7FP37aI3JEs=",
-                "mac": "0/CLSoao6xGS/mL5acFL5w==",
+                "orig": "Ability Room 2",
+                "text": "Salle d'Abilitée 2",
                 "quality": "bad"
         },
         "areas/rhombus-dng.json/floors/2/maps/1/name": {
-                "ciphertext": "FzBHZppxpLXk2n/5Nc4rCHB4RTXgeW56Bv+Sb2jkvU4=",
-                "mac": "SaF3VjY8ZKoWItZ4oMixiA=="
+                "orig": "Puzzle Room 3",
+                "text": "Salle de Puzzle 3"
         },
         "areas/rhombus-dng.json/floors/2/maps/2/name": {
-                "ciphertext": "K2VEsMHLueyIXQK4mkF5Qw==",
-                "mac": "cuqc4leaclqIWYWQUEJdjw=="
-        },
-        "areas/rhombus-dng.json/floors/2/name": {
-                "ciphertext": "VdN6pjoI062KRV3wkZejkQ==",
-                "mac": "q7ZvsNvdD6dO16t3klqRbg=="
-        },
-        "areas/rhombus-dng.json/floors/3/maps/0/name": {
-                "ciphertext": "80fgKr11/xLcdxfhHZ653w==",
-                "mac": "CfDrCU+mL2XDaI9tBOrExA=="
+                "orig": "Boss Room",
+                "text": "Salle du Boss"
         },
         "areas/rhombus-dng.json/floors/3/name": {
-                "ciphertext": "pVTJuqZ7m273ZCUug1PYZA==",
-                "mac": "DpSqbdQkvVdHA0cRvnDQzw=="
+                "orig": "4th Floor",
+                "text": "4ième Étage"
         },
-        "areas/rhombus-dng.json/name": {
-                "ciphertext": "xp4syXWH0LhiThnsmtXt0GRWPMZ8yzQtAHa+UrwEJCQ=",
-                "mac": "VzKZawjXwwnJKf6e1374RA=="
+        "areas/rhombus-dng.json/floors/3/maps/0/name": {
+                "orig": "Final Room",
+                "text": "Salle Finale"
         },
         "maps/rhombus-dng/boss.json/entities/20/settings/event/1/message": {
-                "ciphertext": "a/Uo46yWYIZKt6myeQSKNg==",
-                "mac": "FWZ0QLatIG0AQ4DjPDkQZw=="
+                "orig": "Incoming...",
+                "text": "Prépare-toi..."
         },
         "maps/rhombus-dng/boss.json/entities/20/settings/event/2/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/rhombus-dng/boss.json/entities/21/settings/teleportLabel": {
-                "ciphertext": "MsATri21lEz5iT401UJXkg==",
-                "mac": "DP0eaeuTN7aX9+Dpyt4yjQ==",
-                "ciphernote": "R51Sx1c7dP9qYzLQfIIPaEH+sHoZ6sLfRQ0zGpgrVMYydMHO9PvTE7bc6SrpILyZ"
-        },
-        "maps/rhombus-dng/boss.json/entities/22/settings/event/0/elseStep/0/message": {
-                "ciphertext": "xtyI3Yl2049AHiw2M+pG4htpOIJM47ezdF+qfVX99RM=",
-                "mac": "x3+4SdmHVhhhPYlqb0iZFA=="
+                "orig": "Onwards",
+                "text": "Continuer",
+                "note": "it's bad without an exclamation mark"
         },
         "maps/rhombus-dng/boss.json/entities/22/settings/event/0/thenStep/0/message": {
-                "ciphertext": "1IgC7aezTxQ+z93ZsTNWCUVUER33QwvtrblkuoNJbQIG+14podsL6W81R1UgTFreeVMLxTrH6v2y3AB8xhmGBg==",
-                "mac": "D7uv8cX03rGBQ2YD68dbAw=="
+                "orig": "Well yes...\\. that was about as quick as expected.",
+                "text": "Oui bon...\\. Je m'attendais à ce que ça soit aussi rapide."
+        },
+        "maps/rhombus-dng/boss.json/entities/22/settings/event/0/elseStep/0/message": {
+                "orig": "Nice work, you did great!",
+                "text": "Joli travail, c'était bien !"
         },
         "maps/rhombus-dng/boss.json/entities/22/settings/event/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/12/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/15/message": {
-                "ciphertext": "CVHRWTzwfGqSfMi6vCwWY0NwjcNxHS0OSpip3bW7OCdpF2GoRL1GSuNL1Fl3h7tArOtMJqZcjsH3K6klIHfOUxk7vFhyriazfMdlhQvkoOI=",
-                "mac": "vQVrjUt7c4MCY9m+wGZ+2Q=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/21/message": {
-                "ciphertext": "iWfpimqdkc61JoDAabg4DXHCrGOXLdjMzVJxVLU+eXY9OXTAQfYEnV6qdM7GXZUpCiNiZws3E25D3rRfiBUdzCt7tscX4/2Wf7m8Usd5Wbs=",
-                "mac": "2W0XDIpp1mNA/8aGBoMOWQ=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/22/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/23/message": {
-                "ciphertext": "KPqsBdpSQhcTwUTe4yS4aZDQ7YP5zo8e13mwBypEo0K/acMVCexNLNWnQKOcs4qhNEX46h71UGR6oprKuaYYIw==",
-                "mac": "Xngmr56meO2vDlvcizs9ww=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/24/message": {
-                "ciphertext": "9mCVps74RLqv32ohK4KHXxehuV0wEl6mhsf3jQdTpNxNznaVNXfZuiF8haeaLqK83qeWX0isWxvGIjKUzBF0pE5VRzMPllTfqFEeIViaW8c=",
-                "mac": "ZmncDBD7WYYv7xzH+1xQ7w=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/25/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/26/message": {
-                "ciphertext": "ri2/hF6mDExGDgMBrw1L3LC9uQa/PzjaCULNrZcSBQApgtUr0yoIXuEFhYPaBKEo",
-                "mac": "99kAAjltJgw6DDLKTswicA=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/27/message": {
-                "ciphertext": "o9LfBhyYNIMkywSAnPZxnTu02PYeKP3pj0YGhdG2HH6b0dH8jfKNTcUe9LwUWM1r/dAF37wt5csDat0E0QhV8/9w0877dMQSOzpXTke595+SMH2fTn9htCVL4aPKgdoe",
-                "mac": "mqga+PXurok7gz6HDZe8GQ=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/28/message": {
-                "ciphertext": "Ewnb3IBMp7r+zxOUg2ehNHWXRD4OpCVXstlrPHKR71p8SlmK+kr9+FPVGLFSzNAexeL9SOrd7UNQck5D5KcTX53+BqiDyRNf2Qgqk+4qVW0xSh20UUeCIxprrjF03uCp",
-                "mac": "YiiT4YJ7ziuLFpQShieY+Q=="
-        },
-        "maps/rhombus-dng/entrance.json/entities/6/settings/event/29/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rhombus-dng/entrance.json/entities/6/settings/event/7/text": {
-                "ciphertext": "6ujXpBvJio/A8x4jPqEGf8MBeGxZucN6xLJXkU5KrTU=",
-                "mac": "9fdPIA8SqrtAFAbePexrRw=="
+                "orig": "Initializing Avatar",
+                "text": "Initialisation Avatar"
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/15/message": {
+                "orig": "Oh, they added a welcome sign. Very hospitable.",
+                "text": "Oh, ils ont ajouté un panneau de bienvenue. Très hospitalier tout ça."
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/21/message": {
+                "orig": "Are you looking for that redhead pentafist from before?",
+                "text": "Est-ce que tu cherches la Pentafist rousse que tu as vue avant ?"
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/22/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/23/message": {
+                "orig": "Well... I am afraid you will not find her here.",
+                "text": "Eh bien... Désolé, mais tu ne la trouveras pas ici."
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/24/message": {
+                "orig": "You see, each player is placed into a separate instance of these rooms.",
+                "text": "Tu vois, chaque joueur est placé dans une instance séparée de ces salles."
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/25/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/26/message": {
+                "orig": "You will find plenty of puzzles ahead. ",
+                "text": "Il y a plein de puzzles plus loin."
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/27/message": {
+                "orig": "You really would not want other players to interfere around here.",
+                "text": "Tu ne voudrais vraiment pas que les autres joueurs puissent interférer autour de toi."
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/28/message": {
+                "orig": "So it is all about who will be fastest by themselves, right?",
+                "text": "Donc c'est à celui qui se débrouillera le plus rapidement chacun de son côté, non ?"
+        },
+        "maps/rhombus-dng/entrance.json/entities/6/settings/event/29/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-dng/entrance.json/entities/12/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/rhombus-dng/room-1-6.json/entities/2/settings/event/36/object": {
-                "ciphertext": "GvxNotFXMVgGIjlYcC0ohQ==",
-                "mac": "ss/Mad/PDW6c0iXMwkwIKg=="
+                "orig": "Quick Menu",
+                "text": "Menu Rapide"
         },
         "maps/rhombus-dng/room-1-6.json/entities/37/settings/teleportLabel": {
-                "ciphertext": "LbMmiYYXbkrTNVpDv2NfpQ==",
-                "mac": "gosYTFj8bnguuEQYPoHx1w=="
-        },
-        "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/11/text": {
-                "ciphertext": "TT5LZ9bV87Glvw3gx1PpN/OrTCYPDF+PLjUgR/CoDUELADqlgiBVGj/ns8fI2Z1j",
-                "mac": "bQk56oKgQorjvJMFcd9UGA=="
-        },
-        "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/5/elseStep/0/text": {
-                "ciphertext": "6qHb4P+zG3WJyGL/6FIbvI8NTW2TPAnTo2m1hOz25woTucOiwIrEM1FsjLwCdNQj/GpDd+JaN47Bb2Kdie44DPWbvUfHV3MBu3G/oqKH8Yg=",
-                "mac": "+ig3gH2Q/ReYo9EGFKqu0g=="
+                "orig": "Next Level",
+                "text": "Niveau Suivant"
         },
         "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/5/thenStep/0/text": {
-                "ciphertext": "ix26u5QRD2V8LUQzV/rKRjO/n9fEZ+RLMei2zYpGv0Gv3Oixi4urxeAedHk6aveOk8sIIsRcS6EkB8b2CoJwQQ==",
-                "mac": "S/vgEAnEeJnEkSYHyB2+gw=="
+                "orig": "Press \\i[quick] to open the \\c[3]quickmenu\\c[0].",
+                "text": "Appuyez sur \\i[quick] pour ouvrir le \\c[3]menu rapide\\c[0]."
+        },
+        "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/5/elseStep/0/text": {
+                "orig": "Press and hold \\i[quick] to open the \\c[3]quickmenu\\c[0].",
+                "text": "Appuyez et maintenez \\i[quick] pour ouvrir le \\c[3]menu rapide\\c[0]."
         },
         "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/7/text": {
-                "ciphertext": "J38ytTOjNfARvRlD0WVsrMMFwm8XD5Dcyh8AQMNG0i8=",
-                "mac": "EmrMbA/6PKxjb56TgqwBTA=="
+                "orig": "Consume \\c[3]items\\c[0]",
+                "text": "Consommer des \\c[3]items\\c[0]."
         },
         "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/9/text": {
-                "ciphertext": "JD9pziyABXopWn3WM+eswOMpT4SbHCdFEvsiMucSGx0=",
-                "mac": "Mwvy/XRDKV3xUOGOQvGDNw=="
+                "orig": "Open the \\c[3]map\\c[0]",
+                "text": "Ouvrir la \\c[3]carte\\c[0]"
+        },
+        "maps/rhombus-dng/room-1-6.json/entities/42/settings/event/11/text": {
+                "orig": "Inspect the \\c[3]environment\\c[0]",
+                "text": "Inspecter l'\\c[3]environnement\\c[0]"
         },
         "maps/rhombus-dng/room-1-6.json/entities/44/settings/text": {
-                "ciphertext": "QmDSomym929vtit1KCPM/xMS6GsqWLywbF8t3RV2Q1n0DpWeGhoY96w1I/WnVk1i",
-                "mac": "exmOulkhfjrm83bssGa2Zg=="
+                "orig": "A chest! But what is inside?",
+                "text": "Un coffre ! Mais que contient-il ?"
         },
         "maps/rhombus-dng/room-1-6.json/entities/45/settings/text": {
-                "ciphertext": "N63JWDvH986koXOCGV+wvWqhUiz+jrZlSQ1GTHvHNimCW5mdsWOyDlrjomtNnpi+axOAuKPsq14hEz01NZ6EMt+YeNWrDoQN9b5SXXCoifo=",
-                "mac": "ooyghgpTkGlAYiDQXeeXtw=="
+                "orig": "A Chest! Some yummy \\c[3]\\v[item.1.name]es\\c[0] were inside.",
+                "text": "Un coffre ! Des \\c[3]\\v[item.1.name]s\\c[0] délicieux étaient à l'intérieur."
         },
         "maps/rhombus-dng/room-1-6.json/entities/46/settings/text": {
-                "ciphertext": "GMjj1vEfRG9rwm7c+K7wVGxmn5B8pNeoMmIvRNYiUfiO/pb805LbtWDFU9qz+Sub",
-                "mac": "aevGDdjwaqMex5nrNLE3Sg=="
+                "orig": "A Chest! But what is inside?",
+                "text": "Un Coffre ! Mais que contient-il ?"
         },
         "maps/rhombus-dng/room-1-6.json/entities/47/settings/text": {
-                "ciphertext": "cQZsKIvIbWdWeXsrT2BM8evvMkrce8+Trw3ZORaAnosu4cN7u2TXLI6I6JGHVjXz38v59iuLXdiIUF9pJiMFcTcX1Et+WMN+h1BgQ5yvNP4=",
-                "mac": "B3MV6GDYSXXN1LcRWpV2FA=="
+                "orig": "A Chest! Two \\c[3]\\v[item.2.name]s\\c[0] were inside.",
+                "text": "Un Coffre ! Deux \\c[3]\\v[item.2.name]s\\c[0] étaient à l'intérieur."
         },
         "maps/rhombus-dng/room-1-7.json/entities/9/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/rhombus-dng/room-1.json/entities/10/settings/event/0/message": {
-                "ciphertext": "JhBoJyG6Udg9vwiqIAwwq1dfJmULFFrOBfEajj0FzBkvLcNkVZjKaPEgrInubM83p935cb7/Sp2rT0eYCbTGXw==",
-                "mac": "cCRiV942tSRTxZCzwWgR/w=="
+                "orig": "Alright, Lea... I will be gone for a couple of minutes.",
+                "text": "OK, Lea... Je vais m'absenter pendant quelques minutes."
         },
         "maps/rhombus-dng/room-1.json/entities/10/settings/event/1/message": {
-                "ciphertext": "PzFzuPCKbFIOpXJIwF+spykQSpukMqqF9+K7pOCdFTclVN3/JyyAcfgJf1tG9eZ4fvdKLxqK4O4CRWDIjGjv7p2bt2Ay4bFlhLXGvg9vF/xUAQf0+Tq4eliySpBmS3qc",
-                "mac": "wo7GfF9qP6ywKRwk4HurUA=="
+                "orig": "I will contact Jet and Carla, and try to investigate that blue individual.",
+                "text": "Je vais contacter Jet et Carla, et essayer d'en savoir plus sur cet individu bleu."
         },
         "maps/rhombus-dng/room-1.json/entities/10/settings/event/2/message": {
-                "ciphertext": "Juxx6wauhXcubINav02DgVWRV9wVpbHEcjlJezFlKrQIDsggRRxv87XseJkYvuS/Xfs5HM1DpqC7cfJrN6e3AA==",
-                "mac": "lsUplc3X0OgNoEKnwGYg6A=="
+                "orig": "I am sure you will be fine by yourself. See you later!",
+                "text": "Je suis sûr que tu peux t'en sortir toute seule. À plus !"
         },
         "maps/rhombus-dng/room-1.json/entities/10/settings/event/3/message": {
-                "ciphertext": "vDGgVn+i5tBlMU3LLboSUw==",
-                "mac": "5DqBk41cvpxDWe9Y4vt+FA=="
+                "orig": "...Hi.",
+                "text": "... Salut."
         },
         "maps/rhombus-dng/room-1.json/entities/10/settings/event/4/message": {
-                "ciphertext": "EReLXts6KTRkEWNYIEw6ww4pMOL6eTkAY8RZBTEj+QnG0uY2vB3by3nES670RnxPj2ZASn3Lqy4PnQrlsn4dkQ==",
-                "mac": "QsWlyk8gUIk6qt7lEP3vog=="
+                "orig": "...I really have to work on your vocabulary.",
+                "text": "... Je dois vraiment travailler sur ton vocabulaire."
         },
         "maps/rhombus-dng/room-1.json/entities/10/settings/event/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/rhombus-dng/room-2.json/entities/0/settings/teleportLabel": {
-                "ciphertext": "ycMZNZomIsOgIw4OQT/+/i13L4C/VXy3FCg49f9mTIY=",
-                "mac": "B99+mjs5e9+s/ckHA8QdZQ=="
+                "orig": "Previous Level",
+                "text": "Niveau Précédent"
         },
         "maps/rhombus-dng/room-2.json/entities/36/settings/teleportLabel": {
-                "ciphertext": "LbMmiYYXbkrTNVpDv2NfpQ==",
-                "mac": "gosYTFj8bnguuEQYPoHx1w=="
+                "orig": "Next Level",
+                "text": "Niveau Suivant"
         },
         "maps/rhombus-dng/room-4.json/entities/2/settings/event/11/task": {
-                "ciphertext": "EWjz6J6ZzifmgHu8DNi0F7FBTJtI5EEckvlp1/rHVx8=",
-                "mac": "Xz6E2BdqgMYxLc/aEnGttg=="
+                "orig": "Survive Wave 1!",
+                "text": "Survivez à l'assaut 1 !"
         },
         "maps/rhombus-dng/room-4.json/entities/6/settings/event/3/task": {
-                "ciphertext": "IA0dXwLeW3Z2kbHoqMAWDluLXJ+mxEE2C01mB1lfPFw=",
-                "mac": "zzUqpMUx517LZ9b027Dn1g=="
+                "orig": "Survive Wave 2!",
+                "text": "Survivez à l'assaut 2 !"
         },
         "maps/rhombus-dng/room-4.json/entities/7/settings/event/3/task": {
-                "ciphertext": "8xaIdTGmlXhe4pL2x5DHXF5/WdhQv+8Izh3wbPdGWk8=",
-                "mac": "DsM107FAwmQq2zc7fc3tyA=="
+                "orig": "Survive Wave 3!",
+                "text": "Survivez à l'assaut 3 !"
         },
         "maps/rhombus-dng/room-4.json/entities/8/settings/event/3/task": {
-                "ciphertext": "hCxRGQV+9JOG4JnrpXuJC4RwJD3yp8F2wIm/uIKmckY=",
-                "mac": "+iMXCv2zDCue0GWQoeNWMg=="
-        },
-        "maps/rhombus-dng/room-4.json/entities/8/settings/event/9/guiInfo/settings/taskTitle": {
-                "ciphertext": "LTlrgmex46zz2QtM6ieR6Q==",
-                "mac": "jadP/qFgEathtG1zjT6HUA=="
+                "orig": "Survive the final wave!",
+                "text": "Survivez à l'assaut final !"
         },
         "maps/rhombus-dng/room-4.json/entities/8/settings/event/9/guiInfo/settings/text": {
-                "ciphertext": "tIxjo7lvt97CfSV2EiS+TkjS4wyi9UPKsSgG6HRCTHAuhcwkOmHizQmuJBSlHmgC",
-                "mac": "tR8JQj/etmbDs5KbdK2TDw=="
+                "orig": "THE TIME FOR REVENGE IS NIGH!",
+                "text": "L'HEURE DE LA REVANCHE A SONNÉE !"
+        },
+        "maps/rhombus-dng/room-4.json/entities/8/settings/event/9/guiInfo/settings/taskTitle": {
+                "orig": "",
+                "text": ""
         },
         "maps/rhombus-dng/room-5-newer.json/entities/2/settings/event/36/object": {
-                "ciphertext": "DCVciGT1WlzLPOpvEm5Zmw==",
-                "mac": "8XQ1GI7EQOyU6K21u3Nk9A=="
+                "orig": "Character Menu",
+                "text": "Menu Personnage"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/2/settings/event/37/task": {
-                "ciphertext": "vCJImyLVaA8wpWLf3dZA3orgX/PrPqCDAC7qB3UnCckuQVKt6olHxkei5MFYhYa9AHuhsXjMrHUgsVXKlg72JTfCtG9ZDpmEQI/h1XaBsz4=",
-                "mac": "zk4hZRTxSJ3Tv6voT3FmZw=="
+                "orig": "Complete the final dungeon of \\c[3]Newcomer's Bridge\\c[0].",
+                "text": "Finissez le dernier donjon du \\c[3]Pont des Nouveaux Arrivants\\c[0]."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/24/settings/teleportLabel": {
-                "ciphertext": "ycMZNZomIsOgIw4OQT/+/i13L4C/VXy3FCg49f9mTIY=",
-                "mac": "B99+mjs5e9+s/ckHA8QdZQ=="
+                "orig": "Previous Level",
+                "text": "Niveau Précédent"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/31/settings/event/1/thenStep/0/guiInfo/settings/text": {
-                "ciphertext": "T+7YTP/eXcZaoGEMULqDNnFXge0iWBwSFI7pljwO9lE885s/FqHV1GDOX6SzBugHybScxTNZVQQZr4znrDLWfiHT6weN2mRyVijFi6Te7Jqf87YGyTYMXOI5/8+rybutHU/+ITD81rDdX0TQlYQyHA==",
-                "mac": "Jvu5TJqCKkg5EADgpycIkg=="
+                "orig": "Press \\i[menu] to open the menu.\nSelect \\c[3]equipment\\c[0] to equip the new items.",
+                "text": "Appuyez sur \\i[menu] pour ouvrir le menu.\nSélectionnez \\c[3]Équipement\\c[0] pour équiper les nouveaux items."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/40/settings/event/0/thenStep/0/message": {
-                "ciphertext": "NDwtlXSaP1tqzO/JQxF1jlAIj2IoIyJeZ19gRb/4Q9VCDZQCrB5HNyFXvNx1cTyAh0meB4W8efYlF9CAsmzaB3fyCmY39EOwxMh3ARJ3zhU=",
-                "mac": "PDFm65jTckAzbhHzxC0jKQ=="
+                "orig": "Oh...\\. Right. Enemies start to give EXP at this point.",
+                "text": "Ah...\\. Oui. Les ennemis commencent à donner de l'EXP à partir de maintenant."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/46/settings/interact/hoverText": {
-                "ciphertext": "LA9WoMOj0R8DDXpefYd+2JTKg2WU3E84YIF8MkaQdHI=",
-                "mac": "2VjoWPNKYLMAGgJmMhTzAQ=="
+                "orig": "Equip Rookieblades",
+                "text": "Équipez les Lames de Recrue"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/47/settings/interact/hoverText": {
-                "ciphertext": "ASU3W3GXsnRDA36qIz6agcob6TG0xA/VaY7EQ1OdTuY=",
-                "mac": "y60J7MpRcEQSFnn0+TPCtQ=="
+                "orig": "Equip Rookiehat",
+                "text": "Équipez le \\v[item.23.name]"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/50/settings/interact/hoverText": {
-                "ciphertext": "kbDf7Owr/8flaDXBKNvbW9LgUFknFA4hJiqzWz6IyEI=",
-                "mac": "YOKVKd1RYRJnDv0E++Ct+g=="
+                "orig": "Equip Rookiebelt",
+                "text": "Équipez la \\v[item.26.name]"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/51/settings/interact/hoverText": {
-                "ciphertext": "Uq/5YddjXJ0A+SGqoq55fVdAxZ1R8KjLBhTVfQ+F+Y8=",
-                "mac": "t1vcayKAHv0ICPQTlUPJgQ=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/10/message": {
-                "ciphertext": "i16szy7ki5S4aoA+Rpyv7CSM7V9tfk6BvrHmz7l9HHHaTlWsLVt+tIz1eMLuMy5x",
-                "mac": "9AxvDCkm5Sszd0kunnflkQ=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/11/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/12/message": {
-                "ciphertext": "Awp+mfW+uDSgI5dS9qd5ow+z6bO83fh/os+9zI9dzkgCX4lZWcHXXpugXeAMf/YvhcmnyMdPix7jho7l4AhVeIlT3Z7BLQJT3jnapiwW5G4=",
-                "mac": "ApeBjamT03goFmm+yklUQQ=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/14/message": {
-                "ciphertext": "ZpnoMvkjgaqEJ9Tr4yaIsliMyShQs2MykVOngS3Eiw0ib6WJinNx9FBHkch50xiY7YmkDiBAvx70E81hGvUrYr7Sqq/JqLqhagjmI8u+NUg=",
-                "mac": "to1W9idE4u/+syCuiHlQaQ=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/15/message": {
-                "ciphertext": "YuKm7bSFQTl7yCLsyrd9L17pqeKvngqdS3myiPIrXKQ4ivsb72KPyco52SVgNaq6UTUJBUxN+94vtk20c4Jx+Cb0pd5hPnIwOosYUUE9SU8McnpfxCSBqz1Jia4L0g9xqlnlCKd7tvBfr+53RYZkQw==",
-                "mac": "IrIBZxeKfhTLhTLw38DwfQ=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/16/message": {
-                "ciphertext": "JLOmzdM4FXnopLzMVy/EcybIToJCYtNcmIiWjdFg1X2NVdWzDjQxr1OV+Y75q5ET",
-                "mac": "zdmiZG1NNvJ984orYbzrfg=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/17/message": {
-                "ciphertext": "FsQhDXLMCWxmjWrETWDQ5AJruoGDE1Vuom53hKVg47ZAtCvsqQ3Ex04LTrg4vaKC",
-                "mac": "tSgnaYhlsDTpWCzagOTbCw=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/18/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/19/message": {
-                "ciphertext": "BdKK0IU25tKi7eFw8ClKhoPq21n5uosyRC0nnxSfSiDe7UmY6EBQDG56BPpxk6YtiCy0iPfLD33faP4SUZYE7+7IqxI5AWw5lIcLxcjo8GI=",
-                "mac": "BxE0yVn4PF9w+xvRNuxutA=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/21/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/23/message": {
-                "ciphertext": "L5GwTxzFXV3zJS6bBXeqyaT0Jwxwwc3IRtkVGKwLs0XJLOezTumcCswUOth3HRhUdlCK0YGmlGhqBO4We3QzIVkgTMgGXFZTQCfpLMeXy5w=",
-                "mac": "g07wxF+kXAq2CwzwZiJAIg=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/24/message": {
-                "ciphertext": "YUrm24eBCE8BQGJrRyQUiWw6eAI2WoZQxnwwBR3d7AKkWmfLxDK2W8AyiVSipyd4LWtuu+v7r64s3+K7bXwABQ==",
-                "mac": "PXPViaXq27iAfPqyD4AHig=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/25/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/26/message": {
-                "ciphertext": "b4RKXwHrIfPFsy2YI18vVUxRPK6oy++a8spjiegidetyzxUzdkhyT+BWyss6f3+M",
-                "mac": "iDZJeaYH97Xpcdipg7xkhg=="
-        },
-        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/27/message": {
-                "ciphertext": "1P0lZpCt0GXlZyVO0WmASCOUzA/WuDsSlrCQ/zgO5AM=",
-                "mac": "dsQ2EIJbje0GKo8jKnFQLQ=="
+                "orig": "Equip Rookieboots",
+                "text": "Équipez les \\v[item.25.name]"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/5/message": {
-                "ciphertext": "w6JOOl30FrfMimzF/uhDNszE4wZHR2qiw4SArTiTFW8=",
-                "mac": "kKgk46XMVpJd+8oGFv3SCw=="
+                "orig": "I am back!",
+                "text": "Je suis de retour !"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/7/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/9/message": {
-                "ciphertext": "RApf5Ao4E6P1dg6RlmIBIIKHO4nvoINNkTIgexLZxXbaJfGQMzMIhsLR6N+rQxdDXodh0SXJTApPxWcWYNKdBk4AZNBtVPJhOYIlFjJpOlVMnTJBdR1fHX01kAzOqq6W",
-                "mac": "fGvs/GggXHfwmEhJLrc9EQ=="
+                "orig": "Greetings from Jet and Carla.\\. Everything is back to normal on the M.S. Solar.",
+                "text": "Tu as le bonjour de Jet et Carla.\\. Tout est revenu à la normale sur le M.S. Solar."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/10/message": {
+                "orig": "There are no traces left of that blue individual.",
+                "text": "Il ne reste aucune trace de cet individu bleu."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/11/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/12/message": {
+                "orig": "I also tried to find some information about him, but there is nothing.",
+                "text": "J'ai aussi essayé de chercher des informations sur lui, mais il n'y a rien."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/14/message": {
+                "orig": "We can be pretty certain that he is not connected to the official game.",
+                "text": "On peut être certain qu'il n'a rien avoir avec le jeu officiel."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/15/message": {
+                "orig": "I just cannot imagine a regular player leaving CrossWorlds and going on a rampage like this.",
+                "text": "Je ne peux juste pas imaginer qu'un joueur puisse quitter CrossWorlds et tout saccager comme ça"
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/16/message": {
+                "orig": "Something very strange is going on here.",
+                "text": "C'est vraiment très étrange tout cela..."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/17/message": {
+                "orig": "...\\. Not to mention that he recognized you.",
+                "text": "...\\. Sans parler du fait qu'il t'a reconnu."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/18/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/19/message": {
+                "orig": "Your memory might, in fact, contain some answers to all of this.",
+                "text": "Ta mémoire doit, sans doute, contenir des réponses à tout cela."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/20/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/21/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/23/message": {
+                "orig": "Anyway, there is no need to worry about this right now.",
+                "text": "De toute façon, ce n'est pas la peine de s'inquiéter pour ça maintenant."
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/24/message": {
+                "orig": "Our goal is simply to play CrossWorlds!",
+                "text": "Notre but est simplement de jouer à CrossWorlds !"
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/25/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/26/message": {
+                "orig": "And I see you've made a lot of progress already!",
+                "text": "Et je vois que tu avances rapidement !"
+        },
+        "maps/rhombus-dng/room-5-newer.json/entities/54/settings/event/27/message": {
+                "orig": "So...\\. onwards!",
+                "text": "Donc...\\. En avant !"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/thenStep/0/message": {
-                "ciphertext": "M4JhW2iAmY40sG6/i88OpcniFHPLfrMqCplPjcL7Korq3l0HC8M764LRld/oqCNX",
-                "mac": "i1shzDudc9f76B9bY0d/dA=="
+                "orig": "You already reached level 3?\\. That is strange. ",
+                "text": "Tu es déjà au niveau 3 ?\\. C'est étrange."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/thenStep/1/message": {
-                "ciphertext": "I10+qdIdtE9vHYWvztEXtEvJ+KlxPOWXqUyy76drSi/cgo7lPIYlwFoUPBEYm4LJAIO8SBdK/EJIohyXmmpyWoBI1AN3YBf2172qsq1SOes=",
-                "mac": "3DN/1ox2BcpNprZLOw2FYA=="
+                "orig": "I thought you were supposed to reach level 2 at this point.",
+                "text": "Je pensais qu'à ce moment-là, tu devais atteindre le niveau 2."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/69/settings/event/0/thenStep/2/message": {
-                "ciphertext": "WfL/vhoqVPJYQaiv72bFRUglttrphuFBsdKUgf+PsiYOxTTbzpp1p0N+Ryn/yRCtnDMgj9uv4eFUQercJciwsg==",
-                "mac": "5Mmaqz2yyNyTpZTY10cz+Q=="
+                "orig": "I suppose they may have added more enemies...",
+                "text": "Je suppose qu'ils ont ajoutés plus d'ennemis..."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/70/settings/event/4/text": {
-                "ciphertext": "2Z/Ta7FgKxUuKEKLF1W1/bgS6Fo0jnzr+HPfC54ZSuGGwGc2v5RmJ5adJ5ybhKTvNOEuReykgmTqNe902kzgeAyCKXVYHy5RlIMzzxUS9nc=",
-                "mac": "t6f0IyGyikbuQymNp8vyYQ=="
+                "orig": "Press \\i[menu] to open the \\c[3]character menu\\c[0]",
+                "text": "Appuyez sur \\i[menu] pour ouvrir le \\c[3]menu du personnage\\c[0]."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/70/settings/event/6/text": {
-                "ciphertext": "nP/4fGwfOwcB+H49AljBu3bcBG2T5AepQ6GeqNcABWMp8R4nEpMv/N6vxiHEexI4zDTCgwbU4n7srQTZwWOCQyhvk3HdHVqPbVL8LGa0zkoAurXopfL3jxD8xCs31XHg",
-                "mac": "1CUg/BYrPKyGuHQU0Lepow=="
+                "orig": "Check your \\c[3]inventory\\c[0] and select \\c[3]favorite items\\c[0].",
+                "text": "Examinez votre \\c[3]inventaire\\c[0] et sélectionnez vos \\c[3]items favoris\\c[0]."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/70/settings/event/8/text": {
-                "ciphertext": "m7MdQF6h6Zeg52RjHEV3uqAflAk818jBdztfHyVu0i8EM5tj7WAQ2nnX5O1/Innj+6ZLLj6zjA6kOGLJqjtmNQ==",
-                "mac": "dlAySkd+dSRX/EPLIvH9gw=="
+                "orig": "\\c[3]Equip items\\c[0] to prepare yourself for battle.",
+                "text": "\\c[3]Équipez vos items\\c[0] pour vous préparer au combat."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/0/message": {
-                "ciphertext": "kvDqodIOXLSIao0is1FlCui7tp3sqVClY2JuLNmiCAZVjgDIIhzPKgmyE/dhuCP0HZu8H2JBjWBXXqiqm7n+QMYUYFZ4txiutrOPmqTvoqw=",
-                "mac": "UlTGSRTCM0uXFK9hnJj4/g=="
+                "orig": "W-Wait a moment!\\. What are all those \\c[1]items\\c[0] doing in your inventory?!",
+                "text": "A-Attends un peu !\\. Que font tous ces \\c[1]items\\c[0] dans ton inventaire ?!"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/1/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+                "orig": "...!!",
+                "text": "... !!"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/2/message": {
-                "ciphertext": "riNNkDIBBnMR4Avn+HviW+uVUy04gjjVREPjD3N9PfEXCNpdxZFEaywBqUsK9gCQfxUWxzhzGeTkzRBMpSozYr7eAI/FVEm1GnuUPeEclII=",
-                "mac": "OAUJddZfww3HgRlVS2Dy4A=="
+                "orig": "You should barely have anything at this point.\\. Why?!",
+                "text": "Tu ne devrais quasiment rien avoir pour l'instant.\\. Comment c'est possible ?!"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/0/message": {
-                "ciphertext": "gMHku3aa9EYjKPDu9PuwprpKGLM5U2EMzSZ6pUR8I/ct/aGQF7dMboGR/8/nAeg5aDiomL7gG2GrYNUz7SO8Dw==",
-                "mac": "pw0fcallglG9ruyW+WMAEw=="
+                "orig": "Oh no, you have all kind of \\c[1]equipment\\c[0], too!!",
+                "text": "Oh non, tu as aussi toutes sortes d'\\c[1]équipements\\c[0] !!"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/1/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+                "orig": "...!!",
+                "text": "... !!"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/2/message": {
-                "ciphertext": "sm6mP5TruYTxRm2Hgz8xbG9RgO+XwlPkpFEion7VBo84KkEbm8zLVdTNdTa8cyI+kNI3YsEM7pBdFRs1IFMKSapIm0/qx1vFN35sEiXLBwnFZmy56PmMzTop+3Q+3vkefeg8uuvZEpsd4dxTXtDBJar3QeXjK0PYOB9EtlcB6kQ=",
-                "mac": "j9oUkxW7wuaeE1FrHBdP5A=="
+                "orig": "M-Maybe, you should not wear it? You know...\\. to not \\c[1]attract any attention\\c[0]?",
+                "text": "P-Peut-être qu'il serait plus raisonnable de ne pas les porter ? Tu sais...\\. pour pas qu'on se fasse repérer ?"
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/rhombus-dng/room-5-newer.json/entities/71/settings/event/10/thenStep/3/thenStep/4/message": {
-                "ciphertext": "+/J5zShhiGrwn7AI+s3HzLWLv5dHrOsUT4W0ec0PDfM=",
-                "mac": "Af6j5/z20ZE/qx7J6O6HzQ=="
+                "orig": "Lea, please...",
+                "text": "Lea, s'il te plaît..."
         },
         "maps/rhombus-dng/room-final.json/entities/13/settings/event/34/object": {
-                "ciphertext": "eSoRzOB7DmcIlIv0zCCuqw==",
-                "mac": "X+5cT2WDI03Wg5UdnGg7gA=="
+                "orig": "Circuit",
+                "text": "Circuit"
         },
         "maps/rhombus-dng/room-final.json/entities/27/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/rhombus-dng/room-final.json/entities/28/settings/teleportLabel": {
-                "ciphertext": "HosRRLpZXN1eskQsTZwGMA==",
-                "mac": "Zl1AUQ/THKQpf820e+6GKw=="
+                "orig": "Exit",
+                "text": "Sortie"
         },
         "maps/rhombus-dng/room-final.json/entities/38/settings/event/1/message": {
-                "ciphertext": "f5/2b4t89WicQaMJ1jc2bJlCd3cT0urpwQsb76o7DyDvzyd+rLqBKjcnLXfvsLjc",
-                "mac": "7mdKqml8IatjoQd8RnpPaw=="
+                "orig": "Ready for one big upgrade?",
+                "text": "Prêt pour une grosse amélioration ?"
         },
         "maps/rhombus-dng/room-final.json/entities/38/settings/event/2/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/12/object": {
-                "ciphertext": "rEKAylb6LrrXhH4E8HzqQQ==",
-                "mac": "sihBUB6pHFBmYnLgEHCCaQ=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/16/message": {
-                "ciphertext": "0mDj9OacOqPxTDLIK5YcYQ==",
-                "mac": "AufLmXVA6TLLwdvE809s+Q=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/17/message": {
-                "ciphertext": "eoVDt/45x3Cj5EGo1ILuB/kDBwQD5RlURoypt9iZ8yJCmw7Xdl+Rx6Lg/yhPsz1DWLlCuNMZmcjU6nHLL2sGIrhxEsVtxvi9Jsxn+5kUCJCXvv+btR8fgSoU3xCYIDxRA1V9l56e/xiLU/QzfxI+Kw==",
-                "mac": "O35fKzruer78Mn3R3hLLRw=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/18/message": {
-                "ciphertext": "h3frdmGHkFqo8FTbsE3UVg==",
-                "mac": "z7jpyvWsmWFC7NjQN4JVhQ=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/19/message": {
-                "ciphertext": "kEBI5oXcoe1bn9bBOZWBRn/RvVrQYCaKpPMbt5dK0aU=",
-                "mac": "F6R5jgpFKVvrz96vVhY1UA=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/20/message": {
-                "ciphertext": "fu6V9IT5N6Qjo9kzqrrfy3mucL6DHa9+1WUFEoB4vmw=",
-                "mac": "0+muh4RBz2lHSzcO0Of+eA=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/21/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/22/message": {
-                "ciphertext": "NtUo4/5FMeZqhxrhAbPVs8X032AOCdapyDYHdRD9T3w=",
-                "mac": "pSLqUlaGEtdL/4PCfWV+9w=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/23/message": {
-                "ciphertext": "+HWRHMPXDTfBg3aPppGWDtKIs28EJoNE+qsig7S2rDSAGjdHFoiJetXvj2W97udNLGzP9Ir9TlLjh+WomGkcyA==",
-                "mac": "bExEvPHe4MOoat0vbxoILg=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/24/message": {
-                "ciphertext": "WJJ5gvYb7DJ/zg/RaIGUeyAz8MA1nrwUMd71ofSk/vUFdKH1+I33wvlnnOGidWP7",
-                "mac": "FN2vBaMTOliq+y0qn2Z6rw=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/25/message": {
-                "ciphertext": "tjqyNLUwoDHIC28rQ3+yKPItR5EvUiunmgSPDEL/DCw5JI2I3AnqUyfyeltzEWOo/0ucVd6igOg9tcFpUuLDRjS8PkQraZvPzpHO8Yj+hsg=",
-                "mac": "v0FjH7w8Fgb5EIqxM2xGvg=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/26/message": {
-                "ciphertext": "vCPuNtwKkpqkqssda2u4Mt507HaQ3XYTzPr1Uq/TWTmHhQdMbAEGgT6I2qIjNQnLyKmMGTOB5kPigSwz16GMopUSN11WH7GUpRhk7TMxUk4=",
-                "mac": "6UymIByoh8FPkP+0Rr6R/g=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/27/message": {
-                "ciphertext": "kkQFsSR8WTLzCFBFms0ghw==",
-                "mac": "k1yunaGIdZWrudwQbmikGA=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/28/message": {
-                "ciphertext": "HIDC8j0HWkYy2ggCAD6A+zm+EGBdIvWNvwclvqMX8Kg=",
-                "mac": "g0KvbWtq1FzAobuNjR3S2A=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/29/message": {
-                "ciphertext": "ym4X8nBNlBXUSbWDpx3ZHbH1FDmj+ZEWNDUhXmOyY1E7CoHcOR/MJ/xtKofeKU5YQ8w0aM4IoGVhSORZoubabmemAKVNb4lDq1xjfvTp37rRJUzEf5ET6k0YUiknW8x8",
-                "mac": "WH734oXPxDx6LE7DTjKhmQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/3/message": {
-                "ciphertext": "7wa7aurrzEDcRzZ/Qk5PEcsMDcesXNTEZVLmQ+EuChiHZEux2YseUHQx5E9z0SMo",
-                "mac": "0R7t51zMTXwxW4rYg009QQ=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/30/message": {
-                "ciphertext": "3Gq6TgbppggRyojMGLYJt6h0eGow8gaEt0aLVKI5pzw=",
-                "mac": "ICfAbHuKYB97FQEerpyoKg=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/31/message": {
-                "ciphertext": "WsMFBr7BRl9orqmGxEWG0GE9Jgsr2MS9Ic64I1dG4B+p+jQT8Go9iSi/bwwV0wEF4Uspt7/S51EI3ZFPhWD6ILFonghjtYon39H51mIBmSqnfs7znA4SCDGxKFksuMJCS2ZdW/cQmXs+YiR56YPnXA==",
-                "mac": "Two6KwHQsMiUTihLN2kMUw=="
-        },
-        "maps/rhombus-dng/room-final.json/entities/40/settings/event/32/message": {
-                "ciphertext": "p+Dez1Gsrbrb/PRkEZUqQQ==",
-                "mac": "j5Nm2LYqCnMPe0EC6o1+xA=="
+                "orig": "Lea, please wait a second.",
+                "text": "Lea, s'il te plaît. Attends une seconde."
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/4/message": {
-                "ciphertext": "nQKI6w/YyQlBco9VbyN2SQTKXpOxertXO83nNIHScDS2IGvz90PyeHWnSxrrfWFe",
-                "mac": "kQkkT9ofwzYWdjYJIjMmXQ=="
+                "orig": "I have a little upgrade for you, as well!",
+                "text": "Moi aussi j'ai quelque chose pour toi !"
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/5/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/6/message": {
-                "ciphertext": "SULRZOtYqli+hn0qmP6UsczHVYdi4sxVXe7gLW4A6ivir+ds5vFnyKf/2XIG0yVYb/TjQf9PszXPI/+WYS0HBat0bobNZzaNCHsdT+ECGAM=",
-                "mac": "qeAntylC5EqCycrDylQxVA=="
+                "orig": "I finally managed to add another word to your vocabulary.",
+                "text": "J'ai finalement réussi à ajouter un autre mot à ton vocabulaire."
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/8/message": {
-                "ciphertext": "hq4YdWfwbvB98+423Einknj6P0KAfGwRGOmizAKRA7+3AViHIqP9kEEfQURydRYVopVW1VwnyU0+IUhNYdLYuBFm2a3GOZTh8LKLcqGVjZvA6GxZI4U8gBrHp31JcSWz",
-                "mac": "q9VBlKmPotAEluW13Q5XYw=="
+                "orig": "Well, you know how it is.\\. No shiny effects from me.\\. Just the upgrade.",
+                "text": "Eh, tu sais comment c'est.\\. Pas d'effet flamboyant avec moi.\\. Juste un nouveau mot."
         },
         "maps/rhombus-dng/room-final.json/entities/40/settings/event/9/message": {
-                "ciphertext": "lxKORV+b5rCNQ5D+7APrdQ==",
-                "mac": "HoEpTz99KOEvP3CMeYHtYA=="
+                "orig": "Here goes!",
+                "text": "Le voici !"
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/12/object": {
+                "orig": "Lea",
+                "text": "Lea"
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/16/message": {
+                "orig": "...Lea?",
+                "text": "... Lea ?"
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/17/message": {
+                "orig": "I think you will need this one, since I will not be able to introduce you to other people anymore.",
+                "text": "Je pense que tu auras besoin de celui-là, puisque je ne vais plus pouvoir te présenter aux autres."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/18/message": {
+                "orig": "...Lea. Hi.",
+                "text": "... Lea. Salut."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/19/message": {
+                "orig": "Hi, Hi, Lea.",
+                "text": "Salut, Salut, Lea."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/20/message": {
+                "orig": "Hi, Lea, Hi.",
+                "text": "Salut, Lea, Salut."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/21/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/22/message": {
+                "orig": "Do not look at me like that...",
+                "text": "Ne me regarde pas comme ça..."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/23/message": {
+                "orig": "I know, it takes a long time to add these words.",
+                "text": "Je sais, cela prend du temps d'ajouter ces mots."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/24/message": {
+                "orig": "It is a very involved process, actually.",
+                "text": "C'est une procédure assez tordue, en fait."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/25/message": {
+                "orig": "I need to manually extend your Thought Control Model...",
+                "text": "Je dois manuellement étendre ton Modèle de Contrôle par la Pensée..."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/26/message": {
+                "orig": "...essentially modifying a statistically generated code base by hand.",
+                "text": "... principalement en modifiant du code généré statistiquement, à la main."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/27/message": {
+                "orig": "...??",
+                "text": "... ??"
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/28/message": {
+                "orig": "Yes, it is very technical.",
+                "text": "Oui, c'est très technique."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/29/message": {
+                "orig": "The technology to control avatars is...\\. well...\\. complicated.",
+                "text": "La technologie pour contrôler les avatars est...\\. bref...\\. assez compliquée."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/30/message": {
+                "orig": "And that is an understatement.",
+                "text": "Et ce n'est rien de le dire."
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/31/message": {
+                "orig": "Anyway, the second word is done.\\. I will work on the next one right away!",
+                "text": "Bon, le deuxième mot est fini.\\. Je vais commencer à travailler sur le prochain dès maintenant !"
+        },
+        "maps/rhombus-dng/room-final.json/entities/40/settings/event/32/message": {
+                "orig": "...Lea!",
+                "text": "... Lea !"
         },
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/21/text": {
-                "ciphertext": "oANkN7iLLWIiTqAnjHQ5qTXxKjxepExr8NG5ExBbWZ3izB12sgDsbyCr6FokNhOtVMwhzizY9Dg6VAZMKtsmLju1aRp/7sKtDqpUgwTN6s4H5tCCzAbRgGuTsd9L/zm3UsEUhRcTu9V8LzG9+Oq4qg==",
-                "mac": "FbvQwmOo247ZmwdbZniCHQ=="
+                "orig": "Activate circuits using \\c[3]Circuit Points (CP)\\c[0], earned with each level up.",
+                "text": "Activez les circuits avec les \\c[3]Points Circuits (CP)\\c[0], obtenu à chaque fois que vous changez de niveau."
         },
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/34/text": {
-                "ciphertext": "9KGOBD3tsEXcxCYBc0qb87WQq1Bjsdrnk6x6V1M9FU4Fdn4T+he7zetckpHnh6lZv8O0Y2DPe3Esul3yvFcuikbbQSHbj82LBfrgnjMXdJizXqmVyJImmRg7nv0IlwynVJyKxMxaBNA819CeQUk3Bg==",
-                "mac": "ltbx8uWwR8K82oLNqwEANA==",
+                "orig": "Certain skills unlock \\c[3]combat arts\\c[0] that can be used in battle.",
+                "text": "Certaines compétences débloquent des \\c[3]arts de combats\\c[0] qui peuvent être utilisé en combat.",
                 "quality": "bad",
-                "ciphernote": "B8WTYN5xTUCzJ0SA5kIDDms2n0VxWq/hzHeuvFllnFo="
-        },
-        "maps/rhombus-dng/room-final.json/entities/41/settings/event/38/elseStep/1/text": {
-                "ciphertext": "nB+RE2PhfyyoE5jBcjTstHzW4qV8i1Pf5nSEOj1sHN7VVzdschoEtKokQSRfxIl4w+hsZ2jTlC5cEuqjUzuVDIO9dC5FFvt4ZkHm/iIBGTn+Ftd1+ImawOIGwI/5rpGvxnu9LdPa2p9h1vU+a7j1yQ==",
-                "mac": "rhbGmJUxgNSzqMKv54YebA=="
+                "note": "but de has same repetition"
         },
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/38/thenStep/3/text": {
-                "ciphertext": "nB+RE2PhfyyoE5jBcjTstHzW4qV8i1Pf5nSEOj1sHN7VVzdschoEtKokQSRfxIl4w+hsZ2jTlC5cEuqjUzuVDIO9dC5FFvt4ZkHm/iIBGTn+Ftd1+ImawOIGwI/5rpGvxnu9LdPa2p9h1vU+a7j1yQ==",
-                "mac": "rhbGmJUxgNSzqMKv54YebA=="
+                "orig": "You can \\c[3]switch between branching skills\\c[0] at any time without spending CP!",
+                "text": "Vous pouvez \\c[3]échanger les branches de compétences\\c[0] à n'importe quel moment sans dépenser de CP !"
+        },
+        "maps/rhombus-dng/room-final.json/entities/41/settings/event/38/elseStep/1/text": {
+                "orig": "You can \\c[3]switch between branching skills\\c[0] at any time without spending CP!",
+                "text": "Vous pouvez \\c[3]échanger les branches de compétences\\c[0] à n'importe quel moment sans dépenser de CP !"
         },
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/52/text": {
-                "ciphertext": "wgXyU3bdL91BN0nMLbmXB9UVffnsSKiyKFEwVxu8z6BSRQRQ0NAkvaGsEijwFOyYYP0ukutdVrSiV1dTu3GMWvNnOYu+4p/7gliX3/mGfnhtvaE2WLbAkW2QWl/TQLJiUUqALjjRZOH1iwHUadAsI7NSZffGq5c1jW7uMTDb/J8=",
-                "mac": "wQcjE92HunC26xIopKgtbA=="
+                "orig": "You now got \\c[3]special points\\c[0] (SP) used for \\c[3]combat arts\\c[0].",
+                "text": "Vous avez maintenant des \\c[3]points spéciaux\\c[0] (SP) dont vous avez besoin pour les \\c[3]arts de combats\\c[0]."
         },
         "maps/rhombus-dng/room-final.json/entities/42/settings/event/5/thenStep/0/message": {
-                "ciphertext": "sBf2Ni378I1xfuZ3xNOaDc8u+/pEBimLSd5DPOXYe+7LKt3UWT/3sJR5S0IWD2j33GNZjYeUuGp6LWKRwnJhWqShJMQxl9OtH3u/cGKrvQc=",
-                "mac": "11rkX0iD81wfzQGrx/WKzg=="
+                "orig": "Wait... \\c[1]Why are all your elements already unlocked?!\\c[0]",
+                "text": "Attends... \\c[1]Pourquoi tous tes éléments sont déjà débloqués ?!\\c[0]"
         },
         "maps/rhombus-dng/room-final.json/entities/42/settings/event/5/thenStep/1/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+                "orig": "...!!",
+                "text": "... !!"
         },
         "maps/rhombus-dng/room-final.json/entities/42/settings/event/5/thenStep/2/message": {
-                "ciphertext": "n/eWN6lsflj8CuUpBZOXxaCjST1XGeTyk7v+4rML0CNch3wosiMAoL7tvrJXWIENihkFLPEu4Vd66SvOonh/4pLfN/hNErVHbEwB0Ws3M1o7560hQYmQpwI0HO/ROEmffcS4Fy12P5AWIvM8ab+d0fxexQtDv+w6lfydPW52wmykElr1qSg7nFPdxyJbqnhjVxxlTQF64HHu6AS4hvaJRA==",
-                "mac": "eVB0iSvQyJPqH/N5ABPEPg=="
+                "orig": "This is not supposed to happen!\\. Seriously, this game has been out for quite some time already.\\. Why do these weird issues keep coming up?!",
+                "text": "C'est pas censé arriver !\\. Sérieusement, ce jeu est sorti depuis longtemps déjà.\\. Pourquoi il y a encore des problèmes étranges comme ça ?!"
         }
 }

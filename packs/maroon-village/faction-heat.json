@@ -1,503 +1,503 @@
 {
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/25/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/30/settings/analyzable/text": {
-                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
-                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+                "orig": "Receptionist",
+                "text": "Réceptionniste"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/30/settings/npcStates/0/event/1/name": {
-                "ciphertext": "56V/h2JiBz/dH262AiLsaA==",
-                "mac": "3NaPYd+RvtoHkWmZfHU5HQ=="
+                "orig": "Receptionist",
+                "text": "Réceptionniste"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/30/settings/npcStates/0/event/2/message": {
-                "ciphertext": "8G/NkCoTbeDvMutj1uqCqeKD89cXVTrqJGnwPFzsKymv6j44TGmJyBXqXTYNyzYPp+0L2D6mEHQm+zSlnREUNZhnNYjSlwhABuMc9Y5S3gScOAGToVqjxByxaJzY70eQAhE68ZY2CPjve2AoPUInZ+6H+kyoFs+7IpJKfAg+EJc=",
-                "mac": "IeylVEw0J3ymvuNwDWdryQ=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. The Arid Breeze is always welcoming of guests.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Les invités sont toujours les bienvenues au \\v[lore.title.faction-heat-baki]."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/analyzable/text": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/0/event/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/0/event/2/message": {
-                "ciphertext": "BkmwGG3mL0fl0lCy2PMSuzSWyzUYsp2rfb/24Ba7NfYqAGyv2kPrYTjlOt+rCCUBj3w2Yde0LPBINx9yM2TqlpeJuAQjHJErx0VQpV+BjfnK7scFoTTZBaQ3PrbPY6tdlCEr0kVMWuCjYHaZwNTfvQ==",
-                "mac": "O3aWJr+nDo1b6QFIdH9v1g=="
+                "orig": "\\v[lore.title.seeker], be our guest!\\. There is much to talk about, I am sure.",
+                "text": "\\v[lore.title.seeker], soit notre invité !\\. Je suis sûr que l'on a beaucoup de choses à se dire."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/0/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/0/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/0/event/5/message": {
-                "ciphertext": "qv+4MxHc1A41+cGhFLkl2g==",
-                "mac": "ocoXKMDSQlIJ2USp7SOxYw=="
+                "orig": "...bye.",
+                "text": "... Bye."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "ZRRc6UGHDyDoAeUYWf+I0+Y13/GTI2b21S3pVConJYGHurEq2/tamjwCpKC6fgjMTyVzjkH0AfjIHXbzHvjJpX9IVWBn1npjgjHZzjotfTuF8bKywBUDfr6W5FSsXKOfuzhN2RAPGCLSYd+6KLwm8KiXv6ZV+GJGkr2pbndDRlc=",
-                "mac": "MOwuhSwrKmP0Pbhslx08cg=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/12/message": {
-                "ciphertext": "JlpU7UXDy6xhQ4068hIyP3bijPXA4JnNTC5uqnCBXXxXk3cw51QANczmV+NhFZ58FaGaZjaGb8wgShWu7DVLpq3OnLgfXH7uSj7DcqSPdAU=",
-                "mac": "t6YJuBGlSFPgcy3lmlmRwQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/1/message": {
-                "ciphertext": "h+JbeYoYCNgWPLeYQUdOIRlih+Jnu8Px8A4vKMNZKL0/cgokIbwk4NnahSJjey5EJESuzfzUql0MejzxB+uffDAXDMn4x0dPAuMQgEjOcLiNJ7A+DREkEZZsLgzHIXs8U9w9/O1dqPHXAxx8SOjgQcuKhrj9xH3bcFqvSWx91ng=",
-                "mac": "PSX/kji/VgO0iA8f9/D1eg=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/10/message": {
-                "ciphertext": "D/yvyW4ek5O6qxqwLSCxx18eqgI+ECokI47F1CykE7x3P6HDOz2FpcQpGJJNqtwzxBfYcvIXyS549uRTeMjG4djCodgtsLyIugiQmchCyKY=",
-                "mac": "4fm1Q7o9bzcubuW482xcYA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/11/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/3/message": {
-                "ciphertext": "R5vLmxBweSF9OBL6uEiohDWgwLEVYRDGw77Q4sViPmIWM1S8844+tcA/Fp59SAf4AxuXZ2zL7o+N/c40qdxXK1SAwoG20exVmC7+krLUlAeZvmtvs2gQmH5/3u6PPYEzfjeadV/l/9crVAR3fvBoby4rcx2i3rnx0eupouvr44qEaH7ZCDaZANhg9frUExDC",
-                "mac": "ezB9vVmB7UR76NPqZxlKxA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/4/message": {
-                "ciphertext": "AcaNpE8K/vFw3mrd00PjUaX7Iyf98+PX7TRLm/6dkv1hikVb2URP1Ef9CBaykWdeQ1VYuWEw9fuWW8gVjoK4OC3eJ5/5BzJSHIBNd+UXBtihGCp15vlovZdN9SGellIvLkWVWdte0LFFaUQDtL48PQ==",
-                "mac": "wYcI8YNfMhhLmIMM4Qdf2Q=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/6/message": {
-                "ciphertext": "/uwSCv4dJMOWVMmEzTHAd66b7yCCr597yi6jEdblHGI0bDAeJQ4YapOhk3r1mm6uCv1bHqHzMWcNEvdkMIiyHdUTbB1evfhDAf2qfbaJQsR8a4FiFG4v6Efqc72gu751dEyLeBQFH90dlzqbr8Ams9rKr3mMrjR8CuDMbZSm6Mg=",
-                "mac": "i+1B+OFeJTX6o5DwBwxWcQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/7/message": {
-                "ciphertext": "w2iwPpqoRWgS0bQW42MSkHWhs/FtD9RPigwDvxw2s1MXzDH8pBl2QW9Hvxi8HyVP/UyphxiIthhd4fAEKLjYR6jodUsC2XDMnLSc0cMMA6fzbSw7XQMQbnYqKTP1V9jqb4+TeeWaNqPFnSg4WgTMd2fi75dq+UMb6aeM3ZPh0eA=",
-                "mac": "/xiJEqnw4oCjsag956mVyA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/8/message": {
-                "ciphertext": "8ArPZ6NUXMPJNCvbEJwNuTQgKVODpljhItOcEj3YfRsiQx/+HiwDmFRxhEpu2iqMU4WhynfVXDI439fZqXu/mW7pQcfLSxkfqycjnpUMXNw8qSQcjRTDvWhQgdVlxyzW6FPA0XWvaqFvsV5oHo+GyA==",
-                "mac": "KHHEejaik/yp2zoW8h7P/A=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/9/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/declined/1/message": {
-                "ciphertext": "VFZgK66WpEOPFs3I3Xn6+mT218LYpmz8zJPNuZqD9KxPHZTUu4OqkKOgYW0INWn3qUSSGAX5IyVbvXBisQfTyYhyPrEklXC4huPA/dE/9+NrHcv5CGgamO00hauobv6Iq1uUZwXFgjgZY0xGI+tbJg==",
-                "mac": "KI4/cZXE1bevhf0yKH62pA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/declined/2/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "xEViioAG3KWC9okdAyyURBpPU9t2o27uB8aaW949k/xLAXYTDZj7V/orNkb5VY3IciFuT49lJbB7iH172X3PJ/3b10GwUQRz+O4uxHecU4oSmTcpskKSe5R0M9FizgpFM7ko+LCcXeMzz73Urp7EEOYSHEa6fl68m7Ry5FjVWTpT6/o+7G2zTFNOUxt/eNEN",
-                "mac": "Ovy64akFKbnukPlc3U6YhQ=="
+                "orig": "I greet you, \\v[lore.title.seeker].\\. The proud explorers of the Arid Breeze are honored by your visit.",
+                "text": "Je vous salue, \\v[lore.title.seeker].\\. Les fiers explorateurs du \\v[lore.title.faction-heat-baki] sont honorés par votre visite."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "WVR2hmW2ZdLsngW3Ypok83FAE3kJhn9tR/wbaIDUXgsu80SKVuDz8tdCT6ac5tWBPiLKnnQh/4T2t09ZmL0h/9+G8xsrjEGa05FJbt9UBNa7xD8mx0+bhHxVi4iI0tdr20YU1K3WUqsHulKhom454A==",
-                "mac": "vaONAZoEMrqlaWnlM788mA=="
+                "orig": "My name is Jonathan Lorenzo Mahir el Valente Al-Nassar, the leader of our company of braves.",
+                "text": "Mon nom est Jonathan Lorenzo Mahir el Valente Al-Nassar, Leader de notre compagnie de courageux."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "ZQWul3S2lUT4Mmv53r4jLw==",
-                "mac": "fHfm4r+z+1pVy5fa92dMJA=="
+                "orig": "...L-Lea?!",
+                "text": "... L-Lea ?!"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "X3yF6sulQOi9vmOGMRpawQTWBI5HwUgY4ogG/H1WSRKL+BurNJCIrFJUcyLypOM4NeV5WNXnWp+NP50jMp0bGByDpJ+z4PEeVW/PNLu4KLvISsQdlqNTlix9J8zOjNJ39uV5J+PMHW0+WAThHSP1vT5eGbvtL11MhwAv+WnxIVccg3nDcRO0UUzdVQx7scif",
-                "mac": "pxyhYOXaLxgZhQJN7Y2XJA=="
+                "orig": "Don't worry, to my friends I am just Joel Mahir.\\. And everyone is a friend to me, especially a pretty \\v[lore.title.seeker] like yourself.",
+                "text": "Pas d'inquiétude, pour mes amis, je suis juste Joel Mahir.\\. Et tout le monde est un ami, surtout un joli \\v[lore.title.seeker] comme vous."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "6RCDuHaSwiMiPchr6eXL2g==",
-                "mac": "8tAPHbW6WZDXmhNGssyBmA=="
+                "orig": "...hi.",
+                "text": "... salut."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "E7hrafQ5TD9FSzSpox3DJqWIwyqQ4aX1c8uFUrSL5R7SMJy7pwCldGskeZROBB3YRfKdeGdAkeBN91JV9O8Rt78k9Z4BvGqJtHaeHNppaH3XV2xyeYVQNf7jH7Itmn1YG+UTy5r3f/fEKvu2iNhCqUaZihFCPb/iohjkciDpSeMqqToCi4BvBcA7GzgriPIu6KJAdolM2skuUQ6UdfHz8A==",
-                "mac": "g6dKsDhucyvQ4LFRRLjThA==",
-                "ciphernote": "5tBxHGtmv8oYUoSw/WgCUxfglazDoGnYsihA8GfvdCDYD5QbjrKuEpDx/OvEX2AJhGptP1LkI6Yj0idkl1kgyDvFWviQ01/g2HXU99SMOkjGcVZuW6wGTZfWZvjBWRfg725rxWLSRvKXnmNyKN1GJw=="
+                "orig": "It would please me to listen to the story of your exploits, \\v[lore.title.seeker], but first we must water our accomplishments.",
+                "text": "Ce serait avec plaisir d'écouter l'histoire de vos exploits, \\v[lore.title.seeker], mais d'abord, nous devons mettre de l'eau dans nos accomplissements.",
+                "note": "of course it does not make sense. de: Errungenschaften begießen, 'pouring water on achievements'"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "iJBcwzDOK6KMBRVUH33RABWhqy5AMim7hTePTNv5oLwgIDBUmOjSJlIyGBUmXcV0MURsDROgQvj9hGEET5w9znHwgganAm5sNW4tvPuxv6D1+eAPBHXaKF7Q5DQMXuY+cOmRIHBP/wuzmYaqgjwbB/Fjp7bmeyfudPPDmAfUUV2cu+afHfkgCBIGX9TimFVe",
-                "mac": "X9CG3Uf6w3KezGmfNwoCqQ=="
+                "orig": "See, a place of great importance in Ancient society is almost in our reach.\\. After all these years of searching!",
+                "text": "Un endroit de haute importance dans la société des Anciens est presque à portée de main.\\. Après tant d'années de recherches !"
         },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/10/message": {
+                "orig": "...!",
+                "text": "... !"
         },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/2/message": {
-                "ciphertext": "BkmwGG3mL0fl0lCy2PMSuzSWyzUYsp2rfb/24Ba7NfYqAGyv2kPrYTjlOt+rCCUBj3w2Yde0LPBINx9yM2TqlpeJuAQjHJErx0VQpV+BjfnK7scFoTTZBaQ3PrbPY6tdlCEr0kVMWuCjYHaZwNTfvQ==",
-                "mac": "O3aWJr+nDo1b6QFIdH9v1g=="
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/11/message": {
+                "orig": "And we know of the final piece that would complete this puzzle... it must only be collected now!",
+                "text": "Et nous connaissons la dernière pièce qui viendra compléter le puzzle... Maintenant il suffit juste de la récupérer !"
         },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/12/message": {
+                "orig": "So, young \\v[lore.title.seeker].\\. Do you want to claim that honor?",
+                "text": "Donc, jeune \\v[lore.title.seeker].\\. Voulez-vous vous revendiquer cet honneur ?"
         },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/5/message": {
-                "ciphertext": "qv+4MxHc1A41+cGhFLkl2g==",
-                "mac": "ocoXKMDSQlIJ2USp7SOxYw=="
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/1/message": {
+                "orig": "Splendid!\\. With a \\v[lore.title.seeker] like you by our side, I can almost taste the juices of success!",
+                "text": "Splendide !\\. Avec un \\v[lore.title.seeker] comme vous à nos côtés, je peux déjà sentir le goût de la réussite !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/3/message": {
+                "orig": "The object we need is a stone tablet with Ancient inscriptions and a map of the area in the old times.",
+                "text": "L'objet dont on a besoin est une tablette de pierre avec des inscriptions des Anciens et une carte des lieux, comme ils étaient auparavant."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/4/message": {
+                "orig": "However, it has been claimed by a pack of dastardly \\v[combat.name.heat/drillertoise]s!",
+                "text": "Malheureusement, il a été revendiqué par une bande de \\v[combat.name.heat/drillertoise]s embusqués."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/6/message": {
+                "orig": "Worse, they are of the stubborn and cowardly kind.\\. They will just hide under their rocks and never move.",
+                "text": "Le pire, c'est qu'ils sont du genre têtus et lâches.\\. Ils se cachent juste sous leurs rochers et n'en bougent jamais."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/7/message": {
+                "orig": "But fret not, for we have requested a mobile explosion dispenser from our friends in Bergen.",
+                "text": "Mais il n'y a aucune de raison de s'inquiéter. Nous avons commandé un distributeur d'explosifs à nos amis de Bergen."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/8/message": {
+                "orig": "With that apparatus you will be able to clear out their cave and claim the tablet!",
+                "text": "Avec cet appareil, vous devriez être capable de nettoyer cette cave et de prendre cette tablette !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/9/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/10/message": {
+                "orig": "We will prepare some of our best tea for your return.",
+                "text": "Nous allons préparer un de nos meilleurs thés pour votre retour."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/accepted/11/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/declined/1/message": {
+                "orig": "No?\\. That is a shock.\\. I would not have expected you to deny this humble request.",
+                "text": "Non ?\\. C'est...\\. un choc pour nous.\\. Je ne m'attendais pas à ce que vous refusiez notre humble demande."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/1/event/quest/13/declined/2/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/2/event/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/2/event/2/message": {
-                "ciphertext": "2n10ckOiGbY9730O4b85szEInE4yxFzDmdYpKIx9I8QIrMq9d4FN8SW8OPbaTimJENUKTrvmC0Fy8ujh+2Pt0CH4lpUG7eLDuBP0yPJ5UsxyqLJbkd+TAhSzz0/B16Ui",
-                "mac": "UdVHaun09dW6kk4sKnZIrg=="
+                "orig": "Find the cave of those cowardly turtles!\\. It is at the northern entrance of the Maroon Oasis.",
+                "text": "Trouvez la cave de ces tortues lâches !\\. Elle est à l'entrée nord de l'Oasis de Maroon."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/2/event/3/message": {
-                "ciphertext": "XpAy/SrJC1VZSnlCiwyr3Nt7N2QipzK6hqVNfyhlN1pts0CNu5fNNCVZ0sSmHQvbyf60gFKwA/KAorfO5yK04gYBDTOgWo/j62HJG/MLn5HMKSZwvoXJ9trqLwo9utYVNhfXP4qdOxJ9aJ/kM8bqOQVIndMzerenvSJhOmkhmkpvImUH6ZxKx9N/BZI3Td0s",
-                "mac": "6jjCmCWonWsM8cxzE7sBRA=="
+                "orig": "Once inside, activate the mining machine to clear the way and dispose of those creatures.",
+                "text": "Une fois à l'intérieur, activez la machine de minage pour vous frayer un chemin et pour vous débarrasser de ces infâmes créatures."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "2LQP7PmFrH9ceBNh8U2a5wdraMgie5i6pepJPeZXEQ/59gA71W21SuxNjCRznDoMsJiuFzvt5KgBNBUx1GyF4MzcMT7rXWZxqmRYfGI4lLajJAYA8GjPb8N+XRUp7H5KJlWqgc+KkAGcosamgtDdYK6NhJ+hvW6E2r9+4Q6TeCQ=",
-                "mac": "aXQD8ZLaHXhMX/Pj76clRw=="
+                "orig": "\\v[lore.title.seeker], you have returned to us.\\. And that smile on your lips speaks of your success, does it not?",
+                "text": "\\v[lore.title.seeker], vous êtes revenu.\\. Et ce sourire sur vos lèvres montre déjà que vous avez réussi, pas vrai ?"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "nlroQyuGsP30l6SmVl2p4VJr0dne0p6YPHL8OJAa1lwQr1RCi60mmwtRVB22lbj6QPNudRef3FJ6NpK8svke1CCImu6uiGraJRP+GTjOlLpLFPx0SMpoAO79h+tupvUz",
-                "mac": "ADAMCyyg4lXsjnNJPMtjag=="
+                "orig": "Ah, astonishing.\\. This is truly Ancient work.",
+                "text": "Ah !\\.\\.\\. Remarquable !\\. Cela est véritablement le fruit du travail des Anciens."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "nS3NqKFs9CZ8wUWHYXL2Fc2HeGEAN9t3qDpjmpfU6588qAFqRGKNNsGYvCqjMO8FOZ0FcWO6pugmf9V/OwffqxcZZgCSk2AOBSwFZbJUSJF/GrpvhOY6T8XN+wJUKbXlBle9p5hLmKx9U5Htxv6BJea/tFXoa5iyfLlIM1rFJfI=",
-                "mac": "bEeswZsypNuJeYb2XvFAdA=="
+                "orig": "For even something as mundane as a travel guide to display such elegance. Magnificent!",
+                "text": "Pour que quelque chose d'aussi banal qu'un guide de voyage puisse montrer autant d'élégance. C'est magnifique !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/8/message": {
-                "ciphertext": "JNLAB4+E24IyxHpVWZp3ExSdaVb5U6gcQCIsIxnmSdZAqKGxFmaxy5coNrNhvhDK6H5X0AlVcSTb/cdDLXsNMlOfcL+/Y3ZIGguQGPPLBUyZWQI8O8anM2ycDIlZ3fDCDNzVG/ZJSq5TLhCIOmBOuB/Hk7VIi7Te8T7BzDTcHfV5s20QALBm0AgxvobJCLh8p2uuCd40BbDf4Bk2nJFXi2tvMTiPt19rwB4OeC+W/vA=",
-                "mac": "ZvHG4N0pq2Ow5zJVsl4N4w=="
+                "orig": "I can hardly wait to finally feast my eyes on the main course.\\. I hope we can count on you again when the time comes!",
+                "text": "Je suis vraiment impatient de pouvoir enfin admirer notre véritable objectif.\\. J'espère que l'on pourra à nouveau compter sur votre aide lorsque le temps sera venu."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/3/event/quest/9/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/1/message": {
-                "ciphertext": "J/veYMMrApkfL0QNkoSeZ5p2gumWulOw7SRWo96TyP9XJ11ndv83rLW8rPbcPOuS2YtwPwvOZptjx1qmLRfy6kLBhAj9nk7yA5MoSNkbSByOb5csZG+CK5Tr4UGBQmln",
-                "mac": "gwQ8LQhaZ0Rdwi89+TK0kA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/2/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/3/message": {
-                "ciphertext": "BpCnoibedkgaKp527Uik3uPFzTvwJ2LqZ3OMWGpC998bpxistq3TUGQ65SS274pfZ3oz9I7kbzviJhIndkwINx2vaEpE4qsRodKGwqz/buPmLrVmQ9QYMWe7aIw9Vkv7uc6s0TFtRGJOLo2vQsnbNwlD3KAOMsP4Go5m4mYwZI5Nm9VaPcRjO0vIT3A6omde",
-                "mac": "Kuu7thlQeWGz1QXkrnCEfg=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/4/message": {
-                "ciphertext": "eWCwk8zPC1ST+wRUBMM0R6uIOfzsCWwt8K/09fY3QcxhqFCRwhotKH0dhc5fkE9JD2e4oW3KpVeUk9y0DUvhCWzCip5a0RlKFhqzOYPoa2cVwCzyq2u9wVxInkdbJHTBNJVi3OjVNUOJZ+7eFK9CSw==",
-                "mac": "s4VvHnXTBJAtGks5l5NgUQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/6/message": {
-                "ciphertext": "r/i/LjLBgy3RPKngMHkjljlv8TkLMKRZjNJw8SpJVaw=",
-                "mac": "mCHVHOoMVxdnTeTEftHfeg=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/7/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/declined/1/message": {
-                "ciphertext": "oMcZQk7oUWjH2MiOYqnSLi7/eYyyF6xe0yRNdCpnh+Sqd8nKTja/fgckhMIjipNEGRGI2q1sT5iMtetRfajwurnROPTV1Yaz7soSW0ge2F0S7w9clVk/kQ0JWMkkuDZ6uzuYPtU8gTfUk5mywTnZAlrJPJ9LQGHIkhYPr+ntkSo=",
-                "mac": "2g7zB5g/PFBrJaP/omCL+g=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/declined/2/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/3/message": {
-                "ciphertext": "8z6NUnfORJAD8lk85XUIDl0O0cC1ec9jomrA0d4xlsqFaPixUIh5XincMOiztBAc7vTGHYyLb0I+CVHRPzFeoGsqV/yk8cxpUlRtLJtR6K4G8+I1pW0prx41AAMJLx0aF/Ybwvt4wY7Lc2G1YM94vA==",
-                "mac": "lJXVmFbj8tpqLNogRxYNjA=="
+                "orig": "Ah, it is our lovely friend \\v[lore.title.seeker] again, filling our presence with joy!",
+                "text": "Ah, notre ami le \\v[lore.title.seeker] est de retour, et nous nous réjouissons de sa présence !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/5/message": {
-                "ciphertext": "lO+ZPVjJd+egS2TEApT0af8Ta4ZO0gMoaHuDfjk7UT1F17Dx9yUtXKHzOS17gcq/sHVSav+zlGyVx6B8KvuaV0zA/y2tHvAIdDw0fnXtH8yTeQFs55tsRbWLv0lUgha8nabH2MAv6aO6xRLiyWzAq2mrLqkVza062gizU0idPoV0fKgL3FZWrYt5ueST3ttK9APXa1VxZdSvCmR9gtRiPg==",
-                "mac": "U119UTx2XTyj2VBHvuk25A=="
+                "orig": "And that you are returning in this time of discovery is truly good fortune.\\. The winds are on our side!",
+                "text": "Et que vous reveniez nous voir en ces temps de nouvelles découvertes est vraiment le fruit du bon hasard.\\. Les vents soufflent de notre côté !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/7/message": {
-                "ciphertext": "YaXIQRrPJsp/IPoT5au5F6H+6bw4dPRl2Gv61SFdy03TCADZyA2cKZIXSSiwBGMXIxCt20654YZZB2APLmqk9TZtDqMNyThmjkefZx9wcMelw3P8O441lvRum8TODe466XyOjht/ACIRAzSDTD2W6K/Xo6GUZcdjtnbdK3VD0W2SBogBAJdqyzx9SX3v8jljDaG4C2wIOAhmMmP2kClStA==",
-                "mac": "YZ7ehJhiNcsBg3tR41os1A=="
+                "orig": "We have inspected that precious artifact you found on your last adventure and found hints to a holy place.",
+                "text": "Nous avons inspecté l'artefact précieux que vous avez trouvé lors de votre dernière aventure et trouvé des indices menant vers un lieu sacré."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/8/message": {
-                "ciphertext": "s3tVHqj/NUxNSqQ1DVBQpfqkYiWFJzV9/6MvcxEIsGZ1AREl4a2RSe5k/Xo1i9PjVcMjI60mLhWwRsDCTp++gl35D7Ssi7XmmQ75atdvH4y/YvA8uFmRFAXdi59iXxRj+VJVEkQj3EnWMgheSHlhyA==",
-                "mac": "MASoyQ+mU5cgPA44CyM1lA=="
+                "orig": "How about it, \\v[lore.title.seeker]? Are you ready to claim the fruits of our work?",
+                "text": "Qu'en dites-vous, \\v[lore.title.seeker] ? Êtes-vous prêt pour récolter les fruits de notre dur labeur ?"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/1/message": {
+                "orig": "Yes, of course you want to!\\. What could be more exciting?",
+                "text": "Oui, bien sûr que vous le voulez !\\. Que pourrait-il y avoir de plus excitant ?"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/3/message": {
+                "orig": "Hira, one of our most able explorers, has pinpointed the location of the entrance to a small area.",
+                "text": "Hira, une de nos plus nobles exploratrices, a déterminé que la position de l'entrée se trouvait à l'intérieur d'une petite zone."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/4/message": {
+                "orig": "Meet up with her at Torn Road in \\v[area.heat-area.name].\\. She will explain the details.",
+                "text": "Rencontrez là sur la Route Déchirée de la \\v[area.heat-area.name].\\. Elle vous expliquera les détails."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/6/message": {
+                "orig": "May the winds guide you!",
+                "text": "Que le vent soit votre guide !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/accepted/7/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/declined/1/message": {
+                "orig": "No, truly?\\. But how could you resist, with exploration being so close?",
+                "text": "Non ? Vraiment ?\\. Mais comment pouvez-vous renoncer aussi soudainement alors que l'exploration est presque terminée ?"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/4/event/quest/10/declined/2/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/5/event/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/5/event/2/message": {
-                "ciphertext": "oIsyNGyjsDxUdH1LOgUSYsHQ8c+84e28mI9O2NpCoqFYI21Q2ACeaukYHn7YCcFjwNf7gzJgmP/lJBlMuXxpqSBIVPwDhnUwLRlEcd1KAF8jCQ85CRW5+VU99DaYfPLP",
-                "mac": "ee1fvNpHfj5gIZCpEddouA=="
+                "orig": "Meet our explorer Hira on the Torn Road in \\v[area.heat-area.name].",
+                "text": "Rencontrez notre exploratrice Hira sur la Route Déchirée de la \\v[area.heat-area.name]."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/5/event/3/message": {
-                "ciphertext": "x35f8DMlC/m1Vwac8KFJOP/iebK5Gc3Si6QTSHcqqarhUkYjIAqH1bXveQ4bNvWg",
-                "mac": "ISeYQce/JTr7Zi2J/wIOiQ=="
+                "orig": "She will help you find the Entrance.",
+                "text": "Elle vous aidera à trouver l'entrée."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/10/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/3/message": {
-                "ciphertext": "N29vXcQvxsnuCIFIfFhO7d6kii8XccVibanyw0aC/0cOgnt3g9UC8kOy7Hw298xj78NVDZcOiavhiXY1n4wK10j111VND2GA26JlzFeCOqUvZcmO0Th4ByYDOB5om8HnYHTjuxwAmNgCTrpwzNJSfw==",
-                "mac": "bI9ePbNoYigxjhSKJS4tmg=="
+                "orig": "\\v[lore.title.seeker], welcome back!\\. Word of your latest exploits already reached us!",
+                "text": "\\v[lore.title.seeker], soyez à nouveau la bienvenue !\\. Nous avons déjà eu vent de vos derniers exploits !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/4/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/5/message": {
-                "ciphertext": "oKTUqHp55YV7g9hzFRq156wO0ZjG5qMHIjv7HzV+NJH25PHYnY3JUJ+QRuJ8RrWVuIodtvWwahK0EUMvTZQ0R75cvhqdEvrMShjoKE4Ae7dPQSgC8QoTEkClMVGfc4uhrNEHj6/226XrX59ruw4/G4tFPn7PwgbfUgR5Zkd6iJN7ex/o86u4lz+wKb/I/pGR",
-                "mac": "hNa+bIPQtUiHnTKKd+5usQ=="
+                "orig": "You have made great progress.\\. And there is still more to discover, oh the excitement!",
+                "text": "Vous avez fait grandement progresser nos recherches.\\. Et il y a encore d'autres nouveautés à découvrir ! Ahh, c'est si excitant !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/6/message": {
-                "ciphertext": "vOChAGPm4Tyl1Ciab2lXgDbnHkDAA68BKgW3cpHY+hgd1VyyPdWkhzj4TPsL3mvW29izg7c/GfyY63d5lc3G1qfaRSi/cwDfPw0oqQm7YxlxIMkDS+OPVnb0jfnb+KMMUqRbz9wmnUFPwPPjecx9HA==",
-                "mac": "SBDDh7Kpiy4R4MnoJL4orw=="
+                "orig": "The result couldn't be better.\\. Because, what is life without another goal to strive for?",
+                "text": "Le dénouement ne pouvait pas être mieux.\\. Car qu'est-ce que la vie, sans avoir un objectif à atteindre ?"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/8/message": {
-                "ciphertext": "Z5dNJ28KaWozWVJilKIPRzjoLyoifnxyRxVcrJeH461TUQ4ODkhQBx75YllU8YO+3wZAcEyE0HGhepHc0dr0q/glSAPI5W3f6JWgWLN9dm5Gt/OwOhbT20pO2ddjH4jD1rgwfnMTK05pwNudm9dxokry5S+jGxdZegJ2cJM+G2g=",
-                "mac": "r2XdhqEVi00HBiVvI/hEKw=="
+                "orig": "Now Hira will continue excavating the place to find a way to go even deeper.",
+                "text": "Maintenant Hira va continuer d'examiner les lieux pour trouver un moyen de pouvoir en découvrir les profondeurs."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/9/message": {
-                "ciphertext": "j9RROFwo/u7Qno2KYd5FG6SkZdcjfgLeKcdQZBYzl0SHehrG9xdgh33hWhZUQ9nVyWQjZvFdhREWKUgvXemCSqEMXRnyKODbHrrWJpzi7LQ=",
-                "mac": "3IehXBdahLugKWjGO7Dl7g=="
+                "orig": "We will keep a spot for you on the next expedition!",
+                "text": "Nous vous réserverons une place lors de notre prochaine expédition !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/6/event/quest/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/1/message": {
-                "ciphertext": "Bj4lZIPS9ZM7ebx3v3zYU+vanWXMdaMTbcpac1Ald2qXHQMwjNkEzjNPMBXV3XwK4r2dvnaEjIEhnNbf4Wcv7XIv029JFNGaarg/FlfTinrwCKEeNeJ/Y/laFcnxWQlg",
-                "mac": "8P3I6ycyR4Je3P96B9TyxA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/3/message": {
-                "ciphertext": "i5G+n4BHyUjq9TnaP5PesgrRhRGnBcuUnPX4uqCpHToVu0RELWsx4c9EkDDhYhW+eqKTlQR7fp2iTWuwDySeuEfe62epwI0Q9jk8vOBJJnSmp49pBRtY5wgMg9xOavSTjDlH/ZhZBqXSgWkvIQ2Veg==",
-                "mac": "f0+/lmaS/BVJ5L38iNzTRw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/4/message": {
-                "ciphertext": "XQPW2916ecf4f0sQv6Fkt23vn81fy3XxM1jeMOtogw1+bjhJYiSc30XFYSkTl944M5ZxSa6JJ16i0S7swz7JUj3vI791PJSXQitbpmmtu0TpxtGq2yvOdmnb/S/hryamFHxAq7lOZe9rOpQ0CmlYahnr7kEampy9MnM3+nT13OtZPeGvpvQGqA75HdY5AMO8kBFGxWG3pgu5CDqmrOcutcoNO8BrQzteJhdLaqHgypc=",
-                "mac": "Wsn7TkzE3ZAuJ5MIfx9abA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/5/message": {
-                "ciphertext": "IMCgTb/+Vs+e5Tb2k75TMrm3GKLW2F8P5NZKCoa47WGG/UaTRgrqYViMs3hILIbmhSogyD6TAiQddisy8UhZK3JX92jBYuT7LoPt9NRy1esO2q+yaiWoHLIOV2UC7tRtJJUX3KffoNtMDDK80ZWceA==",
-                "mac": "IJN0UEEZUoMQ1toUJKHzvw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/6/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/7/message": {
-                "ciphertext": "r/i/LjLBgy3RPKngMHkjljlv8TkLMKRZjNJw8SpJVaw=",
-                "mac": "mCHVHOoMVxdnTeTEftHfeg=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/8/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/1/message": {
-                "ciphertext": "DIlCVdXABdrdXyWWtsJKHDqZojzrsHSiaEYTQbwJaMOnykKfYWzv8/Ryg3zGyoxwaN03HkV6TJUHquK1ew1gawDf5THVnqL5V9U3iJ+WjwAF/nu05YhCdYu283AcTzn3H3PC8Cjh/zF/CJxH9UiwYySHlRxGJHeZH8sB+dd42toZ5SDkXNEi+92ap88vNXJlLeFWe14tqM8jRUFUEPRHdW7sYFnk5Jl3WpyTjzqR2gw=",
-                "mac": "hnTT/aS2EH9ctgZqylvpJQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/2/message": {
-                "ciphertext": "tJwLtPoniu/Z0JZSOX9ZhQ==",
-                "mac": "0wLUUq5nfPWuUBNhqrDjAw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/3/thenStep/0/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/3/message": {
-                "ciphertext": "kLGHoDXYdQ8K5qLhniY7fUevUAxbMQ8Wi/5PdUXs64PFqqJBjQsDZTYzKWEzlCpXUgsOUVQOSbTJqcyAGliVawy0e1xVH9vlaDCJlbbrNCr2KBMxtnMNNOBU34vzfdFOehsnQpZXtsYKW4TYrUvrDA==",
-                "mac": "p7YLg6pjJWyFa7nhFJ470g=="
+                "orig": "Most honored \\v[lore.title.seeker], fate has brought you back to us!\\. A pleasant sight indeed!",
+                "text": "Ah, honorable \\v[lore.title.seeker], c'est la destinée qui vous a ramené ici !\\. Quelle joie de vous voir !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/5/message": {
-                "ciphertext": "Nii3gg7+U3G1tVWR+y/0aqmHfFjCzH9vHppPH4waZs2ujumUFAk64tWvFPN0qXhdMnTiadJq2dNXeJZ6Gg7ZQRwAIBvuyPb5uPO/HvnKkBLqBc8N3Euek5Ifm6AcwWGr",
-                "mac": "pZTl6ys77skRjXykLTHr9w=="
+                "orig": "Now, while you were out there, shaping this world, we have not been idle ourselves, no?",
+                "text": "Bon, pendant que vous étiez occupé dehors, nous n'avons pas chaumé non plus !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/7/message": {
-                "ciphertext": "MuFO9pYNqu38Uy1vGGufxMj+hYh2LCDPfnIlA9jL60DKk5dSkIbO3DAEmswvsPrgkcgJllG+vp02v46lipZNyZ/GghIOEonsHcGMTj8opzNlfpTk6XMMuHLA63UJaaLeCTWCTKIT/gSZkTPHO6t+DQxUI7H3sLUK+nOLPSURHMEOCSiLF4iR92/PKJeBM7z7",
-                "mac": "mN4w5iEcwa4HnZlYYaK1YQ=="
+                "orig": "The last obstacles on our way to uncover the true secrets of that Ancient temple have finally been unlocked.",
+                "text": "Les derniers obstacles qui nous empêchaient de découvrir les véritables secrets de ce temple des Anciens ont finalement été surmontés."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/8/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/9/message": {
-                "ciphertext": "+rVfy/HJUFMHYK8D6u6rhNuHQzSbx6uRQEntyjGQgTWujMg6sJCkK++ESyMiYpuyl81ZS0Pmxfk3fZCHNAyctLenvLfOBVPVTAqkFbLIZB3zbSAFvY0QZAY6bH9kz0TM",
-                "mac": "uDFmZrIBeSUfeQkl7scBEA=="
+                "orig": "So, \\v[lore.title.seeker], will you do us the honor and take the final steps?",
+                "text": "Donc, \\v[lore.title.seeker], Feriez nous l'honneur d'entreprendre cette dernière étape ?"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/1/message": {
+                "orig": "Marvelous!\\. Your humble aura truly belies the greatness within you.",
+                "text": "Merveilleux !\\. Votre humble aura contredit réellement la grandeur qu'il y a en vous."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/3/message": {
+                "orig": "Our diligent explorer, Hira, has been leading the excavation of the temple and is still waiting within it.",
+                "text": "Hira, notre exploratrice assidue, a terminé l'excavation du temple et t'attends encore à l'intérieur."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/4/message": {
+                "orig": "Join her once again in the \\c[3]Barren Temple Hall\\c[0].\\. You can reach it through the \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0].",
+                "text": "Rejoins-la encore une fois à l'\\c[3]Entrée du Temple Abandonné\\c[0].\\. Tu peux l'atteindre via la \\c[3]Route Déchirée\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/5/message": {
+                "orig": "She will show you the way deeper inside the Ancient sanctuary.",
+                "text": "Elle vous montrera le chemin qui descend plus profondément à l'intérieur du sanctuaire des Anciens."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/7/message": {
+                "orig": "May the winds guide you!",
+                "text": "Que le vent soit votre guide !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/accepted/8/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/1/message": {
+                "orig": "Sacrebleu!\\. A legendary discovery is at hand and you will not strike?\\. Please, \\v[lore.title.seeker], rethink your decision!",
+                "text": "Sacrebleu !\\. Vous voulez vraiment laisser passer l'occasion d'une découverte légendaire ?\\. S'il vous plait, \\v[lore.title.seeker], réfléchissez-y à deux fois !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/2/message": {
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/7/event/quest/10/declined/3/thenStep/0/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/8/event/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/8/event/2/message": {
-                "ciphertext": "3LGrUFb3hOEOqAZrsKqAdc473WohJdnBSxiJJ0E5e4QEWNHM4s76Tm3pgLf/ynkAWs+hRo5C+WZJuc0o22UrcWifQ+QFi3Wx9UzhDmaApy3K0VFAimMtKlH7tTBfXjGPEiSaN+Zn81WMUKblA05/bUdxB+SL9EodEwNKLxKevKQ7AXPwxdicfX1malBOYLYRAIHn/08dVdJqGXVkygihx7E7WX+K2VkIWmy9TXV1/ZU=",
-                "mac": "qQu+Upqjzo/qpdA6LXeRoA=="
+                "orig": "Meet Hira again in the \\c[3]Barren Temple Hall\\c[0].\\. You can reach it through the \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0].",
+                "text": "Hira vous attend à l'\\c[3]Entrée du Temple Abandonné\\c[0].\\. Tu peux l'atteindre via la \\c[3]Route Déchirée\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/8/event/3/message": {
-                "ciphertext": "IMCgTb/+Vs+e5Tb2k75TMrm3GKLW2F8P5NZKCoa47WGG/UaTRgrqYViMs3hILIbmhSogyD6TAiQddisy8UhZK3JX92jBYuT7LoPt9NRy1esO2q+yaiWoHLIOV2UC7tRtJJUX3KffoNtMDDK80ZWceA==",
-                "mac": "IJN0UEEZUoMQ1toUJKHzvw=="
+                "orig": "She will show you the way deeper inside the Ancient sanctuary.",
+                "text": "Elle vous montrera le chemin qui descend plus profondément à l'intérieur du sanctuaire des Anciens."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/0/name": {
-                "ciphertext": "N3gDIO9kqmLb68nzHfxQBQ==",
-                "mac": "MkM8g/JeKL5wc7GhhhYMlA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/10/message": {
-                "ciphertext": "NVX87Nk00U2YQtNbRacxzGSW01Jm8fZebipkoNMebm1SXWv/5hpVpKM53V9+lQnBNcgJDmuxturWpqVvyCLT/8rfM6gPwWYbO629/VZMcJc9Y9zMc/DsSA+2PBca5dw5MzfS7GyYSK588UqtZkDXFc+it1NKN2QRrsx6CZjLX6GzvD5p+bMIt8DtqDe8439X",
-                "mac": "lo5iTMI1LtZ2MVkWhffB4w=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/11/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/12/message": {
-                "ciphertext": "nNJJnd1hbxZJB+dpDovlPu4Fe4yFBeARVda3FEev8UBuKWSJpWYaULGJQ42IHAxnk7IFvJALy0AGy5oYo6+QNCg4SLFuB48nJMK/uhd6KOw2PJa/GAQs/rd6r+hevKwGO0IEq70lxaAzaGEvNadgOw==",
-                "mac": "FWJo+nRIHZ640cbfNrivFw=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/14/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/3/message": {
-                "ciphertext": "bcSFzstDDJGdKr1O6vouaJio77Old8BwylFD9WvXcCDwtb8vYrFixlxCv2I4sy3e7tTp0A5+pKsBcahf2IQ/ltSNhFd+Knx8KsjWnffkOs0QOFs/eMfWjS6FD0P0rCZI22wZcBq8U0xv2TkuW6sjz+q8O3ifZPkxerLkXw08h4c=",
-                "mac": "aMqDierE3UlHDfEtWCgzwg=="
+                "orig": "The great \\v[lore.title.seeker] returns, bringing closure to another tale of legend!",
+                "text": "Ah, le grand \\v[lore.title.seeker] est de retour ! Et il a terminé d'écrire une autre page de notre histoire !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/5/message": {
-                "ciphertext": "VdPYN1J+68OZQcj/bQxhufTklLqveKYqHkshw6Nq6W1E/qmLLHBNfL0ZdVyjJdzy9H7Ns8EetfRzh1Hp5jpJjc6YXEndCtMZLNQ510Tp8y6l1qjW/1CLKxdPhRTc1zICwpJNaujSZFK7wCtG8/6SBSey2M25eU3+ESZpjdiitb2r1/wYHV/FWHR8sVbo5hU8vuYssiHMaOIWi0zcCiE5BnJE318jDH4iMKANDHaTcJw=",
-                "mac": "Nv69bD5bq3WziAT0dTKwEQ=="
+                "orig": "This treasure you brought, truly magnificent.\\. It might verily outshine all I ever gazed upon, save for you, of course.",
+                "text": "Et ce trésor que vous avez trouvé, vraiment magnifique.\\. Son brillant pourrait dépasser tout ce sur quoi j'ai déjà pu poser mon regard, excepté vous, naturellement."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/6/message": {
-                "ciphertext": "6RCDuHaSwiMiPchr6eXL2g==",
-                "mac": "8tAPHbW6WZDXmhNGssyBmA=="
+                "orig": "...hi.",
+                "text": "... salut."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/7/message": {
-                "ciphertext": "kZpPx9TS9cCMK1vhP17DVzOD/wPOsVu/tzapcJqfxUmA0ejKaXx1B0jpZ9o5nZ3x4n71ciT2GYoEIKlgpf/1HAx3Z4XyT1b0hAzizDiKkrGebg+C0hQ+inNm2oxfVIOC9ZvxBBmoXPrsUPplML5R3nutbroTMHBJ3qcOYLbyqZEOgVJaN3KOs47FCNmBxvaVSII/utcU9RDxokeLyncw9g==",
-                "mac": "S4X2/+QwW3UP8ysvi1TUZQ=="
+                "orig": "Haha, still not taken by flattery I see.\\. But you are right, the artifact's true use yet eludes us.",
+                "text": "Haha, la flatterie ne semble pas vous prendre à ce que je vois.\\. Mais vous avez raison, la véritable fonction de cet artefact nous échappe encore."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/9/message": {
-                "ciphertext": "WeTF/qJ2O0ko0SblryDGZvDu840lX7lI7y8VgK6Iki3sqpbHo2rqeuxsMLCG5b68pLezedrdPXhLoD8JULirBZ7fril+BXM6ufB1KEbicACFe+BUewIZdfsDZ1N9jCaGCCIszRAUbHcubAT8IU2MFt654dqsaAJyiZIM9DgPdyM=",
-                "mac": "935Ha/TLLbaQh83XwRidcA=="
+                "orig": "But it matters not.\\. Its significance in Ancient culture alone grants it a strong connection to the track and its power.",
+                "text": "Mais cela est sans importance.\\. Rien que sa signification dans la culture des Anciens le relie au Tracé et à son pouvoir."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/10/message": {
+                "orig": "So by overcoming all the challenges to claim it, you have done a great deed for all of humanity.\\. We can not thank you enough.",
+                "text": "Grâce à votre persévérance héroïque, vous avez rendu un grand service à toute l'humanité.\\. Nous ne pouvons pas assez vous remercier."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/11/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/12/message": {
+                "orig": "Until the day we may meet again.\\. You will always be welcome here, \\v[lore.title.seeker]!",
+                "text": "À plus tard, au jour où nous reverrons.\\. Vous serez toujours le bienvenu ici, \\v[lore.title.seeker] !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/9/event/quest/14/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/0/name": {
+                "orig": "Joel Mahir",
+                "text": "Joel Mahir"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/2/message": {
+                "orig": "\\v[lore.title.seeker], be our guest!\\. There is much to talk about, I am sure.",
+                "text": "\\v[lore.title.seeker], soit notre invité !\\. Je suis sûr que l'on a beaucoup de choses à se dire."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/3/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/faction-bakiadventurers.json/entities/62/settings/npcStates/10/event/5/message": {
+                "orig": "...bye.",
+                "text": "... Bye."
         }
 }

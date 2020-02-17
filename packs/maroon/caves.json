@@ -1,300 +1,300 @@
 {
+        "maps/heat/caves/cliff-cave-01.json/entities/243/settings/condAnims/0/interact/hoverText": {
+                "orig": "Henry's Data Probe",
+                "text": "Sonde de Données d'Henry"
+        },
         "maps/heat/caves/cliff-cave-01.json/entities/243/settings/condAnims/0/interact/event/0/text": {
-                "ciphertext": "vfIn7/JAkkDDfHPD/QjppGvO2zVETKSx9NtKbsrt/2s=",
-                "mac": "DN4GuqIU2GwTXXle+azYpw=="
+                "orig": "Retrieving Data",
+                "text": "Récupération des Données"
         },
         "maps/heat/caves/cliff-cave-01.json/entities/243/settings/condAnims/0/interact/event/16/object": {
-                "ciphertext": "2OPXmGxMnG4jeqAxqa5/psqUUely4yjA0tILgbz5qGo=",
-                "mac": "Phm4nZ/HAwLgj9Hoe1ZQmw=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/243/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "cKzxUz9h4gz7fwLNdRzhv4my74XjT22awwv2kSdSnXk=",
-                "mac": "oc3moGVoEVjMIRkHr8mP7A=="
+                "orig": "\\c[3]\\v[item.347.name]\\c[0]",
+                "text": "\\c[3]\\v[item.347.name]\\c[0]"
         },
         "maps/heat/caves/cliff-cave-01.json/entities/244/settings/text": {
-                "ciphertext": "cf30oO4IZpiOGJOVa19Bcl9ii6byeoOO3aBgWePhdpJ3q+STQPtrbOAoDYHciYxyh6nhjmdCUb+y7LxUkzYfmg==",
-                "mac": "uTcFn6fNNXuYkFTQp32A/w=="
+                "orig": "A data probe installed by a player for Henry.",
+                "text": "Une sonde de donnée installée par un joueur pour Henry."
         },
         "maps/heat/caves/cliff-cave-01.json/entities/245/settings/text": {
-                "ciphertext": "0r2bF59ZNedn1VqjO2MZax+Hx7+XvIcKM7Iw+OeTtRt8nwc9o7BSCD4HuZzVOASgm2pA9wwVlC4VUVfFVXNm1mRAnGsQbyGvpIi8AN6qzzICIXv3hYXtutuPpHYwPKxt",
-                "mac": "jQ7s9zi8e42+6XzaNG1/4A=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/13/message": {
-                "ciphertext": "VXNtPRGrmK5dRZNcH13W8rvKhK1wuylhHAc4n/jAx+RkatyUsXTxTY5DGaAPkVk71fXKLBo2CDYJ/XL5zMSqJi43aQcL8vSKcrR3aYBAGybimxGk29W0jrsXJk809h0ZkZnel+OdXz1sVtNUp+PK4TvG8lxEdF1ruiaDWpJZCzM=",
-                "mac": "gtDbHcWvNpbhOhCkZsCZDw=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/14/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/15/message": {
-                "ciphertext": "U8zqsGhAJY45F2t2TvD2bjDzdwgezVBhvvZTFv+rci6UPyP5/GOl3PQbnnH4LakJ",
-                "mac": "+z9+LMjMd2kHpBVpQV8WYg=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/16/message": {
-                "ciphertext": "uURcGd9mETRjXrddzsh5kaods6zJLgE6t0KTl8j/3SD5J5Dw4NudMzduO5zMm03EUG+qnsqAJWyVM0jxvUu5k6YaNDhTJktJAZWk8TkgNQXDBMFybBk0gHlbWuyoD4+H9XpZmtdBqC19/8iZJGAzDzC4wl5xe65F72GoeICVp3GyhHpJihWnuBP6648az0Hz",
-                "mac": "5DEHhtLrPr9aOGApoRbp1Q=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/17/name": {
-                "ciphertext": "Jt2fjNrYu5qzqcFRwO/APg==",
-                "mac": "Ax98XwfIC6NrEEd4cFcIeQ=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/18/message": {
-                "ciphertext": "oDYxsFMIQXeWQQ7ff8+Epw==",
-                "mac": "Rv2+TvyebIFolts8D/skpg=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/19/message": {
-                "ciphertext": "EJnZujkl5doc94mzkbq9eA==",
-                "mac": "3bKixQAjAsp74to0nZL9xA=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/20/message": {
-                "ciphertext": "55demIlkyxTVinrvpR/iZELq1cZ8f+rcnu+fkmoOX7axIIjNH9IJXJw4aFyDYqYbhSa60FLu6BblDswIK3VFjnoU8hIGxoGo82chSvo+SvAHAHQk08+2R/sXHRrv+LdT",
-                "mac": "n3d4KFOdAcTGP+TTsXhavw=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/21/message": {
-                "ciphertext": "0c8unneHoRAwZoR4WWYBAsOQKnPF2s8GDDtGlncY2CMyJa05flRnhgu9SexmMBphHKv3G6gB+560TScUdW6xvFAWX8AHXYwQAnrcWl4dTY3hWO40BPErMNMjdBv1LGL5",
-                "mac": "/RwxbxmnO7IA18LBhzbU/Q=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/22/message": {
-                "ciphertext": "Bmqv40TJ55hS5ZBhbEljx8ijxSkdI24qVO087LYo6x/sjVijdtKsrW1Ukg99TdON",
-                "mac": "7lOQbCm0Ah0QjJZ8LX5KKA=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/25/message": {
-                "ciphertext": "Y9saHnXXpPynbvddkbl/trDk7sECn3f7mm84t0CKS3Y0f+xoT/WTz1VccjrNEd7rCfZI5dHLA0/UUO1q4GQYoahvH1VvHncJGKa3lofw1VQ=",
-                "mac": "kUoxvhI3R8lEfGk2oX8KYA==",
-                "ciphernote": "Ecjhrcni6yciTmpuaPSheQ=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/26/message": {
-                "ciphertext": "f8sMDxP5N3upPuTfhEVU8YOy8yiG8fr8JIiydd61AW9/fJ+UglZ53FLuTLOyonETAYXfwSKw/HpAahjiWI7EooJiEFIaE1R2Da7VoiRTz/x699JRbKl/QzA9BQ62qIcxt23crYmQvCw4A8Fe63MAWHlfS6dnEh62G6GHPaNF82I=",
-                "mac": "pCOyTmisFHdkO2HaR5YOCg=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/29/message": {
-                "ciphertext": "/H+s6Kq/pcdoBnWWZgkDEwcYQY8E2GnJA2aTfsFL58EkyXhWer+mpeD6XaeTg/s4pGQCAN03hQh9+H77slJ1LRkLBhG9WB5r4E4YMv6A+koHEuJOI7sCM1CFLnxlgl0JNF2DK9jkEupjH2lZ9R1k+A==",
-                "mac": "HH4bkt4638aa3MzmaXah9w=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/30/message": {
-                "ciphertext": "QE3WpOkycfbS3bgnTewhdnrtUpX4bO6X24OVA/PRyXiZF11Ao4ROR9OznXZyScRx",
-                "mac": "CShTu7qXjNnzzdlcE3GNJg=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/31/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/32/message": {
-                "ciphertext": "75N/2uSRKj1ZnNRAV5RHLZbTFR6Nv0nEVfz0ZVOlgFh3bNAHPmM+1yZkLYqYvw3lNcFqTqGiZs02vND8mhDtGMnUJb5EHnfrA0u8KmB44+I6Bbyrq8S03dYF4I4aAlzpGg6kdTXUTDL7kEZdRdR4jULPdYNhEKxTl8e2XFG6ehA=",
-                "mac": "mFqg3QDc7abnGxjz+KYMNg=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/33/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/34/message": {
-                "ciphertext": "E5nUsApErvQ4NPeY2BQjTECvG/ZAxBath2xml2jFvSSaGTmfF7h1eiUK//qtQpn5oo3V4BQJlOwEzb+nCy8IK2glqoe77QaRBDqHA0aXhtKefnpyd8iXosdFO2ZJwUk+vKb+l/1MRuHulJQu1NshdA==",
-                "mac": "ZSMiN38d8qCTP+6fg4OXoA=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/35/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/36/message": {
-                "ciphertext": "URL8O92CEuWVBirczgUXiO9Bl5pFFBFjP0VBUKnWhksPouzGh/idWjrvpfXuHPBBeefP3Ty9G1d9crdVV6RMqL2lthuqMOkfrDToOBNsNVA=",
-                "mac": "K9bpaX1JXI7ZPk0eWgC0Bw=="
-        },
-        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/37/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "A data probe installed by a player for Henry. The data has been retrieved.",
+                "text": "Une sonde de donnée installée par un joueur pour Henry. Les données ont été récupérées."
         },
         "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/4/message": {
-                "ciphertext": "AxVSzJGYFyf/0m7o/qvbunxLHeWdY2meyjesKX4ltzg=",
-                "mac": "ferhrMjg97Fbq1jG/P4pUg=="
+                "orig": "Ah, you there.",
+                "text": "Hemhem, Désolé madame."
         },
-        "maps/heat/caves/cliffs-temple-01.json/entities/20/settings/event/0/elseStep/0/thenStep/0/message": {
-                "ciphertext": "FhuaRjjMK9uvjsQZGvqr5wQC0XHMEIvIZLPufDImWM0NkKQOfzZb/5bdYqA9BMSFTxrpvUv6ncWSLCT/du9kXQ==",
-                "mac": "MkGWpAfH+3f4MFR7dxn+Ww=="
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/13/message": {
+                "orig": "I am terribly sorry to disturb your experience, but I have questions of the utmost importance.",
+                "text": "Je suis vraiment désolé de vous déranger pendant votre partie, mais j'ai une question de la plus haute importance."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/14/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/15/message": {
+                "orig": "But where are my manners?",
+                "text": "Mais où sont passés mes manières ?"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/16/message": {
+                "orig": "My Name is \\c[3]Baxton Addi\\c[0]. I'm a moderator and supervisor for \\c[3]CrossWorlds\\c[0]. May I ask for your name?",
+                "text": "Mon nom est \\c[3]Baxton Addi\\c[0]. Je suis un modérateur et superviseur pour \\c[3]CrossWorlds\\c[0]. Puis-je vous demander votre nom ?"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/17/name": {
+                "orig": "Baxton",
+                "text": "Baxton"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/18/message": {
+                "orig": "!",
+                "text": "!"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/19/message": {
+                "orig": "Lea.",
+                "text": "Lea."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/20/message": {
+                "orig": "A lovely name. But let us get to the matter at hand, shall we?",
+                "text": "Un nom très sympathique. Mais si on en venait aux faits, si vous le voulez bien."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/21/message": {
+                "orig": "I was just inspecting the area to ensure all was in proper order.",
+                "text": "J'étais en train d'inspecter les lieux pour m'assurer que tout était en ordre."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/22/message": {
+                "orig": "And I came across this object here.",
+                "text": "Et je suis tombé sur cet objet-là."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/25/message": {
+                "orig": "Now, this peculiar little bugger does not show up in my database.",
+                "text": "Bon, ce petit machin bien particulier n'apparait pas dans ma base de données.",
+                "note": "de: pas listé"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/26/message": {
+                "orig": "All assets in the game world are to be registered to avoid any disturbance of player experience.",
+                "text": "Tout le contenu du jeu doit être enregistré pour éviter tout désordre qui pourrait perturber l'expérience de jeu."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/29/message": {
+                "orig": "Now my humble assumption is that our asset team just missed adding these new items. ",
+                "text": "Mon humble avis là-dessus, c'est que l'équipe chargé des contenus a dû oublier ces nouveaux objets."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/30/message": {
+                "orig": "A common oversight, I regret to say.",
+                "text": "Un oubli fréquent, je dois admettre."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/31/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/32/message": {
+                "orig": "Now all I need to know is, if you perhaps are involved in a quest that this object is a part of?",
+                "text": "Maintenant, je cherche à savoir, si vous ne seriez pas impliqué dans une quête ayant un rapport avec cet objet ?"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/33/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/34/message": {
+                "orig": "As I thought. This explains a lot. A report must still be made.",
+                "text": "C'est bien ce que je pensais. Cela expliquerait pas mal de choses. Je dois quand même faire un rapport."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/35/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/36/message": {
+                "orig": "Thank you for your cooperation, Lady Lea. Farewell.",
+                "text": "Merci pour votre coopération, Mademoiselle Lea. Bonne journée."
+        },
+        "maps/heat/caves/cliff-cave-01.json/entities/248/settings/event/37/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/heat/caves/cliffs-temple-01.json/entities/20/settings/event/0/thenStep/0/message": {
-                "ciphertext": "8C6j8QnavHnDspR+PtUmBg6jRLyYZmdgqe8C/T4ZaZ9fc063YrpSKNPmMFLuYf1U",
-                "mac": "ywDy4GqHm3hxjaMW/9VzXg=="
+                "orig": "Another instanced cave...",
+                "text": "Encore une grotte instanciée..."
         },
         "maps/heat/caves/cliffs-temple-01.json/entities/20/settings/event/0/thenStep/1/thenStep/0/message": {
-                "ciphertext": "f30D3Z33+76bd6YhYM/WCUBJs6xP6OEclVJLWbaZfZ379aZ9avVTWS5Z71XxiUfu",
-                "mac": "NmEeuz94YliB5QFh5TMxSA=="
+                "orig": "I'm really bad at those...",
+                "text": "Ce n'est pas vraiment mon point fort..."
+        },
+        "maps/heat/caves/cliffs-temple-01.json/entities/20/settings/event/0/elseStep/0/thenStep/0/message": {
+                "orig": "I'm really bad at these instanced challenges.",
+                "text": "Je suis vraiment mauvais à ces défis instanciées."
         },
         "maps/heat/caves/cliffs-temple-02.json/entities/8/settings/teleportLabel": {
-                "ciphertext": "ocpI+4V7UOTKIopbVt+08+rBq8KYSqcm5N1v+ARii1s=",
-                "mac": "V0NVNIF62nhELs6h/ErSdg=="
+                "orig": "Teleport Outside",
+                "text": "Téléporter Dehors"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/1/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/1/settings/condAnims/1/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/1/settings/condAnims/2/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/1/settings/condAnims/3/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/1/settings/condAnims/5/interact/hoverText": {
-                "ciphertext": "8TMR//98y3c8tRe0AvFKRsoMF3E1dHgOHyZ1G/n7XMw=",
-                "mac": "XByAo6f6D4u2bYbaufedrg=="
-        },
-        "maps/heat/caves/cliffs-temple-03.json/entities/24/settings/teleportLabel": {
-                "ciphertext": "ocpI+4V7UOTKIopbVt+08+rBq8KYSqcm5N1v+ARii1s=",
-                "mac": "V0NVNIF62nhELs6h/ErSdg=="
-        },
-        "maps/heat/caves/cliffs-temple-03.json/entities/25/settings/text": {
-                "ciphertext": "KZsZvh4xILPEPf5kR55I+4843WpAbbz9aoe+V2Vh76EoDJxX3tppKIWYqaPujwl2",
-                "mac": "/qLASOn8zaeb2xRZfqwg/g=="
+                "orig": "Touch Chest",
+                "text": "Toucher le Coffre"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/8/settings/event/10/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/8/settings/event/22/text": {
-                "ciphertext": "wIRlahri2d1P/C/shMlwIfuJwD9OMchq+ffYVcS9Mjc=",
-                "mac": "z99Vke32Y2Bi8T7NgheyPA=="
+                "orig": "NO! Put them back!",
+                "text": "NON ! Remets les dedans !"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/8/settings/event/23/text": {
-                "ciphertext": "DVCiNxtx8A1ht5qHk46hiIGo87EgYduH/1nwLewwrRA=",
-                "mac": "gYqIFUmjb4bKKAJaemVJXg=="
+                "orig": "They are MINE!",
+                "text": "Ils sont à MOI !"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/8/settings/event/24/text": {
-                "ciphertext": "Krd51lj1yjOYS0X+YcASKJ9+s0R2uBb+c1UcxfagRqdzCRLfWEvys5SaHPpt0TfC",
-                "mac": "UMtEytm9sOgPtlnQ0lqG7A=="
+                "orig": "I will never let you have them.",
+                "text": "Tu ne les auras jamais de mon vivant !"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/8/settings/event/38/guiInfo/settings/taskTitle": {
-                "ciphertext": "hl1oeNwtZjFVvKZ57Dxkdw==",
-                "mac": "B03XgE1sNYXm025SATmmWg=="
+                "orig": "Chest",
+                "text": "Coffre"
         },
         "maps/heat/caves/cliffs-temple-03.json/entities/8/settings/event/39/guiInfo/settings/taskTitle": {
-                "ciphertext": "LIzqEWEAHS5OT8aNx9mmuA==",
-                "mac": "1F/vu0va1F/QiCQsYgck9w=="
+                "orig": "Coins",
+                "text": "Pièces"
         },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/10/message": {
-                "ciphertext": "745hNPsQNG+uFiSjhA+SLQ==",
-                "mac": "T5Gr4Z1u3usxVSjMn8EYGg=="
+        "maps/heat/caves/cliffs-temple-03.json/entities/24/settings/teleportLabel": {
+                "orig": "Teleport Outside",
+                "text": "Téléporter Dehors"
         },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/11/message": {
-                "ciphertext": "VxGkiyiEeB4VZE5Xh/sbcqbDyw205oP7ejyRqLLOgevr2lknpTO2oLgEyH0k4FAIEJ5m2A4Fzl+6QaImnXvtnHXvlK0m3DahWe9jJ5skSGkSJjamDLRF22fJbBinx7eLTmKrLH4LHZuttsX4ynZPgfe79CCZuVUoFVyiFIJ+Tadzt4st4KJxfTzqFnKXRjiQ",
-                "mac": "7C0Q/b9YlbnPZHAagXQ8xQ=="
-        },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/12/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/13/message": {
-                "ciphertext": "COR0YnsOt9B6VUpVKzLdoErz/Snik7/C8B1Rqr0JqN1AHGhIvuQ6kvdGNUMs2sbKNBgPZy0bM486mRhyeaI8MI9fTzIMYarHoVPrtFcBCrBgjkTwyT6wrJVmjvLc6wmpNGecfcD5OEErmXxuumNdGpqBKchqRFZLXd/kUnlz+p9+WAWskNCJGOnJUVftenDe",
-                "mac": "p0AMUdibsOd567w5LGbQpg=="
-        },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/14/message": {
-                "ciphertext": "5NA6ATnSN9I9auD/i3p1uQ==",
-                "mac": "H0hDuCphZYAuIH5m4DYMNw=="
-        },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/43/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
-        },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/45/message": {
-                "ciphertext": "745hNPsQNG+uFiSjhA+SLQ==",
-                "mac": "T5Gr4Z1u3usxVSjMn8EYGg=="
-        },
-        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/46/message": {
-                "ciphertext": "G20D6PjQvOgUfrFN1hI7+fOIWIsGC8iolg3khqmpcg8IA9Z7yJk7WcOOMC2ZHzs8m2/ksUrpKYXyUCrhvn2Obw==",
-                "mac": "Em1xFeTpj0Zjd2OXkPmKsw=="
+        "maps/heat/caves/cliffs-temple-03.json/entities/25/settings/text": {
+                "orig": "A chest filled with cursed riches.",
+                "text": "Un trésor remplis de richesses maudites."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/8/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/10/message": {
+                "orig": "Hi...!",
+                "text": "Salut... !"
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/11/message": {
+                "orig": "You even saw through my holographic hidden entrance?\\. Truly you \\v[lore.title.seeker]s are something else.",
+                "text": "Même mon entrée secrète holographique ne t'a pas arrêté ?\\. Vous les \\v[lore.title.seeker]s, vous êtes vraiment particuliers."
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/13/message": {
+                "orig": "But this will be the end of the line for you.\\. No one will beat me, when I am this well prepared.\\.\\. Behold...!",
+                "text": "Mais ton voyage s'arrête ici.\\. Personne ne pourra me vaincre, quand je suis aussi bien préparé que maintenant.\\.\\. Regarde... !"
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/14/message": {
+                "orig": "...!?",
+                "text": "... !?"
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/43/name": {
+                "orig": "Billston",
+                "text": "Billston"
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/45/message": {
+                "orig": "Hi...!",
+                "text": "Salut... !"
+        },
+        "maps/heat/special/guards-billstonLair-1.json/entities/33/settings/event/46/message": {
+                "orig": "Now \\v[lore.title.seeker]... have at thee!",
+                "text": "Maintenant, \\v[lore.title.seeker]... Montre ce que tu as !"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/12/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/14/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/15/message": {
-                "ciphertext": "1wJvrH568xmn1FPC9xfGwb2V7n3MRNU8HZES+H/Q0Qm8RfRy9xJRa4M/WbeBOmuVxlwxrmF/n7EaywOzG/8DFg==",
-                "mac": "hnpDJB81NeSoFfje8IGOqQ=="
+                "orig": "D-damn it.\\. All those preparations... done for nothing.",
+                "text": "M-Merde.\\. Toutes ces préparations... pour rien."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/28/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/30/name": {
-                "ciphertext": "r6wUq8H8wTE3h/7+LnzXIw==",
-                "mac": "vIRU7nCqLLAWNGFXVz6Qag=="
+                "orig": "Zaida",
+                "text": "Zaida"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/31/message": {
-                "ciphertext": "+f26vd+2wy4D9f5maHkUA+N/xCtgr0D5G5WroJ6O3LtSYUNt7My3VWCjNdtI5CjccDh2B8uspOVFJZv7NtgE6QDyj99MtOlTmm5s7rlspOI=",
-                "mac": "c/5tX2ndMJfUs85DlL8Zng==",
-                "ciphernote": "T5V9ntuAfgXHrf+fLxsCTGNgEdGzKfT0T+PvHYQA41NrqjIIrhJHqKTVtrXrQAE4"
+                "orig": "You are coming with me, traitor!\\. You are a stain on the honor of the Ba'kii Guard!",
+                "text": "Tu viens avec moi, traitre !\\. Tu as sali l'honneur de la Garde de Ba'kii !",
+                "note": "faction name is Garde de Maroon Baki"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/32/message": {
-                "ciphertext": "745hNPsQNG+uFiSjhA+SLQ==",
-                "mac": "T5Gr4Z1u3usxVSjMn8EYGg=="
+                "orig": "Hi...!",
+                "text": "Salut... !"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/33/message": {
-                "ciphertext": "MgH+mzFLr39DK6fU2O/dpX98ABJB2ASgCbNXRWE0oiayCbPRC2fRCX1h8ObH/0Mow/OoUuk//kt90EsBawWEv2/bigTDqY0yGoQhW5CrXrXaYwp8h7maFEPZithXd4O2DI5OW/idLk9lQJ6lk67IqbZOw++vpl621udtq2kErTcw4NrZDG/prDwqknUiSWcSrynpTsS0+FTWO+BXpeKHjQ==",
-                "mac": "yDdFrkLxx9kR4geODU7P4g=="
+                "orig": "Ah, hello Ms. \\v[lore.title.seeker].\\. You have done well in apprehending him.\\. Now we will bring him to justice.",
+                "text": "Ah, bonjour Mme \\v[lore.title.seeker].\\. Vous avez rendu un grand service en appréhendant ce type.\\. Maintenant nous allons le traduire en justice."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/34/message": {
-                "ciphertext": "KqMZZcmpqyeR+BLNyW0XeIdKaXZqAgBW8x1rQHx5D/un1M9KIk64OjwOzN8+t2p++vxorzQSFg9DijFs3PSv3md5VxalRtc8RNqRoiIkndg=",
-                "mac": "FpO5JpKmXaHKhXozoGb7Fw=="
+                "orig": "What, you?\\. I was your superior and that is how you show your respect?",
+                "text": "Qui, toi ?\\. Donc c'est comme ça que tu respectes ton ancien supérieur ?"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/35/message": {
-                "ciphertext": "UWNy67NO7ooriVbVupi+Uxs8iSssrRXj1zQb/z2Hm9lDpS8/yH/KvnMpmLKPVFI/LI7t3BDeubDRxXS90ZBGjw7LdY31CMhxuqkorJU8eX6LMtXeV1KXHNnv54Qi49b9IyBTUXnPCuWKlS2cJdEIkDRS6kL+gCLHZLR0tV31p9g=",
-                "mac": "2iIQA8nlXIHIH1YqPqBqAw=="
+                "orig": "I am a guard of \\v[area.heat-village.name] and sworn to protect shad- and humankind from evil.\\. Like you, traitor.",
+                "text": "En tant que garde de \\v[area.heat-village.name], j'ai juré de défendre les Shads et les Humains du mal.\\. Comme toi, traitre."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/36/message": {
-                "ciphertext": "t2AUPAN8dVOSUAhF7HD/ZjGp3xK2pIvxp4CndCzf1kL4DZ5hUxfkE9TbDBBmo5q32zTK5DE/YcBws7N5s0wf4w==",
-                "mac": "GaDZje94VS3XuSoVnFF2UQ=="
+                "orig": "I see...\\. the guard truly has become soft.",
+                "text": "Je vois...\\. Le garde est vraiment devenu trop tendre."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/40/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/42/name": {
-                "ciphertext": "r6wUq8H8wTE3h/7+LnzXIw==",
-                "mac": "vIRU7nCqLLAWNGFXVz6Qag=="
+                "orig": "Zaida",
+                "text": "Zaida"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/43/message": {
-                "ciphertext": "rSU7R48pbT1zfDmQxqO3YFqGbUkCf/8lrbxDKKRBm4xzkqDthroPl8K63tUbUb+P",
-                "mac": "dlBa5np521t9kbAEPsKpdQ=="
+                "orig": "And you, \\v[lore.title.seeker]...",
+                "text": "Et toi, \\v[lore.title.seeker]..."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/44/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/45/message": {
-                "ciphertext": "yEiAPPffkRJvnnNfJSKdKzAN08uVxo4iJJw4rbcDd/IXtpA6uGGBDDkZjGYBmRuYePaxDEyfLLBM+fHHX0T47Um8YKNJQD6PNDT+yQyoC0rnFK/MnBGjT/JuTqp/vs1S1wJsJbTIcjn+cVB9B20TNA==",
-                "mac": "GYEH94cPNtLEdMR1Bq7vPg=="
+                "orig": "...don't think you've seen the last of me!\\. My human ingenuity will always find a way!",
+                "text": "... ne pense pas que tu en as fini avec moi !\\. Mon ingéniosité humaine trouvera toujours un moyen !"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/46/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/48/message": {
-                "ciphertext": "FT1H5CgBuzRw0maaqeWktSJesNORlvwbuI02q3xOj86h/buibDkBlSiuwtORxQ2c8nIv9qp1kJEhws6XtksNmPyguh6/FRjZj3mlAqPLgDUbAXQ9fQG7aVc4sWzbdlHH",
-                "mac": "0uSIeHE2AGnLLx0/MHjKEw=="
+                "orig": "We will see about that.\\. For now you're under arrest.\\. Now move it!",
+                "text": "C'est ce qu'on va voir.\\. Pour l'instant tu es en état d'arrestation.\\. Avance !"
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/49/message": {
-                "ciphertext": "kHEkktyMFyrAPRJsRpRlUeugWZQbN/XuVPBZTpFlbXPGOdowNORF1ZxGTBp3ypq1nyF/fdMVJ+d0fARPTIj36A==",
-                "mac": "F+a9jsOJg0LwcIyniqtLcQ=="
+                "orig": "Yes, yes.\\. Whatever you say, officer.",
+                "text": "Oui, oui.\\. Tout ce que vous voudrez, Madame l'Officier."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/61/settings/event/50/message": {
-                "ciphertext": "qv+4MxHc1A41+cGhFLkl2g==",
-                "mac": "ocoXKMDSQlIJ2USp7SOxYw=="
+                "orig": "...bye.",
+                "text": "... Bye."
         },
         "maps/heat/special/guards-billstonLair-1.json/entities/62/settings/analyzable/text": {
-                "ciphertext": "r6wUq8H8wTE3h/7+LnzXIw==",
-                "mac": "vIRU7nCqLLAWNGFXVz6Qag=="
+                "orig": "Zaida",
+                "text": "Zaida"
         }
 }

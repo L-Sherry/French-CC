@@ -1,106 +1,106 @@
 {
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/hoverText": {
+                "orig": "Read Inscription",
+                "text": "Lire les Inscriptions"
+        },
         "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/1/text": {
-                "ciphertext": "RkRTgtH3KeE5GJHLDn+y1hBLUwQpQuYogl2byRacMDiHrsJ9Ys1yKFnaOMGNjSBQgZ50CodMRYjLYxnd7F/tZtqYR6m65pWj4kYMvNXuQhw88ov6p7UA/HD/qMqdjlvmN4sEN0EgYUaXYxSpbqZ84ZcEX+2R4h4hgpsuKHNhWoiDuG878NbZ715OW4UGiezdblBRLV54K4Wx9Qh/UB4DOAe9YJXXgOubZApdRYQ85u52TPEE7jasFhNmSMJhjxDVE7f7cxqzYrWCqvTMBr09zg==",
-                "mac": "ZFttXQdvOoYfu9e9EerURg=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/0/label": {
-                "ciphertext": "GfQ4EdL74hyYvGWgbL9Y+wpEFifDm8pZlS+o7oCmu0Q=",
-                "mac": "WX0YD3LgmOYnxn9D9kBLXA=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/1/label": {
-                "ciphertext": "NsZm/gDiPdADxnh1F9UjS9J49EL4Tymblgkbn3bXbS8=",
-                "mac": "P9fT4SHNj6br6h+X1PUkZQ=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/2/label": {
-                "ciphertext": "BH+2P7OvDoqeMC1p8TPpwAlLSIl0oz/isb1WCF22Ahg=",
-                "mac": "LzfY8V5jwzPob7ZufN75fA=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/3/label": {
-                "ciphertext": "oTrRPd9ygU78f9wby1txqTzNum8Srml6c1UY5U04EII=",
-                "mac": "7XMi5Y/kH+yuXnCUw1kTaQ=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/4/label": {
-                "ciphertext": "A4fFD1z6kuuGEg06G+H3Tg==",
-                "mac": "mLlhvlKHPpGhdXZd0MnHhA=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/5/label": {
-                "ciphertext": "RTUVtXC5yjl4a/Hn9qR/BVrQbvztmvKYbcN2ykQIA+8=",
-                "mac": "K7ViD7PAFxDbT/V7yqBHbA=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/6/label": {
-                "ciphertext": "8PiPa7ZYfqFF4H4388sL9SRQ/xLQ0szM1G/vUxdDyL8=",
-                "mac": "LzjqTwlDEVc7WB5Cl4cltQ=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/7/label": {
-                "ciphertext": "VxNc8+B/YPDLePch8LWD4LEX1PGxIouXSTN50Lm8IdU=",
-                "mac": "DEfcS4GNLgqPFdg0GdaPSQ=="
-        },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/8/label": {
-                "ciphertext": "Ndn8JlTWUw77YsFRS8nU/GLvVFCvtEEeuYIpmRsLSqA=",
-                "mac": "2J5ZVxLcSJSB6C7dONiKgw=="
+                "orig": "Strange markings are at the side of the tablet. In the middle are multiple buttons that resemble arrows and letters. Do you want to press some of them?",
+                "text": "Des inscriptions étranges se trouvent sur le côté de cette tablette. Au milieu se trouve de multiples boutons qui ressemble à des flèches et des lettres. Voulez-vous en appuyer sur quelques-un ?"
         },
         "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/3/options/0/label": {
-                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
-                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+                "orig": "Yes",
+                "text": "Oui"
         },
         "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/3/options/1/label": {
-                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
-                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
+                "orig": "No",
+                "text": "Non"
         },
-        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/hoverText": {
-                "ciphertext": "x90EFFpXbhi90w89Mex3YNvytE3IkYQ5rK4Xr8Z2390=",
-                "mac": "39r7C/tyFxScUmZjGbFaYg=="
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/0/label": {
+                "orig": "Press \\c[2]Left\\c[0]",
+                "text": "Appuyer sur \\c[2]Gauche\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/1/label": {
+                "orig": "Press \\c[2]Right\\c[0]",
+                "text": "Appuyer sur \\c[2]Droite\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/2/label": {
+                "orig": "Press \\c[2]Up\\c[0]",
+                "text": "Appuyer sur \\c[2]Haut\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/3/label": {
+                "orig": "Press \\c[2]Down\\c[0]",
+                "text": "Appuyer sur \\c[2]Bas\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/4/label": {
+                "orig": "Cancel",
+                "text": "Annuler"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/5/label": {
+                "orig": "Press \\c[2]A\\c[0]",
+                "text": "Appuyer sur \\c[2]A\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/6/label": {
+                "orig": "Press \\c[2]B\\c[0]",
+                "text": "Appuyer sur \\c[2]B\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/7/label": {
+                "orig": "Press \\c[2]X\\c[0]",
+                "text": "Appuyer sur \\c[2]X\\c[0]"
+        },
+        "maps/jungle/grove/lost-shrine-01.json/entities/279/settings/interact/event/18/options/8/label": {
+                "orig": "Press \\c[2]Y\\c[0]",
+                "text": "Appuyer sur \\c[2]Y\\c[0]"
         },
         "maps/jungle/grove/lost-shrine-02.json/entities/0/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
         },
         "maps/jungle/grove/lost-shrine-02.json/entities/65/settings/event/0/message": {
-                "ciphertext": "jQceasXn7jFsw96J92SaZRCMvTvJk9o9mfRoikzSQHE=",
-                "mac": "4sAS3puMQjGd4qRyCGBrCA=="
+                "orig": "Another Dungeon?",
+                "text": "Un autre donjon ?"
         },
         "maps/jungle/grove/lost-shrine-02.json/entities/65/settings/event/1/message": {
-                "ciphertext": "AMjyxlqgMyAoCj6hJK+i3jwgIAzD3RwKX8E8eMAWbNpp6GT1WKVKgao8ycWjiQ7u",
-                "mac": "AsXT4YWv48+UuNsC/C3cSg=="
+                "orig": "Let's hope this one has some nice treasure!",
+                "text": "Espérons que celui-là ait un bon trésor !"
         },
         "maps/jungle/grove/lost-shrine-02.json/entities/66/settings/event/0/message": {
-                "ciphertext": "wWJQ/gcswAi25IFTHrGgHXVFxzx6BDUx93Dfrxc1vOV6Wb6nRUa9jDWZVtGWFU6q",
-                "mac": "FrkQoik/Sr/pY/ZKUgoT8A=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/163/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/0/message": {
-                "ciphertext": "UI+TGqZrlc+k4Uy2YBSy35kfTX6H17unuoChoRcFezTSLvmmwE/MUpHGPriqXgcL",
-                "mac": "oisu5iVjk2yC6O728x74Nw=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/1/message": {
-                "ciphertext": "gp/o0aeIi5TRGrltw1BB95wdeLFpkPvcGHVIdqj5Wz6gji8a2jpKKHqZ8FhQVBZPJ7kFz9b5Ym40AWRnSZ1k4g==",
-                "mac": "WDUwksj8T+ojEhO7PhsWBA=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/2/message": {
-                "ciphertext": "nAMfsZyQwcWbC54WBU2ssg==",
-                "mac": "HgaBskfM0D/3G/X64lIHVQ=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/3/message": {
-                "ciphertext": "Z/KSBxZJjpEyIDobkD8/+Fz8kbd9kHPYyFLavyRhpx8VkdYEWWdtnU0QCw8nOmwv",
-                "mac": "uHkSLuJhzXYF+Kt2jDPeLg=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/4/message": {
-                "ciphertext": "LdwQz5T+F/qyj8hnqju5FXxNEB+BITgG/YNQtDMdcOYS+5TB0DAUkgcv0inXbjpHLr2MWV4YEbFwmOoqGy7ndzC2OzoQ+jcYainTG/BmBBD+aHYsueFeN2HBaj59iMX9",
-                "mac": "MXgoRzhhQCwmvi5k7GMjwQ=="
-        },
-        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Oh looks like an instance.",
+                "text": "Oh, on dirait que c'est une instance."
         },
         "maps/jungle/grove/lost-shrine-03.json/entities/7/settings/teleportLabel": {
-                "ciphertext": "T9MoKlSzbIYTjCmWOP9KJwDTWjkLPsX+HLitJkHxFgE=",
-                "mac": "z0h9y5G0Y/E2BJuvkEuvXQ=="
+                "orig": "\\i[arrow-n] Up",
+                "text": "\\i[arrow-n] En haut"
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/163/settings/teleportLabel": {
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/0/message": {
+                "orig": "Do you see all those lilies?",
+                "text": "Est-ce que vous voyez tous ces nénuphars ?"
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/1/message": {
+                "orig": "They need like 4-6 hours of daylight.",
+                "text": "Ils ont besoin de 4 à 6 heures de lumière du jour."
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/2/message": {
+                "orig": "How...?",
+                "text": "Comment... ?"
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/3/message": {
+                "orig": "Yeah, \"how\" should it work here?",
+                "text": "Oui, \"comment\" ça peut marcher ici ?"
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/4/message": {
+                "orig": "Probably some in-game lore. Ancient Shad technology, blah blah.",
+                "text": "Probablement grâce à du folklore du jeu. De l'ancienne Technologie Shad, blah blah blah."
+        },
+        "maps/jungle/grove/lost-shrine-03.json/entities/185/settings/event/5/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle/grove/lost-shrine-04.json/entities/0/settings/teleportLabel": {
-                "ciphertext": "T9MoKlSzbIYTjCmWOP9KJwDTWjkLPsX+HLitJkHxFgE=",
-                "mac": "z0h9y5G0Y/E2BJuvkEuvXQ=="
+                "orig": "\\i[arrow-n] Up",
+                "text": "\\i[arrow-n] En haut"
         }
 }

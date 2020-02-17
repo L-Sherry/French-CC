@@ -1,358 +1,358 @@
 {
         "maps/heat-village/baki-1.json/entities/34/settings/interact/hoverText": {
-                "ciphertext": "MEAW8XBsWjr2ScM/w/+7HxFSaRK6WHB7zxW/A0unV4+aRzrL7my5KFaVN06OENwa7fGfej9vNMQHqSiqgQaIRjrjpjmtokdKnpLeOHyqQnA=",
-                "mac": "8DNvN4FjpXp+TgZzNrp42A=="
+                "orig": "The rough gem in the west. Home to collectors and the Shad.",
+                "text": "La Gemme Rugueuse de l'ouest. Maison des collecteurs et des Shads."
         },
         "maps/heat-village/baki-1.json/entities/34/settings/interact/title": {
-                "ciphertext": "rXcYSJOHywAcrm/cOWrNIM47ZU+G/fFG4FivE3MAakJjoRZtnHceJ+RyiSY3fIK1",
-                "mac": "y0ZDhSfD9JmRLgdJx62o5w=="
+                "orig": "- \\c[3]Ba'kii Kum\\c[0] -",
+                "text": "- \\c[3]\\v[area.heat-village.name]\\c[0] -"
         },
         "maps/heat-village/baki-1.json/entities/578/settings/event/16/message": {
-                "ciphertext": "vnTaAAoU1MfAMY8E+1qz5BpmU9OLbfOdWuvAIGjcmVXJOlpd9Yz4CXSdLsVbiwEZ",
-                "mac": "t1SYKtv+o3BOkys0pEQDmA=="
+                "orig": "Here we are, that should be the village!",
+                "text": "Nous y voilà, ça doit être le village !"
         },
         "maps/heat-village/baki-1.json/entities/578/settings/event/17/message": {
-                "ciphertext": "pU6rNtM45q0DRRNWdQgMtwrIA+m7+egFXtsavhdnMGLFFvFWLXZgJYnBy/vBfZTdf83gkGAe+xyzOOJ2z7r0deyCRIg9b3COE0JEVUUxOZg=",
-                "mac": "3AyXKIup7Td/5WqaPsGYHg=="
+                "orig": "So...\\. how about we go ahead and visit the major building now?",
+                "text": "Donc...\\. qu'est-ce que t'en dis si on va directement au bâtiment principal ?"
         },
         "maps/heat-village/baki-1.json/entities/578/settings/event/18/message": {
-                "ciphertext": "w2OPD2AdN/f+bH3UQ7D3b/OfldgJwmzpNf0ADQk/+q/z7y6CeUt2Ubt+qcFCKpBV",
-                "mac": "783fv52zlC/pZlOsoJaNcA=="
+                "orig": "You know, to continue the plot and all.",
+                "text": "Tu sais, pour continuer l'histoire et tout."
         },
         "maps/heat-village/baki-1.json/entities/578/settings/event/19/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/baki-1.json/entities/578/settings/event/21/task": {
-                "ciphertext": "SOtdDgORZrWIxnC/dcUKFDQhC3najMdThHBbGcX5ncW4GtTIvH8vFegMKUpWb81ZvYGRGeI2n5ylONYu0gEmAiE+NgJZ+QYBEirATOm+0nY=",
-                "mac": "OEPblAHPbCT+Hk4szR3qkw=="
+                "orig": "Continue the plot within \\c[3]Ba'kii Kum\\c[0] together with Emilie.",
+                "text": "Continuez l'histoire à \\c[3]\\v[area.heat-village.name]\\c[0] avec Emilie."
         },
         "maps/heat-village/baki-1.json/entities/579/settings/analyzable/text": {
-                "ciphertext": "xJ89YXxMhYiiM0IRrWBHlA==",
-                "mac": "PLxXo1ndsDSmw0agxePMHQ=="
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/heat-village/baki-1.json/entities/580/settings/npcStates/0/event/2/message": {
-                "ciphertext": "gf865LfMHpxzF4XSNgJiWchWcwth+lS2ZK3YSIqCfl4=",
-                "mac": "w8RCrnwG5XL/odxvpTlZww=="
+                "orig": "Hello human.",
+                "text": "Bonjour, humain."
         },
         "maps/heat-village/baki-1.json/entities/580/settings/npcStates/0/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/baki-1.json/entities/580/settings/npcStates/0/event/4/message": {
-                "ciphertext": "5BMStUwTaCa6MvY5GCTPXrWZQUPmA74FVzQP9SwA8e/fpPaOJ3mKXZVNdleqBGOIROTqbl7QKmoDUsQIEB9aMw==",
-                "mac": "rHii7PJI4SVeOUbdlrF5nw=="
+                "orig": "I mend big light panel you humans gave to Shad.",
+                "text": "Moi réparer grand panneau lumière humain avoir donné Shad."
         },
         "maps/heat-village/baki-1.json/entities/580/settings/npcStates/0/event/5/message": {
-                "ciphertext": "B1Hts5hpUTll1eyq5tnWG94RfXhjH6yzNAeQ2yzZ+pWxjP/eNPc570W+X1DJyCHxlR3CsAPyOiEZfBbH6mJqrw==",
-                "mac": "RPbQq+H2tFZ2OOHg7Nb0ww=="
+                "orig": "Much work but still grateful for gift.",
+                "text": "Beaucoup travail mais toujours reconnaissant pour cadeau."
         },
         "maps/heat-village/baki-1.json/entities/580/settings/npcStates/0/event/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/583/settings/npcStates/0/event/2/message": {
-                "ciphertext": "gf865LfMHpxzF4XSNgJiWchWcwth+lS2ZK3YSIqCfl4=",
-                "mac": "w8RCrnwG5XL/odxvpTlZww=="
+                "orig": "Hello human.",
+                "text": "Bonjour, humain."
         },
         "maps/heat-village/baki-1.json/entities/583/settings/npcStates/0/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/baki-1.json/entities/583/settings/npcStates/0/event/4/message": {
-                "ciphertext": "5BMStUwTaCa6MvY5GCTPXrWZQUPmA74FVzQP9SwA8e/fpPaOJ3mKXZVNdleqBGOIROTqbl7QKmoDUsQIEB9aMw==",
-                "mac": "rHii7PJI4SVeOUbdlrF5nw=="
+                "orig": "I mend big light panel you humans gave to Shad.",
+                "text": "Moi réparer grand panneau lumière humain avoir donné Shad."
         },
         "maps/heat-village/baki-1.json/entities/583/settings/npcStates/0/event/5/message": {
-                "ciphertext": "B1Hts5hpUTll1eyq5tnWG94RfXhjH6yzNAeQ2yzZ+pWxjP/eNPc570W+X1DJyCHxlR3CsAPyOiEZfBbH6mJqrw==",
-                "mac": "RPbQq+H2tFZ2OOHg7Nb0ww=="
+                "orig": "Much work but still grateful for gift.",
+                "text": "Beaucoup travail mais toujours reconnaissant pour cadeau."
         },
         "maps/heat-village/baki-1.json/entities/583/settings/npcStates/0/event/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/586/settings/dialog/0/text": {
-                "ciphertext": "Kaj6G8rIbe2qkZuKsMmH25D5zhVrhJxpP1zYjUhd05c=",
-                "mac": "4tdeY/UsmB+QjYud0cqjSg=="
+                "orig": "So... what next?",
+                "text": "Donc... c'est quoi la suite ?"
         },
         "maps/heat-village/baki-1.json/entities/586/settings/dialog/1/text": {
-                "ciphertext": "h6w2zJzu6SadXLRqvVsRgftg3R3hyyGDVsFd28mCrV6CnJ7002jWKqL/OR8jHIZcQXmLE5qvrCrrUMrsS3MrTg==",
-                "mac": "uuuk0KohazvU1TGIJEQwCw=="
+                "orig": "Well, I guess we head into the dungeon?",
+                "text": "Bien, je devine qu'il faut aller dans le donjon ?"
         },
         "maps/heat-village/baki-1.json/entities/586/settings/dialog/2/text": {
-                "ciphertext": "Mki/z50XxofFKF1jjIXbHDbv0B+d6uI47/efiO30leuPYQiJ2sQYxOG221hxIVJDOlmRzQK/LEhIe5fsTS7rQA==",
-                "mac": "mGQAlKcNWzPnsKcQaUOATQ=="
+                "orig": "We could also do some quests. You decide.",
+                "text": "On peut aussi faire quelques quêtes. C'est toi qui décides."
         },
         "maps/heat-village/baki-1.json/entities/586/settings/dialog/3/text": {
-                "ciphertext": "ckfpF3stzuVJ5zo/Z33X1eDAPj9KWMtXMb3FXEOnzl4=",
-                "mac": "EIPvEZXelf/um7JngK3krg=="
+                "orig": "Quests sound good to me.",
+                "text": "Les quêtes, ça me va."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/0/text": {
-                "ciphertext": "npWjw+VHMG0AG4Tbt5uxjg==",
-                "mac": "nJd0GSJIND+yelNc1auhgw=="
+                "orig": "We made it.",
+                "text": "On a réussi."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/1/text": {
-                "ciphertext": "807eSUILWhjSVMy+ngMw+nxz9avYNFRt/neLl3KnQ243VR6OIFOnGpKz/8WqTD1Y",
-                "mac": "gU54ijIVcpP/c2HaYfLI8w=="
+                "orig": "Yeah, that was one hell of an area.",
+                "text": "Oui, cette région est infernale."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/2/text": {
-                "ciphertext": "QSXapLDlN8GGOXPK6lBdTw==",
-                "mac": "ZB7zWPiPmAT5b/0Le4229g=="
+                "orig": "Tell me about it. ",
+                "text": "M'en parle pas."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/3/text": {
-                "ciphertext": "7t2SrgM1KJf7MnTWRAY6JX6ppRbxyAmp8WAkEYvzsuA=",
-                "mac": "0dNnDHqTDLPdiG0I6fIDqQ=="
+                "orig": "But look at this right here. ",
+                "text": "Mais regarde un peu ça là."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/4/text": {
-                "ciphertext": "zfvDR+s4IrADAZW1m2JLOfUOHUoTY53+AO1ivdU/fxPQRpaYsAM87Mw5k6ptJ0b2dZLhkJ1u6ZQQr44rOiCGT7dgpwAQxjfsFimonxqTvIfWW1ajyAonIsuSECNsY2DX",
-                "mac": "cGCMpWqM/CfZLgG2LVH5Jg=="
+                "orig": "I was told this was like an urban village for these Shad or whatever.",
+                "text": "On m'a dit que ici c'était comme un village urbain pour ces Shads, ou je sais pas quoi."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/5/text": {
-                "ciphertext": "hJz+Z2Y/QOP0hNolU2JVOv2vJX1Owd0efjfL2Gl6wUHcb1dY310NCBTJsnxzQw9QJr0vWiYTQN+UBM7m9FrSECdNYMyDJlVmsXcEpbsERWHtEHMlGdrewRdBsuLufK+ORCXo9ZGjohUbquCGhu1mnQ==",
-                "mac": "vo9jJldZMjbm+0AaBmnOfg=="
+                "orig": "Looks like they're pretty advanced after all. I mean this is a solar farm, right?",
+                "text": "En tout cas on dirait qu'ils sont assez développés en tout cas. Je veux dire, c'est une ferme solaire, non ?"
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/6/text": {
-                "ciphertext": "6e4Cq/mB4GeG6MJ6Q5WlRVO0ZHRWtILnlq34LCejfQ1CtNvc0GfT8A8YMl2a/wDDgeTAviR4ZoT6/kkrnAcjxw==",
-                "mac": "0RrZJkPhaemycVnnuatXCw=="
+                "orig": "I think this was built by humans. ",
+                "text": "Je crois qu'elle a été construite par les humains."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/7/text": {
-                "ciphertext": "3RSQP3iowFHBZffgybOdb+A+jAAQSesaBkQNuB8YLxz1b2tOO24yx3DXOAMe35Xsk93wQuZAq4X41rV4wM2jyW2/j9yoxMLU2/VdAaWAi80=",
-                "mac": "+R0QWjCMlJr2n5ddJLOp/w=="
+                "orig": "At least a friend told me there's some kind of relationship going on between humans and Shad.",
+                "text": "Un ami m'a dit qu'il y a une sorte d'amitié entre les humains et les Shads."
         },
         "maps/heat-village/baki-1.json/entities/589/settings/dialog/8/text": {
-                "ciphertext": "tRDmZfz0X/BaI8ZSfymKdpwcrbt+qvYf+Jkb1Z4KH+Q=",
-                "mac": "Rhrm26ZLfyBJ5kuV4GceIA=="
+                "orig": "Oh, that makes more sense... I guess.",
+                "text": "Oh, ça serait plus logique..."
         },
         "maps/heat-village/baki-1.json/entities/596/settings/npcStates/0/event/2/message": {
-                "ciphertext": "rDHFwKJ1ZzRS6Vjkk821tOMjigSAAbkJ7p+/eWE/8pE=",
-                "mac": "hL1obyfuUvIcaHfyDtwMfg=="
+                "orig": "Good day to you human.",
+                "text": "Bonne journée à vous, humain."
         },
         "maps/heat-village/baki-1.json/entities/596/settings/npcStates/0/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/baki-1.json/entities/596/settings/npcStates/0/event/4/message": {
-                "ciphertext": "dMl+G/+b/8NKF9rIUrdzQjVmAZ8lCIusfr+G4Sb1UfM=",
-                "mac": "fADhFzYCwLTsJDSKoLdpdw=="
+                "orig": "This is human guard.",
+                "text": "Ceci est garde humaine."
         },
         "maps/heat-village/baki-1.json/entities/596/settings/npcStates/0/event/5/message": {
-                "ciphertext": "EK2n3IwqUYQqTnDcdMpf/U/SCQ6s+xXW+VgW4D/KyOm2R3AN2NUta2zmLSycOswsmykrNfl3Xc2cpGLGKkfg4VLxybRp51B43q4WnCbPSM0=",
-                "mac": "Or+foRcIO5dxmoFNFPlpLQ=="
+                "orig": "Helps to protect Shad and humans from hard desert.",
+                "text": "Aide à protéger les Shads et les humains de désert aride difficile."
         },
         "maps/heat-village/baki-1.json/entities/596/settings/npcStates/0/event/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/baki-1.json/entities/597/settings/event/0/thenStep/0/message": {
-                "ciphertext": "kYNdcMLLJWd5jz3qEWF3NkJYq1h7qmXRzWr8yp9m6gNwAFxFMl83asI8c9dehLe9",
-                "mac": "Of6s2JNOdKGVaJcLMR+gjw=="
+                "orig": "Ooh, look at this, Lea. It's a solar farm!",
+                "text": "Ohh, regarde ça, Lea ! Une ferme solaire !"
         },
         "maps/heat-village/baki-1.json/entities/597/settings/event/0/thenStep/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/baki-1.json/entities/597/settings/event/1/thenStep/0/message": {
-                "ciphertext": "DWWypPTXgImbUsxkBnw4UieCcx+OZUoBJpITbFuHC2UYLaZIrKSNnguqJS6wTt83+SmORsXk/olFyQXDTpx41Mfkk6wbg1kqF/ZMYkPE1l6J1JKp0XOW3SKv9/f0CCdT",
-                "mac": "W1xiz6R1k0faJJD2YE9RnA=="
+                "orig": "I read about this. It's built by the humans to help the Shad.",
+                "text": "J'ai lu quelque chose là-dessus. Elle a été construite par les humains pour aider les Shads."
         },
         "maps/heat-village/baki-1.json/entities/600/settings/analyzable/text": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/0/event/1/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/0/event/3/message": {
-                "ciphertext": "/w0Swqb124LvGtsGefDAhiCytEPlspRB1y/iIkMwI3frq8xGPXlPBjfrrQ/8mQ9bjGheARcTf0vgEYQed81iaQ==",
-                "mac": "9I9MJB+Vwxv0fsXW96S1UQ=="
+                "orig": "Anything wrong?\\. I'm just sitting here.",
+                "text": "Qu'est-ce qu'il y a ?\\. Je suis juste assis ici."
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/1/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "dHSt+U1bhixG5Upt2IUihgphYCAgivdpTVM1cqpf8sEpkEYaylJ617E88kUykhH2voLe3P/OzG+GvPouzDhXwh9CG5xEloHjX1bJ1vpDTjQ1vPiCNOXX6B09IR3XPiAX",
-                "mac": "uGCK5GVLKAs1xCstnXivDQ=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/113/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/115/message": {
-                "ciphertext": "7dik/ak7M8+u6Xye5aCQIXb4RnoCasaTSWuP2fuEtDl+jXXT//colnvkSQutjGx5",
-                "mac": "F/rYNeHXaDhGaWtLlvwjew=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/116/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/117/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/118/message": {
-                "ciphertext": "fpjyagslbinJu04IFpwtImgpXUSs2/P9ZT1e4uFQT+/cggVQDfq6uozd4Fp4G7mWNQaO/V2jQIHh59c68hOOrv96fkS/uaWGSUgAsKr/EY4=",
-                "mac": "yzkTze6HwHE0JTakkK5TAQ=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/12/message": {
-                "ciphertext": "wT6HwDwR0l9wdLqFNbh9JCGqm6c1gSiKEDhyobftUwE8Hi2V1GORslzi7Szx8K+TpYnP0qAV5G5fCcvFGfjG7T7TSklfGx1NdhGKmzupDUY60yXLlbVNJ2LXd2wVE52BY5D2jImNpmPAuqwVa7Pm+B9J1bpvrmu35pK38e5jUFP40y5NmjekHwbrJm/VjIpPCh3e1DXAL0MqbO8vO1KpJA==",
-                "mac": "G1gOT9IocF+XkODUPGz2bA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/120/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/13/message": {
-                "ciphertext": "ESyyq9BSGYI2tLLqXcSmE31ogyRoyRUPRk4s+p4Uhh+7rvIkVSClINkzDBUT8r1/8ip2Hs5sjMayoodTaHFluONu1fIojsgIENbbmY5i70Vs5UAclivTKfpCKdUqNYhoPYEB/yR/EpeAdk2614OOj7nxh7gYsFTpOqiSANYbXZt0LONeIoBTtJzDUlJb+z+zPA/Z4nenbrGw6OmCs2HC7g==",
-                "mac": "9wFIpFnGhWHvB+255Fneeg=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/17/message": {
-                "ciphertext": "D4iPzu2/CqpmF3X4YdrwEJAb+2uOJW6tT3d4X5L+j7A39cNhdCp0HRJZ4mKlNGJCe0zqDPB9o/irngmTYQJMy9RdNoTg826JyBKKMXypE4m0plXgU9o0uiaVyI7dUpV9ImCM9yIumNAZY3KnzoT01oBKhA59J10iNExrFI1jGkU=",
-                "mac": "TtfXzWst5yWPDUUxOPat8A=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/18/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/37/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/38/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/40/message": {
-                "ciphertext": "rR1QGe+GRI7JkaXRGerDO6W+mfg8viwf73oIm1BuravWOhH2srx7AjwtP5Ec6fyk1pohEm4Tn9XVaDPXd7h8/feLnnk88xeyLRzP3STGem8=",
-                "mac": "tXWGUY4BJ7FoeSCgT/cHRg=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/41/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/42/message": {
-                "ciphertext": "hNKzkuAeFmpRTx6wCXYtnkZEbQZ4vjy+1qpshFsn0d1WuSXkwaNw/9squk2QncN5Es0T9TCYN+eBELJsZ4LGUCA6wOqMqbK2Von52yBnK1LsRK0NoErHSiul4k31OFHhLgSYG08QVM1WL0cccppZX+/oUDs0i+4i1YCtgLz+inZpjQG/X9bU1EtyBQe9CnYkdMMqVhakQDpPqmbJakNhTE0ufBsYrQZmPtUQAW+oPu8=",
-                "mac": "xS3HPOHRqgTjBZjwWynrUw=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/44/message": {
-                "ciphertext": "a0cmCUkZ54euK/HIfA0pxODeT6fnhAR1KFQUB9tSL2fK9SlqUVH4EZ7RILE6N0Gz1GtDZ7wKeWVqAf1fvFmapQ==",
-                "mac": "6dONW60+KCyM2cnUYtAMhg=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/46/message": {
-                "ciphertext": "ABa8Bd2CoryMEGTwdmKyAnNvrEKnbsYmrI9lhz7bj50=",
-                "mac": "k7FjQznhr1xhZcNmOkueMQ=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/47/message": {
-                "ciphertext": "V1b8D3mUjjZ36N8CgQ2GaI4p8ek6n+YHMk1pW7HLrlHjJyUCcZ9bhU6axeF0bdWZK5Dv6bpR645km+qTrc91p4IZkBE5YZbTLE+g2FyDe5rGKmJhCkZ43RbII6kE3B2ToCaASOoZr1uF3Mty+cr9TRQkrXVDnVJJv/nX1x9I6jaDzItHD51yy87swfJVQwp/",
-                "mac": "RfuRBDQsX4bEWSejbGZszA=="
-        },
-        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/48/message": {
-                "ciphertext": "5NA6ATnSN9I9auD/i3p1uQ==",
-                "mac": "H0hDuCphZYAuIH5m4DYMNw=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "/w0Swqb124LvGtsGefDAhiCytEPlspRB1y/iIkMwI3frq8xGPXlPBjfrrQ/8mQ9bjGheARcTf0vgEYQed81iaQ==",
-                "mac": "9I9MJB+Vwxv0fsXW96S1UQ=="
+                "orig": "Anything wrong?\\. I'm just sitting here.",
+                "text": "Qu'est-ce qu'il y a ?\\. Je suis juste assis ici."
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "s3ggyVpdc13belWcHRbcM1GqnpEw2Y8+ggperWohhFTGpcXyWQlY3wqBtVMuLFm0JaXZSyh/OdFudffs9IoGtY5P4C8ygvAAtJ6h2pe1URI=",
-                "mac": "f+iAOAHvLeiv6hchIT8/Gg=="
+                "orig": "C-crimes in the bazaar?\\. What are you talking about?\\. I don't know anything!",
+                "text": "Des crimes dans le bazar ?\\. De quoi vous parlez ?\\. Je sais rien de tout ça !"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "sBsNL9ukYohGNkdgg296qeklSguRagUdNiMK6Jk2EYSBDBJoscZPa1x0mPFHpdQE5VpUMfcuA58w/cj3rKEb04O8b0xyULketjW2JziVy20=",
-                "mac": "DrfxcU++Gqszz91qXY1V/g=="
+                "orig": "So it was you on the communicator?\\. Damn that Billston...",
+                "text": "Donc c'était toi sur le communicateur ?\\. Ce satané Billston..."
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/10/message": {
+                "orig": "I thought someone as ruthless as him would at least be more careful.",
+                "text": "J'aurais pensé qu'un type impitoyable comme lui ferait un peu plus attention à ses affaires."
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/12/message": {
+                "orig": "He roped me into this, I swear!\\. Told me about all the money, threatened me if I refused, all that!",
+                "text": "Il m'a entrainé là-dedans, je vous le jure !\\. Il m'a parlé de tout l'argent qu'il y a à se faire et m'a menacé si jamais je refusais et tout !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/13/message": {
+                "orig": "\"No one will care about it,\"\\. he said. \"Those scaly idiots don't know how to handle the money anyway!\"\\. So much for that.",
+                "text": "\"Personne ne s'y intéressera.\"\\. Qu'il disait. \"Ces idiots d'écailles ne savent pas gérer leur argent de toute façon !\"\\. Tout ça pour ça."
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/17/message": {
+                "orig": "Well, time to come clean then, I suppose.\\. At least I can bring down that jerk with me.",
+                "text": "Bon, il est temps de faire mes bagages et de me racheter, j'imagine.\\. Au moins je peux faire tomber ce salopard avec moi !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/18/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/37/name": {
+                "orig": "Dourk",
+                "text": "Dourk"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/38/name": {
+                "orig": "Billston",
+                "text": "Billston"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/40/message": {
+                "orig": "Well, well, well.\\. Where might you lot be going?",
+                "text": "Bien, bien, bien.\\. Où est-ce que vous comptez aller comme ça ?"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/41/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/42/message": {
+                "orig": "I knew something was wrong once I noticed my communicator missing.\\. You \\v[lore.title.seeker]s are a sneaky lot, hm?",
+                "text": "Je savais qu'il se tramait quelque chose dès l'instant où j'ai perdu mon communicateur.\\. Vous les \\v[lore.title.seeker]s vous êtes plutôt du genre discret, hein ?"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/44/message": {
+                "orig": "Forget it, man!\\. You messed up!\\. This is over!",
+                "text": "Oublie ça, mec !\\. T'as merdé !\\. C'est terminé !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/46/message": {
+                "orig": "It is,\\.\\. r-\\.right...?",
+                "text": "C'est terminé,\\.\\. h-hein... ?"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/47/message": {
+                "orig": "Oh, for you it is.\\. Me, though?\\.\\. I prepared something special just for moments like this!",
+                "text": "Oh, ça l'est pour toi, oui.\\. Mais pour moi ?\\.\\. J'ai déjà préparé quelque chose de spécial pour parer à une telle éventualité !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/48/message": {
+                "orig": "...!?",
+                "text": "... !?"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/90/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/91/name": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/93/message": {
-                "ciphertext": "4DvyVw8TM5mbcfPInO4rX2yR2O0gl4MoyCrByb2EbZQ1Wj+KNzYUCSe2k3C9lHkuEPOLXklYHv6nbyeMCUatyGz7IEMTE6uiJpmZYlNToR0=",
-                "mac": "4Ih+DUncfs0UC54bEp0q5Q=="
+                "orig": "This will be the end of you and no one will ever know the truth!",
+                "text": "Ce sera la fin pour vous et jamais personne ne connaitra la vérité !"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/94/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/95/message": {
-                "ciphertext": "WrA3bBgc780tN4FVwiPZ6x6T2wvwQQxrOhf/G2WhRK5yVTUjsDdPOAzYnHQM5fZ14PwiuhN4uNfcPxHdcCsNqw==",
-                "mac": "O02fqPlsbgTI+j3m63W4yg=="
+                "orig": "D-dude, look where we are...\\.\\. this is madness!",
+                "text": "M-mec, regarde où on est...\\.\\. C'est de la folie !"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/96/message": {
-                "ciphertext": "ThmBlH3FNLO71FPKzC9K1n4I0m9iHHlGyLLayVOVOiqhONiOwoA1zHLVsALtfsruASCVrksBjEKuIPdMzmqs6rzgnpzDVZJKNAH7H8q9caGM9rWufsLJBX1hD4NGcIMr",
-                "mac": "ufBWKFdBR8H0J0lbIur6EA=="
+                "orig": "Silence!\\. These expensive preparations won't go to waste.\\.\\. And I'm out of here!",
+                "text": "Silence !\\. Ces préparations couteuses n'auront pas été en vain.\\.\\. Moi je me tire d'ici !"
         },
         "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/97/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/113/name": {
+                "orig": "Dourk",
+                "text": "Dourk"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/115/message": {
+                "orig": "W-well... you know how to handle this, right?",
+                "text": "B-Bon... Tu sais déjà quoi faire, hein ?"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/116/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/117/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/118/message": {
+                "orig": "Good... so... I'll just be hiding around that corner.\\. Good luck!",
+                "text": "Bien... Donc euh... moi je vais me cacher derrière ce coin.\\. Bonne chance !"
+        },
+        "maps/heat-village/baki-1.json/entities/600/settings/npcStates/1/event/quest/120/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/602/settings/analyzable/text": {
-                "ciphertext": "rWRHdmzi+Sozx5npOcqG0Q==",
-                "mac": "O2uMQrYnl1lh+Z33Z6+yWA=="
+                "orig": "Billston",
+                "text": "Billston"
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/22/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/24/message": {
-                "ciphertext": "7//ymjLTgsG6PPTvFtu4UA1P9Q1FmSOq38d3bV9fwk9OJi+rXw4/Wz5I2GcADmlWe10hbhEYXFG5JkR0XNW28eNeMP26v3sQLBwrrIHPaXj3fYUc+iEcQe8Xmp0naKMotuE+cf9zTZGYQOSlyrYa4IerSWKj3kZ8AJQ71XUpe+2zUO2pFd0Jg3z7gDiEXocMimJZ+RLsmPKskzBEvSdmZQ==",
-                "mac": "evfRVPB6xG2x2FmPF5lkrg=="
+                "orig": "Well, that certainly was something!\\. But leave it to a \\v[lore.title.seeker] to save the day, eh?\\. Hahahaha...",
+                "text": "Bon, c'était vraiment pas banal !\\. Mais bon, vaut mieux laisser un \\v[lore.title.seeker] venir te sauver quand qu'il y a un problème, hein ?\\. Hahahaha..."
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/25/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/26/message": {
-                "ciphertext": "J2ZgjfZ2Pbm7Q2gRwYLX5weDEj6vRtT9LEU/tuMeXn+AS1QX9ZMwyCbtmVdRUk6w7Hy/nnXm8G//aFD6MWT87OZYYn9DhTSwiQ5+hOpekTo=",
-                "mac": "oLdiVN6Dk6npcamNjJaDvA=="
+                "orig": "Anyway, time to go on our ways, right?\\.\\. Bye!",
+                "text": "Mais bon, il est temps que l'on se sépare, n'est-ce pas ?\\.\\. Bye !"
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/30/message": {
-                "ciphertext": "8lb65gmp9ZnWhtA6ypaR6g==",
-                "mac": "7RXA+VQfH0WkXuEw9fRr0Q=="
+                "orig": "...Lea...",
+                "text": "...Lea..."
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/32/message": {
-                "ciphertext": "FTfc4qfSsdZuXXx6L6n0QhMEnui4ViH8YfSD9RtpO5GkH5n0ldbLxnLN8BmEfSOtz018mpbwDGHW3RMfs9Xd7664epDbvKxM4pRPiy0NwmdBUaHsFVe/mHAwtAW4a9nL",
-                "mac": "aGRMuicONRHS4sK7J9HFsw=="
+                "orig": "What...?\\. After all we've been through?\\. I was a victim as much as everyone here!",
+                "text": "Quoi... ?\\. Après tout ce qu'on a vécu ?\\. Moi je suis une victime, comme tout le monde ici !"
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/33/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/34/message": {
-                "ciphertext": "sjXNhwiwUIBunFERINDhSQf8JR6qzv1Frqg1KgDfZlTWLP+motTJFWsaOzgJBJOUx/XOYMiLTQWk8mpzvRBhSfYCnpomPPvvpeOLVAEbiI+u9bnenZYv7YwLOB3ZeWlZ",
-                "mac": "COMeiSNdb3l3jSTr4pSVdg=="
+                "orig": "... Alright, alright... I will turn myself in.\\. At least it's just across the street.",
+                "text": "... OK, OK... Je vais me dénoncer.\\. Au moins j'ai juste besoin de traverser la rue."
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/35/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/49/name": {
-                "ciphertext": "yl9J86Fcp5thakYruVMJUw==",
-                "mac": "OdBbS55DAy1Tgpinh8Nteg=="
+                "orig": "Dourk",
+                "text": "Dourk"
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/51/message": {
-                "ciphertext": "i5YjjKNvX7IcocgNY7YkjBJDoTfYHkM6OidTvuB/fsNPipwnbtsKZIv5rPEAmjWsqtnmG8NBiuhp38nEGo19sZiAwG4IyuixCsKV0wLEfap4+daCo7Auwlt39XlUxElMZGS8TLD2Tarfg/z8KwFMNRtAu/qVcvJjQDWm6ZM+KDLTQxM4tlJFmghCULYH/YEzQ8n80AnlWxCiZZTBjZQbpw==",
-                "mac": "2oObsV3gD2cT0+r0Bi9TxA=="
+                "orig": "I'll see myself inside.\\. So... bye \\v[lore.title.seeker].\\. Sorry for the trouble and...\\. thanks for not letting me die, I guess.",
+                "text": "Je vais me rendre.\\. Donc... portes toi bien, \\v[lore.title.seeker].\\. Désolé pour les ennuis et euh...\\. merci pour ne pas m'avoir laissé mourir, je crois."
         },
         "maps/heat-village/baki-1.json/entities/613/settings/event/52/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         }
 }

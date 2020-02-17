@@ -1,1674 +1,1674 @@
 {
-        "areas/testing-grounds.json/floors/0/maps/3/name": {
-                "ciphertext": "EBENvIXVGzgCZzhN73EWQkN67CjnSazq8zHQuVWrXcE=",
-                "mac": "7zoTOH+urjswa6pgN8yl4Q=="
+        "areas/testing-grounds.json/name": {
+                "orig": "Testing Ground",
+                "text": "Terrain de Test"
         },
         "areas/testing-grounds.json/floors/0/name": {
-                "ciphertext": "zucxkWIS5dzspzkV78azzw==",
-                "mac": "MYEMsT+jfia+Tq8aPtg5EA=="
+                "orig": "Base",
+                "text": "Base"
         },
-        "areas/testing-grounds.json/name": {
-                "ciphertext": "7coMkZxb0jm6+FGh5GDlBw==",
-                "mac": "IsfuOqmHMgYvfXkPndkkKg=="
+        "areas/testing-grounds.json/floors/0/maps/3/name": {
+                "orig": "Edgy Test Map",
+                "text": "Carte de Test Sur les Bords"
         },
         "events/puzzle.json/events/barrierReset/steps/1/text": {
-                "ciphertext": "VDN4okx/cSiSm6TGzr/g9A==",
-                "mac": "ee+GyCOdQfZy4JKQnj4pVQ=="
-        },
-        "maps/arid-dng/test-elevator.json/entities/2/settings/destinations/0/label": {
-                "ciphertext": "CG+Kkw+roFq/VguYB3nkWQ==",
-                "mac": "cpj1T7rNOG626ggddDMySA=="
-        },
-        "maps/arid-dng/test-elevator.json/entities/2/settings/destinations/1/label": {
-                "ciphertext": "rnIM3HavQJ4SLxEARZw9XA==",
-                "mac": "/aucSfYE9GclNC9YOUzCCw=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/16/elseStep/0/elseStep/0/message": {
-                "ciphertext": "qFPy0QDtUPLB40lVy/G1RlO3Uy3/IHwu6apbSg99nUm5P0MMGoSlVL3pIu3BmHRFWZWVTmO58hodochYSvDtIg==",
-                "mac": "aEzZiiAPTthvv4t/k8qLzw=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/16/elseStep/0/elseStep/1/message": {
-                "ciphertext": "iPfVLja8CwXgiLUdo5QGR4uykxy/SV4xg853fj+/lQdvNSl9w7nOiKjQ0QXiXrEB",
-                "mac": "xwTLtSjjj8krpHND4Dp+3Q=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/16/elseStep/0/thenStep/0/message": {
-                "ciphertext": "vjrIDrfUlhHOzLfAolUBYkf9Bt607SFuzmT7F227LHRDCyeS3rDferdI3d6djGSwM4uMlW2IRpJKXKzcKG/9xQ==",
-                "mac": "+qmkQMbcfQKm6pwcl1niXQ=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/16/thenStep/0/message": {
-                "ciphertext": "fLT2Z1Q1vuFnRoWEu1iBhXRlRrrnKqBnL4LILM/E6Kk=",
-                "mac": "IrdCAhoMN/T4Vq3vuabrbA=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/16/thenStep/1/message": {
-                "ciphertext": "j1vws/8yi4aSN0mbazJ31kW+LVLYhxOhbDoxc2arJUhQfLV+WKY9b183gWcvrmgV",
-                "mac": "ZaTwnaLxNhZP9yuF4fQ1aw=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/26/elseStep/0/message": {
-                "ciphertext": "knWTcx8OCw7Gy8DKoyhHXq3ZwJIzljzMiagGpQJ0d/i8HpkOVpcmakjHPhEklDga",
-                "mac": "6TXwnXqbSn4io4QOapIXXQ=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/26/thenStep/0/message": {
-                "ciphertext": "UE0cH2vc0ic/rNiCCS9Tv57ELG9hSSd7ABfft+gRzTjdQ1P1BdlJyhNqCCaq2dwum6XqHBhStpvS3wedETihMg==",
-                "mac": "EcRs1fKSbiNggFn1AzRWsw=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/26/thenStep/1/message": {
-                "ciphertext": "Q7d4QD3GkziIDssIhNg9DwJs+HxG+Rpte29yiPdzooaWSdHgEEGfjwEot2r610cVbj4Oy1pamUZSBU2f+/MB/g==",
-                "mac": "TwjZGPh+ssVX1Nj2a/004g=="
-        },
-        "maps/autumn/extra-boss.json/entities/285/settings/event/27/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/extra-boss.json/entities/286/settings/event/22/elseStep/0/message": {
-                "ciphertext": "SlUfQXJP7uWrlyqNfDcsDlZmFO0PE97llsjvO05G/rRpb/RitWRENE/ZZZshLf9b",
-                "mac": "iVhp+q9lkTrpPO1Pakuw2g=="
-        },
-        "maps/autumn/extra-boss.json/entities/286/settings/event/22/thenStep/0/message": {
-                "ciphertext": "9OOdJpwrxCTZLj3F1vb307MHTa9SQtoqPuxBRkUB8tkmuXi0Wb1JcQo3jqTJmBBWJpbW5puRc0N50w5Vxay6aw==",
-                "mac": "zayGncWbf0ZDEZvDudIvEg=="
-        },
-        "maps/autumn/extra-boss.json/entities/286/settings/event/23/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/extra-boss.json/entities/286/settings/event/24/message": {
-                "ciphertext": "rR4vFs+rxmEVxdKlUo/gewV24zx+91QEpT3YmqeqmoWH95nGlgLG7UzNKMp8JLvd",
-                "mac": "azdRJk73Ne64A3LsBl57Sg=="
-        },
-        "maps/autumn/extra-boss.json/entities/286/settings/event/6/message": {
-                "ciphertext": "ePAINIEia2+hOKc+W66HFmLB4MvMnIqpR812kuJAG0Y=",
-                "mac": "WoQ4ULozWyvaDFfhw6xa0g=="
-        },
-        "maps/autumn/extra-boss.json/entities/286/settings/event/7/message": {
-                "ciphertext": "9Z8s9XTrjQkfTLYD9DIvyvG8QudOsaTPa8OLU+ZcRi4FOPaos8u4mpjmyC0wQTwXIFbJnOw2LUFi8ndGFnDYxA==",
-                "mac": "8AuZQN4wD4OipWgs3VZijg=="
-        },
-        "maps/autumn/observatory-inner.json/entities/15/settings/event/18/task": {
-                "ciphertext": "TYl+9GY2qfaAltX7C8Tpfw==",
-                "mac": "TxTzWgcNrSLCCIpU1YdtEA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/1/event/2/message": {
-                "ciphertext": "y4PHuquQ2PhEykfOAyHoUTlfkzzo7qRcnbx7UjhYwgAanA4qKFSpadd5PPG+Hv89pfUIfdv0N89sP4btZKNe/A==",
-                "mac": "zqP6YIzMrFHJrt1aSiV5DQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/1/event/3/message": {
-                "ciphertext": "6DKMYVKp8bQVlydl6ZCkM3uw50iC9P6q2RIzIsmZjZCTYMML7tDUNoQfipKc1kXJdJSEyXcv58VMR2+/NNHxog==",
-                "mac": "wDKvWQD5cSM3PVCWvl0+Pw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/2/event/2/message": {
-                "ciphertext": "y4PHuquQ2PhEykfOAyHoUTlfkzzo7qRcnbx7UjhYwgAanA4qKFSpadd5PPG+Hv89pfUIfdv0N89sP4btZKNe/A==",
-                "mac": "zqP6YIzMrFHJrt1aSiV5DQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/2/event/3/message": {
-                "ciphertext": "6DKMYVKp8bQVlydl6ZCkM3uw50iC9P6q2RIzIsmZjZCTYMML7tDUNoQfipKc1kXJdJSEyXcv58VMR2+/NNHxog==",
-                "mac": "wDKvWQD5cSM3PVCWvl0+Pw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/2/message": {
-                "ciphertext": "K1h8LtlsPXbRLPW9rbkqrtoslxfDi7xI8JeogMB0T0GmsnbP+/iZG2rNoVTbV8KjIc4JGXDEZ0pXkypdk7i+DnZj2A388vAVFASq+itL660=",
-                "mac": "PdDWmWm1ezGolqNd035kfQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/0/0/message": {
-                "ciphertext": "1UTSK5ysg0+Pkk5I9QeMymUxK5jleomFosB75GVor7r1nUZFEDUdK5zg047vuFp+lGPCmlaieqFUlz/Em6T5sTAb9/0ZBmtmDdYRp7Ui/iA=",
-                "mac": "g6L3aTKddsj4sgxk3NmpuQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/0/1/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/1/0/message": {
-                "ciphertext": "vRzGXywzhTLcHCSzLtjivi9i6Monz5n/QvHKSt/iIR0=",
-                "mac": "R5MoK9Urtb229xNz9AL/3A=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/2/0/message": {
-                "ciphertext": "drbrjo45PWmzSlUSlTyuENr4qR4aFsloxACTig0+ybQ=",
-                "mac": "tuEdmCb+rSVuHi+GDFRpew=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/options/0/label": {
-                "ciphertext": "sicBfugs8Q7RxLvbsFXAGl1bj0zWWyHEBhuZDXVUXng=",
-                "mac": "baF8d9N8j9M4ZYrGSODW+Q=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/options/1/label": {
-                "ciphertext": "hlsJuv9HDh3lP6HHpt6vFWZe8gqEsFymgn6fDF7mkPY=",
-                "mac": "ijnlTU2uI8QxgwSAbv8aWg=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/options/2/label": {
-                "ciphertext": "A4fFD1z6kuuGEg06G+H3Tg==",
-                "mac": "mLlhvlKHPpGhdXZd0MnHhA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/2/message": {
-                "ciphertext": "hsLlSkJ3BBgC+I0IsC0+farmkQeMpG1x7StFNB5kNqw=",
-                "mac": "DXGoxXSdMTmxny2HLN5PIg=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/4/message": {
-                "ciphertext": "ZtHOb+uHvTUjJzSAFUuT2ynOkGVFUXvTlJaPDJOJdCEI+UzP9O7d9nFNadK9zhIu",
-                "mac": "+v74W8kalUIWgv1+jQV0Cw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/0/1/message": {
-                "ciphertext": "vRzGXywzhTLcHCSzLtjivi9i6Monz5n/QvHKSt/iIR0=",
-                "mac": "R5MoK9Urtb229xNz9AL/3A=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/1/1/message": {
-                "ciphertext": "n49kVgUmKQsIWyQ76iHdp+a9RuYINpEeRZUwvUCVLe/HjVfbF9xKspWPkbfXva2Tvxs6ChYt8RlxFLdE2o2vhkxRDq415b/HHdCwN0bpWsFrEw+uai9lL4BopgKyDgGKUWqVwQaQzl0S2RC/Llf6Xg==",
-                "mac": "Fsxftg2/291b1vhV19LdFA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/39/settings/event/4/message": {
-                "ciphertext": "gcEebRO1KlCzRautNF+6nX4TFdNux8q5CUAalWqPB2VINanlE7n5e82hra4hJ3YctRwfsgV2Ch1DK4Ks8nVE2w==",
-                "mac": "eRbGeHBKrGbWITr7prmIbg=="
-        },
-        "maps/autumn/observatory-inner.json/entities/39/settings/event/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/39/settings/event/6/message": {
-                "ciphertext": "FpuqFwqXtVfBNL4P71J6e1IpuFC5DswHAyaRalia5VOE13Zcqu6/djIsDV17lYdKQ8UU+o++KAq4NAhup8wcPN42HbuNmEqzJMj5EDOfkkEIPCwclVjdElTpI//gGuLw",
-                "mac": "M2JGo3W9q+Bsnk8NYo/n+w=="
-        },
-        "maps/autumn/observatory-inner.json/entities/39/settings/event/7/message": {
-                "ciphertext": "ez9FYnvmC4u/poVQajNzj3FfPR++8u6CjMZTF9MEfdFzV/NnuvwjFHBB9QHD67crDgYwzY6cWPel8td6QdgC0dO6zU3oCrSKqHaTRAn+fB8=",
-                "mac": "BBwrktghesTc9qyHNSDHxQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/39/settings/event/8/thenStep/4/message": {
-                "ciphertext": "RoCIIB5gxoElHlLEQ7wlCez3GOlN7vNfx+nQui/ugmQ=",
-                "mac": "T01eK9lM2UCI18wJMKYhcw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/39/settings/event/8/thenStep/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/19/message": {
-                "ciphertext": "EZtrgqoUNbbSz/mMEbuqfIXibP+TvHhTqVPU/dBthc/AWpkiYonvTlX7jGvixu/1XjmEjmE8QOodMRb3+Xbp2mxkqRRAFbcZKnIsaClVQGw=",
-                "mac": "JnYVnvVUSEqWMIRgfSyBkw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/20/message": {
-                "ciphertext": "n2ZznM+dhZcrVlr0dSOLDuzF8nZgogaUUaeiGrE6Bx5cp+RjEVza8Gev8pHPT8NlH4/pyuh3ASsE1L7xdE06fw==",
-                "mac": "gufSWyfKqnGvI4iHuuVeDg=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/21/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/22/message": {
-                "ciphertext": "CJlAh4/3Y2vq4mNaKnHGodhzh2gAh4oQdmSiDbXYql4Yw5HqIce2k69xqA4R80hNTv8N810yHhJLSHO2dIbgTkZdhCJTBiPSIsauSXWGiZsLD7FPZ6B6PhcJ3mhfGNJ2",
-                "mac": "RjK/F3tGgdr2n66hp3q+Uw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/23/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/24/message": {
-                "ciphertext": "cCmEEFCIBOfisM2bBOTf5JrPq+ct554xPITW2zaHGrM=",
-                "mac": "vgtYiy2D1IMxrlmDawHyxw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/25/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/26/message": {
-                "ciphertext": "/8fMYnkClCD4bobzMhi+o0ShfbPGRkX2AuQj1qruBHidVA3uGua9aec1GuP6GRIu0dr34QPolA/1tXXmt4d0IA==",
-                "mac": "nJOw8iPZz440PW40RWDDAQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/27/message": {
-                "ciphertext": "8yCvSaLg3PhBof5+8e1Uhbt1+zxqgp8MGp+nvwCuc1CaqSAWmRjFEu1RgaV8lHyk",
-                "mac": "50Fa9PrCA2c5eLKRyD4RQg=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/28/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/29/message": {
-                "ciphertext": "grjagXrwQYDZS/JqgQCvY0Ko8vqE0jzliAszHVjZPIlWkthwa1EieXhaT37Qoi4qF8klJXlRrJhpWU4u0Qdirg==",
-                "mac": "4KefGu2sNYO8qpPbnqTzMw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/30/message": {
-                "ciphertext": "oND2rVljpIarmge1YKMlfGvDK8qagAUI+BvAGsoRytqPw7b2Nldkpv44YoNPrhI0bmbqfGCSqXdPpowZc1YZ+w==",
-                "mac": "/9xika+nNBOg0f73rS0ecw=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/31/message": {
-                "ciphertext": "aAYIa3GXnr/7h6pYcY8aeTg2pgRsW4rKrApvlf50XqX8Q/YYBh1tOTJEIWQ+lM47",
-                "mac": "7Qi9UtCdiaLJiSGL4+w8cA=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/32/message": {
-                "ciphertext": "VHG6+eufy3YuBGJstVbhs9ij+jtKEfN/5DG5LHKcB3anyt81cwBAvpFYb6+c05qX",
-                "mac": "dJBqPXeQytWQ1jMY990z+w=="
-        },
-        "maps/autumn/observatory-inner.json/entities/4/settings/event/7/message": {
-                "ciphertext": "aWlR0UcgNdrjVoKWIS8KD6axxY6TzmEUlTKO9jemNiA=",
-                "mac": "wSCWnJ4gpV912/wOLT2pnw=="
-        },
-        "maps/autumn/test.json/entities/143/settings/destinations/0/label": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/autumn/test.json/entities/143/settings/destinations/1/label": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/bergen/special/monks-questcave1-old.json/entities/118/settings/event/0/text": {
-                "ciphertext": "ZsT+RpgL4bXD3CcC/IS5Wg==",
-                "mac": "T1tvUtl+lthJm7emwPiqYA=="
-        },
-        "maps/bergen/special/monks-questcave1-old.json/entities/169/settings/event/0/message": {
-                "ciphertext": "P2Q8TYtxGyJR6IByQOoJ/YGBbgS5LQ389zeUBh1BxL6hfaiinXfmOXXoOE9UUf9B",
-                "mac": "Ns7WDfqsYEZNLy4g/yOWKw=="
-        },
-        "maps/bergen/special/monks-questcave1-old.json/entities/91/settings/event/0/text": {
-                "ciphertext": "ZsT+RpgL4bXD3CcC/IS5Wg==",
-                "mac": "T1tvUtl+lthJm7emwPiqYA=="
-        },
-        "maps/bmt/boxes.json/entities/18/settings/event/1/message": {
-                "ciphertext": "oPwJNe5UO/M2butHer8qjR+u8TABCSjBr/OHevims+w=",
-                "mac": "BiR4R8DLWs4Ndirvnm662w=="
-        },
-        "maps/bmt/puzzle.json/entities/9/settings/npcStates/0/event/1/message": {
-                "ciphertext": "Cl3ZpdtNEE3BDv6gfFVJFgdyctefg8WLelfCOQEpWNqtnw5ZsgQhZWYEZbwicSQz",
-                "mac": "FP/JcWiBhzyHUBybNblxIQ=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/26/settings/event/6/task": {
-                "ciphertext": "EWjz6J6ZzifmgHu8DNi0F7FBTJtI5EEckvlp1/rHVx8=",
-                "mac": "Xz6E2BdqgMYxLc/aEnGttg=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/32/settings/event/2/task": {
-                "ciphertext": "IA0dXwLeW3Z2kbHoqMAWDluLXJ+mxEE2C01mB1lfPFw=",
-                "mac": "zzUqpMUx517LZ9b027Dn1g=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/38/settings/event/2/task": {
-                "ciphertext": "8xaIdTGmlXhe4pL2x5DHXF5/WdhQv+8Izh3wbPdGWk8=",
-                "mac": "DsM107FAwmQq2zc7fc3tyA=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/41/settings/event/2/task": {
-                "ciphertext": "hCxRGQV+9JOG4JnrpXuJC4RwJD3yp8F2wIm/uIKmckY=",
-                "mac": "+iMXCv2zDCue0GWQoeNWMg=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/41/settings/event/8/guiInfo/settings/taskTitle": {
-                "ciphertext": "LTlrgmex46zz2QtM6ieR6Q==",
-                "mac": "jadP/qFgEathtG1zjT6HUA=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/41/settings/event/8/guiInfo/settings/text": {
-                "ciphertext": "tIxjo7lvt97CfSV2EiS+TkjS4wyi9UPKsSgG6HRCTHAuhcwkOmHizQmuJBSlHmgC",
-                "mac": "tR8JQj/etmbDs5KbdK2TDw=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/47/settings/event/6/guiInfo/settings/taskTitle": {
-                "ciphertext": "LTlrgmex46zz2QtM6ieR6Q==",
-                "mac": "jadP/qFgEathtG1zjT6HUA=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/47/settings/event/6/guiInfo/settings/text": {
-                "ciphertext": "uFDCM/01Lzl2MSAqQA9CcZ8zVSSKfJ9S8KXXOqgFnoOL+TVsYAQogCpbCrbO5XJTHRmXlOAUJaqOXnQScYZutsl3/cGYvv5955AreYmmKBv95mYo0hf3in/uT0K+h4jGSEohb9RErnloEZGb3YO56w==",
-                "mac": "ZgCWhZq5B8G0JMHjJpmvmg=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/49/settings/event/1/task": {
-                "ciphertext": "6T+h0RNM9Ed3acGGYoBUPC/2ZuJKd8s2ml1vB8DatzQ8+MBe1qgl/ZMBn/HKDL4r",
-                "mac": "kV8m9IETLI6CsBW65h6zTg=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/3/guiInfo/settings/taskTitle": {
-                "ciphertext": "LTlrgmex46zz2QtM6ieR6Q==",
-                "mac": "jadP/qFgEathtG1zjT6HUA=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/5/text": {
-                "ciphertext": "d/zykf0TS4f4+rl37O3u9J63UxfOfqCnlZnDiaj8MUuBXZhNvegxzjocDOj/tqZMlsWY5QMWLINEF2iMuEb+TQ7M3a+x8YFG5VabQDX2hOXM9tCTPSPI9kTQDlSwYCxI25Vo3mHVfGZWsp/jt1BXn9ZsR49M9xmpGtfWetwR3E6C40sMMOCe19ez4PyHJbQfzP9Pa+4slrgWsUKyVCZg+cSLwZncdWYl7KYy31QQW/aioK8nPsLDVg4Z4MZ0gmAK/3d+BPG+s8MutGuS6fH4HVUg775eL5awDzn9pii8rpcmfrNeCMCiefgBUzgcaqy4",
-                "mac": "0SRs6qSTvtS4H98bYIO2aQ=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/5/titleText": {
-                "ciphertext": "hLRWsTjofIFSm05Om9vvWQ==",
-                "mac": "iBL3w93HOhONjMHdzdBPSA=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/6/text": {
-                "ciphertext": "IaVBQYfKih0QMkLNP/9IpvHGd/g51dZ7L9EZZ50j0gwfU8zDRzbUjuk26j8g2Klc28s4LYr9bSRfI64aCIK5jVIyTFAOGH1RqMedmRhqNujaKCOk9/S0hzMULjTQcHB2sfel1gfz4vKdH58iYHzyla2JZo2Wv6fy2H2zW/IF+t2d6ZUViwsLSqdjyxH+4J4hspMPJmTK239H19vM91dU8g==",
-                "mac": "nsVjLsIQajfmywqQjKwopQ=="
-        },
-        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/6/titleText": {
-                "ciphertext": "xpmrnJLj4U5U5/5KtRHFX2QRF2pYV5Lm7GJ8iem9REA=",
-                "mac": "93BgxW22XQLA/ASH/6SURw=="
-        },
-        "maps/cargo-ship/christmas.json/entities/62/settings/event/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cargo-ship/christmas.json/entities/62/settings/event/2/message": {
-                "ciphertext": "T70mGUttFkgNmfQp1x4BpL86J0Mhk0n4EvEmANj8bcHObVDhQ3CWIjugE3LYQl55",
-                "mac": "M1FQXCVS24rM/VTMr1saYA=="
-        },
-        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/4/guiInfo/settings/taskTitle": {
-                "ciphertext": "LTlrgmex46zz2QtM6ieR6Q==",
-                "mac": "jadP/qFgEathtG1zjT6HUA=="
-        },
-        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/8/text": {
-                "ciphertext": "Zj6lcQYg+h4nKcozYPlz9ndjCX+OO8nyA3Od6G4X/dRoz9+7rGufkgc5igRGdJ5wuot7evRqgeQOn98oOoDB9Lpd3hUgkHf97U+gqMzQuqCLjyHFyzs1y/d4Bb5wdUvJxG6cJ7co2MQCEf155qcZbL0XU5NG6DXzoHEGrid6SbrmPFD79oXjhh3vCC1YgDcmMpWk9GtT2tbYdEBCxIQMb2zvnqgXX54libBEsms45iEMBVGmrUOV653q2EJOdPuZAvglKHqV+HEszlxfnWTxu5hcvSc3Q3/Bc69onI9WdtBPhJkQNkobTEMQY+CCFfgr",
-                "mac": "+yrebfqED+XUuuF6/OLXZA=="
-        },
-        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/8/titleText": {
-                "ciphertext": "hLRWsTjofIFSm05Om9vvWQ==",
-                "mac": "iBL3w93HOhONjMHdzdBPSA=="
-        },
-        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/9/text": {
-                "ciphertext": "IaVBQYfKih0QMkLNP/9IpvHGd/g51dZ7L9EZZ50j0gwfU8zDRzbUjuk26j8g2Klc28s4LYr9bSRfI64aCIK5jVIyTFAOGH1RqMedmRhqNujaKCOk9/S0hzMULjTQcHB2sfel1gfz4vKdH58iYHzyla2JZo2Wv6fy2H2zW/IF+t2d6ZUViwsLSqdjyxH+4J4hspMPJmTK239H19vM91dU8g==",
-                "mac": "nsVjLsIQajfmywqQjKwopQ=="
-        },
-        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/9/titleText": {
-                "ciphertext": "xpmrnJLj4U5U5/5KtRHFX2QRF2pYV5Lm7GJ8iem9REA=",
-                "mac": "93BgxW22XQLA/ASH/6SURw=="
-        },
-        "maps/cargo-ship/room3.json/entities/16/settings/event/6/message": {
-                "ciphertext": "X02aLpAAJPclJk+DgfbL/nCvH5z4xGL1wRgaaS1sxDlFqKi3km9J4efnE85ryVJPdxicKUGwUTq2GrKqKRlZrIuynDc8TSink31o1pKsCpBVms6WEIYTglY2czlLyxNx",
-                "mac": "uEikr7K6/aQl+xTmbwNTrw=="
-        },
-        "maps/cargo-ship/room3.json/entities/16/settings/event/7/message": {
-                "ciphertext": "TSLKn20E86tjZHpV+w28Qapyjhfi+/InCjWZpee4yAFPr7hlE3twoimKYerMDPws",
-                "mac": "ztUf5GoNY4bVwHlq3dgdmQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/2/message": {
-                "ciphertext": "CgbDna0+EYi+vP4NC6XQKzeW36oShSPahu0SyJwpbgnVaW5a2rzTxT2b9vJGw2redX7pkIpIlQnvG4PQpDgL/GVJYTy4FpAotqDiUunDe6s=",
-                "mac": "5s9Jo+SweCNawPS1jFBgQg=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/3/message": {
-                "ciphertext": "s2fD45dJX7NW1BW8g0EOBqse6JTvsYLZIn1nNLbaJpisSVIfr9XunsJ5RGO+IG31b7ao5o2UX2yHfoozd/oSeYYfCkEmFKq17HjOCSwcIX0=",
-                "mac": "fvZ3495vG0odj60EpFZ0sw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/4/message": {
-                "ciphertext": "HLcGA6D40RYp/sp27yY1gRqI8sC/URLw7hkYQ08i7luU/KLDRJ1IM/6Gu0jjwgZggA5DKRZMwlsaDipZK0VlPQ==",
-                "mac": "5J29eFiV724oSaggDX8ABQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/5/message": {
-                "ciphertext": "E0+oRWuPrNDaGGo/EKS+iStOkICF6rIEJs89PaJCfn0rVeJBz/9txbvlnNFWUtG76Vh9RHWGKEKCeZbAt2tSMVWe3g41Ol6TYGWNwUG3PmI=",
-                "mac": "L/WRhlwhVVUtxwUrVELLRg=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/1/1/message": {
-                "ciphertext": "+OSfsBQpuCdJquwVAqRKEDw+QARJfpzFI57PgDxoF/MzcpZHiFb48qCAScv+vboq",
-                "mac": "57RxL6sDUtmja2dDdGGYMQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/2/message": {
-                "ciphertext": "obdKGpxux6hlURv6NAIpck/t82e+8nLTFvwaZYNtUFXO0rMViskFZXT+XaJzoklRF0TSwWwY1ph4kYDdtYo3Cg==",
-                "mac": "EWvA6Dqqxz/FSvhZxRojxQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/3/message": {
-                "ciphertext": "MjqWrk6nGVZeyXG4aG2zKlyFJZranL/eQ6ltRWbPVlDQ2MKz+Q0IxUrPkh0gf61fpC3ZfHlyjS+KtKseD6tDziymq3NNsojKqxjaW3rSWKHw3cSvU+UV3IN3CHlNJroN",
-                "mac": "s2pXO5CmbCot2bTZ5ziUEw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/4/message": {
-                "ciphertext": "ELdlYSrOShJtCHFP73M8PNny7xeFDkKM3MfIDMN4O0hh8lo/zy64lH3ezPKKcy9zcyMObyy5a7aGUBpPoEgH5Voh61mPh+wRogFOzs9ib+o=",
-                "mac": "Uk1c2+8Ygw45V5CRd/PETA=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/5/message": {
-                "ciphertext": "MEUxI+GFFPO4VKzKp5Ujqhhz9lGysZWnDbJbZqkQeyzDtQGbZQR/NVwqTwmGIlDzVrTF8lVGPzJDmdkSaHeDHb+iWBSEHy6WO/ra8XOiLWs=",
-                "mac": "Vvn17GoTmvR/vOOlBatokg=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/1/1/message": {
-                "ciphertext": "Y+oBCGFIWO7y9lQ/BSQ2q2TAoVjpeuq2QwzIq1a0bT0=",
-                "mac": "zoFuWSJSXPHDJQtZY+RHpA=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/2/message": {
-                "ciphertext": "oEKyaepup8elrpdt37MjfdvGexso9FAEFiXmhrA7Npk=",
-                "mac": "GQzVdrLzYmN7a48jPiX02g=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/0/3/message": {
-                "ciphertext": "KO0rkHN2Uv9pYLqZxLB3LaL8a/eHjvFuMKRr85Rwmxyg342B1fksX+C1AsUnVo4vXL5BaCqNJXrbqHZPlfA/qxh4W91eRdMQxnxt8mE7H6xW72XdtCoXbyWCcWsVY3cao82quvo8dtdGkA40R5Wd8ZY/ps6fO1nDZY7yLdLDlSM=",
-                "mac": "zVf51ZL3jCytlWoqC6KXSw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/0/4/message": {
-                "ciphertext": "ZDnfvJVlCNGvXN5MfTBZlT6GwDGC8rBJlHR3OZXgYmcoe2mw3VZLQcrGbYAg7nHWHoGYbXH71yrQO6ZaJlIhqFfE1iRO1mZqhaG1lZgjXaY=",
-                "mac": "TtpQossk6Na00mUlY2308g=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/1/1/message": {
-                "ciphertext": "sZlRTpJI1NflyTpacDupzFtvH/K+/UGdFbqkaWECx/U=",
-                "mac": "+1yb4su7lYiMbTcJRcnTsg=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/2/message": {
-                "ciphertext": "TNudj8d1UCWy1C+lx8KlwUEAdsc0e29EnaXO+DKOannSo9dMJqOpb75CafLXjW+xutO+dzcBqCoeVbi7IRfgKi5EfM9LaNYsC96+PI8QZY8=",
-                "mac": "w/wuPQNEXjc65yuuaoaYUQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/3/message": {
-                "ciphertext": "Of0RavDv7UFBKNsZ3buLFv8GsaM0E0PC7NKR4pFO0xrxyLY0gYLKSAOm2RZ6cojmScEwhFx/3jBypFGpT2uBFYNvwemktZu1g3W40h89v9U1OVNUanKE1DTWV0XxGFth",
-                "mac": "cuxeQUscpB6f8t56GtAzrg=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/4/message": {
-                "ciphertext": "Usz2IrSBqfWGdVJg7edH5LO8LiMRwYLjm4zEeyuz6EatPw7ePOPZscI4eykeIdVe",
-                "mac": "N/u62k1zSlayPY5stRx+qQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/5/message": {
-                "ciphertext": "45EM56QFO1RV4bsF2haAaY4/cDOJpl4x8kboVYuDPC+yH/e8FSIR0Rh/NNl81LNPEFEUtmcCjIdCFZ0tBN1yKm9uQeQ+tG8KNaFSVbDXUDe39NJettHOZBJwQNSE4za2T6akgJcEmnJbDK710wnhPg==",
-                "mac": "v0vw2XoSAcR0iD89B6RGhQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/6/message": {
-                "ciphertext": "48lJxgSlcnwuGWv5EAsLXSC+b3OR4UTT2ze8UaB9Enna9xkFl9Hz67i2ciDi0iDCiywnZbwfArPWbTckFliu9Q==",
-                "mac": "PXFPiQ0XJlnHbSzYaueSSQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/1/1/message": {
-                "ciphertext": "sZlRTpJI1NflyTpacDupzFtvH/K+/UGdFbqkaWECx/U=",
-                "mac": "+1yb4su7lYiMbTcJRcnTsg=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/options/0/label": {
-                "ciphertext": "wiV/zTv96Ult/kwf3z+kaw==",
-                "mac": "rTdBoe9mhuPUk/CoeVKshQ=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/options/1/label": {
-                "ciphertext": "ovrwMuGoRpYxDPCkhbVgQg==",
-                "mac": "vzpJsxp8aDQy2QlPoofIYw=="
-        },
-        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/5/event/2/message": {
-                "ciphertext": "0WQUSa0uKBH8sJlapsQIe5vprZwzD294kZF2KNG3EvSDJ+GldgB+oZsvdBaFYfH646uyjxPM/36yroZTOOuyNOcjGTXyT7kDjuJ078Yx3NA09UcAj9Zpuka0oy087kmstwwFWNQE1ZcK1tkUkE8TKawFNHJnkWrTmXc7kjFPOHKZ39vlqiC+wAxCkZcGgkP09w/VTGwOGVdddn3ambmEhg==",
-                "mac": "3zMefAFssnFn7Svg2VPa9g=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/10/message": {
-                "ciphertext": "cbK7nAYDM2evO//g2k78FH68MvIHHinvkmBtyO0KZ9HUdULQJW5GQ1zU2Io1SbYfcF+pVUIgj0yEQwJ5bS6hzKctXfPZl0VpBiXEQ8lUwOI0fDdXHfpT38zy+Ky8CsiLlUEC3o3nvRJ8NFRZvK+UNWBEFuepWrRzIajm9b0v/oE=",
-                "mac": "ZgvhwsJvBDSvWtavBHt4jw=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/3/message": {
-                "ciphertext": "sELVeOJWDsKpWe0TMFOqyuVro5vE+32nnY8pbIEKxOYe/VP5wHbCD5ybQWJunkH8",
-                "mac": "nTdpPapxcun9J2cvhFz4iQ=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/4/message": {
-                "ciphertext": "QWd0KdH1lrV/kEQBETeRJw==",
-                "mac": "k1qM4dPiu6kjr+5C4LNpIw=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/5/message": {
-                "ciphertext": "rWz3RGoHi3GQ4lEQE2StjKILGcRgUCRYWoqy3NGjXGg=",
-                "mac": "ajkmK5nxCykO6OOlogLMsA=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/0/0/message": {
-                "ciphertext": "V/s3d829YpZkwGvi8SRsUg==",
-                "mac": "BDfs/aztguERoH/oY3Z9Pg=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/1/0/message": {
-                "ciphertext": "DOx9A7z49IDHHuVk8EWxbJNzE59EUrGc2ExVrudchFo=",
-                "mac": "2Y2084zeoceKcifsvsII9A=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/options/0/label": {
-                "ciphertext": "V/s3d829YpZkwGvi8SRsUg==",
-                "mac": "BDfs/aztguERoH/oY3Z9Pg=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/options/1/label": {
-                "ciphertext": "DOx9A7z49IDHHuVk8EWxbJNzE59EUrGc2ExVrudchFo=",
-                "mac": "2Y2084zeoceKcifsvsII9A=="
-        },
-        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/8/message": {
-                "ciphertext": "+gLevCY02YFuEd8jiDlyMQLXgscDfLDtpkeuKsLLKNsDnnYeW1UuEJ+BT9OaNSOzG6tHk0az6tUiPDtZC9ChYA==",
-                "mac": "9BkVYH18VHOFAhUzcIpt9g=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/2/message": {
-                "ciphertext": "OkqKHzxnrMm7qy9i48G5TnpV/UXkrd98rgxGvmp0eKg=",
-                "mac": "Hvj3WTSox17groMTtvIP7Q=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/6/message": {
-                "ciphertext": "br975fc1LvhjJakebmgjHK1jEOkzJwJ1iSOhrGL5mgyoe5O/JrtL6Tvq+Y1jaLe7",
-                "mac": "8aOiS6xTb0GRwxZUAlMwkw=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/8/task": {
-                "ciphertext": "5BS/HQ3r88fLnH39pODtVA==",
-                "mac": "pvXHrN3M5BiaRCkq92OvRA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/2/message": {
-                "ciphertext": "OkqKHzxnrMm7qy9i48G5TnpV/UXkrd98rgxGvmp0eKg=",
-                "mac": "Hvj3WTSox17groMTtvIP7Q=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/6/message": {
-                "ciphertext": "br975fc1LvhjJakebmgjHK1jEOkzJwJ1iSOhrGL5mgyoe5O/JrtL6Tvq+Y1jaLe7",
-                "mac": "8aOiS6xTb0GRwxZUAlMwkw=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/8/task": {
-                "ciphertext": "5BS/HQ3r88fLnH39pODtVA==",
-                "mac": "pvXHrN3M5BiaRCkq92OvRA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/2/event/2/message": {
-                "ciphertext": "ydL9XUDzWgAWzxuwyUeVsO2P3PY1MsO8QUDNZHosyFVoaxQgJSrVMZCpLJ4kJlxd",
-                "mac": "jqbRgJlLcLA7pRzfFImYVA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/2/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/1/message": {
-                "ciphertext": "tIvqDyyzHXW3l5YJ3ryRDQ==",
-                "mac": "PQ4L8D8qU85ZXjJgviyA/A=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/11/message": {
-                "ciphertext": "kIpeTkP0vBSJpgj6ovEE5H4smXcOYgOBspY2jsAIz1qWWOMdiZnn9rTAx1cvQErqMj4YMoR2eBHb9tYW8p66Ng==",
-                "mac": "TIU/ZBR3Hev5RPQTlG3svA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/13/message": {
-                "ciphertext": "nK5swH+kuNEpSrlzDNOBKa8pcRXR7r9ROYGStN6BozHZpgHructMu285RX0Q7nmD",
-                "mac": "SO4Zatbb1rZZupsDdd+EnQ=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/18/message": {
-                "ciphertext": "jz0w47gR6s1+2wTux81e3g==",
-                "mac": "5LV5euENwL3IuKj195dMCw=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/20/message": {
-                "ciphertext": "JjOdbpCEZpv5AIcQ811ERIH1iJpYCiHxXL5f/XWALd8=",
-                "mac": "4y+b5hhQWtx9m+uYtOo8hA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/22/message": {
-                "ciphertext": "HtYOy0QwzRNOWsh0Rehco6oYrFsxForxoGdPPM5lQVQ=",
-                "mac": "dGDOdXTg10gqA5fMXV0dHQ=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/23/message": {
-                "ciphertext": "LRjSDumBoHO3L88YRytuMPGyj4eiM+1a/wigccDa/EFKcf4UmiCoCDmh9hR7jpQR",
-                "mac": "lf7MqepS/HVvQUabPyb8VA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/24/message": {
-                "ciphertext": "uIVDPrauPOxczXbq04chOA==",
-                "mac": "XRKQGGZv2qMpjEAuKAMbBw=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/25/task": {
-                "ciphertext": "//NszeFZaz7KtgJccYEL0wnP3WBPlhVQua3VyTtu2lmlid3eFQPkPJm+9RTA3c7e",
-                "mac": "3w1VqWnOo6sTA3KvJZBH0Q=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/3/message": {
-                "ciphertext": "TekNU4zrCnrCDLVxUz+7ArVc1sKAeaMtJd3CEJQJ/ngaftsltGSH4DE+xTPZMPQo",
-                "mac": "N9CrRey5mrt7MN+cN/6LQg=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/5/message": {
-                "ciphertext": "4xAyiMgUSCK/Xdub/gZ7k22puieWzMTgBKpeBUkvR77tItC2fm2GL05lBTqr4ColP024EAGtvxGgXE/INilK6Q==",
-                "mac": "eR3GGMYMRHzn2VnQ6Mcw/A=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/6/message": {
-                "ciphertext": "ai1LFQXDnkmbqxIOvNewLwqCW3DpUQA58lLK6KW1JDjpynfiwVBWhDFqWekPyHTLWbEyl5OXluqgHZTgEhCW+yC6preZ/gXa+haieF7UpXo=",
-                "mac": "wiSQbn2BO9T6UavB0B7I2g=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/8/message": {
-                "ciphertext": "G3N4Ar7V5vCepPjHxNU0cclK5S87dxg0LoxlOdjn6oB/F8aFXeMBac8IopVmdyQq",
-                "mac": "OesFAr63IsnUm8wr9z9vWQ=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cargo-ship/test.json/entities/6/settings/npcStates/4/event/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Access denied",
+                "text": "Accès refusé"
         },
         "maps/edge-test.json/entities/15/settings/dialog/0/text": {
-                "ciphertext": "MT4+uoBqgSgLfy/irVhamskLqAnyVGAeyBLgmC6ulu0gZcporpjmVO0Vwh4orVRc",
-                "mac": "bYVhV/D8TeOekYyQM5Njnw=="
+                "orig": "Hey, you kinda look like me #whathappens",
+                "text": "Hé, tu ressembles un peu à moi #quesquispasse"
         },
         "maps/edge-test.json/entities/15/settings/dialog/1/text": {
-                "ciphertext": "BlfSxW0yKYtXFdPpsqCK8Q==",
-                "mac": "hgjx5jZBGv6XyxzZyZPgXw=="
+                "orig": "Lol I dunno.",
+                "text": "Lol, chez pas."
         },
         "maps/edge-test.json/entities/15/settings/dialog/2/text": {
-                "ciphertext": "KBvQ2mcMTvBBozcgQYTnPA==",
-                "mac": "JxZ8+qKPqPAxyWM3BfeJGg=="
-        },
-        "maps/edge-test.json/entities/15/settings/dialog/3/event/2/message": {
-                "ciphertext": "FgUDLaOQ3f9JFFdYpx+DGwuBhsD0FVtdtSCmLkckmUk=",
-                "mac": "/SlVDZMq5ynMbsbsECb2cw=="
-        },
-        "maps/edge-test.json/entities/15/settings/dialog/3/event/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "Aaaaalright...",
+                "text": "Okaaaaaaay..."
         },
         "maps/edge-test.json/entities/15/settings/dialog/3/text": {
-                "ciphertext": "EtD8YE2ZUvlrtMBiKZa4r6yo+/spFcCt8UZe5yMoKbg=",
-                "mac": "MB9jYvrlWj9Xe/NTT84EXQ=="
+                "orig": "Let's talk about \\c[5]Herp\\c[0]!",
+                "text": "Parlons de \\c[5]Herp\\c[0] !"
+        },
+        "maps/edge-test.json/entities/15/settings/dialog/3/event/2/message": {
+                "orig": "Hi, I'm Carla!",
+                "text": "Coucou, chuis Carla !"
+        },
+        "maps/edge-test.json/entities/15/settings/dialog/3/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/edge-test.json/entities/15/settings/dialog/4/text": {
-                "ciphertext": "KBvQ2mcMTvBBozcgQYTnPA==",
-                "mac": "JxZ8+qKPqPAxyWM3BfeJGg=="
+                "orig": "Aaaaalright...",
+                "text": "Okaaaaaaay..."
         },
         "maps/edge-test.json/entities/17/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "QWVpx8SJ5SXyNGrNrZaabNnijUbmKeE5hsz+0Bf1idcd3cSU7psoDHGbqJc6ou7NOfLmseJDX0G/JrA8A5ZWi6NFoWRQWyq4uE9EPFDhs1Y=",
-                "mac": "ddlAZU76UIlpysEhs75wSQ=="
+                "orig": "Wanna do a quest? \\v[item.1.name] for \\v[player.money]",
+                "text": "Tu veux faire une quête ? \\v[item.1.name] pour \\v[player.money]"
         },
         "maps/edge-test.json/entities/17/settings/npcStates/0/event/quest/4/accepted/2/message": {
-                "ciphertext": "khHND901F2rCCuSZbe62MBmHhml+W4iUQa1Nc5mlmWM=",
-                "mac": "HHOxiYRnNR6Z6dKADFEbjA=="
+                "orig": "Alright! Let's go!",
+                "text": "OK ! C'est parti !"
         },
         "maps/edge-test.json/entities/17/settings/npcStates/0/event/quest/4/declined/2/message": {
-                "ciphertext": "PBx2sWZ0Wn9px+kNKzVDiMEs7ATXCN33HriKMjYE7BWfGv3YA1fLKn5xqvwQTmYv2auGXbDLymTtsWkxGN7ZmQ==",
-                "mac": "42FRn7ipXgEQ19MMty0xdQ=="
+                "orig": "Really? Alright, talk to me again if you changed your mind!",
+                "text": "Vraiment ? OK, reviens me voir si tu changes d'avis !"
         },
         "maps/edge-test.json/entities/17/settings/npcStates/1/event/2/message": {
-                "ciphertext": "yAzLvwi2UsjbW+eGJkPoNiZS4nlQ78j0D2lQOkE9GIK3LUeq3XJhQ3ixYgPLBPek",
-                "mac": "t/Is49xdJf5+4KpZY3Nz3A=="
+                "orig": "Go on, do that quest for me!",
+                "text": "Allez, fait donc cette quête pour moi !"
         },
         "maps/edge-test.json/entities/18/settings/npcStates/0/event/2/message": {
-                "ciphertext": "mxQH9lwN8eO4NsZ+5IHhgmVM5eAIX44kdhSolZcvr4E=",
-                "mac": "D2YM69jI+GhgOG3GigwfKA=="
+                "orig": "Done huh?",
+                "text": "C'est fait hein ?"
         },
         "maps/edge-test.json/entities/21/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/edge-test.json/entities/22/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/edge-test.json/entities/23/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/edge-test.json/entities/24/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/edge-test.json/entities/27/settings/npcStates/0/event/quest/2/message": {
-                "ciphertext": "aleduX+dIgZI9HJRfAER1A==",
-                "mac": "TQMx0GFz4GBz7twBShZk0Q=="
+                "orig": "Quest?",
+                "text": "Quête ?"
         },
         "maps/edge-test.json/entities/27/settings/npcStates/0/event/quest/3/accepted/0/message": {
-                "ciphertext": "L7Wyn3aEL3IZdHpq1Ufs6g==",
-                "mac": "frwltGE+Z1WmtpFMnq1fuA=="
+                "orig": "Nice.",
+                "text": "Cool."
         },
         "maps/edge-test.json/entities/27/settings/npcStates/1/event/2/message": {
-                "ciphertext": "44nWsSKOFjeus6uuuFNQqA==",
-                "mac": "ERXdTKt2KW0cy/YbRthfLQ=="
+                "orig": "Do it.",
+                "text": "Fais-le."
         },
         "maps/edge-test.json/entities/28/settings/npcStates/0/event/2/message": {
-                "ciphertext": "F8kulz/OrzmQfmoX5Ckl7Vh9UFbAY7qoPN+4eDx9VjFezR3ZXiff+3juZaIBunDguKaHznZj/ejGkhyERoU2Qz7Tt3c3L1mCgVYYZbFYqul74/sNwEsucvYIAc1SowSV",
-                "mac": "7eec+iACSOqdvsq/li2AJg=="
+                "orig": "Hey, I just unlocked a Lore Entry about \\v[lore.unlock.lea]\\c[3]Lea\\c[0]!",
+                "text": "Hé, j'ai déverrouillé un item d'histoire à propos de \\v[lore.unlock.lea]\\c[3]Lea\\c[0] !"
         },
         "maps/edge-test.json/entities/28/settings/npcStates/1/event/2/message": {
-                "ciphertext": "9svxywjD4gJKNrGZJojugSqJDF78v3VWsSIK/P1YkXA=",
-                "mac": "serAKRFg6eErbD5YHMMh8A=="
+                "orig": "All is unlocked. Nice.",
+                "text": "Tout est déverrouillé. Cool."
         },
         "maps/edge-test.json/entities/31/settings/npcStates/0/event/0/name": {
-                "ciphertext": "g/jjeBg6r/F/RMt4EzC+yw==",
-                "mac": "/DpSqdCkckIMhxr1BV2lnQ=="
+                "orig": "Pioneer Tucos",
+                "text": "Pionnier Tucos"
         },
         "maps/edge-test.json/entities/31/settings/npcStates/0/event/2/message": {
-                "ciphertext": "Q5YeC3d5Cc+8FO+uYe2KaFSnQOVw7u9lOD/jBi2ZjY4=",
-                "mac": "mcimtTTlFn8T++FyHlW2JQ=="
+                "orig": "I'll join you party!",
+                "text": "J'vais rejoindre ton groupe !"
         },
         "maps/edge-test.json/entities/32/settings/npcStates/0/event/2/message": {
-                "ciphertext": "plp9n9cZyq+V0Pni2U17PvmPcSoqDaY5oFPnBch0NOo=",
-                "mac": "nh5yEzbDXfi+MBKktjOORQ=="
+                "orig": "Alright, I'll join...",
+                "text": "OK, je vais te rejoindre..."
         },
         "maps/edge-test.json/entities/33/settings/text": {
-                "ciphertext": "mfdaYIi9ui9DC4k1IpwR+cIExTLdfFpG5/5k4VgsmTU/J2sO68MYmAnfTumcpavtoQErwoCFeGF281Wxf+L9M0Q/XIFoulxDXH/EVechu+E=",
-                "mac": "jdiGM9NkZ6y0+AheINvHGQ=="
+                "orig": "A rock formation!\nYou're filled with \\c[3]Determination\\c[0]",
+                "text": "Une formation rocheuse !\nVous êtes empli de \\c[3]Détermination\\c[0]"
         },
         "maps/edge-test.json/entities/39/settings/npcStates/0/event/2/message": {
-                "ciphertext": "3guDBfXt+XJ8xBxd2yRNO9p/TouOerc7aOzpQ6XkGsNsPLjZ+E2rTaiV/CFqOueiP/MfdWcnE+L1ZbMv+b9ZeQ==",
-                "mac": "RWDTxly3oTl88Ke+LDzEtA=="
+                "orig": "Your time is \\v[timers.test.formatRemainingTime]",
+                "text": "Votre temps est \\v[timers.test.formatRemainingTime]"
         },
         "maps/edge-test.json/entities/51/settings/npcStates/0/event/trade/event/2/message": {
-                "ciphertext": "y8W3iXpe5D2sUjOco1QBTQ==",
-                "mac": "1ke1VJBG0sx1SnyYNOkI6g=="
-        },
-        "maps/edge-test.json/entities/51/settings/npcStates/0/event/trade/event/3/canceled/1/message": {
-                "ciphertext": "lXvjUwG3o0N2sdWaznDNe3qdDKB1CWAD6oRPvuEhBuRrToyq6El3PZtzPLy4OZhe",
-                "mac": "UFiIaMTnf2d7djGnNQkB5A=="
+                "orig": "Aye!",
+                "text": "Aye !"
         },
         "maps/edge-test.json/entities/51/settings/npcStates/0/event/trade/event/3/traded/1/message": {
-                "ciphertext": "fbNbMltJ6SWZ4JY9rJYFAVWAqf5U0VIHmKR7QSst6Q0lGt2YqdfBbUcVmzzfEexn",
-                "mac": "gqRkSQYw46TI8cw4aURCAQ=="
+                "orig": "Pleasure doing business, lass!",
+                "text": "Un plaisir de faire du business, fillette !"
+        },
+        "maps/edge-test.json/entities/51/settings/npcStates/0/event/trade/event/3/canceled/1/message": {
+                "orig": "Window shoppin', aren't we?",
+                "text": "On fait du lèche-vitrine, hein ?"
         },
         "maps/edge-test.json/entities/53/settings/npcStates/0/event/2/0/0/guiInfo/settings/taskTitle": {
-                "ciphertext": "llUwNlUq2kUC3DnFVe9zMg==",
-                "mac": "VSFFmMT4RYwyoLPLeL82sg=="
+                "orig": "Score",
+                "text": "Score"
         },
         "maps/edge-test.json/entities/53/settings/npcStates/0/event/2/options/0/label": {
-                "ciphertext": "xXiskiEUBHOuAIfV23/dxEhjiAbRpiyp8k1bx9EE0WU=",
-                "mac": "D+Jk2X6j1zWccSlOIiJ6lw=="
+                "orig": "Add Counter",
+                "text": "Ajouter un Compteur"
         },
         "maps/edge-test.json/entities/53/settings/npcStates/0/event/2/options/1/label": {
-                "ciphertext": "98mEuDjt4wAx/vehMaBYOl5VebSQ2G7mFj6ImwVJMQU=",
-                "mac": "UkZsre6JQ3ZQB7VE99iHAw=="
+                "orig": "Remove Counter",
+                "text": "Enlever un Compteur"
         },
         "maps/empty.json/entities/0/settings/npcStates/0/event/2/message": {
-                "ciphertext": "G6MdHvNHD1orG8h//Y979yt857js1crI2zWXMYvFiTjOrhxDAC2fED336yp5larsE1IjWpsMSStsA/tpOkxxdw==",
-                "mac": "4ZTkq2/Xgpk+8fb6BtPAOg=="
+                "orig": "I am the new popular girl in town!",
+                "text": "Je suis la nouvelle fille populaire dans la ville !"
         },
         "maps/empty.json/entities/0/settings/npcStates/0/event/3/message": {
-                "ciphertext": "v7mVq8IOs/BW0PmaddHwZQ==",
-                "mac": "jnmvUjdCMGORump82c+6Hw=="
+                "orig": "Hi...",
+                "text": "Salut..."
         },
         "maps/empty.json/entities/1/settings/npcStates/0/event/2/message": {
-                "ciphertext": "kO5Stej8WjLJn73by/jxzppVS6gOWvRf8X1AhWaG9byiU33is2Ixe/KSW3Sww+mX",
-                "mac": "w34RqX/IRQyak+vxtK5Hcw=="
+                "orig": "Hi, I used to be in Shovel Knight!",
+                "text": "Salut, avant j'étais dans Shovel Knight !"
         },
         "maps/empty.json/entities/1/settings/npcStates/0/event/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/empty.json/entities/2/settings/npcStates/0/event/2/message": {
-                "ciphertext": "3D9Zw9bvOI86e+N6UsGG8ZXOY2bkI/tWUHq74XwLLt4=",
-                "mac": "1YN6C7waHQf2PM97tTG2VA=="
+                "orig": "Hi, I'm smol!!",
+                "text": "Salut, je suis ptit !!"
         },
         "maps/empty.json/entities/2/settings/npcStates/0/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/enemy-test-henne.json/entities/5/settings/analyzable/text": {
-                "ciphertext": "GWuoIkbf30SQYH00XaXtWQ==",
-                "mac": "eGJZbdVq2kcTD+irrMo8nQ=="
+                "orig": "Testerina",
+                "text": "Testerina"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/0/event/3/message": {
-                "ciphertext": "o4+2xlLE8Mpm3TgDZZK33MmabgpDit2okymeS4YTZEw=",
-                "mac": "hTaPWDtlJYaVbqfjzNJqRw=="
+                "orig": "\\v[tmp.test1] = \\v[tmp.test2] ?",
+                "text": "\\v[tmp.test1] = \\v[tmp.test2] ?"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/0/event/4/thenStep/0/message": {
-                "ciphertext": "wW1lItOF8OHAJE19MvO0W9aO+Z+Wv1LKLv87bn89kmk=",
-                "mac": "e5Qb9XTUR0+Lj/w4d3aIvg=="
+                "orig": "\\v[tmp.test1] = \\v[tmp.test2] !",
+                "text": "\\v[tmp.test1] = \\v[tmp.test2] !"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/0/event/6/message": {
-                "ciphertext": "7EQ96mQ9h1ISAFk0ZpOVMIfieKJMlQjbXw44/yZa7fM=",
-                "mac": "W8lr1lWDXdOryU3q2h5wQA=="
+                "orig": "\\v[tmp.test3] = \\v[tmp.test2] ?",
+                "text": "\\v[tmp.test3] = \\v[tmp.test2] ?"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/0/event/7/thenStep/0/message": {
-                "ciphertext": "A/V18JfeLUPa4cqOGNBF4cRkU/lECNsmPlVhNl+qEgl8i0p4Qnguu0vScqdYJVSz",
-                "mac": "u29Q24847VNDLKpT1FOK7w=="
+                "orig": "\\v[tmp.test1] = \\v[tmp.test2] !!",
+                "text": "\\v[tmp.test1] = \\v[tmp.test2] !!"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/1/event/0/0_0/0/message": {
-                "ciphertext": "toy1g5gBXk/XAmYMQGk7MA==",
-                "mac": "NTfB5cVYUrT3IFXQWRF7PQ=="
+                "orig": "1a",
+                "text": "1a"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/1/event/0/0_1/0/message": {
-                "ciphertext": "9oBoOXJIhwpVG/g49xdKZA==",
-                "mac": "3wRywq2tihY9sYk1rVUZuw=="
+                "orig": "1b",
+                "text": "1b"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/1/event/0/0_2/0/message": {
-                "ciphertext": "NUhocGmU725PaJdlGWR4ZQ==",
-                "mac": "41SDZ7BXP+14hFSU61dn8w=="
+                "orig": "1c",
+                "text": "1c"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/1/event/0/1_0/0/message": {
-                "ciphertext": "8JSS4Etollqsq215G9Qn1Q==",
-                "mac": "pWzqxJwhvUNynUDcJSfz7Q=="
+                "orig": "2",
+                "text": "2"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/2/event/1/message": {
-                "ciphertext": "VJcwXoKJ+kedoU1PfukHyA==",
-                "mac": "TYskuhuDVqcLGcQHxeapvA=="
+                "orig": "\\v[tmp.string1]",
+                "text": "\\v[tmp.string1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/2/event/3/message": {
-                "ciphertext": "VJcwXoKJ+kedoU1PfukHyA==",
-                "mac": "TYskuhuDVqcLGcQHxeapvA=="
+                "orig": "\\v[tmp.string1]",
+                "text": "\\v[tmp.string1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/2/event/5/message": {
-                "ciphertext": "VJcwXoKJ+kedoU1PfukHyA==",
-                "mac": "TYskuhuDVqcLGcQHxeapvA=="
+                "orig": "\\v[tmp.string1]",
+                "text": "\\v[tmp.string1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/3/event/1/message": {
-                "ciphertext": "2+tusVYMqMyqPZDZEijEdg==",
-                "mac": "6+BDZkx20a5KGeWcvX8lCQ=="
-        },
-        "maps/enemy-test-henne.json/entities/5/settings/npcStates/3/event/2/elseStep/0/message": {
-                "ciphertext": "sBlqN5QjDCzzzkgj6nVsww==",
-                "mac": "iJrJMtZi9yQ1xsbwsCzjVA=="
+                "orig": "\\v[tmp.number1]",
+                "text": "\\v[tmp.number1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/3/event/2/thenStep/0/message": {
-                "ciphertext": "qBTG7+rVm5g79oZtagYQYA==",
-                "mac": "MGpCZrHEgAaZywHG4/HplQ=="
+                "orig": "TRUE",
+                "text": "VRAI"
+        },
+        "maps/enemy-test-henne.json/entities/5/settings/npcStates/3/event/2/elseStep/0/message": {
+                "orig": "FALSE",
+                "text": "FAUX"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/1/message": {
-                "ciphertext": "yQ4NfsUvPs3xKjOor+vLuW9e79RTtkxcYuzY4rhnGvk=",
-                "mac": "kkys8voKYF3+DvnxmFouSw=="
-        },
-        "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/11/message": {
-                "ciphertext": "Yxlwn5y6NmtNLO5y/fDlS1p/zcxRN0D96gMGuHX82s8=",
-                "mac": "TXPYTITfoKwOVB06JzN/zg=="
-        },
-        "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/13/message": {
-                "ciphertext": "R/kmXzApx9NdJQc7rwwLe61COq61wCzwnSXrvz2qHx8=",
-                "mac": "GkYc+5MFCu2oaKudkGG2iw=="
-        },
-        "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/15/message": {
-                "ciphertext": "+ecmfkp6PQhD6O+V35Vcs7Z+Ox2RHgWMGWmTDZTVP+k=",
-                "mac": "vSkdfS6M4CAbxYWJtJ6ScA=="
+                "orig": "Base: \\v[tmp.number1]",
+                "text": "Base : \\v[tmp.number1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/3/message": {
-                "ciphertext": "+ecmfkp6PQhD6O+V35Vcs7Z+Ox2RHgWMGWmTDZTVP+k=",
-                "mac": "vSkdfS6M4CAbxYWJtJ6ScA=="
+                "orig": "floor: \\v[tmp.number1]",
+                "text": "sol : \\v[tmp.number1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/5/message": {
-                "ciphertext": "Yxlwn5y6NmtNLO5y/fDlS1p/zcxRN0D96gMGuHX82s8=",
-                "mac": "TXPYTITfoKwOVB06JzN/zg=="
+                "orig": "round: \\v[tmp.number1]",
+                "text": "arrondi : \\v[tmp.number1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/7/message": {
-                "ciphertext": "Yxlwn5y6NmtNLO5y/fDlS1p/zcxRN0D96gMGuHX82s8=",
-                "mac": "TXPYTITfoKwOVB06JzN/zg=="
+                "orig": "round: \\v[tmp.number1]",
+                "text": "arrondi : \\v[tmp.number1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/9/message": {
-                "ciphertext": "Yxlwn5y6NmtNLO5y/fDlS1p/zcxRN0D96gMGuHX82s8=",
-                "mac": "TXPYTITfoKwOVB06JzN/zg=="
+                "orig": "round: \\v[tmp.number1]",
+                "text": "arrondi : \\v[tmp.number1]"
         },
-        "maps/heat/special/cursed-temple.json/entities/2/settings/event/10/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+        "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/11/message": {
+                "orig": "round: \\v[tmp.number1]",
+                "text": "arrondi : \\v[tmp.number1]"
         },
-        "maps/heat/special/cursed-temple.json/entities/2/settings/event/23/text": {
-                "ciphertext": "oNpJjJoP1fNFYsvS1GqEFYPh6WloEbTF0FrFYkZAdO0=",
-                "mac": "Jco2/fXGq8O2OCzbYHi2Ug=="
+        "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/13/message": {
+                "orig": "ceil: \\v[tmp.number1]",
+                "text": "plafond : \\v[tmp.number1]"
         },
-        "maps/heat/special/cursed-temple.json/entities/2/settings/event/24/text": {
-                "ciphertext": "Fd+H/fhWbISdU/0lpTu9e2odQm60ETIfqjgrR6T5Wuo=",
-                "mac": "L3JNLy7OLi5DTRVVjUStrQ=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/2/settings/event/25/text": {
-                "ciphertext": "Krd51lj1yjOYS0X+YcASKJ9+s0R2uBb+c1UcxfagRqdzCRLfWEvys5SaHPpt0TfC",
-                "mac": "UMtEytm9sOgPtlnQ0lqG7A=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/2/settings/event/40/guiInfo/settings/taskTitle": {
-                "ciphertext": "hl1oeNwtZjFVvKZ57Dxkdw==",
-                "mac": "B03XgE1sNYXm025SATmmWg=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/2/settings/event/41/guiInfo/settings/taskTitle": {
-                "ciphertext": "LIzqEWEAHS5OT8aNx9mmuA==",
-                "mac": "1F/vu0va1F/QiCQsYgck9w=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/26/settings/event/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/28/settings/event/4/thenStep/0/message": {
-                "ciphertext": "lGJ+/zteke3vdHNdAuVGMw==",
-                "mac": "O7eI/TaBK2oORcvYCQGTXg=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/1/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/2/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/3/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/4/interact/hoverText": {
-                "ciphertext": "Lw1YsUoaX2IqjUGSqFkjHDeiTfeCll3+tPTxjJoklEE=",
-                "mac": "DWknurIC9uYxF7sJdPbNRQ=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/5/interact/hoverText": {
-                "ciphertext": "8TMR//98y3c8tRe0AvFKRsoMF3E1dHgOHyZ1G/n7XMw=",
-                "mac": "XByAo6f6D4u2bYbaufedrg=="
-        },
-        "maps/heat/special/cursed-temple.json/entities/40/settings/event/0/text": {
-                "ciphertext": "DO4bZvRS2MyuXg7p3cguE77vGm65lPEYSlxcSSwRrp0=",
-                "mac": "gi/dXe53etZjCOhuf02Ywg=="
-        },
-        "maps/heat/test.json/entities/68/settings/event/19/task": {
-                "ciphertext": "BOtB0KSggj7EtCPZ73VOVYXHp5gzZMjMrLHPN4gnc9uQa0vC+1o3jzfKkp693l3QoS097oxd5NnqRjZvCrntRaDOViSrf7caxNkbDuiKQnI=",
-                "mac": "Gy2undpNlmCGeedA4u/LBg=="
-        },
-        "maps/heat/test.json/entities/68/settings/event/4/guiInfo/settings/text": {
-                "ciphertext": "fj2woTCxNe8aRKB83NICNA==",
-                "mac": "zVtTtLTonkaq1bHhbhDVTw=="
-        },
-        "maps/heat/test.json/entities/68/settings/event/5/task": {
-                "ciphertext": "ABaNuODOIygcohntO3e91USWVYD7hsNIn67CNQ3RYzH5C0lD6kZoPk0Ws26BHzqE",
-                "mac": "tMyLi6B5fKW40eC+uQuH9g=="
-        },
-        "maps/heat/test.json/entities/69/settings/event/1/thenStep/1/thenStep/0/text": {
-                "ciphertext": "yMoIVhfcK609IQaRfhp8yXsQlfloCnEQWNypVn9O5i4=",
-                "mac": "k+XAYacjSnoab2/3498khA=="
-        },
-        "maps/heat/test.json/entities/69/settings/event/1/thenStep/2/thenStep/0/text": {
-                "ciphertext": "VnlV8xp8/jbXxCtaCuTrN9AFhTUKJblKZCHAHWz2XhM=",
-                "mac": "vlnNotpJjUg9Lk+/1AeMCQ=="
-        },
-        "maps/heat/test.json/entities/69/settings/event/1/thenStep/3/thenStep/0/text": {
-                "ciphertext": "LIEiNh3xt1xDxjFGcEPly01ylVeEWimkNlm5DHuWJOM=",
-                "mac": "1HrfNaq/XUlW4l1rGK3pNQ=="
-        },
-        "maps/heat/test.json/entities/69/settings/event/1/thenStep/4/thenStep/2/text": {
-                "ciphertext": "ML4OifSBzvIH+CzAQA/u6Y6+VLjj8ZwRpO9HxcVx7CA=",
-                "mac": "tQ4gXcDHAYyQuuWYQVuvWA=="
-        },
-        "maps/heat/test.json/entities/70/settings/event/18/text": {
-                "ciphertext": "EOhSW2zQkly9qBN1u/hs72vOJQ3Y/589DjbMg8hxR1Ykiw/txefx2y1r0o9Alw4juX8fyk6+fRQ4wIGRKlOmFryj4RKGRl+O9L7iO4eghSA=",
-                "mac": "Yn+VZWA1Xhcnl2DQ73do3A=="
-        },
-        "maps/heat/test.json/entities/70/settings/event/7/text": {
-                "ciphertext": "X+ewLaXxBRlpqm5yPi+vMuPA3Z51M66uPz0w45wF0yGHccW0jcpJ5+kUvNfMWISe6QCp5BIwF/4Swd5rlFm0UA==",
-                "mac": "RVAeOGF+rIAVZw/i34wVrw=="
-        },
-        "maps/heat/test.json/entities/71/settings/event/11/text": {
-                "ciphertext": "hWDx2nBkxO3PVrTAWqDV3A==",
-                "mac": "Qalrw4NBIm4YJxHGg9JX8A=="
+        "maps/enemy-test-henne.json/entities/5/settings/npcStates/4/event/15/message": {
+                "orig": "floor: \\v[tmp.number1]",
+                "text": "sol : \\v[tmp.number1]"
         },
         "maps/henne-test-1.json/entities/52/settings/event/1/message": {
-                "ciphertext": "zqEnAwzg13l7h+a4YpV1aQ==",
-                "mac": "JKspTExrMah/2wLAkfEeeA=="
+                "orig": "O hai Carla!",
+                "text": "O hai Carla !"
         },
         "maps/henne-test-1.json/entities/52/settings/event/3/message": {
-                "ciphertext": "oUQul9jfnVj97q+B18AqasLlKm+0ZEJ/tfe1I8h7uaJVTODfCWGR+jC7jP2Wax8LmwoXXRbjTet0amn8PdbVpzYaftWTP6GdZT73YKu4Ops=",
-                "mac": "usk66y3vgk+y1jHRara1QA=="
+                "orig": "O hai Lea.\nKill all the evil robots to leave The Room.",
+                "text": "O hai Lea.\nTue donc tous les robots diaboliques pour quitter La Pièce."
         },
         "maps/henne-test-1.json/entities/52/settings/event/5/message": {
-                "ciphertext": "FF64qHlcIkh/zgRPRgN+YOLg/HFRwdOpgwNDb6WlG/4=",
-                "mac": "n7s4T2S811DVMCMFXtQKkA=="
+                "orig": "Haha. What a story Carla!",
+                "text": "Haha. Quelle histoire Carla !"
         },
         "maps/henne1337.json/entities/5/settings/event/0/task": {
-                "ciphertext": "UjXvJV+YQQTTJ5NWJQeQO9dIvySLwDcOUH49m24AW68WAV4MIxp56QuEjhOsEkHS",
-                "mac": "y0dKzd4BsfiyCHtm5v6vkQ=="
+                "orig": "This is just some Test task!",
+                "text": "C'est juste une tâche de test !"
         },
         "maps/henne1337.json/entities/5/settings/event/1/message": {
-                "ciphertext": "6acBNyI78n3eKTNASjwV7GtX+t5PuPOFeKUwGxt1jrYD0zcNdoFqVYsHvhfwK+/Bd2Pcdi7DULZmYcsRTUPOEu0oJUyfInkukTIDlzCY/mA=",
-                "mac": "kjNCevF092IY5wrZwnPJTw=="
+                "orig": "Guys, check out this cool message system I came up with!",
+                "text": "Les gars, matez un peu le système de message cool que j'ai fait !"
         },
         "maps/henne1337.json/entities/5/settings/event/2/message": {
-                "ciphertext": "XlSzNAM9EpbI3vCmwktxqIlLzgzUolKi+RxGf4cEerTe90ii1YoXOhRHQj/zg2ln",
-                "mac": "fjD+Cs3GCvtJvcPmgitwRA=="
+                "orig": "I'm not even sure what I'm doing here!",
+                "text": "Je suis même pas sûr de ce que je fais là !"
         },
         "maps/henne1337.json/entities/5/settings/event/3/message": {
-                "ciphertext": "g4DgOk7qSpaS+AsWDSfrsnKYJi2UiYeTcJA5kfTw8/BZ5HVWmn1CvrdeMcqmc3ewO3Q2zNP71o76pkZXgVf6nw==",
-                "mac": "k4OMuRD83P0XAo+9Cs+kiQ=="
+                "orig": "Make sure to hit those enemies with balls.",
+                "text": "Fais en sorte de toucher ces ennemis avec des boules."
         },
         "maps/henne1337.json/entities/5/settings/event/4/message": {
-                "ciphertext": "oo5xHQ4CMPcIT7DMFHiApualRSStKYoCRB2J3naQA8w=",
-                "mac": "8TRSuMxzMYxBIknFJEzi8Q=="
+                "orig": "They are very effective.",
+                "text": "Elles sont très efficaces."
         },
         "maps/henne1337.json/entities/5/settings/event/5/message": {
-                "ciphertext": "JaDY3gDnGxb77Vp6fy4AAQ==",
-                "mac": "WE+MVUOeCiqiEIX+evb7+Q=="
+                "orig": "Against everything.",
+                "text": "Contre tout."
         },
         "maps/henne1337.json/entities/5/settings/event/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/henne9001.json/entities/14/settings/event/7/message": {
-                "ciphertext": "EZZPDvzKN+EUE/dtLE8FbvLJXEevx3MXt835h216T6ZNttOJax+8x6ITXQHai9JufYnykB8xTEzfRvrSnLzvC2YXYKv4dzY+BBFDsdAkUfJ8A0a7SPYJIv0Cp6OaMu19h6x3Ym9S3Lxm37u8g6d91Q==",
-                "mac": "eLCaKG1CX2Xv72BAFgT8EQ=="
+                "orig": "Welcome stranger. Good luck with this and remember: Cloudy drink kills frog!",
+                "text": "Bienvenu, Étranger. Bonne chance avec ça et souvenez-vous : Les boissons nuageuses tuent les grenouilles !"
         },
         "maps/lab-test.json/entities/50/settings/destinations/0/label": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/npc-test.json/entities/10/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/11/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/12/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/13/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/14/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/15/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/16/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/17/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/18/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/19/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/20/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/21/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/22/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/23/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/24/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/25/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/26/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/27/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/28/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/29/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/30/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/31/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/32/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/32/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Ad9uYv2o4tCDgt71OZnovUlroibl3mAFF1PEIBIr41wRGBA7gHPNm/rUnW/ZcwHG",
-                "mac": "osjY1LkzVangt/lAsPeLhg=="
-        },
-        "maps/npc-test.json/entities/32/settings/npcStates/1/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/33/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/33/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Ad9uYv2o4tCDgt71OZnovUlroibl3mAFF1PEIBIr41wRGBA7gHPNm/rUnW/ZcwHG",
-                "mac": "osjY1LkzVangt/lAsPeLhg=="
-        },
-        "maps/npc-test.json/entities/33/settings/npcStates/1/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/34/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/34/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Ad9uYv2o4tCDgt71OZnovUlroibl3mAFF1PEIBIr41wRGBA7gHPNm/rUnW/ZcwHG",
-                "mac": "osjY1LkzVangt/lAsPeLhg=="
-        },
-        "maps/npc-test.json/entities/34/settings/npcStates/1/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/35/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
-        },
-        "maps/npc-test.json/entities/35/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Ad9uYv2o4tCDgt71OZnovUlroibl3mAFF1PEIBIr41wRGBA7gHPNm/rUnW/ZcwHG",
-                "mac": "osjY1LkzVangt/lAsPeLhg=="
-        },
-        "maps/npc-test.json/entities/35/settings/npcStates/1/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
+                "orig": "en_US",
+                "text": "fr_FR"
         },
         "maps/npc-test.json/entities/5/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/6/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/7/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/8/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/9/settings/npcStates/0/event/2/message": {
-                "ciphertext": "5I6ZudGw+MF7alzLrcC9QwnvbV9EGPW4et6L3LvraDk=",
-                "mac": "bK2crguBzM5QNeZyeZtAWQ=="
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/10/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/11/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/12/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/13/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/14/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/15/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/16/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/17/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/18/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/19/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/20/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/21/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/22/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/23/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/24/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/25/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/26/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/27/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/28/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/29/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/30/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/31/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/32/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/32/settings/npcStates/0/event/3/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)",
+                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)"
+        },
+        "maps/npc-test.json/entities/32/settings/npcStates/1/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/33/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/33/settings/npcStates/0/event/3/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)",
+                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)"
+        },
+        "maps/npc-test.json/entities/33/settings/npcStates/1/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/34/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/34/settings/npcStates/0/event/3/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)",
+                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)"
+        },
+        "maps/npc-test.json/entities/34/settings/npcStates/1/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/35/settings/npcStates/0/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/35/settings/npcStates/0/event/3/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)",
+                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)"
+        },
+        "maps/npc-test.json/entities/35/settings/npcStates/1/event/2/message": {
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/rd-test.json/entities/1/settings/npcStates/3/event/1/message": {
-                "ciphertext": "2dRDuJX0/Vg2rA/5mcTNBw==",
-                "mac": "BOPYf/yz7G5WZIF08A1NWw=="
+                "orig": "Sad...",
+                "text": "Triste..."
         },
         "maps/rd-test.json/entities/1/settings/npcStates/3/event/2/message": {
-                "ciphertext": "hAHuxYkkp87Y+m0QH86B5w==",
-                "mac": "ozg+ZVfMyov585w4ZR/5xg=="
-        },
-        "maps/rhombus-dng/stream-test.json/entities/49/settings/npcStates/0/event/2/message": {
-                "ciphertext": "elads+D3QY8CdkmD/ATm2a3WjoJtyvef8Lv2Z6KEgFk=",
-                "mac": "FL/rqGGr+yg5nV6L2GacWg=="
-        },
-        "maps/rhombus-dng/stream-test.json/entities/49/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/rhombus-dng/upgrade-test.json/entities/25/settings/event/34/object": {
-                "ciphertext": "eS6y3ao6OwHu4zCq3sEU9A==",
-                "mac": "BK7Js97jpExCUAfxlQUdOg=="
-        },
-        "maps/rhombus-sqr/test.json/entities/27/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/28/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/30/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/31/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/32/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/35/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/36/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/37/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/38/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test.json/entities/39/settings/teleportLabel": {
-                "ciphertext": "qce8B1M8Mv3aXEPs0rCuwWsduPYs6q9aoQIbd1IPGZM=",
-                "mac": "2yjUWC/UIUK9SAJlpSAmXA=="
-        },
-        "maps/rhombus-sqr/test.json/entities/41/settings/teleportLabel": {
-                "ciphertext": "h3GsmHz0mGdDAc+rNKC6OA==",
-                "mac": "nm23vBQI3X4eUVJzgiYIOg=="
-        },
-        "maps/rhombus-sqr/test.json/entities/44/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/27/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/28/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/30/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/31/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/32/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/34/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/35/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/36/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/37/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/38/settings/teleportLabel": {
-                "ciphertext": "qce8B1M8Mv3aXEPs0rCuwWsduPYs6q9aoQIbd1IPGZM=",
-                "mac": "2yjUWC/UIUK9SAJlpSAmXA=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/40/settings/teleportLabel": {
-                "ciphertext": "h3GsmHz0mGdDAc+rNKC6OA==",
-                "mac": "nm23vBQI3X4eUVJzgiYIOg=="
-        },
-        "maps/rhombus-sqr/test2.json/entities/43/settings/teleportLabel": {
-                "ciphertext": "1bCOscX5dUDthU1xLwEa+Q==",
-                "mac": "+fS1iTKu1amy6q6C4u+70w=="
-        },
-        "maps/rookie-harbor/test.json/entities/48/settings/npcStates/0/event/2/message": {
-                "ciphertext": "YXKGWNq3JNsnevmEoFMVhs/vmWIl3563epsmKCgArhSuUy150ZKspdnEqpreUrAm+8W1kp4vB8Fl34wagHlJgg==",
-                "mac": "2wPF3KEmJXrCIA7CiuI+pQ=="
-        },
-        "maps/rookie-harbor/test.json/entities/48/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/shock-dng/f1/room4-old.json/entities/0/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
-        },
-        "maps/shock-dng/f1/room4-old.json/entities/2/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
-        },
-        "maps/shock-dng/f1/room4-old.json/entities/3/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
-        },
-        "maps/shock-dng/f1/room4-old.json/entities/4/settings/teleportLabel": {
-                "ciphertext": "7w6qyZcNhedyDMu+OIsBFNN0lI9Wz9l/uRmCvjGJr64=",
-                "mac": "Yeb5RYDy2vtFJAsn5lHgnw=="
-        },
-        "maps/templates/parkour.json/entities/0/settings/text": {
-                "ciphertext": "mfdaYIi9ui9DC4k1IpwR+cIExTLdfFpG5/5k4VgsmTU/J2sO68MYmAnfTumcpavtoQErwoCFeGF281Wxf+L9M0Q/XIFoulxDXH/EVechu+E=",
-                "mac": "jdiGM9NkZ6y0+AheINvHGQ=="
-        },
-        "maps/templates/parkour.json/entities/10/settings/event/2/message": {
-                "ciphertext": "ksdlL6vDmw4cezwObpMkjuNev194oXl6HSYuswS3N+w=",
-                "mac": "eTKLvECUcs4L4/8GWOx2JQ=="
-        },
-        "maps/templates/parkour.json/entities/20/settings/event/0/message": {
-                "ciphertext": "FVWCUe9V1Ct1+oIoaUTLeQ==",
-                "mac": "W43iKh9AH1TeFxPNhpl8UA=="
-        },
-        "maps/templates/parkour.json/entities/42/settings/event/2/message": {
-                "ciphertext": "vcktIam3vqwx9irNQi3qIrzEGVl6awpzjHyq+Wj46kA=",
-                "mac": "X15jVnQU3Rbm70+WojRz6Q=="
-        },
-        "maps/templates/parkour.json/entities/5/settings/npcStates/0/event/2/message": {
-                "ciphertext": "7ExhFhKZ3IkJgEs48j764bUPaPn8Nlur3f+uHi4at3Cp8bRoer1gGhA+zj7vNlOk",
-                "mac": "AVkA1tpXwPAjrXOJpZzeDQ=="
-        },
-        "maps/templates/parkour.json/entities/6/settings/npcStates/1/event/2/message": {
-                "ciphertext": "DBkvYsrTexpMxyNwUX7Wwjm8T/qaMhBDXCOWS0QqWkI=",
-                "mac": "SDId/IPT2LlvTrL1qzpPbw=="
-        },
-        "maps/templates/parkour.json/entities/6/settings/npcStates/2/event/2/message": {
-                "ciphertext": "3qdUGFZblBl2mAH7TazVvwOpYhzH2sVgx56C7VrgH3d930JrJvkqfB5GaBUFDuKaRZSs6hEu5IPQFia1fgpCqw==",
-                "mac": "P4n6CmwGCa3o7QSlxGrJgA=="
+                "orig": "SHOCKED!",
+                "text": "Étonné !"
         },
         "maps/test.json/entities/1/settings/npcStates/1/event/1/message": {
-                "ciphertext": "rLPVk7cbnoOfYyDDRAWxVQ==",
-                "mac": "fhdwbocbdNAR0B9Ho6/w2w=="
-        },
-        "maps/test.json/entities/1/settings/npcStates/1/event/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/test.json/entities/1/settings/npcStates/1/event/11/task": {
-                "ciphertext": "u33TYkF/hLxQ8qsn3eEd+eTyIBqU6jDbRBdjuB2EuNQ=",
-                "mac": "7ckucKLkjqeEEq7Qjse0DA=="
+                "orig": "There you are.",
+                "text": "Te voilà."
         },
         "maps/test.json/entities/1/settings/npcStates/1/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/test.json/entities/1/settings/npcStates/1/event/5/message": {
-                "ciphertext": "9PL+P9C0PJs2KryIZGFh9O0lYszODl90Vg+Afjek5QkGGqXw7m43XIFT/1BkDUdd+/Sk48yGX7EkgsEqYH7R0Q==",
-                "mac": "hipRWFDYC0aUqS0yk1tzow=="
+                "orig": "You don't really seem happy to see me.",
+                "text": "Tu n'as pas vraiment l'air d'être heureux de me voir."
+        },
+        "maps/test.json/entities/1/settings/npcStates/1/event/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/test.json/entities/1/settings/npcStates/1/event/11/task": {
+                "orig": "Keep following her!",
+                "text": "Continuez de la suivre !"
         },
         "maps/test.json/entities/1/settings/npcStates/2/event/1/message": {
-                "ciphertext": "8IuDJ7EGrDOUzigWu3cHUS+o7GsfHFxsSlvbOzgjdmPykLnrGbguw52V2smGiEwNi8uMUe1lDcHPZIGDBQBOsA==",
-                "mac": "Hd56nY80wLd83v+CuLjRpQ=="
+                "orig": "Huh, nice view from here, don't you think?",
+                "text": "Eh, Il y a une belle vue d'ici, tu trouves pas ?"
         },
         "maps/test.json/entities/1/settings/npcStates/2/event/6/message": {
-                "ciphertext": "MW9putF7yKxxZ2rS9x2qtSDmaJO0oZV8jcN35xDIOpgeY21FMeRgEeK80E2Ngwsy",
-                "mac": "ibpW+6+DzYOb0Y1DLq7lcA=="
+                "orig": "...Yeah, didn't think so either, really!",
+                "text": "...Ouais, j'en pense pas moins, vraiment."
         },
         "maps/test.json/entities/1/settings/npcStates/2/event/7/task": {
-                "ciphertext": "l8iqeKLEFtn+u/4Ckgf0eu68Yf3kzQAzHRtlSGWEe/5JLZ7fxqcELEm12tahrc0Rbzb2bwwdg24oAHMCkU+Qlw==",
-                "mac": "qqdMHjEbPobTtu3R7yPa9w=="
+                "orig": "Follow her! She is probably just shy!",
+                "text": "Suivez-la ! Elle est probablement juste timide !"
         },
         "maps/test.json/entities/1/settings/npcStates/3/event/1/message": {
-                "ciphertext": "8drWiFlASdb9p2fI5YFXZq7SOgDTro/oRehcEw6HzQAJt9Jwe6Bm6fcAqjWq/eFR",
-                "mac": "/G+sswQuOV0+s2j5lvYkgw=="
+                "orig": "Do you have fun running in circles?",
+                "text": "Ça te fait plaisir de tourner en rond ?"
         },
         "maps/test.json/entities/1/settings/npcStates/3/event/2/message": {
-                "ciphertext": "3NLWRvTq9CKnamPjBwTDjiLmjt5BKsZUTZDOrLSEpPs47rWGaQPDHpMTOZ73jr85",
-                "mac": "s8DrVQHfnDY1PzVZBpSRxg=="
+                "orig": "It sure looks like fun...",
+                "text": "En tout cas ça a l'air d'être fun."
         },
         "maps/test.json/entities/1/settings/npcStates/3/event/3/message": {
-                "ciphertext": "sDjVHjzmJ9k9PaWVO1kug5R93dFzZQCZ07Q8roLX7sSHRpJf6wl0cKdtPvhs7GDA",
-                "mac": "ZyxbiqWdnlmx/trQXj76JA=="
+                "orig": "... Do you mind if I... join you?",
+                "text": "... Ça te dérange si... je te rejoins ?"
         },
         "maps/test.json/entities/1/settings/npcStates/3/event/8/message": {
-                "ciphertext": "/Q819+KvVFv/KxQjFEdvQpDufxOL6CjpFpv926JNQBEJKfhQDeKHBcT5XU+WEyw5Tyw38hhNZPZbdjZw5kwi1Q==",
-                "mac": "5SrUngFV8vxFiGeimigJzA=="
+                "orig": "...Hey, you really start hurting my feelings here!",
+                "text": "... Hé, tu commences vraiment à me pomper l'air !"
         },
         "maps/test.json/entities/1/settings/npcStates/3/event/9/task": {
-                "ciphertext": "oi8vEprr5v7i1lQDAFfp2W2aYnWF/gZp2BDbOBauAfNzJnt2gkK3Whg5jYkaxT+W0l+l/dkfmIZZfpX8cjS35158ShQYZgm3KfnmmWhAmTM=",
-                "mac": "QTrg8QaiDLhMpdGoxhaW/w=="
+                "orig": "She probably just likes to stand on containers! Follow her!",
+                "text": "Elle adore probablement juste se tenir sur des conteneurs ! Suivez-la !"
         },
         "maps/test.json/entities/1/settings/npcStates/4/event/1/message": {
-                "ciphertext": "YI8OO51Drj2T12tjRFZcL0wfmnQdgDetIqizOGHZDRpEdA15pX0NKb58qa6fisjN",
-                "mac": "gIeW1vZn36NajZKn6pRAcw=="
+                "orig": "Is there something wrong with me?",
+                "text": "Est-ce qu'il y a un problème avec moi ?"
         },
         "maps/test.json/entities/1/settings/npcStates/4/event/3/message": {
-                "ciphertext": "furIrQ0m704ztMxRhxCV9POAHIt8HdRoi/Agi1DCmR43gDeaHWk0CYd1PdH5bojg",
-                "mac": "SMuYj21TrT+T98u001cHLQ=="
+                "orig": "Why do you avoid me like that?",
+                "text": "Pourquoi tu m'évites comme ça ?"
         },
         "maps/test.json/entities/1/settings/npcStates/4/event/5/task": {
-                "ciphertext": "GjY5HO3KD0M295Y1VLoUzctSK9a7/sQ4SigwWtBXFcLlVI7oSKUTSSrXxi9RO1Q3",
-                "mac": "KI5oP9miFqzvz46LMYg5Uw=="
+                "orig": "She tries to escape! Quick! Follow her!",
+                "text": "Elle essaye de s'échapper ! Vite ! Suivez la !"
         },
         "maps/test.json/entities/1/settings/npcStates/5/event/1/message": {
-                "ciphertext": "nItJvx/lj2r2iJ1DzeIoV+jczgvpjAEeSXNJ6fwGPJQ=",
-                "mac": "/ZOLl90UgnLMRd6zPnli2g=="
+                "orig": "Hey, wait for me!",
+                "text": "Hé, attends-moi !"
         },
         "maps/test.json/entities/21/settings/npcStates/0/event/2/message": {
-                "ciphertext": "elads+D3QY8CdkmD/ATm2a3WjoJtyvef8Lv2Z6KEgFk=",
-                "mac": "FL/rqGGr+yg5nV6L2GacWg=="
+                "orig": "Come on, let's switch!",
+                "text": "Allez, on échange !"
         },
         "maps/test.json/entities/21/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/test.json/entities/22/settings/npcStates/1/event/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/test.json/entities/22/settings/npcStates/1/event/3/message": {
-                "ciphertext": "JgWlfrmx+/z2OZ1G1MTZamw96kdnpgNUZ/BEZQz71rY=",
-                "mac": "kEYJ+m6YUdLNeXbUom/aVw=="
+                "orig": "You want to switch, again?",
+                "text": "Tu veux re-échanger ?"
         },
         "maps/test.json/entities/22/settings/npcStates/1/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/test.json/entities/22/settings/npcStates/1/event/5/message": {
-                "ciphertext": "wdK5j7+PRwz4Kx4PL0yI9w==",
-                "mac": "ZuHnzKjEp4sksHNAj7icQA=="
+                "orig": "Well, fine.",
+                "text": "OK, bien."
         },
         "maps/test.json/entities/27/settings/npcStates/0/event/2/message": {
-                "ciphertext": "+O/XhUQnyPKxGs+ENfaZ0MpACYH0e9Uz+t7FF8wr1N55WfhN34DL3+9ZCaXz59Gy",
-                "mac": "6ENNW55PBO7a4vFxAd+eQg=="
+                "orig": "The path of a proper Spheromancer!",
+                "text": "Le chemin vers un vrai Spheromancer !"
         },
         "maps/test.json/entities/27/settings/npcStates/0/event/4/guiInfo/settings/text": {
-                "ciphertext": "/IHDsA9HCHTDQNUqcYSkaQ==",
-                "mac": "HxmY1GRsoHlx1w+uNI6lTg=="
+                "orig": "Derp",
+                "text": "Derp"
         },
         "maps/test.json/entities/27/settings/npcStates/1/event/2/message": {
-                "ciphertext": "oz//AGb2mkZj90htuWl90S1w4SIngwFSUKhOKmoMWLg=",
-                "mac": "D49qhvvMJhG0s+7Zll8Kjw=="
+                "orig": "Facing Test",
+                "text": "Test de Tournage en Face"
         },
         "maps/test.json/entities/27/settings/npcStates/1/event/3/options/0/label": {
-                "ciphertext": "wOJmQfszi/aqJQGLOKvTHg==",
-                "mac": "C7DL3ZSSEhdZJn83e+J01A=="
+                "orig": "[next]",
+                "text": "[suivant]"
         },
         "maps/test.json/entities/27/settings/npcStates/1/event/3/options/1/label": {
-                "ciphertext": "HOptZUHYfPAEDt0eZS/WGQ==",
-                "mac": "vzoUXyqMJ5O9KWJWHw0QpA=="
+                "orig": "[keep]",
+                "text": "[garder]"
         },
         "maps/test.json/entities/27/settings/npcStates/2/event/2/message": {
-                "ciphertext": "AfX8DzgL4fbXDYpt90yn+gIWe9XGwgBMGMakryQmT78=",
-                "mac": "Inh+JJ5kQw9svlQGazbhxw=="
+                "orig": "Pushable Test",
+                "text": "Test de Poussable"
         },
         "maps/test.json/entities/27/settings/npcStates/2/event/3/options/0/label": {
-                "ciphertext": "wOJmQfszi/aqJQGLOKvTHg==",
-                "mac": "C7DL3ZSSEhdZJn83e+J01A=="
+                "orig": "[next]",
+                "text": "[suivant]"
         },
         "maps/test.json/entities/27/settings/npcStates/2/event/3/options/1/label": {
-                "ciphertext": "HOptZUHYfPAEDt0eZS/WGQ==",
-                "mac": "vzoUXyqMJ5O9KWJWHw0QpA=="
-        },
-        "maps/test.json/entities/27/settings/npcStates/3/event/10/message": {
-                "ciphertext": "Rg+3UTouli6K9/BIeu6x/Q==",
-                "mac": "FYlOxCci+Un0Gn3O45MGAQ=="
-        },
-        "maps/test.json/entities/27/settings/npcStates/3/event/11/options/0/label": {
-                "ciphertext": "wOJmQfszi/aqJQGLOKvTHg==",
-                "mac": "C7DL3ZSSEhdZJn83e+J01A=="
-        },
-        "maps/test.json/entities/27/settings/npcStates/3/event/11/options/1/label": {
-                "ciphertext": "HOptZUHYfPAEDt0eZS/WGQ==",
-                "mac": "vzoUXyqMJ5O9KWJWHw0QpA=="
+                "orig": "[keep]",
+                "text": "[garder]"
         },
         "maps/test.json/entities/27/settings/npcStates/3/event/3/message": {
-                "ciphertext": "bcO8zLeWbvUdR8/bsR7jI8OqLFGq62kKw1RhW6Pa73k=",
-                "mac": "SEqIAqOulSqNb4SOR9PO/g=="
+                "orig": "Complext Test!",
+                "text": "Test complexte !"
+        },
+        "maps/test.json/entities/27/settings/npcStates/3/event/10/message": {
+                "orig": "Le mysteries!",
+                "text": "The mystère !"
+        },
+        "maps/test.json/entities/27/settings/npcStates/3/event/11/options/0/label": {
+                "orig": "[next]",
+                "text": "[suivant]"
+        },
+        "maps/test.json/entities/27/settings/npcStates/3/event/11/options/1/label": {
+                "orig": "[keep]",
+                "text": "[garder]"
         },
         "maps/test.json/entities/28/settings/event/10/text": {
-                "ciphertext": "11XasMWNMExiU3Y6oj5HO3xNK51DlKuUtMOrYQLgK69YwFW3FvXs7DUFGoLRkU9Y",
-                "mac": "ZhEIfprzTZ6Cx2dd6HWn/Q=="
+                "orig": "This is so mysterious, you guys!",
+                "text": "C'est trop mystérieux, les mecs !"
         },
         "maps/test.json/entities/28/settings/event/12/text": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/test.json/entities/28/settings/event/14/text": {
-                "ciphertext": "DdO02fSYoH6gVc7cDO7flA==",
-                "mac": "N4lVvHU5rTLjW7v4g9m23Q=="
+                "orig": "Wuhu!",
+                "text": "Wuhu !"
         },
         "maps/test.json/entities/28/settings/event/16/text": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/test.json/entities/28/settings/event/20/text": {
-                "ciphertext": "o6/DJa+TNCG8OwiPbBsqgfcfxow19pETH4W+Pe5OO4w=",
-                "mac": "jo7ZUxjNUj2lSgLGx3EZcw=="
+                "orig": "\\s[6]HUUUUUUUUUUUUUUUGE",
+                "text": "\\s[6]GRRRRRROOOOOOOSSSSSSS"
         },
         "maps/test.json/entities/29/settings/npcStates/0/event/4/message": {
-                "ciphertext": "IaYH9WOZhnOGP+JLRTAyxLiQVmD+Ql9NYrnvaacovus8ISLGsohCkeLJBz2sgwgWa0QAwwcbOlR4foijNvp/mUNVFQAghswcrnvTCyHg04o=",
-                "mac": "4H7Dj84t9ASzS/Kb2eaZpQ=="
+                "orig": "\\v[tmp.stringTest]\n\\v[tmp.paul]\n\\v[tmp.peter]\n\n\\c[3]\\v[tmp.testTest]\\c[0]",
+                "text": "\\v[tmp.stringTest]\n\\v[tmp.paul]\n\\v[tmp.peter]\n\n\\c[3]\\v[tmp.testTest]\\c[0]"
         },
         "maps/test.json/entities/29/settings/npcStates/0/event/5/message": {
-                "ciphertext": "67MlHMp/GW2exaDtujgtCbnMkrbVN7QAn8SPykrH1f4=",
-                "mac": "aceLP3GE6keMT64tJ/p1uQ=="
+                "orig": "Item:\n\\v[item.422.amount]",
+                "text": "Item :\n\\v[item.422.amount]"
         },
         "maps/test.json/entities/29/settings/npcStates/0/event/7/thenStep/0/message": {
-                "ciphertext": "jJ6bjEIiwtSdT2NkuBsqjQ==",
-                "mac": "Hu21tZx7c+9DBlVPoK0Ztg=="
+                "orig": "Item got!",
+                "text": "Trouvé item !"
         },
         "maps/test.json/entities/29/settings/npcStates/0/event/8/thenStep/0/message": {
-                "ciphertext": "1Gp2NEXM+9sSmGcYI0oOgoLHm1fwMLcMkQQWuNwNOeg=",
-                "mac": "9Do2sk9enzAOIMbFyK8mDA=="
+                "orig": "Item got Double!",
+                "text": "Trouvé item deux fois !"
         },
         "maps/test.json/entities/36/settings/npcStates/0/event/2/message": {
-                "ciphertext": "ffvHsLJCCqk4XbklVjVGXrXt1napCk6ZP5EFfeThu1c=",
-                "mac": "5By2OZqym/2NVMUSRAiEnQ=="
+                "orig": "YOU BE BLOCKED SCRUB",
+                "text": "TOI T'ES BLOQUE MEC"
         },
         "maps/test.json/entities/37/settings/npcStates/0/event/2/message": {
-                "ciphertext": "9xSzAa4tXwWYO6n3zEQERQ==",
-                "mac": "BbI+krrUn3vI1pUHVR5Kkw=="
+                "orig": "Page 1!",
+                "text": "Page 1 !"
         },
         "maps/test.json/entities/37/settings/npcStates/1/event/2/message": {
-                "ciphertext": "m4m10rtBGbP8ygWCPe+npA==",
-                "mac": "dEKCLYI/KeuXQyERMBzLAA=="
+                "orig": "Page 2!",
+                "text": "Page 2 !"
         },
         "maps/test.json/entities/38/settings/npcStates/0/event/2/message": {
-                "ciphertext": "jI2gz0oCfHizhr8yx0+VFg==",
-                "mac": "fJRZZ0vigh+oM4PhOpJ75w=="
+                "orig": "S-RANK!!",
+                "text": "S-RANK !!"
         },
         "maps/text-copy.json/entities/0/settings/event/1/text": {
-                "ciphertext": "j6ABPF4/XS9a7zRsiM1AdH67ItRvpRS2ipkX1SscawWAcRw3WHmWhq5LN3WBuJpkCXoA2d39cLokvDQBdjPItA==",
-                "mac": "ZUOItWJ9HV3z3mV9gcIWgg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/10/message": {
-                "ciphertext": "F3DsyPiZxj3V0zPmgvG7FQ==",
-                "mac": "8TJCr7eNRSNWRMdfvrXVHg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/12/message": {
-                "ciphertext": "F3DsyPiZxj3V0zPmgvG7FQ==",
-                "mac": "8TJCr7eNRSNWRMdfvrXVHg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/14/message": {
-                "ciphertext": "F3DsyPiZxj3V0zPmgvG7FQ==",
-                "mac": "8TJCr7eNRSNWRMdfvrXVHg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/16/message": {
-                "ciphertext": "F3DsyPiZxj3V0zPmgvG7FQ==",
-                "mac": "8TJCr7eNRSNWRMdfvrXVHg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/17/text": {
-                "ciphertext": "/UySb3rx5p+CSmznRU0/WA==",
-                "mac": "R5ADXxJCl3L0D5HD++79rg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/18/text": {
-                "ciphertext": "E5iVqJod/pd6Lzu1uTwvOhApY+wYc9YD9kEHnKgJot4rBjEi1w29nr+w05FkaJgRMH7r3iSB3YcUpyaKODmm3g==",
-                "mac": "i854Q+d+hDCa9wWEklgtFA=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/24/message": {
-                "ciphertext": "F3DsyPiZxj3V0zPmgvG7FQ==",
-                "mac": "8TJCr7eNRSNWRMdfvrXVHg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/27/text": {
-                "ciphertext": "MiaLinDcRXKSaMyuUNIM8b0mW1v7KAEJI8+q1eqitkk=",
-                "mac": "h9EoOeWl4ThNtliKGljrqg=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/27/titleText": {
-                "ciphertext": "RBoli4+IiWWbumrBHBmuTA==",
-                "mac": "/lH7l9FQKq7+UKC6Y4qD7A=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/28/text": {
-                "ciphertext": "8RDTlTZm6n5+PuJHPFkSQo3PQ0DtZHT2g9GFXplIBzIZYHbaBgKzWxlDOZxUs9PHr4TUGAj/fX2TnYCHfRqeaG8wb8eoYtk6827Sa053EoQ=",
-                "mac": "AT4Sw/0+P7lkEgk06kE/XA=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/28/titleText": {
-                "ciphertext": "idvXeU8fzoDYdE7XhwjobWiA4nhOufVUs+9dvBiIVDA=",
-                "mac": "GG39aXFIAk3iMQh4I0d98Q=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/29/text": {
-                "ciphertext": "8RDTlTZm6n5+PuJHPFkSQo3PQ0DtZHT2g9GFXplIBzIZYHbaBgKzWxlDOZxUs9PHr4TUGAj/fX2TnYCHfRqeaG8wb8eoYtk6827Sa053EoQ=",
-                "mac": "AT4Sw/0+P7lkEgk06kE/XA=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/29/titleText": {
-                "ciphertext": "idvXeU8fzoDYdE7XhwjobWiA4nhOufVUs+9dvBiIVDA=",
-                "mac": "GG39aXFIAk3iMQh4I0d98Q=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/30/text": {
-                "ciphertext": "GZeRsi7tXYPnnf3DC/IBYYDQiagwC9hnLYiW8IF+GSTzQKx4dx5Q3YzZlskqflE3",
-                "mac": "2JAMFfZAiwX+UjZEB4qH8A=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/30/titleText": {
-                "ciphertext": "idvXeU8fzoDYdE7XhwjobWiA4nhOufVUs+9dvBiIVDA=",
-                "mac": "GG39aXFIAk3iMQh4I0d98Q=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/31/text": {
-                "ciphertext": "agrGVXp4YpXIuUQvNI4yyxhgFpGRzIYYcgeDKj1KWs8oMrijjFJG+/44k35nvmclSAQQI16LN94wtBUSfFdSt5p5mevj+FD6ifTzoKTKM2X3GbKRkA09Ywje4DVFTjytCymhhgEB/8/SvQLFI4+2MmXv11ht1xKqX202nazoixM=",
-                "mac": "uvWINCA8g4ci0sMiycic4w=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/31/titleText": {
-                "ciphertext": "idvXeU8fzoDYdE7XhwjobWiA4nhOufVUs+9dvBiIVDA=",
-                "mac": "GG39aXFIAk3iMQh4I0d98Q=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/32/text": {
-                "ciphertext": "YilRUDKi9W6cKAHR+yYMtEZSKhmZnsXn/HeuYygnPih8ex4gpwfwFSp8xFZ5b3jQJy6Uhk3fVWS4a2xtZgXdyKkeMSiZRFTbjLiSzdA+BGqIyHKNbgHimbnA8AdEIEs8ETifTELLX1LwmtV+0jz5tTG9Rl+q0k1VPcqnvthIOqN74s7lXuYgn8JSgHbW/4bUis33cVhMBRZrI7MqeZwezzTqdCpi8ii9DTEMdZq6KikCH/NtqcsVFoVu275KewZHSnrDknchqs6iHtHVatlp2w==",
-                "mac": "J18qUkwyLq/t22siGtAE7A=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/32/titleText": {
-                "ciphertext": "idvXeU8fzoDYdE7XhwjobWiA4nhOufVUs+9dvBiIVDA=",
-                "mac": "GG39aXFIAk3iMQh4I0d98Q=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/33/text": {
-                "ciphertext": "Ojmr2aQL2sPUm5c1sg17hlKikiZgoVRn8k1csu8fGK9Za1hpzLDw/MDzGkwweGfGGqpG8/JmPfu2xMIn43nwrA==",
-                "mac": "EiYiZXP7boUAGyV/vIVysQ=="
-        },
-        "maps/text-copy.json/entities/0/settings/event/33/titleText": {
-                "ciphertext": "idvXeU8fzoDYdE7XhwjobWiA4nhOufVUs+9dvBiIVDA=",
-                "mac": "GG39aXFIAk3iMQh4I0d98Q=="
+                "orig": "Round Clear!\nNext Round\nRepeat\nGive up",
+                "text": "Round Terminé !\nProchain round\nRépéter\nAbandonner"
         },
         "maps/text-copy.json/entities/0/settings/event/5/message": {
-                "ciphertext": "hLRWsTjofIFSm05Om9vvWQ==",
-                "mac": "iBL3w93HOhONjMHdzdBPSA=="
+                "orig": "Thanks!",
+                "text": "Merci !"
         },
         "maps/text-copy.json/entities/0/settings/event/8/message": {
-                "ciphertext": "F3DsyPiZxj3V0zPmgvG7FQ==",
-                "mac": "8TJCr7eNRSNWRMdfvrXVHg=="
+                "orig": "CliP!",
+                "text": "CliP !"
+        },
+        "maps/text-copy.json/entities/0/settings/event/10/message": {
+                "orig": "CliP!",
+                "text": "CliP !"
+        },
+        "maps/text-copy.json/entities/0/settings/event/12/message": {
+                "orig": "CliP!",
+                "text": "CliP !"
+        },
+        "maps/text-copy.json/entities/0/settings/event/14/message": {
+                "orig": "CliP!",
+                "text": "CliP !"
+        },
+        "maps/text-copy.json/entities/0/settings/event/16/message": {
+                "orig": "CliP!",
+                "text": "CliP !"
+        },
+        "maps/text-copy.json/entities/0/settings/event/17/text": {
+                "orig": "Brawler\n",
+                "text": "Cogneur"
+        },
+        "maps/text-copy.json/entities/0/settings/event/18/text": {
+                "orig": "Some very long description about what Brawler does etc. etc.",
+                "text": "Une description très longue de ce qu'est un cogneur, etc. etc."
+        },
+        "maps/text-copy.json/entities/0/settings/event/24/message": {
+                "orig": "CliP!",
+                "text": "CliP !"
+        },
+        "maps/text-copy.json/entities/0/settings/event/27/titleText": {
+                "orig": "Checkout",
+                "text": "Encaisser"
+        },
+        "maps/text-copy.json/entities/0/settings/event/27/text": {
+                "orig": "Quantity\nSubmit",
+                "text": "Quantité\nSoumettre"
+        },
+        "maps/text-copy.json/entities/0/settings/event/28/titleText": {
+                "orig": "Equipment Info",
+                "text": "Information sur l'Équipement"
+        },
+        "maps/text-copy.json/entities/0/settings/event/28/text": {
+                "orig": "Quest\nLore & Story\nTrophies\nStatistic\nMuseum\nHelp\nTask",
+                "text": "Quête\nFolklore &Histoire\nTrophées\nStatistique\nMusée\nAide\nTâche"
+        },
+        "maps/text-copy.json/entities/0/settings/event/29/titleText": {
+                "orig": "Equipment Info",
+                "text": "Information sur l'Équipement"
+        },
+        "maps/text-copy.json/entities/0/settings/event/29/text": {
+                "orig": "Quest\nLore & Story\nTrophies\nStatistic\nMuseum\nHelp\nTask",
+                "text": "Quête\nFolklore &Histoire\nTrophées\nStatistique\nMusée\nAide\nTâche"
+        },
+        "maps/text-copy.json/entities/0/settings/event/30/titleText": {
+                "orig": "Equipment Info",
+                "text": "Information sur l'Équipement"
+        },
+        "maps/text-copy.json/entities/0/settings/event/30/text": {
+                "orig": "The story so far:\nQuests\nAchievements",
+                "text": "L'histoire jusqu'à présent :\nQuêtes\nSuccès"
+        },
+        "maps/text-copy.json/entities/0/settings/event/31/titleText": {
+                "orig": "Equipment Info",
+                "text": "Information sur l'Équipement"
+        },
+        "maps/text-copy.json/entities/0/settings/event/31/text": {
+                "orig": "Graphics\n\nDisplay Type\nOriginal Scale x2 Fit Stretch\nDouble Pixel Size\nLighting\nEffects Low Medium High",
+                "text": "Graphisme\n\nTaille de l'écran\nOriginal Agrandir x2 Rentrer Étirer\nDoubler Taille Pixel\nÉclairage\nEffet Faible Moyen Élevé"
+        },
+        "maps/text-copy.json/entities/0/settings/event/32/titleText": {
+                "orig": "Equipment Info",
+                "text": "Information sur l'Équipement"
+        },
+        "maps/text-copy.json/entities/0/settings/event/32/text": {
+                "orig": "Interface\n\nCircuit Info Text Size  Small Medium Large\nCircuit Info Display Time   Short Long\nShow Element Select over Lea \nShow Element Overload\nShow Low-Health Warning",
+                "text": "Interface\n\nTaille Texte Information Circuit Petit Moyen Grand\nTemps Affichage Info Circuit Court Long\nMontrer Élément Sélectionné sur Lea\nMontrer Surcharge Élémentaire\nMontrer Alerte Santé Faible"
+        },
+        "maps/text-copy.json/entities/0/settings/event/33/titleText": {
+                "orig": "Equipment Info",
+                "text": "Information sur l'Équipement"
+        },
+        "maps/text-copy.json/entities/0/settings/event/33/text": {
+                "orig": "Keyboard\n\nLeft\nRight\nUp\nDown\nSubmit / Talk",
+                "text": "Clavier\n\nGauche\nDroite\nHaut\nBas\nSoumettre / Tâche"
+        },
+        "maps/arid-dng/test-elevator.json/entities/2/settings/destinations/0/label": {
+                "orig": "Up",
+                "text": "En haut"
+        },
+        "maps/arid-dng/test-elevator.json/entities/2/settings/destinations/1/label": {
+                "orig": "Down",
+                "text": "En bas"
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/16/thenStep/0/message": {
+                "orig": "We enjoy these battles.",
+                "text": "Nous aimons ces batailles."
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/16/thenStep/1/message": {
+                "orig": "Time to face your nemesis.",
+                "text": "Il est temps de combattre votre ennemi juré !"
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/16/elseStep/0/thenStep/0/message": {
+                "orig": "Time to meet our pet again!",
+                "text": "Il est temps de danser avec notre animal de compagnie !"
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/16/elseStep/0/elseStep/0/message": {
+                "orig": "This time, we prepared a stage for you.",
+                "text": "Cette fois, nous avons préparé toute une scène pour vous."
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/16/elseStep/0/elseStep/1/message": {
+                "orig": "Meet an old friend!",
+                "text": "Il est temps de retrouver votre vieil ami !"
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/26/thenStep/0/message": {
+                "orig": "We took the liberty of modifying it a bit.",
+                "text": "Nous avons pris la liberté de le modifier un peu."
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/26/thenStep/1/message": {
+                "orig": "Now show us your best performance!",
+                "text": "Maintenant, montrez-nous tout votre savoir-faire !"
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/26/elseStep/0/message": {
+                "orig": "Show us your best performance!",
+                "text": "Montrez-nous tout votre savoir-faire !"
+        },
+        "maps/autumn/extra-boss.json/entities/285/settings/event/27/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/extra-boss.json/entities/286/settings/event/6/message": {
+                "orig": "You defeated it...",
+                "text": "Vous l'avez vaincu..."
+        },
+        "maps/autumn/extra-boss.json/entities/286/settings/event/7/message": {
+                "orig": "We promised to measure the time. Behold!",
+                "text": "Nous avions promis de mesurer le temps. Le voici !"
+        },
+        "maps/autumn/extra-boss.json/entities/286/settings/event/22/thenStep/0/message": {
+                "orig": "Why do you keep teasing us with this pose?",
+                "text": "Pourquoi continuez-vous à nous narguer avec votre posture ?"
+        },
+        "maps/autumn/extra-boss.json/entities/286/settings/event/22/elseStep/0/message": {
+                "orig": "Yes. This pose. We know it. ",
+                "text": "Oui. Cette posture. Nous la connaissons."
+        },
+        "maps/autumn/extra-boss.json/entities/286/settings/event/23/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/extra-boss.json/entities/286/settings/event/24/message": {
+                "orig": "...We shall now escort you back...",
+                "text": "... Nous devons maintenant vous escorter..."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/1/event/2/message": {
+                "orig": "Ye just go into that big room to start the fight.",
+                "text": "Va juste dans cette grande salle pour démarrer le combat."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/1/event/3/message": {
+                "orig": "I'll keep track of the time ye take for it.",
+                "text": "Je surveillerai le temps que tu mets pour réussir l'épreuve."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/2/event/2/message": {
+                "orig": "Ye just go into that big room to start the fight.",
+                "text": "Va juste dans cette grande salle pour démarrer le combat."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/2/event/3/message": {
+                "orig": "I'll keep track of the time ye take for it.",
+                "text": "Je surveillerai le temps que tu mets pour réussir l'épreuve."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/2/message": {
+                "orig": "Ye back for another try or to see yer best time?",
+                "text": "T'es de retour pour un nouvel essai ou pour voir ton meilleur temps ?"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/0/0/message": {
+                "orig": "Ye just go into the big room lass. I'll save the time for ye.",
+                "text": "Va juste dans cette grande salle, fillette. Je m'occupe du temps."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/0/1/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/1/0/message": {
+                "orig": "Here ye go, lass.",
+                "text": "C'est parti, fillette."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/2/0/message": {
+                "orig": "Ye come back later then.",
+                "text": "Reviens plus tard alors."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/options/0/label": {
+                "orig": "Try Challenge",
+                "text": "Essayer le Challenge"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/options/1/label": {
+                "orig": "View Highscore",
+                "text": "Voir le Meilleur Score"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/3/event/3/options/2/label": {
+                "orig": "Cancel",
+                "text": "Annuler"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/2/message": {
+                "orig": "A good fight lass.",
+                "text": "Un bon combat, fillette."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/4/message": {
+                "orig": "Ye wanna take a look at yer best times?",
+                "text": "Tu veux voir tes meilleurs temps ?"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/0/1/message": {
+                "orig": "Here ye go, lass.",
+                "text": "C'est parti, fillette."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/1/1/message": {
+                "orig": "Alright. Ye come back later then. The challenge takes a while to be ready again.",
+                "text": "OK. Reviens plus tard alors. Le challenge met un petit moment avant d'être prêt à être réutilisé."
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/autumn/observatory-inner.json/entities/3/settings/npcStates/4/event/5/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/7/message": {
+                "orig": "Just like in the ol' days.",
+                "text": "Comme au bon vieux temps."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/19/message": {
+                "orig": "Still a big room inside a darn small building.",
+                "text": "C'est toujours une grande salle dans un satané petit bâtiment."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/20/message": {
+                "orig": "Them developers sure know how to make it look plausible.",
+                "text": "Ces développeurs savent vraiment comment rendre ça plausible."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/21/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/22/message": {
+                "orig": "Well, the counter is still there. So I guess ye can take on the challenge.",
+                "text": "Bon, le compteur est toujours là. Donc je pense que tu peux démarrer le combat."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/23/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/24/message": {
+                "orig": "Ye want to try it out?",
+                "text": "Tu veux essayer ?"
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/25/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/26/message": {
+                "orig": "But ye better make sure ye're up to the task. ",
+                "text": "Mais sois sûr d'être bien préparée pour ça."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/27/message": {
+                "orig": "The challenge here is pretty darn tough.",
+                "text": "Ce challenge-là est sacrément difficile."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/28/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/29/message": {
+                "orig": "Heh, can't stop the lass from a fight.",
+                "text": "Héhé, on ne peut pas empêcher la fillette de se battre."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/30/message": {
+                "orig": "Ye just go into that big room to start the battle.",
+                "text": "Va juste dans cette grande salle pour démarrer le combat."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/31/message": {
+                "orig": "I'll save the time ye need for it.",
+                "text": "Je vais m'occuper du temps que tu mets."
+        },
+        "maps/autumn/observatory-inner.json/entities/4/settings/event/32/message": {
+                "orig": "Now have some fun lass.",
+                "text": "Maintenant, amuse-moi bien, fillette."
+        },
+        "maps/autumn/observatory-inner.json/entities/15/settings/event/18/task": {
+                "orig": "Survive!",
+                "text": "Survivez !"
+        },
+        "maps/autumn/observatory-inner.json/entities/39/settings/event/4/message": {
+                "orig": "Ye did it! Very good performance, lass.",
+                "text": "T'as réussie ! Très bonne performance, fillette."
+        },
+        "maps/autumn/observatory-inner.json/entities/39/settings/event/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/observatory-inner.json/entities/39/settings/event/6/message": {
+                "orig": "As promised I saved your time. So just talk to me to get an overview.",
+                "text": "Comme promis, j'ai compté le temps. Donc viens me demander, si tu veux jeter un coup d'œil."
+        },
+        "maps/autumn/observatory-inner.json/entities/39/settings/event/7/message": {
+                "orig": "However the challenge will need some time to be ready again.",
+                "text": "Mais le challenge va mettre un petit moment avant d'être prêt à nouveau."
+        },
+        "maps/autumn/observatory-inner.json/entities/39/settings/event/8/thenStep/4/message": {
+                "orig": "And there's yer reward.",
+                "text": "Et voilà ta récompense."
+        },
+        "maps/autumn/observatory-inner.json/entities/39/settings/event/8/thenStep/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/autumn/test.json/entities/143/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn/test.json/entities/143/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/bergen/special/monks-questcave1-old.json/entities/91/settings/event/0/text": {
+                "orig": "Patience...",
+                "text": "Patience..."
+        },
+        "maps/bergen/special/monks-questcave1-old.json/entities/118/settings/event/0/text": {
+                "orig": "Patience...",
+                "text": "Patience..."
+        },
+        "maps/bergen/special/monks-questcave1-old.json/entities/169/settings/event/0/message": {
+                "orig": "DONE!\\. BEST QUEST EVER?",
+                "text": "FAIT !\\. MEILLEURE QUÊTE DE TOUS LES TEMPS ?"
+        },
+        "maps/bmt/boxes.json/entities/18/settings/event/1/message": {
+                "orig": "Show them boxes!",
+                "text": "Montre-leur à ces boites !"
+        },
+        "maps/bmt/puzzle.json/entities/9/settings/npcStates/0/event/1/message": {
+                "orig": "You did it.\\. Yay and stuff.",
+                "text": "Tu as réussi.\\. Cool et tout..."
+        },
+        "maps/cargo-ship/challenge-room.json/entities/26/settings/event/6/task": {
+                "orig": "Survive Wave 1!",
+                "text": "Survivez à l'assaut 1 !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/32/settings/event/2/task": {
+                "orig": "Survive Wave 2!",
+                "text": "Survivez à l'assaut 2 !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/38/settings/event/2/task": {
+                "orig": "Survive Wave 3!",
+                "text": "Survivez à l'assaut 3 !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/41/settings/event/2/task": {
+                "orig": "Survive the final wave!",
+                "text": "Survivez à l'assaut final !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/41/settings/event/8/guiInfo/settings/text": {
+                "orig": "THE TIME FOR REVENGE IS NIGH!",
+                "text": "L'HEURE DE LA REVANCHE A SONNÉE !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/41/settings/event/8/guiInfo/settings/taskTitle": {
+                "orig": "",
+                "text": ""
+        },
+        "maps/cargo-ship/challenge-room.json/entities/47/settings/event/6/guiInfo/settings/text": {
+                "orig": "Awesome! You mastered the final challenge! \nThis is all for now. \nThanks for playing!",
+                "text": "Génial ! Vous avez réussi le challenge final !\nC'est tout pour l'instant.\nMerci d'avoir joué !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/47/settings/event/6/guiInfo/settings/taskTitle": {
+                "orig": "",
+                "text": ""
+        },
+        "maps/cargo-ship/challenge-room.json/entities/49/settings/event/1/task": {
+                "orig": "Get ready for the final challenge!",
+                "text": "Soyez prêt pour le challenge final !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/3/guiInfo/settings/taskTitle": {
+                "orig": "",
+                "text": ""
+        },
+        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/5/titleText": {
+                "orig": "Thanks!",
+                "text": "Merci !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/5/text": {
+                "orig": "Thanks a lot for completing this tech demo of CrossCode!\nIf you like what you saw, please tell your friends!\nWe'd like to get word around! :D\nAlso, follow us on Facebook and Twitter!\n\n",
+                "text": "Merci beaucoup pour avoir termine cette démo technologique de CrossCode !\nSi vous avez aimé ce que vous avez vu, parlez en a vos amis !\nOn aimerait bien que vous rependiez la nouvelle ! :D\nEt sinon, suivez-nous sur Facebook et Twitter !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/6/titleText": {
+                "orig": "The final challenge!",
+                "text": "Le challenge final !"
+        },
+        "maps/cargo-ship/challenge-room.json/entities/54/settings/event/6/text": {
+                "orig": "Wait, we're not done yet!\nFrom here on we have a small challenge for you to master, if you like to bash some more enemies. \nHave fun!",
+                "text": "Attendez, c'est pas fini !\nMaintenant on a encore un petit challenge pour vous, si ça vous tente de tabasser plus d'ennemis.\nAmusez-vous bien !"
+        },
+        "maps/cargo-ship/christmas.json/entities/62/settings/event/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cargo-ship/christmas.json/entities/62/settings/event/2/message": {
+                "orig": "Lea, you don't open presents like this!",
+                "text": "Lea, on ouvre pas des cadeaux comme ça !"
+        },
+        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/4/guiInfo/settings/taskTitle": {
+                "orig": "",
+                "text": ""
+        },
+        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/8/titleText": {
+                "orig": "Thanks!",
+                "text": "Merci !"
+        },
+        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/8/text": {
+                "orig": "Thanks a lot for completing this tech demo of CrossCode!\nIf you like what you saw, please tell your friends!\nWe'd like to get word around! :D\nAlso, follow us on Facebook and Twitter!",
+                "text": "Merci beaucoup pour avoir termine cette démo technologique de CrossCode !\nSi vous avez aimé ce que vous avez vu, parlez en a vos amis !\nOn aimerait bien que vous rependiez la nouvelle ! :D\nEt sinon, suivez-nous sur Facebook et Twitter !"
+        },
+        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/9/titleText": {
+                "orig": "The final challenge!",
+                "text": "Le challenge final !"
+        },
+        "maps/cargo-ship/puzzle-challenge.json/entities/119/settings/event/9/text": {
+                "orig": "Wait, we're not done yet!\nFrom here on we have a small challenge for you to master, if you like to bash some more enemies. \nHave fun!",
+                "text": "Attendez, c'est pas fini !\nMaintenant on a encore un petit challenge pour vous, si ça vous tente de tabasser plus d'ennemis.\nAmusez-vous bien !"
+        },
+        "maps/cargo-ship/room3.json/entities/16/settings/event/6/message": {
+                "orig": "Time for turrets!\\. Don't worry, those things won't hurt you.",
+                "text": "Maintenant, au tourelles !\\. Oh t'inquiète pas, ces choses ne te feront pas mal."
+        },
+        "maps/cargo-ship/room3.json/entities/16/settings/event/7/message": {
+                "orig": "This is in fact just a simple puzzle.",
+                "text": "En fait c'est juste un simple puzzle."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/2/message": {
+                "orig": "C'mon, you can do this yourself.\\. Really want a hint?",
+                "text": "Allez, tu peux faire ça par toi-même.\\. Tu as vraiment besoin d'aide ?"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/3/message": {
+                "orig": "Oh well.\\. Look, these blocks are kinda like switches.",
+                "text": "Bon d'accord.\\. Regarde, ces blocs sont un peu comme des interrupteurs."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/4/message": {
+                "orig": "Only they don't react to the typical balls.",
+                "text": "C'est juste qu'ils ne réagissent pas à des boules normales."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/0/5/message": {
+                "orig": "Maybe they react when hit by something else.",
+                "text": "Peut-être qu'ils réagissent quand ils sont touchés par autre chose."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/1/1/message": {
+                "orig": "Attagirl! Use that pretty head of yours.",
+                "text": "Ouais ! Utilise ta jolie petite tête."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/1/event/3/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/2/message": {
+                "orig": "Hm, this one is a tiny bit more tricky. Need some help?",
+                "text": "Hum, celui-là est un poil plus compliqué. Besoin d'aide ?"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/3/message": {
+                "orig": "To make the turret hit these blocks you have to stand between turret and block.",
+                "text": "Pour que la tourelle touche ces blocs, tu dois te trouver entre la tourelle et le bloc."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/4/message": {
+                "orig": "Then you need to dodge the bullet right after it was shot.",
+                "text": "Ensuite il faut que tu évites le projectile juste après qu'il soit tiré."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/0/5/message": {
+                "orig": "You need to get the timing right.\\. C'mon, I know you can do it!",
+                "text": "Il faut avoir le bon timing.\\. Allez, je sais que tu peux le faire !"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/1/1/message": {
+                "orig": "Alright! Go on!",
+                "text": "Bien ! Alors continue !"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/2/event/3/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/2/message": {
+                "orig": "Are you stuck here?",
+                "text": "Tu es coincé, là ?"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/0/3/message": {
+                "orig": "It's actually almost the same as before.\\. Only this time the turret and blocks are on a higher level.",
+                "text": "C'est presque la même chose qu'avant.\\. Juste que cette fois la tourelle et le bloc sont à un étage supérieur."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/0/4/message": {
+                "orig": "So get up on that container in the middle and dodge some bullets!",
+                "text": "Donc monte sur le conteneur au milieu et évite quelques projectiles !"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/1/1/message": {
+                "orig": "Alright! Go on!",
+                "text": "Bon ! Alors continue !"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/3/event/3/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/2/message": {
+                "orig": "These things are kinda unexpected, right?\\. Need a hint?",
+                "text": "Ces choses sont un peu inattendues, non ?\\. Besoin d'un indice ?"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/3/message": {
+                "orig": "That mirror-like thing only shoots bullets, when it's hit by your balls.",
+                "text": "Cette espèce de miroir ne tire des projectiles que quand il est touché par tes boules."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/4/message": {
+                "orig": "And it always shoots the bullets right at you.",
+                "text": "Et il tire toujours ces projectiles vers toi."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/5/message": {
+                "orig": "You'll need a block between you and the mirror and still need to hit the mirror with one of your balls...",
+                "text": "Il te faut un bloc entre toi et le miroir et que tu réussisses à lui tirer dessus avec tes boules."
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/0/6/message": {
+                "orig": "So here's the hint:\\. Think bouncing balls!",
+                "text": "Donc voilà l'indice :\\. Pense à des boules rebondissantes !"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/1/1/message": {
+                "orig": "Alright! Go on!",
+                "text": "Bon ! Alors continue !"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/4/event/3/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/cargo-ship/room3.json/entities/27/settings/npcStates/5/event/2/message": {
+                "orig": "Phew, that's all for this room.\\. Lot's of puzzles, right?\\. But don't worry, you will get some real action in the next room!",
+                "text": "Pfiou, c'est tout pour cette salle.\\. Ça faisait beaucoup de puzzles, non ?\\. Mais ne t'inquiète pas, il va y avoir de l'action dans la prochaine salle !"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/3/message": {
+                "orig": "CHECK OUT MY ICONS!\nNOPE!",
+                "text": "REGARDE UN PEU MES ICÔNES\nNAN !\nça farte ?"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/4/message": {
+                "orig": "....",
+                "text": "...."
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/5/message": {
+                "orig": "A very relevant question?",
+                "text": "Une vraie question utile ?"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/0/0/message": {
+                "orig": "[nod]",
+                "text": "[acquiescer]"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/1/0/message": {
+                "orig": "[shake head]",
+                "text": "[secouer la tête]"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/options/0/label": {
+                "orig": "[nod]",
+                "text": "[acquiescer]"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/6/options/1/label": {
+                "orig": "[shake head]",
+                "text": "[secouer la tête]"
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/8/message": {
+                "orig": "Please stop following me around, \\s[6]you're creeping me out...",
+                "text": "Arrête de me suivre partout, \\s[6]tu me fais peur..."
+        },
+        "maps/cargo-ship/test.json/entities/4/settings/npcStates/0/event/10/message": {
+                "orig": "I'm just here to do some serious talking. We have to check some layout bug here. ",
+                "text": "Je suis juste là pour faire des conversations sérieuses. Il faut que l'on vérifie un bug de mise en page là."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/2/message": {
+                "orig": "What's up, dawg?",
+                "text": "Yo les mecs, ça boume ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/6/message": {
+                "orig": "You're a quite one, aren't you?",
+                "text": "Toujours silencieux, à ce que je vois ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/0/event/8/task": {
+                "orig": "Follow Carla!",
+                "text": "Suivez Carla !"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/2/message": {
+                "orig": "What's up, dawg?",
+                "text": "Yo les mecs, ça boume ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/6/message": {
+                "orig": "You're a quite one, aren't you?",
+                "text": "Toujours silencieux, à ce que je vois ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/1/event/8/task": {
+                "orig": "Follow Carla!",
+                "text": "Suivez Carla !"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/2/event/2/message": {
+                "orig": "Okay, so now you're leaving on me, huh?",
+                "text": "Et maintenant tu me quittes ? Super."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/2/event/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/1/message": {
+                "orig": "...Hey... ",
+                "text": "... Hé..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/3/message": {
+                "orig": "Don't you also feel a bit lonely around here?",
+                "text": "Tu te sens pas un peu seul ici ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/5/message": {
+                "orig": "I mean, it's not exactly the most crowded place, right?",
+                "text": "Je veux dire, ce n'est pas l'endroit le plus fréquenté, non ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/6/message": {
+                "orig": "Well, except for those robots. But those aren't nice, I tell you!",
+                "text": "Bon, peut être excepté ces robots. Mais ils ne sont pas gentils, crois-moi !"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/8/message": {
+                "orig": "Trust me, I know from experience...",
+                "text": "Fais-moi confiance, je parle d'expérience..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/9/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/11/message": {
+                "orig": "So I don't know about you, but I do feel pretty lonely around here...",
+                "text": "Sinon je sais pas pour toi, mais je me sens seul ici..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/13/message": {
+                "orig": "So... Why don't we just chat a bit...?",
+                "text": "Donc... pourquoi on causerait pas un peu ?"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/18/message": {
+                "orig": "... Hey...",
+                "text": "... Hé..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/20/message": {
+                "orig": "... Okay... Suit yourself!",
+                "text": "... OK... Comme tu veux !"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/22/message": {
+                "orig": "Then I'll just leave you alone.",
+                "text": "Alors je vais te laisser seule."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/23/message": {
+                "orig": "Nice knowing you and whatever!",
+                "text": "C'était cool de te connaitre, et blablabla !"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/24/message": {
+                "orig": "Pfff!",
+                "text": "Pfff !"
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/3/event/25/task": {
+                "orig": "Maybe keep Carla alone after all...",
+                "text": "Laissez Carla toute seule après tout..."
+        },
+        "maps/cargo-ship/test.json/entities/6/settings/npcStates/4/event/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/test.json/entities/68/settings/event/4/guiInfo/settings/text": {
+                "orig": "Crate HP",
+                "text": "HP Caisse"
+        },
+        "maps/heat/test.json/entities/68/settings/event/5/task": {
+                "orig": "Hungry lifeforms approaching!",
+                "text": "Formes de vies affamées en approche !"
+        },
+        "maps/heat/test.json/entities/68/settings/event/19/task": {
+                "orig": "\\c[3]Defend the tree for 2 minutes\\c[0] for the salve to take effect!",
+                "text": "\\c[3]Défendez l'arbre pendant 2 minutes\\c[0] pour que la pommade fasse effet !"
+        },
+        "maps/heat/test.json/entities/69/settings/event/1/thenStep/1/thenStep/0/text": {
+                "orig": "Salve weakened!",
+                "text": "Pommade amoindrie !"
+        },
+        "maps/heat/test.json/entities/69/settings/event/1/thenStep/2/thenStep/0/text": {
+                "orig": "Salve strongly weakened!",
+                "text": "Pommade fortement amoindrie !"
+        },
+        "maps/heat/test.json/entities/69/settings/event/1/thenStep/3/thenStep/0/text": {
+                "orig": "Salve almost dissolved!",
+                "text": "Pommade presque disparue !"
+        },
+        "maps/heat/test.json/entities/69/settings/event/1/thenStep/4/thenStep/2/text": {
+                "orig": "Salve dissolved!",
+                "text": "Pommade disparue !"
+        },
+        "maps/heat/test.json/entities/70/settings/event/7/text": {
+                "orig": "Salve lost effect. The sickness returned!",
+                "text": "La pommade a perdu effet. La maladie est revenue !"
+        },
+        "maps/heat/test.json/entities/70/settings/event/18/text": {
+                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
+                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer."
+        },
+        "maps/heat/test.json/entities/71/settings/event/11/text": {
+                "orig": "Tree healed!",
+                "text": "Arbre Guéri !"
+        },
+        "maps/heat/special/cursed-temple.json/entities/2/settings/event/10/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat/special/cursed-temple.json/entities/2/settings/event/23/text": {
+                "orig": "NO! Don't put them back!",
+                "text": "NON ! Ne les remet pas dedans !"
+        },
+        "maps/heat/special/cursed-temple.json/entities/2/settings/event/24/text": {
+                "orig": "There are MINE!",
+                "text": "Ils sont à MOI !"
+        },
+        "maps/heat/special/cursed-temple.json/entities/2/settings/event/25/text": {
+                "orig": "I will never let you have them.",
+                "text": "Tu ne les auras jamais de mon vivant !"
+        },
+        "maps/heat/special/cursed-temple.json/entities/2/settings/event/40/guiInfo/settings/taskTitle": {
+                "orig": "Chest",
+                "text": "Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/2/settings/event/41/guiInfo/settings/taskTitle": {
+                "orig": "Coins",
+                "text": "Pièces"
+        },
+        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/0/interact/hoverText": {
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/1/interact/hoverText": {
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/2/interact/hoverText": {
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/3/interact/hoverText": {
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/4/interact/hoverText": {
+                "orig": "Fill Chest",
+                "text": "Remplir le Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/3/settings/condAnims/5/interact/hoverText": {
+                "orig": "Touch Chest",
+                "text": "Toucher le Coffre"
+        },
+        "maps/heat/special/cursed-temple.json/entities/26/settings/event/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat/special/cursed-temple.json/entities/28/settings/event/4/thenStep/0/message": {
+                "orig": "test",
+                "text": "test"
+        },
+        "maps/heat/special/cursed-temple.json/entities/40/settings/event/0/text": {
+                "orig": "NO! My treasure!",
+                "text": "NON ! Mon trésor !"
+        },
+        "maps/rhombus-dng/stream-test.json/entities/49/settings/npcStates/0/event/2/message": {
+                "orig": "Come on, let's switch!",
+                "text": "Allez, on échange !"
+        },
+        "maps/rhombus-dng/stream-test.json/entities/49/settings/npcStates/0/event/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-dng/upgrade-test.json/entities/25/settings/event/34/object": {
+                "orig": "Some shit",
+                "text": "D'la merde"
+        },
+        "maps/rhombus-sqr/test.json/entities/27/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/28/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/30/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/31/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/32/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/35/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/36/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/37/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/38/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test.json/entities/39/settings/teleportLabel": {
+                "orig": "SOMEWHERE ELSE",
+                "text": "QUELQUE PART AILLEURS"
+        },
+        "maps/rhombus-sqr/test.json/entities/41/settings/teleportLabel": {
+                "orig": "SOMEWHERE",
+                "text": "QUELQUE PART"
+        },
+        "maps/rhombus-sqr/test.json/entities/44/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/27/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/28/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/30/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/31/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/32/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/34/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/35/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/36/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/37/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/test2.json/entities/38/settings/teleportLabel": {
+                "orig": "SOMEWHERE ELSE",
+                "text": "QUELQUE PART AILLEURS"
+        },
+        "maps/rhombus-sqr/test2.json/entities/40/settings/teleportLabel": {
+                "orig": "SOMEWHERE",
+                "text": "QUELQUE PART"
+        },
+        "maps/rhombus-sqr/test2.json/entities/43/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rookie-harbor/test.json/entities/48/settings/npcStates/0/event/2/message": {
+                "orig": "A painting is a memory that never fades.",
+                "text": "Une peinture est une mémoire qui ne s'efface jamais."
+        },
+        "maps/rookie-harbor/test.json/entities/48/settings/npcStates/0/event/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/shock-dng/f1/room4-old.json/entities/0/settings/teleportLabel": {
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
+        },
+        "maps/shock-dng/f1/room4-old.json/entities/2/settings/teleportLabel": {
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
+        },
+        "maps/shock-dng/f1/room4-old.json/entities/3/settings/teleportLabel": {
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
+        },
+        "maps/shock-dng/f1/room4-old.json/entities/4/settings/teleportLabel": {
+                "orig": "\\i[arrow-s] Down",
+                "text": "\\i[arrow-s] En bas"
+        },
+        "maps/templates/parkour.json/entities/0/settings/text": {
+                "orig": "A rock formation!\nYou're filled with \\c[3]Determination\\c[0]",
+                "text": "Une formation rocheuse !\nVous êtes empli de \\c[3]Détermination\\c[0]"
+        },
+        "maps/templates/parkour.json/entities/5/settings/npcStates/0/event/2/message": {
+                "orig": "Your time is \\v[timers.test.formatTime]",
+                "text": "Votre temps est \\v[timers.test.formatTime]"
+        },
+        "maps/templates/parkour.json/entities/6/settings/npcStates/1/event/2/message": {
+                "orig": "Go to the start.",
+                "text": "Allez au départ."
+        },
+        "maps/templates/parkour.json/entities/6/settings/npcStates/2/event/2/message": {
+                "orig": "You have \\v[timers.timer.formatRemainingTime] left.",
+                "text": "Il vous reste \\v[timers.timer.formatRemainingTime]."
+        },
+        "maps/templates/parkour.json/entities/10/settings/event/2/message": {
+                "orig": "Alright, let's go!",
+                "text": "Allez, on reprend !"
+        },
+        "maps/templates/parkour.json/entities/20/settings/event/0/message": {
+                "orig": "Scrub.",
+                "text": "Mince !"
+        },
+        "maps/templates/parkour.json/entities/42/settings/event/2/message": {
+                "orig": "You did it!",
+                "text": "Vous avez réussi !"
         }
 }

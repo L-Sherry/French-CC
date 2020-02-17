@@ -1,171 +1,171 @@
 {
         "maps/arid/interior/challenge-1-eg.json/entities/10/settings/destinations/0/label": {
-                "ciphertext": "rnIM3HavQJ4SLxEARZw9XA==",
-                "mac": "/aucSfYE9GclNC9YOUzCCw=="
+                "orig": "Down",
+                "text": "En bas"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/1/settings/destinations/0/label": {
-                "ciphertext": "rnIM3HavQJ4SLxEARZw9XA==",
-                "mac": "/aucSfYE9GclNC9YOUzCCw=="
+                "orig": "Down",
+                "text": "En bas"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/11/settings/event/17/message": {
-                "ciphertext": "DaM5wz/D5/uyBQDEqnqCu6YCBcYfaCfJkpfY+w8RqoQu8hvA0sUxkcalbYUO6VgSl54ojT3cORf1uYNpuxBPpg==",
-                "mac": "UbZGIQcbYUPRW1smX2c3Bg=="
+                "orig": "Huh. It's a new kind of virus, I guess?",
+                "text": "Hum. C'est un nouveau type de virus, j'imagine ?"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/13/message": {
-                "ciphertext": "PPwJBpFW5bN6lBcw4Eb/EGgzZnoeid2wXNczZH2Lu28nZMCWV8S1W0lmOm1ke561CK17S22RjZl0HyEzU1k5KiUyz5eW9zQhHjV4s218HFA=",
-                "mac": "6gISRfLocxj5e47Jta8EJg=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/elseStep/0/message": {
-                "ciphertext": "w1Pc/ZPQ2RxnPgmhba8whM6zYXXjTwSsqriI0NKrCek=",
-                "mac": "jYC2EyfJBjrDbjZojZ+TUw=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/elseStep/1/message": {
-                "ciphertext": "iUvgJ5lDM54X4FB6IxDLHvrwUimaWcJ4Wu+93Ne3llgx8iZGADVyBf8b8oi7OHPed64N/rqTzGuZPUoDsCjr4CNojQsyjXM+zWdIAWk/W00wtBRPX7KIB/hNh9wD5N0D",
-                "mac": "HHZ6GM8cQ5Ij5kcLGqhBPQ=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/thenStep/0/message": {
-                "ciphertext": "x2zi9UbGfoNm/1kkx7eV5ub9rbkcDuMu5vfBu9DqrpeQuSu/Y2hhB/1VjUGgJ4PbVFifPYQOHQDxJ/MlcCY3l7OXfo7KbaIAqq7uwuIPf1c=",
-                "mac": "l2UtOxR9V1Mu1IoJJNnSNw=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/thenStep/2/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "Wait.\\. Wait, wait, wait.\\.\nThat thing is \\c[3]Level 60\\c[0]?!",
+                "text": "Attends.\\. Attends, attends, attends.\\.\nCe truc est \\c[3]Niveau 60\\c[0] ?!"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/thenStep/0/message": {
-                "ciphertext": "sDttJL61ybSPVib7speann9lONqendO+Popl9o55aGkXu5e4yT3cZ3HZQrUSCGZRNpAudZb6wiJYXE3ggpM6v8V85LxYrGMoTouPZIFp8OU=",
-                "mac": "CZBSYeM6ceAaZwOpWx1sbQ=="
+                "orig": "Hm...\\. Mind hitting this one for me once, Lea?",
+                "text": "Hm...\\. Est-ce que tu pourrais frapper celui-là pour moi, Lea ?"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/thenStep/2/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/thenStep/0/message": {
+                "orig": "Well...\\. I guess we both should be able to handle it, right?",
+                "text": "Bon...\\. Ça ne devrait pas être un problème pour nous deux, n'est-ce pas ?"
+        },
+        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/thenStep/2/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/elseStep/0/message": {
+                "orig": "Guess I jinxed it.",
+                "text": "Il fallait que ça arrive."
+        },
+        "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/14/elseStep/0/elseStep/1/message": {
+                "orig": "Better stay on your guard, Lea. I'll try to knock it down as fast as possible.",
+                "text": "Reste sur tes gardes, Lea. Je vais essayer de le dézinguer aussi vite que possible."
         },
         "maps/arid/interior/challenge-1-ug.json/entities/20/settings/event/24/thenStep/0/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/elseStep/0/message": {
-                "ciphertext": "YhomCtbUlvYhhulO6wZf3g==",
-                "mac": "qc6zI3WB1e23iOqR1la9Xg=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/elseStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/elseStep/2/message": {
-                "ciphertext": "YCjPemGk3ik2U2WQzaUTKabjdCmQLTY9MesnOpl8J0ULyo+aBO3w+FcXV2pDG2mrYk9K2hRFgK4nTrXb7Vk2mw==",
-                "mac": "QZ6KOjw2IxE8ZjhBQOBASA=="
+                "orig": "...!!",
+                "text": "... !!"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/thenStep/0/message": {
-                "ciphertext": "GQwr6duB25MTUSkx2/dbeMhJ31FGqSx9cVdFi6xFYLQT+i+LAWsTf2PCASEX9fgQ",
-                "mac": "kTanfcG9ZMGLFBmXdOQalA=="
+                "orig": "Huh.\\. That wasn't so bad now, was it?",
+                "text": "Hah.\\. C'était pas si difficile, hein ?"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/thenStep/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/thenStep/2/message": {
-                "ciphertext": "mG7WAR5BZuyG+TgRuJV3Cg==",
-                "mac": "C6OM+UDzFqLtQC73kQuXyQ=="
+                "orig": "Let's go on!",
+                "text": "Continuons !"
         },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/10/message": {
-                "ciphertext": "il3CApqjfuj85Qi+P5pW4vZccsf81+bxnHZNzaut5Os=",
-                "mac": "Wh7ehHn7QgPpRos+yZH4iw==",
-                "ciphernote": "ULvPB2Gdu7ufo37C+hnwjSyMw2T4xgT2xbcHdfLBDsJ4E7U9nuBGXK0ufFLvjiZJ"
+        "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/elseStep/0/message": {
+                "orig": "Meine Güte...",
+                "text": "Mon dieu..."
         },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/11/message": {
-                "ciphertext": "ouUo1kHkm6gzwWEf3YhVjGn+oDsELCgaE/YjTFuCmUS8IhdsUan/CLmuT787Ek0POjILdMQEiHyrSwb0NzmhtW7wwGCgye/Ksg8gnykOwTk=",
-                "mac": "WnhWqCFZ8W3gc7Ls1Gb1sQ=="
+        "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/elseStep/1/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/16/message": {
-                "ciphertext": "lPd0IStyne+2enuT44TUSg==",
-                "mac": "CwkR0v0nNcG9oyp7OuiYBQ=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/24/message": {
-                "ciphertext": "EuuNudKNXXdOLx0l2fhE+PJ1/BwxmobVJZVyHwSIoQezOUW6l0NkoFENCE8Ks1QQ",
-                "mac": "4LT5pO0ZD6oLTT81xo7vpg=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/25/message": {
-                "ciphertext": "LaSDsQN6l8X360TvndkRS/K7npi7zN2BdCNSlw0RI8i2qeh5WNpi1JO6zm1YsApP",
-                "mac": "4C5bo6fDnyXwyV8jZtMVuw=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/26/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/27/message": {
-                "ciphertext": "doEKTLtPsF5RIWxaSDUUsZBd9a9wF/0YUYcyTZZpwgBIOMplsfWDtEdh88qYv1BnKGrNsEzKk8ukydkEHEH07p40/pimrQC1Dt4p0b+2iGfqB6UlMDJPy4qzCBcHp+Af",
-                "mac": "YcyMXLLfMn1s6XUgTjwnOg=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/28/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/34/message": {
-                "ciphertext": "p638IGyYa+vmI5bMZBPoZemdB9eqhh0mOl1EBn69SrhjjaeC+ztG3yOjCEcqfSO5",
-                "mac": "FdZzZxlSN+zBmy8L4bkYOQ=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/36/message": {
-                "ciphertext": "ghNrwSxa8bPms9MQdyZuHw==",
-                "mac": "ud0sKQvprJKKOuTU/6axvA=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/37/message": {
-                "ciphertext": "7zUA1456NYOrH+fjthCTSGX0sxHsjubqsNc+7Z7ie/NRT8yaOka9lMOaVYk4aKZJRJHWPXMM1RgWco7/YZqaRA==",
-                "mac": "D6gpwCErulJnAVo9xnaD4A=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/38/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/39/message": {
-                "ciphertext": "FOmR/kK8tHBrgR5urlUdR0iUFcCs6xSqq+EnxaDJLNgaO3ZKMtLnumQhu1yQuaBMWfwyv88KdNcUe7pWU8h8yQ==",
-                "mac": "oDrqvOmrSrmvu6lNXNvt7Q=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/51/message": {
-                "ciphertext": "g3EYo4aK+kmShMGtaRIBM/Ox2L/KlbdcGgg74r7M4rVmzoVGWsqXj9F0wMKNkaZldc58O/sEsxid2DHhg4B7iYhoNi/1vII4N28boxdSPIg=",
-                "mac": "9crENJsX6C9VOQqhOrBCiQ=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/52/message": {
-                "ciphertext": "FwAmbBLTc61jsofrB3C+xvT0q9OG5omjbiLgeq3tHf55oN4DOjujtJJpuWvsax8w",
-                "mac": "t0/7XFn6vxpOGEGFx246Tg=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/53/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/54/message": {
-                "ciphertext": "f+8AQ7Bw9ga+cmmqO1sT4vfEuVAGBsUIxPCJcEZemvI0S0gl/d65YUHA/K0+ywJg",
-                "mac": "kVt33+OJNG00FMZxQZ5rBg=="
-        },
-        "maps/arid/interior/lobby.json/entities/33/settings/event/55/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/arid/interior/challenge-1-ug.json/entities/25/settings/event/3/elseStep/2/message": {
+                "orig": "At least we got that out of the way. Let's go on.",
+                "text": "Je suis heureux de m'être débarrassé de ce truc. Continuons."
         },
         "maps/arid/interior/lobby.json/entities/33/settings/event/9/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/10/message": {
+                "orig": "Japp. Can't see anything.",
+                "text": "Japp. Je vois rien du tout.",
+                "note": "de: je distingue pas mes mains devant moi"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/11/message": {
+                "orig": "Somebody mind turning on the light?",
+                "text": "Quelqu'un aurait-il l'amabilité de pouvoir allumer la lumière ?"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/16/message": {
+                "orig": "Thank you.",
+                "text": "Merci."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/24/message": {
+                "orig": "Uhm...\\. it's...\\. just a room?",
+                "text": "Hein...\\. C'est...\\. juste une salle ?"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/25/message": {
+                "orig": "Looks like a lobby of sorts.",
+                "text": "On dirait une genre de salle d'attente."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/26/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/27/message": {
+                "orig": "It's...\\. strangely familiar.\\. But I can't quite pinpoint it.",
+                "text": "Ça me parait...\\. étrangement familier.\\. Mais je n'arrive pas à mettre le doigt dessus."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/28/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/34/message": {
+                "orig": "This is...\\. weird.\\. It's very weird.",
+                "text": "C'est...\\. étrange.\\. C'est très étrange."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/36/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/37/message": {
+                "orig": "...I don't know.\\. Something just feels very weird.",
+                "text": "... Je ne sais pas.\\. Quelque chose me parait très curieux."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/38/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/39/message": {
+                "orig": "It's probably about time for me to log out.",
+                "text": "Il est probablement temps que je me déconnecte."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/51/message": {
+                "orig": "Huh...\\. looks like we spent enough time in the room?",
+                "text": "Hein... ?\\. On dirait qu'on a passé suffisamment de temps dans cette pièce ?"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/52/message": {
+                "orig": "So what exactly was the point of all this?",
+                "text": "Mais c'était quoi le but exact de tout ça ?"
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/53/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/54/message": {
+                "orig": "I really don't get this place. Let's go.",
+                "text": "Je ne la sens pas cette pièce. Allons-nous en."
+        },
+        "maps/arid/interior/lobby.json/entities/33/settings/event/55/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/arid/interior/lobby.json/entities/34/settings/teleportLabel": {
-                "ciphertext": "eFYkqOghcWyOJ4ljsKXG9tmHbNs2grzU2h66ynMRxaiZJuO9u5K0Xmd9JLPlm1k4",
-                "mac": "3ev4kbWYWvkDlkKlrvlSVg=="
+                "orig": "Back to \\c[3]River Delta\\c[0]",
+                "text": "Retour au \\c[3]Delta de la Rivière\\c[0]"
         },
         "maps/arid/interior/lobby.json/entities/36/settings/event/0/message": {
-                "ciphertext": "yd7UoGLhyZxLOeTWcbspCb55AuiACSuYABZ8cNr+Q5Mc7DJc9FuWWi+Gjrh8xtJ5r0Xby6HZO7PJqrs7C7nMnChi4Ib9rPOqo/US0b67/QI=",
-                "mac": "qvFSGI//6I+7WtqN4611rg=="
+                "orig": "Whoa!\\. No way!\\. That's the lobby of my workplace!",
+                "text": "Quoi !\\. C'est pas possible !\\. C'est l'accueil de là ou je bosse !"
         },
         "maps/arid/interior/lobby.json/entities/36/settings/event/1/message": {
-                "ciphertext": "M/FNE/o9SdQGLsnzlyNVRLFS67f5uKumQz/sKgNYIJsOaG1J/PwsoKSmLCbr0xY4yHcyApXBJ8BfckjexGEiRw99b5KswmyGeyS8PFbm28/zNLhomHRbdYnGNOXi+Y09",
-                "mac": "/kXWc/7n2wYDg1aedgiNsw=="
+                "orig": "Did they seriously add a reconstruction of it...\\. right here in the Playground?",
+                "text": "Ils en ont vraiment fait une reconstruction...\\. ici, directement sur le Terrain de Jeu ?"
         },
         "maps/arid/interior/lobby.json/entities/36/settings/event/2/message": {
-                "ciphertext": "HQPxlPQl6ONvGrX3GryqeGzdlBJ1Q/+2x+/hICFbwS9YLgTRYR1gk/t/xGYijCpslTcS9ZgYtQq/CJXiSD4D2+dvs52LkpCNCoQLqqbzoFRgNOViL/yaTStlLBxhabF2",
-                "mac": "Jiwz+bd7Yb63fYOj6yXmrQ=="
+                "orig": "Hm...\\. looking at it closely, some details seem to be off a bit.",
+                "text": "Hum...\\. En y regardant de plus près, certains détails ne collent pas vraiment."
         },
         "maps/arid/interior/lobby.json/entities/36/settings/event/3/message": {
-                "ciphertext": "8DILZ4K0CVSBL4eRe3Ei73k2jG3OVdNUG8Vku6Jb/bSvoUhuDPiL0TIhG4tQQFaGAhzJBQJ7wv7LFEjW2pDvCAuyaKit8ZjCD0bacOS/qEAjEtzoA6PyR6I8BssBgoId",
-                "mac": "zQ5ubTdvjvZzQtQMXjQA4w=="
+                "orig": "Still...\\. it was probably enough to trigger a few memories for my Evotar.",
+                "text": "Mais bon...\\. c'était probablement suffisant pour rappeler quelques souvenirs à mon Évotar."
         },
         "maps/arid/interior/lobby.json/entities/36/settings/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         }
 }

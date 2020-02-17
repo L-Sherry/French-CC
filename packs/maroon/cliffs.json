@@ -1,99 +1,99 @@
 {
         "maps/heat/cliffs/cliffs-path-01.json/entities/546/settings/event/1/text": {
-                "ciphertext": "5eSyhBM1mRe9bdBXjsccqDdCe2Ww4yKVMosDL4kwU/A=",
-                "mac": "RIrXF9vrG4OpiGzn/eB4Ug=="
+                "orig": "Bring me the coin...",
+                "text": "Apporte-moi la pièce..."
         },
         "maps/heat/cliffs/cliffs-path-01.json/entities/548/settings/event/0/text": {
-                "ciphertext": "AWP13bd1Ueo/3mlqMxZptOKbdyB0GSSOuIxw35X8WKY=",
-                "mac": "A49XqoSGs51bWFu4diUNLg=="
+                "orig": "You brought the coin...",
+                "text": "Tu as apporté la pièce..."
         },
         "maps/heat/cliffs/cliffs-path-01.json/entities/550/settings/event/0/message": {
-                "ciphertext": "225PQhsTB2uGuyFTD8bLE0qksgRn/NOdMKnfU/32/l7kA/IAawr97hGotaCpP5XWVvtIn3ICCOeYEHmS5TVfdb20vj/PzUlN/R+F6KJZc5A=",
-                "mac": "VXTJCxGGc/125BOI9FL17g==",
-                "ciphernote": "/xyUjHfcf0u8xcCZO2TVo4hGeAy8rb00E/XZaUXvwXk48WwsTfPo0UvHCmthN0cinstYoN6dKtlhG6LC8N1v8w=="
+                "orig": "Look at all those bones.\\. Some creatures have been really busy around here.",
+                "text": "Regarde un peu tous ces os.\\. Des bêtes ont dû être bien occupées par ici.",
+                "note": "want to 'ont dû bien s'amuser par ici', but ..."
         },
         "maps/heat/cliffs/cliffs-path-01.json/entities/550/settings/event/1/thenStep/0/message": {
-                "ciphertext": "N/RNluU+I3ABbiyQj/iNNOX2mxauQsK+s8QJZt5aLFTuY3Ot11wvOrgZkExBCrBzhSN+tHjeHLhq+8aQr9QCnUkvD7MYhUrdt2UscbDfFnIypQZXs0DOz/nWP4yAvPHL",
-                "mac": "J/yXoHX5XB/kSSWbak0k+w=="
+                "orig": "Yeah. Busy stacking all these bones into neat little piles.",
+                "text": "Oui. Et après ils ont bien proprement empilé tous ces os pour faire ces jolis tas."
         },
         "maps/heat/cliffs/cliffs-path-01.json/entities/551/settings/event/0/message": {
-                "ciphertext": "rYuEGZ3rv1wlfc5NrL6EPjQLvoyCTbyShXrzrKX0Kgq08epkupeX96FYagnBuwgK",
-                "mac": "pXOjFk1cYK6eNexkYzHP0A=="
+                "orig": "Those lilies sure are resilient.",
+                "text": "Ces nénuphars sont vraiment résistants."
         },
         "maps/heat/cliffs/cliffs-path-01.json/entities/551/settings/event/1/thenStep/0/message": {
-                "ciphertext": "3L7K7lCbqJBe1KPpE6y7RG7AvbqPThUtskXCRhfn2y0=",
-                "mac": "BCLPlMjRkTvq24BDSIwA2g=="
+                "orig": "Yeah! Jump those lilies!",
+                "text": "Ouaiiiis ! Et comment !"
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/371/settings/event/1/text": {
-                "ciphertext": "dZQxiq85MUcgYfMu7p7WQA==",
-                "mac": "fXPWjSiWVemZsxLqTL61bA=="
+                "orig": "Blocked",
+                "text": "Verrouillé"
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/0/text": {
-                "ciphertext": "EHZPrIPWQhV6b9TCSoPzcPjE/fjp/y33D0JqJHjz++4=",
-                "mac": "mQ26hX3x0+6w+05HC/2JGA=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/10/message": {
-                "ciphertext": "mBet+Kt+3QQbYemedKXa9gmyjqPEHUZgIKMlXKgNCFGKMQxNTY4YQwWYsl3gn4oOETh+u9GB2v5AIY5DUdBC9oWqNo0XSEmp0oXTNXdssBWBnT5vzo8akt/OcfoL/Zay",
-                "mac": "O/fRYgKaYi/xahrLHzi0OA=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/11/message": {
-                "ciphertext": "o+pMzCI60gvElLG1yVrTpY6kV4Py2ZVZOJLyyS4ovK0=",
-                "mac": "/VcQYBKzTiEK2rysLBRM+A=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/12/message": {
-                "ciphertext": "yHoV9/WsPXbGg05U749mw3gjDcRp2VhwSP9vYne1g4g=",
-                "mac": "cfQQWpUECI817WNnXggEfA=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/13/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/3/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/4/message": {
-                "ciphertext": "7c2XynMzwMdVDWcqV8COmBb8Gq7W+97cAVeL0vCSZfbBQIcQreWxvpk2l1cLBJDldKQDdg/jcYraJU2d9bE9jQ==",
-                "mac": "72bBuKARsPmgWoFhLX9zzw=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/5/message": {
-                "ciphertext": "+Y7Idm0gjBZnrHwULbGmMY29Z8Qtt9qtesimBIOpj6M=",
-                "mac": "w3C5t9Y4sLmhR+CZqXxe9A=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/7/message": {
-                "ciphertext": "mDjhrh/dkxtaNGf28m63kxMowshpXTdX5vJNFq5vohtjMxwRVaeWaNtyZp54uAfDOVSh6+wO97pBfIBxiLyYew==",
-                "mac": "Bf9czYkigassy1fg8PBblQ=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/8/message": {
-                "ciphertext": "cl65j2P0kpbwXBbzKRmz54gbJUQ0grfD9MO9Mo2JFrzgHD7RP+xcGZPoT0G0/VIaXSsggpm2BCJgloE912d49MxX2w1ZMXeXsWJUvhD7QKq04XCqMeQU8MsYhrOzZ/P4",
-                "mac": "2mPzoGUmbi2LjPtExNC7Kw=="
-        },
-        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/9/message": {
-                "ciphertext": "rAaLltiv1yLXKFxY2fuyfiNDKzYZ+UgAuoEOjebK31fab2u1ChePq5WETKHKOGEpchgDfOc9LltcyF+/TelIzkLi8nPCdF7dV5R+bvmTljCuyv8v9Hzi4kG8uTLvhzd5",
-                "mac": "kUNblkRLP4hru3S/img2vA=="
+                "orig": "So, how is work?",
+                "text": "Donc, comment va le boulot ?"
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/text": {
-                "ciphertext": "RV7qWTm0gk2/UsnaD5LD0iCiKrGM++Cw109LfWzxlx9V/2oYozr0Z44mtXsaOqrvoE6PvE0WLsCAgBAIjHaGWbNbMHvbUttHteqlmeYby0k=",
-                "mac": "efl9OweITPpLF1scQBJfEA=="
+                "orig": "Pretty good. \\c[3]ACF says we now have 50% of the galaxy mapped!\\c[0]",
+                "text": "Ça va. \\c[3]L'AFC dit qu'on a cartographié 50 % de la galaxie !\\c[0]"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/3/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/4/message": {
+                "orig": "Oh hey, you're interested in my job too?",
+                "text": "Oh, bonjour, vous vous intéressez aussi à mon travail ?"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/5/message": {
+                "orig": "She's an Explorer!",
+                "text": "Elle est Exploratrice !"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/6/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/7/message": {
+                "orig": "Oh come on, it's not that big of a deal.",
+                "text": "Oh, aller, c'est pas si grandiose que ça en a l'air."
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/8/message": {
+                "orig": "I'm part of the \\v[lore.unlock.colony-federation]\\c[3]ACF's\\c[0] exploration team.",
+                "text": "Je fais partie de l'équipe d'exploration de l'\\v[lore.unlock.colony-federation]\\c[3]AFC\\c[0]."
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/9/message": {
+                "orig": "Once a year we're exploring and charting a new part of a larger sector.",
+                "text": "Une fois par an on explore et on cartographie une partie d'un secteur plus grand."
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/10/message": {
+                "orig": "It takes a long time as we can't just warp ourselves around.",
+                "text": "Cela prend un long moment vu que nous on ne peut pas juste se téléporter partout."
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/11/message": {
+                "orig": "But it is pretty fun!",
+                "text": "Mais c'est assez sympa !"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/12/message": {
+                "orig": "And exciting!",
+                "text": "Et réjouissant !"
+        },
+        "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/1/event/13/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/2/text": {
-                "ciphertext": "rYvA8FKVZVFPBX7uU+hJDAYa2kKHCDaXwv0CYL3Eaos/0x6mku0/qGXsteKuVHqs",
-                "mac": "Kelxyum5WRnN/YhpWze+wA=="
+                "orig": "Oh boy! Only took us how long?",
+                "text": "Hé ben ! Combien de temps il a fallu ?"
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/388/settings/dialog/3/text": {
-                "ciphertext": "wAbaeXfsZJfPEb1VRDtM2O1bU2wK+e3+TWB2MPFQT/U=",
-                "mac": "hCer1zy/sGvYCerrssyIOQ=="
+                "orig": "Too long...",
+                "text": "Trop longtemps..."
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/389/settings/event/0/message": {
-                "ciphertext": "6Xl7AYUmZnVqfHqGnhac17b980W9tNJSR/gbBY4Qc/NXw1NpFg23uFNC41OUTPUv",
-                "mac": "Hpq7yGf3UNlrSZqjr4Sxwg=="
+                "orig": "More of these unique cliff structures...",
+                "text": "Encore ces structures de falaises curieuses..."
         },
         "maps/heat/cliffs/cliffs-path-02.json/entities/389/settings/event/1/message": {
-                "ciphertext": "K6gw0djZgq2vgnqGY9yMhlqvDsab+yYvfQrqBXMNEXJ2sRocx2y8Y/LdYfqy3BbAvlAMf7vYfzkn/NwWZE95i+P0iADpsllFfXzCASrFkBc31dUSkgZ6ToALaZ49CxkB",
-                "mac": "ciT11o8/uVErdMdMtqdTNQ=="
+                "orig": "You sure you want to comment on those now? Better concentrate on jumping!",
+                "text": "Tu veux vraiment faire des commentaires là-dessus ? Concentre-toi plutôt pour sauter !"
         }
 }

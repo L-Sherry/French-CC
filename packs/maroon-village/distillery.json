@@ -1,578 +1,578 @@
 {
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/14/text": {
-                "ciphertext": "rsN247v/Ipv52IQwAk5dubeVRs+jF6FL0m14mYBmxww9s4j19zEMGi4Pf3pIYb55",
-                "mac": "cIz9DaCwNNBiYerIbnkCFg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/2/guiInfo/settings/taskTitle": {
-                "ciphertext": "K73sazY7LeAfYe1+OwFSbg==",
-                "mac": "jk2cE3hQHWtngyINRrKoyg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/3/guiInfo/settings/text": {
-                "ciphertext": "Dj2vE0pkcroohAamv6F/RQ==",
-                "mac": "JSUVXqlQPVFyeACyIeV2Zg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/4/guiInfo/settings/text": {
-                "ciphertext": "REptVSisoq2DBhEsKXy1sA==",
-                "mac": "iMOFulaC/YjN2u+cvyxTLg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/6/task": {
-                "ciphertext": "9MbzZHFQk1G3uh6L92H5VeMuYcrBDmzKa9iMyLgp7LGA1vs8gTeMJFn9XCAgVhTV",
-                "mac": "WdKvhXuWd0FQVk8gXXM+bA=="
-        },
         "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/4/guiInfo/settings/taskTitle": {
-                "ciphertext": "K73sazY7LeAfYe1+OwFSbg==",
-                "mac": "jk2cE3hQHWtngyINRrKoyg=="
+                "orig": "Requests",
+                "text": "Demandes"
         },
         "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/4/guiInfo/settings/text": {
-                "ciphertext": "267IeFU80SfkkSFc9mx7HLAjiYHUmrR6aJS0e+tcfdahQbU90b10Y2oSQVR9PWgfx+OS9+Y4Xv9CvfZCLZODFg==",
-                "mac": "ocEKBjIc4vyMfmNdYLGZGw=="
+                "orig": "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] ",
+                "text": "Qualité de brassage : \\c[3]\\v[tmp.quality]\\c[0]"
         },
         "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/5/guiInfo/settings/taskTitle": {
-                "ciphertext": "GN3EZSeQ1jruw/yhWBAzAg==",
-                "mac": "vUe6P1aIGtZ3O3TFh5+MLg=="
+                "orig": "Quality",
+                "text": "Qualité"
         },
         "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/5/guiInfo/settings/text": {
-                "ciphertext": "267IeFU80SfkkSFc9mx7HLAjiYHUmrR6aJS0e+tcfdahQbU90b10Y2oSQVR9PWgfx+OS9+Y4Xv9CvfZCLZODFg==",
-                "mac": "ocEKBjIc4vyMfmNdYLGZGw=="
+                "orig": "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] ",
+                "text": "Qualité de brassage : \\c[3]\\v[tmp.quality]\\c[0]"
         },
         "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/6/guiInfo/settings/text": {
-                "ciphertext": "REptVSisoq2DBhEsKXy1sA==",
-                "mac": "iMOFulaC/YjN2u+cvyxTLg=="
+                "orig": "Overheat",
+                "text": "Surchauffe"
         },
-        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/1/thenStep/0/text": {
-                "ciphertext": "WN8syp2AXo779504av5tbz3Pq5A7QdEh/vZ5uQWgOQA=",
-                "mac": "6fnZS9NzjwMKgeS5D2Ntww=="
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/2/guiInfo/settings/taskTitle": {
+                "orig": "Requests",
+                "text": "Demandes"
         },
-        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/2/thenStep/0/text": {
-                "ciphertext": "6hyekS/7TbWFcMfAfk8S5d7HupVCeRItKMJSU3R3woA=",
-                "mac": "RVqw7b2LtV9ZOJiOSCF2Nw=="
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/3/guiInfo/settings/text": {
+                "orig": "Booze HP",
+                "text": "HP Brasseur"
         },
-        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/3/thenStep/0/text": {
-                "ciphertext": "LVc7xN4Vk/TMr0k0+KOZsX1Fr6bc0AQ9Qh66ZzGitYI=",
-                "mac": "r1MQCleHgO9zlHWFAlfyjw=="
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/4/guiInfo/settings/text": {
+                "orig": "Overheat",
+                "text": "Surchauffe"
         },
-        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/4/thenStep/0/text": {
-                "ciphertext": "Kd7nDf6kCYFda9PQuMmtVLj61b8Elv6czZSNtiv71SU=",
-                "mac": "gKVjhxfMMgULEc5342DkBg=="
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/6/task": {
+                "orig": "\\c[3]Follow the brewing procedure!\\c[0] ",
+                "text": "\\c[3]Suivez la procédure de brassage !\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/thenStep/0/text": {
-                "ciphertext": "vylBQIi1ShwBP2aiKJJYtm6QHgD/9c9/c7gTGCnenBY=",
-                "mac": "Yk1sI1mrBRFDih1M+3BC9w=="
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/14/text": {
+                "orig": "[Brewing Process START]",
+                "text": "[Procédure de brassage DÉMARRÉE]"
         },
         "maps/heat-village/special/distillery.json/entities/42/settings/event/3/thenStep/0/text": {
-                "ciphertext": "P7e/n+D6HnjopaLfC6SzWg2780PT8Zj2cK/yfa/QfCI=",
-                "mac": "Mjp6ZRxF5klLNHMMdKkVSQ=="
+                "orig": "[Bubble Pipes activated]",
+                "text": "[Tuyaux à Bulles activés]"
         },
         "maps/heat-village/special/distillery.json/entities/42/settings/event/3/thenStep/1/text": {
-                "ciphertext": "P7e/n+D6HnjopaLfC6SzWg2780PT8Zj2cK/yfa/QfCI=",
-                "mac": "Mjp6ZRxF5klLNHMMdKkVSQ=="
+                "orig": "[Bubble Pipes activated]",
+                "text": "[Tuyaux à Bulles activés]"
         },
-        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/10/thenStep/0/text": {
-                "ciphertext": "hf+0F+7Ce2KbfJKF/Rg130wCkVAZi+tPXlAnOHwLQ48=",
-                "mac": "m+tVf5sE9irkE+bhwo5MBQ=="
+        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/thenStep/0/text": {
+                "orig": "Steam ERROR #bug",
+                "text": "Erreur Vapeur #bug (FAIL !)"
         },
-        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/11/thenStep/0/text": {
-                "ciphertext": "Im7ZzfA5crFpjAXuTJZlYA==",
-                "mac": "0Q2x3aDoc9n+G4LQAxBi4w=="
+        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/1/thenStep/0/text": {
+                "orig": "Request: Oven #1",
+                "text": "Demande : Four #1"
         },
-        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/elseStep/0/elseStep/0/text": {
-                "ciphertext": "cooOGLSfn3FgNGObl/JFxIJ2FeLZkgZGA0p0VRrHIBG8jV7baUUk+AQ7o0h2L4+X+lkw9fmGlyqLZFCUB3qaYQ==",
-                "mac": "YH1oa3mnFZBINwJGDUTzlw=="
+        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/2/thenStep/0/text": {
+                "orig": "Request: Oven #2",
+                "text": "Demande : Four #2"
         },
-        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/elseStep/0/thenStep/0/text": {
-                "ciphertext": "th1deYCHk9xTHlZlQFegdUE7qTd/wdAD/3YUDj/G8aYoIkGcRE6sIwsy3e2yRZnjh0QeFtWDZjogZCY/yHRbiw==",
-                "mac": "ztbe0g63WaIrTCZPqiQ26Q=="
+        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/3/thenStep/0/text": {
+                "orig": "Request: Oven #3",
+                "text": "Demande : Four #3"
         },
-        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/thenStep/0/elseStep/0/text": {
-                "ciphertext": "QTFznIGSV0XMNC80DIKIpnUGVAF8uRcSnQqxpF26wuI=",
-                "mac": "dFTG6wx/JXPwa7fTthNTdg=="
+        "maps/heat-village/special/distillery.json/entities/42/settings/event/11/elseStep/4/thenStep/0/text": {
+                "orig": "Request: Oven #4",
+                "text": "Demande : Four #4"
         },
         "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/thenStep/0/thenStep/0/text": {
-                "ciphertext": "HBxmwYVebGNGwXrCwB0FBXZXrYw38Phu3vuN5RkkHno=",
-                "mac": "4yvDS6JnI5S6zNe6AKtCew=="
+                "orig": "ERROR: Requests missed!",
+                "text": "ERREUR : Demandes ratées !"
+        },
+        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/thenStep/0/elseStep/0/text": {
+                "orig": "ERROR: Request missed!",
+                "text": "ERREUR : Demande ratée !"
+        },
+        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/elseStep/0/thenStep/0/text": {
+                "orig": "ERROR: Requests missed! Quality -\\v[tmp.qualityChange]",
+                "text": "ERREUR : Demandes ratées ! Qualité -\\v[tmp.qualityChange]"
+        },
+        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/6/elseStep/0/elseStep/0/text": {
+                "orig": "ERROR: Request missed! Quality -\\v[tmp.qualityChange]",
+                "text": "ERREUR : Demande ratée ! Qualité -\\v[tmp.qualityChange]"
         },
         "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/7/thenStep/0/text": {
-                "ciphertext": "3BDimRXYnfxDgKzKvVMjg/Tc+RfqZaXuEZeLglz5pdU=",
-                "mac": "4URsfgpvAOZZHGI/XNFSCw=="
+                "orig": "MISSED REQUEST: Oven #1",
+                "text": "DEMANDE RATÉE : Four #1"
         },
         "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/8/thenStep/0/text": {
-                "ciphertext": "Eh+3824bBf9HhlPlO9qSxT+3yWI/OyTbKpAhQJazco8=",
-                "mac": "ImxZW/tlYD2NGIt8CuERLg=="
+                "orig": "MISSED REQUEST: Oven #2",
+                "text": "DEMANDE RATÉE : Four #2"
         },
         "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/9/thenStep/0/text": {
-                "ciphertext": "5HFkmjHKmBzKi9GCU1ai6NhDSYOyPNxio4RY2hr+ls8=",
-                "mac": "zT17SRMxl1BuYZFoal4Oog=="
+                "orig": "MISSED REQUEST: Oven #3",
+                "text": "DEMANDE RATÉE : Four #3"
+        },
+        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/10/thenStep/0/text": {
+                "orig": "MISSED REQUEST: Oven #4",
+                "text": "DEMANDE RATÉE : Four #4"
+        },
+        "maps/heat-village/special/distillery.json/entities/43/settings/event/3/thenStep/11/thenStep/0/text": {
+                "orig": "Steam ERROR",
+                "text": "ERREUR Vapeur"
         },
         "maps/heat-village/special/distillery.json/entities/45/settings/event/9/thenStep/0/text": {
-                "ciphertext": "GVzvHHMyMcYdYSH2HKv9vuM0IaOamTxnViShDSIpJ+o=",
-                "mac": "wFTnClfkyfyzfiWikCrejg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/46/settings/event/6/elseStep/0/text": {
-                "ciphertext": "MmVl3zBHzyp4dlnkx7k+/QnSTHy/GJtXRvC2AF6bBB1H6UXaAxPxIcvicsqlmMBC9emBfpfbTi24O86m5EKXFw==",
-                "mac": "/9EMj+ZVIiJRfaxbZrkapw=="
+                "orig": "Quality +\\v[tmp.qualityChange]",
+                "text": "Qualité +\\v[tmp.qualityChange]"
         },
         "maps/heat-village/special/distillery.json/entities/46/settings/event/6/thenStep/0/text": {
-                "ciphertext": "UMbCqYQtKDZnv8Sq/X6sw0TKphPAkpgPNmF8AeFSujw=",
-                "mac": "7zWfNLtZ5tXrv+iEsWvXtg=="
+                "orig": "ERROR: Wrong pipe!",
+                "text": "ERREUR : Mauvais four !"
         },
-        "maps/heat-village/special/distillery.json/entities/48/settings/event/35/elseStep/1/text": {
-                "ciphertext": "Iwb/hv0RUz6oTxsqrMzIQFlZl28MpqL8tM5wGW4u2j4=",
-                "mac": "/pjvV0PpLwodn+/1X9FGTA=="
+        "maps/heat-village/special/distillery.json/entities/46/settings/event/6/elseStep/0/text": {
+                "orig": "ERROR: Wrong pipe! Quality -\\v[tmp.qualityChange]",
+                "text": "ERREUR : Mauvais four ! Qualité -\\v[tmp.qualityChange]"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/35/thenStep/0/text": {
-                "ciphertext": "9XWYok9pdX1oNPKx3DwC/umnwCqD5lvO6k8n+Tz4zXw=",
-                "mac": "9//eRirSDfB6yPsJ6P8N5Q=="
+                "orig": "Brewing successful!",
+                "text": "Brassage réussi !"
         },
-        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/8/thenStep/1/value": {
-                "ciphertext": "SxJK9xoObLLlEvhZx5vctZ7A0K+eFIS+2mHSe5T6bus=",
-                "mac": "ROYw0voH7swB0o5od8lYqQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/9/elseStep/0/text": {
-                "ciphertext": "h91NqsNdm8+sVKs78oE5NaCgJPuvwtd6UvPobudYjvORdlHdlGKYAz2WRUE+8+bvUqXIgeCB/eZ3XFo0t2YpSlauvJjXjJ80+1UVKQvLAqB3dFUi6zyuCeJCBB1DOvZFzmRhSb86uXIwtzEc3WCXpXGxsGmltLsnM2OAvf8kXX2forgrC+T3oqfItRcG4/gSh0REthtNoovxcrGyRGPQfQ==",
-                "mac": "Tgj/JrvcdlwOV21EBkgRXw=="
-        },
-        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/9/thenStep/4/text": {
-                "ciphertext": "QHh5Jv4jYwjwAki0k+LtDwjFue1foE3bPKE0XHdXcFRFS10tcd+oeo1ooZmMOG7PLn3YChGR4MDRUXvCQyIhmX/2030/OXoU/BraSrS9fhiFHehnDbAjA/OSCIF95yia/bMvc37X4G6uycHgL0UWzaipy3+NKyaxrsQ6ootcYk+QQJkGslZYa47KnBA2RrK3PqseLC7IsSLtW1EXgQEmLgKiXI3TvkiaFnXJCqmtjghjhSqu6C1Dt7LyPUvqZoJo",
-                "mac": "guenfDABecEFzb+SxtanLg=="
+        "maps/heat-village/special/distillery.json/entities/48/settings/event/35/elseStep/1/text": {
+                "orig": "Brewing finished!",
+                "text": "Brassage terminé !"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/10/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/12/message": {
-                "ciphertext": "M5/5nWVk3L4e1G8OVpHmSZokrWmOPyY6K5FiHc+Od74PcEV9NTe03dVlZwpNZBAekdayRYhY/+gzzbHUFTkcug==",
-                "mac": "8R+G5l3p5aaivDfJKq7V4w=="
+                "orig": "Hey there, \\v[lore.title.seeker].\\. You got everything done here?",
+                "text": "Hé, \\v[lore.title.seeker].\\. Tu as tout terminé ?"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/13/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/16/message": {
-                "ciphertext": "ZFIvA85nH+8XpPWdsXqiRXTwMDM0zyib2duPeDEh7uUuQhV2aW75qcn7CIN1itDh",
-                "mac": "T8aGemVj77dq9THpvyV5hQ=="
+                "orig": "Alright!\\. What do the numbers say, Bru?",
+                "text": "Bon !\\. Que disent les chiffres, Bru ?"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/18/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/19/message": {
-                "ciphertext": "l/pJj3n7WbLJa/ufdsIG/qcTTLI6UnPPBhohTFjjx0Xuq/+r1BtGMFoTyt0iESrtwmZbZ5zSj61Uws9iANXnzWJ1s3c2/c0IqVLoex+t50MHaB6NGsZbJq+eso4S/o+PMEsuXq3cw2D42MzjFBqGxw==",
-                "mac": "TuPOKJDTY0DfVmxD1ga05Q=="
+                "orig": "Numbers say good quality of liquid goods.\\. Seem \\v[lore.title.seeker] done well!",
+                "text": "Nombres dire que boisson avoir bonne qualité.\\. Dirait que \\v[lore.title.seeker] avoir fait bon travail !"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/22/message": {
-                "ciphertext": "dOWPR0DhC/Ax44n0psyMgpVdsBeI3fogPcnJQ7X38wHCu2ZCVEB21CvPMKKP51uS+ETq4xXc5gCTCaEijGTkVftNOtL/bc3P3jix/2PJISKFxN8e1HyN5Z1+y6SZUEOJY71+TnuLpdU81NxVBFTBVg==",
-                "mac": "OxvMYkDa50O5DLNmffF0sA=="
+                "orig": "Great, it seems like everything went off without a hitch!\\. We will extract the product soon.",
+                "text": "Super, on dirait que tout s'est bien passé !\\. Nous allons bientôt pouvoir extraire le produit."
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/23/message": {
-                "ciphertext": "8AHYhIYUHsG63NdaZOZc4syo6CPLW3zjWTjW1eXTR9OYe1gfRvuLP+pSk7BbpPpd9ddvE0CJrpCPqRI3SYJKw+ukBO28ziQ2EnztzDADgf/k5QPlLFuiFJwIJt8ul1pC",
-                "mac": "Kyyvy6Hjs3CuPq2F55GdeA=="
+                "orig": "I will notify the boss of your success, so you can go back to him and get your reward!",
+                "text": "Je vais informer le patron pour que tu puisses récupérer ta récompense chez lui."
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/24/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/25/message": {
-                "ciphertext": "z+hRLXHk7bd/nbDg5sxLDkadTP7bghjVqxhkUxvOml6LxssL3QUzCOVH87uHsiAsSNkGnsdFK9yTSi8j1DwN1r4cM8qfrejo8c8QvN9mfTsK8yHzgBuMidqtdy8UpES3ABvlF+RZf0QZMjjd8aSTKkqtKYCBPKKwb4i9H4G3D6g=",
-                "mac": "x91Lg69euoz6HjdsX2sQ7w=="
+                "orig": "But you should definitely come back afterwards, so we can brew more of this fine stuff.\\. Looking forward to it!",
+                "text": "Mais tu devrais revenir dans tous les cas, pour qu'on puisse brasser plus de ces bons trucs.\\. Je m'en réjouis déjà !"
         },
         "maps/heat-village/special/distillery.json/entities/48/settings/event/39/thenStep/26/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/8/thenStep/1/value": {
+                "orig": "New record!",
+                "text": "Nouveau record !"
+        },
+        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/9/thenStep/4/text": {
+                "orig": "Brewing process finished!\n\nRequests: \\v[tmp.brewingRequests]\nQuality: \\v[tmp.quality] \\c[3]\\v[tmp.recordString]\\c[0]\n\nRewards:\n\\c[3]\\v[tmp.itemReward]x \\v[tmp.rewardString]\\c[0]",
+                "text": "Processus de brassage terminé\n\nDemandes : \\v[tmp.brewingRequests]\nQualité : \\v[tmp.quality] \\c[3]\\v[tmp.recordString]\\c[0]\n\nRécompense :\n\\c[3]\\v[tmp.itemReward]x \\v[tmp.rewardString]\\c[0]"
+        },
+        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/9/elseStep/0/text": {
+                "orig": "Brewing process finished!\n\nRequests: \\v[tmp.brewingRequests]\nQuality: \\v[tmp.quality]\n\n\\c[1]Quality too low.\nNo Rewards!\\c[0]",
+                "text": "Processus de brassage terminé\n\nDemandes : \\v[tmp.brewingRequests]\nQualité : \\v[tmp.quality] \\c[1]Qualité trop basse.\nPas de récompense !\\c[0] !"
         },
         "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/2/thenStep/0/text": {
-                "ciphertext": "R8D4Kwb1FKRpISPXuJBLnNRX1X/qx6xf5kJ9Y+HZRXQ=",
-                "mac": "GZFSl8b/RMXXTEAKqz8tTw=="
+                "orig": "50% Overheat reached!",
+                "text": "50 % Surchauffe atteint !"
         },
         "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/3/thenStep/0/text": {
-                "ciphertext": "YNnTpHVx6HeADAA6PkQiB+D6Ag0h8epc29845XUxwvudJAdR3CihKh0/diicGdcAsp2t2kd9LX0LIZhaRq0yVQ==",
-                "mac": "HvPJsEkm+0d7Xkb8s7TwNw=="
+                "orig": "75% Overheat reached! Cooling needed!",
+                "text": "75 % Surchauffe atteint ! Refroidissement nécessaire !"
         },
         "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/4/thenStep/0/text": {
-                "ciphertext": "98uw4byeNHsGDavkcMdWBYwdt54m/syCnQPtGLGS0JEiIgXaY+7bwyetMgcsHWSCB82As0H3DsonIQbz/D6RpQ==",
-                "mac": "goBvKgg1imIzOB0Ipk++Ow=="
+                "orig": "WARNING: Overheating imminent! Requesting ice!",
+                "text": "ALERTE : Surchauffe imminente ! Demande de glace !"
         },
         "maps/heat-village/special/distillery.json/entities/50/settings/event/9/text": {
-                "ciphertext": "89whsukMzLfDGjqPdRSuO+z08BMpJVM7TIjodTF8gdI=",
-                "mac": "3FBw6lSZu7X4eFlRhIYf0g=="
-        },
-        "maps/heat-village/special/distillery.json/entities/56/settings/event/9/elseStep/0/text": {
-                "ciphertext": "036zgPihhGMgsb6ycFR+83+mTy6Z0ssz8WuKIe9AfQhcIgCtFK5gyUyf9BR5RjjLg+PZrUqpJ3xXMdNKwDwZ56Pnc2L7tVvGiIoow5XQVhTa1x1qoKXfjF9TYak9H66N",
-                "mac": "vdfPl7/4shAQimVm9GMkzA=="
+                "orig": "[Preparing request]",
+                "text": "[Préparation demande]"
         },
         "maps/heat-village/special/distillery.json/entities/56/settings/event/9/thenStep/0/text": {
-                "ciphertext": "cVGcFA1GQ2BdaLXFy1Q21+eW0Rtk3rXbJE4eFbIJEZaDdYCwiLco9oEGU4uskLhKuPg6gR3t0VYfmUSWLVtkdA==",
-                "mac": "Zep0fzMNQAbBEjyNQ3wa8w=="
+                "orig": "Overheated! Starting emergency cooling!",
+                "text": "Surchauffe ! Démarrage refroidissement d'urgence !"
+        },
+        "maps/heat-village/special/distillery.json/entities/56/settings/event/9/elseStep/0/text": {
+                "orig": "Overheated! Starting emergency cooling! Quality -\\v[tmp.qualityChange]",
+                "text": "Surchauffe ! Démarrage refroidissement d'urgence ! Qualité -\\v[tmp.qualityChange]"
         },
         "maps/heat-village/special/distillery.json/entities/81/settings/event/19/text": {
-                "ciphertext": "M8Pf0r9nhuFZrsnvslrClw==",
-                "mac": "EdBDsXZLRgoZM0WtKQTevg=="
+                "orig": "FAIL",
+                "text": "ÉCHEC"
         },
         "maps/heat-village/special/distillery.json/entities/81/settings/event/21/text": {
-                "ciphertext": "JHT7gX/pBR9OpbrDR0ZOn7x4WUxX/tV1DfDh2j4RiJw=",
-                "mac": "GJDC1KzcT4fKnZu7pniB3w=="
+                "orig": "Brewing Failed!",
+                "text": "Brassage Échoué !"
         },
         "maps/heat-village/special/distillery.json/entities/81/settings/event/33/text": {
-                "ciphertext": "EOhSW2zQkly9qBN1u/hs72vOJQ3Y/589DjbMg8hxR1Ykiw/txefx2y1r0o9Alw4juX8fyk6+fRQ4wIGRKlOmFryj4RKGRl+O9L7iO4eghSA=",
-                "mac": "Yn+VZWA1Xhcnl2DQ73do3A=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/17/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/19/message": {
-                "ciphertext": "Xs+W5UJIWPOfmZtVHFUHiSsSTWKjSPdr3/Hg1rUL0oM=",
-                "mac": "Aslcrs1FumhGcQ/TAw1SUQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/20/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/21/message": {
-                "ciphertext": "PV+ko3ULFjW1VimkSCH0btPC/JjcO34r79+fF6VVjL8=",
-                "mac": "8IBl4WPPGkhDQzbZ7VRAbg=="
+                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
+                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer."
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/3/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/30/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/32/message": {
-                "ciphertext": "JARnewrnqx+kwKQ3U7YDy19VyYh2M9eFkYFXSrmHuiL/2KH89d5GOUxxuj0RzHks",
-                "mac": "f/ljo4mh+yNkHten4/ebaA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/38/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/40/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/41/message": {
-                "ciphertext": "1ykmlaf0gFRSBRfVieQkjGjfLzrxoaUQCLO40UJUrEU+uP0fnVDMSOlyEMKGYZ/D2ypN6S7AxcBNrvX0Zma7zySfI3JUis1vbbjXiDF5jU/Uv3ytSmTzQegPNygS6bqD",
-                "mac": "HssOXimKmVFXZJWCg1pO1g=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/42/message": {
-                "ciphertext": "Tj8/q5yWFpIIBLzRyJBaFzlPz1x7QNi3WCtqujGXx0W/L95uyf6tdwmJzarzDSMWxsvRXPPcc7T+xEkDewjeU+5cBAKOcR6HYy9I29n3A93UsRMW5yc+4U/qzVMNh1espmQBccmLQpQyFxLjs7WIyZF4OgouBZjDgkPBGdZ8sbpHYj3w4+buSDd0iV9Wa13d",
-                "mac": "3xl+KUpKYMLKlDT9nMHBZw=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/43/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/44/message": {
-                "ciphertext": "6MfIXDPMqXgZWP9BmwOstde8RHRjEQfEMPGEhvrxTKCthx2a6CWrw8FJsvR3ouERqwGLaDfaRM2g3xno5MBPjMzDrmBIS8h7OCZz/H1s/ycQBCQ/zmIjLzA4Tm/A7S1xGeDHeR4XG2XeTa0COGjrxL+QFrgFDipJZgJSlfkMUng=",
-                "mac": "i3toWAnOw6YnQ04UG+eqUg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/45/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/46/message": {
-                "ciphertext": "y0I+kG6E+hKLU/cFh8oivo4ttLJyQqAb4Oj5y5x6JywG6F48EwMID/PALvChmtaBTl93LJE6z8EpdrO699KZhJRNDt52qdHs8TN7yv5fpGTVm9MSG8SmJyOOoXLxHM7G3Jf10cfxrjCrzkrtaoDNFg==",
-                "mac": "f9KqnHJa8M5A2MR1AGiI8Q=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/5/message": {
-                "ciphertext": "tCUGisNrAYjuu7JllyeLpg==",
-                "mac": "STTPAu0qQzyb2b5/yZ656w=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/52/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/54/message": {
-                "ciphertext": "oglV3P+19COBp/G70OVeam6Pt3W+9zDORS716rF51zbpUtBY/a+GEunB5yeb7mcve5vq/1JTp0fJeB2ijyOKTLbRE3MWerjUZPBKGsfemu75nPsNpLLtTv5GFfV7Ero20WmSugqeL1aY5av4Gd9iV9ESD2oSscbfnyeDr8JELCg=",
-                "mac": "I+NUEERvqHW2fv2ELBzw3Q=="
+                "orig": "Hi..?",
+                "text": "Salut... ?"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/6/message": {
-                "ciphertext": "8wMnG7Ovbfwzmi42YwUnv9AA/JzBraMfhvpEnyS7R8NlaoZuEECNxmbFqxHKg0yOP5Ro49uUocZZcmMJiQMjHORoLDqZrui2tDZoqXUf1JxOPV8j6/pwq0lxZN+5a854auneEtXGXtlr+jaPKxzfqnjSmFescC0JQCuyD/ufZ3c=",
-                "mac": "4/RNuWmR0XBcgrGBZDNJ2Q=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/66/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/68/message": {
-                "ciphertext": "1rQdbbIFe0jLZ/ABSCx2emqdVas5mzsNFoCMmAB/8Uzigeor915mK4qYosi4HrkRHHXqIh3/MlSI6yc2JieeKFK5AUXh1LC9ONAYte2IW8li4WuWCLtq768U3at+ztyHtoiKubMWudk80NsSsAB4w54O0tJG7yzScEKzEn2z8gx3EYuPHHsb6dAkot89VJoi",
-                "mac": "5t3G7No8qlYRwq1O/rtjKw=="
+                "orig": "Ah, \\v[lore.title.seeker] welcome!\\. Red-headed expert of the brew is coming down as well to give explain.",
+                "text": "Ah, \\v[lore.title.seeker], bienvenue !\\. Experte en brassage à cheveux rouges aussi venir pour donner explication."
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/7/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/17/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/19/message": {
+                "orig": "Alrighty, let's get this going, shall we?",
+                "text": "Bon, on peut commencer ?"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/20/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/21/message": {
+                "orig": "Come, follow me!",
+                "text": "Viens, suis-moi !"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/30/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/32/message": {
+                "orig": "Here we are!\\. Now take a look at this!",
+                "text": "Nous y voilà !\\. Jette un coup d'œil à ça !"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/38/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/40/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/41/message": {
+                "orig": "Amazing, huh?\\. Our partners in Bergen really outdid themselves with this beauty!",
+                "text": "Génial, hein ?\\. Nos partenaires de Bergen se sont vraiment surpassés avec cette beauté !"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/42/message": {
+                "orig": "Not gonna go into technical details but it will brew us amazing drinks and infuse them with Ancient power!",
+                "text": "Je ne vais pas entrer dans les détails, mais il va nous brasser des boissons incroyables et les infuser avec le pouvoir des anciens !"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/43/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/44/message": {
+                "orig": "If we prove ourselves worthy that is.\\. You know how the Track works: No reward without trials. ",
+                "text": "Si on prouve que l'on en est digne, bien entendu.\\. Tu sais comment le Tracé fonctionne : Pas de récompense sans épreuves."
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/45/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/46/message": {
+                "orig": "I'm sure a \\v[lore.title.seeker] like you will do just fine!\\. So lemme explain...",
+                "text": "Je suis sûr qu'un \\v[lore.title.seeker] comme toi n'aura aucun mal !\\. Donc, laisse-moi t'expliquer..."
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/52/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/54/message": {
+                "orig": "After starting, the machine will \\c[3]request energy\\c[0] from one of those \\c[3]steam-receivers\\c[0].",
+                "text": "Après que la machine démarre, elle va \\c[3]demander de l'énergie\\c[0] dans un de ces \\c[3]récepteurs à vapeurs\\c[0]."
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/66/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/68/message": {
+                "orig": "You will need to put some \\c[3]ice\\c[0] in there quickly.\\. At first you can use a \\c[3]bubble generator\\c[0] for that.",
+                "text": "Il faudra que tu mettes de la \\c[3]glace\\c[0] rapidement là-dedans.\\. Au début tu peux utiliser un \\c[3]générateur à bulle\\c[0] pour ça."
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/75/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/77/message": {
-                "ciphertext": "93OX2HMwOq/2JpMrZux8ONuIvuGSBZXVO9Pk74z0E5S1BA6mj4ibU+wObrWlrtLXb/r3eXqScbXSraPb6BfH48TM0h6dm+4TcZ9+WKHGVGyf2A5N2nnO/y1vfDk5RgiY7MGHSEW4bu7Bg7jptO2KwVE7jbyaumEDwynFerRt6/pAdcjYZpLFQi4ZBPM5W7PtfiAzc3NOjOsNJyrdle7z3A==",
-                "mac": "6Orx8nY4zuPqSBRDeDd4aQ=="
+                "orig": "Later you will have to \\c[3]catch waterbubbles\\c[0] that the Track sends through those \\c[3]pipes\\c[0] from who knows where.",
+                "text": "Plus tard il faudra que tu \\c[3]attrapes des bulles d'eau\\c[0] que le Tracé enverra à travers ces \\c[3]tuyaux\\c[0] qui viennent d'on ne sait où."
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/91/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/93/message": {
-                "ciphertext": "ug0VzrZBD0SgADue+K7pNBdDkbQuBTTOrm4XFi8gCPOb3HILfI7wj7OdwBBH/cNPlmaQKkai7yq3KuO4tdMHtLyau9/GM98MN0i27f1/l5djZH+CDuYWr3CZXrL1KWuILNMv/fCY4/m85J9uzJln9uTvzEE2Gz3Er4izQ2fAnWe+mfCPQrI5mAdJHaEsLp0rUUgrhuCV1T3CC6uL1gD9gQ==",
-                "mac": "hkwnAApaatlJxod7SFhirw=="
+                "orig": "Oh, and you should also \\c[3]throw some ice at the machine itself\\c[0] once in a while.\\. We don't want it \\c[3]overheating\\c[0], do we?",
+                "text": "Oh, et tu devrais aussi lancer \\c[3]de la glace sur la machine elle-même\\c[0].\\. On ne veut pas qu'elle soit en \\c[3]surchauffe\\c[0], n'est-ce pas ?"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/94/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/95/message": {
-                "ciphertext": "6YFSdmYMsxC6B4LCkKBgsnawgvMEezkd7egfnmsKjW/+TuOPNLKvvM1f4G9aeDBqkOes+2WZW9OmFe5V4u5bQQ==",
-                "mac": "CFaUysqCYLrUYw2hxl9vdw=="
+                "orig": "Well, and that's about it.\\. You got everything?",
+                "text": "Bon, et c'est tout.\\. Tout est clair jusqu'à maintenant ?"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/0/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/0/2/message": {
-                "ciphertext": "bq768YYACAyAG55XtRQmwhz253T0IuUhmMcHlN3YXWrO1JVzLgpds5dFV3+OPu0VhMFWech49gFTcZUwsvFAcElRLXgdUy0Bb9cLWHhFtD7n3P3uQsa6Ii5hCfiQqtWc1FEHBpdhQ4LHAzP5csClXbWcw1JQLobnb+iKXuPqpJc=",
-                "mac": "Omw5MA8JFs/2K7OCTf9tMw=="
+                "orig": "Perfect!\\. My assistant Bru will check the numbers while you are at work, but I'm sure you will do great!",
+                "text": "Parfait !\\. Mon assistant Bru va surveiller les valeurs pendant ton travail. Je suis sûr que tu t'en sortiras bien !"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/0/3/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/0/4/message": {
-                "ciphertext": "f8OP9DZeJojwIgY02/SOZISAnQBL2RWAlgnhkTIi06glEkQxaVWWELWNDw16hTlC/9DmC62oLk5dwz2css7+oG7+JzRcJ1jedr8S4u4JXd76rDIwbTGsm3uH98Vix8Ajo/3SUY9HP5RtGDks83U9M8CfFG7sEBsc0EIpsPF7suT4REX5Njbmnaa+C+uD4Tt4",
-                "mac": "glYjJ1ZU8SVs+UYeJx8QGA=="
+                "orig": "I myself sadly can't watch you because I have business to attend to upstairs.\\. So we'll talk again once it's finished, yes?",
+                "text": "Je ne peux pas plus t'observer parce que j'ai des choses à faire à l'étage.\\. Donc nous rediscuterons quand tu auras fini, OK ?"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/0/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/0/6/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/1/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/heat-village/special/distillery.json/entities/84/settings/event/96/1/10/message": {
-                "ciphertext": "ivaVsQYk33emSQH2P0lEBVilsDnbAJzLsIq//JPFnqWJR+L1VAJM3qZialpiQSCRy9V7q7CBDkzZouCCmDqvdYy/aZrp7PBv6pWusMUx5XQtSWLbfbL+slB8BZzQttLbEOWjJAxOCXOUh0q4lEmSxA==",
-                "mac": "LmZfV3R0RLjDVofve2PxZg=="
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/1/2/message": {
-                "ciphertext": "EMZJAZiKx4PU6+6mINWD1mE0wUkqqx3PJMqvHKatZHt46iMYoJK9V534aud0FiNb",
-                "mac": "0/OWXS7Bq0Wyf1mFMnHerA=="
+                "orig": "Alrighty, then lemme explain it again.",
+                "text": "Bon, alors je vais réexpliquer."
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/1/8/name": {
-                "ciphertext": "GRqvUP374metn2aKOPR2FQ==",
-                "mac": "dSUJBFzE/kCiAw+EJ62HUg=="
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/84/settings/event/96/1/10/message": {
+                "orig": "This is the machine that will create our wonderful, magic booze.\\. If it is used correctly!",
+                "text": "Ceci est la machine qui va créer nos boissons magiques des Anciens.\\. Si on s'en sert correctement !"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/options/0/label": {
-                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
-                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
+                "orig": "Yes",
+                "text": "Oui"
         },
         "maps/heat-village/special/distillery.json/entities/84/settings/event/96/options/1/label": {
-                "ciphertext": "/ltfJAFklcrpO16CTy95O8qCF4ouU/gZiRgANCFoqUEij1QUHEwZP/fgehhmm9vV",
-                "mac": "QF4xbi0XSxHk5PjiaQWHBA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/elseStep/0/text": {
-                "ciphertext": "4nqEnztIWL5FJzplKi5INXhQWE1Dq3DhLqBnJn7tdY0=",
-                "mac": "cvfOl5YZo8LFpWy6IEcqZg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/3/thenStep/0/value": {
-                "ciphertext": "+am36T999CbzfgfnRlPICQ==",
-                "mac": "B/2dlIKa6dH/1Rgj5CjSrQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/0/text": {
-                "ciphertext": "lcvd9wdskZ97G7fu4Cm8wL+WfYsDe42rsG0blRQNO2pNtZe503PTMqXGDJfFHBTJAZM0OulKf6r6tjFLRZ43sWVe6oIVvjd9UxcQaNY8flUFFt1Iw5nzMiDzdoDWNqYqKsvAz29TTqrQeHbl3uRt0wgtT8apTyPBtIrHnIZti0eKJPmFv9W4RAGXs3u/z8J9koQHuTkFDWzUIhcq1Kw8Llvo/+PNFstoQpNNXdUL/hQefRFPfAJiyFZh656uQN1i",
-                "mac": "ESizHbQzh5YWaUJJO0t3Gg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/1/text": {
-                "ciphertext": "90K0oLdHs6ukt37FcrwOcecEWOB9ND/YzASw78TYdz4TmNSC0loN3k8pc1DiGTQE1ad9yX8yi6PH41O46MSZxgTbRr7OGzbFnh+YkBz83S9HzTaHvA4MyQ6oV5EOcbrsKk1f99iqTiuITN9IA4iSM/bF9dVjAWfcPtdzJqzqn4gaIlaCICvu6AKKd75GpUr9ImsFVkDlsOcW1QTW2U3h2dVm6maUw/onT/Z6kgS62VwKtPKab7CHDqYk0RJw0XIODDpdK9k/HyZNBMt2H/n4ADb0VwXu1wXVUDFHN1XTzJE=",
-                "mac": "Txkc2FBXEQNPBlQpU55TVA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/2/text": {
-                "ciphertext": "X+YA8qa0NgB4iXU7GbNRZUeXb55in/EJVG5Ga5ThaTl1SQwVaME6EfHiF5lITJx3xGhP6mCohL7gVuviaC5kahAQd3b7nK+mhhBkwXziXV7wafkkqX1UY20W21mSt/RVXabDjFLcEXHsT1bUsbGMiW7pDFR4o6TQQLMzegXPe2TR+eBoLvaJ+S99nyN2JY953ttWXV27r0hl252E7lGLh3vZx5q/l+lTTp9KebZpQxRBarGVvuFn+eGbmegxeZ8vp6AfIx6/dMl90ZYxw6lsE/1EpZD4oriMy3kwZlmqINQ=",
-                "mac": "7uVHYcQFgXMgsN3lBIASgA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/3/text": {
-                "ciphertext": "1jndUwhmmJ5soqaIssshHU32aqqm0JQ4f9XBmxMiBPmwhnW60U3SPBrPwNMioN4bfNCCj7MSqWzqpxdYI+i9hSr1CksCrOcqJPXhmweY1YqTRv+Yw5SxF1ibtu6wpeqN0aTTTGKdGgzDeDIfaXUGG3XFh3el2U+np7DUWR1rF/0RW0VD7VAQHfaXR2TJzqcYpsjFxPghem3CuQ8H4C1i09cUfmgKjnDfRvW61X/lBgBfL3Ya3dKzWE30d+LmwGFXjzFXJ5PpzGjJr7onYGjyzMhoS8m5JBL4FLpt/DUG1TJDZew3NpL6V9h6+JbWdysAI2qtqBi7suBelIclIO/LSQ==",
-                "mac": "49zSPNZMBaCjTTMIhW5Kdg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/elseStep/0/text": {
-                "ciphertext": "e8rHBluKt749IMl7FC8iZcamAtVAq3zMr8NWKQOruCE0+DxZWVhQHSrcLsxmsRo7nY6cUmoaGoLqPalQhZJNHiPoyiufLxjE2MjYti68dyqPZVyK2KU2R9vS7Ud4BA9YEwefj+iGL4p7lE7KFPVjaAMYw/usxdJHbB0hIuaieidRTiaeoYvDoC2BJk2C4dqa7iJ7wqxE8jtCv8Np4hmWhHKvhDXKYQFHYmKwsshObs1qkL+hBpCcrgOHgQTkT7fTj4dO2Qz4K0PkQnMqkYO2SnmeYNFeUI9UTnIt1qEppEWhlGVRSo3o+u++fKjhCllt",
-                "mac": "d+Izkd+hHhrInDiXj+iWCQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/1/text": {
-                "ciphertext": "mYRYaHGFGdqgRtz2qiPR0aWKu/xnKQvugXaO3CfxF6OF6P17afo+JDBv63uIrfMMGp79MKy2LKrMcxxT1cJgNaO8/Z1fLkaxTTcnCoS8b6qefe7tFK+yInler6ocV8MGXHh/GgTkBQfexUXqFRj/JU+btLGCQ7frd/W3QHNWpV4VDEBG9x5oY2++IRlcDMAp4ISbmRzFewSQ+Csc6FBJ3FTDsviDikXwFB1sGN5YaMoKQTVo/lR7GX0R7uUc6Jw23NxBDt17qLQEyymb5E8VcMWDe6bl8tPOKk402/9tHt4=",
-                "mac": "kMPsaJoF66Mna9ihwBU6Mg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/2/text": {
-                "ciphertext": "1j+xI0/VgdXGPZUqzkHjFhV7HOMTJuWIJS1p7bdz/GSEnqooTTVil2ylueMg3vQCo/CWXC+CCSXXZDwWDfA3ZXTlTDe8vY3idAaBbH3U/GtpH6xkoeqjcay8XMIX0qcIaZhqNWjDnaaWxtj2KY4NuMrRIB0yxpoRmmlF3wTicNvJr0gHARh1BpUVOjbihP8P4IHLgVneQGwfouE8epUAjnumMRbN7hpPbGr903H6FzhnqoFxSjeNkZIAksUqfbel",
-                "mac": "bhL+u8r7S8BCnkN2nphPYQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/3/text": {
-                "ciphertext": "nKcQmiSCp30/kicCPhn8ecebucgjZGyBhe3/2Lnf9ncdRmdEq6dYG/BqlVZsH0Nue40KHwhTyqoP/XHF0mBLYvRcm9p7yU73AZfrm/UoqwJWXE/fjzzAYkXHit+2Y1ExY32wAuzYyUc4gmW/ZrD9eLuqBG3VSpVQOUtVucwK/Df1vfmRk40JBh0zOvTaut62r8+bliexo4+hdp0f1aUPhf4wavjJB0Yh8ewxssqddmY=",
-                "mac": "/97n13d8eBkOjab0g0UHyQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/0/label": {
-                "ciphertext": "slgA5vMPDh1JO4mPoBNBE22cj8UHdykb9bpZj90pQ6V/cBuE4r6FcPZ/h/iA8U9A",
-                "mac": "Nzcw8m/I+9q3n5fkaGmTyQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/1/label": {
-                "ciphertext": "iKWguE8mPgY3FsTWfyA8IBuZXlAblbLQcSx6eMVm89FRqpCQUoXUeV8QLTw2kehh4GTcb+Q6ohBN9mSq96ukuL0GOtb7bPHPdPMTcpkSHYFb5qrNxTZoKKc3cMvT4rONT20v2kb+vub03ch46Ub63Q==",
-                "mac": "IDHS1rX7jW6o46b9Gmd5mw=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/2/label": {
-                "ciphertext": "bP+GfxW182mteS4dz8pbDfscj6LKVjWzoYsCOpsC0r1+yJFrBA7fN6gRftr/Ef0mIhDxGyctz3WFlPwZI94gOCowTK+yJB3n84NatL1XFjhkCRsJD9zMN0k4oZdv5s28z27PW1aaH11xXteuPpJY5A==",
-                "mac": "TXJTP7eKh7JlQMa41nCcvQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/3/label": {
-                "ciphertext": "nCVAHq0fRmoaHdNRBJuoHt/edOkhPv33inCgGmuiiR4SL1AFeY5mNXViz+I/jFt7U0FrfEZn46xF4EuQNuV2hWJvW8cuCB2sOPdllH1tJtBdHTBpY7+7QMfopmiMb6ayXQUfz5PBKQNmRFQkx9UdAg==",
-                "mac": "JM86O8Crz9poK+yLrifm0Q=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/4/label": {
-                "ciphertext": "K6U0eifX6fgLlfr2u6BDHyaKj+ewGpEvikOcjStblvKDcCa4fJDWsnwgu8n2Qz9SDFqUHXC4oNFz4ELk9oe4hFKmdRhW9h9AyUfdb9J0MZjZLmnIVLOU9fVAdskMYzWZFaugSS0CGU1AwQIuPuZQaA==",
-                "mac": "H9TEZYQ12yOLaWGNhbMVFw=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/5/label": {
-                "ciphertext": "a6swVQql5gl+xhBHYHRTIWsgVHvy3JMVGO2pa2zjPg1VVRSVXJ1gTcm4QXDb+QJu",
-                "mac": "iJ2jCe6EsdzO5DseOZAaEQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/6/label": {
-                "ciphertext": "98SAF6ZxMAqU4MYbhXFZ9WORrq4beDve9WHYlZojAad6GoJJJqtWdMmpioyrlXQP",
-                "mac": "nQdS+ypY9oArTb9jmLSeMQ=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/7/label": {
-                "ciphertext": "deG3+4LG678nAix/lWre5Khwn5MTesYDvKvaPUdrD1mydeFDFHKWXFzSoVlZq1OFKMTKTmyIBYUcOon6hGNxHA==",
-                "mac": "czoOs2YIHCgL7pL+IqxW4w=="
-        },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/8/label": {
-                "ciphertext": "uOwKEAkp+djiJMrLKt/dT9kHM8ohBcl1SfoygWsD8YE=",
-                "mac": "3WcBv95bOrUzFY7QnBHAjQ=="
+                "orig": "No (repeat instructions)",
+                "text": "Non (répéter les instructions)"
         },
         "maps/heat-village/special/distillery.json/entities/85/settings/interact/hoverText": {
-                "ciphertext": "lBOFgAzvRaof1K6I799v522xwICl2qaiOJIrYP9uVOs=",
-                "mac": "xQ/z0bgGuQKInY6Fkr3tRw=="
+                "orig": "Brewing Console",
+                "text": "Console de Brassage"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/3/thenStep/0/value": {
+                "orig": "(updated!)",
+                "text": "(mis à jour !)"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/0/text": {
+                "orig": "- Instruction to Ancient Brewing -\nQuality drinks using the mystical powers of the Track, steam and only the best natural ingredients!",
+                "text": "- Instructions pour Brasser à la Manière des Anciens -\nBoissons de qualité en utilisant les pouvoirs mythiques du Tracé, de la vapeur et seulement les meilleurs ingrédients naturels !"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/1/text": {
+                "orig": "After activating this machine, it will request energy from the \\c[3]4 steam ovens\\c[0]. Those requests have to be met with \\c[3]icedisks\\c[0] quickly and correctly!",
+                "text": "Après avoir activé cette machine, elle demandera de l'énergie depuis les \\c[3]4 fours à vapeur\\c[0]. Ces demandes doivent être satisfaites avec des \\c[3]disques de glaces\\c[0] rapidement et correctement !"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/2/text": {
+                "orig": "In the beginning a \\c[3]static bubble generator\\c[0] will be available, though later it will vanish. At this point, bubbles ejected from the \\c[3]pipes left and right\\c[0] have to be used.",
+                "text": "Au début, un \\c[3]générateur de bulles statiques\\c[0] sera disponible, mais il disparaitra plus tard. Ensuite, des bulles éjectées par les \\c[3]tuyaux à gauche et à droite\\c[0] devront être utilisés."
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/3/text": {
+                "orig": "Due to the immense powers flowing through it, the brewing machine will \\c[3]overheat\\c[0] with time. \\c[3]Cooling it with ice\\c[0] will be necessary to prevent \\c[3]overheating\\c[0] and a \\c[3]time-consuming cooldown-phase\\c[0].",
+                "text": "Parce que la machine de brassage est traversé par d'immenses pouvoirs, elle surchauffera avec le temps. Il faudra \\c[3]la refroidir avec de la glace\\c[0] pour empêcher les \\c[3]surchauffes\\c[0] et une \\c[3]lente phase de refroidissement\\c[0]."
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/1/text": {
+                "orig": "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will damage the ingredients and \\c[3]reduce the overall quality\\c[0] of the product.",
+                "text": "\\c[3]Ne pas répondre à une demande\\c[0], \\c[3]Mettre de la glace dans le mauvais four\\c[0] ou \\c[3]faire surchauffer la machine\\c[0] va endommager les ingrédients et \\c[3]réduire la qualité générale\\c[0] du produit."
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/2/text": {
+                "orig": "On the other hand, brewing \\c[3]quality\\c[0] will increase at a higher rate with \\c[3]growing requests\\c[0] and when maintaining a \\c[3]high heat\\c[0]!",
+                "text": "D'un autre côté, la \\c[3]qualité\\c[0] de brassage va augmenter plus rapidement lorsque les \\c[3]demandes augmentent\\c[0] et en maintenant une \\c[3]température élevée\\c[0] !"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/3/text": {
+                "orig": "The \\c[3]higher the quality\\c[0], the \\c[3]more useable drinks\\c[0] can be created from \\c[3]the same amount of ingredients\\c[0]!",
+                "text": "Plus la \\c[3]qualité est élevée\\c[0], plus le \\c[3]nombre de boissons utilisables\\c[0] pourront être créées à partir de la \\c[3]même quantité d'ingrédients\\c[0] !"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/elseStep/0/text": {
+                "orig": "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will do \\c[3]damage\\c[0] to the ingredients. With too much \\c[3]damage\\c[0], the brewing will \\c[1]fail\\c[0]! ",
+                "text": "\\c[3]Ne pas répondre à une demande\\c[0], \\c[3]Mettre de la glace dans le mauvais four\\c[0] ou \\c[3]faire surchauffer la machine\\c[0] va endommager les ingrédients. Avec trop de dommages, le brassage va \\c[1]échouer\\c[0] !"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/0/label": {
+                "orig": "Start Brewing Process",
+                "text": "Démarrer le Processus de Brassage."
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/1/label": {
+                "orig": "Brewing: \\c[3]\\v[item.367.name]\\c[0] (Material: \\v[item.372.amount] | Owned: \\v[item.367.amount])",
+                "text": "Brassage : \\c[3]\\v[item.367.name]\\c[0] (Matériel : \\v[item.372.amount] | Possédés: \\v[item.367.amount])"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/2/label": {
+                "orig": "Brewing: \\c[3]\\v[item.368.name]\\c[0] (Material: \\v[item.373.amount] | Owned: \\v[item.368.amount])",
+                "text": "Brassage : \\c[3]\\v[item.368.name]\\c[0] (Matériel : \\v[item.373.amount] | Possédés: \\v[item.368.amount])"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/3/label": {
+                "orig": "Brewing: \\c[3]\\v[item.369.name]\\c[0] (Material: \\v[item.374.amount] | Owned: \\v[item.369.amount])",
+                "text": "Brassage : \\c[3]\\v[item.369.name]\\c[0] (Matériel : \\v[item.374.amount] | Possédés: \\v[item.369.amount])"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/4/label": {
+                "orig": "Brewing: \\c[3]\\v[item.370.name]\\c[0] (Material: \\v[item.375.amount] | Owned: \\v[item.370.amount])",
+                "text": "Brassage : \\c[3]\\v[item.370.name]\\c[0] (Matériel : \\v[item.375.amount] | Possédés: \\v[item.370.amount])"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/5/label": {
+                "orig": "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]",
+                "text": "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/6/label": {
+                "orig": "Turn Quality Notifications \\c[2]ON\\c[0]",
+                "text": "\\c[2]Activer\\c[0] les Notifications de Qualité"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/7/label": {
+                "orig": "Turn Quality Notifications \\c[1]OFF\\c[0]",
+                "text": "\\c[2]Désactiver\\c[0] les Notifications de Qualité"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/8/label": {
+                "orig": "\\c[1]Cancel\\c[0]",
+                "text": "\\c[1]Annuler\\c[0]"
+        },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/elseStep/0/text": {
+                "orig": "[Machine inactive]",
+                "text": "[Machine inactive]"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/analyzable/text": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/0/event/0/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/0/event/2/message": {
-                "ciphertext": "gEpu4bPmBIXlfnG/uWHYehqcLcP6MjxTUodAaQ0Yz2ib6EXVNTDVEprsJA6zBAYTyD2WJWy8Y1xm5Dpi2l2K/xNeB6XcZAVhsl3WlIZ6b6QMud1zTzUQJPVA6PrVXKoHu70bgViBo1stv+jmC/MAaA==",
-                "mac": "8KWLtkLbjdQky0caxrOJYg=="
+                "orig": "\\v[lore.title.seeker] impress Ancients for great liquids!\\. I will keep eyes on numbers.",
+                "text": "\\v[lore.title.seeker] impressionner Anciens pour bonnes boissons !\\. Je vais garder œil sur nombres."
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/1/event/0/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/1/event/2/message": {
-                "ciphertext": "nHZEWQTnraDJ5q3saXkYL0WIr4Q59IJBnQ4MrnWFKw6/Jm4Pw6Kr4cJbHXNKSd7aCWIXtp6qmEqjxvd5VtCXPETUNJ1w2veBhsLj64a+wlM=",
-                "mac": "WM+14Tzvty1lyeqzkQ7GqQ=="
+                "orig": "\\v[lore.title.seeker] done well.\\. Extracting goods will done soon.",
+                "text": "\\v[lore.title.seeker] avoir fait bon travail.\\. Extraction très bientôt."
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/2/event/0/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/2/event/2/message": {
-                "ciphertext": "aY88sDA6FgQoOr+aH39wW/8C/TviArphW2VvbUKTCeOp83U/7Tueicku2/BI0JTczvbcIpiR0NkrTzT73k7pL1nEWhCp05cKsnvPlMULsmtePJZXACgYlVspqYUojb8A",
-                "mac": "6K87G6r31SyO+BqjSg59ng=="
+                "orig": "\\v[lore.title.seeker] talk to Ms. Ryda upstairs.\\. Much progress is on the foot.",
+                "text": "\\v[lore.title.seeker] parler à Mme Ryda en haut.\\. Nous faire beaucoup progrès."
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/3/event/trade/event/0/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/3/event/trade/event/2/message": {
-                "ciphertext": "BeQSCsHnFKNgGWQhcfayQXz4laGynGnZX88uQeF9j38qcsAye11hoQRFc2qDvHhgK3Lvq2QG8Gql3fA0UHP7hg==",
-                "mac": "00CQPQI0xhZiNQyyAvOo5A=="
-        },
-        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/3/event/trade/event/3/canceled/0/message": {
-                "ciphertext": "GuxJ1ZOqdVdQmYOW3ckgwJ9ixQsM+xZUkQ4qN2u1RxgHwmm41IV5Aye6AIInNlFr",
-                "mac": "kd9c8aVv9OuLZqhZnlKk7Q=="
+                "orig": "\\v[lore.title.seeker] need brewing ingredients prepared?",
+                "text": "\\v[lore.title.seeker] avoir besoin ingrédient pour brasser ?"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/3/event/trade/event/3/traded/0/message": {
-                "ciphertext": "nIBDeQgvVftOa8m5+E/6DSrA3ih0rYwGoFbtJtaeNNjtyO8ZcMZzZAF4EfzJ1AGi7ijwLMRjE6eI1ZpzptNCPtPBXYaaGHJfqNV/glnlNuw=",
-                "mac": "yzViUcQRnAfPhdb9LsuPJg=="
+                "orig": "Wish much success.\\. May Ancients bless precious liquids!",
+                "text": "Souhaiter bonne réussite.\\. Que Anciens bénissent liquides précieux !"
+        },
+        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/3/event/trade/event/3/canceled/0/message": {
+                "orig": "Maybe next time, yes?",
+                "text": "Peut-être prochaine fois, oui ?"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/0/name": {
-                "ciphertext": "xRgwgUDCM/ooFeeVhrNK8g==",
-                "mac": "gQjEKQuhAZnCoVMmMRV+ww=="
+                "orig": "Bru'shy",
+                "text": "Bru'shy"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/2/message": {
-                "ciphertext": "BeQSCsHnFKNgGWQhcfayQXz4laGynGnZX88uQeF9j38qcsAye11hoQRFc2qDvHhgK3Lvq2QG8Gql3fA0UHP7hg==",
-                "mac": "00CQPQI0xhZiNQyyAvOo5A=="
-        },
-        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/3/canceled/0/message": {
-                "ciphertext": "GuxJ1ZOqdVdQmYOW3ckgwJ9ixQsM+xZUkQ4qN2u1RxgHwmm41IV5Aye6AIInNlFr",
-                "mac": "kd9c8aVv9OuLZqhZnlKk7Q=="
+                "orig": "\\v[lore.title.seeker] need brewing ingredients prepared?",
+                "text": "\\v[lore.title.seeker] avoir besoin ingrédient pour brasser ?"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/3/traded/0/message": {
-                "ciphertext": "nIBDeQgvVftOa8m5+E/6DSrA3ih0rYwGoFbtJtaeNNjtyO8ZcMZzZAF4EfzJ1AGi7ijwLMRjE6eI1ZpzptNCPtPBXYaaGHJfqNV/glnlNuw=",
-                "mac": "yzViUcQRnAfPhdb9LsuPJg=="
+                "orig": "Wish much success.\\. May Ancients bless precious liquids!",
+                "text": "Souhaiter bonne réussite.\\. Que Anciens bénissent liquides précieux !"
+        },
+        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/3/canceled/0/message": {
+                "orig": "Maybe next time, yes?",
+                "text": "Peut-être prochaine fois, oui ?"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/5/event/trade/event/2/message": {
-                "ciphertext": "BeQSCsHnFKNgGWQhcfayQXz4laGynGnZX88uQeF9j38qcsAye11hoQRFc2qDvHhgK3Lvq2QG8Gql3fA0UHP7hg==",
-                "mac": "00CQPQI0xhZiNQyyAvOo5A=="
-        },
-        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/5/event/trade/event/3/canceled/0/message": {
-                "ciphertext": "GuxJ1ZOqdVdQmYOW3ckgwJ9ixQsM+xZUkQ4qN2u1RxgHwmm41IV5Aye6AIInNlFr",
-                "mac": "kd9c8aVv9OuLZqhZnlKk7Q=="
+                "orig": "\\v[lore.title.seeker] need brewing ingredients prepared?",
+                "text": "\\v[lore.title.seeker] avoir besoin ingrédient pour brasser ?"
         },
         "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/5/event/trade/event/3/traded/0/message": {
-                "ciphertext": "nIBDeQgvVftOa8m5+E/6DSrA3ih0rYwGoFbtJtaeNNjtyO8ZcMZzZAF4EfzJ1AGi7ijwLMRjE6eI1ZpzptNCPtPBXYaaGHJfqNV/glnlNuw=",
-                "mac": "yzViUcQRnAfPhdb9LsuPJg=="
+                "orig": "Wish much success.\\. May Ancients bless precious liquids!",
+                "text": "Souhaiter bonne réussite.\\. Que Anciens bénissent liquides précieux !"
         },
-        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/elseStep/0/text": {
-                "ciphertext": "4DYVefXv9eojro864wxP6NpNrErMTcNq5qXUVQ+3ozk=",
-                "mac": "Nxtt5/gNkff5JKs/4RuvyA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/4/text": {
-                "ciphertext": "INbQZrYYN/AylZL7T3YxGE+BPrLhqw3JM++i+kVDd2Brr3La3pZueU8LoAtw9UjHkWpXgnYyBSokc1JVYspgaxiVo1fKXkjtNnYOyeuCG4V0lBmTMkIU1lu+lVhf/C2Z",
-                "mac": "agL3ZyVZVq5Vl6oemM8bMg=="
-        },
-        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/5/text": {
-                "ciphertext": "RU0D9ZImLGIFwbXztLIy1zRsyJGtyVSL1oeZJIkysHt03CI/hvv8l9i6XsFn/posPW599rVvwvcEEY1WhgT/Mwlby+UqDHUWyPiwNuvxGSdiLp/N/QAprFiK2VoYtLFiZfJY4jMJgZV5NoCNjkimZxtjhbw3s1H1VMxFQb3Q+X8EsTzMS8LhSiN08URzUfX7MLXDeMo6kvYRxF6mBTk7vjKiCgZLBu9hvw5Fl7wrYW8m5NjhLQFhwdO9DR057hL65brv5YBGKC7yagcfu07/SEeEut9BowkEPnNp6b2CsZO8DIwBtixd/nQ68ltw9nNKnHlzH29vQnGijGuSWUeDO/QZkHFLN0Awx+3Z/H4VnlBIDfwSqF2W9WWUEsJ7IAV5",
-                "mac": "xX9F2O8NXOrf5XrQ450gtA=="
-        },
-        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/6/thenStep/0/text": {
-                "ciphertext": "p5CSixHysY0FmyyFTUIDQyeoUmm62Nq1oan8IRGf2ezNQ8En3CNZymrKX5jrJ4vQ/CaHy1d/nPdKA6lHYWcedmifHVXjAyb1ewj33l44T80tQHPcHXP/oiYqMI4wIiOc1vJm8glj2RK3dfF6jM7W2zaQqPIr5TNn4n7dXbiu6XLL8B3yVHdfpKzWmch6RHwoSSFCI1/RcrrZV+UxNlc8m2ChokkMHTyhQLmIfQai4m/U9hjDts0xZsFrnk/14pnJ27cS8LZlaJukpFYBCMrySV8ShSWY0HCzwMPdvx4bKFTedEWyPMfiDaOBs19aRg8RYI3iSn//sW124QQukKtkplekDc/i2gC8W0agq7fbjth+yGNLHofc/wAbFGTH6wbBS8AATLOjlCHvMWvEwrExUxbHn8XvICYe5YK5mFJ1N2NRw9w/2stHmvxUeMxGeUpx",
-                "mac": "Wn/IODHMVFelFuCYsiSLIA=="
+        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/5/event/trade/event/3/canceled/0/message": {
+                "orig": "Maybe next time, yes?",
+                "text": "Peut-être prochaine fois, oui ?"
         },
         "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/hoverText": {
-                "ciphertext": "AJtKJoTPgfpxliYqd2nOkZU1lpMhFuz9IyA/BKl2+Nk=",
-                "mac": "sXXEyiLyGNS39vMKFhBeiA=="
+                "orig": "Brewing Statistics",
+                "text": "Statistiques de Brassage"
+        },
+        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/4/text": {
+                "orig": "~ Brewing Statistics ~\n\nQuality Highscore: \n\\c[3]\\v[map.qualityRecord]\\c[0]",
+                "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualitées :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
+        },
+        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/5/text": {
+                "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
+                "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+        },
+        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/6/thenStep/0/text": {
+                "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
+                "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName] : \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+        },
+        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/elseStep/0/text": {
+                "orig": "\\c[1]- UNDER CONSTRUCTION -\\c[0]",
+                "text": "\\c[1]- EN CONSTRUCTION -\\c[0]"
         },
         "maps/heat-village/special/distillery.json/entities/91/settings/text": {
-                "ciphertext": "PDirWCNav0SzUPupOEVzwwVncsQVOug3MUEtSqv5tyU=",
-                "mac": "USiQznovjVeRtLG/6Pv0lw=="
+                "orig": "Brewing Machine",
+                "text": "Machine de Brassage"
         },
         "maps/heat-village/special/distillery.json/entities/92/settings/text": {
-                "ciphertext": "lVjnjdx4e5JQDC9UwGJarjbdeTygkONMbJeOtFyU1cg=",
-                "mac": "rYhLp6gtL96DFe8S1Ha2dQ=="
+                "orig": "Left Waterpipe",
+                "text": "Tuyau d'Eau de Gauche"
         },
         "maps/heat-village/special/distillery.json/entities/93/settings/text": {
-                "ciphertext": "T6ywFF+S/Ej23xVTyfjNwTaVryA5sZdJj5lR6WC2CG8=",
-                "mac": "0bD7ml6F8EeYOu2ce4oMkg=="
+                "orig": "Right Waterpipe",
+                "text": "Tuyau d'Eau de Droite"
         },
         "maps/heat-village/special/distillery.json/entities/94/settings/text": {
-                "ciphertext": "rd32a6dTWP3n8d38yfD35RSfdGxZdm9BpeNVQtSdpT0=",
-                "mac": "DDoVa5LlUCvoJbYQcDLcJQ=="
+                "orig": "Steam Oven #1",
+                "text": "Four à Vapeur n°1"
         },
         "maps/heat-village/special/distillery.json/entities/95/settings/text": {
-                "ciphertext": "W0i6PSibpzNn6om5twVBlPCpUl+5ZUi5EDpooqKUcp4=",
-                "mac": "vAJMx8uM3dA0kdQpHv05+w=="
+                "orig": "Steam Oven #2",
+                "text": "Four à Vapeur n°2"
         },
         "maps/heat-village/special/distillery.json/entities/96/settings/text": {
-                "ciphertext": "0YHGyF+F0tqP2+TWpeqKxFl/7kpNuZPVtqLfRqdZ6D4=",
-                "mac": "g/jDGEdsILOymAPD1bnvVA=="
+                "orig": "Steam Oven #3",
+                "text": "Four à Vapeur n°3"
         },
         "maps/heat-village/special/distillery.json/entities/97/settings/text": {
-                "ciphertext": "oVt2Q1olqZPASL06OhQeYhUQzDf87VTqz8mC6+i2aUo=",
-                "mac": "WfcZd5+xbe9HR+s9SPlDNg=="
+                "orig": "Steam Oven #4",
+                "text": "Four à Vapeur n°4"
         }
 }

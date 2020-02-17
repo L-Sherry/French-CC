@@ -1,378 +1,378 @@
 {
         "maps/jungle-city/interior/faction-greens-1.json/entities/11/settings/npcStates/0/event/2/message": {
-                "ciphertext": "yH8oId0qSgFVQQNhx673Vyu185z8q59hPN1glHGc3fd9gLDXNf7aMxgzcHNRdfaaxjNTShkwuRQ8w2bKjWKspYoxiGPCyN/V1Kf5vNUa+JylFy/ygtggGj0VKsrMq7Rla/P297Jx9rBo34xbN6FhMrkYd9uP02wapuC8X1LJW7UWOQakKfSiijQGSHgiiiCu",
-                "mac": "m8gzDHAV8D3RVcRlp7lWVw=="
+                "orig": "Hey there, Seeker!\\. Welcome to the comfy retreat of \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0].",
+                "text": "Bonjour, \\v[lore.title.seeker] !\\. Bienvenue dans le confortable refuge tranquille des \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0]."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/analyzable/text": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/0/event/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/0/event/2/message": {
-                "ciphertext": "uruJ6Uz7CNrzQS90dknHKbGmFzVgcbL9J7OeMevfbGb2fyhBxk/HmfRkI9Tx7mHGzAQy9jDBWnjFgGE+wjY9EymTtJtWGgtXrcU2Ano82Fan/7ywMjJS7Yzk/JrVrr2MB1Wczk9USBY7y9RzTtp29g==",
-                "mac": "dVUC8B+iQ476mdRvVi07RA=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. The Track blessed us with peace right now.\\. Please savor it!",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Le Tracé nous fait l'honneur d'être en paix pour le moment.\\. Savourez-la !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/11/message": {
-                "ciphertext": "PudV3hfK4UJwT0rPGfp53kXnfJf4Bu1c8+uM2pu4Lgdpzta1N7jy0x0Ebr0E1QsEu0ekveFPrY9QwuW+UJe6xg==",
-                "mac": "Veago83oOwIx5Tr6jjkHzQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/1/message": {
-                "ciphertext": "AvJxPKEbbqREEJ2Soo4wolbASYxNzpKXlZEbAGUjwnw79HxK+uO22bRlT1zkhtRMLdgFaviEV2mvGkkEkqkonrr9a2BeZ9G7xLZ84O6fbxt12UQ/QRdSUav/BPUnF4Ew",
-                "mac": "184JMw8+CyMS5gpYSqp5og=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/2/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/3/message": {
-                "ciphertext": "Ap/Do0KUks/ndNlJg9WbxzvccKL8PdDEUr+YVcL+NFV+AfwP1ZyhcJVYolQ2oaYIKKn7u8NJT2iBxudXsseaYwtSCR4BpCc0ag9RFcGbwJQFGXeDz+BLip7E1WSjJ7itgPUTQmqjTh1Q0S4IRk+cVQ==",
-                "mac": "Rzw43CiiogdRA7NJK42m4w=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/4/message": {
-                "ciphertext": "ENuXQy9LRXlM9Swhkke0TdLj3WLmSlcvQLeIkzLXDhKsQnHN0H9MKGhc588nTPEmeiJd0kAjX6FeBhLWrISz/xJOsLlQv7k/VzQQaIgbQmw7yU+QYt9ShF/inBSikM7U",
-                "mac": "M3H9M6iLMlpuz+tCgNhLOQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/6/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/declined/1/message": {
-                "ciphertext": "jcVEDTh7iAf7xFnHHSj42EiO8DEXQVEJL9jfbz5Lau51kx0UELVtLIPjcYN/mdIIbtRpYFwTJtuToAjICG76ByNi821pXrUAwc+kuB2zbKo=",
-                "mac": "yLDnvvSomLj39wy2wUzupA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/declined/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/3/message": {
-                "ciphertext": "+3YJpav9oMJBxEmoqOfVbTeYFy8wUYwkNYGnt5OrEtXjLkicsfFRN5vYiEY0gEGH2JpFw2vRBjRmyeCX6qa4QwBIC+AV5iWZwCi4hniCwcsL6O/0ijv+PQhGkLfJhKu7UNKLCGs2noSZj2Avlr6e0A==",
-                "mac": "QEHoj6wkf9EiCiWF99/CCw=="
+                "orig": "Ah, a \\v[lore.title.seeker].\\. Such a pleasant sight, welcome to our snug little retreat!",
+                "text": "Ah, un \\v[lore.title.seeker].\\. Quelle joie d'en voir un. Bienvenue dans notre petite oasis confortable !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/4/message": {
-                "ciphertext": "JXJIcryaVnwzVkV3tkYSL4OIMELgfBzkKTmibFNyT65jW4XBnRp57hyDSeiRVHVVKGr2vrKKpUiLLqYpVXaU19GM3gbjpTKRrRKBS3MYZlg+8Eg5B9x72717Idc8ASFijYq3dfeR/EPB4cIGn21qQA1Xr5MGdpKsV6vHkAER8g96TeCmTiOLyJalV6M4KkBzrXJqKo0fRsJoEBYBOERv3jEQ/70xUY4oFnwOWPBr5NiGF3Fv9YnETsJeG+WqPgZ4",
-                "mac": "r5/u+b/SCLGL9ya/cd+/RA=="
+                "orig": "We, \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0], strive to protect the balance and purity of this wonderful habitat that is \\v[area.jungle.name].",
+                "text": "Nous, les \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0], faisons ce que nous pouvons pour protéger l'équilibre et la pureté de ce merveilleux habitat qu'est le \\v[area.jungle.name]."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/6/message": {
-                "ciphertext": "NEYtkqwYd6qGx5HtKKrwiz2aOd6dPrTDbsl78dMM3DD6UxHKjgf5z2z7E5KDN9iCYIriYVj9Ck8gzLLlGR/7nSKky/pJbUX3f01VDI7iB71Bkb4NOgxayZZ7ROe9K3tmdhsRuOuimjWR7mILd7WB35aMmyxdWIhcB1ojB/DJhEw=",
-                "mac": "6gU0NjvRaGhSob5eeorj2Q=="
+                "orig": "Of course, with humanity always expanding, this has become both more and more important and challenging.",
+                "text": "Bien entendu, avec l'expansion incessante de l'humanité, ce travail devient toujours de plus en plus important et difficile."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/7/message": {
-                "ciphertext": "N0nVaDVrhaSiLm4xkStjHLbsnUhgpfIJSQiktcwhmeQVJzqEK49/FPCug47TtjaXD6B/AQfx1Zogh6pbgcynKJ0j/0EdupjedI8NOL2O/56g54TqO8LsIaGJ0c/Oev5XYajhlqbyQsGgufA7VajilA==",
-                "mac": "pBz/43Ov2vwIyA/DIOkZlA=="
+                "orig": "Having one as distinguished as a \\v[lore.title.seeker] extend their hand to aid us can make a vast difference!",
+                "text": "La main tendue de quelqu'un d'aussi distingué qu'un \\v[lore.title.seeker] peut faire une énorme différence !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/8/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/9/message": {
-                "ciphertext": "IOrWkBmPA4KQ4iGib1iDCmTMaSKRt+XBSiEf+WxVlxpNw6/cAFwiPFvn27fRSuybQzReKWmbcMNIhsjnsz0rcbJoZUthNl6xdBGXevPbe6oq8dybOnUiNNLomygis6wGhWD6iirzs6f0ogNxK7TCiFGJeDls3myGoQHZuQImHr1H5NKHwwVor1zWPjQH7O5W",
-                "mac": "ZSSHDzqB5zNw15UYrfc8AA=="
+                "orig": "In fact, just now we are in need of someone to protect one of ours during a screening of local water sources.",
+                "text": "En fait, nous avons déjà besoin de quelqu'un pour protéger l'un des nôtres pendant une vérification des sources d'eaux locales."
         },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/10/event/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/10/message": {
+                "orig": "...",
+                "text": "..."
         },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/10/event/2/message": {
-                "ciphertext": "uruJ6Uz7CNrzQS90dknHKbGmFzVgcbL9J7OeMevfbGb2fyhBxk/HmfRkI9Tx7mHGzAQy9jDBWnjFgGE+wjY9EymTtJtWGgtXrcU2Ano82Fan/7ywMjJS7Yzk/JrVrr2MB1Wczk9USBY7y9RzTtp29g==",
-                "mac": "dVUC8B+iQ476mdRvVi07RA=="
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/11/message": {
+                "orig": "Do you feel ready to assist us and our mission?",
+                "text": "Vous sentez vous prêt à nous assister nous et notre mission ?"
         },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/10/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/1/message": {
+                "orig": "Wonderful!\\. The investigation was long overdue because of the dangerous location.",
+                "text": "Merveilleux !\\. Les investigations étaient bien en retard à cause de la dangerosité du lieu."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/3/message": {
+                "orig": "Meet up with Gardener Linde at the \\c[3]Royal Grove\\c[0].\\. She will be waiting near the teleporter.",
+                "text": "Rencontrez la botaniste Linde dans le \\c[3]Bosquet Royal\\c[0].\\. Elle vous attendra près du téléporteur."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/4/message": {
+                "orig": "Keep her safe so she can work for the well-being of our environment!",
+                "text": "Gardez la saine et sauve, pour qu'elle puisse travailler au bien-être de notre environnement !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/6/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/declined/1/message": {
+                "orig": "That is truly a shame.\\. Please come back when you have changed your mind.",
+                "text": "C'est vraiment dommage.\\. Revenez ici si jamais vous avez changé d'avis."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/declined/2/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/2/event/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/2/event/2/message": {
-                "ciphertext": "2hac4rV0yZ/ycIJ8JdKTniPDmM/OG6c26XGMfrm1SVfWS3KxeQi6/f0EVhoMnxq0OF/HxbkR+c4nfe2baqarf5IHAI0bP7gHd+UkysIBUZ4Q4hCYNpJe2wKJLVUIBw/EwqCA1l8HahDureo6LC9z703XdBOXYbgYHAj/JIq2jls=",
-                "mac": "65Qfr4mal0v4+DYhTonzBQ=="
+                "orig": "Meet Gardener Linde at the \\c[3]Royal Grove\\c[0] and support her.\\. She is waiting near the teleporter.",
+                "text": "Rencontrez la botaniste Linde dans le \\c[3]Bosquet Royal\\c[0] et assistez là.\\. Elle vous attendra près du téléporteur."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/3/message": {
-                "ciphertext": "tPbC9qWSXzSrhjHbnmwH0N7Am7V831OqtOaTcwEj5jkxHo3NHI8mfPXjksUlLflRb+dOI2MGnhSNZXMEMYUGgrRfsoqLP79urgQ+bOzorZ0r3oolhhXzKdSHe0lWBXHlq2GVGg9ubzzdV9BSrKKtlkzvzB4zi+lWGH5sgpf2Lcj6e0apVtM8tMtRZMiHmFNo",
-                "mac": "mxgfGTcVX86f+3rq332IwQ=="
+                "orig": "Ah great, welcome back \\v[lore.title.seeker]!\\. We already received the water samples and started the examination.",
+                "text": "Ah, super, bon retour parmi nous, \\v[lore.title.seeker] !\\. Nous avons déjà reçu les échantillons d'eau et démarré les examens."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/4/message": {
-                "ciphertext": "lARsD+xSmAK5kTkLEnEtsNU5q9ecRJs9zfnbx9aSK/qRVGT8E1v1MYUNJW86klNG0/OMSq3wR55ObK4jlwa5tVAcuvtRSuXqdMQ1aVmk8Qjwv/iSU5s5cMkyrRVa8LEJjiQPlW2P2v3o6iRYhcVgEg==",
-                "mac": "8/PYSsUJYnszmwSvSm2wzw=="
+                "orig": "The data has been dearly missing.\\. Now we can finally get back on track with our work.\\.",
+                "text": "Les données nous manquaient vraiment.\\. Maintenant nous pouvons enfin recommencer notre travail."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/5/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/6/message": {
-                "ciphertext": "DqDiQuWg0resdvAkKctrWNQ3SouN9PIEuRDmMDL4N97qiUvA/O357/zQ6RySJUGtklC2ceeRl4IuCiLy1Ki8aLs/HRQz1Y3V49ag3y8qQgsjY99EKLNLFaqnXP08wGavNoWtVZBXeUvJOh9hEPBygauxsQslCLCIvDAp+1mYxTxGGc+z0ln5AAm6GlmNsB8/D1xisMQ8BJnSWxx3K/w1j05gXX3KYx47hPiZvxfx2/Y=",
-                "mac": "q/IPaS5ANkCAstsn/0xh6A=="
+                "orig": "Well, it will take some time before we have useable information.\\. Maybe we will need your help again, noble \\v[lore.title.seeker]!",
+                "text": "Bien, cela va prendre du temps avant que l'on ait des informations utilisables.\\. Peut-être que nous aurons encore besoin de votre aide, noble \\v[lore.title.seeker] !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/7/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/8/message": {
-                "ciphertext": "lQZnO2gai+Q2Ci+VDyw9Z47lXfn96Q5eDNQkAXlNy7GX7HlufNNZhM+DprsdL3rN24atVndZqrby/P/Y3dP76pCJfRfqGjL8HLOiy12C0GWeyBKZVokeKcFsTPhrYIVZ",
-                "mac": "YjW/6rv2EOrsbs6/QNbojQ=="
+                "orig": "But for now, please take this reward.\\. May the Ancients' bless you!",
+                "text": "Mais pour l'instant, prenez cette récompense.\\. Que les Anciens vous bénissent !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/3/event/quest/9/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/4/event/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/4/event/2/message": {
-                "ciphertext": "uruJ6Uz7CNrzQS90dknHKbGmFzVgcbL9J7OeMevfbGb2fyhBxk/HmfRkI9Tx7mHGzAQy9jDBWnjFgGE+wjY9EymTtJtWGgtXrcU2Ano82Fan/7ywMjJS7Yzk/JrVrr2MB1Wczk9USBY7y9RzTtp29g==",
-                "mac": "dVUC8B+iQ476mdRvVi07RA=="
+                "orig": "Greetings, \\v[lore.title.seeker].\\. The Track blessed us with peace right now.\\. Please savor it!",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Le Tracé nous fait l'honneur d'être en paix pour le moment.\\. Savourez-la !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/4/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/10/message": {
-                "ciphertext": "UpZuGxqXV/abfTB6UPRFWaHcYXPCHK8WFX3oFSriIpPK/i2Ley4tmTZKD28iGO6//S1Mi9XxmFexSerAk+h8sHwFnALOKJdM1+VC4pQBMNaTtr9SpFyhQP5sqeFHCUSIZS72kZ3+jlDGW6GrBWEMEVpKooBz9hJfqKL2jevA5nNUx4RX10w2HFqVsOHtImEnpnTo44Smw4sig8tWrA28J6XZu4pB62F/tNqCYCFsXOk=",
-                "mac": "Szo6t+2EmSw7emyVf06Gpg=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/11/message": {
-                "ciphertext": "cKlaVh9btZe3+0cUOAqeVVAdVcaCOAKDvbwqoR+d48Z+R+0Nk2886fyyzP1O7hsaYFUtZdDsMC3pFADGj7ogD6M45ugIsPEXdUF7QExlD2E=",
-                "mac": "n5m9xcfaptP8yT4LkVfCAQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/0/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/1/message": {
-                "ciphertext": "bbW2kyqXq34eMbhw2NdI0N829Wff8w2HoZwjACQ+2gixByHwhlTPjTwJO7Nare6HGF8nASdMpFG32Mgmr6FYJJ70yLbfH+TdwwSe/1MF2Dw=",
-                "mac": "ob2dTdy6rIFGbGNSqBuqWQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/10/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/11/message": {
-                "ciphertext": "zS2M0VsVPVQUSYhtw7XoQw==",
-                "mac": "GXr9YyyeTQGqN5Ezg8HhGQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/3/message": {
-                "ciphertext": "Pt3jBSCJgquY01owUSAr/BG09MSdWZR9U0dDs6u0IJzlMYu+fBnm62fwLiUZAJarf4UCBIJmEZC9//2h5YKUp8M7mpeKEe+a6p/IfMWIxbutImmMUF7IX3M/mro5Q9KRaIc9l+JADdUKjO1Hw937AexQPQGZEDD83jMrlTH+Q6M1C4PLBszCPtAs9sl4YstP",
-                "mac": "Qa6vnp+SZX+YG9k/j9fTxw=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/4/message": {
-                "ciphertext": "/9dg60DCnUkdKB8aYcCUanML9+zHsS/Fut+3P92c0/CZy5J9KZQ9QCoBxICfTQQ8vPzY0lYIXsWLZmfVJiNKYA9nxLcEeKgvkn5hZGCb4VL9Zmo8T+0reMaHjLdlrBuTHtuKDURnwGjFbpSOtYmbSj4DHnNsS78c3/YU1doIZiWPmyMPdTiRCCOTvQ0ytSRrJNJz+J6yJG7+UZuP0LRuMA==",
-                "mac": "fBFnIvNbikG5PH+yuRZe3g=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/5/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/6/message": {
-                "ciphertext": "S+ezSmi0qCMKZHc14huSUCeTXV5Oq0fqQ4AKnIraqrxd/44RDvmirD8L6qFeX8zqTviiTsAYIV9AYIAOW1uFMUQcSdPQGcgnAggLK7Fpwzf5bczyU7FqS8mcG4TuFffecsR+nOxtXh1dwljSnqtd0ggyN1rwm5BEJUV/tJF1XLuSaiy86zClFQ2IuGy1tNtP",
-                "mac": "N2k3q2aNQ7xEXJkqDBpLPg=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/7/message": {
-                "ciphertext": "ZJGycEAj2TseU7iIzAW/LBUEUawGBwIVo75LJ3mpvE77sxmSQ6GTDhcdrwnr1lq78rL52+Qmlk0LLPtWhS1yS2WvQCuckM5xFBtKeTrt/7RTC8h+p2OvBBULscrCBPQO9bW0g5WhemVnmSiFVPujyx6aWx6yNfa97qTwGFEphmN3c5h7ADe8g5FHCFBYSYXVThCmk1gTJ6cTe8Hi69Ij0Q==",
-                "mac": "1FkcqRNxECTSf4iz5k7ZaQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/8/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/9/message": {
-                "ciphertext": "RL4ampQAT/Xe3CgW/ABw+GuPPLSOpkNFQvxgJtxJ49/NL6KNlZ1RfCHZOv7hIIoD37l1dmm2XrW7tned63+y38fJEcZnfE2O0bBv6yUEAE6nkcjaW2LA2MZuPRuG8ZYT+4RKDV0eBHwu8AB7s6Hilr4R9Nl57K2yVCWTR62ICrZYoSQAyBNdnTiuU5GwU7u1",
-                "mac": "VXaiQB80ScOKFUNsgwGAGg=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/declined/0/message": {
-                "ciphertext": "vdcOpt+WDNOZbjmpbQgd5kLIooIjEaoL1psVkrcaTCM=",
-                "mac": "9QsVKtSbhJ3mOpVoA4WiQw=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/declined/1/message": {
-                "ciphertext": "TcLYFioAbPR9cSVT2A2MITaCGqyeOPxi6QNgLf+MPplZQtuph3pbxlvsLofk9/aQaurmLLsAdA0Td7HiJTZmWzrwHE0h8XiNdYfW8UoyZF/lR0Hx/u47xPsdyLDvyRQSjhSzaBsMJuk9Vpu5/6MssQ==",
-                "mac": "8HJxPMFbcOhC/mc4Mz8qsg=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/declined/2/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/3/message": {
-                "ciphertext": "7v6OTGV6Az4qj6FitRo8KLT4yMW4lcCyjQckCmjJhh876jUsMxTF70gjFRtiwwO3Xog4C0DxqPRtbk8itWXWDcrxz1f4/U3HOG9A2aV+UwMEfiGRvsHJA+QXlxIWGYxIjxoKY7eTYtQag9inX8T/JdzVxhktGaOLCQnADSnnHPDi/PH1YYg/UUREpQ3Kq9si",
-                "mac": "PS/E82xkTGtJPB9SoFjU8w=="
+                "orig": "\\v[lore.title.seeker], right on cue!\\. The water sample you helped to collect has proven to be useful.",
+                "text": "\\v[lore.title.seeker], vous venez au bon moment !\\. Les échantillons d'eau que vous avez aidé à récupérer ont été utiles."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/5/message": {
-                "ciphertext": "lgghSnMyl6vEy2GyLTp6GYmrvJhvUmNAXEUrAAV7V3oKnFgoZTaB1e5+bQ233tm5dTjIJGjFaygCf3z6NhA0fhaIu9eqG3zoKTaB9kNMfM4zgV3AbvJJyWMEjgh0As2Z7TGBufj4jm6i4O8PkLsU9w==",
-                "mac": "BL7bnvPuEbxSIsQ9zRYQ7A=="
+                "orig": "We recently got the results of the test back and the data is definitely worrisome.",
+                "text": "Nous avons récemment obtenu les résultats du test et les données sont vraiment inquiétantes."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/7/message": {
-                "ciphertext": "b0xhstwi+nR2SkuiY0mCbr9pXK3TkhBbnaqR/Am2tJu5PwnxcGXDfX5kbEhtPOoEP1iGe+ZEtH18kLl8SWncfJUSsznFdTmGXyhYKzJ2Bns=",
-                "mac": "/3Jwychnno0P8oe/72ddjg=="
+                "orig": "An unusual concentration of unfamiliar energy has been found in the water.",
+                "text": "Une concentration inhabituelle d'énergie inconnue a été trouvé dans l'eau."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/8/message": {
-                "ciphertext": "5X/b4NEAmVdwnLFChSnqpdDktS5VaIuiEya9GbQAkiAmV68qBqHsBsc7keDIS/aqCUsHTwmFkGrDrWuiZmQO4afnO2XC2N5YFMRBzOZ5DsTkxMW4ekT5IeRDSgaFQbDbRK2SeTqOGkiDyPhGXLV4lo1QZAwv5HpkyN3PIsbuLRY=",
-                "mac": "fwvNX79gtmdc8Ap4KzpbBg=="
+                "orig": "Reports suggest that it is strong enough to influence even larger animals and plants.",
+                "text": "Des rapports suggèrent qu'elle est assez puissante pour influencer même des animaux plus larges et des plantes."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/9/message": {
-                "ciphertext": "IaUIqVTVBVLcbf2MXYcIuw==",
-                "mac": "5Rx7MDin3zTA1hAMxm5gng=="
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/10/message": {
+                "orig": "As we speak, infected plants roam \\v[area.jungle.name] to spread the disease right into the roots of our beloved forest.",
+                "text": "Alors que nous parlons, des plantes infectées se baladent dans le \\v[area.jungle.name] pour propager la maladie jusque dans les racines de notre forêt bien aimée."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/11/message": {
+                "orig": "\\v[lore.title.seeker], will you lend us your aid again, to weed out this threat?",
+                "text": "\\v[lore.title.seeker], allez-vous nous aider, pour éviter cette menace ?"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/1/message": {
+                "orig": "Excellent!\\. You are perfect for this job, I am certain of it.",
+                "text": "Excellent !\\. Je suis certain que vous êtes parfait pour ce travail."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/3/message": {
+                "orig": "Now, we still do not know how the infection started spreading.\\. So you should start by eradicating its offshoots.",
+                "text": "Maintenant, nous ne savons pas comment l'infection a commencé à se propager.\\. Donc vous devriez commencer par éradiquer ses pousses."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/4/message": {
+                "orig": "There have been several sightings of \\c[3]infected \\v[combat.name.jungle/plant]\\c[0] in \\c[3]Western \\v[area.jungle.name]\\c[0].",
+                "text": "Nous avons reçu plusieurs témoignages parlant d'\\c[3]\\v[combat.name.jungle/plant] infectées\\c[0] dans la \\c[3]partie ouest du \\v[area.jungle.name]\\c[0]."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/6/message": {
+                "orig": "They seem to \\c[3]remain hidden near bodies of water\\c[0] while drenching the grounds with their infectious energy.",
+                "text": "Ils semblent \\c[3]rester cachés près des étendues d'eaux\\c[0] pendant qu'ils abreuvent les sols avec leur énergie infectieuse."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/7/message": {
+                "orig": "Though with all that excess energy, you should be able to \\c[3]sense them from afar\\c[0] with your \\c[3]\\v[lore.title.seeker] analysis\\c[0].",
+                "text": "Mais avec toute cette énergie excédentaire, vous devriez être capable de les \\c[3]sentir de loin\\c[0] avec votre \\c[3]analyse de \\v[lore.title.seeker]\\c[0]."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/8/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/9/message": {
+                "orig": "Please hurry and dispose of them.\\. Meanwhile, we will try to find the real root of the problem.",
+                "text": "S'il vous plait, dépêchez-vous et occupez-vous d'eux.\\. Pendant ce temps, nous allons essayer de trouver la véritable cause du problème."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/11/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/declined/1/message": {
+                "orig": "\\v[lore.title.seeker], please.\\. This could have dire consequences for the entire area.",
+                "text": "\\v[lore.title.seeker], s'il vous plait.\\. Cela pourrait avoir de graves conséquences sur la région entière !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/declined/2/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/6/event/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/6/event/2/message": {
-                "ciphertext": "q5VmOI1h3bC2GQ/Tz3DeywU2SK3++1AzNjXxL+OxRVhKL+JmClhnD2R0Q1l+vN3ZId9wBDuvHReLQOQ8v0WRQ/IgJ+sSlb4vBQWockh+NI66WBWwAunqYCLCRIX2pzb9Np8g1JC89WrGRKBn6NrqOx4GfB5JmrNjgksjWQTIy/Zv4tgeGXk/FCKxjS5kriY/",
-                "mac": "+jTVDaY77MmYy0A+Ao95cg=="
+                "orig": "Search for the \\c[3]infected \\v[combat.name.jungle/plant]\\c[0] near bodies of water in \\c[3]Western \\v[area.jungle.name]\\c[0].",
+                "text": "Cherchez les \\c[3]\\v[combat.name.jungle/plant]s infectés\\c[0] près des cours d'eaux dans la \\c[3]partie ouest du \\v[area.jungle.name]\\c[0]."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/6/event/3/message": {
-                "ciphertext": "xElLh8gtjHypKoyjsQJomCinhlqnM13gpERtGZJdbcWsrtk700vhGm6oXZmQVuKxc7OjoVEQ+MaJpDm+XYX8td3lDqurvg9QSSMNaxp2kDLewf911KtfWSaB37s7+xmtgIN0hJzGAWDQTRX/VzC/9SoYbvLoXwqqzbdPovdMlSvX0Y1eATy3ba7RUNZFQEwpS54v9EXYAuJn7ZCjo7EvZg==",
-                "mac": "275M4+52ujPgKGg1bqkTNw=="
+                "orig": "They will try to hide, but with your \\c[3]\\v[lore.title.seeker] analysis\\c[0] you should be able to \\c[3]sense them from afar\\c[0].",
+                "text": "Ils vont essayer de se cacher, mais avec votre \\c[3]analyse de \\v[lore.title.seeker]\\c[0] vous devriez être capable de les \\c[3]sentir de loin\\c[0]."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
-        },
-        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/10/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/3/message": {
-                "ciphertext": "j6RMO2vzlFgbb8Ra6YkYKVlj9e8YHqqOrPERZsXOkh6l7v1wF0vwPCxnhoUoTHcTp0F5KTEfMuYtD5j7dkbIQaZjZsie2BY1ivwRx4JzFtpP1u1MiTflSXqm7dX2/GbsKDyxFKT+8ibFt/3mV3L5Tl5ox0uzmkPUPOhbXfclN6sTYzjdJSxZL25d76zwyn+9rDgAtGpzrBI7WmSbFG/veQ==",
-                "mac": "6H5cX350v3fMytmT8/zcrA=="
+                "orig": "\\v[lore.title.seeker], you have done well in isolating the infection!\\. Meanwhile, we were able to find the cause of the problem!",
+                "text": "\\v[lore.title.seeker], vous avez bien fait en isolant l'infection !\\. Pendant ce temps, nous avons été capables de trouver la cause du problème !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/4/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/5/message": {
-                "ciphertext": "wqlP1ZM3qZOSBFktexVig7LoV6lzz35eTu8LPu9TgplQ6XBgivKdhydGwLcqLhi2xIU5mC30ZtZ/6xvIynC3BXyY6WWKVkUOrmeOKIcac8Nu+EfZMtUtl3xRr5SaDS72Awj5aKUbNuDrqJXkwrYyJ4v3tqMhppryptT/Q9A5NhKiNIM8LbiQWVloouXjjGFp",
-                "mac": "XFYQMjEmltNiONSp7UwFyA=="
+                "orig": "Another plant has been found, older and with a much stronger concentration of energy.\\. It must be the source!",
+                "text": "Une autre plante a été trouvée, plus vielle et avec une concentration en énergie bien plus élevée.\\. Cela doit être leur source !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/6/message": {
-                "ciphertext": "7DHDbNY/0UGEjpeBBrI+Vd49t5FdpmjYJmR4zwRt7vdKQ01RQh+jqIJPnjNFiKSFZihPS1SlQ+95ypS6Qppd6pVfPBvgj+7deQQuqbFDAYrN1C7Mp115whNELTc1XDnwoLwJQ+3riny9wvtOznNGSkJVPR9Aj57dnZiB5sPd3wI=",
-                "mac": "EBAgqzXMrNAmiA0soj/Nbw=="
+                "orig": "And now it has taken root in \\c[3]Wet Passage\\c[0], directly next to central streams of water.",
+                "text": "Et maintenant elle semble avoir pris racine dans le \\c[3]Passage Mouillé\\c[0], juste entre deux rivières centrales."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/7/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/8/message": {
-                "ciphertext": "avXDO3CIp0iVMFoANXGF/iFHJ0wQyokdu2OgvQiYyLgihaO+y2COTsDL0HGBGTQuwHkVXNxIUUxncweUxFzHde7JBi+4EQ1rXVazpXqo0ndghmC0wgb6veuGwzR68xR3bys9x2rsQ9Wo4wnnF50mEekxPUeDAkP0F72y2Y1FG7w=",
-                "mac": "UdW3YTd+l2snmfBmn/l/PA=="
+                "orig": "\\v[lore.title.seeker], you must face it and finally return it to the ground, before the infection starts again.",
+                "text": "\\v[lore.title.seeker], vous devez y faire face et la faire retourner au sol, avant que l'infection ne reparte de plus belle."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/9/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/10/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/8/event/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/8/event/2/message": {
-                "ciphertext": "tyRYrowA+XWKdZLmAcC3spu6MxK6W0owyCh4joSKUTQD2Z8t/05RdQbGh5rIKWEXE1RPtkexv3phVPk8/RjSvZZO6xpciXR9bwX2erq6XirIs+VrOlm0aJWIaGhCjzwe3gaIItF2JZL6TB0JrnPSsg==",
-                "mac": "vrguzBi9Igzw036wtla1jA=="
+                "orig": "The source of the infection has taken root on \\c[3]Wet Passage\\c[0], between two rivers.",
+                "text": "La source de l'infection a pris ses racines sur le \\c[3]Passage Mouillé\\c[0], entre deux rivières."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/8/event/3/message": {
-                "ciphertext": "eshapolliZz6MCBANew91jx6horZQEm0nn4Es+0/8Eje2HsjZG9v2mS2D8qLk73S0/JP4CZ4l6DmUcifW/vcTF+RDd5LpfkoRoszAOhLiW8=",
-                "mac": "Jgmae2lMDtrQgvmFRbYZyA=="
+                "orig": "Go there and destroy it to preserve the forest's balance.",
+                "text": "Allez là-bas et détruisez la pour préserver l'équilibre de la forêt."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/0/name": {
-                "ciphertext": "YfwZ4ZLCn0vJQIFL+9Wp9w==",
-                "mac": "g3BrkUhVc5YTZ0Oqb1/ZdA=="
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/2/message": {
-                "ciphertext": "akclgA5wsAn6ix/HU5h3Zg==",
-                "mac": "4FfPAvJSHLl67Mn+Vlk10g=="
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/3/message": {
-                "ciphertext": "V8mvOQFcUkVAWUbmBzwF6qW5E8Obg8YWoLHgaQD1pslkPALZXwpgPQ70g69aeb9szyCLltN3KutE7+J4YsYiFA==",
-                "mac": "gtmHfbHv2HSQ39HXs57KBg=="
+                "orig": "\\v[lore.title.seeker]!\\. You have destroyed it, right?",
+                "text": "\\v[lore.title.seeker] !\\. Vous l'avez détruit, pas vrai ?"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/5/message": {
-                "ciphertext": "I3s5WbCLHPPSP26Qpc9fpVaDfeuRCS1MATmozgQHYD684N0hG4L2O6Fap8bg/30uyh8LL0BFzzV5fB78rg8JrSovzuRwyOfGYQ0DzVShWA8fBo4f8liZ95tlB8G5BCQysfrPrXhYtNUNj6U/q9albw==",
-                "mac": "GhFnky+Yf24s9NJmZVgrlA=="
+                "orig": "Fantastic!\\. With that threat now banished, my fellow gardeners can swarm out and purify the waters.",
+                "text": "Fantastique !\\. Avec cette menace maintenant bannie, mes jardiniers peuvent se déployer et purifier les eaux."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/6/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/7/message": {
-                "ciphertext": "oYrWM1tmTD77PchzXJg7UCYDKS9dmCKgWUkDLHRH2Xov6q7yaAWkk0izEOF8IWSJpEbqIjicxU7usq2nrwSG4c4DUO1bQaR5Yi3G/2yiy7KYRBwsEKbgSW+3Dop25PwnFikD6VGHjvqKrP62o4IAEgTGytRMvoiaa8U7Ry0yN3nPqDWe3+MxbWnrGRNhv33i",
-                "mac": "f30pS+2+eLzeWnEJ5M0UlQ=="
+                "orig": "How and where that plant was able to amass such power remains a mystery, but we will investigate the trail.",
+                "text": "Comment et où cette plante a été capable d'amasser autant d'énergie restera un mystère, mais nous allons enquêter sur ses traces."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/8/message": {
-                "ciphertext": "A1EdzBj6yKUeFMcyNb10hqkZ+Ga4uRMmqBMQFYjXLhd6B838jQ10VYRDlq69BDQ83PjSzyWLUZaDQnZdOepCfHlygxZVqWVr5QgdBd+BowniloFAb8K0QRmQnIvX5I/wtXJQ47akq6XKvjH4dfYUauRsyMUwh5UIZDxRVmE1TUc=",
-                "mac": "1Ps6s8GTShnhonG4NZABOA=="
+                "orig": "You, \\v[lore.title.seeker], have done truly excellent work!\\. Take these rewards and be blessed.",
+                "text": "Vous, \\v[lore.title.seeker], avez fait un travail vraiment excellent !\\. Prenez cette récompense et soyez béni."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/9/message": {
-                "ciphertext": "XDkXlR1hVIhega3w7xH2MQ==",
-                "mac": "fgc6lhgok5IJr8tpMM8bCw=="
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/10/event/0/name": {
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/10/event/2/message": {
+                "orig": "Greetings, \\v[lore.title.seeker].\\. The Track blessed us with peace right now.\\. Please savor it!",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Le Tracé nous fait l'honneur d'être en paix pour le moment.\\. Savourez-la !"
+        },
+        "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/10/event/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         }
 }

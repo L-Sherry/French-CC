@@ -1,350 +1,350 @@
 {
         "maps/jungle-city/interior/calzone-1.json/entities/21/settings/npcStates/0/event/shop/2/message": {
-                "ciphertext": "le9ofUC1hpUhOuyfnZEyrepo19klexA2/YAEqYdZIp4ELnNQxEYGtQ59+VjIOaCtFLQARak50M6GaJ7gpWRor8xDQXfnGb/X0MM3a9zPUw90FloSz3GCYS0cDq+NfU2Eb/Bu/a6UKXT3Z3Qlq1tYFQ==",
-                "mac": "GkaGcZ2wVfauQuQhKm24Bw=="
+                "orig": "Sorry Lady, ain't selling stuff to \\c[3]Seekers\\c[0] unless the boss tells me to.",
+                "text": "Désolé, madame, je ne vends rien au \\c[3]\\v[lore.title.seeker]\\c[0] sauf si le boss me le demande."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/21/settings/npcStates/0/event/shop/3/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/21/settings/npcStates/1/event/shop/2/message": {
-                "ciphertext": "9B1vo7tLbPKzOqeSZcukKbUGMxxkIh3BG2XWNWKsyEQHjoyPukEeuzjLH8lhwkDNjX7huq3NDH1F6t4nu8bR7ry7AHsT6dDH+/bzXLWPoQgQboDtmj4IyHhQ8tVnl1uNQpWmzDrSP7OSYP9GwmP+bw==",
-                "mac": "vdZI2bUNuQTPZ7ifPJdWaw=="
+                "orig": "Boss tells me I gotta sell you the \\c[3]One Up\\c[0]. Dunno why, but here you go.",
+                "text": "Le Boss m'a dit que je devais te vendre le \\c[3]\\v[item.346.name]\\c[0]. Je ne sais pas pourquoi, mais tiens."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/24/settings/npcStates/0/event/2/message": {
-                "ciphertext": "ijoiQufSn5mM2kJ5OLz4+JRqpPXwfWM49k7RZ2OSBXweF5nCyc7IAEkAdiWrZ30Um0jAeNrzcNhQ1WOXtGBy0A==",
-                "mac": "OdNOTzSaoaoaY2yKXk1wtQ=="
+                "orig": "No entry for you, \\c[3]Seeker\\c[0].",
+                "text": "T'entres pas ici, \\c[3]\\v[lore.title.seeker]\\c[0]."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/24/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/24/settings/npcStates/2/event/2/message": {
-                "ciphertext": "RviANRx7Dc40FIprNzmrJl4zKZA/7dQxyBEl4zKFtSd/osFtbLcr7ySQRaQ7RfFZat2xa5dhRgCuVEF+hsXktfrbLvmcmrRhFAImoftNoo0=",
-                "mac": "sAbF4jXdEEGBmPlbvRQzJg=="
+                "orig": "Go down if you want to talk to the Boss, \\c[3]Seeker\\c[0].",
+                "text": "Allez en bas si vous voulez parler au Boss, \\c[3]\\v[lore.title.seeker]\\c[0]."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/24/settings/npcStates/2/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/10/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/11/message": {
-                "ciphertext": "BBDLOOlPBjQbV+8RH+2fFcrEXxEKAMmC60/o1UjQmTcOpjQEa41HB4ktjvaaDGEbhkVtnE3dKd4H88UwNaqhYg==",
-                "mac": "LSTQgf3tZLQc9cu36r3IVg=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/3/message": {
-                "ciphertext": "Fv0PAMnCpmaFgwvRnxARUyceuz5CG8cZFcG7xvwu/rkeYk8QlNBoY2j//ehYhmOD2d4gpd1w8lNt8wifpZmWTHzIw9yKmgvG2XbPMWL6kpLKoeBaf9A2tdXbdLt0YR5Z",
-                "mac": "fmuA4uykytp+zRqhGAsSRw=="
+                "orig": "You there \\c[3]Seeker\\c[0]. Blue Hair, Spheromancer, horns. ",
+                "text": "Vous là-bas, \\c[3]\\v[lore.title.seeker]\\c[0]. Cheveux bleus, Cornes, Spheromancer."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/4/message": {
-                "ciphertext": "X4FoeZPBI6ub0SXIkNYi/Q==",
-                "mac": "xKd0yfBXiCCSO0RsQRa0pg=="
+                "orig": "Hi...?",
+                "text": "Salut... ?"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/5/message": {
-                "ciphertext": "YfRhv20g+QplD77xsvArEimBAHEJoJxbMDHoq8dMIY1E17J85wOwBQQt1/tbgNg0eZKvuvwE4Yq2Orq6TiN2DHMOxUBuYT2zYSdZzNVx3FLBTSb6iL2TgdSuiMjUBQUZ",
-                "mac": "vRF5MkDTHzqf74FGSEJoaQ=="
+                "orig": "Da Boss tells us of a woman we are to look out for. You fit the description.",
+                "text": "Le boss m'a parlé d'une femme qu'on doit chercher. Et vous correspondez à la description."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/6/message": {
-                "ciphertext": "38/eCw2OcdPRjJKwxRxpTHwVmHtnqcnDxL0fcppRXgaevQzZ13AX5gGv3jWCeonFw9bCyocOFYXahctKOzfDVJ9kK/gXNG0jW/j1UkqYDdE=",
-                "mac": "/8ap9eimWwC1Kk8vLvHjOw=="
+                "orig": "You recently helped a certain \\c[3]Mick\\c[0], right?",
+                "text": "Vous avez aidé un certain \\c[3]Mick\\c[0] il y a peu, pas vrai ?"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/7/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/8/message": {
-                "ciphertext": "T6TsltVnsey+sGaBYqUMgxDszpNn6DNDBOHL+hcOfHapTQPKtBDdSlczbmXPUCdDJidxKUViopN9qg57ZtnyK4k5Zg1ojFn94HA91+VlZsAlOl574r4ADfNmoKvgMjO6",
-                "mac": "Uck+Uzp4ZCN2awWNPUN7dw=="
+                "orig": "Good. In that case I must ask you to go down the stairs and meet the boss.",
+                "text": "Bien. Dans ce cas je dois vous demander de descendre les escaliers et de parler avec le Boss."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/9/message": {
-                "ciphertext": "v8MCDb4FJvtH2Xx99L3pvDzo7gyZi8KLqRT1hgAf5y737Zt/ysDYNLJGUCofMuPmCJZMa4jA7M8JtTZiriOD4g==",
-                "mac": "uwOMkSnEUgxuANA7jR21fg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/10/message": {
-                "ciphertext": "+TUoHfur+KkX/nE/ePJUS5L1p1hNh2ZnIH1/lmNFMTu8FK4iZgbQ0QGwvgpLR4paDpSWGq62wI2dYYTfy41dz/1FLCvzcqMWS2wNHPbXcajAOjgzdWvQUflM4+yZMaA0",
-                "mac": "df4FkEU/d0GkRyXrNuEkMg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/11/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/12/message": {
-                "ciphertext": "E8sQN+5rRoeuEJZZ0Kz2s9DYpzzdpkkG1DaWzNbtG7sIVfqzvcvb0+4Q1G5xA0Z9boT/FkonygGJBs7ZaFo1oek+YkkThfOK/rZFFO7LztA=",
-                "mac": "+ns+LGtbxFqGE8ND07q6wg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/14/message": {
-                "ciphertext": "1xo5+F2f0DRk7kZf9+3O/4EyvGx865naT7q/1WWGq/nRRoiTnR0PvP0rdcT7rtCnl1ANnBvH+6pOMfvMig6ooQ==",
-                "mac": "Ol/sBYX2GKHMIzQUaXXuXw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/16/message": {
-                "ciphertext": "s3ofZZIznMclH4Z/xYLCKLPjbUMHIV3gwTwiwGbe4WOcRgHdZIei+HCk0V8qqkV5WK329oOAWB+uteJY1dG1XP6kXQ2htiUbV7HKFg17YXlz4wxPKvN9qo/oI5hesbzPP6EgjRVOW7eFtBHmcSwziA==",
-                "mac": "CZ54oBm7yWigf5mWPXXBYg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/17/message": {
-                "ciphertext": "Kaa+goq1mQoO/wH2Zk44Og==",
-                "mac": "K4XvAWwDorwZ8byDbhGt/g=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/19/message": {
-                "ciphertext": "MtJNAzY9ykKV3sVcjI+qHWvRf+jBR9JLGReoHpyGGcw=",
-                "mac": "STN51H02R9xTqO/YGlqfcA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/22/message": {
-                "ciphertext": "81/SslNN4vOKsdHGrOt/rSoLfgw03Yvo0iMjoDgBy/2/h6zlnexdTmD25Goz42pt",
-                "mac": "QGH+Ix3EBYV0HKdc3t5EWA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/24/message": {
-                "ciphertext": "78fskTbMzFibeoCumcStBz7V7ZTiOZs1lxq++7+GQGgOoKHGfSK7r9iVMAKlEsjsi5B/CCTh9gibFyatCLMsOblAsELG3SH+In2S15VurO4=",
-                "mac": "EdZKgES210HBQ3ZlHhX8Ag=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/25/message": {
-                "ciphertext": "GgrOgzSXFIO442sgnankOSFT1gAPk6dZIidSTGn4+jKToSM2l5dZfYFq6oSkb89q75C2N5PGhgUH2RLpxIKSJA==",
-                "mac": "CKm1eAGVDApT2GxSNw8nsQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/26/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/27/message": {
-                "ciphertext": "8xFNRdZrdabCD3H56ocwUnLsQCV8QcfxrF95tIzk4SXoV48rw8Ojj92CY0X3LyXurIBK3qbAWNRnJv9ROFiIwL+G++Jb2aH03WzcYMMQENHtRa8fHamplA4YGz2DfBDhLPKhsvYOSfkTy3wVm81DZg==",
-                "mac": "D7hM2xzcwUPTNznoKo++lQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/28/message": {
-                "ciphertext": "v6S9D55HZT++1ttBQfdarSk2RrZvSR4sQyOLWKKBos/s9/6nG2iRdxcueGQ7dIIrIkz+B0WtrIQ7PpfLCvvC6b/PejQ6Ij0QkAOWVVVMZLVg6vBQqQrGj/Sbs5JSjW4BbNR2c8J2q8PZ06zorbkkUo8q7nOYFuuKWLAKAI6yy/o=",
-                "mac": "sgKiHcKyuBbgoNzgw5DQYA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/29/message": {
-                "ciphertext": "ooJwpzzldsHhm0uNRrly4SGUtCT1CtfSL/nK6vL71UDoXcEAXGaZ8U7AOq+GyTjFXfs3XlKMOCg9YY90gUXGiSH/xoA2pYmnpUQPD04UfxhsqidMo/4WP9AX8ipd93Tx",
-                "mac": "LH7G+dv24g1MhJnm8KXc6g=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/3/message": {
-                "ciphertext": "8NVBjNPBkLrcH0ZpjbWS8m0L08gttFsFwxL8dBzejRPua3dQu8u+IC99kSzHSSlc",
-                "mac": "v+BEvCAvR1yJAig8ycHfBg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/30/message": {
-                "ciphertext": "ciNcaLsNWKN4MbHzt1qH69Klj+CdhxX/PB6JkkDLeHJLgMrV4bw67T4KPNSU8huVsUOjPj/BUki9T0SoJllgUWtpoF+pDryoIlRrEIzRIEalN5GdxyVhtVxGXryybfdN",
-                "mac": "ZOCXv8BYqQ/eEnH4i6o6gw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/31/message": {
-                "ciphertext": "fYGIki1V9qh6w40zq5Q9OY7u/b97IUugN2M2KcIusdoREQls3r8vNx7N9ioTBIUJgYwa+7a4HWxBvyePpK2ftic459dVst9Vc5t9/7EnzmE=",
-                "mac": "hzU1OweOYYMM6rW1QROJbw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/32/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/33/message": {
-                "ciphertext": "D9zjeymQPQJAH7kCiPVYgR7LMY1mNCH8rBCPsD5OqJEF8Ybe4PtsSzi9cHH4rhaJiSuWLJKlxj1ucjkzl9tfagz1LDL1C7DslR3oDrkuoLFO9RIRK3/wmIfp0fmjsOqtJPtzuiHQV+cojao9BQZo5+puzo0xKQv86+duO2kgTefykcIb4/bSeqt0rC+2ElqZC7v7lnBrIuGRuCKf3TQREJ5/X7IWxWKRpe1EsN1jrwM=",
-                "mac": "bHjvVTZx0OovL6L6tFzL0g=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/34/message": {
-                "ciphertext": "rHhP9y9qpGfQbwS76VffQJtlxc8nPR5MPU2uM4Xbjciv4Jv7EmoTgLdWGd+DGdih5MlA49nrCi60VNA5oRHf4g==",
-                "mac": "tX0npKyc7w4JyK3dDbJ7ZA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/35/message": {
-                "ciphertext": "8K5i614HnpKsAiBfz4mIus2SsfyaqQoSSU1MK2yGxcF6RHvxmz/GMDVWNYfm0EiwoyiRWhU6+AMRUcs0s3Jy1CHwxqvgeE+tPcmq4BDMRd8todiQ/exe7F5yEI+qAIh4jXdQOn6HgiuiE6aSoEdvOSkt5yERz9CMY4LXAjrK280=",
-                "mac": "bBvkwOyYKoaHtdUdvyWc1g=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/36/message": {
-                "ciphertext": "sFeYoV9VBGM0cvlvNY1ARNElasdVYLgkXl8AOW/EtPTAFMeXUvUeHd8UzegqybHQ45cMiQDu4KnLYBYGqWQEMQ==",
-                "mac": "sk7aAd8MYrz6Zndj/+NcYQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/37/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/38/message": {
-                "ciphertext": "VjOzN3Q9Z3Y9EobyGOArYvDDrUugl7NKWsgsBY73ZlpPivgXsztTkgLsZmX2HcV0iFgYIGnFeSVd7rzbQxXTkwvW2iKlOMkVjfX9raVaJxT71AWoemuntVz6A/QbUgFC0zYP+4XthlarnJNBM2jqElEnKVaD/QDfx9pKu27FW8neZXKyu9DNGadvHcIs95eS",
-                "mac": "daNDgq76rIENfLlFx19VWg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/39/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/4/message": {
-                "ciphertext": "/evx7g8ZHNm1Q1fUU1462VdCjusPQFbJ44AnJJqGq79xPCYeY6hHRemDHWV7Q+si",
-                "mac": "MlQ9Zrg798u6rFBu9leTjw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/40/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/41/message": {
-                "ciphertext": "m7QYBVe43gb9d8O3k1QRXUV6fnmZKlcubzwTICZdXa+KNE/79ZDQcjnaEsPH7vKRVMHOzxc3GikvBGqRfDq5Ekb4nLLS4mSQAb30VaHn3/9xu3i/cnMxckoVjI7iC2iVjyKQ0W/YT9DbrDPOAzKLrq+3iML76uBGKiqLkNSRWvf0iok9zsMygVeyzBrVTpSR",
-                "mac": "tG066nCMd1xKWtN+CtbpHg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/42/message": {
-                "ciphertext": "W4re8cr/PA1SiM5vA2EA4f4ilRgO0tldhpI6pJs73pOlUx3KEE3ghTkvXr+vwS851RO+EuF4bhq8cuELCLmNRZWTS849X9z6ynAUyCFfPMwrTRfyweLrqrI+PlKhFRGCJOOMeXR/yIBcaXODXvpH3Yf/EdPIlRPI22mzfIE1trM=",
-                "mac": "9wlA1P45rR2TjA7DsQF2bQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/43/message": {
-                "ciphertext": "fnJ1T8zIoKyHFTC8KwGqzve8szwYf/jXrp5ELk4/aWgs2lVDLBhpDPQLeT5xLGWS8fKqYeA9waZZo+HVnUtKIw==",
-                "mac": "LHwok6idBrkt0EF65pFw0w=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/44/message": {
-                "ciphertext": "XyKEeudgUjE9gSssrPTxsyeEw0ELqjJmMHvWKT+Td521WwObA1RA+ofdRcasg44ClUt6j2XRRDmg+Y5NenEYmSPrWS/LDJ1M33pUPNNpEbG9zoBaWsCzxGhTzvtwGr8JvAaZ0S5y5PvZsQo63ZJ1liubCPhP1QnrGepf2kDA2kvZLVfDzZCU3/7Dca3VVR3o6eewTVuYWIODUiSL2g/g/A==",
-                "mac": "AC+Yt9+uMf35HhY9MjEg9A=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/45/message": {
-                "ciphertext": "Km5xxMaDdBim8fHNg11xcPEv6JSTRijNgvChgshSH/u6oJKqhXjF59N12Id91PY9kMrDL8yDbkV9A5284J82k6LY8EKJ4imkizjYffmtbqd7cPa5H+9jFUx48tAAmMp003OsY6+SJ7bATZlgie/k1vGOTLCvOc4n4HLbPsp2wbE=",
-                "mac": "SPQxcQ6YQp0ZJDuImO1DVA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/46/message": {
-                "ciphertext": "6ygGOeeNwHH4wxeym/Plxiys1yan7U7c2YaPvgaqTksuFpvl3zhMVnuxLx0cmuMhbaYMRZMt+VJEU5jxAmZ8hZ0MNHgUOQzcHXVDsC+ezuLjCxuXlS+hZ2kQp+9V/MzE",
-                "mac": "NGsM6zoZv4YnppNbfZpUwA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/0/message": {
-                "ciphertext": "5JNp/TnchxBB1BlyoK2yzg==",
-                "mac": "MaSpzYqbzNX+YXpiYJ0ZBw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/1/message": {
-                "ciphertext": "ZLUbqW9FMbN2G93b81TZUiKgh+vMhaNYE05vYgOy5C/AlsLJu9Xfjk0zgueYaEKOiqJIRT3GnuLpkgVFoSEovqo9zmbgZ8qqGVoLdbNSDCb+Rth1YE7ZEyaJP88efUefL3HtX9/C97UmdUgD3WXHzrnbrwmJeMdh5r7Va/WWH5y3W1qmwxG6WOx0N9vgpwwO",
-                "mac": "FSXpdeTosKXfSDzkcCV2uA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/10/message": {
-                "ciphertext": "soSS7fIEidPj2EhDTdeAOA3jIX0gskuDb3Z2XxaGSkmnKElSUHddGruQl9jd37I0TATrrS5j2t1X+8uyNC1FIHfUX3ZJ8eIoc2tl6fo5Lm9ZwXOdFaPrnpJw/5psGFt9AjHf/wZ3C0s4L0HC/5JjzQ==",
-                "mac": "UG+ziJfemwoE15AdGvkKYQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/11/message": {
-                "ciphertext": "cqkyDqG9xT4QFmuxzJ4rxlXrkcEb7onQx0TSCNgbZ+sae1KCTZ2c5nBmQHV9hJ/CZwr0XebEseyZcEafvvgWz3CZ+UK5Evi5tG2YvXCdSOcKnuYj15WDNdJPYmK/mu1stWPcTXe23WYpr2xwD6a2G5cqasmhiWcTTZgu3LjnOWZptXx+QReUEU+oJW08B9v3",
-                "mac": "W4kOM76clb2q7SJ11UsfKw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/12/message": {
-                "ciphertext": "PQ7U2/pUozk37hgXrw8sz63vG1QgxFawsRFZbSKsJdkmpByKdx6YcDNo/wpqOp3LrX/bp63tZeRXkidF2thyAhSjeSqPaxV/7uPTKe+ICFw=",
-                "mac": "yvokZQREgE8urI1weIVQJw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/2/message": {
-                "ciphertext": "cE3Fq3J9bFU2d9ljoEIvgq2WFwGrX6q5vC/H6xVBbfk80+79JO2Ryxuf2QeTTtJNa+DqD9FHWVy+anWaxnnosocULASgcV3NxxMygq22xe7cRHaPR56A0p6dDDIVrpOHtDkXmefm95SJnc+Yk4OkiKqh8b1N/SG0P5QUHBzuJRE=",
-                "mac": "76T+8HcvOHaB0iykfCbEwg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/4/message": {
-                "ciphertext": "MFdRzK4+yw9Q6tKWvx4P3Ao3VFHYjph2C0HKcC4i5iT95sj0KyjNlV+zA9r7bx3k",
-                "mac": "smpyFSPJnYc+rJedKfy1Gw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/6/message": {
-                "ciphertext": "TZIrCmuTY43WLsc6a30E36BfunZiAIP5fGvsI5oExHXj5GNE/x+VnnTeG2yBCekuxib49x2ecmIlM/E1ZNSP8g==",
-                "mac": "T6ye8MvIflt/2MR2PqGVwg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/7/message": {
-                "ciphertext": "JgTHdLtlizw3EFF8NSdLicdw7u79nupOEFXHYg+fjvw=",
-                "mac": "On23NwUcUVQd84ktcQ+x/A=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/declined/1/message": {
-                "ciphertext": "QP3ToJ9xHwuZJfpj3HXHelnIUIPT1EY8Pfe8pSAYGYRuRYCDZROAza6YAC4rdaaEGKl2hjsXbD5V7KLPA0ygMg==",
-                "mac": "BzlYqs0NWBfnqd/XqMWl9g=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/declined/2/message": {
-                "ciphertext": "6lKL7RKPeBrrWRM7j9sYSxMMFYeDg19IUWYGxK54CEmHM9kAixpa0umDngFvOccA",
-                "mac": "3o2+9WjgDaVhVvOUJ53zTw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/5/message": {
-                "ciphertext": "v7mVq8IOs/BW0PmaddHwZQ==",
-                "mac": "jnmvUjdCMGORump82c+6Hw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/6/message": {
-                "ciphertext": "RSr+DHqVOHMuzbcYemGRzmAPsP3cjKuOsvMLHsiFyjFQako3GYqP8NDr8laAOrBUgzAkTnpZ7Lo/3ngixsJJaA==",
-                "mac": "AmYPXGtbEi/+TqizSemu7w=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/7/message": {
-                "ciphertext": "DqZPdP0vh1C5hPLi5rTGH4E8JcDkMZQ9kFH6pzF+HNs5aik5rN9sMtld4uMbnYEH",
-                "mac": "qUvEXfH1+yxfveaSuShlBw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/8/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/9/message": {
-                "ciphertext": "jos+BoPNBBJ11hdQcT7oGp9hBnQNyrRxY5lNyfQwx+JJrestHyNm91JK2+mBWBPqmp73qxLy+Jy0rLMyM/mSCg==",
-                "mac": "pQ8ncSOCwflVNn9o+jS+qg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/2/message": {
-                "ciphertext": "o9/agZN22kWC2VeWYFLg+kJQFTfi1Pci82/ExS/X+V4zgFaL1m4ov0FyV9SDDzwf6Q4aWPDM96pEUU5SdU0LvC1Z9keEmm1YpsGpUJ/S8L9PMgoPCSJUy63cwTti+N4ni3Yvaf2UQJM7zAkphbBQOcJ/WNq2Li1UTzhZc2oSul9ar4SBTT051QlL1iS0d8eS6rxd+nycgxVKKE6lYM2rTg==",
-                "mac": "8t4zjiO23d4jNC1DGdvH1A=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/3/message": {
-                "ciphertext": "WZE9cUqE5kNE6m/nM+qXuhR3yaWAaZBWxK5r9Ghybf8=",
-                "mac": "t632h2/sJtlatU3eBc5IIA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/4/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/10/message": {
-                "ciphertext": "sWNi/EVNHIj8i26OjrZC5CMEIS/+wBeQhuD5IttZP54Q6Gzny/uSDGHvAKDX4eOP1F/2uxqQfQV4u7+J/hoUR6BqNwFbAd90HaXtijAHs9JcMJrnE+AbEeDh9cevIW04ko2hETPXoaaIXcv+yTj0oQ==",
-                "mac": "dFOKfrb1LZ11dK/TtMu9NA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/11/message": {
-                "ciphertext": "U/gpqEBDBW1s7GtOe7owcXW0qKQKrWdKwduAfijDTe5ccvIzOYQI45QL4e4znHROgkSY4ruNOLQfylYL/AlJ8w==",
-                "mac": "Izgps5d66doubYm2935X2w=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/12/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/13/message": {
-                "ciphertext": "HYpLHJ7u/bP0qcJizuIPX9+yqFqlZOpRJOaHwokGWPMo4aIbuOrnTblPCrCLkIplAMgVIXcqOSVid/rItoYcXtiXBQE/nmM8u5NoJk7W1b4=",
-                "mac": "4h8h3QC4rX5l6f7gO8YUIg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/14/message": {
-                "ciphertext": "mAWrZULV+5aEn1N+m2PGNZCOR0XCLNYuw71uBY344JFA2NtuTG9GfpQTsHX2uB3cU1hYZshYoiqKrZFJWUc7gQ==",
-                "mac": "2Vt76Ub8iWnwp5SKewT1vg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/15/message": {
-                "ciphertext": "12Xsf0iEo9kE7hvuT2usCJHaJ1WyDRzkAMW6GQGoxxAdRCwGCS0X0GSX0QTxpNao4N/X5x8KedtxiQimFuQrtHs3YFshccASI80CBMB9f/k=",
-                "mac": "ZNVYa/FZVCUPbpiS7Ogu/g=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/16/message": {
-                "ciphertext": "nD2f49fuTqdhzWRJMjGzQDXsFJ2UEeul2uYsltzM06q5SBVDffhExSbZPlJAgSBCRhLTjDD8eI+sG71Q1u8aZuQQB5H5cGrB1RvD4lGuydSDk6wEaBWkYIXeKT185bYL",
-                "mac": "/aiXUn/0/G3uJZRo9iT5dw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/2/message": {
-                "ciphertext": "WHq1ULJt+WAcpKv3BsDYNArVeIhZmEcMw6SiqzXUX2Orv4dr3lHztTVF5CyH4XF1uhMq1+hoCnUHQDjmeTd7IQ==",
-                "mac": "2aP6h46kkWWQgIWnguzezg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/3/message": {
-                "ciphertext": "VbVBLb3+y7TSGSYg3KbIS2T8G/zoxrglmwZ4Cr8KXKDMTqvhb0HAz6BC2EuH4l/nGf5qxaYngUlyqlTRSooXtw==",
-                "mac": "+NWR7r9xU7mJIGSK9TF/UA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/4/message": {
-                "ciphertext": "mM+hRYajhM9qhIEEBqgp7k6Jt9mY0A7HlfI7AUGiyd2EYAhrP4549Y92/+HNC0tA0nblOfild7i/LO1rXYQwRSdzoK7COYxk2DwqythYWeB+wjjXBWGT3THSEOsIdo+3rVnDxxcwuwnzVHjehZiSqU7caK1HTDM0DY+0fiHruq4=",
-                "mac": "GlCk6SpWhBqOE+rH+rT90A=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/5/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/7/object": {
-                "ciphertext": "OryzgSs7e5B27PG7iCzcpJAr7Rlc9ythQ6X0cEWbwZs=",
-                "mac": "SNFi/0Gx2YrQL7Ivv6F/CA=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/2/message": {
-                "ciphertext": "mtsTwRsT+epCK3CKCmRyxtLrXAKrQBSUKBPBPYiy30qjTQGOTB1cu1JgQb3Jwniv",
-                "mac": "1rTMAjOidV9dINNtNXDQFg=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/3/message": {
-                "ciphertext": "emTrnJl74nVLU/L3VuHiA7mSNe1atMTCPypCxd1uCJjIfZvm/3ogORmJvjpG8G9iEsQR/Lke1S5eVjdt5oXlOw==",
-                "mac": "UpuRWWFXTQXrke7p8oQbYw=="
-        },
-        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/4/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "A no is not acceptable I'm afraid.",
+                "text": "Et un Non n'est pas une réponse acceptable, j'en ai bien peur."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/11/message": {
+                "orig": "There's nothing you have to worry about. Please come with me.",
+                "text": "Il n'y a aucune raison d'avoir peur. Venez avec moi."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/3/settings/npcStates/0/event/2/message": {
-                "ciphertext": "ijoiQufSn5mM2kJ5OLz4+JRqpPXwfWM49k7RZ2OSBXweF5nCyc7IAEkAdiWrZ30Um0jAeNrzcNhQ1WOXtGBy0A==",
-                "mac": "OdNOTzSaoaoaY2yKXk1wtQ=="
+                "orig": "No entry for you, \\c[3]Seeker\\c[0].",
+                "text": "T'entres pas ici, \\c[3]\\v[lore.title.seeker]\\c[0]."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/3/settings/npcStates/0/event/3/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/3/message": {
+                "orig": "Welcome \\c[3]Seeker\\c[0].",
+                "text": "Bienvenue, \\c[3]\\v[lore.title.seeker]\\c[0]."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/4/message": {
+                "orig": "Excuse the rather rude invitation.",
+                "text": "Excusez l'invitation un peu rude."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/5/message": {
+                "orig": "Hi...",
+                "text": "Salut..."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/6/message": {
+                "orig": "I assure you there is nothing for you to be afraid of.",
+                "text": "Je vous assure qu'il n'y a pas de raison que vous ayez peur."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/7/message": {
+                "orig": "In fact, I invited you here to thank you.",
+                "text": "En fait, je voulais vous remercier."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/8/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/9/message": {
+                "orig": "My men tell me you helped my boy here.",
+                "text": "Mes hommes m'ont dit que vous avez aidé mon garçon là."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/10/message": {
+                "orig": "Gathering precious resources from the perilous infested parts of the jungle.",
+                "text": "En récupérant des matériaux précieux de la partie infestée de la jungle périlleuse."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/12/message": {
+                "orig": "A great feat I might say. Even when he was to gather them himself.",
+                "text": "Un bel exploit, je dois dire. Même s'il devait les récupérer lui-même."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/14/message": {
+                "orig": "Ah come on, Dad. I did it all by myself, I swear.",
+                "text": "Ah, allez, papa, j'ai tout fais moi-même, je le jure !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/16/message": {
+                "orig": "Shut it, boy. It is bad enough you have brought shame on yourself and the family. ",
+                "text": "Tais-toi, enfant. C'était déjà assez que tu aies apporté la honte sur toi et sur la famille."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/17/message": {
+                "orig": "But... \\.\\.\\.",
+                "text": "Mais... \\.\\.\\."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/19/message": {
+                "orig": "Quiet now!",
+                "text": "Tais-toi maintenant !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/22/message": {
+                "orig": "Now, \\c[3]Seeker\\c[0].",
+                "text": "Bon, \\c[3]\\v[lore.title.seeker]\\c[0]."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/24/message": {
+                "orig": "What you did for my son showed me you have great potential. ",
+                "text": "Ce que vous avez fait pour mon garçon montre que vous avez un grand potentiel."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/25/message": {
+                "orig": "Potential that we could use for a little problem.",
+                "text": "Potentiel, que nous pourrions utiliser pour un petit problème."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/26/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/27/message": {
+                "orig": "You see, our family runs a business that is vital to this humble part of the city.",
+                "text": "Vous voyez, notre famille mène un business qui, pour cette humble partie de la ville...\\. est vital."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/28/message": {
+                "orig": "Many citizens require the processed substance procured from mushrooms found in the infested jungle.",
+                "text": "Plusieurs de nos concitoyens ont besoin de la substance fabriquée à partir de champignons trouvés dans la jungle infestée."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/29/message": {
+                "orig": "The health concerns of my people are just as important to me as the ones of my own family.",
+                "text": "La santé de mon peuple est tout aussi importante que celle de ma propre famille."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/30/message": {
+                "orig": "We sell this medicine for cheap, thanks to our own trading route.",
+                "text": "Nous vendons ces médicaments pas chers, grâce à notre propre route de marchandise."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/31/message": {
+                "orig": "But let us say that this route is... not official.",
+                "text": "Mais disons entre nous que cette route n'est pas...\\. officielle."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/32/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/33/message": {
+                "orig": "Recently the \\c[3]High Trader Council\\c[0] breached our route which led to an obvious shortage of medicine for our poor people.",
+                "text": "Le \\c[3]Grand Conseil des Marchands\\c[0] à récemment revendiqué notre route, ce qui a eu comme conséquence de créer une pénurie de médicaments pour notre peuple."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/34/message": {
+                "orig": "Guards now patrol part of the route.",
+                "text": "Des gardes patrouillent une partie de notre route."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/35/message": {
+                "orig": "Finding another route would just bring more guards on us eventually, so another solution must be found.",
+                "text": "Trouver une autre route va juste éventuellement faire venir d'autres gardes. Donc il nous faut trouver une autre solution."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/36/message": {
+                "orig": "And with you, I think we might just have found one.",
+                "text": "Et avec vous, je crois que l'on vient juste d'en trouver une."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/37/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/38/message": {
+                "orig": "Your \\c[3]Seeker Skills\\c[0] should allow you to find paths where none were before, am I not right?",
+                "text": "Vos \\c[3]Capacités de \\v[lore.title.seeker]\\c[0] devraient vous permettre de trouver des chemins là où il n'y en avait pas avant, pas vrai ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/39/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/40/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/41/message": {
+                "orig": "Yes, I think so too! Now what if instead of trying to find a new route, we smuggle the goods past the guards?",
+                "text": "Oui, je le pense aussi ! Maintenant si à la place de chercher une nouvelle route, on pouvait faire passer les biens sous la barbe des gardes ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/42/message": {
+                "orig": "The fine guards would do their honest work and we would do ours. No one gets hurt.",
+                "text": "Les gardes continueront de faire leur travail honnête et nous continuerions de faire le nôtre. Et personne ne sera blessé."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/43/message": {
+                "orig": "Of course this favor would not come without reward.",
+                "text": "Bien entendu, cette faveur ne sera pas sans récompense."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/44/message": {
+                "orig": "I'm sure you already noticed that \\c[3]Outsiders\\c[0] are not allowed to enter our trade hubs here in \\c[3]Pond Slums\\c[0]?",
+                "text": "Je pense que vous avez déjà remarqué que les \\c[3]Étrangers\\c[0] ne sont pas autorisés à entrer dans notre marché ici dans la \\c[3]Zone Zermi\\c[0] ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/45/message": {
+                "orig": "If you agree to help us, I will personally grant you a pass allowing you entrance to our trade hubs.",
+                "text": "Si vous acceptez de nous aider, je vais personnellement vous donner un passe qui va vous permettre d'entrer dans nos marchés."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/46/message": {
+                "orig": "So what do you say? Are you willing to help us in these most desperate of times?",
+                "text": "Donc, qu'en dites-vous ? Êtes-vous partante pour nous aider en ces temps désespérés ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/0/message": {
+                "orig": "Splendid!",
+                "text": "Splendide !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/1/message": {
+                "orig": "Now, the trading route I spoke of runs below the city, starting right here in the basement and going all the way to the infested jungle.",
+                "text": "Bon, la route des marchands dont je parle commence ici, en dessous de la ville, et continue tout au long jusqu'à la jungle infestée."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/2/message": {
+                "orig": "I want you and my son to go to the infested jungle entrance and find a way past the guards.",
+                "text": "Je veux que vous, avec mon fil, ailliez dans la jungle infestée et que vous trouviez un moyen de passer à travers les gardes."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/4/message": {
+                "orig": "What? I have to go with her? ",
+                "text": "Quoi ? Je dois aller avec elle ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/6/message": {
+                "orig": "You will do as I say, do you understand?",
+                "text": "Tu vas faire ce que je dis de faire, tu as compris ?"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/7/message": {
+                "orig": "... Yes sir...",
+                "text": "... Oui, chef..."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/10/message": {
+                "orig": "Meet my son at \\c[3]Lost Lookout\\c[0] in the infested jungle. He knows the secret entrance.",
+                "text": "Rencontrez mon fils dans le \\c[3]Guet Perdu\\c[0] dans la jungle infestée. Il connait le passage secret."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/11/message": {
+                "orig": "He will give you a \\c[3]special chip\\c[0] which allows us to track the path you took, so don't worry about jotting everything down.",
+                "text": "Il vous donnera une \\c[3]puce spéciale\\c[0] qui va permettre de tracer le chemin que vous avez pris, donc ne vous embêtez pas à tout noter."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/12/message": {
+                "orig": "Off you go then, for the good of the people.",
+                "text": "Maintenant au travail, \\v[lore.title.seeker], pour le bien du peuple."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/declined/1/message": {
+                "orig": "Now how unfortunate. However I do understand your position.",
+                "text": "Bon, comme c'est dommage. Mais je comprends votre point de vue."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/declined/2/message": {
+                "orig": "If you ever change your mind, please visit me.",
+                "text": "Si jamais vous changez d'avis, revenez me voir."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/2/message": {
+                "orig": "As said dear \\c[3]Seeker\\c[0], go find my son in Lost Lookout in the infested part of the jungle.",
+                "text": "Comme je le disais, cher \\c[3]\\v[lore.title.seeker]\\c[0], allez trouver mon fils dans le \\c[3]Guet Perdu\\c[0] dans la partie infestée de la jungle."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/3/message": {
+                "orig": "He will guide you towards the rest.",
+                "text": "Il vous montrera le reste."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/2/message": {
+                "orig": "You have returned, \\c[3]Seeker\\c[0]!",
+                "text": "Vous êtes revenu, \\c[3]\\v[lore.title.seeker]\\c[0] !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/3/message": {
+                "orig": "I have already received word from my son. ",
+                "text": "Mon fils m'a déjà donné des modestes explications."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/4/message": {
+                "orig": "Splendid work! Now all we need is the tracker chip and we can get right back to procuring the mushrooms.",
+                "text": "Un travail splendide ! Maintenant tout ce que nous avons besoin est la puce de traçage et nous pourrons retourner au travail."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/7/object": {
+                "orig": "\\v[item.344.name]",
+                "text": "\\v[item.344.name]"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/10/message": {
+                "orig": "With this we can finally start our production again and help the dear sick people.",
+                "text": "Avec ceci nous allons enfin pouvoir redémarrer notre production et aider nos chères personnes malades."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/11/message": {
+                "orig": "The Calzone Family will be forever in your debt.",
+                "text": "La Famille Calzone aura éternellement une dette envers vous."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/12/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/13/message": {
+                "orig": "As promised, a pass to our trader hubs is your reward.",
+                "text": "Comme promis, un passe pour accéder à nos marchés sera votre récompense."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/14/message": {
+                "orig": "I hope our wares will be to your liking.",
+                "text": "J'espère que nos marchandises plairont à vos yeux."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/15/message": {
+                "orig": "I will also advise our own cashier upstairs to sell our product to you. ",
+                "text": "Je vais aussi indiquer à notre caissier là-haut de vous vendre notre produit."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/16/message": {
+                "orig": "May it aid you in battle as it eases the pain of the people of Pond Slums.",
+                "text": "Puisse-t-il vous aider au combat comme il peut soulager le peuple de la Zone Zermi."
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/2/message": {
+                "orig": "Ah, the dear \\c[3]Seeker\\c[0]!",
+                "text": "Ah, le cher \\c[3]\\v[lore.title.seeker]\\c[0] !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/3/message": {
+                "orig": "Our production is running along just fine, all thanks to you. ",
+                "text": "Notre production fonctionne comme on veut. Grâce à vous !"
+        },
+        "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/4/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/37/settings/npcStates/0/event/2/message": {
-                "ciphertext": "6FrZONomwMVBwaUf9okd6j8lupEWj4bZXxHZHeAzqHel53eIu0GCGH5tAgo1BQ3+",
-                "mac": "tbeANw+QvGFwPIJ7CwDDyQ=="
+                "orig": "The Boss is just around the corner to the left.",
+                "text": "Le Boss est juste derrière le coin à gauche."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/37/settings/npcStates/0/event/3/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         }
 }

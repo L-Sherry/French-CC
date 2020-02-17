@@ -1,896 +1,896 @@
 {
+        "areas/cold-dng.json/name": {
+                "orig": "Bergen Tempel Mine",
+                "text": "Temple de la Mine de Bergen"
+        },
         "areas/cold-dng.json/floors/0/maps/0/name": {
-                "ciphertext": "JGO1WD9rEetPVg+rgXWhbg==",
-                "mac": "Wv2OmUzPyURUYa5e4/+MHw=="
+                "orig": "Elevator",
+                "text": "Élévateur"
         },
         "areas/cold-dng.json/floors/0/maps/1/name": {
-                "ciphertext": "NilK+HXhEs/ytISxx/5Y7QFznqh+JnbxcYdrKI/F2fw=",
-                "mac": "joFiM4k2IswblQa06+ecfQ=="
-        },
-        "areas/cold-dng.json/floors/0/maps/10/name": {
-                "ciphertext": "c0K2mNMmAKGLkJ0fozbjHYuSOdMhL3JQQQ3H5XlPGlo=",
-                "mac": "3ntVOoZnkBHpLofrwI+s2g==",
-                "quality": "bad",
-                "ciphernote": "LjvIWYwS0fC4bzULWVcRKw=="
+                "orig": "Forgotten Path 1",
+                "text": "Chemin Oublié 1"
         },
         "areas/cold-dng.json/floors/0/maps/2/name": {
-                "ciphertext": "mTqRFbryClY3dOliK7vqvPmJFueApNrKEhNn6KLJgjo=",
-                "mac": "u0SW29SUtzR62Fbk+sYTLg=="
+                "orig": "Forgotten Path 2",
+                "text": "Chemin Oublié 2"
         },
         "areas/cold-dng.json/floors/0/maps/3/name": {
-                "ciphertext": "MnDQUmVbUzgQ+zX+LGLYeS2PrI5nRrzh+vWItILTiXA=",
-                "mac": "JeAB8e+JsTI+swMCzVtb4Q=="
+                "orig": "Forgotten Path 3",
+                "text": "Chemin Oublié 3"
         },
         "areas/cold-dng.json/floors/0/maps/4/name": {
-                "ciphertext": "Zcr7XtpqUCkJ8MFxK5X65g==",
-                "mac": "v/O6T5jN+MemqOzUDznqKg=="
+                "orig": "Forgotten Shaft 1",
+                "text": "Puits Oublié 1"
         },
         "areas/cold-dng.json/floors/0/maps/5/name": {
-                "ciphertext": "Q2uVwF9uSCS5lH5hcyQeZg==",
-                "mac": "WYkRTpqD5h8z//ORvrgOjg=="
+                "orig": "Forgotten Shaft 2",
+                "text": "Puits Oublié 2"
         },
         "areas/cold-dng.json/floors/0/maps/6/name": {
-                "ciphertext": "F+dA5gm/CWfdj0i+vLvw5g==",
-                "mac": "1027xS6oST/2MAQak4hbcg=="
+                "orig": "Forgotten Shaft 3",
+                "text": "Puits Oublié 3"
         },
         "areas/cold-dng.json/floors/0/maps/7/name": {
-                "ciphertext": "L2yZZevY+klhJgrI2Ip7wQ==",
-                "mac": "TWLMGEbbOckIPGsMPk0rjQ=="
+                "orig": "Forgotten Shaft 4",
+                "text": "Puits Oublié 4"
         },
         "areas/cold-dng.json/floors/0/maps/8/name": {
-                "ciphertext": "X67RffxzvGcM2ig9q56xcw==",
-                "mac": "FZ/oS8DLjmmoftAjwwsL4A=="
+                "orig": "Forgotten Shaft 5",
+                "text": "Puits Oublié 5"
         },
         "areas/cold-dng.json/floors/0/maps/9/name": {
-                "ciphertext": "VuyRk+i5ainoqIwsuVowBydIQZpqvdmt0q8nPe5LyC0=",
-                "mac": "F+dGR33SwX90+rWw68U8vg=="
+                "orig": "Forgotten Test Chamber",
+                "text": "Chambre de Test Oubliée"
+        },
+        "areas/cold-dng.json/floors/0/maps/10/name": {
+                "orig": "Infested Chamber",
+                "text": "Chambre Contaminée",
+                "quality": "bad",
+                "note": "or infestée"
         },
         "areas/cold-dng.json/floors/1/maps/0/name": {
-                "ciphertext": "JGO1WD9rEetPVg+rgXWhbg==",
-                "mac": "Wv2OmUzPyURUYa5e4/+MHw=="
+                "orig": "Elevator",
+                "text": "Élévateur"
         },
         "areas/cold-dng.json/floors/1/maps/1/name": {
-                "ciphertext": "Z2ObRzRCqZp54JC/un0pYQ==",
-                "mac": "+EHw0lGziWD+3jtPKwf16w==",
+                "orig": "Frozen Shaft 1",
+                "text": "Puits Gelé 1",
                 "quality": "bad",
-                "ciphernote": "DTm2bKsFm5Jgp3GRTpxAro+VgW+zvJkdbQJAiCGzoXQ="
+                "note": "is it a gallery instead ?"
         },
         "areas/cold-dng.json/floors/1/maps/2/name": {
-                "ciphertext": "ormM2Ryv309hTERfrk3+vg==",
-                "mac": "mV+Z42LGtwC/84hbmAfJww==",
+                "orig": "Frozen Shaft 2",
+                "text": "Puits Gelé 2",
                 "quality": "bad",
-                "ciphernote": "Dr7ZOItUNjfRe3IaxYGfoq+Jn3OFJzKmqHlyUSdSJaI="
+                "note": "is it a gallery instead ?"
         },
         "areas/cold-dng.json/floors/1/maps/3/name": {
-                "ciphertext": "lG90BdKgzAKWbjxyTD1vaQ==",
-                "mac": "OlJvPodX7ysWvYpoy8Jayg==",
+                "orig": "Frozen Shaft 3",
+                "text": "Puits Gelé 3",
                 "quality": "bad",
-                "ciphernote": "DW0xbRgcYtMSFFEwjgUhdJk0FI35tJVXGu29ONeHak8="
+                "note": "is it a gallery instead ?"
         },
         "areas/cold-dng.json/floors/1/maps/4/name": {
-                "ciphertext": "k6hNs2GDhejRhdikQOEpCA==",
-                "mac": "MTgfTk+wzxNelYDArmFrIA==",
+                "orig": "Frozen Shaft 4",
+                "text": "Puits Gelé 4",
                 "quality": "bad",
-                "ciphernote": "G4PG29vmvL6OzYcjXCZiyUf0CBqRLN0ayqcTv3PwkQw="
+                "note": "is it a gallery instead ?"
         },
         "areas/cold-dng.json/floors/1/maps/5/name": {
-                "ciphertext": "u4btPJLJgMfSUr28Wv37VA==",
-                "mac": "BYgAtCiJvP6SYjowz2lfZQ=="
+                "orig": "Frozen Shaft 5",
+                "text": "Puits Gelé 5"
         },
         "areas/cold-dng.json/floors/1/maps/6/name": {
-                "ciphertext": "O6XzdCpkAQBWTsh5FPDlfQ==",
-                "mac": "MUSsEexvqSGC3CcyJg2kgg==",
+                "orig": "Overrun Chamber",
+                "text": "Chambre Envahie",
                 "quality": "bad",
-                "ciphernote": "yVCK2eEDEgbKONfYKAjWMoHRs/O6BWW837ZVi+K+GBE="
+                "note": "de: Chambre du grand nombre"
         },
         "areas/cold-dng.json/floors/1/maps/7/name": {
-                "ciphertext": "8b/fSt8Zt8XkWi1KcACrQQ==",
-                "mac": "iqNEpqA+MNJeuoKaRIvuNw=="
+                "orig": "Chamber of Fire",
+                "text": "Chambre du Feu"
         },
         "areas/cold-dng.json/floors/2/maps/0/name": {
-                "ciphertext": "JGO1WD9rEetPVg+rgXWhbg==",
-                "mac": "Wv2OmUzPyURUYa5e4/+MHw=="
+                "orig": "Elevator",
+                "text": "Élévateur"
         },
         "areas/cold-dng.json/floors/2/maps/1/name": {
-                "ciphertext": "C8Ia7BavVmDW4mDZIGzJ1CxCV44GjpWAMqGu6AF9apY=",
-                "mac": "8vWJMjaCzzK+pcD1XTBDTQ=="
+                "orig": "Storage Room 1",
+                "text": "Local de Stockage 1"
         },
         "areas/cold-dng.json/floors/2/maps/2/name": {
-                "ciphertext": "2d0lLCFs6iXsMhIlzVJw3Vmy6oj4kgfaTB+gjP0MKg0=",
-                "mac": "1l61XWFoV2jRfmS3o5TOHA=="
+                "orig": "Frozen Chamber 1",
+                "text": "Chambre Gelée 1"
         },
         "areas/cold-dng.json/floors/2/maps/3/name": {
-                "ciphertext": "lTy/0vWnYp+lCEPO4BhuJejCgH2FOEEorZWQnVqzebk=",
-                "mac": "/U86cxyAwilNODc8x4dL1w=="
+                "orig": "Storage Room 3",
+                "text": "Local de Stockage 3"
         },
         "areas/cold-dng.json/floors/2/maps/4/name": {
-                "ciphertext": "P9Y+HxDpfYqZnPi2plB2AF3v/XrniVcnHqT9LYQfxpY=",
-                "mac": "sYCbe5oUOUtK3Mn000WABA=="
+                "orig": "Storage Room 4",
+                "text": "Local de Stockage 4"
         },
         "areas/cold-dng.json/floors/2/maps/5/name": {
-                "ciphertext": "hkY6UylX3m8BE5CQR28A4pWxzpLuiy+guJ942Uy8H6k=",
-                "mac": "0+GZCLDLI2yNVdeDwlLz8g=="
+                "orig": "Frozen Chamber 2",
+                "text": "Chambre Gelée 2"
         },
         "areas/cold-dng.json/floors/2/maps/6/name": {
-                "ciphertext": "cAzJKvcFyPXt08j8zpL1Y5h+FG8nWUjOYAAXbYz6P9o=",
-                "mac": "NqRf/veXAyzOHLfA1ZTKsQ=="
+                "orig": "Abandoned Chamber 2",
+                "text": "Chambre Abandonnée 2"
         },
         "areas/cold-dng.json/floors/3/maps/0/name": {
-                "ciphertext": "zLhxhkLZJb61zfxGFtceiZrV2D/7St2yfLN9GBkq/pg=",
-                "mac": "9ugu/247791GVncYZfwwYg==",
+                "orig": "Crossing Funnel",
+                "text": "Croisement des Canaux",
                 "quality": "bad"
         },
         "areas/cold-dng.json/floors/3/maps/1/name": {
-                "ciphertext": "7WeD6n4qEY5M+IEoJO2Wsg==",
-                "mac": "hD03VrCCyXe1LaC2U06TAg=="
+                "orig": "Old Shaft 1",
+                "text": "Vieux Puits 1"
         },
         "areas/cold-dng.json/floors/3/maps/2/name": {
-                "ciphertext": "Dzcx8L+BFAuwMoesp7wxDw==",
-                "mac": "xUm8mfA8oPkJk29uSHyIwA=="
+                "orig": "Old Shaft 2",
+                "text": "Vieux Puits 2"
         },
         "areas/cold-dng.json/floors/3/maps/3/name": {
-                "ciphertext": "y8xruStFcpHKLetwtnLFQg==",
-                "mac": "QeUQwNqcufTxUa1+pKQ8NA=="
+                "orig": "Testing Chamber",
+                "text": "Chambre de Test"
         },
         "areas/cold-dng.json/floors/3/maps/4/name": {
-                "ciphertext": "Lr8obAurfnlLx9DdZ5HGpg==",
-                "mac": "CjOEpF+Fihr/+J8rgA2UWA=="
+                "orig": "Great Chasm",
+                "text": "Grand Gouffre"
         },
         "areas/cold-dng.json/floors/3/maps/5/name": {
-                "ciphertext": "tFte+DiH3WA21V24b73qmw==",
-                "mac": "K8TaHZvKnr0xEf6J66snOA=="
+                "orig": "Old Chamber",
+                "text": "Vielle Chambre"
         },
         "areas/cold-dng.json/floors/3/maps/6/name": {
-                "ciphertext": "JGO1WD9rEetPVg+rgXWhbg==",
-                "mac": "Wv2OmUzPyURUYa5e4/+MHw=="
+                "orig": "Elevator",
+                "text": "Élévateur"
         },
         "areas/cold-dng.json/floors/3/maps/7/name": {
-                "ciphertext": "Uww06Ex5gwXHJelZyESo2iOgIlZ5VB8d+GLpb+CwFHo=",
-                "mac": "jJF/IBbzaFM647+Wv9rTWA=="
+                "orig": "Control Room A",
+                "text": "Salle de Contrôle A"
         },
         "areas/cold-dng.json/floors/3/maps/8/name": {
-                "ciphertext": "yX5xTpsmy41CoX6WXtoIZgqzPETrXZhgEPjmUk1jr3c=",
-                "mac": "EtDuAS0pfugQWN/yfQK3Cw=="
+                "orig": "Control Room B",
+                "text": "Salle de Contrôle B"
         },
         "areas/cold-dng.json/floors/3/maps/9/name": {
-                "ciphertext": "GkcFygY+FPBlwSUMTLOkV8v0QgidJn/Ddeclbou6Nng=",
-                "mac": "/DPF/uADHGvKyPjZZuTQKQ=="
+                "orig": "Abandoned Chamber 1",
+                "text": "Chambre Abandonnée 1"
         },
         "areas/cold-dng.json/floors/4/maps/0/name": {
-                "ciphertext": "JGO1WD9rEetPVg+rgXWhbg==",
-                "mac": "Wv2OmUzPyURUYa5e4/+MHw=="
+                "orig": "Elevator",
+                "text": "Élévateur"
         },
         "areas/cold-dng.json/floors/4/maps/1/name": {
-                "ciphertext": "m+cI123UdGAGMHbyupbaOTMbRt3sgpiYisuQM7IHIkA=",
-                "mac": "fMYJdxUyegECFDnz4kHX6Q=="
+                "orig": "Temple Chamber 1",
+                "text": "Chambre du Temple 1"
         },
         "areas/cold-dng.json/floors/4/maps/2/name": {
-                "ciphertext": "kLp1YEiT+BpRe0oqcwQLq6vsEXAo7b6GAdlZwT5RHjM=",
-                "mac": "LSLiX8qdxHnzLI9gKUwXNg=="
+                "orig": "Temple Chamber 2",
+                "text": "Chambre du Temple 2"
         },
         "areas/cold-dng.json/floors/4/maps/3/name": {
-                "ciphertext": "JZ8an89eIzdzFVNa6kwhg6CPGfIthxrwqZQfYDjxkNI=",
-                "mac": "/2cIzILlW9/dcx5wcd/bNA=="
+                "orig": "Temple Chamber 3",
+                "text": "Chambre du Temple 3"
         },
         "areas/cold-dng.json/floors/4/maps/4/name": {
-                "ciphertext": "JGp45P/KeKHZGhxo65NhMKQYowpjfIYEAyHJFBZoxQI=",
-                "mac": "PyWcmT+SAlkAAuQYHcGd4A=="
+                "orig": "Elevator Control",
+                "text": "Contrôles de l'Élévateur"
         },
         "areas/cold-dng.json/floors/4/maps/5/name": {
-                "ciphertext": "qdoY5kDxcaOimgZOpZBMR7HFRuYxvlPRzPG5HAxXul4=",
-                "mac": "ZCQq6zQmS+poAjH+OchCIQ=="
+                "orig": "Forbidden Chasm",
+                "text": "Gouffre Interdit"
         },
         "areas/cold-dng.json/floors/4/maps/6/name": {
-                "ciphertext": "DSNVyXtTP2dvF5e2DZ+3FNqmdFkQ+SzHE1MoBHK7Z70=",
-                "mac": "TuP179cPFVr2GkuP3G6/iA=="
+                "orig": "Forbidden Storage",
+                "text": "Entrepôt Interdit"
         },
         "areas/cold-dng.json/floors/4/maps/7/name": {
-                "ciphertext": "a7VhIPAy4jWCq/AeY/2x9ni7+m2pCuhmq3r+F17E1/Y=",
-                "mac": "wIFMRphqVEWsnd9cqRuD7g=="
-        },
-        "areas/cold-dng.json/name": {
-                "ciphertext": "uAQuxuCdQEqh/JEpd4CBdmDZGdoBUlHbuHXUVmS2/+s=",
-                "mac": "Jcc/9J+c9Oeh3F8pPQUKZg=="
+                "orig": "Chamber of the Shade",
+                "text": "Chambre du Symbole"
         },
         "maps/cold-dng/b1/center.json/entities/0/settings/destinations/0/label": {
-                "ciphertext": "bsg/g76r01aj5XfTeoD4Dg==",
-                "mac": "ii6pjkiMA5MKwtXwajrcZw=="
+                "orig": "G",
+                "text": "RDC"
         },
         "maps/cold-dng/b1/center.json/entities/0/settings/destinations/1/label": {
-                "ciphertext": "3zd7l+PWugv4aTMtYsX+2w==",
-                "mac": "UyT0KhzJ0Atav7bVX3vo3g=="
+                "orig": "B1",
+                "text": "SS1"
         },
         "maps/cold-dng/b1/center.json/entities/0/settings/destinations/2/label": {
-                "ciphertext": "TfQIEirdP8ljE45p42AY8g==",
-                "mac": "87+qLCKz1PTDHQcp4Tl6FQ=="
+                "orig": "B2",
+                "text": "SS2"
         },
         "maps/cold-dng/b1/center.json/entities/0/settings/destinations/3/label": {
-                "ciphertext": "czoBe8NC+Hya6yUVmnhGnw==",
-                "mac": "BQjnpEFWHBXuTUta2C8DRA=="
+                "orig": "B3",
+                "text": "SS3"
         },
         "maps/cold-dng/b1/center.json/entities/0/settings/destinations/4/label": {
-                "ciphertext": "cEimnskOctWlZ/Hy3qfXrQ==",
-                "mac": "rpAe+w6ufsVX2TL2o2xUHQ=="
+                "orig": "B4",
+                "text": "SS4"
         },
         "maps/cold-dng/b1/center.json/entities/27/settings/teleportLabel": {
-                "ciphertext": "Uww06Ex5gwXHJelZyESo2iOgIlZ5VB8d+GLpb+CwFHo=",
-                "mac": "jJF/IBbzaFM647+Wv9rTWA=="
+                "orig": "Control Room A",
+                "text": "Salle de Contrôle A"
         },
         "maps/cold-dng/b1/center.json/entities/28/settings/teleportLabel": {
-                "ciphertext": "yX5xTpsmy41CoX6WXtoIZgqzPETrXZhgEPjmUk1jr3c=",
-                "mac": "EtDuAS0pfugQWN/yfQK3Cw=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/10/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/11/message": {
-                "ciphertext": "n7e+rXDxIN/AiNOnICSU+vijeylMODt3UIljkIjUFt0=",
-                "mac": "ESWp0mwgalGVb2rYukde3Q=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/12/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/13/message": {
-                "ciphertext": "LdkVwufY6Xo3yRsU7Tju43UbRxNWpAvIuleKU2Oicms=",
-                "mac": "3yk5tAgMQhvIYm7pzdIx0g==",
-                "ciphernote": "5Q90FWwiV3pZwtrSomkzsZX1/GH+nRkbI8uvZ6uwGys="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/14/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/15/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/16/message": {
-                "ciphertext": "/eYK35Ea/B0Bxq2JJ1EA/fe7C0N1h+MadFxSpeKT1Ipn/sMOxNz3qONhzfWyoY0w",
-                "mac": "cRdTcldtjnIcQmzwd+pJvw=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/18/message": {
-                "ciphertext": "a8VFPGjDIk2SO2otDosjeRos1UjGKtLoW+ffCtVpqhXXV9aXOhKHrA5cJ7PwPtRS",
-                "mac": "IKwy8J3Y5hw5/u4Kf2YmIA=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/19/message": {
-                "ciphertext": "VmiPsA+ldvz3xchJdg3LFmb3pDn+eMh3JrV/r4jdDsXy4BwEoUnS10qOyhKuzrenlPRLuprdKgoDu1dYBQN88tfL1WzM17MNyEYIl37WGBc=",
-                "mac": "VzJ4H7CmcIV9xRHw2klHWg=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/20/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/21/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/22/message": {
-                "ciphertext": "N+EH0M4df+QLiQkhsbWeOzchyukOrIuDfZTMFKee9cT5BPYroeeZOPktWwqFxl27",
-                "mac": "Nl+/FPzhmtBYDlcZb9J9kQ=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/23/message": {
-                "ciphertext": "XjuICCBQ4mC+NjcOxsXgAcf1Y7bcHMLeaPJoGF4AJpc9n7MBsqGruIb6kGBmobJY16742DUbEbIftIVa8ImgIw==",
-                "mac": "myvT0bbCDgFJEyzmihQxIg==",
-                "ciphernote": "XgTzDCBlEUHFymqj4dLlh/hHH1kL5hJ2ppCxJNwPyWM="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/24/message": {
-                "ciphertext": "yq4wUzc5UnY43AAwHoDPqy5lAhEuFmuhXqAfec1pMPoktC9kWK5jjL8mCILTjUd797tQhJVeWp6ENIrXT5g3OmR5C7cQVp5Fdg6f/qU5pQA=",
-                "mac": "JW76QWe5uPJ7AWANcAN5dg=="
-        },
-        "maps/cold-dng/b1/center.json/entities/36/settings/event/25/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "Control Room B",
+                "text": "Salle de Contrôle B"
         },
         "maps/cold-dng/b1/center.json/entities/36/settings/event/5/message": {
-                "ciphertext": "Z2H9RAGOg9WI+DtyF6oVYZ6mKliD9khBYyOJM2lBiNb2aJuTpCX8YbmHDyxV7kwp",
-                "mac": "9yGfOME/oZEnMVg2Y4oZUA=="
+                "orig": "Hey, Lea... how is it going?",
+                "text": "Hé, Lea... Comment ça va de ton côté ?"
         },
         "maps/cold-dng/b1/center.json/entities/36/settings/event/6/message": {
-                "ciphertext": "yq4dId2G6q+y4e8mP3WM3g==",
-                "mac": "HFm51AiNlxGCn7kZ2fHUMQ=="
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/cold-dng/b1/center.json/entities/36/settings/event/7/message": {
-                "ciphertext": "fE4km2t0/DL31WvgdVpHUTM5bA4LHRZbjhj5ZnYYnFbKU0UlVm1TEr1PdLYGT50FG3+O0dq2PIOlvL8JSmUaLaQFxN5o4lxYreUVwvyGm3s=",
-                "mac": "B8cX85HfxUAaV+9Bom/81Q=="
+                "orig": "Ah... I just need a short breather, this dungeon is pretty long, non?",
+                "text": "Hem... J'ai juste besoin de respirer un peu, ce donjon est assez long, non ?"
         },
         "maps/cold-dng/b1/center.json/entities/36/settings/event/8/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/cold-dng/b1/center.json/entities/36/settings/event/9/message": {
-                "ciphertext": "Kl+/Aad0bi5ndl1sFMx/uU2qNtK1/beFQr53Qk8xmdR0nOE0k6fjjclBwp87kOXR",
-                "mac": "CN23/f//OFh86HT170kpIQ=="
+                "orig": "Btw.... you did see them too, right?",
+                "text": "D'ailleurs... tu les as vu aussi, oui ?"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/10/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/11/message": {
+                "orig": "You know... \\c[3]them\\c[0].",
+                "text": "Tu sais... \\c[3]ces trucs\\c[0]."
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/12/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/13/message": {
+                "orig": "... the \\c[3]Bugs\\c[0].",
+                "text": "... les \\c[3]insectes\\c[0].",
+                "note": "what insect ffs ?"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/14/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/16/message": {
+                "orig": "Gahhhhh! I hate those things!",
+                "text": "Rahhhhh ! Je déteste ces machins !"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/18/message": {
+                "orig": "I mean they are HUGE.",
+                "text": "Je veux dire, ils sont ÉNORMES !"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/19/message": {
+                "orig": "But also quick and twitchy and there are just SOOO MANY OF THEM.",
+                "text": "Mais ils sont aussi rapides et vifs et il y en a TELLEMENT TROP !"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/20/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/21/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/22/message": {
+                "orig": "Yeah, I really don't like bugs. Pardon.",
+                "text": "Oui, j'aime vraiment pas les insectes. Pardon."
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/23/message": {
+                "orig": "I guess I just felt like talking about it....",
+                "text": "J'imagine qu'il fallait juste que j'en parle à quelqu'un...",
+                "note": "de:pour s'en débarasser"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/24/message": {
+                "orig": "Anyway, those things will not stop me. The race is still on!",
+                "text": "En tout cas, ces trucs ne m'arrêteront pas. La course continue !"
+        },
+        "maps/cold-dng/b1/center.json/entities/36/settings/event/25/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/cold-dng/b1/control-a.json/entities/49/settings/event/10/action/0/text": {
-                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
-                "mac": "/3l1+JslbOklhtB7mNR20g=="
+                "orig": "Threat detected",
+                "text": "Menace Détectée"
         },
         "maps/cold-dng/b1/control-a.json/entities/59/settings/teleportLabel": {
-                "ciphertext": "G8tVHmcoPzMAy9NMpfK7nz7qD4kOkVlYweE+MAgAkHI=",
-                "mac": "1iGSsihFSHKD8jhIgpX+3Q=="
+                "orig": "Back to Elevator",
+                "text": "Revenir à l'Ascenseur"
         },
         "maps/cold-dng/b1/control-b.json/entities/61/settings/teleportLabel": {
-                "ciphertext": "G8tVHmcoPzMAy9NMpfK7nz7qD4kOkVlYweE+MAgAkHI=",
-                "mac": "1iGSsihFSHKD8jhIgpX+3Q=="
+                "orig": "Back to Elevator",
+                "text": "Revenir à l'Ascenseur"
         },
         "maps/cold-dng/b2/center.json/entities/8/settings/destinations/0/label": {
-                "ciphertext": "bsg/g76r01aj5XfTeoD4Dg==",
-                "mac": "ii6pjkiMA5MKwtXwajrcZw=="
+                "orig": "G",
+                "text": "RDC"
         },
         "maps/cold-dng/b2/center.json/entities/8/settings/destinations/1/label": {
-                "ciphertext": "3zd7l+PWugv4aTMtYsX+2w==",
-                "mac": "UyT0KhzJ0Atav7bVX3vo3g=="
+                "orig": "B1",
+                "text": "SS1"
         },
         "maps/cold-dng/b2/center.json/entities/8/settings/destinations/2/label": {
-                "ciphertext": "TfQIEirdP8ljE45p42AY8g==",
-                "mac": "87+qLCKz1PTDHQcp4Tl6FQ=="
+                "orig": "B2",
+                "text": "SS2"
         },
         "maps/cold-dng/b2/center.json/entities/8/settings/destinations/3/label": {
-                "ciphertext": "czoBe8NC+Hya6yUVmnhGnw==",
-                "mac": "BQjnpEFWHBXuTUta2C8DRA=="
+                "orig": "B3",
+                "text": "SS3"
         },
         "maps/cold-dng/b2/center.json/entities/8/settings/destinations/4/label": {
-                "ciphertext": "cEimnskOctWlZ/Hy3qfXrQ==",
-                "mac": "rpAe+w6ufsVX2TL2o2xUHQ=="
+                "orig": "B4",
+                "text": "SS4"
         },
         "maps/cold-dng/b3/center.json/entities/8/settings/destinations/0/label": {
-                "ciphertext": "bsg/g76r01aj5XfTeoD4Dg==",
-                "mac": "ii6pjkiMA5MKwtXwajrcZw=="
+                "orig": "G",
+                "text": "RDC"
         },
         "maps/cold-dng/b3/center.json/entities/8/settings/destinations/1/label": {
-                "ciphertext": "3zd7l+PWugv4aTMtYsX+2w==",
-                "mac": "UyT0KhzJ0Atav7bVX3vo3g=="
+                "orig": "B1",
+                "text": "SS1"
         },
         "maps/cold-dng/b3/center.json/entities/8/settings/destinations/2/label": {
-                "ciphertext": "TfQIEirdP8ljE45p42AY8g==",
-                "mac": "87+qLCKz1PTDHQcp4Tl6FQ=="
+                "orig": "B2",
+                "text": "SS2"
         },
         "maps/cold-dng/b3/center.json/entities/8/settings/destinations/3/label": {
-                "ciphertext": "czoBe8NC+Hya6yUVmnhGnw==",
-                "mac": "BQjnpEFWHBXuTUta2C8DRA=="
+                "orig": "B3",
+                "text": "SS3"
         },
         "maps/cold-dng/b3/center.json/entities/8/settings/destinations/4/label": {
-                "ciphertext": "cEimnskOctWlZ/Hy3qfXrQ==",
-                "mac": "rpAe+w6ufsVX2TL2o2xUHQ=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/41/settings/event/31/object": {
-                "ciphertext": "ghEZ4Op8UEHTnmsMHXX8uQ==",
-                "mac": "7rv0ec2KugIi4d5jmzxNjw=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/42/settings/event/17/text": {
-                "ciphertext": "O0Lr+myYaSIes1LYszcTVaPHWP7wlBEpAvu/m2lgeya5LJD3gqLoCGasTZ9ikluqLf0C0/e0b6wCDp0Ko6TYEa7q0OvniQyPlt0hBqAg1GgekYABX8o1CM1Nh9Pt4cTk",
-                "mac": "rleBzFObOlArv3xTvTKe4Q=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/42/settings/event/21/text": {
-                "ciphertext": "nRs+1edLrw3z2hpanJbvYI4OmgLG2JP3EeJC8etBVAxmqJzl11pMzcJ8VkExrYS748fS9cmWRLBPS0gVMcDBOylc0w1clHhSc0JFVJA2SCc=",
-                "mac": "Zq16Y1bJ1pcv6lDecePMRQ=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/40/text": {
-                "ciphertext": "9Vja7DxfbMJcN6ybNmy1wGEJFiQfHjTe5xEZAAMs3UAKW25JpY51xikHMzgPhnNDhiRzWYRboX6WafFWbQEEvMwW2ixqinbt6UTPW/ExtuDl5Ld8Uxpy3avFYoP63+EF",
-                "mac": "sAYvI2OLDkFpW4W00JIz6Q=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/5/text": {
-                "ciphertext": "v/Gmc9KJxLegMAd0vbpphSOk59cDIOiHqrpEUjiTn0LatO1qXE9OZrw7TWcloXsgzFKPwhH82QZXh/21Jk9k8gf/cxNvCl/LNA3NlzAH3zJaL8K7b1HoWiXDlpeSUnCO",
-                "mac": "n5UJf1ZoyYvfLhwnHEVfCA=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/54/text": {
-                "ciphertext": "57MKbA2olV0fUOKzgR/KtU1rThrCavLO/utN20CHNw8Hl/xBVbeRgG24oSLIFH8mlsEcl/Xh6/DGPO0fssrD1P/VzjldsR2aVhlzWODYqQiU9pum5XSBDBmrEFkZ1JVvIJwTvXyEoUbDH/S9a7OJZGblaTGv4ovAsZApBTLKCzVmICkn9nFVBUF5hJ0dQQcZADcOHgBGKEeKOJVfQPXjFN1hbEVccFed8x8HVW25Bss=",
-                "mac": "9ZpoZyk2std7yLXunI22nA=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/56/text": {
-                "ciphertext": "/7Zdw9OKc17W7Yt+OaYNQDovrfAV5elJMV8VdPhbQcr6Eoldu+wJIOVESgWa0IB+Cbnwbwp2ir4yTQs+ExK7L/H/oHqGWFkyidQahflvoFI=",
-                "mac": "+F7y8RmrtHb0ulrt5y8qNA=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/57/text": {
-                "ciphertext": "uoOFQVyYg57q0Srdg8UPhREALQhs8XWD9xIGRIl/hS9Kj8rXnAG5nWsEPazgYx4SXk/uKhNvrt7q/XeO8h5iLsfiGBgrK+EpXHiy31Re5CVPOE3y1rMoQ2yj+ZcGzl67InrVKWDt1lZJguLP8Rr37Uf++YRlQyyr3XG+rokrW/DE2H18ScUaHqTFA+Kikv91",
-                "mac": "E6xY3IPdunKdln4hg0JwUw=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/61/options/0/label": {
-                "ciphertext": "JM5rXZhHc7Ey9WvqGiiVcQ==",
-                "mac": "hxzoZ92d9qsYnVxge0nkvg=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/61/options/1/label": {
-                "ciphertext": "UrrecITB2UdsZmLAy4dgeQ==",
-                "mac": "gM5R8mb8ktaoGZz3e60q1Q=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/61/text": {
-                "ciphertext": "tbyzylDW0SquY8cAXK56iQ==",
-                "mac": "vz0105ygo8ebG+ZSryEgRw=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/content": {
-                "ciphertext": "8Sidt3GX8OOrCzv52dHGmq5giqsbEu8OkhZATRfsLwfXKD9u4rJ689PsXuHbNWLmAK6PVGZZmtMJlG+3Zg2Uig==",
-                "mac": "ifCUTP5yhZa3uiE8gTiUjQ=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/title": {
-                "ciphertext": "Vlv7VVT4At+vraHKXX4G3tLmuZr++As25oKpQa2LxWM=",
-                "mac": "yDo8/mdWHmMffCzr0fLcXA=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/53/settings/event/6/action/0/text": {
-                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
-                "mac": "/3l1+JslbOklhtB7mNR20g=="
-        },
-        "maps/cold-dng/b3/room7.json/entities/56/settings/event/1/guiInfo/settings/text": {
-                "ciphertext": "SnBwLQaqlFFLYcGtFPb4cQ==",
-                "mac": "ZM6o3C9og2bsXZChaEaxXA=="
+                "orig": "B4",
+                "text": "SS4"
         },
         "maps/cold-dng/b3/room7.json/entities/6/settings/event/6/action/0/text": {
-                "ciphertext": "6zaQXsQQMi5HuFq/noXRHWLZVy1sBYQMA/b5AaByKwE=",
-                "mac": "/3l1+JslbOklhtB7mNR20g=="
+                "orig": "Threat detected",
+                "text": "Menace Détectée"
+        },
+        "maps/cold-dng/b3/room7.json/entities/41/settings/event/31/object": {
+                "orig": "Heat Mode",
+                "text": "Mode Chaud"
+        },
+        "maps/cold-dng/b3/room7.json/entities/42/settings/event/17/text": {
+                "orig": "Press \\i[heat] to switch to \\c[3]heat mode\\c[0] at any time!",
+                "text": "Appuyez sur \\i[heat] pour passer en \\c[3]mode chaud\\c[0] à n'importe quel moment !"
+        },
+        "maps/cold-dng/b3/room7.json/entities/42/settings/event/21/text": {
+                "orig": "Press \\i[heat] \\c[3]again\\c[3] to switch back to \\c[3]neutral mode\\c[0].",
+                "text": "Appuyez \\c[3]encore\\c[0] sur \\i[heat] pour repasser en \\c[3]mode neutre\\c[0]."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/title": {
+                "orig": "Elemental Overload",
+                "text": "Surcharge Élément"
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/content": {
+                "orig": "Learn how to manage \\c[3]Elemental overload\\c[0].",
+                "text": "Apprenez à gérer la \\c[3]Surcharge Élément\\c[0]."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/5/text": {
+                "orig": "Doing actions in element mode will increase your \\c[3]element load\\c[0].",
+                "text": "Faire des actions dans un mode élémentaire va augmenter votre \\c[3]charge élément\\c[0]."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/40/text": {
+                "orig": "Your \\c[3]element load\\c[0] is displayed around the element mode symbol.",
+                "text": "Votre \\c[3]charge élément\\c[0] est affichée autour du symbole du mode élément."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/54/text": {
+                "orig": "If your element load fills up, you reach the \\c[3]Elemental Overload\\c[0], which temporarily blocks the use of \\c[3]all element modes\\c[0].",
+                "text": "Si votre charge élément se remplit, vous atteignez la \\c[3]Surcharge Élément\\c[0], qui va temporairement vous empêcher d'utiliser \\c[3]tous les modes élémentaires\\c[0]."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/56/text": {
+                "orig": "Your element load will steadily decrease in \\c[3]Neutral mode\\c[0].",
+                "text": "Votre charge élément va diminuer progressivement en \\c[3]Mode Neutre\\c[0]."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/57/text": {
+                "orig": "The best approach to \\c[3]quickly decrease\\c[0] your load is to \\c[3]deal damage\\c[0] in \\c[3]Neutral Mode\\c[0].",
+                "text": "La meilleure approche pour \\c[3]réduire rapidement\\c[0] votre charge est de \\c[3]causer des dégâts\\c[0] en \\c[3]Mode Neutre\\c[0]."
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/61/text": {
+                "orig": "Repeat?",
+                "text": "Répéter ?"
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/61/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "maps/cold-dng/b3/room7.json/entities/43/settings/event/0/acceptStep/61/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "maps/cold-dng/b3/room7.json/entities/53/settings/event/6/action/0/text": {
+                "orig": "Threat detected",
+                "text": "Menace Détectée"
+        },
+        "maps/cold-dng/b3/room7.json/entities/56/settings/event/1/guiInfo/settings/text": {
+                "orig": "Enemy Heat",
+                "text": "Ennemi Chaud"
         },
         "maps/cold-dng/b4/center.json/entities/8/settings/destinations/0/label": {
-                "ciphertext": "bsg/g76r01aj5XfTeoD4Dg==",
-                "mac": "ii6pjkiMA5MKwtXwajrcZw=="
+                "orig": "G",
+                "text": "RDC"
         },
         "maps/cold-dng/b4/center.json/entities/8/settings/destinations/1/label": {
-                "ciphertext": "3zd7l+PWugv4aTMtYsX+2w==",
-                "mac": "UyT0KhzJ0Atav7bVX3vo3g=="
+                "orig": "B1",
+                "text": "SS1"
         },
         "maps/cold-dng/b4/center.json/entities/8/settings/destinations/2/label": {
-                "ciphertext": "TfQIEirdP8ljE45p42AY8g==",
-                "mac": "87+qLCKz1PTDHQcp4Tl6FQ=="
+                "orig": "B2",
+                "text": "SS2"
         },
         "maps/cold-dng/b4/center.json/entities/8/settings/destinations/3/label": {
-                "ciphertext": "czoBe8NC+Hya6yUVmnhGnw==",
-                "mac": "BQjnpEFWHBXuTUta2C8DRA=="
+                "orig": "B3",
+                "text": "SS3"
         },
         "maps/cold-dng/b4/center.json/entities/8/settings/destinations/4/label": {
-                "ciphertext": "cEimnskOctWlZ/Hy3qfXrQ==",
-                "mac": "rpAe+w6ufsVX2TL2o2xUHQ=="
-        },
-        "maps/cold-dng/b4/room9.json/entities/81/settings/event/10/message": {
-                "ciphertext": "tA45NparM4aj4KjbRHhIhdZNb+QtLOAdy0f7xUWitINVjek8QYrW/IudrlbcNXsS",
-                "mac": "kgbehCR0TRFyHh6JOOA1gg=="
-        },
-        "maps/cold-dng/b4/room9.json/entities/81/settings/event/11/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cold-dng/b4/room9.json/entities/81/settings/event/12/message": {
-                "ciphertext": "NqX6ftjJJ2iGlcsWCNMMA5fngb5/6aGiXGUV61tAWMvlDp8UMQfnOWELdWwPzCTc",
-                "mac": "5Ocgv8GzNe70QFEu7Z0GjA=="
-        },
-        "maps/cold-dng/b4/room9.json/entities/81/settings/event/13/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cold-dng/b4/room9.json/entities/81/settings/event/14/message": {
-                "ciphertext": "C5lQQkRAmeIGgH8qwI9bHL2wUH8iXdRtyfoSjkmnrCm+4ejjmQqkJ0N9IkFRRs9duYxJ9TcLroWtOl7trKuSDQ==",
-                "mac": "Af6x0nyO6WgGHAXRLSh3NQ=="
-        },
-        "maps/cold-dng/b4/room9.json/entities/81/settings/event/15/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "B4",
+                "text": "SS4"
         },
         "maps/cold-dng/b4/room9.json/entities/81/settings/event/5/message": {
-                "ciphertext": "DBL4xe7Pchv96o5/ghItWTxwuQaP8z442RlgnVPeWHI=",
-                "mac": "IpUFx9OZVdpLKkK4d7wHNQ=="
+                "orig": "BUGS EVERYWHERE!",
+                "text": "DES INSECTES PARTOUT !"
         },
         "maps/cold-dng/b4/room9.json/entities/81/settings/event/7/message": {
-                "ciphertext": "CjsU+9p1j82SpQb2tvWKGV3ehPBhqQ3vd9MRmzIbC4M=",
-                "mac": "oEMSZRRGQN62OGx1SBbRPQ=="
+                "orig": "IN ALL THE ROOMS.",
+                "text": "DANS TOUTES LES SALLES !"
         },
         "maps/cold-dng/b4/room9.json/entities/81/settings/event/8/message": {
-                "ciphertext": "yct5SPtasv1MT6ebf7Y9Iq0pT8mgJZ8ICqEImaClLSeU4FSdkGtIN5Xj6QryVPA/",
-                "mac": "3WXUtZOYUo17gIQv3J5biQ=="
+                "orig": "BELOW ROCKS. INSIDE EGGS.",
+                "text": "SOUS LES ROCHERS ! DANS LES ŒUFS !"
         },
         "maps/cold-dng/b4/room9.json/entities/81/settings/event/9/message": {
-                "ciphertext": "qgsZjd3hgnlLx/FCKZonyVmwuwkblndqw0VXPjbpYPiwWDGdVHNCqWbA8G22oEKGYwrp4QHtgH7cm3mnyQ2rGw==",
-                "mac": "tS4YbKdz4/ktXlvQwbI3ug=="
+                "orig": "ON FRIGGIN' TINY ICY PLATFORMS.",
+                "text": "SUR CES SATANÉS PLATEFORMES GELÉES MINUSCULES !"
+        },
+        "maps/cold-dng/b4/room9.json/entities/81/settings/event/10/message": {
+                "orig": "WHY WOULD THEY DO THIS TO ME?!",
+                "text": "POURQUOI EST-CE QU'ILS DEVAIENT ME FAIRE ÇA ?!"
+        },
+        "maps/cold-dng/b4/room9.json/entities/81/settings/event/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cold-dng/b4/room9.json/entities/81/settings/event/12/message": {
+                "orig": "Sacrebleu! This dungeon is the worst.",
+                "text": "Sacrebleu ! Ce donjon est vraiment le pire."
+        },
+        "maps/cold-dng/b4/room9.json/entities/81/settings/event/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cold-dng/b4/room9.json/entities/81/settings/event/14/message": {
+                "orig": "ANYWAY! Race. Still on. Not gonna give up.",
+                "text": "PEU IMPORTE ! La. course. continue. Je ne vais pas abandonner."
+        },
+        "maps/cold-dng/b4/room9.json/entities/81/settings/event/15/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/cold-dng/g/center.json/entities/21/settings/destinations/0/label": {
-                "ciphertext": "bsg/g76r01aj5XfTeoD4Dg==",
-                "mac": "ii6pjkiMA5MKwtXwajrcZw=="
+                "orig": "G",
+                "text": "RDC"
         },
         "maps/cold-dng/g/center.json/entities/21/settings/destinations/1/label": {
-                "ciphertext": "3zd7l+PWugv4aTMtYsX+2w==",
-                "mac": "UyT0KhzJ0Atav7bVX3vo3g=="
+                "orig": "B1",
+                "text": "SS1"
         },
         "maps/cold-dng/g/center.json/entities/21/settings/destinations/2/label": {
-                "ciphertext": "TfQIEirdP8ljE45p42AY8g==",
-                "mac": "87+qLCKz1PTDHQcp4Tl6FQ=="
+                "orig": "B2",
+                "text": "SS2"
         },
         "maps/cold-dng/g/center.json/entities/21/settings/destinations/3/label": {
-                "ciphertext": "czoBe8NC+Hya6yUVmnhGnw==",
-                "mac": "BQjnpEFWHBXuTUta2C8DRA=="
+                "orig": "B3",
+                "text": "SS3"
         },
         "maps/cold-dng/g/center.json/entities/21/settings/destinations/4/label": {
-                "ciphertext": "cEimnskOctWlZ/Hy3qfXrQ==",
-                "mac": "rpAe+w6ufsVX2TL2o2xUHQ=="
+                "orig": "B4",
+                "text": "SS4"
         },
         "maps/cold-dng/g/center.json/entities/64/settings/event/0/message": {
-                "ciphertext": "WYkscm7W0YBdoX2pDtYz6OmzVXMq+17aHEq79d4WFP0sNgmv6iRKE1OtNJhURsnsKjdY0hZ3BR6bB/S3gyokJQ==",
-                "mac": "7yqcKMPNhq/kN6d2rMNiGQ=="
+                "orig": "Good luck, Lea!\nI'll be waiting at the end!",
+                "text": "Bonne chance, Lea !\nJe t'attendrais à la fin du donjon !"
         },
         "maps/cold-dng/g/center.json/entities/64/settings/event/1/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/10/text": {
-                "ciphertext": "WEi6+3XIvSSHzNE+b5rZTJ7im2S09yTJghP+fXijNd9E9ad7HPU3mUvby8P9jZ+XdR7vk1lLHsldbE6/RDiman0c/3SGTXnoZjySIJoK6+rtqR+URAXKVFmRpQAaBvJp",
-                "mac": "ScE8sF/yULvkamq77mp1tg=="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/11/text": {
-                "ciphertext": "YQPB1E0iXkD25D5eRh0aB3hRraGLD14ZQEy6fs56tsDUcIdaqicOZ8+Ctlj6valjvQR/iPc+Zid/Qq+LuGdc9K8kiVc/oirE4DWolyE2IPI=",
-                "mac": "8Y9fktWvLjhV6L7BvXSp7w=="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/12/text": {
-                "ciphertext": "RYhaDnuv2R4EbPIVZ5TDLwN9Z6pTkWYAAW35JCsAZUPGVZU+8mX/n0fCqe5fpjCg",
-                "mac": "V04E0QcefD6n1zvi3TpcSA==",
-                "ciphernote": "dxrqXmEcoUwXlGSzKkx/hqEM4un6MrJJRi59C9QVfp8="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/13/text": {
-                "ciphertext": "gfhCllXkrxQq13oYCGWHrHzp47Z6yhZc3vhnEyWJ7+N9aFMDnmGedM4IwoSVzWZL",
-                "mac": "NP57FgxuSnB9Ue+AaRbPLw=="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/14/text": {
-                "ciphertext": "HPDYGDnbXqfx7VGLKCJSqMjAd3RolxEddl9d41p5qQiiiKRvhIXosTpxMfKnVfiq",
-                "mac": "P+7wq22+0DW4YKSo73X2CA=="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/21/object": {
-                "ciphertext": "3RKC+Y2vfB6usJgBw1llmAqqAoFUfUTAw9eDdon6zGA=",
-                "mac": "gaYae1UsmCJwWGLe2xj8Lw=="
-        },
-        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/23/text": {
-                "ciphertext": "ucPoLn+AzpR5JGo6aSBQaRNlbWLYnJvXb6dprwysz5O3v35f5seb6V4CKGfXcDThvuB8lczoUHzsqnTOeXTGzw==",
-                "mac": "jrSg32phxK9anYGLgKM2cQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/8/text": {
-                "ciphertext": "tMJegHm2e6YDjSb89+jRkBik3ZDePs5eLRg56xNscsCMxHg4qRN/W3WpnG5jEXjPqAiBoyVb/ToRU8NIoYfzoQ==",
-                "mac": "lUt2cWQgzLlEgu4RovjIYg=="
+                "orig": "These mountains stood \nfor eons, nearly unchanged...",
+                "text": "Ces montagnes se tiennent\ndepuis des éons, impassibles..."
         },
         "maps/cold-dng/g/expo-space.json/entities/4/settings/event/9/text": {
-                "ciphertext": "zXkz8nXSjFlshHAPdac0KNLncyqvXNjU80+tqbGsluQEciEL5u5ykcRdY6m8Tp5+",
-                "mac": "f/IFenMR9jPftY4sDQiPyg=="
+                "orig": "Their frozen crown, \nshimmering in the sun.",
+                "text": "Leur sommet gelé,\nbrillant au soleil."
         },
-        "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/0/text": {
-                "ciphertext": "4QvS4hvnRMRekgegdINdaYqk3ZIzAwnVHJbhT6iA7+stz8ZTTDUcUDaN3qeTQKAbehQNJ87MdEo4X90hnc/KL4l/5q+m43hUH2llhvC2J1+IMAxXFZaq/z3oPKi0hbWUIQcavJGf3m+sym6LKro6OIRMeSa6MgStiQHsKS1s4sM=",
-                "mac": "FaTsqdFLTI8U7bTPVdGnnw==",
-                "ciphernote": "RPsoHut80sWSPnNxgaQMEuSXt1rMxsvFqlsUI2Ib+8qdeAvPzogi5+22Ot9rfUsmlcZwlDk/vHHbKRPWNHlPGpzJS+FTTER+vIvrnPwYpEz2o44itIxmxRpbTDEGT2tLyRDG5Vg6DynF0pFAsPWxKJDwC+1fGVtFTsUW/LvNKZ4="
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/10/text": {
+                "orig": "Among these heights and hurdles\nyou persevered.",
+                "text": "À travers ces hauteurs et ces obstacles\nvous avez prouvé votre persévérance."
         },
-        "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/1/text": {
-                "ciphertext": "CMdXYoDNX8WyGxom4jXD1GqMOo4wDNRLxrm5flPFLBqNkTQbpIr0VrXhHaX4UIXBggQFxcJ2eYseqfFX67xgNgtVj8nxs7THEMHcIRlyTpPHsK/N5sYbCTASu+dXr6WGCZHSnRzy44mdYNacJsltZAT1U984PJP1Y2DamB2qpLE=",
-                "mac": "D0fMiq0tfND4KC0wH8QIWg=="
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/11/text": {
+                "orig": "Wielding the blazing flames, \nyou cleaved through ice and stone alike.",
+                "text": "Avec ces flammes ardentes\nvous avez tranché tant la glace que la roche."
         },
-        "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/2/text": {
-                "ciphertext": "NC2CPzPMLbC46F3c8xrsyh0YP88GSLdzDdTXGTdhyXMajFwS7lqH9Vh+q8gVWKJ0/TRe4+DoyE7Wj+4xA1vT5XWxRS2ov7MtzPhxJkVHfo27Sx4X0v3bVNQ8RwcZVxvwwucQGaFmm5wwc8Qf7kaGNg==",
-                "mac": "BdL2rHQmAYerc/LZMQhIyg=="
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/12/text": {
+                "orig": "You, the traveler, \nthe envoy of change. ",
+                "text": "Vous, le voyageur,\nL'émissaire du changement.",
+                "note": "many lookalike dupes"
+        },
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/13/text": {
+                "orig": "You have proven yourself worthy.",
+                "text": "Vous avez prouvé votre dignité."
+        },
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/14/text": {
+                "orig": "Take this Shade \nand continue on your journey.",
+                "text": "Prenez ce Symbole\net continuez votre voyage."
+        },
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/21/object": {
+                "orig": "\\v[item.225.name]",
+                "text": "Symbole de Glace Bleue"
+        },
+        "maps/cold-dng/g/expo-space.json/entities/4/settings/event/23/text": {
+                "orig": "Let your every step\nform the path of your growth.",
+                "text": "Que chacun de vos pas\ndessine le chemin de votre croissance."
         },
         "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/hoverText": {
-                "ciphertext": "//fjVB60zd6v/f5Hd+57Hb6TAMY800AY4lIF+nkpoAY=",
-                "mac": "n2d9eNArDM/W6Re73EcG0A=="
+                "orig": "Birth of Di'aro",
+                "text": "Naissance de Di'aro"
         },
-        "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/0/text": {
-                "ciphertext": "AyF6ycf/M8L96qWyVssQzjBA5jB9A9CZflZUHc7e8mBdrsT+Vhf0qSzW7xH7Ek8kL99yyD2tdisnTXP3/N2ZJw==",
-                "mac": "jrtKD/ADSF0Yi9qdw+d2CQ=="
+        "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/0/text": {
+                "orig": "It all started when \\c[3]Di'orbis\\c[0], the ethereal god of creation, was born into the emptiness of the void.",
+                "text": "Tout a démarré lorsque \\c[3]Di'orbis\\c[0], le dieu éthéré de la création, est née dans le vide du néant.",
+                "note": "this text, and the following ones, are based on database.json/lore/godstories-diaro, except 'the anciens' is now 'we'."
         },
-        "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/1/text": {
-                "ciphertext": "MpQE8cq5XIDINVrUeZ/LRfzO0Lbj/5SCsAqjT8vEgyOMGPrQPZvaX/SUWdybFrNfLuJMM/X9xX5VrVRcfVadeY6Ojn1/WU5k1cb3YOCJOq1tVHvyQI3QFYULjwman3+szUsQLv1UiNI/a2MEJloqn05MrCVBSjH+E1QpkSZ2xMQ=",
-                "mac": "KLFUm8gav9RFBVciUJ5HPw=="
+        "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/1/text": {
+                "orig": "After pondering for eons in solitude, his desire for company gave birth to the \\c[3]Gods of Shape\\c[0].",
+                "text": "Après des éons passés dans la solitude, son désir de compagnie a donné naissance aux \\c[3]Dieux des formes\\c[0]."
         },
-        "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/2/text": {
-                "ciphertext": "OI1HKkhjyda4uAtAVH2JSKRpXDEhtlwJyh0NwAhSEh1Ru6BRUMHGTJsFawzsHRVUSfPhnZHEjtBlL6bd9jBtSMfEk8MwQDz6ll6xHAoR1Uzmxaf1gVklYiRzaylWd/o2wzWxV24PV+hr7bvC8epqgURlcr1HkWQTtgp+ttflzF8=",
-                "mac": "h7u2zh8Be+qcZswUCWzE0g=="
+        "maps/cold-dng/g/shade-room.json/entities/10/settings/interact/event/2/text": {
+                "orig": "Di'aro is one of these gods. The God of the \\c[3]Square\\c[0] and the creator of \\c[3]solid surface\\c[0].",
+                "text": "Di'aro est l'un d'entre eux. Le Dieu du \\c[3]Carré\\c[0] et le créateur des \\c[3]surfaces solides\\c[0]."
         },
         "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/hoverText": {
-                "ciphertext": "zpAYM5uUKKYY9M90rDbSzkKIzSENvEOI6A2L2vbCuKA=",
-                "mac": "MDtuLw7wognZUAF0yofoQQ=="
+                "orig": "The creations of Di'aro",
+                "text": "Les créations de Di'aro"
         },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/0/text": {
-                "ciphertext": "gILs/weaOhuWh1iIQJp25KWRiW68t2H5rw1mEOF6x2GzvMXORt39gmg3XtuWH8itbfQhExftWVzPOjc2AuxrXJD2LZor/1JK+3RWJYKOjWEfMgGJUKHVobDmZluGHORBsVfVkbKngBu/hNNv/guIghHX+2QmWtFqod60MLAkc/0=",
-                "mac": "jraHEISj/21l+VK+YR7zPQ=="
+        "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/0/text": {
+                "orig": "Di'aro is the creator of \\c[3]solid surface\\c[0].",
+                "text": "Di'aro est le créateur des \\c[3]surfaces solides\\c[0]."
         },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/1/text": {
-                "ciphertext": "uHMsPdSxM4/4kRrJVLAqCcPE2CllgtCSJsJtqKGGgQ+zpnykrkm+hE1p9hid78YpWtYqfoP2/66G+oYw3dtsOlK35Rs+ez/9Wl+VmO8c+Dvfq+rKXvOAHIeG7mOFTIswvNYm5CrIRWBYYJ7YKqvNIbRUhtJJA4ktvpY5LnKVQrA=",
-                "mac": "8Xh/loiN3BZpRUBnDR/pLA=="
+        "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/1/text": {
+                "orig": "His powers could form the most \\c[3]majestic mountains\\c[0] and \\c[3]freeze\\c[0] the vastest of seas.",
+                "text": "Ses pouvoirs lui permettait de former des \\c[3]montagnes majestueuses\\c[0] et \\c[3]geler\\c[0] les mers les plus étendues."
         },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/2/text": {
-                "ciphertext": "YfWSSdrRxzLxXre4+U6KDQeYB3tsRf6uldKaWZT5J3abeXOlHPe6AG0ygET8rm3RInHLYd4EluaDCFijP7KIQpDnw1/7hKLQpHutvHPMOOzhocO1Fx7H4h8/YDdER4F6ut+m7KY/kBWw0LZH5MvY2HQGpZbzFjo/TFoiV7QyL/fl+6KuWH57ZOdwpY0MrRZkR2XHWHL4DaX8h0mpRtbFtQ==",
-                "mac": "UVa7Ur4u4ia7kIYux3ugaQ=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/3/text": {
-                "ciphertext": "kA5yQrsLMniQGXGToUVWf8oGl1JPL9ncNZzXg75bu4JXTtUP1ofVuydA+fhNGScbCZSnq/r0Zue9JtQ/Q9RMFQ==",
-                "mac": "wOH2wUQxiDADtItsPQB3nQ=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/4/text": {
-                "ciphertext": "COJqr0RGZslEbXXXGbYwKPRWULopRC2Rx6TVev1+MwtaBkaelFH4EzL1xUPejJQLVouH/3b9g+VLpJ3yJhApVNXVQ1h4hoNEzyl81UB2s/YZLp1m8/mWA/nsCgl5k/bY",
-                "mac": "2JqWs/27vot9benvWey0/Q=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/5/text": {
-                "ciphertext": "pCxAyQFHJuj5k1QNdpD0TJ31Wb4RYZ0uzeO+Lg7Q6A948yFzlQt94o+AgISv5nFt9ubjk6L4X/NV6sS410lVR4N9fWjIkHrLxdG6S+vsb+EQdGJyetdgqrJ1Erh/q9jQTYKK34ke27zP+34CjZXP8w==",
-                "mac": "B8SLEZwMQPUZcVk/UAO6vQ=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/6/text": {
-                "ciphertext": "Xk/lovLCn5XbQougETdnp3H5I172SFaKeMIGQCbtx2083ObFolJrRSvcaUOExUc87i2UodzfzYXuTWPVGz6Zl6ivtQKwbVchGno/zlC6376HOMc1S68wm8vKj0fPpKKb02R6ZIgh1dK9Z/xhoGwUSgGmFRQX8Ve0g73DzuQzt6s=",
-                "mac": "o/mfFj0uDsSj18VLDwLISQ=="
+        "maps/cold-dng/g/shade-room.json/entities/11/settings/interact/event/2/text": {
+                "orig": "Indeed, his creations are enduring and overwhelming sights to behold, yet motionless and without life.",
+                "text": "Effectivement, ses créations étaient imposantes et perduraient longtemps, mais étaient immobiles et sans vie."
         },
         "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/hoverText": {
-                "ciphertext": "xnpjc/5InobzaprydBmoD9Rx/N/WutnAswfofZXfjOQ=",
-                "mac": "YwiXLEmqurj9IqCo5WjI0w=="
+                "orig": "Fire and Earth",
+                "text": "Le Feu et la Terre"
         },
-        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/0/text": {
-                "ciphertext": "GnE1gzV0OyXs+OLjh4W1FuoAxII+GbyGSZgDN1exviYtpDAIF+H8IDakf+FnVzCdoT7MEesFuxy5P0fh2Z37TfOZ6T3plRyuuvEUHOfraUwe7HBUgdtZy96jvDz2LeAdZku4w/pm/068l88yWASu5vWXI39FuCj/prVHQvCrF3Ns55dM7NupLt9DoQ8zAUPl",
-                "mac": "ZO5XYyxlRWgFlGmOOW40TA=="
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/0/text": {
+                "orig": "\\c[3]E'nel\\c[0] is a Goddess of Shape, the mistress of the flame, and creator of the sun.",
+                "text": "\\c[3]E'nel\\c[0] est une Déesse des Formes, aussi connue comme la dominatrice des flammes et créatrice des soleils."
         },
-        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/1/text": {
-                "ciphertext": "59QaTptlXjA56wCScmec+JVeP5vnoKkMsKZjbdCzhxuLgx/hhTV+jT1a1KbcyyYvUgyDaIE4FplA6JHVKgsnBYZ8fP5faxDV5kU5m93BuPnmJ6ATVbbC6oB9jUagDHtXiR4MrO+h24xMtugVUymDZRslEpcQyus+ZHCof69kU861RmNYwi1wv5fwGAL+5rOb",
-                "mac": "UKYbBNNo/cFzXONcWMTriA=="
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/1/text": {
+                "orig": "Yet she was envious of her fellow gods, who created fascinating shapes and worlds full of life and color.",
+                "text": "Mais elle était envieuse des autres dieux, qui créaient des formes et des mondes pleines de vies et de couleurs."
         },
-        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/2/text": {
-                "ciphertext": "uUER9mDlbhjSSlR9/J+aDx7Ls0XV4JYys/RIjrHxM4hy6tV6eSXYn7SzF4le/R1/uiPE2hbMK1kIson3FwK3USiqpo+S/W3UxjG7aSD4Zc1oMwnMMWk29V8lyCZ/T6cGcGN3V/Py5lFhMZKQsjfQdnuaOeFP+J8MPOCWKRJJ32a0kwSDHp8OU3J2TGEG18gibmrIFykY2LrcxG5moYVFhLRi88UYlB7lV+tFVHRSgrgv1UBe2N2fcayHjf6QCfLYQi3TyFiBnBySEMmyJ5rEVb9CgTn8XnDiYGATkvRDC4k=",
-                "mac": "NOdVQH3+Fo8YfNUYMFwvDA=="
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/2/text": {
+                "orig": "She longed to take part, adding a warming fire to these worlds, yet her flame was too mighty and consumed all in its path.",
+                "text": "Elle aurait voulu aider, en réchauffant ces mondes avec un feu doux, mais ses flammes étaient trop ardentes et consumaient tout sur son chemin."
         },
-        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/3/text": {
-                "ciphertext": "ZffoOVCHi4HvQ8OzVr05q4NUPNfiLCCYUGAMOxWX9H4gHLrZNt1hgy6HWmxUJ5h19CRo/xTivuaZChM2KyRV87VDD6o7YLmnr7xPJuTmF56K+hlq4aiaAeLgD7xykmzmhhHYiVng8pHR9GhlSMRyQ1UI2632mwzlnZcvqXAkRsT01DtvK4Dq6LR/X+3/go4vYXLJtclY5Ux9zXOttx+LkhV8KQRP3FiQu06zjlsL/bM=",
-                "mac": "NqUl1hagrQF1wOj/1b9mtw=="
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/3/text": {
+                "orig": "It was then when \\c[3]Di'aro\\c[0] had a proposal.",
+                "text": "C'est à ce moment que \\c[3]Di'aro\\c[0] a fait une proposition."
         },
-        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/4/text": {
-                "ciphertext": "oFGX9BIy7Tt1YYx3cbBxEkAkKTZ2RVrqIUB+/xo5cjDNZVZ8DQcQm9KneBbfchvm/rqijC4kCH5iZMM2bs9rwrauxX9+JVPhhU8ZzW4kvMLJHMm2vEbOhW5bvfx76uX0bZ4OXSqFNf26FOfuEaj5+rUlq1kH+lxkAjjVgAK1hEY=",
-                "mac": "Qg6pbmPydA2Iz+ThORektg=="
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/4/text": {
+                "orig": "He shaped a sphere with an empty core and several holes surrounded by high mountains.",
+                "text": "Il créa une sphère avec un cœur vide et plusieurs trous entourés par des montagnes."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/5/text": {
+                "orig": "E'nel filled this shape with her flame, creating a world with a heated core and life on its surface.",
+                "text": "E'nel rempli cette forme avec sa flamme, créant un monde avec un cœur chaud et de la vie à sa surface."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/12/settings/interact/event/6/text": {
+                "orig": "Today, every \\c[3]volcano\\c[0] is a record of \\c[3]E'nel\\c[0] and \\c[3]Di'aro\\c[0] working in union.",
+                "text": "Aujourd'hui, chaque \\c[3]volcan\\c[0] est un souvenir du travail d'équipe de \\c[3]E'nel\\c[0] et \\c[3]Di'aro\\c[0]."
         },
         "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/hoverText": {
-                "ciphertext": "+RAbB77TdX0+gyzc9TT9r+KI/jzm5ISl3DnatwjxzcU=",
-                "mac": "P04IQmo9PM88Yd58cdBO5w=="
+                "orig": "The Message of the Sky",
+                "text": "Le Message venu du Ciel"
+        },
+        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/0/text": {
+                "orig": "Life on \\c[3]Shadoon\\c[0] has prospered and \\c[3]Di'orbis\\c[0] felt that our kind was ready to start our journey.",
+                "text": "La vie sur \\c[3]Shadoon\\c[0] a prospéré et \\c[3]Di'orbis\\c[0] eu l'impression que notre espèce était prête pour commencer notre voyage."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/1/text": {
+                "orig": "Di'aro, however, did not agree. He still saw our kind as infants crawling over the majestic surface he created.",
+                "text": "Di'aro n'était pas d'accord avec eux. Il nous voyait encore comme des enfants, qui fourmillaient sur la surface de ses créations grandioses."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/2/text": {
+                "orig": "Di'orbis then pointed to Shadoon and asked Di'aro to watch. Di'aro saw how our kind climbed the \\c[3]highest of mountains\\c[0] and reached the very \\c[3]bottom of the sea\\c[0].",
+                "text": "Di'orbis pointa alors \\c[3]Shadoon\\c[0] du doigt et demanda à Di'aro d'observer. Di'aro vit comment notre espèce gravit les \\c[3]montagnes les plus hautes\\c[0] et attégnèrent le \\c[3]fond de l'océan\\c[0]."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/3/text": {
+                "orig": "Di'aro was shocked yet proud of our achievements. Reluctantly he agreed that indeed we had been ready to start our journey.",
+                "text": "Di'aro était choqué mais, en réalité, fiers de nos exploits. Bien que rétif, il accepta quand même l'idée que nous étions près pour démarrer notre voyage."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/13/settings/interact/event/4/text": {
+                "orig": "Di'aro then prepared an \\c[3]envelope\\c[0] of solid rock and ice, used to send the \\c[3]Message of the Sky\\c[0].",
+                "text": "Di'aro prépara une \\c[3]enveloppe\\c[0] de roche solide et de glace, utilisé pour envoyer le \\c[3]Message venu du ciel\\c[0]."
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/0/text": {
-                "ciphertext": "Vix+ol0awAjuYm+7cWfFVw==",
-                "mac": "sPFeDtxKVhTowTaCjUGTQg=="
+                "orig": "That was rough...",
+                "text": "C'était dur..."
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/1/text": {
-                "ciphertext": "BrZgeh1SJZrpz89RR74AB9xF0SeCEPiP8AnLEHS8wAtn9Z1N07Bw1+1T2C7o8gvy",
-                "mac": "8hFP9x0BTY5oH6qmKbmvXw=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/10/text": {
-                "ciphertext": "u48Nw/zdvO3CnfYMhhUTcw==",
-                "mac": "c87KdUPiPEKxQMvd6UCf0A=="
+                "orig": "Too many chasms, right?",
+                "text": "Trop de précipices, c'est ça ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/2/text": {
-                "ciphertext": "Sth0/UHt8fb2NmPjDjPKemBmHPN9Hy1npvZyy9hmLpCKH0g3jnhOY4dKJZYDLd3F",
-                "mac": "hzrfmjNdT/uap5i9g5nmOg=="
+                "orig": "That whole dungeon was one large abyss!",
+                "text": "Le donjon entier était un large précipice !"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/3/text": {
-                "ciphertext": "zPq2IpedK2NxQMjC0Ki8rgPxZr/BNYDH2sNLXtpPN9QpZ4Fh+rEH/EPclPO8/nNyNgm7BkBjNVyBjLrt/AcxdgtxnXLoY9GTn7Q8BoTM0Ro=",
-                "mac": "eah3vCnBjkY5ezjgt5AgTA==",
-                "ciphernote": "5WWwG71qgnamrKD7sgL2HtJFNsifnsvi3uINFO6vRlU="
+                "orig": "The last boss was over a cliff for Pete's sake!",
+                "text": "Le dernier boss était directement au dessus d'une abysse, nom de dieu !",
+                "note": "himmel noch eins"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/4/text": {
-                "ciphertext": "CD9hcAPv9hUu2KZWcXQh3Juc9ZvCEp6ASmNn9boTA0go8ANscdr7fOI2bOaA+5w0PhvRunAtYYr4RvVP20wCLA==",
-                "mac": "dCqxhA7jus9S9jnOIUuHeQ=="
+                "orig": "Still, you made it.\\. I'm so proud of you!",
+                "text": "Pourtant, tu y es arrivé.\\. Je suis vraiment fier de toi !"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/5/text": {
-                "ciphertext": "WEkJ7Z8Xovb4d8grlHwLDA==",
-                "mac": "AZEfXgfh8Dxu5Gvd9nHOlQ=="
+                "orig": "Gee, thanks.",
+                "text": "Oui... merci."
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/6/text": {
-                "ciphertext": "wav5NXZ42vqLzYC2chMOg8KsuHkOR5sDZ8WGTvXFE31JzfCJinruQJ+8Ge7lURi5eWGguIQk0DOnyGyTj3bb22Hq/e9KIms6VeNCvmOg/N0=",
-                "mac": "l2x7RgOPfQvdlKtr1zESzQ=="
+                "orig": "So...\\. Let's collect the shade already.\\. We clearly earned it!",
+                "text": "Donc...\\. Allons récupérer le symbole maintenant.\\. On l'a bien mérité !"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/7/text": {
-                "ciphertext": "5yJsT0uW8vSre2qYSLHMRyXQjHsW9r720BxFo2OBbUY=",
-                "mac": "johZjQS5QMa2FrQ411sAFg=="
+                "orig": "Are you kidding?!",
+                "text": "Tu plaisantes ?!"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/8/text": {
-                "ciphertext": "kr4YO/MjEgVv/rmKpQF0ffUNpO4xLdSI6G98Cg/FpVOKv8gswJ3sNViDMwCLiFjWIP8Ezk/2WyYvvBubtLSviZ6CpjwHphkbshPNEnbnWGA=",
-                "mac": "uNF39MXGZIiOi6hk5ln1jg=="
+                "orig": "They will probably do that \"float in space\" thing again!",
+                "text": "Ils vont encore nous faire le coup de la flottaison dans l'espace !"
         },
         "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/9/text": {
-                "ciphertext": "FRm0YX9zaH3Cwuk02f4HxqI0xxmCe2HnA3tn7s6aA1ZX6Kvdv4ZucyiYvBNfFku2/ZBBxEzRAx2uM6tQiNDz1w==",
-                "mac": "A6WL3Ff45cW0oDVtPgT+yQ=="
+                "orig": "I can't take that right now, please!",
+                "text": "J'en peux plus, ils vont finir de m'achever avec ça !"
         },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/10/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/5/message": {
-                "ciphertext": "8nfmyohss7I5t3dvvoHVQFv0t+Ca39+JhcOYIC2uqPI=",
-                "mac": "SclVWcwTVMyCRQRYtcGKcA=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/6/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/7/thenStep/0/message": {
-                "ciphertext": "nXIlHEqX4ppV7p2K1NPhtzk5J6ZvtFObKAv89WG/OmYMkitAv4DJLegzy3pmG2qk+B2XWs1sxF8bm7GRtIynfXkfLr2yziJTgFppyAHx/Qfwf9BBQx/yyuyOvAmkOEWZeLvYCxx7hl600sBTvz4lGA==",
-                "mac": "WcCqgvF82RDIhgY3nxwU2g=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/7/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/8/message": {
-                "ciphertext": "dCJL8oxXs/vDW7NdJggx/JbEPQSsXd9hXXGHTAu9bPwhZf7cSrkQTkCRaOryw7o2GGXvKEzYfQX9lOdFm3baoQ==",
-                "mac": "hbQwMUQz5UREnyfKY/j6LQ=="
-        },
-        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/9/message": {
-                "ciphertext": "z7RtNNWBlKTQ2D3v7IpRUkqa6ByagIDgpRG0ZaiFlbUM3t69x89XVc8Zy6JYZgi8mvsupeFWy4KJkNAtNVx0Y5c0tWfIVY74LnZ10Uls1PNd8VLa8fmR1mE6Ykj/wWoR",
-                "mac": "Zy9yh0caBCYc2tqx8Hq6wg=="
+        "maps/cold-dng/g/shade-room.json/entities/18/settings/dialog/10/text": {
+                "orig": "Oh, come on!",
+                "text": "Oh, aller !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/13/message": {
-                "ciphertext": "mV00EfZuISQswc8WEVYFoeYnPKteG2QKLrSsvjXoLqytzvDjCoj5ToUGODSKM8/x",
-                "mac": "haqaxaJN9lln16c9QDDV+A=="
+                "orig": "Awww... you're first.",
+                "text": "Ohhh... T'es arrivée la première."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/14/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/15/message": {
-                "ciphertext": "u+iB6uXGd9MlP8f5XUoIsCFzkvYF7qpG+FYAmgezfbU=",
-                "mac": "v9lE8zem6ptLrWmAGaSC9A=="
+                "orig": "You got me this time.",
+                "text": "Cette fois tu m'as eu."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/16/message": {
-                "ciphertext": "DFjTSlxhqLLX4ubHy0iZO6RyAdYx0XlBJFOruQMhlFCTdXRElZkIg8SSenR+Ibc0",
-                "mac": "xOn5UyKJ9Tlly5RaXn3wZw=="
+                "orig": "I blame those bugs, oui!",
+                "text": "Ces insectes sont responsables, oui !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/17/thenStep/0/message": {
-                "ciphertext": "NFJclZZTjj6ajrba/lGVNrDHMbLq81zT2akwWTrZIWiwXZKMjykJVl5+Rkp6FjB7eNwUEwh0IrDvy7ZF6hxknXPD8BZ421Y5ZwK0NQBWfUfqwnhttP1Z+QihDHzWBGLT",
-                "mac": "Ase9x/8aMGEgnrLxWioyGQ=="
+                "orig": "Also I'm sure we both can agree that you being \\c[1]over-powered\\c[0] certainly made a difference.",
+                "text": "Et bon, tu es \\c[1]trop surpuissante\\c[0] aussi. Je suis sûr que ça a dû jouer..."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/17/thenStep/1/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/18/message": {
-                "ciphertext": "SJXtQaU5Bv2pAbI/H93ahA==",
-                "mac": "xKrVjQDAYxxIZj7NNShVdA=="
+                "orig": "...",
+                "text": "..."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/19/message": {
-                "ciphertext": "lT2m5X5IOs8QqkFcDV84pDB6uufs9efH6zbTkioZdxISheYuqlj3YJr2H+WdiAG92tEB6QMowLN54mHc4HpWiUDt+qTjPHfwX5b2y/3ySDU=",
-                "mac": "IlhoXvbTbu3qjwPYAQKv4w=="
+                "orig": "Seriously, what was up with that battle for the master key?!",
+                "text": "Mais sérieusement, c'était quoi ce combat pour avoir le sésame ?!"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/20/message": {
-                "ciphertext": "9pM4M5B1bFnPO1JNVT/tH150PW9fVZfiHrOrWwiSrVMiWbfLPyjtk002tCfDcJK05NT9F7TZYqGLPxtRJ1jjKrPfY+UWHGcaYICIXW7QplE=",
-                "mac": "69o7hMpx6Lgxpqjsec5hCg=="
+                "orig": "It's like they designed this dungeon after my worst nightmares!",
+                "text": "C'est comme s'ils avaient conçu ce donjon à partir de mes pires cauchemars !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/21/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/22/message": {
-                "ciphertext": "nmbbFmm8pP+j9Xkxvuj5waWI8XC1bQ17gEM3WDXuEgbn+pdQ8MyCWcSvLGrux+Pq",
-                "mac": "1SkjqZbbbqDC4CZPGOXKpw=="
+                "orig": "Oh well!\\. I'll get you next time!",
+                "text": "Mais bon !\\. La prochaine fois, je t'aurais !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/thenStep/23/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/5/message": {
+                "orig": "...Ha!\\. First again!",
+                "text": "...Ha !\\. Encore première !"
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/6/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/7/thenStep/0/message": {
+                "orig": "Guess being \\c[1]over-powered\\c[0] doesn't help you much with those puzzles, oui?",
+                "text": "J'imagine que d'être \\c[1]surpuissante\\c[0] ne t'as pas tellement aidé à résoudre les puzzles, hein ?"
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/7/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/8/message": {
+                "orig": "Phew... to be honest, it was very close.",
+                "text": "Pfiou... pour être honnête, c'était très tendu."
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/9/message": {
+                "orig": "That dungeon was much longer compared to Newcomer's Bridge, non?",
+                "text": "Ce donjon était bien plus long comparé à celui du Pont des Nouveaux Arrivants, non ?"
+        },
+        "maps/cold-dng/g/shade-room.json/entities/20/settings/event/12/elseStep/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/13/message": {
-                "ciphertext": "+7HFbZdZ1y0Eqi8wgDXqqtMFOS7KxRB6K2GMMJWgu8LUHs75JroRLXsiXjuGnncz",
-                "mac": "lzPibG6RpdXTESaHgfMl+Q=="
+                "orig": "Hm, but this room is strange, non?",
+                "text": "Mmm, mais cette salle est étrange, non ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/14/message": {
-                "ciphertext": "MyQ10xCc0CZ6XgZSmL1VtwElXJORWARSyjMjXo6GZtXRUruXGs6fzGV+s+SWjVa0UFmTtb9VTf/IGU0zEoW+WPgC5yLUn/tZmgAOLaQw2fY=",
-                "mac": "/5kb30hQgnSAKtcJfb4rXQ=="
+                "orig": "I didn't expect to see other players within the dungeon.",
+                "text": "Je ne m'attendais pas à voir d'autres joueurs à l'intérieur du donjon."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/15/message": {
-                "ciphertext": "9DNS0BJ7r10cCQAi1+s6AsYG8QiChk+JqoMMHHmFU7LxwFu/VND/RN6/J2j5/vp3YLj2Lt5cPGdIhyDFrYATaCMryDrVZt1sRjx04AjKGBkfDHUJoMRXfU9lImmRZ5Yh",
-                "mac": "RjJOLwvl/tP3Quzm3IYYkQ=="
+                "orig": "I guess rooms like these are simply not instanced.",
+                "text": "J'imagine que les salles comme celle-là ne sont tout simplement pas instanciées."
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/16/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/cold-dng/g/shade-room.json/entities/20/settings/event/19/message": {
-                "ciphertext": "buF8jufMT8ev5eN6xDxV87oeS6uDMmH7t9cqtcM6ZPax8RB2goCF5q2p16+bAnuudcwaGbCIJ+hhvSn33RGd2M0XYbv19qpgT2n/vOBo0RU=",
-                "mac": "u7N78xmU6TX7Xyce4+1Aog=="
+                "orig": "Anyway, I think we should check out this statue up there.",
+                "text": "En tout cas, je pense qu'il faut qu'on regarde cette statue là-bas."
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/20/message": {
-                "ciphertext": "soyCxhkRsjGFN6zW2RZVDGeLGzUcNWNAWmYH0wYceE1Bkxd/e4IqKsh24c/9rCCcB87Vlvl1w2ow3Z7PaAo3mw==",
-                "mac": "Mlj+RxtgoCw9TGMOAmrAeQ=="
+                "orig": "...Bird people. Bird people in space.",
+                "text": "... Des hommes-oiseaux. Des hommes-oiseaux dans l'espace."
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/21/message": {
-                "ciphertext": "rgMNu1tGq5c6EUkouY+K4LYV8y4Zpph0rpD3cIE3s9M=",
-                "mac": "mjBXB8hPr1vIDUl3/1wIJA=="
+                "orig": "So that's the Ancients?",
+                "text": "Donc c'est ça les Anciens ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/22/message": {
-                "ciphertext": "Pu02aN9r7faUKB4B0VTdhA==",
-                "mac": "W3Huq1jBq3V9PoMlPx/yJA=="
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/23/message": {
-                "ciphertext": "AS7WkAcWJSr2SslccOKAxg==",
-                "mac": "yorxi+gVZOoXb7DotSlnMw=="
+                "orig": "Fair enough.",
+                "text": "Bon d'accord."
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/24/message": {
-                "ciphertext": "iqDRn+TDaTXFw50GgirIaaGNgjVXYPIVbkFMwqGUsRBokqnEz0uo0XHEIks8hCo8ut4MhYPAOSWp7nubeqXEeg==",
-                "mac": "EsoP3lgh03AlEutiOHIQbA=="
+                "orig": "Alors... do you see those \\c[3]rotating info thingies\\c[0]?",
+                "text": "Alors... tu vois ces \\c[3]trucs d'info qui tournent\\c[0] ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/25/message": {
-                "ciphertext": "uOlbzWnuoXn8sNbHorA7WBXpKO1bFf+nl8GOPYG2ZoMzv9DZc2KUjb3PIVllup1qB0tv6DlxXIh0flsHZxjkAFYhv4nk39TB/6KY9nA7a9g=",
-                "mac": "MOFnvO3qNNTsyYqaytUdvw=="
+                "orig": "I bet those have all the info about the Ancients we need.",
+                "text": "Je parie qu'ils ont toutes les informations sur les Anciens dont on a besoin."
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/26/message": {
-                "ciphertext": "mE2UEY6bQ29Vx1O3GnpEPNy9HmabHH5xE74btQOKMsw=",
-                "mac": "Jm/cKYCIayEL9iMa+7djVA=="
+                "orig": "Don't forget about the \\c[3]quiz\\c[0]...",
+                "text": "Pense au \\c[3]quiz\\c[0]..."
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/27/message": {
-                "ciphertext": "7f5XdE9nvc812caVd4L+HA==",
-                "mac": "pg7FRb7X3hX+hXFa+3VZXQ=="
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/cold-dng/g/shade-room.json/entities/23/settings/event/29/task": {
-                "ciphertext": "4XFLRLTULA1qjq1jgx65tH4g6GOhfQjqrdt7UMo39NZ1YpFUK7a7iwxE1nbz9+HWf/rDp9CF4kb6BIRAQleTZm2cc/as7t8nK/W43bWSyBwUoxsrD1YujxVwoigDJvh4FjwlvfaqOS5lhI3Kj1rG5TR/i/FN5wXh3UezQDEUct1IxtnZIh39FobOTPpH/E44",
-                "mac": "P+8GRWgTp0sbgc9Dfo8b+g=="
+                "orig": "Read about the Ancients in the \\c[3]Temple Mine\\c[0] and take the quiz at the \\c[3]First Scholars HQ\\c[0].",
+                "text": "Lisez les informations sur les Anciens dans le \\c[3]\\v[area.cold-dng.name]\\c[0] et faites le quiz au \\c[3]QG des Premiers Érudits\\c[0]."
         },
         "maps/cold-dng/g/shade-room.json/entities/24/settings/event/1/message": {
-                "ciphertext": "DMn2lT/4uPCSYR6a1DRBYcNSSKRiAwfoO/2kcXEf+v7AXlYatdZDX+j+4UCS7PVkpLpZMGaZUXmYc6pS6mwA+A==",
-                "mac": "lCeU4Vgsj35k62tHYT7K7A=="
+                "orig": "Alright! Just read everything there is.",
+                "text": "C'est bon ! Je viens de finir tout ce qu'il y avait à lire."
         },
         "maps/cold-dng/g/shade-room.json/entities/24/settings/event/2/message": {
-                "ciphertext": "6E0tPHSKHyAHUJ1goi/0+TE40LT6v8ZYa3dTHzM8oQrgaWYaxAbCdwvgGVWatEoJEDDU6xEMTm4+qEnyZFRflboPVMcUymsYj/PVgcSYcLo=",
-                "mac": "56hBob4oUH/GIJVmmDEhjw=="
+                "orig": "We should head back to the \\c[3]First Scholars HQ\\c[0] and take that quiz!",
+                "text": "On devrait revenir au \\c[3]QG des Premiers Érudits\\c[0] et faire le quiz !"
         },
         "maps/cold-dng/g/shade-room.json/entities/30/settings/npcStates/0/event/2/message": {
-                "ciphertext": "ECuJZI+EyrFSV9jQQ3f8xnMmEBoYUj7H6lWb7wtFidg=",
-                "mac": "/t9OlSKJhZnZwsx7fGrQ+A=="
+                "orig": "Water. Frozen water.",
+                "text": "De l'eau. De l'eau gelée."
         },
         "maps/cold-dng/g/shade-room.json/entities/30/settings/npcStates/0/event/4/message": {
-                "ciphertext": "+GLLSWG13wvvF12JY6+xqfFE4PZhjOV0+OJuai0IU+r9db5gdJEgWwz8MJBYmUHm",
-                "mac": "Zy2uSe21cINweGz4fXlH1g=="
+                "orig": "Solid as rock, smooth as silk.",
+                "text": "Dur comme de la roche, lisse comme de la soie."
         },
         "maps/cold-dng/g/shade-room.json/entities/30/settings/npcStates/0/event/6/message": {
-                "ciphertext": "v9SGSIiUs7mIN7+N93KESw==",
-                "mac": "uVyYH40Om2dPzGSU9hos3A=="
+                "orig": "...And slippery.",
+                "text": "...Et glissant."
         },
         "maps/cold-dng/g/shade-room.json/entities/30/settings/npcStates/0/event/8/message": {
-                "ciphertext": "d9qs58lvuexKwuz/ov33S1hU4UIdu4wAkzkRxptpA3g=",
-                "mac": "zvihkKHe8jJLsJ2qC69mTg=="
+                "orig": "...Waaay too slippery!",
+                "text": "...Beaucoup trop glissant !"
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/0/text": {
-                "ciphertext": "zazBVPZrrQggeevcX2nazNS9uypWzeyS9AEFNFVbiEk/yVQcX8wXGMQf0c1nZCp8",
-                "mac": "RnbsiZ/Zqm0hoEJ7+ryCog=="
+                "orig": "And, did you find all the chests already?",
+                "text": "Et, tu as déjà trouvé tous les coffres ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/1/text": {
-                "ciphertext": "COiyl/N4tD+T63li1OcVhLwnDym5Kj8nxrHGI1FEu2o=",
-                "mac": "rSFHXKxZfXo2efgYknVYwQ=="
+                "orig": "No, still missing one.",
+                "text": "Non, il m'en manque un."
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/2/text": {
-                "ciphertext": "CTeUs4sLIPWEMb575ZhgJOcrqGTYLQauA+Zdy3sy6PJ5PGAB01zm6nIbW5Si0W+xRBFCEOE3fJH5EHapo6gAaw==",
-                "mac": "rhvzIVxguL6fcmoYm17PHA=="
+                "orig": "Yeah, me too. Somebody gave me a hint, though.",
+                "text": "Oui, moi aussi. Quelqu'un m'a donné un indice par contre."
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/3/text": {
-                "ciphertext": "Yk6mtPtLyxKcBxgy52sdLl1YGNkYPZnzaPLHYHaxe19wo24ixD25X7TrqIS0lS45B+9yoRf9oFWSb/FoBFMZXrO5nwviLJix0aDp1EokyE0=",
-                "mac": "/f6eqyqQU7vSJ6/qxsBOmA=="
+                "orig": "There is one chest that will only appear if you do certain things in that room.",
+                "text": "Il y a un coffre qui n'apparait que si on fait un certain truc dans une salle."
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/4/text": {
-                "ciphertext": "fuH8cE8LrcZMc0xi9BuQvAxqJNCUqBekqxbzUnBQuRA=",
-                "mac": "s/6DbsXtN42acR8RMc0LEQ=="
+                "orig": "What kind of things?",
+                "text": "Quel genre de trucs ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/5/text": {
-                "ciphertext": "bD/G2LIVASdy91f7D6d4jBe1SokYNGKsoucqK6cDM7gWXb7hWPjnIPxzE0eEnrL1rHysuxi7uhhLi1DubvB4ati0p85uudkz32JkZlRZ/eDe7sSN8uLmk1gV07aGIaDy",
-                "mac": "54VEAi1V+edNbyf/tLWGHQ=="
+                "orig": "Dunno. That's all she told me. She didn't want to \"spoil\" the whole secret.",
+                "text": "J'en sais rien. C'est tout ce qu'elle m'a dit. Elle ne voulait pas me gâcher la surprise."
         },
         "maps/cold-dng/g/shade-room.json/entities/31/settings/dialog/6/text": {
-                "ciphertext": "eHIRhiPkxZPu1bAzoteECQ==",
-                "mac": "ci3EaTP+UoSwbjlNwJ+OfA=="
+                "orig": "Meh.",
+                "text": "Meh."
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/0/text": {
-                "ciphertext": "v1XeDJu1D2gKy45EWDyVvGi9MOdrdTzrmb9XOGBBOPVvqguu/K3ftXK3IulLvr02",
-                "mac": "4QOBsgzQkW5FdUy+7/sgXg=="
+                "orig": "Alright! Second boss defeated. What did you think?",
+                "text": "Bon ! Second boss battu. Votre avis dessus ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/1/text": {
-                "ciphertext": "q27I0vo2LpPaKjphq/F5HXFxOCxAHPxuEGugK8Tw83NT+NUkHPWbBelXYLaJ74+DoBl+CZmwq1Jzo+UWkiqJ1w==",
-                "mac": "GwM2Y0ZpomaxVJiu2xcCzQ=="
+                "orig": "Huge. Pretty slow, though. But I loved the bomb punching!",
+                "text": "Énorme. Mais très lent. Mais j'ai adoré le lancer de bombe !"
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/2/text": {
-                "ciphertext": "2mzOGpUGyfme0R25rsMJ/DgUK77AFv7jPf7cYV5USlgh/GfHwZlD1UKfh4jHYUtfSgYhlQLXj3oOar/FEMAlxg==",
-                "mac": "N0VA1eVM1BVG+nHrafAN2g=="
+                "orig": "You know you can throw balls at the bombs, right?",
+                "text": "Tu sais que tu peux lancer des boules sur les bombes, hein ?"
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/3/text": {
-                "ciphertext": "6Yv+Tq3efEWWNStFtAfzzcJfN/Ff9quOLKTmr8iwHmUu28RIsV4aqu+iFcx8wPkUX5MdXIqwIL1UM5oKDHzF+GzPhZZBSI0Y1rQeAiPVHo0=",
-                "mac": "V7kag62D6dc4goT6OismJw=="
+                "orig": "I don't throw balls. I punch with an extension of my fist.",
+                "text": "Je ne lance pas des boules. Je cogne avec une extension de mon poing !"
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/4/text": {
-                "ciphertext": "3qyaJ95bxg/DRTLOjIsR2fHEoTwGe5undSx3sn+tv2f096xb8yBYYgEwnGax3ERg",
-                "mac": "NY+QL9H2lJ7KpKbbRBWDDQ=="
+                "orig": "Sure, whatever you want to call it.",
+                "text": "Oui, peu importe comment tu appelles ça."
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/5/text": {
-                "ciphertext": "sCQC6ySUFduxxeMqjp6Q2/fZ4W7IO4Dd1swyWiYb7Gb+X83xBJtPrvpVEwlT5brE",
-                "mac": "DMG8bczz3yiGsFzbl7wmRg=="
+                "orig": "And I cut things with swords!",
+                "text": "Et je tranche des trucs avec des épées !"
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/6/text": {
-                "ciphertext": "TLgReO7eTrzYs6OJa3w/Sov6dsP+Bu5OEb8w74VhJig=",
-                "mac": "zHaBEzxNvE1A0zqaNQr1KA=="
+                "orig": "I like swords!",
+                "text": "J'aime les épées !"
         },
         "maps/cold-dng/g/shade-room.json/entities/32/settings/dialog/7/text": {
-                "ciphertext": "dF/bB7JgdAYzq7G0EcVE/ZR16I/NU6HRuWAnplsNbEI=",
-                "mac": "xvoWLord7sH2pqFEQAMt7Q=="
+                "orig": "Yes... Yes you do.",
+                "text": "Oui... Oui ça tu les aimes."
         }
 }
