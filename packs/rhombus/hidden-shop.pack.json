@@ -223,7 +223,7 @@
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/17/settings/text": {
                 "orig": "Ridge Poems",
-                "text": "Poèmes de Crête"
+                "text": "Poèmes de la Crête"
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/hoverText": {
                 "orig": "Read Book",
@@ -231,13 +231,13 @@
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/title": {
                 "orig": "\\c[3]Ridge Poems\\c[0]",
-                "text": "\\c[3]Poèmes de Crête\\c[0]",
+                "text": "\\c[3]Poèmes de la Crête\\c[0]",
                 "note": "Sapphire Ridge"
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/event/0/text": {
                 "orig": "In \\c[3]\\v[area.forest.name]\\c[0], locals indulge passionately in the art of poems. The most famous is called \\c[3]A War in the Bellow\\c[0] and goes like this:",
-                "text": "À la \\c[3]\\v[area.forest.name]\\c[0], les habitants s'adonnent passionément à l'art d'écrire des poèmes. Le plus connu s'appelle \\c[3]Une guerre dans le rugissement\\c[0] et se raconte comme cela :",
-                "quality": "bad"
+                "text": "À la \\c[3]\\v[area.forest.name]\\c[0], les habitants s'adonnent passionément à l'art d'écrire des poèmes. Le plus connu s'appelle \\c[3]Une guerre dans le grondement\\c[0] et se raconte comme cela :",
+                "note": "brullerei has same ambiguity as below, so... does grondement"
         },
         "maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/event/1/text": {
                 "orig": "Silent evenfall\nshall a mealy, stern bug wait\nby the campfire",

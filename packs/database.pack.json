@@ -244,9 +244,8 @@
         },
         "database.json/achievements/chest-key-02/name": {
                 "orig": "That's really Low Key",
-                "text": "C'est bouClé",
-                "quality": "bad",
-                "note": "seriously"
+                "text": "C'est Bou-Clé",
+                "note": "de is uninspired too"
         },
         "database.json/achievements/chest-key-02/description": {
                 "orig": "\\c[3]Find the \\v[item.155.name]\\c[0]. Unlock all the silver chests! ",
@@ -654,9 +653,8 @@
         },
         "database.json/achievements/element-shock/name": {
                 "orig": "Lightning Returns",
-                "text": "Le Retour du Flash",
-                "quality": "bad",
-                "note": "not sure if english version is mib reference french is flashouilleur"
+                "text": "Le Flashouilleur",
+                "note": "this de"
         },
         "database.json/achievements/element-shock/description": {
                 "orig": "Acquire the \\c[3]Shock Element\\c[0]. This is Shocking!",
@@ -8110,9 +8108,8 @@
         },
         "database.json/drops/Autumn-Fall-Water-1/name": {
                 "orig": "Alpha Water Cutlass",
-                "text": "Fauchon d'Eau Alpha",
-                "quality": "bad",
-                "note": "what's a corallodendron ? korall fremontodendron ?"
+                "text": "Sabre d'Eau Alpha",
+                "note": "de: corallodendron ? korall fremontodendron ?"
         },
         "database.json/drops/Autumn-Fall-Water-1/subArea": {
                 "orig": "Mostly found near Water.",
@@ -8120,7 +8117,7 @@
         },
         "database.json/drops/Autumn-Fall-Water-2/name": {
                 "orig": "Beta Water Cutlass",
-                "text": "Fauchon d'Eau Bêta"
+                "text": "Sabre d'Eau Bêta"
         },
         "database.json/drops/Autumn-Fall-Water-2/subArea": {
                 "orig": "Mostly found near Water.",
@@ -8128,7 +8125,7 @@
         },
         "database.json/drops/Autumn-Fall-Water-Rare/name": {
                 "orig": "Omega Water Cutlass",
-                "text": "Fauchon d'Eau Oméga"
+                "text": "Sabre d'Eau Oméga"
         },
         "database.json/drops/Autumn-Fall-Water-Rare/subArea": {
                 "orig": "Rarely found on hard to reach places near water.",
@@ -8137,8 +8134,7 @@
         "database.json/drops/jungle-common-flower-1/name": {
                 "orig": "Alpha Puff Plant",
                 "text": "Plante Gonflée Alpha",
-                "quality": "bad",
-                "note": "i think it's this."
+                "note": "If it's a reference to powerpuff girls, then it's not translatable, sorry. Whoever idiot translated it to 'super nanas', seriously."
         },
         "database.json/drops/jungle-common-flower-1/subArea": {
                 "orig": "Commonly found everywhere but infested- and V'rda Vil region.",
@@ -8163,7 +8159,6 @@
         "database.json/drops/jungle-common-water-1/name": {
                 "orig": "Alpha Closed Baraleles",
                 "text": "Baralelles Fermées Alpha",
-                "quality": "bad",
                 "note": "cannot find anything about baraleles/baralales or their korean/japanese names"
         },
         "database.json/drops/jungle-common-water-1/subArea": {
@@ -8735,12 +8730,11 @@
         },
         "database.json/enemies/arid.dice-mage/name": {
                 "orig": "Arengee",
-                "text": "Arengee",
-                "quality": "bad"
+                "text": "Arengee"
         },
         "database.json/enemies/arid.dice-mage/descriptions/0/text": {
                 "orig": "This dice is a sentient robot. The core processor being able to use all elements based on the number it rolls. It seems to take enjoyment in the game of chance, even if it means it will be left open for attacks.",
-                "text": "Ce dé est un robot doué de sensation. Le processeur central est capable d'utiliser tous les éléments en fonction du nombre tiré. Il semble apprécier l'aléa du jeu de chance, même lorsque cela le rend vulnérable."
+                "text": "Ce dé est un robot doué de sentiments. Le processeur central est capable d'utiliser tous les éléments en fonction du nombre tiré. Il semble apprécier l'aléa du jeu de chance, même lorsque cela le rend vulnérable."
         },
         "database.json/enemies/arid.dice-mage/species": {
                 "orig": "Dice",
@@ -9867,7 +9861,7 @@
         "database.json/enemies/forest.spider/name": {
                 "orig": "Aranetarda",
                 "text": "Aranetarda",
-                "quality": "bad",
+                "quality": "unknown",
                 "note": "no idea"
         },
         "database.json/enemies/forest.spider/descriptions/0/text": {
@@ -14022,7 +14016,7 @@
         },
         "database.json/quests/trailblaze-bergen-1/name": {
                 "orig": "Bergen Trail Collect",
-                "text": "Collecte sur le \\v[area.bergen-trails.name]"
+                "text": "Collecte au \\v[area.bergen-trails.name]"
         },
         "database.json/quests/trailblaze-bergen-1/person": {
                 "orig": "Henry The Researcher",
@@ -14042,7 +14036,7 @@
         },
         "database.json/quests/trailblaze-bergen-2/name": {
                 "orig": "Bergen Trail Defeat",
-                "text": "Combat sur le \\v[area.bergen-trails.name]"
+                "text": "Combat au \\v[area.bergen-trails.name]"
         },
         "database.json/quests/trailblaze-bergen-2/person": {
                 "orig": "Henry The Researcher",
@@ -14062,7 +14056,7 @@
         },
         "database.json/quests/trailblaze-bergen-3/name": {
                 "orig": "Bergen Trail Landmarks",
-                "text": "Repères sur le \\v[area.bergen-trails.name]"
+                "text": "Repères au \\v[area.bergen-trails.name]"
         },
         "database.json/quests/trailblaze-bergen-3/person": {
                 "orig": "Henry The Researcher",
@@ -14175,9 +14169,7 @@
         },
         "database.json/quests/legend-bunny/tasks/4/task": {
                 "orig": "Capture the \\c[3]Legendary Bunny\\c[0] in \\c[3]Bergen Trail Windy Climb\\c[0] by defeating it.",
-                "text": "Capturez le \\c[3]Lapin Légendaire\\c[0] sur l'\\c[3]Ascension Venteuse\\c[0] en le battant.",
-                "quality": "bad",
-                "note": "windy clim trans still baaaad"
+                "text": "Capturez le \\c[3]Lapin Légendaire\\c[0] sur la \\c[3]Côte au Grand Vent\\c[0] en le battant."
         },
         "database.json/quests/legend-bunny/tasks/5/task": {
                 "orig": "Bring \\c[3]Jean\\c[0] the captured bunny in \\c[3]Bergen Trail\\c[0] ",
@@ -15392,7 +15384,7 @@
         },
         "database.json/quests/trailblaze-maroon-2/name": {
                 "orig": "Maroon Valley Defeat",
-                "text": "Combat dans la \\v[area.heat-area.name]"
+                "text": "Combat à la \\v[area.heat-area.name]"
         },
         "database.json/quests/trailblaze-maroon-2/person": {
                 "orig": "Henry The Researcher",
@@ -15412,7 +15404,7 @@
         },
         "database.json/quests/trailblaze-maroon-3/name": {
                 "orig": "Maroon Valley Landmarks",
-                "text": "Repères dans la \\v[area.heat-area.name]"
+                "text": "Repères à la \\v[area.heat-area.name]"
         },
         "database.json/quests/trailblaze-maroon-3/person": {
                 "orig": "Henry The Researcher",
@@ -16004,17 +15996,17 @@
         },
         "database.json/quests/console-pc-1/tasks/1/task": {
                 "orig": "Search for new species on the \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Cherchez des nouvelles espèces sur le \\c[3]Chemin Reclus\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "text": "Cherchez des nouvelles espèces sur le \\c[3]Chemin Isolé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
                 "note": "original text has an invalid variable reference"
         },
         "database.json/quests/console-pc-1/tasks/2/task": {
                 "orig": "Examine the strange device in \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Examinez l'appareil étrange sur \\c[3]Chemin Reclus\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "text": "Examinez l'appareil étrange sur \\c[3]Chemin Isolé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
                 "note": "original text has an invalid variable reference"
         },
         "database.json/quests/console-pc-1/tasks/3/task": {
                 "orig": "Find and enter the \\c[3]Secret Entrance\\c[0] on \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Trouvez et entrer dans \\c[3]l'Entrée Secrète\\c[0] sur le \\c[3]Chemin Reclus\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "text": "Trouvez et entrer dans \\c[3]l'Entrée Secrète\\c[0] sur le \\c[3]Chemin Isolé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
                 "note": "original text has an invalid variable reference"
         },
         "database.json/quests/console-pc-1/tasks/4/task": {
@@ -16105,7 +16097,7 @@
         },
         "database.json/quests/jungleAdv-1-turret_defense_1/tasks/0/task": {
                 "orig": "Enter the \\c[3]Grubby Cave\\c[0] on \\c[3]Calm Backyard\\c[0] in \\c[3]northwestern \\v[area.jungle.name]\\c[0]",
-                "text": "Entrez dans la \\c[3]Grotte Crasseuse\\c[0] dans le \\c[3]Jardin Calme\\c[0] au \\c[3]nord-ouest du \\v[area.jungle.name]\\c[0]"
+                "text": "Entrez dans la \\c[3]Grotte Sale\\c[0] dans le \\c[3]Jardin Calme\\c[0] au \\c[3]nord-ouest du \\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleAdv-1-turret_defense_1/tasks/1/task": {
                 "orig": "Talk to \\c[3]Mika the technician\\c[0] near the sealed door",
@@ -16145,7 +16137,7 @@
         },
         "database.json/quests/jungleAdv-2-turret_defense_2/tasks/0/task": {
                 "orig": "Enter the \\c[3]Grubby Cave\\c[0] on \\c[3]Calm Backyard\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0] and go through \\c[3]the door\\c[0]",
-                "text": "Entrez dans la \\c[3]Grotte Crasseuse\\c[0] dans le \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0] et passez à travers \\c[3]la porte\\c[0]"
+                "text": "Entrez dans la \\c[3]Grotte Sale\\c[0] dans le \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0] et passez à travers \\c[3]la porte\\c[0]"
         },
         "database.json/quests/jungleAdv-2-turret_defense_2/tasks/1/task": {
                 "orig": "Talk to \\c[3]Mika the technician\\c[0] near the energy device",
@@ -16809,7 +16801,7 @@
         },
         "database.json/quests/jungleAdv-turret_defense_challenge-1/hubSettings/location": {
                 "orig": "Test your skills with the innovative \"Turret Defense\"-system. \\c[3]- Grubby Cave\\c[0]",
-                "text": "Testez vos compétences avec le système innovant de \"Tourelle de Défense\". \\c[3]- Grotte Crasseuse\\c[0]"
+                "text": "Testez vos compétences avec le système innovant de \"Tourelle de Défense\". \\c[3]- Grotte Sale\\c[0]"
         },
         "database.json/quests/jungleAdv-turret_defense_challenge-1/name": {
                 "orig": "Turret Defense Challenge #1",
@@ -16829,7 +16821,7 @@
         },
         "database.json/quests/jungleAdv-turret_defense_challenge-1/tasks/0/task": {
                 "orig": "Reach \\c[3]500 points\\c[0] in the \\c[3]Turret Defense Challenge\\c[0] in the \\c[3]Grubby Cave\\c[0] on \\c[3]Calm Backyard\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]",
-                "text": "Atteignez \\c[3]500 points\\c[0] dans le \\c[3]Défi de Tourelle de Défense\\c[0] dans la \\c[3]Grotte Crasseuse\\c[0] du \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
+                "text": "Atteignez \\c[3]500 points\\c[0] dans le \\c[3]Défi de Tourelle de Défense\\c[0] dans la \\c[3]Grotte Sale\\c[0] du \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleAdv-turret_defense_challenge-2/hubSettings/location": {
                 "orig": "Test your skills with the innovative \"Turret Defense\"-system. \\c[3]- Temple of Innovation\\c[0]",
@@ -16963,13 +16955,11 @@
         },
         "database.json/quests/ice-cream-hype/person": {
                 "orig": "Frosty Arnold",
-                "text": "Eddie Glaces",
-                "quality": "bad",
-                "note": "terminator ? far fetched"
+                "text": "Glaces Arnold"
         },
         "database.json/quests/ice-cream-hype/description": {
                 "orig": "The respectable Ice Cream Dealer \\c[3]Frosty Arnold\\c[0] in Rookie Harbor wants you to collect some Bergen Ice from Bergen Trails for him. \n",
-                "text": "Le respectable vendeur de glace \\c[3]Eddie Glace\\c[0] à \\v[area.rookie-harbor.name] vous demande de lui amener de la \\v[item.109.name] depuis le \\v[area.bergen-trails.name]."
+                "text": "Le respectable vendeur de glace \\c[3]Glaces Arnold\\c[0] à \\v[area.rookie-harbor.name] vous demande de lui amener de la \\v[item.109.name] depuis le \\v[area.bergen-trails.name]."
         },
         "database.json/quests/ice-cream-hype/briefing": {
                 "orig": "You brought the cool ingredients needed for the Ice Cream!",
@@ -17659,7 +17649,7 @@
         },
         "database.json/quests/foa-3-buffel_cave/tasks/0/task": {
                 "orig": "Enter the \\c[3]Densewater Caverns\\c[0] on \\c[3]Secluded Path\\c[0] in the northeast of \\c[3]\\v[area.autumn-fall.name]\\c[0]",
-                "text": "Entrez dans les \\c[3]Cavernes Inondées\\c[0] du \\c[3]Chemin Reclus\\c[0] au nord-est d'\\c[3]\\v[area.autumn-fall.name]\\c[0]"
+                "text": "Entrez dans les \\c[3]Cavernes Inondées\\c[0] du \\c[3]Chemin Isolé\\c[0] au nord-est d'\\c[3]\\v[area.autumn-fall.name]\\c[0]"
         },
         "database.json/quests/foa-3-buffel_cave/tasks/1/task": {
                 "orig": "Search for \\c[3]the raging Bovine\\c[0] in the \\c[3]Densewater Caverns\\c[0] and lay it to rest",
@@ -17795,7 +17785,7 @@
         "database.json/quests/steaks_3/name": {
                 "orig": "Raising the Steaks",
                 "text": "Saisir les Steaks et les Enjeux",
-                "quality": "bad"
+                "note": "not like i'm going to find anything better"
         },
         "database.json/quests/steaks_3/person": {
                 "orig": "Ms. Teak",
@@ -17844,15 +17834,15 @@
         },
         "database.json/quests/console-switch-1/tasks/1/task": {
                 "orig": "Search for new species on the \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]",
-                "text": "Cherchez une nouvelle espèce sur le \\c[3]Chemin Reclus\\c[0] de \\c[3]\\v[area.autumn-fall.name]\\c[0]"
+                "text": "Cherchez une nouvelle espèce sur le \\c[3]Chemin Isolé\\c[0] de \\c[3]\\v[area.autumn-fall.name]\\c[0]"
         },
         "database.json/quests/console-switch-1/tasks/2/task": {
                 "orig": "Examine the strange device in \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]",
-                "text": "Examinez l'appareil étrange sur le \\c[3]Chemin Reclus\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0]"
+                "text": "Examinez l'appareil étrange sur le \\c[3]Chemin Isolé\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0]"
         },
         "database.json/quests/console-switch-1/tasks/3/task": {
                 "orig": "Find and enter the \\c[3]Secret Entrance\\c[0] on \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]",
-                "text": "Cherchez et entrez dans l'\\c[3]Entrée Secrète\\c[0] sur le \\c[3]Chemin Reclus\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0]"
+                "text": "Cherchez et entrez dans l'\\c[3]Entrée Secrète\\c[0] sur le \\c[3]Chemin Isolé\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0]"
         },
         "database.json/quests/console-switch-1/tasks/4/task": {
                 "orig": "Explore the \\c[3]Secret Facility\\c[0]",

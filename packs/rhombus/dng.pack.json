@@ -21,7 +21,7 @@
         },
         "areas/rhombus-dng.json/floors/0/maps/3/name": {
                 "orig": "Ability Room 1",
-                "text": "Salle d'Habilité 1"
+                "text": "Salle de Capacité 1"
         },
         "areas/rhombus-dng.json/floors/1/name": {
                 "orig": "2nd Floor",
@@ -61,8 +61,7 @@
         },
         "areas/rhombus-dng.json/floors/2/maps/0/name": {
                 "orig": "Ability Room 2",
-                "text": "Salle d'Abilitée 2",
-                "quality": "bad"
+                "text": "Salle de Capacité 2"
         },
         "areas/rhombus-dng.json/floors/2/maps/1/name": {
                 "orig": "Puzzle Room 3",
@@ -556,8 +555,7 @@
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/34/text": {
                 "orig": "Certain skills unlock \\c[3]combat arts\\c[0] that can be used in battle.",
                 "text": "Certaines compétences débloquent des \\c[3]arts de combats\\c[0] qui peuvent être utilisé en combat.",
-                "quality": "bad",
-                "note": "but de has same repetition"
+                "note": "de has same repetition"
         },
         "maps/rhombus-dng/room-final.json/entities/41/settings/event/38/thenStep/3/text": {
                 "orig": "You can \\c[3]switch between branching skills\\c[0] at any time without spending CP!",

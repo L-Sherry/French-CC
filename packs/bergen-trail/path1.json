@@ -436,9 +436,7 @@
         },
         "maps/bergen-trail/path-1-entrance.json/entities/455/settings/npcStates/2/event/quest/11/message": {
                 "orig": "And I found out that this creature seems to show up a lot on the \\c[3]Windy Climb\\c[0] parts of \\c[3]Bergen Trail\\c[0].",
-                "text": "Et j'ai pu trouver que cette créature traine souvent dans la partie \\c[3]Ascension Venteuse\\c[0] du \\c[3]\\v[area.bergen-trails.name]\\c[0].",
-                "quality": "bad",
-                "note": "Windy Climb translation at areas/bergen-trails.json/floors/1/maps/11/name is bad"
+                "text": "Et j'ai pu trouver que cette créature traine souvent dans la partie de la \\c[3]Côte au Grand Vent\\c[0] du \\c[3]\\v[area.bergen-trails.name]\\c[0]."
         },
         "maps/bergen-trail/path-1-entrance.json/entities/455/settings/npcStates/2/event/quest/12/message": {
                 "orig": "...!",
@@ -506,9 +504,7 @@
         },
         "maps/bergen-trail/path-1-entrance.json/entities/455/settings/npcStates/4/event/quest/11/message": {
                 "orig": "From what I understood, the guys I got my info from said you have to bring the \\v[item.139.name]s to \\c[3]Windy Climb\\c[0].",
-                "text": "De ce que j'en ai compris, il faut apporter les Carottes Congelées à l'\\c[3]Ascension Venteuse\\c[0].",
-                "quality": "bad",
-                "note": "areas/bergen-trails.json/floors/1/maps/11/name"
+                "text": "De ce que j'en ai compris, il faut apporter les Carottes Congelées sur la l'\\c[3]Côte au Grand Vent\\c[0]."
         },
         "maps/bergen-trail/path-1-entrance.json/entities/455/settings/npcStates/4/event/quest/12/message": {
                 "orig": "...?",
@@ -604,7 +600,7 @@
         },
         "maps/bergen-trail/path-1-entrance.json/entities/455/settings/npcStates/5/event/5/message": {
                 "orig": "It should be somewhere in the \\c[3]Windy Climb\\c[0] parts of Bergen Trail!",
-                "text": "Il devrait être quelque part à la partie \\c[3]Ascension Venteuse\\c[0] du \\v[area.bergen-trails.name]."
+                "text": "Il devrait être quelque part du côté de la \\c[3]Côte au Grant Vent\\c[0] du \\v[area.bergen-trails.name]."
         },
         "maps/bergen-trail/path-1-entrance.json/entities/455/settings/npcStates/6/event/quest/0/name": {
                 "orig": "Jean",

@@ -62,13 +62,11 @@
         "areas/forest.json/floors/0/maps/13/name": {
                 "orig": "Wheel Passage",
                 "text": "Passage de Granite",
-                "quality": "bad",
                 "note": "this is de"
         },
         "areas/forest.json/floors/0/maps/14/name": {
                 "orig": "High Ground",
-                "text": "Terres Hautes",
-                "quality": "bad"
+                "text": "Terres Hautes"
         },
         "areas/forest.json/floors/0/maps/15/name": {
                 "orig": "Old Dojo",
@@ -104,13 +102,11 @@
         },
         "areas/forest.json/floors/0/maps/23/name": {
                 "orig": "Cave Waterfall",
-                "text": "Chute d'eau des Caves",
-                "quality": "bad",
-                "note": "there is a specific word for that ?"
+                "text": "Chute d'eau souterraine"
         },
         "areas/forest.json/floors/0/maps/24/name": {
                 "orig": "Waterfall Backyard",
-                "text": "Arrière Chutes d'Eau"
+                "text": "Arrière des chutes d'eau"
         },
         "areas/forest.json/floors/0/maps/25/name": {
                 "orig": "Old Dojo",
@@ -158,9 +154,8 @@
         },
         "areas/forest.json/floors/0/maps/36/name": {
                 "orig": "The Bellow",
-                "text": "Le Rugissement",
-                "quality": "bad",
-                "note": "what is it ? is it where vaga is ?"
+                "text": "Le Grondement",
+                "note": "related to maps/rhombus-sqr/interior/hidden-shop.json/entities/18/settings/interact/event/0/text"
         },
         "areas/forest.json/floors/1/name": {
                 "orig": "OG",
