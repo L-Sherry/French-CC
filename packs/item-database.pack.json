@@ -944,9 +944,7 @@
         },
         "item-database.json/items/110/description": {
                 "orig": "Makes you feel incredibly cool inside.",
-                "text": "Cette crème glacée va vous donner une incroyable sensation de fraicheur en vous.",
-                "quality": "unknown",
-                "note": "check item name"
+                "text": "Cette crème glacée donne en vous une incroyable sensation de fraicheur."
         },
         "item-database.json/items/111/name": {
                 "orig": "Battered Fist",
@@ -954,7 +952,7 @@
         },
         "item-database.json/items/111/description": {
                 "orig": "This gauntlet may have seen better days but can still take and dish out a solid beating.",
-                "text": "Ce gantelet a connu des jours meilleurs, mais il peut encore encaisser des coups.",
+                "text": "Ce gantelet a connu des jours meilleurs, mais il peut encore échanger des coups.",
                 "note": "text is just the right size"
         },
         "item-database.json/items/112/name": {
@@ -4568,8 +4566,7 @@
         },
         "item-database.json/items/540/description": {
                 "orig": "Needs to be decrypted at \\c[3]4 locations\\c[0] to access a mysterious facility.",
-                "text": "À besoin d'être déchiffrée dans \\c[3]4 lieux\\c[0] pour accéder à une installation mystérieuse.",
-                "quality": "unknown"
+                "text": "À besoin d'être déchiffrée dans \\c[3]4 lieux\\c[0] pour accéder à une installation mystérieuse."
         },
         "item-database.json/items/541/name": {
                 "orig": "Facility X Key",
@@ -4589,8 +4586,7 @@
         },
         "item-database.json/items/543/name": {
                 "orig": "Snowtank Datachip",
-                "text": "Puce Tankneige.",
-                "quality": "unknown"
+                "text": "Puce Tankneige."
         },
         "item-database.json/items/543/description": {
                 "orig": "The collected combat data and system specs of the \\v[combat.name.minibosses/snow-megatank] are on this chip.",
@@ -4630,8 +4626,7 @@
         },
         "item-database.json/items/548/name": {
                 "orig": "Micro Crawler",
-                "text": "Mini Rampeur",
-                "quality": "unknown"
+                "text": "Mini Rampeur"
         },
         "item-database.json/items/548/description": {
                 "orig": "You see him rolling and you're loving it.",
@@ -4643,7 +4638,6 @@
         },
         "item-database.json/items/549/description": {
                 "orig": "It's simple and elegant.",
-                "text": "C'est simple et élégant.",
-                "quality": "unknown"
+                "text": "C'est simple et élégant."
         }
 }
