@@ -165,7 +165,8 @@
         },
         "maps/jungle/grove/grove-path-02.json/entities/892/settings/event/33/text": {
                 "orig": "\\v[tmp.questEscort-pointText]",
-                "text": "\\v[tmp.questEscort-pointText]"
+                "text": "[Escortez Linde jusqu'ici]",
+                "note": "questEscort-pointText is a untranslated constant: \"[Escort Linde here]\""
         },
         "maps/jungle/grove/grove-path-02.json/entities/892/settings/event/36/guiInfo/settings/text": {
                 "orig": "Escortee Life",
@@ -209,11 +210,12 @@
         },
         "maps/jungle/grove/grove-path-02.json/entities/899/settings/event/3/text": {
                 "orig": "\\v[tmp.questEscort-inspectText]",
-                "text": "\\v[tmp.questEscort-inspectText]"
+                "text": "[Inspection]",
+                "note": "questEscort-inspectText is a untranslated constant: \"[Inspecting]\""
         },
         "maps/jungle/grove/grove-path-02.json/entities/899/settings/event/20/text": {
                 "orig": "\\v[tmp.questEscort-pointText]",
-                "text": "\\v[tmp.questEscort-pointText]"
+                "text": "[Escortez Linde jusqu'ici]"
         },
         "maps/jungle/grove/grove-path-02.json/entities/899/settings/event/22/message": {
                 "orig": "All finished!\\. Onto the next one!",
@@ -229,11 +231,11 @@
         },
         "maps/jungle/grove/grove-path-02.json/entities/901/settings/event/3/text": {
                 "orig": "\\v[tmp.questEscort-inspectText]",
-                "text": "\\v[tmp.questEscort-inspectText]"
+                "text": "[Inspection]"
         },
         "maps/jungle/grove/grove-path-02.json/entities/901/settings/event/21/text": {
                 "orig": "\\v[tmp.questEscort-pointText]",
-                "text": "\\v[tmp.questEscort-pointText]"
+                "text": "[Escortez Linde jusqu'ici]"
         },
         "maps/jungle/grove/grove-path-02.json/entities/901/settings/event/23/message": {
                 "orig": "Good job so far!\\. Just one more spot left!",
@@ -253,7 +255,7 @@
         },
         "maps/jungle/grove/grove-path-02.json/entities/904/settings/event/4/text": {
                 "orig": "\\v[tmp.questEscort-inspectText]",
-                "text": "\\v[tmp.questEscort-inspectText]"
+                "text": "[Inspection]"
         },
         "maps/jungle/grove/grove-path-02.json/entities/904/settings/event/16/message": {
                 "orig": "Hang in there, we're almost done!",
