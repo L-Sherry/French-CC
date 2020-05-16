@@ -169,7 +169,8 @@
         },
         "maps/jungle-city/center.json/entities/587/settings/event/36/elseStep/1/task": {
                 "orig": "You decide to visit the \\c[3]Quest Hub\\c[0] in \\c[3]Basin Keep\\c[0]. You probably need to talk to somebody to enter the temples?",
-                "text": "Vous avez décidé de visiter le \\c[3]Carrefour des Quêtes\\c[0] au \\c[3]\\v[area.jungle-city.name]\\c[0]. Vous avez probablement besoin de parler à quelqu'un pour entrer dans les temples."
+                "text": "Vous décidez de visiter le \\c[3]Carrefour des Quêtes\\c[0] au \\c[3]\\v[area.jungle-city.name]\\c[0]. Il faut peut-être demander pour aller aux temples ?",
+                "note": "can't make it any longer"
         },
         "maps/jungle-city/center.json/entities/588/settings/npcStates/0/event/quest/2/message": {
                 "orig": "I see, another Seeker has arrived.",
