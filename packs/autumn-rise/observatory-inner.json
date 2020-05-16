@@ -1,9 +1,7 @@
 {
         "maps/autumn/observatory/inner.json/entities/56/settings/analyzable/text": {
                 "orig": "The Overseer",
-                "text": "Le Surveillant",
-                "quality": "unknown",
-                "note": "where ? what ?"
+                "text": "Le Surveillant"
         },
         "maps/autumn/observatory/inner.json/entities/57/settings/analyzable/text": {
                 "orig": "Shadoon",
@@ -15,11 +13,11 @@
         },
         "maps/autumn/observatory/inner.json/entities/59/settings/analyzable/text": {
                 "orig": "Sunshadow",
-                "text": "Ombre du soleil"
+                "text": "L'Ombre du soleil"
         },
         "maps/autumn/observatory/inner.json/entities/60/settings/analyzable/text": {
                 "orig": "The Watcher",
-                "text": "Observateur"
+                "text": "L'Observateur"
         },
         "maps/autumn/observatory/inner.json/entities/61/settings/event/7/message": {
                 "orig": "Sacrébleu, what just happened?",
@@ -27,7 +25,7 @@
         },
         "maps/autumn/observatory/inner.json/entities/61/settings/event/8/message": {
                 "orig": "Looks like we got transported into the observatory.",
-                "text": "On dirait que l'on a été téléporté dans l'observatoire.",
+                "text": "On dirait que l'on a été transporté dans l'observatoire.",
                 "note": "de: beamen, which would be 'on a été beamé' in bad french"
         },
         "maps/autumn/observatory/inner.json/entities/61/settings/event/9/message": {
