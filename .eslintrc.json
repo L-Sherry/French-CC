@@ -3,12 +3,7 @@
 		"browser": true,
 		"es6": true
 	},
-	"parserOptions": {
-		"ecmaVersion": 2017
-	},
-	"globals": {
-		"plugin":"readonly"
-	},
+	"parser": "babel-eslint",
 	"extends": "eslint:recommended",
 	"rules": {
 		"indent": [ "error", "tab" ],
