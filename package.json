@@ -3,6 +3,7 @@
 	"description": "CrossCode en français !",
 	"homepage": "https://github.com/L-Sherry/French-CC",
 	"postload": "mod.js",
+	"module": true,
 	"version": "0.7.0",
 	"ccmodDependencies": {
 		"Localize Me": ">=0.5 <1"
