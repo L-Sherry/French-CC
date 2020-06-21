@@ -850,7 +850,8 @@
         },
         "lang/sc/gui.en_US.json/labels/combat-hud/skip": {
                 "orig": "skip",
-                "text": "sauter"
+                "text": "stop",
+                "note": "\"sauter\" is too long when using a joystick..."
         },
         "lang/sc/gui.en_US.json/labels/combat-msg/break": {
                 "orig": "\\i[break]Break",
