@@ -1,0 +1,23 @@
+{
+	"id": "french",
+	"version": "0.7.0",
+	"title": {
+		"en_US": "French",
+		"fr_FR": "Français",
+		"de_DE": "Französisch"
+	},
+	"description": {
+		"en_US": "CrossCode in french !",
+		"fr_FR": "CrossCode en français !",
+		"de_DE": "CrossCode im Französisch !"
+	},
+	"homepage": "https://github.com/L-Sherry/French-CC",
+	"postload": "mod.js",
+	"dependencies": {
+		"localize-me": ">=0.5 <1"
+	},
+	"assets": [
+		"assets/data/maps/dreams/credits.json.patch",
+		"assets/data/credits/french-cc.json"
+	]
+}

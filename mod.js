@@ -268,7 +268,13 @@ window.localizeMe.add_locale("fr_FR", {
 		fr_FR: "Fran" + c["ç"] + "ais",
 	},
 	text_filter: text_filter,
-	missing_cb: (maybe_langlabel) => {
+	missing_cb: (maybe_langlabel, dict_path) => {
+		// Do not translate mods names if they are missing
+		const mods_prefix
+			= "sc/lang/gui.en_US.json/labels/options/modEnabled";
+		if (dict_path.startsWith(mods_prefix))
+			return maybe_langlabel["en_US"] || maybe_langlabel;
+
 		if (maybe_langlabel.constructor === String)
 			return "--" + maybe_langlabel;
 		if ("fr_FR.UTF-8" in maybe_langlabel)
