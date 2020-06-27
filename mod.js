@@ -268,6 +268,13 @@ window.localizeMe.add_locale("fr_FR", {
 		fr_FR: "Fran" + c["ç"] + "ais",
 	},
 	text_filter: text_filter,
+	missing_cb: (maybe_langlabel) => {
+		if (maybe_langlabel.constructor === String)
+			return "--" + maybe_langlabel;
+		if ("fr_FR.UTF-8" in maybe_langlabel)
+			return maybe_langlabel["fr_FR.UTF-8"];
+		return "--" + maybe_langlabel["en_US"];
+	},
 	patch_base_font: prepare_patch_font,
 	patch_font: patch_font,
 	number_locale: "fr-FR",
