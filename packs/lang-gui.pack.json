@@ -2776,7 +2776,8 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/playtime": {
                 "orig": "Play Time",
-                "text": "Temps de jeu"
+                "text": "Temps jeu",
+                "note": "Temps de jeu is too long"
         },
         "lang/sc/gui.en_US.json/labels/menu/description/items": {
                 "orig": "Browse through your items and use consumables.",
@@ -7018,7 +7019,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/enemy-status-bars/name": {
                 "orig": "Enemy Status Bar",
-                "text": "Barre de Statut des Ennemis"
+                "text": "Barre de Statut Ennemis"
         },
         "lang/sc/gui.en_US.json/labels/options/enemy-status-bars/description": {
                 "orig": "Tick if enemy status bars should be shown below enemies.",
@@ -7126,7 +7127,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/message-padding/group/0": {
                 "orig": "Normal",
-                "text": "Normal"
+                "text": "Normale"
         },
         "lang/sc/gui.en_US.json/labels/options/message-padding/group/1": {
                 "orig": "Wide",
@@ -8350,7 +8351,7 @@
         },
         "lang/sc/gui.en_US.json/labels/loading/trophyUpdate": {
                 "orig": "Trophies have changed and we tried to make sure you got all the trophies you should have until this point.",
-                "text": "Les trophées ont changé et on a essayé de faire en sorte que vous ayez tous les trophées que vous devriez avoir en ce moment."
+                "text": "Les trophées ont changés et on a essayé de faire en sorte que vous ayez tous les trophées que vous devriez avoir en ce moment."
         },
         "lang/sc/gui.en_US.json/labels/loading/skillUpdate": {
                 "orig": "The Skill tree structure has changed, so we had to reset your skill configuration. Sorry! You can reassign your skills again.",
@@ -8362,6 +8363,6 @@
         },
         "lang/sc/gui.en_US.json/labels/loading/questUpdate": {
                 "orig": "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message.",
-                "text": "Certaines quêtes ont changé. Elles ont été remises à zéro. Cela veut dire que vous aurez peut-être besoin de refaire certaines tâches ou que vous aurez des récompenses après que vous fermiez ce message."
+                "text": "Certaines quêtes ont changées. Elles ont été remises à zéro. Cela veut dire que vous aurez peut-être besoin de refaire certaines tâches ou que vous aurez des récompenses après que vous fermiez ce message."
         }
 }
