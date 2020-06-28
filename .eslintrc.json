@@ -3,6 +3,10 @@
 		"browser": true,
 		"es6": true
 	},
+	"globals": {
+		"ig": "readonly",
+		"sc": "readonly"
+	},
 	"parser": "babel-eslint",
 	"extends": "eslint:recommended",
 	"rules": {

@@ -258,6 +258,43 @@ if (is_very_old_ccloader()) {
 }
 
 const my_prefix = import.meta.url.slice(0, -"mod.js".length);
+
+const patch_credits = async () => {
+	const piggyback_name = "npc-dialogs";
+	const piggyback_path = `data/credits/${piggyback_name}.json`;
+	const credits = await (await fetch(my_prefix + "credits.json")).json();
+	const copy_french = ll => {
+		// need to work either before or after localize-me
+		ll["fr_FR.UTF-8"] = ll["fr_FR"] || ll["en_US"];
+		ll["fr_FR"] = text_filter(ll["fr_FR.UTF-8"], {});
+	};
+	for (const subsection in credits) {
+		copy_french(credits[subsection].header);
+		credits[subsection].names.forEach(copy_french);
+	}
+	const patch_them = (json_data) => {
+		Object.assign(json_data.entries, credits);
+		return json_data;
+	};
+	if (window.ccmod3) {
+		const { jsonPatches } = window.ccmod3.resources;
+		jsonPatches.add(piggyback_path, patch_them);
+		return;
+	}
+
+	ig.module("french_cc.credits")
+	  .requires("game.feature.credits.credit-loadable")
+	  .defines(function() {
+			sc.CreditSectionLoadable.inject({
+				onload: function(new_data, ...args) {
+					if (this.path === piggyback_name)
+						new_data = patch_them(new_data);
+					this.parent(new_data, ...args);
+				}
+			});
+		});
+};
+
 window.localizeMe.add_locale("fr_FR", {
 	from_locale:"en_US",
 	map_file: my_prefix + "map_file.json",
@@ -295,3 +332,5 @@ window.localizeMe.add_locale("fr_FR", {
 	},
 	flag: my_prefix + "flag.png"
 });
+
+patch_credits();
