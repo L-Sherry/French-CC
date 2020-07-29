@@ -308,7 +308,7 @@ window.localizeMe.add_locale("fr_FR", {
 	missing_cb: (maybe_langlabel, dict_path) => {
 		// Do not translate mods names if they are missing
 		const mods_prefix
-			= "sc/lang/gui.en_US.json/labels/options/modEnabled";
+			= "lang/sc/gui.en_US.json/labels/options/modEnabled";
 		if (dict_path.startsWith(mods_prefix))
 			return maybe_langlabel["en_US"] || maybe_langlabel;
 
