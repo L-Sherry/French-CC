@@ -3807,7 +3807,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/lore/aka": {
                 "orig": "\\c[3]Other Terms:\\c[0] ",
-                "text": "\\c[3]Autre Termes :\\c[0] "
+                "text": "\\c[3]Autre Terme :\\c[0] "
         },
         "lang/sc/gui.en_US.json/labels/menu/lore/noLore": {
                 "orig": "No Lore Entry selected",
@@ -8396,6 +8396,43 @@
         "lang/sc/gui.en_US.json/labels/options/logLevel-warn/name": {
                 "orig": "Log level: Warnings",
                 "text": "Niveau Log: Avertissements"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-Bob-Rank/description": {
+                "orig": "Adds unforgettable special effects on S-Rank",
+                "text": "Ajoute un effet spécial inoubliable en atteignant S-Rank"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-Bob-Rank/name": {
+                "orig": "Bob-Rank",
+                "text": "Rang Bob"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-autumns-genesis/description": {
+                "orig": "Dungeon/Quest expansion to CrossCode",
+                "text": "Extension de CrossCode avec donjon/quête"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-autumns-genesis/name": {
+                "orig": "autumns-genesis",
+                "text": "génèse-d'autumn"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-extendable-severed-heads/name": {
+                "orig": "extendable-severed-heads",
+                "text": "têtes tranchées étendables",
+                "note": "c'est encore plus gore que l'original ^^"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-item-api/description": {
+                "orig": "Allows custom items to be prepared in such a way that they 'just work'.",
+                "text": "Permet de préparer des items personnalisés de manière à ce que ça 'juste fonctionne'."
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-item-api/name": {
+                "orig": "item-api",
+                "text": "api item"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-modifier-api/description": {
+                "orig": "Enables easier creation and usage of custom modifiers",
+                "text": "Permet de créer et utiliser plus facilement des modicateurs personnalisés"
+        },
+        "lang/sc/gui.en_US.json/labels/options/modEnabled-modifier-api/name": {
+                "orig": "modifier-api",
+                "text": "api modificateur"
         },
         "lang/sc/gui.en_US.json/labels/options/mods-description/description": {
                 "orig": "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!",

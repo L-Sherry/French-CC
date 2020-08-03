@@ -9584,7 +9584,7 @@
         },
         "database.json/enemies/heat.darth-moth/descriptions/0/text": {
                 "orig": "A mutation of the common \\v[combat.name.heat/moth] that has somehow gained the ability to shoot a laser from its eye. That's right, a laser. They're also not fooled easily by the same tricks you could use against its weaker kind. However it still is very vulnerable to cold attacks. Best wait for an opening to throw some icy balls at them.",
-                "text": "Une mutation de la \\v[combat.name.heat/moth] commune qui semble avoir obtenu la capacité de tirer un laser depuis ses yeux. Oui, un laser. Ils ne sont pas aussi faciles à feinter en utilisant les mêmes astuces que son homologue plus faible. Mais il reste très vulnérable aux attaques froides. Attendez une bonne opportunité avant de leur lancer quelques boules gelées."
+                "text": "Une mutation de la \\v[combat.name.heat/moth] commune qui semble avoir obtenu la capacité de tirer un laser depuis ses yeux. Oui, vous avez bien lu, un laser. Ils ne sont pas aussi faciles à feinter en utilisant les mêmes astuces que son homologue plus faible. Mais il reste très vulnérable aux attaques froides. Attendez une bonne opportunité avant de leur lancer quelques boules gelées."
         },
         "database.json/enemies/heat.darth-moth/species": {
                 "orig": "Moth",
@@ -12562,7 +12562,7 @@
         },
         "database.json/lore/hackerspace/alternative": {
                 "orig": "International HackerSpace Organization",
-                "text": "Organisation Internationale des HackerSpaces"
+                "text": "Org. Internationale des HackerSpaces"
         },
         "database.json/lore/hackerspace/content/page-01/content": {
                 "orig": "The \\c[3]I.H.S.O.\\c[0] is an organization dedicated to finding and eliminating any kind of exploits and bugs found in systems used by companies.\nIt's also one of the oldest groups in the galaxy, existing for almost 2000 years in one way or another. \\c[3]\\v[lore.title.dev-company]\\c[0] is just one of many that received help from them.\nTo support the cause, many companies created \"Wanted Lists\" for potential bugs with large bounties for those who can find and fix them.",
@@ -16251,7 +16251,7 @@
         },
         "database.json/quests/jungleTrader-1-snowman_thief_1/tasks/0/task": {
                 "orig": "Search for \\c[3]a hideout\\c[0] on \\c[3]Old Timber\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]",
-                "text": "Cherchez une \\c[3]cachette\\c[0] à la \\c[3]Vielle Souche\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
+                "text": "Cherchez une \\c[3]cachette\\c[0] dans le \\c[3]Vieux Bois\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleTrader-1-snowman_thief_1/tasks/1/task": {
                 "orig": "Find the \\c[3]thief of the cooling devices\\c[0] in the \\c[3]Chilled Cave\\c[0]",
@@ -16287,7 +16287,7 @@
         },
         "database.json/quests/jungleTrader-2-snowman_thief_2/tasks/0/task": {
                 "orig": "Go back into the \\c[3]Chilled Cave\\c[0] on \\c[3]Old Timber\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]",
-                "text": "Revenez dans la \\c[3]Cachette Refroidie\\c[0] dans la \\c[3]Vielle Souche\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
+                "text": "Revenez dans la \\c[3]Cachette Refroidie\\c[0] dans le \\c[3]Vieux Bois\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleTrader-2-snowman_thief_2/tasks/1/task": {
                 "orig": "Break through \\c[3]the icy wall\\c[0] by using the \\c[3]Hyperforce Plasmaoven\\c[0]",
@@ -16431,7 +16431,7 @@
         },
         "database.json/quests/basin-mush-1/description": {
                 "orig": "Mick Calzone is in need of help. His father tasked him with gathering \\c[3]Venom Mushrooms\\c[0] and \\c[3]Glowspheres\\c[0] from the infested part of the jungle. He is not a fighter and thus asked you for help.",
-                "text": "Mick Calzone a besoin d'aide. Son père lui demande de récupérer des \\c[3]Champis Venimeux\\c[0] et des \\c[3]Sphères Brillantes\\c[0] de la partie infestée de la jungle. Il n'est pas un combattant et vous a donc demandé votre aide."
+                "text": "Mick Calzone a besoin d'aide. Son père lui demande de récupérer des \\c[3]Champis Venins\\c[0] et des \\c[3]Sphères Brillantes\\c[0] de la partie infestée de la jungle. Il n'est pas un combattant et vous a donc demandé votre aide."
         },
         "database.json/quests/basin-mush-1/briefing": {
                 "orig": "You brought Mick the mushrooms and spheres. Now you are left to wonder why a father would ask his son to bring him these goods in order to let him join his \"business\".",
@@ -16439,7 +16439,7 @@
         },
         "database.json/quests/basin-mush-1/tasks/0/task": {
                 "orig": "Collect \\c[3]Venom Shrooms\\c[0] and \\c[3]Glowing Spheres\\c[0] in the infested jungle region.",
-                "text": "Collectez les \\c[3]Champis Venimeux\\c[0] et les \\c[3]Sphères Brillantes\\c[0] dans la partie infestée de la jungle."
+                "text": "Collectez les \\c[3]Champis Venins\\c[0] et les \\c[3]Sphères Brillantes\\c[0] dans la partie infestée de la jungle."
         },
         "database.json/quests/basin-mush-1/tasks/1/task": {
                 "orig": "Return to Mick in \\c[3]Basin Keep - Pond Slums\\c[0] and give him the goods.",
@@ -16631,11 +16631,11 @@
         },
         "database.json/quests/infestation-2/tasks/9/task": {
                 "orig": "Defeat the \\v[combat.name.jungle/algorithm] at the \\c[3]Old Timber\\c[0]",
-                "text": "Combattez les \\v[combat.name.jungle/algorithm] à la \\c[3]Vielle souche\\c[0]"
+                "text": "Combattez les \\v[combat.name.jungle/algorithm] dans le \\c[3]Vieux Bois\\c[0]"
         },
         "database.json/quests/infestation-2/tasks/10/task": {
                 "orig": "Follow the poles to the east of \\c[3]Old Timber\\c[0]",
-                "text": "Suivez la trace des pôles à l'est de la \\c[3]Vielle Souche\\c[0]"
+                "text": "Suivez la trace des pôles à l'est du \\c[3]Vieux Bois\\c[0]"
         },
         "database.json/quests/infestation-2/tasks/11/task": {
                 "orig": "Defeat the \\v[combat.name.jungle/algorithm] at the \\c[3]Lost Lookout\\c[0]",
