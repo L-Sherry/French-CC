@@ -257,7 +257,7 @@ if (is_very_old_ccloader()) {
 			"above to work properly.");
 }
 
-const my_prefix = import.meta.url.slice(0, -"mod.js".length);
+const my_prefix = new URL('.', import.meta.url).pathname;
 
 const patch_credits = async () => {
 	const piggyback_name = "npc-dialogs";
