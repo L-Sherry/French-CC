@@ -159,6 +159,10 @@
                 "orig": "[no]",
                 "text": "[non]"
         },
+        "maps/autumn-fall/raid/raid-01.json/entities/54/settings/npcStates/4/event/quest/4/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
         "maps/autumn-fall/raid/raid-01.json/entities/55/settings/npcStates/0/event/2/message": {
                 "orig": "Hey there! The raid is about to start. Of course we all should be well prepared.",
                 "text": "Bonjour ! Le raid va bientôt commencer. Bien sûr, on devrait tous bien être préparé."
@@ -789,15 +793,15 @@
                 "orig": "The element of peace is no more.",
                 "text": "L'élément de la paix n'est plus."
         },
-        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/17/message": {
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/19/message": {
                 "orig": "Hm.... that is odd...",
                 "text": "Hum... C'est bizarre..."
         },
-        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/18/message": {
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/20/message": {
                 "orig": "...?",
                 "text": "... ?"
         },
-        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/19/message": {
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/21/message": {
                 "orig": "Nevermind, I must be imagining things.",
                 "text": "Oublie, j'ai dû imaginer des trucs."
         },
@@ -845,32 +849,32 @@
                 "orig": "We almost got it!",
                 "text": "On y est presque !"
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/191/settings/teleportLabel": {
+        "maps/autumn-fall/raid/raid-05.json/entities/184/settings/teleportLabel": {
                 "orig": "en_US",
                 "text": "fr_FR"
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/192/settings/teleportLabel": {
+        "maps/autumn-fall/raid/raid-05.json/entities/185/settings/teleportLabel": {
                 "orig": "en_US",
                 "text": "fr_FR"
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/193/settings/teleportLabel": {
+        "maps/autumn-fall/raid/raid-05.json/entities/186/settings/teleportLabel": {
                 "orig": "en_US",
                 "text": "fr_FR"
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/207/settings/event/19/message": {
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/19/message": {
                 "orig": "Wh-What happened?",
                 "text": "Qu-Qu'est-ce qui s'est passé ?"
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/207/settings/event/20/message": {
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/20/message": {
                 "orig": "Lea... is gone?",
                 "text": "Lea... est partie ?",
                 "note": "oh, you..."
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/207/settings/event/21/message": {
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/21/message": {
                 "orig": "Is... Is this some kind of bug?",
                 "text": "C'est... c'est un bug ou quoi ?"
         },
-        "maps/autumn-fall/raid/raid-05.json/entities/207/settings/event/27/message": {
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/27/message": {
                 "orig": "Damn it! Why now of all times!",
                 "text": "Bon sang ! Pourquoi ça tombe maintenant !"
         }

@@ -1009,10 +1009,6 @@
                 "orig": "It is said that they also mysteriously developed the ability to spit bursts of fire. This is rarely seen, though, as their respect for their environment forbids the use of this ability on the surface.",
                 "text": "Il est dit qu'ils ont aussi mystérieusement développé la possibilité de cracher du feu. Cela se voit que très rarement, par contre, car le respect de leur environnement leur interdit d'utiliser cette possibilité à la surface."
         },
-        "enemies/autumn-rh/big_turret-quest_naval_ally.json/proxies/scalingBuff/action/1/thenStep/0/text": {
-                "orig": "(BUFF)",
-                "text": "(BUFF)"
-        },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StartFullShield/0/text": {
                 "orig": "FullShield On",
                 "text": "BouclierEntier On"
@@ -1081,7 +1077,7 @@
                 "orig": "\\v[entity.attrib.startingWave]",
                 "text": "\\v[entity.attrib.startingWave]"
         },
-        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/InitMove/2/thenStep/0/text": {
+        "enemies/autumn-rh/suicider_float-quest_naval.json/actions/InitMove/4/thenStep/0/text": {
                 "orig": "MOVE",
                 "text": "DÉPLACEMENT"
         },
@@ -1161,7 +1157,7 @@
                 "orig": "\\v[entity.attrib.startingWave]",
                 "text": "\\v[entity.attrib.startingWave]"
         },
-        "enemies/autumn-rh/turret_float-quest_naval.json/actions/InitMove/2/thenStep/0/text": {
+        "enemies/autumn-rh/turret_float-quest_naval.json/actions/InitMove/4/thenStep/0/text": {
                 "orig": "MOVE",
                 "text": "DÉPLACEMENT"
         },
@@ -1435,7 +1431,7 @@
                 "orig": "Activated!",
                 "text": "Activé !"
         },
-        "enemies/cold/turret-monks-invinc.json/actions/GoOff/0/thenStep/0/text": {
+        "enemies/cold/turret-monks-invinc.json/actions/GoOff/1/thenStep/0/text": {
                 "orig": "Deactivated",
                 "text": "Désactivé"
         },
@@ -3138,10 +3134,6 @@
         "enemies/minibosses/penguin-rapper.json/meta/descriptions/0/text": {
                 "orig": "A rare type of \\c[3]Pengpeng\\c[0] that set up a den deep in the mountains of \\c[3]Bergen Trail\\c[0]. When approached it immediately thinks that you want to steal its flow and jumps up to its \"stage\". It will summon Pengpengs and command them to do different attacks based on its temper. Anger it by defeating all Pengpengs to make it jump down.",
                 "text": "Un rare type de \\c[3]\\v[combat.name.penguin]\\c[0] qui s'est construit une cachette profondément dans les montagnes du \\c[3]\\v[area.bergen-trails.name]\\c[0]. Lorsqu'on l'approche, il va immédiatement penser que vous voulez piquer son flow et va sauter de sa \"scène\". Il va appeler des \\v[combat.name.penguin] et leur commander de faire différentes attaques en fonction de son humeur. Énervez le en abattant ses congénères pour le faire sauter en bas."
-        },
-        "enemies/minibosses/scorpion-boss.json/meta/species": {
-                "orig": "Mecha Crab",
-                "text": "Crabe Mécanique"
         },
         "enemies/minibosses/shockcat-black.json/meta/species": {
                 "orig": "Mammal",

@@ -305,15 +305,15 @@
                 "orig": "Bye!",
                 "text": "Bye !"
         },
-        "maps/bergen/inner-faction-monks.json/entities/29/settings/npcStates/7/event/0/name": {
+        "maps/bergen/inner-faction-monks.json/entities/29/settings/npcStates/7/event/quest/0/name": {
                 "orig": "Nemuh",
                 "text": "Nemuh"
         },
-        "maps/bergen/inner-faction-monks.json/entities/29/settings/npcStates/7/event/2/message": {
+        "maps/bergen/inner-faction-monks.json/entities/29/settings/npcStates/10/event/2/message": {
                 "orig": "The Track is quiet at this moment, leaving us time to meditate on its purpose.\\. Why not join us?",
                 "text": "Le Tracé est calme en ce moment, nous laissant le temps de méditer sur son existence.\\. Pourquoi ne pas se joindre à nous ?"
         },
-        "maps/bergen/inner-faction-monks.json/entities/29/settings/npcStates/7/event/3/message": {
+        "maps/bergen/inner-faction-monks.json/entities/29/settings/npcStates/10/event/3/message": {
                 "orig": "...bye.",
                 "text": "... Bye."
         },
@@ -328,6 +328,82 @@
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/0/event/2/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/3/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/30/message": {
+                "orig": "Enter this teleporter to reach the start of your trial.",
+                "text": "Entre dans ce téléporteur pour atteindre le début de ton épreuve."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/32/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/2/event/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/3/event/quest/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/3/event/quest/10/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/4/event/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/4/message": {
+                "orig": "Hi.",
+                "text": "Salut."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/13/accepted/8/text": {
+                "orig": "Path reopened!",
+                "text": "Passage réouvert !"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/13/accepted/16/message": {
+                "orig": "Return to me once you have solved the challenges.",
+                "text": "Retournez me voir lorsque vous aurez réussi les défis."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/13/accepted/17/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/13/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/13/declined/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/6/event/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/7/event/quest/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/7/event/quest/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/7/event/quest/10/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/analyzable/text": {
                 "orig": "Hasouk",
@@ -349,10 +425,6 @@
                 "orig": "Greetings, young one.\\. I sense that our wise leader has sent you for me to test your inner balance.",
                 "text": "Bonjour, mon enfant.\\. Je sens que notre grand maitre vous a envoyé pour que je puisse tester votre équilibre intérieur."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/1/event/quest/4/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/1/event/quest/5/message": {
                 "orig": "Very well.\\. But it is not I who will test you but the very Track itself.",
                 "text": "Que cela en soit ainsi.\\. Mais ce ne sera pas moi qui vous testerai, mais le Tracé lui-même."
@@ -365,10 +437,6 @@
                 "orig": "Hasouk",
                 "text": "Hasouk"
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/1/event/quest/25/message": {
-                "orig": "Enter this teleporter to reach the start of your trial.",
-                "text": "Entre dans ce téléporteur pour atteindre le début de ton épreuve."
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/1/event/quest/26/message": {
                 "orig": "To show your worth, reach the other side and return with the sacred artifact found there.",
                 "text": "Pour montrer que vous êtes digne, vous devez aller de l'autre côté et revenir avec l'artefact sacré que vous trouverez là-bas."
@@ -376,10 +444,6 @@
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/1/event/quest/27/message": {
                 "orig": "...",
                 "text": "..."
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/1/event/quest/28/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/2/event/1/name": {
                 "orig": "Hasouk",
@@ -393,10 +457,6 @@
                 "orig": "You won't need to fight, but know that falling into the darkness will fail the trial.\\. Be steady as ice and swift as a Frobbit.",
                 "text": "Vous n'avez pas besoin de vous battre, mais sachez que tomber dans la pénombre vous fera échouer l'épreuve.\\. Soyez stable comme de la glace et vif comme un Grelapin."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/2/event/5/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/3/event/quest/1/name": {
                 "orig": "Hasouk",
                 "text": "Hasouk"
@@ -404,10 +464,6 @@
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/3/event/quest/3/message": {
                 "orig": "Ah, you have returned.",
                 "text": "Ah, vous êtes revenue."
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/3/event/quest/4/message": {
-                "orig": "Hi!",
-                "text": "Salut !"
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/3/event/quest/5/message": {
                 "orig": "Indeed.\\. The firm aura that surrounds you speaks of your success.",
@@ -421,14 +477,6 @@
                 "orig": "You should now return to the Wise to complete the initiation.",
                 "text": "Vous devriez revenir voir le Sage pour terminer votre initiation."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/3/event/quest/8/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/3/event/quest/9/message": {
-                "orig": "Bye!",
-                "text": "Bye !"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/4/event/1/name": {
                 "orig": "Hasouk",
                 "text": "Hasouk"
@@ -437,17 +485,9 @@
                 "orig": "You should now return to the Wise to complete the initiation.",
                 "text": "Vous devriez revenir voir le Sage pour terminer votre initiation."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/4/event/4/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/1/name": {
                 "orig": "Hasouk",
                 "text": "Hasouk"
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/3/message": {
-                "orig": "Hi.",
-                "text": "Salut."
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/4/message": {
                 "orig": "\\v[lore.title.seeker], you may have proven your worth, but I feel that you still have room for refinement.",
@@ -465,41 +505,17 @@
                 "orig": "For this very purpose, we have prepared some additional challenges in the Cave of Aspiration.",
                 "text": "Pour cela, nous avons préparé d'autres défis dans la Cave de l'Aspiration."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/0/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/1/message": {
                 "orig": "Excellent.\\. I will reopen the passage for you.",
                 "text": "Excellent.\\. Je vais réouvrir le passage pour vous."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/9/text": {
-                "orig": "Path reopened!",
-                "text": "Passage réouvert !"
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/17/name": {
+        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/14/name": {
                 "orig": "Hasouk",
                 "text": "Hasouk"
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/19/message": {
-                "orig": "Return to me once you have solved the challenges.",
-                "text": "Retournez me voir lorsque vous aurez réussi les défis."
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/accepted/20/message": {
-                "orig": "Bye.",
-                "text": "Bye."
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/declined/0/message": {
-                "orig": "[shakes head]",
-                "text": "[secoue la tête]"
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/declined/1/message": {
                 "orig": "I see.\\. But remember that self-indulgence leads to arrogance which in turn leads to inadequacy.",
                 "text": "Je vois.\\. Mais souvenez-vous que l'auto-complaisance mène à l'arrogance, et l'arrogance mène à l'inadéquation."
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/5/event/quest/8/declined/2/message": {
-                "orig": "...",
-                "text": "..."
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/6/event/1/name": {
                 "orig": "Hasouk",
@@ -513,10 +529,6 @@
                 "orig": "To solve the challenge without guarding you have to cast your shield away at the sign inside.",
                 "text": "Pour relever le défi sans bouclier, vous devez enlever votre bouclier sur le symbole à l'entrée."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/6/event/5/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/7/event/quest/1/name": {
                 "orig": "Hasouk",
                 "text": "Hasouk"
@@ -525,25 +537,13 @@
                 "orig": "I see you were successful once again.",
                 "text": "Je vois que vous êtes à nouveau victorieuse."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/7/event/quest/4/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/7/event/quest/5/message": {
                 "orig": "You have now solved every one of my trials.\\. Impressive.",
                 "text": "Vous avez réussi tous mes défis.\\. Impressionnant."
         },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/7/event/quest/6/message": {
-                "orig": "...",
-                "text": "..."
-        },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/7/event/quest/7/message": {
                 "orig": "There is nothing left for me that could challenge you, though the cave will stay open for you to perfect yourself.",
                 "text": "Je n'ai rien de plus qui pourrait vous défier. Mais la cave restera ouverte pour toi, pour pouvoir vous perfectionner."
-        },
-        "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/7/event/quest/8/message": {
-                "orig": "Bye!",
-                "text": "Bye !"
         },
         "maps/bergen/inner-faction-monks.json/entities/58/settings/npcStates/8/event/1/name": {
                 "orig": "Hasouk",

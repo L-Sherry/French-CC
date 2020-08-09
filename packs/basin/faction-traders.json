@@ -3,10 +3,6 @@
                 "orig": "This building houses the office of the Basin Trade Partnership.\\. Please talk to our spokesperson if you seek to assist us.",
                 "text": "Ce bâtiment abrite les bureaux du \\v[lore.title.faction-shock-jungle].\\. Veuillez parler à notre porte-parole si vous souhaitez nous assister."
         },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/analyzable/text": {
-                "orig": "Esha Basu",
-                "text": "Esha Basu"
-        },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/0/event/1/name": {
                 "orig": "Mrs Basu",
                 "text": "Mme Basu"
@@ -55,13 +51,13 @@
                 "orig": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay.",
                 "text": "Bonjour, \\v[lore.title.seeker].\\. Il n'y a pas besoin de votre aide pour le moment, mais je vous souhaite un bon séjour."
         },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/analyzable/text": {
+                "orig": "Esha Basu",
+                "text": "Esha Basu"
+        },
         "maps/jungle-city/interior/faction-traders-1.json/entities/23/settings/destinations/0/label": {
                 "orig": "2nd Floor",
                 "text": "2ième Étage"
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
-                "orig": "Tony Frigo",
-                "text": "Tony Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/0/event/1/name": {
                 "orig": "Mr Frigo",
@@ -110,6 +106,10 @@
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/8/event/2/message": {
                 "orig": "Greetings, \\v[lore.title.seeker].\\. Please work hard for the prosperity of our city.",
                 "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, travaillez dur pour la prospérité de notre ville."
+        },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
+                "orig": "Tony Frigo",
+                "text": "Tony Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/3/name": {
                 "orig": "Mrs Basu",
