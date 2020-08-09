@@ -119,6 +119,14 @@
                 "orig": "Times reset!",
                 "text": "Temps remis à zéro !"
         },
+        "maps/bergen/special/monks-questcave1.json/entities/233/settings/event/1/text": {
+                "text": "[ TIR ]",
+                "orig": "[ SHOOT ]"
+        },
+        "maps/bergen/special/monks-questcave1.json/entities/234/settings/event/1/text": {
+                "text": "[ TIR ]",
+                "orig": "[ SHOOT ]"
+        },
         "maps/bergen/special/monks-questcave2.json/entities/1/settings/event/9/thenStep/5/text": {
                 "orig": "Activate \"Extra Frosty\" here!",
                 "text": "Activez \"Extra Gelé\" ici !"
@@ -282,5 +290,13 @@
         "maps/bergen/special/monks-questcave2.json/entities/187/settings/event/12/elseStep/0/text": {
                 "orig": "\\c[3]Time (\\v[tmp.resultMode]):\\c[0]\n\\v[tmp.time-format]\n\nBest:\n\\v[tmp.bestTime-FORMAT]\n",
                 "text": "\\c[3]Temps (\\v[tmp.resultMode])\\c[0]\n\\v[tmp.time-format]\n\nMeilleur Temps :\n\\v[tmp.bestTime-FORMAT]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/53/settings/event/1/text": {
+                "text": "Aussi rapide que la glace...",
+                "orig": "Swift as molten ice..."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/158/settings/teleportLabel": {
+                "text": "Retourner au \\c[3]Monastère\\c[0] \\c[1](votre progression sera perdue !)\\c[0]",
+                "orig": "Return to the \\c[3]Monastery\\c[0] \\c[1](progress will be lost!)\\c[0]"
         }
 }

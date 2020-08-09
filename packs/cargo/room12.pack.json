@@ -182,8 +182,8 @@
                 "text": "Ce carton n'est pas là pour rien."
         },
         "maps/cargo-ship/room1.json/entities/39/settings/npcStates/1/event/3/0/6/guiInfo/settings/text": {
-                "orig": "Walk toward small object to auto-jump on top of them.",
-                "text": "Marchez vers les petits objets pour sauter automatiquement dessus."
+                "text": "Marchez vers les petits objets pour sauter automatiquement dessus.",
+                "orig": "Walk toward small objects to auto-jump on top of them."
         },
         "maps/cargo-ship/room1.json/entities/39/settings/npcStates/1/event/3/1/0/message": {
                 "orig": "[shakes head]",
@@ -558,8 +558,8 @@
                 "text": "C'est c'que je voulais te d'mander ! C'est pas normal, hein ?!"
         },
         "maps/cargo-ship/room2.json/entities/86/settings/event/0/thenStep/0/thenStep/4/message": {
-                "orig": "No way! Did I forgot to remove \\c[3]that\\c[0] code fragment?!",
-                "text": "Oh non ! J'aurais pas oublié d'enlever \\c[3]ce\\c[0] morceau de code ?!"
+                "text": "C'est pas possible ! J'aurais oublié d'enlever \\c[3]ce\\c[0] morceau de code ?!",
+                "orig": "No way! Did I forget to remove \\c[3]that\\c[0] code fragment?!"
         },
         "maps/cargo-ship/room2.json/entities/86/settings/event/0/thenStep/0/thenStep/5/message": {
                 "orig": "What the heck did ya do?!",

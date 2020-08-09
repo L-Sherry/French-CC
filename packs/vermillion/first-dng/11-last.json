@@ -118,8 +118,8 @@
                 "text": "Son destin se trouve maintenant entre nos mains !"
         },
         "maps/arid-dng/first/outside.json/entities/86/settings/event/84/message": {
-                "orig": "If his well being is of your concern, you'd do wise to obey and stop this escape at once.",
-                "text": "Si son bien-être te préoccupe, tu ferais mieux d'obéir et d'abandonner l'idée de vouloir t'échapper."
+                "text": "Si son bien-être te préoccupe, tu ferais mieux d'obéir et d'abandonner l'idée de vouloir t'échapper.",
+                "orig": "If his well being is of your concern, you'd be wise to obey and stop this escape at once."
         },
         "maps/arid-dng/first/outside.json/entities/86/settings/event/85/message": {
                 "orig": "...Why...",
@@ -300,5 +300,9 @@
         "maps/arid-dng/first/room-12.json/entities/81/settings/npcStates/0/event/4/message": {
                 "orig": "...!",
                 "text": "... !"
+        },
+        "maps/arid-dng/first/room-12.json/entities/85/settings/npcStates/0/event/2/message": {
+                "text": "Hé, je suis juste quelqu'un qui a été animé par une certaine personne. Je ne devrais pas être là.",
+                "orig": "Hey, I'm just somebody who's been animated by a certain someone. I shouldn't be here."
         }
 }

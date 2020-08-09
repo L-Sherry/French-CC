@@ -104,8 +104,8 @@
                 "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/8/event/2/message": {
-                "orig": "Greetings, \\v[lore.title.seeker].\\. Please work hard for the prosperity of our city.",
-                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, travaillez dur pour la prospérité de notre ville."
+                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, continuez de travaille dur pour la prospérité de notre ville.",
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Please continue to work hard for the prosperity of our city."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
                 "orig": "Tony Frigo",
@@ -344,8 +344,8 @@
                 "text": "Salut... ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/3/message": {
-                "orig": "Ah, \\v[lore.title.seeker], good news.\\. Preparations to finally subdue that dangerous \\v[combat.name.snowman] have finally been finished!",
-                "text": "Ah, \\v[lore.title.seeker], nous avons une bonne nouvelle.\\. Les préparations pour se débarrasser du dangereux \\v[combat.name.snowman] sont finalement terminées !"
+                "text": "Ah, \\v[lore.title.seeker], nous avons une bonne nouvelle.\\. Les préparations pour se débarrasser du dangereux \\v[combat.name.snowman] sont finalement terminées !",
+                "orig": "Ah, \\v[lore.title.seeker], good news.\\. Preparations to subdue that dangerous \\v[combat.name.snowman] have finally been finished!"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/5/message": {
                 "orig": "Yes.\\. Our engineers have redoubled their efforts and created an oven that will easily melt through even the coldest ice.",
@@ -356,8 +356,8 @@
                 "text": "... !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/7/message": {
-                "orig": "I ordered one of my subordinates to deliver it into the cave.",
-                "text": "J'ai ordonné à l'un de mes collaborateurs de le livrer à l'intérieur de la cave."
+                "text": "J'ai ordonné à l'un de mes collaborateurs de le livrer à l'intérieur de la cave.",
+                "orig": "I ordered one of my subordinates to deliver it to the cave."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/9/message": {
                 "orig": "Meanwhile, the target has not left the cave, so you should be able to corner and defeat it.",

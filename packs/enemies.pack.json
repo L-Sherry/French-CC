@@ -20,8 +20,8 @@
                 "text": "Crabe Mécanique"
         },
         "enemies/beat-bot.json/meta/species": {
-                "orig": "Mecha Crab",
-                "text": "Crabe Mécanique"
+                "text": "TESTEUR",
+                "orig": "TESTER"
         },
         "enemies/boss-driller.json/actions/RegenShield/4/text": {
                 "orig": "Shield Recovered",
@@ -1022,12 +1022,12 @@
                 "text": "DoubleBouclier On"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StunStart/1/text": {
-                "orig": "[Stunned]",
-                "text": "[Assommée]"
+                "text": "[ ASSOMMÉE ]",
+                "orig": "[ STUNNED ]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/TurnOn/2/text": {
-                "orig": "[Charging Shot]",
-                "text": "[Chargement Tir]"
+                "text": "[ Chargement Tir ]",
+                "orig": "[ Charging Shot ]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/thenStep/0/thenStep/0/text": {
                 "orig": "HEAT",
@@ -1054,8 +1054,8 @@
                 "text": "[Chargement Tir]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/ShotRdy/0/text": {
-                "orig": "[Cannon Ready!]",
-                "text": "[Canon Prêt !]"
+                "text": "[ CANON PRÊT ! ]",
+                "orig": "[ CANNON READY! ]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/meta/species": {
                 "orig": "Naval Weapon",
@@ -1082,12 +1082,12 @@
                 "text": "DÉPLACEMENT"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "orig": "FullShield On",
-                "text": "BouclierEntier On"
+                "text": "[ BouclierEntier On ]",
+                "orig": "[ FullShield On ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/Target/4/text": {
-                "orig": "[TARGET]",
-                "text": "[CIBLE]"
+                "text": "[ CIBLE ]",
+                "orig": "[ TARGET ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
                 "orig": "STOP",
@@ -1098,12 +1098,12 @@
                 "text": "[CIBLE !]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/SelfExplode/11/text": {
-                "orig": "[Gonna Blow]",
-                "text": "[Va Exploser]"
+                "text": "[ EXPLOSION ! ]",
+                "orig": "[GONNA BLOW! ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/ReachGoal/0/text": {
-                "orig": "[WEAPON ESCAPED!]",
-                "text": "[L'ARME S'EST ÉCHAPPÉE !]"
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
+                "orig": "[ WEAPON ESCAPED! ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/meta/species": {
                 "orig": "Floating Bomb",
@@ -1122,12 +1122,12 @@
                 "text": "DÉPLACEMENT"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "orig": "FullShield On",
-                "text": "BouclierEntier On"
+                "text": "[ BouclierEntier On ]",
+                "orig": "[ FullShield On ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/Target/4/text": {
-                "orig": "[TARGET]",
-                "text": "[CIBLE]"
+                "text": "[ CIBLE ]",
+                "orig": "[ TARGET ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
                 "orig": "STOP",
@@ -1138,12 +1138,12 @@
                 "text": "[CIBLE]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/AntiTurretShot/12/text": {
-                "orig": "[Targetting Turret]",
-                "text": "[Vise la Tourelle]"
+                "text": "[ Vise la Tourelle ! ]",
+                "orig": "[ Targetting Turret! ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/ReachGoal/0/text": {
-                "orig": "[WEAPON ESCAPED!]",
-                "text": "[L'ARME S'EST ÉCHAPPÉE !]"
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
+                "orig": "[ WEAPON ESCAPED! ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/meta/species": {
                 "orig": "Floating Sentry",
@@ -1158,16 +1158,16 @@
                 "text": "\\v[entity.attrib.startingWave]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/InitMove/4/thenStep/0/text": {
-                "orig": "MOVE",
-                "text": "DÉPLACEMENT"
+                "text": "(DÉPLACEMENT)",
+                "orig": "(MOVE)"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "orig": "FullShield On",
-                "text": "BouclierEntier On"
+                "text": "[ BouclierEntier On ]",
+                "orig": "[ FullShield On ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/Target/4/text": {
-                "orig": "[TARGET]",
-                "text": "[CIBLE]"
+                "text": "[ CIBLE ]",
+                "orig": "[ TARGET ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
                 "orig": "STOP",
@@ -1178,12 +1178,12 @@
                 "text": "[CIBLE]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/AntiTurretShot/12/text": {
-                "orig": "[Targetting Turret]",
-                "text": "[Vise la Tourelle]"
+                "text": "[ Vise la Tourelle ! ]",
+                "orig": "[ Targetting Turret! ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/ReachGoal/0/text": {
-                "orig": "[WEAPON ESCAPED!]",
-                "text": "[L'ARME S'EST ÉCHAPPÉE !]"
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
+                "orig": "[ WEAPON ESCAPED! ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/meta/species": {
                 "orig": "Floating Sentry",
@@ -1729,12 +1729,12 @@
                 "text": "Quand un \\v[combat.name.heat/scorpion] devient plus âgé, il obtient le rang de \"Big Boss\". Il est de tradition que chaque \"Big Boss\" doit offrir un œil comme tribut pour obtenir ce rang, ou sinon il est rejeté pour l'éternité. Ce rituel cruel n'a jamais été observé par quiconque donc il est difficile de savoir comment ils obtiennent leur cache-œil."
         },
         "enemies/heat/scorpion-robo.json/meta/species": {
-                "orig": "Scorpion",
-                "text": "Scorpion"
+                "text": "Artillerie Scorpion",
+                "orig": "Scorpion Artillery"
         },
         "enemies/heat/scorpion-robo.json/meta/descriptions/0/text": {
-                "orig": "This creepy looking guy is the most common inhabitant of \\c[3]\\v[area.heat-area.name]\\c[0]. It usually poses no threat unless provoked and stays together with others of its kind.\nThey can use their big pincers to quickly attack. The big stinger apparently has some magical properties which allows it to follow you underground and attack from below. Nature is scary.",
-                "text": "Ce type à l'apparence angoissante est l'habitant le plus commun de la \\c[3]\\v[area.heat-area.name]\\c[0]. Il ne présente normalement pas la moindre menace sauf s'il est provoqué et il reste ensemble avec les autres de son espèce.\nIls utilisent leurs grandes pinces pour attaquer rapidement. Leur gros dard possède apparemment des capacités magiques, qui lui permet de vous suivre sous la terre et de vous attaquer par-dessous. Mère nature est effrayante."
+                "text": "Cette variante plus disciplinée du \\c[3]\\v[combat.name.heat/scorpion]\\c[0] a été équipé d'un lanceur d'artillerie légère sur son dos.\nParce que les pinces et le dard n'étaient pas assez effrayants, il faut croire.",
+                "orig": "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\nBecause the pincers and stinger weren't already scary enough, apparently."
         },
         "enemies/heat/scorpion.json/meta/species": {
                 "orig": "Scorpion",
@@ -1969,16 +1969,16 @@
                 "text": "Mite Amoureuse du Sable"
         },
         "enemies/heat/special/sand-moth-1.json/meta/descriptions/0/text": {
-                "orig": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however be somewhat easily confused by targets that quickly vanish from it's line of sight.",
-                "text": "Une variante ancienne de la \\v[combat.name.heat/moth] commune qui se sent chez elle à l'intérieur de salles très sèches. Il est très amoureux du sable, préférant cette sensation rugueuse et brute à des textures plus douces et lisses.\n\nIl est extrêmement agile et va éviter toutes les attaques qu'on lui porte, sauf s'il est distrait lorsqu'il tire son rayon laser guidé.\nIl sera potentiellement facilement confus par des cibles qui disparaissent rapidement de son champ de vision."
+                "text": "Une variante ancienne de la \\v[combat.name.heat/moth] commune qui se sent chez elle à l'intérieur de salles très sèches. Il est très amoureux du sable, préférant cette sensation rugueuse et brute à des textures plus douces et lisses.\n\nIl est extrêmement agile et va éviter toutes les attaques qu'on lui porte, sauf s'il est distrait lorsqu'il tire son rayon laser guidé.\nIl sera potentiellement un peu confus par des cibles qui disparaissent rapidement de son champ de vision.",
+                "orig": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however, be somewhat easily confused by targets that quickly vanish from its line of sight."
         },
         "enemies/heat/special/sandman-1.json/meta/species": {
                 "orig": "Sandman King",
                 "text": "Roi des Hommes-Sables"
         },
         "enemies/heat/special/sandman-1.json/meta/descriptions/0/text": {
-                "orig": "Piles of sand, presumably animated by the spirit of what was once an Ancient leader of sort.\n\nIt spends its eternal life guarding mysterious treasure in dray areas.",
-                "text": "Un tas de sable, qui est probablement animé par un esprit mystérieux de ce qui était probablement une sorte de Roi des Anciens.\n\nIl passe toute sa vie à garder des trésors mystérieux dans des coins secs."
+                "text": "Un tas de sable, qui est probablement animé par un esprit mystérieux de ce qui était probablement une sorte de Roi des Anciens.\n\nIl passe toute sa vie à garder des trésors mystérieux dans des coins secs.",
+                "orig": "Piles of sand, presumably animated by the spirit of what was once an Ancient leader of sort.\n\nIt spends its eternal life guarding mysterious treasure in dry areas."
         },
         "enemies/heat/special/volturbine-cave.json/actions/AirSurfaceShot/7/text": {
                 "orig": "[heated wing noises]",
@@ -3156,8 +3156,8 @@
                 "text": "C'est le véritable coupable derrière l'infestation du \\c[3]\\v[area.jungle.name]\\c[0]. Il a réussi on ne sait comment à puiser dans les systèmes du tracé et a obtenu de sérieux pouvoirs en retour. Non seulement il peut communiquer jusqu'à un certain point, il a également développé un appétit pour tout ce qui est électrique, comme ces plantes brillantes.\nIl utilise les mêmes tactiques que le paresseux normal mais les variera en vous évitant et en utilisant un puissant sabre pour balayer le sol avec vous. En plus, il peut vous enfermer dans une cage de foudre et vous attaquer plusieurs fois avec des sprints."
         },
         "enemies/minibosses/snow-megatank-orb.json/meta/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
+                "text": "Orbe du Tank",
+                "orig": "Orb of Tank"
         },
         "enemies/minibosses/spider-black.json/meta/species": {
                 "orig": "Mean war machine",

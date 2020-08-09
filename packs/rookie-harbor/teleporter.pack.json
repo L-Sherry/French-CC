@@ -1192,57 +1192,58 @@
                 "text": "Capitaine Turbine"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/2/message": {
-                "orig": "Arr, \\v[lore.title.seeker].\\. You the one they sent to board our proud battleship here?",
-                "text": "Arrr, \\v[lore.title.seeker]rr.\\. C'est toi qui dois monter à borrrrd de ce fier navirrre de guerrre là ?",
-                "note": "the proper word is cuirassé. But who knows it ? or maybe change it to corvette, or something ?"
+                "text": "Arrr, \\v[lore.title.seeker]rr.\\. J'ai crrru comprendre que tu étais encore de la parrrrrtie ?",
+                "note": "this de",
+                "orig": "Hey, \\v[lore.title.seeker].\\. I hear we got you back on board for this cruise?"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/3/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/4/message": {
-                "orig": "Hope a landlubber like you can hold yer own without steady land under yer feet.\\. The sea is a fickle lady, I tell ye.",
-                "text": "J'aimerais bien voirrr si un marrrrin d'eau douce comme toi peut tenirrr debout sans un sol durrr sous tes pieds.\\. La merrr, c'est une femme capricieuse, c'est moi qui vous le dis."
+                "text": "C'est rrrassurant.\\. C'est toujourrrrs mieux que d'apprrrendre à quelqu'un d'autre à utiliser notre cuirrrassé.",
+                "orig": "That's reassuring.\\. It sure beats teaching someone else how to use our battleship."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/5/message": {
                 "orig": "...",
                 "text": "..."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/6/message": {
-                "orig": "Only way to catch them is by intercepting them directly on the sea.\\. This is where you come in, \\v[lore.title.seeker].",
-                "text": "Le seul moyen de les attraper, c'est d'aller dirrectement les intercepter en merr.\\. C'est là que vous entrez en jeu, \\v[lore.title.seeker]rr."
+                "text": "Donc, j'imagine que tu te souviens de notre bon vieux PNJ.",
+                "orig": "So, I assume you remember our trusted NPC."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/12/name": {
                 "orig": "Captain Turbine",
                 "text": "Capitaine Turbine"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/13/message": {
-                "orig": "You will patrol the suspected smuggling routes with our state of the art combat platform here.",
-                "text": "Tu iras patrouiller les routes suspectées d'être enpreintées par les trafiquants avec notre plateforme de combat derrnier cri."
+                "text": "Tu l'utiliseras pour patrouiller une nouvelle route de traffic, encore, et de mettre les armes qui arrivent hors d'usage.",
+                "quality": "bad",
+                "orig": "You will use it to patrol a new smuggling route, again, and take out the incoming weapons."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/16/message": {
                 "orig": "...!",
                 "text": "... !"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/17/message": {
-                "orig": "It's equipped with a \\c[3]Naval Protection Cannon\\c[0], or \\c[3]NPC\\c[0] for short, that's linked with your fancy Trackwalker systems.",
-                "text": "Elle est équipée d'une \\c[3]Protection Navale Judiciaire\\c[0], ou \\c[3]PNJ\\c[0] pour faire court, qui est connecté dirrectement à tes jolis systèmes Retraçage."
+                "text": "Bon, c'est ton travail. On a aussi un peu amélioré l'armement de la \\c[3]Protection Navale Judiciaire\\c[0].",
+                "orig": "Well, that's your job. We also upgraded the \\c[3]Naval Protection Cannon\\c[0]'s weaponry a bit."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/18/message": {
-                "orig": "What's more, your fancy \\c[3]heat\\c[0] and \\c[3]cold\\c[0] elements will give our cannon special properties! ",
-                "text": "En plus, tes jolis éléments \\c[3]Chaud\\c[0] et \\c[3]Frrroid\\c[0] vont donner des propriétés spéciales au canon !"
+                "text": "Tu peux maintenant utiliser tout tes éléments, y comprns le \\c[3]choc\\c[0] et l'\\c[3]onde\\c[0], pour faire tirer au canon des projectiles spéciaux !",
+                "orig": "You can now use all your elements, including \\c[3]shock\\c[0] and \\c[3]wave\\c[0], to order special projectiles from the cannon!"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/19/message": {
-                "orig": "So you'll be able to easily mark targets with your \\c[3]charged projectiles\\c[0] and the cannon will do the rest.",
-                "text": "Cela sera trrès facile pour toi, de marrquer une cible avec tes \\c[3]VRRRPs Chargés\\c[0]. Le canon s'occuperrra du rrreste."
+                "text": "Il suffit de marrrquer une cible avec tes \\c[3]projectiles chargés\\c[0], comme avant.",
+                "orig": "Just mark targets with your \\c[3]charged projectiles\\c[0] as before."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/20/message": {
                 "orig": "...!",
                 "text": "... !"
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/21/message": {
-                "orig": "Everything's been set up already, so just talk to me again if you wanna start your patrol.",
-                "text": "Tout a déjà été préparrré. Fais-moi signe lorsque tu voudrrras commencer la patrrrouille."
+                "text": "Bon, tout est prêt pour partir. Fais-moi signe lorsque tu voudrrras commencer la patrrrouille.",
+                "orig": "Well, everything is ready to go. Just talk to me again once you wanna start your patrol."
         },
         "maps/rookie-harbor/teleporter.json/entities/477/settings/npcStates/5/event/quest/22/message": {
                 "orig": "[nods]",

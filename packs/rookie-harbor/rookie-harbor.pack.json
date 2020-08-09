@@ -1034,8 +1034,8 @@
                 "text": "..."
         },
         "maps/rookie-harbor/west.json/entities/378/settings/event/14/message": {
-                "orig": "Finally, this is the \\c[3]west\\c[0] part of the town.",
-                "text": "Pour finir, voici la partie \\c[3]ouest\\c[0] de la ville."
+                "text": "Pour finir, voici la partie \\c[3]ouest\\c[0] de la ville.",
+                "orig": "Finally, this is the \\c[3]western\\c[0] part of the town."
         },
         "maps/rookie-harbor/west.json/entities/378/settings/event/15/message": {
                 "orig": "In this shop here you can buy \\c[3]consumable items\\c[0].",
@@ -1852,8 +1852,8 @@
                 "text": "..."
         },
         "maps/rookie-harbor/special/quest-ocean-1.json/entities/4/settings/event/13/text": {
-                "orig": "[Enemies detected. Get ready for combat!]",
-                "text": "[Ennemis détectés. Préparez-vous au combat !]"
+                "text": "[ Ennemis détectés. Préparez-vous au combat ! ]",
+                "orig": "[ Enemies detected. Get ready for combat! ]"
         },
         "maps/rookie-harbor/special/quest-ocean-1.json/entities/4/settings/event/20/guiInfo/settings/text": {
                 "orig": "Ship HP",
@@ -1892,8 +1892,8 @@
                 "text": "Vague 2 à l'approche !"
         },
         "maps/rookie-harbor/special/quest-ocean-1.json/entities/52/settings/event/10/text": {
-                "orig": "Critical damage received. Detonation imminent!",
-                "text": "Dégâts critiques reçus. Détonation imminente !"
+                "text": "[ Dégâts critiques reçus. Détonation imminente ! ]",
+                "orig": "[ Critical damage received. Detonation imminent! ]"
         },
         "maps/rookie-harbor/special/quest-ocean-1.json/entities/53/settings/event/6/text": {
                 "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
@@ -1908,8 +1908,8 @@
                 "text": "Retourner à \\v[area.rookie-harbor.name]"
         },
         "maps/rookie-harbor/special/quest-ocean-1.json/entities/57/settings/event/12/text": {
-                "orig": "[Sensors clear]",
-                "text": "[Aucun Ennemi Détecté]"
+                "text": "[ Aucun Ennemi Détecté ! ]",
+                "orig": "[ Sensors clear! ]"
         },
         "maps/rookie-harbor/special/quest-ocean-1.json/entities/57/settings/event/15/text": {
                 "orig": "\\c[2]Patrol successful!\\c[0]\n\nThe Shipments have been destroyed!",
@@ -1936,8 +1936,8 @@
                 "text": "Utilisez l'\\c[3]Onde\\c[0] pour toucher des cibles alignées !"
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/4/settings/event/16/text": {
-                "orig": "[Enemies detected. Get ready for combat!]",
-                "text": "[Ennemis détectés. Préparez-vous au combat !]"
+                "text": "[ Ennemis détectés. Préparez-vous au combat ! ]",
+                "orig": "[ Enemies detected. Get ready for combat! ]"
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/4/settings/event/23/guiInfo/settings/text": {
                 "orig": "Ship HP",
@@ -1976,8 +1976,8 @@
                 "text": "Vague 2 à l'approche !"
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/17/settings/event/10/text": {
-                "orig": "Critical damage received. Detonation imminent!",
-                "text": "Dégâts critiques reçus. Détonation imminente !"
+                "text": "[ Dégâts critiques reçus. Détonation imminente ! ]",
+                "orig": "[ Critical damage received. Detonation imminent! ]"
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/18/settings/event/6/text": {
                 "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
@@ -1992,12 +1992,12 @@
                 "text": "Retourner à \\v[area.rookie-harbor.name]"
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/19/settings/event/12/text": {
-                "orig": "[Sensors clear]",
-                "text": "[Aucun Ennemi Détecté]"
+                "text": "[ Aucun Ennemi Détecté ! ]",
+                "orig": "[ Sensors clear! ]"
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/19/settings/event/14/text": {
-                "orig": "\\c[2]Patrol successful!\\c[0]\n\nThe Shipments have been destroyed!",
-                "text": "\\c[2]Patrouille réussie !\\c[0]\n\nLes Marchandises ont été détruites !"
+                "text": "\\c[2]Patrouille réussie !\\c[0]\n\nLes Marchandises ont été détruites !\nChangement de cap vers le coordinateur...",
+                "orig": "\\c[2]Patrol successful!\\c[0]\n\nThe Shipments have been destroyed!\nChanging course towards coordinator..."
         },
         "maps/rookie-harbor/special/quest-ocean-2a.json/entities/20/settings/event/10/text": {
                 "orig": "\\c[1]You let too many weapons pass by that will now reach the continent!\\c[0]",

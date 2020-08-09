@@ -2269,12 +2269,12 @@
                 "text": "..."
         },
         "maps/heat-village/baki-2.json/entities/855/settings/analyzable/text": {
-                "orig": "Ey'Leet",
-                "text": "Ey'Leet"
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/5/name": {
-                "orig": "Ey'Leet",
-                "text": "Ey'Leet"
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/7/message": {
                 "orig": "Hi.",
@@ -2289,8 +2289,8 @@
                 "text": "Salut ?!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/10/message": {
-                "orig": "Correct, humble human!\\. Power driven calculator machine, built by me from amaze parts and sharpest cutting edges!",
-                "text": "Exact, humble humain !\\. Machine à calculer fonctionnant à l'énergie, construite par moi avec pièces fabuleuses et outils les plus récents !"
+                "text": "Exact, humble humain !\\. Machine à calculer fonctionnant à l'énergie, construite par moi avec pièces fabuleuses et outils les plus récents !",
+                "orig": "Correct, humble human!\\. Power driven calculation machine, built by me from amaze parts and sharpest cutting edges!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/11/message": {
                 "orig": "Makes human feel quite some awe, yes?",
@@ -2341,8 +2341,9 @@
                 "text": "[secoue la tête]"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/declined/1/message": {
-                "orig": "Whaaat?\\. But you got me all excited and everything.\\. Let's at least exchange numbers to stay in touch!",
-                "text": "Quoi ?\\. Mais tu me semblait partante et tout.\\. Échangeons au moins nos numéros pour rester en contact !"
+                "text": "Quoi ?!\\. \\v[lore.title.seeker] pas intéressé par grande chose d'élite ?",
+                "quality": "bad",
+                "orig": "Wus?!\\. \\v[lore.title.seeker] not interested in great stuff of elite status?"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/declined/2/message": {
                 "orig": "...bye.",
@@ -2353,8 +2354,8 @@
                 "text": "Salut."
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/9/message": {
-                "orig": "\\v[lore.title.seeker]!\\. There you are again!",
-                "text": "\\v[lore.title.seeker] !\\. Vous revoilà !"
+                "text": "\\v[lore.title.seeker] !\\. Vous revoilà !\\. Et pièces excellentes ont été apportées, oui ?",
+                "orig": "\\v[lore.title.seeker]!\\. There you are again!\\. And shiny parts have been brought as well, yes?"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/10/message": {
                 "orig": "[nods]",
@@ -2369,8 +2370,8 @@
                 "text": "... !"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/55/message": {
-                "orig": "Bye!",
-                "text": "Bye !"
+                "text": "... !",
+                "orig": "...!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/67/message": {
                 "orig": "...?",

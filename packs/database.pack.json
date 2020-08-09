@@ -1637,6 +1637,10 @@
                 "orig": "South Exit of Autumn's Fall located near a ruined outpost of the Ancients.",
                 "text": "La sortie sud d'Autumn's Fall situé près de ruines d'un poste d'observation des Anciens."
         },
+        "database.json/areas/beach/name": {
+                "text": "Côte de Corail",
+                "orig": "Coral Coastline"
+        },
         "database.json/areas/bergen-trails/name": {
                 "orig": "Bergen Trail",
                 "text": "Chemin de Bergen"
@@ -1938,8 +1942,8 @@
                 "text": "Méta"
         },
         "database.json/areas/meta/description": {
-                "orig": "I'm so meta even this acronym",
-                "text": "Chuis trop méta, en tant qu'acronyme."
+                "text": "Chuis trop méta, en tant qu'acronyme.",
+                "orig": "I'm so meta even this acronym."
         },
         "database.json/areas/rhombus-dng/name": {
                 "orig": "Rhombus Dungeon",
@@ -2231,6 +2235,18 @@
                 "orig": "\\v[item.541.name]",
                 "text": "\\v[item.541.name]"
         },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/2/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/4/message": {
+                "text": "...",
+                "orig": "..."
+        },
         "database.json/commonEvents/sergey-hax-emilie/event/0/thenStep/0/message": {
                 "orig": "\\c[1]...!!\\c[0]",
                 "text": "\\c[1]... !!\\c[0]"
@@ -2368,8 +2384,8 @@
                 "text": "\\c[1]Bye bye !!\\c[0]"
         },
         "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/1/message": {
-                "orig": "Just imagine those damage numbers would stand for actual \\c[1]force\\c[0] applied...",
-                "text": "Imagine un peu si ces nombres de dégâts comptaient comme une véritable \\c[1]force\\c[0]..."
+                "text": "Imagine un peu si ces nombres de dégâts comptaient comme une véritable \\c[1]force\\c[0]...",
+                "orig": "Just imagine if those damage numbers stood for actual \\c[1]force\\c[0] applied..."
         },
         "database.json/commonEvents/sergey-hax-ctron/event/6/thenStep/2/message": {
                 "orig": "You probably could \\c[1]shoot through any kind of matter like butter\\c[0], if they were consistent with it.",
@@ -2696,8 +2712,9 @@
                 "text": "L'effrayant \\c[3]\\v[combat.name.jungle/plant]\\c[0] entre sur le champ de bataille ! Prudence, il peut se téléporter instantanément !"
         },
         "database.json/commonEvents/apollo-sloth/event/0/message": {
-                "orig": "The mighty \\c[3]\\v[combat.name.jungle/sloth]\\c[0] approaches us! Slowly, but deadly!",
-                "text": "Le puissant \\c[3]\\v[combat.name.jungle/sloth]\\c[0] nous approche ! Lentement, mais dangereusement !"
+                "text": "Le puissant \\c[3]\\v[combat.name.jungle/sloth]\\c[0] nous approche ! Lent, mais aussi mortel qu'un Tomberry !",
+                "note": "this from de",
+                "orig": "The mighty \\c[3]\\v[combat.name.jungle/sloth]\\c[0] approaches! Slow, but deadly!"
         },
         "database.json/commonEvents/apollo-shokats/event/0/message": {
                 "orig": "The cunning \\c[3]\\v[combat.name.jungle/shockcat]\\c[0] attacks! Careful, close contact quickly leads to a shocking demise!",
@@ -3456,16 +3473,16 @@
                 "text": "Les \\v[combat.name.jungle/shockcat]s...\\. Ils sont vraiment actifs pour des chats, ça c'est sûr."
         },
         "database.json/commonEvents/ctron-shokats-end/event/1/thenStep/0/message": {
-                "orig": "Did you know that on average cats spend 2/3 of the day sleeping?",
-                "text": "Vous saviez que les chats passent en moyenne les 2/3 de leur journée à dormir ?"
+                "text": "Vous saviez que les chats passent en moyenne les deux tiers de leur journée à dormir ?",
+                "orig": "Did you know that on average cats spend two thirds of the day sleeping?"
         },
         "database.json/commonEvents/ctron-shokats-end/event/1/thenStep/1/message": {
                 "orig": "You certainly don't ever see a shokat sleeping.",
                 "text": "On ne voit jamais les \\v[combat.name.jungle/shockcat]s dormir."
         },
         "database.json/commonEvents/ctron-shokats-end/event/2/thenStep/0/message": {
-                "orig": "You know...\\. cats have been domesticated a long time ago, just like dogs.",
-                "text": "Vous savez...\\. Les chats ont été domestiqués il y a longtemps, comme les chiens."
+                "text": "Vous savez...\\. Les chats ont été domestiqués il y a longtemps, comme les chiens.",
+                "orig": "You know...\\. cats were domesticated a long time ago, just like dogs."
         },
         "database.json/commonEvents/ctron-shokats-end/event/2/thenStep/1/message": {
                 "orig": "Though in contrast to dogs they didn't really go through any major change during domestication.",
@@ -3580,8 +3597,8 @@
                 "text": "Oui...\\. Bonne chance pour battre ces machins sous l'eau."
         },
         "database.json/commonEvents/ctr-emil-fish-end/event/0/thenStep/2/message": {
-                "orig": "That might even be possible...\\. given the water is in fact simulated!",
-                "text": "C'est peut-être possible...\\. si on considère que l'eau est simulée !"
+                "text": "C'est peut-être même impossible...\\. si on considère que l'eau est en fait simulée !",
+                "orig": "That might not even be possible...\\. given the water is in fact simulated!"
         },
         "database.json/commonEvents/ctr-emil-fish-end/event/0/thenStep/3/message": {
                 "orig": "Oh no.\\. Back to that theory.",
@@ -3661,8 +3678,8 @@
                 "text": "Vous réfléchissez trop.\\. Allez, frappons plus d'araignées !"
         },
         "database.json/commonEvents/joern-blobs-end/event/0/thenStep/0/message": {
-                "orig": "I was waiting for these kinds of enemies to show up.",
-                "text": "J'espérais que ce genre d'ennemis apparaisse."
+                "text": "J'espérais que ce genre d'ennemis apparaisse.",
+                "orig": "I was waiting for enemies like these to show up."
         },
         "database.json/commonEvents/joern-blobs-end/event/0/thenStep/1/message": {
                 "orig": "You can't have an RPG without good-old blobs.",
@@ -3681,8 +3698,8 @@
                 "text": "... ?"
         },
         "database.json/commonEvents/joern-behesloth-end/event/0/thenStep/0/message": {
-                "orig": "Poor sloth. I don't see why they can't just relax for some time.",
-                "text": "Pauvres paresseux. Je ne vois pas pourquoi on les laisserait pas tranquilles."
+                "text": "Pauvres paresseux. Je ne vois pas pourquoi on les laisserait pas tranquilles.",
+                "orig": "Poor sloth. I don't see why they can't just relax for a while."
         },
         "database.json/commonEvents/joern-behesloth-end/event/1/thenStep/0/message": {
                 "orig": "Man, these sloths are surprisingly fast for their size when angered.",
@@ -7138,8 +7155,8 @@
                 "text": "[acquiesce]"
         },
         "database.json/commonEvents/buggy-contact/event/13/thenStep/1/thenStep/4/message": {
-                "orig": "Yeah, I'll try to come up with better jokes from now.",
-                "text": "Oui, maintenant je vais essayer de faire des meilleures blagues."
+                "text": "Oui, maintenant je vais essayer de faire des meilleures blagues.",
+                "orig": "Yeah, I'll try to come up with better jokes from now on."
         },
         "database.json/commonEvents/buggy-contact/event/13/thenStep/1/thenStep/5/message": {
                 "orig": "...",
@@ -8493,8 +8510,8 @@
                 "text": "Roi des Hommes-Sables"
         },
         "database.json/enemies/heat.special.sandman-1/descriptions/0/text": {
-                "orig": "Piles of sand, presumably animated by the spirit of what was once an Ancient leader of sort.\n\nIt spends its eternal life guarding mysterious treasure in dray areas.",
-                "text": "Un tas de sable, qui est probablement animé par un esprit mystérieux de ce qui était probablement une sorte de Roi des Anciens.\n\nIl passe toute sa vie à garder des trésors mystérieux dans des coins secs."
+                "text": "Un tas de sable, qui est probablement animé par un esprit mystérieux de ce qui était probablement une sorte de Roi des Anciens.\n\nIl passe toute sa vie à garder des trésors mystérieux dans des coins secs.",
+                "orig": "Piles of sand, presumably animated by the spirit of what was once an Ancient leader of sort.\n\nIt spends its eternal life guarding mysterious treasure in dry areas."
         },
         "database.json/enemies/snowtank/name": {
                 "orig": "Karrotank",
@@ -8849,8 +8866,8 @@
                 "text": "Ce sac d'entrainement est utilisé par les nouveaux joueurs pour tester les \\c[3]Arts de Combats\\c[0] et d'autres techniques sans risquer d'être attaqués."
         },
         "database.json/enemies/minibosses.snow-megatank-orb/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
+                "text": "Orbe du Tank",
+                "orig": "Orb of Tank"
         },
         "database.json/enemies/arid.laser-catcher/name": {
                 "orig": "arid.laser-catcher",
@@ -8963,8 +8980,8 @@
                 "text": "Un \"hacker\" futé qui a réussi à manipuler CrossWorlds à sa guise, après que plusieurs joueurs l'ont aidé à collecter suffisamment de données. Il est en fait assez faible et va utiliser d'autres ennemis pour attaquer.\nAu final, c'était juste un PNJ qui était là pour troller les joueurs. Et ça a parfaitement fonctionné !"
         },
         "database.json/enemies/avatar.lily/name": {
-                "orig": "avatar.lily",
-                "text": "Lily"
+                "text": "Lily",
+                "orig": "Lily"
         },
         "database.json/enemies/avatar.lily/species": {
                 "orig": "Warrior of Justice",
@@ -9067,8 +9084,8 @@
                 "text": "Évotar"
         },
         "database.json/enemies/avatar.wervyn/name": {
-                "orig": "avatar.wervyn",
-                "text": "Wervyn"
+                "text": "Wervyn",
+                "orig": "Wervyn"
         },
         "database.json/enemies/avatar.wervyn/species": {
                 "orig": "Human",
@@ -9471,12 +9488,12 @@
                 "text": "Pincetron"
         },
         "database.json/enemies/heat.scorpion-robo/species": {
-                "orig": "Scorpion",
-                "text": "Scorpion"
+                "text": "Artillerie Scorpion",
+                "orig": "Scorpion Artillery"
         },
         "database.json/enemies/heat.scorpion-robo/descriptions/0/text": {
-                "orig": "This creepy looking guy is the most common inhabitant of \\c[3]\\v[area.heat-area.name]\\c[0]. It usually poses no threat unless provoked and stays together with others of its kind.\nThey can use their big pincers to quickly attack. The big stinger apparently has some magical properties which allows it to follow you underground and attack from below. Nature is scary.",
-                "text": "Ce type à l'apparence angoissante est l'habitant le plus commun de la \\c[3]\\v[area.heat-area.name]\\c[0]. Il ne présente normalement pas la moindre menace sauf s'il est provoqué et il reste ensemble avec les autres de son espèce.\nIls utilisent leurs grandes pinces pour attaquer rapidement. Leur gros dard possède apparemment des capacités magiques, qui lui permet de vous suivre sous la terre et de vous attaquer par-dessous. Mère nature est effrayante."
+                "text": "Cette variante plus disciplinée du \\c[3]\\v[combat.name.heat/scorpion]\\c[0] a été équipé d'un lanceur d'artillerie légère sur son dos.\nParce que les pinces et le dard n'étaient pas assez effrayants, il faut croire.",
+                "orig": "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\nBecause the pincers and stinger weren't already scary enough, apparently."
         },
         "database.json/enemies/heat.sandshark/name": {
                 "orig": "Sharkster",
@@ -9623,8 +9640,8 @@
                 "text": "Mite Amoureuse du Sable"
         },
         "database.json/enemies/heat.special.sand-moth-1/descriptions/0/text": {
-                "orig": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however be somewhat easily confused by targets that quickly vanish from it's line of sight.",
-                "text": "Une variante ancienne de la \\v[combat.name.heat/moth] commune qui se sent chez elle à l'intérieur de salles très sèches. Il est très amoureux du sable, préférant cette sensation rugueuse et brute à des textures plus douces et lisses.\n\nIl est extrêmement agile et va éviter toutes les attaques qu'on lui porte, sauf s'il est distrait lorsqu'il tire son rayon laser guidé.\nIl sera potentiellement facilement confus par des cibles qui disparaissent rapidement de son champ de vision."
+                "text": "Une variante ancienne de la \\v[combat.name.heat/moth] commune qui se sent chez elle à l'intérieur de salles très sèches. Il est très amoureux du sable, préférant cette sensation rugueuse et brute à des textures plus douces et lisses.\n\nIl est extrêmement agile et va éviter toutes les attaques qu'on lui porte, sauf s'il est distrait lorsqu'il tire son rayon laser guidé.\nIl sera potentiellement un peu confus par des cibles qui disparaissent rapidement de son champ de vision.",
+                "orig": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however, be somewhat easily confused by targets that quickly vanish from its line of sight."
         },
         "database.json/enemies/heat.antlion/name": {
                 "orig": "Pinzo'jrahrrrn",
@@ -10152,9 +10169,8 @@
                 "text": "Des bombes construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévues pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nBien qu'elles ne puissent pas attaquer, elles vont \\c[3]activer leur détonateur à proximité des ennemis\\c[0] avec une telle force qu'elles peuvent être un danger même pour du matériel militaire fortement blindé."
         },
         "database.json/enemies/autumn-rh.turret_big_float-quest_naval/name": {
-                "orig": "autumn-rh.turret_big_float-quest_naval",
-                "text": "Grosse Tourelle Flottante de la Quête Navale",
-                "note": "not shown"
+                "text": "Megatourelle Flottante Illégale",
+                "orig": "Illegal Floating Megaturret"
         },
         "database.json/enemies/autumn-rh.turret_big_float-quest_naval/species": {
                 "orig": "Floating Sentry",
@@ -10465,8 +10481,8 @@
                 "text": "Ce magnifique connard a lu tous vos bouquins."
         },
         "database.json/enemies/minibosses.scorpion-boss/name": {
-                "orig": "minibosses.scorpion-boss",
-                "text": "Super Pinceur"
+                "text": "Pincerstonk i6 GXO2",
+                "orig": "Pincerstonk i6 GXO2"
         },
         "database.json/enemies/minibosses.fish-mega-gear/name": {
                 "orig": "Mecha Gear FISH",
@@ -11048,8 +11064,8 @@
                 "text": "\\c[3]Le jour suivant\\c[0], alors qu'ils s'apprêtaient à sortir, Lea eu une visite surprise de \\c[3]Shizuka, furibonde\\c[0], qui apparue en forçant violemment le passage. Lors d'une confrontation dramatique, elle révéla que Lea est, contrairement aux précédentes explications de Sergey, \\c[3]pas vraiment humaine\\c[0] mais une \\c[3]copie IA de Shizuka hautement avancée\\c[0]. Avant de partir, Shizuka \\c[3]blâma Lea\\c[0] comme responsable de sa mauvaise situation. Traumatisé et visiblement secouée par la malhonnêteté passée de Sergey, Lea \\c[3]coupa la connexion avec lui\\c[0] et alla lentement rejoindre Schneider."
         },
         "database.json/lore/chapter-07/content/page-06-02/content": {
-                "orig": "Visibly shaken, Lea's inner turmoil was easy to notice for Schneider. They still continued by starting the next quest, which once again involved a \\c[3]Trial Building\\c[0] they had to enter. After holding her despair inside during the quest, Lea finally collapsed, crying, when they were about to enter the building. Schneider decided to \\c[3]take a break\\c[0] and instead talk about their circumstances and feeling. Upon calming down again, they decided to \\c[3]return to their rooms\\c[0] and leave the quest for another day. Lea, \\c[3]still angry at Sergey\\c[0], rejected his apologies and logged out.",
-                "text": "Schneider remarqua rapidement la tourmente intérieure de Lea, qui était encore sous le choc. Ils continuèrent néanmoins en commençant la quête suivante, qui, encore une fois, impliquait un \\c[3]Bâtiment d'épreuve\\c[0] dans lequel ils devaient entrer. Après avoir gardé son désespoir en elle pendant la quête, Lea s'effondra en larmes lorsqu'ils allaient rentrer dans le bâtiment. Schneider décida de \\c[3]faire une pause\\c[0] et, à la place, de parler de ses sentiments et de ses circonstances. Une fois calmés, ils décidèrent de \\c[3]retourner dans leurs chambres\\c[0] et de laisser la quête pour un autre jour. Lea, \\c[3]toujours en colère contre Sergey\\c[0], rejeta ses excuses et se déconnecta."
+                "text": "Schneider remarqua rapidement la tourmente intérieure de Lea, qui était encore sous le choc. Ils continuèrent néanmoins en commençant la quête suivante, qui, encore une fois, impliquait un \\c[3]Bâtiment d'épreuve\\c[0] dans lequel ils devaient entrer. Après avoir gardé son désespoir en elle pendant la quête, Lea s'effondra en larmes lorsqu'ils allaient rentrer dans le bâtiment. Schneider décida de \\c[3]faire une pause\\c[0] et, à la place, de parler de ses sentiments et de ses circonstances. Une fois calmés, ils décidèrent de \\c[3]retourner dans leurs chambres\\c[0] et de laisser la quête pour un autre jour. Lea, \\c[3]toujours en colère contre Sergey\\c[0], rejeta ses excuses et se déconnecta.",
+                "orig": "Visibly shaken, Lea's inner turmoil was easy to notice for Schneider. They still continued by starting the next quest, which once again involved a \\c[3]Trial Building\\c[0] they had to enter. After holding her despair inside during the quest, Lea finally collapsed, crying, when they were about to enter the building. Schneider decided to \\c[3]take a break\\c[0] and instead talk about their circumstances and feelings. Upon calming down again, they decided to \\c[3]return to their rooms\\c[0] and leave the quest for another day. Lea, \\c[3]still angry at Sergey\\c[0], rejected his apologies and logged out."
         },
         "database.json/lore/chapter-07/content/page-07-01/content": {
                 "orig": "On the \\c[3]fourth day\\c[0], Lea woke to the sound of silence, as Sergey did not greet her. Instead she met up with Schneider to finish the quest from the day before. After facing another powerful foe inside of the Trial Building, they yet again entered a mysterious unknown room that looked strikingly like a messy apartment. After some exceptional examination, Lea was able to deduce that it was in fact \\c[3]Schneider's real-life room\\c[0], much to his embarrassment.",
@@ -11109,9 +11125,9 @@
                 "text": "Alors que Lea se lamentait sur son sort, Sergey suggéra que le Schneider dans la friche industrielle était sans doute un \\c[3]\\v[lore.title.evotar]\\c[0], comme Lea, ce qui expliquerait la confusion du Schneider au QG de la guilde. Toujours embarrassée et pas sûre de comment mettre les choses aux clairs, Lea n'était pas prête à revenir à sa guilde et donc, à la place, elle voyagea vers la prochaine destination sur son chemin : le \\c[3]\\v[area.jungle.name]\\c[0]."
         },
         "database.json/lore/chapter-08/content/page-04/content": {
-                "orig": "Arriving in the thick jungle Lea was immediatly confronted by an old acquaintance: \\c[3]Apollo\\c[0], who was dead-set on having another duel. Also, \\c[3]his friend Joern\\c[0] accompanied him. After another hard-fought battle between Spheromancers it was decided, mostly thanks to Joern's suggestion, to \\c[3]form a party of three\\c[0] to face the challenges of the jungle together. Thus, this new constellation of two Spheromancers and a Quadroguard continued their journey towards \\c[4]\\v[area.jungle-city.name]\\c[0], the rising city between the trees.",
                 "text": "Arrivé dans la jungle profonde, Lea fut immédiatement confrontée à une vielle connaissance : \\c[3]Apollo\\c[0], qui souhaitait absolument faire un autre duel. Il était accompagné de \\c[3]son ami Joern\\c[0]. Après un autre combat vigoureux entre Spheromancers, il fut décidé, suite à une proposition de Joern, de \\c[3]former un groupe de trois\\c[0] pour affronter les challenges de la jungle tous ensemble. Et donc, cette nouvelle constellation de deux Spheromancers et d'un Quadroguard continuèrent leur voyage vers \\c[4]\\v[area.jungle-city.name]\\c[0], la grande ville entre les arbres.",
-                "note": "[Et donc, cette nouvelle constellations de deux Spheromancers et d'un Quadroguard continuèrent leur voyage vers \\c[4]\\v[area.jungle-city.name]\\c[0], la grande ville entre les arbres.]: note (color 4?)"
+                "note": "[Et donc, cette nouvelle constellations de deux Spheromancers et d'un Quadroguard continuèrent leur voyage vers \\c[4]\\v[area.jungle-city.name]\\c[0], la grande ville entre les arbres.]: note (color 4?)",
+                "orig": "Arriving in the thick jungle Lea was immediately confronted by an old acquaintance: \\c[3]Apollo\\c[0], who was dead-set on having another duel. Also, \\c[3]his friend Joern\\c[0] accompanied him. After another hard-fought battle between Spheromancers it was decided, mostly thanks to Joern's suggestion, to \\c[3]form a party of three\\c[0] to face the challenges of the jungle together. Thus, this new constellation of two Spheromancers and a Quadroguard continued their journey towards \\c[4]\\v[area.jungle-city.name]\\c[0], the rising city between the trees."
         },
         "database.json/lore/chapter-08/content/page-05/content": {
                 "orig": "In the bustling city of \\v[area.jungle-city.name] the group visited \\c[3]the mayor\\c[0] who was involved in a heated argument with a \\c[3]Shad called K'tara\\c[0]. She was beseeching him for help against \\c[3]a horde of aggressive cats that invaded a part of the nearby Shad-village\\c[0] and warned him of the Shad-residents becoming angry at the human settlers, who they hold responsible, but to no avail. Seeing that she would not get help from the mayor, she left the office.",
@@ -11426,8 +11442,8 @@
                 "text": "Shadoon"
         },
         "database.json/lore/planet/content/page-01-01/content": {
-                "orig": "Shadoon is a planet located near a giant gas planet. It's home to the \\c[3]Shad\\c[0] and was once inhabited by the \\c[3]Ancients\\c[0]. Most of the croissant shaped land is covered by marks of the \\c[3]Track of the Ancients\\c[0]. ",
-                "text": "Shadoon est une planète située près d'une géante gazeuse. Sur cette planète habitent les \\c[3]Shads\\c[0]. Elle était auparavant habitée par les \\c[3]Anciens\\c[0]. Une grande partie du continent en forme de croissant est couvert de marques du \\c[3]\\v[lore.title.track-of-ancients]\\c[0]."
+                "text": "Shadoon est une lune située près d'une géante gazeuse. Sur cette lune habitent les \\c[3]Shads\\c[0]. Elle était auparavant habitée par les \\c[3]Anciens\\c[0]. Une grande partie du continent en forme de croissant est couvert de marques du \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
+                "orig": "Shadoon is a moon located near a giant gas planet. It's home to the \\c[3]Shad\\c[0] and was once inhabited by the \\c[3]Ancients\\c[0]. Most of the croissant shaped land is covered by marks of the \\c[3]Track of the Ancients\\c[0]. "
         },
         "database.json/lore/ancients/title": {
                 "orig": "Ancients",
@@ -11807,12 +11823,12 @@
                 "text": "Rookie Harbor"
         },
         "database.json/lore/rookie-harbor/content/page-01-01/content": {
-                "orig": "Rookie Harbor is the first true human settlement on \\c[3]\\v[lore.title.planet]\\c[0] and also serves as the beginning of every \\c[3]\\v[lore.title.seeker]'s\\c[0] journey on the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\nIt was founded directly after human arrival on the planet, even before the construction of the current capital Rhombus Square was started. Located at the coast in the middle of the continent it is also the main trading and travelling hotspot of the mainland. It is often seen as the most comfortable human settlement.",
-                "text": "Rookie Harbor est la première colonie sur \\c[3]\\v[lore.title.planet]\\c[0] et sert aussi de point de départ du voyage de chaque \\c[3]\\v[lore.title.seeker]\\c[0] sur le \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\nElle a été fondée directement après que les humains arrivent sur la planète, avant même que la capitale de Rhombus Square soit construite. Elle se trouve au milieu du continent sur la côte, et son marché sert de plateforme d'échange. Elle est décrite comme étant la colonie la plus agréable à vivre."
+                "text": "Rookie Harbor est la première colonie sur \\c[3]\\v[lore.title.planet]\\c[0] et sert aussi de point de départ du voyage de chaque \\c[3]\\v[lore.title.seeker]\\c[0] sur le \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\nElle a été fondée directement après que les humains arrivent sur la planète, avant même que la capitale de Rhombus Square soit construite. Elle se trouve au milieu du continent sur la côte, et son marché sert de plateforme d'échange. Elle est décrite comme étant la colonie la plus agréable à vivre.",
+                "orig": "Rookie Harbor is the first true human settlement on \\c[3]\\v[lore.title.planet]\\c[0] and also serves as the beginning of every \\c[3]\\v[lore.title.seeker]'s\\c[0] journey on the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\nIt was founded directly after human arrival on the planet, even before the construction of the current capital Rhombus Square was started. Located at the coast in the middle of the continent, it is also the main trading and travelling hotspot of the mainland. It is often seen as the most comfortable human settlement."
         },
         "database.json/lore/rookie-harbor/content/page-01-02/content": {
-                "orig": "On the landside it is surrounded by a temperate area full of apple trees that always seems to be stuck in the autumn season. Thus different colored apples and fishes from the sea are the main ingredients of most dishes in the settlement.",
-                "text": "La ville est entourée de lieux au climat tempéré. De nombreux pommiers y poussent dans une saison automnale qui semble éternelle. Les pommes de toutes les couleurs et de nombreux poissons de mer font partie des ingrédients principaux des recettes locales."
+                "text": "La ville est entourée de lieux au climat tempéré. De nombreux pommiers y poussent dans une saison automnale qui semble éternelle. Les pommes de toutes les couleurs et de nombreux poissons de mer font partie des ingrédients principaux des recettes locales.",
+                "orig": "On the landside, it is surrounded by a temperate area full of apple trees that always seems to be stuck in the autumn season. Thus different colored apples and fishes from the sea are the main ingredients of most dishes in the settlement."
         },
         "database.json/lore/rookie-harbor/content/Page-02-01/content": {
                 "orig": "It was once called \\c[3]Port Harbor\\c[0], before \\c[3]\\v[lore.title.operation-trackwalker]\\c[0] was conceived.",
@@ -11847,8 +11863,8 @@
                 "text": "Le \\c[3]\\v[area.bergen-trails.name]\\c[0] est un chemin partant de \\c[3]\\v[area.autumn-area.name]\\c[0] et grimpant vers le \\c[3]Mont Bergen\\c[0], pour atteindre le \\c[3]\\v[area.bergen.name]\\c[0].\nAu pied des montagnes, le chemin démarre avec une forêt verte d'arbres conifères durs. Avec le temps, la neige finit par apparaitre lorsqu'on se rapproche du sommet."
         },
         "database.json/lore/bergen-trail/content/page-01-02/content": {
-                "orig": "It is home to a lot of \\c[3]\\v[combat.name.frobbit]s\\c[0] who can hide below snow to attack with a surprise attack. You might also find some \\c[3]\\v[combat.name.penguin]s\\c[0] along the way. \nCloser to Bergen you can also find \\c[3]\\v[combat.name.goat]s\\c[0] and \\c[3]\\v[combat.name.snowman]s\\c[0] which are tough foes if not prepared.",
-                "text": "C'est la demeure de nombreux \\c[3]\\v[combat.name.frobbit]\\c[0], qui se cachent sous la neige pour attaquer par surprise. Vous pouvez également trouver quelques \\c[3]\\v[combat.name.penguin]s\\c[0] sur le chemin. En se rapprochant de Bergen vous pouvez également trouver des \\c[3]Boucs Cornus\\c[0] et des \\c[3]\\v[combat.name.snowman]s\\c[0] qui sont des adversaires coriaces pour un voyageur non préparé."
+                "text": "C'est la demeure de nombreux \\c[3]\\v[combat.name.frobbit]\\c[0], qui se cachent sous la neige pour attaquer par surprise. Vous pouvez également trouver quelques \\c[3]\\v[combat.name.penguin]s\\c[0] sur le chemin. En se rapprochant de Bergen vous pouvez également trouver des \\c[3]Boucs Cornus\\c[0] et des \\c[3]\\v[combat.name.snowman]s\\c[0] qui sont des adversaires coriaces pour un voyageur non préparé.",
+                "orig": "It is home to a lot of \\c[3]\\v[combat.name.frobbit]s\\c[0] who can hide below snow to prepare a surprise attack. You might also find some \\c[3]\\v[combat.name.penguin]s\\c[0] along the way. \nCloser to Bergen you can also find \\c[3]\\v[combat.name.goat]s\\c[0] and \\c[3]\\v[combat.name.snowman]s\\c[0] which are tough foes if not prepared."
         },
         "database.json/lore/bergen-hermit/title": {
                 "orig": "Hermit's House",
@@ -11859,8 +11875,8 @@
                 "text": "La Maison de l'Ermite du \\c[3]\\v[area.bergen-trails.name]\\c[0] est un petit pub qui se trouve au milieu de l'ascension. Avant que le chemin vers le \\c[3]\\v[area.cold-dng.name]\\c[0] soit établi, cette maison a été la première à être construite par des mains humaines sur le \\v[area.bergen-trails.name].\nElle a été nommée d'après le propriétaire, que tout le monde appelait l'Ermite. Il était un membre fondateur de la faction de l'\\c[3]\\v[lore.title.faction-heat-main]\\c[0] et il décida d'explorer la montagne tout seul."
         },
         "database.json/lore/bergen-hermit/content/page-01-02/content": {
-                "orig": "As \\c[3]Shadoon\\c[0] was explored more and more, he too ventured forth and left the house. In an effort to provide provisions to \\c[3]Seekers\\c[0] on their way to \\c[3]Bergen\\c[0] and the Temple Mine some villagers opened a pub inside the house which has never closed since its opening.",
-                "text": "Alors que \\c[3]Shadoon\\c[0] devenait de plus en plus explorée, il s'aventura de plus en plus loin et il quitta cette maison. Dans l'espoir d'aider des \\v[lore.title.seeker]s et de leur proposer des provisions sur le chemin vers \\c[3]Bergen\\c[0] et le \\v[area.cold-dng.name], certains villageois ont ouvert un pub à l'intérieur de la maison, et il n'a jamais fermé depuis son ouverture."
+                "text": "Alors que \\c[3]Shadoon\\c[0] devenait de plus en plus explorée, il s'aventura de plus en plus loin et il quitta cette maison. Dans l'espoir d'aider des \\v[lore.title.seeker]s et de leur proposer des provisions sur le chemin vers \\c[3]Bergen\\c[0] et le \\v[area.cold-dng.name], certains villageois ont ouvert un pub à l'intérieur de la maison, et il n'a jamais fermé depuis son ouverture.",
+                "orig": "As \\c[3]Shadoon\\c[0] was explored more and more, he too ventured forth and left the house. In an effort to provide provisions to \\c[3]Seekers\\c[0] on their way to \\c[3]Bergen\\c[0] and the Temple Mine, some villagers opened a pub inside the house which has never closed since its opening."
         },
         "database.json/lore/bergen/title": {
                 "orig": "Bergen Village",
@@ -11879,8 +11895,8 @@
                 "text": "Avant qu'il soit décidé d'utiliser l'\\c[3]\\v[lore.title.operation-trackwalker]\\c[0] pour en savoir plus sur les \\c[3]Anciens\\c[0], le \\c[3]\\v[lore.title.temple-mine]\\c[0] était en fait une mine exploitée pour ses ressources précieuses."
         },
         "database.json/lore/bergen-miners/content/page-01-02/content": {
-                "orig": "The mine was eventually overrun by the Ancients system used to keep the Track of the Ancient intact. Vicious little bugs appeared and took over any mechanical system in the mine driving out the miners and leaving them without a job. ",
-                "text": "La mine fut finalement envahie par le système des Anciens utilisé pour garder le Tracé des Anciens intact. De vicieuses petites termites sont apparues et ont pris le contrôle des systèmes mécaniques pour faire fuir les mineurs et les laisser sans travail."
+                "text": "La mine fut finalement envahie par le système des Anciens utilisé pour garder le Tracé des Anciens intact. De vicieuses petites termites sont apparues et ont pris le contrôle des systèmes mécaniques pour faire fuir les mineurs et les laisser sans travail.",
+                "orig": "The mine was eventually overrun by the Ancients' system used to keep the Track of the Ancients intact. Vicious little bugs appeared and took over any mechanical system in the mine driving out the miners and leaving them without a job. "
         },
         "database.json/lore/temple-mine/title": {
                 "orig": "Temple Mine",
@@ -12343,8 +12359,8 @@
                 "text": "Le \\c[3]CrossCode\\c[0] est la partie centrale du \\c[3]module de contrôle d'avatar\\c[0] qui fut développé par \\c[3]Satoshi\\c[0]. En utilisant un réseau neuronal analysant les oscillations des neurones du joueur, il permet de contrôler un avatar comme si c'était son propre corps."
         },
         "database.json/lore/cross-code/content/page-02/content": {
-                "orig": "However, the CrossCode went beyond just analyzing players' thoughts to control avatars. Using the same neural network as a foundation, it is possible to entirely simulate features of the brain. Perception, logical thinking, emotions and even memories. This means the CrossCode \\c[3]evolved into a fully fledged A.I.\\c[0], Running this on an Avatar is what was called an \\c[3]Evotar\\c[0]. \n",
-                "text": "Mais, le CrossCode allait plus loin que juste analyser les pensées des joueurs pour contrôler les avatars. En utilisant le même réseau neuronal comme fondation, il était possible d'entièrement simuler les caractéristiques du cerveau. La perception, la pensée logique, les émotions et même la mémoire. Cela signifiait que le CrossCode \\c[3]a évolué en une IA entière\\c[0]. Lorsqu'elle fonctionne sur un Avatar, on appelait cela un \\c[3]Évotar\\c[0]."
+                "text": "Mais, le CrossCode allait plus loin que juste analyser les pensées des joueurs pour contrôler les avatars. En utilisant le même réseau neuronal comme fondation, il était possible d'entièrement simuler les caractéristiques du cerveau. La perception, la pensée logique, les émotions et même la mémoire. Cela signifiait que le CrossCode \\c[3]évolua en une IA entièrement fonctionelle\\c[0]. Lorsqu'elle fonctionne sur un Avatar, on appelait cela un \\c[3]Évotar\\c[0].",
+                "orig": "However, the CrossCode went beyond just analyzing players' thoughts to control avatars. Using the same neural network as a foundation, it is possible to entirely simulate features of the brain. Perception, logical thinking, emotions and even memories. This means the CrossCode \\c[3]evolved into a fully fledged A.I.\\c[0]. Running this on an Avatar is what was called an \\c[3]Evotar\\c[0]. \n"
         },
         "database.json/lore/cross-code-2/title": {
                 "orig": "CrossCode 2.0",
@@ -12906,12 +12922,13 @@
                 "text": "Mikitora"
         },
         "database.json/names/74/name": {
-                "orig": "Seiba",
-                "text": "Seiba"
+                "text": "Pito",
+                "orig": "Pito"
         },
         "database.json/names/75/name": {
-                "orig": "Asuna",
-                "text": "Asuna"
+                "text": "MoreDread",
+                "note": "assuming it's an anime",
+                "orig": "MoreDread"
         },
         "database.json/names/76/name": {
                 "orig": "Rhue",
@@ -14534,36 +14551,36 @@
                 "text": "Revenez voir le \\c[3]Sergent Sterling\\c[0] au \\c[3]QG de la \\v[lore.title.faction-cold-bergen]\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/name": {
-                "orig": "Wrath of Goat WIP",
-                "text": "La Vengeance des Boucs"
+                "text": "La Vengeance des Boucs",
+                "orig": "Wrath of Goat"
         },
         "database.json/quests/bg-3-goat_final/person": {
                 "orig": "Sgt. Sterling",
                 "text": "Sergent Sterling"
         },
         "database.json/quests/bg-3-goat_final/description": {
-                "orig": "ZOMFG Goats stealing salt, doing avalanches!",
-                "text": "PITAINGUE Les boucs volent du sel, causent des avalanches !"
+                "text": "Après un long moment de quietude, il y a eu ces derniers temps des activités étranges du côté des boucs intelligents du \\v[area.bergen-trails.name]. Vous devriez inspecter leur antre encore une fois !",
+                "orig": "After a long time of quiet there have been curious activities with the intelligent goats in \\v[area.bergen-trails.name] lately. You should investigate their lair again!"
         },
         "database.json/quests/bg-3-goat_final/briefing": {
                 "orig": "Despite your best efforts the scientist got away. That is a problem another day, though.",
                 "text": "Malgré vos meilleurs efforts, le scientifique a pu fuir. Mais c'est un problème pour un autre jour."
         },
         "database.json/quests/bg-3-goat_final/tasks/0/task": {
-                "orig": "Find the pet somewhere in \\c[3]\\v[area.bergen.name]\\c[0]",
-                "text": "Trouvez l'animal quelque part à \\c[3]\\v[area.bergen.name]\\c[0]"
+                "text": "Investiguez ce qui s'est passé dans l'\\c[3]Antre Cornu\\c[0] du \\c[3]\\v[area.bergen-trails.name]\\c[0]",
+                "orig": "Investigate what happened in the \\c[3]Horncave\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/tasks/1/task": {
-                "orig": "Follow \\c[3]the pet\\c[0] and catch it",
-                "text": "Suivez \\c[3]l'animal\\c[0] et attrapez-le"
+                "text": "Aidez les gardes sur la \\c[3]Côte au Grant Vent\\c[0] du \\v[area.bergen-trails.name]",
+                "orig": "Help the guards on \\c[3]Windy Climb\\c[0] on \\v[area.bergen-trails.name]"
         },
         "database.json/quests/bg-3-goat_final/tasks/2/task": {
                 "orig": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]",
                 "text": "Revenez voir le \\c[3]Sergent Sterling\\c[0] au \\c[3]QG de la \\v[lore.title.faction-cold-bergen]\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/tasks/5/task": {
-                "orig": "Follow the \\c[3]evil scientist\\c[0]",
-                "text": "Suivez-le \\c[3]scientifique sinistre\\c[0]"
+                "text": "Suivez les traces jusqu'à la \\c[3]place\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
+                "orig": "Follow the lead to \\c[3]pla\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/tasks/6/task": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.goat]s\\c[0]",
@@ -15806,12 +15823,12 @@
                 "text": "Blablabla, une quête dans la jungle !"
         },
         "database.json/quests/bakiTrader-2-brewing_challenge_2/briefing": {
-                "orig": "asdasdas. Most importantly the last drink recipe has been unlocked!",
-                "text": "qsdqsdqs. Plus important : la dernière recette de boisson a été débloquée !"
+                "text": "texte. Plus important : la dernière recette de boisson a été débloquée !",
+                "orig": "text. Most importantly the last drink recipe has been unlocked!"
         },
         "database.json/quests/bakiTrader-2-brewing_challenge_2/tasks/0/task": {
-                "orig": "Asdsadsa",
-                "text": "Qsdsqdsq"
+                "text": "première tâche",
+                "orig": "first task"
         },
         "database.json/quests/bakiTrader-2-brewing_challenge_2/tasks/1/task": {
                 "orig": "Report back to \\c[3]Ryda\\c[0] in the \\c[3]\\v[area.heat-village.name] Bazaar House\\c[0]",
@@ -15954,55 +15971,48 @@
                 "text": "Donnez l'\\v[item.404.name] à D'Kar dans la \\c[3]Maison Shad à \\v[area.heat-village.name]\\c[0]"
         },
         "database.json/quests/console-pc-1/hubSettings/location": {
-                "orig": "... \\c[3]- ...\\c[0]",
-                "text": "... \\c[3]- ...\\c[0]"
+                "text": "Machine à calculer nouvelle et améliorée besoin d'éloge et évaluation ! \\c[3]- Marché\\c[0]",
+                "orig": "New and improved calculation machine needs praise and evaluation! \\c[3]- Market\\c[0]"
         },
         "database.json/quests/console-pc-1/name": {
-                "orig": "wip",
-                "text": "À faire"
+                "text": "Le meilleur de l'Ouest",
+                "orig": "Best in the West"
         },
         "database.json/quests/console-pc-1/person": {
-                "orig": "1337 boi",
-                "text": "mec 1337",
-                "note": "probably E'leet"
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
         },
         "database.json/quests/console-pc-1/description": {
-                "orig": "wip",
-                "text": "À faire"
+                "text": "L'ambitieux Shad bricoleur \\c[3]Ey'leet\\c[0] à besoin de pièces détachées exclusives pour sa nouvelle machine à calculer. Il pense qu'on peut en trouver \\c[3]dans un laboratoire secret, gardé par des scorpions lourdement armés\\c[0].",
+                "orig": "The ambitious tinkering Shad \\c[3]Ey'leet\\c[0] needs some exclusive parts for his new calculation machine. He thinks that those can be found \\c[3]in some secret lab, guarded by heavily armed Scorpions\\c[0]."
         },
         "database.json/quests/console-pc-1/briefing": {
-                "orig": "You investigated the case of the engineered creatures in \\v[area.heat-area.name] and also uncovered a secret facility of the \"xxx\"-company! Maybe this other new secret facility really exists as well?",
-                "text": "Vous avez enquêté sur les créatures améliorées à \\v[area.heat-area.name] et aussi découvert une usine secrète de la société \"xxx\" ! Peut-être que cette autre installation secrète existe aussi vraiment ?",
-                "note": "c'est un producteur de film de boules ?"
+                "text": "Vous avez enquêté sur les créatures améliorées à \\v[area.heat-area.name] et aussi découvert une usine secrète de la société \"Armes Haute Pressions\" ! Peut-être que cette autre installation secrète existe aussi vraiment ?",
+                "orig": "You investigated the case of the engineered creatures in \\v[area.heat-area.name] and also uncovered a secret facility of the \"High-Pressure Arms\"-company! Maybe this other new secret facility really exists as well?"
         },
         "database.json/quests/console-pc-1/tasks/0/task": {
-                "orig": "Search for new species on \\c[3]Off Road 2\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Cherchez des nouvelles espèces sur le \\c[3]Hors Sentier 2\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
-                "note": "original text has an invalid variable reference"
+                "text": "Cherchez des nouvelles espèces sur le \\c[3]Passage Surélevé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "orig": "Search for new species on \\c[3]Overpass\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]"
         },
         "database.json/quests/console-pc-1/tasks/1/task": {
-                "orig": "Search for new species on the \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Cherchez des nouvelles espèces sur le \\c[3]Chemin Isolé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
-                "note": "original text has an invalid variable reference"
+                "text": "Cherchez des nouvelles espèces sur la \\c[3]Longue Pièce\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "orig": "Search for new species on the \\c[3]Long Piece\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]"
         },
         "database.json/quests/console-pc-1/tasks/2/task": {
-                "orig": "Examine the strange device in \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Examinez l'appareil étrange sur \\c[3]Chemin Isolé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
-                "note": "original text has an invalid variable reference"
+                "text": "Examinez l'appareil étrange sur la \\c[3]Longue Pièce\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "orig": "Examine the strange device in \\c[3]Long Piece\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]"
         },
         "database.json/quests/console-pc-1/tasks/3/task": {
-                "orig": "Find and enter the \\c[3]Secret Entrance\\c[0] on \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.heat.name]\\c[0]",
-                "text": "Trouvez et entrer dans \\c[3]l'Entrée Secrète\\c[0] sur le \\c[3]Chemin Isolé\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
-                "note": "original text has an invalid variable reference"
+                "text": "Trouvez et prenez \\c[3]l'Entrée Secrète\\c[0] sur la \\c[3]Longue Pièce\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0]",
+                "orig": "Find and enter the \\c[3]Secret Entrance\\c[0] on \\c[3]Long Piece\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]"
         },
         "database.json/quests/console-pc-1/tasks/4/task": {
                 "orig": "Explore the \\c[3]Secret Facility\\c[0]",
                 "text": "Explorez l'\\c[3]Installation Secrète\\c[0]"
         },
         "database.json/quests/console-pc-1/tasks/5/task": {
-                "orig": "Return to \\c[3]Joey the Younger\\c[0] in \\c[3]Pond Slums\\c[0] of \\c[3]\\v[area.heat-village.name]\\c[0]",
-                "text": "Retournez vers \\c[3]Joe le Jeune\\c[0] dans la \\c[3]Zone Zermi\\c[0] de \\c[3]\\v[area.heat-village.name]\\c[0]",
-                "note": "this does not exist."
+                "text": "Retournez voir \\c[3]Ey-leet\\c[0] dans le \\c[3]Marché\\c[0] de \\c[3]\\v[area.heat-village.name]\\c[0]",
+                "orig": "Return to \\c[3]Ey'leet\\c[0] in the \\c[3]Market\\c[0] of \\c[3]\\v[area.heat-village.name]\\c[0]"
         },
         "database.json/quests/infestation-1/name": {
                 "orig": "An Infested Village",
@@ -17371,8 +17381,8 @@
                 "text": "Faites un rapport au \\c[3]Sergent Brassler\\c[0] au \\c[3]QG de la Garde Portuaire\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/hubSettings/location": {
-                "orig": "More illegal shipments are reaching the continent and must be stopped! \\c[3]- Rookie Harbor Guard HQ\\c[0]",
-                "text": "D'autres marchandises illégales atteignant le continent sont à arrêter ! \\c[3]- QG Garde Portuaire\\c[0]"
+                "text": "Il est temps d'éliminer la source des livraisons illégales une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
+                "orig": "It is time to eliminate the source of the illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/name": {
                 "orig": "Wetter Work",
@@ -17383,12 +17393,13 @@
                 "text": "Sergent Brassler"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/description": {
-                "orig": "More unauthorized shipments of illegal weaponry are reaching the continent over the ocean! You must go on a patrol and intercept them.",
-                "text": "De nouvelles cargaisons non-autorisées d'armes illégales atteignent le continent par la mer ! Vous devez aller patrouiller et les intercepter !"
+                "text": "Les cargaisons illégales doivent être arrêtées une fois pour toutes ! Vous devez trouver la machine dans l'ocean qui coordone tout cela et la couler !",
+                "note": "bataille navale ?",
+                "orig": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/briefing": {
-                "orig": "You prevented the latest batch of illegal weapons from reaching the continent by sinking them into the ocean.",
-                "text": "Vous avez empêché les dernières cargaisons d'armes illégales d'atteindre le continent, en les coulant dans la mer."
+                "text": "Le coordinateur est détruit et gràce à cela, la menace des traffics d'armes illégalles n'est plus !",
+                "orig": "The coordinator is destroyed and with it the danger of further illegal weapon smuggling!"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/tasks/0/task": {
                 "orig": "Talk to \\c[3]Captain Turbine\\c[0] in Southern \\c[3]Beginners Arc\\c[0]",
