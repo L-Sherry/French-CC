@@ -479,5 +479,34 @@
         "maps/cargo-ship/teleporter.json/entities/98/settings/event/44/message": {
                 "orig": "Bye!",
                 "text": "Bye !"
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/6/message": {
+                "text": "Ah te voilà !",
+                "orig": "There you are!"
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/8/message": {
+                "text": "Salut !",
+                "orig": "Hi!"
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/9/message": {
+                "text": "Je voulais juste vérifier que le téléporteur fonctionnait encore.",
+                "orig": "I just wanted to make sure the teleporter still works."
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/10/message": {
+                "text": "Tout le monde est dans la \\c[3]cabine au deuxième étage\\c[0].",
+                "note": "de: ils attendent tous ...",
+                "orig": "Everyone is in the \\c[3]cabins on the third floor\\c[0]."
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/11/message": {
+                "text": "Je vais passer devant, on se voit là-bas !",
+                "orig": "I will go ahead, see you there!\n"
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/18/message": {
+                "text": "Bye ?",
+                "orig": "Bye?"
+        },
+        "maps/cargo-ship/teleporter.json/entities/100/settings/event/21/task": {
+                "text": "Rencontrez Sergey, Jet et les autres dans les \\c[3]Cabines 2 - \\v[area.cargo-ship.name]\\c[0]",
+                "orig": "Meet Sergey, Jet, and the others at \\c[3]Cargo Ship - Cabins 2\\c[0]"
         }
 }

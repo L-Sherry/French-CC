@@ -276,6 +276,26 @@
                 "orig": "Defeat the \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]!",
                 "text": "Affrontez le \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0] !"
         },
+        "arena/lily-cup.json/core/name": {
+                "text": "Pvp contre Lily",
+                "orig": "PvP vs Lily"
+        },
+        "arena/lily-cup.json/core/info": {
+                "text": "Combattez personellement Lily en PvP !",
+                "orig": "Fight Lily personally in PvP!"
+        },
+        "arena/lily-cup.json/core/creator": {
+                "text": "Lily",
+                "orig": "Lily"
+        },
+        "arena/lily-cup.json/rounds/0/name": {
+                "text": "Affronte moi !",
+                "orig": "Fight me!"
+        },
+        "arena/lily-cup.json/rounds/0/objective": {
+                "text": "Affronte moi en duel sur le toit de l'arène !",
+                "orig": "Defeat me in a duel on top of the arena!"
+        },
         "arena/parkour-rookie-cup.json/core/name": {
                 "orig": "Rookie Parkour",
                 "text": "Parkour Débutant"

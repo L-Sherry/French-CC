@@ -765,5 +765,17 @@
         "maps/bergen/bergen2.json/entities/905/settings/npcStates/0/event/3/elseStep/4/options/1/label": {
                 "orig": "[no]",
                 "text": "[non]"
+        },
+        "maps/bergen/bergen2.json/entities/907/settings/interact/hoverText": {
+                "text": "Note sur le Défi",
+                "orig": "Challenge Note"
+        },
+        "maps/bergen/bergen2.json/entities/907/settings/interact/event/0/text": {
+                "text": "Le duel aura lieu sur le\n\\c[3]Chemin Ascendant 1 du \\v[area.bergen-trails.name]\\c[0].",
+                "orig": "The duel will take place at\n\\c[3]Bergen Trail - Rising Path 1\\c[0]."
+        },
+        "maps/bergen/bergen2.json/entities/907/settings/interact/event/1/text": {
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarassée de tous les autres adversaires\\c[0].",
+                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0]."
         }
 }

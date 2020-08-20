@@ -228,6 +228,10 @@
                 "orig": "This round contains environmental hazards.",
                 "text": "Ce round contient des dangers environnementaux."
         },
+        "lang/sc/gui.en_US.json/labels/arena/challenges/descriptions/PVP_BATTLE": {
+                "text": "Combat PVP - Les pénalités pour les dégâts subis sont réduites.",
+                "orig": "PVP Combat - Penalty for taken damage is reduced."
+        },
         "lang/sc/gui.en_US.json/labels/arena/scoreTypes/TARGET_KILL": {
                 "orig": "Target Destroyed",
                 "text": "Cible Détruite"
@@ -566,7 +570,7 @@
         },
         "lang/sc/gui.en_US.json/labels/botanics/locText": {
                 "orig": "Find [[x]] more to unlock locations.",
-                "text": "Trouvez en [[x]] d'autres pour débloquer les lieux."
+                "text": "Trouvez en [[x]] autres pour débloquer les lieux."
         },
         "lang/sc/gui.en_US.json/labels/botanics/infoLocked": {
                 "orig": "- Info Locked -",
@@ -3124,6 +3128,10 @@
                 "orig": "Ice Skater",
                 "text": "Patin à glace"
         },
+        "lang/sc/gui.en_US.json/labels/menu/equip/modifier/EQUIP_SCALE": {
+                "text": "Équ. Boosté",
+                "orig": "Gear Booster"
+        },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/levels": {
                 "orig": "Displays the current player- and average equipment level.\n - Green: Levels are aligned.\n -White: Levels are okay",
                 "text": "Montre le niveau du joueur actuel et de la moyenne des équipements.\n - Vert : Les niveaux sont alignés.\n - Blanc : Les niveaux sont OK"
@@ -3339,6 +3347,10 @@
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/BEGONE_ICE": {
                 "orig": "Makes it possible to run and perform actions on ice without slipping.",
                 "text": "Permet de courir et faire des actions sur la glace sans glisser."
+        },
+        "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/EQUIP_SCALE": {
+                "text": "Les Paramêtes de Base de cette arme s'ajustent automatiquement avec votre niveau actuel.",
+                "orig": "Base Params of this weapon automatically scale with your current level."
         },
         "lang/sc/gui.en_US.json/labels/menu/skill/shade": {
                 "orig": "Find the [xyz] to break the chains and unlock more skills.",
@@ -7264,6 +7276,10 @@
         "lang/sc/gui.en_US.json/labels/options/language/group/4": {
                 "orig": "Korean",
                 "text": "Coréen"
+        },
+        "lang/sc/gui.en_US.json/labels/options/language/group/5": {
+                "text": "Chinois Traditionel",
+                "orig": "Traditional Chinese"
         },
         "lang/sc/gui.en_US.json/labels/options/language/description": {
                 "orig": "The language of the game. \\c[1]Needs a restart!",

@@ -287,5 +287,71 @@
         "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/35/settings/event/55/message": {
                 "orig": "Bye!",
                 "text": "Bye !"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/45/settings/analyzable/text": {
+                "text": "Caisse Importante",
+                "orig": "en_US"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/14/name": {
+                "text": "Sergent Sterling",
+                "orig": "Sgt. Sterling"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/16/message": {
+                "text": "\\v[lore.title.seeker], venez.\\. Ici la Garde de bergen, vous nous entendez ?",
+                "orig": "\\v[lore.title.seeker], come in.\\. Bergen Guard speaking, can you hear us?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/17/message": {
+                "text": "Salut !",
+                "orig": "Hi!"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/18/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/19/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/20/message": {
+                "text": "Bien !\\. Nos gardes ont observés des mouvements venants de l'Antre Cornu.\\. Avez-vous trouvé quelque chose ?",
+                "orig": "Good!\\. Our guards have observed movement coming from the Horncave.\\. Did you find anything?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/21/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/22/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/23/message": {
+                "text": "Lea. Rencontrer. Lea ! Comment ?",
+                "orig": "Lea. Meet. Lea! How?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/24/message": {
+                "text": "Des boucs ET des Pépéflingeurs ?\\. Qui travaillent enssemble sur notre montagne froide ?\\. Quelle est cette folie ?",
+                "orig": "Goats AND Papaguns?\\. Working together in our cold mountains?\\. What is this madness?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/25/message": {
+                "text": "Il y a sans doute autre chose là-dessous.\\. Nous devrions commencer à enquêt\\..\\..\\. attendez !",
+                "quality": "bad",
+                "orig": "There must be something bigger behind this.\\. We will need to start more investiga\\..\\..\\..\\. wait!"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/26/message": {
+                "text": "... !?",
+                "orig": "...!?"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/27/message": {
+                "text": "\\v[lore.title.seeker], un de nos garde à besoin de renforts urgents sur la \\c[3]Côte au grand vent\\c[0] !",
+                "orig": "\\v[lore.title.seeker], one of our Guards urgently needs reinforcements on the \\c[3]Windy Climb\\c[0]!"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/28/message": {
+                "text": "On dirait qu'il est tombé sur un groupe qui essaye de transporter une caisse géante.\\. Vous devez y aller !",
+                "quality": "bad",
+                "orig": "It seems like he ran into a group that tries to smuggle out a huge crate.\\. Please go there quickly!"
+        },
+        "maps/bergen-trail/cave/cave-7-1-1-goat3.json/entities/53/settings/event/29/message": {
+                "text": "... !\\.\\. Bye...",
+                "orig": "...!\\.\\. Bye..."
         }
 }

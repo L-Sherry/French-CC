@@ -1641,6 +1641,10 @@
                 "text": "Côte de Corail",
                 "orig": "Coral Coastline"
         },
+        "database.json/areas/beach/description": {
+                "text": "Un étrange groupe de bancs de sables au millieu de l'océan.",
+                "orig": "A strange group of sandbanks in the middle of the ocean."
+        },
         "database.json/areas/bergen-trails/name": {
                 "orig": "Bergen Trail",
                 "text": "Chemin de Bergen"
@@ -1721,6 +1725,26 @@
                 "orig": "A once busy Mine with an uncovered temple crawling with hostile robots.",
                 "text": "Une vielle mine avec un temple mis à nu rempli de robots hostiles."
         },
+        "database.json/areas/evo-village/name": {
+                "text": "Ville Natale",
+                "quality": "unknown",
+                "note": "de: ville d'origine, patrie, refuge, arborigène, autochtone, indigène, natif/natal",
+                "orig": "Homestedt"
+        },
+        "database.json/areas/evo-village/description": {
+                "text": "La petite colonie établie pour que les Évotars se sentent chez eux.",
+                "orig": "The small settlement established as a home for Evotars."
+        },
+        "database.json/areas/evo-village/landmarks/center/name": {
+                "text": "Plaza",
+                "orig": "Plaza"
+        },
+        "database.json/areas/evo-village/landmarks/center/description": {
+                "text": "Ce point de repère se trouve au cœur de la \\v[area.evo-village.name].",
+                "quality": "unknown",
+                "note": "evo-village is unknown",
+                "orig": "This landmark sits right at the heart of \\v[area.evo-village.name]."
+        },
         "database.json/areas/fallback/name": {
                 "orig": "Fallback",
                 "text": "Fallback"
@@ -1728,6 +1752,23 @@
         "database.json/areas/fallback/description": {
                 "orig": "This is where everything goes that is not wanted.",
                 "text": "C'est là ou on met tout ce qu'on ne veut plus."
+        },
+        "database.json/areas/final-dng/name": {
+                "text": "Temple de Ku'lero",
+                "orig": "Ku'lero Temple"
+        },
+        "database.json/areas/final-dng/description": {
+                "text": "Le dernier temple construit par les anciens pour tester la dignité de ceux qui y entrent.",
+                "note": "size is just right",
+                "orig": "The last temple build by the Ancients meant to test the worth of all who enter."
+        },
+        "database.json/areas/final-dng/landmarks/center/name": {
+                "text": "Centre",
+                "orig": "Center"
+        },
+        "database.json/areas/final-dng/landmarks/center/description": {
+                "text": "Yo",
+                "orig": "Yo"
         },
         "database.json/areas/forest/name": {
                 "orig": "Sapphire Ridge",
@@ -2235,6 +2276,14 @@
                 "orig": "\\v[item.541.name]",
                 "text": "\\v[item.541.name]"
         },
+        "database.json/commonEvents/sao-duel-accept/event/0/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/0/message": {
+                "text": "Salut.",
+                "orig": "Hi."
+        },
         "database.json/commonEvents/sao-duel-accept/event/2/thenStep/1/message": {
                 "text": "...",
                 "orig": "..."
@@ -2243,9 +2292,939 @@
                 "text": "...",
                 "orig": "..."
         },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/3/message": {
+                "text": "...",
+                "orig": "..."
+        },
         "database.json/commonEvents/sao-duel-accept/event/2/thenStep/4/message": {
                 "text": "...",
                 "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/5/message": {
+                "text": "Je comprends.",
+                "orig": "I understand."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/7/message": {
+                "text": "J'accepte le duel !!",
+                "orig": "I accept the duel!!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/2/thenStep/8/message": {
+                "text": "... ?!",
+                "orig": "...?!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/0/message": {
+                "text": "Salut.",
+                "orig": "Hi."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/2/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/3/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/4/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/5/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/6/message": {
+                "text": "Salut ?",
+                "orig": "Hi?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/7/message": {
+                "text": "Ah, mon ennemi juré est de retour !",
+                "orig": "Ah, my arch nemesis has returned!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/8/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/9/message": {
+                "text": "N'en dis pas plus, je connais ce regard, je l'ai déjà vu mille fois.",
+                "orig": "Say no more, I know that look, 'seen it a thousand times. "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/10/message": {
+                "text": "Et bien sûr, je vais accepter votre nouveau défi !",
+                "orig": "And of course, I'll accept your challenge once more! "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/3/thenStep/11/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/0/message": {
+                "text": "Salut !",
+                "orig": "Hi!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/1/message": {
+                "text": "Oh, c'est encore toi...",
+                "orig": "Oh, it's you again..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/2/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/3/message": {
+                "text": "Oui, je sais.\\. Tu veux un duel.",
+                "orig": "Yes, I know.\\. You want to duel."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/4/message": {
+                "text": "Meh.\\. Pas tout de suite.",
+                "orig": "Meh.\\. Not feeling it."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/5/message": {
+                "text": "Pourquoi ?",
+                "orig": "Why?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/6/message": {
+                "text": "C'est...\\. Je sais pas.\\. Je veux dire, avant c'était fun.",
+                "orig": "It's…\\. I don't know.\\. I mean, it was fun before. "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/7/message": {
+                "text": "On passait du bon temps, je t'ai utilisé pour nettoyer par terre et tout le monde était content !",
+                "orig": "We had a nice time, I mopped the floor with you and everyone was happy!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/8/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/9/message": {
+                "text": "Quoi ?\\. C'est comme ça que ça s'est passé pourtant.",
+                "orig": "What?\\. I am pretty sure that's exactly how it happened."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/10/message": {
+                "text": "[secoue la tête]",
+                "orig": "[shakes head]"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/11/message": {
+                "text": "Hum, ça devait être quelqu'un d'autre, alors.",
+                "orig": "Hm, must have been someone else, then."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/12/message": {
+                "text": "Vous vous ressemblez tous pour moi, en fait.",
+                "orig": "You all look the same to me, really."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/13/message": {
+                "text": "Tous à vous cacher vos véritables visages derrière vos jolies armures chatoyantes.",
+                "quality": "bad",
+                "orig": "All in fancy and colorful armor, hiding your true face. "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/14/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/15/message": {
+                "text": "Ok, c'est bon !\\. Encore juste un duel.",
+                "orig": "Alright, fine!\\. Just one more duel."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/16/message": {
+                "text": "Laisse moi regarder mon agenda, Bea.",
+                "orig": "Let me look up my schedule, Bea."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/17/message": {
+                "text": "Lea !",
+                "orig": "Lea!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/18/message": {
+                "text": "Sao !",
+                "orig": "Sao!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/19/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/4/thenStep/20/message": {
+                "text": "Oui, là je peux.\\. Tu peux me retrouver à...",
+                "orig": "Yes, I have time.\\. Just meet me at…"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/0/message": {
+                "text": "Salut.",
+                "orig": "Hi."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/1/message": {
+                "text": "Ok, parlons sérieusement.",
+                "orig": "Okay, real talk. "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/2/message": {
+                "text": "Pourquoi c'est toujours à moi de faire la conversation ?\\. Tu le fais exprès ?",
+                "orig": "Why am I always the one who has to do all the talking?\\. Any hard feelings?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/3/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/4/message": {
+                "text": "[secoue la tête]",
+                "orig": "[shakes head]"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/5/message": {
+                "text": "C'est quoi alors ?\\. Tu peux pas parler ?",
+                "orig": "What else then?\\. You can't talk?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/6/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/7/message": {
+                "text": "Hein.",
+                "orig": "What."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/11/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/12/message": {
+                "text": "Hé, vous !\\. Qu'est-ce qui se passe ?",
+                "quality": "unknown",
+                "orig": "Hey you!\\. What's up with that? "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/13/message": {
+                "text": "Pourquoi vous la faites marcher jusqu'à moi, en faisant comme si elle voulait me parler ?",
+                "orig": "Why'd you make her walk to me, acting like she could hold a conversation?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/15/message": {
+                "text": "Lea ?",
+                "orig": "Lea?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/18/message": {
+                "text": "C'est à \\c[1]vous\\c[0] que je parle !",
+                "orig": "I'm talking to \\c[1]you\\c[0]!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/19/message": {
+                "text": "\\c[1]Vous derrière l'écran\\c[0] !",
+                "orig": "\\c[1]You behind the screen\\c[0]!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/20/message": {
+                "text": "Vous vous sentez en sécurité ici, pas vrai ?\\. En pensant que je peux pas vous atteindre.",
+                "orig": "Feeling safe there, don't you?\\. Thinking I can't possibly reach you."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/21/message": {
+                "text": "\\c[1]Et bien vous vous trompez\\c[0].",
+                "orig": "\\c[1]You thought wrong\\c[0]."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/22/message": {
+                "text": "Croyez moi, j'ai les moyens.\\. Des vielles méthodes discrètes de Ninja.",
+                "orig": "I have my ways.\\. Old, sneaky Ninja ways.\n"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/23/message": {
+                "text": "Un jour, quand vous aurez tout oublié de moi...",
+                "orig": "One day, when you have forgotten all about me... "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/24/message": {
+                "text": "\\c[1]Je viendrais vous voir.\\c[0]\n",
+                "orig": "\\c[1]I will come for you.\\c[0]\n"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/25/message": {
+                "text": "Et vous pourrez faire vos prières !\\. Et après je me vangerais !\\. Ah, ce sera chouette !",
+                "orig": "And then my revenge will be sweet!\\. Oh, so sweet!\\. All strawberries and cherries! "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/29/message": {
+                "text": "Salut ?\\. Lea !",
+                "orig": "Hi?\\. Lea!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/31/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/32/message": {
+                "text": "Oui, une seconde.\\. On parle entre adultes.",
+                "orig": "Yes, one moment.\\. The adults are talking. "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/37/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/38/message": {
+                "text": "Donc...\\. Il est clair que vous voulez qu'elle me combatte en duel.",
+                "orig": "So...\\. It's clear you really want her to duel me."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/39/message": {
+                "text": "Bien que nous savons déjà tous les deux comment cela va finir.",
+                "orig": "Though we both know where this will end.\n"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/40/message": {
+                "text": "Vous allez essayer de votre mieux comme personne ne l'a jamais fait, et je vais quand même vous vaincre, comme les dernières fois.",
+                "orig": "You try your very best like no one ever did before and I still own you like the last few times."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/41/message": {
+                "text": "Mais...\\. disons,\\. purement hypothétiquement,\\. que vous gagniez cette fois.",
+                "orig": "But...\\. let's say,\\. purely hypothetical,\\. that you actually win this time."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/42/message": {
+                "text": "Alors peut-être que j'aurais un petit quelque chose pour vous, la prochaine fois qu'on se verra.",
+                "orig": "Maybe then I'll have a little something for you, the next time we meet after the fight."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/43/message": {
+                "text": "Et oui.\\. Je viens juste d'annoncer l'aguiche de la bande annonce de la récompense.",
+                "note": "hein.",
+                "orig": "That's right.\\. I just announced the teaser for the trailer of the reward."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/44/message": {
+                "text": "Comme ce que font ces grosses compagnies avec leurs jeux.",
+                "orig": "Like those big corporations do with their games."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/49/message": {
+                "text": "Salut !\\. Lea !\\. Salut !\\. Pourquoi !\\. Lea !",
+                "orig": "Hi!\\. Lea!\\. Hi!\\. Why!\\. Lea!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/50/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/52/message": {
+                "text": "Oui, oui, le duel, c'est bon !\\. Je te donnerais le parchemin !",
+                "orig": "Yes, yes, the duel, fine!\\. I'll give you the scroll! "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/5/thenStep/53/message": {
+                "text": "Mon dieu, pourquoi tu parles autant tout d'un coup ?\\. Je croyais que tu pouvais pas !",
+                "orig": "God, why are you talking so much anyway?\\. I thought you couldn't do that!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/0/message": {
+                "text": "Salut.",
+                "orig": "Hi."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/1/message": {
+                "text": "Mmm...",
+                "orig": "Hm..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/2/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/3/message": {
+                "text": "On dirait que notre long voyage enssemble va bientôt toucher à sa fin.",
+                "orig": "It seems our long journey together has finally come to an end.\n"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/4/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/5/message": {
+                "text": "Je savais, depuis que nos yeux se sont croisés, que tout ceci allait être notre destin.",
+                "orig": "I knew, from the moment our eyes first met: All of this was destined to happen."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/6/message": {
+                "text": "Comme ces vielles histoires, ou le héros combat contre les villains, la princesse attend d'être sauvée et le marchant vend les équipements...",
+                "orig": "Like those old stories, where the hero fights the evil, the princess waits to be saved and the shopkeeper sells the equipment..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/7/message": {
+                "text": "... qui sont bien trop chers et ne peuvent être achetés qu'après avoir grindé pendant des heures.",
+                "orig": "... which is way too expensive and can only be bought after grinding for hours."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/8/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/9/message": {
+                "text": "Qu'est ce qu'il y a ?\\. Il faut que je fasse plus court ?",
+                "orig": "What is it?\\. I should I keep it short?"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/10/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/11/message": {
+                "text": "Ok !\\. Je vais écrire le parchemin avec le lieu.\\. Rencontre moi là-bas !",
+                "orig": "Fine!\\. I'll write the scroll with the location.\\. Meet me there!"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/12/message": {
+                "text": "Prépare-toi, comme je le ferais !",
+                "orig": "Prepare yourself, as will I! "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/13/message": {
+                "text": "Parce que cela sera notre duel final.",
+                "orig": "For this will be our final duel. "
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/14/message": {
+                "text": "Je ne vais plus me retenir.\\. Fini le mode facile.",
+                "orig": "I won't hold back anymore.\\. No more easy mode for you. \n"
+        },
+        "database.json/commonEvents/sao-duel-accept/event/6/thenStep/15/message": {
+                "text": "À partir de maintenant, ce sera le \\c[1]Mode Lunatique\\c[0].\\. J'espère que tu sais equiver !",
+                "orig": "From now on, it will be \\c[1]Lunatic Mode\\c[0].\\. I hope you can dodge!"
+        },
+        "database.json/commonEvents/sao-duel-accept-post/event/2/thenStep/0/message": {
+                "text": "...\\. Pourquoi ?",
+                "orig": "...\\. Why?"
+        },
+        "database.json/commonEvents/sao-duel-accept-post/event/3/thenStep/1/message": {
+                "text": "BYE !!!",
+                "orig": "BYE!!!"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/2/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/4/thenStep/0/message": {
+                "text": "Duel 1...",
+                "orig": "Duel 1..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/4/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/4/thenStep/2/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/4/thenStep/4/message": {
+                "text": "Go !!\\.",
+                "orig": "Go!!\\."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/5/thenStep/0/message": {
+                "text": "Duel 2...",
+                "orig": "Duel 2..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/5/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/5/thenStep/2/message": {
+                "text": "C'est un peu nostalgique, tu trouves pas ?",
+                "orig": "It feels kind of nostalgic, don't you think? \n"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/5/thenStep/3/message": {
+                "text": "Comme si on a toujours été des ennemis, même si cela fait seulement...\\. un combat.",
+                "orig": "As if we've been enemies forever, even though it's only been...\\. one battle."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/5/thenStep/4/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/5/thenStep/5/message": {
+                "text": "Mais assez parlé...\\. En garde !",
+                "note": "great, Castlevania SotN was only recently translated, so what ?",
+                "orig": "But enough talk...\\. Have at you!"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/0/message": {
+                "text": "Duel 3...",
+                "orig": "Duel 3..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/2/message": {
+                "text": "Dis moi, pour quelle raison tu te bats ?",
+                "orig": "Say, what are you fighting for?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/3/message": {
+                "text": "Pourquoi ?",
+                "orig": "Why?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/4/message": {
+                "text": "Non...",
+                "orig": "No..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/5/message": {
+                "text": "\"pour quelle raison tu te bats\", c'est comme...\\. \"pourquoi tu te bats\"...\\. mais en plus profond !",
+                "orig": "\"Fighting for\" is like...\\. \"why are you fighting\"...\\. but deep!\n"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/6/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/7/message": {
+                "text": "Donc, qu'est-ce que c'est ?\\. C'est sans doute pas le butin et l'EXP, non ?",
+                "orig": "So what is it?\\. Certainly not the sweet, sweet loot and experience, right?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/8/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/9/message": {
+                "text": "Pas de réponse ?",
+                "orig": "No answer?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/10/message": {
+                "text": "OK.\\. Peut-être que j'en aurais une quand je t'aurais vaincu, Nea.",
+                "orig": "Fine.\\. Maybe you'll have one after I've finished you yet again, Nea."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/11/message": {
+                "text": "Lea !\\. LEA !!",
+                "orig": "Lea!\\. LEA!!"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/0/message": {
+                "text": "Duel 4...",
+                "orig": "Duel 4..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/2/message": {
+                "text": "C'est bon, finissons en.",
+                "orig": "Okay, fine, let's get this over with."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/3/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/4/message": {
+                "text": "Dis, qu'est-ce que tu penses des \\c[3]bombes\\c[0] ?",
+                "orig": "Say, what do you think about \\c[3]bombs\\c[0]?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/5/message": {
+                "text": "Pourquoi ?",
+                "orig": "Why?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/6/message": {
+                "text": "Ah, je demande juste pour un ami.",
+                "orig": "Ah, just asking for a friend."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/7/message": {
+                "text": "Commençons !",
+                "orig": "Let's start!"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/0/message": {
+                "text": "Le duel final...",
+                "orig": "The final duel..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/1/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/2/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/3/message": {
+                "text": "Lea...\\. Je t'ai déjà demandé: Pour quelle raison tu te bats ?",
+                "orig": "Lea...\\. I asked you before: What are you fighting for?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/4/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/5/message": {
+                "text": "J'imagine que c'est quelque chose de noble ou de personnel.",
+                "orig": "I would guess something noble or something personal."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/6/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/7/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/8/message": {
+                "text": "Pour moi, c'est un peu similaire.",
+                "orig": "To me, it is something similar."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/9/message": {
+                "text": "Et c'est pour cette raison que je ne peux pas me permettre de perdre.",
+                "orig": "And that's why I can't afford to lose."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/10/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/11/message": {
+                "text": "Bien que je sache que je ne suis pas censé gagner, parce que...",
+                "orig": "Even though I know I'm not supposed to win, because..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/15/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/16/message": {
+                "text": "\\c[1]... ces types...\\c[0]",
+                "orig": "\\c[1]...those guys...\\c[0]"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/20/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/22/message": {
+                "text": "... se metteraient à brailler pour que je sois nerfé.",
+                "orig": "...would throw a fit and get me nerfed.\n"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/23/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/24/message": {
+                "text": "Tu apprends à vivre avec, une fois que tu réalises que tout ce qui est autour de toi est faux, y compris toi-même.",
+                "orig": "You learn to live with it, once you realize all around you is fake - including yourself."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/25/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/26/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/27/message": {
+                "text": "Oh...\\. tu sais de quoi je parles ?\\. Je m'y attendais pas.",
+                "orig": "Oh...\\. you know what I'm talking about?\\. Didn't expect that."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/28/message": {
+                "text": "Peut-être qu'on a plus de choses en commun que ce je le pensais.",
+                "orig": "Maybe we are more alike than I thought at first."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/29/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/30/message": {
+                "text": "Je divagues encore.\\. Les joueurs veulent de l'action.\\. Donc...\\. un dernier mot ?",
+                "orig": "I am rambling again.\\. The players want to have action.\\. So...\\. any last words?"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/31/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/32/message": {
+                "text": "\\c[1]Bye !\\c[0]",
+                "orig": "\\c[1]Bye!\\c[0]"
+        },
+        "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/33/message": {
+                "text": "Heu...\\. \\c[1]Bye alors\\c[0] !",
+                "orig": "He...\\. \\c[1]Bye then\\c[0]! "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/2/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/0/message": {
+                "text": "Ce n'était qu'un entraînement.",
+                "orig": "This was merely practice."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/1/message": {
+                "text": "Nous nous reverrons, dans une autre ville !",
+                "orig": "We shall meet again, in another town!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/2/message": {
+                "text": "À plus, étranger !",
+                "orig": "Until then, stranger!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/4/message": {
+                "text": "Lea !",
+                "orig": "Lea!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/5/message": {
+                "text": "Oui, c'est ce que j'ai dis.",
+                "orig": "Yes, that's what I said.\n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/0/message": {
+                "text": "Encore une fois...",
+                "orig": "Again..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/2/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/3/message": {
+                "text": "Je m'en souviendrai, Dea !",
+                "orig": "I will remember this, Dea!\n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/4/message": {
+                "text": "Lea !",
+                "orig": "Lea!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/5/message": {
+                "text": "Oui !",
+                "orig": "Yes!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/0/message": {
+                "text": "Ha !\\. J'ai \\c[3]encore gagné\\c[0] !",
+                "orig": "Ha!\\. I \\c[3]won again\\c[0]!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/2/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/3/message": {
+                "text": "[secoue la tête]",
+                "orig": "[shakes head]"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/4/message": {
+                "text": "Ben, de mon point de vue, j'ai certainement gagné...\\. en expérience.",
+                "orig": "Well, from my point of view, I definitely won...\\. experience."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/5/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/6/message": {
+                "text": "Hé beh, tu dois être sympa en soirée.",
+                "orig": "Man, you must be fun at parties."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/7/message": {
+                "text": "En tout cas, on se revoit dans une autre ville !",
+                "orig": "Anyways, see you in another town! "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/8/message": {
+                "text": "Pouf et hop, parti !",
+                "orig": "Swoosh and away! "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/0/message": {
+                "text": "Hum.\\. Je m'y attendais pas.",
+                "orig": "Hm.\\. This didn't turn out as expected. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/1/message": {
+                "text": "Est-ce que j'ai choisi les mauvaises compétences ?\\. Est-ce qu'il fallait que je prenne la potion de soin à la place ?",
+                "orig": "Did I choose the wrong skills?\\. Should I have gone with the healing potion instead? "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/2/message": {
+                "text": "Ou alors cette double attaque sympa ?\\. Peut-être que j'aurais du apprendre la magie, comme Van Daal.",
+                "orig": "Or that fancy double attack?\\. Maybe I should have learned magic, like Van Daal. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/4/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/5/message": {
+                "text": "Non, mes choix étaient correct.\\. C'est forcement la faute du développeur !",
+                "orig": "No, my choice was correct.\\. It's obviously the developer's fault! "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/6/message": {
+                "text": "Ils ont juste nerfés mes compétences après que tous ces gens aient ralés que j'étais imbattable !",
+                "orig": "They just nerfed my skills after all those people complained that I am unbeatable! "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/7/message": {
+                "text": "Oui, ça doit être ça !",
+                "orig": "Yeah, that must be it!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/8/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/9/message": {
+                "text": "Oui, Tia, Maxim me manque à moi aussi.",
+                "orig": "Yes, Tia, I miss Maxim as well."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/10/message": {
+                "text": "Lea !!",
+                "orig": "Lea!!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/15/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/16/message": {
+                "text": "OK, un marché c'est un marché.",
+                "orig": "Okay, a deal is a deal. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/17/message": {
+                "text": "Il faut juste que tu me trouves \\c[3]encore une fois\\c[0].",
+                "orig": "You only have to find me \\c[3]one more time\\c[0]. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/18/message": {
+                "text": "Cherche dans la dernière ville ou village dans laquel on ne s'est pas rencontré.",
+                "orig": "Look for the last town or village where we didn't meet yet."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/19/message": {
+                "text": "Mais pas la géante ville, brillante dans l'océan.\\. J'aime pas par là.",
+                "orig": "Not that huge, shiny city in the ocean, though.\\. I don't like it there."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/20/message": {
+                "text": "Oh, et sinon...",
+                "orig": "Oh, and, also..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/22/message": {
+                "text": "\\c[1]Message spécial pour le développeur !\\c[0]",
+                "orig": "\\c[1]Special message to the developer!\\c[0] "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/23/message": {
+                "text": "Ne crois pas que je vais t'ignorer juste parce que tu m'as nerfé !",
+                "orig": "Don't think I will ignore you just because you nerfed me!\n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/24/message": {
+                "text": "Oh, non non non !",
+                "orig": "Oh, no no! \n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/25/message": {
+                "text": "Je vais apprendre de Animator vs. Animation et te hanter dans ton sommeil jusqu'à que tu me rebuffes !",
+                "note": "and now an ng reference...",
+                "orig": "I will learn from my good friend Animator vs. Animation and haunt you in your sleep until you buff me again! \n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/29/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/30/message": {
+                "text": "Attends...",
+                "orig": "Wait... "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/31/message": {
+                "text": "Pourquoi est-ce que je deviens plus petit ?",
+                "orig": "Why am I getting smaller?"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/32/message": {
+                "text": "Arrête ça !",
+                "orig": "Stop that!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/33/message": {
+                "text": "Ok, c'est bon, tu as gagné pour cette fois !",
+                "orig": "Alright fine, you win this time!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/35/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/38/message": {
+                "text": "Et sinon, technique secrète ultime de ninja, Pouf-parti-BAM !",
+                "orig": "And with that, ultimate secret ninja technique, away-swooshing-poof! "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/0/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/1/message": {
+                "text": "C'était... un bon duel.",
+                "orig": "That... was a fine duel."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/3/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/4/message": {
+                "text": "Bon...\\. J'ai promis à quelqu'un une récompense.",
+                "orig": "Well...\\. I promised someone a reward. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/5/message": {
+                "text": "Mais je peux autant te la donner.\\. Je suis sûr que tu pourras t'en servir pour quelque chose.",
+                "orig": "May as well give it to you then.\\. I am sure you will find some use for it."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/6/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/13/object": {
+                "text": "\\v[item.607.name]",
+                "orig": "\\v[item.607.name]"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/17/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/19/message": {
+                "text": "Hé, dis...",
+                "orig": "Hey, say..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/20/message": {
+                "text": "Tu vois ce sentiment d'accomplissement, une fois que tu as terminé une tâche difficile ?",
+                "orig": "You know that feeling of accomplishment when you finished a really tough task?"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/21/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/22/message": {
+                "text": "Oui, moi non plus.",
+                "orig": "Yeah, me neither."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/23/message": {
+                "text": "... ?",
+                "orig": "...?"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/24/message": {
+                "text": "Bon sinon...",
+                "orig": "Well then... "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/29/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/30/message": {
+                "text": "Peut-être que l'on se reverra un jour.",
+                "orig": "Maybe we will see each other again someday. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/31/message": {
+                "text": "Tu ne sais jamais ce que le futur t'a réservé.",
+                "orig": "You never know what the future has planned for you. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/32/message": {
+                "text": "Ou m'a réservé.",
+                "orig": "Or for me. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/33/message": {
+                "text": "Ou a réservé pour elle.",
+                "orig": "Or for her. "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/34/message": {
+                "text": "Ou a réservé pour ce PNJ deux écrans au sud qui est resté assis là-bas depuis des heures...",
+                "orig": "Or for that NPC two maps down south that has been sitting there for hours..."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/35/message": {
+                "text": "... parce que le développeur s'est dit \"Ha oui, ça devrait être un bon endroit pour un PNJ !\".",
+                "orig": "...because the developer thought \"Ho boy, that might be a good spot for an NPC!\"."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/36/message": {
+                "text": "C'est pas vrai, cher développeur ?\\. Et pendant qu'on y est...",
+                "orig": "Isn't that right, dear developer?\\. While we're at it... "
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/37/message": {
+                "text": "Pour votre prochain jeu, essayez de mettre un vrai personnage pour votre protagoniste.",
+                "orig": "For you next game, try to give your protagonist some proper character.",
+                "note": "now, THAT, reminds me of someone."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/38/message": {
+                "text": "Comme moi !",
+                "orig": "Like me!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/39/message": {
+                "text": "Vraiment, je suis probablement le personnage avec le meilleur texte par ici, peu-importe là où j'apparais !",
+                "orig": "Really, I'm probably the best written character out there, no matter where I appear!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/40/message": {
+                "text": "C'est juste une idée !",
+                "orig": "Just a suggestion!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/41/message": {
+                "text": "Je veux dire...\\. elle ?\\. Lea ?",
+                "orig": "I mean...\\. her?\\. Lea?\n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/42/message": {
+                "text": "J'imagine qu'elle est unique !\\. Mais...\\. Elle est juste pas comme moi !",
+                "orig": "I guess she's unique!\\. But...\\. she's just not me!\n"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/45/message": {
+                "text": "\\c[1]OK, ça suffit maintenant. Tu dégages !\\c[0]",
+                "orig": "\\c[1]Alright that's enough. You're out!\\c[0]"
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/46/message": {
+                "text": "Qu...\\.",
+                "orig": "W...\\."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/56/message": {
+                "text": "Ces personnages invités...",
+                "orig": "Guest characters."
+        },
+        "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/57/message": {
+                "text": "Non mais je vous jure.",
+                "orig": "For crying out loud."
+        },
+        "database.json/commonEvents/sao-duel-post-fight2/event/2/thenStep/0/message": {
+                "text": "... Pourquoi ?",
+                "orig": "...Why?"
+        },
+        "database.json/commonEvents/sao-duel-post-fight2/event/3/thenStep/0/thenStep/0/message": {
+                "text": "Quoi.",
+                "orig": "What."
+        },
+        "database.json/commonEvents/sao-duel-post-fight2/event/3/thenStep/0/elseStep/0/message": {
+                "text": "Comment.",
+                "orig": "How."
+        },
+        "database.json/commonEvents/sao-duel-post-fight2/event/4/thenStep/0/message": {
+                "text": "... ?!",
+                "orig": "...?!"
+        },
+        "database.json/commonEvents/sao-duel-post-fight2/event/4/thenStep/1/message": {
+                "text": "... Comment ?",
+                "orig": "...How?"
         },
         "database.json/commonEvents/sergey-hax-emilie/event/0/thenStep/0/message": {
                 "orig": "\\c[1]...!!\\c[0]",
@@ -4490,6 +5469,34 @@
                 "orig": "...",
                 "text": "..."
         },
+        "database.json/commonEvents/emilie-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/emilie-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Mentionner la Réunion du Donjon",
+                "orig": "TODO: Mention Dungeon Meeting"
+        },
+        "database.json/commonEvents/emilie-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Conversation Secrète Bonus (Se balader avec Shizuka)",
+                "orig": "TODO: Secret Bonus Conversation (Going around with Shizuka)"
+        },
+        "database.json/commonEvents/emilie-contact/event/9/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/emilie-contact/event/10/thenStep/0/text": {
+                "text": "À FAIRE : Mentionner la Réunion pour le Raid",
+                "orig": "TODO: Mentioning Meeting for Raid"
+        },
+        "database.json/commonEvents/emilie-contact/event/11/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue avant la Réunion du Raid",
+                "orig": "TODO: Dialog before Raid Meeting"
+        },
+        "database.json/commonEvents/emilie-contact/event/12/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue pendant la visite du \\v[area.evo-village.name]",
+                "orig": "TODO: Dialog during homestedt tour"
+        },
         "database.json/commonEvents/emilie-contact/event/13/thenStep/0/message": {
                 "orig": "Hi!",
                 "text": "Salut !"
@@ -4987,6 +5994,22 @@
                 "orig": "Now is not a good time...",
                 "text": "Ce n'est pas le bon moment..."
         },
+        "database.json/commonEvents/emilie-join/event/5/thenStep/0/message": {
+                "text": "Lea, on veut se rencontrer à \\c[3]l'hôtel de ville\\c[0] pour faire la course enssemble dans ce nouveau donjon.",
+                "orig": "Lea, we want to meet in the \\c[3]city hall\\c[0] to talk about running that new dungeon togther."
+        },
+        "database.json/commonEvents/emilie-join/event/5/thenStep/1/message": {
+                "text": "Tu devrais nous rejoindre !",
+                "orig": "You should join us!"
+        },
+        "database.json/commonEvents/emilie-join/event/6/thenStep/0/message": {
+                "text": "Lea, le raid va bientôt commencer !",
+                "orig": "Lea, the raid is about to start!"
+        },
+        "database.json/commonEvents/emilie-join/event/6/thenStep/1/message": {
+                "text": "On attends sur l'\\c[3]île de Para\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0] !",
+                "orig": "We're waiting at \\c[3]Para Island\\c[0] in \\c[3]Autumn's Fall\\c[0]!"
+        },
         "database.json/commonEvents/emilie-join/event/7/thenStep/0/message": {
                 "orig": "Lea, we're waiting right at \\c[3]Cross Central\\c[0]!",
                 "text": "Lea, on t'attend au \\c[3]Cross Central\\c[0] !"
@@ -5092,6 +6115,26 @@
         "database.json/commonEvents/glasses-contact/event/4/thenStep/3/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "database.json/commonEvents/glasses-contact/event/5/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/glasses-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Mentionner la Réunion du Donjon (veut pas, chuis chez moi)",
+                "orig": "TODO: Mention Dungeon Meeting (do not want, am at home)"
+        },
+        "database.json/commonEvents/glasses-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Faire une pause à \\v[area.evo-village.name] après avoir courru la nouvelle région",
+                "orig": "TODO: Taking a break in Homestedt after running the new area"
+        },
+        "database.json/commonEvents/glasses-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/glasses-contact/event/9/thenStep/0/message": {
+                "text": "D-Désolé, Lea !\\. Il faut que j'ailles vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
+                "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promised!"
         },
         "database.json/commonEvents/glasses-contact/event/10/thenStep/0/message": {
                 "orig": "Hi!",
@@ -5413,6 +6456,24 @@
                 "orig": "Small talk has never been my forte.",
                 "text": "Parler de la pluie et du beau temps n'a n'a jamais été mon fort"
         },
+        "database.json/commonEvents/glasses-join/event/4/thenStep/0/message": {
+                "text": "Désolé, Lea, pas maintenant...",
+                "orig": "Sorry Lea, not right now..."
+        },
+        "database.json/commonEvents/glasses-join/event/5/thenStep/0/message": {
+                "text": "Hé, Lea !\\. Je fais une pause à \\v[area.evo-village.name].",
+                "quality": "unknown",
+                "note": "evo-village is unknown",
+                "orig": "Hey there Lea!\\. I'm currently taking a break in Homestedt."
+        },
+        "database.json/commonEvents/glasses-join/event/5/thenStep/1/message": {
+                "text": "On peut jouer enssemble demain, si ça te vas.",
+                "orig": "We can play together tomorrow, if that's okay."
+        },
+        "database.json/commonEvents/glasses-join/event/6/thenStep/0/message": {
+                "text": "D-Désolé, Lea !\\. Il faut que j'ailles vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
+                "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promised!"
+        },
         "database.json/commonEvents/glasses-join/event/7/thenStep/0/message": {
                 "orig": "Hello Lea! We're waiting in the \\c[3]Cross Central\\c[0] right in front of the entrance to \\c[3]Rhombus Square\\c[0]!",
                 "text": "Bonjour Lea ! On attend au \\c[3]Cross Central\\c[0] juste en face de l'entrée de \\c[3]Rhombus Square\\c[0] !"
@@ -5496,6 +6557,18 @@
         "database.json/commonEvents/apollo-contact/event/4/thenStep/4/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "database.json/commonEvents/apollo-contact/event/5/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/apollo-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Donner des indices vers le nouveau donjon (entendu des rumeurs réjouissantes et doit trouver la vérité à propos de ça)",
+                "orig": "TODO: Hinting towards new Dungeon (heard some very exciting rumors and has to figure out the truth about it)"
+        },
+        "database.json/commonEvents/apollo-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
         },
         "database.json/commonEvents/apollo-contact/event/8/thenStep/0/message": {
                 "orig": "Hi!",
@@ -5738,6 +6811,14 @@
                 "orig": "Wat.",
                 "text": "Hein."
         },
+        "database.json/commonEvents/apollo-join/event/4/thenStep/0/message": {
+                "text": "Spheromancer Lea, malheureusement il y a des affaires urgentes qui demandent toutes mon attention.",
+                "orig": "Spheromancer Lea, unfortunately there are urgent matters that fully require my attention."
+        },
+        "database.json/commonEvents/apollo-join/event/4/thenStep/1/message": {
+                "text": "Je suis certain que l'on pourra démarrer notre groupe honorable très bientôt !",
+                "orig": "I'm certain we can start our honorable party soon enough!"
+        },
         "database.json/commonEvents/apollo-join/event/5/thenStep/0/message": {
                 "orig": "Spheromancer Lea! We're waiting for you inside the \\c[3]Cross Central\\c[0]! Make haste!",
                 "text": "Spheromancer Lea ! On t'attend à l'intérieur du \\c[3]Cross Central\\c[0] ! Fais vite !"
@@ -5789,6 +6870,18 @@
         "database.json/commonEvents/joern-contact/event/4/thenStep/3/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "database.json/commonEvents/joern-contact/event/5/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/joern-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Donner des indices vers le nouveau donjon (entendu des rumeurs réjouissantes et doit trouver la vérité à propos de ça)",
+                "orig": "TODO: Hinting towards new Dungeon (heard some very exciting rumors and has to figure out the truth about it)"
+        },
+        "database.json/commonEvents/joern-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
         },
         "database.json/commonEvents/joern-contact/event/8/thenStep/0/message": {
                 "orig": "Hi!",
@@ -5926,6 +7019,10 @@
                 "orig": "Hm?",
                 "text": "Hm ?"
         },
+        "database.json/commonEvents/joern-join/event/4/thenStep/0/message": {
+                "text": "Désolé, petite.\\. Pas le temps.",
+                "orig": "Sorry, small one.\\. No time."
+        },
         "database.json/commonEvents/joern-join/event/5/thenStep/0/message": {
                 "orig": "We're currently at \\c[3]Cross Central\\c[0] waiting for you. I'm looking forward to seeing the city.",
                 "text": "On est actuellement au \\c[3]Cross Central\\c[0] en train de t'attendre. Je suis impatient de voir la ville."
@@ -5969,6 +7066,26 @@
         "database.json/commonEvents/schneider-contact/event/1/thenStep/0/text": {
                 "orig": "Still feels too awkward contacting him now...",
                 "text": "Ce serait encore trop embarrassant de le contacter maintenant..."
+        },
+        "database.json/commonEvents/schneider-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/schneider-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Mentionner la Réunion du Donjon",
+                "orig": "TODO: Mention Dungeon Meeting"
+        },
+        "database.json/commonEvents/schneider-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/schneider-contact/event/9/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue avant la Réunion du Raid",
+                "orig": "TODO: Dialog before Raid Meeting"
+        },
+        "database.json/commonEvents/schneider-contact/event/10/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue pendant la visite du \\v[area.evo-village.name]",
+                "orig": "TODO: Dialog during homestedt tour"
         },
         "database.json/commonEvents/schneider-contact/event/11/thenStep/0/message": {
                 "orig": "Hi!",
@@ -6198,6 +7315,33 @@
                 "orig": "...",
                 "text": "..."
         },
+        "database.json/commonEvents/schneider-join/event/4/thenStep/0/message": {
+                "text": "Hé ! Est-ce que Emilie t'as parlé à propos de la réunion ?",
+                "quality": "unknown",
+                "orig": "Hey! Didn't Emilie tell you about the meeting?"
+        },
+        "database.json/commonEvents/schneider-join/event/4/thenStep/1/message": {
+                "text": "On est actuellement à l'\\c[3]hôtel de ville\\c[0] de \\c[3]\\v[area.evo-village.name]\\c[0].\\. Tu devrais nous rejoindre !",
+                "quality": "unknown",
+                "note": "evo-village is unknown",
+                "orig": "We're currently in the \\c[3]city hall\\c[0] of \\c[3]Homestedt\\c[0].\\. You should join us!"
+        },
+        "database.json/commonEvents/schneider-join/event/5/thenStep/0/message": {
+                "text": "Désolé Lea !\\. J'ai d'autre chose à faire là maintenant.",
+                "orig": "Sorry Lea!\\. I got something else to do right now."
+        },
+        "database.json/commonEvents/schneider-join/event/5/thenStep/1/message": {
+                "text": "Mais je pense que mon nouveau clone devrait avoir du temps libre.",
+                "orig": "But I think my new clone should currently have some free time."
+        },
+        "database.json/commonEvents/schneider-join/event/5/thenStep/2/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "database.json/commonEvents/schneider-join/event/6/thenStep/0/message": {
+                "text": "On est tous à l'hôtel de ville pour cette réunion à propos de la course au donjon.\\. Tu devrais nous rejoindre !",
+                "orig": "We're all in the city hall for that meeting about the dungeon run.\\. You should join us!"
+        },
         "database.json/commonEvents/schneider-join/event/7/0_0/0/message": {
                 "orig": "Wanna stroll around with a good-old Triblader? Sure thing.",
                 "text": "Tu veux te balader avec un bon vieux Triblader ? C'est bon."
@@ -6221,6 +7365,14 @@
         "database.json/commonEvents/schneider-remove/event/4/0_2/0/message": {
                 "orig": "My work here is done!",
                 "text": "Mon travail ici est terminé !"
+        },
+        "database.json/commonEvents/shizuka-contact/event/4/thenStep/0/text": {
+                "text": "À FAIRE : Parler d'entraîner Satoshi",
+                "orig": "TODO: Talking about training Satoshi"
+        },
+        "database.json/commonEvents/shizuka-contact/event/5/thenStep/0/text": {
+                "text": "À FAIRE : Attends toujours devant la porte du Bâtiment de Satoshi",
+                "orig": "TODO: Still waiting at the door of Satoshi's Building"
         },
         "database.json/commonEvents/shizuka-contact/event/6/thenStep/0/message": {
                 "orig": "Hi!",
@@ -6306,6 +7458,14 @@
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
+        "database.json/commonEvents/shizuka-join/event/4/thenStep/0/message": {
+                "text": "Désolé, Lea.\\. L'entrainement avec mon frère déséspérant demande toute mon attention.",
+                "orig": "Sorry, Lea.\\. Training with my hopeless brother required my full attention."
+        },
+        "database.json/commonEvents/shizuka-join/event/4/thenStep/1/message": {
+                "text": "Je suis sûre que je pourrais jouer bientôt !",
+                "orig": "I'm sure we'll be able to play soon enough!"
+        },
         "database.json/commonEvents/shizuka-join/event/5/message": {
                 "orig": "Thanks for the offer, but I don't think I can be of much help.",
                 "text": "Merci pour l'offre, mais je pense pas pouvoir beaucoup t'aider."
@@ -6330,9 +7490,93 @@
                 "orig": "Yeah, I think I played enough for today...",
                 "text": "Oui, je pense que j'ai assez joué pour aujourd'hui..."
         },
+        "database.json/commonEvents/luke-contact/event/4/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/luke-contact/event/5/thenStep/0/text": {
+                "text": "À FAIRE : Réunion du Donjon !",
+                "orig": "TODO: Dungeon Meeting!"
+        },
+        "database.json/commonEvents/luke-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue secrèt pendant la balade avec Shizuka",
+                "orig": "TODO: Secret Dialog while going around with Shizuka"
+        },
+        "database.json/commonEvents/luke-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Épuisé après avoir exploré la nouvelle région",
+                "orig": "TODO: Tired after exploring new area"
+        },
+        "database.json/commonEvents/luke-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/luke-contact/event/9/thenStep/0/text": {
+                "text": "À FAIRE : Attends à l'île de Para",
+                "orig": "TODO: Waiting in Para Island"
+        },
+        "database.json/commonEvents/luke-contact/event/10/thenStep/0/text": {
+                "text": "À FAIRE : Fait une pause à \\v[area.evo-village.name]",
+                "orig": "TODO: Taking a break in Homestedt"
+        },
+        "database.json/commonEvents/luke-contact/event/11/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue avant la réunion pour le raid.",
+                "orig": "TODO: Dialog before raid meeting."
+        },
         "database.json/commonEvents/luke-contact/event/12/message": {
                 "orig": "Hi!",
                 "text": "Salut !"
+        },
+        "database.json/commonEvents/luke-contact/event/13/message": {
+                "text": "Bonjour ! [À FAIRE: mettre un vrai dialogue]",
+                "orig": "Hello! [TODO: insert proper Dialog]"
+        },
+        "database.json/commonEvents/luke-join/event/4/thenStep/0/message": {
+                "text": "T'es au courant ? Il y a un tas de non-Évotar qui sont réunis à l'\\c[3]hôtel de ville\\c[0], qui font comme s'ils étaient chez eux.",
+                "orig": "Have you heard? There's a bunch of non-Evotars meeting in the \\c[3]city hall\\c[0], acting like it's their village."
+        },
+        "database.json/commonEvents/luke-join/event/4/thenStep/1/message": {
+                "text": "Non, vraiment, on a l'intention de courrir le donjon tous enssemble.\\. Tu devrais venir !",
+                "orig": "No really, we're planning to run the new dungeon together.\\. You should join us!"
+        },
+        "database.json/commonEvents/luke-join/event/5/thenStep/0/message": {
+                "text": "Nan, il est trop tard pour moi.\\. La course était vraiment fatiguante.",
+                "orig": "Nah, too late for me.\\. Running the new area was quite exhausting, really."
+        },
+        "database.json/commonEvents/luke-join/event/5/thenStep/1/message": {
+                "text": "On peut commencer un groups demain si tu veux !",
+                "orig": "We can start a party tomorrow if you like!"
+        },
+        "database.json/commonEvents/luke-join/event/6/thenStep/0/message": {
+                "text": "Hé, Lea !\\. Le raid va bientôt commencer !",
+                "orig": "Hey, Lea!\\. The raid is about to begin!"
+        },
+        "database.json/commonEvents/luke-join/event/6/thenStep/1/message": {
+                "text": "On a prévu de se rencontrer sur l'\\c[3]île de Para\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0] !\\. Je suis déjà là-bas !",
+                "orig": "The plan is to meet at \\c[3]Para Island\\c[0] in \\c[3]Autumn's Fall\\c[0]!\\. I'm already there!"
+        },
+        "database.json/commonEvents/luke-join/event/7/thenStep/0/message": {
+                "text": "Hé, Lea ! Tu ne crois pas qu'il est un peu \\c[3]trop tard\\c[0] pour commencer un groupe tout de suite ?",
+                "orig": "Hey, Lea! Don't you think it's a bit \\c[3]too late\\c[0] to start a party now?"
+        },
+        "database.json/commonEvents/luke-join/event/7/thenStep/1/message": {
+                "text": "Je suis en train de me reposer.\\. Demain est un autre jour !",
+                "orig": "I'm currently just taking a break.\\. Tomorrow is another day!"
+        },
+        "database.json/commonEvents/luke-join/event/7/thenStep/2/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "database.json/commonEvents/luke-join/event/8/0_0/0/message": {
+                "text": "Bien sûr ! Ravi de te rejoindre.",
+                "orig": "Sure thing! Glad to join."
+        },
+        "database.json/commonEvents/luke-remove/event/4/0_0/0/message": {
+                "text": "Ça me va. À la prochaine !",
+                "orig": "Fair enough. Until next time!"
+        },
+        "database.json/commonEvents/luke-remove/event/4/0_1/0/message": {
+                "text": "Mon travail ici est terminé !",
+                "orig": "My work here is done!"
         },
         "database.json/commonEvents/hlin-contact/event/0/thenStep/0/text": {
                 "orig": "Now is not a good time...",
@@ -6341,6 +7585,38 @@
         "database.json/commonEvents/hlin-contact/event/1/thenStep/0/text": {
                 "orig": "Still feels too awkward contacting her now...",
                 "text": "Ce serait encore trop embarrassant de la contacter maintenant..."
+        },
+        "database.json/commonEvents/hlin-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/hlin-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Réunion du Donjon !",
+                "orig": "TODO: Dungeon Meeting!"
+        },
+        "database.json/commonEvents/hlin-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue secrèt pendant la balade avec Shizuka",
+                "orig": "TODO: Secret Dialog while going around with Shizuka"
+        },
+        "database.json/commonEvents/hlin-contact/event/9/thenStep/0/text": {
+                "text": "À FAIRE : Épuisé après avoir exploré la nouvelle région",
+                "orig": "TODO: Tired after exploring new area"
+        },
+        "database.json/commonEvents/hlin-contact/event/10/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/hlin-contact/event/11/thenStep/0/text": {
+                "text": "À FAIRE : Réunion pour le raid",
+                "orig": "TODO: Meeting for the raid"
+        },
+        "database.json/commonEvents/hlin-contact/event/12/thenStep/0/text": {
+                "text": "À FAIRE : Rappel pour la Réunion pour le Raid",
+                "orig": "TODO: Reminder for Raid Meeting"
+        },
+        "database.json/commonEvents/hlin-contact/event/13/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue pendant la visite du \\v[area.evo-village.name]",
+                "orig": "TODO: Dialog during homestedt tour"
         },
         "database.json/commonEvents/hlin-contact/event/14/thenStep/0/message": {
                 "orig": "Hi!",
@@ -6677,6 +7953,18 @@
         "database.json/commonEvents/grumpy-contact/event/1/thenStep/0/text": {
                 "orig": "Still feels too awkward contacting him now...",
                 "text": "Ce serait encore trop embarrassant de le contacter maintenant..."
+        },
+        "database.json/commonEvents/grumpy-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/grumpy-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/grumpy-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue pendant la visite du \\v[area.evo-village.name]",
+                "orig": "TODO: Dialog during homestedt tour"
         },
         "database.json/commonEvents/grumpy-contact/event/9/thenStep/0/message": {
                 "orig": "Hi!",
@@ -7041,6 +8329,18 @@
         "database.json/commonEvents/buggy-contact/event/1/thenStep/0/text": {
                 "orig": "Still feels too awkward contacting him now...",
                 "text": "Ce serait encore trop embarrassant de le contacter maintenant..."
+        },
+        "database.json/commonEvents/buggy-contact/event/6/thenStep/0/text": {
+                "text": "À FAIRE : Se préparer pour le donjon !",
+                "orig": "TODO: Get ready for dungeon!"
+        },
+        "database.json/commonEvents/buggy-contact/event/7/thenStep/0/text": {
+                "text": "À FAIRE : Explorer la nouvelle région !",
+                "orig": "TODO: Explore the new area!"
+        },
+        "database.json/commonEvents/buggy-contact/event/8/thenStep/0/text": {
+                "text": "À FAIRE : Dialogue pendant la visite du \\v[area.evo-village.name]",
+                "orig": "TODO: Dialog during homestedt tour"
         },
         "database.json/commonEvents/buggy-contact/event/9/thenStep/0/message": {
                 "orig": "Hi!",
@@ -8345,6 +9645,46 @@
                 "orig": "Rarely found in caves in \\v[area.forest.name].",
                 "text": "Se trouve rarement dans les caves de la \\v[area.forest.name]."
         },
+        "database.json/drops/Final-Plant-A/name": {
+                "text": "Pousse Cône Alpha",
+                "orig": "Alpha Cone Sprout"
+        },
+        "database.json/drops/Final-Plant-A/subArea": {
+                "text": "Se trouve communément près des arbres au \\v[area.final-dng.name].",
+                "orig": "Commonly found near trees in \\v[area.final-dng.name]."
+        },
+        "database.json/drops/Final-Plant-B/name": {
+                "text": "Pousse Cône Béta",
+                "orig": "Beta Cone Sprout"
+        },
+        "database.json/drops/Final-Plant-B/subArea": {
+                "text": "Se trouve communément près des arbres au \\v[area.final-dng.name].",
+                "orig": "Commonly found near trees in \\v[area.final-dng.name]."
+        },
+        "database.json/drops/Final-Plant-C/name": {
+                "text": "Pousse Cône Gamma",
+                "orig": "Gamma Cone Sprout"
+        },
+        "database.json/drops/Final-Plant-C/subArea": {
+                "text": "Se trouve communément près de l'eau au \\v[area.final-dng.name].",
+                "orig": "Commonly found near water in \\v[area.final-dng.name]."
+        },
+        "database.json/drops/Final-Plant-D/name": {
+                "text": "Pousse Cône Delta",
+                "orig": "Delta Cone Sprout"
+        },
+        "database.json/drops/Final-Plant-D/subArea": {
+                "text": "Se trouve communément près de l'eau au \\v[area.final-dng.name].",
+                "orig": "Commonly found near water in \\v[area.final-dng.name]."
+        },
+        "database.json/drops/Final-Planet-E/name": {
+                "text": "Tesson Alpha",
+                "orig": "Alpha Shard"
+        },
+        "database.json/drops/Final-Planet-E/subArea": {
+                "text": "Se trouve communément près des grandes formations de cristal au \\v[area.final-dng.name].",
+                "orig": "Commonly found near larger crystal formations in \\v[area.final-dng.name]."
+        },
         "database.json/drops/STONE_VALOR/name": {
                 "orig": "Sprout of Valor",
                 "text": "Pousse de l'Héroïsme"
@@ -8461,9 +9801,49 @@
                 "orig": "AA_TUTORIAL_1",
                 "text": "AA_TUTORIEL_1"
         },
+        "database.json/drops/AA_TUTORIAL_1/subArea": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
         "database.json/drops/AA_TUTORIAL_2/name": {
                 "orig": "AA_TUTORIAL_2",
                 "text": "AA_TUTORIEL_2"
+        },
+        "database.json/drops/AA_TUTORIAL_2/subArea": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "database.json/drops/Beach-Pink-1/name": {
+                "text": "Corail Alpha",
+                "orig": "Alpha Coral"
+        },
+        "database.json/drops/Beach-Pink-1/subArea": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "database.json/drops/Beach-Pink-2/name": {
+                "text": "Corail Beta",
+                "orig": "Beta Coral"
+        },
+        "database.json/drops/Beach-Pink-2/subArea": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "database.json/drops/Beach-Green-1/name": {
+                "text": "Plage-Verte-1",
+                "orig": "Beach-Green-1"
+        },
+        "database.json/drops/Beach-Green-2/name": {
+                "text": "Plage-Verte-2",
+                "orig": "Beach-Green-2"
+        },
+        "database.json/drops/Beach-Grey-1/name": {
+                "text": "Plage-Grise-1",
+                "orig": "Beach-Grey-1"
+        },
+        "database.json/drops/Beach-Grey-2/name": {
+                "text": "Plage-Grise-2",
+                "orig": "Beach-Grey-2"
         },
         "database.json/enemies/snowman/name": {
                 "orig": "Karotto",
@@ -8723,6 +10103,47 @@
                 "orig": "Peace and Tranquility, my friend. The only way to defeat it is to sit and listen.",
                 "text": "Paix et Tranquillité, mon ami. Le seul moyen de le vaincre et de s'asseoir et d'écouter."
         },
+        "database.json/enemies/final.crystal-heat/name": {
+                "text": "Crystalide Chaud",
+                "orig": "Heat Crystalid"
+        },
+        "database.json/enemies/final.crystal-heat/species": {
+                "text": "Crystal",
+                "orig": "Crystal"
+        },
+        "database.json/enemies/final.crystal-cold/name": {
+                "text": "Cristalide Froid",
+                "orig": "Cold Crystalid"
+        },
+        "database.json/enemies/final.crystal-cold/species": {
+                "text": "Crystal",
+                "orig": "Crystal"
+        },
+        "database.json/enemies/final.crystal-shock/name": {
+                "text": "Cristalide Choc",
+                "orig": "Shock Crystalid"
+        },
+        "database.json/enemies/final.crystal-shock/species": {
+                "text": "Crystal",
+                "orig": "Crystal"
+        },
+        "database.json/enemies/final.crystal-wave/name": {
+                "text": "Cristalide Onde",
+                "orig": "Wave Crystalid"
+        },
+        "database.json/enemies/final.crystal-wave/species": {
+                "text": "Crystal",
+                "orig": "Crystal"
+        },
+        "database.json/enemies/guest.firespirit/name": {
+                "text": "Mizree",
+                "quality": "unknown",
+                "orig": "Mizree"
+        },
+        "database.json/enemies/guest.firespirit/species": {
+                "text": "Quelque-chose qui Brûle",
+                "orig": "Burning Something"
+        },
         "database.json/enemies/arid.virus-neutral/name": {
                 "orig": "Neutral Virus",
                 "text": "Virus Neutre"
@@ -8865,6 +10286,10 @@
                 "orig": "This training dummy is used for new players to test \\c[3]Combat Arts\\c[0] and other techniques without the fear of getting attacked.\n ",
                 "text": "Ce sac d'entrainement est utilisé par les nouveaux joueurs pour tester les \\c[3]Arts de Combats\\c[0] et d'autres techniques sans risquer d'être attaqués."
         },
+        "database.json/enemies/minibosses.snow-megatank-orb/name": {
+                "text": "Orbe du Tank des Neiges",
+                "orig": "Snowtank Orb"
+        },
         "database.json/enemies/minibosses.snow-megatank-orb/species": {
                 "text": "Orbe du Tank",
                 "orig": "Orb of Tank"
@@ -8991,6 +10416,14 @@
                 "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful.",
                 "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise."
         },
+        "database.json/enemies/final.gynthar/name": {
+                "text": "Gynthar",
+                "orig": "Gynthar"
+        },
+        "database.json/enemies/final.gynthar/species": {
+                "text": "Mec Cool",
+                "orig": "Chill Dude"
+        },
         "database.json/enemies/boss.designer-1/name": {
                 "orig": "???",
                 "text": "???"
@@ -9090,6 +10523,18 @@
         "database.json/enemies/avatar.wervyn/species": {
                 "orig": "Human",
                 "text": "Humain"
+        },
+        "database.json/enemies/avatar.apollo-4/name": {
+                "text": "Apollo",
+                "orig": "Apollo"
+        },
+        "database.json/enemies/avatar.apollo-4/species": {
+                "text": "Guerrier de la Justice",
+                "orig": "Warrior of Justice"
+        },
+        "database.json/enemies/avatar.apollo-4/descriptions/0/text": {
+                "text": "Oh non, apollo est de retour avec sa trompette !",
+                "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful."
         },
         "database.json/enemies/hedgehog/name": {
                 "orig": "Hedgehag",
@@ -9406,6 +10851,18 @@
                 "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0].",
                 "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0]."
         },
+        "database.json/enemies/cold.goat-worker/name": {
+                "text": "Bouc Travailleur",
+                "orig": "Goat Worker"
+        },
+        "database.json/enemies/cold.goat-worker/species": {
+                "text": "Mammifère",
+                "orig": "Mammal"
+        },
+        "database.json/enemies/cold.goat-worker/descriptions/0/text": {
+                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0].",
+                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0]."
+        },
         "database.json/enemies/mine-coldbug/name": {
                 "orig": "Fleazer",
                 "text": "Pugèleur"
@@ -9695,6 +11152,18 @@
                 "orig": "Turns out that these fiends are part of the track's attempt to fix itself. Something went wrong and the cats interpreted humans and shads as part of the problem. ",
                 "text": "Il semblerait que ces bestioles fassent partie de la tentative du tracé de se réparer lui-même. Quelque chose s'est mal passé et les chats ont interprété les humains et les shads comme étant la cause du problème."
         },
+        "database.json/enemies/jungle.special.shockat-capture/name": {
+                "text": "Pichat",
+                "orig": "Picat"
+        },
+        "database.json/enemies/jungle.special.shockat-capture/species": {
+                "text": "Mammifère",
+                "orig": "Mammal"
+        },
+        "database.json/enemies/jungle.special.shockat-capture/descriptions/0/text": {
+                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénaires violets.  Ils sont connus pour être encore plus puissants et pour leur production plus consistante d'énergie éléctrique, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existance a été découverte par un Shad intélligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !",
+                "orig": "This yellow variant of the common \\v[combat.name.jungle/shockcat] usually lives in more remote places than their purple counterparts. They are known for having an even stronger and also more consistent output of electricity which makes them very useful for powering devices!\n\nConveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!"
+        },
         "database.json/enemies/jungle.special.quest_td_shockcat_2/name": {
                 "orig": "Tunnel Shockcat",
                 "text": "Tunnel Chachoc"
@@ -9754,6 +11223,19 @@
         "database.json/enemies/jungle.special.parrot-gangster-2/descriptions/0/text": {
                 "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
                 "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
+        },
+        "database.json/enemies/cold.parrot-gangster-3/name": {
+                "text": "Pépéganster Casse-noisette",
+                "note": "casse-bonbon ?",
+                "orig": "Papagangster Nutbuster"
+        },
+        "database.json/enemies/cold.parrot-gangster-3/species": {
+                "text": "Oiseau Hors La Loi",
+                "orig": "Lawless Bird"
+        },
+        "database.json/enemies/cold.parrot-gangster-3/descriptions/0/text": {
+                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés.",
+                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods."
         },
         "database.json/enemies/jungle.sloth/name": {
                 "orig": "Behesloth",
@@ -9955,6 +11437,27 @@
                 "orig": "A huge snail with an enormous amount of HP. It's slow but it can use its huge body to jump on top of you or spin around the arena leaving an icy trail. It will also spit out slugs that move towards its enemy and explode. Attack its tail to stun it and attack. \nHowever, this will not even leave a scratch. You need something better to have a chance at draining its HP pool.",
                 "text": "Un énorme escargot avec une quantité énorme d'HPs. Il est lent mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans l'arène en laissant une trainée de glace. Il va aussi cracher des limaces qui se dirigeront vers leur ennemi pour exploser. Attaquez sa queue pour l'étourdir et l'affaiblir.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous aurrez besoin de quelque chose de mieux pour espérer drainer sa quantité d'HP."
         },
+        "database.json/enemies/guest.honeybear/name": {
+                "text": "Ours de Miel",
+                "orig": "Honeybear"
+        },
+        "database.json/enemies/guest.honeybear/species": {
+                "text": "Ours",
+                "orig": "Bear"
+        },
+        "database.json/enemies/final.colibri/name": {
+                "text": "Hummagnum",
+                "quality": "unknown",
+                "orig": "Hummagnum"
+        },
+        "database.json/enemies/final.colibri/species": {
+                "text": "Sniper Silencieux",
+                "orig": "Silent Sniper"
+        },
+        "database.json/enemies/final.colibri/descriptions/0/text": {
+                "text": "Armé d'une bouche qui sert aussi de fusil sniper, cet oiseau ne fait pas dans la demi-mesure. Il peut en une fraction de seconde réagir à tous mouvement et éviter tous les projectiles. Mais un tir de son bec et une ésquive lui demande beaucoup d'énergie, ce qui le rend vulnérable pour une contre-attaque.",
+                "orig": "Armed with a mouth that doubles as a sniper gun, this bird does not mess around. It can react to any movement in a split second and will dodge all incoming fire. However a shot from its beak and a dodge takes a lot of energy leaving it open for a counter attack."
+        },
         "database.json/enemies/frobbit-miniboss-gallant/name": {
                 "orig": "Gallant Frobbit",
                 "text": "Grelapin Galant"
@@ -10050,6 +11553,142 @@
         "database.json/enemies/heat.drillertoise-OLD/species": {
                 "orig": "Reptile",
                 "text": "Reptile"
+        },
+        "database.json/enemies/guest.sao/name": {
+                "text": "Sao",
+                "orig": "Sao"
+        },
+        "database.json/enemies/guest.sao/species": {
+                "text": "Ninja",
+                "orig": "Ninja"
+        },
+        "database.json/enemies/template/name": {
+                "text": "patron",
+                "orig": "template"
+        },
+        "database.json/enemies/template/species": {
+                "text": "????",
+                "orig": "????"
+        },
+        "database.json/enemies/beach.fish-beach/name": {
+                "text": "Poisson de Plage",
+                "orig": "beach.fish-beach"
+        },
+        "database.json/enemies/beach.fish-beach/species": {
+                "text": "Poisson Flottant",
+                "orig": "Floating Fish"
+        },
+        "database.json/enemies/beach.fish-beach/descriptions/0/text": {
+                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde.",
+                "orig": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard."
+        },
+        "database.json/enemies/beach.bug-samurai-beach/name": {
+                "text": "Insecte Samurai de Plage",
+                "orig": "beach.bug-samurai-beach"
+        },
+        "database.json/enemies/beach.bug-samurai-beach/species": {
+                "text": "Insecte Honorable",
+                "orig": "Honorable Insect"
+        },
+        "database.json/enemies/beach.bug-samurai-beach/descriptions/0/text": {
+                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux.",
+                "orig": "This bug is a true warrior and master of the hidden arts of the blade. Trained by a master since its birth it takes down enemies with powerful strikes. Strikes so powerful they combust the air around them and create flames."
+        },
+        "database.json/enemies/beach.bug-samurai-beach/descriptions/1/text": {
+                "text": "Leurs armes de prédilection sont des épées duales connues sous le nom de \"Lames Soleils\". Quand il est menacé, il peut faire apparaitre une barrière de chaleur et peut utiliser une attaque de feinte en sautant derrière ses ennemis suivis d'un tourbillon de feu énorme.",
+                "orig": "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl."
+        },
+        "database.json/enemies/beach.hedgehog-beach/name": {
+                "text": "Harrison de Plage",
+                "orig": "beach.hedgehog-beach"
+        },
+        "database.json/enemies/beach.hedgehog-beach/species": {
+                "text": "Mammifère",
+                "orig": "Mammal"
+        },
+        "database.json/enemies/beach.hedgehog-beach/descriptions/0/text": {
+                "text": "Cette sous-espèce du \\v[combat.name.hedgehog] commun peut uniquement se trouver à \\c[3]\\v[area.autumn-fall.name]\\c[0]. Leurs piquants sont très noirs et leur point rouge sur leur derrière est prévu pour effrayer de potentiels prédateurs vu qu'il a la couleur du sang.\nMalgré cela, ces créatures sont passives et n'attaquent que si elles sont attaquées. Ils utiliseront le même arsenal d'attaques que les \\v[combat.name.hedgehog]s et les \\v[combat.name.hedgehog]s Âgés mais vont sprinter deux fois.",
+                "orig": "This sub-species of the common \\v[combat.name.hedgehog] can only be found in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Their needles are pitch black and the red patch on their back is meant to scare off potential predators since it looks like blood. \nDespite all this, these creatures are passive and only attack when attacked. They will use the same attacks \\v[combat.name.hedgehog] and \\v[combat.name.hedgehog-alt] use but will mix up the dash attack by attacking twice in a row."
+        },
+        "database.json/enemies/beach.penguin-beach/name": {
+                "text": "Manchot de Plage",
+                "orig": "beach.penguin-beach"
+        },
+        "database.json/enemies/beach.penguin-beach/species": {
+                "text": "Oiseau",
+                "orig": "Bird"
+        },
+        "database.json/enemies/beach.penguin-beach/descriptions/0/text": {
+                "text": "Un pingouin. Sur une montagne. Comment il s'est retrouvé là, personne ne le sait, et ne le saura jamais. Il va lancer des boules de neiges à ses ennemis et va glisser dessus. Lorsqu'il est poussé dans l'eau, il va rapidement en sauter et attaquer en piqué, donc gardez toujours un œil autour de vous.",
+                "orig": "A penguin on a mountain. How it made its way up here shall be forever unknown to mankind. It will throw snowballs at its enemies and slide at them. When pushed into the water they will jump out and attack with a fast divebomb, so watch out for your surroundings."
+        },
+        "database.json/enemies/beach.penguin-beach/descriptions/1/text": {
+                "text": "Le \\v[combat.name.minibosses/penguin-rapper] peut utiliser des différentes formes de beatboxing pour l'animer pour attaquer en formation avec d'autres membres de son espèce.",
+                "orig": "The \\v[combat.name.minibosses/penguin-rapper] can use various forms of beatbox to animate it to attack in formation with other members of its kind."
+        },
+        "database.json/enemies/beach.sandworm-beach/name": {
+                "text": "Ver de Terre de Plage",
+                "orig": "beach.sandworm-beach"
+        },
+        "database.json/enemies/beach.sandworm-beach/species": {
+                "text": "Ver",
+                "orig": "Worm"
+        },
+        "database.json/enemies/beach.sandworm-beach/descriptions/0/text": {
+                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement.",
+                "orig": "These slimy creatures spend most of their time halfway underground almost looking like a deformed stone. Their bodies are extremely flexible and can fit into holes the size of a hand. \nIronically they do not like overheating and will get extremely hostile when exposed to it for too long. In their enraged form they will spit out scorching hot rocks and move much faster."
+        },
+        "database.json/enemies/beach.sandworm-beach/descriptions/1/text": {
+                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère.",
+                "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body."
+        },
+        "database.json/enemies/minibosses.raid-core/name": {
+                "text": "Noyau de Raid",
+                "orig": "minibosses.raid-core"
+        },
+        "database.json/enemies/minibosses.raid-core/species": {
+                "text": "????",
+                "orig": "????"
+        },
+        "database.json/enemies/minibosses.raid-dispenser/name": {
+                "text": "Distributeur de Raid",
+                "orig": "minibosses.raid-dispenser"
+        },
+        "database.json/enemies/minibosses.raid-dispenser/species": {
+                "text": "????",
+                "orig": "????"
+        },
+        "database.json/enemies/minibosses.raid-face/name": {
+                "text": "Tronche de Raid",
+                "orig": "minibosses.raid-face"
+        },
+        "database.json/enemies/minibosses.raid-face/species": {
+                "text": "????",
+                "orig": "????"
+        },
+        "database.json/enemies/minibosses.raid-turret-small/name": {
+                "text": "Petite Tourelle de Raid",
+                "orig": "minibosses.raid-turret-small"
+        },
+        "database.json/enemies/minibosses.raid-turret-small/species": {
+                "text": "????",
+                "orig": "????"
+        },
+        "database.json/enemies/minibosses.raid-turret/name": {
+                "text": "Tourelle de Raid",
+                "orig": "minibosses.raid-turret"
+        },
+        "database.json/enemies/minibosses.raid-turret/species": {
+                "text": "????",
+                "orig": "????"
+        },
+        "database.json/enemies/minibosses.raid-laser/name": {
+                "text": "Laser de Raid",
+                "orig": "minibosses.raid-laser"
+        },
+        "database.json/enemies/minibosses.raid-laser/species": {
+                "text": "????",
+                "orig": "????"
         },
         "database.json/enemies/mouse-bot/name": {
                 "orig": "Beta Mouse Bot",
@@ -10156,6 +11795,10 @@
                 "orig": "Floating Sentry",
                 "text": "Sentinelle Flottante"
         },
+        "database.json/enemies/autumn-rh.turret_float-quest_naval/descriptions/0/text": {
+                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0].",
+                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
+        },
         "database.json/enemies/autumn-rh.suicider_float-quest_naval/name": {
                 "orig": "Illegal Floating Bomber",
                 "text": "Bombardier Flottant Illégal"
@@ -10179,6 +11822,18 @@
         "database.json/enemies/autumn-rh.turret_big_float-quest_naval/descriptions/0/text": {
                 "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
                 "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
+        },
+        "database.json/enemies/autumn-rh.turret_boss-quest_naval/name": {
+                "text": "Coordinateur Illégal",
+                "orig": "Illegal Coordinator"
+        },
+        "database.json/enemies/autumn-rh.turret_boss-quest_naval/species": {
+                "text": "Tourelle Flottante Coordinatrice",
+                "orig": "Floating Coordinator Turret"
+        },
+        "database.json/enemies/autumn-rh.turret_boss-quest_naval/descriptions/0/text": {
+                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0].",
+                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
         },
         "database.json/enemies/special.target-bot/name": {
                 "orig": "Tr4in-0",
@@ -10432,6 +12087,46 @@
                 "orig": "A wave-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\nWhen fighting against it, it will attack with wave-based punch attacks or heal other brutes.",
                 "text": "Une variante onde de la Brute de Sécurité. En mode patrouille il agira comme les autres, en indiquant à la tour laser et à toutes les autres brutes lorsqu'un intrus a été trouvé.\nLorsqu'on le combat, il attaquera avec des attaques d'ondes ou guérira les autres brutes."
         },
+        "database.json/enemies/final.ele-pillar-heat/name": {
+                "text": "Statue de Chaud",
+                "orig": "Heat Statue"
+        },
+        "database.json/enemies/final.ele-pillar-heat/species": {
+                "text": "Ne porte rien",
+                "orig": "Not supporting anything"
+        },
+        "database.json/enemies/final.ele-pillar-cold/name": {
+                "text": "Statue de Froid",
+                "orig": "Cold Statue"
+        },
+        "database.json/enemies/final.ele-pillar-cold/species": {
+                "text": "Ne porte rien",
+                "orig": "Not supporting anything"
+        },
+        "database.json/enemies/final.ele-pillar-shock/name": {
+                "text": "Statue de Choc",
+                "orig": "Shock Statue"
+        },
+        "database.json/enemies/final.ele-pillar-shock/species": {
+                "text": "Ne porte rien",
+                "orig": "Not supporting anything"
+        },
+        "database.json/enemies/final.ele-pillar-wave/name": {
+                "text": "Statue d'Onde",
+                "orig": "Wave Statue"
+        },
+        "database.json/enemies/final.ele-pillar-wave/species": {
+                "text": "Ne porte rien",
+                "orig": "Not supporting anything"
+        },
+        "database.json/enemies/final.guardian/name": {
+                "text": "Statue Gardienne",
+                "orig": "Guardian Statue"
+        },
+        "database.json/enemies/final.guardian/species": {
+                "text": "Immitation de Décoration",
+                "orig": "Wild Decoration"
+        },
         "database.json/enemies/arid.element-turret-boss/name": {
                 "orig": "Final Turret IX",
                 "text": "Final Tourelle IX"
@@ -10484,6 +12179,14 @@
                 "text": "Pincerstonk i6 GXO2",
                 "orig": "Pincerstonk i6 GXO2"
         },
+        "database.json/enemies/minibosses.scorpion-boss/species": {
+                "text": "Scorpion Meca",
+                "orig": "Mecha Scorpion"
+        },
+        "database.json/enemies/minibosses.scorpion-boss/descriptions/0/text": {
+                "text": "Une Star Piqueuse Steam ! Hautement avancée et empli de pouvoir.",
+                "orig": "A Steam Stinger Star! Highly Advanced and full of power."
+        },
         "database.json/enemies/minibosses.fish-mega-gear/name": {
                 "orig": "Mecha Gear FISH",
                 "text": "Mecha Gear POISSON"
@@ -10495,6 +12198,14 @@
         "database.json/enemies/minibosses.fish-mega-gear/descriptions/0/text": {
                 "orig": "It can't be!",
                 "text": "Impossible !"
+        },
+        "database.json/enemies/minibosses.scorpion-boss-pole/name": {
+                "text": "Pôle de Pinceron",
+                "orig": "Pincerpole"
+        },
+        "database.json/enemies/minibosses.scorpion-boss-pole/species": {
+                "text": "Pole de Scorpion",
+                "orig": "Pole of Scorpion"
         },
         "database.json/enemies/arid.element-turret/name": {
                 "orig": "Final Turret Companion",
@@ -10564,6 +12275,10 @@
         "database.json/enemies/beat-bot/name": {
                 "orig": "Cargo Boss Test 2",
                 "text": "Test du Boss Cargo 2"
+        },
+        "database.json/enemies/beat-bot/species": {
+                "text": "TESTEUR",
+                "orig": "TESTER"
         },
         "database.json/enemies/shredder/name": {
                 "orig": "Security Brute",
@@ -10777,21 +12492,73 @@
                 "orig": "Naval Weapon",
                 "text": "Arme Navale"
         },
+        "database.json/enemies/autumn-rh.boss_turret-quest_naval/name": {
+                "text": "Méga Tourelle Super Illégale",
+                "orig": "Super Illegal Mega Turret"
+        },
+        "database.json/enemies/autumn-rh.boss_turret-quest_naval/species": {
+                "text": "Sentinelle Flottante",
+                "orig": "Floating Sentry"
+        },
         "database.json/enemies/autumn-rh.boss_turret-quest_naval/descriptions/0/text": {
                 "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
                 "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
+        },
+        "database.json/enemies/autumn-rh.boss_turret-quest_navaloooooo/name": {
+                "text": "Boss Tourelle de la Quête Navaloooooo",
+                "orig": "autumn-rh.boss_turret-quest_navaloooooo"
+        },
+        "database.json/enemies/autumn-rh.boss_turret-quest_navaloooooo/species": {
+                "text": "Sentinelle Débutante",
+                "orig": "Rookie Sentry"
+        },
+        "database.json/enemies/jungle.special.capture-cage-1/name": {
+                "text": "Cage à Chat",
+                "orig": "Cat Cage"
+        },
+        "database.json/enemies/jungle.special.capture-cage-1/species": {
+                "text": "Machinerie",
+                "orig": "Machinery"
+        },
+        "database.json/enemies/final.ele-pillar-cold-old/name": {
+                "text": "Ancien Pillier Élémentaire Final Froid",
+                "orig": "final.ele-pillar-cold-old"
+        },
+        "database.json/enemies/final.ele-pillar-cold-old/species": {
+                "text": "Sentinelle Débutante",
+                "orig": "Rookie Sentry"
+        },
+        "database.json/enemies/final.god-heat/name": {
+                "text": "Dieu du Chaud Final",
+                "orig": "final.god-heat"
         },
         "database.json/enemies/final.god-heat/species": {
                 "orig": "Mecha Crab",
                 "text": "Crabe Mécanique"
         },
+        "database.json/enemies/final.god-shock/name": {
+                "text": "Dieu du Choc Final",
+                "orig": "final.god-shock"
+        },
         "database.json/enemies/final.god-shock/species": {
                 "orig": "Mecha Crab",
                 "text": "Crabe Mécanique"
         },
+        "database.json/enemies/final.god-wave/name": {
+                "text": "Dieu de l'Onde Final",
+                "orig": "final.god-wave"
+        },
         "database.json/enemies/final.god-wave/species": {
                 "orig": "Mecha Crab",
                 "text": "Crabe Mécanique"
+        },
+        "database.json/enemies/final.god-cold/name": {
+                "text": "Dieu du Froid Final",
+                "orig": "final.god-cold"
+        },
+        "database.json/enemies/final.god-cold/species": {
+                "text": "Crabe Mécanique",
+                "orig": "Mecha Crab"
         },
         "database.json/lore/prologue/title": {
                 "orig": "Prologue: \\v[chapter.name.0]",
@@ -12644,6 +14411,26 @@
         "database.json/lore/log-5/content/page-03/content": {
                 "orig": "Where it all began? Some Planet they called home? No wonder the seniors are all so interested in this. Are we close to finding a new inhabitable planet? In \\c[3]Old War\\c[0] territory? But what is this about a Singularity? I can't imagine them talking about a real one, that would be insane. But a new planet? After this message there's bound to be more expeditions into this \\c[3]SOS-Sector\\c[0].",
                 "text": "Là où tout a commencé ? Une planète qu'ils appelaient maison ? On comprend pourquoi les seniors sont tous intéressés. Est-ce qu'on est pas loin de découvrir une nouvelle planète habitable ? Dans un territoire de l'\\c[3]Ancienne Guerre\\c[0] ? Et c'était quoi le truc avec cette Singularité ? Je ne peux pas imaginer qu'ils parlaient d'une vraie, ce serait insensé. Mais une nouvelle planète ? Après un tel message, il va forcément y avoir plus d'expéditions dans ce \\c[3]Secteur SOS\\c[0]."
+        },
+        "database.json/names/0/name": {
+                "text": "Akasan",
+                "orig": "Akasan"
+        },
+        "database.json/names/1/name": {
+                "text": "Seiba",
+                "orig": "Seiba"
+        },
+        "database.json/names/2/name": {
+                "text": "X-Potato",
+                "orig": "X-Potato"
+        },
+        "database.json/names/3/name": {
+                "text": "FBK4Matsuri",
+                "orig": "FBK4Matsuri"
+        },
+        "database.json/names/4/name": {
+                "text": "Blunzetto-san",
+                "orig": "Blunzetto-san"
         },
         "database.json/names/5/name": {
                 "orig": "xX_L00T_Xx",
@@ -14550,6 +16337,10 @@
                 "orig": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]",
                 "text": "Revenez voir le \\c[3]Sergent Sterling\\c[0] au \\c[3]QG de la \\v[lore.title.faction-cold-bergen]\\c[0]"
         },
+        "database.json/quests/bg-3-goat_final/hubSettings/location": {
+                "text": "Il faut qu'on vérifie les boucs. Quelque chose se tourne pas rond ! \\c[3]- QG Garde de Bergen\\c[0]",
+                "orig": "We need to check in on the goats. Something might be afoot! \\c[3]- Bergen Guard HQ\\c[0]"
+        },
         "database.json/quests/bg-3-goat_final/name": {
                 "text": "La Vengeance des Boucs",
                 "orig": "Wrath of Goat"
@@ -14578,6 +16369,14 @@
                 "orig": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]",
                 "text": "Revenez voir le \\c[3]Sergent Sterling\\c[0] au \\c[3]QG de la \\v[lore.title.faction-cold-bergen]\\c[0]"
         },
+        "database.json/quests/bg-3-goat_final/tasks/3/task": {
+                "text": "Parlez au \\c[3]Sergent Bronzel\\c[0] au \\c[3]QG \\v[lore.title.faction-cold-jungle]\\c[0]",
+                "orig": "Talk to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]"
+        },
+        "database.json/quests/bg-3-goat_final/tasks/4/task": {
+                "text": "Résolvez l'affaire du \\c[3]Sergent Bronzel\\c[0]",
+                "orig": "Solve the case of \\c[3]Sergeant Bronzel\\c[0]"
+        },
         "database.json/quests/bg-3-goat_final/tasks/5/task": {
                 "text": "Suivez les traces jusqu'à la \\c[3]place\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
                 "orig": "Follow the lead to \\c[3]pla\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]"
@@ -14585,6 +16384,10 @@
         "database.json/quests/bg-3-goat_final/tasks/6/task": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.goat]s\\c[0]",
                 "text": "Combattez les \\c[3]Boucs Cornus\\c[0]"
+        },
+        "database.json/quests/bg-3-goat_final/tasks/7/task": {
+                "text": "Revenez voir le \\c[3]Sergent Sterling\\c[0] au \\c[3]QG de la \\v[lore.title.faction-cold-bergen]\\c[0]",
+                "orig": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]"
         },
         "database.json/quests/bergen-fancy-tophat/hubSettings/location": {
                 "orig": "Help with an irritating nuisance needed. Will require collecting of resources. \\c[3]- Trader's Den\\c[0]",
@@ -14743,9 +16546,53 @@
                 "orig": "Enter the \\c[3]Cave of Progression\\c[0] and reach the \\c[3]end of the path\\c[0] to collect an artifact",
                 "text": "Entrez dans la \\c[3]Cave de la Progression\\c[0] et atteignez la \\c[3]fin du chemin\\c[0] pour récupérer un artefact"
         },
+        "database.json/quests/monks-2-jump_challenge_2/tasks/2/task": {
+                "text": "Retournez au \\c[3]Monastère\\c[0] et parlez encore au \\c[3]Moine Kratos\\c[0]",
+                "orig": "Return to the \\c[3]Monastery\\c[0] and talk to \\c[3]Monk Kratos\\c[0] again"
+        },
         "database.json/quests/monks-2-jump_challenge_2/tasks/3/task": {
                 "orig": "Report back to \\c[3]Wise Nemuh\\c[0] in the \\c[3]Bergen Monastery\\c[0]",
                 "text": "Revenez voir le \\c[3]Sage Nemuh\\c[0] dans le \\c[3]Monastère de Bergen\\c[0]"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/hubSettings/location": {
+                "text": "Le temps est venu pour votre épreuve finale, digne \\v[lore.title.seeker]. \\c[3]- Monastère de Bergen\\c[0]",
+                "orig": "The time for the final trial has come, worthy \\v[lore.title.seeker]. \\c[3]- Bergen Monastery\\c[0]"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/name": {
+                "text": "Épreuve de l'Ascension",
+                "orig": "Trial of Ascension"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/person": {
+                "text": "Sage Nemuh",
+                "orig": "Wise Nemuh"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/description": {
+                "text": "Les \\c[3]\\v[lore.title.faction-wave-bergen]\\c[0] vous ont donné une dernière épreuve pour parfaire votre connexion au Tracé. La plus difficile des grottes vous attends !",
+                "orig": "The \\c[3]Ascension Spirits\\c[0] have given you a final trial to perfect your connection with the Track. The most challenging of caves awaits you!"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/briefing": {
+                "text": "Vous avez battu la dernière grotte et vous vous êtes élevés vers la véritable maitrise !",
+                "quality": "bad",
+                "orig": "You have beaten the final trial and ascended into true mastery!"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/tasks/0/task": {
+                "text": "Parlez au \\c[3]Moine Cratos\\c[0] au \\c[3]Monastère de Bergen\\c[0]",
+                "orig": "Talk to \\c[3]Monk Cratos\\c[0] in the \\c[3]Bergen Monastery\\c[0]"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/tasks/1/task": {
+                "text": "Entrez dans la \\c[3]Grotte de l'Ascension\\c[0] et atteignez la \\c[3]fin du chemin\\c[0] pour récupérer un artefact",
+                "quality": "unknown",
+                "note": "artefact ? check previous texts",
+                "orig": "Enter the \\c[3]Cave of Ascension\\c[0] and reach the \\c[3]end of the path\\c[0] to collect an artifact"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/tasks/2/task": {
+                "text": "Retournez au \\c[3]Monastère\\c[0] et parlez encore au \\c[3]Moine Cratos\\c[0]",
+                "note": "Cratos ou Kratos ? faut savoir !",
+                "orig": "Return to the \\c[3]Monastery\\c[0] and talk to \\c[3]Monk Cratos\\c[0] again"
+        },
+        "database.json/quests/monks-3-jump_challenge_3/tasks/3/task": {
+                "text": "Revenez voir le \\c[3]Sage Nemuh\\c[0] dans le \\c[3]Monastère de Bergen\\c[0]",
+                "orig": "Report back to \\c[3]Wise Nemuh\\c[0] in the \\c[3]Bergen Monastery\\c[0]"
         },
         "database.json/quests/monks-jump_1_bonus/hubSettings/location": {
                 "orig": "Trials should not merely be solved but perfected. Thus is the path to wisdom. \\c[3]- Bergen Monastery\\c[0]",
@@ -14922,6 +16769,96 @@
         "database.json/quests/monks-jump_2_frosty/tasks/1/task": {
                 "orig": "Beat the \\c[3]Cave of Progression\\c[0] with \"Extra Frosty\" activated",
                 "text": "Réussissez la \\c[3]Cave de la Progression\\c[0] avec \"Extra Gelé\" activé."
+        },
+        "database.json/quests/monks-jump_3_bonus/hubSettings/location": {
+                "text": "Même après l'élévation, la quête de la perfection ne s'arrète jamais. \\c[3]- Monastère de Bergen\\c[0]",
+                "orig": "Even after ascension, the pursuit of perfection never ends. \\c[3]- Bergen Monastery\\c[0]"
+        },
+        "database.json/quests/monks-jump_3_bonus/name": {
+                "text": "Défi de l'Ascension",
+                "quality": "unknown",
+                "note": "previous texts ?",
+                "orig": "Challenge of Ascension"
+        },
+        "database.json/quests/monks-jump_3_bonus/person": {
+                "text": "Moine Cratos",
+                "orig": "Monk Cratos"
+        },
+        "database.json/quests/monks-jump_3_bonus/description": {
+                "text": "Le Moine \\c[3]Cratos\\c[0] vous a donné deux épreuves supplémentaires à réussir dans la \\c[3]Grotte de l'Ascension\\c[0].\n(\\c[1]Aucun modificateur n'est actif pendant l'épreuve !\\c[0])",
+                "orig": "The Monk \\c[3]Cratos\\c[0] has given you two additional challenges to beat in the \\c[3]Cave of Ascension\\c[0].\n(\\c[1]Warning: No modifiers are active during the trial!\\c[0])"
+        },
+        "database.json/quests/monks-jump_3_bonus/briefing": {
+                "text": "Vous avez réussi les challenges supplémentaires.",
+                "orig": "You have beaten the additional challenges."
+        },
+        "database.json/quests/monks-jump_3_bonus/tasks/0/task": {
+                "text": "Réussissez les deux épreuves supplémentaires dans la \\c[3]Grotte de l'Ascension\\c[0]",
+                "orig": "Solve the two additional challenges in the \\c[3]Cave of Ascension\\c[0]"
+        },
+        "database.json/quests/monks-jump_3_bonus/tasks/0/subtasks/0/text": {
+                "text": "Challenge en Temps Limité",
+                "orig": "Timed Challenge"
+        },
+        "database.json/quests/monks-jump_3_bonus/tasks/0/subtasks/0/shortText": {
+                "text": "Faites le challenge en temps limité",
+                "orig": "Do the timed challenge"
+        },
+        "database.json/quests/monks-jump_3_bonus/tasks/0/subtasks/1/text": {
+                "text": "Challenge Gelé",
+                "orig": "Frosty Challenge"
+        },
+        "database.json/quests/monks-jump_3_bonus/tasks/0/subtasks/1/shortText": {
+                "text": "Faites le challenge gelé",
+                "orig": "Do the frosty challenge"
+        },
+        "database.json/quests/monks-jump_3_bonus/tasks/1/task": {
+                "text": "Retournez au \\c[3]Monastère de Bergen\\c[0] et parlez encore au \\c[3]Moine Cratos\\c[0]",
+                "orig": "Return to the \\c[3]Bergen Monastery\\c[0] and talk to \\c[3]Monk Cratos\\c[0] again"
+        },
+        "database.json/quests/monks-jump_3_time/name": {
+                "text": "Challenge en Temps Limité",
+                "orig": "Timed Challenge"
+        },
+        "database.json/quests/monks-jump_3_time/person": {
+                "text": "Moine Cratos",
+                "orig": "Monk Cratos"
+        },
+        "database.json/quests/monks-jump_3_time/description": {
+                "text": "Prouvez votre ferveur en réussisant la \\c[3]Grotte de l'Ascension\\c[0] en moins de \\c[3]2 minutes\\c[0] !",
+                "orig": "Prove your fervor by beating the \\c[3]Cave of Ascension\\c[0] in under \\c[3]2:00\\c[0]!"
+        },
+        "database.json/quests/monks-jump_3_time/briefing": {
+                "text": "Vous avez battu le challenge en temps limité !",
+                "orig": "You beat the \"Timed\"-challenge."
+        },
+        "database.json/quests/monks-jump_3_time/tasks/0/task": {
+                "text": "Réussissez la \\c[3]Grotte de l'Ascension\\c[0] en moins de \\c[3]2 minutes\\c[0]",
+                "orig": "Beat the \\c[3]Cave of Ascension\\c[0] in under \\c[3]2:00\\c[0]"
+        },
+        "database.json/quests/monks-jump_3_frosty/name": {
+                "text": "Challenge Gelé",
+                "orig": "Frosty Challenge"
+        },
+        "database.json/quests/monks-jump_3_frosty/person": {
+                "text": "Moine Cratos",
+                "orig": "Monk Cratos"
+        },
+        "database.json/quests/monks-jump_3_frosty/description": {
+                "text": "Prouvez votre passion en réussisant la \\c[3]Grotte de l'Ascension\\c[0] avec \\c[3]\"Extra Gelé\"\\c[0] d'activé !",
+                "orig": "Prove your passion by beating the \\c[3]Cave of Ascension\\c[0] with \\c[3]\"Extra Frosty\"\\c[0] being activated!"
+        },
+        "database.json/quests/monks-jump_3_frosty/briefing": {
+                "text": "Vous avez battu le challenge \"Gelé\" !",
+                "orig": "You beat the \"Frosty\"-challenge."
+        },
+        "database.json/quests/monks-jump_3_frosty/tasks/0/task": {
+                "text": "\\c[3]Activez \"Extra Gelé\"\\c[0] au terminal de la \\c[3]Grotte de l'Ascension\\c[0]",
+                "orig": "\\c[3]Activate \"Extra Frosty\"\\c[0] at the terminal in the \\c[3]Cave of Ascension\\c[0]"
+        },
+        "database.json/quests/monks-jump_3_frosty/tasks/1/task": {
+                "text": "Réussissez la \\c[3]Grotte de l'Ascension\\c[0] avec \"Extra Gelé\" activé",
+                "orig": "Beat the \\c[3]Cave of Ascension\\c[0] with \"Extra Frosty\" activated"
         },
         "database.json/quests/omni-1/hubSettings/location": {
                 "orig": "Need some quick money? Come find us in the\n\\c[3]Omni Gilders Base\\c[0].",
@@ -15983,7 +17920,7 @@
                 "orig": "Ey'leet"
         },
         "database.json/quests/console-pc-1/description": {
-                "text": "L'ambitieux Shad bricoleur \\c[3]Ey'leet\\c[0] à besoin de pièces détachées exclusives pour sa nouvelle machine à calculer. Il pense qu'on peut en trouver \\c[3]dans un laboratoire secret, gardé par des scorpions lourdement armés\\c[0].",
+                "text": "L'ambitieux Shad bricoleur \\c[3]Ey'leet\\c[0] à besoin de pièces exclusives pour sa nouvelle machine à calculer. Il pense qu'on peut en trouver \\c[3]dans un laboratoire secret, gardé par des scorpions lourdement armés\\c[0].",
                 "orig": "The ambitious tinkering Shad \\c[3]Ey'leet\\c[0] needs some exclusive parts for his new calculation machine. He thinks that those can be found \\c[3]in some secret lab, guarded by heavily armed Scorpions\\c[0]."
         },
         "database.json/quests/console-pc-1/briefing": {
@@ -16231,6 +18168,42 @@
                 "orig": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]",
                 "text": "Revenez voir le \\c[3]Sergent Bronzel\\c[0] au \\c[3]QG \\v[lore.title.faction-cold-jungle]\\c[0]"
         },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/hubSettings/location": {
+                "text": "Pépégangs !! \\c[3]- QG \\v[lore.title.faction-cold-jungle]\\c[0]",
+                "orig": "Papagangs!! \\c[3]- Basin Police Force HQ\\c[0]"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/name": {
+                "text": "La conspiration des Peruboucs",
+                "orig": "In Cawhoofs"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/person": {
+                "text": "Sgt. Bronzel",
+                "orig": "Sgt. Bronzel"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/description": {
+                "text": "Le gang des boucs du \\v[area.bergen-trails.name] ont peut-être formé une alliance avec le Pépégang. Enquêtez !",
+                "orig": "The goat gang of \\v[area.bergen-trails.name] might've forged an alliance with the Papagang. Investigate!"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/briefing": {
+                "text": "Chatons et Frigos pour les Shads !",
+                "orig": "Kitties and fridges for the Shad!"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/0/task": {
+                "text": "Obtenez de l'information à propos du Pépégang avec des \\c[3]personnes de l'au-delà\\c[0] dans le \\c[3]\\v[area.jungle-city.name]\\c[0] au sud-est de la \\c[3]Zone Zermi de \\v[area.jungle.name]\\c[0]",
+                "orig": "Gather information about the Papagang with \\c[3]underworld figures\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0] in Southeast \\c[3]\\v[area.jungle.name]'s Pond Slums\\c[0]"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/1/task": {
+                "text": "Trouvez la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0]",
+                "orig": "Find the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0]"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/2/task": {
+                "text": "Marchandez avec la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0] pour gagner leur confiance",
+                "orig": "Trade wuth the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0] to gain their trust"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/3/task": {
+                "text": "Revenez voir le \\c[3]Sergent Bronzel\\c[0] au \\c[3]QG \\v[lore.title.faction-cold-jungle]\\c[0]",
+                "orig": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]"
+        },
         "database.json/quests/jungleTrader-1-snowman_thief_1/hubSettings/location": {
                 "orig": "Valuable cooling devices were stolen. Need urgent investigation! \\c[3]- Basin Trade Partnership HQ\\c[0]",
                 "text": "Des climatiseurs ont été volés. Besoin d'une enquête urgente ! \\c[3]- QG Partenariat Marchand\\c[0]"
@@ -16302,6 +18275,64 @@
         "database.json/quests/jungleTrader-2-snowman_thief_2/tasks/3/task": {
                 "orig": "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]",
                 "text": "Revenez voir \\c[3]Mme Basu\\c[0] dans le \\c[3]QG du \\v[lore.title.faction-shock-jungle]\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/hubSettings/location": {
+                "text": "Besoin de commerciaux pour étendre nos affaires frigides ! \\c[3]- QG \\v[lore.title.faction-shock-jungle]\\c[0]",
+                "note": "tes affaires frigide barjot ?",
+                "orig": "Need sales representative to expand our fridging business! \\c[3]- Basin Trade Partnership HQ\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/name": {
+                "text": "Frigo Cherche Client",
+                "quality": "unknown",
+                "orig": "Riches with Fridges"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/person": {
+                "text": "Mme Basu",
+                "orig": "Mrs Basu"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/description": {
+                "text": "M. Frigo cherche d'autres clients potentiels. Peut-être que les Shad pourraient être un nouveau marché lucratif ?",
+                "orig": "Mr Frigo is searching for more business opportunities. Maybe the Shad can prove to be a lucrative untapped market?"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/briefing": {
+                "text": "Le village de Shad a maintenant accès à l'éléctricité et à tous les appareils éléctriques pratiques qui vont avec, vendus par M. Frigo.",
+                "orig": "The Shad village has now access to electricity and all the practical devices that run with it, bought from Mr Frigo."
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/0/task": {
+                "text": "Trouvez un client shad interessé au \\c[3]Village Shad\\c[0] au sud-east du \\c[3]\\v[area.jungle.name]\\c[0]",
+                "orig": "Find an interested shad customer in the \\c[3]Shad Village\\c[0] in Southeast \\c[3]\\v[area.jungle.name]\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/1/task": {
+                "text": "Allez chez \\c[3]\"Owo\", l'ingénieur Shad\\c[0] dans sa maison à \\c[3]V'rda Vil Est\\c[0]",
+                "orig": "Visit to the \\c[3]\"Owo\", the engineer Shad\\c[0] in his house on \\c[3]V'rda Vil East\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/2/task": {
+                "text": "\\c[3]Récupérez le matériel\\c[0] nécéssaire pour le \\c[3]Générateur Éléctrique Naturel\\c[0]",
+                "orig": "\\c[3]Collect materials\\c[0] needed for the \\c[3]Natural Power Generator\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/3/task": {
+                "text": "Revenez voir \\c[3]Owo'kyari\\c[0] à \\c[3]V'rda Vil Est\\c[0], au \\c[3]\\v[area.jungle.name]\\c[0]",
+                "orig": "Return to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0] "
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/4/task": {
+                "text": "Parlez à \\c[3]Owo'kyari\\c[0] au \\c[3]Guet Perdu\\c[0]",
+                "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/5/task": {
+                "text": "Parlez à \\c[3]Owo'kyari\\c[0] au \\c[3]Guet Perdu\\c[0] pour attraper quelques \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+                "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0] to catch some \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/6/task": {
+                "text": "Parlez à \\c[3]Owo'kyari\\c[0] au \\c[3]Marécages Infestés Nord\\c[0] pour attraper quelques autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+                "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marches North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/7/task": {
+                "text": "Revenez encore voir \\c[3]Owo'kyari\\c[0] à \\c[3]V'rda Vil Est\\c[0], au \\c[3]\\v[area.jungle.name]\\c[0]",
+                "orig": "Return once more to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0]"
+        },
+        "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/8/task": {
+                "text": "Revenez voir \\c[3]Mme Basu\\c[0] dans le \\c[3]QG du \\v[lore.title.faction-shock-jungle]\\c[0]",
+                "orig": "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
         },
         "database.json/quests/jungleGreens-1-escort_1/hubSettings/location": {
                 "orig": "Escort in the wild needed for a lakeside investigation. \\c[3]- Gaia's Gardeners HQ\\c[0]",
@@ -17381,7 +19412,7 @@
                 "text": "Faites un rapport au \\c[3]Sergent Brassler\\c[0] au \\c[3]QG de la Garde Portuaire\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/hubSettings/location": {
-                "text": "Il est temps d'éliminer la source des livraisons illégales une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
+                "text": "Il est temps d'éliminer la source des traffics une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
                 "orig": "It is time to eliminate the source of the illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/name": {
@@ -18478,6 +20509,11 @@
                 "orig": "Big Stick Rikh",
                 "text": "Rikh Gros Bâton"
         },
+        "database.json/traders/papagangQuestTrade/name": {
+                "text": "Nik, le Crâne d'Œuf",
+                "quality": "unknown",
+                "orig": "Nik, the Eggman"
+        },
         "database.json/traders/tremorTrader/name": {
                 "orig": "Edgy Salesman",
                 "text": "Vendeur Limite"
@@ -18585,6 +20621,30 @@
         "database.json/traders/rhombusBuffsWrapRolls/name": {
                 "orig": "Rhombus Wraps & Rolls",
                 "text": "Wraps & Rouleaux de Rhombus"
+        },
+        "database.json/traders/rhombusPostWeapon1/name": {
+                "text": "Armes de Rhombus",
+                "orig": "Rhombus Weapons"
+        },
+        "database.json/traders/rhombusPostHead1/name": {
+                "text": "Têtes de Rhombus",
+                "orig": "Rhombus Head"
+        },
+        "database.json/traders/rhombusPostTorso1/name": {
+                "text": "Torses de Rhombus",
+                "orig": "Rhombus Torso"
+        },
+        "database.json/traders/rhombusPostFeet1/name": {
+                "text": "Jambes de Rhombus",
+                "orig": "Rhombus Legs"
+        },
+        "database.json/traders/rhombusPostEquipAntique1/name": {
+                "text": "Équipements Antiques",
+                "orig": "Antique Gear"
+        },
+        "database.json/traders/rhombusPostEquipSpecial1/name": {
+                "text": "Équipement Spécial n°1",
+                "orig": "Special Gear #1"
         },
         "database.json/traders/rookieHeal/name": {
                 "orig": "Rookie Sandwiches",

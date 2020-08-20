@@ -1900,5 +1900,17 @@
         "maps/rookie-harbor/center.json/entities/659/settings/npcStates/0/event/trade/event/2/message": {
                 "orig": "Hey you, are you interested in something real special?",
                 "text": "Hé, psst, vous êtes intéressée par quelque chose de vraiment spécial ?"
+        },
+        "maps/rookie-harbor/center.json/entities/663/settings/interact/hoverText": {
+                "text": "Note sur le Défi",
+                "orig": "Challenge Note"
+        },
+        "maps/rookie-harbor/center.json/entities/663/settings/interact/event/0/text": {
+                "text": "Le duel aura lieu à la \\c[3]Sortie Est d'\\v[area.autumn-fall.name]\\c[0].",
+                "orig": "The duel will take place at\n\\c[3]Autumn's Fall - Eastern Exit\\c[0]."
+        },
+        "maps/rookie-harbor/center.json/entities/663/settings/interact/event/1/text": {
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarassée de tous les autres adversaires\\c[0].",
+                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0]."
         }
 }

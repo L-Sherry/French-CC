@@ -675,5 +675,17 @@
         "maps/forest/path-04-hostel.json/entities/977/settings/dialog/4/text": {
                 "orig": "... I was going to suggest someone out there just really likes gardening.",
                 "text": "... Je voulais juste dire qu'il doit y avoir quelqu'un qui adore le jardinage. "
+        },
+        "maps/forest/path-04-hostel.json/entities/979/settings/interact/hoverText": {
+                "text": "Note sur le Défi",
+                "orig": "Challenge Note"
+        },
+        "maps/forest/path-04-hostel.json/entities/979/settings/interact/event/0/text": {
+                "text": "Le duel aura lieu au \\c[3]Chemin Nord-ouest de la \\v[area.forest.name]\\c[0].",
+                "orig": "The duel will take place at\n\\c[3]Sapphire Ridge - North West Path\\c[0]."
+        },
+        "maps/forest/path-04-hostel.json/entities/979/settings/interact/event/1/text": {
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarassée de tous les autres adversaires\\c[0].",
+                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0]."
         }
 }

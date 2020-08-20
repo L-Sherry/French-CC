@@ -15,6 +15,23 @@
                 "orig": "Barren Temple Treasury",
                 "text": "Trésor du Temple Abandonné"
         },
+        "areas/heat-area.json/floors/0/maps/2/name": {
+                "text": "Chambre de Test Centrale",
+                "orig": "Central Test Chamber"
+        },
+        "areas/heat-area.json/floors/0/maps/3/name": {
+                "text": "Chambre de Test de Droite",
+                "note": "pour les républicains ?",
+                "orig": "Right Test Chamber"
+        },
+        "areas/heat-area.json/floors/0/maps/4/name": {
+                "text": "Chambre Mortelle",
+                "orig": "Mortal Chamber"
+        },
+        "areas/heat-area.json/floors/0/maps/5/name": {
+                "text": "Bureau des Chefs",
+                "orig": "Lead Office"
+        },
         "areas/heat-area.json/floors/1/name": {
                 "orig": "UG",
                 "text": "SS"
@@ -38,6 +55,19 @@
         "areas/heat-area.json/floors/1/maps/4/name": {
                 "orig": "Barren Temple Core",
                 "text": "Cœur du Temple Abandonné"
+        },
+        "areas/heat-area.json/floors/1/maps/5/name": {
+                "text": "Réception HP",
+                "orig": "HP Reception"
+        },
+        "areas/heat-area.json/floors/1/maps/6/name": {
+                "text": "Traitement du Charbon",
+                "quality": "bad",
+                "orig": "Coal Processor"
+        },
+        "areas/heat-area.json/floors/1/maps/7/name": {
+                "text": "Bureau Transpirant",
+                "orig": "Hot Office"
         },
         "areas/heat-area.json/floors/2/name": {
                 "orig": "",

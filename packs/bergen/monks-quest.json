@@ -11,6 +11,10 @@
                 "orig": "\\c[3]Your shield\\c[0] got automatically reactivated when leaving the cave. To continue the quest \\c[3]\"Chlg. of Aspiration: No Shield\"\\c[0], you have to \\c[3]deactivate it again\\c[0]!",
                 "text": "\\c[3]Votre bouclier\\c[0] à automatiquement été réactivé en quittant la cave. Pour continuer la quête \\c[3]Challenge de l'Aspiration : Sans Bouclier\\c[0], vous devez le \\c[3]désactiver à nouveau\\c[0] !"
         },
+        "maps/bergen/special/monks-questcave1.json/entities/14/settings/event/2/text": {
+                "text": "[ TIR ]",
+                "orig": "[ SHOOT ]"
+        },
         "maps/bergen/special/monks-questcave1.json/entities/73/settings/event/0/text": {
                 "orig": "Patience...",
                 "text": "Patience..."
@@ -118,6 +122,10 @@
         "maps/bergen/special/monks-questcave1.json/entities/220/settings/event/3/text": {
                 "orig": "Times reset!",
                 "text": "Temps remis à zéro !"
+        },
+        "maps/bergen/special/monks-questcave1.json/entities/232/settings/event/1/text": {
+                "text": "[ TIR ]",
+                "orig": "[ SHOOT ]"
         },
         "maps/bergen/special/monks-questcave1.json/entities/233/settings/event/1/text": {
                 "text": "[ TIR ]",
@@ -291,12 +299,236 @@
                 "orig": "\\c[3]Time (\\v[tmp.resultMode]):\\c[0]\n\\v[tmp.time-format]\n\nBest:\n\\v[tmp.bestTime-FORMAT]\n",
                 "text": "\\c[3]Temps (\\v[tmp.resultMode])\\c[0]\n\\v[tmp.time-format]\n\nMeilleur Temps :\n\\v[tmp.bestTime-FORMAT]"
         },
+        "maps/bergen/special/monks-questcave3.json/entities/1/settings/event/9/thenStep/5/text": {
+                "text": "Activez \"Extra Gelé\" ici !",
+                "orig": "Activate \"Extra Frosty\" here!"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/1/settings/event/10/thenStep/2/titleText": {
+                "text": "\\c[1]Attention !\\c[0]",
+                "orig": "\\c[1]Attention!\\c[0]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/1/settings/event/10/thenStep/2/text": {
+                "text": "\\c[3]\"Extra Gelé\"\\c[0] à automatiquement été réactivé en quittant la cave. Pour continuer la quête \\c[3]Challenge de l'Ascension : Gelé\\c[0], vous devez le \\c[3]réactiver à nouveau\\c[0] !",
+                "orig": "\\c[3]\"Extra Frosty\"\\c[0] got automatically deactivated when leaving the cave. To continue the quest \\c[3]\"Chlg. of Ascension: Frosty\"\\c[0], you have to \\c[3]reactivate it again\\c[0]!"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/12/settings/event/0/text": {
+                "text": "Patience...",
+                "orig": "Patience..."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/19/settings/event/8/elseStep/0/thenStep/1/text": {
+                "text": "ADLASDKASÖLDKSA",
+                "orig": "ADLASDKASÖLDKSA"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/19/settings/event/8/elseStep/0/thenStep/2/text": {
+                "text": "ADLASDKASÖLDKSA",
+                "orig": "ADLASDKASÖLDKSA"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/19/settings/event/8/elseStep/0/thenStep/3/text": {
+                "text": "ADLASDKASÖLDKSA",
+                "orig": "ADLASDKASÖLDKSA"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/28/settings/teleportLabel": {
+                "text": "Retourner au \\c[3]Monastère\\c[0]",
+                "orig": "Return to the \\c[3]Monastery\\c[0]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/29/settings/teleportLabel": {
+                "text": "Retourner au \\c[3]Monastère\\c[0] \\c[1](votre progression sera perdue !)\\c[0]",
+                "orig": "Return to the \\c[3]Monastery\\c[0] \\c[1](progress will be lost!)\\c[0]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/30/settings/teleportLabel": {
+                "text": "Retourner au \\c[3]Monastère\\c[0] \\c[1](votre progression sera perdue !)\\c[0]",
+                "orig": "Return to the \\c[3]Monastery\\c[0] \\c[1](progress will be lost!)\\c[0]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/31/settings/teleportLabel": {
+                "text": "Retourner au \\c[3]Monastère\\c[0]",
+                "orig": "Return to the \\c[3]Monastery\\c[0]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/hoverText": {
+                "text": "L'Épreuve de l'Ascension",
+                "orig": "The Trial of Ascension"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/1/text": {
+                "text": "C'est une épreuve de vaillance et de dextérité. Pour le réussir, vous devez atteindre la fin du chemin gelé sans tomber dans la pénombre.",
+                "orig": "This is a trial of fortitude and dexterity. To pass you must reach the end of the icy path without falling into the darkness."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/2/text": {
+                "text": "Attention au sol glissant, car le Tracé lui-même va vous tester avec l'élément de cette montagne : le Froid.",
+                "orig": "Beware the slippery ground, for the Track itself will test you with the Element of this mountain: The Cold."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/3/text": {
+                "text": "À certains moments vous devriez prouver votre connexion avec l'élément d'Onde en franchissant des grands ravins à travers de la téléportation.",
+                "orig": "At certain points you must prove your connection to the element of Wave by overcoming large chasms with teleportation."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/4/text": {
+                "text": "Sur le chemin, vous serez attaqué par des gardiens invincibles. Leurs tirs vont vous repousser, mais votre bouclier peut vous défendre contre eux.",
+                "orig": "Along the way you will be attacked by invincible guardians. Their shots will knock you away but your shield can defend against them."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/5/text": {
+                "text": "Il y aura un point de contrôle après chaque défi. Sortir de la cave va tous les désactiver, par contre.",
+                "orig": "There will be a checkpoint after each of the challenges. Leaving the cave will deactivate them again, though."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/6/thenStep/0/text": {
+                "text": "Maintenant que vous avez réussi l'épreuve, votre temps sera désormais enregistré. Vous pouvez aussi augmenter le nombre d'obstacles sur le chemin en activant \"Extra Gelé\", pour rendre l'épreuve plus difficile.",
+                "orig": "Now that you have passed the trial once, your time will be recorded. You can also increase the number of obstacles on the track by activating \"Extra Frosty\", to challenge yourself even more."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/0/7/thenStep/0/text": {
+                "text": "Maintenant que vous avez résolu les épreuves supplémentaires, vous pouvez maintenant aussi désactiver votre bouclier pour rendre cela encore plus difficile. Il n'y aura pas de récompenses par contre.",
+                "orig": "With the additional challenges being solved you can now also deactivate your shield for even greater challenge. This is not linked to further rewards, however."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/1/0/text": {
+                "text": "Meilleurs Temps\n\n\\c[3]Normal :\\c[0] \\v[map.bestTime-format]\n\\c[3]Extra Gelé :\\c[0] \\v[map.bestTime-frosty-format]\n\\c[3]Sans Bouclier :\\c[0] \\v[map.bestTime-noShield-format]\n\\c[3]Extra Gelé & Sans Bouclier :\\c[0] \\v[map.bestTime-frostyNoShield-format]",
+                "orig": "Best time\n\n\\c[3]Normal:\\c[0] \\v[map.bestTime-format]\n\\c[3]Extra Frosty:\\c[0] \\v[map.bestTime-frosty-format]\n\\c[3]No Shield:\\c[0] \\v[map.bestTime-noShield-format]\n\\c[3]Extra Frosty & No Shield:\\c[0] \\v[map.bestTime-frostyNoShield-format]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/2/0/text": {
+                "text": "Vous sentez un courant d'air gelé.\\. La densité de glace a augmentée !",
+                "orig": "You feel a freezing chill.\\. \nThe density of ice has increased!"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/3/0/text": {
+                "text": "Un peu de chaleur reviens en vous.\\. La densité de glace est revenue à la normale !",
+                "orig": "A bit of warmth returns to you.\\.\nThe density of ice has normalized!"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/4/1/text": {
+                "text": "Vous déposez votre bouclier.\\.\nQuel courage !",
+                "orig": "You cast away your shield.\\. \nSuch bravery!"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/5/1/text": {
+                "text": "Votre bouclier est revenu.",
+                "orig": "Your shield has returned."
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/0/label": {
+                "text": "Information",
+                "orig": "Information"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/1/label": {
+                "text": "Voir Meilleur Temps",
+                "orig": "See best time"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/2/label": {
+                "text": "Activer Épreuve \"Extra Gelé\"",
+                "orig": "Activate \"Extra Frosty\"-challenge"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/3/label": {
+                "text": "Désactiver Épreuve \"Extra Gelé\"",
+                "orig": "Deactivate \"Extra Frosty\"-challenge"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/4/label": {
+                "text": "Désactiver Bouclier dans la Cave.",
+                "orig": "Deactivate Guarding inside the Cave"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/5/label": {
+                "text": "Réactiver Bouclier",
+                "orig": "Reactivate Guarding"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/33/settings/condAnims/0/interact/event/2/thenStep/0/options/6/label": {
+                "text": "Annuler",
+                "orig": "Cancel"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/37/settings/event/3/text": {
+                "text": "Temps remis à zéro !",
+                "orig": "Times reset!"
+        },
         "maps/bergen/special/monks-questcave3.json/entities/53/settings/event/1/text": {
                 "text": "Aussi rapide que la glace...",
                 "orig": "Swift as molten ice..."
         },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/9/thenStep/0/thenStep/1/value": {
+                "text": "\"Extra Gelé\" & \"Sans Bouclier\"",
+                "orig": "\"Extra Frosty\" & \"No Shield\""
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/9/thenStep/0/elseStep/0/value": {
+                "text": "\"Extra Gelé\"",
+                "orig": "\"Extra Frosty\""
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/9/elseStep/0/thenStep/0/value": {
+                "text": "\"Sans Bouclier\"",
+                "orig": "\"No Shield\""
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/9/elseStep/0/elseStep/0/value": {
+                "text": "Normal",
+                "orig": "Normal"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/12/thenStep/0/thenStep/0/text": {
+                "text": "\\c[3]Nouveau Record (\\v[tmp.resultMode]) !\\c[0]\n\\v[tmp.time-format]",
+                "orig": "\\c[3]New Record (\\v[tmp.resultMode])!\\c[0]\n\\v[tmp.time-format]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/12/thenStep/0/elseStep/0/text": {
+                "text": "\\c[3]Nouveau Record (\\v[tmp.resultMode]) !\\c[0]\n\\v[tmp.time-format]\n\nAncien meilleur temps :\n\\v[tmp.bestTime-FORMAT]",
+                "orig": "\\c[3]New Record (\\v[tmp.resultMode])!\\c[0]\n\\v[tmp.time-format]\n\nOld Best:\n\\v[tmp.bestTime-FORMAT]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/61/settings/event/12/elseStep/0/text": {
+                "text": "\\c[3]Temps (\\v[tmp.resultMode])\\c[0]\n\\v[tmp.time-format]\n\nMeilleur Temps :\n\\v[tmp.bestTime-FORMAT]",
+                "orig": "\\c[3]Time (\\v[tmp.resultMode]):\\c[0]\n\\v[tmp.time-format]\n\nBest:\n\\v[tmp.bestTime-FORMAT]\n"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/151/settings/states/1/action/1/thenStep/0/thenStep/0/text": {
+                "text": "HAUT",
+                "orig": "UP"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/151/settings/states/1/action/1/elseStep/0/thenStep/0/thenStep/0/text": {
+                "text": "BAS",
+                "orig": "DOWN"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/151/settings/states/2/action/1/thenStep/0/thenStep/0/text": {
+                "text": "GAUCHE",
+                "orig": "LEFT"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/151/settings/states/2/action/1/elseStep/0/thenStep/0/thenStep/0/text": {
+                "text": "DROITE",
+                "orig": "RIGHT"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/151/settings/states/5/action/0/text": {
+                "text": "RIEN",
+                "orig": "NOTHING"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/151/settings/states/5/action/2/text": {
+                "text": "222",
+                "orig": "222"
+        },
         "maps/bergen/special/monks-questcave3.json/entities/158/settings/teleportLabel": {
                 "text": "Retourner au \\c[3]Monastère\\c[0] \\c[1](votre progression sera perdue !)\\c[0]",
                 "orig": "Return to the \\c[3]Monastery\\c[0] \\c[1](progress will be lost!)\\c[0]"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/168/settings/states/1/action/1/thenStep/0/thenStep/0/text": {
+                "text": "HAUT",
+                "orig": "UP"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/168/settings/states/1/action/1/elseStep/0/thenStep/0/thenStep/0/text": {
+                "text": "BAS",
+                "orig": "DOWN"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/168/settings/states/2/action/1/thenStep/0/thenStep/0/text": {
+                "text": "HAUT",
+                "orig": "UP"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/168/settings/states/2/action/1/elseStep/0/thenStep/0/thenStep/0/text": {
+                "text": "BAS",
+                "orig": "DOWN"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/168/settings/states/5/action/0/text": {
+                "text": "RIEN",
+                "orig": "NOTHING"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/168/settings/states/5/action/2/text": {
+                "text": "222",
+                "orig": "222"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/178/settings/states/2/action/0/text": {
+                "text": "RIEN",
+                "orig": "NOTHING"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/178/settings/states/2/action/2/text": {
+                "text": "222",
+                "orig": "222"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/181/settings/states/2/action/0/text": {
+                "text": "RIEN",
+                "orig": "NOTHING"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/181/settings/states/2/action/2/text": {
+                "text": "222",
+                "orig": "222"
+        },
+        "maps/bergen/special/monks-questcave3.json/entities/192/settings/event/2/text": {
+                "text": "Patience...",
+                "orig": "Patience..."
         }
 }

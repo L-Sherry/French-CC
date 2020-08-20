@@ -77,6 +77,14 @@
                 "orig": "Ocean Patrol",
                 "text": "Patrouille de l'Océan"
         },
+        "areas/rookie-harbor.json/floors/2/maps/16/name": {
+                "text": "Encore Une Patrouille de l'Océan",
+                "orig": "Ocean Patrol Again"
+        },
+        "areas/rookie-harbor.json/floors/2/maps/17/name": {
+                "text": "Boss de la Patrouille de l'Océan",
+                "orig": "Ocean Patrol Boss"
+        },
         "areas/rookie-harbor.json/floors/2/maps/18/name": {
                 "orig": "The Gut Punch",
                 "text": "Le Coup dans l'Estomac"
@@ -1850,173 +1858,5 @@
         "maps/rookie-harbor/west.json/entities/400/settings/npcStates/0/event/18/message": {
                 "orig": "...",
                 "text": "..."
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/4/settings/event/13/text": {
-                "text": "[ Ennemis détectés. Préparez-vous au combat ! ]",
-                "orig": "[ Enemies detected. Get ready for combat! ]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/4/settings/event/20/guiInfo/settings/text": {
-                "orig": "Ship HP",
-                "text": "HP Bateau"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/4/settings/event/21/guiInfo/settings/taskTitle": {
-                "orig": "\\c[1]Missed\\c[0]",
-                "text": "\\c[1]Raté\\c[0]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/4/settings/event/21/guiInfo/settings/text": {
-                "orig": "Battleship HP",
-                "text": "HP Bateau de Combat"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/5/settings/event/1/task": {
-                "orig": "Wave 1 incoming!",
-                "text": "Vague 1 à l'approche !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/8/settings/event/0/thenStep/0/text": {
-                "orig": "Turret Shot",
-                "text": "Tirs Tourelles"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/11/settings/event/0/thenStep/0/thenStep/0/text": {
-                "orig": "Target Change",
-                "text": "Nouvelle Cible"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/32/settings/event/0/guiInfo/settings/text": {
-                "orig": "\\c[1]Cannon Ready!\\c[0]\nUse \\c[3]Charged Throw\\c[0] to mark target! \n\n\\c[3]Heat\\c[0] and \\c[3]Cold\\c[0] have special effects!",
-                "text": "\\c[1]Canon Prêt !\\c[0]\nMarquez une cible avec un \\c[3]Tir Chargé\\c[0] !\n\nLe \\c[3]Chaud\\c[0] et \\c[3]Froid\\c[0] ont des effets spéciaux !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/32/settings/event/0/guiInfo/settings/altText": {
-                "orig": "\\c[1]Cannon Ready!\\c[0]",
-                "text": "\\c[1]Canon prêt !\\c[0]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/46/settings/event/1/task": {
-                "orig": "Wave 2 incoming!",
-                "text": "Vague 2 à l'approche !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/52/settings/event/10/text": {
-                "text": "[ Dégâts critiques reçus. Détonation imminente ! ]",
-                "orig": "[ Critical damage received. Detonation imminent! ]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/53/settings/event/6/text": {
-                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
-                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer."
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/53/settings/event/8/options/0/label": {
-                "orig": "Restart Mission",
-                "text": "Redémarrer la mission"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/53/settings/event/8/options/1/label": {
-                "orig": "Back to \\v[area.rookie-harbor.name]",
-                "text": "Retourner à \\v[area.rookie-harbor.name]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/57/settings/event/12/text": {
-                "text": "[ Aucun Ennemi Détecté ! ]",
-                "orig": "[ Sensors clear! ]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/57/settings/event/15/text": {
-                "orig": "\\c[2]Patrol successful!\\c[0]\n\nThe Shipments have been destroyed!",
-                "text": "\\c[2]Patrouille réussie !\\c[0]\n\nLes Marchandises ont été détruites !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/58/settings/event/10/text": {
-                "orig": "\\c[1]You let too many weapons pass by that will now reach the continent!\\c[0]",
-                "text": "\\c[1]Vous avez laissé trop d'armes passer, qui vont maintenant atteindre le continent !\\c[0]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/60/settings/event/0/thenStep/0/text": {
-                "orig": "Use \\c[3]Heat\\c[0] for explosive damage!",
-                "text": "Utilisez le \\c[3]Chaud\\c[0] pour causer des dégâts explosifs !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/60/settings/event/1/thenStep/0/text": {
-                "orig": "Use \\c[3]Cold\\c[0] to slow down single targets!",
-                "text": "Utilisez le \\c[3]Froid\\c[0] pour ralentir les cibles uniques !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/60/settings/event/2/thenStep/0/text": {
-                "orig": "Use \\c[3]Shock\\c[0] to hit two targets at once!",
-                "text": "Utilisez le \\c[3]Choc\\c[0] pour toucher deux cibles à la fois !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-1.json/entities/60/settings/event/3/thenStep/0/text": {
-                "orig": "Use \\c[3]Wave\\c[0] to hit targets in a line!",
-                "text": "Utilisez l'\\c[3]Onde\\c[0] pour toucher des cibles alignées !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/4/settings/event/16/text": {
-                "text": "[ Ennemis détectés. Préparez-vous au combat ! ]",
-                "orig": "[ Enemies detected. Get ready for combat! ]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/4/settings/event/23/guiInfo/settings/text": {
-                "orig": "Ship HP",
-                "text": "HP Bateau"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/4/settings/event/24/guiInfo/settings/taskTitle": {
-                "orig": "\\c[1]Missed\\c[0]",
-                "text": "\\c[1]Raté\\c[0]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/4/settings/event/24/guiInfo/settings/text": {
-                "orig": "Battleship HP",
-                "text": "HP Bateau de Combat"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/5/settings/event/1/task": {
-                "orig": "Wave 1 incoming!",
-                "text": "Vague 1 à l'approche !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/8/settings/event/0/thenStep/0/text": {
-                "orig": "Turret Shot",
-                "text": "Tirs Tourelles"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/11/settings/event/0/thenStep/0/thenStep/0/text": {
-                "orig": "Target Change",
-                "text": "Nouvelle Cible"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/15/settings/event/0/guiInfo/settings/text": {
-                "orig": "\\c[1]Cannon Ready!\\c[0]\nUse \\c[3]Charged Throw\\c[0] to mark a target! \n\n\\c[3]Elements\\c[0] have special effects!",
-                "text": "\\c[1]Canon Prêt !\\c[0]\nUtilisez des \\c[3]Lancés Chargés\\c[0] pour marquer une cible !\n\nLes \\c[3]Éléments\\c[0] ont des effets spéciaux !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/15/settings/event/0/guiInfo/settings/altText": {
-                "orig": "\\c[1]Cannon Ready!\\c[0]",
-                "text": "\\c[1]Canon prêt !\\c[0]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/16/settings/event/1/task": {
-                "orig": "Wave 2 incoming!",
-                "text": "Vague 2 à l'approche !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/17/settings/event/10/text": {
-                "text": "[ Dégâts critiques reçus. Détonation imminente ! ]",
-                "orig": "[ Critical damage received. Detonation imminent! ]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/18/settings/event/6/text": {
-                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
-                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer."
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/18/settings/event/8/options/0/label": {
-                "orig": "Restart Mission",
-                "text": "Redémarrer la mission"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/18/settings/event/8/options/1/label": {
-                "orig": "Back to \\v[area.rookie-harbor.name]",
-                "text": "Retourner à \\v[area.rookie-harbor.name]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/19/settings/event/12/text": {
-                "text": "[ Aucun Ennemi Détecté ! ]",
-                "orig": "[ Sensors clear! ]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/19/settings/event/14/text": {
-                "text": "\\c[2]Patrouille réussie !\\c[0]\n\nLes Marchandises ont été détruites !\nChangement de cap vers le coordinateur...",
-                "orig": "\\c[2]Patrol successful!\\c[0]\n\nThe Shipments have been destroyed!\nChanging course towards coordinator..."
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/20/settings/event/10/text": {
-                "orig": "\\c[1]You let too many weapons pass by that will now reach the continent!\\c[0]",
-                "text": "\\c[1]Vous avez laissé trop d'armes passer, qui vont maintenant atteindre le continent !\\c[0]"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/31/settings/event/0/thenStep/0/text": {
-                "orig": "Use \\c[3]Heat\\c[0] for explosive damage!",
-                "text": "Utilisez le \\c[3]Chaud\\c[0] pour causer des dégâts explosifs !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/31/settings/event/1/thenStep/0/text": {
-                "orig": "Use \\c[3]Cold\\c[0] to slow down single targets!",
-                "text": "Utilisez le \\c[3]Froid\\c[0] pour ralentir les cibles uniques !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/31/settings/event/2/thenStep/0/text": {
-                "orig": "Use \\c[3]Shock\\c[0] to hit two targets at once!",
-                "text": "Utilisez le \\c[3]Choc\\c[0] pour toucher deux cibles à la fois !"
-        },
-        "maps/rookie-harbor/special/quest-ocean-2a.json/entities/31/settings/event/3/thenStep/0/text": {
-                "orig": "Use \\c[3]Wave\\c[0] to hit targets in a line!",
-                "text": "Utilisez l'\\c[3]Onde\\c[0] pour toucher des cibles alignées !"
         }
 }

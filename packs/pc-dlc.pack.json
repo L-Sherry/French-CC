@@ -1,0 +1,500 @@
+{
+        "extension/scorpion-robo/scorpion-robo.json/name": {
+                "text": "Extension Exclusive pour PC",
+                "orig": "PC Exclusive Extension"
+        },
+        "extension/scorpion-robo/scorpion-robo.json/description": {
+                "text": "Inclus une quête de fin de jeu et un compagnon qui sont reservés au PC !",
+                "orig": "Includes a new late-game quest and pet that are exclusive to the PC!"
+        },
+        "extension/scorpion-robo/data/enemies/minibosses/scorpion-boss-pole.json/meta/species": {
+                "text": "Pole de Scorpion",
+                "orig": "Pole of Scorpion"
+        },
+        "extension/scorpion-robo/data/enemies/minibosses/scorpion-boss.json/meta/species": {
+                "text": "Scorpion Meca",
+                "orig": "Mecha Scorpion"
+        },
+        "extension/scorpion-robo/data/enemies/minibosses/scorpion-boss.json/meta/descriptions/0/text": {
+                "text": "Une Star Piqueuse Steam ! Hautement avancée et empli de pouvoir.",
+                "orig": "A Steam Stinger Star! Highly Advanced and full of power."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-1.json/entities/37/settings/destinations/0/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-1.json/entities/52/settings/interact/hoverText": {
+                "text": "ATTENTION",
+                "orig": "WARNING"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-1.json/entities/52/settings/interact/event/1/text": {
+                "text": "\\c[1]ATTENTION\\c[0]\n\nLe Labo A a été lourdement endommagé par une insurrection d'oiseaux millitants. Il sera fermé pour rénovations jusqu'à nouvel ordre.\n\n~ Le Management",
+                "orig": "\\c[1]WARNING\\c[0]\n\nLab A has been critically damaged by an insurgence of militant birds. It will be closed for renovations until further notice.\n\n~ The Management"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/event/1/text": {
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Équipe Installation, Bureau 2B\n\\c[3]À :\\c[0] Management, \"Pression\"\n\n\\c[3]Sujet :\\c[0] Ces Bureaux",
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 2B\n\\c[3]TO:\\c[0] \"Pressure\", Management\n\n\\c[3]Subject:\\c[0] This Office"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/event/2/text": {
+                "text": "Bonjour,\n\nJ'apprécie le fait que le management nous approvisionne avec les dernières technologies, mais êtes-vous sérieux ? Qui à eu l'idée de nous installer dans ces \"locaux\" ?",
+                "orig": "Greetings,\n\nI do appreciate the fact the management is supplying us with the latest tech, but are you guys for real? Who thought this place would be good for an office?"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/event/3/text": {
+                "text": "Nous baignons tous dans notre transpiration dans cette satanée Chambre d'Isolation. Je peux uniquement supposer que la ventilation a un problème, mais il faut vite corriger celà.",
+                "orig": "We are all caked in sweat from the damn Isolation Chamber. I can only assume that something must be wrong with the ventilation but this needs to get fixed ASAP."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/event/4/text": {
+                "text": "En attendant, avoir quelque chose de frais à boire devrait suffire.\n\nMes plus sincères salutations.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]",
+                "note": "Sincerest is untranslatable",
+                "orig": "For the time being something cool to drink would also suffice.\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/59/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/59/settings/condAnims/0/interact/event/1/text": {
+                "text": "Ascenseur de Maintenance : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?",
+                "orig": "Maintenance Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/59/settings/condAnims/0/interact/event/2/0/3/text": {
+                "text": "Ascenseur de Maintenance : \\c[1]activé\\c[0] !",
+                "orig": "Maintenance Elevator \\c[2]enabled\\c[0]!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/59/settings/condAnims/0/interact/event/2/options/0/label": {
+                "text": "[oui]",
+                "orig": "[yes]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/59/settings/condAnims/0/interact/event/2/options/1/label": {
+                "text": "[non]",
+                "orig": "[no]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/hoverText": {
+                "text": "Hologramme",
+                "orig": "Hologram"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/6/name": {
+                "text": "Steve B. Ruger",
+                "orig": "Steve B. Ruger"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/8/message": {
+                "text": "Bonjour, merci pour votre visite du complexe.\\. Je suis \\c[3]Steve B. Ruger\\c[0], m'exprimant au nom d'\\c[3]Armes Haute-Pression\\c[0].",
+                "orig": "Hello, thank you for visiting the compound.\\. I am \\c[3]Steve B. Ruger\\c[0], speaking for \\c[3]High-Pressure Arms\\c[0]."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/9/message": {
+                "text": "Vous avez peut-être entendu parler de notre entreprise.\\. Nous avons fait des progrès dans les téchnologies d'armements au cours des années.",
+                "orig": "You might have heard of our company.\\. We made some advancements in weapon technology over the years."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/10/message": {
+                "text": "Des puissants cannons, à longue portée.\\. Quelques lasers, ils sont toujours utiles.\\. Des missiles guidés également.\\. Et aussi des pratiques armes d'auto-défense.",
+                "orig": "Powerful, long-ranged guns.\\. Some lasers, always nice.\\. Guided missiles as well.\\. Also, convenient self-defense guns."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/11/message": {
+                "text": "De nombreuses armes, donc, utilisés par toutes sortes d'individus.\\. Pour garder le \\v[lore.title.track-of-ancients] au calme et autres.",
+                "orig": "Basically lots of weapons, used by many different kinds of people.\\. Keeping the \\v[lore.title.track-of-ancients] at bay and all that."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/12/message": {
+                "text": "Nous nous assurons également de créer des systèmes ouverts pour nous produits pour travailler en étroite collaboration avec des partenaires venant d'autres domaines.",
+                "orig": "We also make sure to create open systems for our products to closely work together with partners from other fields."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/13/message": {
+                "text": "De cette façon, nous avons accès à une très large gamme de compétences pour réaliser tous vos projets ambitieux.",
+                "orig": "That way we have access to a very broad set of skills to create all those ambitious projects of ours."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/14/message": {
+                "text": "Par exemple, notre tâche récente implique d'apprivoiser certains des oiseaux les plus intelligents de cette planète et de les armer.",
+                "orig": "For example, our recent task involves taming some of the more intelligent birds on this planet and arming them."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/15/message": {
+                "text": "Cela pourait ouvrir le champ à plusieurs applications utiles pour la société, si ce projet aboutira.",
+                "orig": "This could open up a variety of useful applications for society, if we see it finished."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/60/settings/interact/event/16/message": {
+                "text": "Dans tous les cas, j'espère que vous apprécierez de suivre notre progrès et que vous resterez avec nous pour de futurs développements.",
+                "orig": "In any case, I hope you enjoy following our progress and stick around for future developments."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/62/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/62/settings/condAnims/0/interact/event/1/text": {
+                "text": "\\c[1]NOTE PRIVÉE\\c[0]\n\n\\c[3]Titre :\\c[0] Rappel Important",
+                "note": "note interne ?",
+                "orig": "\\c[1]PRIVATE NOTE\\c[0]\n\n\\c[3]Title:\\c[0] Important reminder"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/62/settings/condAnims/0/interact/event/2/text": {
+                "text": "- Faites des pauses lorsque vous en avez besoin !\n- Buvez régulièrement de l'eau !\n- Aimez-vous vous-mêmes, toujours !\n\n\\c[1][FIN DE LA NOTE]\\c[0]",
+                "orig": "- Take breaks when you need them!\n- Drink water regularly!\n- Love yourself, always!\n\n\\c[1][END OF NOTE]\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/62/settings/condAnims/0/interact/event/3/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2.json/entities/68/settings/destinations/0/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2.json/entities/132/settings/destinations/0/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2.json/entities/132/settings/destinations/1/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-2.json/entities/141/settings/condAnims/0/interact/hoverText": {
+                "text": "Appeler",
+                "orig": "Call"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/3/settings/destinations/0/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/15/settings/destinations/0/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/15/settings/destinations/1/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/16/settings/condAnims/0/interact/hoverText": {
+                "text": "Appeler",
+                "orig": "Call"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/1/text": {
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?",
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/2/0/3/text": {
+                "text": "Ascenseur du Pont : \\c[1]activé\\c[0] !",
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/2/options/0/label": {
+                "text": "[oui]",
+                "orig": "[yes]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/2/options/1/label": {
+                "text": "[non]",
+                "orig": "[no]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/1/text": {
+                "text": "État de la sequence de test : \\c[2]prêt\\c[0].\n\\c[1]Démarrer la séquence de test ?\\c[0] ?",
+                "orig": "Test sequence status: \\c[2]ready\\c[0].\n\\c[1]Start test sequence\\c[0]?"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/0/3/text": {
+                "text": "Préparation à \\c[2]l'initialization de la séquence de test\\c[0] !",
+                "orig": "Preparing to \\c[2]initiate test sequence\\c[0]!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/0/4/text": {
+                "text": "Veuillez \\c[3]entrer\\c[0] dans la \\c[3]zone en bas\\c[0] pour commencer.",
+                "orig": "Please \\c[3]enter\\c[0] the \\c[3]lower area\\c[0] to begin."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/1/1/text": {
+                "text": "L'achèvement de la sequence de test est \\c[3]obligatoire\\c[0] pour ouvrir la porte.",
+                "orig": "Completion of test sequence is \\c[3]required\\c[0] in order to open the door."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/1/2/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/options/0/label": {
+                "text": "[oui]",
+                "orig": "[yes]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/options/1/label": {
+                "text": "[non]",
+                "orig": "[no]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/1/text": {
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?",
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/2/0/3/text": {
+                "text": "Ascenseur du Pont : \\c[1]activé\\c[0] !",
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/2/options/0/label": {
+                "text": "[oui]",
+                "orig": "[yes]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/2/options/1/label": {
+                "text": "[non]",
+                "orig": "[no]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/event/1/text": {
+                "text": "État de la Chambre Mortelle : \\c[1]fermée\\c[0].\n\\c[2]Ouvrir la porte ?\\c[0]",
+                "orig": "Mortal Chamber Status: \\c[1]closed\\c[0].\n\\c[2]Open Door?\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/event/2/options/0/label": {
+                "text": "[oui]",
+                "orig": "[yes]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/event/2/options/1/label": {
+                "text": "[non]",
+                "orig": "[no]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/hoverText": {
+                "text": "Hologramme",
+                "orig": "Hologram"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/6/name": {
+                "text": "Steve B. Ruger",
+                "orig": "Steve B. Ruger"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/8/message": {
+                "text": "Bonjour et bienvenue de retour dans notre installation de recherche.\\. Les choses progressent à un rythme soutenu.",
+                "orig": "Hello and welcome back to our research facility.\\. Things are still progressing at a steady rate."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/9/message": {
+                "text": "Bon, pour la plupart.\\. Nous avons un peu trop bien travaillé par certains endroits, mais je parlerais plus tard de ces complications.",
+                "orig": "Well, mostly.\\. We have worked a bit too well in some regards, but I will talk about those complications later."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/10/message": {
+                "text": "Premièrement, apprivoiser certains des êtres les plus intelligents sur cette fascinante planète a été plus facile que prévu.",
+                "orig": "First off, taming some of the more intelligent beings on this fascinating planet was easier than expected."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/11/message": {
+                "text": "En fait, il semblerait qu'ils veulent directement coopérer avec nous !\\. Les résultats de nos tests logiques ont été très satisfaisants.",
+                "orig": "In fact it seems like they want to outright cooperate with us!\\. The results of our logic tests have been very satisfying."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/12/message": {
+                "text": "Le niveau d'accéptation de leurs armes à feu a également été très positif.",
+                "orig": "Their reception of the firearms has also been very positive."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/13/message": {
+                "text": "Ils ont très rapidement obtenu le coup de main et sont devenus inséparable de leur nouveaux outils.",
+                "orig": "They got the hang of it immediately and became inseparable from their new tools."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/14/message": {
+                "text": "Mais, c'est là que les problèmes ont commencés, en fait.\\. Et on aurait pu s'y attendre.",
+                "orig": "However, that's where the problems first began, actually.\\. And maybe expectedly."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/15/message": {
+                "text": "Les oiseaux intelligents que l'on a doté d'armes derniers-cri sont devenus rebelles.\\. Imaginez un peu celà.",
+                "orig": "The intelligent birds that we armed with cutting-edge weapons became unruly.\\. Imagine that."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/16/message": {
+                "text": "Pour faire cours, ils ont essayés de se révolter et de s'échapper.\\. Une conclusion très décevante.",
+                "orig": "Long story short, they tried to revolt and escape.\\. A very disappointing development."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/17/message": {
+                "text": "Mais, nous avons déjà commencé un second projet avec différents types de créatures dans l'installation à coté.",
+                "orig": "However, we already started a second project with different types of creatures in the facility next door."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/18/message": {
+                "text": "Cette fois, nous essayons de combiner des créatures au sol avec des armes d'artillerie légère.",
+                "orig": "This time we are trying to combine ground-based creatures with light artillery weapons."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/19/message": {
+                "text": "Cela devrait se révéler beaucoup moins risqué que précédament. Donc attendez notre prochain rapport avec impatience !",
+                "orig": "This should prove much less risky than our previous endeavor, so please look forward to our next report!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/20/message": {
+                "text": "En attendant... À plus !",
+                "orig": "Until then... bye!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/1/text": {
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Équipe Installation, Bureau 3A\n\\c[3]À :\\c[0] Management, \"Pression\"\n\n\\c[3]Sujet :\\c[0] Hygiène de l'Installation",
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 3A\n\\c[3]TO:\\c[0] \"Pressure\", Management\n\n\\c[3]Subject:\\c[0] Facility Hygiene"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/2/text": {
+                "text": "Bonjour cher management.\n\nPremièrement, je souhaite souligner la gratitude que j'ai pour toute la confiance et les opportunités que vous nous avez apporté dans ce travail. Il a été très satisfaisant et interessant.",
+                "orig": "Good day dear management,\n\nFirst I want to repeat my gratitude for all the trust and opportunities you have given me with this job. This work has been very fulfilling and interesting."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/3/text": {
+                "text": "Mais, ces oiseaux, aussi fascinants qu'ils le sont, causes de vrais ennuis avec leurs escrements. Ils en laissent partout et laissent également des trous dans les murs en tirant dessus.  Associé à la chaleur qui reigne dans cet endroit, cela crée une odeur véritablement inconfortable dans toute l'installation.",
+                "orig": "However, those birds, as fascinating as they are, cause a lot of problems with their excrement. They leave it everywhere and also shoot holes into the walls. Combined with the heat of this place it really creates an uncomfortable smell in the entire facility."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/4/text": {
+                "text": "Donc, c'est amicalement que je souhaiterais demander plus de personnel de nettoyage. Merci beaucoup d'avance !\n\nMes plus sincères salutations.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]",
+                "orig": "So I would kindly request for more manpower in the cleaning force. Thank you in advance!\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/event/1/text": {
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Équipe Installation, Bureau 3B\n\\c[3]À :\\c[0] Équipe Installation, Bureau 3A\n\n\\c[3]Sujet :\\c[0] Ce bruit",
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 3B\n\\c[3]TO:\\c[0] Facility Staff, Office 3A\n\n\\c[3]Subject:\\c[0] That Noise"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/event/2/text": {
+                "text": "Hé, vous, les gens de la porte d'à coté,\n\nIls y a un bruit constant venant de votre coté, comme si vous aviez une guerre là-bas. Pouvez vous essayer de réduire un peu le bruit ? On a tout installé ici et nos scorpions mignons deviennent déjà nerveux.",
+                "orig": "Hey you guys next door,\n\nThere's constant noise coming from your side, like you are having a war over there. Can you try to keep it down a bit? We just got everything settled in here and our cute scorpions are already getting restless."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/event/3/text": {
+                "text": "On les a presque correctement apprivoisés et préparés à un véritable entrainement, donc ne nous rendez pas la tâche trop ardue, ok ?\n\nCordialement.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]",
+                "orig": "We almost got them properly tamed and ready for real training so don't make this too hard for us, okay?\n\nCheers,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/event/4/text": {
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Équipe Installation, Bureau 3B\n\\c[3]À :\\c[0] Équipe Installation, Bureau 3A\n\n\\c[3]Sujet :\\c[0] Ce bruit",
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 3B\n\\c[3]TO:\\c[0] Facility Staff, Office 3A\n\n\\c[3]Subject:\\c[0] RE:RE:That Noise"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/event/5/text": {
+                "text": "Hé les voisins,\n\nUne révole armée, vous dites ? C'est pas bon signe. J'imagine que les oiseaux avec des armes à feu étaient un pari un peu risqué. J'espère que vous gardez la situation sous contrôle avant que cela devienne un problème pour nous tous.",
+                "orig": "Hey neighbors,\n\nAn armed revolt you say? Huh, that sounds rough. I guess birds with guns were a bit of a risky gamble. I hope you are getting this under control before it becomes a bother for all of us."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/124/settings/condAnims/0/interact/event/6/text": {
+                "text": "En tout cas, bonne chance avez ça et s'il vous plait, ne les laissez pas s'échapper dans notre direction.\n\nCordialement.\n[NOM CENSURÉ]\n\nPS : On mange et on fait un laserbowling ensemble vendredi prochain ?\n\n\\c[1][FIN DU MESSAGE]\\c[0]",
+                "orig": "Anyway, good luck with that and please don't let them escape in our direction.\n\nCheers,\n[NAME REDACTED]\n\nPS: Joint dinner and laserbowling next Friday?\n\n\\c[1][END OF MAIL]\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-boss.json/entities/2/settings/destinations/0/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-boss.json/entities/2/settings/destinations/1/label": {
+                "text": "fr_FR",
+                "orig": "en_US"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-boss.json/entities/3/settings/condAnims/0/interact/hoverText": {
+                "text": "Appeler",
+                "orig": "Call"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-boss.json/entities/38/settings/event/12/text": {
+                "text": "\\c[1]--- Initialisation Séquence de Test ---\\.\nSujet:\\.\nUnité Laser Lourde\\c[0]",
+                "orig": "\\c[1]--- Initiating Test Sequence ---\\.\nSubject:\\.\nHeavy Laser Unit"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/hoverText": {
+                "text": "Hologramme",
+                "orig": "Hologram"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/7/name": {
+                "text": "Steve B. Ruger",
+                "orig": "Steve B. Ruger"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/9/message": {
+                "text": "Bon... Cela ne s'est pas terminé comme prévu.\\. Si vous lisez ceci, vous vous devez sûrement vous en être déjà rendu compte.",
+                "orig": "Well... This certainly did not work out as planned.\\. If you are seeing this you surely will have noticed already."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/10/message": {
+                "text": "Les oiseaux se sont encore révoltés et cette fois, ont trouvés un moyen de s'échapper.",
+                "orig": "The birds revolted again and this time, found a way to escape."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/11/message": {
+                "text": "Nous aurions dû savoir qu'avoir des fenêtres était un risque de sécurité, mais le savoir après-coup ne va pas nous aider.",
+                "orig": "We should have known that having windows was a security risk, but hindsight doesn't help us much now."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/12/message": {
+                "text": "Pendant ce temps, ils se sont déjà éparpillés tout autour de \\v[lore.title.planet] et ont commencés à causer des ennuis.",
+                "orig": "At this point they have already spread all over \\v[lore.title.planet] and started to cause trouble."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/13/message": {
+                "text": "Maintenant, ce n'est plus qu'une question de temps avant que tout ceci mènent jusqu'à nous et nos projets secrets.\\. Il nous faut donc que nous fermions.",
+                "orig": "Now it is only a matter of time before this all leads back to us and our secret projects.\\. We need to close this down."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/14/message": {
+                "text": "Nous avions fait des progrès avec les \\v[combat.name.heat/scorpion]s.\\. C'est dommage que nous devions les laisser derrière nous.",
+                "orig": "Progress with the \\v[combat.name.heat/scorpion]s has been going great.\\. It is a shame that we need to leave them behind."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/15/message": {
+                "text": "Il semblerait que créer une troisième branche dans notre suite d'éxpérience ne va pas être possible de cette façon...",
+                "orig": "It seems like creating the third entry in our line of experiments won't be possible this way..."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/16/message": {
+                "text": "Mais, après avoir parlés avec nos collègues, nous nous sommes décidés sur une option alternative.",
+                "orig": "However, after talking with our colleagues, we decided on an alternative option."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/17/message": {
+                "text": "Nous allons travailler sur une installation partagée secrète qui pourra abriter les travailleurs les plus qualifiés pour notre prochain projet.",
+                "orig": "We will work on a secret joint facility that can house the most qualified of workers for our next project."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/18/message": {
+                "text": "Cela surpassera tout ce que l'on aura fait jusqu'à présent.\\. Nous verrons.\\. Le temps nous réservera quelque chose d'intéressant.",
+                "orig": "This might even surpass everything we did so far.\\. We will see.\\. Interesting times ahead."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/event/19/message": {
+                "text": "Donc, peut-être que l'on vous reverra, si vous arriverez à nous trouver.\\. À plus.",
+                "orig": "So, maybe we will see you around, if you can find us.\\. Goodbye."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/hoverText": {
+                "text": "Affichage",
+                "orig": "Display"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/1/text": {
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE DE RÉCEPTION\\c[0]\n\n\\c[3]DE :\\c[0] \"Les 4 Visionnaires\"\n\\c[3]À :\\c[0] Toutes les installations\n\n\\c[3]Sujet :\\c[0] Le Futur",
+                "orig": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] \"The 4 Visionaries\"\n\\c[3]TO:\\c[0] All Facilities\n\n\\c[3]Subject:\\c[0] The Future"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/2/text": {
+                "text": "Bonsoir tout le monde,\n\nDepuis que nos \\c[3]financements ont étés coupés\\c[0] et que \\c[3]les installations ont été prises d'assaut par le Tracé\\c[0], nous nous sommes installés dans un \\c[3]nouveau lieu\\c[0] où nous pourrons continuer nos recherches.",
+                "orig": "Good evening everyone, \n\nSince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/3/text": {
+                "text": "L'entrée se trouve \\c[3]quelque part sur la \\v[area.forest.name]\\c[0].\nVous trouverez la \\c[3]clef\\c[0] pour y entrer en \\c[3]pièce jointe\\c[0].\nEn revanche, la \\c[3]clef, telle qu'elle, ne fonctionnera pas\\c[0].",
+                "orig": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0]."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/4/text": {
+                "text": "Vous devrez d'abord la \\c[3]déchiffrer\\c[0] dans \\c[3]4 endroits différents\\c[0], chacun dans une \\c[3]région différente\\c[0].",
+                "orig": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0]."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/5/text": {
+                "text": "Chacune des 4 installations possède un indice menant chacun à \\c[3]un seul\\c[0] de ces endroits.\n\\c[3]Donc vous découvrirez un indice après avoir lu ce message.\\c[0]",
+                "orig": "Hints towards \\c[1]one\\c[0] of the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text": {
+                "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chaque type d'entre eux\\c[0] est destiné qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information.",
+                "orig": "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/7/text": {
+                "text": "Mais \\c[3]avec du travail d'équipe et de la communication\\c[0], il est peut-être possible de quand même trouver tous les lieux !\nQuiconque réussira à entrer sera le bienvenu !\n\nAvec sincérités\n\"Les 4 Visionnaires\"",
+                "orig": "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\nEveryone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/8/text": {
+                "text": "\\c[1]PIÈCE JOINTE :\\c[0]\n\nUn des lieux cachés se trouve dans la \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"Dans une source d'eau cachée, découverte pendant la recherche d'un trésor hanté.\"\\c[0] !",
+                "orig": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"At a hidden source of water, uncovered while searching for cursed treasure.\"\\c[0]!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/6/name": {
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/8/message": {
+                "text": "\\v[lore.title.seeker], vous avoir obtenu partie de pièces d'élite dans endroit caché, oui ?",
+                "orig": "\\v[lore.title.seeker], part of the elite acquire in hidden place, yes?"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/9/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/10/message": {
+                "text": "Quel succès sur toute la ligne !\\. Très impressioné !",
+                "orig": "Such radical accomplishment!\\. Very impress!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/11/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/12/message": {
+                "text": "Mais machine ne va pas recevoir plus puissance par humain restant planté là et fier de son ouvrage !",
+                "orig": "But machine not receive more power by human standing around and being proud of accomplishment!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/13/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/14/message": {
+                "text": "Vous devriez apporter pièces à moi à \\v[area.heat-village.name] pour que machine puisse être améliorée !",
+                "orig": "You better bring parts back to me in \\v[area.heat-village.name] so machine can be graded up!"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/15/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/124/settings/event/16/message": {
+                "text": "Bye !",
+                "orig": "Bye!"
+        }
+}

@@ -135,8 +135,9 @@
 	"maps/rookie-harbor/inner-info-ug-1.json": "packs/rookie-harbor/info-ug-1.json",
 	"maps/rookie-harbor/inner-info.json": "packs/rookie-harbor/info.json",
 	"maps/rookie-harbor/west.json": "packs/rookie-harbor/rookie-harbor.pack.json",
-	"maps/rookie-harbor/special/quest-ocean-1.json": "packs/rookie-harbor/rookie-harbor.pack.json",
-	"maps/rookie-harbor/special/quest-ocean-2a.json": "packs/rookie-harbor/rookie-harbor.pack.json",
+	"maps/rookie-harbor/special/quest-ocean-1.json": "packs/rookie-harbor/quest-ocean.pack.json",
+	"maps/rookie-harbor/special/quest-ocean-2a.json": "packs/rookie-harbor/quest-ocean.pack.json",
+	"maps/rookie-harbor/special/quest-ocean-2b-boss.json": "packs/rookie-harbor/quest-ocean.pack.json",
 
 	"areas/meta.json": "packs/meta-space.pack.json",
 	"maps/meta-space.json": "packs/meta-space.pack.json",
@@ -147,6 +148,8 @@
 	"players/apollo.json": "packs/combat-arts.json",
 	"players/schneider.json": "packs/combat-arts.json",
 	"players/schneider2.json": "packs/combat-arts.json",
+	"players/joern.json": "packs/combat-arts.json",
+	"players/luke.json": "packs/combat-arts.json",
 
 	"characters/adventurers/male-pirate.json": "packs/characters.json",
 	"characters/adventurers-jungle/female-leader.json": "packs/characters.json",
@@ -489,6 +492,27 @@
 	"characters/rookie-harbor/thief-man-big-eyepatch.json": "packs/characters.json",
 	"characters/rookie-harbor/thief-man-small-brown.json": "packs/characters.json",
 	"characters/rookie-harbor/van-pummelson.json": "packs/characters.json",
+	"characters/basin/birdman-1.json": "packs/characters.json",
+	"characters/enemy/raid-fortress-smol.json": "packs/characters.json",
+	"characters/guests/cherry.json": "packs/characters.json",
+	"characters/guests/geeklich.json": "packs/characters.json",
+	"characters/guests/pringle-the-one.json": "packs/characters.json",
+	"characters/guests/sao.json": "packs/characters.json",
+	"characters/main/luke.json": "packs/characters.json",
+	"characters/main/sergey-av.json": "packs/characters.json",
+	"characters/objects/steam-machine.json": "packs/characters.json",
+	"characters/radical/deniz.json": "packs/characters.json",
+	"characters/radical/feiu.json": "packs/characters.json",
+	"characters/radical/fish.json": "packs/characters.json",
+	"characters/radical/flora.json": "packs/characters.json",
+	"characters/radical/frece.json": "packs/characters.json",
+	"characters/radical/henne.json": "packs/characters.json",
+	"characters/radical/rd.json": "packs/characters.json",
+	"characters/radical/t-free.json": "packs/characters.json",
+	"characters/radical/teekuh.json": "packs/characters.json",
+	"characters/radical/tina.json": "packs/characters.json",
+
+
 
 	"maps/autumn/cave-path6-1-meerkat.json": "packs/autumn-rise/caves.json",
 	"maps/autumn/cubaum.json": "packs/autumn-rise/cubaum.json",
@@ -869,6 +893,28 @@
 	"enemies/special/target-bot.json": "packs/enemies.pack.json",
 	"enemies/hedgehog-fly.json": "packs/enemies.pack.json",
 	"enemies/snowtank.json": "packs/enemies.pack.json",
+	"enemies/template.json": "packs/enemies.pack.json",
+	"enemies/autumn-rh/turret_boss-quest_naval.json": "packs/enemies.pack.json",
+	"enemies/avatar/apollo-4.json": "packs/enemies.pack.json",
+	"enemies/beach/bug-samurai-beach.json": "packs/enemies.pack.json",
+	"enemies/beach/fish-beach.json": "packs/enemies.pack.json",
+	"enemies/beach/hedgehog-beach.json": "packs/enemies.pack.json",
+	"enemies/beach/penguin-beach.json": "packs/enemies.pack.json",
+	"enemies/beach/sandworm-beach.json": "packs/enemies.pack.json",
+	"enemies/cold/goat-worker.json": "packs/enemies.pack.json",
+	"enemies/cold/parrot-gangster-3.json": "packs/enemies.pack.json",
+	"enemies/final/ele-pillar-cold-old.json": "packs/enemies.pack.json",
+	"enemies/guest/firespirit.json": "packs/enemies.pack.json",
+	"enemies/guest/honeybear.json": "packs/enemies.pack.json",
+	"enemies/guest/sao.json": "packs/enemies.pack.json",
+	"enemies/jungle/special/capture-cage-1.json": "packs/enemies.pack.json",
+	"enemies/jungle/special/shockat-capture.json": "packs/enemies.pack.json",
+	"enemies/minibosses/raid-core.json": "packs/enemies.pack.json",
+	"enemies/minibosses/raid-dispenser.json": "packs/enemies.pack.json",
+	"enemies/minibosses/raid-face.json": "packs/enemies.pack.json",
+	"enemies/minibosses/raid-laser.json": "packs/enemies.pack.json",
+	"enemies/minibosses/raid-turret-small.json": "packs/enemies.pack.json",
+	"enemies/minibosses/raid-turret.json": "packs/enemies.pack.json",
 
 
 	"areas/autumn-fall.json": "packs/autumn-fall.pack.json",
@@ -919,6 +965,8 @@
 	"maps/arid/interior/stealth-3.json": "packs/vermillion/city-interiors.json",
 	"maps/arid/interior/the-room.json": "packs/vermillion/the-room.json",
 	"maps/arid/interior/gautham-room.json": "packs/arid.pack.json",
+	"maps/arid/lab/elevator-eg.json": "packs/arid.pack.json",
+	"maps/arid/lab/ug-01-entrance.json": "packs/arid.pack.json",
 
 	"areas/arid-dng-1.json": "packs/arid-dng-1.pack.json",
 	"maps/arid-dng/first/room-01.json": "packs/vermillion/first-dng/room-1-5.json",
@@ -1093,6 +1141,7 @@
 	"arena/test-cup.json": "packs/arena-cups.json",
 	"arena/test-custom-cup.json": "packs/arena-cups.json",
 	"arena/test-team-cup.json": "packs/arena-cups.json",
+	"arena/lily-cup.json": "packs/arena-cups.json",
 
 	"maps/arena/boss/cold-midboss.json": "packs/arena-maps.json",
 	"maps/arena/boss/shock-boss.json": "packs/arena-maps.json",
@@ -1105,6 +1154,7 @@
 	"maps/arena/faction/maroon-turtlecave-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/mine-heatbot-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/rh-turrets-1.json": "packs/arena-maps.json",
+	"maps/arena/pvp/pvp-lily.json": "packs/arena-maps.json",
 
 	"areas/forest.json": "packs/forest.pack.json",
 	"maps/forest/path-01-entrance.json": "packs/sapphire/entrance.json",
@@ -1172,5 +1222,20 @@
 	"save-presets/8-autumns-fall.json": "packs/save-presets.pack.json",
 
 	"areas/evo-village.json": "packs/evo-village.pack.json",
-	"areas/final-dng.json": "packs/final-dng.pack.json"
+	"areas/final-dng.json": "packs/final-dng.pack.json",
+
+	"areas/beach.json": "packs/beach.pack.json",
+	"maps/beach/path-01-entrance.json": "packs/beach.pack.json",
+	"maps/beach/path-04.json": "packs/beach.pack.json",
+
+	"extension/scorpion-robo/scorpion-robo.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/enemies/minibosses/scorpion-boss-pole.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/enemies/minibosses/scorpion-boss.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/maps/heat/lab/room-1.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/maps/heat/lab/room-2.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/maps/heat/lab/room-3.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/maps/heat/lab/room-boss.json": "packs/pc-dlc.pack.json",
+	"extension/scorpion-robo/data/maps/heat/lab/room-final.json": "packs/pc-dlc.pack.json"
+
 }

@@ -1,6 +1,212 @@
 {
+        "areas/final-dng.json/name": {
+                "text": "sans titre",
+                "orig": "untitled"
+        },
+        "areas/final-dng.json/floors/0/maps/0/name": {
+                "text": "Ascenseur B3",
+                "orig": "Elevator B3"
+        },
+        "areas/final-dng.json/floors/1/maps/0/name": {
+                "text": "Ascenseur B2",
+                "orig": "Elevator B2"
+        },
+        "areas/final-dng.json/floors/1/maps/1/name": {
+                "text": "Pont B2",
+                "orig": "Bridge B2"
+        },
+        "areas/final-dng.json/floors/1/maps/2/name": {
+                "text": "Bâtiment du Pont",
+                "quality": "unknown",
+                "orig": "Bridge Building"
+        },
+        "areas/final-dng.json/floors/1/maps/3/name": {
+                "text": "Pont Sud",
+                "orig": "South Bridge"
+        },
+        "areas/final-dng.json/floors/1/maps/4/name": {
+                "text": "Transport Attentionné",
+                "quality": "unknown",
+                "orig": "Careful Transport"
+        },
+        "areas/final-dng.json/floors/1/maps/5/name": {
+                "text": "Circuit En Boucle",
+                "note": "de: statique",
+                "orig": "Looping Circuit"
+        },
+        "areas/final-dng.json/floors/1/maps/6/name": {
+                "text": "Chambre des Pilliers",
+                "quality": "unknown",
+                "orig": "Pillar Chamber"
+        },
+        "areas/final-dng.json/floors/1/maps/7/name": {
+                "text": "Glisse sans Glace",
+                "orig": "Icless Sliding"
+        },
+        "areas/final-dng.json/floors/1/maps/8/name": {
+                "text": "Épreuve des Brisures East",
+                "quality": "unknown",
+                "orig": "Shard Trial East"
+        },
+        "areas/final-dng.json/floors/1/maps/9/name": {
+                "text": "Bombe Murale",
+                "quality": "unknown",
+                "orig": "Wall Bomb"
+        },
+        "areas/final-dng.json/floors/1/maps/10/name": {
+                "text": "Guardien de la Paix",
+                "orig": "Guardian of Peace"
+        },
+        "areas/final-dng.json/floors/1/maps/11/name": {
+                "text": "Chambre de Connexion",
+                "orig": "Connector Chamber"
+        },
+        "areas/final-dng.json/floors/1/maps/12/name": {
+                "text": "Pont Nord",
+                "orig": "North Bridge"
+        },
+        "areas/final-dng.json/floors/1/maps/13/name": {
+                "text": "Solutions Froides",
+                "orig": "Cold Solutions"
+        },
+        "areas/final-dng.json/floors/1/maps/14/name": {
+                "text": "Rapaces",
+                "quality": "unknown",
+                "orig": "Birds of Prey"
+        },
+        "areas/final-dng.json/floors/1/maps/15/name": {
+                "text": "Contour du Ravin",
+                "orig": "Chasm Roundtrip"
+        },
+        "areas/final-dng.json/floors/1/maps/16/name": {
+                "text": "Piles d'Ondes",
+                "orig": "Wave Stacks"
+        },
+        "areas/final-dng.json/floors/1/maps/17/name": {
+                "text": "Épreuve des Brisures Ouest",
+                "quality": "unknown",
+                "orig": "Shard Trial West"
+        },
+        "areas/final-dng.json/floors/1/maps/18/name": {
+                "text": "Mauvaise Piste",
+                "orig": "Red Herrings"
+        },
+        "areas/final-dng.json/floors/1/maps/19/name": {
+                "text": "Gardien de la Discorde",
+                "orig": "Guardian of Strife"
+        },
+        "areas/final-dng.json/floors/2/maps/0/name": {
+                "text": "Ascenseur B1",
+                "orig": "Elevator B1"
+        },
+        "areas/final-dng.json/floors/2/maps/1/name": {
+                "text": "Le Moine",
+                "orig": "The Monk"
+        },
+        "areas/final-dng.json/floors/3/maps/0/name": {
+                "text": "Épreuve d'Entrée",
+                "orig": "Entry Trial"
+        },
+        "areas/final-dng.json/floors/3/maps/1/name": {
+                "text": "Rappel du Choc",
+                "orig": "Shock Recall"
+        },
         "areas/final-dng.json/floors/3/maps/2/name": {
                 "text": "Élément Flottant",
                 "orig": "Floating Element"
+        },
+        "areas/final-dng.json/floors/3/maps/3/name": {
+                "text": "Gardien des Vieux",
+                "quality": "unknown",
+                "note": "that's a good question, Andrej",
+                "orig": "Guardian of Old"
+        },
+        "areas/final-dng.json/floors/3/maps/4/name": {
+                "text": "Épreuve des Comètes",
+                "orig": "Comet Trail"
+        },
+        "areas/final-dng.json/floors/3/maps/5/name": {
+                "text": "Point de vue",
+                "orig": "Outlook"
+        },
+        "areas/final-dng.json/floors/3/maps/6/name": {
+                "text": "Vallée du Long Pied",
+                "orig": "Longleg Vale"
+        },
+        "areas/final-dng.json/floors/3/maps/7/name": {
+                "text": "Pilliers Brisés",
+                "orig": "Cracked Pillars"
+        },
+        "areas/final-dng.json/floors/3/maps/8/name": {
+                "text": "Nid de Cristal",
+                "orig": "Crystal Den"
+        },
+        "areas/final-dng.json/floors/3/maps/9/name": {
+                "text": "Tombeau d'Eau",
+                "orig": "Water Grave"
+        },
+        "areas/final-dng.json/floors/3/maps/10/name": {
+                "text": "Passage de Chaleur",
+                "orig": "Passing of Heat"
+        },
+        "areas/final-dng.json/floors/3/maps/11/name": {
+                "text": "Transport de Chaleur",
+                "orig": "Heat Carry"
+        },
+        "areas/final-dng.json/floors/3/maps/12/name": {
+                "text": "Passage d'Onde",
+                "orig": "Passing of Wave"
+        },
+        "areas/final-dng.json/floors/3/maps/13/name": {
+                "text": "Transport d'Onde",
+                "orig": "Wave Carry"
+        },
+        "areas/final-dng.json/floors/3/maps/14/name": {
+                "text": "Onde de Flame",
+                "orig": "Waving Flame"
+        },
+        "areas/final-dng.json/floors/3/maps/15/name": {
+                "text": "Téléportation de Bombe",
+                "orig": "Bomb Teleport"
+        },
+        "areas/final-dng.json/floors/3/maps/16/name": {
+                "text": "Gardien de Glace",
+                "orig": "Guardian of Ice"
+        },
+        "areas/final-dng.json/floors/3/maps/17/name": {
+                "text": "Tempête de Froid",
+                "orig": "Cold Storm"
+        },
+        "areas/final-dng.json/floors/3/maps/18/name": {
+                "text": "Bulle de Choc",
+                "orig": "Shock Bubble "
+        },
+        "areas/final-dng.json/floors/3/maps/19/name": {
+                "text": "Gardien des Flammes",
+                "orig": "Guardian of Flame"
+        },
+        "areas/final-dng.json/floors/3/maps/20/name": {
+                "text": "Pont Central",
+                "orig": "Central Bridge"
+        },
+        "areas/final-dng.json/floors/3/maps/21/name": {
+                "text": "Passage de Choc",
+                "orig": "Passing of Shock"
+        },
+        "areas/final-dng.json/floors/3/maps/22/name": {
+                "text": "Transport de Choc",
+                "orig": "Shock Carry"
+        },
+        "areas/final-dng.json/floors/3/maps/23/name": {
+                "text": "Passage de Froid",
+                "orig": "Passing of Cold"
+        },
+        "areas/final-dng.json/floors/3/maps/24/name": {
+                "text": "Transport de Froid",
+                "orig": "Cold Carry"
+        },
+        "areas/final-dng.json/floors/3/maps/25/name": {
+                "text": "Ascenseur G",
+                "orig": "Elevator G"
         }
 }

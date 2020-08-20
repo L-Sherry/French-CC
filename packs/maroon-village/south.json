@@ -2312,17 +2312,50 @@
                 "orig": "...",
                 "text": "..."
         },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/16/message": {
+                "text": "Moi être fichu !\\. Machine pas assez bien si elle impressionne même pas humble \\v[lore.title.seeker] !",
+                "orig": "It be damned!\\. Not enough greatness in machine if not even awe a humble \\v[lore.title.seeker]!"
+        },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/17/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/18/message": {
+                "text": "Vous, humble \\v[lore.title.seeker] !\\. Besoin plus de pièces pour limer machine et overclocker !\\. Vous aider ?",
+                "orig": "You, humble \\v[lore.title.seeker]!\\. More parts needed to sharpen machine and put it over clock!\\. You help?"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/0/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/1/message": {
+                "text": "Génial !\\. Monde va devenir plus cool gràce à travail de \\v[lore.title.seeker] !",
+                "orig": "Awesome!\\. World will be much more rad place thanks to work of \\v[lore.title.seeker]!"
+        },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/2/message": {
                 "orig": "...!",
                 "text": "... !"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/3/message": {
+                "text": "Mais pièces nécessaires spéciales !\\. Pas trouver parmis minable créatures des sables, non, non !",
+                "orig": "Parts needed special, however!\\. Not found with any lame creature in sand, no, no!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/4/message": {
+                "text": "Besoin de tranchant dernier cri pour machine d'élite, trouver pièces détachées dans laboratoire secret dont légende récente parle !",
+                "quality": "bad",
+                "orig": "Cutting edges needed for elite machine found in secret lab of recent legends!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/5/message": {
+                "text": "... Comment ?",
+                "orig": "... How?"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/6/message": {
+                "text": "Oui, oui !\\. Réseau tissé de contacts Shad répand rumeurs sur nouvelle sorte améliorée de \\v[combat.name.heat/scorpion] depuis endroit secret !",
+                "orig": "Yes, yes!\\. Interconnected web of Shad contacts spread rumors on upgraded \\v[combat.name.heat/scorpion] from secret place!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/7/message": {
+                "text": "Lui plein de très haute technologie !\\. Mieux falloir trouver nouvelles créatures curieuses et informations !",
+                "orig": "It full of highest of tech!\\. Best go find curious new creatures and loot for information!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/8/message": {
                 "orig": "...",
@@ -2331,6 +2364,14 @@
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/9/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/10/message": {
+                "text": "Bien, bien !\\. Eux derniers vu à \\c[3]Passage Surélevé de \\v[area.heat-area.name]\\c[0].",
+                "orig": "Good, good!\\. They last seen in \\c[3]Overpass in \\v[area.heat-area.name]\\c[0]. Move there and search!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/11/message": {
+                "text": "Nous garder contact avec \\v[lore.title.direct-link] hautement moderne !",
+                "orig": "Us stay in touch over highly modern \\v[lore.title.direct-link]!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/12/message": {
                 "orig": "Bye.",
@@ -2349,6 +2390,22 @@
                 "orig": "...bye.",
                 "text": "... Bye."
         },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/1/event/0/name": {
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/1/event/2/message": {
+                "text": "Aller vers \\c[3]Passage Surélevé de \\v[area.heat-area.name]\\c[0] et chercher \\v[combat.name.heat/scorpion] innovant pour avoir information sur laboratoire !",
+                "orig": "Move to \\c[3]Overpass in \\v[area.heat-area.name]\\c[0] and search for innovative \\v[combat.name.heat/scorpion] to get information on lab!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/1/event/3/message": {
+                "text": "Nous utiliser \\v[lore.title.direct-link] pour rester en contact !",
+                "orig": "Will use \\v[lore.title.direct-link] to stay in touch!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/5/name": {
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
+        },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/8/message": {
                 "orig": "Hi.",
                 "text": "Salut."
@@ -2361,20 +2418,212 @@
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/12/message": {
+                "text": "Youhou, fantastique !\\. Meilleure journée de toute la semaine !",
+                "orig": "Yes, fantastic!\\. Best day of entire week!"
+        },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/13/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/14/message": {
+                "text": "Maintenant, intégrons pièces dans machine et être impressionné par calculs plus rapides !",
+                "orig": "Now, let parts be included into machine and be at awe at faster calculations!"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/15/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/33/name": {
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/35/message": {
+                "text": "Être fini.\\. FINI !\\. Et regarde comment être magnifique !",
+                "orig": "It done.\\. DONE!\\. And see how it is beautiful!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/39/message": {
                 "orig": "...!",
                 "text": "... !"
         },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/41/message": {
+                "text": "Mais valeur interne important.\\. Pour suite, faire test calculs complexes.",
+                "orig": "But inner values important.\\. Tests of complex calculations will be done next."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/51/name": {
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/53/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/54/message": {
+                "text": "Soit stupéfait par merveilleuses performances, \\v[lore.title.seeker] !\\.",
+                "orig": "Be in awe of beautiful performance, \\v[lore.title.seeker]!\\."
+        },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/55/message": {
                 "text": "... !",
                 "orig": "...!"
         },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/64/name": {
+                "text": "Ey'leet",
+                "orig": "Ey'leet"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/66/message": {
+                "text": "Mhm... valeurs plus hautes que jamais tout comme chaleur.\\. Peut-être ça être trop pour machine précieuse.",
+                "orig": "Mhm... values higher than ever and so is heat.\\. Maybe precious machine past limits."
+        },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/67/message": {
                 "orig": "...?",
                 "text": "... ?"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/69/message": {
+                "text": "\\v[lore.title.seeker].",
+                "orig": "\\v[lore.title.seeker]."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/73/message": {
+                "text": "... ??",
+                "orig": "...??"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/74/message": {
+                "text": "Moi rien regretter.",
+                "orig": "There are no regrets."
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/75/message": {
+                "text": "Pourquoi ???",
+                "orig": "Why???"
+        },
+        "maps/heat-village/baki-2.json/entities/855/settings/npcStates/2/event/quest/93/message": {
+                "text": "... b-bye ?",
+                "orig": "... b-bye?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/6/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/9/message": {
+                "text": "Oui ?",
+                "orig": "Yes?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/10/message": {
+                "text": "Est-ce qu'il y a quelque chose à propos de cet endroit ?",
+                "orig": "Is there something about this place?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/11/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/12/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/13/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/14/message": {
+                "text": "C'est quoi que tu fais avec tes mains ?",
+                "orig": "What's this with your hand?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/15/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/16/message": {
+                "text": "Mmm...",
+                "orig": "Hm..."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/17/message": {
+                "text": "Moi aussi, je peux le faire !",
+                "orig": "I can do that, too!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/18/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/19/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/20/message": {
+                "text": "Mmm...",
+                "orig": "Hm..."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/21/message": {
+                "text": "Oh !",
+                "orig": "Oh!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/22/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/23/message": {
+                "text": "Pourquoi j'ai fais ça moi ?",
+                "orig": "Why did I do that now?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/24/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/25/message": {
+                "text": "Tout cela me semble si familier tout d'un coup.",
+                "orig": "This all feels very familiar suddenly."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/26/message": {
+                "text": "On est déjà venu ici, non ?",
+                "orig": "We've been here before, have we?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/27/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/28/message": {
+                "text": "Je vois...",
+                "orig": "I see..."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/36/message": {
+                "text": "C'était pas par là qu'on s'est rencontré pour la première fois ?",
+                "orig": "Wasn't it around here where we first met?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/37/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/38/message": {
+                "text": "Pas exactement ici, mais pas loin, c'est ça ?",
+                "orig": "Not right at this place, but somewhere close, right?"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/39/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/40/message": {
+                "text": "On devrait y aller !",
+                "orig": "We should go there!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/41/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/heat-village/baki-2.json/entities/857/settings/event/45/task": {
+                "text": "Allez là où vous avez rencontré C'tron pour la première fois à l'\\c[3]Entrée Ouest de la \\v[area.heat-area.name]\\c[0]",
+                "orig": "Go to the place you met C'tron for the first time in \\c[3]Maroon Valley - West Entrance\\c[0]"
+        },
+        "maps/heat-village/baki-2.json/entities/859/settings/interact/hoverText": {
+                "text": "Note sur le Défi",
+                "orig": "Challenge Note"
+        },
+        "maps/heat-village/baki-2.json/entities/859/settings/interact/event/0/text": {
+                "text": "Le duel aura lieu à la\n\\c[3]Terre Déserte - Vallée de Marroon\\c[0].",
+                "orig": "The duel will take place at\n\\c[3]Maroon Valley - Barren Land\\c[0]."
+        },
+        "maps/heat-village/baki-2.json/entities/859/settings/interact/event/1/text": {
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarassée de tous les autres adversaires\\c[0].",
+                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0]."
+        },
+        "maps/heat-village/baki-2.json/entities/860/settings/analyzable/text": {
+                "text": "Machine à Calculer Elite MIKO V0",
+                "orig": "Elite Calculation Machine MIKO V0"
         }
 }
