@@ -28,7 +28,7 @@
                 "orig": "WARNING"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-1.json/entities/52/settings/interact/event/1/text": {
-                "text": "\\c[1]ATTENTION\\c[0]\n\nLe Labo A a été lourdement endommagé par une insurrection d'oiseaux millitants. Il sera fermé pour rénovations jusqu'à nouvel ordre.\n\n~ Le Management",
+                "text": "\\c[1]ATTENTION\\c[0]\n\nLe Labo A a été lourdement endommagé par une insurrection d'oiseaux millitants. Il sera fermé pour rénovations jusqu'à nouvel ordre.\n\n~ La Direction",
                 "orig": "\\c[1]WARNING\\c[0]\n\nLab A has been critically damaged by an insurgence of militant birds. It will be closed for renovations until further notice.\n\n~ The Management"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/hoverText": {
@@ -40,7 +40,7 @@
                 "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 2B\n\\c[3]TO:\\c[0] \"Pressure\", Management\n\n\\c[3]Subject:\\c[0] This Office"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/event/2/text": {
-                "text": "Bonjour,\n\nJ'apprécie le fait que le management nous approvisionne avec les dernières technologies, mais êtes-vous sérieux ? Qui à eu l'idée de nous installer dans ces \"locaux\" ?",
+                "text": "Bonjour,\n\nJ'apprécie le fait que la direction nous approvisionne avec les dernières technologies, mais êtes-vous sérieux ? Qui à eu l'idée de nous installer dans ces \"locaux\" ?",
                 "orig": "Greetings,\n\nI do appreciate the fact the management is supplying us with the latest tech, but are you guys for real? Who thought this place would be good for an office?"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/event/3/text": {
@@ -314,7 +314,7 @@
                 "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 3A\n\\c[3]TO:\\c[0] \"Pressure\", Management\n\n\\c[3]Subject:\\c[0] Facility Hygiene"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/2/text": {
-                "text": "Bonjour cher management.\n\nPremièrement, je souhaite souligner la gratitude que j'ai pour toute la confiance et les opportunités que vous nous avez apporté dans ce travail. Il a été très satisfaisant et interessant.",
+                "text": "Bonjour ma chère direction.\n\nPremièrement, je souhaite souligner la gratitude que j'ai pour toute la confiance et les opportunités que vous nous avez apporté dans ce travail. Il a été très satisfaisant et interessant.",
                 "orig": "Good day dear management,\n\nFirst I want to repeat my gratitude for all the trust and opportunities you have given me with this job. This work has been very fulfilling and interesting."
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/3/text": {

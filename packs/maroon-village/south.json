@@ -2341,8 +2341,7 @@
                 "orig": "Parts needed special, however!\\. Not found with any lame creature in sand, no, no!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/4/message": {
-                "text": "Besoin de tranchant dernier cri pour machine d'élite, trouver pièces détachées dans laboratoire secret dont légende récente parle !",
-                "quality": "bad",
+                "text": "Besoin de matériel dernier-cri pour machine d'élite, à trouver dans laboratoire secret dont légende urbaine récente parle !",
                 "orig": "Cutting edges needed for elite machine found in secret lab of recent legends!"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/accepted/5/message": {
@@ -2382,8 +2381,7 @@
                 "text": "[secoue la tête]"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/declined/1/message": {
-                "text": "Quoi ?!\\. \\v[lore.title.seeker] pas intéressé par grande chose d'élite ?",
-                "quality": "bad",
+                "text": "Quoi ?!\\. \\v[lore.title.seeker] pas intéressé par grande choses avec status d'élite ?",
                 "orig": "Wus?!\\. \\v[lore.title.seeker] not interested in great stuff of elite status?"
         },
         "maps/heat-village/baki-2.json/entities/855/settings/npcStates/0/event/quest/19/declined/2/message": {
