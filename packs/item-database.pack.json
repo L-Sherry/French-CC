@@ -4634,5 +4634,616 @@
         "item-database.json/items/549/description": {
                 "orig": "It's simple and elegant.",
                 "text": "C'est simple et élégant."
+        },
+        "item-database.json/items/550/name": {
+                "text": "Preuve de l'Ascension",
+                "orig": "Ascension Proof"
+        },
+        "item-database.json/items/550/description": {
+                "text": "Une gravure de Karotto apparement ancienne, taillée dans du métal mythique du Mont Bergen.",
+                "orig": "Some old looking image of a Karotto, hewn into mythical ore from Mt. Bergen. "
+        },
+        "item-database.json/items/551/name": {
+                "text": "Willis Waldmahl",
+                "orig": "Willis Waldmahl"
+        },
+        "item-database.json/items/551/description": {
+                "text": "Pain végétarien qui est populaire parmis les magiciens de la société des Sorciers Sylvane.",
+                "quality": "unknown",
+                "note": "how is this translated ?",
+                "orig": "Vegetarian bread cherished among magicians of the Sylvan Warlock society."
+        },
+        "item-database.json/items/552/name": {
+                "text": "Batboy",
+                "orig": "Batboy"
+        },
+        "item-database.json/items/552/description": {
+                "text": "Ce n'est pas déjà un homme.",
+                "orig": "Not quite a man yet."
+        },
+        "item-database.json/items/553/name": {
+                "text": "Butterfliege",
+                "note": "litteral translation of butterfly in german",
+                "orig": "Butterfliege"
+        },
+        "item-database.json/items/553/description": {
+                "text": "Un seul battement de ses ailes peut causer les pires orages.",
+                "orig": "A single flap with its wings can cause the biggest storm."
+        },
+        "item-database.json/items/554/name": {
+                "text": "Cochon Tirelire",
+                "orig": "Piggybank"
+        },
+        "item-database.json/items/554/description": {
+                "text": "Il roule partout à la vitesse du son.",
+                "orig": "It rolls around at the speed of sound."
+        },
+        "item-database.json/items/555/name": {
+                "text": "Jeune Pousse",
+                "orig": "Seedling"
+        },
+        "item-database.json/items/555/description": {
+                "text": "Porte le son du \\v[area.tree-dng.name] vers des rives lointaines.",
+                "orig": "Carries the sound of the \\v[area.tree-dng.name] to distant shores."
+        },
+        "item-database.json/items/556/name": {
+                "text": "Turbo",
+                "orig": "Turbo"
+        },
+        "item-database.json/items/556/description": {
+                "text": "Pour gagner la course, il faut partir à point.",
+                "quality": "unknown",
+                "orig": "Slow and steady wins the race."
+        },
+        "item-database.json/items/557/name": {
+                "text": "I Rob-0T",
+                "orig": "I Rob-0T"
+        },
+        "item-database.json/items/557/description": {
+                "text": "Il a un œil sur vous.",
+                "orig": "It has an eye on you."
+        },
+        "item-database.json/items/558/name": {
+                "text": "Bébé de l'Est",
+                "orig": "Baby of the East"
+        },
+        "item-database.json/items/558/description": {
+                "text": "Il est déstiné à devenir le gardien de quelque chose de grandiose.",
+                "orig": "Destined to be the guardian of something great."
+        },
+        "item-database.json/items/559/name": {
+                "text": "Oie",
+                "orig": "Goose"
+        },
+        "item-database.json/items/559/description": {
+                "text": "Pouet.",
+                "orig": "Honk."
+        },
+        "item-database.json/items/560/name": {
+                "text": "Clef de Ku'lero",
+                "orig": "Ku'lero Key"
+        },
+        "item-database.json/items/560/description": {
+                "text": "Une clef normale pour le \\c[3]\\v[area.final-dng.name]\\c[0].",
+                "orig": "A regular key for the \\c[3]\\v[area.final-dng.name]\\c[0]."
+        },
+        "item-database.json/items/561/name": {
+                "text": "Fragment Étrange",
+                "orig": "Strange Shard"
+        },
+        "item-database.json/items/561/description": {
+                "text": "Le crystal est solide, mais l'intérieur semble se transformer continuellement.",
+                "orig": "The crystal is hard, but the inside seems to transform constantly."
+        },
+        "item-database.json/items/562/name": {
+                "text": "Graine de Cône",
+                "orig": "Cone Seed"
+        },
+        "item-database.json/items/562/description": {
+                "text": "Une graine d'un des puissants arbres coniques que l'on trouve au \\v[area.final-dng.name].",
+                "orig": "A seed from the mighty cone trees found in Ku'lero Temple"
+        },
+        "item-database.json/items/563/name": {
+                "text": "Minerai Antique",
+                "orig": "Antique Ore"
+        },
+        "item-database.json/items/563/description": {
+                "text": "Imaginez du métal, mais vraiment très vieux et très précieux.",
+                "orig": "Imagine metal, but really really old and valuable."
+        },
+        "item-database.json/items/564/name": {
+                "text": "Cône Rose",
+                "orig": "Rose Cone"
+        },
+        "item-database.json/items/564/description": {
+                "text": "Ces cônes géants n'ont pas l'air de devenir aussi gros que leur semblables violets.",
+                "orig": "These giant cones never seem to grow into the same size as their violet kin."
+        },
+        "item-database.json/items/565/name": {
+                "text": "Gras Salé",
+                "quality": "unknown",
+                "orig": "Salty Gras"
+        },
+        "item-database.json/items/565/description": {
+                "text": "On dit qu'il récupère les larmes de ceux qui ne terminent pas le tracé.",
+                "note": "de: tracé des anciens",
+                "orig": "Said to collect the tears of those who didn't finish the track."
+        },
+        "item-database.json/items/566/name": {
+                "text": "Pièce de Corail",
+                "note": "de: poivre immortel ?",
+                "orig": "Coral Piece"
+        },
+        "item-database.json/items/566/description": {
+                "text": "Des morceaux de corails, aussi durs que l'acier. Pourraient servir à marchander.",
+                "note": "de: ces poivrier ont été renforcé par du crystal sombre en tant qu'épreuve ultime ?",
+                "orig": "Pieces of corals, as hard as steel. Could be used for trading. "
+        },
+        "item-database.json/items/567/name": {
+                "text": "Cross-Pointe",
+                "orig": "Cross Edge"
+        },
+        "item-database.json/items/567/description": {
+                "text": "Idéal pour marquer des points. [\\c[3]Élite\\c[0]]",
+                "quality": "bad",
+                "note": "all en texts contains 'cross' and all de contains 'kreuz'",
+                "orig": "Great at bringing the point across. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/568/name": {
+                "text": "Cross-Lunettes",
+                "orig": "Cross Goggles"
+        },
+        "item-database.json/items/568/description": {
+                "text": "Des aides à la vision pour examiner tout les détails sur de grandes zones. [\\c[3]Élite\\c[0]]",
+                "note": "de: Chemin de Bergen. Rencontre au sommet. Le regard croisé. Tempète de neige. Les lunettes restent.",
+                "quality": "bad",
+                "orig": "Viewing aids that help you survey every detail across huge areas. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/569/name": {
+                "text": "Cross-Armure",
+                "orig": "Cross Mail"
+        },
+        "item-database.json/items/569/description": {
+                "text": "Offre le niveau de protection le plus élevé, sur tout les niveaux. [\\c[3]Élite\\c[0]]",
+                "note": "de: Pas idéal pour un croisé, mais quand même très pratique",
+                "quality": "bad",
+                "orig": "Offers the highest-protection levels across the board. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/570/name": {
+                "text": "Cross-Bottes",
+                "orig": "Cross Boots"
+        },
+        "item-database.json/items/570/description": {
+                "text": "Les meilleures bottes que vous pourrez avoir pour traverser des contrées dangereuses ![\\c[3]Élite\\c[0]]",
+                "quality": "bad",
+                "orig": "The finest boots you could have for crossing dangerous lands! [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/571/name": {
+                "text": "Bulle Sereine+",
+                "orig": "Serene Bubble+"
+        },
+        "item-database.json/items/571/description": {
+                "text": "Un générateur de champs de forces entoure la tète d'une bulle protectrice et relaxante. [\\c[3]Élite\\c[0]]",
+                "orig": "A forcefield generator encases the head in a protective and relaxing bubble. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/572/name": {
+                "text": "Tête Brulée+",
+                "orig": "Furious Hothead+"
+        },
+        "item-database.json/items/572/description": {
+                "text": "Couvre-chef qui renforce le porteur avec des générateurs puissants et de la chaleur. [\\c[3]Élite\\c[0]]",
+                "orig": "Headgear that empowers its user with powerful generators while creating heat. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/573/name": {
+                "text": "Viseur Retraçage+",
+                "orig": "Trackwalker Visor+"
+        },
+        "item-database.json/items/573/description": {
+                "text": "Viseur dernier cri conçu spécifiquement pour les besoins des expéditions Retraçage. [\\c[3]Élite\\c[0]]",
+                "orig": "State-of-the-art visor that was custom-tailored to the needs of Trackwalker expeditions. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/574/name": {
+                "text": "Voile de Méduse",
+                "orig": "Medusa Veil"
+        },
+        "item-database.json/items/574/description": {
+                "text": "Comme une bête mythique, ce voile affaiblit les ennemis lentement mais sûrement. [\\c[3]Élite\\c[0]] ",
+                "orig": "Based on a mythical beast, this veil grants adeptness in slowly weakening foes. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/575/name": {
+                "text": "Bandana du Dragon+",
+                "orig": "Dragon's Bandana+"
+        },
+        "item-database.json/items/575/description": {
+                "text": "Jadis blanc, il s'est teint en rouge en absorbant du sang et des envies de meurtres. [\\c[3]Élite\\c[0]]",
+                "orig": "Once white, it turned deeply red by absorbing blood and murderous intent. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/576/name": {
+                "text": "Cache-oreille+",
+                "orig": "Tranquil Earmuffs+"
+        },
+        "item-database.json/items/576/description": {
+                "text": "Protège votre ouïe du stress du monde avec leur douceur réconfortante. [\\c[3]Élite\\c[0]]",
+                "orig": "Ear protection that shields against worldly stress with comforting softness. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/577/name": {
+                "text": "Escarmoucheur+",
+                "orig": "Skirmisher+"
+        },
+        "item-database.json/items/577/description": {
+                "text": "Arme rapide qui est vraiment efficace avec les tactiques d'attaque et repli. [\\c[3]Élite\\c[0]]",
+                "orig": "Fast weapon that performs exceptionally with hit and run tactics. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/578/name": {
+                "text": "Poing Solide+",
+                "orig": "Unbreaking Fist+"
+        },
+        "item-database.json/items/578/description": {
+                "text": "Poing énorme qu'on dit indestructible. Crée à partir des matériaux les plus durs. [\\c[3]Élite\\c[0]]",
+                "orig": "This huge fist was created from the hardest materials and is said to be indestructible. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/579/name": {
+                "text": "Fouet Mante+",
+                "orig": "Mantis Whip+"
+        },
+        "item-database.json/items/579/description": {
+                "text": "Lame longue, flexible, presque invisible qui peut frapper en un clin d'œil. [\\c[3]Élite\\c[0]]",
+                "orig": "Long, flexible blade that is nigh-invisible and can lash out in an instant. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/580/name": {
+                "text": "Faucon d'Or+",
+                "orig": "Golden Falcon+"
+        },
+        "item-database.json/items/580/description": {
+                "text": "Une arme longue portée, parfaitement conçue pour toucher des cibles très lointaines. [\\c[3]Élite\\c[0]]",
+                "orig": "A long-ranged weapon, perfectly refined to destroy targets far, far away. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/581/name": {
+                "text": "Brobaton de Force+",
+                "orig": "Brostick of Force+"
+        },
+        "item-database.json/items/581/description": {
+                "text": "Une arme extrêmement rare crée par une organisation paramilitaire d'origine inconnue. [\\c[3]Élite\\c[0]]",
+                "orig": "An extremely rare weapon created by a paramilitary organization of unknown origin. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/582/name": {
+                "text": "Dent de Cerbère",
+                "orig": "Cerberus Fang"
+        },
+        "item-database.json/items/582/description": {
+                "text": "Comme une bête mythique, cette arme permet de la regénération et des attaques supplémentaires. [\\c[3]Élite\\c[0]]",
+                "orig": "Based on a mythical beast, this weapon grants regeneration and additional attacks. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/583/name": {
+                "text": "Lamelle Zélée+",
+                "orig": "Zealous Lamellar+"
+        },
+        "item-database.json/items/583/description": {
+                "text": "Armure légère composée de matériaux divers, chacun représentant une vertu de guerrier. [\\c[3]Élite\\c[0]]",
+                "orig": "Light armor, composed of various materials, each representing a warrior's virtue. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/584/name": {
+                "text": "Veste de Pionnier+",
+                "orig": "Pioneer Vest+"
+        },
+        "item-database.json/items/584/description": {
+                "text": "Veste récente pour les explorateurs d'élite, équipée de haute technologie pour survivre. [\\c[3]Élite\\c[0]]",
+                "orig": "Recently developed vest for elite explorers, equipped with high-grade survival features. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/585/name": {
+                "text": "Armure Réactive+",
+                "orig": "Reactive Plate+"
+        },
+        "item-database.json/items/585/description": {
+                "text": "Armure avancée fait de plaques lourdes qui repousse les tirs avec une force explosive. [\\c[3]Élite\\c[0]]",
+                "orig": "Highly advanced heavy plate armor that repels hits with explosive force. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/586/name": {
+                "text": "Gilet de Chiron",
+                "orig": "Chiron Vest"
+        },
+        "item-database.json/items/586/description": {
+                "text": "Ce gilet permet de viser exceptionellement bien en se déplacement, comme une bête mythique. [\\c[3]Élite\\c[0]]",
+                "orig": "Based on a mythical beast, this vest grants exceptional aim on the move. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/587/name": {
+                "text": "Robe Tueuse+",
+                "orig": "Killing Dress+"
+        },
+        "item-database.json/items/587/description": {
+                "text": "Beau costume, taillé pour maximiser le professionnalisme dans chaque situation. [\\c[3]Élite\\c[0]]",
+                "orig": "Fine suit, tailored to always adapt for maximum professionalism in every situation. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/588/name": {
+                "text": "Harnais d'Assaut+",
+                "orig": "Assault Harness+"
+        },
+        "item-database.json/items/588/description": {
+                "text": "Équipement de protection aérodynamique étudié pour les assauts frontaux. [\\c[3]Élite\\c[0]]",
+                "orig": "Streamlined protective gear, created for full-frontal assaults. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/589/name": {
+                "text": "Pendule de Frappe+",
+                "orig": "Pendulum Striker+"
+        },
+        "item-database.json/items/589/description": {
+                "text": "Une arme qui, avec un mouvement continu, peut accumuler une grande force destructrice. [\\c[3]Élite\\c[0]]",
+                "orig": "A weapon that can amass great destructive force through continuous movement. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/590/name": {
+                "text": "Le Frappeur+",
+                "orig": "Knocking One+"
+        },
+        "item-database.json/items/590/description": {
+                "text": "Arme massive fait de cristal extrêmement dense. Imbattable pour intimider les ennemis. [\\c[3]Élite\\c[0]]",
+                "orig": "Massive weapon made from an extremely dense crystal. Unparallelled for intimidation. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/591/name": {
+                "text": "- Bouche Trou",
+                "orig": "- PLACEHOLDER"
+        },
+        "item-database.json/items/591/description": {
+                "text": "Un snack impérissable pour le combat. Se battre l'estomac vide termine souvent mal !",
+                "orig": "A tough, neverending snack for combat. Fighting on an empty stomach is no good!"
+        },
+        "item-database.json/items/592/name": {
+                "text": "Danseuses Létales+",
+                "orig": "Deadly Dancers+"
+        },
+        "item-database.json/items/592/description": {
+                "text": "Chaussures élégantes pour tireurs agiles, pour bouger rapidement dans les fusillades. [\\c[3]Élite\\c[0]]",
+                "orig": "Elegant shoes favored by agile gunslingers. Allow for fast movement in firefights. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/593/name": {
+                "text": "Ancres de Préteur+",
+                "orig": "Praetorian Anchors+"
+        },
+        "item-database.json/items/593/description": {
+                "text": "Bottes lourdes, utilisées par des gardes du corps d'élites. Ne laisse rien passer. [\\c[3]Élite\\c[0]]",
+                "orig": "Heavy boots used by high-class bodyguards that allow no passing nor harm. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/594/name": {
+                "text": "Coure-Brume+",
+                "orig": "Mistwalkers+"
+        },
+        "item-database.json/items/594/description": {
+                "text": "Bottes qui pèsent presque rien, souvent utilisés par des agents secrets. [\\c[3]Élite\\c[0]]",
+                "orig": "Almost weightless boots that are often used by skilled agents, only known from stories. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/595/name": {
+                "text": "Jambière de Pégase",
+                "orig": "Pegasus Greaves"
+        },
+        "item-database.json/items/595/description": {
+                "text": "Permet d'obtenir une vitesse et une endurence sur-humaine, comme une bête mythique. [\\c[3]Élite\\c[0]]",
+                "orig": "Based on a mythical beast, these boots grant inhuman speed and endurance. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/596/name": {
+                "text": "Patins de Combat+",
+                "orig": "Combat Skates+"
+        },
+        "item-database.json/items/596/description": {
+                "text": "Patins à glace aiguisés pour obtenir un tranchant vicieux. Soyez mortel sur la glace ! [\\c[3]Élite\\c[0]]",
+                "orig": "Skates that have been sharpened to a a vicious edge. Be deadly on ice! [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/597/name": {
+                "text": "Paedalos+",
+                "orig": "Paedalos+"
+        },
+        "item-database.json/items/597/description": {
+                "text": "Crée par un artisan mystérieux, cet appareil vous aide à renforcer votre posture. [\\c[3]Élite\\c[0]]",
+                "orig": "Created by masterful craftsmen, this curious device helps to achieve a healthy posture. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/598/name": {
+                "text": "Der des Der Paille",
+                "orig": "Very Last Strawhat"
+        },
+        "item-database.json/items/598/description": {
+                "text": "La vraie dernière amélioration. Le véritable chapeau de paile ultime. Augmente sensiblement votre focus. [\\c[3]Élite\\c[0]]",
+                "orig": "The very last upgrade. The true ultimate strawhat, vastly increasing your focus. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/599/name": {
+                "text": "Brassard Ensoleillé",
+                "orig": "Sunshine Bracer"
+        },
+        "item-database.json/items/599/description": {
+                "text": "Grande protection pour les bras qui peut manipuler l'aura de tout ce qui l'entoure. [\\c[3]Élite\\c[0]]",
+                "orig": "Highly empowered arm protection that can manipulate the aura of everything around it. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/600/name": {
+                "text": "Chapeau de Recrue",
+                "orig": "Rookiehat"
+        },
+        "item-database.json/items/600/description": {
+                "text": "Équipement de départ. Que l'aventure commence !",
+                "orig": "Starting Equipment. Let the Adventure begin!"
+        },
+        "item-database.json/items/601/name": {
+                "text": "Gants de Grand Maitre",
+                "orig": "Highmeister Gloves"
+        },
+        "item-database.json/items/601/description": {
+                "text": "Gants vieux et usés qui appartenait autrefois à un grand maitre des ripostes.  [\\c[3]Élite\\c[0]]",
+                "orig": "Worn and old gloves once belonging to a great master of parries. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/602/name": {
+                "text": "Armurerie du Corps",
+                "note": "de is copypasted",
+                "orig": "Body Armory"
+        },
+        "item-database.json/items/602/description": {
+                "text": "Armure fabriquée de coffres de tout type. Attire naturellement les objets de valeur. [\\c[3]Élite\\c[0]]",
+                "note": "probably stale",
+                "orig": "Armor crafted from chests of any kind. Precious valuables naturally radiate towards it. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/603/name": {
+                "text": "Bottes d'Artilleur+",
+                "orig": "Artillery Boots+"
+        },
+        "item-database.json/items/603/description": {
+                "text": "Bottes très modernes qui augmentent la puissance au prix d'un épuisement plus rapide. [\\c[3]Élite\\c[0]]",
+                "orig": "Highly-advanced footwear that magnifies one's power at the cost of quicker exhaustion. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/604/name": {
+                "text": "Robe Fibre de Vie",
+                "orig": "Lifefiber Dress"
+        },
+        "item-database.json/items/604/description": {
+                "text": "Un costume fait de fibres vivantes qui forme une relation symbiotique avec son porteur. [\\c[3]Élite\\c[0]]",
+                "orig": "Dress spun from living thread that forms a nigh symbiontic relationship with its wearer. [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/605/name": {
+                "text": "Salami Éternel+",
+                "orig": "Eternal Salami+"
+        },
+        "item-database.json/items/605/description": {
+                "text": "Un snack impérissable pour le combat. Se battre l'estomac vide termine souvent mal ! [\\c[3]Élite\\c[0]]",
+                "orig": "A tough, neverending snack for combat. Fighting on an empty stomach is no good! [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/606/name": {
+                "text": "- Récompense Moine",
+                "orig": "- Monk Reward"
+        },
+        "item-database.json/items/606/description": {
+                "text": "Prêt à récompenser. Un item à marchander ou à équipper ?",
+                "orig": "Reward standin. Some trade item or equip?"
+        },
+        "item-database.json/items/607/name": {
+                "text": "Tir-Shuriken",
+                "orig": "Shuriken Shooter"
+        },
+        "item-database.json/items/607/description": {
+                "text": "Vous fait déplacer et tirer très rapidement [\\c[3]Élite\\c[0]]",
+                "orig": "Makes you move and shoot very fast [\\c[3]Ascended\\c[0]]"
+        },
+        "item-database.json/items/608/name": {
+                "text": "- Colibri",
+                "quality": "unknown",
+                "orig": "- Colibry"
+        },
+        "item-database.json/items/608/description": {
+                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
+                "orig": "This web is so sticky that it can be used as an all-purpose glue."
+        },
+        "item-database.json/items/609/name": {
+                "text": "- Peigne",
+                "orig": "- Comb"
+        },
+        "item-database.json/items/609/description": {
+                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
+                "orig": "This web is so sticky that it can be used as an all-purpose glue."
+        },
+        "item-database.json/items/610/name": {
+                "text": "Cendre Brulée",
+                "orig": "Burned Ash"
+        },
+        "item-database.json/items/610/description": {
+                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
+                "orig": "This web is so sticky that it can be used as an all-purpose glue."
+        },
+        "item-database.json/items/611/name": {
+                "text": "Super Bottes Réaction",
+                "orig": "Speedy Boom Walkers"
+        },
+        "item-database.json/items/611/description": {
+                "text": "Idéal pour ceux qui aspirent à se déplacer à très grande vitesse.",
+                "orig": "Ideal for those who aspire to move at very high velocities."
+        },
+        "item-database.json/items/612/name": {
+                "text": "Émeraudes Rebelles",
+                "orig": "Unruly Emeralds"
+        },
+        "item-database.json/items/612/description": {
+                "text": "Un jeu de gemmes multicouleurs qui ne semblent pas vouloir céder face à l'ordre public.",
+                "quality": "bad",
+                "orig": "A set of multicolored gems that seem to bow to neither law nor order."
+        },
+        "item-database.json/items/613/name": {
+                "text": "- Nouveau Marchandable Booster",
+                "orig": "- New Boostertrade"
+        },
+        "item-database.json/items/613/description": {
+                "text": "Une gemme verte rare que l'on trouve uniquement en combattant de puissant adversaires.",
+                "orig": "A rare green gem only found when fighting strong adversaries."
+        },
+        "item-database.json/items/614/name": {
+                "text": "- Plage1-1",
+                "orig": "- beach1-1"
+        },
+        "item-database.json/items/614/description": {
+                "text": "Item Plage 1-1",
+                "orig": "Beach item 1-1"
+        },
+        "item-database.json/items/615/name": {
+                "text": "- Plage1-2",
+                "orig": "- beach1-2"
+        },
+        "item-database.json/items/615/description": {
+                "text": "Item Plage 1-2",
+                "orig": "Beach item 1-2"
+        },
+        "item-database.json/items/616/name": {
+                "text": "- Plage2-1",
+                "orig": "- beach2-1"
+        },
+        "item-database.json/items/616/description": {
+                "text": "Item Plage 2-1",
+                "orig": "Beach item 2-1"
+        },
+        "item-database.json/items/617/name": {
+                "text": "- Plage2-2",
+                "orig": "- beach2-2"
+        },
+        "item-database.json/items/617/description": {
+                "text": "Item Plage 2-2",
+                "orig": "Beach item 2-2"
+        },
+        "item-database.json/items/618/name": {
+                "text": "Booster de Booster",
+                "orig": "Booster Booster"
+        },
+        "item-database.json/items/618/description": {
+                "text": "Renforce encore le niveau des ennemis boostés par des \\c[3]booster régionaux\\c[0] et débloque plus de butin.",
+                "orig": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] and unlocks more loot."
+        },
+        "item-database.json/items/619/name": {
+                "text": "Éponge Jaune",
+                "orig": "Yellow Sponge"
+        },
+        "item-database.json/items/619/description": {
+                "text": "Une éponge naturelle qui vit habituellement sous la mer.",
+                "orig": "Natural sponge that usually lives under the sea. "
+        },
+        "item-database.json/items/620/name": {
+                "text": "Eau Tendre",
+                "orig": "Mellow Water"
+        },
+        "item-database.json/items/620/description": {
+                "text": "Cette eau est souvent utilisé pour le thé pour créer un goùt calmant.",
+                "orig": "This water is often used for tea to create a soothing taste."
+        },
+        "item-database.json/items/621/name": {
+                "text": "Noix de Coquille",
+                "orig": "Shell Nut"
+        },
+        "item-database.json/items/621/description": {
+                "text": "Cette noix de coco à la même forme qu'un coquillage.",
+                "orig": "This coconut shaped like a sea shell. "
+        },
+        "item-database.json/items/622/name": {
+                "text": "Pièce de MacGuffin",
+                "orig": "MacGuffin's Coin"
+        },
+        "item-database.json/items/622/description": {
+                "text": "L'obtenir est obligatoire.",
+                "orig": "Obtaining it is mandatory."
+        },
+        "item-database.json/items/623/name": {
+                "text": "Œuf Doré Surprise",
+                "orig": "Golden Surprise Egg"
+        },
+        "item-database.json/items/623/description": {
+                "text": "Un objet en forme d'œuf fait de matière très précieuse !",
+                "orig": "An egg-shaped object made from extremely valuable material!"
         }
 }

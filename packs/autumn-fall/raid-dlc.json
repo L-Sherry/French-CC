@@ -1,6 +1,535 @@
 {
+        "maps/autumn-fall/raid/raid-boss.json/entities/67/settings/event/20/message": {
+                "text": "Wouah !",
+                "orig": "Woah!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/67/settings/event/21/message": {
+                "text": "Ce truc volait autour de nous depuis tout ce temps ?!",
+                "orig": "Has this thing been flying over us all this time?!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/67/settings/event/22/message": {
+                "text": "C'est exact, chérie ! C'est de là que viennent tout les pilliers élémentaires  !",
+                "orig": "That's right, dear! This is where all those elemental pillars came from!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/67/settings/event/23/message": {
+                "text": "Super ! Il mérite vraiment une bonne dose de coup de poings là maintenant !",
+                "quality": "unknown",
+                "orig": "Great! It definitely deserves a good amount of punching right about now!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/2/thenStep/0/thenStep/0/message": {
+                "text": "On a poussé la \\c[3]tourelle chaud\\c[0] ! Vers le \\c[3]second pillier de droite\\c[0] !",
+                "orig": "\\c[3]Heat turret\\c[0] pushed over! To the \\c[3]second right pillar\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/3/thenStep/0/thenStep/0/message": {
+                "text": "La \\c[3]tourelle froide\\c[0] est prête ! Vers la \\c[3]gauche\\c[0] ! Vraiment cette fois !",
+                "orig": "\\c[3]Cold turret\\c[0] is ready! To the \\c[3]left\\c[0]! Really this time!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/3/thenStep/1/thenStep/0/message": {
+                "text": "La \\c[3]tourelle froide\\c[0] est sur le \\c[3]second pillier depuis la gauche\\c[0] !",
+                "orig": "\\c[3]Cold turret\\c[0] to the \\c[3]second pillar from the left\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/4/thenStep/0/thenStep/0/thenStep/0/message": {
+                "text": "Et voilà la \\c[3]tourelle violette\\c[0] ! Il faut qu'elle aille à \\c[3]droite\\c[0] !",
+                "orig": "Here comes the \\c[3]purple turret\\c[0]! Needs to go \\c[3]right\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/4/thenStep/0/thenStep/0/elseStep/0/message": {
+                "text": "La \\c[3]tourelle violette\\c[0] est prête. Vous savez où elle va...",
+                "orig": "\\c[3]Purple turret\\c[0] ready.\\. You know where it goes..."
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/4/thenStep/1/thenStep/0/message": {
+                "text": "Une \\c[3]tourelle Choc\\c[0] de prête, pour être tirée sur le \\c[3]pillier central\\c[0] !",
+                "orig": "One \\c[3]Shock turret\\c[0] ready, to be shot to the \\c[3]center\\c[0] pillar!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/4/thenStep/2/thenStep/0/message": {
+                "text": "\\c[3]Lea\\c[0] !!!",
+                "orig": "\\c[3]Lea\\c[0]!!!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/4/thenStep/2/thenStep/1/message": {
+                "text": "Lea veut dire \\c[3]le plus à gauche\\c[0] ! Pour la \\c[3]tourelle choc\\c[0] !",
+                "orig": "Lea means \\c[3]left most\\c[0]! For the \\c[3]Shock turret!\\c[0]"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/0/message": {
+                "text": "l'\\c[3]Onde est prête\\c[0] ! À \\c[3]gauche\\c[0] !",
+                "orig": "\\c[3]Wave is ready!\\c[0] To the \\c[3]left\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/2/message": {
+                "text": "Euh...\\. tu veux dire \\c[1]l'autre gauche\\c[0] ?",
+                "orig": "Uhm...\\. don't you mean \\c[1]the other left\\c[0]?"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/5/message": {
+                "text": "Hein\\. \\c[3]DROITE !\\. À DROITE !\\c[0]",
+                "orig": "Wha-\\. \\c[3]RIGHT!\\. TO THE RIGHT!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/7/message": {
+                "text": "Oups !\\. \\c[1]Trop tard\\c[0] !",
+                "orig": "Whooops!\\. \\c[1]Too late\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/9/message": {
+                "text": "Désolééé~",
+                "orig": "Sorrryyyy~"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/11/message": {
+                "text": "Pas grave.\\. Le \\c[3]Pire Renverseur de Pillier\\c[0] comprends.",
+                "orig": "No worries.\\. The \\c[3]Worst Column Tackler\\c[0] understands."
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/elseStep/0/thenStep/0/message": {
+                "text": "la \\c[3]tourelle Onde\\c[0] vers la \\c[3]droite\\c[0] !",
+                "orig": "\\c[3]Wave turret\\c[0] to the \\c[3]right\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/0/thenStep/0/elseStep/0/elseStep/0/message": {
+                "text": "la \\c[3]tourelle Onde\\c[0] vers la \\c[3]droite\\c[0] !",
+                "orig": "\\c[3]Wave turret\\c[0] to the \\c[3]right\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/5/thenStep/1/thenStep/0/message": {
+                "text": "la \\c[3]tourelle Onde\\c[0] vers le \\c[3]pillier le plus à droite\\c[0] !",
+                "orig": "\\c[3]Wave turret\\c[0] to the \\c[3]right most pillar\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/2/thenStep/0/thenStep/0/message": {
+                "text": "La \\c[3]tourelle chaud\\c[0]-bouillant arrive ! Elle veut aller à \\c[3]droite\\c[0] !",
+                "orig": "Steaming hot \\c[3]heat turret\\c[0] arriving! Wants to go \\c[3]right\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/2/thenStep/1/thenStep/0/message": {
+                "text": "La \\c[3]tourelle chaude\\c[0] finale ! sur le pillier \\c[3]centre-gauche\\c[0] !",
+                "quality": "unknown",
+                "orig": "Final \\c[3]Heat turret\\c[0]! \\c[3]Center left\\c[0] pillar!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/3/thenStep/0/thenStep/0/message": {
+                "text": "La \\c[3]Tourelle Froide\\c[0] est prête ! Celle-là va à \\c[3]droite\\c[0] !",
+                "orig": "\\c[3]Cold Turret\\c[0] is ready! This one goes \\c[3]right\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/3/thenStep/1/thenStep/0/message": {
+                "text": "Encore une \\c[3]tourelle froide\\c[0] est prête ! Elle va au \\c[3]pillier central\\c[0] cette fois !",
+                "orig": "Another \\c[3]cold turret\\c[0]! Goes to the \\c[3]center pillar\\c[0] this time!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/3/thenStep/2/thenStep/0/message": {
+                "text": "La \\c[3]tourelle Froide\\c[0] viens vers vous ! \\c[3]Second pillier depuis la droite\\c[0] !",
+                "orig": "\\c[3]Cold turret\\c[0] coming your way! \\c[3]Second from the right\\c[0] pillar!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/4/thenStep/0/thenStep/0/message": {
+                "text": "La \\c[3]tourelle Choc\\c[0] est prête ! Tirez là sur le pillier de \\c[3]gauche\\c[0] !",
+                "orig": "\\c[3]Shock turret\\c[0] is ready! Shoot it to the \\c[3]left\\c[0] pillar!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/4/thenStep/1/thenStep/0/message": {
+                "text": "Et voilà la \\c[3]tourelle Choc\\c[0] ! Sur le \\c[3]pillier le plus à droite\\c[0] !",
+                "orig": "Here comes the \\c[3]Shock turret\\c[0]! To the \\c[3]right most pillar\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/5/thenStep/0/thenStep/0/message": {
+                "text": "La \\c[3]tourelle onde verte\\c[0] viens vers vous ! Elle appartient au pillier de \\c[3]gauche\\c[0] !",
+                "orig": "\\c[3]Green wave turret\\c[0] coming your way! Belongs to the \\c[3]left\\c[0] pillar!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/82/settings/event/5/thenStep/1/thenStep/0/message": {
+                "text": "La \\c[3]tourelle Onde\\c[0] est prête ! Sur le \\c[3]pillier gauche extérieur\\c[0] !",
+                "orig": "\\c[3]Wave turret\\c[0] ready! To the \\c[3]outer left pillar\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/6/message": {
+                "text": "Hein ?\\. Elle saute ?",
+                "quality": "unknown",
+                "orig": "Huh?\\. It's jumping away?!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/11/message": {
+                "text": "Oh ! Est-ce que vous l'avez envoyé ici ?",
+                "quality": "unknown",
+                "orig": "Oh! Did you send this over here?"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/16/message": {
+                "text": "On dirait qu'il faut la tirer dans un de ces...\\. \\c[3]distributeurs\\c[0] ?\nMais \\c[3]lequel\\c[0] ?",
+                "orig": "Looks like we have to shoot it into one of those...\\. \\c[3]dispensers\\c[0]? But \\c[3]which one\\c[0]?"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/17/message": {
+                "text": "Est-ce que vous pouvez nous dire où la \\c[3]tourelle rouge\\c[0] doit aller ?",
+                "orig": "Can you tell us where the \\c[3]red turret\\c[0] is supposed to go?"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/24/message": {
+                "text": "Probablement dans celle de la \\c[3]même couleur\\c[0] !",
+                "orig": "Probably in the one with the \\c[3]matching color\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/27/message": {
+                "text": "Oui !\\. Tirez là dans le \\c[3]pillier de gauche\\c[0] !",
+                "orig": "Oui!\\. Shoot it into the \\c[3]left pillar\\c[0]!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/88/settings/event/32/message": {
+                "text": "Compris !\\. Un moment...",
+                "quality": "unknown",
+                "orig": "Got it!\\. Just a moment..."
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/1/thenStep/0/message": {
+                "text": "On dirait qu'on échange les rôles ! On va vous envoyer ces tourelles maintenant !",
+                "quality": "unknown",
+                "orig": "Looks like we're switching sides! We'll be sending those turrets over to you now!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/1/thenStep/1/message": {
+                "text": "OK !\\. Pendant ce temps là on va juste cogner ces petites tourelles hamburger !",
+                "orig": "Alright!\\. In the meantime we'll just punch those tiny burger turrets!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/2/thenStep/0/message": {
+                "text": "Ça ressemble à un point faible !\\. Il est temps de cogner !",
+                "orig": "That looks like a weak point to me!\\. It's punching time!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/3/thenStep/0/message": {
+                "text": "Premier round terminé !\\. Bon travail, tout le monde !",
+                "orig": "First round cleared!\\. Nice work, everyone!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/3/thenStep/2/message": {
+                "text": "Et maintenant des lasers !!",
+                "orig": "Suddenly lasers!!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/4/thenStep/0/message": {
+                "text": "On dirait qu'on va devoir ré-envoyer des tourelles !",
+                "quality": "unknown",
+                "orig": "Looks like we'll have to throw over the turrets again!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/5/thenStep/0/message": {
+                "text": "C'est l'heure des dégâts !!",
+                "orig": "Damage dealing time!!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/6/thenStep/0/message": {
+                "text": "Round final !\\. On peut le faire !!",
+                "orig": "Final round!\\. We can do it!!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/7/thenStep/0/message": {
+                "text": "Et ça ne fait que continuer !",
+                "orig": "It just keeps going and going!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/7/thenStep/2/message": {
+                "text": "On est envahi de petites tourelles hamburger !",
+                "orig": "We're overrun by tiny burger turrets!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/89/settings/event/8/thenStep/0/message": {
+                "text": "On y est presque !!",
+                "orig": "Almost there!!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/90/settings/event/1/message": {
+                "text": "Le pillier fait boom !\\. Au suivant !",
+                "orig": "Pillar goes boom!\\. Next one!"
+        },
         "maps/autumn-fall/raid/raid-boss.json/entities/91/settings/event/1/0_0/0/message": {
                 "text": "Pourquoi ?!",
                 "orig": "Why?!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/91/settings/event/1/0_0/2/message": {
+                "text": "Mauvais pillier, chérie !",
+                "orig": "Wrong pillar, chérie!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/91/settings/event/1/0_1/0/message": {
+                "text": "Désolé...",
+                "orig": "Sorry..."
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/91/settings/event/1/0_1/2/message": {
+                "text": "Pas grave, ça arrive.",
+                "orig": "No worries, it happens."
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/91/settings/event/1/0_2/0/message": {
+                "text": "Désolé !",
+                "orig": "Sorry!"
+        },
+        "maps/autumn-fall/raid/raid-boss.json/entities/91/settings/event/1/0_2/2/message": {
+                "text": "C'est pas grave, chérie !\\. Essayons encore !",
+                "orig": "No worries, dear!\\. Let's just try again!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/28/message": {
+                "text": "La forteresse fait boom !",
+                "orig": "Fortress went boom!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/30/message": {
+                "text": "J'arrive pas à croire qu'on ai raté ça avant !",
+                "orig": "I can't believe we missed that part before!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/32/message": {
+                "text": "C'est une bonne chose qu'on l'ai fait une deuxième fois, hein ?",
+                "orig": "Good thing we did the run a second time, eh?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/34/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/35/message": {
+                "text": "Oui !\\. C'était génial !",
+                "note": "on a gagné les éléctions !",
+                "orig": "Oui!\\. It was awesome!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/43/message": {
+                "text": "Hein, Luke ?\\. Admets le !\\. C'était fun !",
+                "orig": "Right, Luke?\\. Admit it!\\. It was fun!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/44/message": {
+                "text": "...\\. Ouais...",
+                "orig": "...\\. Yeah..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/45/message": {
+                "text": "Sérieusement, c'est quoi ton problème ?",
+                "orig": "Seriously, what's the matter with you?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/49/message": {
+                "text": "Je suis désolé sur ce que j'ai dis avant, Lukas...\\. C'était stupide.",
+                "orig": "I'm sorry for what I said before, Lukas...\\. It was stupid."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/52/message": {
+                "text": "...",
+                "orig": "... "
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/53/message": {
+                "text": "C'est bon, Lukas.\\. Je comprends.",
+                "orig": "It's okay, Lukas.\\. I get it."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/65/message": {
+                "text": "Oh, Junge...",
+                "orig": "Oh Junge..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/66/message": {
+                "text": "Je dois vraiment passer pour un gosse puéril là maintenant",
+                "quality": "bad",
+                "note": "but unknown.  de plz",
+                "orig": "I must be acting like the biggest jerk right now..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/70/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/72/message": {
+                "text": "J'aimerais bien dire non, mais oui...\\. un peu.",
+                "orig": "Would love to deny, but oui...\\. you kinda do."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/76/message": {
+                "text": "Je suis désolé.",
+                "orig": "I am sorry.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/77/message": {
+                "text": "J'ai essayé...",
+                "orig": "I tried...\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/78/message": {
+                "text": "Je voulais juste y aller naturellement.",
+                "quality": "unknown",
+                "orig": "I just wanted to go with the flow.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/79/message": {
+                "text": "Pour m'amuser, tout comme vous tous.",
+                "orig": "To have fun, like all of you.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/80/message": {
+                "text": "Mais...\\. J'ai pas pu.",
+                "orig": "But...\\. I just couldn't."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/81/message": {
+                "text": "J'imagine que passer d'une crise existentielle vers une session de jeu en un jour n'est pas si facile que ça.",
+                "orig": "I guess switching from an existential crisis to a fun gaming session in one day isn't all that easy."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/85/message": {
+                "text": "Je...\\. Je suis désolé, Luke.",
+                "orig": "I...\\. I'm so sorry Luke.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/86/message": {
+                "text": "J'espérais juste que ça t'aiderait de te distraire un peu.",
+                "orig": "I just thought it would help for you to have a bit of a distraction.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/89/message": {
+                "text": "C'est bon. Je sais que vous me voulez du bien.",
+                "orig": "It's okay. I know you all meant well."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/90/message": {
+                "text": "Je suis désolé d'avoir gâché votre plaisir avec mes raleries.",
+                "quality": "unknown",
+                "orig": "I'm sorry to damp all your fun with my whining."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/92/message": {
+                "text": "C'est bon, mec !\\. Tout ce fun ne pouvait pas être gâché entièrement par toi.",
+                "orig": "It's fine, man!\\. All that fun couldn't possible be damped just by you."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/93/message": {
+                "text": "C'est vrai !",
+                "orig": "That's right!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/94/message": {
+                "text": "Et maintenant on a tout le temps pour parler de tes inquiétudes, Luke !",
+                "orig": "And now we got plenty of time to talk about all your worries, Luke!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/98/message": {
+                "text": "Oui !\\. Et cet endroit semble être le lieu idéal pour faire ça.",
+                "orig": "Oui!\\. And this place here seems like the perfect location as well.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/100/message": {
+                "text": "... !",
+                "orig": "...!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/104/message": {
+                "text": "On est pas préssé.\\. Asseyons-nous quelque part.",
+                "orig": "We're not in a rush.\\. Let's just have a sit somewhere."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/106/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/107/message": {
+                "text": "Ça me va.",
+                "orig": "Sounds good."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/129/message": {
+                "text": "... donc j'ai perdu des heures et des heures sur ce problème !",
+                "orig": "... so I wasted hours and hours on that issue!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/130/message": {
+                "text": "Juste parce que cet idiot était incapable d'écrire un bon cas de test.",
+                "orig": "Just because that idiot couldn't write a proper test case."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/132/message": {
+                "text": "Oui bon, la société est connue pour être laxiste avec les tests.",
+                "orig": "Well, the company has a track record of being lazy with testing."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/133/message": {
+                "text": "Ouais...",
+                "orig": "Yeah..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/134/message": {
+                "text": "En tout cas...\\. c'est pour ça que je suis arrivé en retard aujourd'hui.",
+                "orig": "Anyway...\\. that's why I arrived late today."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/135/message": {
+                "text": "On s'en doute...",
+                "orig": "Figures..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/139/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/140/message": {
+                "text": "Oh, Junge...",
+                "orig": "Oh Junge..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/141/message": {
+                "text": "Je ne m'attendais pas à dire ça, mais...\\. Ça me manque un peu.",
+                "orig": "I never expected to say that, but...\\. I kinda miss it."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/142/message": {
+                "text": "Mon appartement minuscule.\\. Mon travail ennyeux...",
+                "orig": "My tiny apartment.\\. That boring job..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/144/message": {
+                "text": "Ennyeux...\\. Sauf les jours où on sort une nouvelle version.",
+                "quality": "unknown",
+                "orig": "Boring...\\. except on release days."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/145/message": {
+                "text": "Oui.\\. Bien sûr.",
+                "orig": "Right.\\. Of course."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/146/message": {
+                "text": "Tu vois ?\\. C'est ça le problème.",
+                "orig": "See?\\. This is the problem."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/147/message": {
+                "text": "Je me souviens de ça comme si c'était hier.",
+                "quality": "unknown",
+                "orig": "It all still feels like it was yesterday.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/148/message": {
+                "text": "Ma vie a tellement changé si rapidement et j'ai aucune idée de comment m'y faire.",
+                "orig": "My life just changed so quickly and I have no idea how to cope with it."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/149/message": {
+                "text": "Je comprends...",
+                "orig": "I get that..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/151/message": {
+                "text": "Ouais... C'est vraiment le foutoir.",
+                "quality": "unknown",
+                "orig": "Yeah... It's really messed up."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/156/message": {
+                "text": "Ce qui n'aide pas, par contre...",
+                "quality": "unknown",
+                "orig": "What makes it worse though..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/157/message": {
+                "text": "C'est que j'ai aucune idée de ce que je suis censé faire ici toute la journée.",
+                "orig": "I still have no idea what I'm supposed to do here all day long.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/158/message": {
+                "text": "M'assoir autour de ma maison ?\\. Explorer CrossWorlds encore et encore ?",
+                "orig": "Just sitting around my house?\\. Exploring CrossWorlds over and over?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/159/message": {
+                "text": "Combien de temps encore avant que ça deviennent vraiment barbant ?",
+                "quality": "bad",
+                "orig": "How long until this gets really old?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/161/message": {
+                "text": "Mais ils ont prévu plus de choses pour toi, non ?",
+                "orig": "They do have more plans for you, non?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/162/message": {
+                "text": "Oui, mais quoi ?",
+                "orig": "Yes, but what plans?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/163/message": {
+                "text": "J'imagine qu'ils vont te donner un genre de \"boulot\".",
+                "orig": "I guess they'll give you some kind of \"job\".\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/167/message": {
+                "text": "Oh, c'est vrai !",
+                "orig": "Oh, that's right!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/168/message": {
+                "text": "J'ai cru entendre Al parler de ça.",
+                "orig": "I heard Al mentioning something before.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/169/message": {
+                "text": "Quelque chose du genre des quêtes spéciales ou des événements spéciaux dirigés par des évotars.",
+                "orig": "Something like special quests or events guided by Evotars."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/172/message": {
+                "text": "Heu...",
+                "orig": "Huh..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/173/message": {
+                "text": "Ça me parrait pas si mal.",
+                "orig": "That doesn't sound too bad. "
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/174/message": {
+                "text": "Je pourrais juste faire mes visites guidées aux nouveaux joueurs et tout.",
+                "orig": "I could just give my signature tours to new players and all that."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/175/message": {
+                "text": "Mais sérieusement...",
+                "orig": "Honestly though..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/176/message": {
+                "text": "Pourquoi personne m'en a jamais parlé ?",
+                "orig": "Why'd nobody tell me this before?"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/178/message": {
+                "text": "J'imagine que Sergey le savait, mais tu sais...",
+                "orig": "I suppose Sergey would have known, but you know..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/179/message": {
+                "text": "Il est toujours silencieux sur le moindre truc qui n'est pas officiel.",
+                "orig": "He's always quiet about anything even slightly unofficial."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/181/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/186/message": {
+                "text": "OK...",
+                "orig": "Alright..."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/187/message": {
+                "text": "Je suis sûr que je vais m'y faire... au final.",
+                "orig": "I'm sure I'll get over this... eventually.\n"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/188/message": {
+                "text": "Encore désolé d'avoir été un aussi gros boulet aujourd'hui.",
+                "orig": "Again, big sorry for being such a downer today."
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/189/message": {
+                "text": "Le raid était fun !\\. Et merci pour m'avoir laissé vous rejoindre !",
+                "orig": "The raid was fun!\\. And thank you for letting me join!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/191/message": {
+                "text": "Quand tu veux, mec !",
+                "orig": "Anytime, dude!"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/193/message": {
+                "text": "Tu seras toujours le bienvenu !",
+                "orig": "You're always welcome!"
         }
 }

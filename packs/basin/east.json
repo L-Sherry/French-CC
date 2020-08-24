@@ -516,5 +516,41 @@
         "maps/jungle-city/east.json/entities/682/settings/analyzable/text": {
                 "orig": "Sonya Bolt",
                 "text": "Sonya Foudre"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/2/message": {
+                "text": "Salut.",
+                "orig": "Hi."
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/4/message": {
+                "text": "...",
+                "orig": "..."
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/5/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/6/message": {
+                "text": "[secoue la tête]",
+                "orig": "[shakes head]"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/2/message": {
+                "text": "... Marché.\\. Bon marché.\\. Bonne chance avec œuf !",
+                "orig": "... Trade.\\. Trade good.\\. Enjoy egg!"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/3/message": {
+                "text": "[acquiesce]",
+                "orig": "[nods]"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/6/text": {
+                "text": "Le \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] était juste un \\c[3]\\v[item.503.name]\\c[0] !\nC'était une arnaque !",
+                "orig": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\nIt was a scam!"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/10/message": {
+                "text": "... COMMENT ?!",
+                "orig": "... HOW?!"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/canceled/2/message": {
+                "text": "... part.",
+                "orig": "... leave."
         }
 }

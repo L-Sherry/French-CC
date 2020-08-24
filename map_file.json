@@ -47,6 +47,7 @@
 	"maps/cargo-ship/room3.json": "packs/test.pack.json",
 	"maps/cargo-ship/christmas.json": "packs/test.pack.json",
 	"maps/test-ferro.json": "packs/test.pack.json",
+	"maps/enemy-test-sao.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -100,6 +101,7 @@
 	"maps/rhombus-sqr/interior/booster.json": "packs/rhombus/shops.pack.json",
 	"maps/rhombus-sqr/interior/curios.json": "packs/rhombus/shops.pack.json",
 	"maps/rhombus-sqr/interior/equipment-f1.json": "packs/rhombus/shops.pack.json",
+	"maps/rhombus-sqr/interior/equipment-f2.json": "packs/rhombus/shops.pack.json",
 	"maps/rhombus-sqr/interior/equipment.json": "packs/rhombus/shops.pack.json",
 	"maps/rhombus-sqr/interior/hidden-shop.json": "packs/rhombus/hidden-shop.pack.json",
 	"maps/rhombus-sqr/interior/invest-mansion-eg.json": "packs/rhombus/mansion.pack.json",
@@ -511,6 +513,8 @@
 	"characters/radical/t-free.json": "packs/characters.json",
 	"characters/radical/teekuh.json": "packs/characters.json",
 	"characters/radical/tina.json": "packs/characters.json",
+	"characters/basin/shad-male-techie.json": "packs/characters.json",
+	"characters/objects/largeBergenWoodenBox.json": "packs/characters.json",
 
 
 
@@ -583,6 +587,10 @@
 	"maps/dreams/dream14.json": "packs/dreams/eleven-to-15.json",
 	"maps/dreams/dream15.json": "packs/dreams/eleven-to-15.json",
 	"maps/dreams/dream16.json": "packs/dreams/dream-16.json",
+	"maps/dreams/post-dream1.json": "packs/dreams/dream-dlc.json",
+	"maps/dreams/post-dream2.json": "packs/dreams/dream-dlc.json",
+	"maps/dreams/post-dream3.json": "packs/dreams/dream-dlc.json",
+	"maps/dreams/post-prologue.json": "packs/dreams/dream-dlc.json",
 
 
 	"maps/bergen/bergen.json": "packs/bergen/south.json",
@@ -937,6 +945,7 @@
 	"maps/autumn-fall/raid/raid-04-cave.json": "packs/autumn-fall/raid.json",
 	"maps/autumn-fall/raid/raid-05.json": "packs/autumn-fall/raid.json",
 	"maps/autumn-fall/raid/raid-boss.json": "packs/autumn-fall/raid-dlc.json",
+	"maps/autumn-fall/raid/raid-end.json": "packs/autumn-fall/raid-dlc.json",
 
 	"areas/arid.json": "packs/arid.pack.json",
 	"maps/arid/cliff-1.json": "packs/vermillion/cliff.json",
@@ -1084,6 +1093,7 @@
 	"maps/jungle-city/special/hostage-1-2.json": "packs/basin/hostage.json",
 	"maps/jungle-city/special/hostage-1-3-cratequest1.json": "packs/basin/crates.json",
 	"maps/jungle-city/special/papagangster-rooftop-1.json": "packs/basin/crates.json",
+	"maps/jungle-city/special/parrot-hq-1.json": "packs/basin/dlc.json",
 
 	"areas/shock-dng.json": "packs/shock-dng.pack.json",
 	"maps/shock-dng/f1/room1.json": "packs/shock-dng.pack.json",

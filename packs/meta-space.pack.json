@@ -23,6 +23,14 @@
                 "orig": "The path to the future is \\c[3]locked away\\c[0]...",
                 "text": "Le chemin vers le futur est \\c[3]verrouillé\\c[0]..."
         },
+        "maps/meta-space.json/entities/7/settings/event/2/elseStep/0/thenStep/0/text": {
+                "text": "Vous êtes prêts pour le futur !\n(NdT: Mais pas la traduction.\nLe DLC n'est pas traduit)",
+                "orig": "You are ready for the future!"
+        },
+        "maps/meta-space.json/entities/7/settings/event/2/elseStep/0/thenStep/1/text": {
+                "text": "Démarrer l'\\c[3]Épisode d'Après Jeu\\c[0] ?",
+                "orig": "Start the \\c[3]Post Game Episode\\c[0]?"
+        },
         "maps/meta-space.json/entities/7/settings/event/2/elseStep/0/thenStep/1/options/0/label": {
                 "orig": "Yes",
                 "text": "Oui"
@@ -70,5 +78,13 @@
         "maps/meta-space.json/entities/9/settings/event/8/text": {
                 "orig": "Do you want to return to the \\c[3]past\\c[0]?",
                 "text": "Voulez-vous retourner dans le \\c[3]passé\\c[0] ?"
+        },
+        "maps/meta-space.json/entities/9/settings/event/8/options/0/label": {
+                "text": "Oui",
+                "orig": "Yes"
+        },
+        "maps/meta-space.json/entities/9/settings/event/8/options/1/label": {
+                "text": "Non",
+                "orig": "No"
         }
 }
