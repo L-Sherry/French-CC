@@ -492,8 +492,7 @@
                 "text": "[acquiesce]"
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/7/message": {
-                "text": "Cela faisait longtemps, depuis la dernière fois que l'un de vous soit venu trouver mon épreuve.",
-                "quality": "bad",
+                "text": "Cela faisait longtemps, depuis que l'un de vous soit venu trouver mon épreuve.",
                 "orig": "It has been a long time since one of your kind came to seek my trial."
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/8/message": {
@@ -514,7 +513,6 @@
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/1/event/quest/28/name": {
                 "text": "Cratos",
-                "quality": "unknown",
                 "note": "discrepency between de and en.  This is de.",
                 "orig": "Hasouk"
         },
@@ -623,8 +621,7 @@
                 "orig": "The caves of the trials have been a place to sharpen one's mind for generations."
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/12/message": {
-                "text": "Êtes-vous volontaire pour élever votre ésprit vers un rayonnant état de perfection ?",
-                "quality": "bad",
+                "text": "Êtes-vous volontaire pour élever votre ésprit vers un état rayonnant de perfection ?",
                 "orig": "Are you willing to polish yourself into a shining state of perfection?"
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/5/event/quest/13/accepted/0/message": {

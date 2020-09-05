@@ -535,6 +535,7 @@
         },
         "maps/jungle/path-04-end.json/entities/676/settings/event/28/message": {
                 "text": "Ellen... ?",
+                "note": "Hélène ? (et les garçons)",
                 "orig": "Ellen...?"
         },
         "maps/jungle/path-04-end.json/entities/676/settings/event/29/message": {
@@ -554,8 +555,7 @@
                 "orig": "[nods]"
         },
         "maps/jungle/path-04-end.json/entities/676/settings/event/35/message": {
-                "text": "C'est vrai...\\. On a joué enssemble à ce jeu pendant un bail.",
-                "quality": "unknown",
+                "text": "C'est vrai...\\. On a longtemps joué ensemble à ce jeu.",
                 "orig": "That's right...\\. We played this game together for a while."
         },
         "maps/jungle/path-04-end.json/entities/676/settings/event/36/message": {
@@ -659,7 +659,7 @@
                 "orig": "At the top of the \\c[3]Grand Krys'kajo\\c[0], looking at the stars."
         },
         "maps/jungle/path-04-end.json/entities/676/settings/event/85/task": {
-                "text": "Allez visiter tout en haut du \\c[3]\\v[area.tree-dng.name]\\c[0], à la Conclusion des \\v[lore.title.seeker]s\\c[0].",
+                "text": "Allez visiter tout en haut du \\c[3]\\v[area.tree-dng.name]\\c[0], à la \\c[3]Conclusion des \\v[lore.title.seeker]s\\c[0].",
                 "orig": "Visit the very top of the \\c[3]Grand Krys'kajo\\c[0], the \\c[3]Seeker's Conclusion\\c[0]."
         }
 }

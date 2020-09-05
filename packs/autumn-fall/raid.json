@@ -236,8 +236,7 @@
                 "orig": "Sometimes I wish I could be stuck in this game as well."
         },
         "maps/autumn-fall/raid/raid-01.json/entities/54/settings/npcStates/4/event/quest/9/0/40/message": {
-                "text": "De jouer tout les jours, sans la moindre inquiètude !",
-                "quality": "unknown",
+                "text": "De pouvoir jouer tous les jours, sans le moindre souci !",
                 "orig": "Just playing away every day, not a worry in the world!"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/54/settings/npcStates/4/event/quest/9/0/41/message": {
@@ -245,8 +244,7 @@
                 "orig": "..."
         },
         "maps/autumn-fall/raid/raid-01.json/entities/54/settings/npcStates/4/event/quest/9/0/42/message": {
-                "text": "Oui, c'est certainement fantastique.",
-                "quality": "unknown",
+                "text": "Oui, c'est vraiment fantastique.",
                 "orig": "Yeah, it sure is fantastic."
         },
         "maps/autumn-fall/raid/raid-01.json/entities/54/settings/npcStates/4/event/quest/9/0/46/message": {
@@ -683,12 +681,11 @@
                 "orig": "Welcome, everyone, to Para Island!\\. Again!"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/26/message": {
-                "text": "Un jolon important du Tracé que l'on va vraiment réussir à terminer cette fois !",
+                "text": "Un jalon important du Tracé que l'on va vraiment réussir à terminer cette fois !",
                 "orig": "An important milestone of the track that we'll definitely manage to pass this time around!"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/27/message": {
-                "text": "Mais ne pensez pas que le chemin sera facile pour y arriver !",
-                "quality": "bad",
+                "text": "Mais ne pensez pas que ce sera qu'une petite promenade !",
                 "orig": "But don't think for a moment that this will be a cake walk! "
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/28/message": {
@@ -700,9 +697,8 @@
                 "orig": "Once again, we shall head towards the \\c[3]top of the hill\\c[0]!"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/30/message": {
-                "text": "Deux équipes, qui iront chacun sur leur chemin, comme s'ils n'étaient qu'un !",
-                "quality": "unknown",
-                "note": "this de",
+                "text": "Deux équipes, chacune sur son chemin, progressant comme si elle n'en formaient qu'une !",
+                "note": "this de, sort of",
                 "orig": "Together, as two teams, moving in unison!"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/35/message": {
@@ -746,8 +742,7 @@
                 "orig": "Let's give Raphael another chance, eh?"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/52/message": {
-                "text": "Bon OK....",
-                "quality": "unknown",
+                "text": "Bon, OK....",
                 "note": "this de, well, without the *gémis*",
                 "orig": "Fine!"
         },
@@ -801,8 +796,7 @@
                 "orig": "[nods]"
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/84/message": {
-                "text": "J'imagine...",
-                "quality": "unknown",
+                "text": "Je pense...",
                 "orig": "I guess..."
         },
         "maps/autumn-fall/raid/raid-01.json/entities/305/settings/event/86/message": {
@@ -936,8 +930,8 @@
                 "orig": "Just wait, the good stuff has yet to come!"
         },
         "maps/autumn-fall/raid/raid-02.json/entities/505/settings/event/8/message": {
-                "text": "Hop fini...",
-                "note": "terminé avec les vaches ?",
+                "text": "Hop terminé...",
+                "note": "de: terminé avec les vaches, apparently correct",
                 "orig": "And done..."
         },
         "maps/autumn-fall/raid/raid-02.json/entities/519/settings/event/16/message": {
@@ -961,8 +955,7 @@
                 "orig": "Lea is the column tackler, just attack the blocks that she attacks first!"
         },
         "maps/autumn-fall/raid/raid-02.json/entities/527/settings/event/25/message": {
-                "text": "Suivre les attaque de Lea, compris.",
-                "quality": "unknown",
+                "text": "Suivre les attaques de Lea, compris.",
                 "orig": "Follow Lea's attacks, got it."
         },
         "maps/autumn-fall/raid/raid-02.json/entities/527/settings/event/26/message": {
@@ -1171,7 +1164,7 @@
                 "orig": "Defeat all \\c[3]Red Blocks\\c[0]!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/577/settings/event/7/message": {
-                "text": "Frapper ainsi mes collègues IA.\\. Ce n'est pas très juste...",
+                "text": "Frapper ainsi mes collègues IA.\\. Ce n'est pas très gentil...",
                 "orig": "Beating up my fellow AI colleagues.\\. Feels bad, man."
         },
         "maps/autumn-fall/raid/raid-03.json/entities/577/settings/event/8/message": {
@@ -1184,7 +1177,8 @@
                 "orig": "...?"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/600/settings/event/0/message": {
-                "text": "Tant de couleurs, commençons par éliminer les \\c[3]bloc bleus\\c[0] !",
+                "text": "Tant de couleurs, commençons par éliminer ce \\c[3]bloc bleu\\c[0] !",
+                "note": "yes, there is only one.",
                 "orig": "Lot's of colors, let's go for that \\c[3]blue block\\c[0] first!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/600/settings/event/2/task": {
@@ -1208,7 +1202,7 @@
                 "orig": "Defeat all \\c[3]Red Blocks\\c[0]!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/602/settings/event/5/message": {
-                "text": "J'imagine qu'on peut ENFIN battre les \\c[1]blocs bleux\\c[0] !",
+                "text": "J'imagine qu'on peut ENFIN battre ce \\c[1]bloc bleu\\c[0] !",
                 "orig": "Guess we can FINALLY beat that \\c[1]blue block\\c[0]!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/602/settings/event/6/message": {
@@ -1220,7 +1214,7 @@
                 "orig": "Defeat all \\c[3]Blue Blocks\\c[0]!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/603/settings/event/7/message": {
-                "text": "Bip Boop.\\. procédure de combat terminée.",
+                "text": "Bip Bop.\\. Procédure de combat terminée.",
                 "orig": "Beep boop.\\. Concluded battle routine."
         },
         "maps/autumn-fall/raid/raid-03.json/entities/603/settings/event/8/message": {
@@ -1248,8 +1242,7 @@
                 "orig": "Defeat all \\c[3]Red Blocks\\c[0]!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/674/settings/event/11/message": {
-                "text": "On est de retour dans la grotte ! Pas plus !",
-                "quality": "unknown",
+                "text": "On est de retour dans la grotte ! On est plus très loin !",
                 "orig": "We're back at the cave! Not much further!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/674/settings/event/14/message": {
@@ -1265,7 +1258,7 @@
                 "orig": "This is all easy enough."
         },
         "maps/autumn-fall/raid/raid-03.json/entities/674/settings/event/19/message": {
-                "text": "Aucune éxpérience de la vraie vie n'est nécessaire.",
+                "text": "Aucune éxpérience de la vie réelle n'est nécessaire.",
                 "orig": "No real-life experience required."
         },
         "maps/autumn-fall/raid/raid-03.json/entities/674/settings/event/20/message": {
@@ -1277,7 +1270,7 @@
                 "orig": "Hey, what are we waiting for?\\. Into the cave, everyone!"
         },
         "maps/autumn-fall/raid/raid-03.json/entities/674/settings/event/25/message": {
-                "text": "Bien sûr...",
+                "text": "Oui...",
                 "orig": "Sure..."
         },
         "maps/autumn-fall/raid/raid-03.json/entities/674/settings/event/26/message": {
@@ -1514,7 +1507,7 @@
                 "orig": "Hi!"
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/26/message": {
-                "text": "Oui !\\. Tu l'es !",
+                "text": "Oui !\\. Tu es là !",
                 "orig": "Oui!\\. You are!"
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/27/message": {
@@ -1522,7 +1515,7 @@
                 "orig": "Let's go!"
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/39/message": {
-                "text": "Coucou, là-dedans !",
+                "text": "Coucou, là-bas !",
                 "orig": "Hello over there!"
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/41/message": {
@@ -1551,7 +1544,6 @@
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/58/message": {
                 "text": "Je profite au maximum de ma fausse vie là.",
-                "quality": "bad",
                 "orig": "Living my fake life to the fullest here."
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/60/message": {
@@ -1571,7 +1563,7 @@
                 "orig": "..."
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/71/message": {
-                "text": "\\c[1]tais toi\\c[0] juste, OK ?",
+                "text": "Juste \\c[1]tais-toi\\c[0], OK ?",
                 "orig": "Just \\c[1]shut up\\c[0], alright?"
         },
         "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/73/message": {

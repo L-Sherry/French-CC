@@ -3169,12 +3169,12 @@
         },
         "item-database.json/items/380/name": {
                 "orig": "Mysterious Box",
-                "text": "Boite Mystérieuse",
+                "text": "Boîte Mystérieuse",
                 "note": "le petit prince ?"
         },
         "item-database.json/items/380/description": {
                 "orig": "A sturdy box of ever-changing size. Very popular with artists in Ancient times.",
-                "text": "Boite solide de taille changeante. Très populaire chez les artistes de l'ancien temps."
+                "text": "Boîte solide de taille changeante. Très populaire chez les artistes de l'ancien temps."
         },
         "item-database.json/items/381/name": {
                 "orig": "Tremor Engine",
@@ -4636,11 +4636,11 @@
                 "text": "C'est simple et élégant."
         },
         "item-database.json/items/550/name": {
-                "text": "Preuve de l'Ascension",
+                "text": "Preuve d'Ascension",
                 "orig": "Ascension Proof"
         },
         "item-database.json/items/550/description": {
-                "text": "Une gravure de Karotto apparement ancienne, taillée dans du métal mythique du Mont Bergen.",
+                "text": "Une vielle gravure de Karotto, taillée dans du métal mythique du Mont Bergen.",
                 "orig": "Some old looking image of a Karotto, hewn into mythical ore from Mt. Bergen. "
         },
         "item-database.json/items/551/name": {
@@ -4648,7 +4648,7 @@
                 "orig": "Willis Waldmahl"
         },
         "item-database.json/items/551/description": {
-                "text": "Pain végétarien qui est populaire parmis les magiciens de la société des Sorciers Sylvane.",
+                "text": "Pain végétarien, populaire parmis les magiciens de la société des Sorciers Sylvane.",
                 "quality": "unknown",
                 "note": "how is this translated ?",
                 "orig": "Vegetarian bread cherished among magicians of the Sylvan Warlock society."
@@ -4784,9 +4784,8 @@
                 "orig": "Cross Edge"
         },
         "item-database.json/items/567/description": {
-                "text": "Idéal pour marquer des points. [\\c[3]Élite\\c[0]]",
-                "quality": "bad",
-                "note": "all en texts contains 'cross' and all de contains 'kreuz'",
+                "text": "Idéal pour croiser le fer avec ses ennemis. [\\c[3]Élite\\c[0]]",
+                "note": "all en texts contains 'cross' and all de contains 'kreuz', so all fr contains 'croix'",
                 "orig": "Great at bringing the point across. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/568/name": {
@@ -4794,7 +4793,7 @@
                 "orig": "Cross Goggles"
         },
         "item-database.json/items/568/description": {
-                "text": "Des aides à la vision pour examiner tout les détails sur de grandes zones. [\\c[3]Élite\\c[0]]",
+                "text": "Aide à regarder tout de loin sans que personne ne vous croise du regard. [\\c[3]Élite\\c[0]]",
                 "note": "de: Chemin de Bergen. Rencontre au sommet. Le regard croisé. Tempète de neige. Les lunettes restent.",
                 "quality": "bad",
                 "orig": "Viewing aids that help you survey every detail across huge areas. [\\c[3]Ascended\\c[0]]"
@@ -4804,9 +4803,8 @@
                 "orig": "Cross Mail"
         },
         "item-database.json/items/569/description": {
-                "text": "Offre le niveau de protection le plus élevé, sur tout les niveaux. [\\c[3]Élite\\c[0]]",
+                "text": "Offre le niveau de protection le plus élevé, mais ne partez pas en croisade avec ! [\\c[3]Élite\\c[0]]",
                 "note": "de: Pas idéal pour un croisé, mais quand même très pratique",
-                "quality": "bad",
                 "orig": "Offers the highest-protection levels across the board. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/570/name": {
@@ -4814,7 +4812,7 @@
                 "orig": "Cross Boots"
         },
         "item-database.json/items/570/description": {
-                "text": "Les meilleures bottes que vous pourrez avoir pour traverser des contrées dangereuses ![\\c[3]Élite\\c[0]]",
+                "text": "Les meilleures bottes pour ne plus craindre les dangers qui croiseront votre route ![\\c[3]Élite\\c[0]]",
                 "quality": "bad",
                 "orig": "The finest boots you could have for crossing dangerous lands! [\\c[3]Ascended\\c[0]]"
         },
@@ -4823,7 +4821,7 @@
                 "orig": "Serene Bubble+"
         },
         "item-database.json/items/571/description": {
-                "text": "Un générateur de champs de forces entoure la tète d'une bulle protectrice et relaxante. [\\c[3]Élite\\c[0]]",
+                "text": "Un générateur de champs de forces entourant la tète d'une bulle protectrice calme. [\\c[3]Élite\\c[0]]",
                 "orig": "A forcefield generator encases the head in a protective and relaxing bubble. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/572/name": {
@@ -4831,7 +4829,7 @@
                 "orig": "Furious Hothead+"
         },
         "item-database.json/items/572/description": {
-                "text": "Couvre-chef qui renforce le porteur avec des générateurs puissants et de la chaleur. [\\c[3]Élite\\c[0]]",
+                "text": "Couvre-chef qui renforce le porteur avec des générateurs puissants et chauds. [\\c[3]Élite\\c[0]]",
                 "orig": "Headgear that empowers its user with powerful generators while creating heat. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/573/name": {
@@ -4839,7 +4837,7 @@
                 "orig": "Trackwalker Visor+"
         },
         "item-database.json/items/573/description": {
-                "text": "Viseur dernier cri conçu spécifiquement pour les besoins des expéditions Retraçage. [\\c[3]Élite\\c[0]]",
+                "text": "Viseur dernier cri conçu spécifiquement pour les expéditions Retraçage. [\\c[3]Élite\\c[0]]",
                 "orig": "State-of-the-art visor that was custom-tailored to the needs of Trackwalker expeditions. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/574/name": {
@@ -4855,7 +4853,7 @@
                 "orig": "Dragon's Bandana+"
         },
         "item-database.json/items/575/description": {
-                "text": "Jadis blanc, il s'est teint en rouge en absorbant du sang et des envies de meurtres. [\\c[3]Élite\\c[0]]",
+                "text": "Sa blancheur s'est teinte en rouge en absorbant du sang et des envies de meurtres. [\\c[3]Élite\\c[0]]",
                 "orig": "Once white, it turned deeply red by absorbing blood and murderous intent. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/576/name": {
@@ -4895,7 +4893,7 @@
                 "orig": "Golden Falcon+"
         },
         "item-database.json/items/580/description": {
-                "text": "Une arme longue portée, parfaitement conçue pour toucher des cibles très lointaines. [\\c[3]Élite\\c[0]]",
+                "text": "Une arme longue portée, conçue pour toucher des cibles très lointaines. [\\c[3]Élite\\c[0]]",
                 "orig": "A long-ranged weapon, perfectly refined to destroy targets far, far away. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/581/name": {
@@ -4903,7 +4901,7 @@
                 "orig": "Brostick of Force+"
         },
         "item-database.json/items/581/description": {
-                "text": "Une arme extrêmement rare crée par une organisation paramilitaire d'origine inconnue. [\\c[3]Élite\\c[0]]",
+                "text": "Une arme extrêmement rare crée par un groupe paramilitaire d'origine inconnue. [\\c[3]Élite\\c[0]]",
                 "orig": "An extremely rare weapon created by a paramilitary organization of unknown origin. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/582/name": {
@@ -4911,7 +4909,7 @@
                 "orig": "Cerberus Fang"
         },
         "item-database.json/items/582/description": {
-                "text": "Comme une bête mythique, cette arme permet de la regénération et des attaques supplémentaires. [\\c[3]Élite\\c[0]]",
+                "text": "Permet la regénération et des attaques supplémentaire, comme une bête mythique. [\\c[3]Élite\\c[0]]",
                 "orig": "Based on a mythical beast, this weapon grants regeneration and additional attacks. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/583/name": {
@@ -4919,7 +4917,7 @@
                 "orig": "Zealous Lamellar+"
         },
         "item-database.json/items/583/description": {
-                "text": "Armure légère composée de matériaux divers, chacun représentant une vertu de guerrier. [\\c[3]Élite\\c[0]]",
+                "text": "Armure légère composée de matériaux divers, représentant une vertu de guerrier. [\\c[3]Élite\\c[0]]",
                 "orig": "Light armor, composed of various materials, each representing a warrior's virtue. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/584/name": {
@@ -4927,7 +4925,7 @@
                 "orig": "Pioneer Vest+"
         },
         "item-database.json/items/584/description": {
-                "text": "Veste récente pour les explorateurs d'élite, équipée de haute technologie pour survivre. [\\c[3]Élite\\c[0]]",
+                "text": "Veste récente pour les explorateurs d'élite, avec des technologies de survie. [\\c[3]Élite\\c[0]]",
                 "orig": "Recently developed vest for elite explorers, equipped with high-grade survival features. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/585/name": {
@@ -4935,7 +4933,7 @@
                 "orig": "Reactive Plate+"
         },
         "item-database.json/items/585/description": {
-                "text": "Armure avancée fait de plaques lourdes qui repousse les tirs avec une force explosive. [\\c[3]Élite\\c[0]]",
+                "text": "Armure avancée fait de plaques qui repousse les tirs avec une force explosive. [\\c[3]Élite\\c[0]]",
                 "orig": "Highly advanced heavy plate armor that repels hits with explosive force. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/586/name": {

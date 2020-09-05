@@ -548,8 +548,7 @@
                 "orig": "[nods]"
         },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/13/event/quest/5/message": {
-                "text": "Avoir des groupes de créatures organisées travaillant à travers les régions, cest du jamais vu et cela nous présage bien des ennuis.",
-                "quality": "bad",
+                "text": "Avoir des groupes de créatures organisées travaillant à travers les régions, c'est presque du jamais vu et cela présage bien des ennuis.",
                 "orig": "Having organized groups of creatures work together across regions is almost unheard of and could mean a whole host of trouble."
         },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/13/event/quest/6/message": {
@@ -565,8 +564,8 @@
                 "orig": "Indeed, you should \\c[3]visit the local Guard\\c[0] in \\v[area.jungle-city.name] and cooperate with them."
         },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/13/event/quest/10/message": {
-                "text": "Connaissant leur chef \\c[3]Daz Bronzel\\c[0], il va va plus aprécier ces développements que nous.",
-                "quality": "bad",
+                "text": "Connaissant leur chef \\c[3]Daz Bronzel\\c[0], il ne va plus aprécier ces nouvelles évolutions que nous.",
+                "note": "évolution de l'affaire: vocabulaire de keuf ?",
                 "orig": "Knowing their chief, \\c[3]Daz Bronzel\\c[0], he will not like this development any more than we do."
         },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/13/event/quest/11/message": {

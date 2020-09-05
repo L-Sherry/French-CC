@@ -253,7 +253,7 @@
                 "orig": "Why?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/57/settings/npcStates/11/event/7/message": {
-                "text": "Je m'étais mis dans l'idée qu'aucun Évotar comme vous pouvait parler.",
+                "text": "Je m'étais mis dans l'idée qu'aucun Évotar ne pouvait parler.",
                 "orig": "Somehow I thought none of you Evotars could speak."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/57/settings/npcStates/11/event/8/message": {
@@ -377,8 +377,7 @@
                 "orig": "Holerö!"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/58/settings/npcStates/12/event/4/message": {
-                "text": "On est actuellement occupés à prévoir les détails d'un événement qui va bientôt arriver.",
-                "quality": "unknown",
+                "text": "Là on est en train de s'occuper de quelquess détails pour un événement qui va bientôt arriver.",
                 "orig": "We're currently busy planning a few details of an upcoming event."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/58/settings/npcStates/12/event/5/message": {
@@ -873,7 +872,6 @@
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/60/settings/npcStates/12/event/quest/6/message": {
                 "text": "Bonjour, chérie ! Est-ce que tu es prête pour la grande nouvelle ?",
-                "quality": "bad",
                 "orig": "Hello, dear! Are you here for the big news?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/60/settings/npcStates/12/event/quest/7/message": {
@@ -4770,7 +4768,7 @@
                 "orig": "Of course, the raid will be \\c[3]more difficult\\c[0] this time, since we're all on a higher level."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/83/message": {
-                "text": "Même la correspondance des couleurs sera peut-être plus difficile cette fois.",
+                "text": "Même la correspondance des couleurs risque d'être plus difficile cette fois.",
                 "orig": "Even the color matching might be a bit more tricky this time."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/87/message": {
@@ -4790,7 +4788,7 @@
                 "orig": "It sure did, Buggy.\\. Flawlessly."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/94/message": {
-                "text": "... OK ?",
+                "text": "... euh, OK ?",
                 "orig": "...Okay?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/98/message": {

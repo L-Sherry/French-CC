@@ -1111,8 +1111,6 @@
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/ReachRail/1/thenStep/0/text": {
                 "text": "(Point Rail Atteint)",
-                "quality": "unknown",
-                "note": "own",
                 "orig": "(Reach Railpoint)"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/RailApproach/0/thenStep/2/thenStep/0/text": {
@@ -1229,8 +1227,7 @@
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/StunStart/0/text": {
                 "text": "[ ÉTOURDIE ]",
-                "quality": "unknown",
-                "note": "own gender",
+                "note": "gender: une tourelle",
                 "orig": "[ STUN ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/meta/species": {
@@ -1275,8 +1272,6 @@
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/ReachRail/1/thenStep/0/text": {
                 "text": "(Point Rail Atteint)",
-                "quality": "unknown",
-                "note": "own",
                 "orig": "(Reach Railpoint)"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/RailApproach/0/thenStep/2/thenStep/0/text": {
