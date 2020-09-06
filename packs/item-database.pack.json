@@ -4438,7 +4438,7 @@
         },
         "item-database.json/items/525/description": {
                 "orig": "Massive weapon made from an extremely dense crystal. Unparallelled for intimidation.",
-                "text": "Arme massive fait de cristal extrêmement dense. Imbattable pour intimider les ennemis."
+                "text": "Arme massive fait à partir d'un cristal extrêmement dense. Imbattable pour intimider."
         },
         "item-database.json/items/526/name": {
                 "orig": "Dragon's Bandana",
@@ -4784,8 +4784,8 @@
                 "orig": "Cross Edge"
         },
         "item-database.json/items/567/description": {
-                "text": "Idéal pour croiser le fer avec ses ennemis. [\\c[3]Élite\\c[0]]",
-                "note": "all en texts contains 'cross' and all de contains 'kreuz', so all fr contains 'croix'",
+                "text": "Idéal pour croiser le fer avec ses ennemis et mettre une croix dessus. [\\c[3]Élite\\c[0]]",
+                "note": "all en texts contains 'cross' and all de contains 'kreuz', so all fr contains 'croix'. And this one will have it twice, just because.",
                 "orig": "Great at bringing the point across. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/568/name": {
@@ -4795,7 +4795,6 @@
         "item-database.json/items/568/description": {
                 "text": "Aide à regarder tout de loin sans que personne ne vous croise du regard. [\\c[3]Élite\\c[0]]",
                 "note": "de: Chemin de Bergen. Rencontre au sommet. Le regard croisé. Tempète de neige. Les lunettes restent.",
-                "quality": "bad",
                 "orig": "Viewing aids that help you survey every detail across huge areas. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/569/name": {
@@ -4813,7 +4812,6 @@
         },
         "item-database.json/items/570/description": {
                 "text": "Les meilleures bottes pour ne plus craindre les dangers qui croiseront votre route ![\\c[3]Élite\\c[0]]",
-                "quality": "bad",
                 "orig": "The finest boots you could have for crossing dangerous lands! [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/571/name": {
@@ -4941,7 +4939,7 @@
                 "orig": "Chiron Vest"
         },
         "item-database.json/items/586/description": {
-                "text": "Ce gilet permet de viser exceptionellement bien en se déplacement, comme une bête mythique. [\\c[3]Élite\\c[0]]",
+                "text": "Ce gilet permet de viser à la perfection en se déplaçant, comme une bête mythique. [\\c[3]Élite\\c[0]]",
                 "orig": "Based on a mythical beast, this vest grants exceptional aim on the move. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/587/name": {
@@ -4965,7 +4963,7 @@
                 "orig": "Pendulum Striker+"
         },
         "item-database.json/items/589/description": {
-                "text": "Une arme qui, avec un mouvement continu, peut accumuler une grande force destructrice. [\\c[3]Élite\\c[0]]",
+                "text": "Une arme qui, avec un mouvement continu, accumule une grande force destructrice. [\\c[3]Élite\\c[0]]",
                 "orig": "A weapon that can amass great destructive force through continuous movement. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/590/name": {
@@ -4973,7 +4971,7 @@
                 "orig": "Knocking One+"
         },
         "item-database.json/items/590/description": {
-                "text": "Arme massive fait de cristal extrêmement dense. Imbattable pour intimider les ennemis. [\\c[3]Élite\\c[0]]",
+                "text": "Arme massive fait à partir d'un cristal très dense. Imbattable pour intimider. [\\c[3]Élite\\c[0]]",
                 "orig": "Massive weapon made from an extremely dense crystal. Unparallelled for intimidation. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/591/name": {
@@ -4989,7 +4987,7 @@
                 "orig": "Deadly Dancers+"
         },
         "item-database.json/items/592/description": {
-                "text": "Chaussures élégantes pour tireurs agiles, pour bouger rapidement dans les fusillades. [\\c[3]Élite\\c[0]]",
+                "text": "Chaussures élégantes pour tireurs agiles, pour bouger vite dans les fusillades. [\\c[3]Élite\\c[0]]",
                 "orig": "Elegant shoes favored by agile gunslingers. Allow for fast movement in firefights. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/593/name": {
@@ -5013,7 +5011,7 @@
                 "orig": "Pegasus Greaves"
         },
         "item-database.json/items/595/description": {
-                "text": "Permet d'obtenir une vitesse et une endurence sur-humaine, comme une bête mythique. [\\c[3]Élite\\c[0]]",
+                "text": "Permet une vitesse et une endurance sur-humaine, comme une bête mythique. [\\c[3]Élite\\c[0]]",
                 "orig": "Based on a mythical beast, these boots grant inhuman speed and endurance. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/596/name": {
@@ -5021,7 +5019,7 @@
                 "orig": "Combat Skates+"
         },
         "item-database.json/items/596/description": {
-                "text": "Patins à glace aiguisés pour obtenir un tranchant vicieux. Soyez mortel sur la glace ! [\\c[3]Élite\\c[0]]",
+                "text": "Patins à glace avec un tranchant vicieux. Soyez mortel sur la glace ! [\\c[3]Élite\\c[0]]",
                 "orig": "Skates that have been sharpened to a a vicious edge. Be deadly on ice! [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/597/name": {
@@ -5037,7 +5035,7 @@
                 "orig": "Very Last Strawhat"
         },
         "item-database.json/items/598/description": {
-                "text": "La vraie dernière amélioration. Le véritable chapeau de paile ultime. Augmente sensiblement votre focus. [\\c[3]Élite\\c[0]]",
+                "text": "La véritable dernière amélioration du chapeau de paille ultime. Augmente le focus. [\\c[3]Élite\\c[0]]",
                 "orig": "The very last upgrade. The true ultimate strawhat, vastly increasing your focus. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/599/name": {
@@ -5057,7 +5055,7 @@
                 "orig": "Starting Equipment. Let the Adventure begin!"
         },
         "item-database.json/items/601/name": {
-                "text": "Gants de Grand Maitre",
+                "text": "Gants Grand Maitre",
                 "orig": "Highmeister Gloves"
         },
         "item-database.json/items/601/description": {
@@ -5070,7 +5068,7 @@
                 "orig": "Body Armory"
         },
         "item-database.json/items/602/description": {
-                "text": "Armure fabriquée de coffres de tout type. Attire naturellement les objets de valeur. [\\c[3]Élite\\c[0]]",
+                "text": "Armure fait de coffres de tout type. Attire naturellement les objets de valeur. [\\c[3]Élite\\c[0]]",
                 "note": "probably stale",
                 "orig": "Armor crafted from chests of any kind. Precious valuables naturally radiate towards it. [\\c[3]Ascended\\c[0]]"
         },
@@ -5079,7 +5077,7 @@
                 "orig": "Artillery Boots+"
         },
         "item-database.json/items/603/description": {
-                "text": "Bottes très modernes qui augmentent la puissance au prix d'un épuisement plus rapide. [\\c[3]Élite\\c[0]]",
+                "text": "Bottes très modernes augmentant la puissance au prix d'un épuisement plus rapide. [\\c[3]Élite\\c[0]]",
                 "orig": "Highly-advanced footwear that magnifies one's power at the cost of quicker exhaustion. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/604/name": {
@@ -5087,7 +5085,7 @@
                 "orig": "Lifefiber Dress"
         },
         "item-database.json/items/604/description": {
-                "text": "Un costume fait de fibres vivantes qui forme une relation symbiotique avec son porteur. [\\c[3]Élite\\c[0]]",
+                "text": "Une robe en fibres vivantes qui forme une relation symbiotique avec son porteur. [\\c[3]Élite\\c[0]]",
                 "orig": "Dress spun from living thread that forms a nigh symbiontic relationship with its wearer. [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/605/name": {
@@ -5095,11 +5093,11 @@
                 "orig": "Eternal Salami+"
         },
         "item-database.json/items/605/description": {
-                "text": "Un snack impérissable pour le combat. Se battre l'estomac vide termine souvent mal ! [\\c[3]Élite\\c[0]]",
+                "text": "Un snack impérissable pour le combat. Se battre l'estomac vide fini souvent mal ! [\\c[3]Élite\\c[0]]",
                 "orig": "A tough, neverending snack for combat. Fighting on an empty stomach is no good! [\\c[3]Ascended\\c[0]]"
         },
         "item-database.json/items/606/name": {
-                "text": "- Récompense Moine",
+                "text": "-Récompense Moine",
                 "orig": "- Monk Reward"
         },
         "item-database.json/items/606/description": {
@@ -5140,7 +5138,7 @@
                 "orig": "This web is so sticky that it can be used as an all-purpose glue."
         },
         "item-database.json/items/611/name": {
-                "text": "Super Bottes Réaction",
+                "text": "Super Bottes Fusée",
                 "orig": "Speedy Boom Walkers"
         },
         "item-database.json/items/611/description": {
@@ -5152,12 +5150,11 @@
                 "orig": "Unruly Emeralds"
         },
         "item-database.json/items/612/description": {
-                "text": "Un jeu de gemmes multicouleurs qui ne semblent pas vouloir céder face à l'ordre public.",
-                "quality": "bad",
+                "text": "Un jeu de gemmes multicouleurs qui ne semblent pas vouloir se plier à l'ordre public.",
                 "orig": "A set of multicolored gems that seem to bow to neither law nor order."
         },
         "item-database.json/items/613/name": {
-                "text": "- Nouveau Marchandable Booster",
+                "text": "- Nouvel Item Boost",
                 "orig": "- New Boostertrade"
         },
         "item-database.json/items/613/description": {
@@ -5201,7 +5198,7 @@
                 "orig": "Booster Booster"
         },
         "item-database.json/items/618/description": {
-                "text": "Renforce encore le niveau des ennemis boostés par des \\c[3]booster régionaux\\c[0] et débloque plus de butin.",
+                "text": "Augmente l'action des \\c[3]boosters régionaux\\c[0] sur les ennemis et débloque plus de butin.",
                 "orig": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] and unlocks more loot."
         },
         "item-database.json/items/619/name": {

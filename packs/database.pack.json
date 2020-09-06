@@ -7315,7 +7315,6 @@
         },
         "database.json/commonEvents/schneider-join/event/4/thenStep/0/message": {
                 "text": "Hé ! Est-ce que Emilie t'as parlé à propos de la réunion ?",
-                "quality": "unknown",
                 "orig": "Hey! Didn't Emilie tell you about the meeting?"
         },
         "database.json/commonEvents/schneider-join/event/4/thenStep/1/message": {
@@ -17238,7 +17237,7 @@
         },
         "database.json/quests/dekay-quest/tasks/0/task": {
                 "orig": "Meet \\c[3]Kit\\c[0] in \\c[3]Maroon Valley - Barren Arcs\\c[0]",
-                "text": "Rencontrez \\c[3]Kit\\c[0] aux \\c[3]Arches Perdues de \\v[area.heat-area.name]\\c[0]"
+                "text": "Rencontrez \\c[3]Kit\\c[0] aux \\c[3]Arches Perdues de la \\v[area.heat-area.name]\\c[0]"
         },
         "database.json/quests/dekay-quest/tasks/1/task": {
                 "orig": "Go to a \\c[3]lonely pillar\\c[0] in the center of a \\c[3]chasm\\c[0] in \\c[3]Maroon Valley - Barren Arcs\\c[0] then head \\c[3]directly south\\c[0]",
