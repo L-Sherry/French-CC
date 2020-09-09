@@ -45,7 +45,7 @@
         },
         "enemies/boss-test.json/meta/descriptions/0/text": {
                 "orig": "A mechanical crab summoned by the mysterious blue avatar. Its stats conveniently match yours and its attack gets more ferocious the more damage you deal. When it charges up for a big jump it will get stunned on the last dive revealing the weak point on its back: a shiny crystal!",
-                "text": "Un crabe mécanique invoqué par le mystérieux avatar bleu. Ses attributs correspondent aux vôtres (pratique !) et son attaque devient plus féroce au fur et a mesure que vous lui faites des dégâts. Lorsqu'il charge pour faire un grand saut, il s'étourdira lors du dernier plongeon et révèlera son point faible sur son dos : un cristal brillant !"
+                "text": "Un crabe mécanique invoqué par le mystérieux avatar bleu. Ses attributs correspondent aux vôtres (pratique !) et son attaque devient plus féroce au fur et à mesure que vous lui faites des dégâts. Lorsqu'il charge pour faire un grand saut, il s'étourdira lors du dernier plongeon et révèlera son point faible sur son dos : un cristal brillant !"
         },
         "enemies/buffalo-alt.json/actions/Quest-MoveToTree/2/text": {
                 "orig": "[Hungry noises]",
@@ -226,7 +226,7 @@
         },
         "enemies/guard-hostile-default.json/meta/descriptions/0/text": {
                 "orig": "An armed human, currently or formerly employed by one of the many city guards on Shadoon.\n\nWield a powerful type of weapon that is used by most guards, the Laserlance. Also usually carries a standard ration of Sandwiches to recover from tiresome battles.",
-                "text": "Un humain armé, actuellement ou autrefois employé par l'une des nombreuses gardes de Shadoon.\n\nPorte un type d'arme puissant utilisé par la plupart des gardes, la Laserlance. Porte aussi une ration standard de sandwichs pour se reposer des combats fatiguants."
+                "text": "Un humain armé, actuellement ou autrefois employé par l'une des nombreuses gardes de Shadoon.\n\nPorte un type d'arme puissant utilisé par la plupart des gardes, la Laserlance. Porte aussi une ration standard de sandwichs pour se reposer des combats fatigants."
         },
         "enemies/hedgehog-alt.json/actions/Quest-MoveToTree/2/text": {
                 "orig": "[Hungry noises]",
@@ -242,7 +242,7 @@
         },
         "enemies/hedgehog-alt.json/meta/descriptions/0/text": {
                 "orig": "When a \\v[combat.name.hedgehog] becomes old, its needles acquire a red tint which strongly resembles rust. Much like its younger self it only attacks when threatened.\nHowever years of experience made it much more resilient and taught it to use its spinning attack to jump on aggressors.",
-                "text": "Lorsqu'un \\v[combat.name.hedgehog] devient agé, ses piques se teintent en rouge rappelant la couleur de la rouille. Comme ses juvéniles, il attaque quand il est menacé.\nMais des années d'expériences l'ont rendu encore plus résistant et l'ont appris à utiliser ses attaques tournoyantes pour sauter sur ses agresseurs."
+                "text": "Lorsqu'un \\v[combat.name.hedgehog] devient âgé, ses piques se teintent en rouge rappelant la couleur de la rouille. Comme ses juvéniles, il attaque quand il est menacé.\nMais des années d'expériences l'ont rendu encore plus résistant et l'ont appris à utiliser ses attaques tournoyantes pour sauter sur ses agresseurs."
         },
         "enemies/hedgehog-boss.json/meta/species": {
                 "orig": "Mammal",
@@ -379,7 +379,7 @@
         },
         "enemies/mine-runbot.json/meta/descriptions/0/text": {
                 "orig": "It's an ostrich. It's carrying things. However the track made sure that it won't be carrying any more ore for the humans, only pain for those who want to beat the temple or disrupt it. It charges similarly to the bovines of \\c[3]\\v[area.autumn-area.name]\\c[0] but instead of ramming against the wall it gets stunned by attacking it before hitting a wall.",
-                "text": "C'est une autruche. Elle transporte des trucs. Mais le tracé a fait en sorte qu'elle ne transportera plus rien pour les humains, sauf de la douleur pour ceux qui veulent essayer de battre le temple ou de le perturber.\nElle charge de manière similaire aux bovins d'\\c[3]\\v[area.autumn-area.name]\\c[0] mais à la place de foncer dans un mur, on l'étourdit en l'attaquant avant qu'elle touche un mur."
+                "text": "C'est une autruche. Elle transporte des trucs. Mais le tracé a fait en sorte qu'elle ne transportera plus jamais rien pour les humains, sauf de la douleur pour ceux qui veulent essayer de battre le temple ou de le perturber.\nElle charge de manière similaire aux bovins d'\\c[3]\\v[area.autumn-area.name]\\c[0] mais à la place de foncer dans un mur, on l'étourdit en l'attaquant avant qu'elle touche un mur."
         },
         "enemies/mouse-bot.json/meta/species": {
                 "orig": "Rookie Robot",
@@ -755,7 +755,7 @@
         },
         "enemies/arid/snail.json/meta/descriptions/0/text": {
                 "orig": "A huge snail with an enormous amount of HP. It's slow but it can use its huge body to jump on top of you or spin around the arena leaving an icy trail. It will also spit out slugs that move towards its enemy and explode. Attack its tail to stun it and attack. \nHowever, this will not even leave a scratch. You need something better to have a chance at draining its HP pool.",
-                "text": "Un énorme escargot avec une quantité énorme de HPs. Il est lent mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans la zone en laissant une trainée de glace. Il va aussi cracher des limaces qui vont aller vers leur ennemi et exploser. Attaquez sa queue pour l'étourdir et l'attaquer.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous avez besoin de quelque chose de mieux pour avoir une chance de drainer sa quantité d'HP."
+                "text": "Un énorme escargot avec une quantité énorme de HPs. Il est lent, mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans la zone en laissant une trainée de glace. Il va aussi cracher des limaces qui vont aller vers leur ennemi et exploser. Attaquez sa queue pour l'étourdir et l'attaquer.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous avez besoin de quelque chose de mieux pour avoir une chance de drainer sa quantité d'HP."
         },
         "enemies/arid/virus-cold.json/actions/SpawnVirus/4/text": {
                 "orig": "Multiplying",
@@ -1007,7 +1007,7 @@
         },
         "enemies/autumn-fall/seahorse-fall.json/meta/descriptions/0/text": {
                 "orig": "Other than its orange color this seahorse has the same behavior as the \\v[combat.name.seahorse]. Its bubble volley however is both faster and contains more bubbles, which can break shields if not careful.",
-                "text": "Outre sa couleur orange, cet hippocampe possède le même comportement que le \\v[combat.name.seahorse]. Sa volée de bulles, par contre, est à la fois plus rapide et contient plus de bulles, qui peuvent briser des boucliers si vous ne faites pas attention."
+                "text": "Outre sa couleur orange, cet hippocampe possède le même comportement que la \\v[combat.name.seahorse]. Sa volée de bulles, par contre, est à la fois plus rapide et contient plus de bulles, qui peuvent briser des boucliers si vous ne faites pas attention."
         },
         "enemies/autumn-fall/seahorse-fall.json/meta/descriptions/1/text": {
                 "orig": "It is said that they also mysteriously developed the ability to spit bursts of fire. This is rarely seen, though, as their respect for their environment forbids the use of this ability on the surface.",
@@ -1350,7 +1350,7 @@
         },
         "enemies/avatar/shizuka.json/meta/descriptions/0/text": {
                 "orig": "It is Shizuka! And she is pissed.\nExpect her to use some of your favorite strategies against you!",
-                "text": "C'est Shizuka ! Et elle est pas contente.\nAttendez-vous à ce que vos stratégies favorites soient utilisés contre vous !"
+                "text": "C'est Shizuka ! Et elle est pas contente.\nAttendez-vous à ce que vos stratégies favorites soient utilisées contre vous !"
         },
         "enemies/avatar/wervyn.json/meta/species": {
                 "orig": "Human",
@@ -1899,7 +1899,7 @@
         },
         "enemies/heat/drillertoise.json/meta/descriptions/0/text": {
                 "orig": "Is it a stone or not? When humans first arrived in \\c[3]\\v[area.heat-area.name]\\c[0] these reptiles were hard to make out as they would burrow below ground and use their rocky back to pretend to be a stone. \nThat does not mean they don't fight! Getting too chummy with them will make them use a stomp attack or throw big stones. \nA good tactic is to look away from it and use walls to bounce your balls off and hit it as it will be above ground.",
-                "text": "Est-ce que c'est une pierre ou non ? Lorsque les humains sont arrivés pour la première fois dans la \\c[3]\\v[area.heat-area.name]\\c[0], ces reptiles étaient difficile à distinguer, car ils se terraient sous le sol et utilisaient leur dos de pierre pour prétendre être un rocher.\nCela ne veut pas dire qu'ils n'attaquent pas ! Être trop embêtant avec eux va leur faire attaquer en frappant au sol ou en lançant des grosses pierres.\nUne bonne tactique est de ne pas le regarder et d'utiliser les murs pour faire rebondir vos boules et le toucher lorsqu'il est au-dessus du sol."
+                "text": "Est-ce que c'est une pierre ou non ? Lorsque les humains sont arrivés pour la première fois dans la \\c[3]\\v[area.heat-area.name]\\c[0], ces reptiles étaient difficiles à distinguer, car ils se terraient sous le sol et utilisaient leur dos de pierre pour prétendre être un rocher.\nCela ne veut pas dire qu'ils n'attaquent pas ! Être trop embêtant avec eux va leur faire attaquer en frappant au sol ou en lançant des grosses pierres.\nUne bonne tactique est de ne pas le regarder et d'utiliser les murs pour faire rebondir vos boules et le toucher lorsqu'il est au-dessus du sol."
         },
         "enemies/heat/heat-golem.json/meta/species": {
                 "orig": "Magical Being",
@@ -2159,7 +2159,7 @@
         },
         "enemies/heat/special/drillertoise-quest-heatAdv-1.json/actions/StompHidden/4/text": {
                 "orig": "Hiding intensifies...",
-                "text": "La Dissimulation s'intensifie ..."
+                "text": "La dissimulation s'intensifie..."
         },
         "enemies/heat/special/drillertoise-quest-heatAdv-1.json/actions/StartHide/7/thenStep/0/text": {
                 "orig": "<SHIELD ON>",
@@ -2207,7 +2207,7 @@
         },
         "enemies/heat/special/guard-hostile-mustache.json/actions/HealCancel/2/text": {
                 "orig": "\"My sandwich! You'll pay!\"",
-                "text": "\"Mon sandwich ! Tu va me le payer !\""
+                "text": "\"Mon sandwich ! Tu vas me le payer !\""
         },
         "enemies/heat/special/guard-hostile-mustache.json/actions/summonTurrets/3/thenStep/0/thenStep/0/text": {
                 "orig": "<RETREAT>",
@@ -2315,7 +2315,7 @@
         },
         "enemies/jungle/algorithm.json/proxies/healing/action/3/thenStep/2/thenStep/0/text": {
                 "orig": "Revive (retry)",
-                "text": "Résurrection (encore)"
+                "text": "Résurrection (autre essai)"
         },
         "enemies/jungle/algorithm.json/actions/StartRegen/3/text": {
                 "orig": "Regen",
@@ -2327,7 +2327,7 @@
         },
         "enemies/jungle/algorithm.json/meta/descriptions/0/text": {
                 "orig": "This strange device is a physical representation of the track's debugging process. Each node a step in the call stack. A malfunction made it hostile against everything but the true cause. It can spew flames, shoot bolts of lightning, shield other nodes or revive them depending on its element mode. It may also spawn \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] which attack on sight. ",
-                "text": "Cet appareil étrange est une représentation physique du processus de déboguage du Tracé. Chaque nœud est une étape dans la pile d'appel. Un mauvais fonctionnement le rend hostile envers tout sauf la cause principale du problème. Il peut lancer des flammes, tirer des éclairs d'énergie, protéger d'autres nœuds ou les ressusciter, en fonction de son élément. Il peut aussi faire apparaitre des \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] qui attaquent à vue."
+                "text": "Cet appareil étrange est une représentation physique du processus de débogage du Tracé. Chaque nœud est une étape dans la pile d'appel. Un mauvais fonctionnement le rend hostile envers tout sauf la cause principale du problème. Il peut lancer des flammes, tirer des éclairs d'énergie, protéger d'autres nœuds ou les ressusciter, en fonction de son élément. Il peut aussi faire apparaitre des \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] qui attaquent à vue."
         },
         "enemies/jungle/ape-boss.json/bossLabel": {
                 "orig": "Ape",
@@ -2741,7 +2741,7 @@
         },
         "enemies/jungle/special/powerplant-quest-1.json/meta/descriptions/0/text": {
                 "orig": "A \\v[combat.name.jungle/powerplant] that seems to radiate an extraordinary excess of power, unusual even for its kind.\nInvestigation suggests that, in a desire to further improve the buffness of its well-toned roots, it turned to dangerous substances that were meant to power experimental generators. Its body and mind were not able to handle it, so it became a danger to itself and others.\nIt will serve as a reminder that improving one's body, no matter if root or flesh, should always be done responsibly!",
-                "text": "Une \\v[combat.name.jungle/powerplant] qui semble emmètre une quantité importante d'excès d'énergie, ce qui est inhabituel pour son espèce.\nLes enquêtes suggèrent que, son désir d'améliorer encore sa musculature de ses racines, elle expérimenta des substances dangereuses qui étaient prévues pour alimenter des générateurs. Son corps et son esprit n'ont pas été capable de le supporter, et maintenant elle est un danger pour elle-même et pour les autres.\nElle sert comme rappel que s'améliorer soi-même, peu importe que ce soit ses racines ou son corps, doit être fait de manière responsable !"
+                "text": "Une \\v[combat.name.jungle/powerplant] qui semble emmètre une quantité importante d'excès d'énergie, ce qui est inhabituel pour son espèce.\nLes enquêtes suggèrent que, en désirant encore améliorer sa musculature de ses racines, elle expérimenta des substances dangereuses qui étaient prévues pour alimenter des générateurs. Son corps et son esprit n'ont pas été capables de le supporter, et maintenant elle est un danger pour elle-même et pour les autres.\nElle sert comme rappel que s'améliorer soi-même, peu importe que ce soit ses racines ou son corps, doit être fait de manière responsable !"
         },
         "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
@@ -3128,7 +3128,7 @@
                 "orig": "Mammal"
         },
         "enemies/jungle/special/shockat-capture.json/meta/descriptions/0/text": {
-                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénaires violets.  Ils sont connus pour être encore plus puissants et pour leur production d'énergie éléctrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existance a été découverte par un Shad intélligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !",
+                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénères violets. Ils sont connus pour être encore plus puissants et pour leur production d'énergie électrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existence a été découverte par un Shad intelligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !",
                 "orig": "This yellow variant of the common \\v[combat.name.jungle/shockcat] usually lives in more remote places than their purple counterparts. They are known for having an even stronger and also more consistent output of electricity which makes them very useful for powering devices!\n\nConveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!"
         },
         "enemies/jungle/special/snowman-jungle-1.json/actions/AdjustEnemy/0/thenStep/0/text": {
@@ -3409,7 +3409,7 @@
         },
         "enemies/minibosses/ghost-sandshark.json/meta/descriptions/0/text": {
                 "orig": "A ghostly image formed by the \\v[combat.name.minibosses/cursed-sandshark]. They can't be hurt but you can interrupt their attacks to keep them off you for a while.",
-                "text": "Une image fantôme d'un \\v[combat.name.minibosses/cursed-sandshark]. Ils ne peuvent pas être battus mais vous pouvez interrompre leur attaque pour les maintenir à distance pendant un moment."
+                "text": "Une image fantôme d'un \\v[combat.name.minibosses/cursed-sandshark]. Ils ne peuvent pas être battus, mais vous pouvez interrompre leur attaque pour les maintenir à distance pendant un moment."
         },
         "enemies/minibosses/henry-probe.json/actions/Overload/4/text": {
                 "orig": "Power Surge detected",

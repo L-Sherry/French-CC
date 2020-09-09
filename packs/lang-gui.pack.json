@@ -510,7 +510,7 @@
         },
         "lang/sc/gui.en_US.json/labels/trade/toggleDes": {
                 "orig": "Toggle to display the difference to the current equip or see the raw stats.",
-                "text": "Changer pour afficher la différence à l'équipement porté ou au stats. brutes."
+                "text": "Changer pour afficher la différence à l'équipement porté ou aux stats. brutes."
         },
         "lang/sc/gui.en_US.json/labels/trade/description": {
                 "orig": "Press to initiate the trade!",
@@ -658,7 +658,7 @@
         },
         "lang/sc/gui.en_US.json/labels/dialogs/slotsOverflow": {
                 "orig": "Reached maximum number of slots! Delete some to create new save files.",
-                "text": "Atteint le nombre maximum d'emplacements ! Supprimez en pour créer de nouvelles sauvegardes"
+                "text": "Atteint le nombre maximum d'emplacements ! Supprimez-en pour créer de nouvelles sauvegardes"
         },
         "lang/sc/gui.en_US.json/labels/dialogs/newConfirm": {
                 "orig": "Create new save file?",
@@ -2036,7 +2036,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help/arena/description/points": {
                 "orig": "Shows your accumulated arena coins. Win Cups to gain more coins. The higher your score, the higher your reward!",
-                "text": "Montre les points d'arènes accumulés. Gagnez plus de coupes pour obtenir plus de points. Plus votre score est grand, meilleur sera la récompense !"
+                "text": "Montre les points d'arènes accumulés. Gagnez plus de coupes pour obtenir plus de points. Plus votre score est grand, meilleure sera la récompense !"
         },
         "lang/sc/gui.en_US.json/labels/menu/help/arena/description/highscore": {
                 "orig": "Shows the combined score of all rounds including the Rush Mode score.",
@@ -3349,7 +3349,7 @@
                 "text": "Permet de courir et faire des actions sur la glace sans glisser."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/EQUIP_SCALE": {
-                "text": "Les Paramêtes de Base de cette arme s'ajustent automatiquement avec votre niveau actuel.",
+                "text": "Les Paramètres de Base de cette arme s'ajustent automatiquement avec votre niveau actuel.",
                 "orig": "Base Params of this weapon automatically scale with your current level."
         },
         "lang/sc/gui.en_US.json/labels/menu/skill/shade": {
@@ -4336,11 +4336,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/normalThrows": {
                 "orig": "Normal Throws",
-                "text": "Lancés Normaux"
+                "text": "Lancers Normaux"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/chargedThrows": {
                 "orig": "Charged Throws",
-                "text": "Lancés Chargés"
+                "text": "Lancers Chargés"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/aimingTime": {
                 "orig": "Time spent Aiming",
@@ -7278,7 +7278,7 @@
                 "text": "Coréen"
         },
         "lang/sc/gui.en_US.json/labels/options/language/group/5": {
-                "text": "Chinois Traditionel",
+                "text": "Chinois Traditionnel",
                 "orig": "Traditional Chinese"
         },
         "lang/sc/gui.en_US.json/labels/options/language/description": {
@@ -7407,7 +7407,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/display-type/description": {
                 "orig": "Changes the Scaling used for the box the game runs in.",
-                "text": "Change le type de mise à l'échelle utilisé pour le cadre ou le jeu tourne."
+                "text": "Change le type de mise à l'échelle utilisé pour le cadre où le jeu tourne."
         },
         "lang/sc/gui.en_US.json/labels/options/gamepad-attack/name": {
                 "orig": "Attack / Charge",
@@ -7760,6 +7760,7 @@
         },
         "lang/sc/gui.en_US.json/labels/shakeit/start": {
                 "orig": "Thou",
+                "note": "The translations of individual items is incorrect, but this insult generator should be taken as a whole.  Concatenate /start, any /first, /second and /third and add a exclamation mark at the end to construct an shakespearian insult",
                 "text": "Vous, tout"
         },
         "lang/sc/gui.en_US.json/labels/shakeit/first/0": {
@@ -7812,7 +7813,7 @@
         },
         "lang/sc/gui.en_US.json/labels/shakeit/first/12": {
                 "orig": "errant",
-                "text": "rond de cuir"
+                "text": "rond-de-cuir"
         },
         "lang/sc/gui.en_US.json/labels/shakeit/first/13": {
                 "orig": "fawning",
@@ -8166,6 +8167,7 @@
         },
         "lang/sc/gui.en_US.json/labels/shakeit/third/0": {
                 "orig": "apple-john",
+                "note": "the last space is a non-break, because it is followed by an exclamation mark",
                 "text": "à la langue pendue que vous êtes "
         },
         "lang/sc/gui.en_US.json/labels/shakeit/third/1": {
@@ -8274,7 +8276,7 @@
         },
         "lang/sc/gui.en_US.json/labels/shakeit/third/27": {
                 "orig": "lewdster",
-                "text": "tape à l'œil que vous êtes "
+                "text": "tape-à-l'œil que vous êtes "
         },
         "lang/sc/gui.en_US.json/labels/shakeit/third/28": {
                 "orig": "lout",
@@ -8367,7 +8369,7 @@
         },
         "lang/sc/gui.en_US.json/labels/loading/trophyUpdate": {
                 "orig": "Trophies have changed and we tried to make sure you got all the trophies you should have until this point.",
-                "text": "Les trophées ont changés et on a essayé de faire en sorte que vous ayez tous les trophées que vous devriez avoir en ce moment."
+                "text": "Les trophées ont changé et on a essayé de faire en sorte que vous ayez tous les trophées que vous devriez avoir en ce moment."
         },
         "lang/sc/gui.en_US.json/labels/loading/skillUpdate": {
                 "orig": "The Skill tree structure has changed, so we had to reset your skill configuration. Sorry! You can reassign your skills again.",
@@ -8379,7 +8381,7 @@
         },
         "lang/sc/gui.en_US.json/labels/loading/questUpdate": {
                 "orig": "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message.",
-                "text": "Certaines quêtes ont changées. Elles ont été remises à zéro. Cela veut dire que vous aurez peut-être besoin de refaire certaines tâches ou que vous aurez des récompenses après que vous fermiez ce message."
+                "text": "Certaines quêtes ont changé. Elles ont été remises à zéro. Cela veut dire que vous aurez peut-être besoin de refaire certaines tâches ou que vous aurez des récompenses après que vous fermiez ce message."
         },
         "lang/sc/gui.en_US.json/labels/menu/option/mods": {
                 "orig": "Mods",
@@ -8391,7 +8393,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/logLevel-error/description": {
                 "orig": "Enables error popups. \\c[1]Needs a restart!",
-                "text": "Active les popups d'erreurs.  \\c[1]Nécessite un redémarrage !\\c[0]"
+                "text": "Active les popups d'erreurs. \\c[1]Nécessite un redémarrage !\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/options/logLevel-error/name": {
                 "orig": "Log level: Errors",
@@ -8399,7 +8401,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/logLevel-log/description": {
                 "orig": "Enables default message popups. \\c[1]Needs a restart!",
-                "text": "Active les popups de message par défaut.  \\c[1]Nécessite un redémarrage !\\c[0]"
+                "text": "Active les popups de message par défaut. \\c[1]Nécessite un redémarrage !\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/options/logLevel-log/name": {
                 "orig": "Log level: Default",
@@ -8407,7 +8409,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/logLevel-warn/description": {
                 "orig": "Enables warning popups. \\c[1]Needs a restart!",
-                "text": "Active les popups d'avertissements.  \\c[1]Nécessite un redémarrage !\\c[0]"
+                "text": "Active les popups d'avertissements. \\c[1]Nécessite un redémarrage !\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/options/logLevel-warn/name": {
                 "orig": "Log level: Warnings",

@@ -245,7 +245,7 @@
                 "orig": "It's good to have you back!"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/57/settings/npcStates/11/event/5/message": {
-                "text": "Bien que je dois admettre, je suis un peu déçu pour Luke...",
+                "text": "Bien que je doive admettre, je suis un peu déçu pour Luke...",
                 "orig": "Though I have to admit, I'm a bit disappointed about Luke..."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/57/settings/npcStates/11/event/6/message": {
@@ -377,7 +377,7 @@
                 "orig": "Holerö!"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/58/settings/npcStates/12/event/4/message": {
-                "text": "Là on est en train de s'occuper de quelquess détails pour un événement qui va bientôt arriver.",
+                "text": "Là on est en train de s'occuper de quelques détails pour un événement qui va bientôt arriver.",
                 "orig": "We're currently busy planning a few details of an upcoming event."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/58/settings/npcStates/12/event/5/message": {
@@ -385,7 +385,7 @@
                 "orig": "...?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/58/settings/npcStates/12/event/6/message": {
-                "text": "Oh, je suis sûr que tu aimerais bien savor ce que c'est.\\. Mais on m'a dit de ne rien dévoiler.",
+                "text": "Oh, je suis sûr que tu aimerais bien savoir ce que c'est.\\. Mais on m'a dit de ne rien dévoiler.",
                 "orig": "Oh, I'm sure you're curious what this is about.\\. But I've been told not to spoil anything."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/58/settings/npcStates/12/event/7/message": {
@@ -479,7 +479,7 @@
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/60/settings/npcStates/0/event/11/0/7/message": {
                 "orig": "And of course both of you will be tested separately. Who wants to go first?",
-                "text": "Et bien sûr chacun d'entre vous sera testée séparément. Qui veut y aller en premier ?"
+                "text": "Et bien sûr, chacun d'entre vous sera testé séparément. Qui veut y aller en premier ?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/60/settings/npcStates/0/event/11/0/12/message": {
                 "orig": "Oh, I'm fine with going first!",
@@ -891,7 +891,7 @@
                 "orig": "[shakes head]"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/60/settings/npcStates/12/event/quest/8/1/1/message": {
-                "text": "OK !\\. Préviens moi quand tu seras prête !",
+                "text": "OK !\\. Préviens-moi quand tu seras prête !",
                 "orig": "Okay!\\. Just let me know when you're ready!"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/60/settings/npcStates/12/event/quest/8/options/0/label": {
@@ -2027,7 +2027,8 @@
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/64/settings/event/40/message": {
                 "orig": "Alright... time for word count++!",
-                "text": "Allez... Il est temps de nombre mots++ !"
+                "text": "Allez... Il est temps de nombre mots++ !",
+                "note": "Turns out non-programmers don't get the joke, who could have guessed it ?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/64/settings/event/42/object": {
                 "orig": "Why",
@@ -2684,7 +2685,7 @@
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/69/settings/event/32/message": {
                 "orig": "Please, you have to tell me.",
-                "text": "Allez, il faut que tu me le dise."
+                "text": "Allez, il faut que tu me le dises."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/69/settings/event/33/message": {
                 "orig": "...How...?",
@@ -4704,7 +4705,7 @@
                 "orig": "Oh, you don't remember?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/52/message": {
-                "text": "Je veux dire notre...\\. \"séparation\" a du se passer avant, non ?",
+                "text": "Je veux dire notre...\\. \"séparation\" a dû se passer avant, non ?",
                 "orig": "I think our...\\. \"split\" must have happened before that, right?\n"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/53/message": {
@@ -4776,7 +4777,7 @@
                 "orig": "Color matching?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/89/message": {
-                "text": "Pas d'inquiètude, j'expliquerais les choses quand on y sera.",
+                "text": "Pas d'inquiétude, j'expliquerais les choses quand on y sera.",
                 "orig": "No worries, we'll explain things as we go."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/91/message": {
@@ -4792,7 +4793,7 @@
                 "orig": "...Okay?"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/98/message": {
-                "text": "Le Raid commencera demain.\\. à l'\\c[3]île de Para\\c[0], au même endroit qu'avant.",
+                "text": "Le Raid commencera demain.\\. À l'\\c[3]île de Para\\c[0], au même endroit qu'avant.",
                 "orig": "The raid will start tomorrow.\\. \\c[3]Para Island\\c[0], same place as before."
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/99/message": {
@@ -4800,7 +4801,7 @@
                 "orig": "And that's it!"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/100/message": {
-                "text": "Réunissons nous là-bas demain pour bien s'amuser !",
+                "text": "Réunissons-nous là-bas demain pour bien s'amuser !",
                 "orig": "Let's meet right there tomorrow and have lots of fun!"
         },
         "maps/autumn/guild/inner-fs-eg.json/entities/84/settings/event/102/message": {

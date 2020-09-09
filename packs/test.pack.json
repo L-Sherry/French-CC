@@ -272,7 +272,7 @@
                 "orig": "The duel will take place at\n\\c[3][ Location Name ]\\c[0]."
         },
         "maps/enemy-test-sao.json/entities/11/settings/interact/event/1/text": {
-                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarassée de tous les autres adversaires\\c[0].",
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarrassée de tous les autres adversaires\\c[0].",
                 "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0]."
         },
         "maps/henne-test-1.json/entities/52/settings/event/1/message": {
@@ -561,7 +561,7 @@
         },
         "maps/test-ferro.json/entities/0/settings/npcStates/4/event/5/task": {
                 "orig": "She tries to escape! Quick! Follow her!",
-                "text": "Elle essaye de s'échapper ! Vite ! Suivez la !"
+                "text": "Elle essaye de s'échapper ! Vite ! Suivez-là !"
         },
         "maps/test-ferro.json/entities/0/settings/npcStates/5/event/1/message": {
                 "orig": "Hey, wait for me!",
@@ -1041,7 +1041,7 @@
         },
         "maps/cargo-ship/room3.json/entities/16/settings/event/6/message": {
                 "orig": "Time for turrets!\\. Don't worry, those things won't hurt you.",
-                "text": "Maintenant, au tourelles !\\. Oh t'inquiète pas, ces choses ne te feront pas mal."
+                "text": "Maintenant, aux tourelles !\\. Oh t'inquiète pas, ces choses ne te feront pas mal."
         },
         "maps/cargo-ship/room3.json/entities/16/settings/event/7/message": {
                 "orig": "This is in fact just a simple puzzle.",

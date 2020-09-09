@@ -273,7 +273,7 @@
         },
         "database.json/achievements/metal-gears/description": {
                 "orig": "Have a \\c[3]total of 99 Metal Gears\\c[0] in your Inventory. Gaming has changed.",
-                "text": "Possédez \\c[3]99 Engrenages Métaux en tout\\c[0] dans votre Inventaire. Les jeux vidéos ont changés."
+                "text": "Possédez \\c[3]99 Engrenages Métaux en tout\\c[0] dans votre Inventaire. Les jeux vidéos ont changé."
         },
         "database.json/achievements/old-drill/name": {
                 "orig": "Pierce through the Heaven",
@@ -455,7 +455,7 @@
         },
         "database.json/achievements/kill-boss-driller/name": {
                 "orig": "The bigger they are...",
-                "text": "Plus ils sont gros ..."
+                "text": "Plus ils sont gros..."
         },
         "database.json/achievements/kill-boss-driller/description": {
                 "orig": "\\c[3]Defeat the \\v[combat.name.boss-driller]\\c[0] in the \\v[area.cold-dng.name].",
@@ -627,7 +627,7 @@
         },
         "database.json/achievements/kill-special-henry/name": {
                 "orig": "That was... Unexpected",
-                "text": "C'était ... Inattendu"
+                "text": "C'était... Inattendu"
         },
         "database.json/achievements/kill-special-henry/description": {
                 "orig": "Find and \\c[3]defeat \\v[combat.name.minibosses/henry]\\c[0].",
@@ -1642,7 +1642,7 @@
                 "orig": "Coral Coastline"
         },
         "database.json/areas/beach/description": {
-                "text": "Un étrange groupe de bancs de sables au millieu de l'océan.",
+                "text": "Un étrange groupe de bancs de sables au milieu de l'océan.",
                 "orig": "A strange group of sandbanks in the middle of the ocean."
         },
         "database.json/areas/bergen-trails/name": {
@@ -1659,7 +1659,7 @@
         },
         "database.json/areas/bergen-trails/landmarks/hermit/description": {
                 "orig": "A lonesome house, commonly used as half-way break from the difficult climb.",
-                "text": "Une maison isolée utilisé comme refuge, à mi-chemin de la cote difficile."
+                "text": "Une maison isolée utilisé comme refuge, à mi-chemin de la côte difficile."
         },
         "database.json/areas/bergen-trails/landmarks/end/name": {
                 "orig": "Outlook",
@@ -1747,11 +1747,11 @@
         },
         "database.json/areas/fallback/name": {
                 "orig": "Fallback",
-                "text": "Fallback"
+                "text": "Par Défaut"
         },
         "database.json/areas/fallback/description": {
                 "orig": "This is where everything goes that is not wanted.",
-                "text": "C'est là ou on met tout ce qu'on ne veut plus."
+                "text": "C'est là où on met tout ce dont on ne veut plus."
         },
         "database.json/areas/final-dng/name": {
                 "text": "Temple de Ku'lero",
@@ -2149,7 +2149,7 @@
         },
         "database.json/commonEvents/quest-sergey-npc_comment/event/1/message": {
                 "orig": "It seems like they still have not given those average quest NPCs more nuanced responses.",
-                "text": "On dirait qu'ils n'ont toujours pas trouvés de réponses plus nuancées pour ces PNJs basiques de quêtes."
+                "text": "On dirait qu'ils n'ont toujours pas trouvé de réponses plus nuancées pour ces PNJs basiques de quêtes."
         },
         "database.json/commonEvents/quest-sergey-npc_comment/event/2/message": {
                 "orig": "...",
@@ -2421,11 +2421,11 @@
                 "orig": "...?"
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/15/message": {
-                "text": "Ok, c'est bon !\\. Encore juste un duel.",
+                "text": "OK, c'est bon !\\. Encore juste un duel.",
                 "orig": "Alright, fine!\\. Just one more duel."
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/16/message": {
-                "text": "Laisse moi regarder mon agenda, Bea.",
+                "text": "Laisse-moi regarder mon agenda, Bea.",
                 "orig": "Let me look up my schedule, Bea."
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/17/message": {
@@ -2505,11 +2505,11 @@
                 "orig": "Feeling safe there, don't you?\\. Thinking I can't possibly reach you."
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/21/message": {
-                "text": "\\c[1]Et bien vous vous trompez\\c[0].",
+                "text": "\\c[1]Hé bien vous vous trompez\\c[0].",
                 "orig": "\\c[1]You thought wrong\\c[0]."
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/22/message": {
-                "text": "Croyez moi, j'ai les moyens.\\. Des vielles méthodes discrètes de Ninja.",
+                "text": "Croyez-moi, j'ai des moyens.\\. Des vielles méthodes discrètes de Ninja.",
                 "orig": "I have my ways.\\. Old, sneaky Ninja ways.\n"
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/23/message": {
@@ -2521,7 +2521,7 @@
                 "orig": "\\c[1]I will come for you.\\c[0]\n"
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/25/message": {
-                "text": "Et vous pourrez faire vos prières !\\. Et après je me vangerais !\\. Ah, ce sera chouette !",
+                "text": "Et vous pourrez faire vos prières !\\. Et après je me vengerais !\\. Ah, ce sera chouette !",
                 "orig": "And then my revenge will be sweet!\\. Oh, so sweet!\\. All strawberries and cherries! "
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/29/message": {
@@ -2545,7 +2545,7 @@
                 "orig": "So...\\. It's clear you really want her to duel me."
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/39/message": {
-                "text": "Bien que nous savons déjà tous les deux comment cela va finir.",
+                "text": "Bien que nous sachions déjà tous les deux comment cela va finir.",
                 "orig": "Though we both know where this will end.\n"
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/40/message": {
@@ -2610,7 +2610,7 @@
                 "orig": "I knew, from the moment our eyes first met: All of this was destined to happen."
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/6/message": {
-                "text": "Comme ces vielles histoires, ou le héros combat contre les villains, la princesse attend d'être sauvée et le marchant vend les équipements...",
+                "text": "Comme ces vielles histoires, ou le héros combat contre les vilains, la princesse attend d'être sauvée et le marchant vend les équipements...",
                 "orig": "Like those old stories, where the hero fights the evil, the princess waits to be saved and the shopkeeper sells the equipment..."
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/7/message": {
@@ -2622,7 +2622,7 @@
                 "orig": "..."
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/9/message": {
-                "text": "Qu'est ce qu'il y a ?\\. Il faut que je fasse plus court ?",
+                "text": "Qu'est-ce qu'il y a ?\\. Il faut que je fasse plus court ?",
                 "orig": "What is it?\\. I should I keep it short?"
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/10/message": {
@@ -2630,7 +2630,7 @@
                 "orig": "[nods]"
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/11/message": {
-                "text": "Ok !\\. Je vais écrire le parchemin avec le lieu.\\. Rencontre moi là-bas !",
+                "text": "Ok !\\. Je vais écrire le parchemin avec le lieu.\\. Rencontre-moi là-bas !",
                 "orig": "Fine!\\. I'll write the scroll with the location.\\. Meet me there!"
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/12/message": {
@@ -2646,7 +2646,7 @@
                 "orig": "I won't hold back anymore.\\. No more easy mode for you. \n"
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/15/message": {
-                "text": "À partir de maintenant, ce sera le \\c[1]Mode Lunatique\\c[0].\\. J'espère que tu sais equiver !",
+                "text": "À partir de maintenant, ce sera le \\c[1]Mode Lunatique\\c[0].\\. J'espère que tu sais esquiver !",
                 "orig": "From now on, it will be \\c[1]Lunatic Mode\\c[0].\\. I hope you can dodge!"
         },
         "database.json/commonEvents/sao-duel-accept-post/event/2/thenStep/0/message": {
@@ -2711,7 +2711,7 @@
                 "orig": "..."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/2/message": {
-                "text": "Dis moi, pour quelle raison tu te bats ?",
+                "text": "Dis-moi, pour quelle raison tu te bats ?",
                 "orig": "Say, what are you fighting for?"
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/6/thenStep/3/message": {
@@ -2759,7 +2759,7 @@
                 "orig": "..."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/2/message": {
-                "text": "C'est bon, finissons en.",
+                "text": "C'est bon, finissons-en.",
                 "orig": "Okay, fine, let's get this over with."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/7/thenStep/3/message": {
@@ -2795,7 +2795,7 @@
                 "orig": "..."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/3/message": {
-                "text": "Lea...\\. Je t'ai déjà demandé: Pour quelle raison tu te bats ?",
+                "text": "Lea...\\. Je t'ai déjà demandé : Pour quelle raison tu te bats ?",
                 "orig": "Lea...\\. I asked you before: What are you fighting for?"
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/4/message": {
@@ -2843,7 +2843,7 @@
                 "orig": "Sao"
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/22/message": {
-                "text": "... se metteraient à brailler pour que je sois nerfé.",
+                "text": "... se mettraient à brailler pour que je sois nerfé.",
                 "orig": "...would throw a fit and get me nerfed.\n"
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/23/message": {
@@ -2867,7 +2867,7 @@
                 "orig": "Oh...\\. you know what I'm talking about?\\. Didn't expect that."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/28/message": {
-                "text": "Peut-être qu'on a plus de choses en commun que ce je le pensais.",
+                "text": "Peut-être qu'on a plus de choses en commun que je le pensais.",
                 "orig": "Maybe we are more alike than I thought at first."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/29/message": {
@@ -2875,7 +2875,7 @@
                 "orig": "..."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/30/message": {
-                "text": "Je divagues encore.\\. Les joueurs veulent de l'action.\\. Donc...\\. un dernier mot ?",
+                "text": "Je divague encore.\\. Les joueurs veulent de l'action.\\. Donc...\\. un dernier mot ?",
                 "orig": "I am rambling again.\\. The players want to have action.\\. So...\\. any last words?"
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/31/message": {
@@ -2955,7 +2955,7 @@
                 "orig": "..."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/6/message": {
-                "text": "Hé beh, tu dois être sympa en soirée.",
+                "text": "Hé ben, tu dois être sympa en soirée.",
                 "orig": "Man, you must be fun at parties."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/5/thenStep/7/message": {
@@ -2975,7 +2975,7 @@
                 "orig": "Did I choose the wrong skills?\\. Should I have gone with the healing potion instead? "
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/2/message": {
-                "text": "Ou alors cette double attaque sympa ?\\. Peut-être que j'aurais du apprendre la magie, comme Van Daal.",
+                "text": "Ou alors cette double attaque sympa ?\\. Peut-être que j'aurais dû apprendre la magie, comme Van Daal.",
                 "orig": "Or that fancy double attack?\\. Maybe I should have learned magic, like Van Daal. "
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/4/message": {
@@ -2983,11 +2983,11 @@
                 "orig": "...?"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/5/message": {
-                "text": "Non, mes choix étaient correct.\\. C'est forcement la faute du développeur !",
+                "text": "Non, mes choix étaient corrects.\\. C'est forcément la faute du développeur !",
                 "orig": "No, my choice was correct.\\. It's obviously the developer's fault! "
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/6/message": {
-                "text": "Ils ont juste nerfés mes compétences après que tous ces gens aient ralés que j'étais imbattable !",
+                "text": "Ils ont juste nerfés mes compétences après que tous ces gens aient râlé que j'étais imbattable !",
                 "orig": "They just nerfed my skills after all those people complained that I am unbeatable! "
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/7/message": {
@@ -3019,7 +3019,7 @@
                 "orig": "You only have to find me \\c[3]one more time\\c[0]. "
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/18/message": {
-                "text": "Cherche dans la dernière ville ou village dans laquel on ne s'est pas rencontré.",
+                "text": "Cherche dans la dernière ville ou village dans laquelle on ne s'est pas rencontré.",
                 "orig": "Look for the last town or village where we didn't meet yet."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/19/message": {
@@ -3064,7 +3064,7 @@
                 "orig": "Stop that!"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/33/message": {
-                "text": "Ok, c'est bon, tu as gagné pour cette fois !",
+                "text": "OK, c'est bon, tu as gagné pour cette fois !",
                 "orig": "Alright fine, you win this time!"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/6/thenStep/35/message": {
@@ -3815,15 +3815,15 @@
         },
         "database.json/commonEvents/test-cooldown-start/event/0/thenStep/0/message": {
                 "orig": "Cool Down 1",
-                "text": "Cool Down 1"
+                "text": "Calmement 1"
         },
         "database.json/commonEvents/test-cooldown-start/event/1/thenStep/0/message": {
                 "orig": "Cool Down 2",
-                "text": "Cool Down 2"
+                "text": "Calmement 2"
         },
         "database.json/commonEvents/test-cooldown-start/event/2/thenStep/0/message": {
                 "orig": "Cool Down 3",
-                "text": "Cool Down 3"
+                "text": "Calmement 3"
         },
         "database.json/commonEvents/cooldown-S/event/0/0_0/0/0_0/0/message": {
                 "orig": "...Lea?\\. I think I need a break.",
@@ -3871,7 +3871,7 @@
         },
         "database.json/commonEvents/cooldown-S/event/0/3_0/0/0_0/0/message": {
                 "orig": "Boy, what a massacre.",
-                "text": "Hé beh, quel massacre."
+                "text": "Hé ben, quel massacre."
         },
         "database.json/commonEvents/cooldown-S/event/0/3_0/0/0_1/0/message": {
                 "orig": "I didn't expect to be playing with such a fierce little devil.",
@@ -4680,7 +4680,7 @@
         },
         "database.json/commonEvents/joern-behesloth-end/event/1/thenStep/0/message": {
                 "orig": "Man, these sloths are surprisingly fast for their size when angered.",
-                "text": "Et ben, ces paresseux sont très rapides pour leur taille quand ils sont en colère."
+                "text": "Hé ben, ces paresseux sont très rapides pour leur taille quand ils sont en colère."
         },
         "database.json/commonEvents/joe-apo-plants-end/event/0/thenStep/0/message": {
                 "orig": "See this, Polly?\\. This is what happens when you forget to water your plants.",
@@ -5221,7 +5221,7 @@
         },
         "database.json/commonEvents/apollo-revived/event/0/0_0/0/message": {
                 "orig": "A Spheromancer returns to the battlefield, all foes beware!",
-                "text": "Un Spheromancer reviens sur le champ de bataille ! Mettez vous aux abris, viles bêtes !"
+                "text": "Un Spheromancer revient sur le champ de bataille ! Mettez-vous aux abris, viles bêtes !"
         },
         "database.json/commonEvents/apollo-revived/event/0/0_1/0/message": {
                 "orig": "Justice still needs to be served!",
@@ -6005,7 +6005,7 @@
                 "orig": "Lea, the raid is about to start!"
         },
         "database.json/commonEvents/emilie-join/event/6/thenStep/1/message": {
-                "text": "On attends sur l'\\c[3]île de Para\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0] !",
+                "text": "On attend sur l'\\c[3]île de Para\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0] !",
                 "orig": "We're waiting at \\c[3]Para Island\\c[0] in \\c[3]Autumn's Fall\\c[0]!"
         },
         "database.json/commonEvents/emilie-join/event/7/thenStep/0/message": {
@@ -6123,7 +6123,7 @@
                 "orig": "TODO: Mention Dungeon Meeting (do not want, am at home)"
         },
         "database.json/commonEvents/glasses-contact/event/7/thenStep/0/text": {
-                "text": "À FAIRE : Faire une pause à \\v[area.evo-village.name] après avoir courru la nouvelle région",
+                "text": "À FAIRE : Faire une pause à \\v[area.evo-village.name] après avoir couru la nouvelle région",
                 "orig": "TODO: Taking a break in Homestedt after running the new area"
         },
         "database.json/commonEvents/glasses-contact/event/8/thenStep/0/text": {
@@ -6131,7 +6131,7 @@
                 "orig": "TODO: Explore the new area!"
         },
         "database.json/commonEvents/glasses-contact/event/9/thenStep/0/message": {
-                "text": "D-Désolé, Lea !\\. Il faut que j'ailles vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
+                "text": "D-Désolé, Lea !\\. Il faut que j'aille vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
                 "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promised!"
         },
         "database.json/commonEvents/glasses-contact/event/10/thenStep/0/message": {
@@ -6208,7 +6208,7 @@
         },
         "database.json/commonEvents/glasses-contact/event/13/thenStep/2/message": {
                 "orig": "It's a shame that you don't want to participate in the raid. I was kind of looking forward to it....",
-                "text": "C'est dommage que tu ne veuilles pas participer au raid. Je m'attendais un peu à ce que tu le fasse..."
+                "text": "C'est dommage que tu ne veuilles pas participer au raid. Je m'attendais un peu à ce que tu le fasses..."
         },
         "database.json/commonEvents/glasses-contact/event/13/thenStep/3/message": {
                 "orig": "Sorry...",
@@ -6469,7 +6469,7 @@
                 "orig": "We can play together tomorrow, if that's okay."
         },
         "database.json/commonEvents/glasses-join/event/6/thenStep/0/message": {
-                "text": "D-Désolé, Lea !\\. Il faut que j'ailles vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
+                "text": "D-Désolé, Lea !\\. Il faut que j'aille vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
                 "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promised!"
         },
         "database.json/commonEvents/glasses-join/event/7/thenStep/0/message": {
@@ -6578,7 +6578,7 @@
         },
         "database.json/commonEvents/apollo-contact/event/8/thenStep/2/message": {
                 "orig": "I know you can do it! Make a fellow Spheromancer proud!",
-                "text": "Je sais que tu peux le faire ! Rend ton ami Spheromancer fier de toi !"
+                "text": "Je sais que tu peux le faire ! Rends ton ami Spheromancer fier de toi !"
         },
         "database.json/commonEvents/apollo-contact/event/8/thenStep/3/message": {
                 "orig": "...!",
@@ -6831,7 +6831,7 @@
         },
         "database.json/commonEvents/apollo-join/event/7/0_0/0/message": {
                 "orig": "It is time for Spheromancers to once again join forces!",
-                "text": "Le temps est venu pour les Spheromancers d'unir leur forces une nouvelle fois !"
+                "text": "Le temps est venu pour les Spheromancers d'unir leurs forces une nouvelle fois !"
         },
         "database.json/commonEvents/apollo-join/event/7/0_1/0/message": {
                 "orig": "Spheromancer Lea! Of course we can travel the wide lands of Shadoon together!",
@@ -7456,7 +7456,7 @@
                 "text": "[acquiesce]"
         },
         "database.json/commonEvents/shizuka-join/event/4/thenStep/0/message": {
-                "text": "Désolé, Lea.\\. L'entrainement avec mon frère déséspérant demande toute mon attention.",
+                "text": "Désolé, Lea.\\. L'entrainement avec mon frère désespérant demande toute mon attention.",
                 "orig": "Sorry, Lea.\\. Training with my hopeless brother required my full attention."
         },
         "database.json/commonEvents/shizuka-join/event/4/thenStep/1/message": {
@@ -7496,7 +7496,7 @@
                 "orig": "TODO: Dungeon Meeting!"
         },
         "database.json/commonEvents/luke-contact/event/6/thenStep/0/text": {
-                "text": "À FAIRE : Dialogue secrèt pendant la balade avec Shizuka",
+                "text": "À FAIRE : Dialogue secret pendant la balade avec Shizuka",
                 "orig": "TODO: Secret Dialog while going around with Shizuka"
         },
         "database.json/commonEvents/luke-contact/event/7/thenStep/0/text": {
@@ -7532,15 +7532,15 @@
                 "orig": "Have you heard? There's a bunch of non-Evotars meeting in the \\c[3]city hall\\c[0], acting like it's their village."
         },
         "database.json/commonEvents/luke-join/event/4/thenStep/1/message": {
-                "text": "Non, vraiment, on a l'intention de courrir le donjon tous ensemble.\\. Tu devrais venir !",
+                "text": "Non, vraiment, on a l'intention de courir le donjon tous ensemble.\\. Tu devrais venir !",
                 "orig": "No really, we're planning to run the new dungeon together.\\. You should join us!"
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/0/message": {
-                "text": "Nan, il est trop tard pour moi.\\. La course était vraiment fatiguante.",
+                "text": "Nan, il est trop tard pour moi.\\. La course était vraiment fatigante.",
                 "orig": "Nah, too late for me.\\. Running the new area was quite exhausting, really."
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/1/message": {
-                "text": "On peut commencer un groups demain si tu veux !",
+                "text": "On peut démarrer un groupes demain si tu veux !",
                 "orig": "We can start a party tomorrow if you like!"
         },
         "database.json/commonEvents/luke-join/event/6/thenStep/0/message": {
@@ -7592,7 +7592,7 @@
                 "orig": "TODO: Dungeon Meeting!"
         },
         "database.json/commonEvents/hlin-contact/event/8/thenStep/0/text": {
-                "text": "À FAIRE : Dialogue secrèt pendant la balade avec Shizuka",
+                "text": "À FAIRE : Dialogue secret pendant la balade avec Shizuka",
                 "orig": "TODO: Secret Dialog while going around with Shizuka"
         },
         "database.json/commonEvents/hlin-contact/event/9/thenStep/0/text": {
@@ -7625,7 +7625,7 @@
         },
         "database.json/commonEvents/hlin-contact/event/14/thenStep/2/message": {
                 "orig": "It looks so intimidating from down here.",
-                "text": "Elle à l'air si intimidante vue d'en bas."
+                "text": "Elle a l'air si intimidante vue d'en bas."
         },
         "database.json/commonEvents/hlin-contact/event/14/thenStep/3/message": {
                 "orig": "Now I really wonder about the background story for this tower and area in general.",
@@ -8281,7 +8281,7 @@
         },
         "database.json/commonEvents/grumpy-contact/event/18/thenStep/13/message": {
                 "orig": "But it seems it's rather overused. What a shame.",
-                "text": "Mais il a l'air d'être un peu surutilisé. C'est dommage."
+                "text": "Mais il a l'air d'être un peu trop utilisé. C'est dommage."
         },
         "database.json/commonEvents/grumpy-contact/event/18/thenStep/14/message": {
                 "orig": "...",
@@ -8353,7 +8353,7 @@
         },
         "database.json/commonEvents/buggy-contact/event/9/thenStep/3/message": {
                 "orig": "Man, I feel like I'm out of shape when it comes to jokes these days.",
-                "text": "Hé beh, j'ai l'impression que mes blagues ne sont plus franchement au goût du jour."
+                "text": "Hé ben, j'ai l'impression que mes blagues ne sont plus franchement au goût du jour."
         },
         "database.json/commonEvents/buggy-contact/event/9/thenStep/4/message": {
                 "orig": "[nods]",
@@ -8953,7 +8953,7 @@
         },
         "database.json/commonEvents/storyUpdateA/event/1/content": {
                 "orig": "You just loaded an \\c[3]old save file\\c[0].\n\\c[3]Things might be broken!\\c[0]\nHowever, we can try to continue the story from when things changed! You will keep your level and items.\n\nDo you want to continue the story?",
-                "text": "Vous venez de charger une \\c[3]ancienne sauvegarde\\c[0].\n\\c[3]Les choses sont peut-être cassées !\\c[0]\nEn revanche, on peut essayer de continuer l'histoire à partir de là ou les choses ont changées ! Vous garderez votre niveau et vos items.\n\nVoulez-vous continuer l'histoire ?"
+                "text": "Vous venez de charger une \\c[3]ancienne sauvegarde\\c[0].\n\\c[3]Les choses sont peut-être cassées !\\c[0]\nEn revanche, on peut essayer de continuer l'histoire à partir de là où les choses ont changé ! Vous garderez votre niveau et vos items.\n\nVoulez-vous continuer l'histoire ?"
         },
         "database.json/commonEvents/storyUpdateB/event/1/title": {
                 "orig": "Continue Story?",
@@ -8961,7 +8961,7 @@
         },
         "database.json/commonEvents/storyUpdateB/event/1/content": {
                 "orig": "You just loaded an \\c[3]old save file\\c[0].\n\\c[3]Things might be broken!\\c[0]\nHowever, we can try to continue the story from when things changed! You will keep your level, items and quest/dungeon progress.\n\nDo you want to continue the story?",
-                "text": "Vous venez de charger une \\c[3]ancienne sauvegarde\\c[0].\n\\c[3]Les choses sont peut-être cassées !\\c[0]\nEn revanche, on peut essayer de continuer l'histoire à partir de là ou les choses ont changées ! Vous garderez votre niveau, vos items et votre progression dans les quêtes et donjons.\n\nVoulez-vous continuer l'histoire ?"
+                "text": "Vous venez de charger une \\c[3]ancienne sauvegarde\\c[0].\n\\c[3]Les choses sont peut-être cassées !\\c[0]\nEn revanche, on peut essayer de continuer l'histoire à partir de là ou les choses ont changé ! Vous garderez votre niveau, vos items et votre progression dans les quêtes et donjons.\n\nVoulez-vous continuer l'histoire ?"
         },
         "database.json/commonEvents/storyUpdateB/event/1/acceptStep/2/titleText": {
                 "orig": "\\c[1]WARNING ABOUT LANDMARKS\\c[0]",
@@ -9500,7 +9500,7 @@
         },
         "database.json/drops/jungle-rain-1/name": {
                 "orig": "Alpha Open Baraleles",
-                "text": "Baralelles Ouverte Alpha"
+                "text": "Baralelles Ouvertes Alpha"
         },
         "database.json/drops/jungle-rain-1/subArea": {
                 "orig": "Commonly found near water where it's raining.",
@@ -9508,7 +9508,7 @@
         },
         "database.json/drops/jungle-rain-2/name": {
                 "orig": "Beta Open Baraleles",
-                "text": "Baralelles Ouverte Bêta"
+                "text": "Baralelles Ouvertes Bêta"
         },
         "database.json/drops/jungle-rain-2/subArea": {
                 "orig": "Commonly found near water where it's raining.",
@@ -9516,7 +9516,7 @@
         },
         "database.json/drops/jungle-rain-special/name": {
                 "orig": "Omega Open Baraleles",
-                "text": "Baralelles Ouverte Oméga"
+                "text": "Baralelles Ouvertes Oméga"
         },
         "database.json/drops/jungle-rain-special/subArea": {
                 "orig": "Rarely found near water where it's raining.",
@@ -10012,7 +10012,7 @@
         },
         "database.json/enemies/jungle.special.powerplant-quest-1/descriptions/0/text": {
                 "orig": "A \\v[combat.name.jungle/powerplant] that seems to radiate an extraordinary excess of power, unusual even for its kind.\nInvestigation suggests that, in a desire to further improve the buffness of its well-toned roots, it turned to dangerous substances that were meant to power experimental generators. Its body and mind were not able to handle it, so it became a danger to itself and others.\nIt will serve as a reminder that improving one's body, no matter if root or flesh, should always be done responsibly!",
-                "text": "Une \\v[combat.name.jungle/powerplant] qui semble emmètre une quantité importante d'excès d'énergie, ce qui est inhabituel pour son espèce.\nLes enquêtes suggèrent que, son désir d'améliorer encore sa musculature de ses racines, elle expérimenta des substances dangereuses qui étaient prévues pour alimenter des générateurs. Son corps et son esprit n'ont pas été capable de le supporter, et maintenant elle est un danger pour elle-même et pour les autres.\nElle sert comme rappel que s'améliorer soi-même, peu importe que ce soit ses racines ou son corps, doit être fait de manière responsable !"
+                "text": "Une \\v[combat.name.jungle/powerplant] qui semble emmètre une quantité importante d'excès d'énergie, ce qui est inhabituel pour son espèce.\nLes enquêtes suggèrent que, en désirant encore améliorer sa musculature de ses racines, elle expérimenta des substances dangereuses qui étaient prévues pour alimenter des générateurs. Son corps et son esprit n'ont pas été capables de le supporter, et maintenant elle est un danger pour elle-même et pour les autres.\nElle sert comme rappel que s'améliorer soi-même, peu importe que ce soit ses racines ou son corps, doit être fait de manière responsable !"
         },
         "database.json/enemies/jungle.ghost/name": {
                 "orig": "Ectovolt",
@@ -10078,7 +10078,7 @@
         },
         "database.json/enemies/jungle.algorithm/name": {
                 "orig": "ExeRepair(error++);",
-                "text": "ExeRepair(error++);"
+                "text": "ExéRépare(erreur++);"
         },
         "database.json/enemies/jungle.algorithm/species": {
                 "orig": "Ancient Debugger",
@@ -10086,7 +10086,7 @@
         },
         "database.json/enemies/jungle.algorithm/descriptions/0/text": {
                 "orig": "This strange device is a physical representation of the track's debugging process. Each node a step in the call stack. A malfunction made it hostile against everything but the true cause. It can spew flames, shoot bolts of lightning, shield other nodes or revive them depending on its element mode. It may also spawn \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] which attack on sight. ",
-                "text": "Cet appareil étrange est une représentation physique du processus de déboguage du Tracé. Chaque nœud est une étape dans la pile d'appel. Un mauvais fonctionnement le rend hostile envers tout sauf la cause principale du problème. Il peut lancer des flammes, tirer des éclairs d'énergie, protéger d'autres nœuds ou les ressusciter, en fonction de son élément. Il peut aussi faire apparaitre des \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] qui attaquent à vue."
+                "text": "Cet appareil étrange est une représentation physique du processus de débogage du Tracé. Chaque nœud est une étape dans la pile d'appel. Un mauvais fonctionnement le rend hostile envers tout sauf la cause principale du problème. Il peut lancer des flammes, tirer des éclairs d'énergie, protéger d'autres nœuds ou les ressusciter, en fonction de son élément. Il peut aussi faire apparaitre des \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] qui attaquent à vue."
         },
         "database.json/enemies/forest.bamboo-fountain/name": {
                 "orig": "Bamboo Fountain",
@@ -10101,11 +10101,11 @@
                 "text": "Paix et Tranquillité, mon ami. Le seul moyen de le vaincre et de s'asseoir et d'écouter."
         },
         "database.json/enemies/final.crystal-heat/name": {
-                "text": "Crystalide Chaud",
+                "text": "Cristalide Chaud",
                 "orig": "Heat Crystalid"
         },
         "database.json/enemies/final.crystal-heat/species": {
-                "text": "Crystal",
+                "text": "Cristal",
                 "orig": "Crystal"
         },
         "database.json/enemies/final.crystal-cold/name": {
@@ -10113,7 +10113,7 @@
                 "orig": "Cold Crystalid"
         },
         "database.json/enemies/final.crystal-cold/species": {
-                "text": "Crystal",
+                "text": "Cristal",
                 "orig": "Crystal"
         },
         "database.json/enemies/final.crystal-shock/name": {
@@ -10121,7 +10121,7 @@
                 "orig": "Shock Crystalid"
         },
         "database.json/enemies/final.crystal-shock/species": {
-                "text": "Crystal",
+                "text": "Cristal",
                 "orig": "Crystal"
         },
         "database.json/enemies/final.crystal-wave/name": {
@@ -10129,7 +10129,7 @@
                 "orig": "Wave Crystalid"
         },
         "database.json/enemies/final.crystal-wave/species": {
-                "text": "Crystal",
+                "text": "Cristal",
                 "orig": "Crystal"
         },
         "database.json/enemies/guest.firespirit/name": {
@@ -10213,7 +10213,7 @@
         },
         "database.json/enemies/special.dummy/name": {
                 "orig": "special.dummy",
-                "text": "Manequin Special"
+                "text": "Mannequin Spécial"
         },
         "database.json/enemies/special.dummy/species": {
                 "orig": "Sandbag",
@@ -10788,7 +10788,7 @@
         },
         "database.json/enemies/autumn-fall.seahorse-fall/descriptions/0/text": {
                 "orig": "Other than its orange color this seahorse has the same behavior as the \\v[combat.name.seahorse]. Its bubble volley however is both faster and contains more bubbles, which can break shields if not careful.",
-                "text": "Outre sa couleur orange, cet hippocampe possède le même comportement que le \\v[combat.name.seahorse]. Sa volée de bulles, par contre, est à la fois plus rapide et contient plus de bulles, qui peuvent briser des boucliers si vous ne faites pas attention."
+                "text": "Outre sa couleur orange, cet hippocampe possède le même comportement que la \\v[combat.name.seahorse]. Sa volée de bulles, par contre, est à la fois plus rapide et contient plus de bulles, qui peuvent briser des boucliers si vous ne faites pas attention."
         },
         "database.json/enemies/autumn-fall.seahorse-fall/descriptions/1/text": {
                 "orig": "It is said that they also mysteriously developed the ability to spit bursts of fire. This is rarely seen, though, as their respect for their environment forbids the use of this ability on the surface.",
@@ -10995,7 +10995,7 @@
         },
         "database.json/enemies/heat.drillertoise/descriptions/0/text": {
                 "orig": "Is it a stone or not? When humans first arrived in \\c[3]\\v[area.heat-area.name]\\c[0] these reptiles were hard to make out as they would burrow below ground and use their rocky back to pretend to be a stone. \nThat does not mean they don't fight! Getting too chummy with them will make them use a stomp attack or throw big stones. \nA good tactic is to look away from it and use walls to bounce your balls off and hit it as it will be above ground.",
-                "text": "Est-ce que c'est une pierre ou non ? Lorsque les humains sont arrivés pour la première fois dans la \\c[3]\\v[area.heat-area.name]\\c[0], ces reptiles étaient difficile à distinguer, car ils se terraient sous le sol et utilisaient leur dos de pierre pour prétendre être un rocher.\nCela ne veut pas dire qu'ils n'attaquent pas ! Être trop embêtant avec eux va leur faire attaquer en frappant au sol ou en lançant des grosses pierres.\nUne bonne tactique est de ne pas le regarder et d'utiliser les murs pour faire rebondir vos boules et le toucher lorsqu'il est au-dessus du sol."
+                "text": "Est-ce que c'est une pierre ou non ? Lorsque les humains sont arrivés pour la première fois dans la \\c[3]\\v[area.heat-area.name]\\c[0], ces reptiles étaient difficiles à distinguer, car ils se terraient sous le sol et utilisaient leur dos de pierre pour prétendre être un rocher.\nCela ne veut pas dire qu'ils n'attaquent pas ! Être trop embêtant avec eux va leur faire attaquer en frappant au sol ou en lançant des grosses pierres.\nUne bonne tactique est de ne pas le regarder et d'utiliser les murs pour faire rebondir vos boules et le toucher lorsqu'il est au-dessus du sol."
         },
         "database.json/enemies/heat.special.drillertoise-quest-heatAdv-1/name": {
                 "orig": "Chillertoise",
@@ -11158,7 +11158,7 @@
                 "orig": "Mammal"
         },
         "database.json/enemies/jungle.special.shockat-capture/descriptions/0/text": {
-                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénaires violets.  Ils sont connus pour être encore plus puissants et pour leur production d'énergie éléctrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existance a été découverte par un Shad intélligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !",
+                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénères violets. Ils sont connus pour être encore plus puissants et pour leur production d'énergie électrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existence a été découverte par un Shad intelligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !",
                 "orig": "This yellow variant of the common \\v[combat.name.jungle/shockcat] usually lives in more remote places than their purple counterparts. They are known for having an even stronger and also more consistent output of electricity which makes them very useful for powering devices!\n\nConveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!"
         },
         "database.json/enemies/jungle.special.quest_td_shockcat_2/name": {
@@ -11296,7 +11296,7 @@
         },
         "database.json/enemies/jungle.fish-gear/name": {
                 "orig": "Leggy Angler",
-                "text": "Beaudroie Sur Pied"
+                "text": "Baudroie Sur Pied"
         },
         "database.json/enemies/jungle.fish-gear/species": {
                 "orig": "Running Fish",
@@ -11432,7 +11432,7 @@
         },
         "database.json/enemies/arid.snail/descriptions/0/text": {
                 "orig": "A huge snail with an enormous amount of HP. It's slow but it can use its huge body to jump on top of you or spin around the arena leaving an icy trail. It will also spit out slugs that move towards its enemy and explode. Attack its tail to stun it and attack. \nHowever, this will not even leave a scratch. You need something better to have a chance at draining its HP pool.",
-                "text": "Un énorme escargot avec une quantité énorme d'HPs. Il est lent mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans l'arène en laissant une trainée de glace. Il va aussi cracher des limaces qui se dirigeront vers leur ennemi pour exploser. Attaquez sa queue pour l'étourdir et l'affaiblir.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous aurrez besoin de quelque chose de mieux pour espérer drainer sa quantité d'HP."
+                "text": "Un énorme escargot avec une quantité énorme d'HPs. Il est lent mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans l'arène en laissant une trainée de glace. Il va aussi cracher des limaces qui se dirigeront vers leur ennemi pour exploser. Attaquez sa queue pour l'étourdir et l'affaiblir.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous aurez besoin de quelque chose de mieux pour espérer drainer sa quantité d'HP."
         },
         "database.json/enemies/guest.honeybear/name": {
                 "text": "Ours de Miel",
@@ -11452,7 +11452,7 @@
                 "orig": "Silent Sniper"
         },
         "database.json/enemies/final.colibri/descriptions/0/text": {
-                "text": "Armé d'une bouche qui sert aussi de fusil sniper, cet oiseau ne fait pas dans la demi-mesure. Il peut en une fraction de seconde réagir à tous mouvement et éviter tous les projectiles. Mais un tir de son bec et une ésquive lui demande beaucoup d'énergie, ce qui le rend vulnérable pour une contre-attaque.",
+                "text": "Armé d'une bouche qui sert aussi de fusil sniper, cet oiseau ne fait pas dans la demi-mesure. Il peut en une fraction de seconde réagir à tout mouvement et éviter tous les projectiles. Mais un tir de son bec et une esquive lui demande beaucoup d'énergie, ce qui le rend vulnérable pour une contre-attaque.",
                 "orig": "Armed with a mouth that doubles as a sniper gun, this bird does not mess around. It can react to any movement in a split second and will dodge all incoming fire. However a shot from its beak and a dodge takes a lot of energy leaving it open for a counter attack."
         },
         "database.json/enemies/frobbit-miniboss-gallant/name": {
@@ -11709,7 +11709,7 @@
         },
         "database.json/enemies/boss-test/descriptions/0/text": {
                 "orig": "A mechanical crab summoned by the mysterious blue avatar. Its stats conveniently match yours and its attack gets more ferocious the more damage you deal. When it charges up for a big jump it will get stunned on the last dive revealing the weak point on its back: a shiny crystal!",
-                "text": "Un crabe mécanique invoqué par le mystérieux avatar bleu. Ses attributs correspondent aux vôtres (pratique !) et son attaque devient plus féroce au fur et a mesure que vous lui faites des dégâts. Lorsqu'il charge pour faire un grand saut, il s'étourdira lors du dernier plongeon et révèlera son point faible sur son dos : un cristal brillant !"
+                "text": "Un crabe mécanique invoqué par le mystérieux avatar bleu. Ses attributs correspondent aux vôtres (pratique !) et son attaque devient plus féroce au fur et à mesure que vous lui faites des dégâts. Lorsqu'il charge pour faire un grand saut, il s'étourdira lors du dernier plongeon et révèlera son point faible sur son dos : un cristal brillant !"
         },
         "database.json/enemies/simple-bot/name": {
                 "orig": "Rhombus Enforcer 1.0",
@@ -12121,7 +12121,8 @@
                 "orig": "Guardian Statue"
         },
         "database.json/enemies/final.guardian/species": {
-                "text": "Immitation de Décoration",
+                "text": "Imitation de Décoration",
+                "quality": "unknown",
                 "orig": "Wild Decoration"
         },
         "database.json/enemies/arid.element-turret-boss/name": {
@@ -12201,7 +12202,7 @@
                 "orig": "Pincerpole"
         },
         "database.json/enemies/minibosses.scorpion-boss-pole/species": {
-                "text": "Pole de Scorpion",
+                "text": "Pôle de Scorpion",
                 "orig": "Pole of Scorpion"
         },
         "database.json/enemies/arid.element-turret/name": {
@@ -12518,7 +12519,7 @@
                 "orig": "Machinery"
         },
         "database.json/enemies/final.ele-pillar-cold-old/name": {
-                "text": "Ancien Pillier Élémentaire Final Froid",
+                "text": "Ancien Pilier Élémentaire Final Froid",
                 "orig": "final.ele-pillar-cold-old"
         },
         "database.json/enemies/final.ele-pillar-cold-old/species": {
@@ -12657,7 +12658,7 @@
         },
         "database.json/lore/chapter-03/content/page-02-01/content": {
                 "orig": "After receiving permission to leave the town with the \\c[3]Green Leaf Shade\\c[0] and the option to consult the \\c[3]very informative lore-texts\\c[0] at any time, Lea and Emilie went outside to join up with Schneider again. The group then traveled to the town's exit, after which Schneider had to leave the two rookies because of his guild-duties. Thus, Emilie and Lea \\c[3]formed a party\\c[0] and took their first steps into CrossWorlds together.",
-                "text": "Après avoir reçu l'autorisation de partir de la ville à travers le \\c[3]Symbole de Feuille Verte\\c[0] et la possibilité de consulter les \\c[3]textes de folklore très informatifs\\c[0] à n'importe quel moment, Lea et Emilie sont sortis dehors pour retrouver Scheinder. Le groupe a ensuite voyagé vers la sortie de la ville, après quoi Schneider a dû quitter les deux nouvelles à cause de son devoir de guilde. Et donc, Emilie et Lea \\c[3]formèrent un groupe\\c[0] et firent leurs premiers pas à CrossWorlds toutes les deux."
+                "text": "Après avoir reçu l'autorisation de partir de la ville à travers le \\c[3]Symbole de Feuille Verte\\c[0] et la possibilité de consulter les \\c[3]textes de folklore très informatifs\\c[0] à n'importe quel moment, Lea et Emilie sont sortis dehors pour retrouver Schneider. Le groupe a ensuite voyagé vers la sortie de la ville, après quoi Schneider a dû quitter les deux nouvelles à cause de son devoir de guilde. Et donc, Emilie et Lea \\c[3]formèrent un groupe\\c[0] et firent leurs premiers pas à CrossWorlds toutes les deux."
         },
         "database.json/lore/chapter-03/content/page-03-01/content": {
                 "orig": "Lea and Emilie started their exploration of CrossWorlds by travelling through \\c[3]\\v[area.autumn-area.name]\\c[0] and interacting with the local wildlife. Shortly after they began exploring, they were reunited with the honorable player Apollo, who challenged Lea to a PvP duel, in honor of the \\c[3]Spheromancer\\c[0]-class. Before he left, Apollo told Lea to meet him at the entrance of \\c[3]\\v[area.bergen-trails.name]\\c[0].",
@@ -12685,7 +12686,7 @@
         },
         "database.json/lore/chapter-04/content/page-03-01/content": {
                 "orig": "Emilie and Lea returned to \\v[area.bergen.name] to finally visit the \\v[area.cold-dng.name], learn more about the Ancients and progress in the game. The \\c[3]instanced system\\c[0] of Dungeons prevented them from solving the dungeon together, so Emilie once again decided to turn it into a \\c[3]race\\c[0]. Thus, armed with additional motivation and the warmth of friendship, the two players entered the icy mine.",
-                "text": "Emile et Lea retournèrent au \\v[area.bergen.name] pour enfin visiter le \\v[area.cold-dng.name], en apprendre plus sur les Anciens et progresser dans le jeu. Le \\c[3]système d'instances\\c[0] des donjons les empêchaient de parcourir le donjon ensemble, donc Emilie, encore une fois, décida de le transformer en une \\c[3]course\\c[0]. Et donc, armés de motivation supplémentaire et de la chaleur de leur amitié, les deux joueurs entrèrent dans la mine de glace."
+                "text": "Emilie et Lea retournèrent au \\v[area.bergen.name] pour enfin visiter le \\v[area.cold-dng.name], en apprendre plus sur les Anciens et progresser dans le jeu. Le \\c[3]système d'instances\\c[0] des donjons les empêchaient de parcourir le donjon ensemble, donc Emilie, encore une fois, décida de le transformer en une \\c[3]course\\c[0]. Et donc, armés de motivation supplémentaire et de la chaleur de leur amitié, les deux joueurs entrèrent dans la mine de glace."
         },
         "database.json/lore/chapter-04/content/page-03-02/content": {
                 "orig": "For all its insects, machines, puzzles and insidious icy floors, in the end, the mine was no match for the two heroines. With the newly found \\c[3]Heat-element\\c[0] they were able to defeat their ferocious frosty foes and even the menacing mining machine at the end. As their reward (both the key to the next area and their needed information) awaited, so they returned to the First Scholars.",
@@ -13031,7 +13032,7 @@
         },
         "database.json/lore/chapter-10/content/page-10/content": {
                 "orig": "After accomplishing their goal, Lea \\c[3]returned to the others\\c[0] and told them what happened. While everyone was glad that the plan succeeded, Shizuka was mourning the death of her old friend Gautham, despite of how deranged he had become. \nWith \\c[3]the situation solved\\c[0], it was time for Sergey to now \\c[3]contact Instatainment\\c[0] and fully explain everything. However, for this to happen, \\c[3]Lea had to leave the game indefinitely\\c[0]. So everyone decided to \\c[3]play the game together with Lea one last time\\c[0], before saying goodbye. And thus Lea and her friends traveled to all the locations of \\v[lore.title.cross-worlds] they shared their adventures in. Then, in the end, they met again at the \\v[area.hideout.name] to have a \\c[3]heartfelt goodbye\\c[0] with \\c[3]lots of hugs\\c[0].\nAfterwards Lea \\c[3]logged out for the final time\\c[0], leaving her fate in Sergey's hands.",
-                "text": "Après avoir accompli leur but, Lea \\c[3]retrouva les autres\\c[0] et leur raconta ce qui s'était passé. Alors que tous étaient heureux que le plan réussisse, Shizuka déplora la mort de son ancien ami Gautham, malgré à quel point la folie l'avait atteint.\nLe \\c[3]problème étant résolu\\c[0], le temps était venu pour Sergey de \\c[3]contacter Instatainment\\c[0] et de tout leur expliquer. Mais, pour que ça puisse arriver, \\c[3]Lea devait quitter le jeu pendant un temps indéterminé\\c[0]. Donc tout le monde décida de \\c[3]jouer au jeu une dernière fois avec Lea\\c[0], avant de se dire au revoir. Et donc Lea et ses amis voyagèrent vers tous les lieux de \\v[lore.title.cross-worlds] où ils vécurent des aventures ensembles. Et, après cela, ils se rencontrèrent à nouveau à la \\v[area.hideout.name] pour leur faire des \\c[3]adieux attendrissants\\c[0] avec \\c[3]pleins de câlins\\c[0].\nAprès cela, Lea se \\c[3]déconnecta une dernière fois\\c[0], en laissant son destin entre les mains de Sergey."
+                "text": "Après avoir accompli leur but, Lea \\c[3]retrouva les autres\\c[0] et leur raconta ce qui s'était passé. Alors que tous étaient heureux que le plan réussisse, Shizuka déplora la mort de son ancien ami Gautham, malgré à quel point la folie l'avait atteint.\nLe \\c[3]problème étant résolu\\c[0], le temps était venu pour Sergey de \\c[3]contacter Instatainment\\c[0] et de tout leur expliquer. Mais, pour que ça puisse arriver, \\c[3]Lea devait quitter le jeu pendant un temps indéterminé\\c[0]. Donc tout le monde décida de \\c[3]jouer au jeu une dernière fois avec Lea\\c[0], avant de se dire au revoir. Et donc Lea et ses amis voyagèrent vers tous les lieux de \\v[lore.title.cross-worlds] où ils vécurent des aventures ensembles. Et, après cela, ils se rencontrèrent à nouveau à la \\v[area.hideout.name] pour leur faire des \\c[3]adieux attendrissants\\c[0] avec \\c[3]plein de câlins\\c[0].\nAprès cela, Lea se \\c[3]déconnecta une dernière fois\\c[0], en laissant son destin entre les mains de Sergey."
         },
         "database.json/lore/chapter-10/content/page-11/content": {
                 "orig": "\\c[3]In the following time\\c[0] Sergey worked tirelessly to try and convince his employer, \\v[lore.title.dev-company], to allow the Evotar project to continue in an official manner and giving the Evotars a way to live. \\c[3]Several months after Lea logged out\\c[0], he was finally able to inform the guild about the \\c[3]situation of their absent friend\\c[0] and the \\c[3]fate of the Evotars\\c[0] as a whole. ",
@@ -13119,7 +13120,7 @@
         },
         "database.json/lore/sidwell/content/page-01-01/content": {
                 "orig": "\\c[3]Name:\\c[0] Benedict Sidwell\nSidwell is an eccentric businessman with a cold and calculating personality. He is the one who financed the evotar research and the one who provided \\c[3]\\v[area.arid.name]\\c[0] for Satoshi, Shizuka and Gautham. Other than that, not much is known about him.",
-                "text": "\\c[3]Nom :\\c[0] Benedict Sidwell\nSidwell est un homme d'affaires excentrique avec une personnalité froide et calculatrice. C'est lui qui a financé la recherche sur les évotars et qui a fourni \\c[3]\\v[area.arid.name]\\c[0] pour Satoshi, Shizuka et Gautham. À par cela, on ne connait rien d'autre de lui."
+                "text": "\\c[3]Nom :\\c[0] Benedict Sidwell\nSidwell est un homme d'affaires excentrique avec une personnalité froide et calculatrice. C'est lui qui a financé la recherche sur les évotars et qui a fourni \\c[3]\\v[area.arid.name]\\c[0] pour Satoshi, Shizuka et Gautham. À part cela, on ne connait rien d'autre de lui."
         },
         "database.json/lore/emilie/title": {
                 "orig": "Emilienator",
@@ -13420,7 +13421,7 @@
         },
         "database.json/lore/godstories-enel/content/page-02/content": {
                 "orig": "At first the world was dark. Hence, \\c[3]Di'orbis\\c[0] and \\c[3]E'nel\\c[0] created the first sun to spend light. Yet at night, when the sun was hidden, the world was as dark as ever. \\c[3]E'nel\\c[0] wanted to place many more suns closeby, creating a world of constant brightness. Yet this world was monotonous, lacking dusk, dawn and the coolness of the night.",
-                "text": "Au commencement le monde était sombre. Donc \\c[3]Di'orbis\\c[0] et \\c[3]E'nel\\c[0] créèrent le premier soleil pour répandre la lumière sur le monde. Mais la nuit, lorsque le soleil était caché, le monde était aussi sombre que possible. \\c[3]E'nel\\c[0] voulait placer bien plus de soleils côtes à côtes, pour créer un monde de lumière incessante. Mais ce monde était monotone, sans aube ni crépuscule et sans la fraicheur de la nuit."
+                "text": "Au commencement le monde était sombre. Donc \\c[3]Di'orbis\\c[0] et \\c[3]E'nel\\c[0] créèrent le premier soleil pour répandre la lumière sur le monde. Mais la nuit, lorsque le soleil était caché, le monde était aussi sombre que possible. \\c[3]E'nel\\c[0] voulait placer bien plus de soleils côte à côte, pour créer un monde de lumière incessante. Mais ce monde était monotone, sans aube ni crépuscule et sans la fraicheur de la nuit."
         },
         "database.json/lore/godstories-enel/content/page-03/content": {
                 "orig": "The two gods then had a new idea. They were creating millions and millions of new suns far far away in all directions. Thanks to \\c[3]E'nel\\c[0] and \\c[3]Di'orbis\\c[0]' effort we can today enjoy the night with a beautiful starry sky. Not only are the stars beautiful, \\c[3]Di'orbis\\c[0] placed them in particular to stir our curiosity for other worlds out there.",
@@ -13444,7 +13445,7 @@
         },
         "database.json/lore/godstories-kwin/content/page-03/content": {
                 "orig": "As K'win watched those boring, calm waters, she had an idea. She created light winds flying over the ocean, creating an abundance of dancing waves on its surface. At first G'oni did not like this change, as he preferred his waters calm and quiet. But as he saw creatures playing with the waves and using the winds to travel across the oceans, he reluctantly agreed to keep it. ",
-                "text": "Alors que K'win observait ces eaux calmes ennuyeuses, elle eut une idée. Elle créa des vents doux sur les océans, pour créer des abondances d'ondes dansantes sur sa surface. Au départ, G'oni n'appréciait pas ce changement, et préférait ses eaux calmes et tranquilles. Mais lorsqu'il a ensuite vu des créatures jouer avec les vagues et utiliser le vent pour traverser les océans. Il prit sur lui-même et accepta à contre cœur."
+                "text": "Alors que K'win observait ces eaux calmes ennuyeuses, elle eut une idée. Elle créa des vents doux sur les océans, pour créer des abondances d'ondes dansantes sur sa surface. Au départ, G'oni n'appréciait pas ce changement, et préférait ses eaux calmes et tranquilles. Mais lorsqu'il a ensuite vu des créatures jouer avec les vagues et utiliser le vent pour traverser les océans. Il prit sur lui-même et accepta à contrecœur."
         },
         "database.json/lore/godstories-kwin/content/page-04/content": {
                 "orig": "This made K'win very enthusiastic and so she decided to create stronger and stronger winds, making the waves go higher and higher. This led to the most fearsome storms and tidal waves, flooding vast amounts of land. G'oni quickly interfered. K'win understood that she made a terrible mistake. To make it up to her twin-brother, she created many creatures to live deep within the waters.",
@@ -13704,7 +13705,7 @@
         },
         "database.json/lore/heat-village/content/page-01-02/content": {
                 "orig": "Other than that, they live off what \\c[3]Maroon Valley\\c[0] offers them. Water from cacti, meat from \\c[3]\\v[combat.name.heat/volturbine]s\\c[0], and plants from the oasis. The Shad try to live a life close to nature and most technology found in Ba'kii Kum is a product of the humans' relationship with them or broken parts left behind by the \\c[3]Track of the Ancients\\c[0].",
-                "text": "Mis à par cela, ils vivent avec tout ce dont la \\c[3]\\v[area.heat-area.name]\\c[0] peuvent leur offrir. De l'eau des cactus, de la viande de \\c[3]\\v[combat.name.heat/volturbine]\\c[0] et des plantes de l'oasis. Les Shads tentent de vivre près de la nature et la plupart des technologies que l'on trouve à Ba'kii Kum sont le résultat de leurs relations avec les humains ou des reliques brisées laissé par le \\c[3]Tracé des Anciens\\c[0]."
+                "text": "Mis à part cela, ils vivent avec tout ce dont la \\c[3]\\v[area.heat-area.name]\\c[0] peuvent leur offrir. De l'eau des cactus, de la viande de \\c[3]\\v[combat.name.heat/volturbine]\\c[0] et des plantes de l'oasis. Les Shads tentent de vivre près de la nature et la plupart des technologies que l'on trouve à Ba'kii Kum sont le résultat de leurs relations avec les humains ou des reliques brisées laissé par le \\c[3]Tracé des Anciens\\c[0]."
         },
         "database.json/lore/heat-village/content/page-02-01/content": {
                 "orig": "Originally the Shad did not understand the concept of \\c[3]Electricity\\c[0]. Instead they used devices scrambled together from broken parts found in Maroon Valley. Humans introduced them to the concept of solar energy, making more efficient use of their resources. Being a curious race, the Shad then quickly adapted their lifestyle and added a \\c[3]Solar Farm\\c[0] right outside the main village.\nWith the human arrival also came the trend of Shad to go outside the village itself. This is why in rare cases one might find a Shad wandering areas you normally wouldn't find them.",
@@ -13793,7 +13794,7 @@
         },
         "database.json/lore/forest/content/page-01-01/content": {
                 "orig": "Sapphire Ridge is a system of hills located to the east of Shadoon. It's covered in eternal night by a strange weather phenomenon that is currently researched by the \\c[3]United Voyager Nation\\c[0]. Many years ago miners carved deep into the hills to unearth the valuable \\c[3]Cobalt Ore\\c[0]. Although not much was found, the miners uncovered many hidden paths that lead to the north of the area. Otherwise Sapphire Ridge is rather rural as most paths lead through the cave-systems up \\c[3]Ascension Temple\\c[0].",
-                "text": "La \\v[area.forest.name] est un système de collines situé à l'est de Shadoon. Elle est couverte d'une nuit éternelle par un phénomène métrologique étrange qui est activement étudié par les \\c[3]\\v[lore.title.human-government]\\c[0]. Il y a des années, des mineurs creusaient profondément dans les mines pour extraire le précieux \\c[3]Minerai de Cobalt\\c[0]. Bien qu'ils ne trouvèrent pas grand-chose, les mineurs découvrirent plusieurs chemins qui menaient au nord de la région. Sinon, la \\v[area.forest.name] est une zone assez rurale et la plupart des chemins mènent au \\c[3]Temple de l'Ascension\\c[0]."
+                "text": "La \\v[area.forest.name] est un système de collines situé à l'est de Shadoon. Elle est couverte d'une nuit éternelle par un phénomène métrologique étrange qui est activement étudié par les \\c[3]\\v[lore.title.human-government]\\c[0]. Il y a des années, des mineurs creusaient profondément dans les mines pour extraire le précieux \\c[3]Minerai de Cobalt\\c[0]. Bien que ne trouvant pas grand-chose, les mineurs découvrirent plusieurs chemins qui menaient au nord de la région. Sinon, la \\v[area.forest.name] est une zone assez rurale et la plupart des chemins mènent au \\c[3]Temple de l'Ascension\\c[0]."
         },
         "database.json/lore/forest/content/p2/content": {
                 "orig": "The south houses a hostel called the \\c[3]Cave Inn\\c[0], which counts among the oldest structures build by humans on Shadoon.",
@@ -13813,7 +13814,7 @@
         },
         "database.json/lore/factions/content/page-01-01/content": {
                 "orig": "Factions are groups of humans who work together to secure the survival and further advancement of humanity on \\c[3]\\v[lore.title.planet]\\c[0].\nMost humans are part of one of 4 large factions with different fields of duties and core philosophies, each divided into regional subdivisions:\n- \\c[3]Venture Alliance (VA)\\c[0]\n- \\c[3]Human Preservation Department (HPD)\\c[0]\n- \\c[3]Association of Human Advancement (AHA)\\c[0]\n- \\c[3]Amity of Balance (AoB)\\c[0]\n\nWhile the factions are filled with highly resourceful experts of their field, they often need the support of the \\c[3]\\v[lore.title.seeker]s\\c[0] because of their special connection to the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
-                "text": "Les factions sont des groupes d'humains qui travaillent ensemble pour assurer la survie et l'avancement de l'humanité sur \\c[3]\\v[lore.title.planet]\\c[0].\nLa plupart des humains font partie d'une des 4 factions avec différents domaines de travail et de philosophie associée, chacune étant divisé en sous-divisions régionales :\n- \\c[3]\\v[lore.title.faction-heat-main] (VA)\\c[0]\n- \\c[3]\\v[lore.title.faction-cold-main] (DSH)\\c[0]\n- \\c[3]Association du Développement Humain (ADH)\\c[0]\n- \\c[3]\\v[lore.title.faction-wave-main] (AdE)\\c[0]\n\nAlors que les factions sont remplies d'experts hautement qualifiés dans leurs domaines, ils ont souvent besoin du soutien des \\c[3]\\v[lore.title.seeker]s\\c[0] à cause de leur connexion spéciale au \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
+                "text": "Les factions sont des groupes d'humains qui travaillent ensemble pour assurer la survie et l'avancement de l'humanité sur \\c[3]\\v[lore.title.planet]\\c[0].\nLa plupart des humains font partie d'une des 4 factions avec différents domaines de travail et de philosophie associée, chacune étant divisée en sous-divisions régionales :\n- \\c[3]\\v[lore.title.faction-heat-main] (VA)\\c[0]\n- \\c[3]\\v[lore.title.faction-cold-main] (DSH)\\c[0]\n- \\c[3]Association du Développement Humain (ADH)\\c[0]\n- \\c[3]\\v[lore.title.faction-wave-main] (AdE)\\c[0]\n\nAlors que les factions sont remplies d'experts hautement qualifiés dans leurs domaines, ils ont souvent besoin du soutien des \\c[3]\\v[lore.title.seeker]s\\c[0] à cause de leur connexion spéciale au \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
                 "note": "faction-shock-main is abbreviated (too long), expanded here."
         },
         "database.json/lore/faction-heat-main/title": {
@@ -13850,7 +13851,7 @@
         },
         "database.json/lore/faction-heat-rookieharbor/content/page-01-02/content": {
                 "orig": "The Falldivers are currently under the command of \\c[3]Elenya Volkewsky\\c[0], who holds the title of \\c[3]Forerunner\\c[0]. It should be noted, however, that the command structures in this Faction are very flexible.",
-                "text": "Les \\v[lore.title.faction-heat-rookieharbor] sont actuellement sous le commandement de \\c[3]Elenya Volkewsky\\c[0], qui possède le titre de \\c[3]Chef Pionnière\\c[0]. Il faut noter, par contre, que la structure de commandement dans cette faction est très flexible."
+                "text": "Les \\v[lore.title.faction-heat-rookieharbor] sont actuellement sous le commandement de \\c[3]Elenya Volkewsky\\c[0], qui possède le titre de \\c[3]Cheffe Pionnière\\c[0]. Il faut noter, par contre, que la structure de commandement dans cette faction est très flexible."
         },
         "database.json/lore/faction-heat-bergen/title": {
                 "orig": "Bergen Digging Mates",
@@ -13963,7 +13964,7 @@
         },
         "database.json/lore/faction-shock-main/title": {
                 "orig": "Assoc. of Human Advancement",
-                "text": "Assoc. du Développement Humain."
+                "text": "Assoc. du Développement Humain"
         },
         "database.json/lore/faction-shock-main/content/page-01-01/content": {
                 "orig": "The \\c[3]Association of Human Advancement (AHA)\\c[0] is a faction mainly responsible for trade, manufacturing and scientific research.\n",
@@ -14123,7 +14124,7 @@
                 "text": "Le \\c[3]CrossCode\\c[0] est la partie centrale du \\c[3]module de contrôle d'avatar\\c[0] qui fut développé par \\c[3]Satoshi\\c[0]. En utilisant un réseau neuronal analysant les oscillations des neurones du joueur, il permet de contrôler un avatar comme si c'était son propre corps."
         },
         "database.json/lore/cross-code/content/page-02/content": {
-                "text": "Mais, le CrossCode allait plus loin que juste analyser les pensées des joueurs pour contrôler les avatars. En utilisant le même réseau neuronal comme fondation, il était possible d'entièrement simuler les caractéristiques du cerveau. La perception, la pensée logique, les émotions et même la mémoire. Cela signifiait que le CrossCode \\c[3]évolua en une IA entièrement fonctionelle\\c[0]. Lorsqu'elle fonctionne sur un Avatar, on appelait cela un \\c[3]Évotar\\c[0].",
+                "text": "Mais, le CrossCode allait plus loin que juste analyser les pensées des joueurs pour contrôler les avatars. En utilisant le même réseau neuronal comme fondation, il était possible d'entièrement simuler les caractéristiques du cerveau. La perception, la pensée logique, les émotions et même la mémoire. Cela signifiait que le CrossCode \\c[3]évolua en une IA entièrement fonctionnelle\\c[0]. Lorsqu'elle fonctionne sur un Avatar, on appelait cela un \\c[3]Évotar\\c[0].",
                 "orig": "However, the CrossCode went beyond just analyzing players' thoughts to control avatars. Using the same neural network as a foundation, it is possible to entirely simulate features of the brain. Perception, logical thinking, emotions and even memories. This means the CrossCode \\c[3]evolved into a fully fledged A.I.\\c[0]. Running this on an Avatar is what was called an \\c[3]Evotar\\c[0]. \n"
         },
         "database.json/lore/cross-code-2/title": {
@@ -14321,7 +14322,7 @@
         },
         "database.json/lore/solar-fist/content/p1/content": {
                 "orig": "A bazooka-like weapon used by \\c[3]\\v[lore.title.cap-jet]\\c[0] to prevent the \\c[3]\\v[lore.title.designer]\\c[0] from taking Lea. \nIt seems to be capable of disrupting \\c[3]\\v[lore.title.instant-matter]\\c[0] temporarily.",
-                "text": "Une arme ressemblant à un Bazooka utilisée par le \\c[3]\\v[lore.title.cap-jet]\\c[0] pour empêcher l'\\c[3]\\v[lore.title.designer]\\c[0] de capturer Lea.\nIl semble être capable de perturber temporairement l'\\c[3]\\v[lore.title.instant-matter]\\c[0]."
+                "text": "Une arme ressemblant à un Bazooka, utilisée par le \\c[3]\\v[lore.title.cap-jet]\\c[0] pour empêcher l'\\c[3]\\v[lore.title.designer]\\c[0] de capturer Lea.\nIl semble être capable de perturber temporairement l'\\c[3]\\v[lore.title.instant-matter]\\c[0]."
         },
         "database.json/lore/insta-matter-bomb/title": {
                 "orig": "IMF-Neutralizer",
@@ -14374,7 +14375,7 @@
         },
         "database.json/lore/log-2/content/page-01/content": {
                 "orig": "\\c[2]Log Entry #020 - Expedition to Sector SOS-03\\c[0]\n\nIt has been roughly 3 weeks and we finally made it into \\c[3]Sector SOS-03\\c[0]. It's crazy to think that this is uncharted when 1000 years ago the colonies waged the largest war humankind has seen here. We're just outside the \\c[3]Orion Spur\\c[0] and it looks bad. You can see dead ships everywhere. It kinda gives me the creeps. All the lives lost in this battle? All over resources? It must have been pretty dark. History books don't do justice to the damage that has been done here.",
-                "text": "\\c[2]Entrée de Journal n°020 - Expédition vers le Secteur SOS-03\\c[0]\n\nCela va faire en gros 3 semaines et on a finalement atteint le \\c[3]Secteur SOS-03\\c[0]. C'est fou de penser que cet endroit est inexploré alors que 1000 ans plus tôt, les colonies s'y font fait la plus grande guerre que l'humanité n'ait jamais vue. Nous sommes juste en dehors du \\c[3]Bras d'Orion\\c[0] et ce n'est pas beau à voir. On y voit des ruines de vaisseaux partout. Ça donne vraiment les jetons. Toutes les vies qui ont été perdues dans cette bataille. Tout ça pour des ressources ? Les temps devaient être bien sombres. Les livres d'histoires ne parlent pas assez de tous les dégâts qui ont été causés ici."
+                "text": "\\c[2]Entrée de Journal n°020 - Expédition vers le Secteur SOS-03\\c[0]\n\nCela va faire en gros 3 semaines et on a finalement atteint le \\c[3]Secteur SOS-03\\c[0]. C'est fou de penser que cet endroit est inexploré alors que 1000 ans plus tôt, les colonies s'y font faites la plus grande guerre que l'humanité n'ait jamais vue. Nous sommes juste en dehors du \\c[3]Bras d'Orion\\c[0] et ce n'est pas beau à voir. On y voit des ruines de vaisseaux partout. Ça donne vraiment les jetons. Toutes les vies qui ont été perdues dans cette bataille. Tout ça pour des ressources ? Les temps devaient être bien sombres. Les livres d'histoires ne parlent pas assez de tous les dégâts qui ont été causés ici."
         },
         "database.json/lore/log-3/title": {
                 "orig": "Log Entry #042",
@@ -14403,7 +14404,7 @@
         },
         "database.json/lore/log-5/content/page-02-quote/content": {
                 "orig": "\\c[3]WH3RE...§$$.al\nl....began.. ..Planet.\n.A&$)HN....W3..()%)(§J\nFF§....Move....§§% %%\"/H.....Sin\ngularity.immin3nt...ON LY.....§\n%/(%HF...our....H 0m3....(§%HF.\n...PRotect....HU..../&%)(/%\\c[0]",
-                "text": "\\c[3]LÀ...§$$.t0u\nt....commenc3.. ..Planête.\n.A&$)HN....W3..()%)(§J\nFF§....Partir....§§% %%\"/H.....Sin\ngularité.immin3nt...SE UL.....§\n%/(%HF...notre....M\n41son....(§HF\n....PR0tég....HU.../&%)(%\\c[0]"
+                "text": "\\c[3]LÀ...§$$.t0u\nt....commenc3.. ..Planète.\n.A&$)HN....W3..()%)(§J\nFF§....Partir....§§% %%\"/H.....Sin\ngularité.immin3nt...SE UL.....§\n%/(%HF...notre....M\n41son....(§HF\n....PR0tég....HU.../&%)(%\\c[0]"
         },
         "database.json/lore/log-5/content/page-03/content": {
                 "orig": "Where it all began? Some Planet they called home? No wonder the seniors are all so interested in this. Are we close to finding a new inhabitable planet? In \\c[3]Old War\\c[0] territory? But what is this about a Singularity? I can't imagine them talking about a real one, that would be insane. But a new planet? After this message there's bound to be more expeditions into this \\c[3]SOS-Sector\\c[0].",
@@ -15767,7 +15768,7 @@
         },
         "database.json/quests/daft-frobbit/tasks/4/task": {
                 "orig": "Go catch up with that jumping bastard around \\c[3]Great Lake\\c[0]",
-                "text": "Attrapez cette andouille sautante autour du \\c[3]Grand Lac\\c[0]"
+                "text": "Attrapez cette andouille sauteuse autour du \\c[3]Grand Lac\\c[0]"
         },
         "database.json/quests/daft-frobbit/tasks/5/task": {
                 "orig": "Got that furry mischief maker. Finally. Go get your reward from the statue in \\c[3]Ancient Center\\c[0]",
@@ -16134,7 +16135,7 @@
         },
         "database.json/quests/holiday-man/tasks/6/task": {
                 "orig": "Return to \\c[3]Holiday Man\\c[0] in \\c[3]\\v[area.bergen.name]\\c[0] again ",
-                "text": "Revenez parlez à l'\\c[3]Homme Vacances\\c[0] dans le \\c[3]\\v[area.bergen.name]\\c[0]"
+                "text": "Revenez parler à l'\\c[3]Homme Vacances\\c[0] dans le \\c[3]\\v[area.bergen.name]\\c[0]"
         },
         "database.json/quests/miners-1-dirtbunnies/hubSettings/location": {
                 "orig": "There has been an incident involving Frobbits and mining equipment. \\c[3]- Bergen Digging Mates HQ\\c[0]",
@@ -16227,7 +16228,7 @@
         },
         "database.json/quests/miners-2-mine_challenge-1/description": {
                 "orig": "Though the area has been cleared, the miner \\c[3]Darrel\\c[0] is worried that the \\c[3]\\v[combat.name.cold/coldbug-quest-bombing-1]s\\c[0] might return. He thus suggested some preemptive measures.",
-                "text": "Bien que l'endroit ai été nettoyé, le mineur \\c[3]Darrel\\c[0] craint que les \\c[3]\\v[combat.name.cold/coldbug-quest-bombing-1]s\\c[0] puisse revenir. Il suggère des mesures préventives."
+                "text": "Bien que l'endroit ait été nettoyé, le mineur \\c[3]Darrel\\c[0] craint que les \\c[3]\\v[combat.name.cold/coldbug-quest-bombing-1]s\\c[0] puisse revenir. Il suggère des mesures préventives."
         },
         "database.json/quests/miners-2-mine_challenge-1/briefing": {
                 "orig": "Though lots of bugs were blasted, their numbers seem endless. Repetition of the the process will always be an option.",
@@ -16347,7 +16348,7 @@
                 "text": "Sergent Sterling"
         },
         "database.json/quests/bg-3-goat_final/description": {
-                "text": "Après un long moment de quietude, il y a eu ces derniers temps des activités étranges du côté des boucs intelligents du \\v[area.bergen-trails.name]. Vous devriez inspecter leur antre encore une fois !",
+                "text": "Après un long moment de quiétude, il y a eu ces derniers temps des activités étranges du côté des boucs intelligents du \\v[area.bergen-trails.name]. Vous devriez inspecter leur antre encore une fois !",
                 "orig": "After a long time of quiet there have been curious activities with the intelligent goats in \\v[area.bergen-trails.name] lately. You should investigate their lair again!"
         },
         "database.json/quests/bg-3-goat_final/briefing": {
@@ -16480,7 +16481,7 @@
         },
         "database.json/quests/monks-1-jump_challenge/hubSettings/location": {
                 "orig": "Wisdom can be gained through discipline. Let us guide you! \\c[3]- Bergen Monastery\\c[0]",
-                "text": "La sagesse peut s'obtenir par la discipline. Laissez-nous vous guidez ! \\c[3]- Monastère\\c[0]"
+                "text": "La sagesse peut s'obtenir par la discipline. Laissez-nous vous guider ! \\c[3]- Monastère\\c[0]"
         },
         "database.json/quests/monks-1-jump_challenge/name": {
                 "orig": "Trial of Aspiration",
@@ -16568,7 +16569,7 @@
                 "orig": "The \\c[3]Ascension Spirits\\c[0] have given you a final trial to perfect your connection with the Track. The most challenging of caves awaits you!"
         },
         "database.json/quests/monks-3-jump_challenge_3/briefing": {
-                "text": "Vous avez battu la dernière grotte et vous avez atteins la véritable maitrise !",
+                "text": "Vous avez battu la dernière grotte et vous avez atteint la véritable maitrise !",
                 "note": "this is also bad in english, if you think about it",
                 "orig": "You have beaten the final trial and ascended into true mastery!"
         },
@@ -16766,7 +16767,7 @@
                 "text": "Réussissez la \\c[3]Cave de la Progression\\c[0] avec \"Extra Gelé\" activé."
         },
         "database.json/quests/monks-jump_3_bonus/hubSettings/location": {
-                "text": "Même après l'élévation, la quête de la perfection ne s'arrète jamais. \\c[3]- Monastère de Bergen\\c[0]",
+                "text": "Même après l'élévation, la quête de la perfection ne s'arrête jamais. \\c[3]- Monastère de Bergen\\c[0]",
                 "orig": "Even after ascension, the pursuit of perfection never ends. \\c[3]- Bergen Monastery\\c[0]"
         },
         "database.json/quests/monks-jump_3_bonus/name": {
@@ -16818,7 +16819,7 @@
                 "orig": "Monk Cratos"
         },
         "database.json/quests/monks-jump_3_time/description": {
-                "text": "Prouvez votre ferveur en réussisant la \\c[3]Grotte de l'Ascension\\c[0] en moins de \\c[3]2 minutes\\c[0] !",
+                "text": "Prouvez votre ferveur en réussissant la \\c[3]Grotte de l'Ascension\\c[0] en moins de \\c[3]2 minutes\\c[0] !",
                 "orig": "Prove your fervor by beating the \\c[3]Cave of Ascension\\c[0] in under \\c[3]2:00\\c[0]!"
         },
         "database.json/quests/monks-jump_3_time/briefing": {
@@ -16838,7 +16839,7 @@
                 "orig": "Monk Cratos"
         },
         "database.json/quests/monks-jump_3_frosty/description": {
-                "text": "Prouvez votre passion en réussisant la \\c[3]Grotte de l'Ascension\\c[0] avec \\c[3]\"Extra Gelé\"\\c[0] d'activé !",
+                "text": "Prouvez votre passion en réussissant la \\c[3]Grotte de l'Ascension\\c[0] avec \\c[3]\"Extra Gelé\"\\c[0] activé !",
                 "orig": "Prove your passion by beating the \\c[3]Cave of Ascension\\c[0] with \\c[3]\"Extra Frosty\"\\c[0] being activated!"
         },
         "database.json/quests/monks-jump_3_frosty/briefing": {
@@ -16896,7 +16897,7 @@
         },
         "database.json/quests/omni-2/briefing": {
                 "orig": "Even though several boxes were in the way, you were able to locate the \\c[3]Storage Unit\\c[0]. You also overheard a conversion between Jeff and Jock, two friends of Jean. They seemed rather suspicious. Something is not quite right.",
-                "text": "Bien qu'il y avait plusieurs caisses sur la route, vous avez pu trouver l'\\c[3]Unité de Stockage\\c[0]. Vous avez aussi entendu une conversation entre Jeff et Jock, deux amis de Jean. Ils avaient l'air très suspects. Quelque chose ne colle pas."
+                "text": "Bien qu'il y ait plusieurs caisses sur la route, vous avez pu trouver l'\\c[3]Unité de Stockage\\c[0]. Vous avez aussi entendu une conversation entre Jeff et Jock, deux amis de Jean. Ils avaient l'air très suspects. Quelque chose ne colle pas."
         },
         "database.json/quests/omni-2/tasks/0/task": {
                 "orig": "Find the Storage Unit in \\c[3]Bergen - Omni Gilders Basement\\c[0]",
@@ -17220,8 +17221,8 @@
         },
         "database.json/quests/dekay-quest/name": {
                 "orig": "An unfortunate Series of Features",
-                "text": "Une série facheuse de Fonctions",
-                "note": "the joke cannot be translated"
+                "text": "Une fâcheuse série de Fonctions",
+                "note": "the joke cannot be translated, and fonctionnalité is too long"
         },
         "database.json/quests/dekay-quest/person": {
                 "orig": "Kat",
@@ -17545,7 +17546,7 @@
         },
         "database.json/quests/bakiGuard-1-basar_thief_1/briefing": {
                 "orig": "Though the guard escaped, you have protected the Shad merchants from his crimes for the time being.",
-                "text": "Bien que le garde se soit enfui, les marchands \\v[lore.title.shad]s seront protégé de ses crimes pour le moment."
+                "text": "Bien que le garde se soit enfui, les marchands \\v[lore.title.shad]s seront protégés de ses crimes pour le moment."
         },
         "database.json/quests/bakiGuard-1-basar_thief_1/tasks/0/task": {
                 "orig": "Go to the \\c[3]Bazaar of \\v[area.heat-village.name]\\c[0] and talk to \\c[3]Guard Billston\\c[0]",
@@ -17941,7 +17942,7 @@
                 "text": "Explorez l'\\c[3]Installation Secrète\\c[0]"
         },
         "database.json/quests/console-pc-1/tasks/5/task": {
-                "text": "Retournez voir \\c[3]Ey-leet\\c[0] dans le \\c[3]Marché\\c[0] de \\c[3]\\v[area.heat-village.name]\\c[0]",
+                "text": "Retournez voir \\c[3]Ey'leet\\c[0] dans le \\c[3]Marché\\c[0] de \\c[3]\\v[area.heat-village.name]\\c[0]",
                 "orig": "Return to \\c[3]Ey'leet\\c[0] in the \\c[3]Market\\c[0] of \\c[3]\\v[area.heat-village.name]\\c[0]"
         },
         "database.json/quests/infestation-1/name": {
@@ -18284,15 +18285,15 @@
                 "orig": "Mrs Basu"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/description": {
-                "text": "M. Frigo cherche d'autres clients potentiels. Peut-être que les Shad pourraient être un nouveau marché lucratif ?",
+                "text": "M. Frigo cherche d'autres clients potentiels. Peut-être que les Shads pourraient être un nouveau marché lucratif ?",
                 "orig": "Mr Frigo is searching for more business opportunities. Maybe the Shad can prove to be a lucrative untapped market?"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/briefing": {
-                "text": "Le village de Shad a maintenant accès à l'éléctricité et à tous les appareils éléctriques pratiques qui vont avec, vendus par M. Frigo.",
+                "text": "Le village de Shad a maintenant accès à l'électricité et à tous les appareils électriques pratiques qui vont avec, vendus par M. Frigo.",
                 "orig": "The Shad village has now access to electricity and all the practical devices that run with it, bought from Mr Frigo."
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/0/task": {
-                "text": "Trouvez un client shad interessé au \\c[3]Village Shad\\c[0] au sud-east du \\c[3]\\v[area.jungle.name]\\c[0]",
+                "text": "Trouvez un client shad intéressé au \\c[3]Village Shad\\c[0] au sud-est du \\c[3]\\v[area.jungle.name]\\c[0]",
                 "orig": "Find an interested shad customer in the \\c[3]Shad Village\\c[0] in Southeast \\c[3]\\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/1/task": {
@@ -18300,7 +18301,7 @@
                 "orig": "Visit to the \\c[3]\"Owo\", the engineer Shad\\c[0] in his house on \\c[3]V'rda Vil East\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/2/task": {
-                "text": "\\c[3]Récupérez le matériel\\c[0] nécéssaire pour le \\c[3]Générateur Éléctrique Naturel\\c[0]",
+                "text": "\\c[3]Récupérez le matériel\\c[0] nécessaire pour le \\c[3]Générateur Éléctrique Naturel\\c[0]",
                 "orig": "\\c[3]Collect materials\\c[0] needed for the \\c[3]Natural Power Generator\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/3/task": {
@@ -18316,7 +18317,7 @@
                 "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0] to catch some \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/6/task": {
-                "text": "Parlez à \\c[3]Owo'kyari\\c[0] au \\c[3]Marécages Infestés Nord\\c[0] pour attraper quelques autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+                "text": "Parlez à \\c[3]Owo'kyari\\c[0] aux \\c[3]Marécages Infestés Nord\\c[0] pour attraper quelques autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
                 "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marches North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/7/task": {
@@ -18377,7 +18378,7 @@
         },
         "database.json/quests/jungleGreens-2-plantSearch_1/briefing": {
                 "orig": "You found and destroyed all the infected plants and also the energized Powerplant that caused the problem. An ecological crisis has been averted!",
-                "text": "Vous avez trouvé et détruit toutes les plantes infectées et aussi détruit la \\v[combat.name.jungle/powerplant] energétisée qui a causé le problème. Une catastrophe écologique a été évitée !"
+                "text": "Vous avez trouvé et détruit toutes les plantes infectées et aussi détruit la \\v[combat.name.jungle/powerplant] énergétisée qui a causé le problème. Une catastrophe écologique a été évitée !"
         },
         "database.json/quests/jungleGreens-2-plantSearch_1/tasks/0/task": {
                 "orig": "Find and defeat all the hidden \\c[3]\\v[combat.name.jungle/special/plant-hidden-shock]\\c[0] in \\c[3]Western \\v[area.jungle.name]\\c[0]",
@@ -18577,7 +18578,7 @@
         },
         "database.json/quests/console-playstation-1/briefing": {
                 "orig": "You investigated the case of the bio-engineered creatures in \\v[area.jungle.name] and also uncovered a secret facility of the \"Mech Machinery\"-company! Maybe this other new secret facility really exists as well?",
-                "text": "Vous avez enquêté sur l'affaire des créatures biotechnologiques dans le \\v[area.jungle.name] et aussi découvert une installation de la société \"Mech Machinery\" ! Peut-être que cette autre installation secrète existe vraiment ?"
+                "text": "Vous avez enquêté sur l'affaire des créatures biotechnologiques dans le \\v[area.jungle.name] et aussi découvert une installation secrète de la société \"Mech Machinery\" ! Peut-être que cette autre installation secrète existe vraiment ?"
         },
         "database.json/quests/console-playstation-1/tasks/0/task": {
                 "orig": "Search for new species on \\c[3]Clinging River\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]",
@@ -19147,7 +19148,7 @@
         },
         "database.json/quests/wa-1-digging/person": {
                 "orig": "Forerunner Elenya",
-                "text": "Chef Pionnière Elenya"
+                "text": "Cheffe Pionnière Elenya"
         },
         "database.json/quests/wa-1-digging/description": {
                 "orig": "\\c[3]Pioneer Tucos\\c[0] of the \\c[3]Falldivers\\c[0] has lost a \\c[3]data storage device\\c[0] while fleeing from aggressive wildlife. Use your \\c[3]Analysis\\c[0] to find it and retrieve it.",
@@ -19171,7 +19172,7 @@
         },
         "database.json/quests/wa-1-digging/tasks/3/task": {
                 "orig": "Report back to \\c[3]Forerunner Elenya\\c[0] in the \\c[3]Falldivers HQ\\c[0]",
-                "text": "Revenez voir la \\c[3]Chef Pionnière Elenya\\c[0] au \\c[3]QG des Plongeurs d'Automne\\c[0]"
+                "text": "Revenez voir la \\c[3]Cheffe Pionnière Elenya\\c[0] au \\c[3]QG des Plongeurs d'Automne\\c[0]"
         },
         "database.json/quests/fd-2-meerkat-cave/hubSettings/location": {
                 "orig": "A surprisingly organized band of dangerous Hillkats requires a beating. \\c[3]- Falldivers HQ\\c[0]",
@@ -19184,7 +19185,7 @@
         },
         "database.json/quests/fd-2-meerkat-cave/person": {
                 "orig": "Forerunner Elenya",
-                "text": "Chef Pionnière Elenya"
+                "text": "Cheffe Pionnière Elenya"
         },
         "database.json/quests/fd-2-meerkat-cave/description": {
                 "orig": "The \\c[3]data storage\\c[0] and reports from Tucos talk of an organized group of Hillkats. Meet up with him to confront the threat.",
@@ -19220,7 +19221,7 @@
         },
         "database.json/quests/fd-2-meerkat-cave/tasks/6/task": {
                 "orig": "Report back to \\c[3]Forerunner Elenya\\c[0] in the \\c[3]Falldivers HQ\\c[0]",
-                "text": "Revenez voir la \\c[3]Chef Pionnière Elenya\\c[0] au \\c[3]QG des \\v[lore.title.faction-heat-rookieharbor]\\c[0]"
+                "text": "Revenez voir la \\c[3]Cheffe Pionnière Elenya\\c[0] au \\c[3]QG des \\v[lore.title.faction-heat-rookieharbor]\\c[0]"
         },
         "database.json/quests/fd-3-ball_egg_1/hubSettings/location": {
                 "orig": "We need help with collecting data on an area. Fun times with tech. \\c[3]- Falldivers HQ\\c[0]",
@@ -19232,7 +19233,7 @@
         },
         "database.json/quests/fd-3-ball_egg_1/person": {
                 "orig": "Forerunner Elenya",
-                "text": "Chef Pionnière Elenya"
+                "text": "Cheffe Pionnière Elenya"
         },
         "database.json/quests/fd-3-ball_egg_1/description": {
                 "orig": "The \\c[3]device you took from the Hillkats\\c[0] has been used to create a probe that can extract energy and information directly from the Track. And you are chosen to assist!",
@@ -19260,7 +19261,7 @@
         },
         "database.json/quests/fd-3-ball_egg_1/tasks/4/task": {
                 "orig": "Report back to \\c[3]Forerunner Elenya\\c[0] in the \\c[3]Falldivers HQ\\c[0]",
-                "text": "Revenez voir la \\c[3]Chef Pionnière Elenya\\c[0] au \\c[3]QG des Nageurs d'Automne\\c[0]"
+                "text": "Revenez voir la \\c[3]Cheffe Pionnière Elenya\\c[0] au \\c[3]QG des Nageurs d'Automne\\c[0]"
         },
         "database.json/quests/rhg-1-pickpocket/hubSettings/location": {
                 "orig": "There have been problems with pickpockets on the market. \\c[3]- Rookie Harbor Guard HQ\\c[0]",
@@ -19296,7 +19297,7 @@
         },
         "database.json/quests/rhg-1-pickpocket/tasks/3/task": {
                 "orig": "Find the \\c[3]thief\\c[0] in the \\c[3]dead-end in southern \\v[area.rookie-harbor.name]\\c[0]",
-                "text": "Trouvez le \\c[3]voleur\\c[0] dans le \\c[3]cul de sac au sud de \\v[area.rookie-harbor.name]\\c[0]"
+                "text": "Trouvez le \\c[3]voleur\\c[0] dans le \\c[3]cul-de-sac au sud de \\v[area.rookie-harbor.name]\\c[0]"
         },
         "database.json/quests/rhg-1-pickpocket/tasks/4/task": {
                 "orig": "Find out where the \\c[3]thief\\c[0] went... again",
@@ -19405,7 +19406,7 @@
                 "text": "Faites un rapport au \\c[3]Sergent Brassler\\c[0] au \\c[3]QG de la Garde Portuaire\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/hubSettings/location": {
-                "text": "Il est temps d'éliminer la source des traffics une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
+                "text": "Il est temps d'éliminer la source des trafics une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
                 "orig": "It is time to eliminate the source of the illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/name": {
@@ -19417,12 +19418,12 @@
                 "text": "Sergent Brassler"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/description": {
-                "text": "Les cargaisons illégales doivent être arrêtées une fois pour toutes ! Vous devez trouver la machine dans l'ocean qui coordone tout cela et la couler !",
+                "text": "Les cargaisons illégales doivent être arrêtées une fois pour toutes ! Vous devez trouver la machine dans l'océan qui coordonne tout cela et la couler !",
                 "note": "bataille navale ?",
                 "orig": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/briefing": {
-                "text": "Le coordinateur est détruit et gràce à cela, la menace des traffics d'armes illégalles n'est plus !",
+                "text": "Le coordinateur est détruit et grâce à cela, la menace des trafics d'armes illégales n'est plus !",
                 "orig": "The coordinator is destroyed and with it the danger of further illegal weapon smuggling!"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/tasks/0/task": {
@@ -19556,7 +19557,7 @@
         },
         "database.json/quests/rftc-3-metalstuff/tasks/5/task": {
                 "orig": "Report back to \\c[3]Chairman Steward\\c[0] in the \\c[3]upper Traders Kontor\\c[0]",
-                "text": "Revenez voir le \\c[3]président du CMC\\c[0] au \\c[3]1er étage du Bureau du Commerce\\c[0]"
+                "text": "Revenez voir le \\c[3]président de la CMC\\c[0] au \\c[3]1er étage du Bureau du Commerce\\c[0]"
         },
         "database.json/quests/foa-1-treedoc/hubSettings/location": {
                 "orig": "Some precious trees have become sick and need treatment. \\c[3]- Fruits of Autumn HQ\\c[0]",
@@ -20380,7 +20381,7 @@
         },
         "database.json/traders/bakiRefresh/name": {
                 "orig": "Ba'kii Kum Refreshments",
-                "text": "Raffraishissants de Ba'kii Kum"
+                "text": "Rafraichissants de Ba'kii Kum"
         },
         "database.json/traders/bakiGigaDrill/name": {
                 "orig": "The Digger",
@@ -20496,7 +20497,7 @@
         },
         "database.json/traders/basinEastBanditScarf/name": {
                 "orig": "Aladdin's Turf",
-                "text": "Coin d'Aladdin"
+                "text": "Coin d'Aladin"
         },
         "database.json/traders/basinEastStick/name": {
                 "orig": "Big Stick Rikh",
