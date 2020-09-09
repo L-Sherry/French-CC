@@ -15,9 +15,5 @@
 	"postload": "mod.js",
 	"dependencies": {
 		"localize-me": ">=0.5 <2"
-	},
-	"assets": [
-		"assets/data/maps/dreams/credits.json.patch",
-		"assets/data/credits/french-cc.json"
-	]
+	}
 }
