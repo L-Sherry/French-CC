@@ -93,7 +93,7 @@
         },
         "maps/forest/caves/spider-cave-01.json/entities/222/settings/npcStates/5/event/quest/9/text": {
                 "orig": "\\s[0]Highscores\n-------------------------\n\\c[3]Survival [Normal]\\c[0]: \\v[misc.localNumTempVar.score-surival-normal]\n\\c[3]Survival [Hard]\\c[0]: \\v[misc.localNumTempVar.score-surival-hard]\n\n\\c[3]Endless\\c[0]: \\v[misc.localNumTempVar.score-endless]\n-------------------------\n\\c[3]Total Eliminations\\c[0]: \\v[map.totalKills]\n-------------------------",
-                "text": "\\s[0]Records\n-------------------------\\c[3]Survie [Normal]\\c[0] : \\v[misc.localNumTempVar.score-surival-normal]\n\\c[3]Survie [Difficile]\\c[0] : \\v[misc.localNumTempVar.score-surival-hard]\n\n\\c[3]Sans Fin\\c[0] : \\v[misc.localNumTempVar.score-endless]\n-------------------------"
+                "text": "\\s[0]Records\n-------------------------\n\\c[3]Survie [Normal]\\c[0] : \\v[misc.localNumTempVar.score-surival-normal]\n\\c[3]Survie [Difficile]\\c[0] : \\v[misc.localNumTempVar.score-surival-hard]\n\n\\c[3]Sans Fin\\c[0] : \\v[misc.localNumTempVar.score-endless]\n-------------------------"
         },
         "maps/forest/caves/spider-cave-01.json/entities/222/settings/npcStates/5/event/quest/10/3/1/text": {
                 "orig": "...Very well...",

@@ -1920,7 +1920,7 @@
         },
         "database.json/areas/jungle-city/landmarks/center/description": {
                 "orig": "The rainy and shiny center of Basin Keep, home to many traders.",
-                "text": "Le centre pluvieux du \\v[area.jungle-city.name], ou demeurent de nombreux marchants."
+                "text": "Le centre pluvieux du \\v[area.jungle-city.name], ou demeurent de nombreux marchands."
         },
         "database.json/areas/jungle/name": {
                 "orig": "Gaia's Garden",
@@ -2610,7 +2610,7 @@
                 "orig": "I knew, from the moment our eyes first met: All of this was destined to happen."
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/6/message": {
-                "text": "Comme ces vielles histoires, ou le héros combat contre les vilains, la princesse attend d'être sauvée et le marchant vend les équipements...",
+                "text": "Comme ces vielles histoires, où le héros se bat contre les vilains, où la princesse attend d'être sauvée et où le marchand vend des équipements...",
                 "orig": "Like those old stories, where the hero fights the evil, the princess waits to be saved and the shopkeeper sells the equipment..."
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/7/message": {
@@ -2863,11 +2863,11 @@
                 "orig": "[nods]"
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/27/message": {
-                "text": "Oh...\\. tu sais de quoi je parles ?\\. Je m'y attendais pas.",
+                "text": "Oh...\\. tu sais de quoi je parles ?\\. Je ne m'y attendais pas.",
                 "orig": "Oh...\\. you know what I'm talking about?\\. Didn't expect that."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/28/message": {
-                "text": "Peut-être qu'on a plus de choses en commun que je le pensais.",
+                "text": "Peut-être que l'on a plus de choses en commun que je ne le pensais.",
                 "orig": "Maybe we are more alike than I thought at first."
         },
         "database.json/commonEvents/sao-duel-pre-fight/event/8/thenStep/29/message": {
@@ -2903,7 +2903,7 @@
                 "orig": "We shall meet again, in another town!"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/2/message": {
-                "text": "À plus, étranger !",
+                "text": "À plus tard, étranger !",
                 "orig": "Until then, stranger!"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/4/message": {
@@ -3160,7 +3160,7 @@
                 "orig": "...because the developer thought \"Ho boy, that might be a good spot for an NPC!\"."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/36/message": {
-                "text": "C'est pas vrai, cher développeur ?\\. Et pendant qu'on y est...",
+                "text": "N'est-ce pas vrai, cher développeur ?\\. Ah, et pendant qu'on y est...",
                 "orig": "Isn't that right, dear developer?\\. While we're at it... "
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/37/message": {
@@ -3177,7 +3177,7 @@
                 "orig": "Really, I'm probably the best written character out there, no matter where I appear!"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/40/message": {
-                "text": "C'est juste une idée !",
+                "text": "C'est juste une suggestion !",
                 "orig": "Just a suggestion!"
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/41/message": {
@@ -5934,7 +5934,7 @@
         },
         "database.json/commonEvents/emilie-contact/event/35/thenStep/2/message": {
                 "orig": "I'm currently climbing up \\c[3]\\v[area.bergen-trails.name]\\c[0]!",
-                "text": "Je suis en train d'escalader \\c[3]\\v[area.bergen-trails.name]\\c[0] !"
+                "text": "Je suis en train d'escalader le \\c[3]\\v[area.bergen-trails.name]\\c[0] !"
         },
         "database.json/commonEvents/emilie-contact/event/35/thenStep/3/message": {
                 "orig": "Just now, I saw a group of \\c[3]penguins\\c[0]!",
@@ -8901,7 +8901,7 @@
         },
         "database.json/commonEvents/botanicsNote75/event/8/message": {
                 "orig": "Ah've got another upgrade to celebrate! Ya'll come find me at the \\c[3]\\v[area.jungle-city.name] - Quest Hub\\c[0].",
-                "text": "Ah et j'ai un autre ti cadeau pour célébrer ça. Tu peux v'nir m'voir au \\c[3]Repère des pisteurs du Jardin d'Gaia\\c[0]."
+                "text": "Ah et j'ai un autre ti cadeau pour célébrer ça. Tu peux v'nir m'voir au \\c[3]Repère des pisteurs du \\v[area.jungle-city.name]\\c[0]."
         },
         "database.json/commonEvents/botanicsNote75/event/9/message": {
                 "orig": "...!",
@@ -10138,7 +10138,7 @@
                 "orig": "Mizree"
         },
         "database.json/enemies/guest.firespirit/species": {
-                "text": "Quelque-chose qui Brûle",
+                "text": "Truc qui Brûle",
                 "orig": "Burning Something"
         },
         "database.json/enemies/arid.virus-neutral/name": {
@@ -11640,7 +11640,8 @@
                 "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body."
         },
         "database.json/enemies/minibosses.raid-core/name": {
-                "text": "Noyau de Raid",
+                "text": "Cœur du Raid",
+                "note": "assuming it's the weak point",
                 "orig": "minibosses.raid-core"
         },
         "database.json/enemies/minibosses.raid-core/species": {
@@ -11648,7 +11649,7 @@
                 "orig": "????"
         },
         "database.json/enemies/minibosses.raid-dispenser/name": {
-                "text": "Distributeur de Raid",
+                "text": "Distributeur du Raid",
                 "orig": "minibosses.raid-dispenser"
         },
         "database.json/enemies/minibosses.raid-dispenser/species": {
@@ -11656,7 +11657,7 @@
                 "orig": "????"
         },
         "database.json/enemies/minibosses.raid-face/name": {
-                "text": "Tronche de Raid",
+                "text": "Tronche du Raid",
                 "orig": "minibosses.raid-face"
         },
         "database.json/enemies/minibosses.raid-face/species": {
@@ -11664,7 +11665,7 @@
                 "orig": "????"
         },
         "database.json/enemies/minibosses.raid-turret-small/name": {
-                "text": "Petite Tourelle de Raid",
+                "text": "Petite Tourelle du Raid",
                 "orig": "minibosses.raid-turret-small"
         },
         "database.json/enemies/minibosses.raid-turret-small/species": {
@@ -11672,7 +11673,7 @@
                 "orig": "????"
         },
         "database.json/enemies/minibosses.raid-turret/name": {
-                "text": "Tourelle de Raid",
+                "text": "Tourelle du Raid",
                 "orig": "minibosses.raid-turret"
         },
         "database.json/enemies/minibosses.raid-turret/species": {
@@ -11680,7 +11681,7 @@
                 "orig": "????"
         },
         "database.json/enemies/minibosses.raid-laser/name": {
-                "text": "Laser de Raid",
+                "text": "Laser du Raid",
                 "orig": "minibosses.raid-laser"
         },
         "database.json/enemies/minibosses.raid-laser/species": {
@@ -19104,11 +19105,11 @@
         },
         "database.json/quests/faction-tutorial/tasks/0/subtasks/0/text": {
                 "orig": "Visit the \\c[3]FD\\c[0] HQ southwest of the \\c[3]Market\\c[0]",
-                "text": "Visitez le QG des \\c[3]NA\\c[0] au sud-ouest du \\c[3]Marché\\c[0]"
+                "text": "Visitez le QG des \\c[3]PA\\c[0] au sud-ouest du \\c[3]Marché\\c[0]"
         },
         "database.json/quests/faction-tutorial/tasks/0/subtasks/0/shortText": {
                 "orig": "Visit the \\c[3]FD\\c[0] HQ",
-                "text": "Visitez le QG des \\c[3]NA\\c[0]"
+                "text": "Visitez le QG des \\c[3]PA\\c[0]"
         },
         "database.json/quests/faction-tutorial/tasks/0/subtasks/1/text": {
                 "orig": "Visit the \\c[3]RHG\\c[0] HQ near the \\c[3]western exit\\c[0]",
