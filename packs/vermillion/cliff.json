@@ -89,7 +89,8 @@
         },
         "maps/arid/cliff-1.json/entities/436/settings/event/19/thenStep/5/text": {
                 "orig": "Do you want to skip ahead to the Vermillion Dungeon?",
-                "text": "Voulez-vous sauter cette partie jusqu'au \\v[area.arid-dng-2.name] ?"
+                "text": "Voulez-vous sauter cette partie jusqu'au \\v[area.arid-dng-1.name] ?",
+                "note": "this should actually be arid-dng-2, but hey, figures..."
         },
         "maps/arid/cliff-1.json/entities/436/settings/event/19/thenStep/5/options/0/label": {
                 "orig": "Yes",
