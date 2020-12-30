@@ -52,20 +52,20 @@
                 "text": "Bonjour, \\v[lore.title.seeker].\\. Il n'y a pas besoin de votre aide pour le moment, mais je vous souhaite un bon séjour."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/10/event/1/name": {
-                "text": "Mme Basu",
-                "orig": "Mrs Basu"
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/10/event/2/message": {
-                "text": "Nos relations avec le Village Shad du \\v[area.jungle.name] se sont améliorées ces derniers temps.\\. Peut-être qu'il est possible de faire des affaires maintenant !",
-                "orig": "Our relations to the Shad Village in \\v[area.jungle.name] have relaxed recently.\\. Maybe trade is a possibility now!"
+                "orig": "Our relations to the Shad Village in \\v[area.jungle.name] have relaxed recently.\\. Maybe trade is a possibility now!",
+                "text": "Nos relations avec le Village Shad du \\v[area.jungle.name] se sont améliorées ces derniers temps.\\. Peut-être qu'il est possible de faire des affaires maintenant !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/12/event/1/name": {
-                "text": "Mme Basu",
-                "orig": "Mrs Basu"
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/12/event/2/message": {
-                "text": "Bonjour, \\v[lore.title.seeker].\\. Il n'y a pas besoin de votre aide pour le moment, mais je vous souhaite un bon séjour.",
-                "orig": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay."
+                "orig": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Il n'y a pas besoin de votre aide pour le moment, mais je vous souhaite un bon séjour."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/analyzable/text": {
                 "orig": "Esha Basu",
@@ -120,24 +120,24 @@
                 "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/8/event/2/message": {
-                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, continuez de travailler dur pour la prospérité de notre ville.",
-                "orig": "Greetings, \\v[lore.title.seeker].\\. Please continue to work hard for the prosperity of our city."
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Please continue to work hard for the prosperity of our city.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, continuez de travailler dur pour la prospérité de notre ville."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/10/event/1/name": {
-                "text": "M. Frigo",
-                "orig": "Mr Frigo"
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/10/event/2/message": {
-                "text": "Regardez si on peut vendre nos appareils au Village Shad au sud-est du \\v[area.jungle.name].",
-                "orig": "Find out if we can market our devices to the Shad Village in the Southeast of \\v[area.jungle.name]."
+                "orig": "Find out if we can market our devices to the Shad Village in the Southeast of \\v[area.jungle.name].",
+                "text": "Regardez si on peut vendre nos appareils au Village Shad au sud-est du \\v[area.jungle.name]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/12/event/1/name": {
-                "text": "M. Frigo",
-                "orig": "Mr Frigo"
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/12/event/2/message": {
-                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, continuez de travaillez dur pour la prospérité de notre ville.",
-                "orig": "Greetings, \\v[lore.title.seeker].\\. Please continue to work hard for the prosperity of our city."
+                "orig": "Greetings, \\v[lore.title.seeker].\\. Please continue to work hard for the prosperity of our city.",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, continuez de travaillez dur pour la prospérité de notre ville."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
                 "orig": "Tony Frigo",
@@ -376,8 +376,8 @@
                 "text": "Salut... ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/3/message": {
-                "text": "Ah, \\v[lore.title.seeker], nous avons une bonne nouvelle.\\. Les préparations pour se débarrasser du dangereux \\v[combat.name.snowman] sont finalement terminées !",
-                "orig": "Ah, \\v[lore.title.seeker], good news.\\. Preparations to subdue that dangerous \\v[combat.name.snowman] have finally been finished!"
+                "orig": "Ah, \\v[lore.title.seeker], good news.\\. Preparations to subdue that dangerous \\v[combat.name.snowman] have finally been finished!",
+                "text": "Ah, \\v[lore.title.seeker], nous avons une bonne nouvelle.\\. Les préparations pour se débarrasser du dangereux \\v[combat.name.snowman] sont finalement terminées !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/5/message": {
                 "orig": "Yes.\\. Our engineers have redoubled their efforts and created an oven that will easily melt through even the coldest ice.",
@@ -388,8 +388,8 @@
                 "text": "... !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/7/message": {
-                "text": "J'ai ordonné à l'un de mes collaborateurs de le livrer à l'intérieur de la cave.",
-                "orig": "I ordered one of my subordinates to deliver it to the cave."
+                "orig": "I ordered one of my subordinates to deliver it to the cave.",
+                "text": "J'ai ordonné à l'un de mes collaborateurs de le livrer à l'intérieur de la cave."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/5/elseStep/9/message": {
                 "orig": "Meanwhile, the target has not left the cave, so you should be able to corner and defeat it.",
@@ -504,189 +504,189 @@
                 "text": "Bye !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/3/name": {
-                "text": "Mme Basu",
-                "orig": "Mrs Basu"
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/4/name": {
-                "text": "M. Frigo",
-                "orig": "Mr Frigo"
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/thenStep/0/message": {
-                "text": "Salut.",
-                "orig": "Hi."
+                "orig": "Hi.",
+                "text": "Salut."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/thenStep/3/message": {
-                "text": "Oui, effectivement.\\. Je me disais d'ailleurs à quel point ce serait agréable de réembaucher quelqu'un d'aussi fiable que vous !",
-                "orig": "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!"
+                "orig": "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!",
+                "text": "Oui, effectivement.\\. Je me disais d'ailleurs à quel point ce serait agréable de réembaucher quelqu'un d'aussi fiable que vous !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/thenStep/4/message": {
-                "text": "Eh bien, \\v[lore.title.seeker] ?\\. Pouvons-nous compter sur vous ?",
-                "orig": "Well, \\v[lore.title.seeker]?\\. Can we count on you?"
+                "orig": "Well, \\v[lore.title.seeker]?\\. Can we count on you?",
+                "text": "Eh bien, \\v[lore.title.seeker] ?\\. Pouvons-nous compter sur vous ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/thenStep/5/message": {
-                "text": "Lea ?",
-                "orig": "Lea?"
+                "orig": "Lea?",
+                "text": "Lea ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/0/message": {
-                "text": "Salut.",
-                "orig": "Hi."
+                "orig": "Hi.",
+                "text": "Salut."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/3/message": {
-                "text": "Bonjour, \\v[lore.title.seeker].\\. C'est bon de vous revoir !",
-                "orig": "Good day, \\v[lore.title.seeker].\\. It is good to see you again!"
+                "orig": "Good day, \\v[lore.title.seeker].\\. It is good to see you again!",
+                "text": "Bonjour, \\v[lore.title.seeker].\\. C'est bon de vous revoir !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/4/message": {
-                "text": "Oui, effectivement.\\. Je savais déjà à quel point ça serait agréable de refaire travailler quelqu'un d'aussi fiable que vous !",
-                "orig": "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!"
+                "orig": "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!",
+                "text": "Oui, effectivement.\\. Je savais déjà à quel point ça serait agréable de refaire travailler quelqu'un d'aussi fiable que vous !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/6/message": {
-                "text": "Lea ?",
-                "orig": "Lea?"
+                "orig": "Lea?",
+                "text": "Lea ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/7/message": {
-                "text": "Hé bien, vous voyez, nos relations avec le Village Shad du \\v[area.jungle.name] se sont améliorées ces derniers temps.",
-                "orig": "Well, you see, relationships with the Shad living in the Jungle of \\v[area.jungle.name] have been improving recently."
+                "orig": "Well, you see, relationships with the Shad living in the Jungle of \\v[area.jungle.name] have been improving recently.",
+                "text": "Hé bien, vous voyez, nos relations avec le Village Shad du \\v[area.jungle.name] se sont améliorées ces derniers temps."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/8/message": {
-                "text": "Ça me semble être une opportunité parfaite pour acquérir des nouveaux clients pour nos produits !",
-                "orig": "This might be a perfect opportunity to acquire new customers for our products!"
+                "orig": "This might be a perfect opportunity to acquire new customers for our products!",
+                "text": "Ça me semble être une opportunité parfaite pour acquérir des nouveaux clients pour nos produits !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/9/message": {
-                "text": "Imaginez un peu comment nos réfrigérateurs de qualité pourraient être utiles dans la chaleur de la jungle !",
-                "orig": "Just imagine how useful our quality refrigerators would be in the heat of the jungle!"
+                "orig": "Just imagine how useful our quality refrigerators would be in the heat of the jungle!",
+                "text": "Imaginez un peu comment nos réfrigérateurs de qualité pourraient être utiles dans la chaleur de la jungle !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/10/message": {
-                "text": "Comment ?",
-                "orig": "How?"
+                "orig": "How?",
+                "text": "Comment ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/12/message": {
-                "text": "Oui, \\v[lore.title.seeker], c'est une bonne question.\\. Monsieur, comment les Shads vont pouvoir alimenter vos machines ?",
-                "orig": "Yes, \\v[lore.title.seeker], that is a good question.\\. Sir, how would the Shad power your machines?"
+                "orig": "Yes, \\v[lore.title.seeker], that is a good question.\\. Sir, how would the Shad power your machines?",
+                "text": "Oui, \\v[lore.title.seeker], c'est une bonne question.\\. Monsieur, comment les Shads vont pouvoir alimenter vos machines ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/14/message": {
+                "orig": "That is just a minor obstacle in the way of progress!\\. I am sure our resourceful \\v[lore.title.seeker] will find a way.",
                 "text": "C'est juste un petit obstacle mineur sur le chemin du progrès !\\. Je suis sûr que notre \\v[lore.title.seeker] plein de ressources trouvera un moyen.",
-                "note": "le chemin du progres... ça m'rapelle une vielle affiche syndicaliste.",
-                "orig": "That is just a minor obstacle in the way of progress!\\. I am sure our resourceful \\v[lore.title.seeker] will find a way."
+                "note": "le chemin du progres... ça m'rapelle une vielle affiche syndicaliste."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/15/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/5/elseStep/16/message": {
-                "text": "Vous ÊTES encore intéressé pour nous aider à nouveau, pas vrai ?",
-                "orig": "You ARE interested in helping us again, correct?"
+                "orig": "You ARE interested in helping us again, correct?",
+                "text": "Vous ÊTES encore intéressé pour nous aider à nouveau, pas vrai ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/0/message": {
-                "text": "[acquiesce]",
-                "orig": "[nods]"
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/1/message": {
-                "text": "Hoho, excellent, excellent !\\. Vous êtes véritablement devenu un partenaire fiable pour nos opérations.",
-                "orig": "Hoho, excellent, excellent!\\. You've truly become a reliable asset to our operations."
+                "orig": "Hoho, excellent, excellent!\\. You've truly become a reliable asset to our operations.",
+                "text": "Hoho, excellent, excellent !\\. Vous êtes véritablement devenu un partenaire fiable pour nos opérations."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/3/message": {
-                "text": "C'est vrai, monsieur.\\. Avec l'aide de notre fiable \\v[lore.title.seeker], je suis bien plus confiante.",
-                "orig": "That is true, sir.\\. With our reliable \\v[lore.title.seeker] helping out, I feel much more confident."
+                "orig": "That is true, sir.\\. With our reliable \\v[lore.title.seeker] helping out, I feel much more confident.",
+                "text": "C'est vrai, monsieur.\\. Avec l'aide de notre fiable \\v[lore.title.seeker], je suis bien plus confiante."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/4/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/6/message": {
-                "text": "M. Frigo, pouvez-vous partager les détails ?",
-                "orig": "Mr. Frigo, will you share the details?"
+                "orig": "Mr. Frigo, will you share the details?",
+                "text": "M. Frigo, pouvez-vous partager les détails ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/8/message": {
+                "orig": "Yes, yes, of course.\\. \\v[lore.title.seeker], our latest line of Frigo fridges were created to work even in the roughest climate.",
                 "text": "Oui, oui, bien entendu.\\. \\v[lore.title.seeker], notre dernière série de réfrigérateurs Frigo ont été créées pour pouvoir fonctionner même dans les climats les plus rudes.",
-                "note": "ouais, s'pour ça qu'on a que des ptit frigos en france.",
-                "orig": "Yes, yes, of course.\\. \\v[lore.title.seeker], our latest line of Frigo fridges were created to work even in the roughest climate."
+                "note": "ouais, s'pour ça qu'on a que des ptit frigos en france."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/9/message": {
-                "text": "Ils ont quand même besoin d'énergie, par contre, et l'approbation des autorités Shads du village",
-                "orig": " They would still need energy, however, and the blessing of the resident Shad authorities."
+                "orig": " They would still need energy, however, and the blessing of the resident Shad authorities.",
+                "text": "Ils ont quand même besoin d'énergie, par contre, et l'approbation des autorités Shads du village"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/10/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/12/message": {
-                "text": "Effectivement. Et comme notre organisation manque encore de contacts pour résoudre ces problèmes, nous aurions besoin de vous comme ambassadeur.",
-                "orig": "Indeed. And since our organization still lacks the contacts to solve those problems, we would need you as an ambassador."
+                "orig": "Indeed. And since our organization still lacks the contacts to solve those problems, we would need you as an ambassador.",
+                "text": "Effectivement. Et comme notre organisation manque encore de contacts pour résoudre ces problèmes, nous aurions besoin de vous comme ambassadeur."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/14/message": {
-                "text": "Ce serait idéal si vous pouviez parler en premier avec un représentant de l'autorité.\\. J'imagine que ce serait \\c[3]l'altesse du village à l'ouest de V'rda Vil\\c[0].",
-                "orig": "It would be best if you talked with a person of authority first.\\. I assume that it would be the \\c[3]village elder in V'rda Vil West\\c[0]."
+                "orig": "It would be best if you talked with a person of authority first.\\. I assume that it would be the \\c[3]village elder in V'rda Vil West\\c[0].",
+                "text": "Ce serait idéal si vous pouviez parler en premier avec un représentant de l'autorité.\\. J'imagine que ce serait \\c[3]l'altesse du village à l'ouest de V'rda Vil\\c[0]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/15/message": {
-                "text": "[acquiesce]",
-                "orig": "[nods]"
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/accepted/16/message": {
-                "text": "Bye !",
-                "orig": "Bye!"
+                "orig": "Bye!",
+                "text": "Bye !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/declined/0/message": {
-                "text": "[secoue la tête]",
-                "orig": "[shakes head]"
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/declined/1/message": {
-                "text": "Vous n'êtes pas intéressée ?\\. Mais ne voyez-vous pas le potentiel de ce projet ?",
-                "orig": "You are not interested?\\. But can't you see the potential in this venture?"
+                "orig": "You are not interested?\\. But can't you see the potential in this venture?",
+                "text": "Vous n'êtes pas intéressée ?\\. Mais ne voyez-vous pas le potentiel de ce projet ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/declined/2/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/84/settings/event/6/declined/3/message": {
-                "text": "Bon, on est encore en plein milieu des préparatifs de toutes façons.\\. Peut-être que vous changerez d'avis plus tard.",
-                "orig": "Well, we are still in the midst of preparation regardless.\\. Maybe you will change your mind later."
+                "orig": "Well, we are still in the midst of preparation regardless.\\. Maybe you will change your mind later.",
+                "text": "Bon, on est encore en plein milieu des préparatifs de toutes façons.\\. Peut-être que vous changerez d'avis plus tard."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/3/name": {
-                "text": "Mme Basu",
-                "orig": "Mrs Basu"
+                "orig": "Mrs Basu",
+                "text": "Mme Basu"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/4/name": {
-                "text": "M. Frigo",
-                "orig": "Mr Frigo"
+                "orig": "Mr Frigo",
+                "text": "M. Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/5/message": {
-                "text": "Salut !",
-                "orig": "Hi!"
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/8/message": {
-                "text": "\\v[lore.title.seeker], vous revoilà !\\. Nous avons déjà eu la visite d'un jeune Shad charmant !",
-                "orig": "\\v[lore.title.seeker], there you are again!\\. We already received a visit from a charming young Shad!"
+                "orig": "\\v[lore.title.seeker], there you are again!\\. We already received a visit from a charming young Shad!",
+                "text": "\\v[lore.title.seeker], vous revoilà !\\. Nous avons déjà eu la visite d'un jeune Shad charmant !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/10/message": {
-                "text": "Oui, très charmant.\\. Et il s'y connaissait en machines.\\. C'était vraiment un client difficile, c'est moi qui vous le dis.",
-                "orig": "Yes, very charming.\\. And knows his way around machinery.\\. Literally a tough customer I tell you that."
+                "orig": "Yes, very charming.\\. And knows his way around machinery.\\. Literally a tough customer I tell you that.",
+                "text": "Oui, très charmant.\\. Et il s'y connaissait en machines.\\. C'était vraiment un client difficile, c'est moi qui vous le dis."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/11/message": {
-                "text": "... !",
-                "orig": "...!"
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/12/message": {
-                "text": "Mais monsieur, vous n'êtes pas en train de nous dire que vous projetez de vendre à ces nobles villageois plein de choses dont ils n'ont pas besoin, pas vrai ?",
-                "orig": "But sir, you're not implying that you're planning to sell those noble villagers a lot of things they don't need, right?"
+                "orig": "But sir, you're not implying that you're planning to sell those noble villagers a lot of things they don't need, right?",
+                "text": "Mais monsieur, vous n'êtes pas en train de nous dire que vous projetez de vendre à ces nobles villageois plein de choses dont ils n'ont pas besoin, pas vrai ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/13/message": {
-                "text": "Bien sûr que non !\\. Les outils de cuisine Frigo sont toujours utiles, je peux vous l'assurer !\\. Mon nom est écrit dessus après tout !",
-                "orig": "Well, of course not!\\. Frigo kitchen tools are always useful, I can ensure you that!\\. My name's on them after all!"
+                "orig": "Well, of course not!\\. Frigo kitchen tools are always useful, I can ensure you that!\\. My name's on them after all!",
+                "text": "Bien sûr que non !\\. Les outils de cuisine Frigo sont toujours utiles, je peux vous l'assurer !\\. Mon nom est écrit dessus après tout !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/14/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/15/message": {
-                "text": "Bien sûr, monsieur.\\. Aucun doute là-dessus.",
-                "orig": "Of course, sir.\\. No doubt about that."
+                "orig": "Of course, sir.\\. No doubt about that.",
+                "text": "Bien sûr, monsieur.\\. Aucun doute là-dessus."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/16/message": {
-                "text": "Bon, \\v[lore.title.seeker], vous nous avez encore rendu un grand service.\\. Tenez, une autre récompense bien méritée !",
-                "orig": "Well, \\v[lore.title.seeker], you have done us a great service again.\\. Here, another reward well-earned!"
+                "orig": "Well, \\v[lore.title.seeker], you have done us a great service again.\\. Here, another reward well-earned!",
+                "text": "Bon, \\v[lore.title.seeker], vous nous avez encore rendu un grand service.\\. Tenez, une autre récompense bien méritée !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/17/message": {
-                "text": "Bye !",
-                "orig": "Bye!"
+                "orig": "Bye!",
+                "text": "Bye !"
         }
 }

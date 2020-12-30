@@ -4,8 +4,8 @@
                 "text": "Bienvenue."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/21/settings/analyzable/text": {
-                "text": "Garde",
-                "orig": "Guard"
+                "orig": "Guard",
+                "text": "Garde"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/analyzable/text": {
                 "orig": "Sgt. Bronzel",
@@ -196,13 +196,13 @@
                 "text": "Ah, maintenant vous faites votre impertinente ?\\. Vous savez quoi ? M'occuper de la presse et signer ces rapports n'était pas plaisant non plus, \\v[lore.title.seeker]."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/5/event/quest/6/thenStep/0/message": {
-                "text": "... Lea !",
-                "orig": "...Lea!"
+                "orig": "...Lea!",
+                "text": "... Lea !"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/5/event/quest/6/thenStep/1/message": {
+                "orig": "What, some problems in Bergen?\\. Why is this on us now?\\. We already got our hands full.",
                 "text": "Quoi, il y a des problèmes à Bergen ?\\. Pourquoi ça nous concerne ?\\. On a déjà les mains pleines.",
-                "quality": "unknown",
-                "orig": "What, some problems in Bergen?\\. Why is this on us now?\\. We already got our hands full."
+                "quality": "unknown"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/5/event/quest/7/message": {
                 "orig": "...",
@@ -337,126 +337,126 @@
                 "text": ".\\..\\.."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/0/name": {
-                "text": "Sgt. Bronzel",
-                "orig": "Sgt. Bronzel"
+                "orig": "Sgt. Bronzel",
+                "text": "Sgt. Bronzel"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/2/message": {
-                "text": "Salut !",
-                "orig": "Hi!"
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/3/message": {
+                "orig": "\\v[lore.title.seeker], you here.\\. Being a harbinger of trouble on this almost sunny day, I assume?",
                 "text": "\\v[lore.title.seeker], vous voilà.\\. Vous nous apportez des ennuis dans cette journée presque ensoleillée, j'imagine ?",
                 "quality": "unknown",
-                "note": "de plz. bring news of trouble or trouble ?",
-                "orig": "\\v[lore.title.seeker], you here.\\. Being a harbinger of trouble on this almost sunny day, I assume?"
+                "note": "de plz. bring news of trouble or trouble ?"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/4/message": {
-                "text": "Lea... Rencontrer.",
-                "orig": "Lea... Meet."
+                "orig": "Lea... Meet.",
+                "text": "Lea... Rencontrer."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/5/message": {
-                "text": "Oh, par les anciens, pourquoi j'ouvre ma bouche ?\\. Bien sûr que vous m'apportez plus d'ennuis.",
-                "orig": "Oh, by the Ancients, why did I even open my mouth?\\. Of course you'd bring more trouble."
+                "orig": "Oh, by the Ancients, why did I even open my mouth?\\. Of course you'd bring more trouble.",
+                "text": "Oh, par les anciens, pourquoi j'ouvre ma bouche ?\\. Bien sûr que vous m'apportez plus d'ennuis."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/6/message": {
-                "text": "Désolé ?",
-                "orig": "Sorry?"
+                "orig": "Sorry?",
+                "text": "Désolé ?"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/7/message": {
-                "text": "Bon, il fallait forcément que ça arrive.\\. Le Pépégang a été tranquille ces derniers temps, donc il fallait qu'autre chose vienne combler le vide.",
-                "orig": "Well, it can't be helped.\\. The Papagang has been very quiet lately, so something else just has to fill the void."
+                "orig": "Well, it can't be helped.\\. The Papagang has been very quiet lately, so something else just has to fill the void.",
+                "text": "Bon, il fallait forcément que ça arrive.\\. Le Pépégang a été tranquille ces derniers temps, donc il fallait qu'autre chose vienne combler le vide."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/8/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/9/message": {
-                "text": "Comment ?",
-                "orig": "How?"
+                "orig": "How?",
+                "text": "Comment ?"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/accepted/0/message": {
-                "text": "[acquiesce]",
-                "orig": "[nods]"
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/accepted/1/message": {
-                "text": "(Parler de la Quête, Pépégang dans la ville avec des boucs), \\v[lore.title.seeker].\\.",
-                "orig": "(Talk about Quest, Papagang in city with goats), \\v[lore.title.seeker].\\"
+                "orig": "(Talk about Quest, Papagang in city with goats), \\v[lore.title.seeker].\\",
+                "text": "(Parler de la Quête, Pépégang dans la ville avec des boucs), \\v[lore.title.seeker].\\."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/accepted/2/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/accepted/4/message": {
-                "text": "... !",
-                "orig": "...!"
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/accepted/5/message": {
-                "text": "[acquiesce]",
-                "orig": "[nods]"
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/accepted/6/message": {
-                "text": "Bye.",
-                "orig": "Bye."
+                "orig": "Bye.",
+                "text": "Bye."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/declined/0/message": {
-                "text": "[secoue la tête]",
-                "orig": "[shakes head]"
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/declined/1/message": {
-                "text": "Impozible !",
-                "orig": "Imposible!"
+                "orig": "Imposible!",
+                "text": "Impozible !"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/declined/2/message": {
-                "text": ".\\..\\..",
-                "orig": ".\\..\\.."
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/10/event/0/name": {
-                "text": "Sgt. Bronzel",
-                "orig": "Sgt. Bronzel"
+                "orig": "Sgt. Bronzel",
+                "text": "Sgt. Bronzel"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/10/event/2/message": {
-                "text": "Parlez à notre officier sur place et voyez si vous pouvez résoudre la prise d'otage.",
-                "orig": "Talk to our officer on site and see how you can solve the hostage situation."
+                "orig": "Talk to our officer on site and see how you can solve the hostage situation.",
+                "text": "Parlez à notre officier sur place et voyez si vous pouvez résoudre la prise d'otage."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/10/event/3/message": {
-                "text": "Il vous attend en face de la \\c[3]Tour Clipson\\c[0] dans la \\c[3]partie nord de notre quartier ouest\\c[0].",
-                "orig": "He is waiting in front of the \\c[3]Clipson Tower\\c[0] in the \\c[3]Northern part of our Western district\\c[0]."
+                "orig": "He is waiting in front of the \\c[3]Clipson Tower\\c[0] in the \\c[3]Northern part of our Western district\\c[0].",
+                "text": "Il vous attend en face de la \\c[3]Tour Clipson\\c[0] dans la \\c[3]partie nord de notre quartier ouest\\c[0]."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/0/name": {
-                "text": "Sgt. Bronzel",
-                "orig": "Sgt. Bronzel"
+                "orig": "Sgt. Bronzel",
+                "text": "Sgt. Bronzel"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/2/message": {
-                "text": "Salut !",
-                "orig": "Hi!"
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/3/message": {
-                "text": "Ah vous revoilà encore.\\. On dirait que tout s'est déroulé selon le protocole prévu.\\. Excellent.",
-                "orig": "There you are again.\\. Seems like everything went according to the protocol.\\. Excellent."
+                "orig": "There you are again.\\. Seems like everything went according to the protocol.\\. Excellent.",
+                "text": "Ah vous revoilà encore.\\. On dirait que tout s'est déroulé selon le protocole prévu.\\. Excellent."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/4/message": {
                 "orig": "...",
                 "text": "..."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/5/message": {
-                "text": "... Désolé.",
-                "orig": "... Sorry."
+                "orig": "... Sorry.",
+                "text": "... Désolé."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/6/message": {
-                "text": "Bye.",
-                "orig": "Bye."
+                "orig": "Bye.",
+                "text": "Bye."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/12/event/0/name": {
-                "text": "Sgt. Bronzel",
-                "orig": "Sgt. Bronzel"
+                "orig": "Sgt. Bronzel",
+                "text": "Sgt. Bronzel"
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/12/event/2/message": {
-                "text": "Nous n'avons pas besoin de votre aide, \\v[lore.title.seeker].\\. Donc laissez-moi travailler.",
-                "orig": "There's no need for your help, \\v[lore.title.seeker].\\. So let me work."
+                "orig": "There's no need for your help, \\v[lore.title.seeker].\\. So let me work.",
+                "text": "Nous n'avons pas besoin de votre aide, \\v[lore.title.seeker].\\. Donc laissez-moi travailler."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/12/event/3/message": {
-                "text": ".\\..\\..",
-                "orig": ".\\..\\.."
+                "orig": ".\\..\\..",
+                "text": ".\\..\\.."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/47/settings/dialog/0/text": {
                 "orig": "Well, that was fascinating.\\. It is not often that you can truly take a non-violent path to solve a quest.",

@@ -422,8 +422,8 @@
                 "text": "..."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/13/message": {
-                "text": "Allez à la \\c[3]Rivière Stagnante dans le \\v[area.jungle.name]\\c[0] et cherchez des formes de vies suspectes.",
-                "orig": "Go to \\c[3]Clinging River in \\v[area.jungle.name]\\c[0] and search for suspect lifeforms."
+                "orig": "Go to \\c[3]Clinging River in \\v[area.jungle.name]\\c[0] and search for suspect lifeforms.",
+                "text": "Allez à la \\c[3]Rivière Stagnante dans le \\v[area.jungle.name]\\c[0] et cherchez des formes de vies suspectes."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/accepted/14/message": {
                 "orig": "I will keep contact with the \\v[lore.title.direct-link] and give you further instructions.\\. Good luck, \\v[lore.title.seeker].",
@@ -438,8 +438,8 @@
                 "text": "[secoue la tête]"
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/1/message": {
-                "text": "Peut-être que j'ai eu tort.\\. Si vous préférez être aveugle, alors restez aveugle.",
-                "orig": "Maybe I was wrong.\\. If you prefer to be blind, be blind."
+                "orig": "Maybe I was wrong.\\. If you prefer to be blind, be blind.",
+                "text": "Peut-être que j'ai eu tort.\\. Si vous préférez être aveugle, alors restez aveugle."
         },
         "maps/jungle-city/east.json/entities/682/settings/npcStates/0/event/quest/14/declined/2/message": {
                 "orig": "...bye?",
@@ -518,39 +518,39 @@
                 "text": "Sonya Foudre"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/2/message": {
-                "text": "Salut.",
-                "orig": "Hi."
+                "orig": "Hi.",
+                "text": "Salut."
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/4/message": {
-                "text": "...",
-                "orig": "..."
+                "orig": "...",
+                "text": "..."
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/5/message": {
-                "text": "[acquiesce]",
-                "orig": "[nods]"
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/6/message": {
-                "text": "[secoue la tête]",
-                "orig": "[shakes head]"
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/2/message": {
-                "text": "... Marché.\\. Bon marché.\\. Bonne chance avec œuf !",
-                "orig": "... Trade.\\. Trade good.\\. Enjoy egg!"
+                "orig": "... Trade.\\. Trade good.\\. Enjoy egg!",
+                "text": "... Marché.\\. Bon marché.\\. Bonne chance avec œuf !"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/3/message": {
-                "text": "[acquiesce]",
-                "orig": "[nods]"
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/6/text": {
-                "text": "Le \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] était juste une \\c[3]\\v[item.503.name]\\c[0] !\nC'était une arnaque !",
-                "orig": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\nIt was a scam!"
+                "orig": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\nIt was a scam!",
+                "text": "Le \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] était juste une \\c[3]\\v[item.503.name]\\c[0] !\nC'était une arnaque !"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/traded/10/message": {
-                "text": "... COMMENT ?!",
-                "orig": "... HOW?!"
+                "orig": "... HOW?!",
+                "text": "... COMMENT ?!"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/8/canceled/2/message": {
-                "text": "... part.",
-                "orig": "... leave."
+                "orig": "... leave.",
+                "text": "... part."
         }
 }

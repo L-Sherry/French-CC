@@ -236,44 +236,44 @@
                 "text": "sol : \\v[tmp.number1]"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/6/event/0/thenStep/0/message": {
-                "text": "VRAI",
-                "orig": "TRUE"
+                "orig": "TRUE",
+                "text": "VRAI"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/6/event/0/elseStep/0/message": {
-                "text": "FAUX, aucune entité avec ce nom",
-                "orig": "FALSE, no entity of that name"
+                "orig": "FALSE, no entity of that name",
+                "text": "FAUX, aucune entité avec ce nom"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/6/event/3/thenStep/0/message": {
-                "text": "VRAI",
-                "orig": "TRUE"
+                "orig": "TRUE",
+                "text": "VRAI"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/6/event/3/elseStep/0/message": {
-                "text": "FAUX, aucune entité avec ce nom",
-                "orig": "FALSE, no entity of that name"
+                "orig": "FALSE, no entity of that name",
+                "text": "FAUX, aucune entité avec ce nom"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/6/event/4/thenStep/0/message": {
-                "text": "VRAI",
-                "orig": "TRUE"
+                "orig": "TRUE",
+                "text": "VRAI"
         },
         "maps/enemy-test-henne.json/entities/5/settings/npcStates/6/event/4/elseStep/0/message": {
-                "text": "FAUX, aucune entité avec ce nom",
-                "orig": "FALSE, no entity of that name"
+                "orig": "FALSE, no entity of that name",
+                "text": "FAUX, aucune entité avec ce nom"
         },
         "maps/enemy-test-henne.json/entities/16/settings/event/0/text": {
-                "text": "WINRAR",
-                "orig": "WINRAR"
+                "orig": "WINRAR",
+                "text": "WINRAR"
         },
         "maps/enemy-test-sao.json/entities/11/settings/interact/hoverText": {
-                "text": "Note sur le Défi",
-                "orig": "Challenge Note"
+                "orig": "Challenge Note",
+                "text": "Note sur le Défi"
         },
         "maps/enemy-test-sao.json/entities/11/settings/interact/event/0/text": {
-                "text": "Le duel aura lieu à\n\\c[3][ Nom du lieu ]\\c[0].",
-                "orig": "The duel will take place at\n\\c[3][ Location Name ]\\c[0]."
+                "orig": "The duel will take place at\n\\c[3][ Location Name ]\\c[0].",
+                "text": "Le duel aura lieu à\n\\c[3][ Nom du lieu ]\\c[0]."
         },
         "maps/enemy-test-sao.json/entities/11/settings/interact/event/1/text": {
-                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarrassée de tous les autres adversaires\\c[0].",
-                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0]."
+                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0].",
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarrassée de tous les autres adversaires\\c[0]."
         },
         "maps/henne-test-1.json/entities/52/settings/event/1/message": {
                 "orig": "O hai Carla!",
@@ -480,16 +480,16 @@
                 "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/36/settings/npcStates/0/event/2/message": {
-                "text": "LOL, TRADUISEZ QUAND MÊME !",
-                "orig": "LOL, DO NOT TRANSLATE THIS!"
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/36/settings/npcStates/0/event/3/message": {
-                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)",
-                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)"
+                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)",
+                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)"
         },
         "maps/npc-test.json/entities/36/settings/npcStates/1/event/2/message": {
-                "text": "LOL, TRADUISEZ QUAND MÊME !",
-                "orig": "LOL, DO NOT TRANSLATE THIS!"
+                "orig": "LOL, DO NOT TRANSLATE THIS!",
+                "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/rd-test.json/entities/1/settings/npcStates/3/event/1/message": {
                 "orig": "Sad...",
@@ -592,8 +592,8 @@
                 "text": "OK, bien."
         },
         "maps/text-copy.json/entities/0/settings/event/1/text": {
-                "text": "Salut ?!",
-                "orig": "Hi?!"
+                "orig": "Hi?!",
+                "text": "Salut ?!"
         },
         "maps/text-copy.json/entities/0/settings/event/5/message": {
                 "orig": "Thanks!",

@@ -20,8 +20,8 @@
                 "text": "Crabe Mécanique"
         },
         "enemies/beat-bot.json/meta/species": {
-                "text": "TESTEUR",
-                "orig": "TESTER"
+                "orig": "TESTER",
+                "text": "TESTEUR"
         },
         "enemies/boss-driller.json/actions/RegenShield/4/text": {
                 "orig": "Shield Recovered",
@@ -503,8 +503,8 @@
                 "text": "Robot Débutant"
         },
         "enemies/template.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/troll-mouse-bot.json/actions/AddShield/1/text": {
                 "orig": "Come at me!",
@@ -1026,12 +1026,12 @@
                 "text": "DoubleBouclier On"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/StunStart/1/text": {
-                "text": "[ ASSOMMÉE ]",
-                "orig": "[ STUNNED ]"
+                "orig": "[ STUNNED ]",
+                "text": "[ ASSOMMÉE ]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/TurnOn/2/text": {
-                "text": "[ Chargement Tir ]",
-                "orig": "[ Charging Shot ]"
+                "orig": "[ Charging Shot ]",
+                "text": "[ Chargement Tir ]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/AntiTurret/7/thenStep/0/thenStep/0/text": {
                 "orig": "HEAT",
@@ -1058,8 +1058,8 @@
                 "text": "[Chargement Tir]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/actions/ShotRdy/0/text": {
-                "text": "[ CANON PRÊT ! ]",
-                "orig": "[ CANNON READY! ]"
+                "orig": "[ CANNON READY! ]",
+                "text": "[ CANON PRÊT ! ]"
         },
         "enemies/autumn-rh/big_turret-quest_naval_ally.json/meta/species": {
                 "orig": "Naval Weapon",
@@ -1086,12 +1086,12 @@
                 "text": "DÉPLACEMENT"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "text": "[ BouclierEntier On ]",
-                "orig": "[ FullShield On ]"
+                "orig": "[ FullShield On ]",
+                "text": "[ BouclierEntier On ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/Target/4/text": {
-                "text": "[ CIBLE ]",
-                "orig": "[ TARGET ]"
+                "orig": "[ TARGET ]",
+                "text": "[ CIBLE ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
                 "orig": "STOP",
@@ -1102,20 +1102,20 @@
                 "text": "[CIBLE !]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/SelfExplode/11/text": {
-                "text": "[ EXPLOSION ! ]",
-                "orig": "[GONNA BLOW! ]"
+                "orig": "[GONNA BLOW! ]",
+                "text": "[ EXPLOSION ! ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/ReachGoal/0/text": {
-                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
-                "orig": "[ WEAPON ESCAPED! ]"
+                "orig": "[ WEAPON ESCAPED! ]",
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/ReachRail/1/thenStep/0/text": {
-                "text": "(Point Rail Atteint)",
-                "orig": "(Reach Railpoint)"
+                "orig": "(Reach Railpoint)",
+                "text": "(Point Rail Atteint)"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/actions/RailApproach/0/thenStep/2/thenStep/0/text": {
-                "text": "(PLA Atteint)",
-                "orig": "(Reach PLA)"
+                "orig": "(Reach PLA)",
+                "text": "(PLA Atteint)"
         },
         "enemies/autumn-rh/suicider_float-quest_naval.json/meta/species": {
                 "orig": "Floating Bomb",
@@ -1134,12 +1134,12 @@
                 "text": "DÉPLACEMENT"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "text": "[ BouclierEntier On ]",
-                "orig": "[ FullShield On ]"
+                "orig": "[ FullShield On ]",
+                "text": "[ BouclierEntier On ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/Target/4/text": {
-                "text": "[ CIBLE ]",
-                "orig": "[ TARGET ]"
+                "orig": "[ TARGET ]",
+                "text": "[ CIBLE ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
                 "orig": "STOP",
@@ -1150,12 +1150,12 @@
                 "text": "[CIBLE]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/AntiTurretShot/12/text": {
-                "text": "[ Vise la Tourelle ! ]",
-                "orig": "[ Targetting Turret! ]"
+                "orig": "[ Targetting Turret! ]",
+                "text": "[ Vise la Tourelle ! ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/actions/ReachGoal/0/text": {
-                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
-                "orig": "[ WEAPON ESCAPED! ]"
+                "orig": "[ WEAPON ESCAPED! ]",
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/meta/species": {
                 "orig": "Floating Sentry",
@@ -1166,93 +1166,93 @@
                 "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/proxies/missilesHoming/action/0/thenStep/0/text": {
-                "text": "[ INTERCEPTEZ LES MISSILES ! ]",
-                "orig": "[ INTERCEPT THE MISSILES! ]"
+                "orig": "[ INTERCEPT THE MISSILES! ]",
+                "text": "[ INTERCEPTEZ LES MISSILES ! ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/proxies/missilesHoming/action/15/hit/0/text": {
-                "text": "effets d'explosions ?",
-                "orig": "boom effects?"
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/proxies/missilesHoming/action/17/hit/0/text": {
-                "text": "effets d'explosions ?",
-                "orig": "boom effects?"
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/proxies/missilesHoming/action/17/missed/0/hit/0/text": {
-                "text": "effets d'explosions ?",
-                "orig": "boom effects?"
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/Init/0/thenStep/0/text": {
-                "text": "\\v[entity.attrib.startingWave]",
-                "orig": "\\v[entity.attrib.startingWave]"
+                "orig": "\\v[entity.attrib.startingWave]",
+                "text": "\\v[entity.attrib.startingWave]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/InitMove/2/thenStep/0/text": {
-                "text": "DÉPLACEMENT",
-                "orig": "MOVE"
+                "orig": "MOVE",
+                "text": "DÉPLACEMENT"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "text": "[ BouclierEntier On ]",
-                "orig": "[ FullShield On ]"
+                "orig": "[ FullShield On ]",
+                "text": "[ BouclierEntier On ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/StartPartShield/0/text": {
-                "text": "[ BouclierAvant On ]",
-                "orig": "[ FrontShield On ]"
+                "orig": "[ FrontShield On ]",
+                "text": "[ BouclierAvant On ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/StartAllShields/0/text": {
-                "text": "[ BouclierDouble On ]",
-                "orig": "[ DoubleShield On ]"
+                "orig": "[ DoubleShield On ]",
+                "text": "[ BouclierDouble On ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/Target/4/text": {
-                "text": "[ CIBLE ]",
-                "orig": "[ TARGET ]"
+                "orig": "[ TARGET ]",
+                "text": "[ CIBLE ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/AntiTurretShot/9/thenStep/0/text": {
-                "text": "[ Préparation des Missiles ]",
-                "orig": "[ Preparing Missiles ]"
+                "orig": "[ Preparing Missiles ]",
+                "text": "[ Préparation des Missiles ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/AntiTurretShot/9/elseStep/0/text": {
-                "text": "[ Préparation des Missiles ]",
-                "orig": "[ Preparing Missiles ]"
+                "orig": "[ Preparing Missiles ]",
+                "text": "[ Préparation des Missiles ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/AntiTurretShot_2/8/thenStep/0/text": {
-                "text": "[Ciblage de la Tourelle]",
-                "orig": "[Targetting Turret]"
+                "orig": "[Targetting Turret]",
+                "text": "[Ciblage de la Tourelle]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/AntiTurretShot_2/8/elseStep/0/text": {
-                "text": "[Ciblage de la Tourelle]",
-                "orig": "[Targetting Turret]"
+                "orig": "[Targetting Turret]",
+                "text": "[Ciblage de la Tourelle]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/ReachGoal/0/text": {
-                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
-                "orig": "[ WEAPON ESCAPED! ]"
+                "orig": "[ WEAPON ESCAPED! ]",
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/actions/StunStart/0/text": {
+                "orig": "[ STUN ]",
                 "text": "[ ÉTOURDIE ]",
-                "note": "gender: une tourelle",
-                "orig": "[ STUN ]"
+                "note": "gender: une tourelle"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/meta/species": {
-                "text": "Tourelle Flottante Coordinatrice",
-                "orig": "Floating Coordinator Turret"
+                "orig": "Floating Coordinator Turret",
+                "text": "Tourelle Flottante Coordinatrice"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/meta/descriptions/0/text": {
-                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0].",
-                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
+                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
+                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/Init/0/thenStep/0/text": {
                 "orig": "\\v[entity.attrib.startingWave]",
                 "text": "\\v[entity.attrib.startingWave]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/InitMove/4/thenStep/0/text": {
-                "text": "(DÉPLACEMENT)",
-                "orig": "(MOVE)"
+                "orig": "(MOVE)",
+                "text": "(DÉPLACEMENT)"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/StartFullShield/0/thenStep/0/text": {
-                "text": "[ BouclierEntier On ]",
-                "orig": "[ FullShield On ]"
+                "orig": "[ FullShield On ]",
+                "text": "[ BouclierEntier On ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/Target/4/text": {
-                "text": "[ CIBLE ]",
-                "orig": "[ TARGET ]"
+                "orig": "[ TARGET ]",
+                "text": "[ CIBLE ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/NoTargetMinistun/0/thenStep/0/text": {
                 "orig": "STOP",
@@ -1263,20 +1263,20 @@
                 "text": "[CIBLE]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/AntiTurretShot/12/text": {
-                "text": "[ Vise la Tourelle ! ]",
-                "orig": "[ Targetting Turret! ]"
+                "orig": "[ Targetting Turret! ]",
+                "text": "[ Vise la Tourelle ! ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/ReachGoal/0/text": {
-                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]",
-                "orig": "[ WEAPON ESCAPED! ]"
+                "orig": "[ WEAPON ESCAPED! ]",
+                "text": "[ L'ARME S'EST ÉCHAPPÉE ! ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/ReachRail/1/thenStep/0/text": {
-                "text": "(Point Rail Atteint)",
-                "orig": "(Reach Railpoint)"
+                "orig": "(Reach Railpoint)",
+                "text": "(Point Rail Atteint)"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/RailApproach/0/thenStep/2/thenStep/0/text": {
-                "text": "(PLA Atteint)",
-                "orig": "(Reach PLA)"
+                "orig": "(Reach PLA)",
+                "text": "(PLA Atteint)"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/meta/species": {
                 "orig": "Floating Sentry",
@@ -1304,28 +1304,28 @@
                 "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise."
         },
         "enemies/avatar/apollo-4.json/actions/SelectStrat1/7/text": {
-                "text": "STRATE 1 \\v[entity.attrib.strat]",
-                "orig": "STRAT1 \\v[entity.attrib.strat]"
+                "orig": "STRAT1 \\v[entity.attrib.strat]",
+                "text": "STRATE 1 \\v[entity.attrib.strat]"
         },
         "enemies/avatar/apollo-4.json/actions/SelectStrat2/7/text": {
-                "text": "STRATE 2 \\v[entity.attrib.strat]",
-                "orig": "STRAT2 \\v[entity.attrib.strat]"
+                "orig": "STRAT2 \\v[entity.attrib.strat]",
+                "text": "STRATE 2 \\v[entity.attrib.strat]"
         },
         "enemies/avatar/apollo-4.json/actions/TrapStart/1/text": {
-                "text": "MONTRER FX FAIBLE !!",
-                "orig": "SHOW WEAK FX!!"
+                "orig": "SHOW WEAK FX!!",
+                "text": "MONTRER FX FAIBLE !!"
         },
         "enemies/avatar/apollo-4.json/actions/TrapEnd/0/text": {
-                "text": "FIN PIÈGE !",
-                "orig": "TRAP END!"
+                "orig": "TRAP END!",
+                "text": "FIN PIÈGE !"
         },
         "enemies/avatar/apollo-4.json/meta/species": {
-                "text": "Guerrier de la Justice",
-                "orig": "Warrior of Justice"
+                "orig": "Warrior of Justice",
+                "text": "Guerrier de la Justice"
         },
         "enemies/avatar/apollo-4.json/meta/descriptions/0/text": {
-                "text": "Oh non, apollo est de retour avec sa trompette !",
-                "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful."
+                "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful.",
+                "text": "Oh non, apollo est de retour avec sa trompette !"
         },
         "enemies/avatar/apollo.json/meta/species": {
                 "orig": "Warrior of Justice",
@@ -1357,108 +1357,108 @@
                 "text": "Humain"
         },
         "enemies/beach/bug-samurai-beach.json/meta/species": {
-                "text": "Insecte Honorable",
-                "orig": "Honorable Insect"
+                "orig": "Honorable Insect",
+                "text": "Insecte Honorable"
         },
         "enemies/beach/bug-samurai-beach.json/meta/descriptions/0/text": {
-                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux.",
-                "orig": "This bug is a true warrior and master of the hidden arts of the blade. Trained by a master since its birth it takes down enemies with powerful strikes. Strikes so powerful they combust the air around them and create flames."
+                "orig": "This bug is a true warrior and master of the hidden arts of the blade. Trained by a master since its birth it takes down enemies with powerful strikes. Strikes so powerful they combust the air around them and create flames.",
+                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux."
         },
         "enemies/beach/bug-samurai-beach.json/meta/descriptions/1/text": {
-                "text": "Leurs armes de prédilection sont des épées duales connues sous le nom de \"Lames Soleils\". Quand il est menacé, il peut faire apparaitre une barrière de chaleur et peut utiliser une attaque de feinte en sautant derrière ses ennemis suivis d'un tourbillon de feu énorme.",
-                "orig": "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl."
+                "orig": "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl.",
+                "text": "Leurs armes de prédilection sont des épées duales connues sous le nom de \"Lames Soleils\". Quand il est menacé, il peut faire apparaitre une barrière de chaleur et peut utiliser une attaque de feinte en sautant derrière ses ennemis suivis d'un tourbillon de feu énorme."
         },
         "enemies/beach/fish-beach.json/actions/QuestEscort-TargetEscortee/12/text": {
-                "text": "!!!",
-                "orig": "!!!"
+                "orig": "!!!",
+                "text": "!!!"
         },
         "enemies/beach/fish-beach.json/meta/species": {
-                "text": "Poisson Flottant",
-                "orig": "Floating Fish"
+                "orig": "Floating Fish",
+                "text": "Poisson Flottant"
         },
         "enemies/beach/fish-beach.json/meta/descriptions/0/text": {
-                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde.",
-                "orig": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard."
+                "orig": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard.",
+                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde."
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-MoveToTree/2/text": {
-                "text": "[Bruits Affamés]",
-                "orig": "[Hungry noises]"
+                "orig": "[Hungry noises]",
+                "text": "[Bruits Affamés]"
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-LickTree/5/text": {
-                "text": "[Lèche l'Arbre]",
-                "orig": "[Licking Tree]"
+                "orig": "[Licking Tree]",
+                "text": "[Lèche l'Arbre]"
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-AddShield/1/thenStep/0/text": {
-                "text": "<BOUCLIER ON>",
-                "orig": "<SHIELD ON>"
+                "orig": "<SHIELD ON>",
+                "text": "<BOUCLIER ON>"
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-RemoveShield/2/thenStep/0/text": {
-                "text": "<BOUCLIER OFF>",
-                "orig": "<SHIELD OFF>"
+                "orig": "<SHIELD OFF>",
+                "text": "<BOUCLIER OFF>"
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-SwitchMarker/1/thenStep/0/text": {
-                "text": "<CHANGE MARQUEUR>",
-                "orig": "<SWITCH MARKER>"
+                "orig": "<SWITCH MARKER>",
+                "text": "<CHANGE MARQUEUR>"
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-AttackBall/8/text": {
-                "text": "[Focalisation Sonde]",
-                "orig": "[Focussing Probe]"
+                "orig": "[Focussing Probe]",
+                "text": "[Focalisation Sonde]"
         },
         "enemies/beach/hedgehog-beach.json/meta/species": {
-                "text": "Mammifère de Plage",
-                "orig": "Beach Mammal"
+                "orig": "Beach Mammal",
+                "text": "Mammifère de Plage"
         },
         "enemies/beach/hedgehog-beach.json/meta/descriptions/0/text": {
-                "text": "Cette sous-espèce du \\v[combat.name.hedgehog] commun peut uniquement se trouver à \\c[3]\\v[area.autumn-fall.name]\\c[0]. Leurs piquants sont très noirs et leur point rouge sur leur derrière est prévu pour effrayer de potentiels prédateurs vu qu'il a la couleur du sang.\nMalgré cela, ces créatures sont passives et n'attaquent que si elles sont attaquées. Ils utiliseront le même arsenal d'attaques que les \\v[combat.name.hedgehog]s et les \\v[combat.name.hedgehog]s Âgés mais vont sprinter deux fois.",
-                "orig": "This sub-species of the common \\v[combat.name.hedgehog] can only be found in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Their needles are pitch black and the red patch on their back is meant to scare off potential predators since it looks like blood. \nDespite all this, these creatures are passive and only attack when attacked. They will use the same attacks \\v[combat.name.hedgehog] and \\v[combat.name.hedgehog-alt] use but will mix up the dash attack by attacking twice in a row."
+                "orig": "This sub-species of the common \\v[combat.name.hedgehog] can only be found in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Their needles are pitch black and the red patch on their back is meant to scare off potential predators since it looks like blood. \nDespite all this, these creatures are passive and only attack when attacked. They will use the same attacks \\v[combat.name.hedgehog] and \\v[combat.name.hedgehog-alt] use but will mix up the dash attack by attacking twice in a row.",
+                "text": "Cette sous-espèce du \\v[combat.name.hedgehog] commun peut uniquement se trouver à \\c[3]\\v[area.autumn-fall.name]\\c[0]. Leurs piquants sont très noirs et leur point rouge sur leur derrière est prévu pour effrayer de potentiels prédateurs vu qu'il a la couleur du sang.\nMalgré cela, ces créatures sont passives et n'attaquent que si elles sont attaquées. Ils utiliseront le même arsenal d'attaques que les \\v[combat.name.hedgehog]s et les \\v[combat.name.hedgehog]s Âgés mais vont sprinter deux fois."
         },
         "enemies/beach/penguin-beach.json/actions/jumpWater/6/thenStep/0/thenStep/0/text": {
-                "text": "Z-0",
-                "orig": "Z-0"
+                "orig": "Z-0",
+                "text": "Z-0"
         },
         "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/thenStep/0/thenStep/0/text": {
-                "text": "Z-1",
-                "orig": "Z-1"
+                "orig": "Z-1",
+                "text": "Z-1"
         },
         "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
-                "text": "Z-2",
-                "orig": "Z-2"
+                "orig": "Z-2",
+                "text": "Z-2"
         },
         "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
-                "text": "Z-3",
-                "orig": "Z-3"
+                "orig": "Z-3",
+                "text": "Z-3"
         },
         "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
-                "text": "Z-4",
-                "orig": "Z-4"
+                "orig": "Z-4",
+                "text": "Z-4"
         },
         "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text": {
-                "text": "Z-5+",
-                "orig": "Z-5+"
+                "orig": "Z-5+",
+                "text": "Z-5+"
         },
         "enemies/beach/penguin-beach.json/meta/species": {
-                "text": "Oiseau",
-                "orig": "Bird"
+                "orig": "Bird",
+                "text": "Oiseau"
         },
         "enemies/beach/penguin-beach.json/meta/descriptions/0/text": {
-                "text": "Un pingouin. Sur une montagne. Comment il s'est retrouvé là, personne ne le sait, et ne le saura jamais. Il va lancer des boules de neiges à ses ennemis et va glisser dessus. Lorsqu'il est poussé dans l'eau, il va rapidement en sauter et attaquer en piqué, donc gardez toujours un œil autour de vous.",
-                "orig": "A penguin on a mountain. How it made its way up here shall be forever unknown to mankind. It will throw snowballs at its enemies and slide at them. When pushed into the water they will jump out and attack with a fast divebomb, so watch out for your surroundings."
+                "orig": "A penguin on a mountain. How it made its way up here shall be forever unknown to mankind. It will throw snowballs at its enemies and slide at them. When pushed into the water they will jump out and attack with a fast divebomb, so watch out for your surroundings.",
+                "text": "Un pingouin. Sur une montagne. Comment il s'est retrouvé là, personne ne le sait, et ne le saura jamais. Il va lancer des boules de neiges à ses ennemis et va glisser dessus. Lorsqu'il est poussé dans l'eau, il va rapidement en sauter et attaquer en piqué, donc gardez toujours un œil autour de vous."
         },
         "enemies/beach/penguin-beach.json/meta/descriptions/1/text": {
-                "text": "Le \\v[combat.name.minibosses/penguin-rapper] peut utiliser des différentes formes de beatboxing pour l'animer pour attaquer en formation avec d'autres membres de son espèce.",
-                "orig": "The \\v[combat.name.minibosses/penguin-rapper] can use various forms of beatbox to animate it to attack in formation with other members of its kind."
+                "orig": "The \\v[combat.name.minibosses/penguin-rapper] can use various forms of beatbox to animate it to attack in formation with other members of its kind.",
+                "text": "Le \\v[combat.name.minibosses/penguin-rapper] peut utiliser des différentes formes de beatboxing pour l'animer pour attaquer en formation avec d'autres membres de son espèce."
         },
         "enemies/beach/sandworm-beach.json/meta/species": {
-                "text": "Ver",
-                "orig": "Worm"
+                "orig": "Worm",
+                "text": "Ver"
         },
         "enemies/beach/sandworm-beach.json/meta/descriptions/0/text": {
-                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement.",
-                "orig": "These slimy creatures spend most of their time halfway underground almost looking like a deformed stone. Their bodies are extremely flexible and can fit into holes the size of a hand. \nIronically they do not like overheating and will get extremely hostile when exposed to it for too long. In their enraged form they will spit out scorching hot rocks and move much faster."
+                "orig": "These slimy creatures spend most of their time halfway underground almost looking like a deformed stone. Their bodies are extremely flexible and can fit into holes the size of a hand. \nIronically they do not like overheating and will get extremely hostile when exposed to it for too long. In their enraged form they will spit out scorching hot rocks and move much faster.",
+                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement."
         },
         "enemies/beach/sandworm-beach.json/meta/descriptions/1/text": {
-                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère.",
-                "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body."
+                "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body.",
+                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère."
         },
         "enemies/boss/designer-1.json/meta/species": {
                 "orig": "???",
@@ -1613,36 +1613,36 @@
                 "text": "Il peut faire des offres que vous ne pouvez pas refuser."
         },
         "enemies/cold/goat-worker.json/actions/moveBomb/1/thenStep/0/text": {
-                "text": "BOMBE !",
-                "orig": "BOMB!"
+                "orig": "BOMB!",
+                "text": "BOMBE !"
         },
         "enemies/cold/goat-worker.json/actions/bombKick/1/thenStep/0/text": {
-                "text": "SHOOT !",
-                "orig": "KICK!"
+                "orig": "KICK!",
+                "text": "SHOOT !"
         },
         "enemies/cold/goat-worker.json/actions/bombDaze/8/text": {
-                "text": "[Déstabilisé]",
-                "orig": "[Off Balance]"
+                "orig": "[Off Balance]",
+                "text": "[Déstabilisé]"
         },
         "enemies/cold/goat-worker.json/actions/bombKickPassive/0/thenStep/0/text": {
-                "text": "SHOOT !",
-                "orig": "KICK!"
+                "orig": "KICK!",
+                "text": "SHOOT !"
         },
         "enemies/cold/goat-worker.json/actions/bombKickPassive/1/text": {
-                "text": "Préparation de la bombe...",
-                "orig": "Preparing bomb..."
+                "orig": "Preparing bomb...",
+                "text": "Préparation de la bombe..."
         },
         "enemies/cold/goat-worker.json/actions/sceneKick/0/thenStep/0/text": {
-                "text": "SHOOT !",
-                "orig": "KICK!"
+                "orig": "KICK!",
+                "text": "SHOOT !"
         },
         "enemies/cold/goat-worker.json/meta/species": {
-                "text": "Mammifère",
-                "orig": "Mammal"
+                "orig": "Mammal",
+                "text": "Mammifère"
         },
         "enemies/cold/goat-worker.json/meta/descriptions/0/text": {
-                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0].",
-                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0]."
+                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0].",
+                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0]."
         },
         "enemies/cold/mine-coldbug-quest.json/meta/species": {
                 "orig": "Insect, Bug",
@@ -1681,40 +1681,40 @@
                 "text": "Une version avancée du \\c[3]\\v[combat.name.mine-diggingbot]\\c[0] qui a été victime d'une corruption par les \\c[3]Pugèleurs Compétents\\c[0]. Outre les capacités habituelles de minage de l'ancien modèle, il peut aussi utiliser de nombreuses capacités \\c[3]basées sur le chaud\\c[0] une fois qu'il atteint une \\c[3]température de cœur\\c[0] assez élevée."
         },
         "enemies/cold/parrot-gangster-3.json/actions/Init/0/thenStep/0/text": {
-                "text": "\\v[entity.name]",
-                "orig": "\\v[entity.name]"
+                "orig": "\\v[entity.name]",
+                "text": "\\v[entity.name]"
         },
         "enemies/cold/parrot-gangster-3.json/actions/GangsterShootCover/15/text": {
-                "text": "[Tir...]",
-                "orig": "[Shooting...]"
+                "orig": "[Shooting...]",
+                "text": "[Tir...]"
         },
         "enemies/cold/parrot-gangster-3.json/actions/GangsterReactCharged/7/text": {
-                "text": "[Perdu Contrôle !]",
-                "orig": "[Lost control!]"
+                "orig": "[Lost control!]",
+                "text": "[Perdu Contrôle !]"
         },
         "enemies/cold/parrot-gangster-3.json/actions/GangsterWarning/1/text": {
-                "text": "[CRIS D'OISEAU D'AVERTISSEMENT !]",
-                "orig": "[WARNING BIRDNOISES!]"
+                "orig": "[WARNING BIRDNOISES!]",
+                "text": "[CRIS D'OISEAU D'AVERTISSEMENT !]"
         },
         "enemies/cold/parrot-gangster-3.json/actions/GangsterShootHostage/0/text": {
-                "text": "[Exécution Otage...]",
-                "orig": "[Shooting Hostage...]"
+                "orig": "[Shooting Hostage...]",
+                "text": "[Exécution Otage...]"
         },
         "enemies/cold/parrot-gangster-3.json/actions/GangsterRetreat/2/text": {
-                "text": "RETRAITE",
-                "orig": "RETREATING"
+                "orig": "RETREATING",
+                "text": "RETRAITE"
         },
         "enemies/cold/parrot-gangster-3.json/actions/SceneBomb/0/thenStep/0/text": {
-                "text": "FRUIT !",
-                "orig": "FRUIT!"
+                "orig": "FRUIT!",
+                "text": "FRUIT !"
         },
         "enemies/cold/parrot-gangster-3.json/meta/species": {
-                "text": "Oiseau Hors La Loi",
-                "orig": "Lawless Bird"
+                "orig": "Lawless Bird",
+                "text": "Oiseau Hors La Loi"
         },
         "enemies/cold/parrot-gangster-3.json/meta/descriptions/0/text": {
-                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés.",
-                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods."
+                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
+                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
         },
         "enemies/cold/turret-monks-invinc.json/actions/GoOn/0/text": {
                 "orig": "Activated!",
@@ -1733,8 +1733,8 @@
                 "text": "Sentinelle Débutante"
         },
         "enemies/final/ele-pillar-cold-old.json/meta/species": {
-                "text": "Sentinelle Débutante",
-                "orig": "Rookie Sentry"
+                "orig": "Rookie Sentry",
+                "text": "Sentinelle Débutante"
         },
         "enemies/forest/bamboo-fountain.json/meta/species": {
                 "orig": "Fountain",
@@ -1849,8 +1849,8 @@
                 "text": "Se trouvant habituellement dans les caves de la \\v[area.forest.name], cette grosse araignée est le cauchemar de nombreux mineurs. Elle ralentit sa proie puis attaque avec un cri qui rend sourd. En groupe ils s'unissent avec d'autres \\v[combat.name.forest/spider]s. Prenez gare lorsqu'il se met à sauter avec son pouvoir de froid glacial."
         },
         "enemies/guest/firespirit.json/meta/species": {
-                "text": "Quelque-chose qui Brûle",
-                "orig": "Burning Something"
+                "orig": "Burning Something",
+                "text": "Quelque-chose qui Brûle"
         },
         "enemies/guest/glitch-boss.json/meta/species": {
                 "orig": "[Object]",
@@ -1862,12 +1862,12 @@
                 "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
         },
         "enemies/guest/honeybear.json/meta/species": {
-                "text": "Ours",
-                "orig": "Bear"
+                "orig": "Bear",
+                "text": "Ours"
         },
         "enemies/guest/sao.json/meta/species": {
-                "text": "Ninja",
-                "orig": "Ninja"
+                "orig": "Ninja",
+                "text": "Ninja"
         },
         "enemies/heat/antlion.json/meta/species": {
                 "orig": "Mutated Worm",
@@ -2034,12 +2034,12 @@
                 "text": "Quand un \\v[combat.name.heat/scorpion] devient plus âgé, il obtient le rang de \"Big Boss\". Il est de tradition que chaque \"Big Boss\" doit offrir un œil comme tribut pour obtenir ce rang, ou sinon il est rejeté pour l'éternité. Ce rituel cruel n'a jamais été observé par quiconque donc il est difficile de savoir comment ils obtiennent leur cache-œil."
         },
         "enemies/heat/scorpion-robo.json/meta/species": {
-                "text": "Artillerie Scorpion",
-                "orig": "Scorpion Artillery"
+                "orig": "Scorpion Artillery",
+                "text": "Artillerie Scorpion"
         },
         "enemies/heat/scorpion-robo.json/meta/descriptions/0/text": {
-                "text": "Cette variante plus disciplinée du \\c[3]\\v[combat.name.heat/scorpion]\\c[0] a été équipé d'un lanceur d'artillerie légère sur son dos.\nParce que les pinces et le dard n'étaient pas assez effrayants, il faut croire.",
-                "orig": "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\nBecause the pincers and stinger weren't already scary enough, apparently."
+                "orig": "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\nBecause the pincers and stinger weren't already scary enough, apparently.",
+                "text": "Cette variante plus disciplinée du \\c[3]\\v[combat.name.heat/scorpion]\\c[0] a été équipé d'un lanceur d'artillerie légère sur son dos.\nParce que les pinces et le dard n'étaient pas assez effrayants, il faut croire."
         },
         "enemies/heat/scorpion.json/meta/species": {
                 "orig": "Scorpion",
@@ -2274,16 +2274,16 @@
                 "text": "Mite Amoureuse du Sable"
         },
         "enemies/heat/special/sand-moth-1.json/meta/descriptions/0/text": {
-                "text": "Une variante ancienne de la \\v[combat.name.heat/moth] commune qui se sent chez elle à l'intérieur de salles très sèches. Il est très amoureux du sable, préférant cette sensation rugueuse et brute à des textures plus douces et lisses.\n\nIl est extrêmement agile et va éviter toutes les attaques qu'on lui porte, sauf s'il est distrait lorsqu'il tire son rayon laser guidé.\nIl sera potentiellement un peu confus par des cibles qui disparaissent rapidement de son champ de vision.",
-                "orig": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however, be somewhat easily confused by targets that quickly vanish from its line of sight."
+                "orig": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however, be somewhat easily confused by targets that quickly vanish from its line of sight.",
+                "text": "Une variante ancienne de la \\v[combat.name.heat/moth] commune qui se sent chez elle à l'intérieur de salles très sèches. Il est très amoureux du sable, préférant cette sensation rugueuse et brute à des textures plus douces et lisses.\n\nIl est extrêmement agile et va éviter toutes les attaques qu'on lui porte, sauf s'il est distrait lorsqu'il tire son rayon laser guidé.\nIl sera potentiellement un peu confus par des cibles qui disparaissent rapidement de son champ de vision."
         },
         "enemies/heat/special/sandman-1.json/meta/species": {
                 "orig": "Sandman King",
                 "text": "Roi des Hommes-Sables"
         },
         "enemies/heat/special/sandman-1.json/meta/descriptions/0/text": {
-                "text": "Un tas de sable, qui est probablement animé par un esprit mystérieux de ce qui était probablement une sorte de Roi des Anciens.\n\nIl passe toute sa vie à garder des trésors mystérieux dans des coins secs.",
-                "orig": "Piles of sand, presumably animated by the spirit of what was once an Ancient leader of sort.\n\nIt spends its eternal life guarding mysterious treasure in dry areas."
+                "orig": "Piles of sand, presumably animated by the spirit of what was once an Ancient leader of sort.\n\nIt spends its eternal life guarding mysterious treasure in dry areas.",
+                "text": "Un tas de sable, qui est probablement animé par un esprit mystérieux de ce qui était probablement une sorte de Roi des Anciens.\n\nIl passe toute sa vie à garder des trésors mystérieux dans des coins secs."
         },
         "enemies/heat/special/volturbine-cave.json/actions/AirSurfaceShot/7/text": {
                 "orig": "[heated wing noises]",
@@ -2540,24 +2540,24 @@
                 "text": "Machinerie"
         },
         "enemies/jungle/special/capture-cage-1.json/actions/shockHitActivate/8/text": {
-                "text": "[Recherche de cibles]",
-                "orig": "[Searching target]"
+                "orig": "[Searching target]",
+                "text": "[Recherche de cibles]"
         },
         "enemies/jungle/special/capture-cage-1.json/actions/startCapture/1/thenStep/8/thenStep/0/text": {
-                "text": "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )",
-                "orig": "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )"
+                "orig": "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )",
+                "text": "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )"
         },
         "enemies/jungle/special/capture-cage-1.json/actions/succeedCapture/11/thenStep/0/text": {
-                "text": "( CAPTURE )",
-                "orig": "( CAPTURE )"
+                "orig": "( CAPTURE )",
+                "text": "( CAPTURE )"
         },
         "enemies/jungle/special/capture-cage-1.json/actions/test/5/thenStep/0/text": {
-                "text": "( CAPTURE )",
-                "orig": "( CAPTURE )"
+                "orig": "( CAPTURE )",
+                "text": "( CAPTURE )"
         },
         "enemies/jungle/special/capture-cage-1.json/meta/species": {
-                "text": "Machinerie",
-                "orig": "Machinery"
+                "orig": "Machinery",
+                "text": "Machinerie"
         },
         "enemies/jungle/special/guard.json/meta/species": {
                 "orig": "Underpayed Guard",
@@ -3104,32 +3104,32 @@
                 "text": "Un cousin proche du \\c[3]\\v[combat.name.jungle/shockcat]\\c[0] normal, ce spécimen préfère vivre sous la terre. Ils ont habituellement une forte connexion aux points intensifs de pouvoir des Anciens qu'ils protègent avec ardeur.\nBien qu'ils suivent scrupuleusement leur chemin, contrairement à leurs cousins moins disciplinés et décidément plus câlins, ils gardent l'agilité et les réflexes rapides comme l'éclair d'un \\v[combat.name.jungle/shockcat]. Attendez-vous à ce qu'ils \\c[3]évitent les projectiles\\c[0] des tourelles avec aise ! \\c[3]Esquiver va désactiver leur bouclier\\c[0], par contre, et les rendre \\c[3]vulnérables, surtout aux projectiles chargés\\c[0] pendant quelques secondes."
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/1/thenStep/0/text": {
-                "text": "[ CAPTURE ]",
-                "orig": "[ CAPTURING ]"
+                "orig": "[ CAPTURING ]",
+                "text": "[ CAPTURE ]"
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/1/thenStep/1/thenStep/0/text": {
-                "text": "( DÉBUT CAPTURE:  \\v[entity.attrib.cageName] )",
-                "orig": "( CAPTURE START: \\v[entity.attrib.cageName] )"
+                "orig": "( CAPTURE START: \\v[entity.attrib.cageName] )",
+                "text": "( DÉBUT CAPTURE:  \\v[entity.attrib.cageName] )"
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureTick/8/thenStep/0/text": {
-                "text": "(CAPTURE: \\v[tmp.temp] )",
-                "orig": "(CAPTURE: \\v[tmp.temp] )"
+                "orig": "(CAPTURE: \\v[tmp.temp] )",
+                "text": "(CAPTURE: \\v[tmp.temp] )"
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureFail/6/thenStep/0/text": {
-                "text": "( LIBRE !!! \\v[entity.attrib.cageName] )",
-                "orig": "( FREE!!! \\v[entity.attrib.cageName] )"
+                "orig": "( FREE!!! \\v[entity.attrib.cageName] )",
+                "text": "( LIBRE !!! \\v[entity.attrib.cageName] )"
         },
         "enemies/jungle/special/shockat-capture.json/actions/InterruptCapture/5/thenStep/0/text": {
-                "text": "( CAPTURE INTERROMPUE )",
-                "orig": "( INTERRUPT CAPTURE )"
+                "orig": "( INTERRUPT CAPTURE )",
+                "text": "( CAPTURE INTERROMPUE )"
         },
         "enemies/jungle/special/shockat-capture.json/meta/species": {
-                "text": "Mammifère",
-                "orig": "Mammal"
+                "orig": "Mammal",
+                "text": "Mammifère"
         },
         "enemies/jungle/special/shockat-capture.json/meta/descriptions/0/text": {
-                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénères violets. Ils sont connus pour être encore plus puissants et pour leur production d'énergie électrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existence a été découverte par un Shad intelligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !",
-                "orig": "This yellow variant of the common \\v[combat.name.jungle/shockcat] usually lives in more remote places than their purple counterparts. They are known for having an even stronger and also more consistent output of electricity which makes them very useful for powering devices!\n\nConveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!"
+                "orig": "This yellow variant of the common \\v[combat.name.jungle/shockcat] usually lives in more remote places than their purple counterparts. They are known for having an even stronger and also more consistent output of electricity which makes them very useful for powering devices!\n\nConveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!",
+                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénères violets. Ils sont connus pour être encore plus puissants et pour leur production d'énergie électrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existence a été découverte par un Shad intelligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !"
         },
         "enemies/jungle/special/snowman-jungle-1.json/actions/AdjustEnemy/0/thenStep/0/text": {
                 "orig": "(Adjust Enemy)",
@@ -3489,40 +3489,40 @@
                 "text": "Un rare type de \\c[3]\\v[combat.name.penguin]\\c[0] qui s'est construit une cachette profondément dans les montagnes du \\c[3]\\v[area.bergen-trails.name]\\c[0]. Lorsqu'on l'approche, il va immédiatement penser que vous voulez piquer son flow et va sauter de sa \"scène\". Il va appeler des \\v[combat.name.penguin] et leur commander de faire différentes attaques en fonction de son humeur. Énervez le en abattant ses congénères pour le faire sauter en bas."
         },
         "enemies/minibosses/raid-core.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/minibosses/raid-dispenser.json/actions/Recover/0/thenStep/1/thenStep/0/text": {
-                "text": "Changement Mode",
-                "orig": "Switch Mode"
+                "orig": "Switch Mode",
+                "text": "Changement Mode"
         },
         "enemies/minibosses/raid-dispenser.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/minibosses/raid-face.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/minibosses/raid-laser.json/actions/TurnOn/0/thenStep/2/text": {
-                "text": "ACTIVATION",
-                "orig": "ACTIVATE"
+                "orig": "ACTIVATE",
+                "text": "ACTIVATION"
         },
         "enemies/minibosses/raid-laser.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/minibosses/raid-turret-small.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/minibosses/raid-turret.json/actions/FailDispenser/2/text": {
-                "text": "ABSORBÉ",
-                "orig": "ABSORBED"
+                "orig": "ABSORBED",
+                "text": "ABSORBÉ"
         },
         "enemies/minibosses/raid-turret.json/meta/species": {
-                "text": "????",
-                "orig": "????"
+                "orig": "????",
+                "text": "????"
         },
         "enemies/minibosses/shockcat-black.json/meta/species": {
                 "orig": "Mammal",
@@ -3545,8 +3545,8 @@
                 "text": "C'est le véritable coupable derrière l'infestation du \\c[3]\\v[area.jungle.name]\\c[0]. Il a réussi on ne sait comment à puiser dans les systèmes du tracé et a obtenu de sérieux pouvoirs en retour. Non seulement il peut communiquer jusqu'à un certain point, il a également développé un appétit pour tout ce qui est électrique, comme ces plantes brillantes.\nIl utilise les mêmes tactiques que le paresseux normal mais les variera en vous évitant et en utilisant un puissant sabre pour balayer le sol avec vous. En plus, il peut vous enfermer dans une cage de foudre et vous attaquer plusieurs fois avec des sprints."
         },
         "enemies/minibosses/snow-megatank-orb.json/meta/species": {
-                "text": "Orbe du Tank",
-                "orig": "Orb of Tank"
+                "orig": "Orb of Tank",
+                "text": "Orbe du Tank"
         },
         "enemies/minibosses/spider-black.json/meta/species": {
                 "orig": "Mean war machine",

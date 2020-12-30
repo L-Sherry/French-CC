@@ -435,27 +435,27 @@
                 "text": "Ouais."
         },
         "maps/bergen/interior/guild-basement.json/entities/109/settings/event/4/thenStep/0/text": {
-                "text": "\\v[tmp.playerPos.y]",
-                "orig": "\\v[tmp.playerPos.y]"
+                "orig": "\\v[tmp.playerPos.y]",
+                "text": "\\v[tmp.playerPos.y]"
         },
         "maps/bergen/interior/guild-basement.json/entities/109/settings/event/4/thenStep/1/text": {
-                "text": "\\v[tmp.softlockBox1Pos.x]",
-                "orig": "\\v[tmp.softlockBox1Pos.x]"
+                "orig": "\\v[tmp.softlockBox1Pos.x]",
+                "text": "\\v[tmp.softlockBox1Pos.x]"
         },
         "maps/bergen/interior/guild-basement.json/entities/109/settings/event/4/thenStep/2/text": {
-                "text": "\\v[tmp.softlockBox2Pos.y]",
-                "orig": "\\v[tmp.softlockBox2Pos.y]"
+                "orig": "\\v[tmp.softlockBox2Pos.y]",
+                "text": "\\v[tmp.softlockBox2Pos.y]"
         },
         "maps/bergen/interior/guild-basement.json/entities/109/settings/event/4/thenStep/3/text": {
-                "text": "\\v[tmp.softlockBox3Pos.x]",
-                "orig": "\\v[tmp.softlockBox3Pos.x]"
+                "orig": "\\v[tmp.softlockBox3Pos.x]",
+                "text": "\\v[tmp.softlockBox3Pos.x]"
         },
         "maps/bergen/interior/guild-basement.json/entities/109/settings/event/9/thenStep/0/text": {
-                "text": "[Joueur bloqué. Démarrage du secours d'urgence.]",
-                "orig": "[Player stuck. Initiate emergency rescue.]"
+                "orig": "[Player stuck. Initiate emergency rescue.]",
+                "text": "[Joueur bloqué. Démarrage du secours d'urgence.]"
         },
         "maps/bergen/interior/guild-basement.json/entities/110/settings/event/1/text": {
-                "text": "[Secours d'urgence annulé.]",
-                "orig": "[Emergency rescue cancelled.]"
+                "orig": "[Emergency rescue cancelled.]",
+                "text": "[Secours d'urgence annulé.]"
         }
 }

@@ -64,12 +64,12 @@
                 "text": "Une bourrasque de flammes ardentes contrôlables qui cause des dégâts sur une petite zone."
         },
         "players/apollo.json/actions/HEAT/DASH_SPECIAL1_A/name": {
-                "text": "Frappe Rouge",
-                "orig": "Crimson Strike"
+                "orig": "Crimson Strike",
+                "text": "Frappe Rouge"
         },
         "players/apollo.json/actions/HEAT/DASH_SPECIAL1_A/description": {
-                "text": "Sprintez à travers vos ennemis en laissant des traces de flammes.",
-                "orig": "Dash through your enemies while leaving a trail of fire."
+                "orig": "Dash through your enemies while leaving a trail of fire.",
+                "text": "Sprintez à travers vos ennemis en laissant des traces de flammes."
         },
         "players/apollo.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
                 "orig": "Ice Twirl",
@@ -96,61 +96,61 @@
                 "text": "Lance une salve de piques gelées."
         },
         "players/apollo.json/actions/COLD/DASH_SPECIAL1_A/name": {
-                "text": "Frappe Indigo",
-                "orig": "Indigo Strike"
+                "orig": "Indigo Strike",
+                "text": "Frappe Indigo"
         },
         "players/apollo.json/actions/COLD/DASH_SPECIAL1_A/description": {
-                "text": "Sprintez à haute vitesse, en laissant une trainée de cristaux de glace derrière vous, causant des dégâts au contact.",
-                "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact."
+                "orig": "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact.",
+                "text": "Sprintez à haute vitesse, en laissant une trainée de cristaux de glace derrière vous, causant des dégâts au contact."
         },
         "players/apollo.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
-                "text": "Pirouette Tesla",
-                "orig": "Tesla Twist"
+                "orig": "Tesla Twist",
+                "text": "Pirouette Tesla"
         },
         "players/apollo.json/actions/SHOCK/ATTACK_SPECIAL1/description": {
-                "text": "Attaquez avec une série de plusieurs attaques tournoyantes avec une petite allonge.",
-                "orig": "Attack with a series of multiple fast spin attacks within a small radius."
+                "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
+                "text": "Attaquez avec une série de plusieurs attaques tournoyantes avec une petite allonge."
         },
         "players/apollo.json/actions/SHOCK/THROW_SPECIAL1/name": {
+                "orig": "Homing Wisp",
                 "text": "Esprit Chercheur",
-                "note": "size constraint is severe, shortest Wisp trans is Flamerolle",
-                "orig": "Homing Wisp"
+                "note": "size constraint is severe, shortest Wisp trans is Flamerolle"
         },
         "players/apollo.json/actions/SHOCK/THROW_SPECIAL1/description": {
-                "text": "Tire une salve de projectiles autoguidés.",
-                "orig": "Shoot an array of small homing projectiles."
+                "orig": "Shoot an array of small homing projectiles.",
+                "text": "Tire une salve de projectiles autoguidés."
         },
         "players/apollo.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
-                "text": "Dard du Tonnerre",
-                "orig": "Thunder Dart"
+                "orig": "Thunder Dart",
+                "text": "Dard du Tonnerre"
         },
         "players/apollo.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
-                "text": "Sprintez à travers les ennemis en laissant des boules d'éclairs.",
-                "orig": "Dash through enemies leaving a shocking trail of lightning."
+                "orig": "Dash through enemies leaving a shocking trail of lightning.",
+                "text": "Sprintez à travers les ennemis en laissant des boules d'éclairs."
         },
         "players/apollo.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
-                "text": "Frappe de Ki",
-                "orig": "Ki Thrust"
+                "orig": "Ki Thrust",
+                "text": "Frappe de Ki"
         },
         "players/apollo.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
-                "text": "Attaque frontale puissante qui envoie les ennemis dans les airs.",
-                "orig": "Frontal attack with high damage, sending all hit enemies flying."
+                "orig": "Frontal attack with high damage, sending all hit enemies flying.",
+                "text": "Attaque frontale puissante qui envoie les ennemis dans les airs."
         },
         "players/apollo.json/actions/WAVE/THROW_SPECIAL1_B/name": {
-                "text": "Drainage de l'Âme",
-                "orig": "Essence Drain"
+                "orig": "Essence Drain",
+                "text": "Drainage de l'Âme"
         },
         "players/apollo.json/actions/WAVE/THROW_SPECIAL1_B/description": {
-                "text": "Touchez les ennemis avec un essaim de projectiles et absorbez leurs HPs.",
-                "orig": "Hit enemies with a swarm of projectiles absorbing its HP."
+                "orig": "Hit enemies with a swarm of projectiles absorbing its HP.",
+                "text": "Touchez les ennemis avec un essaim de projectiles et absorbez leurs HPs."
         },
         "players/apollo.json/actions/WAVE/DASH_SPECIAL1_A/name": {
-                "text": "Frappe Verdure",
-                "orig": "Verdant Strike"
+                "orig": "Verdant Strike",
+                "text": "Frappe Verdure"
         },
         "players/apollo.json/actions/WAVE/DASH_SPECIAL1_A/description": {
-                "text": "Sprintez vite, en frappant et étourdissant tous les ennemis sur le passage.",
-                "orig": "Dash with high speed, damaging and stunning enemies along the way."
+                "orig": "Dash with high speed, damaging and stunning enemies along the way.",
+                "text": "Sprintez vite, en frappant et étourdissant tous les ennemis sur le passage."
         },
         "players/emilie.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
                 "orig": "Beatdown",
@@ -247,64 +247,64 @@
                 "text": "Utilisez-le pour attaquer les ténèbres."
         },
         "players/joern.json/actions/NEUTRAL/ATTACK_SPECIAL1/name": {
-                "text": "Moquerie Attirante",
-                "orig": "Gravity Taunt"
+                "orig": "Gravity Taunt",
+                "text": "Moquerie Attirante"
         },
         "players/joern.json/actions/NEUTRAL/THROW_SPECIAL1/name": {
-                "text": "Moquerie Attirante",
-                "orig": "Gravity Taunt"
+                "orig": "Gravity Taunt",
+                "text": "Moquerie Attirante"
         },
         "players/joern.json/actions/NEUTRAL/GUARD_SPECIAL1/name": {
-                "text": "Bouclier Cinétique",
-                "orig": "Kinetic Shield"
+                "orig": "Kinetic Shield",
+                "text": "Bouclier Cinétique"
         },
         "players/joern.json/actions/HEAT/ATTACK_SPECIAL1/name": {
-                "text": "Moquerie Chaude",
-                "orig": "Heat Taunt"
+                "orig": "Heat Taunt",
+                "text": "Moquerie Chaude"
         },
         "players/joern.json/actions/HEAT/THROW_SPECIAL1/name": {
-                "text": "Moquerie Chaude",
-                "orig": "Heat Taunt"
+                "orig": "Heat Taunt",
+                "text": "Moquerie Chaude"
         },
         "players/joern.json/actions/HEAT/GUARD_SPECIAL1/name": {
-                "text": "Bouclier de Chaleur",
-                "orig": "Heatshield"
+                "orig": "Heatshield",
+                "text": "Bouclier de Chaleur"
         },
         "players/joern.json/actions/COLD/ATTACK_SPECIAL1/name": {
-                "text": "Moquerie Froide",
-                "orig": "Cold Taunt"
+                "orig": "Cold Taunt",
+                "text": "Moquerie Froide"
         },
         "players/joern.json/actions/COLD/THROW_SPECIAL1/name": {
-                "text": "Moquerie Froide",
-                "orig": "Cold Taunt"
+                "orig": "Cold Taunt",
+                "text": "Moquerie Froide"
         },
         "players/joern.json/actions/COLD/GUARD_SPECIAL1/name": {
-                "text": "Bouclier de Froid",
-                "orig": "Coldshield"
+                "orig": "Coldshield",
+                "text": "Bouclier de Froid"
         },
         "players/joern.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
-                "text": "Moquerie Choquante",
-                "orig": "Shock Taunt"
+                "orig": "Shock Taunt",
+                "text": "Moquerie Choquante"
         },
         "players/joern.json/actions/SHOCK/THROW_SPECIAL1/name": {
-                "text": "Moquerie Choquante",
-                "orig": "Shock Taunt"
+                "orig": "Shock Taunt",
+                "text": "Moquerie Choquante"
         },
         "players/joern.json/actions/SHOCK/GUARD_SPECIAL1/name": {
-                "text": "Bouclier de Choc",
-                "orig": "Shockshield"
+                "orig": "Shockshield",
+                "text": "Bouclier de Choc"
         },
         "players/joern.json/actions/WAVE/ATTACK_SPECIAL1/name": {
-                "text": "Moquerie d'Onde",
-                "orig": "Wave Taunt"
+                "orig": "Wave Taunt",
+                "text": "Moquerie d'Onde"
         },
         "players/joern.json/actions/WAVE/THROW_SPECIAL1/name": {
-                "text": "Moquerie d'Onde",
-                "orig": "Wave Taunt"
+                "orig": "Wave Taunt",
+                "text": "Moquerie d'Onde"
         },
         "players/joern.json/actions/WAVE/GUARD_SPECIAL1/name": {
-                "text": "Bouclier d'Onde",
-                "orig": "Waveshield"
+                "orig": "Waveshield",
+                "text": "Bouclier d'Onde"
         },
         "players/lea.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
                 "orig": "Spin Dance",
@@ -1054,33 +1054,33 @@
                 "text": "Invoquez 4 leurres en un seul Sprint, qui agressent les ennemis plusieurs fois avant de finir par une attaque combinée d'ondes."
         },
         "players/luke.json/actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name": {
+                "orig": "ERST SCHLITZER!!!",
                 "text": "ERST SCHLITZER !!!",
-                "note": "PREMIÈRE ENTAILLE !!! but with scheinder's deutschness",
-                "orig": "ERST SCHLITZER!!!"
+                "note": "PREMIÈRE ENTAILLE !!! but with scheinder's deutschness"
         },
         "players/luke.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+                "orig": "Wirbelschlitzer",
                 "text": "Wirbelschlitzer",
-                "note": "entaille tourbillon",
-                "orig": "Wirbelschlitzer"
+                "note": "entaille tourbillon"
         },
         "players/luke.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+                "orig": "Flammenwirbler",
                 "text": "Flammenwirbler",
-                "note": "tourbillon de flamme",
-                "orig": "Flammenwirbler"
+                "note": "tourbillon de flamme"
         },
         "players/luke.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+                "orig": "Kältewirbler",
                 "text": "Kältewirbler",
-                "note": "tourbillon de froid",
-                "orig": "Kältewirbler"
+                "note": "tourbillon de froid"
         },
         "players/luke.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
+                "orig": "Schockwirbler",
                 "text": "Schockwirbler",
-                "note": "tourbillon de ... bon vous comprenez maintenant",
-                "orig": "Schockwirbler"
+                "note": "tourbillon de ... bon vous comprenez maintenant"
         },
         "players/luke.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
-                "text": "Wellenwirbler",
-                "orig": "Wellenwirbler"
+                "orig": "Wellenwirbler",
+                "text": "Wellenwirbler"
         },
         "players/schneider.json/actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name": {
                 "orig": "ERST SCHLITZER!!!",
@@ -1088,12 +1088,12 @@
                 "note": "PREMIÈRE ENTAILLE !!! but with scheinder's deutschness"
         },
         "players/schneider.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
-                "text": "SSSSCHLITZER !!!",
-                "orig": "SSSSCHLITZER!!!"
+                "orig": "SSSSCHLITZER!!!",
+                "text": "SSSSCHLITZER !!!"
         },
         "players/schneider.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
-                "text": "WELLENSCHLITZER !!!",
-                "orig": "WELLENSCHLITZER!!!"
+                "orig": "WELLENSCHLITZER!!!",
+                "text": "WELLENSCHLITZER !!!"
         },
         "players/schneider2.json/actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name": {
                 "orig": "ERST SCHLITZER!!!",
@@ -1101,27 +1101,27 @@
                 "note": "PREMIÈRE ENTAILLE !!! but with scheinder's deutschness"
         },
         "players/schneider2.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+                "orig": "Wirbelschlitzer",
                 "text": "Wirbelschlitzer",
-                "note": "entaille tourbillon",
-                "orig": "Wirbelschlitzer"
+                "note": "entaille tourbillon"
         },
         "players/schneider2.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+                "orig": "Flammenwirbler",
                 "text": "Flammenwirbler",
-                "note": "tourbillon de flamme",
-                "orig": "Flammenwirbler"
+                "note": "tourbillon de flamme"
         },
         "players/schneider2.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+                "orig": "Kältewirbler",
                 "text": "Kältewirbler",
-                "note": "tourbillon de froid",
-                "orig": "Kältewirbler"
+                "note": "tourbillon de froid"
         },
         "players/schneider2.json/actions/SHOCK/ATTACK_SPECIAL1_A/name": {
+                "orig": "Schockwirbler",
                 "text": "Schockwirbler",
-                "note": "tourbillon de ... bon vous comprenez maintenant",
-                "orig": "Schockwirbler"
+                "note": "tourbillon de ... bon vous comprenez maintenant"
         },
         "players/schneider2.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
-                "text": "Wellenwirbler",
-                "orig": "Wellenwirbler"
+                "orig": "Wellenwirbler",
+                "text": "Wellenwirbler"
         }
 }

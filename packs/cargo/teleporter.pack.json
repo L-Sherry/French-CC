@@ -176,8 +176,8 @@
                 "text": "Il y a quelque chose de particulier avec les VRPs : Ils ne sont pas affectés par la gravité."
         },
         "maps/cargo-ship/teleporter.json/entities/18/settings/event/40/message": {
-                "text": "Cela veut dire que peu importe à quelle distance tu les lances, les VRPs ne tombent pas au sol.",
-                "orig": "Thus, no matter how far you throw, VRPs will not fall to the ground."
+                "orig": "Thus, no matter how far you throw, VRPs will not fall to the ground.",
+                "text": "Cela veut dire que peu importe à quelle distance tu les lances, les VRPs ne tombent pas au sol."
         },
         "maps/cargo-ship/teleporter.json/entities/21/settings/event/6/message": {
                 "orig": "Very good.",
@@ -256,8 +256,8 @@
                 "text": "Il est temps de te remettre sur tes pieds."
         },
         "maps/cargo-ship/teleporter.json/entities/28/settings/event/8/message": {
-                "text": "Carla, on a fini. Tu peux arrêter la séquence de flottaison.",
-                "orig": "Carla, we are done here. You can terminate the floatation sequence."
+                "orig": "Carla, we are done here. You can terminate the floatation sequence.",
+                "text": "Carla, on a fini. Tu peux arrêter la séquence de flottaison."
         },
         "maps/cargo-ship/teleporter.json/entities/28/settings/event/37/message": {
                 "orig": "Hey there, girl!\\.\nWelcome to our \ncozy cargo hold!",
@@ -429,8 +429,8 @@
                 "text": "..."
         },
         "maps/cargo-ship/teleporter.json/entities/98/settings/event/18/message": {
-                "text": "Hé, Chérie !",
-                "orig": "Hey there, girl!"
+                "orig": "Hey there, girl!",
+                "text": "Hé, Chérie !"
         },
         "maps/cargo-ship/teleporter.json/entities/98/settings/event/20/message": {
                 "orig": "Hi!",
@@ -453,8 +453,8 @@
                 "text": "Il était temps, franchement."
         },
         "maps/cargo-ship/teleporter.json/entities/98/settings/event/31/message": {
-                "text": "Sache que l'on sera toujours là pour te soutenir !",
-                "orig": "Just so you know, you have all our support! "
+                "orig": "Just so you know, you have all our support! ",
+                "text": "Sache que l'on sera toujours là pour te soutenir !"
         },
         "maps/cargo-ship/teleporter.json/entities/98/settings/event/32/message": {
                 "orig": "If you ever need a break from that busy Playground, feel free to drop by!",
@@ -481,32 +481,32 @@
                 "text": "Bye !"
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/6/message": {
-                "text": "Ah te voilà !",
-                "orig": "There you are!"
+                "orig": "There you are!",
+                "text": "Ah te voilà !"
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/8/message": {
-                "text": "Salut !",
-                "orig": "Hi!"
+                "orig": "Hi!",
+                "text": "Salut !"
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/9/message": {
-                "text": "Je voulais juste vérifier que le téléporteur fonctionnait encore.",
-                "orig": "I just wanted to make sure the teleporter still works."
+                "orig": "I just wanted to make sure the teleporter still works.",
+                "text": "Je voulais juste vérifier que le téléporteur fonctionnait encore."
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/10/message": {
+                "orig": "Everyone is in the \\c[3]cabins on the third floor\\c[0].",
                 "text": "Tout le monde est dans la \\c[3]cabine au deuxième étage\\c[0].",
-                "note": "de: ils attendent tous ...",
-                "orig": "Everyone is in the \\c[3]cabins on the third floor\\c[0]."
+                "note": "de: ils attendent tous ..."
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/11/message": {
-                "text": "Je vais passer devant, on se voit là-bas !",
-                "orig": "I will go ahead, see you there!\n"
+                "orig": "I will go ahead, see you there!\n",
+                "text": "Je vais passer devant, on se voit là-bas !"
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/18/message": {
-                "text": "Bye ?",
-                "orig": "Bye?"
+                "orig": "Bye?",
+                "text": "Bye ?"
         },
         "maps/cargo-ship/teleporter.json/entities/100/settings/event/21/task": {
-                "text": "Rencontrez Sergey, Jet et les autres dans les \\c[3]Cabines 2 - \\v[area.cargo-ship.name]\\c[0]",
-                "orig": "Meet Sergey, Jet, and the others at \\c[3]Cargo Ship - Cabins 2\\c[0]"
+                "orig": "Meet Sergey, Jet, and the others at \\c[3]Cargo Ship - Cabins 2\\c[0]",
+                "text": "Rencontrez Sergey, Jet et les autres dans les \\c[3]Cabines 2 - \\v[area.cargo-ship.name]\\c[0]"
         }
 }
