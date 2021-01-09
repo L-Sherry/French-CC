@@ -53,7 +53,7 @@
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/12/message": {
                 "orig": "It's... about another item I'm searching for.",
-                "text": "C'est... à propos d'un autre item que je cherche."
+                "text": "C'est... à propos d'un autre objet que je cherche."
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/13/message": {
                 "orig": "I thought exploring here might give me a new lead.",
@@ -85,7 +85,7 @@
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/20/accepted/0/message": {
                 "orig": "Ha! And they say kids these days only think about themselves.",
-                "text": "Ha ! Et on dit que les jeunes de maintenant ne pensent qu'à leurs pommes."
+                "text": "Ha ! Et on dit que les jeunes de maintenant ne pensent qu'à leur pomme."
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/20/accepted/1/message": {
                 "orig": "Let us get right to it then.",
@@ -93,7 +93,7 @@
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/20/accepted/2/message": {
                 "orig": "What I need is the \\c[3]Broken Shield\\c[0]. ",
-                "text": "Ce dont j'ai besoin, est le \\c[3]\\v[item.137.name]\\c[0]."
+                "text": "Ce dont j'ai besoin, c'est le \\c[3]\\v[item.137.name]\\c[0]."
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/20/accepted/3/message": {
                 "orig": "I have been wandering this village for hours now, but the only clue I found is an abstract location.",
@@ -117,7 +117,7 @@
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/20/accepted/8/message": {
                 "orig": "So somewhere in Bergen Trail is a secret path or whatever. ",
-                "text": "Donc quelque part sur le \\v[area.bergen-trails.name] il y a un chemin secret ou autre."
+                "text": "Donc quelque part sur le \\v[area.bergen-trails.name] il y a un chemin secret."
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/0/event/quest/20/accepted/9/message": {
                 "orig": "I want you to go out for me and find it. ",
@@ -193,7 +193,7 @@
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/2/event/quest/2/message": {
                 "orig": "Welcome back young lady, any luck finding the \\c[3]Broken Shield\\c[0]?",
-                "text": "Rebonjour, jeune dame. Avez-vous trouvé le \\c[3]\\v[item.137.name]\\c[0] ?"
+                "text": "Rebonjour, jeune dame. As-tu trouvé le \\c[3]\\v[item.137.name]\\c[0] ?"
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/2/event/quest/3/message": {
                 "orig": "[nods]",
@@ -217,7 +217,7 @@
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/2/event/quest/8/message": {
                 "orig": "But I'm not a man who lays his personal life on other people's minds, so don't worry.",
-                "text": "Ne t'inquiète pas, je ne suis pas le genre d'hommes à embêter les autres avec tous ses problèmes personnels."
+                "text": "Ne t'inquiète pas, je ne suis pas le genre d'homme à embêter les autres avec tous ses problèmes personnels."
         },
         "maps/bergen/npc-house-2.json/entities/41/settings/npcStates/2/event/quest/9/message": {
                 "orig": "...",
@@ -329,6 +329,6 @@
         },
         "maps/bergen/storage.json/entities/44/settings/analyzable/text": {
                 "orig": "Kid Goat",
-                "text": "Enfant Bouc"
+                "text": "Chevreau"
         }
 }

@@ -1378,7 +1378,7 @@
         },
         "enemies/beach/fish-beach.json/meta/descriptions/0/text": {
                 "orig": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard.",
-                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde."
+                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à ce qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde."
         },
         "enemies/beach/hedgehog-beach.json/actions/Quest-MoveToTree/2/text": {
                 "orig": "[Hungry noises]",
@@ -2403,7 +2403,7 @@
         },
         "enemies/jungle/fish.json/meta/descriptions/0/text": {
                 "orig": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard.",
-                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde."
+                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à ce qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde."
         },
         "enemies/jungle/ghost.json/meta/species": {
                 "orig": "Phantastical Being",
@@ -2745,11 +2745,11 @@
         },
         "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
-                "text": "Arrivage Côté Gauche !"
+                "text": "En approche Côté Gauche !"
         },
         "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/thenStep/4/thenStep/0/text": {
                 "orig": "Right side incoming!",
-                "text": "Arrivage Côté Droit !"
+                "text": "En approche Côté Droit !"
         },
         "enemies/jungle/special/quest_td_blob_1.json/actions/Init/0/elseStep/1/text": {
                 "orig": "Incoming!",
@@ -2797,11 +2797,11 @@
         },
         "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/2/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
-                "text": "Arrivage Côté Gauche !"
+                "text": "En approche Côté Gauche !"
         },
         "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/2/thenStep/4/thenStep/0/text": {
                 "orig": "Right side incoming!",
-                "text": "Arrivage Côté Droit !"
+                "text": "En approche Côté Droit !"
         },
         "enemies/jungle/special/quest_td_buffel_1.json/actions/Init/2/elseStep/1/text": {
                 "orig": "Incoming!",
@@ -2873,11 +2873,11 @@
         },
         "enemies/jungle/special/quest_td_fish_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
-                "text": "Arrivage Côté Gauche !"
+                "text": "En approche Côté Gauche !"
         },
         "enemies/jungle/special/quest_td_fish_1.json/actions/Init/0/thenStep/4/thenStep/0/text": {
                 "orig": "Right side incoming!",
-                "text": "Arrivage Côté Droit !"
+                "text": "En approche Côté Droit !"
         },
         "enemies/jungle/special/quest_td_fish_1.json/actions/Init/0/elseStep/1/text": {
                 "orig": "Incoming!",
@@ -2929,11 +2929,11 @@
         },
         "enemies/jungle/special/quest_td_plant_1.json/actions/Init/0/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
-                "text": "Arrivage Côté Gauche !"
+                "text": "En approche Côté Gauche !"
         },
         "enemies/jungle/special/quest_td_plant_1.json/actions/Init/0/thenStep/4/thenStep/0/text": {
                 "orig": "Right side incoming!",
-                "text": "Arrivage Côté Droit !"
+                "text": "En approche Côté Droit !"
         },
         "enemies/jungle/special/quest_td_plant_1.json/actions/Init/0/elseStep/1/text": {
                 "orig": "Incoming!",
@@ -2985,11 +2985,11 @@
         },
         "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/2/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
-                "text": "Arrivage Côté Gauche !"
+                "text": "En approche Côté Gauche !"
         },
         "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/2/thenStep/4/thenStep/0/text": {
                 "orig": "Right side incoming!",
-                "text": "Arrivage Côté Droit !"
+                "text": "En approche Côté Droit !"
         },
         "enemies/jungle/special/quest_td_shockcat_1.json/actions/Init/2/elseStep/1/text": {
                 "orig": "Incoming!",
@@ -3045,11 +3045,11 @@
         },
         "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/2/thenStep/3/thenStep/0/text": {
                 "orig": "Left side incoming!",
-                "text": "Arrivage Côté Gauche !"
+                "text": "En approche Côté Gauche !"
         },
         "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/2/thenStep/4/thenStep/0/text": {
                 "orig": "Right side incoming!",
-                "text": "Arrivage Côté Droit !"
+                "text": "En approche Côté Droit !"
         },
         "enemies/jungle/special/quest_td_shockcat_2.json/actions/Init/2/elseStep/1/text": {
                 "orig": "Incoming!",

@@ -25,7 +25,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/4/settings/event/11/message": {
                 "orig": "As before those \\c[3]shields\\c[0] will \\c[3]reflect damage\\c[0], so \\c[3]wait for the Neutral Turrets to get rid of them\\c[0]!",
-                "text": "Comme avant, \\c[3]les boucliers\\c[0] vont \\c[3]refléter les dégâts\\c[0], donc \\c[3]attends que les Tourelles Neutres s'en chargent\\c[0] ! "
+                "text": "Comme avant, \\c[3]les boucliers\\c[0] vont \\c[3]refléter les dégâts\\c[0], donc \\c[3]attendez que les Tourelles Neutres s'en chargent\\c[0] ! "
         },
         "maps/jungle/caves/questcave-td-2.json/entities/4/settings/event/12/message": {
                 "orig": "I've also activated the \\c[3]Heat and Cold turrets\\c[0].\\. You can still \\c[3]activate them with a charged shot of their respective element\\c[0]!",
@@ -145,7 +145,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/34/settings/event/30/message": {
                 "orig": "\\c[3]Come back to me for a second\\c[0], so we can finish this off!",
-                "text": "\\c[3]Revenez me voir une seconde\\c[0] pour que l'on finisse terminer ça !"
+                "text": "\\c[3]Revenez me voir une seconde\\c[0] pour que l'on puisse terminer ça !"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/35/settings/event/14/text": {
                 "orig": "About to blow!!!",
@@ -181,7 +181,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/1/event/quest/3/message": {
                 "orig": "[ Since you have already successfully used our products, are you interested in their advanced recreational functionality? ]",
-                "text": "[ Vu que vous avez déjà utilisé nos produits avec succès, êtes-vous intéressé par leurs fonctions de divertissement avancées ? ]"
+                "text": "[ Vu que vous avez déjà utilisé nos produits avec succès, êtes-vous intéressée par leurs fonctions de divertissement avancées ? ]"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/1/event/quest/4/accepted/2/message": {
                 "orig": "[nods]",
@@ -197,7 +197,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/1/event/quest/4/accepted/5/message": {
                 "orig": "[ Those can be \\c[3]exchanged for valuable items\\c[0] directly at this device. ]",
-                "text": "[ Ceux-ci peuvent être \\c[3]échangés contre des items précieux\\c[0] directement sur cet appareil. ]"
+                "text": "[ Ceux-ci peuvent être \\c[3]échangés contre des objets précieux\\c[0] directement sur cet appareil. ]"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/1/event/quest/4/accepted/6/message": {
                 "orig": "...!",
@@ -205,7 +205,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/1/event/quest/4/accepted/7/message": {
                 "orig": "[ Thank you for using TURRET products! ]",
-                "text": "[ Merci pour avoir utilisé les produits TOURELLE ! ]"
+                "text": "[ Merci d'avoir utilisé les produits TOURELLE ! ]"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/1/event/quest/4/accepted/8/message": {
                 "orig": "... bye.",
@@ -325,11 +325,11 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/2/event/trade/event/3/3/1/text": {
                 "orig": "\\c[3]- Turret Overview -\\c[0]\n\n\\i[element-neutral] \\c[3]Neutral\\c[0]:\nSingle-target shot, light homing, neutralizes shields, frequent attacks, weak.\n\\c[1]Default mode when using an inactive element!\\c[0]",
-                "text": "\\c[3]- Aide-Mémoire pour la Tourelle -\\c[0]\n\n\\i[element-neutral] \\c[3]Neutre\\c[0] :\nUn seul tir, semi-autoguidé, neutralise les boucliers, attaques fréquentes, faible. \\c[1]Mode par défaut lorsque un élément inactif est utilisé !\\c[0]"
+                "text": "\\c[3]- Aide-Mémoire pour la Tourelle -\\c[0]\n\n\\i[element-neutral] \\c[3]Neutre\\c[0] :\nUn seul tir, semi-autoguidé, neutralise les boucliers, attaques fréquentes, faible. \\c[1]Mode par défaut lorsqu'aucun élément n'est utilisé !\\c[0]"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/2/event/trade/event/3/3/2/text": {
                 "orig": "\\i[element-heat] \\c[3]Heat\\c[0]:\nPenetrating flamethrower, large area, short range, powerful, causes Burn.\n\n\\i[element-cold] \\c[3]Cold\\c[0]:\nExplosive shot, light homing, creates icicles, slows enemies, causes Chill.",
-                "text": "\\i[element-heat] \\c[3]Chaud\\c[0] :\nLance-flamme pénétrant, grande aire d'effet, portée courte, puissant, inflige Brûle.\n\n\\i[element-cold] \\c[3]Froid\\c[0] :\nTir explosif, semi-autoguidé, créée des pics de glaces, ralenti les ennemis, inflige Gelé."
+                "text": "\\i[element-heat] \\c[3]Chaud\\c[0] :\nLance-flamme pénétrant, grande aire d'effet, portée courte, puissant, inflige Brûle.\n\n\\i[element-cold] \\c[3]Froid\\c[0] :\nTir explosif, semi-autoguidé, créé des pics de glaces, ralenti les ennemis, inflige Gelé."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/37/settings/npcStates/2/event/trade/event/3/3/3/text": {
                 "orig": "\\i[element-shock] \\c[3]Shock\\c[0]:\nPenetrating double-strike shot, large range, powerful, causes Jolt.\n\n\\i[element-wave] \\c[3]Wave\\c[0]:\nExplosive shot, strong homing, momentarily stops enemies, causes Mark.",
@@ -385,7 +385,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/2/event/quest/3/message": {
                 "orig": "Okay, there you are.\\. So I guess we can finally push through the last hurdle.",
-                "text": "Oh, vous voilà.\\. On va enfin pouvoir s'occuper de notre dernier obstacle."
+                "text": "Oh, vous voilà.\\. On va enfin pouvoir nous occuper de notre dernier obstacle."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/2/event/quest/4/message": {
                 "orig": "This should be similiar to last time you helped us out.\\. So just let me give you a short rundown.",
@@ -405,7 +405,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/2/event/quest/13/message": {
                 "orig": "It will drain the mystical Energy of the Track from this position of power and save it for later use!",
-                "text": "Il va drainer la mystérieuse Énergie du Tracé depuis ce point de pouvoir et va le stocker pour une utilisation future !"
+                "text": "Il va drainer la mystérieuse Énergie du Tracé depuis ce point de pouvoir et va la stocker pour une utilisation future !"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/2/event/quest/14/message": {
                 "orig": "...!",
@@ -474,7 +474,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/0/10/message": {
                 "orig": "Okay, waves should start as soon as I release the safety.",
-                "text": "OK, les vagues devraient démarrer dès que j'enlève le cran de sureté."
+                "text": "OK, les vagues devraient démarrer dès que j'enlèverai le cran de sureté."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/0/11/message": {
                 "orig": "So activate that turret by \\c[3]hitting it a few\\c[0] times and then using a \\c[3]charged projectile on it\\c[0]!",
@@ -494,7 +494,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/1/1/message": {
                 "orig": "Okay, but let's please get on with it soon.\\. This is not the most comfortable place for a picnic.",
-                "text": "OK, mais ne prenez pas trop de temps.\\. Ce n'est pas l'endroit le plus confortable pour piqueniquer."
+                "text": "OK, mais ne prenez pas trop de temps.\\. Ce n'est pas l'endroit le plus confortable pour pique-niquer."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/2/0/message": {
                 "orig": "How?",
@@ -578,15 +578,15 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/3/2/message": {
                 "orig": "Here, take a look at this sheet that came with the manual.\\. It should give you a good overview.",
-                "text": "Tenez, jetez un œil sur cette page qui est venue avec le manuel.\\. Elle devrait te donner un bon aperçu."
+                "text": "Tenez, jetez un œil sur cette page qui est venue avec le manuel.\\. Elle devrait vous donner un bon aperçu."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/3/4/text": {
                 "orig": "\\c[3]- Turret Overview -\\c[0]\n\n\\i[element-neutral] \\c[3]Neutral\\c[0]:\nSingle-target shot, light homing, neutralizes shields, frequent attacks, weak.\n\\c[1]Default mode when using an inactive element!\\c[0]",
-                "text": "\\c[3]- Aide-Mémoire pour la Tourelle -\\c[0]\n\n\\i[element-neutral] \\c[3]Neutre\\c[0] :\nUn seul tir, semi-autoguidé, neutralise les boucliers, attaques fréquentes, faible. \\c[1]Mode par défaut lorsque un élément inactif est utilisé !\\c[0]"
+                "text": "\\c[3]- Aide-Mémoire pour la Tourelle -\\c[0]\n\n\\i[element-neutral] \\c[3]Neutre\\c[0] :\nUn seul tir, semi-autoguidé, neutralise les boucliers, attaques fréquentes, faible. \\c[1]Mode par défaut lorsqu'aucun élément n'est utilisé !\\c[0]"
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/3/5/text": {
                 "orig": "\\i[element-heat] \\c[3]Heat\\c[0]:\nPenetrating flamethrower, large area, short range, powerful, causes Burn.\n\n\\i[element-cold] \\c[3]Cold\\c[0]:\nExplosive shot, light homing, creates icicles, slows enemies, causes Chill.",
-                "text": "\\i[element-heat] \\c[3]Chaud\\c[0] :\nLance-flamme pénétrant, grande aire d'effet, portée courte, puissant, inflige Brûle.\n\n\\i[element-cold] \\c[3]Froid\\c[0] :\nTir explosif, semi-autoguidé, créée des pics de glaces, ralenti les ennemis, inflige Gelé."
+                "text": "\\i[element-heat] \\c[3]Chaud\\c[0] :\nLance-flamme pénétrant, grande aire d'effet, portée courte, puissant, inflige Brûle.\n\n\\i[element-cold] \\c[3]Froid\\c[0] :\nTir explosif, semi-autoguidé, créé des pics de glaces, ralenti les ennemis, inflige Gelé."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/39/settings/npcStates/3/event/quest/4/3/6/text": {
                 "orig": "\\i[element-shock] \\c[3]Shock\\c[0]:\nPenetrating double-strike shot, large range, powerful, causes Jolt.\n\n\\i[element-wave] \\c[3]Wave\\c[0]:\nExplosive shot, strong homing, momentarily stops enemies, causes Mark.",
@@ -671,7 +671,7 @@
         },
         "maps/jungle/caves/questcave-td-2.json/entities/40/settings/event/23/message": {
                 "orig": "Good to see that you've finally arrived.\\. I already finished the preparations a while ago.",
-                "text": "C'est bon de savoir que vous êtes finalement venu.\\. J'ai déjà fini les préparatifs depuis longtemps."
+                "text": "C'est bon de savoir que vous êtes finalement venue.\\. J'ai déjà fini les préparatifs depuis longtemps."
         },
         "maps/jungle/caves/questcave-td-2.json/entities/40/settings/event/24/message": {
                 "orig": "...!",

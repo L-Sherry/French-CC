@@ -1267,7 +1267,7 @@
         },
         "lang/sc/gui.en_US.json/labels/quick-menu/description/items": {
                 "orig": "Use Healing and Buff Items.",
-                "text": "Utiliser Soin et Item de buffs."
+                "text": "Utiliser Soin et Objet de buffs."
         },
         "lang/sc/gui.en_US.json/labels/quick-menu/description/map": {
                 "orig": "Access the Map.",
@@ -1447,15 +1447,15 @@
         },
         "lang/sc/gui.en_US.json/labels/shop/leaveWithCartItems": {
                 "orig": "Items are in your cart. Still return?",
-                "text": "Des items sont dans votre panier. Quitter quand même ?"
+                "text": "Des objets sont dans votre panier. Quitter quand même ?"
         },
         "lang/sc/gui.en_US.json/labels/shop/confirmBuy": {
                 "orig": "Buy the selected Items?",
-                "text": "Acheter les Items sélectionnés ?"
+                "text": "Acheter les objets sélectionnés ?"
         },
         "lang/sc/gui.en_US.json/labels/shop/confirmSell": {
                 "orig": "Sell the selected Items?",
-                "text": "Vendre les Items sélectionnés ?"
+                "text": "Vendre les objets sélectionnés ?"
         },
         "lang/sc/gui.en_US.json/labels/shop/owned": {
                 "orig": "Owned",
@@ -1579,7 +1579,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/sets/itemCooldown": {
                 "orig": "Item Cooldown",
-                "text": "Durée entre les Items"
+                "text": "Durée entre les objets"
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/sets/hp-regen": {
                 "orig": "HP Regeneration",
@@ -1791,7 +1791,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/double-buff-time": {
                 "orig": "Doubles the length of all consumables items.",
-                "text": "Double la durée de tous les items consommables."
+                "text": "Double la durée de tous les objets consommables."
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/drop-rate-2": {
                 "orig": "Increases drop rate for items from plants and enemies by 100%.",
@@ -1823,7 +1823,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/keep-equipment": {
                 "orig": "Keep all your equipment. (Equipped items are moved to your inventory)",
-                "text": "Gardez votre équipement. (Les items portés sont déplacés dans votre inventaire)"
+                "text": "Gardez votre équipement. (Les objets portés sont déplacés dans votre inventaire)"
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/keep-trade": {
                 "orig": "Keep all trade items",
@@ -2372,7 +2372,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help/trader/description/content": {
                 "orig": "Shows what items are needed to acquire this item. Current owned items are shown in brackets.",
-                "text": "Montre quels items sont nécessaires pour acquérir l'item. Les items actuellement possédés sont affichés entre crochets."
+                "text": "Montre quels items sont nécessaires pour acquérir l'item. Les objets actuellement possédés sont affichés entre crochets."
         },
         "lang/sc/gui.en_US.json/labels/menu/help/trader/description/money": {
                 "orig": "Find the fee you need to pay for the trade here.",
@@ -2416,7 +2416,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help/enemy/description/rewards": {
                 "orig": "Shows you the items you can get by defeating this enemy, including the rank needed. To unveil the name of the item you only need to have at least found one of it.",
-                "text": "Montre les items que vous pouvez obtenir en battant cet ennemi et le rang nécessaire. Pour montrer le nom de l'item, il y a juste besoin de l'avoir trouvé une fois."
+                "text": "Montre les objets que vous pouvez obtenir en battant cet ennemi et le rang nécessaire. Pour voir le nom de l'objet, il suffit juste de l'avoir trouvé une fois."
         },
         "lang/sc/gui.en_US.json/labels/menu/help/enemy/description/maxhp": {
                 "orig": "Maximum amount of Health Points for the selected enemy.",
@@ -3262,7 +3262,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/ONCE_MORE": {
                 "orig": "Survive exactly one attack that would normally kill you.",
-                "text": "Survivez exactement une attaque qui vous aurait normalement tué."
+                "text": "Survivez à exactement une attaque qui normalement vous aurait tué."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/PERFECT_GUARD_RESET": {
                 "orig": "Resets your perfect guard when landing a successful perfect guard.",
@@ -5212,7 +5212,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/0/content/4": {
                 "orig": "The first tab shows the last items you have collected to keep an eye on all your loot!",
-                "text": "Le premier onglet montre les items que vous avez récupérés en dernier pour garder un œil sur tout votre butin !"
+                "text": "Le premier onglet montre les objets que vous avez récupérés en dernier pour garder un œil sur tout votre butin !"
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/1/title": {
                 "orig": "\\c[3]Inventory Menu\\c[0] - Consumables",
@@ -5674,7 +5674,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/2": {
                 "orig": "In this menu you can buy items or sell them if you don't need them.",
-                "text": "Dans ce menu vous pouvez acheter des items ou les vendre si vous n'en avez pas besoin."
+                "text": "Dans ce menu vous pouvez acheter des objets ou les vendre si vous n'en avez pas besoin."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/3": {
                 "orig": "Use \\i[circle-left] and \\i[circle-right] to cycle through the categories or press on the tabs if you use the mouse.",
@@ -5694,11 +5694,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/1/content/0": {
                 "orig": "When an item is selected you can use \\i[left] and \\i[right] to de- or increase the number by one directly.",
-                "text": "Quand un item est sélectionné, vous pouvez utiliser \\i[left] et \\i[right] pour augmenter ou diminuer le nombre de un directement."
+                "text": "Quand un objet est sélectionné, vous pouvez utiliser \\i[left] et \\i[right] pour augmenter ou diminuer le nombre de un directement."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/1/content/1": {
                 "orig": "Some vendors might only have one category from which you can buy items. This is indicated by the grey buttons next to the category name.",
-                "text": "Certains vendeurs peuvent ne posséder qu'une catégorie sur lequel vous pouvez acheter des items. Cela est indiqué par les boutons gris à côté du nom de la catégorie."
+                "text": "Certains vendeurs peuvent ne posséder qu'une catégorie sur lequel vous pouvez acheter des objets. Cela est indiqué par les boutons gris à côté du nom de la catégorie."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/save/title": {
                 "orig": "\\c[3]Save Menu\\c[0]",
@@ -6218,7 +6218,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/botanics/pages/0/content/5": {
                 "orig": "Once \\c[3]50% are analyzed\\c[0] you can see the location of the object and once \\c[3]100% is reach, all items the object can drop are revealed\\c[0].",
-                "text": "Une fois que \\c[3]50 % sont analysés\\c[0] vous pouvez voir le lieu ou se trouve l'objet et une fois que vous avez \\c[3]atteint 100 %, tous les items que l'objet peut laisser sont révélés\\c[0]."
+                "text": "Une fois que \\c[3]50 % sont analysés\\c[0] vous pouvez voir le lieu ou se trouve l'objet et une fois que vous avez \\c[3]atteint 100 %, tous les objets que l'élément peut laisser sont révélés\\c[0]."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/title": {
                 "orig": "\\c[3]Trade Menu\\c[0]",
@@ -6751,7 +6751,7 @@
         },
         "lang/sc/gui.en_US.json/labels/skills/descriptions/ONCE_MORE": {
                 "orig": "Survive exactly \\c[3]one attack\\c[0] that would normally kill you.",
-                "text": "Survivez exactement \\c[3]une attaque\\c[0] qui vous aurait normalement tué."
+                "text": "Survivez à exactement \\c[3]une attaque\\c[0] qui normalement vous aurait tué."
         },
         "lang/sc/gui.en_US.json/labels/skills/descriptions/GUARD_SP": {
                 "orig": "Restores SP on guard based on \\c[3][xyz]%\\c[0] of the attack's power. (\\c[3]Double\\c[0] for perfect guard)",
@@ -7043,7 +7043,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/level-letter-display/description": {
                 "orig": "Shows the Level Symbol next to the level of an equipment item.",
-                "text": "Montre le Symbole du Niveau à côté du niveau d'un item d'équipement."
+                "text": "Montre le Symbole du Niveau à côté du niveau d'un objet d'équipement."
         },
         "lang/sc/gui.en_US.json/labels/options/buff-help/name": {
                 "orig": "Show Buff Help",
@@ -7452,6 +7452,10 @@
         "lang/sc/gui.en_US.json/labels/options/gamepad-icons/group/1": {
                 "orig": "Dualshock",
                 "text": "Dualshock"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-icons/group/2": {
+                "orig": "Switch",
+                "text": "Switch"
         },
         "lang/sc/gui.en_US.json/labels/options/gamepad-icons/description": {
                 "orig": "Icons displayed for Gamepad Buttons.",
@@ -8381,7 +8385,7 @@
         },
         "lang/sc/gui.en_US.json/labels/loading/questUpdate": {
                 "orig": "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message.",
-                "text": "Certaines quêtes ont changé. Elles ont été remises à zéro. Cela veut dire que vous aurez peut-être besoin de refaire certaines tâches ou que vous aurez des récompenses après que vous fermiez ce message."
+                "text": "Certaines quêtes ont changé. Elles ont été remises à zéro. Cela veut dire que vous aurez peut-être besoin de refaire certaines tâches ou que vous aurez des récompenses après la fermeture de ce message."
         },
         "lang/sc/gui.en_US.json/labels/menu/option/mods": {
                 "orig": "Mods",
@@ -8455,5 +8459,57 @@
         "lang/sc/gui.en_US.json/labels/options/mods-description/description": {
                 "orig": "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!",
                 "text": "Dans ce menu vous pouvez \\c[3]activer ou désactiver des mods installés\\c[0]. La description des mods est affichée en bas. \\c[1]Le jeu doit être redémarré\\c[0] si vous changez une option ici !"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/name": {
+                "orig": "Switch Theme",
+                "text": "Theme Switch"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/description": {
+                "orig": "The theme to use for the \"Switch\" Gamepad Icons.",
+                "text": "Le theme à utiliser pour les icons de manette de Switch"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/0": {
+                "orig": "Default",
+                "text": "Default"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/1": {
+                "orig": "SFC",
+                "text": "SFC"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/2": {
+                "orig": "SNES",
+                "text": "SNES"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-bumpers/name": {
+                "orig": "Swap L/R",
+                "text": "Inverser L/R"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-bumpers/description": {
+                "orig": "Swaps the actions of L and R (does not apply to menus).",
+                "text": "Inverser les actions des boutons L et R (ne s'applique pas aux menus)"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-triggers/name": {
+                "orig": "Swap LT/RT",
+                "text": "Inverser LT/RT"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-triggers/description": {
+                "orig": "Swaps the actions of LT and RT (does not apply to menus).",
+                "text": "Inverser les actions des boutons LT et RT (ne s'applique pas aux menus)"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-ab/name": {
+                "orig": "Swap A/B",
+                "text": "Inverser A/B"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-ab/description": {
+                "orig": "Swaps the actions of A and B.",
+                "text": "Inverser les actions des boutons A et B"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-xy/name": {
+                "orig": "Swap X/Y",
+                "text": "Inverser X/Y"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-xy/description": {
+                "orig": "Swaps the actions of X and Y.",
+                "text": "Inverser les actions des boutons X et Y"
         }
 }

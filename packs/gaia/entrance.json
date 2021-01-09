@@ -53,7 +53,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/553/settings/npcStates/0/event/2/message": {
                 "orig": "Welcome to the Jungle,\nwe got cats and plants.\nWe got everything you want\nSeeker, we know the names.",
-                "text": "Bienvenue dans la jungle.\nDes chats et des plants.\nici nous en avons tant.\nAucun penchant n'est banni.\nOn est connu pour ça ici !",
+                "text": "Bienvenue dans la jungle.\nDes chats et des plantes.\nIci nous en avons tant.\nAucun penchant n'est banni.\nOn est connu pour ça ici !",
                 "note": "this is somewhat related to a song, which i can't quite translate. But it's unimportant, so why bother.  note: ein Faible = un faible (pour quelque chose)"
         },
         "maps/jungle/path-01-entrance.json/entities/553/settings/npcStates/0/event/3/message": {
@@ -70,7 +70,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/4/thenStep/0/message": {
                 "orig": "I see your stats are still \\c[1]way above what would be expected at this point\\c[0]!",
-                "text": "Je vois que tes stats restent encore \\c[1]bien au-dessus qu'elles ne devraient être à cette étape\\c[0]."
+                "text": "Je vois que tes stats restent encore \\c[1]bien au-dessus de ce qu'elles devraient être à cette étape\\c[0]."
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/4/thenStep/1/message": {
                 "orig": "Though the difference clearly isn't as dramatic as it used to be.",
@@ -98,7 +98,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/6/0/2/message": {
                 "orig": "Alright then, let's go!",
-                "text": "Bon, Alors, c'est parti !"
+                "text": "Bon. Alors, c'est parti !"
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/6/0/14/message": {
                 "orig": "Hey.",
@@ -110,7 +110,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/6/0/18/message": {
                 "orig": "Joern, you just arrived in time for some glorious Spheromancer action! ",
-                "text": "Joern, tu arrives juste au bon moment pour admirer un glorieux spectacle plein d'action entre Spheromancers !"
+                "text": "Joern, tu arrives juste au bon moment pour admirer un glorieux spectacle plein d'action entre Spheromanceurs !"
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/6/0/19/message": {
                 "orig": "We're about to start our third duel!",
@@ -190,7 +190,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/6/0/73/message": {
                 "orig": "The path of a \nproper Spheromancer!",
-                "text": "Le chemin d'un véritable Spheromancer !"
+                "text": "Le chemin d'un véritable Spheromanceur !"
         },
         "maps/jungle/path-01-entrance.json/entities/565/settings/npcStates/1/event/quest/6/0/74/message": {
                 "orig": "The path... of Justice!",
@@ -234,7 +234,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/566/settings/event/18/message": {
                 "orig": "Spheromancer Lea! I see you finally reached Gaia's Garden!",
-                "text": "Spheromancer Lea ! Je vois que tu as finalement atteint le \\v[area.jungle.name] !"
+                "text": "Spheromanceuse Lea ! Je vois que tu as finalement atteint le \\v[area.jungle.name] !"
         },
         "maps/jungle/path-01-entrance.json/entities/566/settings/event/19/message": {
                 "orig": "...",
@@ -254,7 +254,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/566/settings/event/29/message": {
                 "orig": "Spheromancer Lea!\\. I challenge you to our \\c[3]third duel\\c[0]!",
-                "text": "Spheromancer Lea !\\. Je te mets au défi de me battre à notre \\c[3]troisième duel\\c[0] !"
+                "text": "Spheromanceuse Lea !\\. Je te mets au défi de me battre à notre \\c[3]troisième duel\\c[0] !"
         },
         "maps/jungle/path-01-entrance.json/entities/566/settings/event/30/message": {
                 "orig": "...",
@@ -306,11 +306,11 @@
         },
         "maps/jungle/path-01-entrance.json/entities/569/settings/event/4/message": {
                 "orig": "Spheromancer Lea!\\. Don't forget about our duel!",
-                "text": "Spheromancer Lea !\\. N'oublie pas pour notre duel !"
+                "text": "Spheromanceuse Lea !\\. N'oublie pas notre duel !"
         },
         "maps/jungle/path-01-entrance.json/entities/570/settings/event/4/message": {
                 "orig": "Spheromancer Lea!\\. Don't forget about our duel!",
-                "text": "Spheromancer Lea !\\. N'oublie pas pour notre duel !"
+                "text": "Spheromanceuse Lea !\\. N'oublie pas notre duel !"
         },
         "maps/jungle/path-01-entrance.json/entities/577/settings/event/0/thenStep/0/thenStep/0/thenStep/0/thenStep/0/message": {
                 "orig": "W-WHAT IS THIS DAMAGE?!",
@@ -441,7 +441,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/5/message": {
                 "orig": "ONCE A CHEATER,\\. ALWAYS A CHEATER!!",
-                "text": "TRICHEUSE UNE FOIS,\\. TRICHEUSE POUR TOUJOURS !!"
+                "text": "TRICHEUSE UN JOUR,\\. TRICHEUSE POUR TOUJOURS !!"
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/6/message": {
                 "orig": "I honestly see no reason to place any more hope in you.",
@@ -477,7 +477,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/23/thenStep/5/elseStep/1/elseStep/0/message": {
                 "orig": "This time I was defeated. Spheromancer Lea, you've grown immensely! ",
-                "text": "Cette fois j'ai été vaincu. Spheromancer Lea, tu as fait d'énormes progrès !"
+                "text": "Cette fois j'ai été vaincu. Spheromanceuse Lea, tu as fait d'énormes progrès !"
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/23/thenStep/5/elseStep/2/message": {
                 "orig": "It was a good duel, indeed!",
@@ -489,7 +489,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/23/elseStep/4/elseStep/0/thenStep/0/message": {
                 "orig": "Now there, you used to be more of a challenge, Spheromancer Lea!",
-                "text": "Hum, la dernière fois, tu étais clairement bien plus difficile à battre, Spheromancer Lea !"
+                "text": "Hum, la dernière fois, tu étais clairement bien plus difficile à battre, Spheromanceuse Lea !"
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/23/elseStep/4/elseStep/0/elseStep/0/message": {
                 "orig": "It seems you are still not quite at the right path, Spheromancer Lea.",
@@ -525,7 +525,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/37/elseStep/0/message": {
                 "orig": "You're all by yourself...\\. and honestly don't look that happy to me.",
-                "text": "Tu es toutes seule aujourd'hui...\\. et tu me donnes pas l'impression d'être heureuse."
+                "text": "Tu es toute seule aujourd'hui...\\. et tu me donnes pas l'impression d'être heureuse."
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/38/message": {
                 "orig": "...",
@@ -549,7 +549,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/55/message": {
                 "orig": "Lea, can you say \"Apollo\" for me?",
-                "text": "Lea, est-ce que tu peux me dire \"Apollo\" pour moi ?"
+                "text": "Lea, est-ce que tu peux dire \"Apollo\" pour moi ?"
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/56/message": {
                 "orig": "...",
@@ -729,7 +729,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/127/message": {
                 "orig": "Shouldn't you be happy?\\. We have a party with two Spheromancers now.",
-                "text": "Tu devrais pas être heureux ?\\. On a un groupe avec deux Spheromancers maintenant."
+                "text": "Tu devrais pas être heureux ?\\. On a un groupe avec deux Spheromanceurs maintenant."
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/128/message": {
                 "orig": "Right, now that you mention it!",
@@ -737,7 +737,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/129/message": {
                 "orig": "Two \\c[3]Spheromancers\\c[0] and a \\c[3]Quadroguard\\c[0], quite the noble party indeed!",
-                "text": "Deux \\c[3]Spheromancers\\c[0] et un \\c[3]Quadroguard\\c[0], c'est un noble groupe que nous avons là !"
+                "text": "Deux \\c[3]Spheromanceurs\\c[0] et un \\c[3]Quadroguard\\c[0], c'est un noble groupe que nous avons là !"
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/130/message": {
                 "orig": "There you go.",
@@ -757,7 +757,7 @@
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/134/message": {
                 "orig": "Indeed! What else is there to do than seek the human settlement hidden within this wilderness!",
-                "text": "Oui ! Qu'il y a-t-il d'autre chose à faire que de chercher la colonie humaine cachée dans cette jungle sauvage !"
+                "text": "Oui ! Qu'il y a-t-il d'autre à faire que de chercher la colonie humaine cachée dans cette jungle sauvage !"
         },
         "maps/jungle/path-01-entrance.json/entities/578/settings/event/136/message": {
                 "orig": "\\c[3]Basin Keep\\c[0]!",

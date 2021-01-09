@@ -1,7 +1,7 @@
 {
         "maps/jungle-city/interior/faction-adv-1.json/entities/16/settings/npcStates/0/event/2/message": {
                 "orig": "Hey, \\v[lore.title.seeker].\\. These are the headquarters of the Woodland Vanguard.\\. Nice to see you around!",
-                "text": "Hé, \\v[lore.title.seeker].\\. Bienvenue au quartier général de l'\\v[lore.title.faction-heat-jungle].\\. Ravis que vous soyez là !"
+                "text": "Hé, \\v[lore.title.seeker].\\. Bienvenue au quartier général de l'\\v[lore.title.faction-heat-jungle].\\. Ravie que vous soyez là !"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/analyzable/text": {
                 "orig": "Kacela Madaki",
@@ -13,7 +13,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/0/event/2/message": {
                 "orig": "Heya, \\v[lore.title.seeker].\\. We got nothing to do for you right now.\\. Nice to see you, though!",
-                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravi de vous voir quand même !"
+                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravie de vous voir quand même !"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/1/name": {
                 "orig": "Madaki",
@@ -49,7 +49,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/1/message": {
                 "orig": "Neat!\\. And just like the briefing says, you won't be doing all the work by hand.",
-                "text": "Super !\\. Et comme le briefing le disait, vous n'allez pas faire tout le travail tout seul."
+                "text": "Super !\\. Et comme le briefing le disait, vous n'allez pas faire tout le travail toute seule."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/2/message": {
                 "orig": "A network of defensive turrets is already on site.\\. State-of-the-art, almost indestructible and easy to use.",
@@ -61,7 +61,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/4/message": {
                 "orig": "...if you are connected to Trackwalker, that is.\\. Someone failed to notice that when ordering a truckload of those things...",
-                "text": "... Si vous êtes reliés au système Retraçage, cela dit.\\. Quelqu'un ne s'en est pas rendu compte lorsqu'il en a commandé un camion entier..."
+                "text": "... enfin si vous êtes reliés au système Retraçage, cela dit.\\. Quelqu'un ne s'en est pas rendu compte lorsqu'il en a commandé un camion entier..."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/5/message": {
                 "orig": "...",
@@ -69,7 +69,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/6/message": {
                 "orig": "It's the main reason we need you at all, \\v[lore.title.seeker].\\.\\. No offense.",
-                "text": "C'est la raison principale pour laquelle nous avons besoin de vous, \\v[lore.title.seeker].\\.\\. Sans offense."
+                "text": "C'est la raison principale pour laquelle nous avons besoin de vous, \\v[lore.title.seeker].\\.\\. Sans vouloir vous offenser."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/7/message": {
                 "orig": "...",
@@ -77,7 +77,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/8/message": {
                 "orig": "Anyway, enter the cave in the \\c[3]Calm Backyard of \\v[area.jungle.name]\\c[0].\\. You'll get the details there.",
-                "text": "En tout cas, entrez dans la grotte dans le \\c[3]Jardin calme au \\v[area.jungle.name]\\c[0].\\. Vous aurez plus de détails là-bas."
+                "text": "En tout cas, entrez dans la grotte dans le \\c[3]Jardin calme du \\v[area.jungle.name]\\c[0].\\. Vous aurez plus de détails là-bas."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/accepted/9/message": {
                 "orig": "Bye...",
@@ -89,7 +89,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/declined/1/message": {
                 "orig": "Man, just our luck.\\. I hope you can clear some time for us soon.",
-                "text": "Ah, c'est pas de chance.\\. J'espère que vous pourrez libérer du temps pour nous bientôt."
+                "text": "Ah, c'est pas de chance.\\. J'espère que vous pourrez vous libérer du temps pour nous bientôt."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/1/event/quest/8/declined/2/message": {
                 "orig": "...",
@@ -101,7 +101,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/2/event/2/message": {
                 "orig": "Go to \\c[3]Calm Backyard in \\v[area.jungle.name]\\c[0] and enter the cave.\\. You'll get all the details there.",
-                "text": "Allez dans le \\c[3]Jardin calme au \\v[area.jungle.name]\\c[0] et entrez dans la grotte.\\. Vous aurez plus de détails là-bas."
+                "text": "Allez dans le \\c[3]Jardin calme du \\v[area.jungle.name]\\c[0] et entrez dans la grotte.\\. Vous aurez plus de détails là-bas."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/1/name": {
                 "orig": "Madaki",
@@ -137,7 +137,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/9/message": {
                 "orig": "Oh, and they also just finished that direct teleporter to the place!\\. Great timing... Lemme activate it real quick...",
-                "text": "Oh, et ils viennent de terminer un téléporter qui va directement vers l'endroit !\\. Quelle synchronisation parfaite... Attendez, je vais l'activer tout de suite..."
+                "text": "Oh, et ils viennent de terminer un téléporteur qui va directement vers la grotte !\\. Quelle synchronisation parfaite... Attendez, je vais l'activer tout de suite..."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/25/name": {
                 "orig": "Madaki",
@@ -145,7 +145,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/26/message": {
                 "orig": "Great!\\. I will send out a request over the Seeker Hub once we're ready.",
-                "text": "Super !\\. J'enverrais une requête via le Repère des Pisteurs une fois que l'on sera prêt."
+                "text": "Super !\\. J'enverrai une requête via le Repère des Pisteurs une fois que l'on sera prêt."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/27/message": {
                 "orig": "Bye, \\v[lore.title.seeker], hope to see you again!",
@@ -161,7 +161,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/4/event/2/message": {
                 "orig": "Heya, \\v[lore.title.seeker].\\. We got nothing to do for you right now.\\. Nice to see you, though!",
-                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravi de vous voir quand même !"
+                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravie de vous voir quand même !"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/1/name": {
                 "orig": "Madaki",
@@ -169,7 +169,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/2/message": {
                 "orig": "Ah, \\v[lore.title.seeker], nice seeing you again.\\. Still interested in our temple excavation, I assume?",
-                "text": "Ah, \\v[lore.title.seeker], ravi de vous revoir.\\. Toujours intéressé par notre excavation de temple, je présume ?"
+                "text": "Ah, \\v[lore.title.seeker], ravie de vous revoir.\\. Toujours intéressée par notre excavation de temple, je présume ?"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/3/message": {
                 "orig": "...",
@@ -201,7 +201,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/9/accepted/1/message": {
                 "orig": "Alright, reliable as before I see.\\. Let's hope that's also true for that tech you will be using again.",
-                "text": "Je savais que je pouvais compter sur vous !\\. J'espère que c'est la technologie qu'on va utiliser est aussi fiable que vous."
+                "text": "Je savais que je pouvais compter sur vous !\\. J'espère que la technologie qu'on va utiliser est aussi fiable que vous."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/9/accepted/2/message": {
                 "orig": "...",
@@ -233,7 +233,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/9/accepted/9/message": {
                 "orig": "Yeah, goodbye.\\. And good luck!",
-                "text": "Oui, à plus.\\. Et bonne chance !"
+                "text": "Oui, à plus tard.\\. Et bonne chance !"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/5/event/quest/9/declined/0/message": {
                 "orig": "[shakes head]",
@@ -253,11 +253,11 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/6/event/2/message": {
                 "orig": "The temple is behind that door in the \\c[3]Grubby Cave\\c[0] you visited last time.",
-                "text": "Le temps est juste derrière cette porte dans la \\c[3]Grotte Sale\\c[0] que vous avez visité la dernière fois."
+                "text": "Le temple est juste derrière cette porte dans la \\c[3]Grotte Sale\\c[0] que vous avez visité la dernière fois."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/6/event/3/message": {
                 "orig": "You can enter that cave from the \\c[3]Calm Backyard\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0].",
-                "text": "Vous pouvez entrer dans cette grotte depuis le \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]."
+                "text": "Vous pourrez entrer dans cette grotte depuis le \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]."
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/7/event/quest/1/name": {
                 "orig": "Madaki",
@@ -309,7 +309,7 @@
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/8/event/2/message": {
                 "orig": "Heya, \\v[lore.title.seeker].\\. We got nothing to do for you right now.\\. Nice to see you, though!",
-                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravi de vous voir quand même !"
+                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravie de vous voir quand même !"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/89/settings/teleportLabel": {
                 "orig": "Enter the \\c[3]Grubby Cave\\c[0]",

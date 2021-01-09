@@ -30,7 +30,7 @@
         },
         "areas/rookie-harbor.json/floors/2/maps/4/name": {
                 "orig": "Item Shop",
-                "text": "Magasin d'Items"
+                "text": "Magasin d'objets"
         },
         "areas/rookie-harbor.json/floors/2/maps/5/name": {
                 "orig": "Weapon Shop",
@@ -329,11 +329,11 @@
         },
         "maps/rookie-harbor/inner-tala.json/entities/71/settings/event/19/message": {
                 "orig": "Ah was able to preserve all o' them precious flora y'all kept hittin'.",
-                "text": "Ici j'peux conserver toute' ces plantes précieuses qu'vous passiez vot' temps à frapper."
+                "text": "Ici j'peux conserver toute' ces plantes précieuses qu'tu passais ton temps à frapper."
         },
         "maps/rookie-harbor/inner-tala.json/entities/71/settings/event/20/message": {
                 "orig": "Even them weird ones...",
-                "text": "Mêmes les plus marrantes..."
+                "text": "Mêmes les plus étranges..."
         },
         "maps/rookie-harbor/inner-tala.json/entities/71/settings/event/21/message": {
                 "orig": "...",
@@ -341,7 +341,7 @@
         },
         "maps/rookie-harbor/inner-tala.json/entities/71/settings/event/22/message": {
                 "orig": "What Ah'm try'na say is: Thanks, Seeker.",
-                "text": "Tout'c'que j'veux dire pas là c'est : Merci pisteuse !"
+                "text": "Tout'c'que j'veux dire par là c'est : Merci pisteuse !"
         },
         "maps/rookie-harbor/inner-tala.json/entities/71/settings/event/23/message": {
                 "orig": "Y'all helped me fulfill mah dream and words can't say how much that means to me.",
@@ -825,7 +825,7 @@
         },
         "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/5/message": {
                 "orig": "Ahh!\\. Y... you again?",
-                "text": "Ahh !\\. E... Encore toi ?"
+                "text": "Ahh !\\. E... Encore vous ?"
         },
         "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/6/message": {
                 "orig": "[nods]",
@@ -833,12 +833,11 @@
         },
         "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/7/message": {
                 "orig": "Okay... I guess that's the end of the line then.\\. It's really a shame...",
-                "text": "OK... J'imagine qu'on est au bout du rouleau alors.\\. C'est vraiment dommage..."
+                "text": "OK... J'imagine que je suis au bout du rouleau alors.\\. C'est vraiment dommage..."
         },
         "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/19/message": {
                 "orig": "...that you're so slow!!\\.\\. Byeeeee\\..\\..\\..",
-                "text": "... que tu sois si lent !!\\.\\. Byeeeee\\..\\..\\..",
-                "note": "assuming ungendered generic npc lines"
+                "text": "... que vous soyez si lente !!\\.\\. Byeeeee\\..\\..\\.."
         },
         "maps/rookie-harbor/west.json/entities/302/settings/displayName": {
                 "orig": "Ark",
@@ -1047,7 +1046,7 @@
         },
         "maps/rookie-harbor/west.json/entities/378/settings/event/15/message": {
                 "orig": "In this shop here you can buy \\c[3]consumable items\\c[0].",
-                "text": "Dans ce magasin ici, vous pouvez acheter des \\c[3]items consommables\\c[0]."
+                "text": "Dans ce magasin ici, vous pouvez acheter des \\c[3]objets consommables\\c[0]."
         },
         "maps/rookie-harbor/west.json/entities/378/settings/event/19/message": {
                 "orig": "Further down you'll find an armory with basic \\c[3]equipment\\c[0].",
@@ -1168,7 +1167,7 @@
         },
         "maps/rookie-harbor/west.json/entities/378/settings/event/53/message": {
                 "orig": "Come on, Lea.\\. Let's do some leveling until we're worth the Dark Lord's attention!",
-                "text": "Allez viens, Lea.\\. Allons monter un peu de niveau jusqu'à que l'on mérite l'attention du Seigneur des Ténèbres !"
+                "text": "Allez viens, Lea.\\. Allons monter un peu de niveau jusqu'à ce que l'on mérite l'attention du Seigneur des Ténèbres !"
         },
         "maps/rookie-harbor/west.json/entities/378/settings/event/57/message": {
                 "orig": "Oh, Junge...",
@@ -1292,7 +1291,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/8/message": {
                 "orig": "The name is Selena Teak and I have grand plans:\\. To create the perfect steaks for everyone to enjoy!",
-                "text": "Mon nom est Selena Teak et j'ai un grand projet :\\. De créer des steaks parfaits et d'en faire profiter tout le monde !"
+                "text": "Mon nom est Selena Teak et j'ai un grand projet :\\. Créer des steaks parfaits et en faire profiter tout le monde !"
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/9/message": {
                 "orig": "Lea!",
@@ -1300,11 +1299,11 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/10/message": {
                 "orig": "At least that's what I want to do, but I still don't have the proper ingredients for that.",
-                "text": "Ça c'est ce que je cherche à faire, mais je n'ai pas encore trouvé les bons ingrédients pour ça."
+                "text": "Enfin c'est ce que je cherche à faire, mais je n'ai pas encore trouvé les bons ingrédients pour ça."
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/11/message": {
                 "orig": "And since I can't just leave the city and search for them... Maybe you can help me with that?",
-                "text": "Et vu que je ne peux pas juste quitter la ville et aller en chercher... Peut-être que tu pourrais m'aider là-dessus ?"
+                "text": "Et vu que je ne peux pas juste quitter la ville pour aller en chercher... Peut-être pourrais-tu m'aider là-dessus ?"
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/12/accepted/0/message": {
                 "orig": "[nods]",
@@ -1320,7 +1319,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/12/accepted/3/message": {
                 "orig": "Though I heard that you gotta have, like, \\c[3]a good Rank\\c[0] to get some meat from them.\\. Whatever that means.",
-                "text": "Bien que j'aie cru comprendre qu'il faut que tu aies \\c[3]un bon rang\\c[0] pour obtenir de la viande à partir d'eux.\\. Peu importe ce que ça veut dire."
+                "text": "J'ai cru comprendre qu'il faut que tu aies \\c[3]un bon rang\\c[0] pour obtenir de la viande à partir d'eux.\\. Bien que je ne comprenne pas très bien."
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/0/event/quest/12/accepted/4/message": {
                 "orig": "...?",
@@ -1384,11 +1383,11 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/2/event/quest/6/message": {
                 "orig": "Amazing.\\. That's, like, everything I asked for.",
-                "text": "Chouette !\\. Tu as vraiment tout ce que j'ai demandé."
+                "text": "Chouette !\\. Tu as vraiment tout ce que j'avais demandé."
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/2/event/quest/7/message": {
                 "orig": "Just stay right here, okay?\\. I have to try out my recipe immediately.",
-                "text": "Reste un peu ici, OK ?\\. Je veux essayer ma recette tout de suite."
+                "text": "Attends un peu ici, OK ?\\. Je veux essayer ma recette tout de suite."
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/2/event/quest/14/name": {
                 "orig": "Ms. Teak",
@@ -1408,7 +1407,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/2/event/quest/18/message": {
                 "orig": "I'm sorry girl, but I can't use this.\\. Not for the steak of my dreams.",
-                "text": "Je suis désolé, mais je ne peux pas utiliser ça.\\. Pas pour le steak de mes rêves."
+                "text": "Je suis désolée, mais je ne peux pas utiliser ça.\\. Pas pour le steak de mes rêves."
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/2/event/quest/19/message": {
                 "orig": "...?",
@@ -1448,7 +1447,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/3/event/quest/5/message": {
                 "orig": "Yeah, I'm pretty sure about it this time!\\. Let's give this another try, shall we?",
-                "text": "Oui, cette fois, j'en suis vraiment sûr !\\. On peut réessayer ?"
+                "text": "Oui, cette fois, j'en suis vraiment sûre !\\. On peut réessayer ?"
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/3/event/quest/6/accepted/0/message": {
                 "orig": "[nods]",
@@ -1488,7 +1487,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/3/event/quest/6/declined/1/message": {
                 "orig": "Awww, no trust left because of that one failure?\\. Come on girl, I think we are onto something here!",
-                "text": "Oh noon, c'est tout ? Tu n'as plus confiance dans notre affaire ?\\. Après seulement un échec ?\\. Allez, partenaire, je suis sûr qu'on va finir par y arriver !"
+                "text": "Oh noon, c'est tout ? Tu n'as plus confiance dans notre affaire ?\\. Après seulement un échec ?\\. Allez, partenaire, je suis sûre qu'on va finir par y arriver !"
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/3/event/quest/6/declined/2/message": {
                 "orig": "...",
@@ -1516,7 +1515,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/5/event/quest/3/message": {
                 "orig": "Yay~, you are back again.\\. And do I smell some nice meat and wood there?",
-                "text": "Héé~, Tu es de nouveau de retour.\\. Et est c'est de la bonne viande et de l'excellent bois que je sens ?"
+                "text": "Héé~, Tu es de nouveau de retour.\\. Serais-ce de la bonne viande et de l'excellent bois que je sens ?"
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/5/event/quest/4/message": {
                 "orig": "[nods]",
@@ -1636,7 +1635,7 @@
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/7/event/quest/8/accepted/1/message": {
                 "orig": "Yeehaw, I knew I could count on you, my dear!",
-                "text": "Yeehaa !\\. Je savais que je pourrais compter sur toi !"
+                "text": "Yeehaa !\\. Je savais que je pouvais compter sur toi !"
         },
         "maps/rookie-harbor/west.json/entities/398/settings/npcStates/7/event/quest/8/accepted/2/message": {
                 "orig": "...",
@@ -1812,7 +1811,7 @@
         },
         "maps/rookie-harbor/west.json/entities/400/settings/npcStates/0/event/5/message": {
                 "orig": "Go she to Zergeant Brassler and tell him that she cannot accebt his authority as ein policeman!",
-                "text": "Allez voir le Zergent Brassler et dides lui que vous n'azzeptiez bas zon audoridé comme ein bolizier !"
+                "text": "Allez voir le Zergent Brassler et dides lui que vous n'azzeptez bas zon audoridé comme ein bolizier !"
         },
         "maps/rookie-harbor/west.json/entities/400/settings/npcStates/0/event/6/message": {
                 "orig": "Because he is missing ein correct coattail!\\. Jawohl!",
