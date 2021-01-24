@@ -8953,7 +8953,7 @@
         },
         "database.json/commonEvents/storyUpdateA/event/1/content": {
                 "orig": "You just loaded an \\c[3]old save file\\c[0].\n\\c[3]Things might be broken!\\c[0]\nHowever, we can try to continue the story from when things changed! You will keep your level and items.\n\nDo you want to continue the story?",
-                "text": "Vous venez de charger une \\c[3]ancienne sauvegarde\\c[0].\n\\c[3]Les choses sont peut-être cassées !\\c[0]\nEn revanche, on peut essayer de continuer l'histoire à partir de là où les choses ont changé ! Vous garderez votre niveau et vos items.\n\nVoulez-vous continuer l'histoire ?"
+                "text": "Vous venez de charger une \\c[3]ancienne sauvegarde\\c[0].\n\\c[3]Les choses sont peut-être cassées !\\c[0]\nEn revanche, on peut essayer de continuer l'histoire à partir de là où les choses ont changé ! Vous garderez votre niveau et vos objets.\n\nVoulez-vous continuer l'histoire ?"
         },
         "database.json/commonEvents/storyUpdateB/event/1/title": {
                 "orig": "Continue Story?",
@@ -16432,7 +16432,7 @@
         },
         "database.json/quests/bergen-fancy-tophat/tasks/5/task": {
                 "orig": "Bring the \\v[item.161.name] to \\c[3]Jamie Twirlson\\c[0] in the \\c[3]\\v[area.bergen.name] Item-Shop\\c[0]",
-                "text": "Apportez le \\v[item.161.name] à \\c[3]Jamie Twirlson\\c[0] dans la \\c[3]Boutique d'Item du \\v[area.bergen.name]\\c[0]"
+                "text": "Apportez le \\v[item.161.name] à \\c[3]Jamie Twirlson\\c[0] dans la \\c[3]Boutique d'Objets du \\v[area.bergen.name]\\c[0]"
         },
         "database.json/quests/bergen-fancy-tophat/tasks/6/task": {
                 "orig": "Report back to \\c[3]Mrs. Summers\\c[0] in the \\c[3]Trader's Den\\c[0]",
@@ -19732,7 +19732,7 @@
         },
         "database.json/quests/unknown-warrior-1/description": {
                 "orig": "You found a weird player wearing armor from all classes trying to find a \\c[3]\\v[item.133.name]\\c[0]. He said you can find it in \\c[3]\\v[area.autumn-area.name]\\c[0] in an area where it rains and you have to defeat lots of \\c[3]\\v[combat.name.hedgehog]s\\c[0].",
-                "text": "Vous avez vu un joueur étrange, portant des items de toutes les classes, qui cherche des \\c[3]\\v[item.133.name]\\c[0]. Il dit qu'ils sont à \\c[3]\\v[area.autumn-area.name]\\c[0], dans un endroit pluvieux où il faut vaincre plein de \\c[3]\\v[combat.name.hedgehog]s\\c[0]."
+                "text": "Vous avez vu un joueur étrange, portant des objets de toutes les classes, qui cherche des \\c[3]\\v[item.133.name]\\c[0]. Il dit qu'ils sont à \\c[3]\\v[area.autumn-area.name]\\c[0], dans un endroit pluvieux où il faut vaincre plein de \\c[3]\\v[combat.name.hedgehog]s\\c[0]."
         },
         "database.json/quests/unknown-warrior-1/briefing": {
                 "orig": "You found the weapon and returned it to the player, learning nothing but his name: \\c[3]Ketin D'Kar\\c[0]",
@@ -19883,7 +19883,7 @@
         },
         "database.json/shops/testshop/pages/0/title": {
                 "orig": "Items",
-                "text": "Items"
+                "text": "Objets"
         },
         "database.json/shops/testshop/pages/1/title": {
                 "orig": "Equipment",
@@ -20000,7 +20000,7 @@
         },
         "database.json/shops/basinItems/name": {
                 "orig": "Items N' Goods",
-                "text": "Items & Matos"
+                "text": "Objets & Matos"
         },
         "database.json/shops/basinItems/pages/0/title": {
                 "orig": "General Goods",
@@ -20032,7 +20032,7 @@
         },
         "database.json/shops/sapphireItems/name": {
                 "orig": "Good Items",
-                "text": "Bons Items"
+                "text": "Bons Objets"
         },
         "database.json/shops/sapphireItems/pages/0/title": {
                 "orig": "General Goods",
@@ -20048,7 +20048,7 @@
         },
         "database.json/shops/rhombusItems1/name": {
                 "orig": "Rhombus Items",
-                "text": "Items de Rhombus"
+                "text": "Objets de Rhombus"
         },
         "database.json/shops/rhombusItems1/pages/0/title": {
                 "orig": "General Goods",

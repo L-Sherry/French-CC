@@ -170,7 +170,7 @@
         },
         "lang/sc/gui.en_US.json/labels/arena/bonuses/ITEMS_USED": {
                 "orig": "Use less than \\c[3][!] Items\\c[0]",
-                "text": "Utilisez moins de \\c[3][!] Items\\c[0]"
+                "text": "Utilisez moins de \\c[3][!] Objets\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/arena/bonuses/COMBAT_ARTS_USED": {
                 "orig": "Use at least \\c[3][!] Combat Arts\\c[0]",
@@ -190,7 +190,7 @@
         },
         "lang/sc/gui.en_US.json/labels/arena/bonuses/NO_ITEMS_USED": {
                 "orig": "\\c[5]No Items Used\\c[0]",
-                "text": "\\c[5]Aucun Item Utilisé\\c[0]"
+                "text": "\\c[5]Aucun Objet Utilisé\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/arena/challenges/descriptions/NO_MELEE": {
                 "orig": "Close Combat and Melee Arts are disabled. ",
@@ -214,7 +214,7 @@
         },
         "lang/sc/gui.en_US.json/labels/arena/challenges/descriptions/NO_ITEMS": {
                 "orig": "Using items is disabled.",
-                "text": "L'utilisation d'Items est désactivé."
+                "text": "L'utilisation d'Objets est désactivé."
         },
         "lang/sc/gui.en_US.json/labels/arena/challenges/descriptions/LEA_MUST_DIE": {
                 "orig": "Every attack instantly K.O.s you.",
@@ -518,7 +518,7 @@
         },
         "lang/sc/gui.en_US.json/labels/trade/equipInfo": {
                 "orig": "One or more items you need are currently equipped! Unequip and proceed with the trade?",
-                "text": "Un ou plusieurs items dont vous avez besoin sont actuellement portés ! Les enlever et continuer avec le marchandage ?"
+                "text": "Un ou plusieurs objets dont vous avez besoin sont actuellement portés ! Les enlever et continuer avec le marchandage ?"
         },
         "lang/sc/gui.en_US.json/labels/trade/end": {
                 "orig": "End Trade.",
@@ -702,7 +702,7 @@
         },
         "lang/sc/gui.en_US.json/labels/dialogs/sellRare": {
                 "orig": "One or more items you are trying to sell are of legendary rarity or higher. Still sale?",
-                "text": "Un ou plusieurs de vos items que vous voulez vendre sont légendaires ou plus. Continuer la vente ?"
+                "text": "Un ou plusieurs de vos objets que vous voulez vendre sont légendaires ou plus. Continuer la vente ?"
         },
         "lang/sc/gui.en_US.json/labels/dialogs/yes": {
                 "orig": "Yes",
@@ -1015,7 +1015,7 @@
         },
         "lang/sc/gui.en_US.json/labels/item-hud/title": {
                 "orig": "Item",
-                "text": "Item"
+                "text": "Objet"
         },
         "lang/sc/gui.en_US.json/labels/lore-hud/title": {
                 "orig": "Encyclopedia",
@@ -1479,7 +1479,7 @@
         },
         "lang/sc/gui.en_US.json/labels/shop/items": {
                 "orig": "Items",
-                "text": "Items"
+                "text": "Objets"
         },
         "lang/sc/gui.en_US.json/labels/shop/noEquip": {
                 "orig": "----------------------",
@@ -1571,7 +1571,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/sets/drop-rate": {
                 "orig": "Drop Rates",
-                "text": "Taux d'Items Laissés"
+                "text": "Taux d'Objets Laissés"
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/sets/enemy": {
                 "orig": "Enemy Modifiers",
@@ -1679,11 +1679,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/names/drop-rate-2": {
                 "orig": "Drop Rate x 2",
-                "text": "Items Laissés x2"
+                "text": "Objets Laissés x2"
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/names/drop-rate-4": {
                 "orig": "Drop Rate x 4",
-                "text": "Items Laissés x4"
+                "text": "Objets Laissés x4"
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/names/disable-exp": {
                 "orig": "Disable EXP",
@@ -1795,11 +1795,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/drop-rate-2": {
                 "orig": "Increases drop rate for items from plants and enemies by 100%.",
-                "text": "Augmente le taux d'items laissés par les plantes et les ennemis de 100 %."
+                "text": "Augmente le taux d'objets laissés par les plantes et les ennemis de 100 %."
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/drop-rate-4": {
                 "orig": "Increases drop rate for items from plants and enemies by 300%.",
-                "text": "Augmente le taux d'items laissés par les plantes et les ennemis de 300 %."
+                "text": "Augmente le taux d'objets laissés par les plantes et les ennemis de 300 %."
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/enemy-damage-15": {
                 "orig": "Increase damage taken by 50%.",
@@ -1879,7 +1879,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/disable-money": {
                 "orig": "Disable gaining money. This includes selling items in shops!",
-                "text": "Désactive l'obtention d'argent. Y compris en vendant des items dans les magasins !"
+                "text": "Désactive l'obtention d'argent. Y compris en vendant des objets dans les magasins !"
         },
         "lang/sc/gui.en_US.json/labels/menu/new-game/options/descriptions/dash-1": {
                 "orig": "Start with only one dash that has 3 times the invincibility and less ending lag.",
@@ -2204,7 +2204,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help/item/description/avail": {
                 "orig": "Shows where your commonly find a trade item.",
-                "text": "Montre ou vous pouvez habituellement trouver un Item."
+                "text": "Montre ou vous pouvez habituellement trouver un Objet."
         },
         "lang/sc/gui.en_US.json/labels/menu/help/status/titles/element": {
                 "orig": "Current Element",
@@ -2372,7 +2372,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help/trader/description/content": {
                 "orig": "Shows what items are needed to acquire this item. Current owned items are shown in brackets.",
-                "text": "Montre quels items sont nécessaires pour acquérir l'item. Les objets actuellement possédés sont affichés entre crochets."
+                "text": "Montre quels objets sont nécessaires pour acquérir l'objet. Les objets actuellement possédés sont affichés entre crochets."
         },
         "lang/sc/gui.en_US.json/labels/menu/help/trader/description/money": {
                 "orig": "Find the fee you need to pay for the trade here.",
@@ -2396,7 +2396,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help/enemy/titles/rewards": {
                 "orig": "Enemy Drops",
-                "text": "Items laissés"
+                "text": "Objets laissés"
         },
         "lang/sc/gui.en_US.json/labels/menu/help/enemy/description/type": {
                 "orig": "The type of the enemy as indicated by the tab. Golden ones are bosses and have a special tab.",
@@ -2552,7 +2552,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/sort/des/level": {
                 "orig": "Sorty the list by item level. Highest first.",
-                "text": "Trie la liste par niveau de l'item. Le plus haut en premier."
+                "text": "Trie la liste par niveau de l'objet. Le plus haut en premier."
         },
         "lang/sc/gui.en_US.json/labels/menu/sort/des/auto": {
                 "orig": "Sorts the list by a natural order.",
@@ -2572,15 +2572,15 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/sort/des/name": {
                 "orig": "Sorts the list by the item's names.",
-                "text": "Trie la liste par le nom des items."
+                "text": "Trie la liste par le nom des objets."
         },
         "lang/sc/gui.en_US.json/labels/menu/sort/des/amount": {
                 "orig": "Sorts the list based on the amount of each item.",
-                "text": "Trie la liste par nombre d'items possédés."
+                "text": "Trie la liste par nombre d'objets possédés."
         },
         "lang/sc/gui.en_US.json/labels/menu/sort/des/rarity": {
                 "orig": "Sorts the list based on the rarity of each item.",
-                "text": "Trie la liste par rareté de chaque item."
+                "text": "Trie la liste par rareté de chaque objet."
         },
         "lang/sc/gui.en_US.json/labels/menu/sort/des/questLevel": {
                 "orig": "Sorts the list based on the level of the quest.",
@@ -2785,7 +2785,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/description/items": {
                 "orig": "Browse through your items and use consumables.",
-                "text": "Naviguez parmi vos items et utilisez des consommables."
+                "text": "Naviguez parmi vos objets et utilisez des consommables."
         },
         "lang/sc/gui.en_US.json/labels/menu/description/skills": {
                 "orig": "Upgrade your abilities by activating nodes on the circuit boards.",
@@ -2793,7 +2793,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/description/equipment": {
                 "orig": "Equip items to enhance your battle stats.",
-                "text": "Équipez des items pour améliorer vos statistiques de combat."
+                "text": "Équipez des objets pour améliorer vos statistiques de combat."
         },
         "lang/sc/gui.en_US.json/labels/menu/description/status": {
                 "orig": "Check your Status, including all Skills, Modifiers and Equipment.",
@@ -3009,7 +3009,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/modifier/ITEM_BOOST": {
                 "orig": "Item Booster",
-                "text": "Booste Item"
+                "text": "Booste Objet"
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/modifier/OVERHEAT_REDUCTION": {
                 "orig": "Balance",
@@ -3170,7 +3170,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/ITEM_GUARD": {
                 "orig": "Using Items cannot be stopped by any attacks. However you can still suffer damage.",
-                "text": "Les utilisations d'items ne peuvent pas être interrompus par des attaques. Mais vous subissez encore les dommages."
+                "text": "Les utilisations d'objets ne peuvent pas être interrompus par des attaques. Mais vous subissez encore les dommages."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/SP_REGEN": {
                 "orig": "Increases SP regeneration of any form.",
@@ -3222,7 +3222,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/DROP_CHANCE": {
                 "orig": "Increases drop rate for items from enemies and environmental objects.",
-                "text": "Augmente les chances de trouver des items laissés par des ennemis ou des objets de l'environnement."
+                "text": "Augmente les chances de trouver des objets laissés par des ennemis ou des objets de l'environnement."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/GUARD_STRENGTH": {
                 "orig": "Strengthens your shield and decreases the damage taken while guarding.",
@@ -3230,7 +3230,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/ITEM_BOOST": {
                 "orig": "Increases the effect of healing items and duration of buff items.",
-                "text": "Augmente les effets des items de soins et la durée des items de buffs."
+                "text": "Augmente les effets des objets de soins et la durée des objets de buffs."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/OVERHEAT_REDUCTION": {
                 "orig": "Slows down Overload while using an element.",
@@ -3278,7 +3278,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/RANK_PLANTS": {
                 "orig": "Combat Rank also increases the drop rate of items from environment objects.",
-                "text": "Le Rang de Combat augmente les chances de trouver des items depuis des objets de l'environnement."
+                "text": "Le Rang de Combat augmente les chances de trouver des objets depuis des objets de l'environnement."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/BREAK_DMG": {
                 "orig": "Increase damage on enemies that are in stunned, weak or in break state.",
@@ -3586,7 +3586,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/synopsis-menu/items": {
                 "orig": "Almanac",
-                "text": "Items"
+                "text": "Objets"
         },
         "lang/sc/gui.en_US.json/labels/menu/synopsis-menu/enemies": {
                 "orig": "Monster Fibula",
@@ -3682,7 +3682,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/synopsis-menu/descriptions/items": {
                 "orig": "Here you can find a detailed list of all items and where to find them.",
-                "text": "Ici vous pouvez trouver une liste de tous vos items et où les trouver."
+                "text": "Ici vous pouvez trouver une liste de tous vos objets et où les trouver."
         },
         "lang/sc/gui.en_US.json/labels/menu/synopsis-menu/descriptions/trade": {
                 "orig": "Look up the locations and offers of every trader you found so far.",
@@ -3702,7 +3702,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/synopsis-menu/descriptions/botanics": {
                 "orig": "Look up all environment objects of CrossWorlds and what kind of items they can drop.",
-                "text": "Retrouvez tous les objets de l'environnement de CrossWorlds et leurs items."
+                "text": "Retrouvez tous les objets de l'environnement de CrossWorlds et le type d'objets qu'ils peuvent laisser."
         },
         "lang/sc/gui.en_US.json/labels/menu/synopsis-menu/descriptions/newgame": {
                 "orig": "Take a look at the \\c[3]New Game Plus\\c[0] options you have selected.",
@@ -4512,7 +4512,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/items": {
                 "orig": "Item Completion",
-                "text": "Complétion Item"
+                "text": "Complétion Objet"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/itemCons": {
                 "orig": "Consumables",
@@ -4548,7 +4548,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/total": {
                 "orig": "Total Number of Items Collected",
-                "text": "Total Nombre d'Items Récupéré"
+                "text": "Total Nombre d'Objets Récupéré"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/used": {
                 "orig": "Consumables Used",
@@ -4568,11 +4568,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/buy": {
                 "orig": "Items Bought",
-                "text": "Items Achetés"
+                "text": "Objets Achetés"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/sell": {
                 "orig": "Items Sold",
-                "text": "Items Vendus"
+                "text": "Objets Vendus"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/chestFound": {
                 "orig": "Chests Found",
@@ -4588,11 +4588,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/tradeGot": {
                 "orig": "Items Obtained through Trading",
-                "text": "Items Obtenus par du Marchandage"
+                "text": "Objets Obtenus par du Marchandage"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/tradeLost": {
                 "orig": "Items Lost through Trading",
-                "text": "Items Perdus par du Marchandage"
+                "text": "Objets Perdus par du Marchandage"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/areas": {
                 "orig": "Area Completion",
@@ -4692,7 +4692,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/subTaskCol": {
                 "orig": "Collect Items",
-                "text": "Collecter des Items"
+                "text": "Collecter des Objets"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/subTaskAct": {
                 "orig": "Interactions",
@@ -4720,7 +4720,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/rewardItems": {
                 "orig": "Total Items gained through Quests",
-                "text": "Total Items Obtenus par des Quêtes"
+                "text": "Total Objets Obtenus par des Quêtes"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/rewardCp": {
                 "orig": "Total Circuit Points gained through Quests",
@@ -4848,7 +4848,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/moneySelling": {
                 "orig": "Selling Items",
-                "text": "Vente d'Items"
+                "text": "Vente d'Objets"
         },
         "lang/sc/gui.en_US.json/labels/menu/stats/keys/moneyOther": {
                 "orig": "Events / Others",
@@ -5204,7 +5204,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/0/content/2": {
                 "orig": "This is where you can take a look at all your collected items or set certain consumables as your favorites.",
-                "text": "C'est ici que vous pouvez observer tous vos items récupérés ou marquer certains consommables comme étant vos préférés."
+                "text": "C'est ici que vous pouvez observer tous vos objets récupérés ou marquer certains consommables comme étant vos préférés."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/0/content/3": {
                 "orig": "Use \\i[circle-left] and \\i[circle-right] to cycle through the categories or press on the tabs if you use the mouse.",
@@ -5220,7 +5220,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/1/content/0": {
                 "orig": "Most consumables are \\c[3]buffs used to aid you in battle\\c[0]. Hovering over a consumable that is also a buff shows a little interface telling you what the item does in the \\c[3]bottom left corner\\c[0].",
-                "text": "La plupart des consommables sont des \\c[3]buffs utilisés pour vous aider au combat\\c[0]. Survoler un consommable qui est un buff vous montre une petite interface \\c[3]en bas à gauche\\c[0] indiquant ce que fait l'item."
+                "text": "La plupart des consommables sont des \\c[3]buffs utilisés pour vous aider au combat\\c[0]. Survoler un consommable qui est un buff vous montre une petite interface \\c[3]en bas à gauche\\c[0] indiquant ce que fait l'objet."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/1/content/1": {
                 "orig": "..",
@@ -5236,7 +5236,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/2/content/0": {
                 "orig": "Add-Ons are helpful items or visual effects you can toggle on and off as your please!",
-                "text": "Les Add-Ons sont des items utiles ou des effets visuels, que vous pouvez activer ou désactiver comme il vous plait !"
+                "text": "Les Add-Ons sont des objets utiles ou des effets visuels, que vous pouvez activer ou désactiver comme il vous plait !"
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/2/content/1": {
                 "orig": "..",
@@ -5244,7 +5244,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/2/content/2": {
                 "orig": "Items in this category are grouped in \\c[3]Sets\\c[0]. In Sets with \\c[3]round checkboxes, only one\\c[0] of the items in the set can be active at the same time. \\c[3]Square-shaped checkboxes\\c[0] indicated a set where you can \\c[3]toggle any item\\c[0].",
-                "text": "Les Items dans cette catégorie sont groupés en \\c[3]Sections\\c[0]. Dans les sections avec des \\c[3]cases à cocher rondes, seul un\\c[0] des items de la section peut être actif à la fois. Les \\c[3]cases à cocher carrées\\c[0] indique une section où vous pouvez \\c[3]activer n'importe quel item\\c[0]."
+                "text": "Les Objets dans cette catégorie sont groupés en \\c[3]Sections\\c[0]. Dans les sections avec des \\c[3]cases à cocher rondes, seul un\\c[0] des objets de la section peut être actif à la fois. Les \\c[3]cases à cocher carrées\\c[0] indique une section où vous pouvez \\c[3]activer n'importe quel objet\\c[0]."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/pages/2/condition": {
                 "orig": "player.hasAnyToggleItems",
@@ -5256,11 +5256,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/title-2": {
                 "orig": "\\c[3]Adding Favorite Items\\c[0]",
-                "text": "\\c[3]Ajouter des Items Favoris\\c[0]"
+                "text": "\\c[3]Ajouter des Objets Favoris\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/inventory/text-2": {
                 "orig": "Hover over an item in the Consumables Section and press \\i[help2] to add it as a favorite",
-                "text": "Survolez un Item dans l'onglet Consommables et appuyez sur \\i[help2] pour l'ajouter en tant que favoris"
+                "text": "Survolez un Objet dans l'onglet Consommables et appuyez sur \\i[help2] pour l'ajouter en tant que favoris"
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/equip/title": {
                 "orig": "\\c[3]Equipment Menu\\c[0]",
@@ -5304,7 +5304,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/equip/pages/1/content/0": {
                 "orig": "Hovering over a piece of equipment shows the changes to your \\c[3]status\\c[0] on the left. Having already equipped an item will show how your parameters change when switching to another piece of gear.",
-                "text": "Survoler un équipement montre les changements portés à votre \\c[3]Status\\c[0] sur la gauche. En ayant un item déjà équipé, cela montrera comment vos paramètres vont changer en choisissant un autre équipement."
+                "text": "Survoler un équipement montre les changements portés à votre \\c[3]Status\\c[0] sur la gauche. En ayant un objet déjà équipé, cela montrera comment vos paramètres vont changer en choisissant un autre équipement."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/equip/pages/1/content/1": {
                 "orig": "\\c[3]Modifiers\\c[0] are shown below the status parameters. Press \\i[skip-cutscene] to expand the list if more modifiers are equipped or shown then fit into the list.",
@@ -5513,7 +5513,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/newgame/pages/1/content/1": {
                 "orig": "--\\c[3]Key Items\\c[0]",
-                "text": "--\\c[3]Les Items Clés\\c[0]"
+                "text": "--\\c[3]Les Objets Clés\\c[0]"
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/newgame/pages/1/content/2": {
                 "orig": "--\\c[3]Contacts\\c[0]",
@@ -5682,11 +5682,11 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/4": {
                 "orig": "Press on an item to select the quantity you want to buy. You can use the \\i[up]\\i[left]\\i[down]\\i[right] to change the amount.",
-                "text": "Appuyez sur un item pour sélectionner la quantité que vous voulez acheter. Vous pouvez utiliser \\i[up]\\i[left]\\i[down]\\i[right] pour changer le montant."
+                "text": "Appuyez sur un objet pour sélectionner la quantité que vous voulez acheter. Vous pouvez utiliser \\i[up]\\i[left]\\i[down]\\i[right] pour changer le montant."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/0/content/5": {
                 "orig": "Press \\i[help2] to open the checkout view when you have at least one item in your cart. Once you sure you want to buy or sell the selected items, press Buy/Sell to confirm.",
-                "text": "Appuyez sur \\i[help2] pour ouvrir la vue d'encaissement lorsque vous avez au moins un item dans votre panier. Une fois que vous voulez vendre ou acheter, appuyez sur Acheter/Vendre pour confirmer."
+                "text": "Appuyez sur \\i[help2] pour ouvrir la vue d'encaissement lorsque vous avez au moins un objet dans votre panier. Une fois que vous voulez vendre ou acheter, appuyez sur Acheter/Vendre pour confirmer."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/shop/pages/1/title": {
                 "orig": "\\c[3]Shop Menu\\c[0] - Additional Info",
@@ -5986,7 +5986,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/4": {
                 "orig": "Select an entry to reveal a detailed overview over what items you need and how much it will cost you.",
-                "text": "Sélectionnez une entrée pour révéler un résumé détaillé de quels items vous avez besoin et combien cela va vous coûter."
+                "text": "Sélectionnez une entrée pour révéler un résumé détaillé de quels objets vous avez besoin et combien cela va vous coûter."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/5": {
                 "orig": "....",
@@ -5994,7 +5994,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/traders/pages/0/content/6": {
                 "orig": "While the detail view is open you can still switch through tabs and select different items.",
-                "text": "Tant que la vue détaillée est ouverte vous pouvez encore changer d'onglet et sélectionner différents items."
+                "text": "Tant que la vue détaillée est ouverte vous pouvez encore changer d'onglet et sélectionner différents objets."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/status/title": {
                 "orig": "\\c[3]Status Menu\\c[0]",
@@ -6234,7 +6234,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/2": {
                 "orig": "Here you can trade your items against other items as long as you fulfil the requirements and have enough credits.",
-                "text": "Ici vous pouvez échanger vos items contre d'autres items tant que vous remplissez les conditions et que vous avez suffisamment de crédits."
+                "text": "Ici vous pouvez échanger vos objets contre d'autres objets tant que vous remplissez les conditions et que vous avez suffisamment de crédits."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/3": {
                 "orig": "....",
@@ -6246,7 +6246,7 @@
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/trade/pages/0/content/5": {
                 "orig": "The values in \\c[3]brackets show how many of the required items you have\\c[0]. If the offer is a piece of equipment you can check the parameters on the left side.",
-                "text": "Les valeurs entre \\c[3]crochets montrent le nombre d'items requis vous possédez\\c[0]. Si l'offre est un équipement vous pouvez vérifier ses paramètres sur le côté gauche."
+                "text": "Les valeurs entre \\c[3]crochets montrent le nombre d'objets requis vous possédez\\c[0]. Si l'offre est un équipement vous pouvez vérifier ses paramètres sur le côté gauche."
         },
         "lang/sc/gui.en_US.json/labels/menu/help-texts/questHub/title": {
                 "orig": "\\c[3]Bulletion Board\\c[0]",
@@ -6543,7 +6543,7 @@
         },
         "lang/sc/gui.en_US.json/labels/skills/names/ITEM_BOOST": {
                 "orig": "Item Booster",
-                "text": "Boosteur Item"
+                "text": "Boosteur Objet"
         },
         "lang/sc/gui.en_US.json/labels/skills/names/APPETITE": {
                 "orig": "Appetite",
@@ -6727,7 +6727,7 @@
         },
         "lang/sc/gui.en_US.json/labels/skills/descriptions/ITEM_BOOST": {
                 "orig": "Increases the effect of healing and the duration of buffs from items by \\c[3][xyz]%\\c[0].",
-                "text": "Augmente les effets des soins et la durée des buffs des items de \\c[3][xyz] %\\c[0]."
+                "text": "Augmente les effets des soins et la durée des buffs des objets de \\c[3][xyz] %\\c[0]."
         },
         "lang/sc/gui.en_US.json/labels/skills/descriptions/APPETITE": {
                 "orig": "Unlocks \\c[3]one\\c[0] additional buff slot.",
@@ -6835,11 +6835,11 @@
         },
         "lang/sc/gui.en_US.json/labels/options/item-hud-size/name": {
                 "orig": "Item HUD Size",
-                "text": "Taille Fenêtre des Items"
+                "text": "Taille Fenêtre des Objets"
         },
         "lang/sc/gui.en_US.json/labels/options/item-hud-size/description": {
                 "orig": "Changes the size of the item notification window.",
-                "text": "Change la taille de la fenêtre de notification des items."
+                "text": "Change la taille de la fenêtre de notification des objets."
         },
         "lang/sc/gui.en_US.json/labels/options/item-hud-size/group/0": {
                 "orig": "Normal",
@@ -7027,7 +7027,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/equip-level-display/description": {
                 "orig": "Enables the display in the equip menu which shows the player- and average equip level.",
-                "text": "Active l'affichage du menu équipement qui montre le niveau moyen du joueur et des items."
+                "text": "Active l'affichage du menu équipement qui montre le niveau moyen du joueur et des objets."
         },
         "lang/sc/gui.en_US.json/labels/options/enemy-status-bars/name": {
                 "orig": "Enemy Status Bar",
@@ -7335,11 +7335,11 @@
         },
         "lang/sc/gui.en_US.json/labels/options/show-items/name": {
                 "orig": "Show Item Notification",
-                "text": "Montrer Notif. Item"
+                "text": "Montrer Notif. Objet"
         },
         "lang/sc/gui.en_US.json/labels/options/show-items/description": {
                 "orig": "Toggles the item notification window when obtaining an item.",
-                "text": "Montre la fenêtre de notification des items en récupérant un item."
+                "text": "Montre la fenêtre de notification des objets en récupérant un objet."
         },
         "lang/sc/gui.en_US.json/labels/options/show-money/name": {
                 "orig": "Show Money Notification",
@@ -7355,7 +7355,7 @@
         },
         "lang/sc/gui.en_US.json/labels/options/quick-cursor/description": {
                 "orig": "If ticked, saves the cursor position in the quick item menu.",
-                "text": "Si coché, sauvegarder la position du curseur dans le menu rapide des item."
+                "text": "Si coché, sauvegarder la position du curseur dans le menu rapide des objet."
         },
         "lang/sc/gui.en_US.json/labels/options/quick-element/name": {
                 "orig": "Allow Element Switch",
@@ -8494,11 +8494,11 @@
         },
         "lang/sc/gui.en_US.json/labels/options/modEnabled-item-api/description": {
                 "orig": "Allows custom items to be prepared in such a way that they 'just work'.",
-                "text": "Permet de préparer des items personnalisés de manière à ce que ça 'juste fonctionne'."
+                "text": "Permet de préparer des objets personnalisés de manière à ce que ça 'juste fonctionne'."
         },
         "lang/sc/gui.en_US.json/labels/options/modEnabled-item-api/name": {
                 "orig": "item-api",
-                "text": "api item"
+                "text": "api objet"
         },
         "lang/sc/gui.en_US.json/labels/options/modEnabled-modifier-api/description": {
                 "orig": "Enables easier creation and usage of custom modifiers",
