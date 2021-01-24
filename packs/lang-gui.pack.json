@@ -7453,10 +7453,6 @@
                 "orig": "Dualshock",
                 "text": "Dualshock"
         },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-icons/group/2": {
-                "orig": "Switch",
-                "text": "Switch"
-        },
         "lang/sc/gui.en_US.json/labels/options/gamepad-icons/description": {
                 "orig": "Icons displayed for Gamepad Buttons.",
                 "text": "Icônes affichées pour les boutons de la manette."
@@ -8391,6 +8387,62 @@
                 "orig": "Mods",
                 "text": "Mods"
         },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-icons/group/2": {
+                "orig": "Switch",
+                "text": "Switch"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-ab/description": {
+                "orig": "Swaps the actions of A and B.",
+                "text": "Inverser les actions des boutons A et B"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-ab/name": {
+                "orig": "Swap A/B",
+                "text": "Inverser A/B"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-bumpers/description": {
+                "orig": "Swaps the actions of L and R (does not apply to menus).",
+                "text": "Inverser les actions des boutons L et R (ne s'applique pas aux menus)"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-bumpers/name": {
+                "orig": "Swap L/R",
+                "text": "Inverser L/R"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-triggers/description": {
+                "orig": "Swaps the actions of LT and RT (does not apply to menus).",
+                "text": "Inverser les actions des boutons LT et RT (ne s'applique pas aux menus)"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-triggers/name": {
+                "orig": "Swap LT/RT",
+                "text": "Inverser LT/RT"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-xy/description": {
+                "orig": "Swaps the actions of X and Y.",
+                "text": "Inverser les actions des boutons X et Y"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-xy/name": {
+                "orig": "Swap X/Y",
+                "text": "Inverser X/Y"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/description": {
+                "orig": "The theme to use for the \"Switch\" Gamepad Icons.",
+                "text": "Le theme à utiliser pour les icons de manette de Switch"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/0": {
+                "orig": "Default",
+                "text": "Default"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/1": {
+                "orig": "SFC",
+                "text": "SFC"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/2": {
+                "orig": "SNES",
+                "text": "SNES"
+        },
+        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/name": {
+                "orig": "Switch Theme",
+                "text": "Theme Switch"
+        },
         "lang/sc/gui.en_US.json/labels/options/headers/logLevel": {
                 "orig": "Log levels",
                 "text": "Niveaux de Logs"
@@ -8459,57 +8511,5 @@
         "lang/sc/gui.en_US.json/labels/options/mods-description/description": {
                 "orig": "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!",
                 "text": "Dans ce menu vous pouvez \\c[3]activer ou désactiver des mods installés\\c[0]. La description des mods est affichée en bas. \\c[1]Le jeu doit être redémarré\\c[0] si vous changez une option ici !"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/name": {
-                "orig": "Switch Theme",
-                "text": "Theme Switch"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/description": {
-                "orig": "The theme to use for the \"Switch\" Gamepad Icons.",
-                "text": "Le theme à utiliser pour les icons de manette de Switch"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/0": {
-                "orig": "Default",
-                "text": "Default"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/1": {
-                "orig": "SFC",
-                "text": "SFC"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-switch-icon-theme/group/2": {
-                "orig": "SNES",
-                "text": "SNES"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-bumpers/name": {
-                "orig": "Swap L/R",
-                "text": "Inverser L/R"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-bumpers/description": {
-                "orig": "Swaps the actions of L and R (does not apply to menus).",
-                "text": "Inverser les actions des boutons L et R (ne s'applique pas aux menus)"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-triggers/name": {
-                "orig": "Swap LT/RT",
-                "text": "Inverser LT/RT"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-triggers/description": {
-                "orig": "Swaps the actions of LT and RT (does not apply to menus).",
-                "text": "Inverser les actions des boutons LT et RT (ne s'applique pas aux menus)"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-ab/name": {
-                "orig": "Swap A/B",
-                "text": "Inverser A/B"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-ab/description": {
-                "orig": "Swaps the actions of A and B.",
-                "text": "Inverser les actions des boutons A et B"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-xy/name": {
-                "orig": "Swap X/Y",
-                "text": "Inverser X/Y"
-        },
-        "lang/sc/gui.en_US.json/labels/options/gamepad-swap-xy/description": {
-                "orig": "Swaps the actions of X and Y.",
-                "text": "Inverser les actions des boutons X et Y"
         }
 }
