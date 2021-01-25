@@ -105,7 +105,7 @@
         },
         "maps/rhombus-sqr/shops-1.json/entities/873/settings/dialog/1/event/9/message": {
                 "orig": "Not that you'd agree, anyway.\\. You're a Spheromancer.",
-                "text": "De toute façon, tu peux pas vraiment être d'accord, vu que tu es un Spheromancer."
+                "text": "De toute façon, tu peux pas vraiment être d'accord, vu que tu es une Spheromanceuse."
         },
         "maps/rhombus-sqr/shops-1.json/entities/873/settings/dialog/1/event/10/message": {
                 "orig": "But I can't be stylish while throwing balls.\\. That's, like, anti-fun, you know?",
@@ -117,7 +117,7 @@
         },
         "maps/rhombus-sqr/shops-1.json/entities/874/settings/dialog/0/text": {
                 "orig": "Look! That guy just took a Cobalt Mail out of the display case and put it on!",
-                "text": "Regarde ! Ce mec vient de prendre une Cotte de Maille en Cobalt de la vitrine et viens de se la mettre !"
+                "text": "Regarde ! Ce mec vient de prendre une Cotte de Maille en Cobalt de la vitrine et viens de s'en équiper !"
         },
         "maps/rhombus-sqr/shops-1.json/entities/874/settings/dialog/1/text": {
                 "orig": "I don't think the shopkeep noticed...",
@@ -125,7 +125,7 @@
         },
         "maps/rhombus-sqr/shops-1.json/entities/874/settings/dialog/2/text": {
                 "orig": "Uh...\\. doesn't he realize that won't work?\\. You have to literally go up to the counter to buy the thing.",
-                "text": "Oh...\\. Il sait que ça ne marchera pas ?\\. Il faut aller directement au comptoir pour acheter le truc."
+                "text": "Oh...\\. Il ne sait pas que ça ne marchera pas ?\\. Il faut aller directement au comptoir pour acheter un truc."
         },
         "maps/rhombus-sqr/shops-1.json/entities/874/settings/dialog/3/text": {
                 "orig": "It's going to disappear from his inventory as soon as he walks away from the case.",
@@ -229,7 +229,7 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/3/message": {
                 "orig": "Here you can acquire the Booster Item introduced in Version 1.35-1 of CrossWorlds.",
-                "text": "Ici vous pouvez acquérir les Booster Items introduits dans la version 1.35-1 de CrossWorlds."
+                "text": "Ici vous pouvez acquérir les Objets Booster introduits dans la version 1.35-1 de CrossWorlds."
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/4/message": {
                 "orig": "...?",
@@ -241,7 +241,7 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/10/message": {
                 "orig": "These Traders behind me hold a\\c[3] Booster Add-On\\c[0] for each one of the major areas.",
-                "text": "Ces marchands derrière moi ont pour chaque zone majeure un \\c[3]Booster Add-On\\c[0]."
+                "text": "Ces marchands derrière moi ont un \\c[3]Booster Add-On\\c[0] pour chacune des zones majeures."
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/11/message": {
                 "orig": "Once acquired and turned on, \\c[3]enemies in the affected area will become much stronger\\c[0].",
@@ -257,7 +257,7 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/18/message": {
                 "orig": "However, each trader requires a \\c[3]legendary item\\c[0] that can be \\c[3]found in the affected area\\c[0].",
-                "text": "Par contre, chaque marchand demande un \\c[3]Item légendaire\\c[0] qui se \\c[3]trouvent dans la zone concernée\\c[0]."
+                "text": "Par contre, chaque marchand demande un \\c[3]Objet légendaire\\c[0] qui se \\c[3]trouve dans la zone concernée\\c[0]."
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/19/message": {
                 "orig": "They are very well hidden! Try communicating with other players in order to locate them!",
@@ -281,11 +281,11 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/3/message": {
                 "orig": "Here you can acquire the \\c[3]Booster Items\\c[0] introduced in Version 1.35-1 of CrossWorlds.",
-                "text": "Ici vous pouvez acquérir les \\c[3]Booster Items\\c[0] introduits dans la version 1.35-1 de CrossWorlds."
+                "text": "Ici vous pouvez acquérir les \\c[3]Objets Booster\\c[0] introduits dans la version 1.35-1 de CrossWorlds."
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/4/message": {
                 "orig": "Do you need a refresher on how to acquire and use Booster Items?",
-                "text": "Avez-vous besoin que je vous réexplique comment obtenir et utiliser les Booster Items ?"
+                "text": "Avez-vous besoin que je vous réexplique comment obtenir et utiliser les Objets Booster ?"
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/0/message": {
                 "orig": "[nods]",
@@ -309,7 +309,7 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/13/message": {
                 "orig": "However each trader requires a \\c[3]legendary item\\c[0] that can be \\c[3]found in the affected area\\c[0].",
-                "text": "Par contre, chaque marchand demande un \\c[3]item légendaire\\c[0] qui se \\c[3]trouvent dans la zone concernée\\c[0]."
+                "text": "Par contre, chaque marchand demande un \\c[3]objet légendaire\\c[0] qui se \\c[3]trouvent dans la zone concernée\\c[0]."
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/14/message": {
                 "orig": "They are very well hidden! Try communicating with other players in order to locate them!",
@@ -317,7 +317,7 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/15/message": {
                 "orig": "Good Luck and happy hunting, Seeker!",
-                "text": "Bonne chance pour votre chasse et prenez-y du plaisir, \\v[lore.title.seeker]s !",
+                "text": "Bonne chance pour votre chasse et prenez-y du plaisir, \\v[lore.title.seeker] !",
                 "note": "similar enough"
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/16/message": {
@@ -330,7 +330,7 @@
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/1/1/message": {
                 "orig": "Good Luck and happy hunting, Seeker!",
-                "text": "Bonne chance pour votre chasse et prenez-y du plaisir, \\v[lore.title.seeker]s !",
+                "text": "Bonne chance pour votre chasse et prenez-y du plaisir, \\v[lore.title.seeker] !",
                 "note": "similar enough"
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/1/2/message": {
@@ -355,7 +355,7 @@
         },
         "maps/rhombus-sqr/interior/curios.json/entities/26/settings/npcStates/0/event/shop/3/message": {
                 "orig": "\\c[3]Only one item per body\\c[0] though, rules are rules.",
-                "text": "Mais \\c[3]Un item par personne\\c[0] par contre, c'est la règle."
+                "text": "Mais \\c[3]Un objet par personne\\c[0] par contre, c'est la règle."
         },
         "maps/rhombus-sqr/interior/equipment-f1.json/entities/81/settings/dialog/0/text": {
                 "orig": "Alright, I've got it. I'm gonna go for \\c[3]Bullseye\\c[0] and \\c[3]Shooter\\c[0] gear. That's good right?",
@@ -503,7 +503,7 @@
         },
         "maps/rhombus-sqr/interior/equipment.json/entities/36/settings/interact/hoverText": {
                 "orig": "F1: \\c[3]Trading Offers\\c[0]\nGF: \\c[3]General Equipment\\c[0]",
-                "text": "E1 : \\c[3]Offre Marchandes\\c[0]\nRDC : \\c[3]Équipement Général\\c[0]"
+                "text": "E1 : \\c[3]Offres Marchandes\\c[0]\nRDC : \\c[3]Équipement Général\\c[0]"
         },
         "maps/rhombus-sqr/interior/equipment.json/entities/37/settings/npcStates/0/event/shop/2/message": {
                 "orig": "These are the weapons of Rhombus Square, the finest any human can produce!",
@@ -539,7 +539,7 @@
         },
         "maps/rhombus-sqr/interior/equipment.json/entities/44/settings/npcStates/0/event/8/message": {
                 "orig": "But to get it I'd still need to grind for a few more items.",
-                "text": "Mais pour l'obtenir il faut que j'obtienne quelques items de plus, et c'est une corvée."
+                "text": "Mais pour l'obtenir il faut que j'obtienne quelques objets de plus, et c'est une corvée."
         },
         "maps/rhombus-sqr/interior/equipment.json/entities/44/settings/npcStates/0/event/9/message": {
                 "orig": "The \\c[3]Laser Edge\\c[0], on the other hand, I could get right now.",
@@ -596,11 +596,11 @@
         },
         "maps/rhombus-sqr/interior/items.json/entities/40/settings/npcStates/0/event/shop/2/message": {
                 "orig": "Hello, welcome!\\. Take a look at our great selection of items.",
-                "text": "Bonjour, bienvenue !\\. Laissez-moi vous présenter notre immense sélection d'items."
+                "text": "Bonjour, bienvenue !\\. Laissez-moi vous présenter notre immense sélection d'objets."
         },
         "maps/rhombus-sqr/interior/items.json/entities/43/settings/npcStates/0/event/shop/2/message": {
                 "orig": "Hey! We offer special items, supported by only the finest of backers.",
-                "text": "Hé ! Nous offrons des items spéciaux, uniquement grâce à nos soutiens généreux !"
+                "text": "Hé ! Nous offrons des objets spéciaux, uniquement grâce à nos soutiens généreux !"
         },
         "maps/rhombus-sqr/interior/items.json/entities/50/settings/npcStates/0/event/0/name": {
                 "orig": "Banana Man",

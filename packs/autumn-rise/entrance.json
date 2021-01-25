@@ -33,7 +33,7 @@
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/0/event/quest/8/message": {
                 "orig": "Might I ask you to help me out, dear \\v[lore.title.seeker]?",
-                "text": "Puis-je vous demander de l'aide, cher \\v[lore.title.seeker] ?"
+                "text": "Puis-je vous demander de l'aide, chère \\v[lore.title.seeker] ?"
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/0/event/quest/9/message": {
                 "orig": "...!",
@@ -89,11 +89,11 @@
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/3/event/quest/2/message": {
                 "orig": "Hello Ms. \\v[lore.title.seeker], ready for another quest?\\. I even have more equipment as a reward.",
-                "text": "Bonjour Mme \\v[lore.title.seeker], êtes-vous prêt pour une autre quête ?\\. J'ai même du surplus d'équipement comme récompense."
+                "text": "Bonjour Mme \\v[lore.title.seeker], êtes-vous prête pour une autre quête ?\\. J'ai même du surplus d'équipement comme récompense."
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/3/event/quest/3/accepted/1/message": {
                 "orig": "Happy collecting and remember that different plants yield different items!",
-                "text": "Bonne récolte, et souvenez-vous que différentes plantes produisent des items différents !"
+                "text": "Bonne récolte, et souvenez-vous que différentes plantes produisent des objets différents !"
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/3/event/quest/3/declined/1/message": {
                 "orig": "Oh, okay!\\. No Problem Ms. \\v[lore.title.seeker].\\. Please come back if you changed your mind.",
@@ -122,7 +122,7 @@
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/4/event/6/message": {
                 "orig": "But... back to work.\\. It looks like you still need to collect some of the \\c[3]items\\c[0].",
-                "text": "Mais bon, le devoir appelle.\\. On dirait que vous devez encore récolter certains \\c[3]items\\c[0]."
+                "text": "Mais bon, le devoir appelle.\\. On dirait que vous devez encore récolter certains \\c[3]objets\\c[0]."
         },
         "maps/autumn/entrance.json/entities/92/settings/npcStates/5/event/quest/0/name": {
                 "orig": "Humble Helper",
@@ -174,7 +174,7 @@
         },
         "maps/autumn/entrance.json/entities/101/settings/event/1/content": {
                 "orig": "How to increase \\c[3]Combat Rank\\c[0] to improve the drops of defeated enemies.",
-                "text": "Comment accroitre votre \\c[3]Rang de Combat\\c[0] pour obtenir plus d'items des ennemis vaincus."
+                "text": "Comment accroitre votre \\c[3]Rang de Combat\\c[0] pour obtenir plus d'objets des ennemis vaincus."
         },
         "maps/autumn/entrance.json/entities/101/settings/event/1/acceptStep/5/text": {
                 "orig": "Your \\c[3]combat rank\\c[0] is displayed in the upper right corner during combat.",
@@ -186,7 +186,7 @@
         },
         "maps/autumn/entrance.json/entities/101/settings/event/1/acceptStep/13/text": {
                 "orig": "With a higher combat rank, enemies will \\c[3]drop more items\\c[0], including \\c[3]special rare items\\c[0].",
-                "text": "Avec un rang de combat plus élevé, les ennemis vont \\c[3]laisser plus d'items\\c[0], y compris des \\c[3]items rares\\c[0]."
+                "text": "Avec un rang de combat plus élevé, les ennemis vont \\c[3]laisser plus d'objets\\c[0], y compris des \\c[3]objets rares\\c[0]."
         },
         "maps/autumn/entrance.json/entities/101/settings/event/1/acceptStep/17/text": {
                 "orig": "When you're out of combat you'll enter the \\c[3]cooldown phase\\c[3].",
@@ -238,7 +238,7 @@
         },
         "maps/autumn/entrance.json/entities/148/settings/event/27/message": {
                 "orig": "I bet you got beat up plenty by those Hedgehags in the beginning.",
-                "text": "Mais je parie que ces \\v[combat.name.hedgehog]s vont ont bien pourri la vie au début."
+                "text": "Mais je parie que ces \\v[combat.name.hedgehog]s vous ont bien pourri la vie au début."
         },
         "maps/autumn/entrance.json/entities/148/settings/event/28/message": {
                 "orig": "Non!\\. Not at all!",

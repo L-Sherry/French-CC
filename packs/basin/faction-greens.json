@@ -1,7 +1,7 @@
 {
         "maps/jungle-city/interior/faction-greens-1.json/entities/11/settings/npcStates/0/event/2/message": {
                 "orig": "Hey there, Seeker!\\. Welcome to the comfy retreat of \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0].",
-                "text": "Bonjour, \\v[lore.title.seeker] !\\. Bienvenue dans le confortable refuge tranquille des \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0]."
+                "text": "Bonjour, \\v[lore.title.seeker] !\\. Bienvenue dans le confortable refuge des \\c[3]\\v[lore.title.faction-wave-jungle]\\c[0]."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/analyzable/text": {
                 "orig": "Claude Reynes",
@@ -61,7 +61,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/11/message": {
                 "orig": "Do you feel ready to assist us and our mission?",
-                "text": "Vous sentez vous prêt à nous assister nous et notre mission ?"
+                "text": "Vous sentez vous prête à nous assister nous et notre mission ?"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/0/message": {
                 "orig": "[nods]",
@@ -69,7 +69,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/1/message": {
                 "orig": "Wonderful!\\. The investigation was long overdue because of the dangerous location.",
-                "text": "Merveilleux !\\. Les investigations étaient bien en retard à cause de la dangerosité du lieu."
+                "text": "Merveilleux !\\. L'enquête était attendue depuis longtemps à cause de la dangerosité du lieu."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/1/event/quest/12/accepted/2/message": {
                 "orig": "...!",
@@ -169,7 +169,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/3/message": {
                 "orig": "\\v[lore.title.seeker], right on cue!\\. The water sample you helped to collect has proven to be useful.",
-                "text": "\\v[lore.title.seeker], vous venez au bon moment !\\. Les échantillons d'eau que vous avez aidé à récupérer ont été utiles."
+                "text": "\\v[lore.title.seeker], vous venez au bon moment !\\. Les échantillons d'eau que vous avez aidé à récupérer, ont été utiles."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/4/message": {
                 "orig": "...",
@@ -185,11 +185,11 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/7/message": {
                 "orig": "An unusual concentration of unfamiliar energy has been found in the water.",
-                "text": "Une concentration inhabituelle d'énergie inconnue a été trouvé dans l'eau."
+                "text": "Une concentration inhabituelle d'énergie inconnue a été trouvée dans l'eau."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/8/message": {
                 "orig": "Reports suggest that it is strong enough to influence even larger animals and plants.",
-                "text": "Des rapports suggèrent qu'elle est assez puissante pour influencer même des animaux plus larges et des plantes."
+                "text": "Des rapports suggèrent qu'elle est assez puissante pour influencer même des animaux et des plantes plus grands."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/9/message": {
                 "orig": "...!!",
@@ -197,7 +197,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/10/message": {
                 "orig": "As we speak, infected plants roam \\v[area.jungle.name] to spread the disease right into the roots of our beloved forest.",
-                "text": "Alors que nous parlons, des plantes infectées se baladent dans le \\v[area.jungle.name] pour propager la maladie jusque dans les racines de notre forêt bien aimée."
+                "text": "Alors que nous parlons, des plantes infectées se baladent dans le \\v[area.jungle.name] pour propager la maladie jusque dans les racines de notre forêt bien aimé."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/11/message": {
                 "orig": "\\v[lore.title.seeker], will you lend us your aid again, to weed out this threat?",
@@ -209,7 +209,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/1/message": {
                 "orig": "Excellent!\\. You are perfect for this job, I am certain of it.",
-                "text": "Excellent !\\. Je suis certain que vous êtes parfait pour ce travail."
+                "text": "Excellent !\\. Je suis certain que vous êtes parfaite pour ce travail."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/5/event/quest/12/accepted/2/message": {
                 "orig": "...",
@@ -305,7 +305,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/8/message": {
                 "orig": "\\v[lore.title.seeker], you must face it and finally return it to the ground, before the infection starts again.",
-                "text": "\\v[lore.title.seeker], vous devez y faire face et la faire retourner au sol, avant que l'infection ne reparte de plus belle."
+                "text": "\\v[lore.title.seeker], vous devez l'affronter et la faire retourner au sol, avant que l'infection ne reparte de plus belle."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/7/event/quest/9/message": {
                 "orig": "[nods]",
@@ -337,7 +337,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/3/message": {
                 "orig": "\\v[lore.title.seeker]!\\. You have destroyed it, right?",
-                "text": "\\v[lore.title.seeker] !\\. Vous l'avez détruit, pas vrai ?"
+                "text": "\\v[lore.title.seeker] !\\. Vous l'avez détruite, pas vrai ?"
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/4/message": {
                 "orig": "[nods]",
@@ -357,7 +357,7 @@
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/8/message": {
                 "orig": "You, \\v[lore.title.seeker], have done truly excellent work!\\. Take these rewards and be blessed.",
-                "text": "Vous, \\v[lore.title.seeker], avez fait un travail vraiment excellent !\\. Prenez cette récompense et soyez béni."
+                "text": "Vous, \\v[lore.title.seeker], avez fait un travail vraiment excellent !\\. Prenez cette récompense et soyez bénie."
         },
         "maps/jungle-city/interior/faction-greens-1.json/entities/21/settings/npcStates/9/event/quest/9/message": {
                 "orig": "Bye!",

@@ -5,7 +5,7 @@
         },
         "maps/forest/interior/dojo-boss.json/entities/8/settings/npcStates/0/event/quest/5/message": {
                 "orig": "Seeker, are you ready to face your final trial?",
-                "text": "\\v[lore.title.seeker], êtes-vous prêt pour votre dernière épreuve ?"
+                "text": "\\v[lore.title.seeker], êtes-vous prête pour votre dernière épreuve ?"
         },
         "maps/forest/interior/dojo-boss.json/entities/8/settings/npcStates/0/event/quest/6/0/0/message": {
                 "orig": "[nods]\n",
@@ -121,7 +121,7 @@
         },
         "maps/forest/interior/dojo-boss.json/entities/25/settings/event/8/message": {
                 "orig": "Well done, Seeker.",
-                "text": "Félicitation, \\v[lore.title.seeker]."
+                "text": "Félicitations, \\v[lore.title.seeker]."
         },
         "maps/forest/interior/dojo-boss.json/entities/25/settings/event/11/message": {
                 "orig": "...Hi?!",
@@ -133,7 +133,7 @@
         },
         "maps/forest/interior/dojo-boss.json/entities/25/settings/event/19/message": {
                 "orig": "It seems nothing can faze you. Maybe you are indeed ready.",
-                "text": "Il semblerait que rien ne vous déstabilise. Peut-être que vous êtes réellement prêts."
+                "text": "Il semblerait que rien ne vous déstabilise. Peut-être que vous êtes réellement prête."
         },
         "maps/forest/interior/dojo-boss.json/entities/25/settings/event/20/message": {
                 "orig": "...!",
@@ -189,7 +189,7 @@
         },
         "maps/forest/interior/dojo-boss.json/entities/30/settings/event/30/message": {
                 "orig": "It was a good fight. One you can be proud of. ",
-                "text": "C'était un bon combat. Un dont vous pouvez être fier."
+                "text": "C'était un bon combat. Un dont vous pouvez être fière."
         },
         "maps/forest/interior/dojo-boss.json/entities/30/settings/event/31/message": {
                 "orig": "...!",
@@ -209,7 +209,7 @@
         },
         "maps/forest/interior/dojo-boss.json/entities/45/settings/event/0/thenStep/6/elseStep/0/thenStep/0/message": {
                 "orig": "Good luck with the final trial, Spheromancer Lea!",
-                "text": "Bonne chance pour l'épreuve finale, Spheromancer Lea !"
+                "text": "Bonne chance pour l'épreuve finale, Spheromanceuse Lea !"
         },
         "maps/forest/interior/dojo-boss.json/entities/45/settings/event/0/thenStep/6/elseStep/0/elseStep/0/thenStep/0/message": {
                 "orig": "Oh it's instanced. I guess we're on our own for the final trial.",
@@ -253,7 +253,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/thenStep/0/message": {
                 "orig": "Spheromancer Lea! Congratulations on passing the final trial.",
-                "text": "Spheromancer Lea ! Félicitation pour avoir réussi l'épreuve finale."
+                "text": "Spheromanceuse Lea ! Félicitations pour avoir réussi l'épreuve finale."
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/thenStep/1/thenStep/0/message": {
                 "orig": "HOW?!",
@@ -265,7 +265,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/thenStep/1/thenStep/2/message": {
                 "orig": "Well, that's something only a \\c[1]seasoned Spheromancer\\c[0] can understand!",
-                "text": "Eh bien, c'est seulement quelque chose que seul un \\c[1]Spheromancer expérimenté\\c[0] peut comprendre !",
+                "text": "Eh bien, c'est seulement quelque chose que seul un \\c[1]Spheromanceur expérimenté\\c[0] peut comprendre !",
                 "note": "dit plutôt que t'as déjà fini le boss hier"
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/thenStep/1/thenStep/3/message": {
@@ -278,11 +278,11 @@
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/thenStep/1/elseStep/1/message": {
                 "orig": "And as expected, both Spheromancers passed first!",
-                "text": "Et, comme l'on s'y attendait, les deux Spheromancers sont arrivés en premier !"
+                "text": "Et, comme l'on s'y attendait, les deux Spheromanceurs sont arrivés en premier !"
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/elseStep/0/message": {
                 "orig": "Spheromancer Lea, what a coincidence! It looks like we both just passed the final trial!",
-                "text": "Spheromancer Lea, quelle coïncidence ! On dirait que nous venons tous les deux de réussir l'épreuve finale !"
+                "text": "Spheromanceuse Lea, quelle coïncidence ! On dirait que nous venons tous les deux de réussir l'épreuve finale !"
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/20/elseStep/1/message": {
                 "orig": "Lea!",
@@ -378,7 +378,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/68/message": {
                 "orig": "Or...\\. was he just a Samurai?\\. I'm not sure...",
-                "text": "Ou...\\. est-ce que c'était juste un Samurai ?\\. Je ne suis pas sûr..."
+                "text": "Ou...\\. est-ce que c'était juste un Samurai ?\\. Je ne suis pas sûre..."
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/69/message": {
                 "orig": "Maybe his armor just made him kinda... look like a bug?",
@@ -422,7 +422,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/91/message": {
                 "orig": "Congratulations, Pentafist!",
-                "text": "Félicitation, Pentafist !"
+                "text": "Félicitations, Pentafist !"
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/92/message": {
                 "orig": "Now, the time has come to collect our reward!",
@@ -530,7 +530,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/60/thenStep/3/message": {
                 "orig": "And here I thought I'd have a chance after I won the tutorial dungeon.",
-                "text": "Et moi qui pensais que j'aurais eu une chance après avoir battu le donjon du tutoriel."
+                "text": "Et moi qui pensais que j'aurais eu une chance après avoir gagné au donjon du tutoriel."
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/60/elseStep/0/thenStep/0/message": {
                 "orig": "\\v[plot.race.leaWins] to \\v[plot.race.emilieWins].",
@@ -546,7 +546,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/60/elseStep/0/thenStep/3/message": {
                 "orig": "Still, you've been an honorable opponent, Lea!",
-                "text": "Mais tu étais un adversaire honorable, Lea !"
+                "text": "Mais tu étais une adversaire honorable, Lea !"
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/60/elseStep/0/elseStep/0/message": {
                 "orig": "\\v[plot.race.leaWins] to \\v[plot.race.emilieWins].",
@@ -566,7 +566,7 @@
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/62/message": {
                 "orig": "Let's continue once new dungeons are added!",
-                "text": "Tu sais quoi ? On continuera cette course dès que d'autres donjons sortent !"
+                "text": "Tu sais quoi ? On continuera cette course dès que d'autres donjons sortirons !"
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/63/message": {
                 "orig": "...!",

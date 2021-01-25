@@ -13,7 +13,7 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/0/event/2/message": {
                 "orig": "Oh, a \\v[lore.title.seeker] wants to talk to me?\\. I am sorry but I don't think we got any business right now.",
-                "text": "Oh, un \\v[lore.title.seeker] veut me parler ?\\. Je suis désolé, mais je ne crois pas que nous ayons quelque chose à se dire."
+                "text": "Oh, un \\v[lore.title.seeker] veut me parler ?\\. Je suis désolée, mais je ne crois pas que nous ayons quelque chose à nous dire."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/0/event/3/message": {
                 "orig": "...",
@@ -29,7 +29,7 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/2/message": {
                 "orig": "Hey there, lady.\\. Anything I can help you with?",
-                "text": "Hé, jeune dame.\\. Est-ce que je peux vous aider ?"
+                "text": "Hé, jeune dame.\\. Est-ce que je peux t'aider ?"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/1/event/quest/3/message": {
                 "orig": "Hi!",
@@ -181,7 +181,7 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/4/message": {
                 "orig": "We already tweaked our sweet little machine with the data of your tests.\\. The stuff it produces is just the best!",
-                "text": "On a déjà fait des réglages sur la machine avec les données de tes tests.\\. Ce qui en sort, c'est juste le top !"
+                "text": "On a déjà fait des réglages sur la machine avec les données de tes tests.\\. Ce qu'elle produit, c'est juste le top du top !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/5/message": {
                 "orig": "...!",
@@ -197,11 +197,11 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/1/message": {
                 "orig": "Great!\\. You will see that we have changed the way it works a bit.",
-                "text": "Super !\\. Tu verras que l'on a changé un peu la manière dont il fonctionne."
+                "text": "Super !\\. Tu verras que l'on a changé un peu la manière dont elle fonctionne."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/2/message": {
                 "orig": "You will now have a \\c[3]limited amount of time\\c[0] to refine those ingredients as much as possible!",
-                "text": "Tu auras maintenant un \\c[3]temps limité\\c[0] pour traiter les ingrédients autant que tu peux !"
+                "text": "Tu auras maintenant un \\c[3]temps limité\\c[0] pour traiter autant d'ingrédients que tu puisses !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/3/message": {
                 "orig": "...",
@@ -209,11 +209,11 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/4/message": {
                 "orig": "Basically, to help us out you should just try to reach as much \\c[3]quality\\c[0] as you can.",
-                "text": "En résumé, pour nous aider, tu devrais juste essayer d'atteindre la meilleure \\c[3]qualité\\c[0] que tu peux."
+                "text": "En résumé, pour nous aider, tu devras juste essayer d'atteindre la meilleure \\c[3]qualité\\c[0] que tu puisses."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/5/message": {
                 "orig": "That'll also \\c[3]increase the number of drinks\\c[0] produced, so it's win-win for everyone!",
-                "text": "Cela va aussi \\c[3]augmenter le nombre de boissons\\c[0] produites, donc c'est gagnant pour nous deux !"
+                "text": "Cela va aussi \\c[3]augmenter le nombre de boissons\\c[0] produites, donc c'est gagnant-gagnant !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/6/message": {
                 "orig": "...!",
@@ -221,7 +221,7 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/7/message": {
                 "orig": "Thing is, reaching high qualities is tricky, because it's about maintaining a \\c[3]high heat\\c[0] without making mistakes.",
-                "text": "Le truc, c'est que atteindre une haute qualité est difficile, parce qu'il faut maintenir une \\c[3]chaleur élevée\\c[0] sans faire d'erreurs."
+                "text": "Le truc, c'est qu'atteindre une haute qualité est difficile, parce qu'il faut maintenir une \\c[3]chaleur élevée\\c[0] sans faire d'erreurs."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/7/event/quest/7/accepted/8/message": {
                 "orig": "...?!",
@@ -261,11 +261,11 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/8/event/2/message": {
                 "orig": "Try to get as much \\c[3]quality\\c[0] out of it as possible!\\. Our data says that \\c[3]maintaining high heat is key\\c[0].",
-                "text": "Essaye d'atteindre la meilleure \\c[3]qualité\\c[0] que tu peux !\\. Nos données indiquent que pour ça, il faut \\c[3]maintenir une chaleur élevée\\c[0]."
+                "text": "Essaye d'atteindre la meilleure \\c[3]qualité\\c[0] que tu puisses !\\. Nos données indiquent que pour ça, il faut \\c[3]maintenir une chaleur élevée\\c[0]."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/8/event/3/message": {
                 "orig": "My assistant Bru down there can prepare more brewing sets if needed.",
-                "text": "Mon assistante Bru en bas peut préparer plus de kits de brassage si tu as besoin."
+                "text": "Mon assistante Bru, en bas, peut préparer plus de kits de brassage si tu as besoin."
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/0/name": {
                 "orig": "Ryda",
@@ -289,7 +289,7 @@
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/6/message": {
                 "orig": "Also, we worked on another recipe for you to use.\\. You should try it out when you have the time!",
-                "text": "Sinon, on a travaillé sur une autre recette, pour que tu puisses t'en servir.\\. Tu devrais l'essayer si tu as le temps !"
+                "text": "Sinon, on a travaillé sur une autre recette que tu peux utiliser.\\. Tu devrais l'essayer si tu as le temps !"
         },
         "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/9/event/quest/7/message": {
                 "orig": "...",

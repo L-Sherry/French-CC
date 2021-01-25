@@ -17,7 +17,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/700/settings/npcStates/0/event/2/message": {
                 "orig": "Sal'ton, human. I am sorry, but great eldest has forbidden to sell goods to humans.",
-                "text": "Sal'ton Humain ! Je suis désolé, mais grande altesse a interdit vendre aux humains.",
+                "text": "Sal'ton Humain ! Je suis désolée, mais grande altesse a interdit vendre aux humains.",
                 "note": "i'm assuming Sal'ton is something lore in game"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/700/settings/npcStates/0/event/3/message": {
@@ -26,7 +26,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/700/settings/npcStates/1/event/trade/event/2/message": {
                 "orig": "Sal'ton human. Great eldest has allowed trade with Seekers.",
-                "text": "Salve, Humain ! Grande altesse a autorisé à vendre aux \\v[lore.title.seeker]s.",
+                "text": "Salve, Humain ! Grande altesse a autorisé vendre aux \\v[lore.title.seeker]s.",
                 "note": "i'm assuming Sal'ton is something lore in game"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/700/settings/npcStates/1/event/trade/event/3/message": {
@@ -35,7 +35,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/700/settings/npcStates/1/event/trade/event/4/message": {
                 "orig": "I trade many sets for very few items!",
-                "text": "J'échange plein d'ensembles pour très peu d'items !"
+                "text": "J'échange plein d'ensembles pour très peu d'objets !"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/707/settings/npcStates/0/event/2/message": {
                 "orig": "I do not sell valuable goods to filthy humans.",
@@ -155,7 +155,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/6/message": {
                 "orig": "What you want, child?",
-                "text": "Que vouloir tu, mon enfant ?"
+                "text": "Quoi toi vouloir, mon enfant ?"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/7/message": {
                 "orig": "What is Human doing here?",
@@ -199,7 +199,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/20/message": {
                 "orig": "I know child, but defeating Wiccats will be no solution for long.",
-                "text": "Je sais, enfant, mais vaincre \\v[combat.name.minibosses/shockcat-black]s pas être solution pour longtemps."
+                "text": "Je sais, mon enfant, mais vaincre \\v[combat.name.minibosses/shockcat-black]s pas être solution pour longtemps."
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/21/message": {
                 "orig": "As long as humans poison jungle, our struggle will continue.",
@@ -207,7 +207,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/22/message": {
                 "orig": "Still... It is great relief that our village has been freed.",
-                "text": "Mais... c'est grand soulagement que notre village a été libéré."
+                "text": "Mais... c'est grand soulagement que notre village ait été libéré."
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/23/message": {
                 "orig": "Seeker.",
@@ -247,7 +247,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/35/message": {
                 "orig": "Thank you so much, Seeker!",
-                "text": "Je te remercie beaucoup, \\v[lore.title.seeker] !"
+                "text": "Je vous remercie beaucoup, \\v[lore.title.seeker] !"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/36/message": {
                 "orig": "There is not much I can give you, but I have a few human credits.",
@@ -287,7 +287,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/63/message": {
                 "orig": "I assume it's because Lea is our party leader and the NPCs expect her to not answer in the first place.",
-                "text": "J'imagine que c'est par ce que Lea est le leader du groupe et les PNJs s'attendent à ce qu'elle ne réponde pas."
+                "text": "J'imagine que c'est parce que Lea est le leader du groupe et que les PNJs s'attendent à ce qu'elle ne réponde pas."
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/64/message": {
                 "orig": "...!",
@@ -307,7 +307,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/69/message": {
                 "orig": "Thanks for joining us, Lea. ",
-                "text": "Merci pour avoir joué avec nous, Lea."
+                "text": "Merci d'avoir joué avec nous, Lea."
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/70/message": {
                 "orig": "And...\\. it also seems you lightened up a little.",
@@ -343,7 +343,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/78/thenStep/0/message": {
                 "orig": "What?\\. So you want to be beat up again already?",
-                "text": "Quoi ?\\. Tu veux déjà te faire rosser à nouveau ?"
+                "text": "Quoi ?\\. Tu veux te faire rosser à nouveau ?"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/79/message": {
                 "orig": "Please, give the girl some rest, Polly.",
@@ -359,7 +359,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/82/message": {
                 "orig": "Until then, Spheromancer Lea!",
-                "text": "À plus tard, Spheromancer Lea !"
+                "text": "À plus tard, Spheromanceuse Lea !"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/740/settings/npcStates/0/event/quest/83/message": {
                 "orig": "Goodbye!",
@@ -431,7 +431,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/781/settings/npcStates/1/event/3/message": {
                 "orig": "You are welcome guest in V'rda Vil!",
-                "text": "Vous être invité bienvenu à V'rda Vil !"
+                "text": "Vous être invitée bienvenue à V'rda Vil !"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/782/settings/dialog/0/text": {
                 "orig": "What is Seeker doing here?",
@@ -548,7 +548,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/784/settings/event/49/message": {
                 "orig": "Now...\\. there is Vermillion Wasteland, which seems to be used for that.",
-                "text": "Maintenant...\\. il y a \\v[area.arid.name], qui a l'air de servir pour ça."
+                "text": "Maintenant...\\. il y a \\v[area.arid.name], qui a l'air de servir à ça."
         },
         "maps/jungle/clearing/clear-path-01.json/entities/784/settings/event/50/message": {
                 "orig": "But your memories indicate there might be a place like that in Sapphire Ridge as well, correct?",
@@ -648,7 +648,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/784/settings/event/83/message": {
                 "orig": "Does he want to run the dungeon together with you?",
-                "text": "Est-ce qu'il veut courir le donjon avec toi ?"
+                "text": "Est-ce qu'il veut faire la course dans le donjon avec toi ?"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/784/settings/event/84/message": {
                 "orig": "...",
@@ -684,7 +684,7 @@
         },
         "maps/jungle/clearing/clear-path-01.json/entities/794/settings/event/1/message": {
                 "orig": "Indeed! Far off from Basin Keep. This tribe is not on friendly terms with humankind!",
-                "text": "Effectivement ! Loin du \\v[area.jungle-city.name]. Cette tribu n'est pas en termes amicaux avec l'humanité !"
+                "text": "Effectivement ! Loin du \\v[area.jungle-city.name]. Cette tribu n'est pas en bons termes avec l'humanité !"
         },
         "maps/jungle/clearing/clear-path-01.json/entities/795/settings/event/0/message": {
                 "orig": "Oh, we're back in the village of the bird people!",

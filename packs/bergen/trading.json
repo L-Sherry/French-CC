@@ -29,7 +29,7 @@
         },
         "maps/bergen/trader-1.json/entities/122/settings/npcStates/1/event/quest/3/message": {
                 "orig": "Ah, hello \\v[lore.title.seeker].\\. Can I interest you in some solid metal?\\. It is especially shiny today.",
-                "text": "Ah, bonjour \\v[lore.title.seeker].\\. Puis-je vous intéresser par quelques morceaux de métal très solide ?\\. Il est bien brillant en ce moment."
+                "text": "Ah, bonjour \\v[lore.title.seeker].\\. Etes-vous intéressé par quelques morceaux de métal très solide ?\\. Il est bien brillant en ce moment."
         },
         "maps/bergen/trader-1.json/entities/122/settings/npcStates/1/event/quest/4/message": {
                 "orig": "[shakes head]",
@@ -41,11 +41,11 @@
         },
         "maps/bergen/trader-1.json/entities/122/settings/npcStates/1/event/quest/6/message": {
                 "orig": "Ahhh, you're the assistant from \\v[area.rookie-harbor.name]?\\. Alright then, let me explain the deal.",
-                "text": "Ahhh, vous êtes l'assistant de \\v[area.rookie-harbor.name] ?\\. C'est bon, laissez-moi vous expliquer l'accord."
+                "text": "Ahhh, vous êtes l'assistante de \\v[area.rookie-harbor.name] ?\\. C'est bon, laissez-moi vous expliquer l'accord."
         },
         "maps/bergen/trader-1.json/entities/122/settings/npcStates/1/event/quest/7/message": {
                 "orig": "We can deliver some advanced metalworking tools to \\v[area.rookie-harbor.name] but only if you bring us certain spare parts.",
-                "text": "Nous pouvons livrer du matériel avancé de travail de métal à \\v[area.rookie-harbor.name], mais seulement si vous nous apportez certaines pièces détachées."
+                "text": "Nous pouvons livrer du matériel avancé pour le travail du métal à \\v[area.rookie-harbor.name], mais seulement si vous nous apportez certaines pièces détachées."
         },
         "maps/bergen/trader-1.json/entities/122/settings/npcStates/1/event/quest/8/message": {
                 "orig": "They are expensive to produce these days but there should still be some built into certain machines in the mine.",
@@ -133,7 +133,7 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/0/event/2/message": {
                 "orig": "Greetings, young lady.\\. Our current circumstances don't require your assistance for once.",
-                "text": "Soyez la bienvenue, jeune dame !\\. Pour le moment, votre assistance nous est pas nécessaire pour une fois."
+                "text": "Soyez la bienvenue, jeune dame !\\. Pour le moment, votre assistance ne nous est pas nécessaire pour une fois."
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/0/name": {
                 "orig": "Mrs. Summers",
@@ -161,7 +161,7 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/7/message": {
                 "orig": "After all, we businesspeople have as much a responsibility to humanity's progress as any soldier.",
-                "text": "Après tout, nous les gens d'affaires, nous avons aussi une grande responsabilité pour l'avancement de l'humanité. Comme tout soldat."
+                "text": "Après tout, nous les gens d'affaires avons aussi une grande responsabilité pour l'avancement de l'humanité. Comme tout soldat."
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/8/message": {
                 "orig": "...?",
@@ -169,7 +169,7 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/9/message": {
                 "orig": "Sadly, some of those among us are more concerned with personal vanities nowadays.",
-                "text": "Malheureusement, nombres d'entre nous sommes plus préoccupés par leur propre vanité de nos jours."
+                "text": "Malheureusement, nombre d'entre nous sont plus préoccupés par leur propre vanité de nos jours."
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/10/message": {
                 "orig": "But appeasing even associates such as those falls onto me, as useless as it might seem.",
@@ -193,7 +193,7 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/13/accepted/2/message": {
                 "orig": "The person in question is called \\c[3]Jamie Twirlson\\c[0].\\.  You should be able to find him in the local \\c[3]Item Shop\\c[0].",
-                "text": "La personne en question s'appelle \\c[3]Jamie Twirlson\\c[0].\\. Vous devriez le trouver dans la \\c[3]boutique d'item\\c[0] d'ici."
+                "text": "La personne en question s'appelle \\c[3]Jamie Twirlson\\c[0].\\. Vous devriez le trouver dans la \\c[3]Boutique d'Objet\\c[0] d'ici."
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/13/accepted/3/message": {
                 "orig": "He wastes his time and the patience of all his colleagues with fruitless fashion experiments.",
@@ -205,7 +205,7 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/13/accepted/5/message": {
                 "orig": "Hopefully you can be of assistance to him so he can finally work towards something more worthwhile.",
-                "text": "Espérons que vous pourriez être une aide pour lui, pour qu'il puisse finalement travailler à quelque chose de plus utile."
+                "text": "Espérons que vous puissiez être une aide pour lui, afin qu'il puisse finalement travailler à quelque chose de plus utile."
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/1/event/quest/13/accepted/6/message": {
                 "orig": "[nods]",
@@ -233,7 +233,7 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/2/event/2/message": {
                 "orig": "Talk to \\c[3]Jamie Twirlson\\c[0] and try to assist him.\\. You should be able to find him in the local \\c[3]Item Shop\\c[0].",
-                "text": "Parlez à \\c[3]Jamie Twirlson\\c[0] et essayez de l'aider.\\. Vous devriez le trouver dans la \\c[3]boutique d'item\\c[0] d'ici."
+                "text": "Parlez à \\c[3]Jamie Twirlson\\c[0] et essayez de l'aider.\\. Vous devriez le trouver dans la \\c[3]Boutique d'Objet\\c[0] d'ici."
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/3/event/quest/0/name": {
                 "orig": "Mrs. Summers",
@@ -393,6 +393,6 @@
         },
         "maps/bergen/trader-1.json/entities/132/settings/npcStates/7/event/2/message": {
                 "orig": "Greetings, young lady.\\. Our current circumstances don't require your assistance for once.",
-                "text": "Soyez la bienvenue, jeune dame !\\. Pour le moment, votre assistance nous est pas nécessaire pour une fois."
+                "text": "Soyez la bienvenue, jeune dame !\\. Pour le moment, votre assistance ne nous est pas nécessaire pour une fois."
         }
 }

@@ -9,7 +9,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/10/message": {
                 "orig": "You better pick that up and bring it back for analysis.\\. We don't want rubbish lying around when we mine.",
-                "text": "Tu devrais le prendre pour qu'on l'analyse.\\. On ne peut pas avoir des détritus qui trainent quand on mine."
+                "text": "Tu devrais le prendre pour qu'on l'analyse.\\. On ne veux pas avoir des détritus qui trainent quand on mine."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/2/settings/event/11/message": {
                 "orig": "[nods]",
@@ -21,7 +21,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/16/message": {
                 "orig": "Good job, the bombs are back online and it seems like you already got the hang of explosive bug-extermination.",
-                "text": "Bon travail ! Les bombes sont à nouveau fonctionnelles. Et on dirait que tu as trouvé le bon coup de main pour exploser des insectes."
+                "text": "Bon travail ! Les bombes sont à nouveau fonctionnelles. Et on dirait que tu as trouvé le bon coup de main pour exploser ces insectes."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/17/message": {
                 "orig": "...",
@@ -33,7 +33,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/23/message": {
                 "orig": "Now continue with those rocks there and stay alert for whatever is inside of them.",
-                "text": "Maintenant continue avec ces autres rochers et fait attention à ce qu'il pourrait y avoir dedans."
+                "text": "Maintenant continue avec ces rochers et fait attention à ce qu'il pourrait y avoir dedans."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/36/settings/event/24/message": {
                 "orig": "Also, there are \\c[3]protective barriers\\c[0] on those narrow routes leading up to you.",
@@ -111,7 +111,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/45/message": {
                 "orig": "... well... seems like you've still got work to do.\\. Good luck!",
-                "text": "... Bon... on dirait qu'il vous reste du travail à faire.\\. Bonne chance !"
+                "text": "... Bon... on dirait qu'il te reste du travail à faire.\\. Bonne chance !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/65/settings/event/46/message": {
                 "orig": "...",
@@ -220,7 +220,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/3/message": {
                 "orig": "Greetings, \\v[lore.title.seeker].\\. Everything's still running smoothly down here.",
-                "text": "Bonjour, \\v[lore.title.seeker].\\. Tout tourne comme sur des roulettes."
+                "text": "Bonjour, \\v[lore.title.seeker].\\. Tout roule comme sur des roulettes ici."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/4/message": {
                 "orig": "Too smoothly perhaps... there haven't been any recent attacks, but those bugs might just gather their strength.",
@@ -232,7 +232,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/6/message": {
                 "orig": "Fortunately, those crawlers are not expecting the wonder that is \\c[3]our highly-advanced nanosound-device\\c[0]!",
-                "text": "Heureusement, ces trucs rampants ne s'attendant sans doute pas à notre \\c[3]générateur de nanosons dernier-cri\\c[0] !"
+                "text": "Heureusement, ces trucs rampants ne s'attendent sans doute pas à notre \\c[3]générateur de nanosons dernier-cri\\c[0] !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/92/settings/npcStates/5/event/quest/7/message": {
                 "orig": "...?",
@@ -454,11 +454,11 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/41/message": {
                 "orig": "Your first job is to \\c[3]reactivate the explosives on the console behind a security barrier\\c[0].",
-                "text": "Votre premier travail est de \\c[3]réactiver les explosifs sur la console située derrière une barrière de sécurité\\c[0]."
+                "text": "Ton premier travail sera de \\c[3]réactiver les explosifs sur la console située derrière une barrière de sécurité\\c[0]."
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/42/message": {
                 "orig": "With those fine bombs you can then \\c[3]clear up all the rubble\\c[0] in the area and \\c[3]whatever comes crawling out of it\\c[0].\\. Understood?",
-                "text": "Avec ces bonnes bombes, tu peux ensuite nous \\c[3]débarrasser des débris et de tout ce qui rampe ou grouille\\c[0].\\. C'est clair ?",
+                "text": "Avec ces explosifs de premier choix, tu pourras ensuite nous \\c[3]débarrasser des débris et de tout ce qui rampe ou grouille\\c[0].\\. C'est clair ?",
                 "note": "kreucht und fleucht"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/43/message": {
@@ -467,7 +467,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/93/settings/event/44/message": {
                 "orig": "Alright.\\. I will stay connected with you over the speakers, in case there is anything else.\\. Good luck.",
-                "text": "Bien.\\. Je reste en contact avec toi avec les haut-parleurs. Juste au cas où.\\. Bonne chance !"
+                "text": "Bien.\\. Je reste en contact avec toi avec les haut-parleurs, juste au cas où.\\. Bonne chance !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/96/settings/event/8/name": {
                 "orig": "Darrel",
@@ -519,7 +519,7 @@
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/thenStep/0/message": {
                 "orig": "You did it again, good job!",
-                "text": "Vous avez encore réussi ! Bon travail !"
+                "text": "Tu as encore réussi ! Bon travail !"
         },
         "maps/bergen/special/miners-bombquest-1.json/entities/98/settings/event/19/thenStep/1/message": {
                 "orig": "...",

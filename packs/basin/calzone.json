@@ -1,7 +1,8 @@
 {
         "maps/jungle-city/interior/calzone-1.json/entities/21/settings/npcStates/0/event/shop/2/message": {
                 "orig": "Sorry Lady, ain't selling stuff to \\c[3]Seekers\\c[0] unless the boss tells me to.",
-                "text": "Désolé, madame, je ne vends rien au \\c[3]\\v[lore.title.seeker]\\c[0] sauf si le boss me le demande."
+                "text": "Désolée, madame, je ne vends rien au \\c[3]\\v[lore.title.seeker]\\c[0] sauf si le boss me le demande.",
+                "note": "duplicate of maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/npcStates/0/event/shop/2/message"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/21/settings/npcStates/0/event/shop/3/message": {
                 "orig": "...?",
@@ -29,7 +30,7 @@
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/3/message": {
                 "orig": "You there \\c[3]Seeker\\c[0]. Blue Hair, Spheromancer, horns. ",
-                "text": "Vous là-bas, \\c[3]\\v[lore.title.seeker]\\c[0]. Cheveux bleus, Cornes, Spheromancer."
+                "text": "Vous là-bas, \\c[3]\\v[lore.title.seeker]\\c[0]. Cheveux bleus, Spheromanceuse, Cornes."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/4/message": {
                 "orig": "Hi...?",
@@ -53,7 +54,7 @@
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/9/message": {
                 "orig": "A no is not acceptable I'm afraid.",
-                "text": "Et un Non n'est pas une réponse acceptable, j'en ai bien peur."
+                "text": "Et j'ai bien peur que vous ne puissiez refuser."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/26/settings/event/10/message": {
                 "orig": "...",
@@ -163,11 +164,11 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/14/message": {
                 "orig": "Ah come on, Dad. I did it all by myself, I swear.",
-                "text": "Ah, allez, papa, j'ai tout fais moi-même, je le jure !"
+                "text": "Oh, allez, papa, j'ai tout fais moi-même, je le jure !"
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/16/message": {
                 "orig": "Shut it, boy. It is bad enough you have brought shame on yourself and the family. ",
-                "text": "Tais-toi, enfant. C'était déjà assez que tu aies apporté la honte sur toi et sur la famille."
+                "text": "Tais-toi, gamin. Tu as déjà suffisament apporté la honte sur toi et la famille."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/17/message": {
                 "orig": "But... \\.\\.\\.",
@@ -207,7 +208,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/30/message": {
                 "orig": "We sell this medicine for cheap, thanks to our own trading route.",
-                "text": "Nous vendons ces médicaments pas chers, grâce à notre propre route de marchandise."
+                "text": "Nous vendons ces médicaments pas chers, grâce à notre propre route de commerce."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/31/message": {
                 "orig": "But let us say that this route is... not official.",
@@ -223,7 +224,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/34/message": {
                 "orig": "Guards now patrol part of the route.",
-                "text": "Des gardes patrouillent une partie de notre route."
+                "text": "Des gardes patrouillent sur une partie de notre route."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/35/message": {
                 "orig": "Finding another route would just bring more guards on us eventually, so another solution must be found.",
@@ -251,11 +252,11 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/41/message": {
                 "orig": "Yes, I think so too! Now what if instead of trying to find a new route, we smuggle the goods past the guards?",
-                "text": "Oui, je le pense aussi ! Maintenant si à la place de chercher une nouvelle route, on pouvait faire passer les biens sous la barbe des gardes ?"
+                "text": "Oui, je le pense aussi ! Maintenant si à la place de chercher une nouvelle route, on pouvait faire passer les biens à la barbe des gardes ?"
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/42/message": {
                 "orig": "The fine guards would do their honest work and we would do ours. No one gets hurt.",
-                "text": "Les gardes continueront de faire leur travail honnête et nous continuerions de faire le nôtre. Et personne ne sera blessé."
+                "text": "Les gardes continueraient de faire leur travail honnête et nous continuerions de faire le nôtre. Et personne ne serait blessé."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/43/message": {
                 "orig": "Of course this favor would not come without reward.",
@@ -267,7 +268,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/45/message": {
                 "orig": "If you agree to help us, I will personally grant you a pass allowing you entrance to our trade hubs.",
-                "text": "Si vous acceptez de nous aider, je vais personnellement vous donner un passe qui va vous permettre d'entrer dans nos marchés."
+                "text": "Si vous acceptez de nous aider, je vous donnerai personnellement un passe qui vous permettra d'entrer dans nos marchés."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/46/message": {
                 "orig": "So what do you say? Are you willing to help us in these most desperate of times?",
@@ -279,11 +280,11 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/1/message": {
                 "orig": "Now, the trading route I spoke of runs below the city, starting right here in the basement and going all the way to the infested jungle.",
-                "text": "Bon, la route des marchands dont je parle commence ici, en dessous de la ville, et continue tout au long jusqu'à la jungle infestée."
+                "text": "Bon, la route des marchands dont je parle commence ici, en dessous de la ville, et continue tout du long jusqu'à la jungle infestée."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/2/message": {
                 "orig": "I want you and my son to go to the infested jungle entrance and find a way past the guards.",
-                "text": "Je veux que vous, avec mon fil, ailliez dans la jungle infestée et que vous trouviez un moyen de passer à travers les gardes."
+                "text": "Je veux que vous, avec mon fils, alliez dans la jungle infestée et que vous trouviez un moyen de passer à travers les gardes."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/4/message": {
                 "orig": "What? I have to go with her? ",
@@ -291,7 +292,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/6/message": {
                 "orig": "You will do as I say, do you understand?",
-                "text": "Tu vas faire ce que je dis de faire, tu as compris ?"
+                "text": "Tu vas faire ce que je te dis, tu as compris ?"
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/7/message": {
                 "orig": "... Yes sir...",
@@ -299,7 +300,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/10/message": {
                 "orig": "Meet my son at \\c[3]Lost Lookout\\c[0] in the infested jungle. He knows the secret entrance.",
-                "text": "Rencontrez mon fils dans le \\c[3]Guet Perdu\\c[0] dans la jungle infestée. Il connait le passage secret."
+                "text": "Rencontrez mon fils dans le \\c[3]Guet Perdu\\c[0] de la jungle infestée. Il connait le passage secret."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/0/event/quest/48/accepted/11/message": {
                 "orig": "He will give you a \\c[3]special chip\\c[0] which allows us to track the path you took, so don't worry about jotting everything down.",
@@ -319,7 +320,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/2/message": {
                 "orig": "As said dear \\c[3]Seeker\\c[0], go find my son in Lost Lookout in the infested part of the jungle.",
-                "text": "Comme je le disais, cher \\c[3]\\v[lore.title.seeker]\\c[0], allez trouver mon fils dans le \\c[3]Guet Perdu\\c[0] dans la partie infestée de la jungle."
+                "text": "Comme je le disais, chère \\c[3]\\v[lore.title.seeker]\\c[0], allez trouver mon fils dans le \\c[3]Guet Perdu\\c[0] dans la partie infestée de la jungle."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/1/event/3/message": {
                 "orig": "He will guide you towards the rest.",
@@ -331,7 +332,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/2/message": {
                 "orig": "You have returned, \\c[3]Seeker\\c[0]!",
-                "text": "Vous êtes revenu, \\c[3]\\v[lore.title.seeker]\\c[0] !"
+                "text": "Vous êtes revenue, \\c[3]\\v[lore.title.seeker]\\c[0] !"
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/3/message": {
                 "orig": "I have already received word from my son. ",
@@ -339,7 +340,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/4/message": {
                 "orig": "Splendid work! Now all we need is the tracker chip and we can get right back to procuring the mushrooms.",
-                "text": "Un travail splendide ! Maintenant tout ce que nous avons besoin est la puce de traçage et nous pourrons retourner au travail."
+                "text": "Un travail splendide ! Maintenant tout ce dont nous avons besoin est la puce de traçage et nous pourrons retourner au travail."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/5/message": {
                 "orig": "[nods]",
@@ -371,7 +372,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/15/message": {
                 "orig": "I will also advise our own cashier upstairs to sell our product to you. ",
-                "text": "Je vais aussi indiquer à notre caissier là-haut de vous vendre notre produit."
+                "text": "Je vais aussi indiquer à notre caissière là-haut de vous vendre notre produit."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/2/event/quest/16/message": {
                 "orig": "May it aid you in battle as it eases the pain of the people of Pond Slums.",
@@ -379,7 +380,7 @@
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/2/message": {
                 "orig": "Ah, the dear \\c[3]Seeker\\c[0]!",
-                "text": "Ah, le cher \\c[3]\\v[lore.title.seeker]\\c[0] !"
+                "text": "Ah, la chère \\c[3]\\v[lore.title.seeker]\\c[0] !"
         },
         "maps/jungle-city/interior/calzone-2.json/entities/19/settings/npcStates/3/event/3/message": {
                 "orig": "Our production is running along just fine, all thanks to you. ",

@@ -9,7 +9,7 @@
         },
         "maps/heat/path-05.json/entities/202/settings/event/29/task": {
                 "orig": "\\c[3]Defend the transport for 2 minutes\\c[0] until it is repaired!",
-                "text": "\\c[3]Défendez le transporteur pendant 2 minutes\\c[0], jusqu'à qu'il soit réparé !"
+                "text": "\\c[3]Défendez le transporteur pendant 2 minutes\\c[0], jusqu'à ce qu'il soit réparé !"
         },
         "maps/heat/path-05.json/entities/203/settings/event/1/thenStep/4/thenStep/0/text": {
                 "orig": "Crate scratched!",
@@ -101,7 +101,7 @@
         },
         "maps/heat/path-05.json/entities/208/settings/npcStates/1/event/4/message": {
                 "orig": "Please find items quickly, so we can return to town!",
-                "text": "Trouver items rapidement, pour que nous pouvoir retourner au village !"
+                "text": "Trouver objets rapidement, pour que nous pouvoir retourner au village !"
         },
         "maps/heat/path-05.json/entities/226/settings/event/1/thenStep/0/text": {
                 "orig": "KILL",
@@ -190,7 +190,7 @@
         },
         "maps/heat/path-05.json/entities/228/settings/event/31/message": {
                 "orig": "Also \\c[3]\\v[item.186.name]\\c[0]!\\. And \\c[3]\\v[item.177.name]\\c[0]!\\. Both found in desert, if hit plants!",
-                "text": "Aussi \\c[3]\\v[item.186.name]\\c[0] !\\. Et \\c[3]\\v[item.177.name]\\c[0] !\\. Trouver eux deux dans désert, quand toi frapper plantes !"
+                "text": "Aussi \\c[3]\\v[item.186.name]\\c[0] !\\. Et \\c[3]\\v[item.177.name]\\c[0] !\\. Trouver eux dans désert, quand toi frapper plantes !"
         },
         "maps/heat/path-05.json/entities/228/settings/event/32/message": {
                 "orig": "Yes, but different plants, not forget!\\. And that it.",
@@ -326,7 +326,7 @@
         },
         "maps/heat/path-05.json/entities/230/settings/event/12/0/18/message": {
                 "orig": "\\v[lore.title.seeker] be ready!\\. Angry bone creatures come near!",
-                "text": "\\v[lore.title.seeker] être prêt !\\. Créatures enragés d'os arrivent !"
+                "text": "\\v[lore.title.seeker] être prêt !\\. Créatures d'os enragés arrivent !"
         },
         "maps/heat/path-05.json/entities/230/settings/event/12/0/19/message": {
                 "orig": "...!",
@@ -338,11 +338,11 @@
         },
         "maps/heat/path-05.json/entities/230/settings/event/12/1/1/message": {
                 "orig": "Fine, come back when ready.\\. Please return soon!",
-                "text": "Bon, revenir quand prêt.\\. Bientôt s'il te plaît !"
+                "text": "Bon, revenir quand prêt.\\. Bientôt s'il vous plaît !"
         },
         "maps/heat/path-05.json/entities/230/settings/event/12/1/2/message": {
                 "orig": "Yes, please not leave \\v[lore.title.shad] in coarse sand much longer.",
-                "text": "Oui, s'il te plaît, pas laisser \\v[lore.title.shad] dans sable rugueux trop longtemps."
+                "text": "Oui, s'il vous plaît, pas laisser \\v[lore.title.shad] dans sable rugueux trop longtemps."
         },
         "maps/heat/path-05.json/entities/230/settings/event/12/options/0/label": {
                 "orig": "[Yes]",
@@ -499,7 +499,7 @@
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/4/event/2/message": {
                 "orig": "From here keep running at the wall to \\c[3]south\\c[0].",
-                "text": "De là, continue de courir à contre le mur vers le \\c[3]sud\\c[0]."
+                "text": "De là, continue de courir contre le mur vers le \\c[3]sud\\c[0]."
         },
         "maps/heat/path-05.json/entities/241/settings/npcStates/4/event/3/message": {
                 "orig": "I'll again give you instructions to find the \\c[3]right spot\\c[0]!",
@@ -615,7 +615,7 @@
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/36/message": {
                 "orig": "We'll just have to do a few things...\\. very precisely...\\. to get there.",
-                "text": "Il va juste falloir que l'on fasse certaines choses...\\. très précisément...\\. pour y aller."
+                "text": "Il va juste falloir que l'on fasse certaines choses...\\. avec précision...\\. pour y arriver."
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/37/message": {
                 "orig": "This way!",
@@ -623,7 +623,7 @@
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/46/message": {
                 "orig": "I'll need you to run against this wall here. To the \\c[3]east\\c[0].",
-                "text": "Je vais avoir besoin que tu coures contre ce mur-là. Vers \\c[3]est\\c[0]."
+                "text": "Je vais avoir besoin que tu coures contre ce mur-là. Vers l'\\c[3]est\\c[0]."
         },
         "maps/heat/path-05.json/entities/243/settings/event/1/elseStep/47/message": {
                 "orig": "But you'll have to run at just the \\c[3]right spot\\c[0].",
@@ -747,7 +747,7 @@
         },
         "maps/heat/path-05.json/entities/252/settings/event/37/message": {
                 "orig": "From here we need to move to the \\c[3]south\\c[0]!\\. You go first again.",
-                "text": "De là il faut qu'on aille au \\c[3]sud\\c[0] !\\. Tu passes encore en premier."
+                "text": "De là il faut qu'on aille au \\c[3]sud\\c[0] !\\. Tu passes encore en première."
         },
         "maps/heat/path-05.json/entities/252/settings/event/38/message": {
                 "orig": "...",

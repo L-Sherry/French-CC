@@ -153,7 +153,7 @@
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/6/event/quest/6/message": {
                 "orig": "They got themselves fortified up on the roof with crates full of fruits and other stolen goods, while preparing to fly them away.",
-                "text": "Ils se sont barricadés sur le toit avec des caisses de fruits et d'autres bien volés, et se préparent à les faire décoller d'ici."
+                "text": "Ils se sont barricadés sur le toit avec des caisses de fruits et d'autres biens volés, et se préparent à les faire décoller d'ici."
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/6/event/quest/7/message": {
                 "orig": "...!",
@@ -173,7 +173,7 @@
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/6/event/quest/11/message": {
                 "orig": "Well, and keep the gangsters at bay.\\. We're counting on you, \\v[lore.title.seeker]!",
-                "text": "Bon, ça, et naturellement de garder les gangsters loin de vous.\\. On compte sur vous, \\v[lore.title.seeker] !"
+                "text": "Bon, ça, et naturellement garder les gangsters loin de vous.\\. On compte sur vous, \\v[lore.title.seeker] !"
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/6/event/quest/12/message": {
                 "orig": "Bye!",
@@ -205,11 +205,11 @@
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/8/event/quest/5/message": {
                 "orig": "Looks like you showed a pretty solid performance this time.",
-                "text": "On dirait que cette fois vous vous êtes bien battu."
+                "text": "On dirait que cette fois vous vous êtes bien battue."
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/8/event/quest/6/message": {
                 "orig": "Even Sgt. Bronzel and, Ancients help us, the press won't find much to complain about.",
-                "text": "Même le Sergent Bronzel et, que les Anciens nous aident, la presse ne trouvera rien à redire."
+                "text": "Même le Sergent Bronzel et, que les Anciens nous aident, la presse ne trouveront rien à redire."
         },
         "maps/jungle-city/west.json/entities/329/settings/npcStates/8/event/quest/7/message": {
                 "orig": "...",
@@ -321,7 +321,7 @@
         },
         "maps/jungle-city/west.json/entities/337/settings/dialog/1/event/7/message": {
                 "orig": "It's as unfunny as it gets and will make you very unpopular very quick.",
-                "text": "C'est aussi nul que ça en l'a l'air, et sinon ça va te rendre impopulaire assez rapidement."
+                "text": "C'est aussi nul que ça en a l'air, et sinon ça va te rendre impopulaire assez rapidement."
         },
         "maps/jungle-city/west.json/entities/337/settings/dialog/1/event/8/message": {
                 "orig": "So I can't relish in my sophisticated humor?",
@@ -329,7 +329,8 @@
         },
         "maps/jungle-city/west.json/entities/337/settings/dialog/1/event/9/message": {
                 "orig": "Yes.",
-                "text": "Oui."
+                "text": "Non.",
+                "note": "Il confirme que l'humour ne lui plait pas"
         },
         "maps/jungle-city/west.json/entities/337/settings/dialog/1/event/10/message": {
                 "orig": "Unlucky...",
@@ -341,7 +342,7 @@
         },
         "maps/jungle-city/west.json/entities/345/settings/npcStates/0/event/2/message": {
                 "orig": "Oh look, it's another Spheromancer!",
-                "text": "Oh, regarde, un autre Spheromancer !"
+                "text": "Oh, regarde, un autre Spheromanceur !"
         },
         "maps/jungle-city/west.json/entities/345/settings/npcStates/0/event/3/message": {
                 "orig": "Hi!",
@@ -461,15 +462,15 @@
         },
         "maps/jungle-city/west.json/entities/345/settings/npcStates/0/event/4/elseStep/13/message": {
                 "orig": "Because I needed those EXP.",
-                "text": "Parce que j'avais besoin de ces EXPs."
+                "text": "Parce que j'avais besoin de ces points d'EXPs."
         },
         "maps/jungle-city/west.json/entities/345/settings/npcStates/0/event/4/elseStep/14/message": {
                 "orig": "Best way to get them at high level.",
-                "text": "C'est le meilleur moyen de les avoir à haut niveau."
+                "text": "Le meilleur moyen d'en avoir à haut niveau."
         },
         "maps/jungle-city/west.json/entities/345/settings/npcStates/0/event/4/elseStep/15/message": {
                 "orig": "Killing lots of Hedgehags. One EXP at a time.",
-                "text": "De tuer des tonnes de \\v[combat.name.hedgehog]s. Un EXP à la fois."
+                "text": "C'est de tuer des tonnes de \\v[combat.name.hedgehog]s. Un point d'EXP à la fois."
         },
         "maps/jungle-city/west.json/entities/345/settings/npcStates/0/event/4/elseStep/16/message": {
                 "orig": "1000 Hedgehags per level... for well over 50 levels.",

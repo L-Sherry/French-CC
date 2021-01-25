@@ -37,11 +37,11 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/6/event/2/message": {
                 "orig": "Go back into the cave in \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name].",
-                "text": "Retournez dans la cave dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name]."
+                "text": "Retournez dans la cave située dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/6/event/3/message": {
                 "orig": "We have prepared a device that will help you reach that criminal \\v[combat.name.snowman] and exterminate it.",
-                "text": "Nous avons préparé un appareil qui va vous aider à atteindre ce \\v[combat.name.snowman] criminel et à l'exterminer."
+                "text": "Nous avons préparé un appareil qui va vous aider à atteindre ce criminel de \\v[combat.name.snowman] et à l'exterminer."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/21/settings/npcStates/8/event/1/name": {
                 "orig": "Mrs Basu",
@@ -89,7 +89,7 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/2/event/2/message": {
                 "orig": "Please concentrate on finding my cooling machines.\\. They are state-of-the-art and extremely valuable in this climate!",
-                "text": "S'il vous plait, concentrez-vous pour retrouver mes climatiseurs.\\. Ils sont dernier cri et extrêmement utile vu ce climat !"
+                "text": "S'il vous plait, concentrez-vous pour retrouver mes climatiseurs.\\. Ils sont derniers cris et extrêmement utiles vu ce climat !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/4/event/1/name": {
                 "orig": "Mr Frigo",
@@ -109,11 +109,11 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/6/event/2/message": {
                 "orig": "Our heating device stands ready in that cave you found that snowfiend in.",
-                "text": "Notre appareil chauffant est prêt dans la cave où vous avez trouvé ce voyou des neiges."
+                "text": "Notre appareil de chauffage est prêt dans la cave où vous avez trouvé ce voyou des neiges."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/6/event/3/message": {
                 "orig": "A few of my employees will wait for you and give you more detailed instructions.",
-                "text": "Certains de mes employés vous attendent et vous donneront des instructions plus détaillées."
+                "text": "Certains de mes employés vous y attendent et vous donneront des instructions plus détaillées."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/8/event/1/name": {
                 "orig": "Mr Frigo",
@@ -201,7 +201,7 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/19/message": {
                 "orig": "In any case, sir, she might be our best chance to get your machines back in time!",
-                "text": "En tout cas, sir, elle est peut-être votre meilleure chance pour retrouver vos machines à temps !"
+                "text": "En tout cas, monsieur, elle est peut-être votre meilleure chance pour retrouver vos machines à temps !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/5/elseStep/21/message": {
                 "orig": "So, \\v[lore.title.seeker], are you interested in helping us?",
@@ -237,11 +237,11 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/11/message": {
                 "orig": "Indeed.\\. When the authorities were investigating they lost the lead on \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name].",
-                "text": "Effectivement.\\. Quand les autorités ont enquêtés, ils ont perdu leur traces dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name]."
+                "text": "Effectivement.\\. Quand les autorités ont enquêtés, ils ont perdu leur trace dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name]."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/12/message": {
                 "orig": "Maybe your specialized \\c[3]\\v[lore.title.seeker]-senses\\c[0] can find some traces that lead to the robber's hideout.\\. Please be vigilant!",
-                "text": "Peut-être que vos \\c[3]instincts de \\v[lore.title.seeker]\\c[0] spécialisés peuvent trouver plus de traces qui nous mèneront vers la cachette du voleur.\\. S'il vous plait, soyez vigilant !"
+                "text": "Peut-être que vos \\c[3]instincts de \\v[lore.title.seeker]\\c[0] spécialisés peuvent trouver plus de traces qui nous mèneront vers la cachette du voleur.\\. S'il vous plait, soyez vigilante !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/13/message": {
                 "orig": "[nods]",
@@ -281,7 +281,7 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/3/text": {
                 "orig": "Yes, sir, we understand your displeasure.\\. We even requested \\c[1]the help of a \\v[lore.title.seeker]\\c[0] to solve this.\\. One might arrive at any second!",
-                "text": "Oui, sir, nous comprenons votre colère.\\. Nous avons même demandé \\c[1]l'aide d'un \\v[lore.title.seeker]\\c[0] pour résoudre cela.\\. L'un d'entre eux peut arriver à n'importe quel moment !"
+                "text": "Oui, monsieur, nous comprenons votre colère.\\. Nous avons même demandé \\c[1]l'aide d'un \\v[lore.title.seeker]\\c[0] pour résoudre cela.\\. L'un d'entre eux peut arriver à n'importe quel moment !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/63/settings/dialog/4/text": {
                 "orig": "\\c[1]A \\v[lore.title.seeker]\\c[0], eh?\\. I doubt that those will be of use when even the authority has failed.",
@@ -345,7 +345,7 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/25/message": {
                 "orig": "S-sir, how noble of you!\\. Well, \\v[lore.title.seeker], I hope you will not let us down.\\. Please return to us in the future!",
-                "text": "S-sir, quelle générosité de votre part !\\. Bien, \\v[lore.title.seeker], j'espère que vous ne nous laisserez pas tomber.\\. S'il vous plait, revenez nous voir dans le futur !"
+                "text": "M-monsieur, quelle générosité de votre part !\\. Bien, \\v[lore.title.seeker], j'espère que vous ne nous laisserez pas tomber.\\. S'il vous plait, revenez nous voir dans le futur !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/64/settings/event/26/message": {
                 "orig": "Bye!",
@@ -413,11 +413,11 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/4/message": {
                 "orig": "Well, I will leave the details to my subordinates on site.\\. They are waiting for you in front of that icy wall.",
-                "text": "Bien, je vais laisser vous occuper des détails avec mes collaborateurs sur le site.\\. Ils vous attendent en face de ce mur de glace."
+                "text": "Bien, je vais laisser mes collaborateurs sur site vous donner les détails.\\. Ils vous attendent en face de ce mur de glace."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/5/message": {
                 "orig": "They will give you a short introduction to our specialized heating device and how to break through the ice.",
-                "text": "Ils vous donneront une introduction à notre appareil de chauffage spécialisé et comment casser ce mur de glace."
+                "text": "Ils vous feront une introduction à notre appareil de chauffage spécialisé et comment casser ce mur de glace."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/6/message": {
                 "orig": "...!",
@@ -425,15 +425,15 @@
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/8/message": {
                 "orig": "Good, then you should be on your way.\\. The cave is still in \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name], in case you forgot.",
-                "text": "Bien, vous devriez partir en route.\\. La cave se trouve toujours dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name], au cas où vous auriez oublié."
+                "text": "Bien, vous devriez vous mettre en route.\\. La cave se trouve toujours dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name], au cas où vous l'auriez oublié."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/9/message": {
                 "orig": "Good luck and please get rid of that scoundrel once and for all.",
-                "text": "Bonne chance, et s'il vous plait, débarrassez-nous de cette vermine une fois pour toutes."
+                "text": "Bonne chance, et s'il vous plait, débarrassez-nous de cette vermine une bonne fois pour toutes."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/11/message": {
                 "orig": "Yes, and retrieve my precious machines.",
-                "text": "Oui, et pensez à mes précieuses machines."
+                "text": "Ah, et pensez à mes précieuses machines."
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/66/settings/event/6/accepted/12/message": {
                 "orig": "[nods]",

@@ -215,7 +215,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/36/settings/npcStates/0/event/arena/0/elseStep/0/thenStep/2/message": {
                 "orig": "Congratulations on your first \\c[3]Platinum Medal\\c[0]!",
-                "text": "Félicitation pour votre première \\c[3]Médaille de Platine\\c[0] !"
+                "text": "Félicitations pour votre première \\c[3]Médaille de Platine\\c[0] !"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/36/settings/npcStates/0/event/arena/0/elseStep/0/thenStep/3/message": {
                 "orig": "...!",
@@ -239,7 +239,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/40/settings/event/4/thenStep/0/2_0/0/message": {
                 "orig": "Do not disappoint, Spheromancer Lea!",
-                "text": "Ne me déçois pas, Spheromancer Lea !"
+                "text": "Ne me déçois pas, Spheromanceuse Lea !"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/40/settings/event/4/thenStep/0/3_0/0/message": {
                 "orig": "Have fun, little one.",
@@ -267,7 +267,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/43/settings/event/0/thenStep/4/text": {
                 "orig": "The Arena Tab in the Records Menu and Options Menu have been unlocked!",
-                "text": "L'onglet Arène dans le Menu Statistique et le Menu des Options ont été débloqués !"
+                "text": "L'onglet Arène dans le Menu Statistique et le Menu des Options a été débloqué !"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/44/settings/npcStates/0/event/2/message": {
                 "orig": "We are terribly sorry, but at the current moment \\c[3]Custom Cups\\c[0] are not available.",
@@ -315,11 +315,11 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/111/settings/npcStates/0/event/shop/0/thenStep/5/message": {
                 "orig": "We feature a wide array of rewards such as specialized \\c[3]Equipment\\c[0] and various \\c[3]Cosmetic Items\\c[0].",
-                "text": "Nous offrons une large palette de récompenses comme de l'\\c[3]Équipement spécialisé\\c[0] et des \\c[3]Items Cosmétiques\\c[0] divers."
+                "text": "Nous offrons une large palette de récompenses comme de l'\\c[3]Équipement spécialisé\\c[0] et des \\c[3]Objets Cosmétiques\\c[0] divers."
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/111/settings/npcStates/0/event/shop/0/thenStep/6/message": {
                 "orig": "Note that each item is only available once and cannot be sold. ",
-                "text": "Notez que chaque item ne peut être acheté qu'une fois et ne peut être vendu."
+                "text": "Notez que chaque objet ne peut être acheté qu'une fois et ne peut être vendu."
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/111/settings/npcStates/0/event/shop/0/thenStep/7/message": {
                 "orig": "...!",
@@ -327,7 +327,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/111/settings/npcStates/0/event/shop/0/thenStep/8/message": {
                 "orig": "We arranged items in multiple tabs. Please use \\i[circle-left] & \\i[circle-right] to change between the tabs.",
-                "text": "Nous avons arrangé les items dans plusieurs onglets. Veuillez utiliser \\i[circle-left] et \\i[circle-right] pour changer d'onglet."
+                "text": "Nous avons arrangé les objets dans plusieurs onglets. Veuillez utiliser \\i[circle-left] et \\i[circle-right] pour changer d'onglet."
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/159/settings/event/6/message": {
                 "orig": "Here we are, such a busy place!",
@@ -460,7 +460,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/163/settings/npcStates/0/event/5/2/6/message": {
                 "orig": "Examples are \\c[3]not receiving damage\\c[0] and \\c[3]not using items\\c[0].",
-                "text": "Un exemple est de \\c[3]ne prendre aucun coup\\c[0] et de \\c[3]ne pas utiliser d'items\\c[0]."
+                "text": "Un exemple est de \\c[3]ne prendre aucun coup\\c[0] et de \\c[3]ne pas utiliser d'objets\\c[0]."
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/163/settings/npcStates/0/event/5/2/7/message": {
                 "orig": "As with all score points, you can read the list at the end of each round to understand which bonus points you received.",
@@ -496,7 +496,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/163/settings/npcStates/0/event/5/3/7/message": {
                 "orig": "One last thing, if you perform exceptionally well in a round or cup, you may receive the highest rating: the \\c[3]platinum\\c[0] medal and trophy.",
-                "text": "Encore une chose : lorsque votre performance dans un round ou dans une coupe est exceptionnelle, vous pourriez recevoir une médaille ou une coupe en \\c[3]platine\\c[0] !"
+                "text": "Encore une chose : si votre performance dans un round ou dans une coupe est exceptionnelle, il est alors possible que vous receviez une médaille ou une coupe en \\c[3]platine\\c[0] !"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/163/settings/npcStates/0/event/5/3/8/message": {
                 "orig": "Note that these ratings only serve to prove your level of expertise and will not rewarded with arena coins.",
@@ -557,7 +557,7 @@
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/165/settings/dialog/5/text": {
                 "orig": "Come on, you're sitting on a huge stack of items! You'll never be able to use those up!",
-                "text": "Allez, tu es assis sur une montagne d'items ! Tu n'arriveras jamais à tous les utiliser !"
+                "text": "Allez, tu es assis sur une montagne d'objets ! Tu n'arriveras jamais à tous les utiliser !"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/166/settings/dialog/0/text": {
                 "orig": "Man, I can't figure out how to get that platinum medal.",
