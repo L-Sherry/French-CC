@@ -13979,7 +13979,7 @@
         },
         "database.json/lore/faction-shock-main/content/page-01-03/content": {
                 "orig": "- \\c[3]Bergen Trade & Metalwork (BTM)\\c[0] in \\c[3]\\v[area.bergen.name]\\c[0]",
-                "text": "- Le \\c[3]\\v[lore.title.faction-shock-bergen] (MMB)\\c[0] au \\c[3]\\v[area.bergen.name]\\c[0]"
+                "text": "- Le \\c[3]Marché & Métallurgie de Bergen (MMB)\\c[0] au \\c[3]\\v[area.bergen.name]\\c[0]"
         },
         "database.json/lore/faction-shock-main/content/page-01-04/content": {
                 "orig": "- \\c[3]Baki Bazaar Union (BBU)\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0]",
@@ -13987,7 +13987,7 @@
         },
         "database.json/lore/faction-shock-main/content/page-01-05/content": {
                 "orig": "- \\c[3]Basin Trade Partnership (BTP)\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0]",
-                "text": "- Le \\c[3]\\v[lore.title.faction-shock-jungle] (PMB)\\c[0] au \\c[3]\\v[area.jungle-city.name]\\c[0]"
+                "text": "- Le \\c[3]Partenariat Marchand du Bassin (PMB)\\c[0] au \\c[3]\\v[area.jungle-city.name]\\c[0]"
         },
         "database.json/lore/faction-shock-rookieharbor/title": {
                 "orig": "Coastal Trading Coalition",
@@ -14003,11 +14003,12 @@
         },
         "database.json/lore/faction-shock-bergen/title": {
                 "orig": "Bergen Trade & Metalwork",
-                "text": "Marché & Métallurgie de Bergen"
+                "text": "Marché & Métallurgie Bergen",
+                "note": "de Bergen is too long"
         },
         "database.json/lore/faction-shock-bergen/content/page-01-01/content": {
                 "orig": "As the subdivision of the \\c[3]Association of Human Advancement\\c[0] in \\c[3]\\v[area.bergen.name]\\c[0], the \\c[3]Bergen Trade & Metalwork (BTM)\\c[0] serves as a parent organization to every trader and craftsperson in \\c[3]\\v[area.bergen.name]\\c[0].",
-                "text": "En tant que sous-division de l'\\c[3]Association du Développement Humain\\c[0] au \\c[3]\\v[area.bergen.name]\\c[0], le \\c[3]\\v[lore.title.faction-shock-bergen] (MMB)\\c[0] sert d'organisation parente pour tous les marchands et les artisans au \\c[3]\\v[area.bergen.name]\\c[0]"
+                "text": "En tant que sous-division de l'\\c[3]Association du Développement Humain\\c[0] au \\c[3]\\v[area.bergen.name]\\c[0], le \\c[3]Marché & Métallurgie de Bergen (MMB)\\c[0] sert d'organisation parente pour tous les marchands et les artisans au \\c[3]\\v[area.bergen.name]\\c[0]"
         },
         "database.json/lore/faction-shock-bergen/content/page-01-02/content": {
                 "orig": "The BTM is controlled by a council that is regularly replaced by yearly elections. Currently \\c[3]Mrs Summers\\c[0] is the chairman and thus responsible for handling complaints brought up by Bergen traders.",
@@ -14027,11 +14028,12 @@
         },
         "database.json/lore/faction-shock-jungle/title": {
                 "orig": "Basin Trade Partnership",
-                "text": "Partenariat Marchand du Bassin"
+                "text": "Partenariat Marchand Bassin",
+                "note": "Partenariat Marchand du Bassin is too long here."
         },
         "database.json/lore/faction-shock-jungle/content/page-01-01/content": {
                 "orig": "As the subdivision of the \\c[3]Association of Human Advancement\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0], the \\c[3]Basin Trade Partnership (BTP)\\c[0] serves as a parent organization to every trader and craftsperson in \\c[3]\\v[area.jungle-city.name]\\c[0].",
-                "text": "En tant que sous-division de l'\\c[3]Association du Développement Humain\\c[0] au \\c[3]\\v[area.jungle-city.name]\\c[0], le \\c[3]\\v[lore.title.faction-shock-jungle] (PMB)\\c[0] sert d'organisation parente pour tous les marchands et les artisans au \\c[3]\\v[area.jungle-city.name]\\c[0]"
+                "text": "En tant que sous-division de l'\\c[3]Association du Développement Humain\\c[0] au \\c[3]\\v[area.jungle-city.name]\\c[0], le \\c[3]Partenariat Marchand du Bassin (PMB)\\c[0] sert d'organisation parente pour tous les marchands et les artisans au \\c[3]\\v[area.jungle-city.name]\\c[0]"
         },
         "database.json/lore/faction-shock-jungle/content/page-01-02/content": {
                 "orig": "The Trade Partnership is controlled by a council that is made up of the most influential companies of the city. \\c[3]Esha Basu\\c[0] serves as one of the most prominent neutral spokespeople and is responsible with assisting members with their problems.",
@@ -18276,7 +18278,7 @@
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/hubSettings/location": {
                 "orig": "Need sales representative to expand our fridging business! \\c[3]- Basin Trade Partnership HQ\\c[0]",
-                "text": "Besoin de commerciaux pour étendre nos affaires frigides ! \\c[3]- QG \\v[lore.title.faction-shock-jungle]\\c[0]",
+                "text": "Besoin de commerciaux pour étendre nos affaires frigides ! \\c[3]- QG Partenariat Marchand du Bassin\\c[0]",
                 "note": "tes affaires frigide barjot ?"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/name": {
