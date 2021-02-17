@@ -32,7 +32,7 @@
 			"je_met": "\\bje met\\b",
 			"laisser moi": "\\blaisser moi\\b",
 			"caviens": "\\bça viens\\b",
-			"on_ai": "\\bon ((les|leur) |[ln]')?ai\\b" 
+			"on_ai": "\\bon ((les|leur) |[ln]')?ai\\b"
 		},
 		"metrics": {
 			"normal": {
@@ -55,7 +55,9 @@
 				],
 				"extra_metrics": {
 					"\u00a0": 5,
-					"\u202f": 3
+					"\u202f": 3,
+					"tech": 17,
+					"ascended": 24
 				}
 			}, "small": {
 				"metrics": [
@@ -520,30 +522,6 @@
 				"Fröse/:M2:m:i"
 			],
 			"replacements": {
-				"deprecated_before": [
-					["Evotars", "Lèves-tard"],
-					["Evotar", "Lève-tard"],
-					["Sidwell", "Cyril"],
-					["Gautham", "Gauthier"],
-					["CrossWorlds", "Crosscountry"],
-					["CrossCode", "Cross"],
-					["Harisson", "Hérisson"],
-					["harisson", "hérisson"],
-					["Spheromancer", "Nécromancien"],
-					["Spheromanceuse", "Nécromancienne"],
-					["Pentafist", "Patapouf"],
-					["Triblader", "Trifouilleur"],
-					["Hexacast", "Mage"],
-					["Shadoon", "Florence"],
-					["Gaia", "Dijon"],
-					["Rhombus", "Rubicon"],
-					["Rookie", "Troufion"],
-					["Autumn’s Rise", "Bordeaux"],
-					["Autumn’s Fall", "Rome"],
-					["Maroon", "Sable"],
-					["Shads", "Chats"],
-					["Shad", "Chat"]
-				],
 				"before": [
 					["([-~])(\\s+)(.*)\\2\\1", "\\3"],
 					["\"([^\"]*)\"", "«\u00a0\\1\u00a0»"],
