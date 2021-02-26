@@ -290,14 +290,10 @@
                 "text": "Pour éviter toutes sortes d'abus, ces coupes ne permettent pas d'obtenir des Piécettes Arènes."
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/44/settings/npcStates/1/event/arena/0/thenStep/5/message": {
-                "orig": "To make sure you can't abuse this system, obtaining coins from these cups is prohibited. ",
-                "text": "Pour éviter toutes sortes d'abus, ces coupes ne permettent pas d'obtenir des Piécettes Arènes."
-        },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/44/settings/npcStates/1/event/arena/0/thenStep/6/message": {
                 "orig": "Now good luck and have fun!",
                 "text": "Cela étant dit, nous vous souhaitons bonne chance et beaucoup de plaisir !"
         },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/44/settings/npcStates/1/event/arena/0/thenStep/7/message": {
+        "maps/rhombus-sqr/interior/arena-01.json/entities/44/settings/npcStates/1/event/arena/0/thenStep/6/message": {
                 "orig": "...!",
                 "text": "... !"
         },
@@ -358,8 +354,9 @@
                 "text": "OK, on est bon pour commencer !\\. Dis-moi quand tu es prête !"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/159/settings/event/32/message": {
-                "orig": "Just select the \\c[3]PvP vs Lily\\c[0] among the \\c[3]Custom Cups\\c[0] to the right.",
-                "text": "Sélectionne juste le \\c[3]PvP contre Lily\\c[0] parmi les \\c[3]Coupes Personnalisées\\c[0] à droite."
+                "orig": "Just select \\c[3]PvP vs Lily\\c[0] among the \\c[3]Custom Cups\\c[0] to the right.",
+                "text": "Sélectionne juste le \\c[3]PvP contre Lily\\c[0] parmi les \\c[3]Coupes Personnalisées\\c[0] à droite.",
+                "quality": "unknown"
         },
         "maps/rhombus-sqr/interior/arena-01.json/entities/159/settings/event/33/message": {
                 "orig": "[nods]",

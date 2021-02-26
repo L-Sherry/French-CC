@@ -215,29 +215,29 @@
                 "orig": "Hard",
                 "text": "Difficile"
         },
-        "maps/forest/caves/spider-cave-01.json/entities/251/settings/event/19/thenStep/0/thenStep/0/text": {
+        "maps/forest/caves/spider-cave-01.json/entities/251/settings/event/21/thenStep/0/thenStep/0/text": {
                 "orig": "\\s[0]\\c[3]New Survival [\\v[tmp.modeName]] Record!\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points",
                 "text": "\\s[0]\\c[3]Nouveau Record de Survie [\\v[tmp.modeName]] !\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points"
         },
-        "maps/forest/caves/spider-cave-01.json/entities/251/settings/event/19/thenStep/0/elseStep/0/text": {
+        "maps/forest/caves/spider-cave-01.json/entities/251/settings/event/21/thenStep/0/elseStep/0/text": {
                 "orig": "\\s[0]\\c[3]New Surival [\\v[tmp.modeName]] Record!\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n-------------------------\nOld Best:\n\n\\v[misc.localNumTempVar.bestScoreString] Points",
                 "text": "\\s[0]\\c[3]Nouveau Record de Survie [\\v[tmp.modeName]] !\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n-------------------------\nAncien Record :\n\\v[misc.localNumTempVar.bestScoreString] Points"
         },
-        "maps/forest/caves/spider-cave-01.json/entities/251/settings/event/19/elseStep/0/text": {
+        "maps/forest/caves/spider-cave-01.json/entities/251/settings/event/21/elseStep/0/text": {
                 "orig": "\\s[0]\\c[3]Score Surival [\\v[tmp.modeName]]:\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n-------------------------\nBest:\n\\v[misc.localNumTempVar.bestScoreString] Points\n",
                 "text": "\\s[0]\\c[3]Score Survie [\\v[tmp.modeName]] :\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n-------------------------\nRecord :\n\\v[misc.localNumTempVar.bestScoreString] Points\n"
         },
-        "maps/forest/caves/spider-cave-01.json/entities/259/settings/event/26/thenStep/0/thenStep/0/text": {
+        "maps/forest/caves/spider-cave-01.json/entities/259/settings/event/28/thenStep/0/thenStep/0/text": {
                 "orig": "\\s[0]\\c[3]New Endless Record!\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n\n\\s[0]\\c[3]Time\\c[0]\n\\v[map.timeStringEndless]\n\\s[0]\\c[3]Eliminations\\c[0]\n\\v[map.killsValEndless]",
                 "text": "\\s[0]\\c[3]Nouveau Record Sans Fin\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n\n\\c[3]Temps\\c[0]\n\\v[map.timeStringEndless]\n\\c[3]Éliminations\\c[0]\n\\v[map.killsValEndless]",
                 "note": "why are there more than one speed ?"
         },
-        "maps/forest/caves/spider-cave-01.json/entities/259/settings/event/26/thenStep/0/elseStep/0/text": {
+        "maps/forest/caves/spider-cave-01.json/entities/259/settings/event/28/thenStep/0/elseStep/0/text": {
                 "orig": "\\s[0]\\c[3]New Surival Endless Record!\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n\n\\s[0]\\c[3]Time\\c[0]\n\\v[map.timeStringEndless]\n\\s[0]\\c[3]Eliminations\\c[0]\n\\v[map.killsValEndless]",
                 "text": "\\s[0]\\c[3]Nouveau Record Survie Sans Fin !\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n\n\\c[3]Temps\\c[0]\n\\v[map.timeStringEndless]\n\\c[3]Éliminations\\c[0]\n\\v[map.killsValEndless]",
                 "note": "why are there more than one speed ?"
         },
-        "maps/forest/caves/spider-cave-01.json/entities/259/settings/event/26/elseStep/0/text": {
+        "maps/forest/caves/spider-cave-01.json/entities/259/settings/event/28/elseStep/0/text": {
                 "orig": "\\s[0]\\c[3]Score Endless:\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n\n\\s[0]\\c[3]Time\\c[0]\n\\v[map.timeStringEndless]\n\\s[0]\\c[3]Eliminations\\c[0]\n\\v[map.killsValEndless]\n",
                 "text": "\\s[0]\\c[3]Score Survie Sans Fin :\\c[0]\n\\v[misc.localNumTempVar.scoreStringValue] Points\n\n\\c[3]Temps\\c[0]\n\\v[map.timeStringEndless]\n\\c[3]Éliminations\\c[0]\n\\v[map.killsValEndless]",
                 "note": "why are there more than one speed ?"

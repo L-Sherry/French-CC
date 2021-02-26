@@ -1,66 +1,33 @@
 {
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/npcStates/0/event/shop/2/message": {
-                "orig": "Sorry Lady, ain't selling stuff to \\c[3]Seekers\\c[0] unless the boss tells me to.",
-                "text": "Désolée, madame, je ne vends rien au \\c[3]\\v[lore.title.seeker]\\c[0] sauf si le boss me le demande."
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/npcStates/0/event/2/message": {
+                "orig": "Heya \\c[3]Seeker\\c[0].\\. Running a respectable establishment here so please feel comfortable.",
+                "text": "Désolée, madame, je ne vends rien au \\c[3]\\v[lore.title.seeker]\\c[0] sauf si le boss me le demande.",
+                "quality": "unknown"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/npcStates/0/event/shop/3/message": {
-                "orig": "...?",
-                "text": "... ?"
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/npcStates/0/event/3/message": {
+                "orig": "...",
+                "text": "... ?",
+                "quality": "unknown"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/npcStates/1/event/shop/2/message": {
-                "orig": "Boss tells me I gotta sell you the \\c[3]One Up\\c[0]. Dunno why, but here you go.",
-                "text": "Le Boss m'a dit que je devais te vendre le \\c[3]\\v[item.346.name]\\c[0]. Je ne sais pas pourquoi, mais tiens."
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/npcStates/1/event/2/message": {
+                "orig": "Hey, don't look at me, I just give out drinks and relationship advice.\\. I know nothing of no criminal connections or whatever.",
+                "text": "Le Boss m'a dit que je devais te vendre le \\c[3]\\v[item.346.name]\\c[0]. Je ne sais pas pourquoi, mais tiens.",
+                "quality": "unknown"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/24/settings/npcStates/0/event/2/message": {
-                "orig": "No entry for you, \\c[3]Seeker\\c[0].",
-                "text": "T'entres pas ici, \\c[3]\\v[lore.title.seeker]\\c[0]."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/24/settings/npcStates/0/event/3/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/npcStates/1/event/4/message": {
                 "orig": "...",
                 "text": "..."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/24/settings/npcStates/2/event/2/message": {
-                "orig": "Go down if you want to talk to the Boss, \\c[3]Seeker\\c[0].",
-                "text": "Allez en bas si vous voulez parler au Boss, \\c[3]\\v[lore.title.seeker]\\c[0]."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/24/settings/npcStates/2/event/3/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/23/settings/npcStates/0/event/trade/event/5/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/3/message": {
-                "orig": "You there \\c[3]Seeker\\c[0]. Blue Hair, Spheromancer, horns. ",
-                "text": "Vous là-bas, \\c[3]\\v[lore.title.seeker]\\c[0]. Cheveux bleus, Spheromanceuse, Cornes."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/4/message": {
-                "orig": "Hi...?",
-                "text": "Salut... ?"
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/5/message": {
-                "orig": "Da Boss tells us of a woman we are to look out for. You fit the description.",
-                "text": "Le boss m'a parlé d'une femme qu'on doit chercher. Et vous correspondez à la description."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/6/message": {
-                "orig": "You recently helped a certain \\c[3]Mick\\c[0], right?",
-                "text": "Vous avez aidé un certain \\c[3]Mick\\c[0] il y a peu, pas vrai ?"
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/7/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/23/settings/npcStates/0/event/trade/event/8/traded/3/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/8/message": {
-                "orig": "Good. In that case I must ask you to go down the stairs and meet the boss.",
-                "text": "Bien. Dans ce cas je dois vous demander de descendre les escaliers et de parler avec le Boss."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/9/message": {
-                "orig": "A no is not acceptable I'm afraid.",
-                "text": "Et un Non n'est pas une réponse acceptable, j'en ai bien peur."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/10/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/46/settings/event/16/message": {
                 "orig": "...",
                 "text": "..."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/26/settings/event/11/message": {
-                "orig": "There's nothing you have to worry about. Please come with me.",
-                "text": "Il n'y a aucune raison d'avoir peur. Venez avec moi."
         }
 }

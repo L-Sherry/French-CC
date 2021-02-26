@@ -4328,12 +4328,14 @@
                 "text": "Lame longue, flexible, presque invisible qui peut frapper en un clin d'œil."
         },
         "item-database.json/items/513/name": {
-                "orig": "- Nanopoint Needle",
-                "text": "Aiguille Nanopointe"
+                "orig": "Nanopoint Needle",
+                "text": "Aiguille Nanopointe",
+                "quality": "unknown"
         },
         "item-database.json/items/513/description": {
-                "orig": "Pierces everything on a good hit. \\c[1]UNUSED in 1.0.\\c[0]",
-                "text": "Quand on frappe bien, elle transperce tout."
+                "orig": "Flexible blade that is nigh-invisible from the side. Pierces anything on a good hit. \\i[ascended]",
+                "text": "Quand on frappe bien, elle transperce tout.",
+                "quality": "unknown"
         },
         "item-database.json/items/514/name": {
                 "orig": "Roundhousers",
@@ -4760,7 +4762,7 @@
                 "text": "Ces cônes géants n'ont pas l'air de devenir aussi gros que leurs semblables violets."
         },
         "item-database.json/items/565/name": {
-                "orig": "Salty Gras",
+                "orig": "Salty Grass",
                 "text": "Gras Salé",
                 "quality": "unknown"
         },
@@ -4784,8 +4786,9 @@
                 "text": "Cross-Pointe"
         },
         "item-database.json/items/567/description": {
-                "orig": "Great at bringing the point across. \\i[ascended]",
+                "orig": "Great at bringing the point across with cutting-edge technology. \\i[ascended]",
                 "text": "Idéal pour croiser le fer avec ses ennemis et mettre une croix dessus. \\i[ascended]",
+                "quality": "unknown",
                 "note": "all en texts contains 'cross' and all de contains 'kreuz', so all fr contains 'croix'. And this one will have it twice, just because."
         },
         "item-database.json/items/568/name": {
@@ -4899,8 +4902,9 @@
                 "text": "Brobaton de Force+"
         },
         "item-database.json/items/581/description": {
-                "orig": "An extremely rare weapon created by a paramilitary organization of unknown origin. \\i[ascended]",
-                "text": "Une arme extrêmement rare crée par un groupe paramilitaire d'origine inconnue. \\i[ascended]"
+                "orig": "Extremely rare weapon created by a paramilitary organization of unknown origin. \\i[ascended]",
+                "text": "Une arme extrêmement rare crée par un groupe paramilitaire d'origine inconnue. \\i[ascended]",
+                "quality": "unknown"
         },
         "item-database.json/items/582/name": {
                 "orig": "Cerberus Fang",
@@ -5085,8 +5089,9 @@
                 "text": "Robe Fibre de Vie"
         },
         "item-database.json/items/604/description": {
-                "orig": "Spun from living thread that forms a nigh symbiotic relationship with its wearer. \\i[ascended]",
-                "text": "Une robe en fibres vivantes qui forme une relation symbiotique avec son porteur. \\i[ascended]"
+                "orig": "Spun from living thread that forms a nigh symbiontic relationship with its wearer. \\i[ascended]",
+                "text": "Une robe en fibres vivantes qui forme une relation symbiotique avec son porteur. \\i[ascended]",
+                "quality": "unknown"
         },
         "item-database.json/items/605/name": {
                 "orig": "Eternal Salami+",
@@ -5097,12 +5102,14 @@
                 "text": "Un snack impérissable pour le combat. Terminé les estomac vides. Plus jamais. \\i[ascended]"
         },
         "item-database.json/items/606/name": {
-                "orig": "- Monk Reward",
-                "text": "-Récompense Moine"
+                "orig": "Light Gem",
+                "text": "-Récompense Moine",
+                "quality": "unknown"
         },
         "item-database.json/items/606/description": {
-                "orig": "Reward standin. Some trade item or equip?",
-                "text": "Prêt à récompenser. Un objet à marchander ou à équipper ?"
+                "orig": "A chipped silver gem. Apparently it's of no use by itself but maybe...?",
+                "text": "Prêt à récompenser. Un objet à marchander ou à équipper ?",
+                "quality": "unknown"
         },
         "item-database.json/items/607/name": {
                 "orig": "Shuriken Shooter",
@@ -5113,29 +5120,33 @@
                 "text": "Vous fait déplacer et tirer très rapidement. \\i[ascended]"
         },
         "item-database.json/items/608/name": {
-                "orig": "- Colibry",
+                "orig": "Barrel Beak",
                 "text": "- Colibri",
                 "quality": "unknown"
         },
         "item-database.json/items/608/description": {
-                "orig": "This web is so sticky that it can be used as an all-purpose glue.",
-                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue."
+                "orig": "A beak formed like the barrel of a sniper rifle.",
+                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
+                "quality": "unknown"
         },
         "item-database.json/items/609/name": {
-                "orig": "- Comb",
-                "text": "- Peigne"
+                "orig": "Rumble Hive",
+                "text": "- Peigne",
+                "quality": "unknown"
         },
         "item-database.json/items/609/description": {
-                "orig": "This web is so sticky that it can be used as an all-purpose glue.",
-                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue."
+                "orig": "Beeware: Swirling inside are what feels like thousands of bees!",
+                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
+                "quality": "unknown"
         },
         "item-database.json/items/610/name": {
                 "orig": "Burned Ash",
                 "text": "Cendre Brulée"
         },
         "item-database.json/items/610/description": {
-                "orig": "This web is so sticky that it can be used as an all-purpose glue.",
-                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue."
+                "orig": "Ash that was burned, which resulted in even more ash. Figures.",
+                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
+                "quality": "unknown"
         },
         "item-database.json/items/611/name": {
                 "orig": "Speedy Boom Boots",
@@ -5201,52 +5212,60 @@
                 "orig": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] and unlocks more loot.",
                 "text": "Augmente l'action des \\c[3]boosters régionaux\\c[0] sur les ennemis et débloque plus de butin."
         },
-        "item-database.json/items/619/name": {
-                "orig": "Yellow Sponge",
-                "text": "Éponge Jaune"
-        },
-        "item-database.json/items/619/description": {
-                "orig": "Natural sponge that usually lives under the sea. ",
-                "text": "Une éponge naturelle qui vit habituellement sous la mer."
-        },
-        "item-database.json/items/620/name": {
-                "orig": "Mellow Water",
-                "text": "Eau Tendre"
-        },
-        "item-database.json/items/620/description": {
-                "orig": "This water is often used for tea to create a soothing taste.",
-                "text": "Cette eau est souvent utilisée pour le thé pour lui donner un goût calmant."
-        },
         "item-database.json/items/621/name": {
                 "orig": "Shell Nut",
                 "text": "Noix de Coquille"
-        },
-        "item-database.json/items/621/description": {
-                "orig": "This coconut shaped like a sea shell. ",
-                "text": "Cette noix de coco à la même forme qu'un coquillage."
         },
         "item-database.json/items/622/name": {
                 "orig": "MacGuffin's Coin",
                 "text": "Pièce de MacGuffin"
         },
-        "item-database.json/items/622/description": {
-                "orig": "Obtaining it is mandatory.",
-                "text": "L'obtenir est obligatoire."
-        },
-        "item-database.json/items/623/name": {
-                "orig": "Golden Surprise Egg",
-                "text": "Œuf Doré Surprise"
-        },
-        "item-database.json/items/623/description": {
-                "orig": "An egg-shaped object made from extremely valuable material!",
-                "text": "Un objet en forme d'œuf fait de matière très précieuse !"
+        "item-database.json/items/634/name": {
+                "orig": "Singularity Drill",
+                "text": "Foreuse Singularité"
         },
         "item-database.json/items/634/description": {
                 "orig": "A drill that exists outside of time & space. \\i[ascended]",
                 "text": "Une foreuse qui existe en dehors de l'espace et du temps. \\i[ascended]"
         },
-        "item-database.json/items/634/name": {
-                "orig": "Singularity Drill",
-                "text": "Foreuse Singularité"
+        "item-database.json/items/640/name": {
+                "orig": "Champion's Towel",
+                "text": "Éponge Jaune",
+                "quality": "unknown"
+        },
+        "item-database.json/items/640/description": {
+                "orig": "A luxurious beach towel embroidened with a magnificent fish. Distinguishes a true champion!",
+                "text": "Une éponge naturelle qui vit habituellement sous la mer.",
+                "quality": "unknown"
+        },
+        "item-database.json/items/650/name": {
+                "orig": "Symbol of Neutral",
+                "text": "Eau Tendre",
+                "quality": "unknown"
+        },
+        "item-database.json/items/650/description": {
+                "orig": "An Ancient sculpture in the shape of a grey sphere. \\c[3]Adds an additional Neutral CP.\\c[0] \\i[element-neutral]",
+                "text": "Cette eau est souvent utilisée pour le thé pour lui donner un goût calmant.",
+                "quality": "unknown"
+        },
+        "item-database.json/items/651/name": {
+                "orig": "Symbol of Heat",
+                "text": "Œuf Doré Surprise",
+                "quality": "unknown"
+        },
+        "item-database.json/items/651/description": {
+                "orig": "An Ancient sculpture in the shape of a flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]",
+                "text": "Cette noix de coco à la même forme qu'un coquillage.",
+                "quality": "unknown"
+        },
+        "item-database.json/items/652/description": {
+                "orig": "An Ancient sculpture in the shape of an icy crystal. \\c[3]Adds an additional Cold CP.\\c[0] \\i[element-cold]",
+                "text": "L'obtenir est obligatoire.",
+                "quality": "unknown"
+        },
+        "item-database.json/items/653/description": {
+                "orig": "An Ancient sculpture in the shape of a lightning bolt. \\c[3]Adds an additional Shock CP.\\c[0] \\i[element-shock]",
+                "text": "Un objet en forme d'œuf fait de matière très précieuse !",
+                "quality": "unknown"
         }
 }

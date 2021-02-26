@@ -204,6 +204,16 @@
                 "orig": "Defeat the \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\n\\c[3]Quicksand\\c[0] may be annoying but \\c[3]teleporters\\c[0] are your friend!",
                 "text": "Affrontez le \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] dans la \\c[3]\\v[area.heat-area.name]\\c[0] !\nLes \\c[3]sables mouvants\\c[0] peuvent être ennuyeux, mais les \\c[3]téléporteurs\\c[0] sont vos amis !"
         },
+        "arena/faction-cup-3.json/core/name": {
+                "orig": "Wanderer's Cup",
+                "text": "Pvp contre Lily",
+                "quality": "unknown"
+        },
+        "arena/faction-cup-3.json/core/info": {
+                "orig": "Refight several endgame found during your endgame quests!",
+                "text": "Combattez personnellement Lily en PvP !",
+                "quality": "unknown"
+        },
         "arena/faction-team-cup-1.json/core/name": {
                 "orig": "Faction Team Cup",
                 "text": "Coupe de Faction - Équipe"
@@ -275,26 +285,6 @@
         "arena/faction-team-cup-1.json/rounds/7/objective": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]!",
                 "text": "Affrontez le \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0] !"
-        },
-        "arena/lily-cup.json/core/name": {
-                "orig": "PvP vs Lily",
-                "text": "Pvp contre Lily"
-        },
-        "arena/lily-cup.json/core/info": {
-                "orig": "Fight Lily personally in PvP!",
-                "text": "Combattez personnellement Lily en PvP !"
-        },
-        "arena/lily-cup.json/core/creator": {
-                "orig": "Lily",
-                "text": "Lily"
-        },
-        "arena/lily-cup.json/rounds/0/name": {
-                "orig": "Fight me!",
-                "text": "Affronte-moi !"
-        },
-        "arena/lily-cup.json/rounds/0/objective": {
-                "orig": "Defeat me in a duel on top of the arena!",
-                "text": "Affronte-moi en duel sur le toit de l'arène !"
         },
         "arena/parkour-rookie-cup.json/core/name": {
                 "orig": "Rookie Parkour",

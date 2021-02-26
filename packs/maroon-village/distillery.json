@@ -1,41 +1,41 @@
 {
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/4/guiInfo/settings/taskTitle": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/4/guiInfo/settings/taskTitle": {
                 "orig": "Requests",
                 "text": "Demandes"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/4/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/4/guiInfo/settings/text": {
                 "orig": "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] ",
                 "text": "Qualité de brassage : \\c[3]\\v[tmp.quality]\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/5/guiInfo/settings/taskTitle": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/5/guiInfo/settings/taskTitle": {
                 "orig": "Quality",
                 "text": "Qualité"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/5/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/5/guiInfo/settings/text": {
                 "orig": "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] ",
                 "text": "Qualité de brassage : \\c[3]\\v[tmp.quality]\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/6/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/6/guiInfo/settings/text": {
                 "orig": "Overheat",
                 "text": "Surchauffe"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/2/guiInfo/settings/taskTitle": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/2/guiInfo/settings/taskTitle": {
                 "orig": "Requests",
                 "text": "Demandes"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/3/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/3/guiInfo/settings/text": {
                 "orig": "Booze HP",
                 "text": "HP Brasseur"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/4/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/4/guiInfo/settings/text": {
                 "orig": "Overheat",
                 "text": "Surchauffe"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/6/task": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/6/task": {
                 "orig": "\\c[3]Follow the brewing procedure!\\c[0] ",
                 "text": "\\c[3]Suivez la procédure de brassage !\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/14/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/15/text": {
                 "orig": "[Brewing Process START]",
                 "text": "[Procédure de brassage DÉMARRÉE]"
         },
@@ -179,15 +179,15 @@
                 "orig": "Brewing process finished!\n\nRequests: \\v[tmp.brewingRequests]\nQuality: \\v[tmp.quality]\n\n\\c[1]Quality too low.\nNo Rewards!\\c[0]",
                 "text": "Processus de brassage terminé\n\nDemandes : \\v[tmp.brewingRequests]\nQualité : \\v[tmp.quality] \\c[1]Qualité trop basse.\nPas de récompense !\\c[0] !"
         },
-        "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/2/thenStep/0/text": {
+        "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/4/thenStep/0/text": {
                 "orig": "50% Overheat reached!",
                 "text": "50 % Surchauffe atteint !"
         },
-        "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/3/thenStep/0/text": {
+        "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/5/thenStep/0/text": {
                 "orig": "75% Overheat reached! Cooling needed!",
                 "text": "75 % Surchauffe atteint ! Refroidissement nécessaire !"
         },
-        "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/4/thenStep/0/text": {
+        "maps/heat-village/special/distillery.json/entities/49/settings/event/1/thenStep/6/thenStep/0/text": {
                 "orig": "WARNING: Overheating imminent! Requesting ice!",
                 "text": "ALERTE : Surchauffe imminente ! Demande de glace !"
         },
@@ -383,35 +383,35 @@
                 "orig": "(updated!)",
                 "text": "(mis à jour !)"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/0/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/0/text": {
                 "orig": "- Instruction to Ancient Brewing -\nQuality drinks using the mystical powers of the Track, steam and only the best natural ingredients!",
                 "text": "- Instructions pour Brasser à la Manière des Anciens -\nBoissons de qualité en utilisant les pouvoirs mythiques du Tracé, de la vapeur et seulement les meilleurs ingrédients naturels !"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/1/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/1/text": {
                 "orig": "After activating this machine, it will request energy from the \\c[3]4 steam ovens\\c[0]. Those requests have to be met with \\c[3]icedisks\\c[0] quickly and correctly!",
                 "text": "Après avoir activé cette machine, elle demandera de l'énergie depuis les \\c[3]4 fours à vapeur\\c[0]. Ces demandes doivent être satisfaites avec des \\c[3]disques de glaces\\c[0] rapidement et correctement !"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/2/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/2/text": {
                 "orig": "In the beginning a \\c[3]static bubble generator\\c[0] will be available, though later it will vanish. At this point, bubbles ejected from the \\c[3]pipes left and right\\c[0] have to be used.",
                 "text": "Au début, un \\c[3]générateur de bulles statiques\\c[0] sera disponible, mais il disparaitra plus tard. Ensuite, des bulles éjectées par les \\c[3]tuyaux à gauche et à droite\\c[0] devront être utilisés."
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/3/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/3/text": {
                 "orig": "Due to the immense powers flowing through it, the brewing machine will \\c[3]overheat\\c[0] with time. \\c[3]Cooling it with ice\\c[0] will be necessary to prevent \\c[3]overheating\\c[0] and a \\c[3]time-consuming cooldown-phase\\c[0].",
                 "text": "Comme la machine de brassage est traversée par d'immenses pouvoirs, elle surchauffera avec le temps. Il faudra \\c[3]la refroidir avec de la glace\\c[0] pour empêcher les \\c[3]surchauffes\\c[0] et une \\c[3]lente phase de refroidissement\\c[0]."
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/1/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text": {
                 "orig": "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will damage the ingredients and \\c[3]reduce the overall quality\\c[0] of the product.",
                 "text": "\\c[3]Ne pas répondre à une demande\\c[0], \\c[3]Mettre de la glace dans le mauvais four\\c[0] ou \\c[3]faire surchauffer la machine\\c[0] va endommager les ingrédients et \\c[3]réduire la qualité générale\\c[0] du produit."
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/2/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text": {
                 "orig": "On the other hand, brewing \\c[3]quality\\c[0] will increase at a higher rate with \\c[3]growing requests\\c[0] and when maintaining a \\c[3]high heat\\c[0]!",
                 "text": "D'un autre côté, la \\c[3]qualité\\c[0] de brassage va augmenter plus rapidement lorsque les \\c[3]demandes augmentent\\c[0] et en maintenant une \\c[3]température élevée\\c[0] !"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/thenStep/3/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text": {
                 "orig": "The \\c[3]higher the quality\\c[0], the \\c[3]more useable drinks\\c[0] can be created from \\c[3]the same amount of ingredients\\c[0]!",
                 "text": "Plus la \\c[3]qualité est élevée\\c[0], plus le \\c[3]nombre de boissons utilisables\\c[0] pourront être créées à partir de la \\c[3]même quantité d'ingrédients\\c[0] !"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/5/4/elseStep/0/text": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text": {
                 "orig": "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will do \\c[3]damage\\c[0] to the ingredients. With too much \\c[3]damage\\c[0], the brewing will \\c[1]fail\\c[0]! ",
                 "text": "\\c[3]Ne pas répondre à une demande\\c[0], \\c[3]Mettre de la glace dans le mauvais four\\c[0] ou \\c[3]faire surchauffer la machine\\c[0] va endommager les ingrédients. Avec trop de dommages, le brassage va \\c[1]échouer\\c[0] !"
         },
@@ -419,35 +419,35 @@
                 "orig": "Start Brewing Process",
                 "text": "Démarrer le Processus de Brassage."
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/1/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/2/label": {
                 "orig": "Brewing: \\c[3]\\v[item.367.name]\\c[0] (Material: \\v[item.372.amount] | Owned: \\v[item.367.amount])",
                 "text": "Brassage : \\c[3]\\v[item.367.name]\\c[0] (Matériel : \\v[item.372.amount] | Possédés : \\v[item.367.amount])"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/2/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/3/label": {
                 "orig": "Brewing: \\c[3]\\v[item.368.name]\\c[0] (Material: \\v[item.373.amount] | Owned: \\v[item.368.amount])",
                 "text": "Brassage : \\c[3]\\v[item.368.name]\\c[0] (Matériel : \\v[item.373.amount] | Possédés : \\v[item.368.amount])"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/3/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/4/label": {
                 "orig": "Brewing: \\c[3]\\v[item.369.name]\\c[0] (Material: \\v[item.374.amount] | Owned: \\v[item.369.amount])",
                 "text": "Brassage : \\c[3]\\v[item.369.name]\\c[0] (Matériel : \\v[item.374.amount] | Possédés : \\v[item.369.amount])"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/4/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/5/label": {
                 "orig": "Brewing: \\c[3]\\v[item.370.name]\\c[0] (Material: \\v[item.375.amount] | Owned: \\v[item.370.amount])",
                 "text": "Brassage : \\c[3]\\v[item.370.name]\\c[0] (Matériel : \\v[item.375.amount] | Possédés : \\v[item.370.amount])"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/5/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/6/label": {
                 "orig": "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]",
                 "text": "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/6/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/7/label": {
                 "orig": "Turn Quality Notifications \\c[2]ON\\c[0]",
                 "text": "\\c[2]Activer\\c[0] les Notifications de Qualité"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/7/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/8/label": {
                 "orig": "Turn Quality Notifications \\c[1]OFF\\c[0]",
                 "text": "\\c[2]Désactiver\\c[0] les Notifications de Qualité"
         },
-        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/8/label": {
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/9/label": {
                 "orig": "\\c[1]Cancel\\c[0]",
                 "text": "\\c[1]Annuler\\c[0]"
         },
@@ -535,13 +535,13 @@
                 "orig": "~ Brewing Statistics ~\n\nQuality Highscore: \n\\c[3]\\v[map.qualityRecord]\\c[0]",
                 "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualitées :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/5/text": {
-                "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
-                "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
-        },
-        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/6/thenStep/0/text": {
+        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text": {
                 "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
                 "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName] : \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+        },
+        "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/5/elseStep/0/text": {
+                "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
+                "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
         },
         "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/elseStep/0/text": {
                 "orig": "\\c[1]- UNDER CONSTRUCTION -\\c[0]",

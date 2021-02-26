@@ -124,6 +124,10 @@
                 "orig": "Old Smith 2F",
                 "text": "Vieux Forgeron 2ème E"
         },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/9/message": {
+                "orig": "Oh no...",
+                "text": "Oh non..."
+        },
         "maps/rhombus-sqr/center-e.json/entities/84/settings/event/2/text": {
                 "orig": "Access Denied",
                 "text": "Accès Refusé"
@@ -978,11 +982,16 @@
                 "text": "Les magasins et les cafés sont installés dans ce quartier de la ville."
         },
         "maps/rhombus-sqr/sky-rail-map.json/entities/4/settings/title": {
-                "orig": "CrossCentral",
-                "text": "Cross Central"
+                "orig": "Cross Central",
+                "text": "Cross Central",
+                "quality": "unknown"
         },
         "maps/rhombus-sqr/sky-rail-map.json/entities/4/settings/description": {
                 "orig": "The entrance to Rhombus Square and exit to the main land.",
                 "text": "L'entrée de Rhombus Square et la sortie vers le continent."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/7/text": {
+                "orig": "*sigh*",
+                "text": "*pffff*"
         }
 }

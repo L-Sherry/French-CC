@@ -1303,17 +1303,13 @@
                 "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful.",
                 "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise."
         },
-        "enemies/avatar/apollo-4.json/actions/SelectStrat1/7/text": {
+        "enemies/avatar/apollo-4.json/actions/SelectStrat1/7/thenStep/0/text": {
                 "orig": "STRAT1 \\v[entity.attrib.strat]",
                 "text": "STRATE 1 \\v[entity.attrib.strat]"
         },
-        "enemies/avatar/apollo-4.json/actions/SelectStrat2/7/text": {
+        "enemies/avatar/apollo-4.json/actions/SelectStrat2/7/thenStep/0/text": {
                 "orig": "STRAT2 \\v[entity.attrib.strat]",
                 "text": "STRATE 2 \\v[entity.attrib.strat]"
-        },
-        "enemies/avatar/apollo-4.json/actions/TrapStart/1/text": {
-                "orig": "SHOW WEAK FX!!",
-                "text": "MONTRER FX FAIBLE !!"
         },
         "enemies/avatar/apollo-4.json/actions/TrapEnd/0/text": {
                 "orig": "TRAP END!",
@@ -1336,12 +1332,14 @@
                 "text": "Un guerrier de la justice autoproclamé qui accuse Lea d'avoir triché et qui du coup la met au défi de le battre en duel. Malgré cela, il est un assez bon combattant et devient de plus en plus vicieux lorsque sa situation semble désespérée."
         },
         "enemies/avatar/lily.json/meta/species": {
-                "orig": "Warrior of Justice",
-                "text": "Guerrier de la Justice"
+                "orig": "A Flower?",
+                "text": "Guerrier de la Justice",
+                "quality": "unknown"
         },
         "enemies/avatar/lily.json/meta/descriptions/0/text": {
-                "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful.",
-                "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise."
+                "orig": "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
+                "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise.",
+                "quality": "unknown"
         },
         "enemies/avatar/shizuka.json/meta/species": {
                 "orig": "Protective Sister",
@@ -1355,110 +1353,6 @@
         "enemies/avatar/wervyn.json/meta/species": {
                 "orig": "Human",
                 "text": "Humain"
-        },
-        "enemies/beach/bug-samurai-beach.json/meta/species": {
-                "orig": "Honorable Insect",
-                "text": "Insecte Honorable"
-        },
-        "enemies/beach/bug-samurai-beach.json/meta/descriptions/0/text": {
-                "orig": "This bug is a true warrior and master of the hidden arts of the blade. Trained by a master since its birth it takes down enemies with powerful strikes. Strikes so powerful they combust the air around them and create flames.",
-                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux."
-        },
-        "enemies/beach/bug-samurai-beach.json/meta/descriptions/1/text": {
-                "orig": "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl.",
-                "text": "Leurs armes de prédilection sont des épées duales connues sous le nom de \"Lames Soleils\". Quand il est menacé, il peut faire apparaitre une barrière de chaleur et peut utiliser une attaque de feinte en sautant derrière ses ennemis suivis d'un tourbillon de feu énorme."
-        },
-        "enemies/beach/fish-beach.json/actions/QuestEscort-TargetEscortee/12/text": {
-                "orig": "!!!",
-                "text": "!!!"
-        },
-        "enemies/beach/fish-beach.json/meta/species": {
-                "orig": "Floating Fish",
-                "text": "Poisson Flottant"
-        },
-        "enemies/beach/fish-beach.json/meta/descriptions/0/text": {
-                "orig": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard.",
-                "text": "Venant tout droit des profondeurs, cette baudroie a trouvé son chemin dans la jungle et vit principalement dans sa partie pluvieuse. Il reste souvent passif sauf lorsqu'on le provoque. Dans ce cas il reste à distance et vous bombarde de projectiles d'ondes qui vous suivent. Lancez-lui des boules jusqu'à ce qu'il s'énerve et qu'il vous charge pour vous lancer un grand cri. Esquivez-le, puis attaquez le au corps-à-corps pour briser sa garde."
-        },
-        "enemies/beach/hedgehog-beach.json/actions/Quest-MoveToTree/2/text": {
-                "orig": "[Hungry noises]",
-                "text": "[Bruits Affamés]"
-        },
-        "enemies/beach/hedgehog-beach.json/actions/Quest-LickTree/5/text": {
-                "orig": "[Licking Tree]",
-                "text": "[Lèche l'Arbre]"
-        },
-        "enemies/beach/hedgehog-beach.json/actions/Quest-AddShield/1/thenStep/0/text": {
-                "orig": "<SHIELD ON>",
-                "text": "<BOUCLIER ON>"
-        },
-        "enemies/beach/hedgehog-beach.json/actions/Quest-RemoveShield/2/thenStep/0/text": {
-                "orig": "<SHIELD OFF>",
-                "text": "<BOUCLIER OFF>"
-        },
-        "enemies/beach/hedgehog-beach.json/actions/Quest-SwitchMarker/1/thenStep/0/text": {
-                "orig": "<SWITCH MARKER>",
-                "text": "<CHANGE MARQUEUR>"
-        },
-        "enemies/beach/hedgehog-beach.json/actions/Quest-AttackBall/8/text": {
-                "orig": "[Focussing Probe]",
-                "text": "[Focalisation Sonde]"
-        },
-        "enemies/beach/hedgehog-beach.json/meta/species": {
-                "orig": "Beach Mammal",
-                "text": "Mammifère de Plage"
-        },
-        "enemies/beach/hedgehog-beach.json/meta/descriptions/0/text": {
-                "orig": "This sub-species of the common \\v[combat.name.hedgehog] can only be found in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Their needles are pitch black and the red patch on their back is meant to scare off potential predators since it looks like blood. \nDespite all this, these creatures are passive and only attack when attacked. They will use the same attacks \\v[combat.name.hedgehog] and \\v[combat.name.hedgehog-alt] use but will mix up the dash attack by attacking twice in a row.",
-                "text": "Cette sous-espèce du \\v[combat.name.hedgehog] commun peut uniquement se trouver à \\c[3]\\v[area.autumn-fall.name]\\c[0]. Leurs piquants sont très noirs et leur point rouge sur leur derrière est prévu pour effrayer de potentiels prédateurs vu qu'il a la couleur du sang.\nMalgré cela, ces créatures sont passives et n'attaquent que si elles sont attaquées. Ils utiliseront le même arsenal d'attaques que les \\v[combat.name.hedgehog]s et les \\v[combat.name.hedgehog]s Âgés mais vont sprinter deux fois."
-        },
-        "enemies/beach/penguin-beach.json/actions/jumpWater/6/thenStep/0/thenStep/0/text": {
-                "orig": "Z-0",
-                "text": "Z-0"
-        },
-        "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/thenStep/0/thenStep/0/text": {
-                "orig": "Z-1",
-                "text": "Z-1"
-        },
-        "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
-                "orig": "Z-2",
-                "text": "Z-2"
-        },
-        "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
-                "orig": "Z-3",
-                "text": "Z-3"
-        },
-        "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text": {
-                "orig": "Z-4",
-                "text": "Z-4"
-        },
-        "enemies/beach/penguin-beach.json/actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text": {
-                "orig": "Z-5+",
-                "text": "Z-5+"
-        },
-        "enemies/beach/penguin-beach.json/meta/species": {
-                "orig": "Bird",
-                "text": "Oiseau"
-        },
-        "enemies/beach/penguin-beach.json/meta/descriptions/0/text": {
-                "orig": "A penguin on a mountain. How it made its way up here shall be forever unknown to mankind. It will throw snowballs at its enemies and slide at them. When pushed into the water they will jump out and attack with a fast divebomb, so watch out for your surroundings.",
-                "text": "Un pingouin. Sur une montagne. Comment il s'est retrouvé là, personne ne le sait, et ne le saura jamais. Il va lancer des boules de neiges à ses ennemis et va glisser dessus. Lorsqu'il est poussé dans l'eau, il va rapidement en sauter et attaquer en piqué, donc gardez toujours un œil autour de vous."
-        },
-        "enemies/beach/penguin-beach.json/meta/descriptions/1/text": {
-                "orig": "The \\v[combat.name.minibosses/penguin-rapper] can use various forms of beatbox to animate it to attack in formation with other members of its kind.",
-                "text": "Le \\v[combat.name.minibosses/penguin-rapper] peut utiliser des différentes formes de beatboxing pour l'animer pour attaquer en formation avec d'autres membres de son espèce."
-        },
-        "enemies/beach/sandworm-beach.json/meta/species": {
-                "orig": "Worm",
-                "text": "Ver"
-        },
-        "enemies/beach/sandworm-beach.json/meta/descriptions/0/text": {
-                "orig": "These slimy creatures spend most of their time halfway underground almost looking like a deformed stone. Their bodies are extremely flexible and can fit into holes the size of a hand. \nIronically they do not like overheating and will get extremely hostile when exposed to it for too long. In their enraged form they will spit out scorching hot rocks and move much faster.",
-                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement."
-        },
-        "enemies/beach/sandworm-beach.json/meta/descriptions/1/text": {
-                "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body.",
-                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère."
         },
         "enemies/boss/designer-1.json/meta/species": {
                 "orig": "???",
@@ -1756,6 +1650,11 @@
                 "orig": "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl.",
                 "text": "Leurs armes de prédilection sont des épées duales connues sous le nom de \"Lames Soleils\". Quand il est menacé, il peut faire apparaitre une barrière de chaleur et peut utiliser une attaque de feinte en sautant derrière ses ennemis suivis d'un tourbillon de feu énorme."
         },
+        "enemies/forest/bug-samurai-shock-simple.json/meta/species": {
+                "orig": "en_US",
+                "text": "Insecte Honorable",
+                "quality": "unknown"
+        },
         "enemies/forest/bug-samurai-shock.json/meta/species": {
                 "orig": "Honorable Insect",
                 "text": "Insecte Honorable"
@@ -1868,6 +1767,11 @@
         "enemies/guest/sao.json/meta/species": {
                 "orig": "Ninja",
                 "text": "Ninja"
+        },
+        "enemies/guest/sao.json/meta/descriptions/0/text": {
+                "orig": "Nin!",
+                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux.",
+                "quality": "unknown"
         },
         "enemies/heat/antlion.json/meta/species": {
                 "orig": "Mutated Worm",
@@ -2138,8 +2042,9 @@
                 "text": "Une variante améliorée de la populaire \\c[3]Tourelle de Rhombus\\c[0], utilisée par les forces de l'ordre de \\c[3]\\v[area.heat-village.name]\\c[0]. Ce type n'est pas accompagné par un \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] pour avoir un bouclier supplémentaire, mais il peut quand même tirer des \\c[3]mortiers\\c[0] pour attaquer des cibles à couvert ou sur des hauteurs différentes."
         },
         "enemies/heat/special/brew-bubbler.json/actions/BubbleSingle/4/text": {
-                "orig": "[Preparing Bubble]",
-                "text": "[Préparation Bulle]"
+                "orig": "[ PREPARING BUBBLE ]",
+                "text": "[Préparation Bulle]",
+                "quality": "unknown"
         },
         "enemies/heat/special/brew-bubbler.json/actions/TurnOn/0/thenStep/0/text": {
                 "orig": "<ON>",
@@ -2232,6 +2137,16 @@
         "enemies/heat/special/guard-hostile-mustache.json/meta/descriptions/0/text": {
                 "orig": "A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Baki Guard\\c[0], before his crimes were uncovered.\n\nWhile his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him.",
                 "text": "Un garde corrompu qui n'a aucun respect pour les Shads qui sont les natifs de Shadoon. Il avait autrefois une position respectable dans la \\c[3]\\v[lore.title.faction-cold-baki]\\c[0] avant que ses crimes ne soient découverts.\n\nBien que son sentiment de justice soit un peu de travers, il reste un combattant assez doué. Il manie l'équipement standard des gardes, la \\c[3]Laserlance\\c[0], avec une grande dextérité et possède toujours sur lui quelques de ses sandwichs favoris au cas où le combat l'épuise."
+        },
+        "enemies/heat/special/heat-golem-booze.json/meta/descriptions/0/text": {
+                "orig": "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient bewerage.\nJust like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again.",
+                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement.",
+                "quality": "unknown"
+        },
+        "enemies/heat/special/jellyfish-booze.json/meta/species": {
+                "orig": "Alcoholic Jellyfish",
+                "text": "Oiseau",
+                "quality": "unknown"
         },
         "enemies/heat/special/kamikatze-helper.json/actions/Activate/1/text": {
                 "orig": "Activated... loading Bomb!",
@@ -2608,20 +2523,24 @@
                 "text": "Formation d'Eau Gelée"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortMovePoint/0/thenStep/0/text": {
-                "orig": "[MOVE]",
-                "text": "[DÉPLACEMENT]"
+                "orig": "[ MOVE ]",
+                "text": "[DÉPLACEMENT]",
+                "quality": "unknown"
         },
-        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortInspect/0/thenStep/0/text": {
-                "orig": "[Inspect]",
-                "text": "[Inspection]"
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/2/text": {
+                "orig": "[ DANGER! ]",
+                "text": "[DANGER !]",
+                "quality": "unknown"
         },
-        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/1/text": {
-                "orig": "[DANGER!]",
-                "text": "[DANGER !]"
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/2/text": {
+                "orig": "[ Linde is unconscious!!! ]",
+                "text": "[Linde est inconsciente !]",
+                "quality": "unknown"
         },
-        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/1/text": {
-                "orig": "[Linde is unconscious!]",
-                "text": "[Linde est inconsciente !]"
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSuckCancel/1/text": {
+                "orig": "[ ABSORBING CANCELLED ]",
+                "text": "[Inspection]",
+                "quality": "unknown"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/meta/species": {
                 "orig": "Escortee",
@@ -2694,6 +2613,11 @@
         "enemies/jungle/special/parrot-gangster-2.json/meta/descriptions/0/text": {
                 "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
                 "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/meta/species": {
+                "orig": "Lawless Bird",
+                "text": "Mammifère de Plage",
+                "quality": "unknown"
         },
         "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/0/text": {
                 "orig": "[Charging Power]",
