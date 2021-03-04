@@ -681,8 +681,9 @@
                 "text": "Cratos"
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/7/event/quest/4/message": {
-                "orig": "You have been succesfful again, \\v[lore.title.seeker].",
-                "text": "Je vois que vous avez à nouveau réussi, \\v[lore.title.seeker]."
+                "orig": "You have been successful once again, \\v[lore.title.seeker].",
+                "text": "Je vois que vous avez à nouveau réussi, \\v[lore.title.seeker].",
+                "quality": "unknown"
         },
         "maps/bergen/inner-faction-monks.json/entities/56/settings/npcStates/7/event/quest/5/message": {
                 "orig": "[nods]",

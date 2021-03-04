@@ -138,8 +138,9 @@
                 "text": "J'imagine..."
         },
         "maps/dreams/dream13.json/entities/33/settings/event/72/message": {
-                "orig": "Still... I am worried about you. Are you sure you'll be fine?",
+                "orig": "Still... I am worried about you. Are you sure you'll be alright?",
                 "text": "Mais... Je me fais du souci pour toi. Tu es sûr que tout va bien se passer pour toi ?",
+                "quality": "unknown",
                 "note": "de says gauth is alone"
         },
         "maps/dreams/dream13.json/entities/33/settings/event/75/message": {
@@ -184,8 +185,9 @@
                 "text": "..."
         },
         "maps/dreams/dream14.json/entities/29/settings/event/45/message": {
-                "orig": "She really doesn't respond at all... ",
-                "text": "Elle ne répond vraiment plus du tout..."
+                "orig": "She really isn't responding at all... ",
+                "text": "Elle ne répond vraiment plus du tout...",
+                "quality": "unknown"
         },
         "maps/dreams/dream14.json/entities/29/settings/event/50/text": {
                 "orig": "It started about \nhalf an hour ago.",

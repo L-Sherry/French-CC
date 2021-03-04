@@ -115,7 +115,7 @@
                 "orig": "ERROR: Wrong pipe! Quality -\\v[tmp.qualityChange]",
                 "text": "ERREUR : Mauvais four ! Qualité -\\v[tmp.qualityChange]"
         },
-        "maps/heat-village/special/distillery.json/entities/48/settings/event/35/thenStep/0/text": {
+        "maps/heat-village/special/distillery.json/entities/48/settings/event/35/thenStep/1/text": {
                 "orig": "Brewing successful!",
                 "text": "Brassage réussi !"
         },
@@ -171,7 +171,7 @@
                 "orig": "New record!",
                 "text": "Nouveau record !"
         },
-        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/9/thenStep/4/text": {
+        "maps/heat-village/special/distillery.json/entities/48/settings/event/39/elseStep/9/thenStep/5/text": {
                 "orig": "Brewing process finished!\n\nRequests: \\v[tmp.brewingRequests]\nQuality: \\v[tmp.quality] \\c[3]\\v[tmp.recordString]\\c[0]\n\nRewards:\n\\c[3]\\v[tmp.itemReward]x \\v[tmp.rewardString]\\c[0]",
                 "text": "Processus de brassage terminé\n\nDemandes : \\v[tmp.brewingRequests]\nQualité : \\v[tmp.quality] \\c[3]\\v[tmp.recordString]\\c[0]\n\nRécompense :\n\\c[3]\\v[tmp.itemReward]x \\v[tmp.rewardString]\\c[0]"
         },

@@ -5212,13 +5212,48 @@
                 "orig": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] and unlocks more loot.",
                 "text": "Augmente l'action des \\c[3]boosters régionaux\\c[0] sur les ennemis et débloque plus de butin."
         },
+        "item-database.json/items/619/name": {
+                "orig": "Yellow Sponge",
+                "text": "Éponge Jaune"
+        },
+        "item-database.json/items/619/description": {
+                "orig": "Natural sponge that usually lives under the sea. ",
+                "text": "Une éponge naturelle qui vit habituellement sous la mer."
+        },
+        "item-database.json/items/620/name": {
+                "orig": "Mellow Water",
+                "text": "Eau Tendre"
+        },
+        "item-database.json/items/620/description": {
+                "orig": "This water is often used for tea to create a soothing taste.",
+                "text": "Cette eau est souvent utilisée pour le thé pour lui donner un goût calmant."
+        },
         "item-database.json/items/621/name": {
                 "orig": "Shell Nut",
                 "text": "Noix de Coquille"
         },
+        "item-database.json/items/621/description": {
+                "orig": "This coconut is shaped like a sea shell. ",
+                "text": "Cette noix de coco à la même forme qu'un coquillage.",
+                "quality": "unknown"
+        },
         "item-database.json/items/622/name": {
                 "orig": "MacGuffin's Coin",
                 "text": "Pièce de MacGuffin"
+        },
+        "item-database.json/items/622/description": {
+                "orig": "Obtaining it is important for something.",
+                "text": "L'obtenir est obligatoire.",
+                "quality": "unknown"
+        },
+        "item-database.json/items/623/name": {
+                "orig": "Gold Surprise Egg",
+                "text": "Œuf Doré Surprise",
+                "quality": "unknown"
+        },
+        "item-database.json/items/623/description": {
+                "orig": "An egg-shaped object made from extremely valuable material!",
+                "text": "Un objet en forme d'œuf fait de matière très précieuse !"
         },
         "item-database.json/items/634/name": {
                 "orig": "Singularity Drill",
@@ -5227,45 +5262,5 @@
         "item-database.json/items/634/description": {
                 "orig": "A drill that exists outside of time & space. \\i[ascended]",
                 "text": "Une foreuse qui existe en dehors de l'espace et du temps. \\i[ascended]"
-        },
-        "item-database.json/items/640/name": {
-                "orig": "Champion's Towel",
-                "text": "Éponge Jaune",
-                "quality": "unknown"
-        },
-        "item-database.json/items/640/description": {
-                "orig": "A luxurious beach towel embroidened with a magnificent fish. Distinguishes a true champion!",
-                "text": "Une éponge naturelle qui vit habituellement sous la mer.",
-                "quality": "unknown"
-        },
-        "item-database.json/items/650/name": {
-                "orig": "Symbol of Neutral",
-                "text": "Eau Tendre",
-                "quality": "unknown"
-        },
-        "item-database.json/items/650/description": {
-                "orig": "An Ancient sculpture in the shape of a grey sphere. \\c[3]Adds an additional Neutral CP.\\c[0] \\i[element-neutral]",
-                "text": "Cette eau est souvent utilisée pour le thé pour lui donner un goût calmant.",
-                "quality": "unknown"
-        },
-        "item-database.json/items/651/name": {
-                "orig": "Symbol of Heat",
-                "text": "Œuf Doré Surprise",
-                "quality": "unknown"
-        },
-        "item-database.json/items/651/description": {
-                "orig": "An Ancient sculpture in the shape of a flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]",
-                "text": "Cette noix de coco à la même forme qu'un coquillage.",
-                "quality": "unknown"
-        },
-        "item-database.json/items/652/description": {
-                "orig": "An Ancient sculpture in the shape of an icy crystal. \\c[3]Adds an additional Cold CP.\\c[0] \\i[element-cold]",
-                "text": "L'obtenir est obligatoire.",
-                "quality": "unknown"
-        },
-        "item-database.json/items/653/description": {
-                "orig": "An Ancient sculpture in the shape of a lightning bolt. \\c[3]Adds an additional Shock CP.\\c[0] \\i[element-shock]",
-                "text": "Un objet en forme d'œuf fait de matière très précieuse !",
-                "quality": "unknown"
         }
 }

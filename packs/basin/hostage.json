@@ -8,8 +8,9 @@
                 "text": "Otage"
         },
         "maps/jungle-city/special/hostage-1-1.json/entities/10/settings/event/18/message": {
-                "orig": "Ohhh, please Ms. \\v[lore.title.seeker].\\. Free me from this scoundrel, so I can get home safely!",
-                "text": "Ohhh, s'il vous plait, madame \\v[lore.title.seeker].\\. Libérez-moi de ces scélérats ! Je veux rentrer à la maison !"
+                "orig": "Ohhh, please, Ms. \\v[lore.title.seeker].\\. Free me from this scoundrel so I can get home safely!",
+                "text": "Ohhh, s'il vous plait, madame \\v[lore.title.seeker].\\. Libérez-moi de ces scélérats ! Je veux rentrer à la maison !",
+                "quality": "unknown"
         },
         "maps/jungle-city/special/hostage-1-1.json/entities/10/settings/event/19/message": {
                 "orig": "...!",
@@ -152,8 +153,9 @@
                 "text": "[OTAGE PERDU !]"
         },
         "maps/jungle-city/special/hostage-1-1.json/entities/57/settings/event/10/message": {
-                "orig": "Apparently NPCs with more refined communicative recognition have been implemented at this point.",
-                "text": "Apparemment des PNJs avec une reconnaissance plus avancée de la communication ont été implémentés ici."
+                "orig": "Apparently, NPCs with more refined communicative recognition have been implemented at this point.",
+                "text": "Apparemment des PNJs avec une reconnaissance plus avancée de la communication ont été implémentés ici.",
+                "quality": "unknown"
         },
         "maps/jungle-city/special/hostage-1-1.json/entities/57/settings/event/11/message": {
                 "orig": "It is a shame that your vocabulary is not up to these tasks...",

@@ -20,8 +20,9 @@
                 "text": "L'Observateur"
         },
         "maps/autumn/observatory/inner.json/entities/61/settings/event/7/message": {
-                "orig": "Sacrébleu, what just happened?",
-                "text": "Sacrebleu, qu'est-ce qui s'est passé ?"
+                "orig": "Sacrebleu, what just happened?",
+                "text": "Sacrebleu, qu'est-ce qui s'est passé ?",
+                "quality": "unknown"
         },
         "maps/autumn/observatory/inner.json/entities/61/settings/event/8/message": {
                 "orig": "Looks like we got transported into the observatory.",
@@ -73,16 +74,18 @@
                 "text": "Vous, le voyageur.\nL'émissaire du changement."
         },
         "maps/autumn/observatory/inner.json/entities/62/settings/event/13/text": {
-                "orig": "To seek wisdom of the gods we built this observatory.",
-                "text": "Pour trouver la sagesse des dieux, nous avons construit cet observatoire."
+                "orig": "To seek wisdom of the gods, we built this observatory.",
+                "text": "Pour trouver la sagesse des dieux, nous avons construit cet observatoire.",
+                "quality": "unknown"
         },
         "maps/autumn/observatory/inner.json/entities/62/settings/event/14/text": {
                 "orig": "May it be your guiding light in wait\nfor the message from the sky.",
                 "text": "Laissez-le vous guider par sa lumière\nen attendant le message venu du ciel."
         },
         "maps/autumn/observatory/inner.json/entities/62/settings/event/15/text": {
-                "orig": "For your achievements we grant you the ability to become even stronger.",
-                "text": "Pour vos accomplissements nous vous offrons la capacité de devenir plus fort."
+                "orig": "For your achievements, we grant you the ability to become even stronger.",
+                "text": "Pour vos accomplissements nous vous offrons la capacité de devenir plus fort.",
+                "quality": "unknown"
         },
         "maps/autumn/observatory/inner.json/entities/62/settings/event/18/object": {
                 "orig": "CP for all Elements",

@@ -521,8 +521,9 @@
                 "text": "Mika"
         },
         "maps/jungle/caves/questcave-td-1.json/entities/48/settings/npcStates/2/event/quest/28/message": {
-                "orig": "It's only one right now, but we will spawn more over time.",
-                "text": "Il n'y a qu'une tourelle pour l'instant, mais on va en faire apparaitre d'autres avec le temps. "
+                "orig": "It's just the one for now, but we will spawn more over time.",
+                "text": "Il n'y a qu'une tourelle pour l'instant, mais on va en faire apparaitre d'autres avec le temps. ",
+                "quality": "unknown"
         },
         "maps/jungle/caves/questcave-td-1.json/entities/48/settings/npcStates/2/event/quest/29/message": {
                 "orig": "They will automatically attack incoming enemies once you've activated them.",

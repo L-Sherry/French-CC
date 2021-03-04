@@ -121,8 +121,9 @@
                 "text": "fr_FR"
         },
         "areas/rhombus-sqr.json/floors/3/maps/0/name": {
-                "orig": "Old Smith 2F",
-                "text": "Vieux Forgeron 2ème E"
+                "orig": "Gear Store 2F",
+                "text": "Vieux Forgeron 2ème E",
+                "quality": "unknown"
         },
         "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/9/message": {
                 "orig": "Oh no...",
@@ -989,6 +990,10 @@
         "maps/rhombus-sqr/sky-rail-map.json/entities/4/settings/description": {
                 "orig": "The entrance to Rhombus Square and exit to the main land.",
                 "text": "L'entrée de Rhombus Square et la sortie vers le continent."
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/76/settings/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/7/text": {
                 "orig": "*sigh*",

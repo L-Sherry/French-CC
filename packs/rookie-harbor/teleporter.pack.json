@@ -1426,8 +1426,9 @@
                 "text": "C'était aussi un bon essai de notrrre petit PNJ.\\. Il nous serrra très utile pourrrr se défendrrre contre d'autrrres attaques."
         },
         "maps/rookie-harbor/teleporter.json/entities/480/settings/event/18/message": {
-                "orig": "In any case you did well, but I'm sure you wanna be back on land again.",
+                "orig": "In any case, you did well, but I'm sure you wanna be back on land again.",
                 "text": "En tout cas, tu t'es bien battue, \\v[lore.title.seeker]rr, mais je suis sûrrr que tu veux rrretourner sur la terrrre ferme, pas vrrrai ?",
+                "quality": "unknown",
                 "note": "you are still on the boat while he says this"
         },
         "maps/rookie-harbor/teleporter.json/entities/480/settings/event/19/message": {

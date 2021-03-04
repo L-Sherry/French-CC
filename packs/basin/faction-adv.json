@@ -144,8 +144,9 @@
                 "text": "Madaki"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/26/message": {
-                "orig": "Great!\\. I will send out a request over the Seeker Hub once we're ready.",
-                "text": "Super !\\. J'enverrai une requête via le Repère des Pisteurs une fois que l'on sera prêt."
+                "orig": "Great!\\. I will send a request over the Seeker Hub once we're ready.",
+                "text": "Super !\\. J'enverrai une requête via le Repère des Pisteurs une fois que l'on sera prêt.",
+                "quality": "unknown"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/3/event/quest/27/message": {
                 "orig": "Bye, \\v[lore.title.seeker], hope to see you again!",
@@ -308,8 +309,9 @@
                 "text": "Madaki"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/67/settings/npcStates/11/event/2/message": {
-                "orig": "Heya, \\v[lore.title.seeker].\\. We got nothing to do for you right now.\\. Nice to see you, though!",
-                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravie de vous voir quand même !"
+                "orig": "Heya, \\v[lore.title.seeker].\\. We got nothing for you to do right now.\\. Nice to see you, though!",
+                "text": "Hé, \\v[lore.title.seeker]. Actuellement nous n'avons pas de travail pour vous.\\. Mais ravie de vous voir quand même !",
+                "quality": "unknown"
         },
         "maps/jungle-city/interior/faction-adv-1.json/entities/89/settings/teleportLabel": {
                 "orig": "Enter the \\c[3]Grubby Cave\\c[0]",

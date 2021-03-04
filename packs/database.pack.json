@@ -1769,8 +1769,9 @@
                 "text": "Centre"
         },
         "database.json/areas/final-dng/landmarks/center/description": {
-                "orig": "Yo",
-                "text": "Yo"
+                "orig": "The central platform in front of the huge crater.",
+                "text": "Yo",
+                "quality": "unknown"
         },
         "database.json/areas/forest/name": {
                 "orig": "Sapphire Ridge",
@@ -2387,8 +2388,9 @@
                 "text": "Pourquoi ?"
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/6/message": {
-                "orig": "It's…\\. I don't know.\\. I mean, it was fun before. ",
-                "text": "C'est...\\. Je sais pas.\\. Je veux dire, avant c'était fun."
+                "orig": "It's...\\. I don't know.\\. I mean, it was fun before. ",
+                "text": "C'est...\\. Je sais pas.\\. Je veux dire, avant c'était fun.",
+                "quality": "unknown"
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/7/message": {
                 "orig": "We had a nice time, I mopped the floor with you and everyone was happy!",
@@ -2624,8 +2626,9 @@
                 "text": "..."
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/9/message": {
-                "orig": "What is it?\\. I should I keep it short?",
-                "text": "Qu'est-ce qu'il y a ?\\. Il faut que je fasse plus court ?"
+                "orig": "What is it?\\. Should I keep it short?",
+                "text": "Qu'est-ce qu'il y a ?\\. Il faut que je fasse plus court ?",
+                "quality": "unknown"
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/10/message": {
                 "orig": "[nods]",
@@ -3170,8 +3173,9 @@
                 "text": "N'est-ce pas vrai, cher développeur ?\\. Ah, et pendant qu'on y est..."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/37/message": {
-                "orig": "For you next game, try to give your protagonist some proper character.",
+                "orig": "For your next game, try to give your protagonist some proper character.",
                 "text": "Pour votre prochain jeu, essayez de mettre un vrai personnage pour votre protagoniste.",
+                "quality": "unknown",
                 "note": "now, THAT, reminds me of someone."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/38/message": {
@@ -3818,6 +3822,18 @@
         "database.json/commonEvents/joern-battle-over-S/event/0/0_2/0/message": {
                 "orig": "Aren't games supposed to be...\\. like...\\. recreational?\\. Was this recreational to you?",
                 "text": "Un jeu c'est pas supposé être...\\. genre...\\. amusant ?\\. C'était amusant pour toi, ça ?"
+        },
+        "database.json/commonEvents/schneider+luke-battle-over/event/1/thenStep/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "database.json/commonEvents/emilie+shizuka+battle-over/event/2/thenStep/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "database.json/commonEvents/emilie+ctron+battle-over/event/0/thenStep/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "database.json/commonEvents/test-cooldown-start/event/0/thenStep/0/message": {
                 "orig": "Cool Down 1",
@@ -4571,10 +4587,6 @@
                 "orig": "They barely have spare energy to struggle with fellow pandas...\\. let alone firing homing missiles.",
                 "text": "Ils ont juste assez d'énergie pour se bagarrer entre eux...\\. alors encore moins pour lancer des missiles autoguidés."
         },
-        "database.json/commonEvents/ctron-seastar-end/event/1/thenStep/1/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
-        },
         "database.json/commonEvents/ctr-emil-fish-end/event/0/thenStep/0/message": {
                 "orig": "You know, I've not once seen those fishes dive into the water.\\. Suspicious.",
                 "text": "Vous savez, je n'ai jamais vu un seul de ses poissons plonger dans l'eau. C'est curieux."
@@ -4791,10 +4803,6 @@
         "database.json/commonEvents/joe-apo-papagun-end/event/2/thenStep/1/message": {
                 "orig": "Not this again...",
                 "text": "Encore ça..."
-        },
-        "database.json/commonEvents/luke-seastar-end/event/0/thenStep/2/message": {
-                "orig": "[nods]",
-                "text": "[acquiesce]"
         },
         "database.json/commonEvents/test-level-up/event/0/thenStep/0/message": {
                 "orig": "Level Up 1",
@@ -5442,8 +5450,9 @@
                 "text": "Aucune Connexion"
         },
         "database.json/commonEvents/contact-blocked-area/event/0/text": {
-                "orig": "Let's better not contact anyone from here to reduce suspicion.",
-                "text": "Il vaut mieux contacter personne à partir d'ici, pour ne pas éveiller les suspicions."
+                "orig": "You shouldn't contact anyone from here to reduce suspicion.",
+                "text": "Il vaut mieux contacter personne à partir d'ici, pour ne pas éveiller les suspicions.",
+                "quality": "unknown"
         },
         "database.json/commonEvents/join-blocked/event/2/text": {
                 "orig": "No Connection",
@@ -5488,10 +5497,6 @@
         "database.json/commonEvents/emilie-contact/event/6/thenStep/1/message": {
                 "orig": "Bonjour, chérie!",
                 "text": "Bonjour, Chérie !"
-        },
-        "database.json/commonEvents/emilie-contact/event/6/thenStep/3/message": {
-                "orig": "...!",
-                "text": "... !"
         },
         "database.json/commonEvents/emilie-contact/event/7/thenStep/0/message": {
                 "orig": "Hi!",
@@ -6121,8 +6126,9 @@
                 "text": "Salut, Lea !"
         },
         "database.json/commonEvents/glasses-contact/event/13/thenStep/0/message": {
-                "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promised!",
-                "text": "D-Désolé, Lea !\\. Il faut que j'aille vérifier quelque chose !\\. Je serais de retour bientôt, promis !"
+                "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promise!",
+                "text": "D-Désolé, Lea !\\. Il faut que j'aille vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
+                "quality": "unknown"
         },
         "database.json/commonEvents/glasses-contact/event/14/thenStep/2/message": {
                 "orig": "I'm still around and ready if you'd like to start the party. For now at least.",
@@ -6546,10 +6552,9 @@
                 "orig": "Lea!",
                 "text": "Lea !"
         },
-        "database.json/commonEvents/apollo-contact/event/6/thenStep/1/thenStep/0/message": {
-                "orig": "Spheromancer Lea!\\. The final temple has opened!",
-                "text": "Spheromanceuse Lea ! C'est maintenant à toi de servir la justice dans cette tour !",
-                "quality": "unknown"
+        "database.json/commonEvents/apollo-contact/event/9/thenStep/1/message": {
+                "orig": "Spheromancer Lea! It is now up to you to serve justice in that tower!",
+                "text": "Spheromanceuse Lea ! C'est maintenant à toi de servir la justice dans cette tour !"
         },
         "database.json/commonEvents/apollo-contact/event/9/thenStep/2/message": {
                 "orig": "I know you can do it! Make a fellow Spheromancer proud!",
@@ -6847,6 +6852,10 @@
         "database.json/commonEvents/joern-contact/event/8/thenStep/0/message": {
                 "orig": "Hi!",
                 "text": "Salut !"
+        },
+        "database.json/commonEvents/joern-contact/event/8/thenStep/4/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "database.json/commonEvents/joern-contact/event/9/thenStep/1/message": {
                 "orig": "That tower seems very tall. Be careful in there, Lea.",
@@ -7426,10 +7435,22 @@
                 "orig": "Hi!",
                 "text": "Salut !"
         },
-        "database.json/commonEvents/luke-contact/event/6/thenStep/3/thenStep/0/message": {
-                "orig": "Guess you're just as busy running it as I am, right?",
+        "database.json/commonEvents/luke-contact/event/5/thenStep/3/message": {
+                "orig": "[nods]",
                 "text": "Bonjour ! [À FAIRE: mettre un vrai dialogue]",
                 "quality": "unknown"
+        },
+        "database.json/commonEvents/luke-contact/event/6/thenStep/2/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "database.json/commonEvents/luke-contact/event/6/thenStep/3/elseStep/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "database.json/commonEvents/luke-contact/event/8/thenStep/8/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/0/message": {
                 "orig": "Have you heard?\\. There's a bunch of non-Evotars meeting in the \\c[3]city hall\\c[0], acting like it's their village.",
@@ -10909,8 +10930,9 @@
                 "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement."
         },
         "database.json/enemies/heat.sandworm/descriptions/1/text": {
-                "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body.",
-                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère."
+                "orig": "According to some insight by C'tron worms possess 5 hearts. It's a mystery how they fit into this elastic body.",
+                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère.",
+                "quality": "unknown"
         },
         "database.json/enemies/heat.sandworm-boss/name": {
                 "orig": "Ti'im",
@@ -11327,8 +11349,9 @@
                 "quality": "unknown"
         },
         "database.json/enemies/guest.honeybear/species": {
-                "orig": "Bear",
-                "text": "Ours"
+                "orig": "Bear ",
+                "text": "Ours",
+                "quality": "unknown"
         },
         "database.json/enemies/final.colibri/name": {
                 "orig": "Hummagnum",
@@ -16225,8 +16248,9 @@
                 "text": "Après un long moment de quiétude, il y a eu ces derniers temps des activités étranges du côté des boucs intelligents du \\v[area.bergen-trails.name]. Vous devriez inspecter leur antre encore une fois !"
         },
         "database.json/quests/bg-3-goat_final/briefing": {
-                "orig": "Despite your best efforts the scientist got away. That is a problem another day, though.",
-                "text": "Malgré vos meilleurs efforts, le scientifique a pu fuir. Mais c'est un problème pour un autre jour."
+                "orig": "You have cleared the big case, prevented a large fight and even helped the goats to adapt to a new life in \\v[area.rhombus-sqr.name]!",
+                "text": "Malgré vos meilleurs efforts, le scientifique a pu fuir. Mais c'est un problème pour un autre jour.",
+                "quality": "unknown"
         },
         "database.json/quests/bg-3-goat_final/tasks/0/task": {
                 "orig": "Investigate what happened in the \\c[3]Horncave\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]",
@@ -16245,12 +16269,14 @@
                 "text": "Parlez au \\c[3]Sergent Bronzel\\c[0] au \\c[3]QG \\v[lore.title.faction-cold-jungle]\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/tasks/4/task": {
-                "orig": "Solve the case of \\c[3]Sergeant Bronzel\\c[0]",
-                "text": "Résolvez l'affaire du \\c[3]Sergent Bronzel\\c[0]"
+                "orig": "Solve the case \\c[3]In Cawhoofs\\c[0] for \\c[3]Sergeant Bronzel\\c[0]",
+                "text": "Résolvez l'affaire du \\c[3]Sergent Bronzel\\c[0]",
+                "quality": "unknown"
         },
         "database.json/quests/bg-3-goat_final/tasks/5/task": {
-                "orig": "Follow the lead to \\c[3]pla\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
-                "text": "Suivez les traces jusqu'à la \\c[3]place\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0]"
+                "orig": "Follow the lead to \\c[3]Cliff Exhibition\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
+                "text": "Suivez les traces jusqu'à la \\c[3]place\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
+                "quality": "unknown"
         },
         "database.json/quests/bg-3-goat_final/tasks/6/task": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.goat]s\\c[0]",
@@ -17058,8 +17084,9 @@
                 "text": "\\c[3]PuellaDocta\\c[0] de la \\c[3]Guilde des Héros de la Dernière Minute\\c[0] à une tâche pour vous qui implique de combattre des monstres sur la \\c[3]\\v[area.forest.name]\\c[0] !"
         },
         "database.json/quests/wervyn-quest/briefing": {
-                "orig": "You learned about the daily work of the \\c[3]Last Minute Heros\\c[0] guild, the glory that comes with it, and maybe also a few problems.",
-                "text": "Vous avez appris le travail de tous les jours des \\c[3]Héros de la Dernière Minute\\c[0] et de la gloire qui vient avec, et peut-être aussi des quelques problèmes que cela peut causer."
+                "orig": "You learned about the daily work of the \\c[3]Last Minute Heroes\\c[0] guild, the glory that comes with it, and maybe also a few problems.",
+                "text": "Vous avez appris le travail de tous les jours des \\c[3]Héros de la Dernière Minute\\c[0] et de la gloire qui vient avec, et peut-être aussi des quelques problèmes que cela peut causer.",
+                "quality": "unknown"
         },
         "database.json/quests/wervyn-quest/tasks/0/task": {
                 "orig": "Meet PuellaDocta in the \\c[3]Last Minute Heroes HQ\\c[0] north of the \\c[3]Autumn Residences\\c[0]",
@@ -17383,8 +17410,9 @@
                 "text": "L'exploration du Temple Abandonné peut continuer ! Aventurez-vous dans les profondeurs pour trouver des trésors datant des Anciens !"
         },
         "database.json/quests/nomadAdv-3-sandman_tomb_1/briefing": {
-                "orig": "Exploration of the Barren Temple is finally completed. Though you don't know what exactly you found, it is certain that humanity has great progress from your efforts.",
-                "text": "L'exploration du Temple Abandonné est finalement terminée. Bien que vous ne sachiez pas exactement ce que vous avez trouvé, il est certain que l'humanité a franchi une étape importante."
+                "orig": "Exploration of the Barren Temple is finally completed. Though you don't know what exactly you found, it is certain that humanity has made great progress from your efforts.",
+                "text": "L'exploration du Temple Abandonné est finalement terminée. Bien que vous ne sachiez pas exactement ce que vous avez trouvé, il est certain que l'humanité a franchi une étape importante.",
+                "quality": "unknown"
         },
         "database.json/quests/nomadAdv-3-sandman_tomb_1/tasks/0/task": {
                 "orig": "Revisit the \\c[3]Barren Temple\\c[0] through \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0] and talk with explorer Hira",
@@ -17651,11 +17679,6 @@
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/description": {
                 "orig": "Ryda of the \\v[lore.title.faction-shock-baki] wants to upgrade the brewing device to unlock even more recipes! A worthy task for an experienced \\v[lore.title.seeker]!",
                 "text": "Blabla quête finale de l'\\v[lore.title.faction-shock-baki]. Améliorez la machine à binouses, mais oh non, des fantômes apparaissent ?!",
-                "quality": "unknown"
-        },
-        "database.json/quests/bakiTrader-3-brewing_ghosts_1/briefing": {
-                "orig": "After some exorcism, you have successfully upgraded the brewing device. \\c[3]It is now properly equipped for Fox Sake!\\c[0]",
-                "text": "...",
                 "quality": "unknown"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/0/task": {
@@ -18050,28 +18073,26 @@
                 "text": "Sgt. Bronzel"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/description": {
-                "orig": "The goat gang of \\v[area.bergen-trails.name] might've forged an alliance with the Papagang. Investigate!",
-                "text": "Le gang des boucs du \\v[area.bergen-trails.name] ont peut-être formé une alliance avec le Pépégang. Enquêtez !"
+                "orig": "The goat gang of \\v[area.bergen-trails.name] might've forged an alliance with the local \\v[area.jungle-city.name] Papagang. Investigate!",
+                "text": "Le gang des boucs du \\v[area.bergen-trails.name] ont peut-être formé une alliance avec le Pépégang. Enquêtez !",
+                "quality": "unknown"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/briefing": {
-                "orig": "Kitties and fridges for the Shad!",
-                "text": "Chatons et Frigos pour les Shads !"
+                "orig": "You defeated the current leader of the Papagang and learned that the mysterious cargo is on its way to \\v[area.rhombus-sqr.name]! Time to continue your original quest!",
+                "text": "Chatons et Frigos pour les Shads !",
+                "quality": "unknown"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/0/task": {
-                "orig": "Gather information about the Papagang with \\c[3]underworld figures\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0] in Southeast \\c[3]\\v[area.jungle.name]'s Pond Slums\\c[0]",
+                "orig": "Gather information about the Papagang with \\c[3]underworld figures\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0]'s \\c[3]Pond Slums\\c[0]",
                 "text": "Obtenez de l'information à propos du Pépégang avec des \\c[3]personnes de l'au-delà\\c[0] dans le \\c[3]\\v[area.jungle-city.name]\\c[0] au sud-est de la \\c[3]Zone Zermi du \\v[area.jungle.name]\\c[0]",
                 "quality": "unknown"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/1/task": {
-                "orig": "Find the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0]",
-                "text": "Trouvez la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0]"
-        },
-        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/2/task": {
                 "orig": "Trade with the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0] to gain their trust",
                 "text": "Marchandez avec la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0] pour gagner leur confiance",
                 "quality": "unknown"
         },
-        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/5/task": {
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/4/task": {
                 "orig": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]",
                 "text": "Revenez voir le \\c[3]Sergent Bronzel\\c[0] au \\c[3]QG \\v[lore.title.faction-cold-jungle]\\c[0]"
         },
@@ -18173,8 +18194,9 @@
                 "text": "Trouvez un client shad intéressé au \\c[3]Village Shad\\c[0] au sud-est du \\c[3]\\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/1/task": {
-                "orig": "Visit to the \\c[3]\"Owo\", the engineer Shad\\c[0] in his house on \\c[3]V'rda Vil East\\c[0]",
-                "text": "Allez chez \\c[3]\"Owo\", l'ingénieur Shad\\c[0] dans sa maison à \\c[3]V'rda Vil Est\\c[0]"
+                "orig": "Visit \\c[3]\"Owo\", the engineer Shad\\c[0] in his house in \\c[3]V'rda Vil East\\c[0]",
+                "text": "Allez chez \\c[3]\"Owo\", l'ingénieur Shad\\c[0] dans sa maison à \\c[3]V'rda Vil Est\\c[0]",
+                "quality": "unknown"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/2/task": {
                 "orig": "\\c[3]Collect materials\\c[0] needed for the \\c[3]Natural Power Generator\\c[0]",
@@ -18193,8 +18215,9 @@
                 "text": "Parlez à \\c[3]Owo'kyari\\c[0] au \\c[3]Guet Perdu\\c[0] pour attraper quelques \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/6/task": {
-                "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marches North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
-                "text": "Parlez à \\c[3]Owo'kyari\\c[0] aux \\c[3]Marécages Infestés Nord\\c[0] pour attraper d'autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
+                "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marshes North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+                "text": "Parlez à \\c[3]Owo'kyari\\c[0] aux \\c[3]Marécages Infestés Nord\\c[0] pour attraper d'autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+                "quality": "unknown"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/7/task": {
                 "orig": "Return once more to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0]",
@@ -19282,8 +19305,9 @@
                 "text": "Faites un rapport au \\c[3]Sergent Brassler\\c[0] au \\c[3]QG de la Garde Portuaire\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/hubSettings/location": {
-                "orig": "It is time to eliminate the source of the illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]",
-                "text": "Il est temps d'éliminer la source des trafics une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]"
+                "orig": "Time to eliminate the source of illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]",
+                "text": "Il est temps d'éliminer la source des trafics une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
+                "quality": "unknown"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/name": {
                 "orig": "Wetter Work",
@@ -20518,7 +20542,7 @@
                 "quality": "unknown"
         },
         "database.json/traders/rhombusPostEquipSpecial1/name": {
-                "orig": "Elite Special Gear #1",
+                "orig": "Elite Special Gear",
                 "text": "Équipement Spécial n°1",
                 "quality": "unknown"
         },

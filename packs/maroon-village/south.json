@@ -2617,8 +2617,9 @@
                 "text": "Le duel aura lieu à la\n\\c[3]Terre Déserte - \\v[area.heat-area.name]\\c[0]."
         },
         "maps/heat-village/baki-2.json/entities/859/settings/interact/event/1/text": {
-                "orig": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0].",
-                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarrassée de tous les autres adversaires\\c[0]."
+                "orig": "The duel shall start \nwhen the area has been \n\\c[3]rid of all other opponents\\c[0].",
+                "text": "Le duel commencera\nlorsque la zone aura été\n\\c[3]débarrassée de tous les autres adversaires\\c[0].",
+                "quality": "unknown"
         },
         "maps/heat-village/baki-2.json/entities/860/settings/analyzable/text": {
                 "orig": "Elite Calculation Machine MIKO V0",

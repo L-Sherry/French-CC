@@ -127,16 +127,18 @@
                 "text": "M... mais j'allais venir vers vous de toute façon.\\. Vous me faites pas confiance ?"
         },
         "maps/autumn/path-1.json/entities/302/settings/npcStates/1/event/quest/32/message": {
-                "orig": "Sorry pal. Trust is nice and all but I won't take any more risks with you.",
-                "text": "Désolé mon ami. La confiance c'est bien, le contrôle c'est mieux. Je ne prends plus de risques."
+                "orig": "Sorry, pal.\\. Trust is nice and all but I won't take any more risks with you.",
+                "text": "Désolé mon ami. La confiance c'est bien, le contrôle c'est mieux. Je ne prends plus de risques.",
+                "quality": "unknown"
         },
         "maps/autumn/path-1.json/entities/302/settings/npcStates/1/event/quest/33/message": {
                 "orig": "Alright, alright.\\. Jeez.",
                 "text": "OK, OK.\\. Bon sang."
         },
         "maps/autumn/path-1.json/entities/302/settings/npcStates/1/event/quest/39/message": {
-                "orig": "In any case, thanks girl.\\. You did great work here.\\. Report back to the chief to get your reward.",
-                "text": "En tout cas, merci beaucoup, jeune dame.\\. Vous avez fait un bon boulot là.\\. Revenez voir le sergent pour obtenir votre récompense."
+                "orig": "In any case, thanks, girl.\\. You did great work here.\\. Report back to the chief to get your reward.",
+                "text": "En tout cas, merci beaucoup, jeune dame.\\. Vous avez fait un bon boulot là.\\. Revenez voir le sergent pour obtenir votre récompense.",
+                "quality": "unknown"
         },
         "maps/autumn/path-1.json/entities/302/settings/npcStates/1/event/quest/40/message": {
                 "orig": "[nods]",
@@ -548,16 +550,19 @@
                 "text": "J'ai fait une l-l-liste de choses d-d-dont j'ai besoin."
         },
         "maps/autumn/path-1.json/entities/313/settings/dialog/1/event/16/0/18/message": {
-                "orig": "F-First I need some items and information on the local w-wildlife.",
-                "text": "En p-premier, j'ai besoin de certains objets et d'information sur la f-f-faune sauvage."
+                "orig": "F-First, I need some items and information on the local w-wildlife.",
+                "text": "En p-premier, j'ai besoin de certains objets et d'information sur la f-f-faune sauvage.",
+                "quality": "unknown"
         },
         "maps/autumn/path-1.json/entities/313/settings/dialog/1/event/16/0/19/message": {
-                "orig": "Additionally I n-n-need a list of all the landmarks in this a-area.",
-                "text": "D-D-De plus j'ai besoin d-d-d'une liste de tous les p-p-points de repères de la r-région."
+                "orig": "Additionally, I n-n-need a list of all the landmarks in this a-area.",
+                "text": "D-D-De plus j'ai besoin d-d-d'une liste de tous les p-p-points de repères de la r-région.",
+                "quality": "unknown"
         },
         "maps/autumn/path-1.json/entities/313/settings/dialog/1/event/16/0/20/message": {
-                "orig": "Finally I need y-you to retrieve a p-probe I installed further ahead.",
-                "text": "Enfin j'ai besoin que v-vous récupériez les données d'une s-s-sonde que j'ai in-in-installé plus loin."
+                "orig": "Finally, I need y-you to retrieve a p-probe I installed further ahead.",
+                "text": "Enfin j'ai besoin que v-vous récupériez les données d'une s-s-sonde que j'ai in-in-installé plus loin.",
+                "quality": "unknown"
         },
         "maps/autumn/path-1.json/entities/313/settings/dialog/1/event/16/0/21/message": {
                 "orig": "I would be honored if you would help me g-g-gather all the intel.",

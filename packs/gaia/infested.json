@@ -12,8 +12,9 @@
                 "text": "..."
         },
         "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/5/message": {
-                "orig": "Now come on. Let's get this over with. And stay out of my way, capiche?",
-                "text": "Bon allez, on y va. Et reste en dehors de ma route, capische ?"
+                "orig": "Now, come on. Let's get this over with. And stay out of my way, capiche?",
+                "text": "Bon allez, on y va. Et reste en dehors de ma route, capische ?",
+                "quality": "unknown"
         },
         "maps/jungle/infested/infested-path-01.json/entities/696/settings/npcStates/0/event/quest/18/message": {
                 "orig": "Follow me.\n",
@@ -107,23 +108,23 @@
                 "orig": "So, \\v[lore.title.seeker].\\. You ready to do the capture of powercats?",
                 "text": "Donc, \\v[lore.title.seeker].\\. Vous prêt pour capturer chats électriques ?"
         },
-        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/1/message": {
+        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/2/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
-        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/2/message": {
+        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/3/message": {
                 "orig": "Good!\\. Machine will now lure the right kind of creatures.\\. Be ready!",
                 "text": "Bien !\\. Machine va maintenant attirer bon type de créature.\\. Être prêt !"
         },
-        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/6/thenStep/0/guiInfo/settings/text": {
+        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/7/thenStep/0/guiInfo/settings/text": {
                 "orig": "Capturing",
                 "text": "Capture"
         },
-        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/20/name": {
+        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/21/name": {
                 "orig": "Owo'kyari",
                 "text": "Owo'kyari"
         },
-        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/21/message": {
+        "maps/jungle/infested/infested-path-01.json/entities/726/settings/npcStates/1/event/quest/9/0/22/message": {
                 "orig": "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage.",
                 "text": "Bonne capture, \\v[lore.title.seeker].\\. Moi attendre ici jusqu'à qu'un être à l'intérieur cage."
         },
@@ -424,23 +425,23 @@
                 "orig": "Feeling ready?",
                 "text": "Vous sentir prêt ?"
         },
-        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/1/message": {
+        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/2/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
-        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/2/message": {
+        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/3/message": {
                 "orig": "Good!\\. Machines will lure some kitty again.\\. More than last time, so be on guard!",
                 "text": "Bien !\\. Machine va encore attirer quelques chatons.\\. Plus que dernière fois, donc être sur garde !"
         },
-        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/28/name": {
+        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/29/name": {
                 "orig": "Owo'kyari",
                 "text": "Owo'kyari"
         },
-        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/29/message": {
+        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/30/message": {
                 "orig": "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage.",
                 "text": "Bonne capture, \\v[lore.title.seeker].\\. Moi attendre ici jusqu'à qu'un être à l'intérieur cage."
         },
-        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/31/thenStep/0/guiInfo/settings/text": {
+        "maps/jungle/infested/infested-path-04.json/entities/823/settings/npcStates/0/event/quest/10/0/32/thenStep/0/guiInfo/settings/text": {
                 "orig": "Capturing",
                 "text": "Capture"
         },
@@ -568,11 +569,11 @@
                 "orig": "Yes!\\. That is one generator powered!\\. Now only one more!",
                 "text": "Oui !\\. Ça être un générateur qui fonctionne !\\. Maintenant un de plus !"
         },
-        "maps/jungle/infested/infested-path-04.json/entities/828/settings/event/2/elseStep/1/thenStep/0/message": {
+        "maps/jungle/infested/infested-path-04.json/entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/0/message": {
                 "orig": "Yes!\\. Enough kitty captured! \\v[lore.title.seeker] again be much diligent!",
                 "text": "Oui !\\. Assez de chatons capturés ! \\v[lore.title.seeker] être très appliqué !"
         },
-        "maps/jungle/infested/infested-path-04.json/entities/828/settings/event/2/elseStep/1/thenStep/1/message": {
+        "maps/jungle/infested/infested-path-04.json/entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/1/message": {
                 "orig": "Now other enemies must get mobbed to retrieve generators safely!",
                 "text": "Maintenant autres ennemis doivent être débarrassés pour pouvoir récupérer générateurs !"
         }

@@ -75,6 +75,10 @@
                 "orig": "2nd Floor",
                 "text": "2ième Étage"
         },
+        "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
+                "orig": "Tony Frigo",
+                "text": "Tony Frigo"
+        },
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/0/event/1/name": {
                 "orig": "Mr Frigo",
                 "text": "M. Frigo"
@@ -138,10 +142,6 @@
         "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/npcStates/12/event/2/message": {
                 "orig": "Greetings, \\v[lore.title.seeker].\\. Please continue to work hard for the prosperity of our city.",
                 "text": "Bonjour, \\v[lore.title.seeker].\\. S'il vous plait, continuez de travaillez dur pour la prospérité de notre ville."
-        },
-        "maps/jungle-city/interior/faction-traders-1.json/entities/61/settings/analyzable/text": {
-                "orig": "Tony Frigo",
-                "text": "Tony Frigo"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/3/name": {
                 "orig": "Mrs Basu",
@@ -236,8 +236,9 @@
                 "text": "... !"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/11/message": {
-                "orig": "Indeed.\\. When the authorities were investigating they lost the lead on \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name].",
-                "text": "Effectivement.\\. Quand les autorités ont enquêtés, ils ont perdu leur trace dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name]."
+                "orig": "Indeed.\\. The investigating authorities lost the trail at \\c[3]Old Timber\\c[0] in eastern \\v[area.jungle.name].",
+                "text": "Effectivement.\\. Quand les autorités ont enquêtés, ils ont perdu leur trace dans le \\c[3]Vieux Bois\\c[0] à l'est du \\v[area.jungle.name].",
+                "quality": "unknown"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/62/settings/event/6/accepted/12/message": {
                 "orig": "Maybe your specialized \\c[3]\\v[lore.title.seeker]-senses\\c[0] can find some traces that lead to the robber's hideout.\\. Please be vigilant!",
@@ -671,8 +672,9 @@
                 "text": "Mais monsieur, vous n'êtes pas en train de nous dire que vous projetez de vendre à ces nobles villageois plein de choses dont ils n'ont pas besoin, pas vrai ?"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/13/message": {
-                "orig": "Well, of course not!\\. Frigo kitchen tools are always useful, I can ensure you that!\\. My name's on them after all!",
-                "text": "Bien sûr que non !\\. Les outils de cuisine Frigo sont toujours utiles, je peux vous l'assurer !\\. Mon nom est écrit dessus après tout !"
+                "orig": "Well, of course not!\\. Frigo kitchen tools are always useful, I can assure you that!\\. My name's on them after all!",
+                "text": "Bien sûr que non !\\. Les outils de cuisine Frigo sont toujours utiles, je peux vous l'assurer !\\. Mon nom est écrit dessus après tout !",
+                "quality": "unknown"
         },
         "maps/jungle-city/interior/faction-traders-1.json/entities/85/settings/event/14/message": {
                 "orig": "...",

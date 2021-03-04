@@ -1751,6 +1751,11 @@
                 "orig": "Burning Something",
                 "text": "Quelque-chose qui Brûle"
         },
+        "enemies/guest/firespirit.json/meta/descriptions/0/text": {
+                "orig": "A mysterious flame that has taken humanoid form. It is, in fact, so mysterious that barely anything is known about it.\nHowever, it is clear that its powerful flame has to \\c[3]first be extinguished\\c[0] before there is any hope of defeating it. Though it is said that the underlying source of the flames is \\c[3]electrical\\c[0] in nature, so beware!",
+                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux.",
+                "quality": "unknown"
+        },
         "enemies/guest/glitch-boss.json/meta/species": {
                 "orig": "[Object]",
                 "text": "[Object]",
@@ -1761,8 +1766,9 @@
                 "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
         },
         "enemies/guest/honeybear.json/meta/species": {
-                "orig": "Bear",
-                "text": "Ours"
+                "orig": "Bear ",
+                "text": "Ours",
+                "quality": "unknown"
         },
         "enemies/guest/sao.json/meta/species": {
                 "orig": "Ninja",
@@ -1770,7 +1776,7 @@
         },
         "enemies/guest/sao.json/meta/descriptions/0/text": {
                 "orig": "Nin!",
-                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux.",
+                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement.",
                 "quality": "unknown"
         },
         "enemies/heat/antlion.json/meta/species": {
@@ -1926,8 +1932,9 @@
                 "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement."
         },
         "enemies/heat/sandworm.json/meta/descriptions/1/text": {
-                "orig": "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body.",
-                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère."
+                "orig": "According to some insight by C'tron worms possess 5 hearts. It's a mystery how they fit into this elastic body.",
+                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère.",
+                "quality": "unknown"
         },
         "enemies/heat/scorpion-alt.json/meta/species": {
                 "orig": "Boss Scorpion",
@@ -2137,11 +2144,6 @@
         "enemies/heat/special/guard-hostile-mustache.json/meta/descriptions/0/text": {
                 "orig": "A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Baki Guard\\c[0], before his crimes were uncovered.\n\nWhile his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him.",
                 "text": "Un garde corrompu qui n'a aucun respect pour les Shads qui sont les natifs de Shadoon. Il avait autrefois une position respectable dans la \\c[3]\\v[lore.title.faction-cold-baki]\\c[0] avant que ses crimes ne soient découverts.\n\nBien que son sentiment de justice soit un peu de travers, il reste un combattant assez doué. Il manie l'équipement standard des gardes, la \\c[3]Laserlance\\c[0], avec une grande dextérité et possède toujours sur lui quelques de ses sandwichs favoris au cas où le combat l'épuise."
-        },
-        "enemies/heat/special/heat-golem-booze.json/meta/descriptions/0/text": {
-                "orig": "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient bewerage.\nJust like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again.",
-                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement.",
-                "quality": "unknown"
         },
         "enemies/heat/special/jellyfish-booze.json/meta/species": {
                 "orig": "Alcoholic Jellyfish",
@@ -2527,19 +2529,19 @@
                 "text": "[DÉPLACEMENT]",
                 "quality": "unknown"
         },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortInspect/0/thenStep/0/text": {
+                "orig": "[ INSPECT ]",
+                "text": "[Inspection]",
+                "quality": "unknown"
+        },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/2/text": {
                 "orig": "[ DANGER! ]",
                 "text": "[DANGER !]",
                 "quality": "unknown"
         },
-        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/2/text": {
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/3/text": {
                 "orig": "[ Linde is unconscious!!! ]",
                 "text": "[Linde est inconsciente !]",
-                "quality": "unknown"
-        },
-        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSuckCancel/1/text": {
-                "orig": "[ ABSORBING CANCELLED ]",
-                "text": "[Inspection]",
                 "quality": "unknown"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/meta/species": {
@@ -2614,8 +2616,12 @@
                 "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
                 "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
         },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesHoming/action/0/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
         "enemies/jungle/special/parrot-gangster-boss-1.json/meta/species": {
-                "orig": "Lawless Bird",
+                "orig": "Lawless Birdboss",
                 "text": "Mammifère de Plage",
                 "quality": "unknown"
         },
@@ -2635,17 +2641,15 @@
                 "orig": "[Restored Shield]",
                 "text": "[Bouclier Restauré]"
         },
-        "enemies/jungle/special/plant-hidden-shock.json/actions/ShockRecharge/0/text": {
-                "orig": "[Restored Shield]",
-                "text": "[Bouclier Restauré]"
-        },
-        "enemies/jungle/special/plant-hidden-shock.json/actions/StartFullShield/0/text": {
-                "orig": "[Restored Shield]",
-                "text": "[Bouclier Restauré]"
+        "enemies/jungle/special/plant-hidden-shock.json/actions/StartFullShield/1/thenStep/1/text": {
+                "orig": "[ SHIELD RESTORED ]",
+                "text": "[Bouclier Restauré]",
+                "quality": "unknown"
         },
         "enemies/jungle/special/plant-hidden-shock.json/actions/EndFullShield/9/text": {
-                "orig": "[Shield neutralized!]",
-                "text": "[Bouclier neutralisé !]"
+                "orig": "[ SHIELD NEUTRALIZED ]",
+                "text": "[Bouclier neutralisé !]",
+                "quality": "unknown"
         },
         "enemies/jungle/special/plant-hidden-shock.json/meta/species": {
                 "orig": "Water-Polluting Plant",
@@ -3027,11 +3031,11 @@
                 "orig": "A close relative to the regular \\c[3]\\v[combat.name.jungle/shockcat]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nThough they are stubbornly following strict paths, unlike their less disciplined and decidedly more cuddly cousins, they still retain a Shokat's blinding agility. Expect them to \\c[3]dodge projectiles\\c[0] of automated turrets with ease! \\c[3]Dodging will disrupt their shields\\c[0], though, and thus make them \\c[3]especially vulnerable to charged shots\\c[0] for a few seconds.",
                 "text": "Un cousin proche du \\c[3]\\v[combat.name.jungle/shockcat]\\c[0] normal, ce spécimen préfère vivre sous la terre. Ils ont habituellement une forte connexion aux points intensifs de pouvoir des Anciens qu'ils protègent avec ardeur.\nBien qu'ils suivent scrupuleusement leur chemin, contrairement à leurs cousins moins disciplinés et décidément plus câlins, ils gardent l'agilité et les réflexes rapides comme l'éclair d'un \\v[combat.name.jungle/shockcat]. Attendez-vous à ce qu'ils \\c[3]évitent les projectiles\\c[0] des tourelles avec aise ! \\c[3]Esquiver va désactiver leur bouclier\\c[0], par contre, et les rendre \\c[3]vulnérables, surtout aux projectiles chargés\\c[0] pendant quelques secondes."
         },
-        "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/1/thenStep/0/text": {
+        "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/3/thenStep/0/text": {
                 "orig": "[ CAPTURING ]",
                 "text": "[ CAPTURE ]"
         },
-        "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/1/thenStep/1/thenStep/0/text": {
+        "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/3/thenStep/1/thenStep/0/text": {
                 "orig": "( CAPTURE START: \\v[entity.attrib.cageName] )",
                 "text": "( DÉBUT CAPTURE:  \\v[entity.attrib.cageName] )"
         },

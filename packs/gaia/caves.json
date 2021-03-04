@@ -81,8 +81,9 @@
                 "text": "..."
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/13/settings/event/4/text": {
-                "orig": "There is no way to break that icy wall alone. \\c[3]Report back to Mrs Basu in \\v[area.jungle-city.name]!\\c[0]",
-                "text": "Il n'y a aucun moyen de briser ce mur de glace tout seul. \\c[3]Revenez voir Mme Basu au \\v[area.jungle-city.name] !\\c[0]"
+                "orig": "There is no way to break that icy wall alone. \\c[3]Report back to Mrs. Basu in \\v[area.jungle-city.name]!\\c[0]",
+                "text": "Il n'y a aucun moyen de briser ce mur de glace tout seul. \\c[3]Revenez voir Mme Basu au \\v[area.jungle-city.name] !\\c[0]",
+                "quality": "unknown"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/17/settings/event/5/thenStep/0/task": {
                 "orig": "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
@@ -129,8 +130,9 @@
                 "text": "Forni"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/33/message": {
-                "orig": "Our engineers called it the \\c[3]Hyperforce Plasmaoven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched.",
-                "text": "Nos ingénieurs l'ont appelé le \\c[3]Plasmafour Hyperforce\\c[0].\\. Ce nom est stupide, c'est sûr, mais sa capacité de chauffage est inégalée !"
+                "orig": "Our engineers called it the \\c[3]Hyperforce Plasma Oven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched.",
+                "text": "Nos ingénieurs l'ont appelé le \\c[3]Plasmafour Hyperforce\\c[0].\\. Ce nom est stupide, c'est sûr, mais sa capacité de chauffage est inégalée !",
+                "quality": "unknown"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/34/message": {
                 "orig": "...!",
@@ -189,8 +191,9 @@
                 "text": "[acquiesce]"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/62/text": {
-                "orig": "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
-                "text": "Utilisez le \\c[3]\\v[combat.name.jungle/special/heater]\\c[0] pour faire fondre le mur de glace.\n\\c[3]Téléportez-le avec des projectiles d'ondes chargées\\c[0] et \\c[3]déclenchez des explosions avec des attaques choc répétées\\c[0]."
+                "orig": "Use the \\c[3]Hyperforce Plasma Oven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
+                "text": "Utilisez le \\c[3]\\v[combat.name.jungle/special/heater]\\c[0] pour faire fondre le mur de glace.\n\\c[3]Téléportez-le avec des projectiles d'ondes chargées\\c[0] et \\c[3]déclenchez des explosions avec des attaques choc répétées\\c[0].",
+                "quality": "unknown"
         },
         "maps/jungle/caves/questcave-snowman-boss.json/entities/24/settings/analyzable/text": {
                 "orig": "Forni",

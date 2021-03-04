@@ -12,8 +12,9 @@
                 "text": "Salut !"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/3/message": {
-                "orig": "Hello young lady!",
-                "text": "Salut, jeune fille !"
+                "orig": "Hello, young lady!",
+                "text": "Salut, jeune fille !",
+                "quality": "unknown"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/4/message": {
                 "orig": "Isn't this part of the city quite beautiful?",
@@ -24,8 +25,9 @@
                 "text": "[acquiesce]"
         },
         "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/6/message": {
-                "orig": "Indeed you could say it is very...\\. fency!",
+                "orig": "Indeed, you could say it is very...\\. fency!",
                 "text": "En tout cas on peut dire qu'il est très...\\. balisé !",
+                "quality": "unknown",
                 "note": "de: \"zaunig\""
         },
         "maps/rhombus-sqr/residential-s1.json/entities/146/settings/npcStates/0/event/7/message": {
