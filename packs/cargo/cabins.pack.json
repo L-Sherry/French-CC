@@ -1019,8 +1019,6 @@
         },
         "maps/cargo-ship/cabins2.json/entities/145/settings/event/198/task": {
                 "orig": "Time to \\c[3]go to bed\\c[0] in your house in \\c[3]Homestedt\\c[0]!",
-                "text": "Il est temps d'\\c[3]aller au lit\\c[0] dans votre maison à \\c[3]\\v[area.evo-village.name]\\c[0] !",
-                "quality": "unknown",
-                "note": "evo-village is unknown"
+                "text": "Il est temps d'\\c[3]aller au lit\\c[0] dans votre maison de \\c[3]\\v[area.evo-village.name]\\c[0] !"
         }
 }

@@ -14,8 +14,7 @@
         "maps/autumn-fall/raid/raid-boss.json/entities/67/settings/event/24/message": {
                 "orig": "Great! It definitely deserves a good amount of punching right about now!",
                 "text": "Super ! Il mérite vraiment une bonne dose de coup de poings tout de suite là maintenant !",
-                "quality": "unknown",
-                "note": "gender of that thing ?"
+                "note": "the subject is a robot, so its gender..."
         },
         "maps/autumn-fall/raid/raid-boss.json/entities/81/settings/event/2/thenStep/0/thenStep/0/message": {
                 "orig": "\\c[3]Heat turret\\c[0] pushed over! To the \\c[3]second right pillar\\c[0]!",
@@ -272,9 +271,8 @@
         },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/72/message": {
                 "orig": "I must be acting like the biggest jerk right now...",
-                "text": "Je dois vraiment passer pour le chiant de service là...",
-                "quality": "unknown",
-                "note": "de plz"
+                "text": "Je dois vraiment passer pour le relou de service là...",
+                "note": "de: je dois vraiment passer pour le dernier pillier de bar ^^"
         },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/76/message": {
                 "orig": "...",
@@ -398,8 +396,8 @@
         },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/151/message": {
                 "orig": "Boring...\\. except on release days.",
-                "text": "Ennuyeux...\\. Sauf les jours où on sort une nouvelle version.",
-                "quality": "unknown"
+                "text": "Ennuyeux...\\. Sauf les jours où on doit sortir une nouvelle version.",
+                "note": "this de (which means: this is translated from the german version)"
         },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/152/message": {
                 "orig": "Right.\\. Of course.",
@@ -411,8 +409,7 @@
         },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/154/message": {
                 "orig": "It all still feels like it was yesterday.\n",
-                "text": "Je me souviens de ça comme si c'était hier.",
-                "quality": "unknown"
+                "text": "Je me souviens de ça comme si c'était hier."
         },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/155/message": {
                 "orig": "My life just changed so quickly and I have no idea how to cope with it.",

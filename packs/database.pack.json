@@ -1728,9 +1728,8 @@
         },
         "database.json/areas/evo-village/name": {
                 "orig": "Homestedt",
-                "text": "Ville Natale",
-                "quality": "unknown",
-                "note": "de: ville d'origine, patrie, refuge, arborigène, autochtone, indigène, natif/natal"
+                "text": "Chénous",
+                "note": "de: ville d'origine, patrie, refuge, arborigène, autochtone, indigène, natif/natal, so let's play a bit"
         },
         "database.json/areas/evo-village/description": {
                 "orig": "The small settlement established as a home for Evotars.",
@@ -1742,9 +1741,7 @@
         },
         "database.json/areas/evo-village/landmarks/center/description": {
                 "orig": "This landmark sits right at the heart of \\v[area.evo-village.name].",
-                "text": "Ce point de repère se trouve au cœur de la \\v[area.evo-village.name].",
-                "quality": "unknown",
-                "note": "evo-village is unknown"
+                "text": "Ce point de repère se trouve au cœur de la ville de \\v[area.evo-village.name]."
         },
         "database.json/areas/fallback/name": {
                 "orig": "Fallback",
@@ -6441,9 +6438,7 @@
         },
         "database.json/commonEvents/glasses-join/event/7/thenStep/0/message": {
                 "orig": "Hey there Lea!\\. I'm currently taking a break in Homestedt.",
-                "text": "Hé, Lea !\\. Je fais une pause à \\v[area.evo-village.name].",
-                "quality": "unknown",
-                "note": "evo-village is unknown"
+                "text": "Hé, Lea !\\. Je fais une pause à \\v[area.evo-village.name]."
         },
         "database.json/commonEvents/glasses-join/event/7/thenStep/1/message": {
                 "orig": "We can play together tomorrow, if that's okay.",
@@ -7264,9 +7259,7 @@
         },
         "database.json/commonEvents/schneider-join/event/5/thenStep/1/message": {
                 "orig": "We're currently in the \\c[3]city hall\\c[0] of \\c[3]Homestedt\\c[0].\\. You should join us!",
-                "text": "On est actuellement à l'\\c[3]hôtel de ville\\c[0] de \\c[3]\\v[area.evo-village.name]\\c[0].\\. Tu devrais nous rejoindre !",
-                "quality": "unknown",
-                "note": "evo-village is unknown"
+                "text": "On est actuellement à l'\\c[3]hôtel de ville\\c[0] de \\c[3]\\v[area.evo-village.name]\\c[0].\\. Tu devrais nous rejoindre !"
         },
         "database.json/commonEvents/schneider-join/event/6/thenStep/0/message": {
                 "orig": "Sorry Lea!\\. I got something else to do right now.",
@@ -9997,8 +9990,7 @@
         },
         "database.json/enemies/guest.firespirit/name": {
                 "orig": "Mizree",
-                "text": "Mizree",
-                "quality": "unknown"
+                "text": "Mizree"
         },
         "database.json/enemies/guest.firespirit/species": {
                 "orig": "Burning Something",
@@ -11331,8 +11323,7 @@
         },
         "database.json/enemies/final.colibri/name": {
                 "orig": "Hummagnum",
-                "text": "Hummagnum",
-                "quality": "unknown"
+                "text": "Hummagnum"
         },
         "database.json/enemies/final.colibri/species": {
                 "orig": "Silent Sniper",
@@ -11965,8 +11956,7 @@
         },
         "database.json/enemies/final.guardian/species": {
                 "orig": "Wild Decoration",
-                "text": "Imitation de Décoration",
-                "quality": "unknown"
+                "text": "Décoration Sauvage"
         },
         "database.json/enemies/arid.element-turret-boss/name": {
                 "orig": "Final Turret IX",
@@ -20357,8 +20347,7 @@
         },
         "database.json/traders/papagangQuestTrade/name": {
                 "orig": "Nik, the Eggman",
-                "text": "Nik, le Crâne d'Œuf",
-                "quality": "unknown"
+                "text": "Nik, le Crâne d'Œuf"
         },
         "database.json/traders/tremorTrader/name": {
                 "orig": "Edgy Salesman",
