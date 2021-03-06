@@ -4329,13 +4329,12 @@
         },
         "item-database.json/items/513/name": {
                 "orig": "Nanopoint Needle",
-                "text": "Aiguille Nanopointe",
-                "quality": "unknown"
+                "text": "Aiguille Nanopointe"
         },
         "item-database.json/items/513/description": {
                 "orig": "Flexible blade that is nigh-invisible from the side. Pierces anything on a good hit. \\i[ascended]",
-                "text": "Quand on frappe bien, elle transperce tout.",
-                "quality": "unknown"
+                "text": "Lame flexible qui est quasi-invisible vu de côté. Transperce tout si on vise bien. \\i[ascended]",
+                "note": "de: si on touche dans le mille"
         },
         "item-database.json/items/514/name": {
                 "orig": "Roundhousers",
@@ -4763,8 +4762,7 @@
         },
         "item-database.json/items/565/name": {
                 "orig": "Salty Grass",
-                "text": "Gras Salé",
-                "quality": "unknown"
+                "text": "Herbe Salée"
         },
         "item-database.json/items/565/description": {
                 "orig": "Said to collect the tears of those who didn't finish the track.",
@@ -4787,9 +4785,8 @@
         },
         "item-database.json/items/567/description": {
                 "orig": "Great at bringing the point across with cutting-edge technology. \\i[ascended]",
-                "text": "Idéal pour croiser le fer avec ses ennemis et mettre une croix dessus. \\i[ascended]",
-                "quality": "unknown",
-                "note": "all en texts contains 'cross' and all de contains 'kreuz', so all fr contains 'croix'. And this one will have it twice, just because."
+                "text": "Idéal pour croiser le fer avec ses ennemis avec de la technologie dernier cri. \\i[ascended]",
+                "note": "all en texts contains 'cross' and all de contains 'kreuz', so all fr contains 'croix'. Alternative: mettre une croix sur ses ennemis"
         },
         "item-database.json/items/568/name": {
                 "orig": "Cross Goggles",
@@ -4903,8 +4900,7 @@
         },
         "item-database.json/items/581/description": {
                 "orig": "Extremely rare weapon created by a paramilitary organization of unknown origin. \\i[ascended]",
-                "text": "Une arme extrêmement rare crée par un groupe paramilitaire d'origine inconnue. \\i[ascended]",
-                "quality": "unknown"
+                "text": "Une arme extrêmement rare crée par un groupe paramilitaire d'origine inconnue. \\i[ascended]"
         },
         "item-database.json/items/582/name": {
                 "orig": "Cerberus Fang",
@@ -5091,7 +5087,7 @@
         "item-database.json/items/604/description": {
                 "orig": "Spun from living thread that forms a nigh symbiontic relationship with its wearer. \\i[ascended]",
                 "text": "Une robe en fibres vivantes qui forme une relation symbiotique avec son porteur. \\i[ascended]",
-                "quality": "unknown"
+                "note": "dafuk ?! lachsen fixed the 'symbiontic' typo live on the crosscode gamedev stream, and it is still present ?!"
         },
         "item-database.json/items/605/name": {
                 "orig": "Eternal Salami+",
@@ -5103,13 +5099,11 @@
         },
         "item-database.json/items/606/name": {
                 "orig": "Light Gem",
-                "text": "-Récompense Moine",
-                "quality": "unknown"
+                "text": "Gemme de Lumière"
         },
         "item-database.json/items/606/description": {
                 "orig": "A chipped silver gem. Apparently it's of no use by itself but maybe...?",
-                "text": "Prêt à récompenser. Un objet à marchander ou à équipper ?",
-                "quality": "unknown"
+                "text": "Une gemme d'argent taillée.  Tout seul, c'est sans utilité apparente, mais peut-être... ?"
         },
         "item-database.json/items/607/name": {
                 "orig": "Shuriken Shooter",
@@ -5121,23 +5115,22 @@
         },
         "item-database.json/items/608/name": {
                 "orig": "Barrel Beak",
-                "text": "- Colibri",
-                "quality": "unknown"
+                "text": "Bec Canon",
+                "note": "de: Bec Sniper"
         },
         "item-database.json/items/608/description": {
                 "orig": "A beak formed like the barrel of a sniper rifle.",
-                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
-                "quality": "unknown"
+                "text": "Un bec qui à la forme d'un canon de fusil sniper."
         },
         "item-database.json/items/609/name": {
                 "orig": "Rumble Hive",
-                "text": "- Peigne",
+                "text": "Nid Grondant",
                 "quality": "unknown"
         },
         "item-database.json/items/609/description": {
                 "orig": "Beeware: Swirling inside are what feels like thousands of bees!",
-                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
-                "quality": "unknown"
+                "text": "Attention: ce qui grouille à l'intérieur semble être des milliers d'abeilles !",
+                "note": "ce qui buzze ?"
         },
         "item-database.json/items/610/name": {
                 "orig": "Burned Ash",
@@ -5145,8 +5138,7 @@
         },
         "item-database.json/items/610/description": {
                 "orig": "Ash that was burned, which resulted in even more ash. Figures.",
-                "text": "Cette toile est tellement collante qu'elle peut être utilisée comme super-glue.",
-                "quality": "unknown"
+                "text": "Des cendres brulées, ce qui a donné d'autres cendres. Logique."
         },
         "item-database.json/items/611/name": {
                 "orig": "Speedy Boom Boots",
@@ -5234,8 +5226,7 @@
         },
         "item-database.json/items/621/description": {
                 "orig": "This coconut is shaped like a sea shell. ",
-                "text": "Cette noix de coco à la même forme qu'un coquillage.",
-                "quality": "unknown"
+                "text": "Cette noix de coco à la forme d'un coquillage."
         },
         "item-database.json/items/622/name": {
                 "orig": "MacGuffin's Coin",
@@ -5243,13 +5234,11 @@
         },
         "item-database.json/items/622/description": {
                 "orig": "Obtaining it is important for something.",
-                "text": "L'obtenir est obligatoire.",
-                "quality": "unknown"
+                "text": "L'obtenir est important pour quelque chose."
         },
         "item-database.json/items/623/name": {
                 "orig": "Gold Surprise Egg",
-                "text": "Œuf Doré Surprise",
-                "quality": "unknown"
+                "text": "Œuf Doré Surprise"
         },
         "item-database.json/items/623/description": {
                 "orig": "An egg-shaped object made from extremely valuable material!",

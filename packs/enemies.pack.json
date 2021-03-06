@@ -1333,13 +1333,11 @@
         },
         "enemies/avatar/lily.json/meta/species": {
                 "orig": "A Flower?",
-                "text": "Guerrier de la Justice",
-                "quality": "unknown"
+                "text": "Une Fleur ?"
         },
         "enemies/avatar/lily.json/meta/descriptions/0/text": {
                 "orig": "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
-                "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise.",
-                "quality": "unknown"
+                "text": "Une joueuse Hexacast d'une nouvelle guilde appellée les Chasseurs d'Étoiles. Elle est assez curieuse de son nouvel environement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
         },
         "enemies/avatar/shizuka.json/meta/species": {
                 "orig": "Protective Sister",
@@ -1652,8 +1650,7 @@
         },
         "enemies/forest/bug-samurai-shock-simple.json/meta/species": {
                 "orig": "en_US",
-                "text": "Insecte Honorable",
-                "quality": "unknown"
+                "text": "fr_FR"
         },
         "enemies/forest/bug-samurai-shock.json/meta/species": {
                 "orig": "Honorable Insect",
@@ -1753,8 +1750,7 @@
         },
         "enemies/guest/firespirit.json/meta/descriptions/0/text": {
                 "orig": "A mysterious flame that has taken humanoid form. It is, in fact, so mysterious that barely anything is known about it.\nHowever, it is clear that its powerful flame has to \\c[3]first be extinguished\\c[0] before there is any hope of defeating it. Though it is said that the underlying source of the flames is \\c[3]electrical\\c[0] in nature, so beware!",
-                "text": "Ce scarabée est un véritable guerrier et maitre des arts cachés du sabre. Entrainé par un maitre depuis son enfance, il peut terrasser ses ennemis avec des coups puissants. Des coups si puissants qu'ils peuvent enflammer l'air autour d'eux.",
-                "quality": "unknown"
+                "text": "Une flamme mystérieuse qui a pris une forme humanoide. En fait, elle est si mystérieuse qu'on ne connait presquerien d'elle.\nMais, il est clair que son feu doit \\c[3]d'abord être éteint\\c[0] avant d'éspérer pouvoir le vaincre. Bien qu'il soit dit que la source des flammes serait de nature \\c[3]éléctrique\\c[0], donc attention !"
         },
         "enemies/guest/glitch-boss.json/meta/species": {
                 "orig": "[Object]",
@@ -1767,8 +1763,7 @@
         },
         "enemies/guest/honeybear.json/meta/species": {
                 "orig": "Bear ",
-                "text": "Ours",
-                "quality": "unknown"
+                "text": "Ours"
         },
         "enemies/guest/sao.json/meta/species": {
                 "orig": "Ninja",
@@ -1776,8 +1771,7 @@
         },
         "enemies/guest/sao.json/meta/descriptions/0/text": {
                 "orig": "Nin!",
-                "text": "Ces créatures visqueuses passent leur majorité du temps à moitié sous la terre, en ressemblant à une pierre déformée. Leur corps est extrêmement flexible et peut tenir dans des trous de la taille d'une main.\nIroniquement ils n'aiment pas avoir trop chaud et deviendront extrêmement hostile lorsqu'ils y sont exposés trop longtemps. Dans leur forme enragée, ils cracheront des pierres brulantes et se déplaceront bien plus rapidement.",
-                "quality": "unknown"
+                "text": "Nin !"
         },
         "enemies/heat/antlion.json/meta/species": {
                 "orig": "Mutated Worm",
@@ -1933,8 +1927,7 @@
         },
         "enemies/heat/sandworm.json/meta/descriptions/1/text": {
                 "orig": "According to some insight by C'tron worms possess 5 hearts. It's a mystery how they fit into this elastic body.",
-                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère.",
-                "quality": "unknown"
+                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère."
         },
         "enemies/heat/scorpion-alt.json/meta/species": {
                 "orig": "Boss Scorpion",
@@ -2050,8 +2043,7 @@
         },
         "enemies/heat/special/brew-bubbler.json/actions/BubbleSingle/4/text": {
                 "orig": "[ PREPARING BUBBLE ]",
-                "text": "[Préparation Bulle]",
-                "quality": "unknown"
+                "text": "[ PRÉPARATION BULLE ]"
         },
         "enemies/heat/special/brew-bubbler.json/actions/TurnOn/0/thenStep/0/text": {
                 "orig": "<ON>",
@@ -2147,8 +2139,7 @@
         },
         "enemies/heat/special/jellyfish-booze.json/meta/species": {
                 "orig": "Alcoholic Jellyfish",
-                "text": "Oiseau",
-                "quality": "unknown"
+                "text": "Méduse Alcoolique"
         },
         "enemies/heat/special/kamikatze-helper.json/actions/Activate/1/text": {
                 "orig": "Activated... loading Bomb!",
@@ -2526,23 +2517,19 @@
         },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortMovePoint/0/thenStep/0/text": {
                 "orig": "[ MOVE ]",
-                "text": "[DÉPLACEMENT]",
-                "quality": "unknown"
+                "text": "[ DÉPLACEMENT ]"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortInspect/0/thenStep/0/text": {
                 "orig": "[ INSPECT ]",
-                "text": "[Inspection]",
-                "quality": "unknown"
+                "text": "[ INSPECTION ]"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/2/text": {
                 "orig": "[ DANGER! ]",
-                "text": "[DANGER !]",
-                "quality": "unknown"
+                "text": "[ DANGER ! ]"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/3/text": {
                 "orig": "[ Linde is unconscious!!! ]",
-                "text": "[Linde est inconsciente !]",
-                "quality": "unknown"
+                "text": "[ Linde est inconsciente !!! ]"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/meta/species": {
                 "orig": "Escortee",
@@ -2622,8 +2609,7 @@
         },
         "enemies/jungle/special/parrot-gangster-boss-1.json/meta/species": {
                 "orig": "Lawless Birdboss",
-                "text": "Mammifère de Plage",
-                "quality": "unknown"
+                "text": "Boss Oiseau Hors La Loi"
         },
         "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/0/text": {
                 "orig": "[Charging Power]",
@@ -2643,13 +2629,12 @@
         },
         "enemies/jungle/special/plant-hidden-shock.json/actions/StartFullShield/1/thenStep/1/text": {
                 "orig": "[ SHIELD RESTORED ]",
-                "text": "[Bouclier Restauré]",
-                "quality": "unknown"
+                "text": "[ BOUCLIER RESTAURÉ ]",
+                "note": "assuming en is correct"
         },
         "enemies/jungle/special/plant-hidden-shock.json/actions/EndFullShield/9/text": {
                 "orig": "[ SHIELD NEUTRALIZED ]",
-                "text": "[Bouclier neutralisé !]",
-                "quality": "unknown"
+                "text": "[ BOUCLIER NEUTRALISÉ ! ]"
         },
         "enemies/jungle/special/plant-hidden-shock.json/meta/species": {
                 "orig": "Water-Polluting Plant",

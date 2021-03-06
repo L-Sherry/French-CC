@@ -1639,13 +1639,12 @@
         },
         "database.json/areas/beach/name": {
                 "orig": "Azure Archipelago",
-                "text": "Côte de Corail",
-                "quality": "unknown"
+                "text": "Archipel Azur"
         },
         "database.json/areas/beach/description": {
                 "orig": "A bright group of isles located in the middle of the ocean.",
-                "text": "Un étrange groupe de bancs de sables au milieu de l'océan.",
-                "quality": "unknown"
+                "text": "Un groupes d'îles ensoleillées au milieu de l'océan.",
+                "note": "ok i'm interpreting a bit"
         },
         "database.json/areas/bergen-trails/name": {
                 "orig": "Bergen Trail",
@@ -1770,8 +1769,7 @@
         },
         "database.json/areas/final-dng/landmarks/center/description": {
                 "orig": "The central platform in front of the huge crater.",
-                "text": "Yo",
-                "quality": "unknown"
+                "text": "La plateforme centrale en face du cratère énorme"
         },
         "database.json/areas/forest/name": {
                 "orig": "Sapphire Ridge",
@@ -2389,8 +2387,7 @@
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/6/message": {
                 "orig": "It's...\\. I don't know.\\. I mean, it was fun before. ",
-                "text": "C'est...\\. Je sais pas.\\. Je veux dire, avant c'était fun.",
-                "quality": "unknown"
+                "text": "C'est...\\. Je sais pas.\\. Je veux dire, avant c'était fun."
         },
         "database.json/commonEvents/sao-duel-accept/event/4/thenStep/7/message": {
                 "orig": "We had a nice time, I mopped the floor with you and everyone was happy!",
@@ -2627,8 +2624,7 @@
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/9/message": {
                 "orig": "What is it?\\. Should I keep it short?",
-                "text": "Qu'est-ce qu'il y a ?\\. Il faut que je fasse plus court ?",
-                "quality": "unknown"
+                "text": "Qu'est-ce qu'il y a ?\\. Il faut que je fasse plus court ?"
         },
         "database.json/commonEvents/sao-duel-accept/event/6/thenStep/10/message": {
                 "orig": "[nods]",
@@ -3175,7 +3171,6 @@
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/37/message": {
                 "orig": "For your next game, try to give your protagonist some proper character.",
                 "text": "Pour votre prochain jeu, essayez de mettre un vrai personnage pour votre protagoniste.",
-                "quality": "unknown",
                 "note": "now, THAT, reminds me of someone."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/7/thenStep/38/message": {
@@ -5451,8 +5446,7 @@
         },
         "database.json/commonEvents/contact-blocked-area/event/0/text": {
                 "orig": "You shouldn't contact anyone from here to reduce suspicion.",
-                "text": "Il vaut mieux contacter personne à partir d'ici, pour ne pas éveiller les suspicions.",
-                "quality": "unknown"
+                "text": "Vous devriez contacter personne à partir d'ici, pour ne pas éveiller les soupçons."
         },
         "database.json/commonEvents/join-blocked/event/2/text": {
                 "orig": "No Connection",
@@ -6127,8 +6121,7 @@
         },
         "database.json/commonEvents/glasses-contact/event/13/thenStep/0/message": {
                 "orig": "S-Sorry, Lea!\\. I have to check something!\\. I'll be back soon, promise!",
-                "text": "D-Désolé, Lea !\\. Il faut que j'aille vérifier quelque chose !\\. Je serais de retour bientôt, promis !",
-                "quality": "unknown"
+                "text": "D-Désolé, Lea !\\. Il faut que j'aille vérifier quelque chose !\\. Je serais de retour bientôt, promis !"
         },
         "database.json/commonEvents/glasses-contact/event/14/thenStep/2/message": {
                 "orig": "I'm still around and ready if you'd like to start the party. For now at least.",
@@ -7437,8 +7430,7 @@
         },
         "database.json/commonEvents/luke-contact/event/5/thenStep/3/message": {
                 "orig": "[nods]",
-                "text": "Bonjour ! [À FAIRE: mettre un vrai dialogue]",
-                "quality": "unknown"
+                "text": "[acquiesce]"
         },
         "database.json/commonEvents/luke-contact/event/6/thenStep/2/message": {
                 "orig": "[nods]",
@@ -7454,8 +7446,7 @@
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/0/message": {
                 "orig": "Have you heard?\\. There's a bunch of non-Evotars meeting in the \\c[3]city hall\\c[0], acting like it's their village.",
-                "text": "T'es au courant ? Il y a un tas de non-Évotar qui sont réunis à l'\\c[3]hôtel de ville\\c[0], qui font comme s'ils étaient chez eux.",
-                "quality": "unknown"
+                "text": "T'es au courant ?\\. Il y a un tas de non-Évotar qui sont réunis à l'\\c[3]hôtel de ville\\c[0], qui font comme s'ils étaient chez eux."
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/1/message": {
                 "orig": "No really, we're planning to run the new dungeon together.\\. You should join us!",
@@ -9682,41 +9673,37 @@
         },
         "database.json/drops/Beach-Pink-1/name": {
                 "orig": "Alpha Coral Blub",
-                "text": "Corail Alpha",
-                "quality": "unknown"
+                "text": "Bulbe de Corail Alpha"
         },
         "database.json/drops/Beach-Pink-1/subArea": {
-                "orig": "en_US",
-                "text": "fr_FR"
+                "orig": "Commonly found near corals in \\c[3]\\v[area.beach.name]\\c[0].",
+                "text": "Se trouve communément près des corails de l'\\c[3]\\v[area.beach.name]\\c[0]"
         },
         "database.json/drops/Beach-Pink-2/name": {
                 "orig": "Beta Coral Bulb",
-                "text": "Corail Beta",
-                "quality": "unknown"
+                "text": "Bulbe de Corail Beta"
         },
         "database.json/drops/Beach-Pink-2/subArea": {
-                "orig": "en_US",
-                "text": "fr_FR"
+                "orig": "Commonly found near vegetation in \\c[3]\\v[area.beach.name]\\c[0].",
+                "text": "Se trouve communément près de la végétation de l'\\c[3]\\v[area.beach.name]\\c[0]"
         },
         "database.json/drops/Beach-Green-1/name": {
                 "orig": "Alpha Keen Sprout",
-                "text": "Plage-Verte-1",
+                "text": "Pousse Vive Alpha",
                 "quality": "unknown"
         },
         "database.json/drops/Beach-Green-2/name": {
                 "orig": "Beta Keen Sprout",
-                "text": "Plage-Verte-2",
+                "text": "Pousse Vive Beta",
                 "quality": "unknown"
         },
         "database.json/drops/Beach-Grey-1/name": {
                 "orig": "Alpha Fossil Stone",
-                "text": "Plage-Grise-1",
-                "quality": "unknown"
+                "text": "Pierre Fossile Alpha"
         },
         "database.json/drops/Beach-Grey-2/name": {
                 "orig": "Beta Fossil Stone",
-                "text": "Plage-Grise-2",
-                "quality": "unknown"
+                "text": "Pierre Fossile Beta"
         },
         "database.json/enemies/snowman/name": {
                 "orig": "Karotto",
@@ -10081,23 +10068,19 @@
         },
         "database.json/enemies/final.god-heat/species": {
                 "orig": "Ancient God",
-                "text": "Crabe Mécanique",
-                "quality": "unknown"
+                "text": "Dieu des Anciens"
         },
         "database.json/enemies/final.god-cold/species": {
                 "orig": "Ancient God",
-                "text": "Crabe Mécanique",
-                "quality": "unknown"
+                "text": "Dieu des Anciens"
         },
         "database.json/enemies/final.god-shock/species": {
                 "orig": "Ancient God",
-                "text": "Crabe Mécanique",
-                "quality": "unknown"
+                "text": "Dieu des Anciens"
         },
         "database.json/enemies/final.god-wave/species": {
                 "orig": "Ancient God",
-                "text": "Crabe Mécanique",
-                "quality": "unknown"
+                "text": "Dieu des Anciens"
         },
         "database.json/enemies/boss.elephant-core/name": {
                 "orig": "boss.elephant-core",
@@ -10250,8 +10233,7 @@
         },
         "database.json/enemies/avatar.apollo-4/name": {
                 "orig": "Apollo 4",
-                "text": "Apollo",
-                "quality": "unknown"
+                "text": "Apollo 4"
         },
         "database.json/enemies/avatar.apollo-4/species": {
                 "orig": "Warrior of Justice",
@@ -10316,13 +10298,11 @@
         },
         "database.json/enemies/avatar.lily/species": {
                 "orig": "A Flower?",
-                "text": "Guerrier de la Justice",
-                "quality": "unknown"
+                "text": "Une Fleur ?"
         },
         "database.json/enemies/avatar.lily/descriptions/0/text": {
                 "orig": "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
-                "text": "Après avoir crié sur Reize avec un grand sourire, Lily a voulu essayer des PvP avec vous. Et c'est qu'elle était pas mauvaise.",
-                "quality": "unknown"
+                "text": "Une joueuse Hexacast d'une nouvelle guilde appellée les Chasseurs d'Étoiles. Elle est assez curieuse de son nouvel environement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
         },
         "database.json/enemies/final.gynthar/name": {
                 "orig": "Gynthar",
@@ -10330,8 +10310,7 @@
         },
         "database.json/enemies/final.gynthar/species": {
                 "orig": "Armless Monk",
-                "text": "Mec Cool",
-                "quality": "unknown"
+                "text": "Moine Sans Bras"
         },
         "database.json/enemies/boss.designer-1/name": {
                 "orig": "???",
@@ -10931,8 +10910,7 @@
         },
         "database.json/enemies/heat.sandworm/descriptions/1/text": {
                 "orig": "According to some insight by C'tron worms possess 5 hearts. It's a mystery how they fit into this elastic body.",
-                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère.",
-                "quality": "unknown"
+                "text": "D'après C'tron, les vers possèdent 5 cœurs. Savoir comment ils peuvent tenir dans ce corps élastique reste un mystère."
         },
         "database.json/enemies/heat.sandworm-boss/name": {
                 "orig": "Ti'im",
@@ -11345,13 +11323,11 @@
         },
         "database.json/enemies/guest.honeybear/name": {
                 "orig": "Beearbot",
-                "text": "Ours de Miel",
-                "quality": "unknown"
+                "text": "Robot Ours"
         },
         "database.json/enemies/guest.honeybear/species": {
                 "orig": "Bear ",
-                "text": "Ours",
-                "quality": "unknown"
+                "text": "Ours"
         },
         "database.json/enemies/final.colibri/name": {
                 "orig": "Hummagnum",
@@ -11376,13 +11352,11 @@
         },
         "database.json/enemies/beach.turtle-man/descriptions/1/text": {
                 "orig": "Researchers who made friends with some of these turtles found that they are great listeners.",
-                "text": "Leurs armes de prédilection sont des épées duales connues sous le nom de \"Lames Soleils\". Quand il est menacé, il peut faire apparaitre une barrière de chaleur et peut utiliser une attaque de feinte en sautant derrière ses ennemis suivis d'un tourbillon de feu énorme.",
-                "quality": "unknown"
+                "text": "Les chercheurs qui se sont liés d'amitiés avec eux ont découvert qu'ils écoutent très bien."
         },
         "database.json/enemies/beach.sea-star/species": {
                 "orig": "Marine Menace",
-                "text": "????",
-                "quality": "unknown"
+                "text": "Menace Maritime"
         },
         "database.json/enemies/frobbit-miniboss-gallant/name": {
                 "orig": "Gallant Frobbit",
@@ -11959,8 +11933,7 @@
         },
         "database.json/enemies/final.ele-pillar-heat/species": {
                 "orig": "Unsupportive Pillar",
-                "text": "Ne porte rien",
-                "quality": "unknown"
+                "text": "Pillier Soutenant Rien"
         },
         "database.json/enemies/final.ele-pillar-cold/name": {
                 "orig": "Cold Statue",
@@ -11968,8 +11941,7 @@
         },
         "database.json/enemies/final.ele-pillar-cold/species": {
                 "orig": "Unsupportive Pillar",
-                "text": "Ne porte rien",
-                "quality": "unknown"
+                "text": "Pillier Soutenant Rien"
         },
         "database.json/enemies/final.ele-pillar-shock/name": {
                 "orig": "Shock Statue",
@@ -11977,8 +11949,7 @@
         },
         "database.json/enemies/final.ele-pillar-shock/species": {
                 "orig": "Unsupportive Pillar",
-                "text": "Ne porte rien",
-                "quality": "unknown"
+                "text": "Pillier Soutenant Rien"
         },
         "database.json/enemies/final.ele-pillar-wave/name": {
                 "orig": "Wave Statue",
@@ -11986,8 +11957,7 @@
         },
         "database.json/enemies/final.ele-pillar-wave/species": {
                 "orig": "Unsupportive Pillar",
-                "text": "Ne porte rien",
-                "quality": "unknown"
+                "text": "Pillier Soutenant Rien"
         },
         "database.json/enemies/final.guardian/name": {
                 "orig": "Guardian Statue",
@@ -12325,7 +12295,8 @@
         },
         "database.json/enemies/jungle.special.heater/name": {
                 "orig": "Hyperforce Plasmaoven",
-                "text": "Plasmafour Hyperforce"
+                "text": "Four Plasma Hyperforce",
+                "note": "renamed in maps/jungle/caves/questcave-snowman-boss.json/entities/23/settings/event/33/message"
         },
         "database.json/enemies/jungle.special.heater/species": {
                 "orig": "Machinery",
@@ -12401,9 +12372,7 @@
         },
         "database.json/enemies/minibosses.raid-core/name": {
                 "orig": "Core",
-                "text": "Cœur du Raid",
-                "quality": "unknown",
-                "note": "assuming it's the weak point"
+                "text": "Cœur"
         },
         "database.json/enemies/minibosses.raid-core/species": {
                 "orig": "????",
@@ -12411,8 +12380,8 @@
         },
         "database.json/enemies/minibosses.raid-turret/name": {
                 "orig": "Big Slider",
-                "text": "Tourelle du Raid",
-                "quality": "unknown"
+                "text": "Gros Défileur",
+                "note": "de is not really de, probably related to side scroller ?"
         },
         "database.json/enemies/minibosses.raid-turret/species": {
                 "orig": "????",
@@ -12420,8 +12389,7 @@
         },
         "database.json/enemies/minibosses.raid-turret-small/name": {
                 "orig": "Slider",
-                "text": "Petite Tourelle du Raid",
-                "quality": "unknown"
+                "text": "Défileur"
         },
         "database.json/enemies/minibosses.raid-turret-small/species": {
                 "orig": "????",
@@ -12429,8 +12397,7 @@
         },
         "database.json/enemies/minibosses.raid-laser/name": {
                 "orig": "Laser",
-                "text": "Laser du Raid",
-                "quality": "unknown"
+                "text": "Laser"
         },
         "database.json/enemies/minibosses.raid-laser/species": {
                 "orig": "????",
@@ -12438,8 +12405,7 @@
         },
         "database.json/enemies/minibosses.raid-dispenser/name": {
                 "orig": "Dispenser",
-                "text": "Distributeur du Raid",
-                "quality": "unknown"
+                "text": "Distributeur"
         },
         "database.json/enemies/minibosses.raid-dispenser/species": {
                 "orig": "????",
@@ -13456,8 +13422,7 @@
         },
         "database.json/lore/rookie-dungeon/title": {
                 "orig": "Rhombus Dungeon",
-                "text": "Donjon des Débutants",
-                "quality": "unknown"
+                "text": "Donjon de Rhombus"
         },
         "database.json/lore/rookie-dungeon/content/page-01-01/content": {
                 "orig": "The Rhombus Dungeon is located on \\c[3]\\v[lore.title.newcomers-bridge]\\c[0] and serves as the final test for new \\c[3]\\v[lore.title.seeker]s\\c[0].",
@@ -16249,8 +16214,7 @@
         },
         "database.json/quests/bg-3-goat_final/briefing": {
                 "orig": "You have cleared the big case, prevented a large fight and even helped the goats to adapt to a new life in \\v[area.rhombus-sqr.name]!",
-                "text": "Malgré vos meilleurs efforts, le scientifique a pu fuir. Mais c'est un problème pour un autre jour.",
-                "quality": "unknown"
+                "text": "Vous avez résolu l'affaire, empêché une guerre et avez même réussi à ce que les boucs puisse mener une nouvelle vie à \\v[area.rhombus-sqr.name] !"
         },
         "database.json/quests/bg-3-goat_final/tasks/0/task": {
                 "orig": "Investigate what happened in the \\c[3]Horncave\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]",
@@ -16270,13 +16234,13 @@
         },
         "database.json/quests/bg-3-goat_final/tasks/4/task": {
                 "orig": "Solve the case \\c[3]In Cawhoofs\\c[0] for \\c[3]Sergeant Bronzel\\c[0]",
-                "text": "Résolvez l'affaire du \\c[3]Sergent Bronzel\\c[0]",
-                "quality": "unknown"
+                "text": "Résolvez l'affaire \\c[3]La conspiration des Peruboucs\\c[0] du \\c[3]Sergent Bronzel\\c[0]",
+                "quality": "unknown",
+                "note": "not sure i want to keep that quest name"
         },
         "database.json/quests/bg-3-goat_final/tasks/5/task": {
                 "orig": "Follow the lead to \\c[3]Cliff Exhibition\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
-                "text": "Suivez les traces jusqu'à la \\c[3]place\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
-                "quality": "unknown"
+                "text": "Suivez les traces jusqu'à l'\\c[3]Exhibition de Falaises\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/tasks/6/task": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.goat]s\\c[0]",
@@ -16445,8 +16409,7 @@
         },
         "database.json/quests/monks-2-jump_challenge_2/tasks/2/task": {
                 "orig": "Return to the \\c[3]Monastery\\c[0] and talk to \\c[3]Monk Aisy\\c[0] again",
-                "text": "Retournez au \\c[3]Monastère\\c[0] et parlez encore au \\c[3]Moine Kratos\\c[0]",
-                "quality": "unknown"
+                "text": "Retournez au \\c[3]Monastère\\c[0] et parlez encore au \\c[3]Moine Aisy\\c[0]"
         },
         "database.json/quests/monks-2-jump_challenge_2/tasks/3/task": {
                 "orig": "Report back to \\c[3]Wise Nemuh\\c[0] in the \\c[3]Bergen Monastery\\c[0]",
@@ -17085,8 +17048,7 @@
         },
         "database.json/quests/wervyn-quest/briefing": {
                 "orig": "You learned about the daily work of the \\c[3]Last Minute Heroes\\c[0] guild, the glory that comes with it, and maybe also a few problems.",
-                "text": "Vous avez appris le travail de tous les jours des \\c[3]Héros de la Dernière Minute\\c[0] et de la gloire qui vient avec, et peut-être aussi des quelques problèmes que cela peut causer.",
-                "quality": "unknown"
+                "text": "Vous avez appris le travail de tous les jours des \\c[3]Héros de la Dernière Minute\\c[0] et de la gloire qui vient avec, et peut-être aussi des quelques problèmes que cela peut causer."
         },
         "database.json/quests/wervyn-quest/tasks/0/task": {
                 "orig": "Meet PuellaDocta in the \\c[3]Last Minute Heroes HQ\\c[0] north of the \\c[3]Autumn Residences\\c[0]",
@@ -17411,8 +17373,7 @@
         },
         "database.json/quests/nomadAdv-3-sandman_tomb_1/briefing": {
                 "orig": "Exploration of the Barren Temple is finally completed. Though you don't know what exactly you found, it is certain that humanity has made great progress from your efforts.",
-                "text": "L'exploration du Temple Abandonné est finalement terminée. Bien que vous ne sachiez pas exactement ce que vous avez trouvé, il est certain que l'humanité a franchi une étape importante.",
-                "quality": "unknown"
+                "text": "L'exploration du Temple Abandonné est finalement terminée. Bien que vous ne sachiez pas exactement ce que vous avez trouvé, il est certain que l'humanité a franchi une étape importante."
         },
         "database.json/quests/nomadAdv-3-sandman_tomb_1/tasks/0/task": {
                 "orig": "Revisit the \\c[3]Barren Temple\\c[0] through \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0] and talk with explorer Hira",
@@ -17669,8 +17630,8 @@
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/name": {
                 "orig": "Spiritual Drinks",
-                "text": "Fantômes des bouteilles",
-                "quality": "unknown"
+                "text": "Boissons Spiritueuses",
+                "note": "liqueur spiritueuse ?"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/person": {
                 "orig": "Kney'tehab",
@@ -17678,8 +17639,7 @@
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/description": {
                 "orig": "Ryda of the \\v[lore.title.faction-shock-baki] wants to upgrade the brewing device to unlock even more recipes! A worthy task for an experienced \\v[lore.title.seeker]!",
-                "text": "Blabla quête finale de l'\\v[lore.title.faction-shock-baki]. Améliorez la machine à binouses, mais oh non, des fantômes apparaissent ?!",
-                "quality": "unknown"
+                "text": "Ryda de l'\\v[lore.title.faction-shock-baki] veut améliorer la machine de brassage pour débloquer encore plus de recettes ! Une tâche digne pour un \\v[lore.title.seeker] éxpérimenté !"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/0/task": {
                 "orig": "Talk to \\c[3]Ryda\\c[0] in the \\c[3]\\v[area.heat-village.name] Bazaar building\\c[0]",
@@ -17687,8 +17647,7 @@
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/1/task": {
                 "orig": "Get the \\c[3]needed materials\\c[0] to upgrade the device",
-                "text": "Obtenez les \\c[3]matériaux nécessaires\\c[0] pour commencer le brassage.",
-                "quality": "unknown"
+                "text": "Obtenez les \\c[3]matériaux nécessaires\\c[0] pour améliorer la machine"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/2/task": {
                 "orig": "Bring the materials to \\c[3]Ryda\\c[0]",
@@ -17696,8 +17655,7 @@
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/3/task": {
                 "orig": "Upgrade the \\c[3]brewing machine\\c[0] in the basement",
-                "text": "Examinez la \\c[3]machine de brassage\\c[0] et démarrez le \\c[3]processus de brassage\\c[0]",
-                "quality": "unknown"
+                "text": "Examinez la \\c[3]machine de brassage\\c[0] au sous-sol"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/4/task": {
                 "orig": "Report back to \\c[3]Bazaarboss Kney'tehab\\c[0] in the \\c[3]Ba'kii Kum Market\\c[0]",
@@ -18074,23 +18032,20 @@
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/description": {
                 "orig": "The goat gang of \\v[area.bergen-trails.name] might've forged an alliance with the local \\v[area.jungle-city.name] Papagang. Investigate!",
-                "text": "Le gang des boucs du \\v[area.bergen-trails.name] ont peut-être formé une alliance avec le Pépégang. Enquêtez !",
-                "quality": "unknown"
+                "text": "Le gang des boucs du \\v[area.bergen-trails.name] ont peut-être formé une alliance avec le Pépégang du \\v[area.jungle-city.name]. Enquêtez !"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/briefing": {
                 "orig": "You defeated the current leader of the Papagang and learned that the mysterious cargo is on its way to \\v[area.rhombus-sqr.name]! Time to continue your original quest!",
-                "text": "Chatons et Frigos pour les Shads !",
-                "quality": "unknown"
+                "text": "Vous avez vaincu le chef actuel du Pépégang et appris que le cargo mystérieux est en route vers \\v[area.rhombus-sqr.name] ! Il est temps de continuer votre travail de départ !"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/0/task": {
                 "orig": "Gather information about the Papagang with \\c[3]underworld figures\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0]'s \\c[3]Pond Slums\\c[0]",
-                "text": "Obtenez de l'information à propos du Pépégang avec des \\c[3]personnes de l'au-delà\\c[0] dans le \\c[3]\\v[area.jungle-city.name]\\c[0] au sud-est de la \\c[3]Zone Zermi du \\v[area.jungle.name]\\c[0]",
-                "quality": "unknown"
+                "text": "Obtenez de l'information à propos du Pépégang avec des \\c[3]personnes de l'au-delà\\c[0] dans la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0]",
+                "note": "de: de la pègre ?"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/1/task": {
                 "orig": "Trade with the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0] to gain their trust",
-                "text": "Marchandez avec la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0] pour gagner leur confiance",
-                "quality": "unknown"
+                "text": "Marchandez avec la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0] pour gagner sa confiance."
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/4/task": {
                 "orig": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]",
@@ -18195,8 +18150,7 @@
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/1/task": {
                 "orig": "Visit \\c[3]\"Owo\", the engineer Shad\\c[0] in his house in \\c[3]V'rda Vil East\\c[0]",
-                "text": "Allez chez \\c[3]\"Owo\", l'ingénieur Shad\\c[0] dans sa maison à \\c[3]V'rda Vil Est\\c[0]",
-                "quality": "unknown"
+                "text": "Allez chez \\c[3]\"Owo\", l'ingénieur Shad\\c[0] dans sa maison à \\c[3]V'rda Vil Est\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/2/task": {
                 "orig": "\\c[3]Collect materials\\c[0] needed for the \\c[3]Natural Power Generator\\c[0]",
@@ -18216,8 +18170,7 @@
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/6/task": {
                 "orig": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marshes North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
-                "text": "Parlez à \\c[3]Owo'kyari\\c[0] aux \\c[3]Marécages Infestés Nord\\c[0] pour attraper d'autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
-                "quality": "unknown"
+                "text": "Parlez à \\c[3]Owo'kyari\\c[0] aux \\c[3]Marécages Infestés Nord\\c[0] pour attraper d'autres \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
         },
         "database.json/quests/jungleTrader-3-shad_fridge_1/tasks/7/task": {
                 "orig": "Return once more to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0]",
@@ -19306,8 +19259,7 @@
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/hubSettings/location": {
                 "orig": "Time to eliminate the source of illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]",
-                "text": "Il est temps d'éliminer la source des trafics une fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]",
-                "quality": "unknown"
+                "text": "Il est temps d'éliminer la source des traffics une bonne fois pour toutes ! \\c[3]- QG Garde Portuaire\\c[0]"
         },
         "database.json/quests/rhg-4-maritime_smuggle_2/name": {
                 "orig": "Wetter Work",
@@ -20518,33 +20470,27 @@
         },
         "database.json/traders/rhombusPostWeapon1/name": {
                 "orig": "Rhombus Elite Weapons",
-                "text": "Armes de Rhombus",
-                "quality": "unknown"
+                "text": "Armes d'Élites de Rhombus"
         },
         "database.json/traders/rhombusPostHead1/name": {
                 "orig": "Rhombus Elite Head",
-                "text": "Têtes de Rhombus",
-                "quality": "unknown"
+                "text": "Têtes d'Élites de Rhombus"
         },
         "database.json/traders/rhombusPostTorso1/name": {
                 "orig": "Rhombus Elite Torso",
-                "text": "Torses de Rhombus",
-                "quality": "unknown"
+                "text": "Torses d'Élites de Rhombus"
         },
         "database.json/traders/rhombusPostFeet1/name": {
                 "orig": "Rhombus Elite Legs",
-                "text": "Jambes de Rhombus",
-                "quality": "unknown"
+                "text": "Jambes d'Élites de Rhombus"
         },
         "database.json/traders/rhombusPostEquipAntique1/name": {
                 "orig": "Antique Elite Gear",
-                "text": "Équipements Antiques",
-                "quality": "unknown"
+                "text": "Équipements Antiques d'Élites"
         },
         "database.json/traders/rhombusPostEquipSpecial1/name": {
                 "orig": "Elite Special Gear",
-                "text": "Équipement Spécial n°1",
-                "quality": "unknown"
+                "text": "Équipement d'Élite Spécial n°1"
         },
         "database.json/traders/rookieHeal/name": {
                 "orig": "Rookie Sandwiches",

@@ -523,13 +523,11 @@
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/5/message": {
                 "orig": "Meet!",
-                "text": "... Marché.\\. Bon marché.\\. Bonne chance avec œuf !",
-                "quality": "unknown"
+                "text": "Rencontrer !"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/6/message": {
                 "orig": "... Human want trade?\\. Valuable trade.\\. Precious egg!",
-                "text": "...",
-                "quality": "unknown"
+                "text": "... Humain veut marchander ?\\. Bon marché.\\. Œuf Précieux !"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/3/message": {
                 "orig": "[nods]",
@@ -537,8 +535,7 @@
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/15/text": {
                 "orig": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]It was a scam!\\c[0]",
-                "text": "Le \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] était juste une \\c[3]\\v[item.503.name]\\c[0] !\nC'était une arnaque !",
-                "quality": "unknown"
+                "text": "Le \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] était en fait juste une \\c[3]\\v[item.503.name]\\c[0] !\n\n\\c[1]C'était une arnaque !\\c[0]"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/19/message": {
                 "orig": "... HOW?!",
@@ -550,7 +547,6 @@
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/canceled/4/message": {
                 "orig": "... No trade? Then leave.",
-                "text": "... part.",
-                "quality": "unknown"
+                "text": "... Pas marchander ? Alors disparait."
         }
 }
