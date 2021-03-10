@@ -789,6 +789,10 @@
                 "orig": "Neutralizing!",
                 "text": "Neutralisation !"
         },
+        "enemies/arid/virus-neutral.json/actions/INIT/0/text": {
+                "orig": "asdasd + \\v[tmp.virus.spawn]",
+                "text": "qsdqsd + \\v[tmp.virus.spawn]"
+        },
         "enemies/arid/virus-neutral.json/meta/species": {
                 "orig": "Unknown",
                 "text": "Inconnu"
@@ -1765,6 +1769,10 @@
                 "orig": "Bear ",
                 "text": "Ours"
         },
+        "enemies/guest/honeybear.json/meta/descriptions/0/text": {
+                "orig": "This powerful being is half machine, half bear and all danger. As if this was not enough, it has entered a symbiotic relationship with an entire hive filled with deadly bee weapons.\nAgainst the powerful armor a \\c[3]frontal assault seems hopeless\\c[0] so it might be a good idea to \\c[3]wait for a distraction\\c[0]. Thankfully, this bear is prone to \\c[3]playing with his food\\c[0]...",
+                "text": "Cet être puissant est mi-machine, mi-ours et entièrement dangereux. Et comme si ce n'était pas suffisant, il est entré en relation symbiotique avec une ruche entière remplie armes mortelles d'abeilles.\nContre la puissante armure, une \\c[3]attaque frontale semble désespérée\\c[0] donc il vaut mieux \\c[3]attendre une distraction\\c[0]. Heureusement, cet ours à tendance à \\c[3]jouer avec sa nourriture\\c[0]..."
+        },
         "enemies/guest/sao.json/meta/species": {
                 "orig": "Ninja",
                 "text": "Ninja"
@@ -2041,9 +2049,17 @@
                 "orig": "An improved variant of the popular \\c[3]Rhombus Turret\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. This type does not have an accompanying \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] for additional shielding but can still fire \\c[3]mortars\\c[0] at targets behind cover or on different height layers.",
                 "text": "Une variante améliorée de la populaire \\c[3]Tourelle de Rhombus\\c[0], utilisée par les forces de l'ordre de \\c[3]\\v[area.heat-village.name]\\c[0]. Ce type n'est pas accompagné par un \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] pour avoir un bouclier supplémentaire, mais il peut quand même tirer des \\c[3]mortiers\\c[0] pour attaquer des cibles à couvert ou sur des hauteurs différentes."
         },
+        "enemies/heat/special/brew-bubbler.json/proxies/fireBallProxy/action/0/text": {
+                "orig": "OVERHEAT ATTACK",
+                "text": "ATTAQUE SURCHAUFFE"
+        },
         "enemies/heat/special/brew-bubbler.json/actions/BubbleSingle/4/text": {
                 "orig": "[ PREPARING BUBBLE ]",
                 "text": "[ PRÉPARATION BULLE ]"
+        },
+        "enemies/heat/special/brew-bubbler.json/actions/FireShot/1/text": {
+                "orig": "[ RELEASING FIRE ]",
+                "text": "[ LIBÉRATION DU FEU ]"
         },
         "enemies/heat/special/brew-bubbler.json/actions/TurnOn/0/thenStep/0/text": {
                 "orig": "<ON>",
@@ -2056,6 +2072,14 @@
         "enemies/heat/special/brew-machine.json/actions/iceDisc-Hit/2/text": {
                 "orig": "[Cooling down]",
                 "text": "[Refroidissement]"
+        },
+        "enemies/heat/special/brew-machine.json/actions/activateShields/1/text": {
+                "orig": "[ SHIELDS ON ]",
+                "text": "[ BOUCLIERS ACTIVÉS ]"
+        },
+        "enemies/heat/special/brew-machine.json/actions/deactivateShields/1/text": {
+                "orig": "[ RECHARGING SHIELDS... ]",
+                "text": "[ RECHARGEMENT BOUCLIERS... ]"
         },
         "enemies/heat/special/brew-machine.json/meta/species": {
                 "orig": "Machinery",
@@ -2137,9 +2161,21 @@
                 "orig": "A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Baki Guard\\c[0], before his crimes were uncovered.\n\nWhile his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him.",
                 "text": "Un garde corrompu qui n'a aucun respect pour les Shads qui sont les natifs de Shadoon. Il avait autrefois une position respectable dans la \\c[3]\\v[lore.title.faction-cold-baki]\\c[0] avant que ses crimes ne soient découverts.\n\nBien que son sentiment de justice soit un peu de travers, il reste un combattant assez doué. Il manie l'équipement standard des gardes, la \\c[3]Laserlance\\c[0], avec une grande dextérité et possède toujours sur lui quelques de ses sandwichs favoris au cas où le combat l'épuise."
         },
+        "enemies/heat/special/heat-golem-booze.json/meta/species": {
+                "orig": "Drunken Being",
+                "text": "Être Bourré"
+        },
+        "enemies/heat/special/heat-golem-booze.json/meta/descriptions/0/text": {
+                "orig": "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\nJust like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again.",
+                "text": "Ramené à la vie par le feu et par les meilleurs spiritueux, ce golem brule encore plus chaud que ses cousins plus commun, les \\v[combat.name.heat/heat-golem]s. Il est né à partir d'une distillerie haute puissance et ne pourra pas tenir longtemps sans les traditionnelles boissons des Anciens.\nComme l'\\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] il reçoit un bouclier de la Distillerie qui l'a fait apparaitre.  Un mécanisme doit être activé pour le rendre vulnérable à nouveau."
+        },
         "enemies/heat/special/jellyfish-booze.json/meta/species": {
                 "orig": "Alcoholic Jellyfish",
                 "text": "Méduse Alcoolique"
+        },
+        "enemies/heat/special/jellyfish-booze.json/meta/descriptions/0/text": {
+                "orig": "A variant of the \\v[combat.name.heat/jellyfish], but with a much higher amount of alcohol. There are no known natural habitats, but they tend to appear near distilleries with a powerful connection to Ancient energy.\nLike with their more common relative, they can be temporarily stunned by using their own bubbles against them. Though you might need to get rid of an external shield first!",
+                "text": "Une variante de la \\v[combat.name.heat/jellyfish], mais avec un taux d'alcoolémie bien plus élevé. Il n'a aucun habitat naturel connu, mais ils ont tendance à apparaitre à coté des distilleries qui ont une puissante connexion à l'énergie des Anciens.\nComme leur cousins plus communs, ils peuvent être temporairement étourdis en utilisant leur propres bulles contre eux. Mais avant, vous devriez peut-être vous débarrasser de leur bouclier externe !"
         },
         "enemies/heat/special/kamikatze-helper.json/actions/Activate/1/text": {
                 "orig": "Activated... loading Bomb!",
@@ -2523,13 +2559,45 @@
                 "orig": "[ INSPECT ]",
                 "text": "[ INSPECTION ]"
         },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortCombatIdle/2/thenStep/1/text": {
+                "orig": "[ RECHARGING SALT ]",
+                "text": "[ RECHARGEMENT EN SEL ]"
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDodge/0/text": {
+                "orig": "DODGE",
+                "text": "ÉVITEMENT"
+        },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/2/text": {
                 "orig": "[ DANGER! ]",
                 "text": "[ DANGER ! ]"
         },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortHit/4/thenStep/1/text": {
+                "orig": "[ RECHARGING SALT ]",
+                "text": "[ RECHARGEMENT EN SEL ]"
+        },
         "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortDead/3/text": {
                 "orig": "[ Linde is unconscious!!! ]",
                 "text": "[ Linde est inconsciente !!! ]"
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSuckEnemy/14/text": {
+                "orig": "[ ABSORBING ]",
+                "text": "[ ABSORPTION ]"
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSuckCess/11/text": {
+                "orig": "[ ABSORBING DONE ]",
+                "text": "[ ABSORPTION TERMINÉE ]"
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSuckCancel/1/text": {
+                "orig": "[ ABSORBING CANCELLED ]",
+                "text": "[ ABSORPTION ANNULLÉE ]"
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSaltSteam/12/text": {
+                "orig": "[ BUILDING STEAM ]",
+                "text": "[ FABRICATION VAPEUR ]"
+        },
+        "enemies/jungle/special/npc-escortee-greeny.json/actions/EscortSaltSteam/29/text": {
+                "orig": "[ RECHARGING SALT ]",
+                "text": "[ RECHARGEMENT EN SEL ]"
         },
         "enemies/jungle/special/npc-escortee-greeny.json/meta/species": {
                 "orig": "Escortee",
@@ -2607,9 +2675,66 @@
                 "orig": "!!!",
                 "text": "!!!"
         },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesHoming/action/15/hit/0/text": {
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesHoming/action/18/hit/0/text": {
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesHoming/action/18/missed/0/hit/0/text": {
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesExplosion/action/0/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesExplosion/action/15/hit/0/text": {
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesExplosion/action/18/hit/0/text": {
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesExplosion/action/18/missed/0/hit/0/text": {
+                "orig": "boom effects?",
+                "text": "effets d'explosions ?"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/CircleToCenter/0/text": {
+                "orig": "( TO CENTER )",
+                "text": "( AU CENTRE )"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/GangsterShootCover/15/text": {
+                "orig": "[Shooting...]",
+                "text": "[Tir...]"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/GangsterReactCharged/7/text": {
+                "orig": "[Lost control!]",
+                "text": "[Perdu Contrôle !]"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/GangsterWarning/1/text": {
+                "orig": "[WARNING BIRDNOISES!]",
+                "text": "[CRIS D'OISEAU D'AVERTISSEMENT !]"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/GangsterShootHostage/0/text": {
+                "orig": "[Shooting Hostage...]",
+                "text": "[Exécution Otage...]"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/OLD_GangsterReactCharged/6/text": {
+                "orig": "[Hit to free hostage!]",
+                "text": "[Touchez pour libérer l'otage !]"
+        },
         "enemies/jungle/special/parrot-gangster-boss-1.json/meta/species": {
                 "orig": "Lawless Birdboss",
                 "text": "Boss Oiseau Hors La Loi"
+        },
+        "enemies/jungle/special/parrot-gangster-boss-1.json/meta/descriptions/0/text": {
+                "orig": "The young and hot-headed boss of the Papagang. He only just recently took over the leadership position as the old boss retired. \nThough he seems vain and undisciplined, he is in fact a master with his powerful weaponry. Precise \\c[3]machinegun fire\\c[0], explosive \\c[3]fruitbombs\\c[0] and especially his tenacious \\c[3]seeking missiles\\c[0] have destroyed many a rival in the past.",
+                "text": "Le jeune et furieux patron du Pépégang. Il vient tout juste de devenir chef vu que l'ancien s'est retiré. \nBien qu'il semble vain et indiscipliné, il est en fait vraiment un maitre de ses puissantes armes. Ses \\c[3]tirs de mitrailleuses\\c[0], ses \\c[3]bombe-fruits\\c[0] explosives et surtout ses \\c[3]missiles auto-guidés\\c[0] tenaces ont anéanti plus d'un rival par le passé.",
+                "note": "[Le jeune et furieux patron du Pépégang]: note (soupe au lait ?)"
         },
         "enemies/jungle/special/plant-hidden-shock.json/actions/init/0/thenStep/0/text": {
                 "orig": "[Charging Power]",
@@ -3035,6 +3160,10 @@
         "enemies/jungle/special/shockat-capture.json/actions/InterruptCapture/5/thenStep/0/text": {
                 "orig": "( INTERRUPT CAPTURE )",
                 "text": "( CAPTURE INTERROMPUE )"
+        },
+        "enemies/jungle/special/shockat-capture.json/actions/KillSurvive/0/text": {
+                "orig": "\\c[3][ !!!\\c[0] \\c[1]HAX SURVIVAL\\c[0] \\c[3]!!! ]\\c[0]",
+                "text": "\\c[3][ !!! \\c[0] \\c[1]SURVIE AU HAX\\c[0] \\c[3]!!! ]\\c[0]"
         },
         "enemies/jungle/special/shockat-capture.json/meta/species": {
                 "orig": "Mammal",

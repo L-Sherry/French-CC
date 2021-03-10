@@ -1707,8 +1707,8 @@
         },
         "item-database.json/items/201/name": {
                 "orig": "Jelly Extract",
-                "text": "Extrait de Gelée",
-                "note": "related to Trijelly/Trigelée"
+                "text": "Extrait de Duse",
+                "note": "related to Trijelly/Triduse"
         },
         "item-database.json/items/201/description": {
                 "orig": "No matter how you stretch it, the shape of a triangle persists.",
@@ -5240,6 +5240,86 @@
                 "orig": "An egg-shaped object made from extremely valuable material!",
                 "text": "Un objet en forme d'œuf fait de matière très précieuse !"
         },
+        "item-database.json/items/624/name": {
+                "orig": "Ku'lero Master Key",
+                "text": "Sésame de Ku'lero"
+        },
+        "item-database.json/items/624/description": {
+                "orig": "Master key for the \\c[3]\\v[area.final-dng.name]\\c[0].",
+                "text": "La clef maitre du \\c[3]\\v[area.final-dng.name]\\c[0]."
+        },
+        "item-database.json/items/625/name": {
+                "orig": "Ancient Cups",
+                "text": "Coupe des Anciens"
+        },
+        "item-database.json/items/625/description": {
+                "orig": "Unlocks the \\c[3]\\v[arena.ancient-cup.name]\\c[0] & the \\c[3]\\v[arena.ancient-boss-cup.name]\\c[0] in the \\v[area.rhombus-sqr.name] Arena.",
+                "text": "Débloque la \\c[3]\\v[arena.ancient-cup.name]\\c[0] et la \\c[3]\\v[arena.ancient-boss-cup.name]\\c[0] dans l'Arène de \\v[area.rhombus-sqr.name]."
+        },
+        "item-database.json/items/626/name": {
+                "orig": "Full Rhombus Pass",
+                "text": "Passe de Rhombus"
+        },
+        "item-database.json/items/626/description": {
+                "orig": "Grants access to the whole area of Rhombus Square.",
+                "text": "Permet l'accès à l'intégralité de la zone de \\v[area.rhombus-sqr.name]."
+        },
+        "item-database.json/items/627/name": {
+                "orig": "Ancient Shade",
+                "text": "Symbole Ancien"
+        },
+        "item-database.json/items/627/description": {
+                "orig": "Grants passage to the \\c[3]Final Destination\\c[0] within \\c[3]Northern \\v[area.forest.name]\\c[0].",
+                "text": "Permet d'entrer à la \\c[3]Destination Finale\\c[0] depuis le \\c[3]nord de la \\v[area.forest.name]\\c[0]."
+        },
+        "item-database.json/items/628/name": {
+                "orig": "Nuclear Roach",
+                "text": "Cafard Nucléaire"
+        },
+        "item-database.json/items/628/description": {
+                "orig": "Not something for people afraid of bugs. ",
+                "text": "C'est pas fait pour ceux qui ont peur des insectes."
+        },
+        "item-database.json/items/629/name": {
+                "orig": "Core Stone",
+                "text": "Pierre de Noyau"
+        },
+        "item-database.json/items/629/description": {
+                "orig": "It looks like an eye which follows your every move.",
+                "text": "On dirait un œil qui suis tous vos mouvements."
+        },
+        "item-database.json/items/630/name": {
+                "orig": "Worm Band",
+                "text": "Bandage de Vers"
+        },
+        "item-database.json/items/630/description": {
+                "orig": "A piece of mushy fabric that is extremely stretchable. Often used for underground music.",
+                "text": "Un bout de tissu boueux très élastique. Souvent utilisé pour la musique underground."
+        },
+        "item-database.json/items/631/name": {
+                "orig": "Ember Sack",
+                "text": "Sac de Braise"
+        },
+        "item-database.json/items/631/description": {
+                "orig": "An organic container with highly flammable content.",
+                "text": "Un conteneur organique avec un contenu hautement inflammable."
+        },
+        "item-database.json/items/632/name": {
+                "orig": "Razor Tip",
+                "text": "Lame de Rasoir"
+        },
+        "item-database.json/items/632/description": {
+                "orig": "Sharp enough to cut through stone like it's butter.",
+                "text": "Assez tranchant pour couper de la pierre comme si c'était du beurre."
+        },
+        "item-database.json/items/633/name": {
+                "orig": "Focus Shard",
+                "text": "Tesson de Focus"
+        },
+        "item-database.json/items/633/description": {
+                "orig": "The living core of a defeated crystal enemy from the \\v[area.final-dng.name].",
+                "text": "Le cœur vivant d'un ennemi de cristal vaincu au \\v[area.final-dng.name]."
+        },
         "item-database.json/items/634/name": {
                 "orig": "Singularity Drill",
                 "text": "Foreuse Singularité"
@@ -5247,5 +5327,282 @@
         "item-database.json/items/634/description": {
                 "orig": "A drill that exists outside of time & space. \\i[ascended]",
                 "text": "Une foreuse qui existe en dehors de l'espace et du temps. \\i[ascended]"
+        },
+        "item-database.json/items/635/name": {
+                "orig": "Rift Spore",
+                "text": "Spore de Fissure"
+        },
+        "item-database.json/items/635/description": {
+                "orig": "A living sample of the animated substance from the \\v[area.final-dng.name].",
+                "text": "Un échantillon vivant de la substance animée venant du \\v[area.final-dng.name]."
+        },
+        "item-database.json/items/636/name": {
+                "orig": "- Arena Trade",
+                "text": "- Échangeab. Arène"
+        },
+        "item-database.json/items/636/description": {
+                "orig": "Used to upgrade Arena Equipment",
+                "text": "Utilisé pour améliorer un Équipement de l'Arène"
+        },
+        "item-database.json/items/637/name": {
+                "orig": "Spicy Coffee",
+                "text": "Café Épicé"
+        },
+        "item-database.json/items/637/description": {
+                "orig": "A spicy coffee warming you from the inside.",
+                "text": "Un café épicé qui vous réchauffe de l'intérieur."
+        },
+        "item-database.json/items/638/name": {
+                "orig": "Tremor Core",
+                "text": "Cœur Tremblant"
+        },
+        "item-database.json/items/638/description": {
+                "orig": "Central part of a tremor device that vibrates at an opposite frequency.",
+                "text": "Pièce centrale d'un appareil tremblant qui vibre à une fréquence opposée."
+        },
+        "item-database.json/items/639/name": {
+                "orig": "Tremor Mirage",
+                "text": "Mirage Tremblant"
+        },
+        "item-database.json/items/639/description": {
+                "orig": "Barely controllable, formless weapon that seems to exist in several places at once. \\i[ascended]",
+                "text": "Arme informe, à peine contrôlable, qui semble exister à plusieurs endroits à la fois. \\i[ascended]"
+        },
+        "item-database.json/items/640/name": {
+                "orig": "Champion's Towel",
+                "text": "Serviette Champion"
+        },
+        "item-database.json/items/640/description": {
+                "orig": "A luxurious beach towel embroidened with a magnificent fish. Distinguishes a true champion!",
+                "text": "Serviette de plage de luxe brodée d'un poisson magnifique. Distingue un vrai champion !"
+        },
+        "item-database.json/items/641/name": {
+                "orig": "Dragon Sphere",
+                "text": "Sphère de Dragon"
+        },
+        "item-database.json/items/641/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Dragon's Bandana\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Bandana du Dragon\"\\c[0]. Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/641/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/642/name": {
+                "orig": "Tranquility Sphere",
+                "text": "Sphère d'Oreille"
+        },
+        "item-database.json/items/642/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Tranquil Earmuffs\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept des \\c[3]\"Cache-oreille\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/642/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/643/name": {
+                "orig": "Pendulum Sphere",
+                "text": "Sphère de Pendule"
+        },
+        "item-database.json/items/643/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Pendulum Striker\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Pendule de Frappe\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/643/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/644/name": {
+                "orig": "Knocking Sphere",
+                "text": "Sphère de Frappe"
+        },
+        "item-database.json/items/644/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Knocking One\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Le Frappeur\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/644/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/645/name": {
+                "orig": "Salami Sphere",
+                "text": "Sphère de Salami"
+        },
+        "item-database.json/items/645/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Eternal Salami\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Salami Éternel\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/645/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/646/name": {
+                "orig": "Killing Sphere",
+                "text": "Sphère Tueuse"
+        },
+        "item-database.json/items/646/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Killing Dress\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Robe Tueuse\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/646/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/647/name": {
+                "orig": "Assault Sphere",
+                "text": "Sphère d'Assaut"
+        },
+        "item-database.json/items/647/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Assault Harness\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Harnais d'Assaut\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/647/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/648/name": {
+                "orig": "Roller Sphere",
+                "text": "Sphere de Roller"
+        },
+        "item-database.json/items/648/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Paedalos\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Paedalos\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/648/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/649/name": {
+                "orig": "Skate Sphere",
+                "text": "Sphere de Patin"
+        },
+        "item-database.json/items/649/description": {
+                "orig": "Inhabited by the very concept of \\c[3]\"Combat Skates\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
+                "text": "Habité par le concept de \\c[3]\"Patins de Combat\"\\c[0].  Peut \\c[3]renforcer\\c[0] cet objet."
+        },
+        "item-database.json/items/649/sources/0/value/text": {
+                "orig": "Arena Shop",
+                "text": "Magasin de l'Arène"
+        },
+        "item-database.json/items/650/name": {
+                "orig": "Symbol of Neutral",
+                "text": "Symbole du Neutre"
+        },
+        "item-database.json/items/650/description": {
+                "orig": "An Ancient sculpture in the shape of a grey sphere. \\c[3]Adds an additional Neutral CP.\\c[0] \\i[element-neutral]",
+                "text": "Une ancienne sculpture en forme de sphère grise. \\c[3]Ajoute un CP Neutre supplémentaire.\\c[0] \\i[element-neutral]"
+        },
+        "item-database.json/items/651/name": {
+                "orig": "Symbol of Heat",
+                "text": "Symbole du Chaud"
+        },
+        "item-database.json/items/651/description": {
+                "orig": "An Ancient sculpture in the shape of a flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]",
+                "text": "Une ancienne sculpture en forme de flamme. \\c[3]Ajoute un CP de Chaud supplémentaire.\\c[0] \\i[element-heat]"
+        },
+        "item-database.json/items/652/name": {
+                "orig": "Symbol of Cold",
+                "text": "Symbole du Froid"
+        },
+        "item-database.json/items/652/description": {
+                "orig": "An Ancient sculpture in the shape of an icy crystal. \\c[3]Adds an additional Cold CP.\\c[0] \\i[element-cold]",
+                "text": "Une ancienne sculpture en forme de cristal gelé. \\c[3]Ajoute un CP de Froid supplémentaire.\\c[0] \\i[element-cold]"
+        },
+        "item-database.json/items/653/name": {
+                "orig": "Symbol of Shock",
+                "text": "Symbole du Choc"
+        },
+        "item-database.json/items/653/description": {
+                "orig": "An Ancient sculpture in the shape of a lightning bolt. \\c[3]Adds an additional Shock CP.\\c[0] \\i[element-shock]",
+                "text": "Une ancienne sculpture en forme d'éclair. \\c[3]Ajoute un CP de Choc supplémentaire.\\c[0] \\i[element-shock]"
+        },
+        "item-database.json/items/654/name": {
+                "orig": "Symbol of Wave",
+                "text": "Symbole de l'Onde"
+        },
+        "item-database.json/items/654/description": {
+                "orig": "An Ancient sculpture in the shape of mysterious waves. \\c[3]Adds an additional Wave CP.\\c[0] \\i[element-wave]",
+                "text": "Une ancienne sculpture de vagues mystérieuses. \\c[3]Ajoute un CP d'Onde supplémentaire.\\c[0] \\i[element-wave]"
+        },
+        "item-database.json/items/655/name": {
+                "orig": "Tremor Lab Key",
+                "text": "Clé du Labo Tremor"
+        },
+        "item-database.json/items/655/description": {
+                "orig": "Allows access to the \\c[3]Tremor Lab\\c[0] in the Eastern part of \\c[3]Cliff Exhibition in \\v[area.rhombus-sqr.name]\\c[0]",
+                "text": "Permet l'accès au \\c[3]Laboratoire Tremor\\c[0] à est de l'\\c[3]Exhibition de Falaises à \\v[area.rhombus-sqr.name]\\c[0]"
+        },
+        "item-database.json/items/656/name": {
+                "orig": "Ultra Secret Note",
+                "text": "Note Ultra Secrète"
+        },
+        "item-database.json/items/656/description": {
+                "orig": "\\c[1]DO NOT SHARE!\\c[0] Search for \\c[3]a waterfall in a glitchy area\\c[0] for SoMe SeCrEt, wohooo~...",
+                "text": "\\c[1]NE PAS PARTAGER !\\c[0] Cherchez \\c[3]une chute d'eau glitchée\\c[0] pour Un SeCrEt, youpi~...",
+                "note": "size constraint is severe here."
+        },
+        "item-database.json/items/656/sources/0/value/text": {
+                "orig": "\\c[3]\"Some Test Cup\"\\c[0] in the Arena",
+                "text": "\\c[3]\"Une Coupe de Test\"\\c[0] dans l'Arène"
+        },
+        "item-database.json/items/657/name": {
+                "orig": "Sunglass Visor",
+                "text": "Visère Soleil"
+        },
+        "item-database.json/items/657/description": {
+                "orig": "Tinted eye protection that was crafted from a transparent, sun-forged alloy. \\i[ascended]",
+                "text": "Verre teinté de protection fait à partir d'un alliage transparent forgé par le soleil. \\i[ascended]"
+        },
+        "item-database.json/items/658/name": {
+                "orig": "Lunatic Paws UwU",
+                "text": "Patte Lunatic UwU"
+        },
+        "item-database.json/items/658/description": {
+                "orig": "Upgraded glitch-affinity through a refined \"\\c[3]U\\c[0]ltra\\c[3]w\\c[0]att \\c[3]U\\c[0]nit\"-system. \\i[ascended]",
+                "text": "Une glitchabilité améliorée à travers un système \"\\c[3]U\\c[0]ltra\\c[3]w\\c[0]att \\c[3]U\\c[0]niversel\". \\i[ascended]",
+                "note": "revenge of the owo ?"
+        },
+        "item-database.json/items/659/name": {
+                "orig": "Meteor Trigger",
+                "text": "Déclenche Météore"
+        },
+        "item-database.json/items/659/description": {
+                "orig": "Allegedly used by elite agents from neighboring solar systems. \\i[ascended]",
+                "text": "Aurait été utilisé par des agents d'élites de systèmes solaires voisins. \\i[ascended]"
+        },
+        "item-database.json/items/660/name": {
+                "orig": "Asteroid Belt",
+                "text": "Ceinture Asteroide",
+                "note": "centure d'asteroide is too long"
+        },
+        "item-database.json/items/660/description": {
+                "orig": "Innovative belt that creates a protective rock-cluster around the user. \\i[ascended]",
+                "text": "Une ceinture innovante qui crée un amas de rochers autour de l'utilisateur. \\i[ascended]"
+        },
+        "item-database.json/items/661/name": {
+                "orig": "---",
+                "text": "---"
+        },
+        "item-database.json/items/661/description": {
+                "orig": "---",
+                "text": "---"
+        },
+        "item-database.json/items/662/name": {
+                "orig": "Asteroid Chunk",
+                "text": "Morceau Astéroïde",
+                "note": "morceau d'astéroide is too long"
+        },
+        "item-database.json/items/662/description": {
+                "orig": "Piece from a rock floating through space. Brought to the planet by a spacefarer.",
+                "text": "Morceau d'un rocher flottant dans l'espace.  Apporté sur la planète par un astronaute."
+        },
+        "item-database.json/items/663/name": {
+                "orig": "Meteor Chunk",
+                "text": "Morceau Météore",
+                "note": "morceau de météore is too long"
+        },
+        "item-database.json/items/663/description": {
+                "orig": "Piece from a space rock that one day fell from the sky.",
+                "text": "Morceau d'un rocher de l'espace qui un jour est tombé du ciel."
         }
 }

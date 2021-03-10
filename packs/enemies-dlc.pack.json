@@ -1,0 +1,476 @@
+{
+        "enemies/autumn-fall/runbot-tremor.json/actions/Activate/1/text": {
+                "orig": "Threat detected",
+                "text": "Menace Détectée"
+        },
+        "enemies/autumn-fall/runbot-tremor.json/actions/removeAura/4/text": {
+                "orig": "[ AURA DISPERSED ]",
+                "text": "[ AURA DISPERSÉE ]"
+        },
+        "enemies/autumn-fall/runbot-tremor.json/actions/restoreAura/8/text": {
+                "orig": "[ RESTORED AURA ]",
+                "text": "[ AURA RESTAURÉE ]"
+        },
+        "enemies/autumn-fall/runbot-tremor.json/meta/species": {
+                "orig": "Shaking Robot",
+                "text": "Robot Tremblant"
+        },
+        "enemies/autumn-fall/runbot-tremor.json/meta/descriptions/0/text": {
+                "orig": "A variant of the \\v[combat.name.autumn-fall/runbot-tremor] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\nUnlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks.",
+                "text": "Une variante du \\v[combat.name.mine-runbot] qui semble être constamment en train de vibrer quand il est actif. C'est à cause du puissant \\v[item.638.name] qui lui a été implanté.\nContrairement à son cousin plus froid, cette machine unique attaque avec une plus large palette d'éléments et préfère les attaques puissantes d'\\c[3]Onde\\c[0].",
+                "note": "i assume the ref to runbot-tremor is incorrect"
+        },
+        "enemies/beach/ape-beach.json/bossLabel": {
+                "orig": "Ape",
+                "text": "Singe"
+        },
+        "enemies/beach/ape-beach.json/actions/WhaleStablize/8/text": {
+                "orig": "Stablizing",
+                "text": "Stabilisation"
+        },
+        "enemies/beach/ape-beach.json/meta/species": {
+                "orig": "Ape on Vacation",
+                "text": "Singe en Vacances"
+        },
+        "enemies/beach/ape-beach.json/meta/descriptions/0/text": {
+                "orig": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of outside of experienced \\v[lore.title.seeker]s.",
+                "text": "Un puissant singe, servant de gardien imbattu et champion de l'\\c[3]\\v[area.beach.name]\\c[0]. Sa tâche paisible lui laissa une éternité de temps pour réfléchir au sens de l'univers. Entre-temps, il s'ennuie terriblement et attend avec impatience un combat digne de ce nom.\nBien qu'au premier abord, ce primate manque de style et de grâce, il est en fait bien plus puissant que son distant cousin, le \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0].. En fait, il est capable d'utiliser et de maitriser \\c[3]tous les quatre éléments\\c[0], ce qui est du jamais-vu en dehors des \\v[lore.title.seeker]s expérimentés.",
+                "note": "assuming it's unused because of the \\v[3]"
+        },
+        "enemies/boss/radfish-spawner.json/meta/species": {
+                "orig": "????",
+                "text": "????"
+        },
+        "enemies/boss/radfish.json/meta/species": {
+                "orig": "????",
+                "text": "????"
+        },
+        "enemies/cold/goat-father-2.json/bossLabel": {
+                "orig": "GOAT",
+                "text": "BOUC"
+        },
+        "enemies/cold/goat-father-2.json/actions/moveBomb/1/thenStep/0/text": {
+                "orig": "BOMB!",
+                "text": "BOMBE !"
+        },
+        "enemies/cold/goat-father-2.json/actions/bombKick/1/thenStep/0/text": {
+                "orig": "KICK!",
+                "text": "SHOOT !"
+        },
+        "enemies/cold/goat-father-2.json/actions/bombDaze/4/text": {
+                "orig": "Off Balance",
+                "text": "Déstabilisé"
+        },
+        "enemies/cold/goat-father-2.json/actions/bombKickPassive/0/thenStep/0/text": {
+                "orig": "KICK!",
+                "text": "SHOOT !"
+        },
+        "enemies/cold/goat-father-2.json/actions/bombKickPassive/1/text": {
+                "orig": "Preparing bomb...",
+                "text": "Préparation de la bombe..."
+        },
+        "enemies/cold/goat-father-2.json/actions/sceneKick/0/thenStep/0/text": {
+                "orig": "KICK!",
+                "text": "SHOOT !"
+        },
+        "enemies/cold/goat-father-2.json/meta/species": {
+                "orig": "Boss Goat",
+                "text": "Patron des Boucs"
+        },
+        "enemies/cold/goat-father-2.json/meta/descriptions/0/text": {
+                "orig": "It can make offers, you can not refuse.",
+                "text": "Il peut faire des offres que vous ne pouvez pas refuser."
+        },
+        "enemies/final/god-planet.json/meta/species": {
+                "orig": "????",
+                "text": "????"
+        },
+        "enemies/jungle/special/ghost-toxic.json/actions/weakStart/3/text": {
+                "orig": "[ WEAK ]",
+                "text": "[ FAIBLE ]"
+        },
+        "enemies/jungle/special/ghost-toxic.json/actions/dizzyStart/5/text": {
+                "orig": "[ DAZED ]",
+                "text": "[ FIGÉ ]"
+        },
+        "enemies/jungle/special/ghost-toxic.json/actions/dizzyEnd/0/text": {
+                "orig": "[ DAZE OVER ]",
+                "text": "[ PLUS FIGÉ ]"
+        },
+        "enemies/jungle/special/ghost-toxic.json/actions/QuestShieldBreak/2/text": {
+                "orig": "[ SHIELD BREAK ]",
+                "text": "[ BOUCLIER BRISÉ ]"
+        },
+        "enemies/jungle/special/ghost-toxic.json/actions/QuestFleeing/2/text": {
+                "orig": "[ INEFFECTIVE ]",
+                "text": "[ INEFFICACE ]"
+        },
+        "enemies/jungle/special/ghost-toxic.json/meta/species": {
+                "orig": "Toxic Being",
+                "text": "Être Toxique"
+        },
+        "enemies/jungle/special/ghost-toxic.json/meta/descriptions/0/text": {
+                "orig": "A variant of the \\v[combat.name.jungle/ghost] but even further empowered by the toxic energy of the city \\v[area.jungle-city.name].\nIt is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population.",
+                "text": "Une variante du \\v[combat.name.jungle/ghost] mais encore plus puissant grâce à l'énergie toxique du \\v[area.jungle-city.name].\nOn ne sait pas encore ce qui le rend aussi toxique : Les déchets de la ville ou les sentiments négatifs de ses habitants."
+        },
+        "enemies/jungle/special/quest_td_boss_slime_1.json/meta/species": {
+                "orig": "Starfish",
+                "text": "Étoile de Mer"
+        },
+        "enemies/jungle/special/quest_td_boss_slime_1.json/meta/descriptions/0/text": {
+                "orig": "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken.",
+                "text": "Cette étoile de mer est le chef des \\v[combat.name.jungle/blob]s et des \\v[combat.name.jungle/blob-wave]s. Il peut entrer dans une synthèse étrange avec eux pour créer une large masse qui est presque impénétrable. Seule une boule de choc compressée peut briser ce manteau."
+        },
+        "enemies/rhombus/meerkat-car.json/meta/species": {
+                "orig": "Driving Mammal",
+                "text": "Mammifère Pilote",
+                "note": "Mammifère Ambulant ?"
+        },
+        "enemies/rhombus/meerkat-car.json/meta/descriptions/0/text": {
+                "orig": "A more intelligent but reckless \\v[combat.name.meerkat] that likes to headbang while driving fast cars and engage in dangerous drive-by battles. To finance their expensive lifestyle they often take illegal road-jobs like smuggling and theft.",
+                "text": "Un \\v[combat.name.meerkat] plus intelligent mais inconscient qui aime hocher la tête en conduisant des voitures puissantes depuis lequel ils se battent aussi.  Pour financer leur train de vie dispendieux, ils font souvent des jobs illégaux tel que des trafics ou des vols."
+        },
+        "enemies/rhombus/meerkat-delorean.json/meta/species": {
+                "orig": "Futuristic Mammal",
+                "text": "Mammifère Futuriste"
+        },
+        "enemies/rhombus/meerkat-delorean.json/meta/descriptions/0/text": {
+                "orig": "A unique specimen of \\v[combat.name.meerkat], easily recognized by his labcoat and eccentric hair.",
+                "text": "Un spécimen unique de \\v[combat.name.meerkat], facilement reconnaissable par sa blouse de laboratoire et ses cheveux excentriques."
+        },
+        "enemies/special/sergey-hax3.json/proxies/playerHack/action/4/text": {
+                "orig": "Atk Buff",
+                "text": "Buff d'Atk"
+        },
+        "enemies/special/sergey-hax3.json/meta/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/enemies/beach/fish.json/actions/QuestEscort-TargetEscortee/12/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "extension/post-game/data/enemies/beach/fish.json/meta/species": {
+                "orig": "Floating Fish",
+                "text": "Poisson Flottant"
+        },
+        "extension/post-game/data/enemies/beach/fish.json/meta/descriptions/0/text": {
+                "orig": "While the \\c[3]\\v[combat.name.jungle/fish]\\c[0] usually become quite loud when forced to fight, these colorful fish will puff up and transform into a literal flamethrower. Keep away from them and use cold based attacks to cool them down. ",
+                "text": "Alors que la \\c[3]\\v[combat.name.jungle/fish]\\c[0] devient habituellement assez bruyante lorsqu'elle est obligé de combattre, ces poissons colorés vont se gonfler et littéralement se transformer en un véritable lance-flamme. Éloignez vous d'eux et utilisez des attaques de froid pour les refroidir."
+        },
+        "extension/post-game/data/enemies/beach/sea-star-cold.json/actions/QuestEscort-TargetEscortee/11/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-cold.json/meta/species": {
+                "orig": "Marine Menace",
+                "text": "Menace Maritime"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-cold.json/meta/descriptions/0/text": {
+                "orig": "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\nAccording to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?",
+                "text": "Ces invertébrés ont évolués dans des proportions gigantesques et occupent une grande partie de l'\\c[3]\\v[area.beach.name]\\c[0].\nD'après certaines recherches effectuées par les \\c[3]\\v[lore.title.faction-wave-main]\\c[0], toutes les étoiles de mer de l'\\c[3]\\v[area.beach.name]\\c[0] deviennent agressifs quand on les provoque. Qui pouvait le deviner ?"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-heat.json/actions/QuestEscort-TargetEscortee/11/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-heat.json/meta/species": {
+                "orig": "Marine Menace",
+                "text": "Menace Maritime"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-heat.json/meta/descriptions/0/text": {
+                "orig": "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\nAccording to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?",
+                "text": "Ces invertébrés ont évolués dans des proportions gigantesques et occupent une grande partie de l'\\c[3]\\v[area.beach.name]\\c[0].\nD'après certaines recherches effectuées par les \\c[3]\\v[lore.title.faction-wave-main]\\c[0], toutes les étoiles de mer de l'\\c[3]\\v[area.beach.name]\\c[0] deviennent agressifs quand on les provoque. Qui pouvait le deviner ?"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-shock.json/actions/QuestEscort-TargetEscortee/11/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-shock.json/meta/species": {
+                "orig": "Marine Menace",
+                "text": "Menace Maritime"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-shock.json/meta/descriptions/0/text": {
+                "orig": "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\nAccording to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?",
+                "text": "Ces invertébrés ont évolués dans des proportions gigantesques et occupent une grande partie de l'\\c[3]\\v[area.beach.name]\\c[0].\nD'après certaines recherches effectuées par les \\c[3]\\v[lore.title.faction-wave-main]\\c[0], toutes les étoiles de mer de l'\\c[3]\\v[area.beach.name]\\c[0] deviennent agressifs quand on les provoque. Qui pouvait le deviner ?"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-wave.json/actions/QuestEscort-TargetEscortee/11/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-wave.json/meta/species": {
+                "orig": "Marine Menace",
+                "text": "Menace Maritime"
+        },
+        "extension/post-game/data/enemies/beach/sea-star-wave.json/meta/descriptions/0/text": {
+                "orig": "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\nAccording to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?",
+                "text": "Ces invertébrés ont évolués dans des proportions gigantesques et occupent une grande partie de l'\\c[3]\\v[area.beach.name]\\c[0].\nD'après certaines recherches effectuées par les \\c[3]\\v[lore.title.faction-wave-main]\\c[0], toutes les étoiles de mer de l'\\c[3]\\v[area.beach.name]\\c[0] deviennent agressifs quand on les provoque. Qui pouvait le deviner ?"
+        },
+        "extension/post-game/data/enemies/beach/turtle-man.json/meta/species": {
+                "orig": "Masterful Repitile",
+                "text": "Réptile Talentueux",
+                "note": "repitile ?"
+        },
+        "extension/post-game/data/enemies/beach/turtle-man.json/meta/descriptions/0/text": {
+                "orig": "A peace loving creature that is often mistaken for easy prey due to its timid nature. However once provoked it will transform into a vicious bipedal humanoid. in this form it is able to quickly evade attacks and use its bone trident to perform a devastating dive attack.",
+                "text": "Une créature adorant la paix qui est souvent prise pour une proie facile à cause de sa nature timide. Mais une fois provoqué il se transformera en un méchant humanoïde bipède. Comme cela, il est capable d'éviter rapidement les attaques et d'utiliser son trident en os pour effectuer une attaque en piqué dévastatrice."
+        },
+        "extension/post-game/data/enemies/beach/turtle-man.json/meta/descriptions/1/text": {
+                "orig": "Researchers who made friends with some of these turtles found that they are great listeners.",
+                "text": "Les chercheurs qui se sont liés d'amitiés avec eux ont découvert qu'ils écoutent très bien."
+        },
+        "extension/post-game/data/enemies/beach/worm.json/meta/species": {
+                "orig": "Worm",
+                "text": "Ver"
+        },
+        "extension/post-game/data/enemies/beach/worm.json/meta/descriptions/0/text": {
+                "orig": "A close relative to the \\c[3]\\v[combat.name.heat/sandworm]\\c[0], this worm shares many features with it. However, a keen eye quickly spots the unique transformation it exhibits when exposed to the \\c[3]Cold\\c[0] element. Its body becomes almost impregnable. If only there was a way to warm it back up...",
+                "text": "Un cousin proche du \\c[3]\\v[combat.name.heat/sandworm]\\c[0], ce ver partage de nombreuse caractéristiques. Mais un œil aguerri va rapidement s'apercevoir de la transformation unique qu'il montre lorsqu'il est exposé à l'élément \\c[3]Froid\\c[0]. Son corps devient presque imprenable. Si seulement il y avait un moyen de le re-réchauffer..."
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/actions/QuestEscort-TargetEscortee/12/text": {
+                "orig": "!!!",
+                "text": "!!!"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/actions/QuestEscort-ReTarget-UNUSED/1/thenStep/0/text": {
+                "orig": "RETARGET",
+                "text": "NOUVELLE CIBLE"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/actions/QuestWavePacifyPossible/0/text": {
+                "orig": "[ TIRED ]",
+                "text": "[ FATIGUÉ ]"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/actions/QuestWavePacifyStart/1/text": {
+                "orig": "[ PACIFIED ]",
+                "text": "[ CALMÉ ]"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/actions/QuestWavePacifyEnd/5/text": {
+                "orig": "[ FURIOUS AGAIN ]",
+                "text": "[ DE NOUVEAU FURIEUX ]"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/actions/KillSurvive/0/text": {
+                "orig": "\\c[3][ !!!\\c[0] \\c[1]HAX SURVIVAL\\c[0] \\c[3]!!! ]\\c[0]",
+                "text": "\\c[3][ !!! \\c[0] \\c[1]SURVIE AU HAX\\c[0] \\c[3]!!! ]\\c[0]"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/meta/species": {
+                "orig": "Salty Gelatin Mass ",
+                "text": "Masse Gélatineuse Salée"
+        },
+        "extension/post-game/data/enemies/beach/special/blob-salt.json/meta/descriptions/0/text": {
+                "orig": "A salty blob of water, gelatin and, of course, salt. Unsurprisingly it is at home in the ocean and rarely visits the land unless disturbed.\nWas discovered a few years ago by the explorer Ivan Leifler. After experiencing its salty taste he named it in honor of his colleague and alleged friend, Dr. Eric Koll.",
+                "text": "Un sac d'eau salé, de gélatine et, bien sûr, de sel. Ça ne surprendra personne qu'il soit à l'aise dans l'océan et qu'il visite rarement le rivage sauf quand il est perturbé.\nIl a été découvert il y a quelques années par l'explorateur Ivan Leifler. Après avoir expérimenté son goût salé, il l'a nommé en l'honneur de son collègue et supposé ami, le Docteur Eric Koll."
+        },
+        "extension/post-game/data/enemies/boss/shady-clone.json/proxies/playerHack/action/4/text": {
+                "orig": "Mod",
+                "text": "Mod"
+        },
+        "extension/post-game/data/enemies/boss/shady-clone.json/proxies/playerHack/action/8/text": {
+                "orig": "Attached",
+                "text": "Attaché"
+        },
+        "extension/post-game/data/enemies/boss/shady-clone.json/proxies/playerHackFly/action/2/text": {
+                "orig": "Send",
+                "text": "Envoyer"
+        },
+        "extension/post-game/data/enemies/boss/shady-clone.json/proxies/playerHackFly/action/8/text": {
+                "orig": "Attack++",
+                "text": "Attaque++"
+        },
+        "extension/post-game/data/enemies/boss/shady-clone.json/proxies/playerHackFlyLight/action/8/text": {
+                "orig": "Attack++",
+                "text": "Attaque++"
+        },
+        "extension/post-game/data/enemies/boss/shady-clone.json/meta/species": {
+                "orig": "????",
+                "text": "????"
+        },
+        "extension/post-game/data/enemies/boss/shady.json/actions/BoostDefense/9/text": {
+                "orig": "Boosting Defense",
+                "text": "Renfort de Défense"
+        },
+        "extension/post-game/data/enemies/boss/shady.json/meta/species": {
+                "orig": "Copy of a Copy",
+                "text": "Copie de Copie"
+        },
+        "extension/post-game/data/enemies/boss/shady.json/meta/descriptions/0/text": {
+                "orig": "Well played.",
+                "text": "Bien joué."
+        },
+        "extension/post-game/data/enemies/final/colibri.json/meta/species": {
+                "orig": "Silent Sniper",
+                "text": "Sniper Silencieux"
+        },
+        "extension/post-game/data/enemies/final/colibri.json/meta/descriptions/0/text": {
+                "orig": "Armed with a mouth that doubles as a sniper gun, this bird does not mess around. It can react to any movement in a split second and will dodge all incoming fire. However a shot from its beak and a dodge takes a lot of energy leaving it open for a counter attack.",
+                "text": "Armé d'une bouche qui sert aussi de fusil sniper, cet oiseau ne fait pas dans la demi-mesure. Il peut en une fraction de seconde réagir à tout mouvement et éviter tous les projectiles. Mais un tir de son bec et une esquive lui demande beaucoup d'énergie, ce qui le rend vulnérable pour une contre-attaque."
+        },
+        "extension/post-game/data/enemies/final/crystal-cold.json/meta/species": {
+                "orig": "Crystal",
+                "text": "Cristal"
+        },
+        "extension/post-game/data/enemies/final/crystal-cold.json/meta/descriptions/0/text": {
+                "orig": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
+                "text": "Représentation vivante des cristaux qui se trouvent partout sur le \\c[3]\\v[area.final-dng.name]\\c[0].. Il semble que ce ne sont pas des créations des Anciens, car contrairement à la plupart des ennemis qui se trouve dans le temple, ils ont fait en matériaux de type roche. \nLes versions de couleurs similaires montre également une capacité étrange à se lier entre eux pour combiner leurs énergie afin de libérer des attaques puissantes."
+        },
+        "extension/post-game/data/enemies/final/crystal-heat.json/meta/species": {
+                "orig": "Crystal",
+                "text": "Cristal"
+        },
+        "extension/post-game/data/enemies/final/crystal-heat.json/meta/descriptions/0/text": {
+                "orig": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
+                "text": "Représentation vivante des cristaux qui se trouvent partout sur le \\c[3]\\v[area.final-dng.name]\\c[0].. Il semble que ce ne sont pas des créations des Anciens, car contrairement à la plupart des ennemis qui se trouve dans le temple, ils ont fait en matériaux de type roche. \nLes versions de couleurs similaires montre également une capacité étrange à se lier entre eux pour combiner leurs énergie afin de libérer des attaques puissantes."
+        },
+        "extension/post-game/data/enemies/final/crystal-shock.json/meta/species": {
+                "orig": "Crystal",
+                "text": "Cristal"
+        },
+        "extension/post-game/data/enemies/final/crystal-shock.json/meta/descriptions/0/text": {
+                "orig": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
+                "text": "Représentation vivante des cristaux qui se trouvent partout sur le \\c[3]\\v[area.final-dng.name]\\c[0].. Il semble que ce ne sont pas des créations des Anciens, car contrairement à la plupart des ennemis qui se trouve dans le temple, ils ont fait en matériaux de type roche. \nLes versions de couleurs similaires montre également une capacité étrange à se lier entre eux pour combiner leurs énergie afin de libérer des attaques puissantes."
+        },
+        "extension/post-game/data/enemies/final/crystal-wave.json/meta/species": {
+                "orig": "Crystal",
+                "text": "Cristal"
+        },
+        "extension/post-game/data/enemies/final/crystal-wave.json/meta/descriptions/0/text": {
+                "orig": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
+                "text": "Représentation vivante des cristaux qui se trouvent partout sur le \\c[3]\\v[area.final-dng.name]\\c[0].. Il semble que ce ne sont pas des créations des Anciens, car contrairement à la plupart des ennemis qui se trouve dans le temple, ils ont fait en matériaux de type roche. \nLes versions de couleurs similaires montre également une capacité étrange à se lier entre eux pour combiner leurs énergie afin de libérer des attaques puissantes."
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-cold.json/actions/strongFace/1/text": {
+                "orig": "Color Combo",
+                "text": "Combo Couleur"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-cold.json/meta/species": {
+                "orig": "Unsupportive Pillar",
+                "text": "Pillier Soutenant Rien"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-cold.json/meta/descriptions/0/text": {
+                "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
+                "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-heat.json/actions/strongFace/1/text": {
+                "orig": "Color Combo",
+                "text": "Combo Couleur"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-heat.json/meta/species": {
+                "orig": "Unsupportive Pillar",
+                "text": "Pillier Soutenant Rien"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-heat.json/meta/descriptions/0/text": {
+                "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
+                "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-shock.json/actions/strongFace/1/text": {
+                "orig": "Color Combo",
+                "text": "Combo Couleur"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-shock.json/meta/species": {
+                "orig": "Unsupportive Pillar",
+                "text": "Pillier Soutenant Rien"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-shock.json/meta/descriptions/0/text": {
+                "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
+                "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-wave.json/actions/strongFace/1/text": {
+                "orig": "Color Combo",
+                "text": "Combo Couleur"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-wave.json/meta/species": {
+                "orig": "Unsupportive Pillar",
+                "text": "Pilier Soutenant Rien"
+        },
+        "extension/post-game/data/enemies/final/ele-pillar-wave.json/meta/descriptions/0/text": {
+                "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
+                "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
+        },
+        "extension/post-game/data/enemies/final/god-cold.json/meta/species": {
+                "orig": "Ancient God",
+                "text": "Dieu des Anciens"
+        },
+        "extension/post-game/data/enemies/final/god-cold.json/meta/descriptions/0/text": {
+                "orig": "King of Stone, may your mountains protect us all.",
+                "text": "Roi de la Pierre, que vos montagnes nous protègent tous."
+        },
+        "extension/post-game/data/enemies/final/god-controller.json/actions/Attack/0/elseStep/2/thenStep/0/thenStep/1/text": {
+                "orig": "ATTACK RECEIVE \\v[tmp.fatkStart] Element: \\v[tmp.atktest]",
+                "text": "ATTAQUE RECUE \\v[tmp.fatkStart] Élément: \\v[tmp.atktest]"
+        },
+        "extension/post-game/data/enemies/final/god-controller.json/meta/species": {
+                "orig": "????",
+                "text": "????"
+        },
+        "extension/post-game/data/enemies/final/god-heat.json/meta/species": {
+                "orig": "Ancient God",
+                "text": "Dieu des Anciens"
+        },
+        "extension/post-game/data/enemies/final/god-heat.json/meta/descriptions/0/text": {
+                "orig": "Bringer of Warmth, may your flame burn brightly.",
+                "text": "Donneur de Chaleur, que votre flamme brûle brillamment.",
+                "quality": "bad"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/proxies/sun/action/8/text": {
+                "orig": "Charging",
+                "text": "Charge"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/RegenGod/23/text": {
+                "orig": "Recover",
+                "text": "Guérison"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/0_0/0/text": {
+                "orig": "HEAT SHIELD",
+                "text": "BOUCLIER CHAUD"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/1_0/0/text": {
+                "orig": "COLD SHIELD",
+                "text": "BOUCLIER FROID"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/2_0/0/text": {
+                "orig": "SHOCK SHIELD",
+                "text": "BOUCLIER CHOC"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/3_0/0/text": {
+                "orig": "WAVE SHIELD",
+                "text": "BOUCLIER ONDE"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/meta/species": {
+                "orig": "Ancient God",
+                "text": "Dieu des Anciens"
+        },
+        "extension/post-game/data/enemies/final/god-neutral.json/meta/descriptions/0/text": {
+                "orig": "Creator of all, may your journey fill the void with life.",
+                "text": "Créateur de tous, que votre voyage emplisse le monde de vie."
+        },
+        "extension/post-game/data/enemies/final/god-shock.json/meta/species": {
+                "orig": "Ancient God",
+                "text": "Dieu des Anciens"
+        },
+        "extension/post-game/data/enemies/final/god-shock.json/meta/descriptions/0/text": {
+                "orig": "Rider of the Storm, may your winds guide us.",
+                "text": "Conducteur des Orages, que vos vents nous guident.",
+                "note": "ok enough"
+        },
+        "extension/post-game/data/enemies/final/god-wave.json/meta/species": {
+                "orig": "Ancient God",
+                "text": "Dieu des Anciens"
+        },
+        "extension/post-game/data/enemies/final/god-wave.json/meta/descriptions/0/text": {
+                "orig": "Ruler of the Tides, may your rivers stretch forevermore. ",
+                "text": "Régisseur des Marées, que vos rivières s'étendent toujours plus loin."
+        },
+        "extension/post-game/data/enemies/final/guardian.json/meta/species": {
+                "orig": "Wild Decoration",
+                "text": "Décoration Sauvage"
+        },
+        "extension/post-game/data/enemies/final/guardian.json/meta/descriptions/0/text": {
+                "orig": "This animated statue can assume all the elements the \\c[3]\\v[lore.title.track-of-ancients]\\c[0] provides. Each elemental mode provides it with unique modifiers to its normal attacks. Don't be fooled by its slow movement speed as it can quickly close the gap with a quick jump.",
+                "text": "Cette statue animée peut prendre la forme de tous les éléments fournis par le \\c[3]\\v[lore.title.track-of-ancients]\\c[0]. Chaque mode élémentaire lui offre des modifications uniques à ses attaques normales. Ne vous faites pas avoir par ses mouvements lents car il peut rapidement se rapprocher avec un saut vif."
+        },
+        "extension/post-game/data/enemies/final/gynthar.json/meta/species": {
+                "orig": "Armless Monk",
+                "text": "Moine Sans Bras"
+        },
+        "extension/post-game/data/enemies/final/gynthar.json/meta/descriptions/0/text": {
+                "orig": "A guardian as old as the Ancients themselves. It serves as both protector and guard to the final secret of the Ancients. Much like all Seekers, it can switch elements and will attack relentlessly using a weird combination of elemental attacks.\nIn desperation it will call upon the power of all elements to deliver a devastating attack that will be the final judgement for those that are worthy enough.",
+                "text": "Un gardien aussi vieux que les Anciens eux-mêmes. Ils sert à la fois de protecteur et de garde pour le secret final des Anciens. Comme tous les \\v[lore.title.seeker], il peut changer d'élément et attaquera sans relâche en utilisant une combinaison étrange d'attaque élémentaires.\nLorsqu'il est désespéré il s'en remettra au pouvoir de tous les éléments pour s'adonner à une attaque dévastatrice qui sera le jugement dernier de tout ceux qui ne sont pas assez dignes."
+        }
+}
