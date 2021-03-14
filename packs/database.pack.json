@@ -2066,7 +2066,7 @@
         },
         "database.json/areas/rhombus-sqr/landmarks/resiSouth/name": {
                 "orig": "South Arch",
-                "text": "Arche Sud"
+                "text": "Arcade Sud"
         },
         "database.json/areas/rhombus-sqr/landmarks/resiSouth/description": {
                 "orig": "This landmark is close to both the Arena and the Southern Residence District.",
@@ -15837,6 +15837,81 @@
                 "orig": "Sadly Sergey was unable to convince \\v[lore.title.dev-company] of supporting the Evotar project. This resulted in the \\c[3]ban of Evotars\\c[0] and \\c[3]the confiscation of all related data\\c[0], which also \\c[3]destroyed all hope of Lea's return\\c[0], to the sorrow of her friends.\n\\c[3]If only our heroes were able to convince someone influential to support their goals, the decision might have turned in their favor!\\c[0]\n\n\\c[1]< THE END >\\c[0]",
                 "text": "Malheureusement Sergey n'a pu convaincre \\v[lore.title.dev-company] de soutenir le projet Évotar. Cela a conduit à un \\c[3]bannissement des Évotars\\c[0] et à \\c[3]la confiscation de toutes les données liées\\c[0], ce qui \\c[3]détruisit tout espoir de retour de Lea\\c[0], au grand chagrin de ses amis.\n\\c[3]Si seulement nos héros pouvaient convaincre un homme d'influence pour soutenir leur but, la décision aurait pu tourner en leur faveur !\\c[0]\n\n\\c[1]< FIN >\\c[0]"
         },
+        "database.json/lore/chapter-11/title": {
+                "orig": "Chapter 11: \\v[chapter.name.11]",
+                "text": "Chapitre 11: \\v[chapter.name.11]"
+        },
+        "database.json/lore/chapter-11/content/page-01/content": {
+                "orig": "\\c[3]Lea\\c[0] awoke after several months and found herself to be in \\c[3]Homestedt\\c[0], a small village for \\c[3]Evotars within CrossWorlds\\c[0] - constructed officially by \\c[3]Instatainment\\c[0]. After a meet and greet with several friends, including \\c[3]Satoshi\\c[0] and \\c[3]Sergey\\c[0] in his new avatar, it was time to awaken the next resident: \\c[3]Schneider's Evotar, Luke\\c[0], who seemed rather surprised by the whole situation.",
+                "text": "\\c[3]Lea\\c[0] se réveilla après plusieurs mois et se retrouva à \\c[3]\\v[area.evo-village.name]\\c[0], un petit village pour les \\c[3]Évotars à l'intérieur de CrossWorlds\\c[0], officiellement construit par \\c[3]Instatainment\\c[0]. Après avoir retrouvé plusieurs amis, y compris \\c[3]Satoshi\\c[0] et \\c[3]Sergey\\c[0] dans son nouvel avatar, il était temps de réveiller le deuxième habitant : \\c[3]Luke, l'Évotar de Schneider\\c[0], qui semblait être assez surpris de la situation."
+        },
+        "database.json/lore/chapter-11/content/page-02/content": {
+                "orig": "Soon \\c[3]Lea and Luke\\c[0] learned that the \\c[3]First Scholars\\c[0] had organized another \\c[3]raid\\c[0], the same one they hadn't managed to finish last time. Looking forward to tomorrow, \\c[3]Lea\\c[0] spent her first night in her \\c[3]own home\\c[0]. In the morning, \\c[3]Sergey\\c[0] surprised her by adding a few \\c[3]new question words\\c[0] to her vocabulary: \\c[3]What\\c[0], \\c[3]Where\\c[0] and \\c[3]Who\\c[0].",
+                "text": "Bientôt, \\c[3]Lea et Luke\\c[0] découvrirent que les \\c[3]Premiers Érudits\\c[0] ont organisé un autre \\c[3]raid\\c[0], le même que celui qu'ils n'avaient pas réussi à finir la dernière fois. En étant impatiente d'être demain, \\c[3]Lea\\c[0] passa sa première nuit dans sa \\c[3]propre maison\\c[0]. Le lendemain matin, \\c[3]Sergey\\c[0] lui fit la surprise en lui ajoutant quelques \\c[3]nouveau mots interrogatifs\\c[0] à son vocabulaire : \\c[3]Quoi\\c[0], \\c[3]Où\\c[0] et \\c[3]Qui\\c[0]."
+        },
+        "database.json/lore/chapter-11/content/page-03/content": {
+                "orig": "Soon after this, the \\c[3]raid at Para Island\\c[0] started, this time without any unexpected interruptions. Still, it seemed that \\c[3]Luke didn't quite enjoy\\c[0] the event as much and ended up in a rather \\c[3]bad mood\\c[0]. After the raid was completed, the group took some time to \\c[3]talk with Luke about his troubles\\c[0]. It turned out he wasn't quite ready to enjoy his new life in CrossWorlds as \\c[3]he felt a lack of purpose\\c[0]. Hlin quickly pointed out that \\c[3]Instatainment\\c[0] was planning to \\c[3]employ Evotars for future activities\\c[0] within \\c[3]CrossWorlds\\c[0].",
+                "text": "Peu de temps après, le \\c[3]raid à \\v[area.autumn-fall.landmark.name.raid]\\c[0] commença, cette fois sans interruptions inattendues. Mais, il sembla que \\c[3]Luke n'eut pas vraiment autant apprécié\\c[0] l'événement et est devenu d'assez \\c[3]mauvaise humeur\\c[0]. Après avoir terminé le raid, le groupe pris un peu de temps pour \\c[3]parler à Luke de ses problèmes\\c[0]. Il semblerait qu'il n'était pas prêt à apprécier sa nouvelle vie dans CrossWorlds car il \\c[3]avait le sentiment de servir à rien\\c[0]. Hlin a rapidement réplique que \\c[3]Instatainment\\c[0] a prévu \\c[3]d'employer les Évotars pour des activité futures\\c[0] à l'intérieur de \\c[3]CrossWorlds\\c[0]."
+        },
+        "database.json/lore/chapter-11/content/page-04/content": {
+                "orig": "Feeling better overall, \\c[3]Luke\\c[0] and the others called it a day. Just before logging out, \\c[3]Emilie\\c[0] mentioned an \\c[3]old friend\\c[0] who missed the raid and hadn't been seen for a long time: \\c[3]C'tron\\c[0].\nIt was at that moment that \\c[3]Sergey\\c[0] came out with the \\c[3]truth about C'tron\\c[0]: he had been \\c[3]cooperating with Sidwell\\c[0]. Back before they planned to storm Evotarground, \\c[3]Sergey contacted C'tron\\c[0] about this and made an \\c[3]agreement to not tell Lea\\c[0] about it, as long as C'tron \\c[3]didn't get in the way\\c[0] of their plan to rescue the Evotar Server.\nHowever, things got even weirder, because as it turned out, they found an \\c[3]Evotar of C'tron\\c[0] on the same server they rescued.\n",
+                "text": "Se sentant déjà mieux, \\c[3]Luke\\c[0] et les autres finirent leur journée. Juste avant de se déconnecter, \\c[3]Emilie\\c[0] mentionna un \\c[3]vieil ami\\c[0] qui a raté le raid et qu'elle n'a pas vu depuis un long moment : \\c[3]C'tron\\c[0].\nC'est à ce moment là que \\c[3]Sergey\\c[0] débarqua et dévoila la \\c[3]vérité à propos de C'tron\\c[0] : il avait \\c[3]collaboré avec Sidwell\\c[0]. Avant que prévoir comment envahir le Terrain des Évotars, \\c[3]Sergey avait contacté C'tron\\c[0] sur ce sujet et s'étaient mis \\c[3]d'accord pour ne pas en parler à Lea\\c[0], tant que C'tron \\c[3]ne se mettrait pas en travers de leur route\\c[0] en ce qui concerne le plan prévu pour sauver le Serveur des Évotars.\nMais, les choses sont devenues bien plus étranges, car il se trouve qu'ils ont retrouvé un \\c[3]Évotar de C'tron\\c[0] sur le serveur qu'ils ont sauvegardé."
+        },
+        "database.json/lore/chapter-11/content/page-05/content": {
+                "orig": "\\c[3]C'tron's Evotar\\c[0] was awakened but \\c[3]barely remembered\\c[0] anything. Lea went to different places with him, \\c[3]revisiting memories\\c[0] both of them had together. Just as \\c[3]C'tron stared to remember\\c[0] things, he quickly \\c[3]ran away\\c[0] to the hidden \\c[3]entrance to Evotarground\\c[0]. He and Lea both learned that it was \\c[3]closed down\\c[0]. At this point, \\c[3]C'tron admitted\\c[0] that he has been involved, that he \\c[3]worked with Sidwell and spied on Lea\\c[0] and the others. He also fully understood his own situation, being an \\c[3]Evotar himself\\c[0].",
+                "text": "L'\\c[3]Évotar de C'tron\\c[0] a été réveillé mais il se \\c[3]souvenait à peine\\c[0] de quoi que ce soit. Lea l'emmena à plusieurs endroits, \\c[3]pour revisiter des souvenirs\\c[0] qu'ils ont eux tous les deux. Mais juste au moment ou \\c[3]C'tron commença à se souvenir de certaines choses\\c[0], il \\c[3]s'enfuit\\c[0] vers l'\\c[3]entrée secrète vers le Terrain des Évotar\\c[0]. Lui et Lea découvrirent qu'il \\c[3]avait été fermé\\c[0]. À ce moment là, \\c[3]C'tron admit\\c[0] qu'il a été impliqué, et qu'il a \\c[3]travaillé pour Sidwell et espionné Lea\\c[0] et les autres. Il comprit aussi entièrement sa situation, en étant \\c[3]lui-même un Évotar\\c[0]."
+        },
+        "database.json/lore/chapter-11/content/page-06/content": {
+                "orig": "Despite his past, \\c[3]C'tron\\c[0] was invited to \\c[3]live in Homestedt\\c[0] as well and even got his own house. \\c[3]Sergey\\c[0] explained that he hoped to \\c[3]learn more about Sidwell\\c[0] as C'tron remembered more of his past. C'tron understood and was thankful they took him in.",
+                "text": "Malgré son passé, \\c[3]C'tron\\c[0] a été invité à \\c[3]vivre aussi à \\v[area.evo-village.name]\\c[0] et a même obtenu sa propre maison. \\c[3]Sergey\\c[0] expliqua qu'il espérait en \\c[3]apprendre plus sur Sidwell\\c[0] lorsque C'tron se souviendrait mieux de son passé. C'tron comprit et les a remercié de l'avoir accueillit."
+        },
+        "database.json/lore/chapter-12/title": {
+                "orig": "Chapter 12: \\v[chapter.name.12]",
+                "text": "Chapitre 12: \\v[chapter.name.12]"
+        },
+        "database.json/lore/chapter-12/content/page-01/content": {
+                "orig": "The next morning, \\c[3]Lea\\c[0] was surprised to meet \\c[3]Apollo and Joern\\c[0], who returned from their vacation. As expected, \\c[3]Apollo challenged Lea to a final duel\\c[0]. They both agreed to hold it after they completed the \\c[3]new area\\c[0] that has just been added to CrossWorlds: \\c[3]Azure Archipelago\\c[0].",
+                "text": "Le matin suivant, \\c[3]Lea\\c[0] fut surpris de rencontrer \\c[3]Apollo et Joern\\c[0], qui revenaient de vacances. Comme on pouvait s'y attendre, \\c[3]Apollo mis Lea au défit de le battre dans un duel final\\c[0]. Ils ont tous les deux accepté de le disputer après avoir terminé la \\c[3]nouvelle zone\\c[0] qui venait d'être ajouté à CrossWorlds: l'\\c[3]\\v[area.beach.name]\\c[0]."
+        },
+        "database.json/lore/chapter-12/content/page-02/content": {
+                "orig": "After a pleasant walk among sandy beaches and plenty of battles, Lea was ready to \\c[3]take on Apollo in Rhombus Square\\c[0]. After the duel had concluded, Lea returned to \\c[3]Homestedt\\c[0] and was surprised to find \\c[3]C'tron\\c[0] together with \\c[3]Satoshi\\c[0]. C'tron admitted his \\c[3]connection with Sidwell\\c[0] and felt apologies to Satoshi were in order. He also mentioned that he remembered \\c[3]getting the job offer from Sidwell via email as he was a student\\c[0], doing the work as a side job. Lea felt that something didn't sound right about this.",
+                "text": "Après une plaisante ballade sur les plages de sable et de nombreux combats, Lea était prêt à \\c[3]affronter Apollo à \\v[area.rhombus-sqr.name]\\c[0]. Après que le duel soit terminé, Lea retourna à \\c[3]\\v[area.evo-village.name]\\c[0] et était surprise de retrouver \\c[3]C'tron\\c[0] avec \\c[3]Satoshi\\c[0]. C'tron a admit ses \\c[3]liaisons avec Sidwell\\c[0] et estimait nécessaire de demander des excuses auprès de Satoshi. Il a également mentionné qu'il se souvenait \\c[3]d'avoir reçu cette offre d'emploi de Sidwell par email lorsqu'il était étudiant\\c[0] et de faire ce travail en parallèle de ses études. Lea eut le sentiment que quelque chose ne collait pas.",
+                "note": "[estimait nécessaire de demander des excuses auprès de Satoshi]: note (angebracht: approprié/adéquat/opportun)"
+        },
+        "database.json/lore/chapter-12/content/page-03/content": {
+                "orig": "Suddenly, \\c[3]Sergey\\c[0] gave a Lea a call, telling her he was with \\c[3]Jet at M.S. Solar\\c[0] and they'd love to meet Lea as well. Following his invitation, \\c[3]Lea returned to the cargo ship\\c[0], seeing \\c[3]Carla\\c[0] and the others again after many months. As Sergey talked about \\c[3]Jet's past job in intergalactical logistics\\c[0], Lea suddenly \\c[3]remembered a few details about C'tron and Sidwell\\c[0], suspecting there must be a closer connection between the two. After the pleasant visit, Lea returned to \\c[3]Evotar Village\\c[0] and decided to drop by at C'tron's place.",
+                "text": "Soudainement, \\c[3]Sergey\\c[0] donna un coup de fil à Lea, pour lui dire qu'il était avec \\c[3]Jet sur le M.S. Solar\\c[0] et qu'ils adoreraient aussi retrouver Lea. Acceptant l'invitation, \\c[3]Lea retourna sur le porte-conteneur\\c[0] pour retrouver \\c[3]Carla\\c[0] et les autres après plusieurs mois. Alors que Sergey parla de \\c[3]l'ancien travail de Jet dans la logistique intergalactique\\c[0], Lea s'est soudainement \\c[3]souvenu de quelques détails à propos de C'tron et Sidwell\\c[0], et suspectait qu'il devait y avoir un lien plus étroit entre ces deux là. Après la plaisante invitation, Lea retourna au \\c[3]Village des Évotars\\c[0] et pris la décision de faire une petite visite chez C'tron.",
+                "note": "Evotar Village is translated as Homestedt in the german translation (heimstatt)"
+        },
+        "database.json/lore/chapter-12/content/page-04/content": {
+                "orig": "Struggling with her speech synchronization, \\c[3]Lea\\c[0] tried to explain to C'tron \\c[3]his connection to Sidwell\\c[0] that she seemed to remember, pointing out that they both made the \\c[3]same hand gestures\\c[0] and knew certain \\c[3]hand signs\\c[0]. However, \\c[3]C'tron\\c[0] didn't go along with Lea's trail of thought, even \\c[3]purposely acting like he didn't understand\\c[0] what she was trying to communicate. As they both ended at an impasse, \\c[3]Sergey\\c[0] quickly dropped by to help Lea getting to the truth. Finally, \\c[3]C'tron\\c[0] admitted that he was not just working for Sidwell, but that he indeed \\c[3]must have been Sidwell himself\\c[0], because he had his \\c[3]memories\\c[0]. However, this didn't quite explain \\c[3]his fear of betraying Lea and the others\\c[0] back when they played together. Something didn't quite fit.",
+                "text": "En s'acharnant avec son module de synchronisation vocale, \\c[3]Lea\\c[0] essaya d'expliquer à C'tron ce dont elle semblait se souvenir, à savoir \\c[3]sa liaison avec Sidwell\\c[0], en montrant qu'ils faisaient tous les deux les \\c[3]mêmes gestes des mains\\c[0] et qu'il connaissait certains \\c[3]signes\\c[0] du langage des signes. Mais \\c[3]C'tron\\c[0] ne suivait pas le cheminement de pensée de Lea, et \\c[3]feignait même de ne pas comprendre\\c[0] ce qu'elle essayait de lui dire. Alors qu'ils se trouvaient tous les deux dans une impasse, \\c[3]Sergey\\c[0] passa rapidement pour aider Lea à découvrir la vérité. Enfin, \\c[3]C'tron\\c[0] admit qu'il ne faisait pas que travailler pour Sidwell, mais qu'il \\c[3]devait avoir été Sidwell\\c[0], parce qu'il possédait ses \\c[3]souvenirs\\c[0]. Mais, cela n'expliquait pas vraiment \\c[3]sa peur de trahir Lea et les autres\\c[0] à l'époque où ils jouaient ensemble. Quelque-chose ne collait toujours pas."
+        },
+        "database.json/lore/chapter-13/title": {
+                "orig": "Chapter 13: \\v[chapter.name.13]",
+                "text": "Chapitre 13: \\v[chapter.name.13]"
+        },
+        "database.json/lore/chapter-13/content/page-01/content": {
+                "orig": "In the next morning, Lea was awakened by her old self: \\c[3]Shizuka\\c[0]. They both decided to drop by at their brother's house and see what he was up to. Unsurprisingly, \\c[3]Satoshi\\c[0] was stuck deep in his work as usual. Shizuka wouldn't have it and convinced him to take a break and visit Azure Archipelago with her.\nAt that moment, Lea learned that the \\c[3]Final Temple\\c[0] was planned \\c[3]to be released\\c[0] later that day and quickly got a call from Emilie telling her that the \\c[3]First Scholars were planning to run the dungeon together\\c[0]. Lea joined and even managed to drag \\c[3]C'tron\\c[0] with her, who was still feeling down about yesterday.",
+                "text": "Le matin suivant, Lea fut réveillé par son ancienne identité : \\c[3]Shizuka\\c[0]. Ils ont tous les deux décidé de s'introduire dans la maison de son frère pour voir ce qu'il mijotait.  Sans surprise, \\c[3]Satoshi\\c[0] était toujours plongé dans son travail comme d'habitude. Cela ne convenait pas à Shizuka et elle le convaincu de faire une pause et de visiter l'\\v[area.beach.name] avec elle.\nÀ ce moment là, Lea appris qu'il était prévu que le \\c[3]Temple Final sortirait\\c[0] plus tard dans la journée et elle reçu rapidement un appel d'Emilie lui apprenant que les \\c[3]Premiers Érudits prévoyaient de courir le donjon tous ensemble\\c[0]. Lea les rejoignit et réussit même à persuader \\c[3]C'tron\\c[0] de les rejoindre, alors qu'il était toujours abasourdi d'hier."
+        },
+        "database.json/lore/chapter-13/content/page-02/content": {
+                "orig": "Everyone joined the masses at the entrance of the \\c[3]Ku'lero Temple\\c[0] to enter the dungeon just as it opened. After a very long playing session, Lea reached the end of the temple and learned about the \\c[3]Secret of the Ancients\\c[0]: a portal to a \\c[3]new world\\c[0] and the setup for the new expansion \"\\c[3]CrossWorlds - New Horizons\\c[0]\", which was still in development.\nSoon afterwards, she caught up with everyone else who completed the temple - except for \\c[3]C'tron\\c[0], who seemed to have \\c[3]dropped out and returned back to Homestedt\\c[0].",
+                "text": "Tout le monde a rejoint la foule à l'entrée du \\c[3]\\v[area.final-dng.name]\\c[0] pour entrer dans le donjon au moment même où il ouvrait.. Après une très longue session de jeu, Lea atteignit la fin du temple et appris à propos du \\c[3]Secret des Anciens\\c[0]: un portail vers un \\c[3]nouveau monde\\c[0] et les fondations pour une nouvelle extension \"\\c[3]CrossWorlds - Nouveaux Horizons\\c[0]\", qui était encore en développement.\nPeu de temps après, elle rattrapa tous ceux qui avaient terminé le temple, sauf \\c[3]C'tron\\c[0], qui était vraisemblablement \\c[3]parti retourner à \\v[area.evo-village.name]\\c[0]."
+        },
+        "database.json/lore/chapter-13/content/page-03/content": {
+                "orig": "\\c[3]Emilie and Lea\\c[0] decided to drop by at \\c[3]C'tron's place\\c[0]. C'tron explained that he wasn't feeling up to running the temple and also \\c[3]opened up to Emilie\\c[0], telling her about his \\c[3]connection to Sidwell\\c[0]. Emilie, being very surprised, tried very hard not to be too angry at C'tron and instead asked about his \\c[3]personal feelings toward the whole thing\\c[0]. \\c[3]C'tron\\c[0] confirmed that he indeed \\c[3]felt bad for what he did\\c[0]. At that moment, he suddenly \\c[3]recalled a detail about his past\\c[0] that was painful for him to remember. An event that took place in \\c[3]Evotarground\\c[0]. ",
+                "text": "\\c[3]Emilie et Lea\\c[0] décidèrent de passer \\c[3]chez C'tron\\c[0]. C'tron expliqua qu'il ne se sentait pas en état de courir le temple et \\c[3]se dévoila face à Emilie\\c[0], en lui racontant ses \\c[3]liens avec Sidwell\\c[0]. Emilie, qui était très surprise, essaya très fort de ne pas être trop en colère contre C'tron et lui demanda à la place ce \\c[3]qu'il pensait personnellement de toute cette histoire\\c[0]. \\c[3]C'tron\\c[0] confirma qu'il se \\c[3]sentait effectivement mal d'avoir fait ce qu'il a fait\\c[0]. À ce moment précis, il s'est soudainement \\c[3]rappelé d'un détail sur son passé\\c[0] qui était douloureux pour lui. Un événement qui s'est passé sur le \\c[3]Terrain des Évotars\\c[0].",
+                "note": "[C'tron expliqua qu'il ne se sentait pas en état de courir le temple et \\c[3]se dévoila face à Emilie\\c[0], en lui racontant ses \\c[3]liens avec Sidwell\\c[0]]: note (de is missing some color commands apparently)"
+        },
+        "database.json/lore/chapter-13/content/page-04/content": {
+                "orig": "Seeing \\c[3]C'tron suffering\\c[0] like that, Lea and Emilie \\c[3]called Sergey for help\\c[0] and asked him if it was possible to visit \\c[3]Evotarground\\c[0] one last time, to try to \\c[3]find the location of his past memories\\c[0] and help him remember. \\c[3]Sergey\\c[0] was concerned about going against Instatainment policies, but \\c[3]reluctantly agreed\\c[0] due to the urgency of the situation: \\c[3]Instatainment\\c[0] was planning to \\c[3]destroy Evotarground\\c[0] in the near future.",
+                "text": "En voyant \\c[3]C'tron souffrir\\c[0] comme cela, Lea et Emilie ont \\c[3]appelé Sergey à l'aide\\c[0] et lui ont demandé si c'était possible de visiter le \\c[3]Terrain des Évotars\\c[0] une dernière fois, pour tenter de \\c[3]trouver le lieu de ses anciens souvenirs\\c[0] et de l'aider à s'en rappeler. \\c[3]Sergey\\c[0] était inquiet d'enfreindre la politique d'Instatainment, mais \\c[3]accepta malgré tout\\c[0] à cause de l'urgence de la situation : \\c[3]Instatainment\\c[0] prévoyait de \\c[3]détruire le Terrain des Évotars\\c[0] dans un futur proche."
+        },
+        "database.json/lore/chapter-13/content/page-05/content": {
+                "orig": "Thus it was decided that \\c[3]Lea, Emilie and C'tron\\c[0] would embark on a final trip to \\c[3]Evotarground\\c[0], hopefully learning the \\c[3]full truth about C'tron\\c[0].",
+                "text": "Donc il fut décidé que \\c[3]Lea, Emilie et C'tron\\c[0] embarqueraient dans un voyage final au \\c[3]Terrain des Évotars\\c[0], en espérant apprendre \\c[3]toute la vérité sur C'tron\\c[0]."
+        },
         "database.json/lore/lea/title": {
                 "orig": "Lea",
                 "text": "Lea"
@@ -16592,6 +16667,31 @@
                 "orig": "The south houses a hostel called the \\c[3]Cave Inn\\c[0], which counts among the oldest structures build by humans on Shadoon.",
                 "text": "Le sud abrite un hôtel appelé l'\\c[3]Auberge des Caves\\c[0], qui compte parmi les structures les plus anciennes que les humains aient construites sur Shadoon."
         },
+        "database.json/lore/evo-village/title": {
+                "orig": "Homestedt",
+                "text": "Chénous",
+                "note": "what would happen if i just put \\v[area.evo-village.name] here ? unfortunately, i'm not the kind of person that wanna watch the world burn"
+        },
+        "database.json/lore/evo-village/content/page-01-01/content": {
+                "orig": "Homestedt is a small settlement made specifically for Evotars. The space was created with the idea to expand it as more Evotars are brought back from the recovered server data from \\c[3]\\v[area.arid.name]\\c[0].\nAs of now the town counts a humble five buildings and is built beside a small lake close to \\c[3]\\v[area.autumn-area.name]\\c[0]. Only certified personnel and players are allowed within the borders however as the place is still in development as \\c[3]\\v[lore.title.dev-company]\\c[0] figures out what to do with the Evotars.\n\n",
+                "text": "\\v[area.evo-village.name] est une petite colonie conçue spécifiquement pour les Évotars. L'endroit a été crée avec l'idée de pouvoir l'étendre lorsque d'autres Évotars seront récupérés depuis les données sauvegardées du serveur de \\c[3]\\v[area.arid.name]\\c[0].\nPour le moment la ville compte uniquement cinq bâtiments et est construit près d'un petit lac près d'\\c[3]\\v[area.autumn-area.name]\\c[0].. Seul le personnel et les joueurs certifiés sont autorisés à l'intérieur des frontières, car l'endroit est encore en développement pendant que \\c[3]\\v[lore.title.dev-company]\\c[0] cherche ce qu'il pourrait bien faire avec les Évotars."
+        },
+        "database.json/lore/beach/title": {
+                "orig": "Azure Archipelago",
+                "text": "Archipel Azur"
+        },
+        "database.json/lore/beach/content/page-01-01/content": {
+                "orig": "These vibrant shores were recently made accessible by the \\c[3]\\v[lore.title.human-government]\\c[0] as they hold the final key required to open the door to the \\c[3]Ascension Temple\\c[0] in \\c[3]\\v[area.forest.name]\\c[0].\nNot long ago they simply appeared from the ocean floor and vegetation quickly took over the higher parts of the area. \nLarge smooth stone pillars surround the archipelago, possibly to break the waves of the rough ocean around the various islands. \n\n",
+                "text": "Ces plages vivaces ont récemment été rendu accessibles par les \\c[3]\\v[lore.title.human-government]\\c[0], parce qu'ils abritent la clef finale requise pour ouvrir la porte vers le \\c[3]\\v[area.forest.landmark.name.temple]\\c[0] de la \\c[3]\\v[area.forest.name]\\c[0].\nIl n'y a pas si longtemps, elles sont simplement apparues de l'océan et la végétation s'y est rapidement installée dans les parties les plus hautes de la zone. \nDe larges pierres rondes entourent l'archipel, possiblement pour briser les vagues venant de l'océan agité avant qu'elles n'atteignent les îlots."
+        },
+        "database.json/lore/final/title": {
+                "orig": "Ku'lero Temple",
+                "text": "Temple de Ku'lero"
+        },
+        "database.json/lore/final/content/page-01-01/content": {
+                "orig": "This massive temple structure is located on a remote island inside an enormous crater. It was long believed that the end of the Track would reside deep inside the mountains of \\c[3]\\v[area.forest.name]\\c[0] however the temple found there merely serves as a teleporter which transports Seekers to the final leg of the journey.\nHuge curved pine trees litter the sparse landscape. Pockets of dark reflective crystal can be found all throughout the structure and they seem to slowly overtake the temple almost like a living organism. \n\n",
+                "text": "Ce complexe massif de temple est situé sur une île lointaine à l'intérieur d'un énorme cratère. On a longtemps cru que la fin du Tracé résiderait très profondément dans les montagnes de la \\c[3]\\v[area.forest.name]\\c[0], mais le temple retrouvé là-bas ne servait que de téléporteur qui transportait les \\v[lore.title.seeker] vers la dernière étape de leur voyage.\nDes pins géants recourbés couvrent le maigre paysage. Des poches de cristaux sombres réfléchissants peuvent être trouvés un peu partout dans le temple, qui semblent lentement recouvrir le temple comme s'ils étaient un organisme vivant."
+        },
         "database.json/lore/human-government/title": {
                 "orig": "United Voyager Nation",
                 "text": "Nations Unies des Voyageurs"
@@ -17204,6 +17304,70 @@
         "database.json/lore/log-5/content/page-03/content": {
                 "orig": "Where it all began? Some Planet they called home? No wonder the seniors are all so interested in this. Are we close to finding a new inhabitable planet? In \\c[3]Old War\\c[0] territory? But what is this about a Singularity? I can't imagine them talking about a real one, that would be insane. But a new planet? After this message there's bound to be more expeditions into this \\c[3]SOS-Sector\\c[0].",
                 "text": "Là où tout a commencé ? Une planète qu'ils appelaient maison ? On comprend pourquoi les seniors sont tous intéressés. Est-ce qu'on est pas loin de découvrir une nouvelle planète habitable ? Dans un territoire de l'\\c[3]Ancienne Guerre\\c[0] ? Et c'était quoi le truc avec cette Singularité ? Je ne peux pas imaginer qu'ils parlaient d'une vraie, ce serait insensé. Mais une nouvelle planète ? Après un tel message, il va forcément y avoir plus d'expéditions dans ce \\c[3]Secteur SOS\\c[0]."
+        },
+        "database.json/lore/dlc-log-header/title": {
+                "orig": "Captain's Report",
+                "text": "Rapport du Capitaine"
+        },
+        "database.json/lore/dlc-log-header/content/first/content": {
+                "orig": "A series of logs from a space ship captain.",
+                "text": "Une série de journaux de bord d'un capitaine de vaisseau spatial."
+        },
+        "database.json/lore/dlc-log-1/title": {
+                "orig": "Report #001",
+                "text": "Rapport n°001"
+        },
+        "database.json/lore/dlc-log-1/content/page-01/content": {
+                "orig": "\\c[2]Report Card #001\\c[0]\n--\n\\c[3]Arrival at Sector SOS-3\\c[0]: 3400.1.1 n.t. Relative ACF Standard\n--\nArea is pretty messed up, lots of debris. Research vessel wasn't kidding. Signal identified. Gonna spend the next weeks trying to locate source. \n",
+                "text": "\\c[2]Rapport n°001\\c[0]\n--\n\\c[3]Arrivé au Secteur SOS-3\\c[0] : 3400.1.1 n.t. Standard AFC Relatif\n--\nLa zone est vraiment un chaos, plein de débris. Le vaisseau de recherche ne rigolait pas. Signal identifié. On va passer les prochaines semaines à essayer de localiser la source."
+        },
+        "database.json/lore/dlc-log-2/title": {
+                "orig": "Report #002",
+                "text": "Rapport n°002"
+        },
+        "database.json/lore/dlc-log-2/content/page-01/content": {
+                "orig": "\\c[2]Report Card #002\\c[0]\n--\n\\c[3]Date\\c[0]: 3400.1.3 n.t. Relative ACF Standard\n--\nCrew found signal of source. Can't make this up: looks like a \\c[3]black hole\\c[0]. No readings on the instruments, had to confirm via camera. It's tiny. Like maybe 1 km in all directions.\n",
+                "text": "\\c[2]Rapport n°002\\c[0]\n--\n\\c[3]Date\\c[0] : 3400.1.3 n.t. Standard AFC Relatif\n--\nL'équipage à trouvé le signal de la source. C'est à peine croyable: ça ressemble à un \\c[3]trou noir\\c[0]. Aucune indication sur les instruments, il a fallu le confirmer avec la caméra. C'est petit. Peut-être 1 km dans toutes les directions."
+        },
+        "database.json/lore/dlc-log-2/content/page-02/content": {
+                "orig": "--\nNo gravitational force detected. Just warps the light around it. Scientist freaking out big time. Told crew to prep drone. Highly suspect. Maybe some cloaking tech lost in the old war?",
+                "text": "--\nAucune force gravitationnelle détectée. Il déforme juste la lumière autour de lui.  Les scientifiques sont tous complètement effarés. Dit à l'équipage de préparer un drone. Très suspect. Peut-être une technologie de camouflage oubliée dans l'ancienne guerre ?"
+        },
+        "database.json/lore/dlc-log-3/title": {
+                "orig": "Report #003",
+                "text": "Rapport n°003"
+        },
+        "database.json/lore/dlc-log-3/content/page-01/content": {
+                "orig": "\\c[2]Report Card #003\\c[0]\n--\n\\c[3]Date\\c[0]: 3400.1.4 n.t. Relative ACF Standard\n--\nDrone went in without issue. It's an illusion. A frigging 1km black hole illusion. Hopefully we can salvage the tech for this. Sure you guys will love it.\n",
+                "text": "\\c[2]Rapport n°003\\c[0]\n--\n\\c[3]Date\\c[0] : 3400.1.4 n.t. Standard AFC Relatif\n--\nLe drone est parti sans problème. C'est une illusion. Une satanée illusion de trou noir de 1km. Espérons qu'on puisse récupérer cette techno là. Je suis sûr que vous adoreriez ça."
+        },
+        "database.json/lore/dlc-log-3/content/page-02/content": {
+                "orig": "--\nFound a ship inside. Still no signal, all lights are dark. Size is roughly 700mx200mx150m. large rings around the center. Does not look like anything in our databases. My guess? Looks like a generation ship.",
+                "text": "--\nTrouvé un vaisseau à l'intérieur. Toujours aucun signal, toutes les lumières sont éteintes. Sa taille est en gros 700 x 200 x 150 m.  Des grands anneaux autour du centre. Ça ne ressemble à rien qui est dans nos bases de données. Mon avis : Ça ressemble à un vaisseau de génération."
+        },
+        "database.json/lore/dlc-log-4/title": {
+                "orig": "Report #004",
+                "text": "Rapport n°004"
+        },
+        "database.json/lore/dlc-log-4/content/page-01/content": {
+                "orig": "\\c[2]Report Card #004\\c[0]\n--\n\\c[3]Date\\c[0]: 3400.1.6 n.t. Relative ACF Standard\n--\nSent in a team of 5. Footage confirms not a single living soul. Lot's of floating bodies. All human. Long corridors leading to quarters and a larger storage. Found the bridge. Ship has confirmed black box which is currently being analyzed.\n",
+                "text": "\\c[2]Rapport n°004\\c[0]\n--\n\\c[3]Date\\c[0] : 3400.1.6 n.t. Standard AFC Relatif\n--\nJ'ai envoyé une équipe de 5. La vidéo confirme qu'il y a aucune signe de vie. Plein de corps qui flottent. Tous humains. De long couloirs qui mènent à des quartiers et à un entrepôt plus grand. Trouvé le pont. Confirmé la présence dans le vaisseau d'une boite noire, qui est en train d'être analysée."
+        },
+        "database.json/lore/dlc-log-4/content/page-02/content": {
+                "orig": "--\nInitial readings name this ship the \\c[3]Phoenix\\c[0]. Guess that makes confirmation even more clear.  ",
+                "text": "--\nLes premières données nomment ce vaisseau le \\c[3]Phoenix\\c[0].. J'imagine, que ça rend la confirmation encore plus limpide."
+        },
+        "database.json/lore/dlc-log-5/title": {
+                "orig": "Report #005",
+                "text": "Rapport n°005"
+        },
+        "database.json/lore/dlc-log-5/content/page-01/content": {
+                "orig": "\\c[2]Report Card #005\\c[0]\n--\n\\c[3]Date\\c[0]: 3400.1.8 n.t. Relative ACF Standard\n--\nBlack box analysis finished. Confirmed generation vessel meant to travel to any \"inhabitable\" world. Apparently people fleeing home from \"dying planet\". Storage has big surprise for you guys.",
+                "text": "\\c[2]Rapport n°005\\c[0]\n--\n\\c[3]Date\\c[0] : 3400.1.8 n.t. Standard AFC Relatif\n--\nTerminé l'analyse de la boite noire. Confirmé que ce vaisseau de génération était prévu pour voyager vers n'importe quel monde \"habitable\". Apparemment des gens qui fuyaient leur \"planète mourante\". Dans l'entrepôt il y a une grosse surprise pour vous les mecs."
+        },
+        "database.json/lore/dlc-log-5/content/page-02/content": {
+                "orig": "--\nIf team is correct, we have some new tech allowing any matter to be controlled. Not sure how far the research is. Team is stilling puzzling on the specifics. We'll return home and bring the vessel along.\n--\nCaptain Manfred McFly \nInstatainment ACF Salvager 25-b ",
+                "text": "--\nSi mon équipe a raison, on a une nouvelle technologie qui permet de contrôler n'importe quelle matière. Pas encore sûr de l'avancement des recherches.  L'équipe essaie encore de comprendre les détails. On va rentrer chez nous et apporter le vaisseau avec nous.\n--\nCapitaine Manfred McFly\nRécupérateur AFC Instatainment 25-b"
         },
         "database.json/names/0/name": {
                 "orig": "Akasan",
@@ -18568,6 +18732,31 @@
         "database.json/quests/daft-frobbit/tasks/5/task": {
                 "orig": "Got that furry mischief maker. Finally. Go get your reward from the statue in \\c[3]Ancient Center\\c[0]",
                 "text": "Vous avez eu ce foutu lapin. Enfin. Allez chercher votre récompense depuis la statue de l'\\c[3]Ancien Centre\\c[0]."
+        },
+        "database.json/quests/ape-battle/hubSettings/location": {
+                "orig": "Challenge. I need a challenge. \\c[3]- Sandy Bar, \\v[area.beach.name]\\c[0]",
+                "text": "Défi. J'ai besoin d'un défi. \\c[3]- Barre Sablée, \\v[area.beach.name]\\c[0]"
+        },
+        "database.json/quests/ape-battle/name": {
+                "orig": "Beach Fight",
+                "text": "Chamaillerie de Plage"
+        },
+        "database.json/quests/ape-battle/person": {
+                "orig": "Son of the Beach",
+                "text": "Fils de la Mer"
+        },
+        "database.json/quests/ape-battle/description": {
+                "orig": "A massively powerful ape is on vacation at the beaches of \\v[area.beach.name]. He seems bored from all the relaxation and lack of challenge. He craves some action!",
+                "text": "Un singe massivement puissant est en vacance sur les plages de l'\\v[area.beach.name]. Il semble s'ennuyer de toute cette relaxation et de cette vie facile.  Il est en manque d'action !"
+        },
+        "database.json/quests/ape-battle/briefing": {
+                "orig": "You defeated the \\v[combat.name.beach/ape-beach] and proven that you are the strongest primate on the beach!",
+                "text": "Vous avez vaincu le \\v[combat.name.beach/ape-beach] et prouvé que vous êtes le primate le plus fort de la plage !"
+        },
+        "database.json/quests/ape-battle/tasks/0/task": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] in single combat",
+                "text": "Combattez le \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] en combat singulier",
+                "note": "de is un seul combat  ?"
         },
         "database.json/quests/trailblaze-bergen/name": {
                 "orig": "Bergen Trailblazing",
@@ -20540,7 +20729,7 @@
         },
         "database.json/quests/bakiTrader-2-brewing_challenge_2/name": {
                 "orig": "For Fox Sake!",
-                "text": "Bon sang de bon renard !"
+                "text": "Pour le \\v[item.369.name] !"
         },
         "database.json/quests/bakiTrader-2-brewing_challenge_2/person": {
                 "orig": "Ryda",
@@ -20562,6 +20751,10 @@
                 "orig": "Report back to \\c[3]Ryda\\c[0] in the \\c[3]\\v[area.heat-village.name] Bazaar House\\c[0]",
                 "text": "Retournez voir \\c[3]Ryda\\c[0] dans la \\c[3]Maison du Bazar de \\v[area.heat-village.name]\\c[0]"
         },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/hubSettings/location": {
+                "orig": "Drink machine need final polish! Seeking finest of \\v[lore.title.seeker]s! \\c[3]- Ba'kii Kum Market\\c[0]",
+                "text": "Machine à boisson besoin dernier polissage ! Besoin crème de \\v[lore.title.seeker] ! \\c[3]- Marché de Ba'kii Kum\\c[0]"
+        },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/name": {
                 "orig": "Spiritual Drinks",
                 "text": "Boissons Spiritueuses",
@@ -20574,6 +20767,10 @@
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/description": {
                 "orig": "Ryda of the \\v[lore.title.faction-shock-baki] wants to upgrade the brewing device to unlock even more recipes! A worthy task for an experienced \\v[lore.title.seeker]!",
                 "text": "Ryda de l'\\v[lore.title.faction-shock-baki] veut améliorer la machine de brassage pour débloquer encore plus de recettes ! Une tâche digne pour un \\v[lore.title.seeker] éxpérimenté !"
+        },
+        "database.json/quests/bakiTrader-3-brewing_ghosts_1/briefing": {
+                "orig": "After some exorcism, you have successfully upgraded the brewing device. \\c[3]It is now properly equipped for Fox Sake!\\c[0]",
+                "text": "Après un peu d'exorcisme, vous avez réussi à améliorer la machine de brassage. \\c[3]Elle est prête pour du \\v[item.369.name] !\\c[0]"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/tasks/0/task": {
                 "orig": "Talk to \\c[3]Ryda\\c[0] in the \\c[3]\\v[area.heat-village.name] Bazaar building\\c[0]",
@@ -20872,6 +21069,46 @@
                 "orig": "Report back to \\c[3]Madaki\\c[0] in the \\c[3]Woodland Vanguard HQ\\c[0]",
                 "text": "Revenez voir \\c[3]Madaki\\c[0] au \\c[3]QG de l'Avant-garde Forestière\\c[0]"
         },
+        "database.json/quests/jungleAdv-3-turret_defense_3/hubSettings/location": {
+                "orig": "\\v[lore.title.seeker] experienced with defense grids needed. You know who you are! \\c[3]- Woodland Vanguard HQ\\c[0]",
+                "text": "Besoin \\v[lore.title.seeker] expert en système de défense. Vous avez qui vous êtes ! \\c[3]- Avant-garde Forestière\\c[0]"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/name": {
+                "orig": "Turrets to new Heights!",
+                "text": "Tourelles toujours plus Hautes !"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/person": {
+                "orig": "Kacela Madaki",
+                "text": "Kacela Madaki"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/description": {
+                "orig": "The \\v[lore.title.faction-heat-jungle]'s has progressed to even greater heights. Your masterful skills with handling defensive devices is needed again!",
+                "text": "L'\\v[lore.title.faction-heat-jungle] a progressé toujours plus haut.  Vos talents de maitre en manutention d'appareil défensifs est encore demandé !"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/briefing": {
+                "orig": "You defended the operation and helped the exploration of the Track to take another large step!",
+                "text": "Vous avez défendu l'opération et aidé l'exploration du Tracé des Anciens à franchir un autre grand pas !"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/tasks/0/task": {
+                "orig": "Enter the \\c[3]Grubby Cave\\c[0] on \\c[3]Calm Backyard\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0] and go through \\c[3]the door\\c[0]",
+                "text": "Entrez dans la \\c[3]Grotte Sale\\c[0] située dans le \\c[3]Jardin Calme\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0] et passez à travers \\c[3]la porte\\c[0]"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/tasks/1/task": {
+                "orig": "Talk to \\c[3]Mika the technician\\c[0] near the energy device",
+                "text": "Parlez à \\c[3]la technicienne Mika\\c[0] près de l'appareil énergétique."
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/tasks/2/task": {
+                "orig": "Talk to \\c[3]Mika\\c[0] again and \\c[3]defend her against the incoming enemies\\c[0]",
+                "text": "Reparlez à \\c[3]Mika\\c[0] et \\c[3]défendez-la contre les ennemis qui arrivent\\c[0]"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/tasks/3/task": {
+                "orig": "Talk to \\c[3]Mika\\c[0] again",
+                "text": "Reparlez à \\c[3]Mika\\c[0]"
+        },
+        "database.json/quests/jungleAdv-3-turret_defense_3/tasks/4/task": {
+                "orig": "Report back to \\c[3]Madaki\\c[0] in the \\c[3]Woodland Vanguard HQ\\c[0]",
+                "text": "Revenez voir \\c[3]Madaki\\c[0] au \\c[3]QG de l'Avant-garde Forestière\\c[0]"
+        },
         "database.json/quests/jungleGuard-1-hostage_1/hubSettings/location": {
                 "orig": "We have a hostage situation and need someone to handle it professionally. \\c[3]- Basin Police Force HQ\\c[0]",
                 "text": "Une prise d'otage est en cours. Besoin d'un pro pour y mettre fin. \\c[3]- QG \\v[lore.title.faction-cold-jungle]\\c[0]"
@@ -20980,6 +21217,14 @@
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/1/task": {
                 "orig": "Trade with the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0] to gain their trust",
                 "text": "Marchandez avec la personne potentiellement suspecte à la \\c[3]Zone Zermi du \\v[area.jungle-city.name]\\c[0] pour gagner sa confiance."
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/2/task": {
+                "orig": "Find the hiding spot of the suspicious person somewhere in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0]",
+                "text": "Trouvez la cachette de la personne suspecte quelque part dans la \\c[3]Zone Zermi au \\v[area.jungle-city.name]\\c[0]"
+        },
+        "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/3/task": {
+                "orig": "Check the \\c[3]hideout\\c[0] in \\c[3]upper \\v[area.jungle-city.name]'s Pond Slums\\c[0] for hints",
+                "text": "Fouillez la \\c[3]cachette\\c[0] en \\c[3]haut de la Zone Zermi au \\v[area.jungle-city.name]\\c[0] pour trouver des indices"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/tasks/4/task": {
                 "orig": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]",
@@ -21179,6 +21424,56 @@
                 "text": "Combattez le \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] sur le \\c[3]Passage Mouillé\\c[0] dans le \\c[3]\\v[area.jungle.name]\\c[0]"
         },
         "database.json/quests/jungleGreens-2-plantSearch_1/tasks/3/task": {
+                "orig": "Report back to \\c[3]Claude Reynes\\c[0] in the \\c[3]Gaia's Gardeners HQ\\c[0] again",
+                "text": "Revenez voir \\c[3]Claude Reynes\\c[0] dans le \\c[3]QG des \\v[lore.title.faction-wave-jungle]\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/hubSettings/location": {
+                "orig": "Investigation of disturbances near the city required. \\c[3]- Gaia's Gardeners HQ\\c[0]",
+                "text": "Enquête sur des perturbations près de la ville requises. \\c[3]- QG \\v[lore.title.faction-wave-jungle]\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/name": {
+                "orig": "Salty Detox",
+                "text": "Détoxication Salée",
+                "note": "is it addiction cure (en) or toxin elimination (de) ? (\"désintoxication\" for the former, \"détoxication\" for the later)"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/person": {
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/description": {
+                "orig": "There have been reports of strange energy and attacks on travelers at the entrance to \\v[area.jungle-city.name]. You have to investigate and cleanse the issue",
+                "text": "Il y a eu des rapports sur des énergies étranges et des attaques sur des voyageurs à l'entrée du \\v[area.jungle-city.name]. Vous devez enquêter et régler le problème.",
+                "note": "en is missing a dot"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/briefing": {
+                "orig": "You and Linde have salted and pacified this powerful toxic threat to the city. Hopefully humanity can improve, so this may never happen again!",
+                "text": "Vous et Linde avez salé et calmé cette puissante menace toxique.  Espérons que l'humanité ait appris sa leçon, pour que ça ne puisse plus jamais arriver !"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/0/task": {
+                "orig": "Investigate the anomalies at the \\c[3]outside entrance\\c[0] of \\c[3]\\v[area.jungle-city.name]\\c[0]",
+                "text": "Enquêtez sur les anomalies à \\c[3]l'entrée extérieure\\c[0] du \\c[3]\\v[area.jungle-city.name]\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/1/task": {
+                "orig": "Talk to \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0]",
+                "text": "Parlez à \\c[3]Linde\\c[0] sur l'\\c[3]Île de Légende\\c[0] de l'\\c[3]\\v[area.beach.name]\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/2/task": {
+                "orig": "Talk to \\c[3]Linde\\c[0] again and \\c[3]escort her while she searches the area for the energy concentration\\c[0]",
+                "text": "Reparlez à \\c[3]Linde\\c[0] et \\c[3]escortez là pendant qu'elle cherche la concentration d'énergie dans la zone\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/3/task": {
+                "orig": "Talk to \\c[3]Linde\\c[0] again to \\c[3]start collecting the powerful salt\\c[0]",
+                "text": "Reparlez encore à \\c[3]Linde\\c[0] pour \\c[3]commencer à collecter le sel puissant\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/4/task": {
+                "orig": "Report back to \\c[3]Claude Reynes\\c[0] in the \\c[3]Gaia's Gardeners HQ\\c[0]",
+                "text": "Revenez voir \\c[3]Claude Reynes\\c[0] au \\c[3]QG des \\v[lore.title.faction-wave-jungle]\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/5/task": {
+                "orig": "Return to the \\c[3]outside entrance\\c[0] of \\c[3]\\v[area.jungle-city.name]\\c[0] to pacify the toxic ghost with \\c[3]Linde\\c[0]",
+                "text": "Retournez à \\c[3]l'entrée extérieure\\c[0] du \\c[3]\\v[area.jungle-city.name]\\c[0] pour calmer le fantôme toxique avec \\c[3]Linde\\c[0]"
+        },
+        "database.json/quests/jungleGreens-3-escort_2/tasks/6/task": {
                 "orig": "Report back to \\c[3]Claude Reynes\\c[0] in the \\c[3]Gaia's Gardeners HQ\\c[0] again",
                 "text": "Revenez voir \\c[3]Claude Reynes\\c[0] dans le \\c[3]QG des \\v[lore.title.faction-wave-jungle]\\c[0]"
         },
@@ -21723,6 +22018,85 @@
         "database.json/quests/seizui-quest/tasks/4/task": {
                 "orig": "Look for \\c[3]Reize\\c[0] in \\c[3]Rhombus Square\\c[0] to the \\c[3]south of the arena\\c[0].",
                 "text": "Cherchez \\c[3]Reize\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] au \\c[3]sud de l'arène\\c[0]."
+        },
+        "database.json/quests/autobahn/hubSettings/location": {
+                "orig": "Looking for assistance catching soil thieves in \\c[3]North Arch\\c[0]",
+                "text": "Besoin d'assistance pour attraper des voleurs de terreau à l'\\c[3]Arcade Nord\\c[0]"
+        },
+        "database.json/quests/autobahn/name": {
+                "orig": "Trouble on the Highway",
+                "text": "Ennuis sur l'Autoroute"
+        },
+        "database.json/quests/autobahn/person": {
+                "orig": "Captain Curtis",
+                "text": "Capitaine Curtis"
+        },
+        "database.json/quests/autobahn/description": {
+                "orig": "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!",
+                "text": "Une troupe de Hillkats a été aperçue dans les parcs de \\v[area.rhombus-sqr.name], en train de creuser du terreau précieux.  Aider le Capitaine Curtis à les attraper !"
+        },
+        "database.json/quests/autobahn/briefing": {
+                "orig": "All of the Hillkats and their dirt-filled vehicles have been dealt with!\\. Hopefully the parks of Rhombus Square are now safe.",
+                "text": "Tous les Hillkats et leurs véhicules plein de terre ont été mis à l'écart !\\. Espérons que les parcs de \\v[area.rhombus-sqr.name] soient à nouveau sûrs."
+        },
+        "database.json/quests/autobahn/tasks/0/task": {
+                "orig": "Watch for meerkats to appear in \\c[3]Rhombus Square - North Arch\\c[0]",
+                "text": "Surveillez des Hillkats qui apparaissent à l'\\c[3]Arcade Nord de Rhombus Square\\c[0]"
+        },
+        "database.json/quests/autobahn/tasks/1/task": {
+                "orig": "Fight the Meerkats in the grass patch of \\c[3]Rhombus Square - North Arch\\c[0]",
+                "text": "Combattez les Hillkats dans le gazon de l'\\c[3]Arcade Nord de \\v[area.rhombus-sqr.name]\\c[0]",
+                "note": "en is not hillkat, but de is"
+        },
+        "database.json/quests/autobahn/tasks/2/task": {
+                "orig": "Meet Captain Curtis at the highway at \\c[3]Rhombus Square - Cliff Exhibition\\c[0]",
+                "text": "Rencontrez le Captaine Curtis sur l'autoroute de l'\\c[3]Exhibition de Falaises de \\v[area.rhombus-sqr.name]\\c[0]"
+        },
+        "database.json/quests/autobahn/tasks/3/task": {
+                "orig": "Fight the Meerkats on the Highway",
+                "text": "Combattez les Hillkats sur l'autoroute"
+        },
+        "database.json/quests/autobahn/tasks/4/task": {
+                "orig": "Fight the mysterious car",
+                "text": "Combattez la voiture mystérieuse"
+        },
+        "database.json/quests/tremor-1/hubSettings/location": {
+                "orig": "Desperately need help with a personal problem. Please. \\c[3]- North Arch\\c[0]",
+                "text": "Besoin désespérément d'aide avec un problème personnel. S'il vous plait ! \\c[3]- Arcade Nord\\c[0]"
+        },
+        "database.json/quests/tremor-1/name": {
+                "orig": "Tremors of the Past",
+                "text": "Tremblements du Passé",
+                "quality": "bad"
+        },
+        "database.json/quests/tremor-1/person": {
+                "orig": "Nánii Tremoire",
+                "text": "Nánii Tremoire"
+        },
+        "database.json/quests/tremor-1/description": {
+                "orig": "A descendant of an innovative weapon smith implores you to find the parts of her family's greatest invention to put it back together. But is there more to this...?",
+                "text": "Un descendant d'un armurier novateur vous implore de trouver les morceaux de la meilleure invention de la famille pour les rassembler.  Mais y a-t-il autre chose là-dessous ?"
+        },
+        "database.json/quests/tremor-1/briefing": {
+                "orig": "You collected all the parts of the old weapon and helped the Tremoire family to finally shake off their ancestral curse.",
+                "text": "Vous avez récupéré tous les morceaux de l'ancienne arme et aidé la famille Tremoire à enfin calmer la malédiction ancestrale."
+        },
+        "database.json/quests/tremor-1/tasks/0/task": {
+                "orig": "Find enough \\c[3]Tremor Engines\\c[0] to upgrade the Tremor arms to a \\c[3]Shuddering Cleaver\\c[0]",
+                "text": "Trouvez assez de \\c[3]Moteurs Tremblants\\c[0] pour améliorer les armes Tremor vers une \\c[3]\\v[item.419.name]\\c[0]",
+                "note": "plural of item.381.name"
+        },
+        "database.json/quests/tremor-1/tasks/1/task": {
+                "orig": "Go back to \\c[3]Ms. Tremoire\\c[0] and talk to her about the weapon",
+                "text": "Retournez voir \\c[3]Mme Tremoire\\c[0] et parlez à elle de l'arme"
+        },
+        "database.json/quests/tremor-1/tasks/2/task": {
+                "orig": "Enter the \\c[3]remote Eastern house\\c[0] on \\c[3]Cliff Exhibition in \\v[area.rhombus-sqr.name]\\c[0] and search for \\c[3]the last component\\c[0]",
+                "text": "Entrez dans la \\c[3]maison isolée à l'est\\c[0] de l'\\c[3]Exhibition de Falaises de \\v[area.rhombus-sqr.name]\\c[0] et cherchez \\c[3]le dernier composant\\c[0]"
+        },
+        "database.json/quests/tremor-1/tasks/3/task": {
+                "orig": "Report back to \\c[3]Ms. Tremoire\\c[0]",
+                "text": "Retournez voir \\c[3]Mme Tremoire\\c[0]"
         },
         "database.json/quests/railing-rider-1/hubSettings/location": {
                 "orig": "Do you like rails? If ya do hit me up at the pub in \\c[3]Rookie Harbor - Beginners Arc\\c[0].",
@@ -22861,6 +23235,14 @@
                 "orig": "Equipment",
                 "text": "Équipement"
         },
+        "database.json/shops/arenaCoinShop/pages/1/title": {
+                "orig": "Upgrades",
+                "text": "Améliorations"
+        },
+        "database.json/shops/arenaCoinShop/pages/2/title": {
+                "orig": "Circuit Boosts",
+                "text": "Boosteur Circuit"
+        },
         "database.json/shops/arenaCoinShop/pages/3/title": {
                 "orig": "Cosmetics",
                 "text": "Cosmétiques"
@@ -22868,6 +23250,31 @@
         "database.json/shops/arenaCoinShop/pages/4/title": {
                 "orig": "Pets",
                 "text": "Animaux de Compagnie"
+        },
+        "database.json/shops/homestedtItems/name": {
+                "orig": "Homestedt Items",
+                "text": "Objets de \\v[area.evo-village.name]"
+        },
+        "database.json/shops/homestedtItems/pages/0/title": {
+                "orig": "General Goods",
+                "text": "Biens Généraux"
+        },
+        "database.json/shops/homestedtWeapons/name": {
+                "orig": "Homestedt Weaponry",
+                "text": "Armes de \\v[area.evo-village.name]"
+        },
+        "database.json/shops/homestedtWeapons/pages/0/title": {
+                "orig": "Equipment",
+                "text": "Équipement"
+        },
+        "database.json/shops/beachWeapons/name": {
+                "orig": "Beach Weapon Store",
+                "text": "Arsenal de l'Archipel",
+                "note": "this de"
+        },
+        "database.json/shops/beachWeapons/pages/0/title": {
+                "orig": "Equipment",
+                "text": "Équipement"
         },
         "database.json/traders/vermillionHeal1/name": {
                 "orig": "Vermillion Heals",
@@ -23033,6 +23440,10 @@
                 "orig": "Digging Mates Helmet",
                 "text": "Casques de l'Amicale des Creuseurs"
         },
+        "database.json/traders/kuleroLoot1/name": {
+                "orig": "Ancient Loot",
+                "text": "Butin des Anciens"
+        },
         "database.json/traders/sapphireHealSandwich/name": {
                 "orig": "Sapphire Sandwiches",
                 "text": "Sandwichs de Saphirs"
@@ -23120,6 +23531,10 @@
         "database.json/traders/heatBracer/name": {
                 "orig": "Bracerboy",
                 "text": "Brassardeur"
+        },
+        "database.json/traders/glitchTrader/name": {
+                "orig": "Glitch Trader",
+                "text": "Marchand de Glitch"
         },
         "database.json/traders/bakiHeal/name": {
                 "orig": "Ba'kii Kum Heals",
@@ -23297,6 +23712,14 @@
                 "orig": "Edgy Salesman",
                 "text": "Vendeur Limite"
         },
+        "database.json/traders/villageFood/name": {
+                "orig": "V'rda Vil Food",
+                "text": "Nourriture de V'rda Vil"
+        },
+        "database.json/traders/villageMaterials/name": {
+                "orig": "V'rda Vil Trades",
+                "text": "Matériaux de V'rda Vil"
+        },
         "database.json/traders/villageSets/name": {
                 "orig": "V'rda Vil Sets",
                 "text": "Cageots de V'rda Vil"
@@ -23424,6 +23847,31 @@
         "database.json/traders/rhombusPostEquipSpecial1/name": {
                 "orig": "Elite Special Gear",
                 "text": "Équipement d'Élite Spécial n°1"
+        },
+        "database.json/traders/rhombusPostEquipSpecial2/name": {
+                "orig": "Grindstone Trades",
+                "text": "Marchands de Polissage",
+                "note": "de is like foreur de singularité"
+        },
+        "database.json/traders/rhombusPostEquipSpecial3/name": {
+                "orig": "Galaxy Gear",
+                "text": "Équipement Galactique"
+        },
+        "database.json/traders/rhombusPostEquipArena1/name": {
+                "orig": "Arena Gear #1",
+                "text": "Équipements de l'Arène n°1"
+        },
+        "database.json/traders/rhombusPostEquipArena2/name": {
+                "orig": "Arena Gear #2",
+                "text": "Équipements de l'Arène n°2"
+        },
+        "database.json/traders/tremorTrader1/name": {
+                "orig": "Tremoire",
+                "text": "Tremoire"
+        },
+        "database.json/traders/tremorTrader2/name": {
+                "orig": "Tremoire",
+                "text": "Tremoire"
         },
         "database.json/traders/rookieHeal/name": {
                 "orig": "Rookie Sandwiches",

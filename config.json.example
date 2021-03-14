@@ -10,12 +10,14 @@
         "filter_file_path": [],
         "filter_dict_path": [],
         "filter_tags": [],
+        "filter_quality": [],
         "ignore_known": true,
         "ignore_unknown": false,
         "editor": "vim",
         "packfile": "translation/french_translation",
-	"total_count": 43825,
-	"unique_count": 29220,
+	"total_count": 43828,
+	"unique_count": 29223,
+
 	"check": {
 		"replacements": [
 			"s/œ/oe/",
@@ -57,7 +59,12 @@
 					"\u00a0": 5,
 					"\u202f": 3,
 					"tech": 17,
-					"ascended": 24
+					"ascended": 24,
+					"element-neutral": 19,
+					"element-heat": 19,
+					"element-cold": 19,
+					"element-wave": 19,
+					"element-shock": 19
 				}
 			}, "small": {
 				"metrics": [
@@ -227,6 +234,11 @@
 				"Avon/:M1:m:i",
 				"SkaterBoi/:M1:m:i",
 				"Christophorus/:M1:m:i",
+				"Owo’kyari/:M1:m:i",
+				"Zla’nyoro/:M1:m:i",
+				"Ey’leet/:M1:m:i",
+				"Sao/:M1:m:i",
+				"Cratos/:M1:m:i",
 
 				"Asimov/:M2:e:i",
 				"Sakei/:M2:e:i",
@@ -264,7 +276,7 @@
 				"Statenegger/:M2:e:i",
 				"Samuels/:M2:e:i",
 				"Niskeewa/:M2:e:i",
-
+				"Ruger/:M2:e:i",
 
 				"Nemuh/:M1:e:i",
 				"Sensei/:M1:e:i",
@@ -313,7 +325,9 @@
 				"Fist/:M2:m:s",
 
 				"Évotar/:N:m:s",
+				"évotar/:N:m:s",
 				"Évotars/:N:m:p",
+				"évotars/:N:m:p",
 
 				"shad/:N:m:s",
 				"shads/:N:m:p",
@@ -360,6 +374,9 @@
 				"Gatling/:N:f:s",
 				"Gun/:NP:e:s",
 				"biolink/:NP:e:s",
+				"Renverseur/:N:A:m:s",
+				"Renverseurs/:N:A:m:p",
+				"renverseur/:N:A:m:s",
 
 				"wrap/:N:m:s",
 				"Wrap/:N:m:s",
@@ -377,6 +394,7 @@
 				"effrayable/:A:e:s",
 				"réouvrir/:V3_itnq__a:Y",
 				"réouvert/:V3_itnq__a:Q:A:m:s",
+				"Enchaîneur/:N:m:s",
 
 				"harisson/:N:m:s",
 				"harissons/:N:m:p",
@@ -401,8 +419,8 @@
 				"Ti’im/:N:m:s",
 				"Chachoc/:N:m:s",
 				"Chachocs/:N:m:p",
-				"Arvebeh/:N:f:s",
-				"Arvebehs/:N:f:p",
+				"Arvebeh/:N:m:s",
+				"Arvebehs/:N:m:p",
 				"Plantfurax/:N:f:s",
 				"Digmo/:N:m:s",
 				"Pengpeng/:N:m:s",
@@ -423,6 +441,8 @@
 				"Dakara/:NP:m:s",
 				"Pépégang/:N:m:s",
 				"Pépégangster/:N:m:s",
+				"Pinceron/:N:m:s",
+				"Baralelles/:N:f:p",
 
 				"Cat/:NP:m:i",
 				"PU17/:NP:m:i",
@@ -432,7 +452,7 @@
 				"SPHEROMANCERS/:N:m:p",
 				"Spheromancers/:N:m:p",
 				"Spheromanceuse/:N:f:s",
-				"Tête-d’Herbe/:N:m:s",
+				"Tête-d’Herbe/:N:f:s",
 
 				"Pentafist/:N:e:s",
 				"Pentafists/:N:e:p",
@@ -514,12 +534,16 @@
 				"Raritan/:MP:e:i",
 				"Gem/:MP:e:i",
 				"Lounge/:MP:e:i",
+				"Ku’lero/:MP:e:i",
 
 				"Felix/:M1:m:i",
-				"Lachsen/:M2:m:i",
+				"Lachsen/:M2:e:i",
 				"Henning/:M1:m:i",
-				"Hartmann/:M2:m:i",
-				"Fröse/:M2:m:i"
+				"Hartmann/:M2:e:i",
+				"Fröse/:M2:e:i",
+				"Frece/:M2:e:i",
+				"GFluegel/:M2:e:i",
+				"Streetclaw/:M2:e:i"
 			],
 			"replacements": {
 				"before": [
@@ -550,7 +574,7 @@
 					["\\bBrass\\.", "BRASSAGE"],
 					["\\b(NO)O+N\\b", "\\1N"],
 					["\\[xyz\\]", "TANT"],
-					["\\b([çA-Za-z]|li|au)(-\\1)+", "\\1"],
+					["\\b([çA-Za-zé]|li|au)(-\\1)+", "\\1"],
 					["BouclierEntier", "Bouclier Entier"],
 					["BouclierSceptique", "Bouclier Sceptique"],
 					["World Wide Weeb", "NIPPON MONDIAL"],
@@ -572,7 +596,8 @@
 					["Virtual Ricochet Projectile", "VRP"],
 					["Massively Multiplayer Online", "MMO"],
 					["Radical Fish", "Radical Poisson"],
-					["V'rda Vil", "V'rda"]
+					["V'rda Vil", "V'rda"],
+					["(\n|^)- ","\\1—\u000a"]
 				],
 				"after": [
 					["oe", "œ"],

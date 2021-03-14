@@ -7,6 +7,23 @@
                 "orig": "Training Arena",
                 "text": "Arène d'Entraînement"
         },
+        "areas/rhombus-sqr.json/floors/0/maps/1/name": {
+                "orig": "Highway Tunnel 1",
+                "text": "Tunnel Autoroute 1"
+        },
+        "areas/rhombus-sqr.json/floors/0/maps/2/name": {
+                "orig": "Highway Tunnel 2",
+                "text": "Tunnel Autoroute 2"
+        },
+        "areas/rhombus-sqr.json/floors/0/maps/3/name": {
+                "orig": "Rumbling Chamber",
+                "text": "Chambre Ronronnante",
+                "note": "tremor quest"
+        },
+        "areas/rhombus-sqr.json/floors/0/name": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
         "areas/rhombus-sqr.json/floors/1/name": {
                 "orig": "en_US",
                 "text": "fr_FR"
@@ -25,7 +42,7 @@
         },
         "areas/rhombus-sqr.json/floors/1/maps/3/name": {
                 "orig": "South Arch",
-                "text": "Arche Sud"
+                "text": "Arcade Sud"
         },
         "areas/rhombus-sqr.json/floors/1/maps/4/name": {
                 "orig": "Lloyd Passage",
@@ -87,6 +104,30 @@
         "areas/rhombus-sqr.json/floors/1/maps/18/name": {
                 "orig": "Open PVP Fields",
                 "text": "Terrains Ouverts de PvP"
+        },
+        "areas/rhombus-sqr.json/floors/1/maps/19/name": {
+                "orig": "SW Beach",
+                "text": "Plage Sud Ouest"
+        },
+        "areas/rhombus-sqr.json/floors/1/maps/20/name": {
+                "orig": "Cliff Exhibition",
+                "text": "Exhibition de Falaises"
+        },
+        "areas/rhombus-sqr.json/floors/1/maps/21/name": {
+                "orig": "North Arch",
+                "text": "Arcade Nord"
+        },
+        "areas/rhombus-sqr.json/floors/1/maps/22/name": {
+                "orig": "Global Quest Hub",
+                "text": "Carrefour des Quêtes Global"
+        },
+        "areas/rhombus-sqr.json/floors/1/maps/23/name": {
+                "orig": "Tremor Lab",
+                "text": "Laboratoire Tremor"
+        },
+        "areas/rhombus-sqr.json/floors/1/maps/24/name": {
+                "orig": "Tremor Office",
+                "text": "Bureau Tremor"
         },
         "areas/rhombus-sqr.json/floors/2/name": {
                 "orig": "en_US",
@@ -967,7 +1008,7 @@
         },
         "maps/rhombus-sqr/sky-rail-map.json/entities/2/settings/title": {
                 "orig": "South Arch",
-                "text": "Arche Sud"
+                "text": "Arcade Sud"
         },
         "maps/rhombus-sqr/sky-rail-map.json/entities/2/settings/description": {
                 "orig": "This stop is close to both the Arena and the Southern Residence District.",

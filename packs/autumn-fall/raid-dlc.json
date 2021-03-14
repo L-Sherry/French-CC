@@ -220,6 +220,10 @@
                 "orig": "No worries, dear!\\. Let's just try again!",
                 "text": "C'est pas grave, chérie !\\. Essayons encore !"
         },
+        "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/22/text": {
+                "orig": "\\s[1]You completed the \nChallenge of Para Island\n\\i[element-neutral]\n\\c[3]You get +2 CP in the Neutral Circuit!\\c[0]",
+                "text": "\\s[1]Vous avez terminé le\nDéfi de l'Île de Para\n\\i[element-neutral]\n\\c[3]Vous obtenez +2 CP dans le Circuit Neutre !\\c[0]"
+        },
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/34/message": {
                 "orig": "Fortress went boom!",
                 "text": "La forteresse a fait boom !"
@@ -518,5 +522,9 @@
         "maps/autumn-fall/raid/raid-end.json/entities/139/settings/event/200/message": {
                 "orig": "You're always welcome!",
                 "text": "Tu seras toujours le bienvenu !"
+        },
+        "maps/autumn-fall/raid/raid-end.json/entities/145/settings/teleportLabel": {
+                "orig": "Back to the Entrance",
+                "text": "Retour vers l'Entrée"
         }
 }

@@ -311,6 +311,186 @@
                 "orig": "Heya, \\v[lore.title.seeker]!\\. Wanna get more drinks done?",
                 "text": "Hé, \\v[lore.title.seeker] !\\. Tu veux brasser quelques boissons ?"
         },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/2/message": {
+                "orig": "Seeker!\\. Nice to see you again, it's been so long!",
+                "text": "\\v[lore.title.seeker] !\\. Ravi de vous revoir, ça faisait si longtemps !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/3/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/4/message": {
+                "orig": "What have you been up to?\\. I have heard stories but I'd love to hear the real thing.",
+                "text": "Qu'est-ce que vous avez fait ?\\. J'ai entendu des histoires mais je préfèrerais entendre la vérité."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/5/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/6/message": {
+                "orig": "Meet, Lea... How, why.",
+                "text": "Rencontrer, Lea... Comment, pourquoi."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/7/message": {
+                "orig": "Wooow, that sounds exciting.\\. You sure have gone through a lot while I was stuck here, eh?",
+                "text": "Wouhou, ça à l'air excitant.\\. Vous avez vécu un tas de chose pendant que j'étais coincé ici, hein ?"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/8/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/9/message": {
+                "orig": "But we better get to business.\\. We both got lots on our plate.\\. Like this venture here.",
+                "text": "Mais il faut mieux qu'on se mette au travail.\\.  On a tant à faire, tous les deux.\\. Comme ce projet, par exemple."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/11/message": {
+                "orig": "I assume Kney filled you in on what I've been brewing up this time.\\. It's time to upgrade our distillery again!",
+                "text": "J'imagine que Kney t'as déjà dit ce que je veux brasser cette fois.\\. Il est temps d'améliorer encore notre distillerie !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/12/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/13/message": {
+                "orig": "Boring parts first, I got the concept tweaked out but there's still a lot of materials I need.",
+                "text": "Mais en premier, la partie ennuyeuse : J'ai débroussaillé un peu le concept, mais j'ai encore besoin d'un tas de matériel."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/15/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/16/message": {
+                "orig": "Here, take a list of the things.\\. I'll need some of that super valuable \\c[3]\\v[item.192.name]\\c[0] for one.",
+                "text": "Tiens, voilà la liste des choses.\\. J'ai besoin de ce \\c[3]\\v[item.192.name]\\c[0] très cher, pour commencer."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/17/message": {
+                "orig": "Then a few \\c[3]\\v[item.185.name]s\\c[0] straight out of our desert.",
+                "text": "Et d'un peu de \\c[3]\\v[item.185.name]\\c[0] de notre désert."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/18/message": {
+                "orig": "The rest you should find on \\v[area.beach.name].\\. I hope you enjoy a nice trip to the beach!",
+                "text": "Le reste vous devriez le trouver à l'\\v[area.beach.name].\\. J'espère que vous appréciez un petit séjour à la plage !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/19/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/20/message": {
+                "orig": "Awesome!\\. I'll be counting on you!",
+                "text": "Super !\\. Je vais compter sur toi !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/11/event/quest/21/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/12/event/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/12/event/2/message": {
+                "orig": "I'll wait here till you get all those ingredients!",
+                "text": "Je vais attendre ici jusqu'à que tu aies tous ces ingrédients !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/12/event/3/message": {
+                "orig": "To jog your memory, I'll need some of that super valuable \\c[3]\\v[item.192.name]\\c[0] for one.",
+                "text": "Pour rafraichir ta mémoire, j'ai besoin de ce \\c[3]\\v[item.192.name]\\c[0] très cher, pour commencer."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/12/event/4/message": {
+                "orig": "Then a few \\c[3]\\v[item.185.name]s\\c[0] straight out of our desert.",
+                "text": "Et d'un peu de \\c[3]\\v[item.185.name]\\c[0] de notre désert."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/12/event/5/message": {
+                "orig": "The rest you should find on a relaxing beach trip on \\v[area.beach.name].",
+                "text": "Le reste vous devriez le trouver avec un petit séjour tranquille à l'\\v[area.beach.name]."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/2/message": {
+                "orig": "Heya \\v[lore.title.seeker]!\\. You got everything?",
+                "text": "Hé, \\v[lore.title.seeker] !\\. Tu as tout ?"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/4/message": {
+                "orig": "Amazing, that's all that rare stuff I still needed.\\. Now I can get straight to finishing the last tweaks on the machine!",
+                "text": "Génial, c'est toutes les choses rares dont j'avais encore besoin.\\. Maintenant je peux enfin donner une dernière retape à la machine !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/5/message": {
+                "orig": "Wait a few minutes, I will be right back!",
+                "text": "Attends quelques minutes, je reviens tout de suite !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/22/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/24/message": {
+                "orig": "Alrighty, it's done.\\. All that's needed now is for a \\v[lore.title.seeker] to calibrate it and do a test run.",
+                "text": "Ok, c'est fini.\\. Tout ce dont on a besoin maintenant, c'est qu'un \\v[lore.title.seeker] la calibre et fasse une session de test."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/25/message": {
+                "orig": "... how?",
+                "text": "... comment ?"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/26/message": {
+                "orig": "You'll just need to go to the machine and activate the upgrade procedure.\\. Simple as that.",
+                "text": "Il faut juste que tu ailles voir la machine et que tu actives la procédure d'amélioration.\\. C'est aussi simple que ça."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/27/message": {
+                "orig": "... why?",
+                "text": "... pourquoi ?"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/28/message": {
+                "orig": "I'd do it myself but those track-gadgets need \\v[lore.title.seeker]s for some interactions.\\. It is what it is.",
+                "text": "Je l'aurais bien fait moi-même mais ces gadgets du tracé ont besoin de \\v[lore.title.seeker]s pour certaines interactions.\\. C'est comme ça."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/29/message": {
+                "orig": "Better not question it.\\. You could just finish this job instead, right?",
+                "text": "Il faut mieux pas trop y penser.\\. Et juste finir ce travail, pas vrai ?"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/30/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/13/event/quest/31/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/14/event/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/14/event/2/message": {
+                "orig": "Go down the stairs behind me to your right.\\. The distillery is still down there, waiting for that upgrade!",
+                "text": "Descends les escaliers derrière moi à ta droite.\\. La distillerie est toujours là-bas, en train d'attendre cette amélioration !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/15/event/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/15/event/2/message": {
+                "orig": "I will take care of everything with the machine.\\. Report back on the market for your well-earned reward!",
+                "text": "Je vais m'occuper du reste pour la machine.\\. Retourne juste au marché pour ta récompense bien méritée !"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/16/event/0/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/interior/tradebuilding-eg.json/entities/23/settings/npcStates/16/event/2/message": {
+                "orig": "Heya, \\v[lore.title.seeker]!\\. Wanna get more drinks done?",
+                "text": "Hé, \\v[lore.title.seeker] !\\. Tu veux brasser quelques boissons ?"
+        },
         "maps/heat-village/interior/tradebuilding-og.json/entities/42/settings/interact/hoverText": {
                 "orig": "???",
                 "text": "???"

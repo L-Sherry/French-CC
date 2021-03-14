@@ -15,6 +15,34 @@
                 "orig": "Access denied",
                 "text": "Accès refusé"
         },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/3/message": {
+                "orig": "Hello Lea!",
+                "text": "Salut Lea !"
+        },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/4/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/5/message": {
+                "orig": "This is a test for auto script!",
+                "text": "C'est un test pour un script automatique !"
+        },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/6/message": {
+                "orig": "The goal is to match the speed of regular reading.",
+                "text": "Le but est d'être à la même vitesse que la lecture normale."
+        },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/7/message": {
+                "orig": "That might be hard to do for longer sentences though...",
+                "text": "Ça risque d'être difficile à faire pour les phrases plus longues..."
+        },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/8/message": {
+                "orig": "Let's see how it works!",
+                "text": "Voyons voir comment ça marche !"
+        },
+        "maps/auto-script-test.json/entities/0/settings/npcStates/0/event/9/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
         "maps/edge-test.json/entities/15/settings/dialog/0/text": {
                 "orig": "Hey, you kinda look like me #whathappens",
                 "text": "Hé, tu ressembles un peu à moi #quesquispasse"
@@ -486,6 +514,10 @@
         "maps/npc-test.json/entities/36/settings/npcStates/1/event/2/message": {
                 "orig": "LOL, DO NOT TRANSLATE THIS!",
                 "text": "LOL, TRADUISEZ QUAND MÊME !"
+        },
+        "maps/npc-test.json/entities/37/settings/npcStates/0/event/1/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/rd-test.json/entities/1/settings/npcStates/3/event/1/message": {
                 "orig": "Sad...",

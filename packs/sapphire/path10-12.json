@@ -558,5 +558,312 @@
         "maps/forest/path-12.json/entities/693/settings/dialog/9/text": {
                 "orig": "Let me in!!!",
                 "text": "Laissez-moi entrer !!!"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/2/message": {
+                "orig": "There you are, dear!",
+                "text": "Te voilà, chérie !"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/3/message": {
+                "orig": "The \\c[3]Ku'lero Temple\\c[0] will open soon!",
+                "text": "Le \\c[3]\\v[area.final-dng.name]\\c[0] va bientôt ouvrir !"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/4/message": {
+                "orig": "But there's still enough time to prepare.",
+                "text": "Mais il reste encore assez de temps pour se préparer."
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/5/message": {
+                "orig": "Just talk to \\c[3]Lukas\\c[0] if you want your current stats evaluated.",
+                "text": "Parle juste à \\c[3]Lukas\\c[0] si tu veux faire vérifier tes stats actuelles."
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/6/message": {
+                "orig": "Now with all that being said...",
+                "text": "Mais tout ceci étant dit..."
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/7/message": {
+                "orig": "Are you \\c[3]ready to run the temple\\c[0]?",
+                "text": "Est-ce que tu es \\c[3]prête pour courir le temple\\c[0] ?"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/0/1/message": {
+                "orig": "Alrighty!",
+                "text": "OK !"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/0/2/message": {
+                "orig": "Let's all try to get closer to the entrance!",
+                "text": "Essayons tous de nous rapprocher de l'entrée !"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/1/1/message": {
+                "orig": "Alright, dear.\\. Take your time to be well prepared!",
+                "text": "C'est bon, chérie.\\. Prends ton temps pour bien te préprer !"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "maps/forest/path-12.json/entities/796/settings/npcStates/0/event/quest/8/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/2/message": {
+                "orig": "Hey there!\\. The final temple will open soon!",
+                "text": "Hé oh !\\. Le temple final va bientôt ouvrir !"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/3/message": {
+                "orig": "Do you want me to have a look at your stats and equipment?",
+                "text": "Tu veux que je regarde un peu tes stats et tes équipements ?"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/1/message": {
+                "orig": "Okay let's see...",
+                "text": "OK, voyons voir..."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/thenStep/0/message": {
+                "orig": "Jawohl! I see you're \\c[3]well prepared\\c[0].",
+                "text": "Jawohl ! Je vois que tu es \\c[3]bien préparée\\c[0]."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/thenStep/1/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/thenStep/2/message": {
+                "orig": "Good equipment and stats for your level. You'll be fine!",
+                "text": "Du bon équipement et des bonnes stats pour ton niveau. Tu devrais être à l'aise !"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/0/message": {
+                "orig": "Hm... I'd say you \\c[3]could do better\\c[0].",
+                "text": "Hm... Je dirais que tu \\c[3]pourrais faire mieux\\c[0]."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/1/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/2/message": {
+                "orig": "Things might still work with those stats, but it won't be a breeze.",
+                "text": "Ça ira peut-être avec ces stats, mais ça ne sera pas très facile."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/3/message": {
+                "orig": "I suggest you look for \\c[3]better equipment\\c[0]. It's the most important factor for your stats.",
+                "text": "Je te suggère de trouver du \\c[3]meilleur équipement\\c[0]. C'est ce qui est le plus important pour tes stats."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/0/message": {
+                "orig": "Oh junge. You really gotta \\c[3]work on your stats\\c[0]!",
+                "text": "Oh, Junge. Il faut vraiment que tu \\c[3]retravailles tes stats\\c[0] !"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/1/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/2/message": {
+                "orig": "Those may have been sufficient back for the raid, but you'll have a \\c[3]hard time\\c[0] for the final temple.",
+                "text": "Elles étaient peut-être suffisantes pour le raid, mais tu risque d'avoir \\c[3]beaucoup de mal\\c[0] pour le temple final.",
+                "note": "how do you know ?"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/4/message": {
+                "orig": "No really, you really should \\c[3]improve your equipment\\c[0]. It's by far the most important factor for your stats.",
+                "text": "Non, vraiment, tu devrais vraiment \\c[3]améliorer ton équipement\\c[0]. C'est de loin le facteur le plus important pour tes stats."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/5/message": {
+                "orig": "Also make sure to \\c[3]check your circuit tree\\c[0] if there are any more skills you can learn.",
+                "text": "Et tu devrais aussi \\c[3]vérifier tes arbres de circuits\\c[0], pour voir si tu as des compétences que tu peux apprendre."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/1/1/message": {
+                "orig": "Sure thing!\\. Let me know when you change your mind.",
+                "text": "Pas grave !\\. Dis-le-moi si tu changes d'avis."
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "maps/forest/path-12.json/entities/798/settings/npcStates/0/event/4/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/29/message": {
+                "orig": "It's soooo crowded!",
+                "text": "C'est tellement bondé !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/31/message": {
+                "orig": "I know, right?\\. Who would have thought?",
+                "text": "Oui, hein ?\\. Qui aurait pu le prévoir ?"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/36/message": {
+                "orig": "Everyone is here, right?",
+                "text": "Tout le monde est là, pas vrai ?"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/37/message": {
+                "orig": "It should start any moment, now!",
+                "text": "Ça devrait commencer d'un moment à l'autre !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/44/message": {
+                "orig": "Hello everyone!",
+                "text": "Bonjour tout le monde !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/47/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/48/message": {
+                "orig": "I heard you're all going to run the new temple together?\n",
+                "text": "J'ai cru comprendre que vous alliez tous courir le temple ensemble ?"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/50/message": {
+                "orig": "Yes, my dear! Feel free to join us!",
+                "text": "Oui, ma chère ! Tu peux te joindre à nous si tu le souhaites !",
+                "note": "lul"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/51/message": {
+                "orig": "Excellent!",
+                "text": "Excellent !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/58/message": {
+                "orig": "Those are a lot of players in one spot!",
+                "text": "Ça fait beaucoup de joueurs au même endroit !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/59/message": {
+                "orig": "I hope the servers can hold the load.\n",
+                "text": "J'espère que les serveurs tiendront la charge."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/61/message": {
+                "orig": "Satoshi, keep the immersion, please!",
+                "text": "Satoshi, pense à l'immersion, s'il te plait !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/62/message": {
+                "orig": "Oh...\\. pardon!",
+                "text": "Oh...\\. pardon !",
+                "note": "waaaaaaaat satoshi speaks french now ?"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/71/message": {
+                "orig": "It's the old geezer!\\. And he's flying!",
+                "text": "C'est le vieux type !\\. Et il vole !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/75/message": {
+                "orig": "Welcome, Seekers.",
+                "text": "Bienvenue, \\v[lore.title.seeker]s."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/76/message": {
+                "orig": "I am very grateful that all of you have assembled here.",
+                "text": "Je suis très heureux de voir que vous êtes tous rassemblés ici."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/77/message": {
+                "orig": "Today is an important day.",
+                "text": "Aujourd'hui est un jour important."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/78/message": {
+                "orig": "It is possibly the biggest milestone of Project Trackwalker.",
+                "text": "C'est possiblement le plus grand jalon de l'Opération Retraçage."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/79/message": {
+                "orig": "The \\c[3]Ku'lero Temple\\c[0], the final stage of the track, will finally open.",
+                "text": "Le \\c[3]\\v[area.final-dng.name]\\c[0], l'étape finale du tracé, va finalement ouvrir ses portes."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/80/message": {
+                "orig": "Within, we hope to finally find the answers.",
+                "text": "À l'intérieur, nous espérons enfin trouver la réponse."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/81/message": {
+                "orig": "To uncover the secret of the Ancients.",
+                "text": "Pour découvrir le secret des Anciens."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/82/message": {
+                "orig": "Now I am counting on you!",
+                "text": "Maintenant, je compte sur vous !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/83/message": {
+                "orig": "To master this final challenge the Ancients have prepared for us.",
+                "text": "Pour maitriser cette épreuve finale que les Anciens nous ont préparés."
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/84/message": {
+                "orig": "Good luck and stay vigilant!",
+                "text": "Bonne chance et restez vigilant !"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/101/message": {
+                "orig": "LET'S GOOOO!!",
+                "text": "C'EST PARTIIII !!"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/105/message": {
+                "orig": "IT'S DUNGEON TIIIIMEE!!",
+                "text": "C'EST L'HEURE DU DONJON !!"
+        },
+        "maps/forest/path-12.json/entities/829/settings/event/114/task": {
+                "orig": "Complete the \\c[3]Ku'lero Temple\\c[0].",
+                "text": "Terminez le \\c[3]\\v[area.final-dng.name]\\c[0]."
+        },
+        "maps/forest/path-12.json/entities/835/settings/dialog/0/text": {
+                "orig": "Another dungeon...\\. Okay...\\. I have to prepare mentally.",
+                "text": "Un autre donjon...\\. OK...\\. Il faut que je me prépare mentalement."
+        },
+        "maps/forest/path-12.json/entities/835/settings/dialog/1/text": {
+                "orig": "Come on!\\. It might just be a very flat dungeon without any height difference at all.",
+                "text": "Roh, allez !\\. Ça pourrait très bien être un donjon très plat sans aucune différence de hauteur."
+        },
+        "maps/forest/path-12.json/entities/835/settings/dialog/2/text": {
+                "orig": "Yeah right... Just look at their track record. I bet it will be chasms and towers all over again!",
+                "text": "Oui, bien-sûr... Il suffit de regarder leur bilan.  Je parie qu'il y aura encore plein de fossés et de tours !"
+        },
+        "maps/forest/path-12.json/entities/836/settings/dialog/0/text": {
+                "orig": "So are you ready, bro?",
+                "text": "Donc, mec, t'es prêt ?"
+        },
+        "maps/forest/path-12.json/entities/836/settings/dialog/1/text": {
+                "orig": "Yes!\\. Ready to tank the final temple!",
+                "text": "Ouais !\\. Prêt à tanker le temple final !"
+        },
+        "maps/forest/path-12.json/entities/836/settings/dialog/2/text": {
+                "orig": "That's the way!\\. Twin tank bros forever!",
+                "text": "C'est ce que je veux entendre !\\. Les frères jumeaux Tanks pour la vie !"
+        },
+        "maps/forest/path-12.json/entities/836/settings/dialog/3/text": {
+                "orig": "Forever!",
+                "text": "Pour toujours !"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/0/text": {
+                "orig": "Hey!\\. How long do plan to keep sitting there?",
+                "text": "Hé !\\. Pendant combien de temps tu comptes t'assoir ici ?"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/1/text": {
+                "orig": "It's such a nice view from up here!",
+                "text": "La vue est tellement jolie de là-haut !"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/2/text": {
+                "orig": "This is not even a table!",
+                "text": "C'est même pas une table !"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/3/text": {
+                "orig": "You made me leave my holy table pyramid, so let me at least have this!",
+                "text": "Tu m'as fait quitter ma pyramide sacrée de tables, alors laisse moi au moins rester ici !"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/4/text": {
+                "orig": "Don't you want to run the dungeon as well?",
+                "text": "Mais tu ne veux pas aussi courir le donjon ?"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/5/text": {
+                "orig": "I don't know...\\. You think there are tables in there?",
+                "text": "Je sais pas...\\. Tu penses qu'il y aura des tables là-dedans ?"
+        },
+        "maps/forest/path-12.json/entities/837/settings/dialog/6/text": {
+                "orig": "Seriously, you're a lost cause...",
+                "text": "Sérieusement, t'es un cas désespéré..."
+        },
+        "maps/forest/interior/temple-inner.json/entities/214/settings/teleportLabel": {
+                "orig": "Teleport Away",
+                "text": "Se téléporter ailleurs"
         }
 }

@@ -1,4 +1,8 @@
 {
+        "lang/sc/gui.en_US.json/labels/arena/rushDisabled": {
+                "orig": "Disabled",
+                "text": "Désactivé"
+        },
         "lang/sc/gui.en_US.json/labels/arena/arenaName": {
                 "orig": "Rhombus Arena",
                 "text": "Arène de Rhombus"
@@ -192,6 +196,14 @@
                 "orig": "\\c[5]No Items Used\\c[0]",
                 "text": "\\c[5]Aucun Objet Utilisé\\c[0]"
         },
+        "lang/sc/gui.en_US.json/labels/arena/bonuses/PVP_FLAWLESS": {
+                "orig": "\\c[5]No Rounds Lost\\c[0]",
+                "text": "\\c[5]Aucun Round Perdu\\c[0]"
+        },
+        "lang/sc/gui.en_US.json/labels/arena/challenges/descriptions/WEAPON_ADJUST": {
+                "orig": "Ascended Gear Level will be adjusted to round level.",
+                "text": "Les Équipements d'Élites seront ajustés au niveau du round."
+        },
         "lang/sc/gui.en_US.json/labels/arena/challenges/descriptions/NO_MELEE": {
                 "orig": "Close Combat and Melee Arts are disabled. ",
                 "text": "Le Combat et les Arts au Corps-à-Corps sont désactivés."
@@ -303,6 +315,14 @@
         "lang/sc/gui.en_US.json/labels/arena/scoreTypes/PERFECT_DODGE": {
                 "orig": "Perfect Dodge",
                 "text": "Évitement Parfait"
+        },
+        "lang/sc/gui.en_US.json/labels/arena/scoreTypes/PVP_ROUND_WON": {
+                "orig": "Rounds Won",
+                "text": "Rounds Gagnés"
+        },
+        "lang/sc/gui.en_US.json/labels/arena/scoreTypes/PVP_ROUND_LOST": {
+                "orig": "Rounds Lost",
+                "text": "Rounds Perdus"
         },
         "lang/sc/gui.en_US.json/labels/arena/medals/0": {
                 "orig": "Bronze",
@@ -443,6 +463,10 @@
         "lang/sc/gui.en_US.json/labels/arena/menu/roundUnlockCond": {
                 "orig": "Clear the previous round to unlock this round.",
                 "text": "Terminez le round précédent pour débloquer ce round."
+        },
+        "lang/sc/gui.en_US.json/labels/dlc/abr": {
+                "orig": "DLC",
+                "text": "DLC"
         },
         "lang/sc/gui.en_US.json/labels/area/other": {
                 "orig": "Other",

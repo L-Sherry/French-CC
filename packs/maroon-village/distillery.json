@@ -419,6 +419,10 @@
                 "orig": "Start Brewing Process",
                 "text": "Démarrer le Processus de Brassage."
         },
+        "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/1/label": {
+                "orig": "\\c[1]!!!\\c[0] \\c[3]Upgrade Brewing Machine\\c[0] \\c[1]!!!\\c[0]",
+                "text": "\\c[1]!!!\\c[0] \\c[3]Améliorer Machine de Brassage\\c[0] \\c[1]!!!\\c[0]"
+        },
         "maps/heat-village/special/distillery.json/entities/85/settings/interact/event/1/thenStep/4/options/2/label": {
                 "orig": "Brewing: \\c[3]\\v[item.367.name]\\c[0] (Material: \\v[item.372.amount] | Owned: \\v[item.367.amount])",
                 "text": "Brassage : \\c[3]\\v[item.367.name]\\c[0] (Matériel : \\v[item.372.amount] | Possédés : \\v[item.367.amount])"
@@ -574,5 +578,109 @@
         "maps/heat-village/special/distillery.json/entities/97/settings/text": {
                 "orig": "Steam Oven #4",
                 "text": "Four à Vapeur n°4"
+        },
+        "maps/heat-village/special/distillery.json/entities/107/settings/event/9/thenStep/0/text": {
+                "orig": "VAR: \\v[tmp.tempNr]",
+                "text": "VAR: \\v[tmp.tempNr]"
+        },
+        "maps/heat-village/special/distillery.json/entities/107/settings/event/10/thenStep/2/thenStep/0/text": {
+                "orig": "VAR: \\v[tmp.tempStringSteam]",
+                "text": "VAR: \\v[tmp.tempStringSteam]"
+        },
+        "maps/heat-village/special/distillery.json/entities/108/settings/event/13/text": {
+                "orig": "[Upgrade Process START]",
+                "text": "[Processus Amélioration DÉMARRÉ]"
+        },
+        "maps/heat-village/special/distillery.json/entities/108/settings/event/15/text": {
+                "orig": "[ Initiating Trial ]",
+                "text": "[ Initialisation Essai ]"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/47/text": {
+                "orig": "Upgrade successful!",
+                "text": "Mise à Niveau Réussie !"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/62/name": {
+                "orig": "Ryda",
+                "text": "Ryda"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/64/message": {
+                "orig": "Heya, \\v[lore.title.seeker].\\. Are you done by now?\\. You made a lot of noise for just upgrading a machine, y'know?",
+                "text": "Hé, \\v[lore.title.seeker].\\. Est-ce que tu as terminé là ?\\. T'en as fait du boucan pour juste améliorer une machine, t'sais ?"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/65/message": {
+                "orig": "... Sorry... How?\\. .\\..\\..\\. Why?",
+                "text": "... Désolée... Comment ?\\. .\\..\\..\\. Pourquoi ?"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/66/message": {
+                "orig": "Oh, wait, wait.\\. So you're telling me, that upgrading this thing involved fighting monstrous incarnations of booze?",
+                "text": "Oh, attends attends.\\. Tu veux me dire que pour mettre à niveau ce truc, t'as du combattre des incarnations monstrueuses d'alcool ?"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/67/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/69/message": {
+                "orig": "Oh, woops, haha.\\. That's pretty crazy but I guess we should've expected the Track throwing some final test at us.",
+                "text": "Oh, oups, héhéhé.\\. C'est assez fou, mais j'imagine qu'on aurait dû s'attendre à ce que le tracé nous envoie un test final comme ça."
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/70/message": {
+                "orig": "... Whyyyy?",
+                "text": "... Pourquoiiii ?"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/71/message": {
+                "orig": "Hey, you got it done, right?\\. No \\v[lore.title.seeker] work without some challenge.",
+                "text": "Hé, tu l'as terminé, non ?\\. Il y a pas de travail de \\v[lore.title.seeker] sans un peu de challenge."
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/72/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/73/message": {
+                "orig": "And you can feel a clear change to the aura of our baby here.\\. Now it should be well-equipped for \\c[3]Fox Sake\\c[0], the last missing recipe!",
+                "text": "Et tu peux déjà sentir un changement à l'aura de notre beau bébé.\\. Maintenant il devrait être équipé pour faire du \\c[3]\\v[item.369.name]\\c[0], la dernière recette manquante !"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/74/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/75/message": {
+                "orig": "Just report back to our dear Kney' on the market.\\. I will handle the rest down here!",
+                "text": "Va juste faire un rapport a notre cher Kney' au marché.\\. Je m'occupe du reste ici !"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/76/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/77/message": {
+                "orig": "Was great working with you again, sweetie!\\. Don't forget to visit now and then for some drinks!",
+                "text": "C'était cool de travailler encore avec toi, mon cœur !\\. N'oublie pas de passer nous voir de temps en temps pour quelques boissons !"
+        },
+        "maps/heat-village/special/distillery.json/entities/109/settings/event/78/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/heat-village/special/distillery.json/entities/110/settings/event/7/thenStep/0/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "maps/heat-village/special/distillery.json/entities/110/settings/event/7/thenStep/1/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "maps/heat-village/special/distillery.json/entities/110/settings/event/7/thenStep/2/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "maps/heat-village/special/distillery.json/entities/110/settings/event/7/thenStep/3/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "maps/heat-village/special/distillery.json/entities/112/settings/event/4/guiInfo/settings/text": {
+                "orig": "Overheat",
+                "text": "Surchauffe"
+        },
+        "maps/heat-village/special/distillery.json/entities/118/settings/event/9/text": {
+                "orig": "Overheated! Starting emergency cooling!",
+                "text": "Surchauffe ! Démarrage refroidissement d'urgence !"
         }
 }
