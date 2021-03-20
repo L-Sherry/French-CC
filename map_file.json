@@ -95,6 +95,11 @@
 	"maps/rhombus-sqr/center-e.json": "packs/rhombus/sqr.pack.json",
 	"maps/rhombus-sqr/center-s.json": "packs/rhombus/center-s.pack.json",
 	"maps/rhombus-sqr/center-se.json": "packs/rhombus/center-se.pack.json",
+	"maps/rhombus-sqr/center-n.json": "packs/rhombus/center-n.pack.json",
+	"maps/rhombus-sqr/center-nw.json": "packs/rhombus/center-nw.pack.json",
+	"maps/rhombus-sqr/center-ne.json": "packs/rhombus/center-ne.pack.json",
+
+
 	"maps/rhombus-sqr/central-inner.json": "packs/rhombus/sqr.pack.json",
 	"maps/rhombus-sqr/central.json": "packs/rhombus/sqr.pack.json",
 	"maps/rhombus-sqr/interior/arena-00-training.json": "packs/rhombus/arena-training.pack.json",
@@ -112,9 +117,14 @@
 	"maps/rhombus-sqr/residential-s1.json": "packs/rhombus/residential.pack.json",
 	"maps/rhombus-sqr/shops-1.json": "packs/rhombus/shops.pack.json",
 	"maps/rhombus-sqr/sky-rail-map.json": "packs/rhombus/sqr.pack.json",
-	"maps/rhombus-sqr/beach-sw.json": "packs/rhombus/sqr.pack.json",
-	"maps/rhombus-sqr/interior/questhub.json": "packs/rhombus/sqr.pack.json",
-	"maps/rhombus-sqr/interior/autobahn.json": "packs/rhombus/sqr.pack.json",
+
+	"maps/rhombus-sqr/beach-sw.json": "packs/rhombus/beach.pack.json",
+	"maps/rhombus-sqr/interior/questhub.json": "packs/rhombus/quests.pack.json",
+	"maps/rhombus-sqr/interior/autobahn.json": "packs/rhombus/quests.pack.json",
+	"maps/rhombus-sqr/interior/autobahn-boss.json": "packs/rhombus/quests.pack.json",
+	"maps/rhombus-sqr/interior/tremor-lab-eg.json": "packs/rhombus/quests.pack.json",
+	"maps/rhombus-sqr/interior/tremor-lab-ug.json": "packs/rhombus/quests.pack.json",
+	"maps/rhombus-sqr/interior/tremor-office-g.json": "packs/rhombus/quests.pack.json",
 
 
 	"areas/rookie-harbor.json": "packs/rookie-harbor/rookie-harbor.pack.json",
@@ -122,7 +132,7 @@
 	"maps/rookie-harbor/central-quest-hub-2.json": "packs/rookie-harbor/hub.pack.json",
 	"maps/rookie-harbor/central-quest-hub.json": "packs/rookie-harbor/hub.pack.json",
 	"maps/rookie-harbor/east.json": "packs/rookie-harbor/rookie-harbor.pack.json",
-	"maps/rookie-harbor/south.json": "packs/rookie-harbor/rookie-harbor.pack.json",
+	"maps/rookie-harbor/south.json": "packs/rookie-harbor/south.pack.json",
 	"maps/rookie-harbor/teleporter.json": "packs/rookie-harbor/teleporter.pack.json",
 	"maps/rookie-harbor/expo-space.json": "packs/rookie-harbor/hub.pack.json",
 	"maps/rookie-harbor/inner-faction-wa-adv.json": "packs/rookie-harbor/waadv.pack.json",
@@ -141,7 +151,7 @@
 	"maps/rookie-harbor/inner-info-ug-2.json": "packs/rookie-harbor/info-ug-2.json",
 	"maps/rookie-harbor/inner-info-ug-1.json": "packs/rookie-harbor/info-ug-1.json",
 	"maps/rookie-harbor/inner-info.json": "packs/rookie-harbor/info.json",
-	"maps/rookie-harbor/west.json": "packs/rookie-harbor/rookie-harbor.pack.json",
+	"maps/rookie-harbor/west.json": "packs/rookie-harbor/west.pack.json",
 	"maps/rookie-harbor/special/quest-ocean-1.json": "packs/rookie-harbor/quest-ocean.pack.json",
 	"maps/rookie-harbor/special/quest-ocean-2a.json": "packs/rookie-harbor/quest-ocean.pack.json",
 	"maps/rookie-harbor/special/quest-ocean-2b-boss.json": "packs/rookie-harbor/quest-ocean.pack.json",
@@ -606,10 +616,10 @@
 	"maps/dreams/dream14.json": "packs/dreams/eleven-to-15.json",
 	"maps/dreams/dream15.json": "packs/dreams/eleven-to-15.json",
 	"maps/dreams/dream16.json": "packs/dreams/dream-16.json",
-	"maps/dreams/post-dream1.json": "packs/dreams/dream-dlc.json",
-	"maps/dreams/post-dream2.json": "packs/dreams/dream-dlc.json",
-	"maps/dreams/post-dream3.json": "packs/dreams/dream-dlc.json",
-	"maps/dreams/post-prologue.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-dream1.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-dream2.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-dream3.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-prologue.json": "packs/dreams/dream-dlc.json",
 
 
 	"maps/bergen/bergen.json": "packs/bergen/south.json",
@@ -1149,6 +1159,8 @@
 	"maps/jungle-city/special/hostage-1-3-cratequest1.json": "packs/basin/crates.json",
 	"maps/jungle-city/special/papagangster-rooftop-1.json": "packs/basin/crates.json",
 	"maps/jungle-city/special/parrot-hq-1.json": "packs/basin/dlc.json",
+	"maps/jungle-city/special/parrot-hq-2.json": "packs/basin/dlc.json",
+	"maps/jungle-city/special/parrot-hq-rooftop-1.json": "packs/basin/dlc.json",
 
 	"areas/shock-dng.json": "packs/shock-dng.pack.json",
 	"maps/shock-dng/f1/room1.json": "packs/shock-dng.pack.json",
@@ -1296,6 +1308,17 @@
 	"extension/scorpion-robo/data/maps/heat/lab/room-2.json": "packs/pc-dlc.pack.json",
 	"extension/scorpion-robo/data/maps/heat/lab/room-3.json": "packs/pc-dlc.pack.json",
 	"extension/scorpion-robo/data/maps/heat/lab/room-boss.json": "packs/pc-dlc.pack.json",
-	"extension/scorpion-robo/data/maps/heat/lab/room-final.json": "packs/pc-dlc.pack.json"
+	"extension/scorpion-robo/data/maps/heat/lab/room-final.json": "packs/pc-dlc.pack.json",
 
+
+	"extension/post-game/post-game.json": "packs/dlc.pack.json",
+	"extension/post-game/data/arena/ancient-boss-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/ancient-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/ancient-team-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/apollo-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/kit-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/lily-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/shizuka-cup.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/dlc/creator.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/dlc/snail.json": "packs/dlc-arena.pack.json"
 }

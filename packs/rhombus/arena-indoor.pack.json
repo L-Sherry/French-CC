@@ -325,6 +325,14 @@
                 "orig": "We arranged items in multiple tabs. Please use \\i[circle-left] & \\i[circle-right] to change between the tabs.",
                 "text": "Nous avons arrangé les objets dans plusieurs onglets. Veuillez utiliser \\i[circle-left] et \\i[circle-right] pour changer d'onglet."
         },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/158/settings/npcStates/1/event/2/message": {
+                "orig": "I'm ready for our duel any time!",
+                "text": "Je suis toujours prête pour notre duel !"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/158/settings/npcStates/1/event/3/message": {
+                "orig": "Just select \\c[3]PvP vs Lily\\c[0] among the \\c[3]Custom Cups\\c[0] to the right.",
+                "text": "Sélectionne juste \\c[3]PvP contre Lily\\c[0] parmi les \\c[3]Coupes Personnalisées\\c[0] à droite."
+        },
         "maps/rhombus-sqr/interior/arena-01.json/entities/159/settings/event/6/message": {
                 "orig": "Here we are, such a busy place!",
                 "text": "Nous y voilà, il y a tellement de monde ici !"
@@ -582,5 +590,62 @@
         "maps/rhombus-sqr/interior/arena-01.json/entities/169/settings/npcStates/0/event/shop/0/thenStep/2/message": {
                 "orig": "Hello, Seeker!\\. You can buy regular consumables here.",
                 "text": "Bonjour, \\v[lore.title.seeker] !\\. Vous pouvez acheter des consommables habituels ici. Que désirez-vous ?"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/170/settings/npcStates/1/event/trade/2/message": {
+                "orig": "Welcome to \\c[3]Rhombus Arena\\c[0]!",
+                "text": "Bienvenue a \\c[3]l'Arène de Rhombus\\c[0] !"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/170/settings/npcStates/1/event/trade/3/message": {
+                "orig": "I'm happy to provide information on \\c[3]Cups\\c[0] and related topics!",
+                "text": "Je peux volontiers vous informer sur les \\c[3]Coupes\\c[0] ou sur d'autres sujets liés !"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/171/settings/npcStates/1/event/trade/2/message": {
+                "orig": "Welcome to \\c[3]Rhombus Arena\\c[0]!",
+                "text": "Bienvenue a \\c[3]l'Arène de Rhombus\\c[0] !"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/171/settings/npcStates/1/event/trade/3/message": {
+                "orig": "I'm happy to provide information on \\c[3]Cups\\c[0] and related topics!",
+                "text": "Je peux volontiers vous informer sur les \\c[3]Coupes\\c[0] ou sur d'autres sujets liés !"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/1/thenStep/0/titleText": {
+                "orig": "\\i[element-neutral] \\c[3]+1 CP in the Heat Circuit\\c[0] \\i[element-neutral]",
+                "text": "\\i[element-neutral] \\c[3]+1 CP dans le Circuit Neutre\\c[0] \\i[element-neutral]",
+                "note": "there i fixed it"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/1/thenStep/0/text": {
+                "orig": "The \\c[3]\\v[item.650.name]\\c[0] is empowering your circuit!\n\n\\c[3]You got one additional CP in the Neutral Circuit!\\c[0] \\i[element-neutral]",
+                "text": "Le \\c[3]\\v[item.650.name]\\c[0] renforce votre circuit !\n\n\\c[3]Vous possédez un CP supplémentaire dans le Circuit Neutre !\\c[0] \\i[element-neutral]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/2/thenStep/0/titleText": {
+                "orig": "\\i[element-heat] \\c[3]+1 CP in the Heat Circuit\\c[0] \\i[element-heat]",
+                "text": "\\i[element-heat] \\c[3]+1 CP dans le Circuit Chaud\\c[0] \\i[element-heat]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/2/thenStep/0/text": {
+                "orig": "The \\c[3]\\v[item.651.name]\\c[0] is empowering your circuit!\n\n\\c[3]You got one additional CP in the Heat Circuit!\\c[0] \\i[element-heat]",
+                "text": "Le \\c[3]\\v[item.651.name]\\c[0] renforce votre circuit !\n\n\\c[3]Vous possédez un CP supplémentaire dans le Circuit Chaud !\\c[0] \\i[element-heat]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/3/thenStep/0/titleText": {
+                "orig": "\\i[element-cold] \\c[3]+1 CP in the Cold Circuit\\c[0] \\i[element-cold]",
+                "text": "\\i[element-cold] \\c[3]+1 CP dans le Circuit Froid\\c[0] \\i[element-cold]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/3/thenStep/0/text": {
+                "orig": "The \\c[3]\\v[item.652.name]\\c[0] is empowering your circuit!\n\n\\c[3]You got one additional CP in the Cold Circuit!\\c[0] \\i[element-cold]",
+                "text": "Le \\c[3]\\v[item.652.name]\\c[0] renforce votre circuit !\n\n\\c[3]Vous possédez un CP supplémentaire dans le Circuit Froid !\\c[0] \\i[element-cold]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/4/thenStep/0/titleText": {
+                "orig": "\\i[element-shock] \\c[3]+1 CP in the Shock Circuit\\c[0] \\i[element-shock]",
+                "text": "\\i[element-shock] \\c[3]+1 CP dans le Circuit Choc\\c[0] \\i[element-shock]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/4/thenStep/0/text": {
+                "orig": "The \\c[3]\\v[item.653.name]\\c[0] is empowering your circuit!\n\n\\c[3]You got one additional CP in the Shock Circuit!\\c[0] \\i[element-shock]",
+                "text": "Le \\c[3]\\v[item.653.name]\\c[0] renforce votre circuit !\n\n\\c[3]Vous possédez un CP supplémentaire dans le Circuit Choc !\\c[0] \\i[element-shock]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/5/thenStep/0/titleText": {
+                "orig": "\\i[element-wave] \\c[3]+1 CP in the Wave Circuit\\c[0] \\i[element-wave]",
+                "text": "\\i[element-wave] \\c[3]+1 CP dans le Circuit d'Onde\\c[0] \\i[element-wave]"
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/172/settings/event/5/thenStep/0/text": {
+                "orig": "The \\c[3]\\v[item.654.name]\\c[0] is empowering your circuit!\n\n\\c[3]You got one additional CP in the Wave Circuit!\\c[0] \\i[element-wave]",
+                "text": "Le \\c[3]\\v[item.654.name]\\c[0] renforce votre circuit !\n\n\\c[3]Vous possédez un CP supplémentaire dans le Circuit d'Onde !\\c[0] \\i[element-wave]"
         }
 }

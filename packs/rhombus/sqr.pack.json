@@ -165,10 +165,6 @@
                 "orig": "Gear Store 2F",
                 "text": "Magasin d'Équipement 2ième E"
         },
-        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/9/message": {
-                "orig": "Oh no...",
-                "text": "Oh non..."
-        },
         "maps/rhombus-sqr/center-e.json/entities/84/settings/event/2/text": {
                 "orig": "Access Denied",
                 "text": "Accès Refusé"
@@ -1030,12 +1026,12 @@
                 "orig": "The entrance to Rhombus Square and exit to the main land.",
                 "text": "L'entrée de Rhombus Square et la sortie vers le continent."
         },
-        "maps/rhombus-sqr/interior/autobahn.json/entities/76/settings/event/3/message": {
-                "orig": "...!",
-                "text": "... !"
+        "maps/rhombus-sqr/sky-rail-map.json/entities/5/settings/title": {
+                "orig": "North Arch",
+                "text": "Arcade Nord"
         },
-        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/7/text": {
-                "orig": "*sigh*",
-                "text": "*pffff*"
+        "maps/rhombus-sqr/sky-rail-map.json/entities/5/settings/description": {
+                "orig": "This stop is close to the business district and the PvP fields.",
+                "text": "Cet arrêt est proche du quartier d'affaire et des terrains de PvP."
         }
 }

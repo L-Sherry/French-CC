@@ -1,4 +1,12 @@
 {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/analyzable/text": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/0/event/1/name": {
+                "orig": "Barkeep",
+                "text": "Barman"
+        },
         "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/0/event/2/message": {
                 "orig": "Heya \\c[3]Seeker\\c[0].\\. Running a respectable establishment here so please feel comfortable.",
                 "text": "Yo \\c[3]\\v[lore.title.seeker]\\c[0].\\. Je tiens un établissement sérieux ici, donc détendez vous."
@@ -6,6 +14,14 @@
         "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/0/event/3/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/1/event/1/name": {
+                "orig": "Barkeep",
+                "text": "Barman"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/1/event/2/message": {
+                "orig": "Hey, don't look at me like that.\\. I just give out drinks and relationship advice to pay for college.",
+                "text": "Hé, me regarde pas comme ça.\\. Je file juste des boissons et des astuces de dragues pour payer mes études."
         },
         "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/1/event/3/message": {
                 "orig": "I know nothing of no criminal connections or whatever.",
@@ -15,8 +31,256 @@
                 "orig": "...",
                 "text": "..."
         },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/3/name": {
+                "orig": "Suspicious Trader",
+                "text": "Marchand Suspect"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/5/message": {
+                "orig": "WAIT!!",
+                "text": "ATTENDS !!"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/7/message": {
+                "orig": "Squawk!\\. Human!\\. \\v[lore.title.seeker]!\\. Danger!!",
+                "text": "Croa Croa !\\. Humain !\\. \\v[lore.title.seeker] !\\. Danger !!"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/9/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/4/message": {
+                "orig": "Hi.",
+                "text": "Salut."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/5/message": {
+                "orig": "Y-yes, hello?\\. Can we help you?",
+                "text": "O-oui, bonjour ?\\. Est-ce qu'on peut vous aider ?"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/6/message": {
+                "orig": "Dear, please.\\. No, we are not buying anything.\\. Now please let us eat in peace.",
+                "text": "Rah, s'il vous plait.\\. Non, on achète rien.\\. Maintenant si vous pouviez nous laisser manger tranquille."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/7/message": {
+                "orig": "Why...?",
+                "text": "Pourquoi... ?"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/8/message": {
+                "orig": "Oh, by the... Dear, why did we have to go to this shady place?",
+                "text": "Oh, pour l'amour du ciel... Chéri, pourquoi il a fallu qu'on aille dans ce trou minable ?"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/9/message": {
+                "orig": "B-but I heard they have the best food in the entire city.",
+                "text": "J-J'ai cru qu'ils avaient la meilleure nourriture de toute la ville."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/10/message": {
+                "orig": "Sorry\\..\\..\\.. Bye...",
+                "text": "Désolé\\..\\..\\.. Bye..."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/1/text": {
+                "orig": "[aggressive squawking]",
+                "text": "[cris agressifs]"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/35/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/43/text": {
+                "orig": "[aggressive squawking]",
+                "text": "[cris agressifs]"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/44/text": {
+                "orig": "[aggressive squawking]",
+                "text": "[cris agressifs]"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/38/settings/npcStates/0/event/2/message": {
+                "orig": "Hi.",
+                "text": "Salut."
+        },
         "maps/jungle-city/special/parrot-hq-1.json/entities/38/settings/npcStates/0/event/4/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/38/settings/npcStates/0/event/5/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/40/settings/npcStates/0/event/2/message": {
+                "orig": "Hi.",
+                "text": "Salut."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/40/settings/npcStates/0/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/40/settings/npcStates/0/event/5/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/41/settings/event/10/text": {
+                "orig": "The \\c[3]items and money\\c[0] lost in the scam have been retrieved!",
+                "text": "Les \\c[3]items et l'argent\\c[0] perdus dans l'arnaque ont été retrouvés !"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/15/settings/analyzable/text": {
+                "orig": "Barkeep",
+                "text": "Barman"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/15/settings/npcStates/0/event/1/name": {
+                "orig": "Barkeep",
+                "text": "Barman"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/15/settings/npcStates/0/event/2/message": {
+                "orig": "No drinks unless the boss gives his okay.",
+                "text": "Pas de boisson tant que le boss me dit pas que c'est bon."
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/15/settings/npcStates/0/event/3/message": {
+                "orig": "... Bye.",
+                "text": "... Bye."
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/0/4/message": {
+                "orig": "Lea!\\. Wait!",
+                "text": "Lea !\\. Attends !"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/0/9/text": {
+                "orig": "[disrespectful bird noises]",
+                "text": "[cris d'oiseaux irrespectueux]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/0/12/message": {
+                "orig": "... Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/0/16/text": {
+                "orig": "[curses of the bird variety]",
+                "text": "[jurons de noms d'oiseaux]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/0/19/message": {
+                "orig": "... Wait!",
+                "text": "... Attends !"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/options/0/label": {
+                "orig": "[Confront Criminals]",
+                "text": "[Confronter les Criminels]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/20/settings/event/3/options/1/label": {
+                "orig": "[Turn back]",
+                "text": "[Rebrousser chemin]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/25/settings/event/10/text": {
+                "orig": "[aggressive squawking]",
+                "text": "[cris agressifs]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/25/settings/event/11/text": {
+                "orig": "[aggressive squawking]",
+                "text": "[cris agressifs]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/25/settings/event/16/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/25/settings/event/17/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/25/settings/event/45/text": {
+                "orig": "Rescue all the hostages by stunning their captor with a \\c[3]charged shot\\c[0]!",
+                "text": "Sauvez tous les otages en étourdissant leur ravisseurs avec un \\c[3]tir chargé\\c[0] !"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/25/settings/event/46/task": {
+                "orig": "\\c[3]Stun\\c[0] the Papagangster with \\c[3]a charged attack\\c[0] to \\c[3]free the hostage\\c[0].\n\\c[1]Be careful to not get too close or hurt the hostage!\\c[0]",
+                "text": "\\c[3]Étourdissez\\c[0] le Pépégangster avec \\c[3]une attaque chargée\\c[0] pour \\c[3]libérer l'otage\\c[0].\n\\c[1]Faites attention à ne pas vous approcher trop près ou de le blesser l'otage !\\c[0]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/60/settings/analyzable/text": {
+                "orig": "DJ Spep",
+                "text": "DJ Spep"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/73/settings/npcStates/2/event/2/message": {
+                "orig": "Please don't mind my friend here.",
+                "text": "S'il vous plait, ne faites pas attention à mon ami."
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/73/settings/npcStates/2/event/9/message": {
+                "orig": "He just really likes to dance and doesn't want any trouble.",
+                "text": "Il adore juste danser et il ne veux pas d'ennuis."
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/73/settings/npcStates/2/event/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/0/startAction/1/text": {
+                "orig": "[Angry bird noises]",
+                "text": "[Cris d'oiseau énervés]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/3/startAction/1/text": {
+                "orig": "[Angry goat noises]",
+                "text": "[Bêlements de bouc énervé]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/6/startAction/1/text": {
+                "orig": "[Angry bird noises]",
+                "text": "[Cris d'oiseau énervés]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/9/startAction/1/text": {
+                "orig": "[Angry goat noises]",
+                "text": "[Bêlements de bouc énervé]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/81/settings/event/8/startAction/1/text": {
+                "orig": "[Angry bird noises]",
+                "text": "[Cris d'oiseau énervés]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/81/settings/event/10/startAction/1/text": {
+                "orig": "[Angry bird noises]",
+                "text": "[Cris d'oiseau énervés]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/81/settings/event/14/startAction/1/text": {
+                "orig": "[Angry bird noises]",
+                "text": "[Cris d'oiseau énervés]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/81/settings/event/16/startAction/1/text": {
+                "orig": "[Angry bird noises]",
+                "text": "[Cris d'oiseau énervés]"
+        },
+        "maps/jungle-city/special/parrot-hq-2.json/entities/147/settings/analyzable/text": {
+                "orig": "Barkeep",
+                "text": "Barman"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/8/settings/states/1/action/0/text": {
+                "orig": "\\v[tmp.platformDelayString]",
+                "text": "\\v[tmp.platformDelayString]"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/8/settings/states/1/action/8/text": {
+                "orig": "\\v[tmp.platformWaitString]",
+                "text": "\\v[tmp.platformWaitString]"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/15/settings/event/1/thenStep/1/action/0/text": {
+                "orig": "Return to Roof",
+                "text": "Retourner sur le Toit"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/states/1/action/0/text": {
+                "orig": "\\v[tmp.platformDelayString]",
+                "text": "\\v[tmp.platformDelayString]"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/states/1/action/8/text": {
+                "orig": "\\v[tmp.platformWaitString]",
+                "text": "\\v[tmp.platformWaitString]"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/17/settings/analyzable/text": {
+                "orig": "Kid Goat Zira",
+                "text": "Chevreau Zira"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/8/message": {
+                "orig": "Lea!\\. Wait!",
+                "text": "Lea !\\. Attends !"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/10/text": {
+                "orig": "[disrespectful bird noises]",
+                "text": "[cris d'oiseaux irrespectueux]"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/11/message": {
+                "orig": "... Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/13/text": {
+                "orig": "[curses of the bird variety]",
+                "text": "[jurons de noms d'oiseaux]"
+        },
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/21/settings/analyzable/text": {
+                "orig": "en_US",
+                "text": "Caisse Importante"
         }
 }

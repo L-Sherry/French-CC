@@ -88,22 +88,106 @@
                 "orig": "What is it, \\v[lore.title.seeker]? Have have business to take care of.",
                 "text": "Qu'est-ce qu'il y a, \\v[lore.title.seeker] ? J'ai des affaires à gérer."
         },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message": {
+                "orig": "Where?",
+                "text": "Où ?"
+        },
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message": {
                 "orig": "Ha, that is new.\\. A noble \\v[lore.title.seeker] coming to the likes of me for information?\\. Interesting times.",
                 "text": "Ha, c'est nouveau.\\. Un noble \\v[lore.title.seeker] vient voir des gens comme moi pour obtenir des informations ?\\. Quelle curieuse époque.",
                 "quality": "unknown"
         },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message": {
+                "orig": "Where?\\. How?\\. Lea.",
+                "text": "Où ?\\. Comment ?\\. Lea."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message": {
+                "orig": "Well, surely I might have some information on the affairs of those winged crooks.\\. But I won't share it for free, feel me?",
+                "text": "Bon, je dois sûrement avoir quelques informations à propos de ces voyous ailés.\\. Mais je ne vais pas les partager gratuitement, vous comprenez ?"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message": {
                 "orig": "Well, I am a humble informant.\\. And hungry besides.",
                 "text": "Et bien, je suis un humble informateur.\\. Et affamé parfois."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message": {
+                "orig": "So\\..\\..\\.. Just, give me \\c[3]7000 credits\\c[0] and \\c[3]3 Chef Sandwiches\\c[0] and we have a deal.",
+                "text": "Donc\\..\\..\\.. Donnez-moi \\c[3]7000 crédits\\c[0] et \\c[3]3 Sandwichs du Chef\\c[0] et on aura un deal."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/elseStep/0/message": {
+                "orig": "Ah, Ms. \\v[lore.title.seeker]?\\. Changed your mind about my offer?",
+                "text": "Ah, Mademoiselle \\v[lore.title.seeker] ?\\. Vous avez changé d'avis sur mon offre ?"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/elseStep/1/message": {
+                "orig": "It's still \\c[3]7000 credits\\c[0] and \\c[3]3 Chef Sandwiches\\c[0] for the information you need.",
+                "text": "C'est toujours \\c[3]7000 crédits\\c[0] et \\c[3]3 Sandwichs du Chef\\c[0] pour les informations dont vous avez besoin."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/5/message": {
+                "orig": "Sounds fair?",
+                "text": "Ça vous semble raisonnable ?"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/2/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/3/message": {
+                "orig": "Ah, perfect.\\. I can already taste those precious sandwiches.\\. Today is a good day.",
+                "text": "Ah, parfait.\\. Je peux déjà sentir l'odeur de ces précieux sandwichs.\\. Aujourd'hui est un bon jour."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/4/message": {
+                "orig": "... Where?",
+                "text": "... Où ?"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/5/message": {
+                "orig": "Ah, right.\\. Well, I don't actually know the location of the HQ those birds live in.",
+                "text": "Ah, oui.\\. Bon, je ne sais pas exactement où se trouve le quartier général de ces volatiles."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/6/message": {
+                "orig": "Why?!",
+                "text": "Pourquoi ?!"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/7/message": {
+                "orig": "Buuuut... I know someone who could lead you there!",
+                "text": "Maiiis... Je connais quelqu'un qui pourrait vous y mener !"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/9/message": {
+                "orig": "There is this weird guy in our slums.\\. Huge nose, not much for words.\\. Trades some suspicious bird-related merchandise.",
+                "text": "Il y a ce type étrange dans notre quartier.\\. Un grand nez, et pas très causant.\\. Il vend des marchandises curieuses liés aux oiseaux."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/10/message": {
+                "orig": "Search for him in the \\c[3]back alleys around here\\c[0] and try to \\c[3]set up a trade with him\\c[0].\\. That might get his trust.",
+                "text": "Cherchez le dans les \\c[3]ruelles du coin\\c[0] et essayez de \\c[3]marchander avec lui\\c[0].\\. Histoire d'essayer de gagner sa confiance."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/11/message": {
+                "orig": "How...?\\. Why?",
+                "text": "Comment... ?\\. Pourquoi ?"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/12/message": {
+                "orig": "Well, that's the all info I got for you.\\. Take it or leave it, I got me some sandwiches to enjoy!",
+                "text": "Bon, c'est toutes les infos que j'ai pour toi.\\. À prendre ou à laisser, moi j'ai des sandwichs qui m'attendent !"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/0/13/message": {
+                "orig": "Bye...",
+                "text": "Bye..."
+        },
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/1/0/message": {
                 "orig": "[shakes head]",
                 "text": "[secoue la tête]"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/1/1/message": {
+                "orig": "Oh well, your decision.\\. I'll be waiting if you change your mind.",
+                "text": "Bon, c'est ton choix.\\. Je reste là, si jamais tu changes d'avis."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/1/2/message": {
+                "orig": "... Bye.",
+                "text": "... Bye."
         },
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/options/0/label": {
                 "orig": "[Pay \\c[1]\\v[tmp.payment] credits\\c[0] (\\c[3]\\v[player.money]\\c[0] held) and \\c[1]3 \\v[item.28.name]\\c[0] (\\c[3]\\v[item.28.amount]\\c[0] held)]",
@@ -112,6 +196,18 @@
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/6/options/1/label": {
                 "orig": "[Leave]",
                 "text": "[Partir]"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/2/event/1/name": {
+                "orig": "Fuzzy Duncan",
+                "text": "Fuzzy Duncan"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/2/event/2/message": {
+                "orig": "Search the \\c[3]back alleys around here\\c[0] for \\c[3]some shady guy with a gigantic nose\\c[0].",
+                "text": "Cherchez dans les \\c[3]ruelles de la zone\\c[0] pour un \\c[3]type louche avec un nez gigantesque\\c[0]."
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/2/event/3/message": {
+                "orig": "If you \\c[3]start trading with him\\c[0] you might get his trust and the information you need.",
+                "text": "Si vous \\c[3]commencez à marchander avec lui\\c[0] vous gagnerez peut-être sa confiance et les informations dont vous avez besoin."
         },
         "maps/jungle-city/interior/calzone-2.json/entities/3/settings/npcStates/0/event/2/message": {
                 "orig": "No entry for you, \\c[3]Seeker\\c[0].",

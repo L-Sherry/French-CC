@@ -1,0 +1,328 @@
+{
+        "extension/post-game/data/arena/ancient-boss-cup.json/core/name": {
+                "orig": "Ancient Boss Cup",
+                "text": "Coupe des Boss des Anciens"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/core/info": {
+                "orig": "Take on stronger versions of boss fights from the \\v[area.final-dng.name].",
+                "text": "Affrontez une version plus puissante des boss du \\v[area.final-dng.name]."
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/core/creator": {
+                "orig": "R.D.",
+                "text": "R.D."
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/0/name": {
+                "orig": "The S.H.I.E.L.D.",
+                "text": "le S.H.I.E.L.D.",
+                "note": "did they really translate it in german ? apparently nawt."
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/0/objective": {
+                "orig": "Beat a stronger version of the \\c[3]\\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez une version plus puissante de la \\c[3]\\v[combat.name.final/guardian]\\c[0], un boss du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/1/name": {
+                "orig": "The Hot Lid",
+                "text": "Le Couvercle Chaud"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/1/objective": {
+                "orig": "Beat a stronger version of the \\c[3]Heat \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez une version plus puissante de la \\c[3]\\v[combat.name.final/guardian] Chaude\\c[0], un boss du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/2/name": {
+                "orig": "The Cold Plate",
+                "text": "Le Plateau Froid"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/2/objective": {
+                "orig": "Beat a stronger version of the \\c[3]Cold \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez une version plus puissante de la \\c[3]\\v[combat.name.final/guardian] Froide\\c[0], un boss du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/3/name": {
+                "orig": "The Blitz Buckler",
+                "text": "Le Bouclier Éclair"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/3/objective": {
+                "orig": "Beat a stronger version of the \\c[3]Shock \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez une version plus puissante de la \\c[3]\\v[combat.name.final/guardian] Choc\\c[0], un boss du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/4/name": {
+                "orig": "The Wave Wall",
+                "text": "Le Mur d'Onde"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/4/objective": {
+                "orig": "Beat a stronger version of the \\c[3]Wave \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez une version plus puissante de la \\c[3]\\v[combat.name.final/guardian] d'Onde\\c[0], un boss du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/5/name": {
+                "orig": "The Monk",
+                "text": "Le Moine"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/5/objective": {
+                "orig": "Beat a stronger version of \\c[3]\\v[combat.name.final/gynthar]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez une version plus puissante de \\c[3]\\v[combat.name.final/gynthar]\\c[0], un boss du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/6/name": {
+                "orig": "The Ancient Gods",
+                "text": "Les Dieux des Anciens"
+        },
+        "extension/post-game/data/arena/ancient-boss-cup.json/rounds/6/objective": {
+                "orig": "Beat stronger versions of the \\c[3]Ancient Gods\\c[0] from the \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des versions plus puissantes des \\c[3]Dieux des Anciens\\c[0] du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/core/name": {
+                "orig": "Ancient Cup",
+                "text": "Coupe des Anciens"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/core/info": {
+                "orig": "A cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name].",
+                "text": "Une coupe avec des ennemis de l'\\v[area.beach.name] et du \\v[area.final-dng.name]."
+        },
+        "extension/post-game/data/arena/ancient-cup.json/core/creator": {
+                "orig": "R.D.",
+                "text": "R.D."
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/0/name": {
+                "orig": "Beach Stars",
+                "text": "Stars de la Plage"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/0/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/1/name": {
+                "orig": "Sun Burners",
+                "text": "Soleils Brulants",
+                "note": "not quite"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/1/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/2/name": {
+                "orig": "Global Worming",
+                "text": "Verchauffement Climatique"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/2/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/3/name": {
+                "orig": "Shell Fish Business",
+                "text": "Affaires de Coquillages"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/3/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/4/name": {
+                "orig": "Crystal Breakers",
+                "text": "Briseurs de Cristaux"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/4/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/5/name": {
+                "orig": "Full Metal Birds",
+                "text": "Oiseaux Full Métal",
+                "note": "yep, \"alchimiste full metal\" is a thing"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/5/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/6/name": {
+                "orig": "Spicy Spirits",
+                "text": "Esprits Épicés"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/6/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/7/name": {
+                "orig": "Bad News Bearer",
+                "text": "Mauvaises Nouvelles"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/7/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/8/name": {
+                "orig": "Stacking Crew",
+                "text": "Types Empilés"
+        },
+        "extension/post-game/data/arena/ancient-cup.json/rounds/8/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/core/name": {
+                "orig": "Ancient Team Cup",
+                "text": "Coupe des Anciens en Équipe"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/core/info": {
+                "orig": "A team cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name].",
+                "text": "Une coupe en équipe avec des ennemis de l'\\v[area.beach.name] et du \\v[area.final-dng.name]."
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/core/creator": {
+                "orig": "R.D.",
+                "text": "R.D."
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/0/name": {
+                "orig": "Beach Stars",
+                "text": "Stars de la Plage"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/0/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/1/name": {
+                "orig": "Sun Burners",
+                "text": "Soleils Brulants",
+                "note": "not quite"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/1/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/2/name": {
+                "orig": "Global Worming",
+                "text": "Verchauffement Climatique"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/2/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/3/name": {
+                "orig": "Shell Fish Business",
+                "text": "Affaires de Coquillages"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/3/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant de l'\\c[3]\\v[area.beach.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/4/name": {
+                "orig": "Crystal Breakers",
+                "text": "Briseurs de Cristaux"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/4/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/5/name": {
+                "orig": "Full Metal Birds",
+                "text": "Oiseaux Full Métal",
+                "note": "yep, \"alchimiste full metal\" is a thing"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/5/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/6/name": {
+                "orig": "Spicy Spirits",
+                "text": "Esprits Épicés"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/6/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/7/name": {
+                "orig": "Bad News Bearer",
+                "text": "Mauvaises Nouvelles"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/7/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "extension/post-game/data/arena/apollo-cup.json/core/name": {
+                "orig": "PvP vs Apollo",
+                "text": "PvP contre Apollo"
+        },
+        "extension/post-game/data/arena/apollo-cup.json/core/info": {
+                "orig": "Fight Apollo in PvP Combat!",
+                "text": "Affrontez Apollo en Combat PvP !"
+        },
+        "extension/post-game/data/arena/apollo-cup.json/core/creator": {
+                "orig": "Apollo",
+                "text": "Apollo"
+        },
+        "extension/post-game/data/arena/apollo-cup.json/rounds/0/name": {
+                "orig": "A Challenge!",
+                "text": "Un Défi !"
+        },
+        "extension/post-game/data/arena/apollo-cup.json/rounds/0/objective": {
+                "orig": "Let us do combat, Spheromancer Lea!",
+                "text": "Combattons-nous, Spheromanceuse Lea !"
+        },
+        "extension/post-game/data/arena/kit-cup.json/core/name": {
+                "orig": "Some Test Cup",
+                "text": "Une Coupe de Test"
+        },
+        "extension/post-game/data/arena/kit-cup.json/core/info": {
+                "orig": "Unused cup, maybe add some description here. PS: Sergey is a dork!",
+                "text": "Une coupe inutilisée, faudrait ajouter une description ici. PS: Sergey est un crétin !"
+        },
+        "extension/post-game/data/arena/kit-cup.json/core/creator": {
+                "orig": "Alan Smithee",
+                "text": "Alan Smithee"
+        },
+        "extension/post-game/data/arena/kit-cup.json/rounds/0/name": {
+                "orig": "Round 1 - The only Round",
+                "text": "Round 1 - L'Unique Round"
+        },
+        "extension/post-game/data/arena/kit-cup.json/rounds/0/objective": {
+                "orig": "Kill the thing.\nAnd make sure to remove this cup later.",
+                "text": "Tue le machin.\nEt n'oublie pas de supprimer cette coupe après."
+        },
+        "extension/post-game/data/arena/lily-cup.json/core/name": {
+                "orig": "PvP vs Lily",
+                "text": "PvP contre Lily"
+        },
+        "extension/post-game/data/arena/lily-cup.json/core/info": {
+                "orig": "Fight Lily personally in PvP!",
+                "text": "Affrontez personnellement Lily en PvP !"
+        },
+        "extension/post-game/data/arena/lily-cup.json/core/creator": {
+                "orig": "Lily",
+                "text": "Lily"
+        },
+        "extension/post-game/data/arena/lily-cup.json/rounds/0/name": {
+                "orig": "Fight me!",
+                "text": "Affronte moi !"
+        },
+        "extension/post-game/data/arena/lily-cup.json/rounds/0/objective": {
+                "orig": "Defeat me in a duel on top of the arena!",
+                "text": "Combats moi en duel en haut de l'arène !"
+        },
+        "extension/post-game/data/arena/shizuka-cup.json/core/name": {
+                "orig": "PvP vs Shizuka",
+                "text": "PvP contre Shizuka"
+        },
+        "extension/post-game/data/arena/shizuka-cup.json/core/info": {
+                "orig": "Fight Shizuka in PvP Combat!",
+                "text": "Affrontez Shizuka en Combat PvP !"
+        },
+        "extension/post-game/data/arena/shizuka-cup.json/core/creator": {
+                "orig": "Shizuka",
+                "text": "Shizuka"
+        },
+        "extension/post-game/data/arena/shizuka-cup.json/rounds/0/name": {
+                "orig": "A Rematch!",
+                "text": "Une Revanche !"
+        },
+        "extension/post-game/data/arena/shizuka-cup.json/rounds/0/objective": {
+                "orig": "Let's see what new tricks you've learned!",
+                "text": "Voyons voir ce que tu as appris de nouveau !"
+        },
+        "extension/post-game/data/maps/arena/dlc/creator.json/entities/178/settings/event/7/guiInfo/settings/taskTitle": {
+                "orig": "\\c[1]Boss HP x",
+                "text": "\\c[1]HP Boss x\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/dlc/creator.json/entities/178/settings/event/13/guiInfo/settings/taskTitle": {
+                "orig": "\\c[2]Attack x",
+                "text": "\\c[2]Attaque x\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/dlc/snail.json/entities/25/settings/interact/hoverText": {
+                "orig": "Break through!",
+                "text": "Passer à travers !",
+                "note": "le mur, so it's unused text"
+        }
+}

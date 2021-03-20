@@ -517,6 +517,10 @@
                 "orig": "Sonya Bolt",
                 "text": "Sonya Foudre"
         },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/0/name": {
+                "orig": "Suspicious Trader",
+                "text": "Marchand Suspect"
+        },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/2/message": {
                 "orig": "Hi.",
                 "text": "Salut."
@@ -529,9 +533,29 @@
                 "orig": "... Human want trade?\\. Valuable trade.\\. Precious egg!",
                 "text": "... Humain veut marchander ?\\. Bon marché.\\. Œuf Précieux !"
         },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/0/name": {
+                "orig": "Suspicious Trader",
+                "text": "Marchand Suspect"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/2/message": {
+                "orig": "... Trade.\\. Trade good.\\. Enjoy good egg!",
+                "text": "... Marché.\\. Bon marché.\\. Bonne chance avec œuf !"
+        },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/3/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/4/message": {
+                "orig": "Me leave.\\. More business.\\. Not follow!",
+                "text": "Moi partir.\\. Plus d'affaires.\\. Pas suivre !"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/5/message": {
+                "orig": "Wait!",
+                "text": "Attends !"
         },
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/traded/15/text": {
                 "orig": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]It was a scam!\\c[0]",
@@ -548,5 +572,25 @@
         "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/canceled/4/message": {
                 "orig": "... No trade? Then leave.",
                 "text": "... Pas marchander ? Alors disparait."
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/0/event/trade/event/9/canceled/5/message": {
+                "orig": "Bye...",
+                "text": "Bye..."
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/1/event/quest/0/name": {
+                "orig": "Suspicious Trader",
+                "text": "Marchand Suspect"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/1/event/quest/2/message": {
+                "orig": "Hi.\\. Meet!\\. Where?!",
+                "text": "Salut.\\. Rencontrer !\\. Où ?!"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/1/event/quest/4/message": {
+                "orig": "Ah, squawks...!\\. Human!\\. Go away!",
+                "text": "Ah, croa... !\\. Humain !\\. Aller Ailleurs !"
+        },
+        "maps/jungle-city/east.json/entities/687/settings/npcStates/1/event/quest/5/message": {
+                "orig": "Wait!!",
+                "text": "Attends !!"
         }
 }

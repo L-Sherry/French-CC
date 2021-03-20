@@ -568,5 +568,274 @@
         "maps/jungle-city/entrance.json/entities/381/settings/event/3/message": {
                 "orig": "Excuses!",
                 "text": "Des excuses tout ça !"
+        },
+        "maps/jungle-city/entrance.json/entities/384/settings/text": {
+                "orig": "Unnatural Energy Signature",
+                "text": "Signature Énergétique Non-naturelle"
+        },
+        "maps/jungle-city/entrance.json/entities/386/settings/text": {
+                "orig": "Unnatural Energy Signature",
+                "text": "Signature Énergétique Non-naturelle"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/2/name": {
+                "orig": "Linde",
+                "text": "Linde"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/3/message": {
+                "orig": "Eeeek... T-that thing looked way less scary on the photos.",
+                "text": "Errk... C-Ce truc était pas aussi effrayant sur les photos."
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/4/message": {
+                "orig": "... ",
+                "text": "..."
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/5/message": {
+                "orig": "And you really already fought it before, \\v[lore.title.seeker]??",
+                "text": "Et vous l'avez vraiment déjà combattu auparavant, \\v[lore.title.seeker] ??"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/7/message": {
+                "orig": "Wow, so impressive!\\.\\. I'll trust you to watch my back then, while I weaken it with our salt!",
+                "text": "Ouah, ça devait être épatant !\\.\\. Je vais vous faire confiance pour protéger mes arrières, pendant que je l'affaiblis avec notre sel !"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/35/thenStep/8/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/44/thenStep/3/guiInfo/settings/text": {
+                "orig": "Escortee Life",
+                "text": "HP Linde"
+        },
+        "maps/jungle-city/entrance.json/entities/390/settings/event/44/thenStep/3/guiInfo/settings/taskTitle": {
+                "orig": "Energy",
+                "text": "Énergie"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/28/name": {
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/30/message": {
+                "orig": "\\v[lore.title.seeker], it's good that you survived this rampage.\\. Are you feeling well?",
+                "text": "\\v[lore.title.seeker], c'est bon de savoir que vous ayez survécu à ce carnage.\\. Vous allez bien ?"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/31/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/32/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/33/message": {
+                "orig": "Good.\\. You've done well at least venting its anger.\\. I truly never saw such an unstoppable corrupted force before.",
+                "text": "Bien.\\. Vous avez au moins réussi à lui faire passer ses nerfs.\\. Un tel concentré de corruption et de force maléfique, je n'avais jamais vu ça."
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/34/message": {
+                "orig": "... Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/35/message": {
+                "orig": "It was deeply corrupted, charged with massive toxic energy that even concentrated blasts of \\c[3]Wave\\c[0] could not disperse.",
+                "text": "Il était profondément corrompu, et empli d'une énergie toxique massive que même des jets concentrés d'\\c[3]Onde\\c[0] ne pouvait pas disperser."
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/36/message": {
+                "orig": "Such a threat will need special treatment to pacify.\\. One that can't be found within \\v[area.jungle.name].",
+                "text": "Une telle menace aura besoin d'un traitement bien particulier pour être calmée.\\. Un qu'on ne pourra pas trouver dans le \\v[area.jungle.name]."
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/37/message": {
+                "orig": "... How?",
+                "text": "... Comment ?"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/38/message": {
+                "orig": "To cleanse such powerful toxic energy we must apply an equally powerful force of energized salt.",
+                "text": "Pour purifier une telle puissance d'énergie toxique, il faut qu'on emploie une puissance égale de sel énergétique.",
+                "note": "Hey, you know what... we could do now. We could argue... about NUCLEAR ENERGY !"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/39/message": {
+                "orig": "Where?",
+                "text": "Où ?"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/40/message": {
+                "orig": "Go meet \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0] and help her extract it!",
+                "text": "Va rencontrer \\c[3]Linde\\c[0] sur l'\\c[3]île de Légende\\c[0] à l'\\c[3]\\v[area.beach.name]\\c[0] et va l'aider à en extraire !",
+                "note": "c'est un poil brut"
+        },
+        "maps/jungle-city/entrance.json/entities/394/settings/event/41/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/400/settings/text": {
+                "orig": "Powerful Toxic Energy",
+                "text": "Puissante Énergie Toxique"
+        },
+        "maps/jungle-city/entrance.json/entities/401/settings/analyzable/text": {
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
+        },
+        "maps/jungle-city/entrance.json/entities/402/settings/analyzable/text": {
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
+        },
+        "maps/jungle-city/entrance.json/entities/403/settings/analyzable/text": {
+                "orig": "Claude Reynes",
+                "text": "Claude Reynes"
+        },
+        "maps/jungle-city/entrance.json/entities/404/settings/event/12/message": {
+                "orig": "\\v[lore.title.seeker]!!\\.\\. This rampaging spirit is a danger to everyone.",
+                "text": "\\v[lore.title.seeker] !!\\.\\. Cet esprit ravageur est une menace pour nous tous."
+        },
+        "maps/jungle-city/entrance.json/entities/404/settings/event/13/message": {
+                "orig": "Hi?!",
+                "text": "Salut ?!"
+        },
+        "maps/jungle-city/entrance.json/entities/404/settings/event/20/message": {
+                "orig": "Use this to put it to rest!",
+                "text": "Utilise ça pour y mettre un terme !"
+        },
+        "maps/jungle-city/entrance.json/entities/404/settings/event/21/message": {
+                "orig": "Lea!",
+                "text": "Lea !"
+        },
+        "maps/jungle-city/entrance.json/entities/405/settings/event/1/message": {
+                "orig": "... why?",
+                "text": "... pourquoi ?"
+        },
+        "maps/jungle-city/entrance.json/entities/405/settings/event/2/message": {
+                "orig": "No effect? Impossible!",
+                "text": "Ça marche pas ? C'est pas possible !"
+        },
+        "maps/jungle-city/entrance.json/entities/405/settings/event/3/message": {
+                "orig": "Such dense toxicity!",
+                "text": "Une telle densité de toxicité !"
+        },
+        "maps/jungle-city/entrance.json/entities/405/settings/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/analyzable/text": {
+                "orig": "Linde",
+                "text": "Linde"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/6/name": {
+                "orig": "Linde",
+                "text": "Linde"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/7/message": {
+                "orig": "Hey there, \\v[lore.title.seeker]!\\. Ready to save the city? I sure am!",
+                "text": "Hé, \\v[lore.title.seeker] !\\. Prêt pour sauver la ville ? Moi en tout cas je le suis !"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/9/0/1/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/9/0/2/message": {
+                "orig": "Alright!\\. I will get all of that ghost's toxic attention so you better be ready!",
+                "text": "OK !\\. Je vais attirer toute l'attention toxique de ce fantôme donc vous feriez mieux d'être prête !"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/9/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/9/1/1/message": {
+                "orig": "Aw, alright.\\. I will wait for you here.",
+                "text": "Oh, OK.\\. Je vais vous attendre ici."
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/9/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "maps/jungle-city/entrance.json/entities/406/settings/npcStates/0/event/quest/9/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "maps/jungle-city/entrance.json/entities/407/settings/event/1/thenStep/0/thenStep/0/message": {
+                "orig": "Getting dizzy...",
+                "text": "Je suis un peu vaseuse..."
+        },
+        "maps/jungle-city/entrance.json/entities/407/settings/event/1/thenStep/0/thenStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/entrance.json/entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Don't want to stress you, but this is getting a bit painful...",
+                "text": "Je veux pas vous stresser, mais ça commence à me faire mal..."
+        },
+        "maps/jungle-city/entrance.json/entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/entrance.json/entities/407/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Ouchie... ghost hits are as nasty as it looks.",
+                "text": "Aïlleuh... Les coups de fantômes sont vraiment aussi méchants qu'ils en ont l'air."
+        },
+        "maps/jungle-city/entrance.json/entities/408/settings/event/17/text": {
+                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
+                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer.",
+                "note": "de is just \"esayez encore !\""
+        },
+        "maps/jungle-city/entrance.json/entities/409/settings/event/0/text": {
+                "orig": "[ ESCORT HEAL ]",
+                "text": "[ GUÉRISON DE LA PROTÉGÉE ]"
+        },
+        "maps/jungle-city/entrance.json/entities/410/settings/event/2/message": {
+                "orig": "\\v[lore.title.seeker], the shield is down!",
+                "text": "\\v[lore.title.seeker], le bouclier est brisé !"
+        },
+        "maps/jungle-city/entrance.json/entities/410/settings/event/10/message": {
+                "orig": "Use this wave-charger thingie to get him behind those walls!",
+                "text": "Utilisez ce machin-chose d'onde chargée pour l'atteindre derrière ces murs !",
+                "note": "un compresseur d'onde, bordel"
+        },
+        "maps/jungle-city/entrance.json/entities/410/settings/event/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/40/name": {
+                "orig": "Linde",
+                "text": "Linde"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/41/message": {
+                "orig": "W-we did?\\. Right?\\. Did we...?",
+                "text": "O-On a réussi ?\\. Hein ?\\. On a vraiment réussi... ?"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/42/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/44/message": {
+                "orig": "Woohoo, we did it!",
+                "text": "Youhouuu, on a réussi !"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/45/message": {
+                "orig": "Meet!",
+                "text": "Rencontrer !"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/46/message": {
+                "orig": "\\v[lore.title.seeker], this was such a thrill!\\. I was really worried, but you made me pull through, thank you!",
+                "text": "\\v[lore.title.seeker], c'était si stressant !\\. J'étais vraiment inquiète, mais vous m'avez fait persévérer jusqu'au bout, merci !"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/47/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/48/message": {
+                "orig": "Oh gosh... I'm so giddy but I better go back to report on our success, before my people worry.",
+                "text": "Mon dieu... Je suis tellement effarée, mais je ferais mieux de leur dire qu'on a réussi, avant que les gars s'inquiètent pour moi.",
+                "note": "hard to translate that leute"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/49/message": {
+                "orig": "So... see you around!\\. And don't forget to pay us another visit to get the reward.\\. Bye!",
+                "text": "Donc... à plus tard !\\. Et n'oubliez pas de nous rendre encore visite pour obtenir la récompense.\\. Bye !"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/50/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/jungle-city/entrance.json/entities/411/settings/event/51/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
         }
 }

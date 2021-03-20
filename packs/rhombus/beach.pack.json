@@ -1,0 +1,294 @@
+{
+        "maps/rhombus-sqr/beach-sw.json/entities/128/settings/event/2/text": {
+                "orig": "Access Denied",
+                "text": "Accès Refusé"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/129/settings/npcStates/0/event/2/message": {
+                "orig": "No Entry, Seeker. Someone beached a ship here against regulations.",
+                "text": "Tu passes pas, \\v[lore.title.seeker]. Quelqu'un a accosté un navire ici en violation du règlement."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/129/settings/npcStates/0/event/3/message": {
+                "orig": "Can't let that stand.",
+                "text": "On ne peut pas laisser passer ça."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/912/settings/event/0/text": {
+                "orig": "Missing Pass",
+                "text": "Passe Manquant"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1183/settings/teleportLabel": {
+                "orig": "Sky Rail",
+                "text": "Rails Lasers"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1184/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1186/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1187/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1188/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1189/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1192/settings/npcStates/0/event/2/message": {
+                "orig": "Hello Seeker.",
+                "text": "Bonjour \\v[lore.title.seeker]."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1192/settings/npcStates/0/event/3/message": {
+                "orig": "This skyrail station will lead to a new area that was recently discovered.",
+                "text": "Cet station de Rail Lasers va mener vers un nouvel endroit découvert récemment."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1192/settings/npcStates/0/event/4/message": {
+                "orig": "However, it is still under construction.\\. Stay tuned!",
+                "text": "Mais, il est encore en construction.\\. Restez à l'écoute !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1192/settings/npcStates/0/event/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1247/settings/npcStates/0/event/2/message": {
+                "orig": "Hello, Seeker!\\. Any incidents to report?",
+                "text": "Bonjour, \\v[lore.title.seeker] !\\. Un incident à signaler ?"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1247/settings/npcStates/0/event/3/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1247/settings/npcStates/0/event/4/message": {
+                "orig": "Good.\\. Please enjoy your stay.",
+                "text": "Bien.\\. Bon séjour ici."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1248/settings/npcStates/0/event/1/message": {
+                "orig": "Welcome to the Square's beach, Seeker.\\. Enjoy your stay.",
+                "text": "Bienvenue à la plage de Square, \\v[lore.title.seeker].\\. Passez un bon séjour."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1248/settings/npcStates/0/event/2/message": {
+                "orig": "But don't cause any trouble! I'm watching you, heheh.",
+                "text": "Mais ne causez pas d'ennuis ! Je vous ai à l'œil, heheh."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1253/settings/dialog/0/text": {
+                "orig": "Girl,\\. let me tell you something.\\.\\. \nIf you're not in the game, you can't hit a home run.",
+                "text": "Meuf,\\. laisse-moi te dire un truc.\\.\\.\nSi tu n'es pas dans le coup, tu ne pourra jamais marquer des buts."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1253/settings/dialog/1/text": {
+                "orig": "Wow,\\. you're so eloquent and philosophical!",
+                "text": "Ouah,\\. tu es si éloquent et philosophique !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1253/settings/dialog/2/text": {
+                "orig": "I know,\\. I know.",
+                "text": "Je sais,\\. Je sais."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1254/settings/analyzable/text": {
+                "orig": "ZenMeister",
+                "text": "MaitreZen"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1254/settings/npcStates/0/event/1/message": {
+                "orig": "There have been rumors about a new area opening soon.\\. This landmark should be the gate connected to it.\\.\\. Well, not yet it seems..",
+                "text": "Il y a eu des rumeurs à propos d'une nouvelle zone qui ouvrirait bientôt.\\. Ce point de repère devrait être son entrée.\\.\\. Mais bon, pas encore, on dirait..."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1254/settings/npcStates/0/event/2/message": {
+                "orig": "Until the time has come...\\.\\. Be water.\\.\\. Isn't this place the perfect venue to do so?",
+                "text": "En attendant que l'heure vienne...\\.\\. Soit de l'eau.\\.\\. N'est-ce pas l'endroit idéal pour ça ?"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1255/settings/dialog/0/text": {
+                "orig": "...Where are they? Always keep me waiting\\..\\..\\..",
+                "text": "... Où est-ce qu'ils sont ? Ils me font toujours attendre\\..\\..\\.."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1256/settings/dialog/0/text": {
+                "orig": "What does my master mean...? I do karate \"guess so\"..?\\.\\.\\.\nI need to train harder!\\. Ha!",
+                "text": "Qu'est-ce que mon maitre veux dire... ? Je fais du karaté \"plus ou moins\"... ?\\.\\.\\. Il faut que je m'entraine plus !\\. Ha !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1257/settings/dialog/0/text": {
+                "orig": "Hahah, that's fun!",
+                "text": "Hahah, c'était fun !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1257/settings/dialog/1/text": {
+                "orig": "Hey,\\. you're getting me all wet!",
+                "text": "Hé,\\. tu es en train de me mouiller !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1257/settings/dialog/2/text": {
+                "orig": "Don't be such a buzzkill!\\.\\. Hahahah!",
+                "text": "Fais pas ton rabat-joie !\\.\\. Hahahah !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1258/settings/dialog/0/text": {
+                "orig": "I dunno. Kinda feel sunburnt.\\..\\..\\.. nah, can't be too bad.",
+                "text": "Je sais pas. J'ai l'impression d'avoir un coup de soleil.\\..\\..\\.. Nan, ça doit pas être grave."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1268/settings/analyzable/text": {
+                "orig": "Barkeep Niskeewa",
+                "text": "Barman Niskeewa"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1269/settings/dialog/0/text": {
+                "orig": "Hellooo!\\.\\. Please have a seat and enjoy some of the best ice cream around!",
+                "text": "Bonjouuur !\\.\\. S'il vous plait, asseyez vous et savourez une des meilleurs glaces du coin !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/0/1/message": {
+                "orig": "Look! The sky rail station has been finished!",
+                "text": "Regarde ! La station de rail laser a été terminée !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/0/2/message": {
+                "orig": "Let's take it!",
+                "text": "Viens, on va l'essayer tout de suite !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/1/1/message": {
+                "orig": "Look! The sky rail station has finished construction!",
+                "text": "Regarde ! La station de rail laser a fini d'être construite !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/1/2/message": {
+                "orig": "It will probably take us to the new area.",
+                "text": "Elle va probablement nous emmener vers la nouvelle zone."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/2/1/message": {
+                "orig": "I guess we'll have to take the sky rail from that shiny new station.",
+                "text": "J'imagine qu'on doit prendre les rails lasers de cette nouvelle station flambant neuf."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/2/2/message": {
+                "orig": "Let's check it out!",
+                "text": "Allons voir ça !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/3/1/message": {
+                "orig": "As you can see, the new sky rail station has finished construction!",
+                "text": "Comme tu peux le voir, la nouvelle station de rail laser a fini d'être construite !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/3/2/message": {
+                "orig": "It will take us to the new area!",
+                "text": "Elle va nous mener vers la nouvelle zone !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/4/1/message": {
+                "orig": "Oh...\\. a new sky rail station?",
+                "text": "Oh...\\. une nouvelle station de rail laser ?"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/4/2/message": {
+                "orig": "I guess that will take us to the new area.",
+                "text": "J'imagine qu'elle nous emmène vers la nouvelle zone."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/5/1/message": {
+                "orig": "There is is! The new sky trail station!",
+                "text": "La voilà ! La nouvelle station de rail laser !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/0/5/2/message": {
+                "orig": "It will go to the new area.\\. Exciting!",
+                "text": "Elle va nous amener vers la nouvelle zone.\\. Je suis content !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1279/settings/event/5/thenStep/2/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1311/settings/dialog/0/text": {
+                "orig": "Can't someone tell that blonde guy to frig off already?",
+                "text": "Est-ce que quelqu'un peut dire à ce type blond de se casser d'ici ?"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1311/settings/dialog/1/text": {
+                "orig": "Yeah,\\.\\. no idea why he's always crossing here just between us.",
+                "text": "Oui,\\.\\. Aucune idée de pourquoi il passe toujours là entre nous deux."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1311/settings/dialog/2/text": {
+                "orig": "Maybe he's looking for someone or something?\\.\\.\\. Relax guys.",
+                "text": "Peut-être qu'il cherche quelqu'un ou quelque chose ?\\.\\.\\. Relax les mecs."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/1/message": {
+                "orig": "Yummy...\\. almost like the real thing!",
+                "text": "Hmmm... que c'est bon...\\. Presque comme une vraie !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/3/message": {
+                "orig": "\\c[2][Delicious]\\c[0]",
+                "text": "\\c[2][Délicieux]\\c[0]"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/6/message": {
+                "orig": "So they finally support proper taste senses.\\. That's great!",
+                "text": "Donc enfin ils ont ajouté le support de vraies sensations de goût.\\. C'est cool !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/7/message": {
+                "orig": "I hope they'll add \\c[3]Roquefort Cheese\\c[0] as well.\\. You have to try it!\n",
+                "text": "J'espère qu'ils vont aussi ajouter le \\c[3]Roquefort\\c[0].\\. Il faut que vous essayez !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/8/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/9/message": {
+                "orig": "Oh no...",
+                "text": "Oh non..."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/10/message": {
+                "orig": "\\c[2][I want to eat]\\c[0]",
+                "text": "\\c[2][Je veux manger]\\c[0]"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/11/message": {
+                "orig": "No...\\. you don't.",
+                "text": "Non...\\. tu ne veux pas."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/12/message": {
+                "orig": "I'm sure that taste is impossible to simulate without breaking pain constraints.",
+                "text": "Je suis sûr que ce goût est impossible à simuler sans briser des contraintes de douleur."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/13/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/thenStep/16/message": {
+                "orig": "Don't listen to him, Lea!",
+                "text": "Ne l'écoute pas, Lea !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/2/message": {
+                "orig": "\\c[2][Delicious]\\c[0]",
+                "text": "\\c[2][Délicieux]\\c[0]"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/4/message": {
+                "orig": "So they finally support proper taste senses.\\. That's great!",
+                "text": "Donc enfin ils ont ajouté le support de vraies sensations de goût.\\. C'est cool !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/5/message": {
+                "orig": "Oh, you gotta try \\c[3]Roquefort Cheese\\c[0], when they add it!",
+                "text": "Oh, il faudra que tu essaye le \\c[3]Roquefort\\c[0], quand ils l'ajouteront !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/6/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/7/message": {
+                "orig": "It may look horrible...\\. it might also taste a bit horrible...",
+                "text": "Ça à l'air peut-être horrible...\\. Ça doit aussi avoir un goût un peu horrible..."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/9/message": {
+                "orig": "But trust me, it's great!",
+                "text": "Mais fais moi confiance, c'est super !"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/11/message": {
+                "orig": "Or...\\. maybe just stick with ice cream.",
+                "text": "Ou...\\. peut-être tu peux en rester aux glaces."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/12/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/beach-sw.json/entities/1317/settings/event/12/elseStep/16/message": {
+                "orig": "I'm sure he would have enjoyed this.",
+                "text": "Je suis sûr qu'il aurait aimé ça."
+        }
+}

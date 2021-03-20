@@ -1,0 +1,806 @@
+{
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/4/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/5/message": {
+                "orig": "There you are!",
+                "text": "Te voilà !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/6/message": {
+                "orig": "Are you ready for our final duel?",
+                "text": "Est-tu prête pour notre duel final ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/1/message": {
+                "orig": "Great!",
+                "text": "Super !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/2/message": {
+                "orig": "Then, let's get everything prepared!",
+                "text": "Alors commençons à tout préparer !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/19/message": {
+                "orig": "It's time for the final beating of Grasshead!",
+                "text": "Il est temps de donner une dernière raclée à Tête-d'Herbe !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/24/message": {
+                "orig": "Wow...\\. everyone is watching, huh?",
+                "text": "Waouh...\\. tout le monde regarde, hein ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/25/message": {
+                "orig": "No pressure, Lea!",
+                "text": "Mais ne te mets pas la pression, hein, Lea !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/30/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/34/message": {
+                "orig": "Why...\\. of course I had to invite everyone to witness this great event!",
+                "text": "Pourquoi...\\. bien sûr qu'il fallait que j'invite tout le monde pour observer ce grand événement !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/35/message": {
+                "orig": "Two Spheromancers at the end of their journey...",
+                "text": "Deux Spheromanceurs à la fin de leur voyage..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/36/message": {
+                "orig": "Engaging in one final duel to measure their skills!",
+                "text": "Vont se mesurer entre eux lors d'un duel final !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/37/thenStep/0/message": {
+                "orig": "With no \\c[1]shameful damage glitches\\c[0] involved!",
+                "text": "Sans impliquer aucun \\c[1]glitches de dégât honteux\\c[0] !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/38/message": {
+                "orig": "Truly, it will be a sight to behold!",
+                "text": "Vraiment, ce sera quelque chose à voir !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/42/message": {
+                "orig": "That's right, grasshead!",
+                "text": "C'est vrai, tête d'herbe !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/43/message": {
+                "orig": "So when does it finally start?",
+                "text": "Donc quand est-ce que ça commence vraiment ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/45/message": {
+                "orig": "Now!\\. We will start now!",
+                "text": "Maintenant !\\. On va commencer maintenant !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/46/message": {
+                "orig": "PVP Activate!",
+                "text": "PvP Activation !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/75/message": {
+                "orig": "Good luck, Lea!",
+                "text": "Bonne chance, Lea !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/79/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/85/message": {
+                "orig": "Today is finally the day!\n",
+                "text": "Aujourd'hui est enfin venu le jour !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/86/message": {
+                "orig": "We both walked the track, mastered all the elements.",
+                "text": "Nous avons tous les deux parcouru le tracé, maitrisé tous les éléments."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/87/message": {
+                "orig": "Reached our full potential!",
+                "text": "Et atteint notre véritable potentiel !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/88/message": {
+                "orig": "Now the time has come!",
+                "text": "Maintenant le temps est venu !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/89/message": {
+                "orig": "To see, which of us walked the right path!",
+                "text": "De voir, qui de nous deux à pris le bon chemin !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/1/message": {
+                "orig": "The path...\n",
+                "text": "Le chemin..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/3/message": {
+                "orig": "Wait... I'm getting a call.",
+                "text": "Attends... j'ai un appel."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/10/message": {
+                "orig": "Yes?",
+                "text": "Oui ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/11/message": {
+                "orig": "Oh, Sergey it's you!\\. I was just about to start the duel!",
+                "text": "Oh, Sergey, c'est toi !\\. J'allais juste démarrer le duel !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/13/message": {
+                "orig": "...What?",
+                "text": "... Quoi ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/15/message": {
+                "orig": "...Oh.",
+                "text": "... Oh."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/16/message": {
+                "orig": "That is...\\. very unfortunate.",
+                "text": "C'est...\\. très regrettable."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/17/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/18/message": {
+                "orig": "It's alright.\\. I understand.",
+                "text": "C'est bon.\\. Je comprends."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/19/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/26/message": {
+                "orig": "Turns out the \\c[1]glitch\\c[0] can't be disabled, after all...",
+                "text": "Il semblerait que le \\c[1]glitch\\c[0] ne puisse pas être désactivé, en fait..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/27/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/28/message": {
+                "orig": "But the duel already started, so....",
+                "text": "Mais le duel a déjà commencé, donc..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/29/message": {
+                "orig": "\\c[1]Let's get this over with.\\c[0]",
+                "text": "\\c[1]Finissons-en.\\c[0]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/thenStep/31/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/elseStep/0/message": {
+                "orig": "The path of the true Spheromancer!",
+                "text": "Le chemin du véritable Spheromanceur !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/elseStep/1/message": {
+                "orig": "The path...\\. of...\\. JUSTICE!\n",
+                "text": "Le chemin...\\. de la...\\. JUSTICE !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/0/90/elseStep/10/message": {
+                "orig": "Let the duel begin!!",
+                "text": "Que le duel commence !!"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/1/1/message": {
+                "orig": "I see.\\. Make sure you are well prepared!\n",
+                "text": "Je vois.\\. Assure-toi d'être bien préparée !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/678/settings/npcStates/0/event/quest/7/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/0/thenStep/0/thenStep/0/message": {
+                "orig": "Oh, just with \\c[1]one hit\\c[0]?!",
+                "text": "Oh, seulement en \\c[1]un coup\\c[0] ?!"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/0/thenStep/0/thenStep/1/message": {
+                "orig": "\\c[1]Despicable.\\c[0]",
+                "text": "\\c[1]Misérable.\\c[0]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/0/thenStep/0/elseStep/0/message": {
+                "orig": "Very nice, dear!",
+                "text": "Très bien, chérie !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/0/thenStep/0/elseStep/1/message": {
+                "orig": "Just getting warmed up.",
+                "text": "Je commence à m'échauffer."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/1/thenStep/0/thenStep/0/message": {
+                "orig": "Oh boy, this is painful to watch.",
+                "text": "Et bien, c'est difficile à regarder."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/1/thenStep/0/thenStep/1/message": {
+                "orig": "\\c[1]Absolutely pointless.\\c[0]",
+                "text": "\\c[1]Absolument sans intérêt.\\c[0]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/1/thenStep/0/elseStep/0/message": {
+                "orig": "Not bad!\\. Not bad at all!",
+                "text": "Pas mal !\\. Pas mal du tout !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/1/thenStep/0/elseStep/1/message": {
+                "orig": "Alright.\\. Let's try something else!",
+                "text": "Bon OK.\\. Essayons autre chose !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/2/thenStep/0/thenStep/0/message": {
+                "orig": "Oui, this will be quick.",
+                "text": "Oui, ça va être rapide."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/2/thenStep/0/thenStep/1/message": {
+                "orig": "\\c[1]There is absolutely no honor in this.\\c[0]",
+                "text": "\\c[1]Il n'y a rien d'honorable à cela.\\c[0]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/2/thenStep/0/elseStep/0/message": {
+                "orig": "Nice one, chérie!!",
+                "text": "Joli coup, chérie !!"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/2/thenStep/0/elseStep/1/message": {
+                "orig": "Okay...\\. Time to get serious!",
+                "text": "OK...\\. Maintenant c'est du sérieux !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/3/thenStep/0/message": {
+                "orig": "It's the rise of the machines, everyone!",
+                "text": "C'est la révolte des machines, les gens !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/3/thenStep/1/thenStep/0/message": {
+                "orig": "\\c[1]There is no justice.\\c[0]",
+                "text": "\\c[1]Il n'y a aucune justice.\\c[0]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/3/thenStep/1/elseStep/0/message": {
+                "orig": "This isn't over yet!!",
+                "text": "Ce n'est pas encore fini !!"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/thenStep/3/thenStep/1/elseStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/thenStep/0/thenStep/0/message": {
+                "orig": "Letting me win now?\\. \\c[1]There is no honor in this either.\\c[0]",
+                "text": "On me laisse gagner maintenant ?\\. \\c[1]Il n'y a strictement aucun honneur à ça non plus.\\c[0]"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/thenStep/0/elseStep/0/message": {
+                "orig": "Hmph...",
+                "text": "Hmpf..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/thenStep/0/thenStep/0/message": {
+                "orig": "Oh!\\. So you die as quickly as I do!\\. This might even still be considered \\c[1]fair\\c[0]!",
+                "text": "Oh !\\. Donc tu meurs aussi rapidement que moi !\\. On pourrait presque dire que c'est \\c[1]équitable\\c[0] !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/thenStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Dying as quickly as always...",
+                "text": "Tu meurs toujours aussi vite qu'avant..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/thenStep/0/elseStep/0/elseStep/0/message": {
+                "orig": "What's up with your defense?\\. This is not normal.",
+                "text": "C'est quoi le truc avec ta défense ?\\. C'est pas normal."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Oh, he got you this time!",
+                "text": "Oh, il t'a eu cette fois !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/elseStep/0/thenStep/1/message": {
+                "orig": "I won't let you win this easily!",
+                "text": "Je ne vais pas te laisser gagner aussi facilement !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/elseStep/0/elseStep/0/message": {
+                "orig": "One point to Apollo!",
+                "text": "Un point pour Apollo !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/0/thenStep/0/elseStep/0/elseStep/1/message": {
+                "orig": "I thought you'd do better than that.",
+                "text": "Je pensais que tu ferais mieux que ça."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/1/thenStep/0/thenStep/0/message": {
+                "orig": "What a nicely balanced match.\\. Exciting.",
+                "text": "Quel duel absolument équitable.\\. C'est réjouissant."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/1/thenStep/0/elseStep/0/message": {
+                "orig": "That was quite the move.",
+                "text": "C'était bien joué."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/1/thenStep/1/message": {
+                "orig": "Let me show you!\\. The true potential of a Spheromancer!",
+                "text": "Laisse-moi te montrer !\\. Le véritable potentiel d'un Spheromanceur !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/1/thenStep/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/2/thenStep/0/message": {
+                "orig": "You're on a roll, aren't you Polly?",
+                "text": "Tu es en pleine forme, Polly, non ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/2/thenStep/1/message": {
+                "orig": "Spheromancer Lea, you still have much to learn!",
+                "text": "Spheromanceuse Lea, tu as encore tant à apprendre !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/2/thenStep/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/3/thenStep/0/message": {
+                "orig": "Don't give up Lea!\\. You can do it!!",
+                "text": "N'abandonnes pas Lea !\\. Tu peux le faire !!"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/3/thenStep/1/message": {
+                "orig": "Alright. Time to end this!",
+                "text": "Bon ! Il est temps d'en finir !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/680/settings/event/1/elseStep/0/elseStep/3/thenStep/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/1/message": {
+                "orig": "What a waste of time.",
+                "text": "Quelle perte de temps."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/2/thenStep/0/message": {
+                "orig": "The result was as expected.",
+                "text": "Le résultat était comme on s'y attend."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/2/elseStep/0/message": {
+                "orig": "You let me win, but it's not like it makes any difference.",
+                "text": "Tu m'as laissé gagné, mais c'est pas comme si ça faisait une différence."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/3/message": {
+                "orig": "There was \\c[1]no honor\\c[0] to be found in this duel.",
+                "text": "Il n'y avait \\c[1]absolument aucun honneur\\c[0] dans ce duel."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/4/message": {
+                "orig": "My disappointment is immeasurable.",
+                "text": "Ma déception est incommensurable."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/5/message": {
+                "orig": "And my day is ruined.",
+                "text": "Et ma journée est fichue."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/6/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/thenStep/8/message": {
+                "orig": "Anyways...\\. If you ever manage to remove the glitch and want to repeat this duel in a proper way, we can do that in the arena.",
+                "text": "En tout cas...\\. Si jamais tu réussis à enlever ce glitch et que tu veux recommencer ce duel proprement, on peut le faire dans l'arène."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/0/thenStep/0/message": {
+                "orig": "This battle is over and the result is very clear.",
+                "text": "Ce combat est terminé et le résultat est très clair."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/0/elseStep/0/message": {
+                "orig": "This...\\. is what I call a proper fight!",
+                "text": "C'est...\\. ce que j'appelle un vrai combat !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/1/message": {
+                "orig": "Spheromancer Lea!",
+                "text": "Spheromanceuse Lea !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/thenStep/0/message": {
+                "orig": "You have truly proven that you walked the right path!",
+                "text": "Tu as véritablement prouvé que tu as parcouru le bon chemin !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/thenStep/1/message": {
+                "orig": "And as such, you emerged victorious!",
+                "text": "Et ainsi, tu en es sortie victorieuse !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/thenStep/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/thenStep/3/message": {
+                "orig": "Indeed, you inspire me to grow further myself!",
+                "text": "Effectivement, tu m'encourages à m'améliorer encore plus !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/elseStep/0/message": {
+                "orig": "You fought honorably!",
+                "text": "Tu as combattu honorablement !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/elseStep/1/message": {
+                "orig": " And I hope that this battle inspired you!",
+                "text": "Et j'espère que ce combat t'as encouragée !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/elseStep/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/2/elseStep/3/message": {
+                "orig": "For I am sure that your full potential is still within reach!",
+                "text": "Parce que je suis sûr que ton véritable potentiel n'est plus très loin !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/17/elseStep/3/message": {
+                "orig": "Now...\\. if you wish to challenge me to another duel, I suggest we hold it at the \\c[3]arena\\c[0]!",
+                "text": "Mais maintenant...\\. si tu veux me défier une fois de plus, je suggère que l'on le fasse dans l'\\c[3]arène\\c[0] !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/20/object": {
+                "orig": "Apollo Arena Challenge",
+                "text": "Défi Arène d'Apollo"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/22/titleText": {
+                "orig": "Challenge Apollo to another Duel",
+                "text": "Défiez Apollo pour un autre Duel"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/22/text": {
+                "orig": "You can now repeat Apollo's PvP duel at the \\c[3]Custom Cups\\c[0] counter in the arena.",
+                "text": "Vous pouvez maintenant recommencer le duel PvP d'Apollo au comptoir des \\c[3]Coupes Personnalisées\\c[0] de l'arène."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/25/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/26/thenStep/0/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/26/elseStep/0/message": {
+                "orig": "Spheromancer Lea...",
+                "text": "Spheromanceuse Lea..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/26/elseStep/1/message": {
+                "orig": "Thank you, for the great duel!",
+                "text": "Je te remercie, pour ce grand duel !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/26/elseStep/2/message": {
+                "orig": "Thanks!",
+                "text": "Merci !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/thenStep/0/message": {
+                "orig": "Man, that was a \\c[1]literal slaughter\\c[0].",
+                "text": "Et bien, c'était \\c[1]littéralement une tuerie\\c[0]."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/thenStep/1/message": {
+                "orig": "He got what he asked for!",
+                "text": "Il a eu ce qu'il a voulu !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/thenStep/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/elseStep/0/message": {
+                "orig": "Congratulations, Lea!",
+                "text": "Félicitations, Lea !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/elseStep/1/message": {
+                "orig": "Awesome fight, chérie!",
+                "text": "Ce duel était génial, chérie !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/elseStep/2/message": {
+                "orig": "Japp.\\. A good reminder to not get on your bad side.",
+                "text": "Japp.\\. Une bonne piqûre de rappel de ne jamais se fâcher avec toi."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/thenStep/0/elseStep/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/elseStep/0/thenStep/0/message": {
+                "orig": "I guess you meant well in letting him win, though I can see how it doesn't make any difference.",
+                "text": "J'imagine que tu voulais faire bien en le laissant gagner, bien que maintenant je vois que ça ne fait aucune différence."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/elseStep/0/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/elseStep/0/thenStep/2/message": {
+                "orig": "What can you do!\\. He really wanted the duel so badly.",
+                "text": "Qu'est-ce que tu pouvais y faire ?!\\. Il voulait absolument son duel."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/elseStep/0/elseStep/0/message": {
+                "orig": "It was a good fight, Lea.",
+                "text": "C'était un beau combat, Lea."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/elseStep/0/elseStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/52/elseStep/0/elseStep/2/message": {
+                "orig": "Oui, you tried your best.\\. You can't always win.",
+                "text": "Oui, tu as fais de ton mieux.\\. Tu peux pas toujours gagner."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/4/message": {
+                "orig": "What's up, Polly?",
+                "text": "Qu'est-ce qu'il y a, Polly ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/5/message": {
+                "orig": "It's nothing.\\. I'm just tired.",
+                "text": "C'est rien.\\. Je suis juste fatigué."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/6/message": {
+                "orig": "Really?",
+                "text": "Vraiment ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/13/message": {
+                "orig": "Do you think I actually managed to teach her anything at all?",
+                "text": "Est-ce que tu crois que j'ai réussi à lui appendre quoi que ce soit ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/14/message": {
+                "orig": "All these duels... feel pretty pointless to me now in hindsight.",
+                "text": "Tous ces duels... me semblent rétrospectivement assez inutiles."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/15/message": {
+                "orig": "She really did walk the right path all along.",
+                "text": "Elle a véritablement pris le bon chemin depuis le début."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/17/message": {
+                "orig": "Polly, don't be so hard on yourself.",
+                "text": "Polly, ne soit pas si dur avec toi-même."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/18/message": {
+                "orig": "I'd say, you definitely had an impact on her.",
+                "text": "Je dirais que tu as vraiment eu un impact sur elle."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/19/message": {
+                "orig": "Challenging her every time, putting her on the edge.",
+                "text": "En lui donnant toujours des défis, et la pousser toujours plus haut."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/20/message": {
+                "orig": "Really, I can't imagine that level of annoyance to have no effect on someone.",
+                "text": "Vraiment, je n'imagine pas un seul instant que ton harcèlement ne puisse pas avoir d'effet sur quelqu'un."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/22/message": {
+                "orig": "You think?",
+                "text": "Tu penses ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/25/message": {
+                "orig": "Also, was teaching her really the point of this?",
+                "text": "Et sinon, est-ce que le but était vraiment de la faire apprendre quelque chose ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/26/message": {
+                "orig": "The way I see it, you both have been rivals.",
+                "text": "Tel que je l'ai vu, vous étiez tous les deux rivaux."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/27/message": {
+                "orig": "And I remember you always looked forward to the next duel.",
+                "text": "Et je me souvenais que tu étais toujours impatient pour le prochain duel."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/28/message": {
+                "orig": "I'm sure both of you got plenty of joy out of it.",
+                "text": "Je suis sûr que vous deux vous êtes follement amusés."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/29/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/30/message": {
+                "orig": "You're probably right.",
+                "text": "Tu as probablement raison."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/34/message": {
+                "orig": "Polly, sometimes you're just earnest to a fault.",
+                "text": "Polly, parfois tu es tellement sérieux que ça en est malsain.",
+                "quality": "bad"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/35/message": {
+                "orig": "But you know...\\. moments like these are why I love you.",
+                "text": "Mais tu sais...\\. C'est à des moments comme ça que je t'aime.",
+                "quality": "bad"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/37/message": {
+                "orig": "What?\\. When I'm a sore loser?",
+                "text": "Hein ?\\. Quand je suis un mauvais perdant ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/38/message": {
+                "orig": "When you reflect on yourself.",
+                "text": "Quand tu te remets en question."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/39/message": {
+                "orig": "Huh...",
+                "text": "Ahh..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/47/message": {
+                "orig": "I'll never get used to our size difference.",
+                "text": "Jamais je me ferais à notre différence de taille."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/55/message": {
+                "orig": "I think we played enough, for today.",
+                "text": "Je pense qu'on a assez joué pour aujourd'hui."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/56/message": {
+                "orig": "Let's log off.",
+                "text": "Déconnectons-nous."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/57/message": {
+                "orig": "Let's.",
+                "text": "Oui."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/65/message": {
+                "orig": "We'll be going now.",
+                "text": "On va y aller."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/66/message": {
+                "orig": "So...\\. goodbye, everyone!",
+                "text": "Donc...\\. au revoir, tout le monde !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/68/message": {
+                "orig": "Tschau!",
+                "text": "Tschau !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/70/message": {
+                "orig": "Au revoir!",
+                "text": "Au revoir !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/75/message": {
+                "orig": "And Lea...",
+                "text": "Et Lea..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/76/message": {
+                "orig": "Thank you for all the duels.\\. I mean it.",
+                "text": "Merci beaucoup pour tous ces duels.\\. Je le dis sérieusement."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/77/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/80/message": {
+                "orig": "Thanks!",
+                "text": "Merci !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/82/message": {
+                "orig": "Truly!",
+                "text": "Vraiment !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/86/message": {
+                "orig": "You make us Spheromancers proud!",
+                "text": "Tu es une fierté pour nous les Spheromanceurs !",
+                "quality": "unknown",
+                "note": "i think"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/87/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/88/message": {
+                "orig": "Stay sharp!",
+                "text": "Reste à l'affût !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/89/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/94/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/53/thenStep/95/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/54/message": {
+                "orig": "It's pretty late, so...\\. I gotta log off.",
+                "text": "Il est assez tard, donc...\\. Il faut que je déconnecte."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/55/message": {
+                "orig": "It was a fun day, though!\\. See you around!",
+                "text": "C'était cool comme journée en tout cas !\\. À plus !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/56/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/61/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/68/message": {
+                "orig": "Looks like it's only us Evotars, now.",
+                "text": "Et maintenant il ne reste plus que nous les Évotars."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/69/message": {
+                "orig": "Guess it's time to return to our village.",
+                "text": "J'imagine qu'il est temps de rentrer chez nous."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/70/message": {
+                "orig": "Actually...",
+                "text": "D'ailleurs..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/76/message": {
+                "orig": "It looks like Tronny already went ahead, huh?",
+                "text": "On dirait que Tronny nous a devancé, hum ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/83/message": {
+                "orig": "See you in the neighborhood, Lea!",
+                "text": "On se revoit là-bas, voisine !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/84/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/681/settings/event/93/task": {
+                "orig": "It has been a long day! Time to return to \\c[3]Homestedt\\c[0].",
+                "text": "Cette journée était longue ! Il est temps de retourner à \\c[3]\\v[area.evo-village.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/701/settings/dialog/0/text": {
+                "orig": "My rhymes are hip, my gear sits fit and you look like a twit!",
+                "text": "Mes rimes sont aigües, mon matos est pointu et t'as l'air d'un tutu !",
+                "quality": "bad",
+                "note": "of course"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/701/settings/dialog/1/text": {
+                "orig": "Your words are sloppy, those rhymes are choppy so please don't be so cocky.",
+                "text": "Tes mots sont usants, ton style est lassant, donc soit pas si confiant."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/701/settings/dialog/2/text": {
+                "orig": "My rhymes are hip, my gear sits fit and you look like a wit!",
+                "text": "Mes rimes sont aigües, mon matos est pointu et t'as l'air d'un tutu !",
+                "quality": "bad",
+                "note": "of course"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/0/text": {
+                "orig": "What are these two dudes doing?",
+                "text": "Qu'est ce qui font ces deux là ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/1/text": {
+                "orig": "It's some form of contest. Who can insult the other better, while also rhyming. ",
+                "text": "C'est une sorte de duel. À celui qui insultera le plus l'autre, tout en faisant des rimes."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/2/text": {
+                "orig": "Does anyone know who is winning?",
+                "text": "Est-ce quelqu'un sait qui gagne ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/3/text": {
+                "orig": "That\\..\\..\\.. is a good question.",
+                "text": "Ça\\..\\..\\.. c'est une bonne question."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/4/text": {
+                "orig": "And they had to book a whole PvP Field for it?",
+                "text": "Et est-ce qu'ils ont besoin d'un terrain de PvP entier pour ça ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/5/text": {
+                "orig": "Well, maybe they like the attention...",
+                "text": "Bon, peut-être qu'ils veulent un peu d'attention..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/702/settings/dialog/6/text": {
+                "orig": "I just hope they're done soon. ",
+                "text": "J'espère juste qu'ils finiront bientôt."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/746/settings/dialog/0/text": {
+                "orig": "Ever noticed how you can find a lot of Mancers in the City?",
+                "text": "T'as jamais capté comment qu'y a plein de Manceurs dans c'te ville ?"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/746/settings/dialog/1/text": {
+                "orig": "Like, in the wild you rarely see them at all.",
+                "text": "Genre, j'te jure ! Ailleurs on en voit pas l'ombre d'un."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/746/settings/dialog/2/text": {
+                "orig": "I guess it's because PvP is the most fun a Mancer can have at end game.",
+                "text": "J'imagine que c'est parce que les PvP c'est le meilleur truc qu'un Manceur peut faire à la fin du jeu."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/746/settings/dialog/3/text": {
+                "orig": "With them being so balanced the fights are usually pretty entertaining.",
+                "text": "Et le fait qu'ils soient si équilibrés font que les combats sont généralement assez sympa à regarder."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/746/settings/dialog/4/text": {
+                "orig": "Huh, now that you mention it...",
+                "text": "Hé, maintenant que tu l'dis..."
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/747/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/748/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/749/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/center-nw.json/entities/750/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        }
+}

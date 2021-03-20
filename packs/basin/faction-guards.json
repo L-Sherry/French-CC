@@ -369,13 +369,45 @@
                 "orig": "... Meet.\\. Sorry.\\. How!",
                 "text": "... Rencontrer.\\. Désolée.\\. Comment !"
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/9/message": {
+                "orig": "Criminal goats?\\. You are kidding me, right?",
+                "text": "Des boucs criminels ?\\. Vous vous foutez de moi, c'est ça ?"
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/10/message": {
+                "orig": "Birds forming gangs are one thing.\\. But gangsters with hooves...?\\.\\. Ridiculous!",
+                "text": "Des oiseaux organisés en bande, c'est une chose.\\. Mais des gangsters avec des sabots... ?\\.\\. C'est ridicule !"
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/11/message": {
                 "orig": "...",
                 "text": "..."
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/12/message": {
+                "orig": "Well, there has to be something to it if Sgt. Sterling sends her regard from distant Bergen.",
+                "text": "Bon, il doit forcement y avoir quelque chose, si le Sergent Sterling m'envoie cette information du lointain Bergen."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/14/message": {
+                "orig": "Good, it is in the interest of city security that we cooperate then.\\. Let us plan our approach.",
+                "text": "Bien, c'est bien dans l'intérêt de la sécurité de la ville que l'on va coopérer.\\. Voyons voir comment s'y prendre."
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/0/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/1/message": {
+                "orig": "This situation seems to call for a \\c[3]direct investigation of the Papagang headquarters\\c[0].",
+                "text": "Cette situation semble mériter une \\c[3]descente dans le quartier général du Pépégang\\c[0]."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/2/message": {
+                "orig": "Where?",
+                "text": "Où ?"
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/3/message": {
+                "orig": "Well, that is a good question, isn't it?\\. Those flying pests could have their nest anywhere in the city.",
+                "text": "Oui, c'est une bonne question.\\. Ces volatiles pourraient nicher n'importe où dans cette ville."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/4/message": {
+                "orig": "Plus, our information on the proceedings in unsavory Eastern part of town are limited.",
+                "text": "De plus, les informations que nous avons sur la partie peu ragoutante de la ville à l'est sont assez limitées."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/5/message": {
                 "orig": "How...?",
@@ -385,13 +417,25 @@
                 "orig": "Look, \\v[lore.title.seeker] I don't like this either.\\. But you better talk to \\c[3]someone living in that kind of environment\\c[0].",
                 "text": "Hé, \\v[lore.title.seeker], ça ne me plait pas non plus.\\. Mais vous feriez mieux de parler à \\c[3]quelqu'un qui traine dans ce genre d'environement\\c[0]."
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/7/message": {
+                "orig": "I am sure there are some people who have the information for the right price.",
+                "text": "Je suis sûr qu'il y a certaines personnes qui possèdent cette information et qui la divulgueraient à un bon prix."
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/8/message": {
                 "orig": "...",
                 "text": "..."
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/9/message": {
+                "orig": "Well, you are still a \\v[lore.title.seeker].\\. I'm sure you can navigate the urban jungle as well as the other one.",
+                "text": "Bon, tu reste un \\v[lore.title.seeker].\\. Je suis sûr que tu peux naviguer à travers cette jungle urbaine autant que l'autre."
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/10/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/11/message": {
+                "orig": "Goodbye then.\\. I will be expecting some reports on that.",
+                "text": "À plus, donc.\\. J'attendrais un rapport complet là-dessus."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/9/event/quest/15/accepted/12/message": {
                 "orig": "Bye.",
@@ -413,6 +457,14 @@
                 "orig": "Sgt. Bronzel",
                 "text": "Sgt. Bronzel"
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/10/event/2/message": {
+                "orig": "Go to the \\c[3]Pond Slums\\c[0] and talk to \\c[3]someone from the underground circles\\c[0].",
+                "text": "Allez à la \\c[3]Zone Zermi\\c[0] et parlez à \\c[3]une personne évoluant dans le milieu souterrain\\c[0]."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/10/event/3/message": {
+                "orig": "There have to be rumors about birds and goats working together and where to find their nest.",
+                "text": "Il doit forcément y avoir des rumeurs sur des oiseaux et des boucs travaillant ensembles et là où se trouve leur nid."
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/0/name": {
                 "orig": "Sgt. Bronzel",
                 "text": "Sgt. Bronzel"
@@ -425,13 +477,45 @@
                 "orig": "You are back.\\. One of our patrols have sighted a flying transport leaving the city towards the south.",
                 "text": "Vous êtes de retour.\\. Une de nos patrouilles ont découvert un transport aérien quittant la ville vers le sud."
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/4/message": {
+                "orig": "Also some, and I quote, \"epic showdown on a rooftop\".\\. Seems like you made quite the show of your \"investigation\", \\v[lore.title.seeker].",
+                "text": "Et aussi une certaine, et je cite, \"confrontation épique sur un toit\".\\. On dirait que vous avez fait tout un show de cette \"enquête\", \\v[lore.title.seeker]."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/5/message": {
+                "orig": "... What. Meet. Lea. ",
+                "text": "... Quoi. Rencontrer. Lea."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/6/message": {
+                "orig": "Well, I don't give a flying nut about your methods, as long as they don't involve property damage or bad press.",
+                "text": "Bon, je m'en contre-fiche de vos méthodes, tant qu'elles n'impliquent pas des dégâts matériels ou une mauvaise presse."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/7/message": {
+                "orig": "And you rid us of the infamous young head of the Papagang.\\. This should clip their wings for some time.",
+                "text": "Et vous nous avez débarrassé de cette fameuse jeune pousse de chef du Pépégang.\\. Ça devrait leur couper les ailes pendant un moment."
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/8/message": {
                 "orig": "...",
                 "text": "..."
         },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/9/message": {
+                "orig": "So... good job here, \\v[lore.title.seeker].\\. As for that mysterious transport...",
+                "text": "Donc... bon travail, \\v[lore.title.seeker].\\. Et pour ce transport mystérieux..."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/10/message": {
+                "orig": "Where?",
+                "text": "Où ?"
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/11/message": {
+                "orig": "We checked with the coastal guard and it is headed directly to \\v[area.rhombus-sqr.name].",
+                "text": "Nous avons vérifié avec les gardes côtes et il se dirige directement vers \\v[area.rhombus-sqr.name]."
+        },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/12/message": {
                 "orig": "Bye.",
                 "text": "Bye."
+        },
+        "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/11/event/quest/13/message": {
+                "orig": "Yes, goodbye \\v[lore.title.seeker].\\. And good luck.",
+                "text": "Oui, au revoir \\v[lore.title.seeker].\\. Et bonne chance."
         },
         "maps/jungle-city/interior/faction-guard-1.json/entities/44/settings/npcStates/12/event/0/name": {
                 "orig": "Sgt. Bronzel",

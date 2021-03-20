@@ -1,66 +1,50 @@
 {
-        "maps/dreams/post-dream1.json/entities/444/settings/interact/hoverText": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/444/settings/interact/hoverText": {
                 "orig": "\\i[arrow-n] Forest\n\\i[arrow-sw] Cliff\n\\i[arrow-s] River \n\\i[arrow-e] Town Center",
                 "text": "\\i[arrow-n] Forêt\n\\i[arrow-sw] Falaise\n\\i[arrow-s] Rivière\n\\i[arrow-e] Centre-Ville"
         },
-        "maps/dreams/post-dream1.json/entities/470/settings/event/6/text": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/470/settings/event/6/text": {
                 "orig": "He had a point...",
                 "text": "Il a raison..."
         },
-        "maps/dreams/post-dream1.json/entities/470/settings/event/7/text": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/470/settings/event/7/text": {
                 "orig": "Those cliffs really do not make any sense.",
                 "text": "Ces falaises n'ont vraiment aucun sens."
         },
-        "maps/dreams/post-dream1.json/entities/470/settings/event/47/message": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/470/settings/event/47/message": {
                 "orig": "So...",
                 "text": "Donc..."
         },
-        "maps/dreams/post-dream1.json/entities/470/settings/event/48/message": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/470/settings/event/48/message": {
                 "orig": "When do you expect them to arrive?",
                 "text": "Tu t'attends à ce qu'ils arrivent quand ?"
         },
-        "maps/dreams/post-dream1.json/entities/470/settings/event/51/text": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/470/settings/event/51/text": {
                 "orig": "This is none of your concern anymore.",
                 "text": "Cela ne te concerne plus maintenant."
         },
-        "maps/dreams/post-dream1.json/entities/470/settings/event/52/text": {
+        "extension/post-game/data/maps/dreams/post-dream1.json/entities/470/settings/event/52/text": {
                 "orig": "I will deal with this on my own.",
                 "text": "Je vais m'occuper de ça moi-même."
         },
-        "maps/dreams/post-dream2.json/entities/543/settings/event/46/message": {
+        "extension/post-game/data/maps/dreams/post-dream2.json/entities/543/settings/event/46/message": {
                 "orig": "So Tronny, how unrealistic is this rock in particular?",
                 "text": "Dis-moi, Tronny, à quel point ce rocher n'est-il pas réaliste ?"
         },
-        "maps/dreams/post-dream2.json/entities/543/settings/event/48/message": {
+        "extension/post-game/data/maps/dreams/post-dream2.json/entities/543/settings/event/48/message": {
                 "orig": "...?",
                 "text": "... ?"
         },
-        "maps/dreams/post-dream2.json/entities/543/settings/event/51/text": {
+        "extension/post-game/data/maps/dreams/post-dream2.json/entities/543/settings/event/51/text": {
                 "orig": "I suppose it's somewhat plausible...\n",
                 "text": "J'imagine qu'il est un peu plausible..."
         },
-        "maps/dreams/post-dream2.json/entities/543/settings/event/61/text": {
+        "extension/post-game/data/maps/dreams/post-dream2.json/entities/543/settings/event/61/text": {
                 "orig": "Protocol submitted",
                 "text": "Protocole soumis"
         },
-        "maps/dreams/post-dream2.json/entities/543/settings/event/71/text": {
+        "extension/post-game/data/maps/dreams/post-dream2.json/entities/543/settings/event/71/text": {
                 "orig": "Avatar switched",
                 "text": "Avatar changé"
-        },
-        "maps/dreams/post-dream3.json/entities/0/settings/event/4/titleText": {
-                "orig": "\\c[1][DO NOT TRANSLATE FOLLOWING TEXTS]\\c[0]",
-                "text": "\\c[1][TRADUISEZ QUAND MÊME LES TEXTES QUI SUIVENT]\\c[0]"
-        },
-        "maps/dreams/post-dream3.json/entities/0/settings/event/4/text": {
-                "orig": "Missing Scene: Third Dream",
-                "text": "Scène manquante : Troisième Rêve"
-        },
-        "maps/dreams/post-prologue.json/entities/0/settings/event/4/titleText": {
-                "orig": "\\c[1][DO NOT TRANSLATE FOLLOWING TEXTS]\\c[0]",
-                "text": "\\c[1][TRADUISEZ QUAND MÊME LES TEXTES QUI SUIVENT]\\c[0]"
-        },
-        "maps/dreams/post-prologue.json/entities/0/settings/event/4/text": {
-                "orig": "Missing Scene: Prologue",
-                "text": "Scène manquante : Prologue"
         }
 }

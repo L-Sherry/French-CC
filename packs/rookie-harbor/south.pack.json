@@ -1,0 +1,466 @@
+{
+        "maps/rookie-harbor/south.json/entities/44/settings/interact/hoverText": {
+                "orig": "\\i[arrow-n] Market Plaza\n\\i[arrow-s] Beginners Arc\n",
+                "text": "\\i[arrow-n] Place du Marché\n\\i[arrow-s] Arcade des Débutants"
+        },
+        "maps/rookie-harbor/south.json/entities/53/settings/interact/hoverText": {
+                "orig": "\\i[arrow-n] Market Place\n\\i[arrow-s] Beginners Ark \n",
+                "text": "\\i[arrow-n] Place du marché\n\\i[arrow-s]Arcade des Débutants"
+        },
+        "maps/rookie-harbor/south.json/entities/54/settings/interact/hoverText": {
+                "orig": "\\i[arrow-n] Market Place\n\\i[arrow-s] Beginners Ark \n",
+                "text": "\\i[arrow-n] Place du marché\n\\i[arrow-s]Arcade des Débutants"
+        },
+        "maps/rookie-harbor/south.json/entities/124/settings/displayName": {
+                "orig": "Canonical NPC ",
+                "text": "PNJ Bateau"
+        },
+        "maps/rookie-harbor/south.json/entities/124/settings/npcStates/0/event/2/message": {
+                "orig": "Welcome to Rookie Harbor!",
+                "text": "Bienvenue à Rookie Harbor !"
+        },
+        "maps/rookie-harbor/south.json/entities/125/settings/npcStates/0/event/2/message": {
+                "orig": "Hey!\\. It's nice here in the shade, isn't it?",
+                "text": "Hé !\\. C'est bien ici à l'ombre, non ?"
+        },
+        "maps/rookie-harbor/south.json/entities/125/settings/npcStates/0/event/3/message": {
+                "orig": "...Hi?",
+                "text": "... Salut ?"
+        },
+        "maps/rookie-harbor/south.json/entities/128/settings/dialog/0/text": {
+                "orig": "Your friend's still not here. What's the holdup?",
+                "text": "Ton ami est toujours pas là. Il fait quoi ?"
+        },
+        "maps/rookie-harbor/south.json/entities/128/settings/dialog/1/text": {
+                "orig": "I dunno... he said he'd arrive around this time.",
+                "text": "Je sais pas... Il a dit qu'il arriverait dans ces eaux-là."
+        },
+        "maps/rookie-harbor/south.json/entities/128/settings/dialog/2/text": {
+                "orig": "Maybe he's stuck in Rhombus Square, watching the city from afar... you know how it is...",
+                "text": "Peut-être qu'il est encore à Rhombus Square, en train d'admirer la ville de loin... Tu sais comment il est..."
+        },
+        "maps/rookie-harbor/south.json/entities/128/settings/dialog/3/text": {
+                "orig": "Yeah... Can't wait to finally enter that place, too!",
+                "text": "Ouais... Moi aussi je suis impatient d'aller là-dedans !"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/2/message": {
+                "orig": "...Hi!",
+                "text": "... Salut !"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/3/message": {
+                "orig": "...Oh! Hey!",
+                "text": "... Oh ! Hé !"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/4/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/5/message": {
+                "orig": "Is something the matter?",
+                "text": "Qu'est-ce qu'il y a ?"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/6/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/7/message": {
+                "orig": "... Oh well... Ever notice how that tree has fruit?",
+                "text": "... Bon OK... Tu as déjà remarqué que cet arbre avait des fruits ?"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/10/message": {
+                "orig": "I heard those are not instant matter but actual fruit!",
+                "text": "J'ai cru comprendre que ce n'était pas de l'instant-matière, mais des vrais fruits !"
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/11/message": {
+                "orig": "Now I really wonder how they taste...",
+                "text": "Maintenant je me demande vraiment quel goût ils ont..."
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/13/message": {
+                "orig": "Oh well... it's not like you can eat real-life fruit as an avatar.",
+                "text": "Oui bon, C'est pas comme si c'était possible de manger des vrais fruits en tant qu'avatar..."
+        },
+        "maps/rookie-harbor/south.json/entities/129/settings/npcStates/0/event/14/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/2/message": {
+                "orig": "...Hi!",
+                "text": "... Salut !"
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/3/message": {
+                "orig": "Hey there.",
+                "text": "Coucou toi."
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/5/message": {
+                "orig": "...You seem kinda lost...",
+                "text": "... Tu as l'air vraiment perdue..."
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/6/message": {
+                "orig": "If you're waiting for somebody, this is the right spot.",
+                "text": "Si tu attends quelqu'un, c'est l'endroit idéal."
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/7/message": {
+                "orig": "Pretty much everyone here is waiting for new players arriving from Cross Central.",
+                "text": "Un peu tout le monde ici attend des nouveaux joueurs qui viennent de Cross Central."
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/8/message": {
+                "orig": "It's a popular meetup spot.",
+                "text": "C'est un point de rencontre connu."
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/9/message": {
+                "orig": "... You seem to be a new player, too. So you know what I mean, right?",
+                "text": "... Tu as l'air d'être aussi un nouveau joueur. Donc tu dois savoir de quoi je parle, non ?"
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/south.json/entities/130/settings/npcStates/0/event/11/message": {
+                "orig": "...You're a quiet one, I see.",
+                "text": "... T'es plutôt silencieuse, à ce que je vois."
+        },
+        "maps/rookie-harbor/south.json/entities/133/settings/dialog/0/text": {
+                "orig": "They are late...",
+                "text": "Bon sang, ils sont où ?"
+        },
+        "maps/rookie-harbor/south.json/entities/133/settings/dialog/1/text": {
+                "orig": "C'mon, relax. There is still time.",
+                "text": "C'est bon, calme-toi. On a encore le temps."
+        },
+        "maps/rookie-harbor/south.json/entities/133/settings/dialog/2/text": {
+                "orig": "The raid is scheduled in 10 minutes.",
+                "text": "Le Raid est prévu dans 10 minutes."
+        },
+        "maps/rookie-harbor/south.json/entities/133/settings/dialog/3/text": {
+                "orig": "Nothing is planned. It's going to be a mess...",
+                "text": "On a rien préparé du tout. Ça va être un désastre..."
+        },
+        "maps/rookie-harbor/south.json/entities/133/settings/dialog/4/text": {
+                "orig": "Don't be so serious about it. It's supposed to be fun, remember?",
+                "text": "Pas besoin d'en faire un drame. C'est un jeu, on est censé s'amuser, non ?"
+        },
+        "maps/rookie-harbor/south.json/entities/136/settings/dialog/0/text": {
+                "orig": "All that water... makes you want to jump right into it!",
+                "text": "Toute cette eau... Ça donne envie de sauter dedans !"
+        },
+        "maps/rookie-harbor/south.json/entities/136/settings/dialog/1/text": {
+                "orig": "Not sure I'd do that with your amount of armor.",
+                "text": "Pas sûr que ça soit une bonne idée vu ton armure."
+        },
+        "maps/rookie-harbor/south.json/entities/136/settings/dialog/2/text": {
+                "orig": "Also, you'd just dissolve and respawn.",
+                "text": "En plus tu vas juste te dissoudre et réapparaitre."
+        },
+        "maps/rookie-harbor/south.json/entities/136/settings/dialog/3/text": {
+                "orig": "Killjoy.",
+                "text": "CasseJoie"
+        },
+        "maps/rookie-harbor/south.json/entities/148/settings/dialog/0/text": {
+                "orig": "Mh... I swear there was an entrance here...",
+                "text": "Mmm... J'étais sûr qu'il y avait une entrée ici..."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/11/message": {
+                "orig": "Hey!\\. Over here!",
+                "text": "Hé !\\. Par ici !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/20/message": {
+                "orig": "Look at all these old style buildings!",
+                "text": "Regarde un peu toutes ces vielles maisons !",
+                "note": "de:cottage, which, in french, is chaumiere, so no."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/25/message": {
+                "orig": "It's like we are in some kind of medieval fantasy world, non?",
+                "text": "C'est comme si on était dans une sorte d'univers médiéval fantastique, non ?"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/26/message": {
+                "orig": "So...\\. Right now I'm waiting here to meet a friend. ",
+                "text": "Sinon...\\. Là maintenant, j'attends un ami."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/28/message": {
+                "orig": "But I haven't seen him so far.",
+                "text": "Mais pour l'instant je l'ai pas encore vu."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/30/message": {
+                "orig": "There are just so many people here...",
+                "text": "Il y a juste trop de monde ici..."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/34/message": {
+                "orig": "HOLERÖ!\\.\\.",
+                "text": "HOLERÖ !\\.\\."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/39/message": {
+                "orig": "Eeek!",
+                "text": "Ahhh !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/40/message": {
+                "orig": "Gyahahaha!",
+                "text": "Gyahahaha !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/42/message": {
+                "orig": "Sacrebleu!\\. Was that really necessary?",
+                "text": "Sacrebleu !\\. T'étais vraiment obligé de faire ça ?"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/43/message": {
+                "orig": "Yes, very necessary.",
+                "text": "Oui, c'était obligé."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/44/message": {
+                "orig": "I see you brought a friend?",
+                "text": "Je vois que tu as amené une amie ?"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/45/message": {
+                "orig": "Ah oui, that's Lea!\\. I met her during the tutorial.",
+                "text": "Ah oui, c'est Lea !\\. Je l'ai rencontrée pendant les tutoriels."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/46/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/47/message": {
+                "orig": "And this dark lord meanie here is \\c[3]Lukas\\c[0].",
+                "text": "Et ce méchant seigneur des ténèbres là, c'est \\c[3]Lukas\\c[0]."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/48/message": {
+                "orig": "Also known as \\c[3]Schneider\\c[0].",
+                "text": "Aussi connu sous le nom de \\c[3]Schneider\\c[0]."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/49/message": {
+                "orig": "Nice to meet you, Lea!",
+                "text": "Ravi de te rencontrer, Lea !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/50/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/51/message": {
+                "orig": "So you finally reached the \\c[3]Croissant\\c[0].\\. Having fun so far?",
+                "text": "Donc vous êtes finalement arrivé sur le \\c[3]Croissant\\c[0].\\. Ça vous a plu pour l'instant ?"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/52/message": {
+                "orig": "Oui, énormément!",
+                "text": "Oui, énormément !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/53/message": {
+                "orig": "Wait...\\. Croissant?",
+                "text": "Attends...\\. Croissant ?"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/54/message": {
+                "orig": "The mainland.\\. You'll get the idea once you see the map.",
+                "text": "Le continent.\\. Tu comprendras quand tu verras la carte."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/55/message": {
+                "orig": "Anyway, this is \\c[3]Rookie Harbor\\c[0].\\. It's known for the incoming shipments of rookies like you.",
+                "text": "En tout cas, ici c'est \\c[3]Rookie Harbor\\c[0].\\. Une ville connue pour ses arrivages réguliers de petits nouveaux comme vous."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/56/message": {
+                "orig": "It's also a fairly big place, which tends to be confusing for said rookies.",
+                "text": "C'est aussi un lieu assez grand, où ces-dit nouveaux ont tendance à se perdre."
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/57/message": {
+                "orig": "So I thought I'd give you a small tour!",
+                "text": "Donc je me disais que je pourrais vous faire faire un petit tour pour montrer un peu l'endroit !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/58/message": {
+                "orig": "Très bien!\\. Lead the way!\n",
+                "text": "Très bien !\\. Après toi !"
+        },
+        "maps/rookie-harbor/south.json/entities/174/settings/event/71/task": {
+                "orig": "\\c[3]Schneider\\c[0] is kind enough to show you around Rookie Harbor. Just follow him together with \\c[3]Emilie\\c[0].",
+                "text": "\\c[3]Schneider\\c[0] est si gentil qu'il va vous faire visiter Rookie Harbor. Suivez-le avec \\c[3]Emilie\\c[0]."
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/thenStep/0/message": {
+                "orig": "Ah I see, you now can open the golden chests.\\. Congrats!",
+                "text": "Ah, je vois que tu peux ouvrir les coffres en or.\\. Félicitations !"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/thenStep/1/message": {
+                "orig": "Lea!",
+                "text": "Lea !"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/0/message": {
+                "orig": "Wondering about this chest, hm?",
+                "text": "Tu te poses des questions sur ce coffre, hm ?"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/1/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/2/message": {
+                "orig": "Yeah you can't open it yet.",
+                "text": "Ouais, tu peux pas encore l'ouvrir."
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/3/message": {
+                "orig": "But you will be able to do it later in the game.",
+                "text": "Mais plus tard dans le jeu, tu pourras l'ouvrir."
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/4/message": {
+                "orig": "You might want to add a \\c[3]stamp\\c[0] on your \\c[3]map\\c[0] to remember it.",
+                "text": "Peut-être que tu devrais poser un \\c[3]marqueur\\c[0] sur ta \\c[3]carte\\c[0] pour ne pas oublier ce trésor."
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/5/message": {
+                "orig": "In case you don't know what I mean, just have a closer look at the \\c[3]map menu\\c[0]!",
+                "text": "Au cas où tu ne comprendrais pas de quoi je parle, regarde mieux ton \\c[3]menu carte\\c[0] !"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/0/event/2/elseStep/6/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/1/event/quest/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/1/event/quest/3/message": {
+                "orig": "Oh, a present? For me?",
+                "text": "Oh, un cadeau ? pour moi ?"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/1/event/quest/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/1/event/quest/5/message": {
+                "orig": "Thanks! I don't know why, but lately random people just give me stuff for free.",
+                "text": "Merci ! Je ne sais pas pourquoi, mais ces derniers temps, plein de gens que je connais pas me donnent des trucs."
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/1/event/quest/6/message": {
+                "orig": "I love it!",
+                "text": "J'adore ça !"
+        },
+        "maps/rookie-harbor/south.json/entities/177/settings/npcStates/1/event/quest/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/10/message": {
+                "orig": "First, the \\c[3]info building\\c[0].",
+                "text": "Tout d'abord, le \\c[3]Bâtiment d'information\\c[0]."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/11/message": {
+                "orig": "If you really want to dig into all the details of CrossWorlds, this is your place.",
+                "text": "Si vous voulez vraiment connaître tous les détails de CrossWorlds, c'est là qu'il faut être."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/12/message": {
+                "orig": "Combat arts, skills, all the stats from A to Z, you name it.",
+                "text": "Arts de combats, Circuits, Toutes les stats de A à Z, tout ce que vous voulez."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/13/message": {
+                "orig": "Oh!\\. That's the \"Nerd Hub\", right?",
+                "text": "Oh !\\. C'est le \"Repère des Intellos\", non ?"
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/14/message": {
+                "orig": "Ja, people call it that.",
+                "text": "Ja, les gens l'appellent comme ça."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/15/message": {
+                "orig": "Frankly, it's a good thing to know about all that stuff.",
+                "text": "Mais franchement, c'est utile de connaitre tout ça."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/16/message": {
+                "orig": "But it's not mandatory.",
+                "text": "Mais ce n'est vraiment pas obligatoire."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/17/message": {
+                "orig": "It's just a place to go back to whenever you're confused about something.",
+                "text": "C'est juste un bon endroit où aller si vous ne comprenez pas quelque chose."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/18/message": {
+                "orig": "Let's move on!",
+                "text": "Allez on continue !"
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/25/message": {
+                "orig": "By the way...\\. \"Emilienator\"?\\. Nice one.",
+                "text": "D'ailleurs...\\. \"Emilienator\"?\\. C'est bien trouvé."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/26/message": {
+                "orig": "I know!\\. What's \"Schneider\" supposed to mean?",
+                "text": "Je sais !\\. Et euh...\\. Pourquoi \"Schneider\" ?"
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/27/message": {
+                "orig": "I'm a \\c[3]Triblader\\c[0].\\. I cut things.",
+                "text": "Je suis un \\c[3]Triblader\\c[0].\\. Je tranche des trucs.",
+                "note": ": Zeug = trucs"
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/28/message": {
+                "orig": "...\\. What?",
+                "text": "...\\. Hein ?"
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/29/message": {
+                "orig": "Not worth explaining.",
+                "text": "Pas la peine d'expliquer."
+        },
+        "maps/rookie-harbor/south.json/entities/179/settings/event/30/message": {
+                "orig": "Awww...",
+                "text": "Ohhh..."
+        },
+        "maps/rookie-harbor/south.json/entities/184/settings/event/4/message": {
+                "orig": "Oi, Lea!\\. Why are you running away?",
+                "text": "Hé, Lea !\\. Pourquoi tu t'enfuies ?"
+        },
+        "maps/rookie-harbor/south.json/entities/184/settings/event/6/message": {
+                "orig": "I promise, I'll make it short!",
+                "text": "Je serai pas long, c'est promis !"
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/analyzable/text": {
+                "orig": "Shady Shorsh",
+                "text": "Carlos la Carotte",
+                "note": "quest's thief"
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/1/name": {
+                "orig": "Shady Shorsh",
+                "text": "Carlos la Carotte",
+                "note": "quest's thief"
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/5/message": {
+                "orig": "Ahh!\\. Y... you again?",
+                "text": "Ahh !\\. E... Encore vous ?"
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/6/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/7/message": {
+                "orig": "Okay... I guess that's the end of the line then.\\. It's really a shame...",
+                "text": "OK... J'imagine que je suis au bout du rouleau alors.\\. C'est vraiment dommage..."
+        },
+        "maps/rookie-harbor/south.json/entities/185/settings/npcStates/0/event/quest/19/message": {
+                "orig": "...that you're so slow!!\\.\\. Byeeeee\\..\\..\\..",
+                "text": "... que vous soyez si lente !!\\.\\. Byeeeee\\..\\..\\.."
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/9/text": {
+                "orig": "And so the days went by with a game \npopulated by both players and Evotars.",
+                "text": "Et donc les jours passèrent dans un jeu\nhabité par des joueurs et des Évotars."
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/27/message": {
+                "orig": "Finally we set foot on the great continent of the croissant!",
+                "text": "Enfin nous marchons sur le grand continent du croissant !"
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/28/message": {
+                "orig": "Entering \\c[3]Rookie Harbor\\c[0]!",
+                "text": "Et on entre à \\c[3]\\v[area.rookie-harbor.name]\\c[0] !"
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/34/message": {
+                "orig": "To the right, you find the Info Hub.",
+                "text": "À votre droite, vous trouverez le Point d'Information."
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/36/message": {
+                "orig": "A great place if...",
+                "text": "Un bon endroit, si..."
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/37/message": {
+                "orig": "Japp, that's such a nice tree to run around to, isn't it?",
+                "text": "Japp, cet arbre est vraiment idéal pour tourner autour, pas vrai ?"
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/39/message": {
+                "orig": "Look, I get it.\\. Who cares about the boring Info Hub!",
+                "text": "Bon, j'ai compris.\\. Ça n'intéresse personne, le Point d'Information !"
+        },
+        "maps/rookie-harbor/south.json/entities/194/settings/event/42/message": {
+                "orig": "Still, it's a place you might want to remember for later.\\. Just saying.",
+                "text": "Mais vous pourriez avoir besoin de vous en souvenir pour plus tard.\\.  Je dis ça comme ça."
+        }
+}

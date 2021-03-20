@@ -916,5 +916,57 @@
         "maps/rookie-harbor/expo-space.json/entities/16/settings/event/19/message": {
                 "orig": "Good luck and stay vigilant.",
                 "text": "Bonne chance, et restez vigilants."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/10/message": {
+                "orig": "Seeker.",
+                "text": "\\v[lore.title.seeker]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/11/message": {
+                "orig": "You just acquired the \\c[3]Ancient Shade\\c[0].",
+                "text": "Vous venez d'acquérir le \\c[3]Symbole Ancien\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/12/message": {
+                "orig": "It is the last prerequisite to access the final part of the Track.",
+                "text": "C'est le dernier prérequis pour accéder à la dernière partie du Tracé."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/14/message": {
+                "orig": "The \\c[3]Temple of Ku'lero\\c[0]!",
+                "text": "Le \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/15/message": {
+                "orig": "However, be aware the integration of this new location has yet to be finalized.",
+                "text": "Mais, sachez que l'intégration de cette nouvelle zone n'est pas encore terminée."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/17/message": {
+                "orig": "Nevertheless, the preparations should be completed soon.",
+                "text": "Néanmoins, les préparations devraient bientôt être terminées."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/30/message": {
+                "orig": "Once the temple is integrated it can be accessed in the northern part of \\c[3]Sapphire Ridge\\c[0].",
+                "text": "Une fois que le temple sera intégré, il pourra être accédé dans la partie nord de la \\c[3]\\v[area.forest.name]\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/31/message": {
+                "orig": "Seeker, make sure you are well prepared.",
+                "text": "\\v[lore.title.seeker], assurez-vous d'être bien préparé."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/32/message": {
+                "orig": "This temple will truly pose the ultimate challenge of the track.",
+                "text": "Dans ce temple se trouve véritablement l'épreuve ultime du tracé."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/41/message": {
+                "orig": "For all your accomplishments, you shall receive one more reward as well.",
+                "text": "Pour tout le travail que vous avez accompli, vous devez recevoir une autre récompense."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/45/object": {
+                "orig": "\\v[item.428.name] x3",
+                "text": "\\v[item.428.name] x3"
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/49/message": {
+                "orig": "Seeker, once the preparation are completed, I'll be expecting you at the entrance of the \\c[3]Ku'lero Temple\\c[0].",
+                "text": "\\v[lore.title.seeker], une fois que les préparatifs seront terminés, je vous attendrais à l'entrée du \\c[3]\\v[area.final-dng.name]\\c[0]."
+        },
+        "maps/rookie-harbor/expo-space.json/entities/17/settings/event/50/message": {
+                "orig": "Good bye and stay vigilant.",
+                "text": "Au revoir et restez vigilants."
         }
 }

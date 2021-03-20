@@ -223,6 +223,18 @@
                 "orig": "...!",
                 "text": "... !"
         },
+        "maps/rhombus-sqr/shops-1.json/entities/878/settings/dialog/0/text": {
+                "orig": "\\c[3]New Gear\\c[0] available as of today!",
+                "text": "\\c[3]Nouvel Équipement\\c[0] disponible depuis aujourd'hui !"
+        },
+        "maps/rhombus-sqr/shops-1.json/entities/878/settings/dialog/1/text": {
+                "orig": "Don't miss our \\c[3]new trading offers\\c[0] on the \\c[3]third floor\\c[0]!",
+                "text": "Ne manquez pas nos \\c[3]nouvelles offres marchandes\\c[0] au \\c[3]deuxième étage\\c[0] !"
+        },
+        "maps/rhombus-sqr/shops-1.json/entities/878/settings/dialog/2/text": {
+                "orig": "Make sure you are prepared for \\c[3]Azure Archipelago\\c[0] and what follows!",
+                "text": "Soyez sûr d'être bien préparé pour l'\\c[3]\\v[area.beach.name]\\c[0] et ce qui suit !"
+        },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/0/event/quest/2/message": {
                 "orig": "Welcome to the \\c[3]Boost Lounge\\c[0], Seeker!",
                 "text": "Bienvenue dans le \\c[3]Booster Lounge\\c[0], \\v[lore.title.seeker] !"
@@ -433,6 +445,10 @@
                 "orig": "F1: \\c[3]Trading Offers\\c[0]\nGF: \\c[3]General Equipment\\c[0]",
                 "text": "E1 : \\c[3]Offres Marchandes\\c[0]\nRDC : \\c[3]Équipement Général\\c[0]"
         },
+        "maps/rhombus-sqr/interior/equipment.json/entities/36/settings/condAnims/0/interact/hoverText": {
+                "orig": "F2: \\c[2]New Trading Offers\\c[0]\nF1: \\c[3]Trading Offers\\c[0]\nGF: \\c[3]General Equipment\\c[0]",
+                "text": "E2 : \\c[2]Nouvelles Offres Marchandes\\c[0]\nE1 : \\c[3]Offres Marchandes\\c[0]\nRDC : \\c[3]Équipement Général\\c[0]"
+        },
         "maps/rhombus-sqr/interior/equipment.json/entities/37/settings/npcStates/0/event/shop/2/message": {
                 "orig": "These are the weapons of Rhombus Square, the finest any human can produce!",
                 "text": "Ce sont les armes de Rhombus Square, les meilleures que toute l'humanité n'aient jamais produites !"
@@ -521,6 +537,54 @@
         "maps/rhombus-sqr/interior/equipment.json/entities/44/settings/npcStates/0/event/21/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/5/message": {
+                "orig": "Welcome Seeker!",
+                "text": "Bienvenue, \\v[lore.title.seeker] !"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/6/message": {
+                "orig": "Our store now offers new \\c[3]ascended gears\\c[0] to all walkers of the track!",
+                "text": "Notre magasin offre maintenant du nouvel \\c[3]équipement d'élite\\c[0] à tous les marcheurs du tracé !"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/7/message": {
+                "orig": "Do you want to know further details about \\c[3]ascended equipment\\c[0]?",
+                "text": "Voulez-vous en savoir plus sur les \\c[3]équipements d'élite\\c[0] ?"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/0/1/message": {
+                "orig": "You recognize ascended equipment by the \\c[3]orange icon\\c[0] and the \\i[ascended] icon in the description.",
+                "text": "Vous reconnaitrez les équipements d'élite par leur \\c[3]icône orange\\c[0] et l'icône \\i[ascended] dans leur description."
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/0/2/message": {
+                "orig": "Ascended gear will \\c[3]adapt to your level\\c[0]. That means it's base stats will rise as your character level increases.",
+                "text": "Les équipement d'élite vont \\c[3]s'adapter à votre niveau\\c[0]. Ça signifie que leur stats de base vont augmenter lorsque le niveau de votre personnage augmente."
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/0/3/message": {
+                "orig": "However, note that their \\c[3]modifier values\\c[0] remain unchanged.",
+                "text": "Mais, notez que les \\c[3]valeurs des modificateurs\\c[0] restent inchangées."
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/0/4/message": {
+                "orig": "Still, \\c[3]ascended equipment\\c[0] should be considered the first choice for every seeker to reach their highest potential!",
+                "text": "Mais, les \\c[3]équipements d'élite\\c[0] devraient être le meilleur choix pour tous les \\v[lore.title.seeker] qui veulent atteindre leur plus haut potentiel !"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/1/1/message": {
+                "orig": "Of course!\\. I'll be here should you require my help later on.",
+                "text": "Bien entendu !\\. Je reste là si jamais vous avez besoin de mon aide plus tard."
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "maps/rhombus-sqr/interior/equipment.json/entities/46/settings/event/8/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
         },
         "maps/rhombus-sqr/interior/items.json/entities/40/settings/npcStates/0/event/shop/2/message": {
                 "orig": "Hello, welcome!\\. Take a look at our great selection of items.",

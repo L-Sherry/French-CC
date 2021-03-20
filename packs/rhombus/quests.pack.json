@@ -1,0 +1,620 @@
+{
+        "maps/rhombus-sqr/interior/autobahn-boss.json/entities/12/settings/event/7/message": {
+                "orig": "This must be it!\\. The \\c[3]teleporting car\\c[0]!",
+                "text": "Ça doit être ça !\\. La \\c[3]voiture téléportante\\c[0] !"
+        },
+        "maps/rhombus-sqr/interior/autobahn-boss.json/entities/21/settings/event/14/message": {
+                "orig": "Fantastic work, Ms. Lea!\\. It seems like we got them all!",
+                "text": "Fantastique travail, Mademoiselle Lea !\\. On dirait qu'on les a tous eus !"
+        },
+        "maps/rhombus-sqr/interior/autobahn-boss.json/entities/21/settings/event/15/message": {
+                "orig": "That was a chase to be proud of!",
+                "text": "C'était une poursuite dont on peut être fier !"
+        },
+        "maps/rhombus-sqr/interior/autobahn-boss.json/entities/21/settings/event/16/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/interior/autobahn-boss.json/entities/21/settings/event/17/message": {
+                "orig": "Time to get out of these tunnels!",
+                "text": "Il est temps de sortir de ces tunnels !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/12/settings/event/9/message": {
+                "orig": "We're catching up to them!",
+                "text": "On les rattrape !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/12/settings/event/16/message": {
+                "orig": "Go get them, Ms. Lea!",
+                "text": "Attrapez-les, Mademoiselle Lea !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/12/settings/event/17/message": {
+                "orig": "Lea!!",
+                "text": "Lea !!"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/23/settings/event/2/message": {
+                "orig": "There must be more ahead, but there's too much traffic!",
+                "text": "Il doit y en avoir d'autre plus loin, mais il y a trop de circulation !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/23/settings/event/3/message": {
+                "orig": "Ms. Lea, you need to go ahead! \\c[3]Jump over the cars\\c[0]!",
+                "text": "Mademoiselle Lea, vous devez aller devant ! \\c[3]Sautez sur les voitures\\c[0] !",
+                "note": "what could possibly go rong"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/23/settings/event/4/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/44/settings/event/2/message": {
+                "orig": "Great work, Ms. Lea!\\. But we need to \\c[3]go further\\c[0], still!",
+                "text": "Bon travail, Mademoiselle Lea !\\. Mais il faut qu'on \\c[3]ailles encore plus loin\\c[0] !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/44/settings/event/3/message": {
+                "orig": "I will follow as soon as I get through the traffic!",
+                "text": "Je vous suivrais dès que je passerais à travers la circulation !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/76/settings/event/2/message": {
+                "orig": "We're getting close to their leader!\\. Ms. Lea, jump on!",
+                "text": "On se rapproche de leur chef !\\. Mademoiselle Lea, sautez !"
+        },
+        "maps/rhombus-sqr/interior/autobahn.json/entities/76/settings/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/3/settings/interact/hoverText": {
+                "orig": "Area: Global",
+                "text": "Lieu : Global"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/3/settings/interact/title": {
+                "orig": "\\c[3]Bulletin Board\\c[0]",
+                "text": "\\c[3]Panneau d'affichage\\c[0]"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/66/settings/npcStates/0/event/2/message": {
+                "orig": "Welcome, Seeker, to to the \\c[3]Global Quest Hub\\c[0].",
+                "text": "Bienvenue au \\c[3]Carrefour Global des Quêtes\\c[0], \\v[lore.title.seeker]."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/66/settings/npcStates/0/event/3/message": {
+                "orig": "Here you can find the \\c[3]Global Quest Board\\c[0] listing \\c[3]available quests in all of Shadoon\\c[0]!",
+                "text": "Ici vous trouverez le \\c[3]Panneau d'Affichage Global\\c[0] listant \\c[3]toutes les quêtes disponibles partout sur Shadoon\\c[0] !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/66/settings/npcStates/0/event/4/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/0/text": {
+                "orig": "Everyone, join us!",
+                "text": "Rejoignez-nous tous !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/1/text": {
+                "orig": "Sitting on tables is the best!",
+                "text": "S'asseoir sur les tables c'est génial !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/2/text": {
+                "orig": "Enjoy a new perspective!",
+                "text": "Vous aurez un tout nouveau point de vue !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/3/text": {
+                "orig": "That's right my friends!",
+                "text": "C'est parfaitement exact, mes amis !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/4/text": {
+                "orig": "Together let's spread the joy of \\c[3]sitting on tables\\c[0]!",
+                "text": "Ensemble, partageons la joie de \\c[3]s'asseoir sur les tables\\c[0] !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/5/text": {
+                "orig": "Please return the tables to their original positions!",
+                "text": "Veuillez remettre les tables dans leur position d'origine !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/93/settings/dialog/6/text": {
+                "orig": "Ugh...\\. we'll so get into trouble for this.",
+                "text": "Heu...\\. On risque d'avoir des ennuis pour ça."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/94/settings/dialog/0/text": {
+                "orig": "The NPCs...\\. they just keep sitting there.\\. It's kind of sad.",
+                "text": "Les PNJs...\\. Ils restent simplement assis ici.\\. C'est presque triste."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/94/settings/dialog/1/text": {
+                "orig": "To be fair, they probably didn't expect players to find a way to move the tables.",
+                "text": "Pour être franc, ils ne s'attendaient probablement pas à ce que des joueurs trouvent le moyen de déplacer les tables."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/94/settings/dialog/2/text": {
+                "orig": "I hope they'll patch this soon before the chaos spreads any further.",
+                "text": "J'espère qu'ils vont patcher ça rapidement avant que ce chaos ne s'étende plus loin.",
+                "quality": "bad"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/0/text": {
+                "orig": "Please return the tables to their original positions!",
+                "text": "Veuillez remettre les tables dans leur position d'origine !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/1/text": {
+                "orig": "No!",
+                "text": "Non !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/2/text": {
+                "orig": "Man... I don't know.\\. Should we really keep sitting here?",
+                "text": "Rah... Je sais pas.\\. Est-ce qu'il faut vraiment qu'on reste assis ici ?"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/3/text": {
+                "orig": "Someone has to do it, or they'll take back the tables.",
+                "text": "Il faut que quelqu'un le fasse, sinon ils vont remettre les tables."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/4/text": {
+                "orig": "Don't you want to run the new dungeon?",
+                "text": "Tu ne veux pas faire le nouveau donjon ?"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/5/text": {
+                "orig": "Meh. It'll probably be crowded anyway.",
+                "text": "Bof. Il sera probablement bondé de toute façon."
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/6/text": {
+                "orig": "The dungeon can wait. This is important!",
+                "text": "Le donjon peut attendre. Ça c'est important !"
+        },
+        "maps/rhombus-sqr/interior/questhub.json/entities/98/settings/dialog/7/text": {
+                "orig": "*sigh*",
+                "text": "*pffff*"
+        },
+        "maps/rhombus-sqr/interior/tremor-lab-eg.json/entities/6/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/interior/tremor-lab-ug.json/entities/2/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/interior/tremor-lab-ug.json/entities/6/settings/interact/hoverText": {
+                "orig": "Awaken the machine",
+                "text": "Réveiller la machine"
+        },
+        "maps/rhombus-sqr/interior/tremor-lab-ug.json/entities/6/settings/interact/event/2/action/5/text": {
+                "orig": "[ Vibrating machine ]",
+                "text": "[ Machine vibrante ]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/analyzable/text": {
+                "orig": "Nánii Tremoire",
+                "text": "Nánii Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/0/event/1/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/0/event/2/message": {
+                "orig": "A s-\\v[lore.title.seeker]?\\. D-don't mind me, nothing to f-find here..",
+                "text": "Un P-\\v[lore.title.seeker] ?\\. N-Ne faites p-pas atttention à m-moi, il n-n'y a rien i-ici.."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/4/name": {
+                "orig": "???",
+                "text": "???"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/5/message": {
+                "orig": "... T-this is g-getting w... worse and worse...",
+                "text": "... Ç-Ça d-deviens de p... pire en p-pire..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/6/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/11/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/0/message": {
+                "orig": "Ah, you st-startled me...!\\.\\. S-sorry...\\.\\.\\.\\. You're a s-\\v[lore.title.seeker] aren't you?",
+                "text": "Ah, tu m'a f-fait peur... !\\.\\. D-Désolé...\\.\\.\\. Tu es un P-\\v[lore.title.seeker], pas v-vrai ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/1/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/2/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/3/message": {
+                "orig": "O... oh, n-nothing.\\. J-just enjoying l-life here.\\. Good v-vibrations, haha.... ha... ha...",
+                "text": "O... oh, r-rien.\\. J-Je vis j-juste ma vie.\\. Des bonnes v-vibrations, haha... ha... ha..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/5/message": {
+                "orig": " Why?\\. Lea.\\. Meet.",
+                "text": "Pourquoi ?\\. Lea.\\. Rencontrer."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/6/message": {
+                "orig": "Y-you w-want to kn-know if you can help m-me?\\. R-really?",
+                "text": "T-tu v-veux s-savoir si tu p-peux m'aider ?\\. V-Vraiment ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/8/message": {
+                "orig": "... W-well.\\. If y-you are a-a-asking like that.\\. You m-might be w-wondering what is h-happening with me...",
+                "text": "... B-Bon.\\. Si tu p-poses là q-question comme ç-ça.\\. C-C'est que t-tu te d-demande ce q-qui m-m'arrive..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/9/message": {
+                "orig": "T-this sh-shaking.\\. It... It is l-like a c-c-curse... t-torturing the Tremoire f-family for g-generations.\\. ",
+                "text": "C-Ces t-tremblements.\\. C'est... C'est c-comme une m-malédiction... q-qui t-torture la f-famille Tremoire d-depuis des g-générations."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/10/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/11/message": {
+                "orig": "My n-name's Nánii Tremoire a-and my gr-great gramps was a w-weaponsmith.\\. F-founder of \\c[3]Tremor Arms\\c[0].",
+                "text": "Mon n-nom est Nánii Tremoire e-et mon g-grand oncle était un f-forgeron en armes.\\. F-Fondateur d'\\c[3]Armes Tremor\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/12/message": {
+                "orig": "B-built w-weapons and w-war m-machines that u-used powerf-ful vibrating at-t-tacks.",
+                "text": "Il f-fabriquait des a-armes et des m-machines de guerres q-qui utilisaient des p-puissantes attaques v-vibrantes."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/14/message": {
+                "orig": "W-well...\\. Of c-course it h-had to go w-wrong.\\. A-ancient e-energy is d-dangerous after all.",
+                "text": "B-Bon...\\. Bien s-sûr il f-fallait que ça t-tourne mal.\\. L'énergie an-ancienne e-est dangereuse après tout."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/15/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/16/message": {
+                "orig": "T-the destr-...tructive v-vibrations of the m-most powerful w-weapon affected its u-users as w-well.",
+                "text": "L-Les v-vibrations destr-...tructrices des a-armes les plus p-puissantes affectaient aussi l-leurs utilisateurs."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/17/message": {
+                "orig": "So m-my gramps t-took it apart.\\. B-but that s-somehow put the c-curse on h-him and a-all his d-descendants.",
+                "text": "Donc m-mon oncle l-les a d-démontés.\\. M-Mais c'est ça q-qui a apporté la m-malédiction sur l-lui et t-tous ses d-descendants."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/18/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/19/message": {
+                "orig": "T-he Track's p-punishment for a-abandoning a ch-challenge, s-some Shad t-told me. ",
+                "text": "C-C'est la p-punition du T-Tracé pour avoir a-abandonné un d-défi, qu'un S-Shad m'a d-dit."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/20/message": {
+                "orig": "... Why...?",
+                "text": "... Pourquoi... ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/21/message": {
+                "orig": "I-it is w-what it i-is.\\. N-now I have to s-suffer f-for it u-unless I c-can p-put all the p-parts back together.",
+                "text": "C-C'est comme ça, c-c'est tout.\\. M-Maintenant je d-dois subir. S-Sauf si j-j'arrive à r-remettre tous l-les morceaux enssemble."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/thenStep/22/message": {
+                "orig": "S-so... y-you st-still inte-terested in h-helping?",
+                "text": "D-Donc... T-Tu es t-toujours interessée p-pour m-m'aider ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/12/elseStep/0/message": {
+                "orig": "Y-you again.\\.\\.\\. ... D-do you want to help me n-now?",
+                "text": "Ah, E-Encore toi.\\.\\.\\. E-Est-ce que t-tu veux m-m'aider maintenant ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/1/message": {
+                "orig": "F-for real?\\. Y-you w-will help? S-seriously?",
+                "text": "V-Vraiment ?\\. T-Tu vas m-m'aider ? S-Sérieusement ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/2/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/3/message": {
+                "orig": "W-wow.\\. S-so I g-guess you w-will n-need inform-mation on th-this.",
+                "text": "W-ouah.\\. D-Donc j'imagine q-que tu v-va avoir b-besoin d'un peu d-d'information."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/5/message": {
+                "orig": "Th-the w-weapon in q-question is c-called a \\c[3]\\v[item.13.name]\\c[0] in its m-most b-basic f-form.",
+                "text": "L-L'arme en q-question s-s'appelle un \\c[3]\\v[item.13.name]\\c[0] d-dans sa f-forme la plus b-basique."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/6/message": {
+                "orig": "B-but w-we w-will also n-need \\c[3]4 \\v[item.381.name]s\\c[0] t-to r-restore t-the w-weapon to its original f-form.",
+                "text": "M-Mais on a-aura aussi b-b-besoin de \\c[3]4 Moteurs Tremblants\\c[0] pour r-remettre l-l'arme dans son é-état o-original."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/8/message": {
+                "orig": "W-well, t-that's n-not all, b-but you b-better st-start th-there.\\. I c-can do the t-technical p-part w-with t-the m-material.",
+                "text": "B-Bon, c-c'est p-pas tout, m-mais j-juste le d-début.\\. J-Je peux m-m'occuper de la p-partie t-technique avec le m-matériel."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/9/message": {
+                "orig": "Lea.\\. Bye.\\. Meet!",
+                "text": "Lea.\\. Bye.\\. Rencontrer !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/accepted/10/message": {
+                "orig": "Y-yes.\\. G-good l-luck.\\. T-talk t-to me i-if you want m-more inform-mation o-on the p-parts!",
+                "text": "O-Oui.\\. B-Bonne c-chance.\\. R-Revenez me p-parlez si v-vous voulez p-plus d-d'information sur les p-pièces !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/declined/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/declined/1/message": {
+                "orig": "... I... I sh-should have k-known.\\. H-helping the c-child of a f... f-foolish family with her p-problem is a w-waste of time.",
+                "text": "... J'... J'aurais d-du le s-savoir.\\. S-S'occuper des p-problèmes de la f-fille d'une f-famille m-maudite est une p-perte de temps."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/1/event/quest/13/declined/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/2/message": {
+                "orig": "I will n-need you to complete a \\c[3]\\v[item.419.name]\\c[0] before we can proceed.",
+                "text": "J'ai b-besoin que tu t-termines une \\c[3]\\v[item.419.name]\\c[0] a-avant que l-l'on puisse c-continuer."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/3/message": {
+                "orig": "Do you need some pointers where to find the \\c[3]\\v[item.381.name]s\\c[0]?",
+                "text": "E-Est-ce que t-tu as b-besoin d-d'indice pour s-savoir où t-trouver les \\c[3]Moteurs Tremblants\\c[0] ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/4/options/0/label": {
+                "orig": "[Yes]",
+                "text": "[Oui]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/4/options/1/label": {
+                "orig": "[No]",
+                "text": "[Non]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/1/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/2/message": {
+                "orig": "I w-will n-need you to c-complete a \\c[3]\\v[item.419.name]\\c[0] b-before w-we can pr-proceed.",
+                "text": "J'ai b-besoin que tu t-termines une \\c[3]\\v[item.419.name]\\c[0] a-avant que l-l'on puisse c-continuer."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/3/message": {
+                "orig": "H-have you g-gotten e-everyth-thing or d-do you need s-some p-pointers as t-to w-where to f-find the \\c[3]\\v[item.381.name]s\\c[0]?",
+                "text": "E-Est-ce que t-tu as t-tout oublié ou E-Est-ce que t-tu as b-besoin d-d'indice pour s-savoir où t-trouver les \\c[3]Moteurs Tremblants\\c[0] ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/0/message": {
+                "orig": "[nods at trades]",
+                "text": "[acquiescer les offres]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/0/message": {
+                "orig": "Y... y-you got the \\v[item.419.name] c-completed!\\. Heu-... heureka!",
+                "text": "T... T-Tu as t-terminé la H-\\v[item.419.name] !\\. Heu-Heureka !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/2/message": {
+                "orig": "T-talk to m-me again if y-you are r-ready f-for the n-next p-part.",
+                "text": "D-Dit le m-moi s-si t-tu es p-prête pour l-l-la p-prochaine é-étape."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/elseStep/0/message": {
+                "orig": "M-making s-some good p-progress t-there.\\. N-need s-some p-pointers to f-find the o-other \\c[3]\\v[item.381.name]s\\c[0]?",
+                "text": "O-On fait d-des progrês.\\. B-Besoin d-d'indice pour t-trouver l-les a-autres \\c[3]Moteurs Tremblants\\c[0] ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/0/1/canceled/0/message": {
+                "orig": "A-are you s-still m-missing someth-thing?",
+                "text": "E-Est-ce qu'il m-manque encore q-quelque c-chose ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/0/message": {
+                "orig": "[nods askingly]",
+                "text": "[acquiescer interrogativement]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/1/message": {
+                "orig": "O-okay, l-listen  s-\\v[lore.title.seeker].",
+                "text": "O-OK, É-Écoute, P-\\v[lore.title.seeker]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/2/thenStep/0/message": {
+                "orig": "F-first, you will need the base w-weapon, the \\v[item.13.name].",
+                "text": "D-D'abords, tu as b-besoin de l'arme de b-base, le \\v[item.13.name]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/2/thenStep/1/message": {
+                "orig": "I-it w-was l-left in an \\c[3]underg-ground t-tunnel tow-wards P-Para Island\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0].",
+                "text": "I-Il a été l-laissé dans un \\c[3]t-tunnel s-souterrain v-vers l'île de Para\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/2/thenStep/2/message": {
+                "orig": "Th-Then you w-will n-need the \\c[3]4 Tremor Engines\\c[0] th-that w-were l-left all o-over \\v[lore.title.planet].",
+                "text": "E-Et ensuite t-tu auras b-besoin des \\c[3]4 Moteurs Tremblants\\c[0] q-qui ont été l-laissés partout s-sur \\v[lore.title.planet]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/2/thenStep/3/message": {
+                "orig": "The f-first should be \\c[3]s-somewhere in t-the same tunnel the \\v[item.13.name]\\c[0].",
+                "text": "L-Le p-premier devrait ê-être \\c[3]quelque p-part dans le m-même tunnel q-que le \\v[item.13.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/2/elseStep/0/message": {
+                "orig": "You w-will n-need a t-total of \\c[3]4 Tremor Engines\\c[0].\\. T-those w-were left a-all over \\v[lore.title.planet].",
+                "text": "T-tu auras b-besoin d-d'un total de \\c[3]4 Moteurs Tremblants\\c[0].\\. I-Ils ont été l-laissés p-partout s-sur \\v[lore.title.planet]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/2/elseStep/1/message": {
+                "orig": "The f-first sh-should be in t-the \\c[3]underg-ground t-tunnel tow-wards P-Para Island\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0].",
+                "text": "L-Le p-premier devrait ê-être d-ans \\c[3]le t-tunnel souterrain v-vers l'Î-Île de P-Para\\c[0] à \\c[3]\\v[area.autumn-fall.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/3/message": {
+                "orig": "The s-second was left \\c[3]in the s-shady part of \\v[area.jungle-city.name]\\c[0].\\. If n-no one st-stole it.",
+                "text": "L-Le d-deuxième a été l-laissé dans \\c[3]la p-partie sombre d-du \\v[area.jungle-city.name]\\c[0].\\. Si p-personne ne l'a v-volé."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/4/message": {
+                "orig": "As f-for the l-ast two, they w-were \\c[3]both h-hidden in \\v[area.forest.name]\\c[0].",
+                "text": "E-Et pour les d-deux derniers, ils ont \\c[3]t-tous les d-deux été c-cachés sur l-la \\v[area.forest.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/5/message": {
+                "orig": "One is h-hidden \\c[3]W-West of the Cave Inn\\c[0], \\c[3]b-between b-bridges and r-rivers\\c[0].",
+                "text": "L'un est c-caché à \\c[3]l-l'ouest de l'auberge des caves\\c[0], \\c[3]entre d-des p-ponts et des r-rivières\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/6/message": {
+                "orig": "The o-other w-was l-eft \\c[3]w-within a sp-spider nest\\c[0].\\. Ew..",
+                "text": "L-L'autre a é-été laissé \\c[3]d-dans un n-nid d-d'araignées\\c[0].\\. Eerk.."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/1/7/message": {
+                "orig": "G-got it?",
+                "text": "C-Compris ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/2/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/2/1/message": {
+                "orig": "A-alright.\\. Good l-luck with the s-search.",
+                "text": "O-OK.\\. B-Bonne c-chance pour t-tes r-recherches."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/2/2/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/options/0/label": {
+                "orig": "[Trade]",
+                "text": "[Marchander]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/options/1/label": {
+                "orig": "[Ask for pointers]",
+                "text": "[Demander des indices]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/2/event/trade/event/5/options/2/label": {
+                "orig": "[Leave]",
+                "text": "[Partir]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/1/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/2/message": {
+                "orig": "S-so, w-we g-got the \\c[3]\\v[item.419.name] c-completed\\c[0].\\. W-we can t-tackle t-the last p-part now.",
+                "text": "D-Donc, o-on a \\c[3]t-terminé la \\v[item.419.name]\\c[0].\\. O-On peut s-s'attaquer à l-la dernière é-étape maintenant."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/3/message": {
+                "orig": "How?",
+                "text": "Comment ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/4/message": {
+                "orig": "T-there is a f-final p-part missing.\\. T-the c-core t-that my g-gramps put into a d-dangerous w-war machine.",
+                "text": "I-Il manque une d-dernière p-pièce.\\. L-Le cœur q-que mon oncle a m-mis dans une m-machine de g-guerre d-dangereuse."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/5/message": {
+                "orig": "... Why?!",
+                "text": "... Pourquoi ?!"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/6/message": {
+                "orig": "I-it w-was h-his d-duty a-as a cr-craftsman.\\. B-but it b-became too d-dangerous so h-he s-sealed it away.",
+                "text": "C-C'était son t-travail en t-tant que m-mécanicien.\\. M-Mais elle é-était bien t-trop dangereuse, d-donc il l-l'a e-enfermé à c-clef."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/8/message": {
+                "orig": "S-so n-now it r-rests in o-our old l-laborat-tory, in the r-remote b-building on \\c[3]Cliff Exhibition, h-here i-in \\v[area.rhombus-sqr.name]\\c[0].",
+                "text": "M-M-Maintenant il est d-dans n-notre v-vieux l-laboratoire, d-dans le b-bâtiment é-éloigné à l'\\c[3]E-Exhibition de F-Falaises, i-ici à \\v[area.rhombus-sqr.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/9/message": {
+                "orig": "H-here, this is the k-key to the d-door.\\. The m-machine will r-react to the w-weapon and a-awaken.",
+                "text": "T-Tiens, c'est l-la clef de la p-porte.\\. La m-machine va r-réagir à l'arme et v-va se r-reveiller."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/10/message": {
+                "orig": "\\c[3]D-destroy it and b-bring me its c-core\\c[0] so I c-can f-finally l-leave the sh-shaking behind.\\. P-please..",
+                "text": "\\c[3]D-Détruis-là et a-apporte mon s-son c-cœur\\c[0] p-pour que j-je puisse e-enfin a-arrêter de t-trembler.\\. S-S'il te p-plait..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/3/event/quest/12/message": {
+                "orig": "... Bye!",
+                "text": "... Bye !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/4/event/1/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/4/event/2/message": {
+                "orig": "G-go to o-our old l-laborat-tory, in the r-remote b-builing on \\c[3]Cliff Exhibition, h-here in \\v[area.rhombus-sqr.name]\\c[0]",
+                "text": "V-Va d-dans n-notre v-vieux l-laboratoire, d-dans le b-bâtiment é-éloigné à l'\\c[3]E-Exhibition de F-Falaises, i-ici à \\v[area.rhombus-sqr.name]\\c[0]."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/4/event/3/message": {
+                "orig": "Aw-waken a-and defeat t-the m-machine in the b-basement and b-bring me the c-core.",
+                "text": "R-Réveille et d-d-détruit l-la m-machine d-dans le s-sous-sol et a-apporte moi s-son c-cœur."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/1/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/3/message": {
+                "orig": "S-\\v[lore.title.seeker], y-you're back.\\. A-and you g-got the c-core?",
+                "text": "P-\\v[lore.title.seeker], t-tu es d-de retour.\\. E-Et tu as l-le c-cœur ?"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/5/message": {
+                "orig": "Th-That... That is g-great.\\. I can't b-believe I w-will f-finally be f-free again.",
+                "text": "C-C-C'est... C-C'est m-m-magnifique.\\. J-J'arrive p-pas à c-croire q-que je v-vais enfin r-redevenir libre."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/6/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/7/message": {
+                "orig": "I w-will c-complete t-the w-weapon.\\. T-that w-will lift the c-curse... I h-hope.",
+                "text": "J-Je v-vais t-terminer l-l-l'arme.\\. Ç-Ça va m-mettre f-fin à l-la m-malédiction... J-J'éspère."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/8/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/26/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/27/message": {
+                "orig": "It... It is gone?\\. The shaking stopped!\\. Huzzah!",
+                "text": "Je... Je tremble plus ?\\. Les tremblements se sont arrêtés !\\. HOURRA !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/28/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/29/message": {
+                "orig": "This feeling... It's liberating and peaceful at once.\\. \\v[lore.title.seeker], I can't thank you enough.",
+                "text": "Cette sensation... C'est libérateur et paisible à la fois.\\. \\v[lore.title.seeker], je ne peux pas assez vous remercier."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/30/message": {
+                "orig": "Lea.",
+                "text": "Lea."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/31/message": {
+                "orig": "Well, you can take the completed weapon with you!\\. It is immensely powerful and that curse is lifted too!",
+                "text": "Bien, vous pouvez prendre l'arme terminée avec vous !\\. Elle est immensément puissante et elle n'est plus maudite !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/32/message": {
+                "orig": "And I could even make it \\c[3]ascend\\c[0] if you bring me the needed material.",
+                "text": "Et je pourrais même en faire une \\c[3]arme d'élite\\c[0] si tu m'apportes les matériaux nécessaires."
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/33/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/34/message": {
+                "orig": "Lea.\\. Meet.\\.\\. ... Bye!",
+                "text": "Lea.\\. Rencontrer.\\.\\. ... Bye !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/5/event/quest/35/message": {
+                "orig": "Yes, goodbye.\\. And thank you again.",
+                "text": "Oui, au revoir.\\. Et merci encore !"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/6/event/trade/event/1/name": {
+                "orig": "Ms. Tremoire",
+                "text": "Mme. Tremoire"
+        },
+        "maps/rhombus-sqr/interior/tremor-office-g.json/entities/12/settings/npcStates/6/event/trade/event/2/message": {
+                "orig": "Hey, \\v[lore.title.seeker], how are you?\\. Want me to work on the weapon?",
+                "text": "Hé, \\v[lore.title.seeker], Comment allez-vous ?\\. Vous voulez que je travaille sur l'arme ?"
+        }
+}
