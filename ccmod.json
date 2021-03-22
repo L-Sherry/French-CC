@@ -12,6 +12,9 @@
 		"de_DE": "CrossCode im Französisch !"
 	},
 	"homepage": "https://github.com/L-Sherry/French-CC",
+	"icons": {
+		"24": "flaglea.png"
+	},
 	"postload": "mod.js",
 	"dependencies": {
 		"localize-me": ">=0.5 <2"
