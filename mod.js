@@ -276,7 +276,7 @@ const patch_credits = async () => {
 		Object.assign(json_data.entries, credits);
 		return json_data;
 	};
-	if (window.ccmod) {
+	if (window.ccmod && window.ccmod.resources) {
 		const { jsonPatches } = window.ccmod.resources;
 		jsonPatches.add(piggyback_path, patch_them);
 		return;
