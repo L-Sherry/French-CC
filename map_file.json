@@ -49,6 +49,7 @@
 	"maps/test-ferro.json": "packs/test.pack.json",
 	"maps/enemy-test-sao.json": "packs/test.pack.json",
 	"maps/auto-script-test.json": "packs/test.pack.json",
+	"extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -1011,6 +1012,7 @@
 	"maps/autumn-fall/raid/raid-05.json": "packs/autumn-fall/raid.json",
 	"maps/autumn-fall/raid/raid-boss.json": "packs/autumn-fall/raid-dlc.json",
 	"maps/autumn-fall/raid/raid-end.json": "packs/autumn-fall/raid-dlc.json",
+	"extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json": "packs/autumn-fall/raid-dlc.json",
 
 	"areas/arid.json": "packs/arid.pack.json",
 	"maps/arid/cliff-1.json": "packs/vermillion/cliff.json",
@@ -1233,7 +1235,6 @@
 	"maps/arena/faction/maroon-turtlecave-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/mine-heatbot-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/rh-turrets-1.json": "packs/arena-maps.json",
-	"maps/arena/pvp/pvp-lily.json": "packs/arena-maps.json",
 
 	"areas/forest.json": "packs/forest.pack.json",
 	"maps/forest/path-01-entrance.json": "packs/sapphire/entrance.json",
@@ -1297,8 +1298,9 @@
 	"areas/final-dng.json": "packs/final-dng.pack.json",
 
 	"areas/beach.json": "packs/beach.pack.json",
-	"maps/beach/path-01-entrance.json": "packs/beach.pack.json",
-	"maps/beach/path-04.json": "packs/beach.pack.json",
+	"extension/post-game/data/maps/beach/expo-space.json": "packs/beach.pack.json",
+	"extension/post-game/data/maps/beach/path-01-entrance.json": "packs/beach/path1.json",
+	"extension/post-game/data/maps/beach/path-02.json": "packs/beach/path2.json",
 
 	"extension/scorpion-robo/scorpion-robo.json": "packs/pc-dlc.pack.json",
 	"extension/scorpion-robo/data/enemies/minibosses/scorpion-boss-pole.json": "packs/pc-dlc.pack.json",
@@ -1320,5 +1322,19 @@
 	"extension/post-game/data/arena/lily-cup.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/arena/shizuka-cup.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/maps/arena/dlc/creator.json": "packs/dlc-arena.pack.json",
-	"extension/post-game/data/maps/arena/dlc/snail.json": "packs/dlc-arena.pack.json"
+	"extension/post-game/data/maps/arena/dlc/snail.json": "packs/dlc-arena.pack.json",
+
+	"extension/post-game/data/maps/arena/pvp/pvp-apollo.json": "packs/dlc-pvp.pack.json",
+	"extension/post-game/data/maps/arena/pvp/pvp-lily.json": "packs/dlc-pvp.pack.json",
+	"extension/post-game/data/maps/arena/pvp/pvp-shizuka.json": "packs/dlc-pvp.pack.json",
+
+	"extension/post-game/data/maps/arid/lab/elevator-eg.json": "packs/vermillion/dlc-entrance.json",
+	"extension/post-game/data/maps/arid/lab/ug-01-entrance.json": "packs/vermillion/dlc-entrance.json",
+	"extension/post-game/data/maps/arid/lab/ug-02-hallway.json": "packs/vermillion/dlc-entrance.json",
+	"extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json": "packs/vermillion/dlc-entrance.json",
+	"extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json": "packs/vermillion/dlc-entrance.json",
+	"extension/post-game/data/maps/arid/lab/ug-05-junction.json": "packs/vermillion/dlc-entrance.json",
+	"extension/post-game/data/maps/arid/lab/ug-06-sidwell.json": "packs/vermillion/dlc-sidwell.json"
+
+
 }

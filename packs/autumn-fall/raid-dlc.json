@@ -526,5 +526,137 @@
         "maps/autumn-fall/raid/raid-end.json/entities/145/settings/teleportLabel": {
                 "orig": "Back to the Entrance",
                 "text": "Retour vers l'Entrée"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/19/settings/event/28/message": {
+                "orig": "This will be the last pillar enemy! We'll let \\c[3]you decide\\c[0] which element to attack this time!",
+                "text": "C'est le dernier ennemi pilier ! On va \\c[3]vous laisser décider\\c[0] quel élément attaquer en premier !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/19/settings/event/29/message": {
+                "orig": "Decide quickly! I want to start hitting stuff!",
+                "text": "Décidez-vous vite ! Je veux frapper des trucs !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/0/thenStep/0/message": {
+                "orig": "Hey! Which element should be destroy?",
+                "text": "Hé ! Quel élément on doit détruire ?"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/0/thenStep/1/message": {
+                "orig": "Oh dear... It' seems like Lea is all alone right now. Let's wait for Emilie or Luke to respawn.",
+                "text": "Oh non... On dirait que Lea est toute seule maintenant. Attendons qu'Emilie ou Luke réapparaissent."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/3/thenStep/0/thenStep/0/message": {
+                "orig": "\\c[3]Red blocks\\c[0]! \\c[3]Heat\\c[0] is under fire now!",
+                "text": "Les \\c[3]Blocs Rouges\\c[0] ! le \\c[3]Chaud\\c[0] est sous le feu !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/3/thenStep/0/thenStep/1/message": {
+                "orig": "You waited for that one, didn't you?",
+                "text": "Tu as attendu pour la sortir, celle-là, hein ?"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/3/thenStep/0/elseStep/0/message": {
+                "orig": "\\c[3]Red blocks\\c[0] targeted now.",
+                "text": "Cible verrouillée : \\c[3]Bloc rouges\\c[0]"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/3/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Red Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Rouges\\c[0] !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/4/thenStep/0/thenStep/0/message": {
+                "orig": "\\c[3]Blue blocks\\c[0] now!",
+                "text": "Maintenant les \\c[3]Bloc bleus\\c[0]"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/4/thenStep/0/thenStep/1/thenStep/0/message": {
+                "orig": "Don't get cold feet now.",
+                "text": "C'est pas le moment de se refroidir."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/4/thenStep/0/elseStep/0/message": {
+                "orig": "We're fighting the \\c[0]blue blocks\\c[0]! Shame Tronny isn't around...\n",
+                "text": "On attaque les blocs bleus ! Dommage que Tronny ne soit pas là..."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/4/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Blue Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Bleus\\c[0] !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/5/thenStep/0/thenStep/0/message": {
+                "orig": "Attacking the \\c[3]purple blocks\\c[0]...",
+                "text": "Attaque des \\c[3]blocs violets\\c[0]..."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/5/thenStep/0/thenStep/1/thenStep/0/message": {
+                "orig": "Shocking!",
+                "text": "Quel choc !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/5/thenStep/0/elseStep/0/message": {
+                "orig": "We're fighting the \\c[3]purple blocks\\c[0] ",
+                "text": "On combat les \\c[3]blocs violets\\c[0] !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/5/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Purple Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Violets\\c[0] !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/6/thenStep/0/thenStep/0/message": {
+                "orig": "\\c[3]Green blocks\\c[0] now. Still got nothing.",
+                "text": "Les \\c[3]blocs verts\\c[0] maintenant. J'ai toujours rien qui me vient à l'esprit."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/6/thenStep/0/elseStep/0/message": {
+                "orig": "\\c[3]Green blocks\\c[0] now.",
+                "text": "Maintenant les \\c[3]blocs verts\\c[0]."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/6/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Green Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Verts\\c[0] !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/9/thenStep/0/message": {
+                "orig": "We put that heat down!",
+                "text": "On a baissé la chaleur !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/10/thenStep/0/message": {
+                "orig": "All blue blocks are out cold.",
+                "text": "Tous les blocs bleus ont été refroidis."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/11/thenStep/0/message": {
+                "orig": "Purple blocks defeated. Good Job!",
+                "text": "On a vaincu les blocs violets.  Bon travail !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/23/settings/event/12/thenStep/0/message": {
+                "orig": "Green Blocks down. Vibe denied.",
+                "text": "Terminé les blocs verts.  Ils sont tombés de la vague."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/26/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/27/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/28/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/30/settings/event/8/message": {
+                "orig": "Well, here we are!\\. Fingers crossed things work out this time!",
+                "text": "Et voilà, on y est !\\. On croise les doigts pour que ça marche cette fois !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/30/settings/event/9/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/30/settings/event/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/31/settings/event/3/thenStep/0/message": {
+                "orig": "Nice work! Next color!",
+                "text": "Bon travail ! Couleur suivante !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/31/settings/event/4/thenStep/0/message": {
+                "orig": "Very good, everyone!",
+                "text": "Bon travail, tout le monde !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/31/settings/event/5/thenStep/0/thenStep/0/message": {
+                "orig": "We almost got it!",
+                "text": "On y est presque !"
+        },
+        "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json/entities/31/settings/event/5/thenStep/0/elseStep/0/message": {
+                "orig": "We almost got it!",
+                "text": "On y est presque !"
         }
 }

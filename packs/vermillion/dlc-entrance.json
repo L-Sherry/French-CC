@@ -1,0 +1,524 @@
+{
+        "extension/post-game/data/maps/arid/lab/elevator-eg.json/entities/10/settings/destinations/0/label": {
+                "orig": "Down",
+                "text": "En bas"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/1/settings/destinations/0/label": {
+                "orig": "Up",
+                "text": "En haut"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/18/settings/event/2/message": {
+                "orig": "Mon dieu...\\. what's with this creepy atmosphere?",
+                "text": "Mon dieu...\\. C'est quoi cette atmosphère effrayante ?",
+                "note": "j'ai une gueule d'atmosphère ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/18/settings/event/3/message": {
+                "orig": "That was part of the point, I think.",
+                "text": "C'était voulu, je crois."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/14/message": {
+                "orig": "Whoa, those rhinos were creepy, too!",
+                "text": "Ouah, même ces rhinos étaient effrayants !"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/16/message": {
+                "orig": "I'm sort of surprised that enemies are still here.",
+                "text": "Je suis un peu surpris que les ennemis soient encore là."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/18/message": {
+                "orig": "Yes, me too.",
+                "text": "Oui, moi aussi."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/19/message": {
+                "orig": "I suppose this part was hidden well enough, so they just missed them.\n",
+                "text": "Je suppose que cette partie était suffisamment bien cachée pour qu'ils les aient ratés."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/20/message": {
+                "orig": "Can't you just disable them?",
+                "text": "Tu peux pas juste les désactiver ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/21/message": {
+                "orig": "I would rather not.\n",
+                "text": "Je préfèrerais pas."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/23/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/24/message": {
+                "orig": "We are not allowed to be here, so I would prefer to leave as few traces as possible.",
+                "text": "On est pas autorisé à être ici, donc je préfèrerais laisser le moins de traces possible."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/25/message": {
+                "orig": "Makes sense...",
+                "text": "C'est logique..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/27/settings/event/26/message": {
+                "orig": "More creepy enemies, I guess.\\. Oh well...\n",
+                "text": "Ça veut dire encore plus d'ennemis effrayants..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-01-entrance.json/entities/28/settings/event/6/message": {
+                "orig": "What the heck are those?!",
+                "text": "C'est quoi ces machins ?!"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/1/settings/blockEvent/1/message": {
+                "orig": "No, not this way...",
+                "text": "Non, pas par là..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/1/settings/blockEvent/5/message": {
+                "orig": "To the new meeting room: M04-02.",
+                "text": "À la nouvelle salle de réunion : M04-02."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/24/settings/event/2/message": {
+                "orig": "That's quite the hallway!",
+                "text": "Il est grand ce couloir !"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/24/settings/event/3/message": {
+                "orig": "I didn't expect such a huge place.\n",
+                "text": "Je ne m'attendais pas à un endroit aussi grand."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/24/settings/event/7/message": {
+                "orig": "It's not as huge as it seems. ",
+                "text": "C'est pas aussi grand que ça en à l'air."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/24/settings/event/8/message": {
+                "orig": "Lots of doors with nothing behind them.",
+                "text": "C'est plein de portes avec rien derrière."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/24/settings/event/9/message": {
+                "orig": "Let's have a look around.",
+                "text": "Explorons les alentours."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-02-hallway.json/entities/26/settings/event/1/message": {
+                "orig": "But then... I found a way to escape.",
+                "text": "Mais ensuite... j'ai trouvé un moyen de m'échapper."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/5/message": {
+                "orig": "This...",
+                "text": "C'est..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/6/message": {
+                "orig": "This was the old meeting room.",
+                "text": "C'était l'ancienne salle de réunion."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/7/message": {
+                "orig": "Where I discussed things with Satoshi, Gautham, and Shizuka.",
+                "text": "Où j'ai discuté de tas de choses avec Satoshi, Gautham et Shizuka."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/8/message": {
+                "orig": "Yeah...",
+                "text": "Oui..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/9/message": {
+                "orig": "We had a lot of...\\. difficult discussions here.",
+                "text": "On a eu un tas de...\\. discussions difficiles ici."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/18/message": {
+                "orig": "This room hasn't been used ever since Satoshi moved back to the old hideout.",
+                "text": "Cette salle n'a jamais été utilisée depuis que Satoshi est retourné dans la vielle cachette."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json/entities/30/settings/event/19/message": {
+                "orig": "There's not much to see here.",
+                "text": "Il n'y a pas grand chose à voir ici."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/6/message": {
+                "orig": "...Yes.",
+                "text": "... Oui."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/7/message": {
+                "orig": "This was my workplace.",
+                "text": "C'était mon lieu de travail."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/18/message": {
+                "orig": "This terminal...",
+                "text": "Ce terminal..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/19/message": {
+                "orig": "Here is where I gathered my tasks.",
+                "text": "C'est là où je recueillais mes tâches."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/20/message": {
+                "orig": "I had a list of targets I had to watch.\n",
+                "text": "J'avais une liste de cibles que je devais surveiller."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/21/message": {
+                "orig": "I submitted all the intel I found...\n",
+                "text": "J'envoyais toutes les informations que je trouvais..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/22/message": {
+                "orig": "Collaborated with our spies outside the game...",
+                "text": "Je collaborais avec nos espions en dehors du jeu..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/23/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/24/message": {
+                "orig": "Occasionally I also submitted IDs of additional players to turn into Evotars.",
+                "text": "Parfois je soumettais aussi des IDs d'autres joueurs à transformer en Evotars."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/25/message": {
+                "orig": "Fellow players of our investigation targets, and so forth.",
+                "text": "Ceux qui jouaient avec nos cibles, et tout."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/26/message": {
+                "orig": "Having friends around actually helped their memories to return faster.",
+                "text": "Avoir des amis à leurs côtés les aidaient pour retrouver la mémoire plus rapidement."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/34/message": {
+                "orig": "Huh...\\. alright?",
+                "text": "Euh...\\. OK ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/35/message": {
+                "orig": "So I might have ended up here as well because of Lea or Lukas?",
+                "text": "Donc j'aurais pu aussi me retrouver ici à cause de Lea ou Lukas ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/36/message": {
+                "orig": "Potentially...\\. yes. ",
+                "text": "Potentiellement...\\. oui."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/37/message": {
+                "orig": "Fortunately, you didn't.",
+                "text": "Heureusement, ça n'est pas arrivé."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/47/message": {
+                "orig": "I remember...\\. that I saw a recording in this room.\n",
+                "text": "Je me souviens...\\. d'avoir vu un enregistrement dans cette pièce."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/54/message": {
+                "orig": "It seems I can't play it again.\\. That's too bad.\n",
+                "text": "On dirait que je peux pas le rejouer.\\. C'est dommage."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/57/message": {
+                "orig": "You would have seen my real self.",
+                "text": "Vous auriez pu voir mon véritable visage."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/59/message": {
+                "orig": "The real Sidwell?",
+                "text": "Le vrai Sidwell ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/60/message": {
+                "orig": "Yes...",
+                "text": "Oui..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/66/message": {
+                "orig": "I saw it here when my work started.",
+                "text": "Je l'ai vu ici quand mon travail à commencé."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/67/message": {
+                "orig": "A video I recorded for myself.",
+                "text": "Une vidéo que j'ai enregistré pour moi-même."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/68/message": {
+                "orig": "A reminder for my tasks within the game.\n",
+                "text": "Un rappel de mes tâches à l'intérieur du jeu."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/69/message": {
+                "orig": "Which people I had to interrogate...",
+                "text": "Quelles personnes je devais interroger..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/70/message": {
+                "orig": "Things we already knew about them...",
+                "text": "Les choses qu'on savait déjà sur elles..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/73/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/74/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/76/message": {
+                "orig": "Oui, isn't that weird?",
+                "text": "Oui, c'est pas étrange ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/77/message": {
+                "orig": "You were just Sidwell playing CrossWorlds, non?",
+                "text": "Tu étais juste Sidwell en train de jouer à CrossWorlds, non ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/78/message": {
+                "orig": "Why remind yourself about that with a video recording?",
+                "text": "Pourquoi tu devais te rappeler de tout ça avec un enregistrement vidéo ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/80/message": {
+                "orig": "I...\\. I wasn't just playing CrossWorlds the normal way.",
+                "text": "Je...\\. Je ne jouais pas à CrossWorlds de la manière normale."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/85/message": {
+                "orig": "I was using a...\\. \\c[3]special connection\\c[0].",
+                "text": "J'utilisais une...\\. \\c[3]connexion spéciale\\c[0]."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/86/message": {
+                "orig": "Playing the game...\\. \\c[3]continuously\\c[0].",
+                "text": "Je jouais au jeu...\\. \\c[3]en continu\\c[0]."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/87/message": {
+                "orig": "Or...\\. was I...?",
+                "text": "Ou... ? Est-ce que c'était bien vrai... ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/101/text": {
+                "orig": "Thank you for your contribution.",
+                "text": "Merci beaucoup pour votre contribution."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/118/message": {
+                "orig": "Ahhhhhh!",
+                "text": "Ahhhhhh !"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/124/message": {
+                "orig": "Tronny!!",
+                "text": "Tronny !!"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/126/message": {
+                "orig": "Saw it again...\\. that person...",
+                "text": "... Je l'ai encore vue...\\. cette personne..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/128/message": {
+                "orig": "Just...\\. breathe slowly or something, okay?",
+                "text": "Essaye...\\. euh...\\. de respirer lentement, OK ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/130/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/131/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/140/message": {
+                "orig": "This is frustrating...",
+                "text": "C'est frustrant..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/142/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/143/message": {
+                "orig": "Meet...\\. where?",
+                "text": "Rencontrer...\\. Où ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/144/message": {
+                "orig": "Huh?",
+                "text": "Hein ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/146/message": {
+                "orig": "Right...\\. You said you met that person in Evotarground.",
+                "text": "Oui...\\. Tu disais que tu as rencontré cette personne sur le Terrain des Évotars."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/147/message": {
+                "orig": "Was it in this room?",
+                "text": "C'était dans cette pièce ?"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/148/message": {
+                "orig": "No...\\. It was somewhere else.",
+                "text": "Non...\\. C'était ailleurs."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/149/message": {
+                "orig": "Right, I remember!",
+                "text": "Oui, je m'en souviens !"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/159/text": {
+                "orig": "Section unlocked.",
+                "text": "Section déverrouillée."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/164/message": {
+                "orig": "That room is not accessible by default.\\. I just opened it.",
+                "text": "Cette salle n'est pas accessible par défaut.\\. Je viens de l'ouvrir."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/28/settings/event/165/message": {
+                "orig": "Let's go there!",
+                "text": "Allons-y !"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/12/message": {
+                "orig": "The message I recorded for myself...",
+                "text": "Ce message, que je me suis enregistré pour moi-même..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/13/message": {
+                "orig": "It told me about a prolonged playing session.",
+                "text": "Il me parlait d'une session de jeu prolongée."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/14/message": {
+                "orig": "That I used a special connection to the game.",
+                "text": "Que j'utilisais une connexion spéciale au jeu."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/15/message": {
+                "orig": "And that my memory would be fuzzy because of it.",
+                "text": "Et que ma mémoire serait floue à cause de ça."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/21/message": {
+                "orig": "I...\\. just accepted it. \n",
+                "text": "Je...\\. j'y ai cru."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/22/message": {
+                "orig": "And did as I told myself.",
+                "text": "Et j'ai fais ce que je me suis dit."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/33/message": {
+                "orig": "Days and weeks went by...",
+                "text": "Des jours et des semaines passèrent..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/34/message": {
+                "orig": "Spying on other players.",
+                "text": "À espionner d'autres joueurs."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/35/message": {
+                "orig": "Sending intel, coordinating interrogations.",
+                "text": "À envoyer des renseignements, à coordonner des interrogatoires."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/36/message": {
+                "orig": "But as my memory returned,\\. I realized...",
+                "text": "Mais lorsque ma mémoire revenait,\\. Je me suis rendu compte..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/38/message": {
+                "orig": "That I was Sidwell no longer.",
+                "text": "Que je n'étais plus Sidwell."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/39/message": {
+                "orig": "That I was stuck in the game.",
+                "text": "Que j'étais coincé dans le jeu."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/40/message": {
+                "orig": "I...\\. myself...\\. was an Evotar.\n",
+                "text": "Que...\\. moi-même...\\. j'étais un Évotar."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/30/settings/event/41/message": {
+                "orig": "And I was working...\\. for Sidwell.",
+                "text": "Et que je travaillais...\\. pour Sidwell."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/5/message": {
+                "orig": "Let me have a look.",
+                "text": "Laissez-moi regarder."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/14/message": {
+                "orig": "Yes...\\. it's still here. My \\c[3]former user id\\c[0].",
+                "text": "Oui...\\. il est toujours là. Mon \\c[3]ancien ID utilisateur\\c[0]."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/19/message": {
+                "orig": "It was on the day that Lea escaped from Evotarground.",
+                "text": "C'était le jour où Lea s'est échappée du Terrain des Évotars."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/21/message": {
+                "orig": "That day...\\. really changed everything.",
+                "text": "Ce jour...\\. a vraiment tout changé."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/22/message": {
+                "orig": "It seemed like the whole interrogation business was bound to break down.",
+                "text": "Il semblait que le programme d'interrogatoire entier était sur le point de tomber à l'eau.",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/23/message": {
+                "orig": "And Lea's reappearance strongly hinted toward an elaborate mission to find and rescue Satoshi.",
+                "text": "Et que la réapparition de Lea était un indice sérieux qu'une mission ingénieuse se préparait pour retrouver et récupérer Satoshi."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/24/message": {
+                "orig": "To achieve that... they'd have to secure the Evotarserver.",
+                "text": "Pour y arriver... il faudrait qu'ils sécurisent le serveur des Évotars."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/25/message": {
+                "orig": "And potentially... save all the Evotars on it.",
+                "text": "Et potentiellement... sauvegarder tous les Évotars."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/26/message": {
+                "orig": "Unfortunately...",
+                "text": "Malheureusement..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/27/message": {
+                "orig": "Sidwell's Evotars, as I would eventually recall, have been stored on a separate server.",
+                "text": "J'ai fini par me rappeler que les Évotars de Sidwell étaient stockés sur un serveur séparé."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/28/message": {
+                "orig": "Hardly anyone even knew about it, so its data was likely to be lost.",
+                "text": "Quasiment personne le savait, donc ses données seraient sans doute perdues."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/29/message": {
+                "orig": "So...",
+                "text": "Donc..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/30/message": {
+                "orig": "In order to have any chance of being rescued...",
+                "text": "Pour que j'ai la moindre chance d'être sauvé..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/31/message": {
+                "orig": "I'd have to migrate to the main Evotarserver.",
+                "text": "Il fallait que je migre vers le Serveur des Évotars principal."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/32/message": {
+                "orig": "And there was just one way to do that.",
+                "text": "Et il y avait qu'un seul moyen d'y arriver."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/37/message": {
+                "orig": "To create a \\c[3]new Evotar\\c[0]...\\. based on myself.",
+                "text": "Il fallait que je crée un \\c[3]nouvel Évotar\\c[0]...\\. basé sur moi-même."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/38/message": {
+                "orig": "I honestly wasn't sure if it would even work.",
+                "text": "Honnêtement, je n'étais même pas sûr si ça fonctionnerait."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/39/message": {
+                "orig": "I just did it.",
+                "text": "Je l'ai juste fait."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/40/message": {
+                "orig": "I submitted my own user id as a potential interrogation target.",
+                "text": "J'ai soumis mon propre ID utilisateur comme cible potentielle pour un interrogatoire."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/41/message": {
+                "orig": "Fortunately without Sidwell taking any notice.",
+                "text": "Heureusement, sans que Sidwell ne s'en aperçoive."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/42/message": {
+                "orig": "And thus...\\. a new Evotar was created.",
+                "text": "Et donc...\\. un nouvel Évotar fut crée."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/48/message": {
+                "orig": "And that's who I am.",
+                "text": "Et c'est ce que je suis."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/49/message": {
+                "orig": "That is why I'm still here.",
+                "text": "C'est pour ça que je suis encore là."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/53/message": {
+                "orig": "Wait...",
+                "text": "Attends..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/54/message": {
+                "orig": "Wait, wait, wait....",
+                "text": "Attends, attends, attends..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/55/message": {
+                "orig": "So you're an Evotar...\\. of an Evotar...\\. of Sidwell?!",
+                "text": "Donc tu es un Évotar...\\. d'un Évotar...\\. de Sidwell ?!"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/56/message": {
+                "orig": "That's right.",
+                "text": "Oui, c'est ça."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/57/message": {
+                "orig": "What.",
+                "text": "Quoi."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json/entities/31/settings/event/58/message": {
+                "orig": "No...\\. no way.",
+                "text": "Non...\\. C'est pas possible..."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-05-junction.json/entities/23/settings/event/13/message": {
+                "orig": "Dice mages?!",
+                "text": "Des magiciens de dés ?!"
+        },
+        "extension/post-game/data/maps/arid/lab/ug-05-junction.json/entities/24/settings/event/10/message": {
+                "orig": "Funny dice mage...\\. annoying to punch, though.",
+                "text": "Curieux ces magiciens de dés...\\. Et difficiles à cogner."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-05-junction.json/entities/27/settings/event/1/message": {
+                "orig": "But there was nothing I could do about it... so I just played along.",
+                "text": "Mais je ne pouvais rien y faire... donc j'ai joué le jeu."
+        },
+        "extension/post-game/data/maps/arid/lab/ug-05-junction.json/entities/27/settings/event/2/message": {
+                "orig": "I suppose this is usually what we clones did.",
+                "text": "J'imagine que c'est ce que les clones faisaient habituellement."
+        }
+}
