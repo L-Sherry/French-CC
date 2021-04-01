@@ -2262,6 +2262,30 @@
                 "orig": "More instances? Makes you wonder why they split you up so much in an MMO.",
                 "text": "Encore une instance ? Je me demande pourquoi ils nous séparent autant dans un MMO."
         },
+        "database.json/commonEvents/call-instance-comments/event/2/8_0/0/message": {
+                "orig": "An instance?\\. How very creative.",
+                "text": "Une instance ?\\. Quelle riche idée."
+        },
+        "database.json/commonEvents/call-instance-comments/event/2/9_0/0/message": {
+                "orig": "Yep, this sure is another instance. Don't get too scared without me holding your hand.",
+                "text": "Ouais, c'est bien encore une autre instance. Tu vas devoir continuer sans que je te tienne la main."
+        },
+        "database.json/commonEvents/call-instance-comments/event/2/10_0/0/message": {
+                "orig": "Ah, an Instanz. Gotta fly solo for a bit.",
+                "text": "Ah, une instance. Il va falloir jouer en solo pendant un moment."
+        },
+        "database.json/commonEvents/call-instance-comments/event/2/11_0/0/message": {
+                "orig": "Ach, verdamnit, another Instanz. Give us some more team-challenges, devs!",
+                "text": "Ach, verdamnit, encore une instance.  Donnez-nous un peu de défi en équipe, les devs !"
+        },
+        "database.json/commonEvents/call-instance-comments/event/2/12_0/0/message": {
+                "orig": "Ah, an Instanz. Gotta fly solo for a bit.",
+                "text": "Ah, une instance. Il va falloir jouer en solo pendant un moment."
+        },
+        "database.json/commonEvents/call-instance-comments/event/2/13_0/0/message": {
+                "orig": "Beep, boop. I bims, player-bot Lukas. Entering 1 instance after the next.",
+                "text": "Bip, bop. I bims, joueur-robot Lukas. Entre dans 1 instance après l'autre."
+        },
         "database.json/commonEvents/call-test/event/1/thenStep/0/message": {
                 "orig": "Run #1!",
                 "text": "Étape n° 1 !"
@@ -3902,6 +3926,32 @@
                 "orig": "Aren't games supposed to be...\\. like...\\. recreational?\\. Was this recreational to you?",
                 "text": "Un jeu c'est pas supposé être...\\. genre...\\. amusant ?\\. C'était amusant pour toi, ça ?"
         },
+        "database.json/commonEvents/shizuka-battle-over-S/event/0/0_0/0/message": {
+                "orig": "Pretty good run. But you are my copy after all.",
+                "text": "Il est joli cet enchaînement.  Mais c'est normal, tu es mon clone après tout."
+        },
+        "database.json/commonEvents/shizuka-battle-over-S/event/0/0_1/0/message": {
+                "orig": "That sure was relaxing. Can't get this kinda workout when watching over my brother.",
+                "text": "C'était très relaxant. C'était presque des vacances en comparaison avec les sessions avec mon frère.",
+                "quality": "bad",
+                "note": "this de, but it's hard to convey anyway."
+        },
+        "database.json/commonEvents/schneider-battle-over-S/event/0/0_0/0/message": {
+                "orig": "Meine Güte, you sure let off some steam.",
+                "text": "Meine Güte, il fallait que tu te défoules un peu...."
+        },
+        "database.json/commonEvents/schneider-battle-over-S/event/0/0_1/0/message": {
+                "orig": "And I thought this would never end...",
+                "text": "Et moi qui pensait que ça ne finirait jamais..."
+        },
+        "database.json/commonEvents/luker-battle-over-S/event/0/0_0/0/message": {
+                "orig": "Meine Güte, you sure let off some steam.",
+                "text": "Meine Güte, il fallait que tu te défoules un peu...."
+        },
+        "database.json/commonEvents/luker-battle-over-S/event/0/0_1/0/message": {
+                "orig": "And I thought this would never end...",
+                "text": "Et moi qui pensait que ça ne finirait jamais..."
+        },
         "database.json/commonEvents/schneider+luke-battle-over/event/0/thenStep/0/message": {
                 "orig": "So it seems like Lea requires twice the Schneider power for today's battles!",
                 "text": "Donc on dirait que Lea a besoin du double de puissance de Schneider pour les combats en ce moment !"
@@ -4373,6 +4423,62 @@
                 "orig": "So much killing...\\. Are you trying to make a case for violence in video games, Lea?",
                 "text": "Tant de morts...\\. Tu essaies de remettre en cause la violence dans les jeux vidéos, Lea ?"
         },
+        "database.json/commonEvents/cooldown-S/event/0/4_0/0/0_0/0/message": {
+                "orig": "Trying extra hard to impress your original?",
+                "text": "T'essayes très fort d'impressionner ton originale ?"
+        },
+        "database.json/commonEvents/cooldown-S/event/0/4_0/0/0_1/0/message": {
+                "orig": "Let's see who gets more.",
+                "text": "Maintenant on va voir qui va en faire le plus."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/4_0/0/0_1/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "database.json/commonEvents/cooldown-S/event/0/4_0/0/0_2/0/message": {
+                "orig": "Ah, just like old times.",
+                "text": "Ah, comme au bon vieux temps."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/5_0/0/0_0/0/message": {
+                "orig": "In the mood for some competetive gaming today, aren't you?",
+                "text": "Aujourd'hui tu as l'air d'en vouloir, hein ?"
+        },
+        "database.json/commonEvents/cooldown-S/event/0/5_0/0/0_0/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "database.json/commonEvents/cooldown-S/event/0/5_0/0/0_1/0/message": {
+                "orig": "More like, \"Still waters are deadly.\"...",
+                "text": "En fait, \"les eaux calmes sont mortelles.\"..."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/5_0/0/0_1/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/5_0/0/0_2/0/message": {
+                "orig": "I need to get some rest at some point...",
+                "text": "Il va falloir que je me repose à un moment..."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/6_0/0/0_0/0/message": {
+                "orig": "In the mood for some competetive gaming today, aren't you?",
+                "text": "Aujourd'hui tu as l'air d'en vouloir, hein ?"
+        },
+        "database.json/commonEvents/cooldown-S/event/0/6_0/0/0_0/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "database.json/commonEvents/cooldown-S/event/0/6_0/0/0_1/0/message": {
+                "orig": "More like, \"Still waters are deadly.\"...",
+                "text": "En fait, \"les eaux calmes sont mortelles.\"..."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/6_0/0/0_1/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "database.json/commonEvents/cooldown-S/event/0/6_0/0/0_2/0/message": {
+                "orig": "Well, it's not like we have much else to do, eh?",
+                "text": "D'un autre côté... pourquoi pas ? C'est pas comme si on avait grand chose à faire, hein ?"
+        },
         "database.json/commonEvents/cooldown-A/event/0/0_0/0/message": {
                 "orig": "Mon dieu! You just keep going!",
                 "text": "Mon dieu ! Et tu continues !"
@@ -4389,6 +4495,31 @@
                 "orig": "Are we done yet?",
                 "text": "C'est bon, on a fini ?"
         },
+        "database.json/commonEvents/cooldown-A/event/0/4_0/0/0_0/0/message": {
+                "orig": "Don't you slow down, we're just warming up.",
+                "text": "Te relâche pas, on était juste en train de s'échauffer."
+        },
+        "database.json/commonEvents/cooldown-A/event/0/4_0/0/1_0/0/message": {
+                "orig": "Now we're talking.",
+                "text": "Maintenant on peut causer.",
+                "note": "de didn't get the joke?"
+        },
+        "database.json/commonEvents/cooldown-A/event/0/4_0/0/1_0/1/message": {
+                "orig": "... How?",
+                "text": "... Comment ?"
+        },
+        "database.json/commonEvents/cooldown-A/event/0/4_0/0/1_0/2/message": {
+                "orig": "Sorry, my mistake. Let's just kill things.",
+                "text": "Désolé, je me suis trompé.  Allons juste dégommer des trucs."
+        },
+        "database.json/commonEvents/cooldown-A/event/0/5_0/0/message": {
+                "orig": "Jawoll, let's get serious!",
+                "text": "Jawoll, c'est parti !"
+        },
+        "database.json/commonEvents/cooldown-A/event/0/6_0/0/message": {
+                "orig": "Jawoll, let's get serious!",
+                "text": "Jawoll, c'est parti !"
+        },
         "database.json/commonEvents/cooldown-B/event/0/0_0/0/message": {
                 "orig": "Yeah! We're on a roll!",
                 "text": "Yeah ! On est sur notre lancée !"
@@ -4404,6 +4535,18 @@
         "database.json/commonEvents/cooldown-B/event/0/3_0/0/message": {
                 "orig": "Those were a lot of enemies at once.",
                 "text": "Ça fait beaucoup d'ennemis en même temps."
+        },
+        "database.json/commonEvents/cooldown-B/event/0/4_0/0/message": {
+                "orig": "Hungry for loot, eh? Fine by me.",
+                "text": "Avide de butin, hein ? Ça me va."
+        },
+        "database.json/commonEvents/cooldown-B/event/0/5_0/0/message": {
+                "orig": "You want to get some grinding done?",
+                "text": "Tu veux grinder un peu ?"
+        },
+        "database.json/commonEvents/cooldown-B/event/0/6_0/0/message": {
+                "orig": "Alright, let's do some workout with these new bodies.",
+                "text": "OK, faisons un peu d'exercice avec nos nouveaux corps."
         },
         "database.json/commonEvents/emilie-samurai-bug-end/event/0/thenStep/0/message": {
                 "orig": "ARE THEY GONE?! PLEASE TELL ME THEY'RE GONE.",
@@ -5999,13 +6142,123 @@
                 "orig": "Got new gear, whoop whoop.",
                 "text": "Du nouvel équipement, youpi."
         },
+        "database.json/commonEvents/shizuka-dies/event/0/0_0/0/message": {
+                "orig": "Damn input lag...",
+                "text": "Satané lag des inputs..."
+        },
+        "database.json/commonEvents/shizuka-dies/event/0/0_1/0/message": {
+                "orig": "Oh, come on... Lea, get them!",
+                "text": "Roh, bon sang... Lea, choppe les !"
+        },
+        "database.json/commonEvents/shizuka-dies/event/0/1_0/0/message": {
+                "orig": "Fall damage? How very creative.",
+                "text": "On prend des dégâts en tombant ? C'est très original."
+        },
+        "database.json/commonEvents/shizuka-dies/event/0/1_1/0/message": {
+                "orig": "Oh, this game is still full of stupid deathtraps...",
+                "text": "Oh, ce jeu est encore rempli de pièges mortels stupides..."
+        },
+        "database.json/commonEvents/shizuka-revived/event/0/0_0/0/message": {
+                "orig": "You still aren't done, Lea? Guess I'll handle it then.",
+                "text": "T'as toujours pas terminé, Lea ? Alors je vais m'en occuper."
+        },
+        "database.json/commonEvents/shizuka-revived/event/0/0_1/0/message": {
+                "orig": "Time for some revenge, you piles of instant matter.",
+                "text": "Maintenant je vais me venger, bandes de tas d'instant-matière !"
+        },
+        "database.json/commonEvents/shizuka-revived/event/0/1_0/0/message": {
+                "orig": "Oh, I guess you cleaned up already. Nice job.",
+                "text": "Oh, j'imagine que tu as tout nettoyé. Bon travail."
+        },
+        "database.json/commonEvents/shizuka-revived/event/0/1_1/0/message": {
+                "orig": "I need to spend more time playing. Getting rusty.",
+                "text": "Il faut que je prenne plus de temps pour jouer. Je rouille un peu."
+        },
+        "database.json/commonEvents/shizuka-equip/event/0/message": {
+                "orig": "Got some new gear. Let's see how the powercreep developed.",
+                "text": "J'ai du nouvel équipement.  Voyons voir comment se répercute le gonflage de stats."
+        },
+        "database.json/commonEvents/schneider-dies/event/0/0_0/0/message": {
+                "orig": "Oh. verdammte Axt. Sorry Lea, I need a minute.",
+                "text": "Oh, verdammte Axt. Désolé Lea, j'ai besoin d'une minute."
+        },
+        "database.json/commonEvents/schneider-dies/event/0/0_1/0/message": {
+                "orig": "Dreck, I walked right into that one.",
+                "text": "Dreck, j'ai marché en plein dedans."
+        },
+        "database.json/commonEvents/schneider-dies/event/0/1_0/0/message": {
+                "orig": "Well, this is not exactly build according to safety regulations.",
+                "text": "Bon, ça ne respecte pas vraiment les normes de sûreté."
+        },
+        "database.json/commonEvents/schneider-dies/event/0/1_1/0/message": {
+                "orig": "Woops, I guess I slipped.",
+                "text": "Ooups, j'ai glissé, chef.",
+                "note": "well, it's SO inviting to diverge here."
+        },
+        "database.json/commonEvents/schneider-revived/event/0/0_0/0/message": {
+                "orig": "Hey, Lea, I'm back. Let's get this battle over with.",
+                "text": "Hé, Lea, je suis de retour.  Finissons ce combat."
+        },
+        "database.json/commonEvents/schneider-revived/event/0/0_1/0/message": {
+                "orig": "Ah, you still left some enemies for me, how nice.",
+                "text": "Ah, tu m'as gardé des ennemis pour moi, c'est sympa."
+        },
+        "database.json/commonEvents/schneider-revived/event/0/1_0/0/message": {
+                "orig": "Oh, I guess you cleaned up already. Nice job.",
+                "text": "Oh, j'imagine que tu as tout nettoyé. Bon travail."
+        },
+        "database.json/commonEvents/schneider-revived/event/0/1_1/0/message": {
+                "orig": "I need to get it together. Can't let the newbie overshadow me like that.",
+                "text": "Il faut que je me reprenne. Je peux pas laisser la newbie me faire de l'ombre."
+        },
         "database.json/commonEvents/schneider-revived/event/0/1_1/1/message": {
                 "orig": "...",
                 "text": "..."
         },
+        "database.json/commonEvents/schneider-equip/event/0/message": {
+                "orig": "Bought some shiny new gear. Wunderbar!",
+                "text": "J'ai acheté du nouvel équipement flambant neuf. Wunderbar !"
+        },
+        "database.json/commonEvents/luke-dies/event/0/0_0/0/message": {
+                "orig": "Oh. verdammte Axt. Sorry Lea, I need a minute.",
+                "text": "Oh, verdammte Axt. Désolé Lea, j'ai besoin d'une minute."
+        },
+        "database.json/commonEvents/luke-dies/event/0/0_1/0/message": {
+                "orig": "Dreck, I walked right into that one.",
+                "text": "Dreck, j'ai marché en plein dedans."
+        },
+        "database.json/commonEvents/luke-dies/event/0/1_0/0/message": {
+                "orig": "We're sure living in a dangerous world here...",
+                "text": "On vit vraiment dans un monde dangereux ici..."
+        },
+        "database.json/commonEvents/luke-dies/event/0/1_1/0/message": {
+                "orig": "Woops, I guess I slipped.",
+                "text": "Ooups, j'ai glissé, chef.",
+                "note": "well, it's SO inviting to diverge here."
+        },
+        "database.json/commonEvents/luke-revived/event/0/0_0/0/message": {
+                "orig": "Hey, Lea, I'm back. Let's get this battle over with.",
+                "text": "Hé, Lea, je suis de retour.  Finissons ce combat."
+        },
+        "database.json/commonEvents/luke-revived/event/0/0_1/0/message": {
+                "orig": "Ah, you still left some enemies for me, how nice.",
+                "text": "Ah, tu m'as gardé des ennemis pour moi, c'est sympa."
+        },
+        "database.json/commonEvents/luke-revived/event/0/1_0/0/message": {
+                "orig": "Oh, I guess you cleaned up already. Nice job.",
+                "text": "Oh, j'imagine que tu as tout nettoyé. Bon travail."
+        },
+        "database.json/commonEvents/luke-revived/event/0/1_1/0/message": {
+                "orig": "Should've just taken a nap with you handling this.",
+                "text": "J'aurais dû me reposer pendant que tu t'en occupais."
+        },
         "database.json/commonEvents/luke-revived/event/0/1_1/1/message": {
                 "orig": "...",
                 "text": "..."
+        },
+        "database.json/commonEvents/luke-equip/event/0/message": {
+                "orig": "Upgraded my gear. Would be nice to get a change of fashion too, living in the game and all.",
+                "text": "J'ai amélioré mon équipement. Ça serait bien de changer de style aussi, vu que je vis dans le jeu et tout."
         },
         "database.json/commonEvents/all-dng-enter/event/1/thenStep/1/0_0/0/message": {
                 "orig": "Lea? Where did you go? Did you just teleport into a dungeon or something?",
@@ -17377,6 +17630,11 @@
                 "orig": "--\nIf team is correct, we have some new tech allowing any matter to be controlled. Not sure how far the research is. Team is stilling puzzling on the specifics. We'll return home and bring the vessel along.\n--\nCaptain Manfred McFly \nInstatainment ACF Salvager 25-b ",
                 "text": "--\nSi mon équipe a raison, on a une nouvelle technologie qui permet de contrôler n'importe quelle matière. Pas encore sûr de l'avancement des recherches.  L'équipe essaie encore de comprendre les détails. On va rentrer chez nous et apporter le vaisseau avec nous.\n--\nCapitaine Manfred McFly\nRécupérateur AFC Instatainment 25-b"
         },
+        "database.json/names/0/name": {
+                "orig": "Yui2Qt",
+                "text": "YuiTroCanon",
+                "note": "lulz"
+        },
         "database.json/names/1/name": {
                 "orig": "Akasan",
                 "text": "Akasan"
@@ -23284,6 +23542,14 @@
                 "orig": "Equipment",
                 "text": "Équipement"
         },
+        "database.json/shops/goatShop/name": {
+                "orig": "Goat Zira's Shop",
+                "text": "Magasin du Chevreau Zira"
+        },
+        "database.json/shops/goatShop/pages/0/title": {
+                "orig": "Menu",
+                "text": "Menu"
+        },
         "database.json/traders/vermillionHeal1/name": {
                 "orig": "Vermillion Heals",
                 "text": "Guérisons de Vermillion"
@@ -23827,6 +24093,34 @@
         "database.json/traders/rhombusBuffsWrapRolls/name": {
                 "orig": "Rhombus Wraps & Rolls",
                 "text": "Wraps & Rouleaux de Rhombus"
+        },
+        "database.json/traders/rhombusBuffsElements/name": {
+                "orig": "Rhombus Elemental Buffs",
+                "text": "Buffs Élémentaires de Rhombus"
+        },
+        "database.json/traders/rhombusBuffsSpecial/name": {
+                "orig": "Rhombus Special Buffs",
+                "text": "Buffs Spéciaux de Rhombus"
+        },
+        "database.json/traders/rhombusVeggieSets1/name": {
+                "orig": "Veggie Global #1",
+                "text": "Légumes du Monde n°1"
+        },
+        "database.json/traders/rhombusVeggieSets2/name": {
+                "orig": "Veggie Global #2",
+                "text": "Légumes du Monde n°2"
+        },
+        "database.json/traders/rhombusFruitSets1/name": {
+                "orig": "Fruit Global #1",
+                "text": "Fruits du Monde n°1"
+        },
+        "database.json/traders/rhombusFruitSets2/name": {
+                "orig": "Fruit Global #2",
+                "text": "Fruits du Monde n°2"
+        },
+        "database.json/traders/rhombusSpiceSets1/name": {
+                "orig": "Spice Global",
+                "text": "Épices du Monde"
         },
         "database.json/traders/rhombusPostWeapon1/name": {
                 "orig": "Rhombus Elite Weapons",
