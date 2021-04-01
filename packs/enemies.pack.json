@@ -1263,8 +1263,8 @@
                 "text": "STOP"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/MarkTarget/4/text": {
-                "orig": "[TARGET]",
-                "text": "[CIBLE]"
+                "orig": "[ TARGET ]",
+                "text": "[ CIBLE ]"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/AntiTurretShot/12/text": {
                 "orig": "[ Targetting Turret! ]",
@@ -2484,8 +2484,8 @@
                 "text": "Machinerie"
         },
         "enemies/jungle/special/capture-cage-1.json/actions/shockHitActivate/8/text": {
-                "orig": "[Searching target]",
-                "text": "[Recherche de cibles]"
+                "orig": "[ SEARCHING TARGET ]",
+                "text": "[ RECHERCHE DE CIBLE ]"
         },
         "enemies/jungle/special/capture-cage-1.json/actions/startCapture/1/thenStep/8/thenStep/0/text": {
                 "orig": "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )",
@@ -2702,10 +2702,6 @@
         "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesExplosion/action/18/missed/0/hit/0/text": {
                 "orig": "boom effects?",
                 "text": "effets d'explosions ?"
-        },
-        "enemies/jungle/special/parrot-gangster-boss-1.json/actions/CircleToCenter/0/text": {
-                "orig": "( TO CENTER )",
-                "text": "( AU CENTRE )"
         },
         "enemies/jungle/special/parrot-gangster-boss-1.json/actions/GangsterShootCover/15/text": {
                 "orig": "[Shooting...]",

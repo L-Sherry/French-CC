@@ -164,39 +164,39 @@
                 "orig": "So you better get these ruffians arrested now.",
                 "text": "Donc vous feriez mieux d'arrêter ces fripouilles sur le champ."
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/21/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/27/message": {
                 "orig": "... Meet!?",
                 "text": "... Rencontrer !?"
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/22/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/28/message": {
                 "orig": "Me?\\. I got me my foot hurt, so keeping them in place was the best I could do.\\. I will cheer for you though!",
                 "text": "Moi ?\\. Je me suis blessé au pied, donc le mieux que j'ai pu faire, c'était de les maintenir ici.\\. Je vais t'encourager par contre !"
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/23/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/29/message": {
                 "orig": "...",
                 "text": "..."
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/36/name": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/42/name": {
                 "orig": "Guard Petra",
                 "text": "Garde Petra"
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/38/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/44/message": {
                 "orig": "Wait!",
                 "text": "Attends !"
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/39/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/45/message": {
                 "orig": "Arr, curses, that crate got away!\\. Who knows what darn things were inside!",
                 "text": "Arr, bon sang, cette caisse est partie !\\. Qui sait ce qu'il pouvait y avoir là-dedans !"
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/40/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/46/message": {
                 "orig": "...",
                 "text": "..."
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/41/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/47/message": {
                 "orig": "Well, you better still clean up the area.\\. I must take a rest to tend to my wounds!",
                 "text": "Bon, tu ferais mieux de sécuriser la zone.\\. Je dois me reposer pour m'occuper de mes plaies !"
         },
-        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/42/message": {
+        "maps/bergen-trail/path-7-2.json/entities/276/settings/event/48/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
@@ -241,12 +241,13 @@
                 "text": "[acquiesce]"
         },
         "maps/bergen-trail/path-7-2.json/entities/277/settings/event/29/message": {
-                "orig": "Well, gotta bounce and get some time off.\\. Good luck, \\v[lore.title.seeker]",
-                "text": "Bon, il faut que je me barre et que je fasse une pause.\\. Bonne chance, \\v[lore.title.seeker]."
+                "orig": "Well, gotta bounce and get some time off.\\. Cheerio, \\v[lore.title.seeker]!",
+                "text": "Bon, il faut que je me barre et que je fasse une pause.\\. Cheerio, \\v[lore.title.seeker] !",
+                "quality": "unknown"
         },
-        "maps/bergen-trail/path-7-2.json/entities/277/settings/event/33/message": {
-                "orig": "... bye",
-                "text": "... bye"
+        "maps/bergen-trail/path-7-2.json/entities/277/settings/event/35/message": {
+                "orig": "... bye.",
+                "text": "... bye."
         },
         "maps/bergen-trail/path-7-2.json/entities/279/settings/analyzable/text": {
                 "orig": "Guard",

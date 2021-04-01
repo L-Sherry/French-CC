@@ -394,12 +394,12 @@
                 "text": "Oh, OK.\\. Je vais vous attendre ici."
         },
         "extension/post-game/data/maps/beach/path-02.json/entities/880/settings/npcStates/1/event/quest/7/options/0/label": {
-                "orig": "Yes",
-                "text": "Oui"
+                "orig": "\\c[2]Yes\\c[0]",
+                "text": "\\c[2]Oui\\c[0]"
         },
         "extension/post-game/data/maps/beach/path-02.json/entities/880/settings/npcStates/1/event/quest/7/options/1/label": {
-                "orig": "No",
-                "text": "Non"
+                "orig": "\\c[1]No\\c[0]",
+                "text": "\\c[1]Non\\c[0]"
         },
         "extension/post-game/data/maps/beach/path-02.json/entities/880/settings/npcStates/3/event/quest/4/name": {
                 "orig": "Linde",
@@ -459,11 +459,11 @@
                 "text": "OK, je vais attendre jusqu'à que vous soyez prête.\\. Mais ne prenez pas trop de temps, l'énergie ici semble assez volatile."
         },
         "extension/post-game/data/maps/beach/path-02.json/entities/880/settings/npcStates/3/event/quest/7/options/0/label": {
-                "orig": "Yes",
-                "text": "Oui"
+                "orig": "\\c[2]Yes\\c[0]",
+                "text": "\\c[2]Oui\\c[0]"
         },
         "extension/post-game/data/maps/beach/path-02.json/entities/880/settings/npcStates/3/event/quest/7/options/1/label": {
-                "orig": "No",
-                "text": "Non"
+                "orig": "\\c[1]No\\c[0]",
+                "text": "\\c[1]Non\\c[0]"
         }
 }

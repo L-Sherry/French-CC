@@ -487,15 +487,15 @@
                 "orig": "So please, \\v[lore.title.seeker], return to their cave and find out what happened.",
                 "text": "Donc, s'il te plait, \\v[lore.title.seeker], retourne dans leur cave et cherche ce qu'il s'est passé là-dedans."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/10/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/12/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/11/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/13/message": {
                 "orig": "Good.\\. We will await your report soon.",
                 "text": "Bien.\\. Nous attendons ton rapport sous peu."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/12/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/14/message": {
                 "orig": "Bye.",
                 "text": "Bye."
         },
@@ -600,63 +600,63 @@
                 "orig": "You will need their cooperation to solve this case.",
                 "text": "Tu auras besoin de leur coopération pour résoudre cette affaire."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/0/name": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/0/name": {
                 "orig": "Sgt. Sterling",
                 "text": "Sergent Sterling"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/2/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/2/message": {
                 "orig": "Hi!",
                 "text": "Salut !"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/3/message": {
-                "orig": "\\v[lore.title.seeker], I have already heard the reports.\\. It seems like you travelled half of Shadoon to crack this case.",
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/3/message": {
+                "orig": "\\v[lore.title.seeker], I have already heard the reports.\\. It feels like you travelled half of Shadoon to crack this case.",
                 "text": "\\v[lore.title.seeker], j'ai déjà entendu les rapports.\\. On dirait que vous avez voyagé à travers la moitié de shadoon pour résoudre cette affaire."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/4/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/4/message": {
                 "orig": "...",
                 "text": "..."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/5/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/5/message": {
                 "orig": "Impressive work.\\. It seems like coexistence with the goats actually was possible.\\. After some persuasion.",
                 "text": "Un travail admirable.\\. On dirait que la coexistence avec les boucs est réellement possible.\\. Avec un peu de persuasion."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/6/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/7/message": {
                 "orig": "...!",
                 "text": "... !"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/7/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/8/message": {
                 "orig": "Well, whatever the case, it is now in the hands of \\v[area.rhombus-sqr.name].",
                 "text": "Bon, peu importe, maintenant l'affaire est dans les mains de \\v[area.rhombus-sqr.name]."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/8/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/9/message": {
                 "orig": "Hopefully the goats finally found a home there without causing further trouble.",
                 "text": "Espérons que les boucs ont enfin trouvé un habitat là-bas sans causer d'autres ennuis."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/9/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/10/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/10/message": {
-                "orig": "As for you, you have once again our thanks and this reward.\\. Bergen Village is in your debt!",
-                "text": "Et pour vous, vous avez encore une fois nos remerciements et cette récompense.\\. Le \\v[area.bergen.name] a encore une dette envers vous !"
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/11/message": {
+                "orig": "As for you, you have once again earned our thanks and this reward.\\. Bergen Village is in your debt!",
+                "text": "Et pour vous, vous méritez une fois de plus nos remerciements et cette récompense.\\. Le \\v[area.bergen.name] a encore une dette envers vous !"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/quest/11/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/12/message": {
                 "orig": "Bye!",
                 "text": "Bye !"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/0/name": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/17/event/0/name": {
                 "orig": "Sgt. Sterling",
                 "text": "Sergent Sterling"
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/2/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/17/event/2/message": {
                 "orig": "Greetings from the \\c[3]Bergen Guard\\c[0], \\v[lore.title.seeker].",
                 "text": "Toutes mes amitiés de la \\c[3]Garde de Bergen\\c[0], \\v[lore.title.seeker]."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/3/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/17/event/3/message": {
                 "orig": "Everything is quiet right now, so there is no need to trouble yourself.",
                 "text": "Tout va bien pour le moment, donc il n'y a aucune raison de te tracasser."
         },
-        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/4/message": {
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/17/event/4/message": {
                 "orig": ".\\..\\..",
                 "text": ".\\..\\.."
         },

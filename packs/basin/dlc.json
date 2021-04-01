@@ -1,7 +1,7 @@
 {
         "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/analyzable/text": {
-                "orig": "en_US",
-                "text": "fr_FR"
+                "orig": "Barkeep",
+                "text": "Barman"
         },
         "maps/jungle-city/special/parrot-hq-1.json/entities/13/settings/npcStates/0/event/1/name": {
                 "orig": "Barkeep",
@@ -31,65 +31,77 @@
                 "orig": "...",
                 "text": "..."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/3/name": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/15/settings/npcStates/0/event/quest/3/name": {
                 "orig": "Suspicious Trader",
                 "text": "Marchand Suspect"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/5/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/15/settings/npcStates/0/event/quest/5/message": {
                 "orig": "WAIT!!",
                 "text": "ATTENDS !!"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/7/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/15/settings/npcStates/0/event/quest/7/message": {
                 "orig": "Squawk!\\. Human!\\. \\v[lore.title.seeker]!\\. Danger!!",
                 "text": "Croa Croa !\\. Humain !\\. \\v[lore.title.seeker] !\\. Danger !!"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/16/settings/npcStates/0/event/quest/9/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/15/settings/npcStates/0/event/quest/9/message": {
                 "orig": "...!",
                 "text": "... !"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/4/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/4/message": {
                 "orig": "Hi.",
                 "text": "Salut."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/5/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/5/message": {
                 "orig": "Y-yes, hello?\\. Can we help you?",
                 "text": "O-oui, bonjour ?\\. Est-ce qu'on peut vous aider ?"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/6/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/6/message": {
                 "orig": "Dear, please.\\. No, we are not buying anything.\\. Now please let us eat in peace.",
                 "text": "Rah, s'il vous plait.\\. Non, on achète rien.\\. Maintenant si vous pouviez nous laisser manger tranquille."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/7/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/7/message": {
                 "orig": "Why...?",
                 "text": "Pourquoi... ?"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/8/message": {
-                "orig": "Oh, by the... Dear, why did we have to go to this shady place?",
-                "text": "Oh, pour l'amour du ciel... Chéri, pourquoi il a fallu qu'on aille dans ce trou minable ?"
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/8/message": {
+                "orig": "Oh, by the...\\.\\. Dear, why did we have to go to this shady place?",
+                "text": "Oh, pour l'amour du ciel...\\.\\. Chéri, pourquoi il a fallu qu'on aille dans ce trou minable ?"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/9/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/9/message": {
                 "orig": "B-but I heard they have the best food in the entire city.",
                 "text": "J-J'ai cru qu'ils avaient la meilleure nourriture de toute la ville."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/21/settings/event/10/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/19/settings/event/10/message": {
                 "orig": "Sorry\\..\\..\\.. Bye...",
                 "text": "Désolé\\..\\..\\.. Bye..."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/1/text": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/35/settings/event/1/text": {
                 "orig": "[aggressive squawking]",
                 "text": "[cris agressifs]"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/35/message": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/35/settings/event/35/message": {
                 "orig": "...!",
                 "text": "... !"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/43/text": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/35/settings/event/43/text": {
                 "orig": "[aggressive squawking]",
                 "text": "[cris agressifs]"
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/37/settings/event/44/text": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/35/settings/event/44/text": {
                 "orig": "[aggressive squawking]",
                 "text": "[cris agressifs]"
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/36/settings/npcStates/0/event/2/message": {
+                "orig": "Hi.",
+                "text": "Salut."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/36/settings/npcStates/0/event/4/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/jungle-city/special/parrot-hq-1.json/entities/36/settings/npcStates/0/event/5/message": {
+                "orig": "Bye.",
+                "text": "Bye."
         },
         "maps/jungle-city/special/parrot-hq-1.json/entities/38/settings/npcStates/0/event/2/message": {
                 "orig": "Hi.",
@@ -103,19 +115,7 @@
                 "orig": "Bye.",
                 "text": "Bye."
         },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/40/settings/npcStates/0/event/2/message": {
-                "orig": "Hi.",
-                "text": "Salut."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/40/settings/npcStates/0/event/4/message": {
-                "orig": "...",
-                "text": "..."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/40/settings/npcStates/0/event/5/message": {
-                "orig": "Bye.",
-                "text": "Bye."
-        },
-        "maps/jungle-city/special/parrot-hq-1.json/entities/41/settings/event/10/text": {
+        "maps/jungle-city/special/parrot-hq-1.json/entities/39/settings/event/11/text": {
                 "orig": "The \\c[3]items and money\\c[0] lost in the scam have been retrieved!",
                 "text": "Les \\c[3]items et l'argent\\c[0] perdus dans l'arnaque ont été retrouvés !"
         },
@@ -207,7 +207,7 @@
                 "orig": "[Angry bird noises]",
                 "text": "[Cris d'oiseau énervés]"
         },
-        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/3/startAction/1/text": {
+        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/3/startAction/2/text": {
                 "orig": "[Angry goat noises]",
                 "text": "[Bêlements de bouc énervé]"
         },
@@ -215,7 +215,7 @@
                 "orig": "[Angry bird noises]",
                 "text": "[Cris d'oiseau énervés]"
         },
-        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/9/startAction/1/text": {
+        "maps/jungle-city/special/parrot-hq-2.json/entities/78/settings/event/9/startAction/2/text": {
                 "orig": "[Angry goat noises]",
                 "text": "[Bêlements de bouc énervé]"
         },
@@ -247,39 +247,23 @@
                 "orig": "\\v[tmp.platformWaitString]",
                 "text": "\\v[tmp.platformWaitString]"
         },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/15/settings/event/1/thenStep/1/action/0/text": {
-                "orig": "Return to Roof",
-                "text": "Retourner sur le Toit"
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/14/settings/analyzable/text": {
+                "orig": "Is that...?",
+                "text": "Est-ce que... ?"
         },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/states/1/action/0/text": {
-                "orig": "\\v[tmp.platformDelayString]",
-                "text": "\\v[tmp.platformDelayString]"
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/event/19/message": {
+                "orig": "Lea!\\. Hi!",
+                "text": "Lea !\\. Salut !"
         },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/states/1/action/8/text": {
-                "orig": "\\v[tmp.platformWaitString]",
-                "text": "\\v[tmp.platformWaitString]"
-        },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/17/settings/analyzable/text": {
-                "orig": "Kid Goat Zira",
-                "text": "Chevreau Zira"
-        },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/8/message": {
-                "orig": "Lea!\\. Wait!",
-                "text": "Lea !\\. Attends !"
-        },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/10/text": {
-                "orig": "[disrespectful bird noises]",
-                "text": "[cris d'oiseaux irrespectueux]"
-        },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/11/message": {
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/event/27/message": {
                 "orig": "... Why?",
                 "text": "... Pourquoi ?"
         },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/20/settings/event/13/text": {
-                "orig": "[curses of the bird variety]",
-                "text": "[jurons de noms d'oiseaux]"
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/16/settings/event/49/text": {
+                "orig": "[aggressive bird noises]",
+                "text": "[cris d'oiseaux irrespectueux]"
         },
-        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/21/settings/analyzable/text": {
+        "maps/jungle-city/special/parrot-hq-rooftop-1.json/entities/17/settings/analyzable/text": {
                 "orig": "en_US",
                 "text": "Caisse Importante"
         }

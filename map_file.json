@@ -50,6 +50,7 @@
 	"maps/enemy-test-sao.json": "packs/test.pack.json",
 	"maps/auto-script-test.json": "packs/test.pack.json",
 	"extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json": "packs/test.pack.json",
+	"maps/rhombus-sqr/interior/items-f1.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -1211,7 +1212,6 @@
 	"arena/boss-cup.json": "packs/arena-cups.json",
 	"arena/faction-cup-1.json": "packs/arena-cups.json",
 	"arena/faction-cup-2.json": "packs/arena-cups.json",
-	"arena/faction-cup-3.json": "packs/arena-cups.json",
 	"arena/faction-team-cup-1.json": "packs/arena-cups.json",
 	"arena/parkour-rookie-cup.json": "packs/arena-cups.json",
 	"arena/rookie-cup.json": "packs/arena-cups.json",
@@ -1314,6 +1314,7 @@
 
 
 	"extension/post-game/post-game.json": "packs/dlc.pack.json",
+	"extension/post-game/data/arena/faction-cup-3.json": "packs/dlc-arena.json",
 	"extension/post-game/data/arena/ancient-boss-cup.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/arena/ancient-cup.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/arena/ancient-team-cup.json": "packs/dlc-arena.pack.json",

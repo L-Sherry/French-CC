@@ -484,12 +484,12 @@
                 "text": "LOL, TRADUISEZ QUAND MÊME !"
         },
         "maps/npc-test.json/entities/34/settings/npcStates/0/event/2/message": {
-                "orig": "LOL, DO NOT TRANSLATE THIS!",
-                "text": "LOL, TRADUISEZ QUAND MÊME !"
+                "orig": "HI!!",
+                "text": "SALUT !!"
         },
-        "maps/npc-test.json/entities/34/settings/npcStates/0/event/3/message": {
-                "orig": "LOL, DO NOT TRANSLATE THIS! (hologram)",
-                "text": "LOL, TRADUISEZ QUAND MÊME ! (hologramme)"
+        "maps/npc-test.json/entities/34/settings/npcStates/0/event/7/message": {
+                "orig": "...",
+                "text": "..."
         },
         "maps/npc-test.json/entities/34/settings/npcStates/1/event/2/message": {
                 "orig": "LOL, DO NOT TRANSLATE THIS!",
@@ -1574,6 +1574,10 @@
         "maps/rhombus-sqr/test2.json/entities/43/settings/teleportLabel": {
                 "orig": "en_US",
                 "text": "fr_FR"
+        },
+        "maps/rhombus-sqr/interior/items-f1.json/entities/48/settings/npcStates/0/event/3/message": {
+                "orig": "...?",
+                "text": "... ?"
         },
         "maps/rookie-harbor/test.json/entities/48/settings/npcStates/0/event/2/message": {
                 "orig": "A painting is a memory that never fades.",

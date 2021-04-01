@@ -7,7 +7,7 @@
                 "orig": "[ AURA DISPERSED ]",
                 "text": "[ AURA DISPERSÉE ]"
         },
-        "enemies/autumn-fall/runbot-tremor.json/actions/restoreAura/8/text": {
+        "enemies/autumn-fall/runbot-tremor.json/actions/restoreAura/9/text": {
                 "orig": "[ RESTORED AURA ]",
                 "text": "[ AURA RESTAURÉE ]"
         },
@@ -16,24 +16,19 @@
                 "text": "Robot Tremblant"
         },
         "enemies/autumn-fall/runbot-tremor.json/meta/descriptions/0/text": {
-                "orig": "A variant of the \\v[combat.name.autumn-fall/runbot-tremor] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\nUnlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks.",
-                "text": "Une variante du \\v[combat.name.mine-runbot] qui semble être constamment en train de vibrer quand il est actif. C'est à cause du puissant \\v[item.638.name] qui lui a été implanté.\nContrairement à son cousin plus froid, cette machine unique attaque avec une plus large palette d'éléments et préfère les attaques puissantes d'\\c[3]Onde\\c[0].",
-                "note": "i assume the ref to runbot-tremor is incorrect"
+                "orig": "A variant of the \\v[combat.name.mine-runbot] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\nUnlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks.",
+                "text": "Une variante du \\v[combat.name.mine-runbot] qui semble être constamment en train de vibrer quand il est actif. C'est à cause du puissant \\v[item.638.name] qui lui a été implanté.\nContrairement à son cousin plus froid, cette machine unique attaque avec une plus large palette d'éléments et préfère les attaques puissantes d'\\c[3]Onde\\c[0]."
         },
         "enemies/beach/ape-beach.json/bossLabel": {
                 "orig": "Ape",
                 "text": "Singe"
-        },
-        "enemies/beach/ape-beach.json/actions/WhaleStablize/8/text": {
-                "orig": "Stablizing",
-                "text": "Stabilisation"
         },
         "enemies/beach/ape-beach.json/meta/species": {
                 "orig": "Ape on Vacation",
                 "text": "Singe en Vacances"
         },
         "enemies/beach/ape-beach.json/meta/descriptions/0/text": {
-                "orig": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of outside of experienced \\v[lore.title.seeker]s.",
+                "orig": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of, outside of experienced \\v[lore.title.seeker]s.",
                 "text": "Un puissant singe, servant de gardien imbattu et champion de l'\\c[3]\\v[area.beach.name]\\c[0]. Sa tâche paisible lui laissa une éternité de temps pour réfléchir au sens de l'univers. Entre-temps, il s'ennuie terriblement et attend avec impatience un combat digne de ce nom.\nBien qu'au premier abord, ce primate manque de style et de grâce, il est en fait bien plus puissant que son distant cousin, le \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0].. En fait, il est capable d'utiliser et de maitriser \\c[3]tous les quatre éléments\\c[0], ce qui est du jamais-vu en dehors des \\v[lore.title.seeker]s expérimentés.",
                 "note": "assuming it's unused because of the \\v[3]"
         },
@@ -335,7 +330,7 @@
                 "orig": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
                 "text": "Représentation vivante des cristaux qui se trouvent partout sur le \\c[3]\\v[area.final-dng.name]\\c[0].. Il semble que ce ne sont pas des créations des Anciens, car contrairement à la plupart des ennemis qui se trouve dans le temple, ils ont fait en matériaux de type roche. \nLes versions de couleurs similaires montre également une capacité étrange à se lier entre eux pour combiner leurs énergie afin de libérer des attaques puissantes."
         },
-        "extension/post-game/data/enemies/final/ele-pillar-cold.json/actions/strongFace/1/text": {
+        "extension/post-game/data/enemies/final/ele-pillar-cold.json/actions/strongFace/2/text": {
                 "orig": "Color Combo",
                 "text": "Combo Couleur"
         },
@@ -347,7 +342,7 @@
                 "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
                 "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
         },
-        "extension/post-game/data/enemies/final/ele-pillar-heat.json/actions/strongFace/1/text": {
+        "extension/post-game/data/enemies/final/ele-pillar-heat.json/actions/strongFace/2/text": {
                 "orig": "Color Combo",
                 "text": "Combo Couleur"
         },
@@ -359,7 +354,7 @@
                 "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
                 "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
         },
-        "extension/post-game/data/enemies/final/ele-pillar-shock.json/actions/strongFace/1/text": {
+        "extension/post-game/data/enemies/final/ele-pillar-shock.json/actions/strongFace/2/text": {
                 "orig": "Color Combo",
                 "text": "Combo Couleur"
         },
@@ -371,7 +366,7 @@
                 "orig": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
                 "text": "Cette structure vivante de pierre est en fait une partie d'une intelligence collective capable d'empiler plusieurs versions de chacun d'eux pour former un super-organisme. Pour ne rien arranger, les piliers proches les uns des autres peuvent former un lien puissant qui va renforcer leur attaques défensives."
         },
-        "extension/post-game/data/enemies/final/ele-pillar-wave.json/actions/strongFace/1/text": {
+        "extension/post-game/data/enemies/final/ele-pillar-wave.json/actions/strongFace/2/text": {
                 "orig": "Color Combo",
                 "text": "Combo Couleur"
         },
