@@ -487,6 +487,10 @@
                 "orig": "So please, \\v[lore.title.seeker], return to their cave and find out what happened.",
                 "text": "Donc, s'il te plait, \\v[lore.title.seeker], retourne dans leur cave et cherche ce qu'il s'est passé là-dedans."
         },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/10/message": {
+                "orig": "And take that \\c[3]goat translator\\c[0] with you.\\. It might be useful.",
+                "text": "Et prenez ce \\c[3]traducteur pour bouc\\c[0] avec vous.\\. Il risque d'être utile."
+        },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/10/event/quest/11/accepted/12/message": {
                 "orig": "[nods]",
                 "text": "[acquiesce]"
@@ -600,6 +604,26 @@
                 "orig": "You will need their cooperation to solve this case.",
                 "text": "Tu auras besoin de leur coopération pour résoudre cette affaire."
         },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/0/name": {
+                "orig": "Sgt. Sterling",
+                "text": "Sergent Sterling"
+        },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/2/message": {
+                "orig": "\\v[lore.title.seeker], I hear the locale of the assigment has now shifted to \\v[area.rhombus-sqr.name]?",
+                "text": "\\v[lore.title.seeker], j'ai cru comprendre que le théâtre d'opération s'est maintenant déplacé à \\v[area.rhombus-sqr.name] ?"
+        },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/3/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/4/message": {
+                "orig": "Oh my...\\. This case sure keeps on getting bigger and more confusing by the minute.",
+                "text": "Mon dieu...\\. Cette affaire continue de grossir et de se complexifier à chaque minute."
+        },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/15/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/0/name": {
                 "orig": "Sgt. Sterling",
                 "text": "Sergent Sterling"
@@ -619,6 +643,10 @@
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/5/message": {
                 "orig": "Impressive work.\\. It seems like coexistence with the goats actually was possible.\\. After some persuasion.",
                 "text": "Un travail admirable.\\. On dirait que la coexistence avec les boucs est réellement possible.\\. Avec un peu de persuasion."
+        },
+        "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/6/message": {
+                "orig": "Word is, they even established a business.\\. Selling goat-related products in some park, if you believe it.",
+                "text": "On dit même qu'ils y ont établi une entreprise.\\. Qui vendrait des produits liés au boucs dans un parc. Invraisemblable, n'est-ce pas ?"
         },
         "maps/bergen/inner-faction-bergenguard.json/entities/28/settings/npcStates/16/event/quest/7/message": {
                 "orig": "...!",

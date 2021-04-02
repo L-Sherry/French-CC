@@ -166,5 +166,169 @@
         "maps/rhombus-sqr/center-ne.json/entities/783/settings/event/1/message": {
                 "orig": "Over here!",
                 "text": "Par ici !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/analyzable/text": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/0/event/0/name": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/0/event/2/message": {
+                "orig": "Hi?\\.",
+                "text": "Salut ?\\."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/0/event/3/message": {
+                "orig": "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!",
+                "text": "Cet endroit est barré au personnes non-autorisées !\\. Circulez, il n'y a rien à voir ici !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/0/event/4/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/0/event/5/message": {
+                "orig": "I am unauthorized to tell and you are not authorized to know!\\. And now, leave!",
+                "text": "Je ne suis pas autorisé à le dire, et vous n'êtes pas autorisé à le savoir !\\. Et maintenant, partez !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/0/event/6/message": {
+                "orig": "Bye...",
+                "text": "Bye..."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/4/name": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/6/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/7/message": {
+                "orig": "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!",
+                "text": "Cet endroit est barré au personnes non-autorisées !\\. Circulez, il n'y a rien à voir ici !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/8/message": {
+                "orig": "Hi!\\. Lea.\\. Why.\\. Meet.",
+                "text": "Salut !\\. Lea.\\. Pourquoi.\\. Rencontrer."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/9/message": {
+                "orig": "I see, I see.\\. You are one of the \\v[lore.title.seeker]s, on an official mission from a local guard.",
+                "text": "Je vois, je vois.\\. Vous êtes un des \\v[lore.title.seeker]s, qui a été officiellement chargé d'une mission de la part d'un garde local."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/11/message": {
+                "orig": "Those country bumpkins from \\v[area.bergen.name] sure put a lot of trust into some adventurer.",
+                "text": "Ces campagnards du \\v[area.bergen.name] accordent vraiment beaucoup de confiance à un simple aventurier."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/12/message": {
+                "orig": "... Why?",
+                "text": "... Pourquoi ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/13/message": {
+                "orig": "Relax, I'm not interested in argueing over the \"\\v[lore.title.seeker] Defense Assistance\"-clause with you or my supervisors.",
+                "text": "Relax, je ne suis pas là pour argumenter sur la clause du \"Soutien à la Défense des \\v[lore.title.seeker]s\" avec vous ou mes supérieurs."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/14/message": {
+                "orig": "You can handle this... goat problem that Bergen left to us.\\. I will even give you an up-to-date briefing, how's that?",
+                "text": "Vous pourriez gérer ce... problème de bouc que Bergen nous a laissé.\\. Je vais même vous donner un briefing à jour, ça vous va ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/15/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message": {
+                "orig": "What?\\. How?\\. Why?",
+                "text": "Quoi ?\\. Comment ?\\. Pourquoi ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message": {
+                "orig": "How?\\. Why?",
+                "text": "Comment ?\\. Pourquoi ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/17/message": {
+                "orig": "Okay, listen.\\. Those goats you are hunting have violenty occupied the building behind us.",
+                "text": "OK, écoutez.\\. Ces boucs que vous pourchassez ont violemment saisi l'immeuble derrière nous."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/22/name": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/24/message": {
+                "orig": "It's the \\c[3]Rhombus Parks Embassy\\c[0].\\. Takes care of the local parks and sends researchers to the mainland.",
+                "text": "C'est l'\\c[3]Ambassade de Rhombus Parks\\c[0].\\. Qui s'occupe des parcs locaux et qui envoie des chercheurs sur le continent."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/25/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/26/message": {
+                "orig": "Maybe the goats want to munch on some rare plants or steal hoof research.\\. I don't know and I don't care.",
+                "text": "Peut-être que les boucs veulent grignoter quelques plantes rares ou voler des recherches sur les sabots.\\. J'en sais rien et je m'en fiche."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/31/name": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/33/message": {
+                "orig": "Point is, \\v[lore.title.seeker], they are occupying the building, holding hostages and keep bleating all day.",
+                "text": "Le point principal, \\v[lore.title.seeker], c'est qu'ils occupent le bâtiment, qu'ils gardent des otages et qu'ils bêlent toute la journée."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/34/message": {
+                "orig": "That's gotta stop.\\. You following?",
+                "text": "Et il faut que ça s'arrête.\\. Vous suivez ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/35/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/36/message": {
+                "orig": "Fine.\\. Then go inside and detain those terrorist goats!\\. We will continue to secure the area here.",
+                "text": "Bien.\\. Alors allez à l'intérieur et interpelez-moi ces boucs terroristes !\\. Nous allons continuer à sécuriser la zone."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/37/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/1/event/quest/38/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/2/event/0/name": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/2/event/2/message": {
+                "orig": "Go inside and detain those terrorist goats, \\v[lore.title.seeker]!\\. We will continue to secure the area here.",
+                "text": "Allez à l'intérieur et interpelez ces boucs terroristes !\\. Nous allons continuer à sécuriser la zone."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/3/event/0/name": {
+                "orig": "Cpt. Freamun",
+                "text": "Cpt. Freamun"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/3/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/3/event/3/message": {
+                "orig": "\\v[lore.title.seeker], things are very quiet now.\\. Did you defuse the situation?",
+                "text": "\\v[lore.title.seeker], le quartier est devenu calme.\\. Avez-vous résolu la situation ?"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/3/event/4/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/3/event/5/message": {
+                "orig": "Impressive.\\. You can now get your reward from whoever you got the assignment from.\\. We will take it from here.",
+                "text": "Impressionnant.\\. Vous pouvez maintenant prendre votre récompense de la part de votre donneur d'ordre ou je sais pas qui.\\. Le reste, on va s'en occuper."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/797/settings/npcStates/3/event/6/message": {
+                "orig": "Bye...",
+                "text": "Bye..."
+        },
+        "maps/rhombus-sqr/center-ne.json/entities/808/settings/npcStates/0/event/shop/0/text": {
+                "orig": "[enterprising goat noises]",
+                "text": "[bêlements de bouc entreprenant]"
         }
 }
