@@ -98,8 +98,6 @@
 	"maps/rhombus-sqr/center-n.json": "packs/rhombus/center-n.pack.json",
 	"maps/rhombus-sqr/center-nw.json": "packs/rhombus/center-nw.pack.json",
 	"maps/rhombus-sqr/center-ne.json": "packs/rhombus/center-ne.pack.json",
-
-
 	"maps/rhombus-sqr/central-inner.json": "packs/rhombus/sqr.pack.json",
 	"maps/rhombus-sqr/central.json": "packs/rhombus/sqr.pack.json",
 	"maps/rhombus-sqr/interior/arena-00-training.json": "packs/rhombus/arena-training.pack.json",
@@ -616,8 +614,6 @@
 	"maps/dreams/dream14.json": "packs/dreams/eleven-to-15.json",
 	"maps/dreams/dream15.json": "packs/dreams/eleven-to-15.json",
 	"maps/dreams/dream16.json": "packs/dreams/dream-16.json",
-	"extension/post-game/data/maps/dreams/post-dream1.json": "packs/dreams/dream-dlc.json",
-	"extension/post-game/data/maps/dreams/post-dream2.json": "packs/dreams/dream-dlc.json",
 
 
 	"maps/bergen/bergen.json": "packs/bergen/south.json",
@@ -995,12 +991,12 @@
 	"maps/autumn-fall/caves/path-03-exit.json": "packs/autumn-fall/cave.json",
 	"maps/autumn-fall/caves/path-04-cave-02.json": "packs/autumn-fall/cave.json",
 	"maps/autumn-fall/caves/path-04-cave-03.json": "packs/autumn-fall/cave.json",
-	"maps/autumn-fall/raid/raid-01.json": "packs/autumn-fall/raid.json",
-	"maps/autumn-fall/raid/raid-02.json": "packs/autumn-fall/raid.json",
-	"maps/autumn-fall/raid/raid-03.json": "packs/autumn-fall/raid.json",
-	"maps/autumn-fall/raid/raid-04-cave.json": "packs/autumn-fall/raid.json",
-	"maps/autumn-fall/raid/raid-05.json": "packs/autumn-fall/raid.json",
-	"maps/autumn-fall/raid/raid-boss.json": "packs/autumn-fall/raid-dlc.json",
+	"maps/autumn-fall/raid/raid-01.json": "packs/autumn-fall/raid1.json",
+	"maps/autumn-fall/raid/raid-02.json": "packs/autumn-fall/raid23.json",
+	"maps/autumn-fall/raid/raid-03.json": "packs/autumn-fall/raid23.json",
+	"maps/autumn-fall/raid/raid-04-cave.json": "packs/autumn-fall/raid45.json",
+	"maps/autumn-fall/raid/raid-05.json": "packs/autumn-fall/raid45.json",
+	"maps/autumn-fall/raid/raid-boss.json": "packs/autumn-fall/raid-dlc-boss.json",
 	"maps/autumn-fall/raid/raid-end.json": "packs/autumn-fall/raid-dlc.json",
 	"extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json": "packs/autumn-fall/raid-dlc.json",
 
@@ -1278,14 +1274,35 @@
 	"save-presets/7-fajro-temple.json": "packs/save-presets.pack.json",
 	"save-presets/8-autumns-fall.json": "packs/save-presets.pack.json",
 
+	"extension/post-game/data/maps/dreams/post-dream1.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-dream2.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-dream3.json": "packs/dreams/dream-dlc.json",
+	"extension/post-game/data/maps/dreams/post-prologue.json": "packs/dreams/dream-dlc.json",
+
 	"areas/evo-village.json": "packs/evo-village.pack.json",
+	"extension/post-game/data/maps/evo-village/center.json": "packs/evo-village/center.json",
+	"extension/post-game/data/maps/evo-village/entrance.json": "packs/evo-village/entrance.json",
+	"extension/post-game/data/maps/evo-village/interior/satoshi.json": "packs/evo-village/satoshi.json",
+	"extension/post-game/data/maps/evo-village/interior/lea.json": "packs/evo-village/lea.json",
+	"extension/post-game/data/maps/evo-village/interior/lea-upper.json": "packs/evo-village/lea.json",
+	"extension/post-game/data/maps/evo-village/interior/glasses.json": "packs/evo-village/glasses.json",
+	"extension/post-game/data/maps/evo-village/interior/city-hall.json": "packs/evo-village/city-hall.json",
+	"extension/post-game/data/maps/evo-village/interior/schneider.json": "packs/evo-village/schneider.json",
+
+
 	"areas/final-dng.json": "packs/final-dng.pack.json",
 
 	"areas/beach.json": "packs/beach.pack.json",
 	"maps/beach/ape-arena.json": "packs/beach.pack.json",
-	"extension/post-game/data/maps/beach/expo-space.json": "packs/beach.pack.json",
+	"extension/post-game/data/maps/beach/expo-space.json": "packs/beach/temple.json",
 	"extension/post-game/data/maps/beach/path-01-entrance.json": "packs/beach/path1.json",
 	"extension/post-game/data/maps/beach/path-02.json": "packs/beach/path2.json",
+	"extension/post-game/data/maps/beach/path-03.json": "packs/beach/path34567.json",
+	"extension/post-game/data/maps/beach/path-04.json": "packs/beach/path34567.json",
+	"extension/post-game/data/maps/beach/path-05.json": "packs/beach/path34567.json",
+	"extension/post-game/data/maps/beach/path-06.json": "packs/beach/path34567.json",
+	"extension/post-game/data/maps/beach/path-07.json": "packs/beach/path34567.json",
+	"extension/post-game/data/maps/beach/temple.json": "packs/beach/temple.json",
 
 	"extension/scorpion-robo/scorpion-robo.json": "packs/pc-dlc.pack.json",
 	"extension/scorpion-robo/data/enemies/minibosses/scorpion-boss-pole.json": "packs/pc-dlc.pack.json",
@@ -1309,6 +1326,12 @@
 	"extension/post-game/data/arena/shizuka-cup.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/maps/arena/dlc/creator.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/maps/arena/dlc/snail.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json": "packs/dlc-arena.pack.json",
 
 	"extension/post-game/data/maps/arena/pvp/pvp-apollo.json": "packs/dlc-pvp.pack.json",
 	"extension/post-game/data/maps/arena/pvp/pvp-lily.json": "packs/dlc-pvp.pack.json",
@@ -1320,7 +1343,9 @@
 	"extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json": "packs/vermillion/dlc-entrance.json",
 	"extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json": "packs/vermillion/dlc-entrance.json",
 	"extension/post-game/data/maps/arid/lab/ug-05-junction.json": "packs/vermillion/dlc-entrance.json",
-	"extension/post-game/data/maps/arid/lab/ug-06-sidwell.json": "packs/vermillion/dlc-sidwell.json"
+	"extension/post-game/data/maps/arid/lab/ug-06-sidwell.json": "packs/vermillion/dlc-sidwell.json",
 
+	"extension/post-game/data/maps/rhombus-sqr/center-sw.json": "packs/rhombus/center-w-sw.pack.json",
+	"extension/post-game/data/maps/rhombus-sqr/center-w.json": "packs/rhombus/center-w-sw.pack.json"
 
 }

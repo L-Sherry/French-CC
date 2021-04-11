@@ -228,6 +228,30 @@
                 "orig": "Good!\\. The time has finally come!",
                 "text": "Bien !\\. Le temps est enfin venu !"
         },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/0/5/text": {
+                "orig": "We shall hold our epic battle in an undisturbed arena",
+                "text": "Nous devons mener notre combat épique dans une arène vierge de toute perturbation"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/0/6/message": {
+                "orig": "Where?",
+                "text": "Où ?"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/0/7/text": {
+                "orig": "You will see.\\. But for now\\..\\..\\..\\. Hold on tight!",
+                "text": "Vous verrez.\\. Et maintenant\\..\\..\\..\\. Accrochez-vous !"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/0/8/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/0/18/text": {
+                "orig": "And off we go!",
+                "text": "Et on s'en va !"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/0/19/message": {
+                "orig": "...!!!!!",
+                "text": "... !!!!!"
+        },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/1/event/quest/8/1/0/message": {
                 "orig": "[shakes head]",
                 "text": "[secoue la tête]"
@@ -264,6 +288,14 @@
                 "orig": "[nods]",
                 "text": "[acquiesce]"
         },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/705/settings/event/20/message": {
+                "orig": "Lea!",
+                "text": "Lea !"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/705/settings/event/21/text": {
+                "orig": "But now I will take another rest and savor the sun.\\.\\.\\. I mean\\..\\..\\.. Guard this island, of course.\\. Goodbye!",
+                "text": "Mais maintenant je vais me reposer et prendre un bain de soleil.\\.\\.\\. Je veux dire\\..\\..\\.. Protéger cette île, bien entendu.\\. À plus !"
+        },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/705/settings/event/23/message": {
                 "orig": "... Bye.",
                 "text": "... Bye."
@@ -271,5 +303,13 @@
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/705/settings/event/39/message": {
                 "orig": "Bye!",
                 "text": "Bye !"
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/707/settings/npcStates/0/event/trade/2/message": {
+                "orig": "Here we offer a small selection of \\c[3]new weapons and armor\\c[0].",
+                "text": "Ici nous offrons une petite sélection de \\c[3]nouvelles armes et amures\\c[0]."
+        },
+        "extension/post-game/data/maps/beach/path-01-entrance.json/entities/707/settings/npcStates/0/event/trade/3/message": {
+                "orig": "For more advanced equipment, revisit our \\c[3]main store\\c[0] in the \\c[3]Shopping District of Rhombus Square\\c[0].",
+                "text": "Pour du équipement plus avancé, revisitez notre \\c[3]magasin principal\\c[0] dans le \\c[3]\\v[area.rhombus-sqr.landmark.name.shops] de \\v[area.rhombus-sqr.name]\\c[0]."
         }
 }

@@ -1,0 +1,2174 @@
+{
+        "extension/post-game/data/maps/evo-village/center.json/entities/4/settings/blockEvent/0/thenStep/3/message": {
+                "orig": "Lea, where are you running off to?\\. We're over here!",
+                "text": "Lea, Où est-ce que tu cours comme ça ?\\. On est là !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/4/settings/blockEvent/0/elseStep/3/message": {
+                "orig": "Lea, we are over here! The tour isn't over just yet!",
+                "text": "Lea, on est là ! La visite n'est pas encore terminée !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/2/text": {
+                "orig": "Once you enter, you will embark to Vermillion Wasteland.\n\\c[1]Warning: This will be a point of no return!\nMake sure to keep a save before you enter!\\c[0]",
+                "text": "Une fois que vous entrerez, vous embarquerez à \\v[area.arid.name].\n\\c[1]Attention: Ce sera un point de non-retour !\\c[0]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/3/text": {
+                "orig": "Ready?",
+                "text": "Prêt ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/3/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/3/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/55/settings/teleportLabel": {
+                "orig": "CrossCentral",
+                "text": "Cross Central"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/56/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/57/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/58/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/59/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/875/settings/npcStates/0/event/shop/2/message": {
+                "orig": "Our village may be small and humble, but we still offer a selection of cutting-edge weaponry!",
+                "text": "Notre village est peut-être petit, mais nous offrons quand même des armes dernier cri !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/878/settings/npcStates/0/event/shop/2/message": {
+                "orig": "Welcome Homestedt folks!\\. Anything catching your eye?",
+                "text": "Bonjour, habitants de \\v[area.evo-village.name] !\\. Quelque chose attire votre attention ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/895/settings/npcStates/8/event/3/message": {
+                "orig": "Okay.\\. Let's see what Tronny's up to.",
+                "text": "OK.\\. Voyons voir ce que Tronny mijote."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/14/message": {
+                "orig": "HI!!",
+                "text": "SALUT !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/21/message": {
+                "orig": "LEA!!",
+                "text": "LEA !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/31/message": {
+                "orig": "Chérie!!",
+                "text": "Chérie !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/32/message": {
+                "orig": "Finally you're back!!\\. It felt like forever!",
+                "text": "Enfin tu es revenue !!\\. Ça faisait une éternité !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/33/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/34/message": {
+                "orig": "I missed you sooo much!",
+                "text": "Tu m'as tellement manqué !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/35/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/36/message": {
+                "orig": "Things were just not the same without you...",
+                "text": "Les choses n'étaient pas les mêmes sans toi..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/37/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/42/message": {
+                "orig": "Welcome back, dear!",
+                "text": "Rebonjour, chérie !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/56/message": {
+                "orig": "Hi!!",
+                "text": "Salut !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/57/message": {
+                "orig": "You seem as lively as ever.",
+                "text": "Toujours aussi joyeuse qu'avant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/69/message": {
+                "orig": "Hi!!",
+                "text": "Salut !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/70/message": {
+                "orig": "Welcome back to CrossWorlds.",
+                "text": "Rebienvenue à CrossWorlds."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/71/message": {
+                "orig": "I'm glad that everything worked out.",
+                "text": "Je suis content que tout se soit bien passé."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/83/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/84/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/89/message": {
+                "orig": "Yes, about the others...",
+                "text": "Ah oui, pour les autres..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/90/message": {
+                "orig": "Lukas and Buggy wanted to show up as well.",
+                "text": "Lukas et Buggy voulaient venir aussi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/91/message": {
+                "orig": "There must have been some hold up.",
+                "text": "Quelque chose à du les retenir."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/92/message": {
+                "orig": "As for Apollo and Joern, they send their regards.\\. They are currently on vacation.",
+                "text": "Et pour Apollo et Joern, ils t'ont envoyés leurs amitiés.\\. Ils sont actuellement en vacances."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/96/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/101/message": {
+                "orig": "Now, now, dear.",
+                "text": "Mais bon, chérie."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/102/message": {
+                "orig": "The news of your comeback came on very short notice.",
+                "text": "La nouvelle à propos de ton retour est arrivée assez rapidement."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/103/message": {
+                "orig": "And it has been quite a long time. Almost 7 months, wasn't it?",
+                "text": "Et ça fait déjà depuis un long moment. Presque 7 mois, pas vrai ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/105/message": {
+                "orig": "Yes, the negotiations with Instatainment took a while.",
+                "text": "Oui, les négociations avec Instatainment ont pris un moment."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/106/message": {
+                "orig": "And even after we came to an agreement, a lot of things had to be prepared.",
+                "text": "Et même une fois parvenus à un accord, il a fallu préparer un tas de choses."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/113/message": {
+                "orig": "Oui!\\. Just look around you!",
+                "text": "Oui !\\. Regarde un peu tout autour !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/114/message": {
+                "orig": "They built a whole new place for you!",
+                "text": "Ils ont construit un nouvel endroit entier pour toi !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/115/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/119/message": {
+                "orig": "That is right. Welcome to \\c[3]Homestedt\\c[0]!",
+                "text": "C'est exact. Bienvenue à \\c[3]\\v[area.evo-village.name]\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/120/message": {
+                "orig": "A whole location dedicated to Evotars like you and Satoshi.",
+                "text": "Un endroit entier dédié aux Évotars comme toi et Satoshi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/129/message": {
+                "orig": "Thanks!!",
+                "text": "Merci !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/132/message": {
+                "orig": "And of course you even got your very own house, Lea!",
+                "text": "Et bien entendu tu as même ta propre maison, Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/133/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/139/message": {
+                "orig": "It's right over here!",
+                "text": "Elle est juste là !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/898/settings/event/144/task": {
+                "orig": "Follow everyone to your house in \\c[3]Homestedt - Centrum\\c[0].",
+                "text": "Suivez tout le monde dans votre maison au \\c[3]Centre de \\v[area.evo-village.name]\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/899/settings/npcStates/11/event/2/message": {
+                "orig": "Creating Evotars of his employees, huh?",
+                "text": "Il a crée des Évotars de ses employés, hein ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/899/settings/npcStates/11/event/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/899/settings/npcStates/11/event/4/message": {
+                "orig": "I honestly wouldn't know about it.",
+                "text": "Honnêtement, je ne l'aurais jamais su."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/899/settings/npcStates/11/event/5/message": {
+                "orig": "Back then, I was constantly busy maintaining and improving the Evotar technology, among other things.",
+                "text": "À l'époque, j'étais bien trop occupé à maintenir et a améliorer la technologie Évotar, entre autres.",
+                "note": "maintenir = warten ?!?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/899/settings/npcStates/11/event/6/message": {
+                "orig": "But I was never really aware of what people exactly ended up on the server.",
+                "text": "Mais je n'étais jamais vraiment au courant des gens qui atterrissaient sur le serveur."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/899/settings/npcStates/11/event/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/902/settings/event/4/message": {
+                "orig": "Look at this! Isn't it amazing?",
+                "text": "Regarde ça ! C'est pas merveilleux ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/902/settings/event/8/message": {
+                "orig": "Such a fancy little place, just for you!",
+                "text": "Une petite maison, rien que pour toi !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/902/settings/event/9/message": {
+                "orig": "I'm almost jealous!",
+                "text": "J'en suis presque jalouse !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/902/settings/event/15/message": {
+                "orig": "Come on, let's go inside!",
+                "text": "Allez, Rentrons à l'intérieur !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/902/settings/event/16/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/11/message": {
+                "orig": "Hi!!",
+                "text": "Salut !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/20/message": {
+                "orig": "Guten Tag!\\. Sorry for being late!",
+                "text": "Guten Tag !\\. Désolé pour le retard !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/31/message": {
+                "orig": "Hi!!",
+                "text": "Salut !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/32/message": {
+                "orig": "Our favorite bot is finally back!\\. Hello!",
+                "text": "Notre bot favori est enfin de retour !\\. Bonjour !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/39/message": {
+                "orig": "So...\\. Did you already show her around the village?",
+                "text": "Donc...\\. Est-ce que vous lui avez déjà montré le village ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/41/message": {
+                "orig": "We just started! We only went to her house so far.",
+                "text": "On viens juste de commencer ! On a juste vu sa maison pour l'instant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/42/message": {
+                "orig": "I see!",
+                "text": "Je vois !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/43/message": {
+                "orig": "I was hoping to give you one of my signature tours!\n",
+                "text": "J'espérais vous faire faire une visite comme vous en aviez l'habitude !",
+                "note": "de: \"alors il n'est pas trop tard pour une de mes typique visite de la ville\", or something"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/45/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/46/message": {
+                "orig": "I could pick up right where you left off.\\. How about it?",
+                "text": "Je pourrais continuer ce que vous avez commencé.\\. Qu'en dites vous ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/47/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/48/message": {
+                "orig": "Go ahead, monsieur!",
+                "text": "Après vous, monsieur !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/49/message": {
+                "orig": "Okay! Let's take a little walk, then!",
+                "text": "OK ! Allons faire un tour alors !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/908/settings/event/55/task": {
+                "orig": "Participate in Lukas' tour of \\c[3]Homestedt\\c[0].",
+                "text": "Participez à la visite par Lukas de \\c[3]\\v[area.evo-village.name]\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/1/event/4/message": {
+                "orig": "Right now we're in the residence part of the village.",
+                "text": "Pour le moment nous nous trouvons dans la partie résidentielle du village."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/1/event/8/message": {
+                "orig": "Most of these lovely houses are still vacant.",
+                "text": "La plupart de ces maisons sont encore vacantes."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/1/event/9/message": {
+                "orig": "But I heard that things won't stay that way for long.",
+                "text": "Mais j'ai cru comprendre que cela ne le restera pas très longtemps."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/1/event/13/message": {
+                "orig": "As it is, though, there isn't much to see here!\\. Let's go on!",
+                "text": "C'est pourquoi il n'y a pas grand chose à voir pour l'instant !\\. Continuons plus loin !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/1/event/25/message": {
+                "orig": "I find the lack of laser bridge disturbing.",
+                "text": "Je trouve ce manque de pont laser très perturbant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/4/message": {
+                "orig": "Here's the local teleporter.",
+                "text": "Voici le téléporteur local."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/5/message": {
+                "orig": "All you need to quickly beam yourself home.",
+                "text": "Tout ce dont vous avez besoin pour se téléporter chez soi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/6/message": {
+                "orig": "Don't leave right away, though. Our little tour isn't over yet.",
+                "text": "Mais ne partez pas encore, notre petite visite n'est pas encore terminée."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/11/message": {
+                "orig": "There is this suspicious empty spot over there, in the middle of the river.",
+                "text": "Voyez-vous cet endroit vide là-bas, au beau milieu de la rivière ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/12/message": {
+                "orig": "Apparently a statue was supposed to be built there, but it wasn't completed on time.",
+                "text": "Une statue devait se dresser ici, mais elle n'a pas pu être terminée à temps."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/14/message": {
+                "orig": "More like people could not decide on a design...",
+                "text": "C'est plutôt que personne ne s'est mis d'accord sur le design... "
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/2/event/20/message": {
+                "orig": "And onward!",
+                "text": "Et on continue !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/3/event/4/message": {
+                "orig": "The local marketplace!",
+                "text": "Le marché local !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/3/event/9/message": {
+                "orig": "Quite surprising for such a small village to have its own market, don't you think?",
+                "text": "C'est assez surprenant pour un aussi petit village d'avoir son propre marché, vous ne trouvez pas ?",
+                "note": "oh rly"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/3/event/10/message": {
+                "orig": "Let's hope that the local folks can provide the expected demand!",
+                "text": "Espérons que les habitants du coin puissent faire vivre ces marchands !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/3/event/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/3/event/18/message": {
+                "orig": "Now let's go to a very special building.",
+                "text": "Et maintenant, continuons vers un bâtiment spécial."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/4/message": {
+                "orig": "Look at this mansion!",
+                "text": "Regardez cette villa !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/8/message": {
+                "orig": "Pretty, isn't it?",
+                "text": "C'est chic, pas vrai ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/9/message": {
+                "orig": "Of course, this building already has a lucky owner.",
+                "text": "Bien-entendu, ce bâtiment possède déjà un propriétaire."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/10/message": {
+                "orig": "Isn't that right, Herr Sakai?",
+                "text": "N'est-ce pas, Herr Sakai ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/15/message": {
+                "orig": "Uhm, yes.\\. That's where I live.",
+                "text": "Euh, oui.\\. J'habite là."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/17/message": {
+                "orig": "That's huge!",
+                "text": "C'est gigantesque !",
+                "note": "ou pas"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/18/message": {
+                "orig": "Why doesn't Lea get a building like this?",
+                "text": "Pourquoi est-ce que Lea n'a pas une maison aussi grosse ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/20/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/22/message": {
+                "orig": "For some reason Instatainment felt the need to give Satoshi special treatment.",
+                "text": "Instatainment a jugé bon de donner à Satoshi un traitement spécial."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/23/message": {
+                "orig": "The perks of being the former star employee.",
+                "text": "C'est l'avantage d'être un ancien employé vedette."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/25/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/26/message": {
+                "orig": "I didn't really ask for it, you know?\n",
+                "text": "Je ne l'ai pas vraiment demandé, vous savez ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/27/message": {
+                "orig": "In any case...\\. Feel free to drop by whenever you like.",
+                "text": "En tout cas...\\. passe me voir quand tu en as envie."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/28/message": {
+                "orig": "It's much more space than I'd ever need anyway.",
+                "text": "C'est bien trop grand pour moi tout seul de toute façon."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/4/event/34/message": {
+                "orig": "Let's go to our final stop!",
+                "text": "Et allons vers notre destination finale !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/4/message": {
+                "orig": "And here we stand in front of the largest building of the village.",
+                "text": "Et nous voilà en face du plus grand bâtiment du village."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/9/message": {
+                "orig": "The town hall!",
+                "text": "L'hôtel de ville !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/10/message": {
+                "orig": "If I'm not mistaken, that's where you must have started, right?",
+                "text": "Si je ne me trompe pas, c'est là que vous avez commencé, pas vrai ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/12/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/13/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/18/message": {
+                "orig": "There's more to discover in that building, actually!",
+                "text": "Mais il y a d'autres choses à découvrir dans ce bâtiment !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/19/message": {
+                "orig": "Like a whole conference hall for instance!",
+                "text": "Comme une grande salle de conférence, par exemple !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/21/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/22/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/23/message": {
+                "orig": "Aaaand...",
+                "text": "Eeeeet..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/24/message": {
+                "orig": "This concludes my little tour of \\c[3]Homestedt\\c[0]!\n",
+                "text": "Cela achève ma petite visite de \\c[3]\\v[area.evo-village.name]\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/25/message": {
+                "orig": "I hope you enjoyed!",
+                "text": "J'espère que cela vous a plu !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/26/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/27/message": {
+                "orig": "Thanks!!",
+                "text": "Merci !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/28/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/39/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/40/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/41/message": {
+                "orig": "Hm?",
+                "text": "Hm ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/42/message": {
+                "orig": "...Wait?",
+                "text": "... Attends ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/43/message": {
+                "orig": "Is something the matter with me?\n",
+                "text": "Quelque chose ne va pas avec moi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/48/message": {
+                "orig": "Oh... let me guess.",
+                "text": "Oh... laisse-moi deviner."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/49/message": {
+                "orig": "You are probably wondering about the \\c[3]other Lukas\\c[0], correct?",
+                "text": "Tu es probablement en train de te demander pour l'\\c[3]autre Lukas\\c[0], correct ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/51/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/52/message": {
+                "orig": "Yes, we will get right to that now.",
+                "text": "Oui, il faut qu'on s'occupe de ça maintenant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/53/message": {
+                "orig": "We have been planning to get him into the game right after you!",
+                "text": "Nous avions prévu de le ramener dans le jeu juste après toi !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/909/settings/npcStates/5/event/54/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/16/message": {
+                "orig": "That's a very nice place to live in.\\. Thank you very much!",
+                "text": "C'est vraiment sympa comme petit pied à terre.\\. Merci beaucoup !",
+                "note": "de: comme petit lopin de terre"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/18/message": {
+                "orig": "Japp, you better be happy! ",
+                "text": "Japp, tu peux t'estimer heureux !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/19/message": {
+                "orig": "We both know what I have to live with in real life!",
+                "text": "On sait déjà tous les deux ce que je dois endurer dans la vie réelle !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/20/message": {
+                "orig": "I sure do...",
+                "text": "Ah oui, ça je l'sais..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/25/message": {
+                "orig": "Well then, it is time to go back to the Playground!",
+                "text": "Bon alors, il est temps de retourner sur le Terrain de Jeu !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/26/message": {
+                "orig": "Let me show you where Homestedt is exactly located.",
+                "text": "Laissez-moi vous montrer où \\v[area.evo-village.name] se situe vraiment."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/911/settings/event/29/task": {
+                "orig": "Follow Sergey and the others to the southern exit of \\c[3]Homestedt\\c[0].",
+                "text": "Suivez Sergey et les autres à la sortie sur de \\c[3]\\v[area.evo-village.name]\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/3/message": {
+                "orig": "Hey!\\. This front yard is a bit small, but nice.",
+                "text": "Hé !\\. Ce jardin à l'entrée est un peu petit, mais très sympa."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/4/message": {
+                "orig": "Well, it certainly beats that horrible place we've been stuck in before.",
+                "text": "Mais bon, à côté de cette friche industrielle, c'est vraiment le paradis."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/6/message": {
+                "orig": "And we're supposed to meet up at the \\c[3]First Scholar HQ\\c[0] later, right?",
+                "text": "Et on est censé rencontrer les autres au \\c[3]QG des Premiers Érudits\\c[0] plus tard, c'est ça ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/7/message": {
+                "orig": "I sure hope I'll still be able to find it.",
+                "text": "J'espère que je réussirais à le retrouver."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/8/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/9/message": {
+                "orig": "I'm just joking!\\. I still remember where it is.",
+                "text": "Je rigole !\\. Je me souviens encore où il est."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/10/message": {
+                "orig": "I've been there a few hundred times at least.",
+                "text": "J'ai été là-bas une bonne centaine de fois, au moins."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/11/message": {
+                "orig": "Of course, you could also just add me to your party and we go there together.",
+                "text": "Sinon, tu peux aussi m'ajouter dans ton groupe et on y va ensemble."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/0/event/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/5/message": {
+                "orig": "Guten Abend!",
+                "text": "Guten Abend !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/6/message": {
+                "orig": "How do you like my yard?\\. The pond is pretty nice, right?",
+                "text": "Tu en penses quoi de mon jardin ?\\. L'étang est pas mal, non ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/7/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/8/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/16/message": {
+                "orig": "That was quite an awakening today, huh?",
+                "text": "Quelle révélation c'était, aujourd'hui, hein ?",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/17/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/18/message": {
+                "orig": "Back when we were in that wasteland...",
+                "text": "À l'époque où on était dans cette friche industrielle..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/19/message": {
+                "orig": "I sort of suspected where things were going...\n",
+                "text": "... je me doutais un peu de comment ça allait se terminer..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/20/message": {
+                "orig": "But, oh Junge...",
+                "text": "Mais...\\. Oh Junge..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/21/message": {
+                "orig": "When I was presented with the facts...\\. I still wasn't ready.",
+                "text": "Quand on m'a annoncé la couleur...\\. Je n'étais toujours pas prêt."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/22/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/23/message": {
+                "orig": "Reborn as an \\c[3]Evotar\\c[0].",
+                "text": "De renaitre en tant qu'\\c[3]Évotar\\c[0]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/24/message": {
+                "orig": "I still keep remembering my old days...\n",
+                "text": "Je continue encore de me souvenir de ma vie passée..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/25/message": {
+                "orig": "My tiny apartment,\\. my boring job...",
+                "text": "Mon petit appart,\\. mon travail ennuyeux..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/26/message": {
+                "orig": "To be honest, it really wasn't the best life.",
+                "text": "Pour être honnête, ce n'était pas la belle vie."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/27/message": {
+                "orig": "But still...\\. now it's all just...\\. gone.",
+                "text": "Mais malgré cela...\\. Maintenant, tout ça c'est...\\. fini."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/28/message": {
+                "orig": "Just what exactly are we now?\\. What are we supposed to do?",
+                "text": "Qu'est-ce qu'on est devenu là ?\\. Qu'est-ce qu'on est censé faire ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/29/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/30/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/31/message": {
+                "orig": "Well, I just hope they come up with something good!",
+                "text": "Bon, j'espère juste qu'ils finiront par trouver quelque chose de bien !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/32/message": {
+                "orig": "Instatainment that is.",
+                "text": "Instatainment, je veux dire."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/33/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/34/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/35/message": {
+                "orig": "I better rest over the whole thing.\n",
+                "text": "Il faudrait mieux que je dorme pour récupérer de tout ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/43/message": {
+                "orig": "See you tomorrow, Lea.",
+                "text": "À demain, Lea."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/912/settings/npcStates/2/event/44/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/15/message": {
+                "orig": "Alright, time to hit the hay! ",
+                "text": "Bon, je file au plumard !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/16/message": {
+                "orig": "Gotta sleep on that whole thing!",
+                "text": "Je dois dormir pour récupérer de tout ça !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/17/message": {
+                "orig": "Good night, Monsieur!",
+                "text": "Bonne nuit, Monsieur !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/18/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/29/message": {
+                "orig": "Man, what a day...",
+                "text": "Eh ben, quelle journée..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/30/message": {
+                "orig": "I sure hope that Luke will get used to the whole thing.\n",
+                "text": "J'espère juste que Luke s'habituera à tout ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/31/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/32/message": {
+                "orig": "Haaah, but finally it's done!\\. We finished the raid!\\. Feels good!",
+                "text": "Haaah, mais enfin on l'a fini !\\. On a fini le raid !\\. Ça fait du bien !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/33/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/34/message": {
+                "orig": "Too bad we had one person missing.",
+                "text": "C'est dommage qu'il nous manque une personne."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/35/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/36/message": {
+                "orig": "Good old Tronny.\\. You remember, non?",
+                "text": "Ce bon vieux Tronny.\\. Tu t'en souviens, non ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/37/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/38/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/39/message": {
+                "orig": "He never showed up again, you know?",
+                "text": "Il n'a jamais montré le bout de son nez depuis..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/40/message": {
+                "orig": "Ever since we got the Meteor Shade... ",
+                "text": "Depuis qu'on a eu le Symbole de la Météorite..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/41/message": {
+                "orig": "And some time ago, his account just disappeared.",
+                "text": "Et depuis quelques temps, son compte a juste disparu."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/42/message": {
+                "orig": "I guess he's gone for good.",
+                "text": "J'imagine qu'il est parti pour de bon."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/43/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/44/message": {
+                "orig": "Never even said goodbye properly, that dork!\n",
+                "text": "Il nous a jamais vraiment dit au revoir, cette andouille !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/45/message": {
+                "orig": "Well, he certainly missed out today!",
+                "text": "Bon, en tout cas, il a vraiment raté cette journée !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/46/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/47/message": {
+                "orig": "I gotta go now!\\. See you around, Lea!\n",
+                "text": "Donc ! Il faut que j'y aille maintenant !\\. À plus, Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/48/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/50/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/59/message": {
+                "orig": "Uhm... Hello, Lea!",
+                "text": "Uhm... Bonjour, Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/60/message": {
+                "orig": "Hi?",
+                "text": "Salut ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/61/message": {
+                "orig": "I just heard you two talking about C'tron...",
+                "text": "Je viens juste de vous entendre parler de C'tron..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/62/message": {
+                "orig": "That reminded me of something I wanted to discuss with you.",
+                "text": "Ça me rappelle de quelque chose que je voulais discuter avec toi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/63/message": {
+                "orig": "I suggest we do this at your house, though.",
+                "text": "Je suggère que l'on fasse cela dans ta maison, par contre."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/64/message": {
+                "orig": "If you have time, I can quickly drop by with my avatar.",
+                "text": "Si tu as le temps, je peux passer rapidement avec mon avatar."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/65/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/66/message": {
+                "orig": "Alright.\\. I will see you there.\n",
+                "text": "Bien.\\. À bientôt."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/913/settings/event/78/task": {
+                "orig": "Go to your house in \\c[3]Homestedt\\c[0] to meet up with Sergey.",
+                "text": "Allez dans votre maison à \\c[3]\\v[area.evo-village.name]\\c[0] pour rencontrer Sergey."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/10/message": {
+                "orig": "This is a lovely village...",
+                "text": "Il est joli ce village..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/11/message": {
+                "orig": "So...\\. I'll just walk around with Lea and hopefully remember things?",
+                "text": "Donc...\\. Je dois juste me promener avec Lea et espérer me souvenir de quelque chose ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/13/message": {
+                "orig": "That is right. ",
+                "text": "C'est exact."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/14/message": {
+                "orig": "Lea should know a few places that might trigger your memories.",
+                "text": "Lea devrait connaitre quelques endroits qui devraient te rappeler des souvenirs."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/16/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/17/message": {
+                "orig": "Okey-dokey!",
+                "text": "Dacodac !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/18/message": {
+                "orig": "Good luck, you two!",
+                "text": "Bonne chance, vous deux !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/20/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/28/message": {
+                "orig": "Alright, soo...\\. Let's go?",
+                "text": "OK, donc...\\. c'est parti ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/29/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/31/titleText": {
+                "orig": "You remembered a place!",
+                "text": "Vous vous souvenez d'un endroit !",
+                "note": "oh rly"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/31/text": {
+                "orig": "That trading booth at the market in Ba'kii Kum...",
+                "text": "Cet étal au marché de \\v[area.heat-village.name]..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/914/settings/event/38/task": {
+                "orig": "Go to that trading booth in \\c[3]Ba'kii Kum - Market\\c[0].",
+                "text": "Allez à l'étal au \\c[3]Marché de \\v[area.heat-village.name]\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/9/message": {
+                "orig": "That really went much more quickly than I expected.",
+                "text": "Ça a été bien plus rapide que ce à quoi je m'attendais."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/11/message": {
+                "orig": "By the way...",
+                "text": "D'ailleurs..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/12/message": {
+                "orig": "We should keep C'tron's background a secret for now.",
+                "text": "Il faudrait garder les antécédents de C'tron secrets pour l'instant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/13/message": {
+                "orig": "It will probably make things complicated when everyone learns about his relationship with Sidwell.",
+                "text": "Ça va certainement rendre les choses compliquées si tout le monde apprend qu'il est lié à Sidwell."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/15/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/16/message": {
+                "orig": "Well then...",
+                "text": "Bon, alors..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/17/message": {
+                "orig": "You probably should get some rest soon as well.",
+                "text": "Tu ferais mieux aussi de ne pas trop tarder pour aller dormir."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/18/message": {
+                "orig": "I will be offline again.\\. Good night.\n",
+                "text": "Je vais encore me déconnecter.\\. Bonne nuit."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/19/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/21/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/915/settings/event/31/task": {
+                "orig": "It's time to \\c[3]go to bed\\c[0]!",
+                "text": "Il est temps d'\\c[3]aller au lit\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/12/message": {
+                "orig": "Spheromancer Lea!",
+                "text": "Spheromanceuse Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/13/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/18/message": {
+                "orig": "Finally you have returned!!",
+                "text": "Enfin tu es de retour !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/28/message": {
+                "orig": "Hi!!",
+                "text": "Salut !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/37/message": {
+                "orig": "Welcome back!",
+                "text": "Rebonjour !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/39/message": {
+                "orig": "Nice to see you again.",
+                "text": "Ravi de te revoir."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/54/message": {
+                "orig": "Hi...",
+                "text": "Salut..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/55/message": {
+                "orig": "Sorry, my avatar is still not made for hugging...",
+                "text": "Désolé, mon avatar est toujours pas conçu pour faire des calins..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/64/message": {
+                "orig": "We are both very sorry for being late!",
+                "text": "Nous sommes tous les deux très désolés pour le retard !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/65/message": {
+                "orig": "We wanted to be there on the day you came back!",
+                "text": "On voulait être là le jour où tu reviendrais !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/66/message": {
+                "orig": "But alas, fate had other plans!",
+                "text": "Mais hélas, le destin en a fait autrement !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/68/message": {
+                "orig": "Polly and I were on vacation, that's why.",
+                "text": "Polly et moi on était en vacance, c'est pour ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/69/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/71/message": {
+                "orig": "At least we came back in time for another occasion!",
+                "text": "Au moins on est revenu à temps pour une autre occasion !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/72/message": {
+                "orig": "For as of this day, a \\c[3]new area\\c[0] has become available!",
+                "text": "Car depuis aujourd'hui, une \\c[3]nouvelle zone\\c[0] est disponible !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/73/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/74/message": {
+                "orig": "And I also heard rumors that, at last, the final dungeon of the track is close to being released!",
+                "text": "Et j'ai aussi entendu des rumeurs que, enfin, le donjon final du tracé va bientôt sortir !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/75/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/76/message": {
+                "orig": "However!",
+                "text": "Mais !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/77/message": {
+                "orig": "There is another matter of \\c[3]grave importance\\c[0]!",
+                "text": "Il y a un autre sujet d'une \\c[3]haute importance\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/78/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/87/message": {
+                "orig": "LEA!!!",
+                "text": "LEA !!!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/96/message": {
+                "orig": "Tronny!\\. He's back!",
+                "text": "Tronny !\\. Il est de retour !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/97/message": {
+                "orig": "Look at him!\\. He's back!!",
+                "text": "Regarde le !\\. Il est de retour !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/99/message": {
+                "orig": "I told you, she knows that already.\n",
+                "text": "Je te l'ai dis, elle le sait déjà."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/100/message": {
+                "orig": "Also, he's an \\c[3]Evotar\\c[0]!",
+                "text": "Et en plus, c'est un \\c[3]Évotar\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/102/message": {
+                "orig": "WHY?!\\. Why is he an Evotar?!",
+                "text": "POURQUOI ?!\\. Pourquoi c'est un Évotar ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/103/message": {
+                "orig": "Why are you asking Lea of all people?",
+                "text": "Pourquoi demander ça à Lea ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/104/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/105/message": {
+                "orig": "Really, what kind of response did you expect?",
+                "text": "Tu t'attendais à quoi d'autre comme réponse ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/106/message": {
+                "orig": "But I want to \\s[6]knoooow!",
+                "text": "Mais je veux \\s[6]savoiiiir !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/111/message": {
+                "orig": "Excuse me, Pentafist?",
+                "text": "Excuse-moi, Pentafist ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/112/message": {
+                "orig": "We were just about to discuss important matters here!",
+                "text": "On était juste en train de discuter de choses importantes là !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/114/message": {
+                "orig": "Oh no, grasshead is back.\n",
+                "text": "Oh non, Monsieur tête-d'herbe est de retour."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/127/message": {
+                "orig": "Spheromancer Lea!",
+                "text": "Spheromanceuse Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/128/message": {
+                "orig": "The time for our \\c[3]final duel\\c[0] is nigh!!",
+                "text": "L'heure de notre \\c[3]duel final\\c[0] approche !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/129/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/139/message": {
+                "orig": "What's with all the theatre out there?!",
+                "text": "C'est quoi tout ce théâtre là-bas ?!",
+                "note": "ils sont fermés, les théâtres..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/140/message": {
+                "orig": "This is supposed to be a quiet neighborhood! ",
+                "text": "Vous pouvez pas faire moins fort ?",
+                "note": "this de"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/144/message": {
+                "orig": "Oh no!\\. Grumpy neighbor alert!",
+                "text": "Oh non !\\. On a réveillé le voisin !",
+                "note": "\"Alerte au voisin ronchon\" does not cut it"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/145/message": {
+                "orig": "Lea, please.\\. Why is Tronny back?",
+                "text": "Lea, s'il te plait.\\. Pourquoi Tronny est de retour ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/147/message": {
+                "orig": "Wait.",
+                "text": "Attends."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/151/message": {
+                "orig": "Don't you just ignore my honorable challenge!",
+                "text": "N'espère pas pouvoir juste ignorer mon défi honorable !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/153/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/163/message": {
+                "orig": "\\s[6]Waaaaaaaaaaaaaaaaaait!\\.\\.",
+                "text": "\\s[6]Atteeeeeeeeeeeeeeends !\\.\\."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/181/message": {
+                "orig": "So...\\. he was simply found on the Evotar server?",
+                "text": "Donc...\\. Vous l'avez simplement retrouvé sur le serveur des Évotars ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/183/message": {
+                "orig": "Yes, and we do not know why.",
+                "text": "Oui, et on ne sait pas pourquoi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/184/message": {
+                "orig": "Wait...\\. Does this mean Tronny has been an Evotar \\c[3]all along\\c[0]?",
+                "text": "Attends...\\. Est-ce que ça veut dire que Tronny a été un Évotar \\c[3]depuis le début\\c[0] ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/185/message": {
+                "orig": "Not necessarily...\\. we do not know that either.",
+                "text": "Pas nécessairement...\\. On ne sait pas non plus."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/186/message": {
+                "orig": "And here I was hoping to get answers.",
+                "text": "Et moi qui pensait avoir des réponses."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/193/message": {
+                "orig": "At least I seem to remember most things from when we played together.",
+                "text": "Au moins je pense me rappeler de la plupart des choses de quand on jouait ensemble."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/195/message": {
+                "orig": "Oui! Of course it's great that you're back!",
+                "text": "Oui ! Bien sûr c'est cool que tu sois de retour !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/196/message": {
+                "orig": "If...\\. you are the real Tronny.",
+                "text": "Si...\\. tu es le vrai Tronny."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/198/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/199/message": {
+                "orig": "I wouldn't even know that myself.\\. Sorry.",
+                "text": "Même ça j'en suis pas sûr.\\. Désolé."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/204/message": {
+                "orig": "Spheromancer Lea, can we now finally discuss our duel?",
+                "text": "Spheromanceuse Lea, est-ce qu'on peut enfin discuter de notre duel ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/207/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/218/message": {
+                "orig": "Alright!\\. Do you accept?",
+                "text": "Bon !\\. Est-ce que tu acceptes ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/219/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/222/message": {
+                "orig": "Perfect!\\. That's all I wanted to hear!",
+                "text": "Parfait !\\. C'est tout ce que je voulais entendre !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/1/message": {
+                "orig": "So you seriously didn't give up on those duels?",
+                "text": "Donc tu n'as toujours pas abandonné ces duels ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/2/message": {
+                "orig": "Don't you remember her \\c[1]damage glitch\\c[0]!",
+                "text": "Tu te souviens pas de ses \\c[1]dégâts glitchés\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/4/message": {
+                "orig": "I do and I contacted Sergey about it!",
+                "text": "Bien sûr et j'en ai parlé avec Sergey !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/5/message": {
+                "orig": "And he said that he might find a way to remove it now!",
+                "text": "Et il a dit qu'il pourrait trouver un moyen de l'enlever !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/6/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/8/message": {
+                "orig": "Right...\\. I did say that.",
+                "text": "Oui...\\. J'ai dis ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/9/message": {
+                "orig": "That's why I'm looking forward to a \\c[1]fair\\c[0] and \\c[1]honorable duel\\c[0]!",
+                "text": "C'est pour ça que je suis impatient d'avoir un \\c[1]duel honorable\\c[0] et \\c[1]équitable\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/223/thenStep/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/224/message": {
+                "orig": "However, I'd like to make a suggestion!",
+                "text": "Mais, je souhaite faire une suggestion !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/225/message": {
+                "orig": "Let's hold our duel after we've \\c[3]explored the new area\\c[0]!",
+                "text": "Faisons notre duel après avoir \\c[3]exploré la nouvelle zone\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/226/message": {
+                "orig": "That way we can gather better equipment and rise to our full potential!",
+                "text": "Comme cela, on peut obtenir un meilleur équipement et développer tout notre potentiel !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/227/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/228/message": {
+                "orig": "You can get to the new area via the \\c[3]southwest beach of Rhombus Square\\c[0]!",
+                "text": "Tu peux atteindre la nouvelle zone via la \\c[3]plage sud-ouest de \\v[area.rhombus-sqr.name]\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/229/message": {
+                "orig": "I heard it's quite the nice place.\n",
+                "text": "J'ai cru comprendre que c'était un coin très sympa."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/235/message": {
+                "orig": "Oh!\\. They released the new location today?",
+                "text": "Oh !\\. Ils ont sorti la nouvelle zone aujourd'hui ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/237/message": {
+                "orig": "We should totally explore it together!",
+                "text": "Il faut absolument qu'on l'explore ensemble !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/238/message": {
+                "orig": "You too, Tronny!",
+                "text": "Toi aussi, Tronny !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/240/message": {
+                "orig": "Sure...\\. we can do that.",
+                "text": "Bien sûr...\\. On peut faire comme ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/241/message": {
+                "orig": "Just tell us when you want to make a party, Lea!\n",
+                "text": "Dis-le-nous si tu veux former un groupe, Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/242/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/243/message": {
+                "orig": "See you around!",
+                "text": "À plus tard !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/255/message": {
+                "orig": "Be prepared, Spheromancer Lea!",
+                "text": "Soit prête, Spheromanceuse Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/257/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/264/message": {
+                "orig": "By the way, love the village.\\. Great place!",
+                "text": "D'ailleurs, j'adore ce village.\\. C'est vraiment sympa !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/265/message": {
+                "orig": "See you soon!",
+                "text": "À bientôt !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/273/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/278/message": {
+                "orig": "They all just had to arrive at the same time, huh?",
+                "text": "Il fallait qu'ils arrivent tous au même moment, hein ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/279/message": {
+                "orig": "That new area sounds interesting, though.",
+                "text": "Cette nouvelle zone à l'air intéressante, par contre."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/280/message": {
+                "orig": "I might check that out as well.\n",
+                "text": "Peut-être que j'irais y faire un tour."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/918/settings/event/308/task": {
+                "orig": "Enter the new area via \\c[3]Rhombus Square - SW Beach\\c[0].",
+                "text": "Entrez dans la nouvelle zone via la \\c[3]Plage Sud-ouest de \\v[area.rhombus-sqr.name]\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/922/settings/event/19/task": {
+                "orig": "See what C'tron and Satoshi are up to in \\c[3]Homestedt - Centrum\\c[0].",
+                "text": "Voyez ce que C'tron et Satoshi mijotent au \\c[3]Centre de \\v[area.evo-village.name]\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/3/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/7/message": {
+                "orig": "Oh!\\. Welcome back, Lea.",
+                "text": "Oh !\\. Rebonjour, Lea."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/8/message": {
+                "orig": "Did you like the new area?",
+                "text": "Tu as apprécié la nouvelle zone ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/9/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/9/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/9/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/9/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/10/message": {
+                "orig": "Heh...\\. I'll forward that feedback to the developers!",
+                "text": "Ha...\\. je transmettrais tes impressions au développeurs !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/11/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/16/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/18/message": {
+                "orig": "Hm?\\. What's the matter?",
+                "text": "Hmm ?\\. Qu'est-ce qu'il y a ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/20/message": {
+                "orig": "Maybe she's wondering what we're both up to.",
+                "text": "Peut-être qu'elle se demande ce qu'on trafique."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/21/message": {
+                "orig": "Obviously, we were discussing our plans on achieving Evotar supremacy.\\. Care to join us?",
+                "text": "Naturellement, on était en train de discuter de nos plans pour atteindre la suprématie des Évotars.\\. Tu veux nous rejoindre ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/22/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/23/message": {
+                "orig": "Haha!",
+                "text": "Haha !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/24/message": {
+                "orig": "We were just having a little chat, nothing special about it.",
+                "text": "On était juste en train de discuter, rien de plus."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/26/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/27/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/28/message": {
+                "orig": "Well, actually...",
+                "text": "Bon, en fait..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/29/message": {
+                "orig": "I told Satoshi about my \\c[3]working relationship with Sidwell\\c[0].",
+                "text": "J'ai parlé à Satoshi de ma \\c[3]collaboration avec Sidwell\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/30/message": {
+                "orig": "I felt like I had to apologize for all the things I've contributed to.",
+                "text": "Il fallait que je m'excuse pour tout ce à quoi j'ai contribué."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/31/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/37/message": {
+                "orig": "Apology accepted.",
+                "text": "Excuses acceptées."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/38/message": {
+                "orig": "A lot of people were involved in the whole thing.",
+                "text": "Tant de personnes ont été impliquées dans cette histoire."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/39/message": {
+                "orig": "Being forced to do things they didn't stand for.",
+                "text": "À être forcé à faire des choses qu'ils ne voulaient pas."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/40/message": {
+                "orig": "Just like \\c[3]Gautham\\c[0].",
+                "text": "Comme \\c[3]Gautham\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/41/message": {
+                "orig": "May he rest in peace.",
+                "text": "Qu'il puisse reposer en paix."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/43/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/45/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/53/message": {
+                "orig": "I don't think we ever had the chance to meet before Homestedt, did we?",
+                "text": "Je ne crois pas que nous ayons eu la chance de nous rencontrer avant \\v[area.evo-village.name], pas vrai ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/55/message": {
+                "orig": "I don't think so...",
+                "text": "Je ne crois pas..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/56/message": {
+                "orig": "I suppose Sidwell must have had other people working for him without us being aware.",
+                "text": "J'imagine que Sidwell devait avoir d'autres personnes qui travaillent pour lui sans qu'on soit au courant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/57/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/58/message": {
+                "orig": "So what was it like, working for him?",
+                "text": "Donc qu'est-ce que ça fait, de travailler pour lui ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/59/message": {
+                "orig": "And how did you get involved in the first place?",
+                "text": "Et comment tu as été impliqué là-dedans ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/60/message": {
+                "orig": "Well...\\. I still don't remember most things all that clearly, unfortunately.",
+                "text": "Bien...\\. Je me souviens pas encore très bien de tout, malheureusement."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/61/message": {
+                "orig": "I think I was a student back then?\n",
+                "text": "Je crois que j'étais un étudiant à l'époque ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/62/message": {
+                "orig": "I think someone got in touch with me over email.",
+                "text": "Il me semble que quelqu'un m'a contacté par e-mail.",
+                "note": "lulz, email. in the (no-)future."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/63/message": {
+                "orig": "I guess in the end it was just a little side gig. \n",
+                "text": "Au final, ça devait être un petit boulot."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/64/message": {
+                "orig": "Watching specific players, gathering information, reporting back...\n",
+                "text": "Surveiller certains joueurs, récolter des informations, faire un rapport..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/65/message": {
+                "orig": "You essentially earned money while playing a game...",
+                "text": "On gagnait de l'argent en jouant à un jeu..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/69/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/70/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/72/message": {
+                "orig": "I'm sorry, Lea.",
+                "text": "Je suis désolé, Lea."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/73/message": {
+                "orig": "I really regret the whole thing ever since I got to know you better.",
+                "text": "Je regrette sincèrement tout ça depuis que j'ai appris à te connaitre."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/74/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/76/message": {
+                "orig": "And then your avatar ended up on the Evotar Server. ",
+                "text": "Et ensuite ton avatar s'est retrouvé sur le Serveur des Évotars."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/77/message": {
+                "orig": "To me, that's the strangest part, really.",
+                "text": "Pour moi, c'est la partie la plus étrange, vraiment."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/78/message": {
+                "orig": "Yeah, I can only guess why that happened.",
+                "text": "Oui, je ne l'explique pas non plus."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/79/message": {
+                "orig": "Maybe Sidwell wanted access to more information from his employees?",
+                "text": "Peut-être que Sidwell voulait avoir plus d'information de ses employés ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/80/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/81/message": {
+                "orig": "I suppose that might be.",
+                "text": "Ça pourrait être ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/82/message": {
+                "orig": "It's certainly useful to blackmail your people into submission.",
+                "text": "C'est sans doute pratique pour faire du chantage pour vous forcer à collaborer."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/83/message": {
+                "orig": "Let's hope that we'll find all the answers as my memory returns.",
+                "text": "Éspérons qu'on trouvera toutes les réponses quand mes souvenirs reviendrons."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/84/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/89/message": {
+                "orig": "I'm feeling tired.\\. Guess it's time for a small nap.\n",
+                "text": "Je me sens vraiment fatigué.\\. Peut-être qu'il est temps de roupiller un peu."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/90/message": {
+                "orig": "See you tomorrow!",
+                "text": "À demain !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/93/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/94/message": {
+                "orig": "Good night!",
+                "text": "Bonne nuit !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/101/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/102/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/105/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/110/message": {
+                "orig": "Hello Lea!",
+                "text": "Salut Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/111/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/112/message": {
+                "orig": "I am currently over at the Cargo Ship to pay Carla and Jet a small visit.\n",
+                "text": "Je suis actuellement sur le Porte-Conteneur pour rendre visite à Carla et Jet."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/113/message": {
+                "orig": "They would love to see you again as well.",
+                "text": "Ils adoreraient pouvoir te revoir."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/114/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/115/message": {
+                "orig": "So I activated the landmark in the cargo hold.",
+                "text": "Donc j'ai activé le point de repère dans la soute."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/116/message": {
+                "orig": "Why don't you quickly drop by?",
+                "text": "Pourquoi est-ce que tu passerais pas ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/117/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/924/settings/event/123/task": {
+                "orig": "Visit Jet and the others at the \\c[3]Cargo Ship\\c[0]!",
+                "text": "Rendez visite à Jet et aux autres sur le \\c[3]Porte-Conteneur\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/11/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/12/message": {
+                "orig": "Next time you plan to interrogate someone, please let me know first.",
+                "text": "La prochaine fois que tu prévois d'interroger quelqu'un, s'il te plait, dis-le-moi avant."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/13/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/14/message": {
+                "orig": "I understand that all of this must be quite personal to you.\n",
+                "text": "Je comprends que tout cela soit très personnel pour toi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/15/message": {
+                "orig": "But we all want to learn the whole story. ",
+                "text": "Mais au final, on veut tous connaitre le fin mot de l'histoire."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/16/message": {
+                "orig": "And we definitely need to collaborate to get there.",
+                "text": "Et il faut absolument que l'on collabore pour y arriver."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/17/message": {
+                "orig": "Sorry.",
+                "text": "Désolée."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/18/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/19/message": {
+                "orig": "Well, today certainly was an important step.",
+                "text": "Bon, aujourd'hui c'était probablement une étape importante."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/20/message": {
+                "orig": "Let us hope that C'tron remembers more of his past.",
+                "text": "Espérons que C'tron se souvienne plus de son passé."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/21/message": {
+                "orig": "Because I am still puzzled about the fact he ended up on that Evotar Server.",
+                "text": "Parce que je suis toujours perplexe qu'il se soit retrouvé sur ce Serveur des Évotars."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/22/message": {
+                "orig": "Especially if he truly is Sidwell's Evotar.",
+                "text": "Surtout si c'est réellement l'Évotar de Sidwell."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/23/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/24/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/25/message": {
+                "orig": "I will be going then.\\. Make sure to get some sleep, Lea.",
+                "text": "Je vais y aller alors.\\. Fait en sorte de dormir un peu, Lea."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/26/message": {
+                "orig": "Bye.",
+                "text": "Bye."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/28/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/925/settings/event/39/task": {
+                "orig": "Go to bed in your house in \\c[3]Homestedt\\c[0]. For real now.",
+                "text": "Allez au lit dans votre maison à \\c[3]\\v[area.evo-village.name]\\c[0]. Vraiment cette fois."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/928/settings/event/4/message": {
+                "orig": "Okay then!\\. Let's see what big brother is up to.",
+                "text": "OK !\\. Voyons voir ce que le grand frérot traficote."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/928/settings/event/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/8/message": {
+                "orig": "\\s[6]Waaaaaaaaaaaaiiiiiiiiiiit!",
+                "text": "\\s[6]Atteeeeeeeeeeeeeeeeeeeends !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/16/message": {
+                "orig": "Hey...",
+                "text": "Hé..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/17/message": {
+                "orig": "Good morning, Lea.",
+                "text": "Bonjour, Lea !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/18/message": {
+                "orig": "Do not worry, I just arrived.",
+                "text": "Ne t'inquiète pas, je viens d'arriver."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/19/message": {
+                "orig": "....",
+                "text": "...."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/23/message": {
+                "orig": "\\s[6]Waaaaaaaaaaaaiiiiiiiiiiit!",
+                "text": "\\s[6]Attendeeeeeeeeeeeeeeeez !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/30/message": {
+                "orig": "Why did nobody tell me about this meeting?",
+                "text": "Pourquoi personne ne m'a rien dit de cette réunion ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/31/message": {
+                "orig": "Oh well...",
+                "text": "Eh bien..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/37/message": {
+                "orig": "What's the news, Monsieur Asimov?",
+                "text": "C'est quoi les nouvelles, Monsieur Asimov ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/41/message": {
+                "orig": "Well... I talked to Jet and the others.",
+                "text": "Bien... J'ai parlé à Jet et aux autres."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/42/message": {
+                "orig": "Tonight, we will be able to sneak into Vermillion Wasteland one last time.",
+                "text": "Ce soir, on pourra entrer en cachette à \\v[area.arid.name] une dernière fois."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/43/message": {
+                "orig": "Awesome!\\. Let's go then!",
+                "text": "Super !\\. Allons-y alors !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/44/message": {
+                "orig": "Wait a moment.\\. I only expected C'tron to go there.",
+                "text": "Attendez un peu.\\. Je m'attendais juste à ce que C'tron y aille."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/45/message": {
+                "orig": "Tronny, just by himself?",
+                "text": "Tronny, à lui tout seul ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/46/message": {
+                "orig": "He might just remember things and \\c[1]collapse\\c[0]!",
+                "text": "Il pourrait se rappeler de quelque chose et s'\\c[1]évanouir\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/47/message": {
+                "orig": "Then what?",
+                "text": "Et ensuite ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/49/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/50/message": {
+                "orig": "Poor Tronny needs our help!",
+                "text": "Le pauvre Tronny a besoin de notre aide !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/52/message": {
+                "orig": "Come on...",
+                "text": "Roh allez..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/53/message": {
+                "orig": "I suppose you have a point.",
+                "text": "Là-dessus tu n'as pas tout a fait tord..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/54/message": {
+                "orig": "I...\\. will have to check with Jet.",
+                "text": "Je...\\. vais devoir en parler à Jet."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/55/message": {
+                "orig": "Thanks!",
+                "text": "Merci !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/56/message": {
+                "orig": "Très bien!",
+                "text": "Très bien !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/60/message": {
+                "orig": "In any case...\\. we will start the whole operation \\c[3]tonight\\c[0].",
+                "text": "En tout cas...\\. on démarrera l'opération \\c[3]ce soir\\c[0]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/61/message": {
+                "orig": "Let us meet in \\c[3]C'tron's House to start things off\\c[0].",
+                "text": "Rencontrons nous dans la \\c[3]Maison de C'tron pour démarrer les choses\\c[0].",
+                "note": "which is still named Tobi's House by the way"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/62/message": {
+                "orig": "Make sure you are well prepared.",
+                "text": "Assurez-vous d'être bien préparés."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/65/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/71/message": {
+                "orig": "Alright!\\. Tonight it is!",
+                "text": "OK !\\. Alors c'est ce soir !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/72/message": {
+                "orig": "Let me know if you feel like doing any last minute grinding together!",
+                "text": "Dites-le-moi si vous voulez grinder un peu pendant les minutes qu'ils nous restent !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/74/message": {
+                "orig": "Same!",
+                "text": "Pareil !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/929/settings/event/97/task": {
+                "orig": "Prepare and enter \\c[3]C'tron's House\\c[0] to start your last infiltration of Vermillion Wasteland.",
+                "text": "Soyez prêts et allez à la \\c[3]Maison de C'tron\\c[0] pour démarrer votre dernière infiltration de \\v[area.arid.name]."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/930/settings/event/28/text": {
+                "orig": "The day had arrived.\\.\nWe had to tell them.\\.\nEveryone involved.",
+                "text": "Le jour est arrivé.\\.\nIl fallait qu'on leur dise.\\.\nÀ ceux qui étaient impliqués."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/12/message": {
+                "orig": "Hi!!",
+                "text": "Salut !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/14/message": {
+                "orig": "Tronny!!",
+                "text": "Tronny !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/16/message": {
+                "orig": "Hey...",
+                "text": "Hé..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/17/message": {
+                "orig": "We made our decision!\\. \\c[3]You can stay\\c[0]!",
+                "text": "On a pris notre décision !\\. \\c[3]Tu peux rester\\c[0] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/18/message": {
+                "orig": "W-What?",
+                "text": "Q-Quoi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/19/message": {
+                "orig": "For real?!",
+                "text": "V-Vraiment ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/20/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/21/message": {
+                "orig": "Oui!",
+                "text": "Oui !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/25/message": {
+                "orig": "Of course, we hope to have your full support in trying to catch Sidwell.",
+                "text": "Bien sûr, on compte sur ton entière collaboration pour essayer d'attrapper Sidwell."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/27/message": {
+                "orig": "That...\\. That goes without saying!",
+                "text": "Ça...\\. Ça va sans le dire !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/31/message": {
+                "orig": "I...\\. I really don't know what to say...\n",
+                "text": "Je...\\. Je ne sais vraiment pas quoi dire...",
+                "note": "of course, it's designed to"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/32/message": {
+                "orig": "Thanks... ",
+                "text": "Merci..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/931/settings/event/33/message": {
+                "orig": "Thank you so much!!",
+                "text": "Merci beaucoup !!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/20/message": {
+                "orig": "As you probably know, Lea cannot write.",
+                "text": "Comme vous le savez sans doute déjà, Lea ne peut pas écrire."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/21/message": {
+                "orig": "However, I found a way for her to look for words reasonably fast!",
+                "text": "Mais par contre, j'ai trouvé un moyen pour qu'elle puisse chercher des mots suffisamment rapidement !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/26/message": {
+                "orig": "And here it is, the \\c[3]Lea-Board\\c[0]!",
+                "text": "Et la voilà, la \\c[3]Lea-Board\\c[0] !",
+                "note": "\"ouais t'a vu ma board\" works for so many things..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/27/message": {
+                "orig": "How about a demonstration, Lea?",
+                "text": "Que dirais-tu d'une petite démonstration, Lea ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/33/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/35/message": {
+                "orig": "\\c[2][Hi!] [Lea!] [Why?]\\c[0]",
+                "text": "\\c[2][Salut !] [Lea !] [Pourquoi ?]\\c[0]",
+                "note": "that's right, \"remove horns\" would have been better :)"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/40/message": {
+                "orig": "Wow!\\. Amazing improvement!",
+                "text": "Ouah !\\. Quelle grande amélioration !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/46/message": {
+                "orig": "Lea, please!\n",
+                "text": "Lea, s'il te plait !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/47/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/50/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/51/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/53/message": {
+                "orig": "\\c[2][Hello my name is Lea!]\\c[0]",
+                "text": "\\c[2][Bonjour, je m'appelle Lea !]\\c[0]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/57/message": {
+                "orig": "Woah!",
+                "text": "Wouah !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/58/message": {
+                "orig": "Cherie, finally you can communicate!\n",
+                "text": "Chérie, enfin on peut communiquer !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/61/message": {
+                "orig": "Tell me all your hobbies!\\. Right now!",
+                "text": "Parle-moi de tous tes hobbys !\\. Maintenant !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/62/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/65/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/66/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/67/message": {
+                "orig": "\\c[2][Can't...\\. find...\\. words...]",
+                "text": "\\c[2][Trouve...\\. pas...\\. mots...]\\c[0]"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/71/message": {
+                "orig": "\\s[5]Noooooooooooooooooo~",
+                "text": "\\s[5]Noooooooooooooooooon~"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/73/message": {
+                "orig": "Well, it is a start!",
+                "text": "Bon, c'est que le début !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/34/message": {
+                "orig": "Finally, after plenty of redesigns...",
+                "text": "Finalement, après de nombreux changements de design..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/35/message": {
+                "orig": "Today, we can proudly present to you:",
+                "text": "Aujourd'hui, nous pouvons enfin vous présenter :"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/36/message": {
+                "orig": "Homestedt's very own \\c[3]monument\\c[0]!",
+                "text": "Le véritable \\c[3]monument\\c[0] de \\v[area.evo-village.name] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/47/message": {
+                "orig": "WHAT?!",
+                "text": "QUOI ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/50/message": {
+                "orig": "It's a HUGE LEA!",
+                "text": "C'est une LEA GÉANTE !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/54/message": {
+                "orig": "Wow!\\. Nice!\\. I honestly expected a display of Satoshi.",
+                "text": "Waouh !\\. Sympa !\\. Je m'attendais vraiment à une représentation de Satoshi."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/58/message": {
+                "orig": "Truth is...\\. that's what they were originally planning.",
+                "text": "La vérité c'est...\\. ce qu'ils avaient originellement prévu de faire."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/59/message": {
+                "orig": "But I managed to talk them out of it.",
+                "text": "Mais par chance j'ai réussi à les en dissuader."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/67/message": {
+                "orig": "Congratulations, sister.\\. You deserve it!",
+                "text": "Félicitation, petite sœur.\\. Tu l'as vraiment mérité !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/68/message": {
+                "orig": "Thanks...",
+                "text": "Merci..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/937/settings/event/75/message": {
+                "orig": "Thanks!\\. Thanks!\\. Thanks!",
+                "text": "Merci !\\. Merci !\\. Merci !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/16/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/18/message": {
+                "orig": "Hey there!",
+                "text": "Tiens, bonjour !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/19/message": {
+                "orig": "Man, I sure wish we could do something in these gardens.",
+                "text": "Et ben, Si seulement on pouvait faire quelque chose dans ces jardins."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/20/message": {
+                "orig": "Right now it's really all just decoration.",
+                "text": "Pour l'instant, c'est uniquement de la décoration."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/21/message": {
+                "orig": "I'd love to plant my own stuff here.\n",
+                "text": "J'aurais adoré pouvoir planter mes propre trucs ici."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/22/message": {
+                "orig": "Why?",
+                "text": "Pourquoi ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/23/message": {
+                "orig": "Why...?\\. Well...\\. I guess we can't really use any of the fruits either.",
+                "text": "Pourquoi... ?\\. Bon...\\. J'imagine qu'on ne peut pas vraiment profiter des fruits non-plus."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/24/message": {
+                "orig": "But seeing how they made the effort of giving us kitchens...\\. who knows!",
+                "text": "Mais vu qu'ils ont fait l'effort de nous offrir une cuisine...\\. qui sait !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/25/message": {
+                "orig": "Maybe we'll be able to cook!",
+                "text": "Peut-être qu'on pourra cuisiner !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/26/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/939/settings/event/29/message": {
+                "orig": "Then I'll invite you to my world-famous apple pancakes!",
+                "text": "Et ensuite je t'inviterais à mes fameuses crêpes au pommes mondialement connues !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/32/message": {
+                "orig": "We should place some tables and chairs outside, don't you think?",
+                "text": "On devrait mettre quelque tables et des chaises dehors, tu penses pas ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/34/message": {
+                "orig": "Oh Junge...",
+                "text": "Oh, Junge..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/35/message": {
+                "orig": "Let me see if I can get something from inside my house...",
+                "text": "Voyons voir si je peux aller chercher quelque chose chez moi..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/44/message": {
+                "orig": "So...\\. I can just put those on the grill?",
+                "text": "Donc...\\. Je peux simplement les mettre sur le grill ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/45/message": {
+                "orig": "Yes, as far as I understood...",
+                "text": "Oui, de ce que j'ai compris..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/46/message": {
+                "orig": "Just like the real thing?",
+                "text": "Comme si c'était des vrais ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/47/message": {
+                "orig": "Pretty much... ",
+                "text": "Oui..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/48/message": {
+                "orig": "Just much harder to burn, I heard!",
+                "text": "C'est juste bien plus difficile à cramer, à ce qui parait !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/49/message": {
+                "orig": "Pfff!\\. Easy mode!",
+                "text": "Pfff !\\. C'est le mode facile ça !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/55/message": {
+                "orig": "Man, I can't wait!",
+                "text": "Bon sang, je peux plus attendre !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/58/message": {
+                "orig": "\\c[2][ Hungry! ]\\c[2]",
+                "text": "\\c[2][ Faim ! ]\\c[0]",
+                "note": "there i fixed it"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/60/thenStep/1/message": {
+                "orig": "Don't you feel a little bit worried?\\. I heard we're the first players to eat this stuff.",
+                "text": "Vous n'êtes pas un peu inquiets ?\\. J'ai cru comprendre qu'on serait les premiers joueurs à manger ça."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/60/thenStep/2/message": {
+                "orig": "Come on, it will be delicious!",
+                "text": "Allez, ça va être délicieux !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/67/message": {
+                "orig": "Greeting, townsfolk of Homestedt!",
+                "text": "Salutations, peuple de \\v[area.evo-village.name] !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/69/message": {
+                "orig": "Looks like we arrived on time!",
+                "text": "On dirait qu'on est arrivé à temps !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/77/message": {
+                "orig": "Come on!\\. Tell me he'll show up, too!",
+                "text": "Allez !\\. Il faut que tu me dises s'il va venir !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/79/message": {
+                "orig": "Buggy, please...",
+                "text": "Buggy, s'il te plait..."
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/80/message": {
+                "orig": "Your stakeholder friend has to be here!",
+                "text": "Ton ami 'stakeholder' doit forcément venir !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/81/message": {
+                "orig": "Who else is supposed to handle the meat?",
+                "text": "Qui d'autre pourra s'occuper des steaks ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/82/message": {
+                "orig": "\\s[5]Nyahahahahahahahahahahahahaha!",
+                "text": "\\s[5]Nyahahahahahahahahahahahahaha !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/83/message": {
+                "orig": "How often do you plan to repeat that joke?",
+                "text": "Combien de fois tu comptes répéter cette blague ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/90/message": {
+                "orig": "Satoshi!",
+                "text": "Satoshi !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/91/message": {
+                "orig": "Get off your desk already!",
+                "text": "Tu vas quitter ton bureau à la fin ?!"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/100/text": {
+                "orig": "Thank you for playing!",
+                "text": "Merci d'avoir joué !"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/103/text": {
+                "orig": "Reset back to before you embarked to Evotarground?",
+                "text": "Revenir en arrière au moment juste avant d'avoir embarqué sur le Terrain des Évotars ?"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/103/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/103/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        }
+}

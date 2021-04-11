@@ -465,5 +465,193 @@
         "extension/post-game/data/maps/beach/path-02.json/entities/880/settings/npcStates/3/event/quest/7/options/1/label": {
                 "orig": "\\c[1]No\\c[0]",
                 "text": "\\c[1]Non\\c[0]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/892/settings/event/3/message": {
+                "orig": "There's more of those beach critters!",
+                "text": "D'autres de ces créatures des plages arrivent !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/893/settings/event/1/message": {
+                "orig": "Checking another spot...",
+                "text": "Je vérifie un autre endroit..."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/893/settings/event/3/text": {
+                "orig": "\\v[tmp.questEscort-inspectText]",
+                "text": "[Inspection]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/893/settings/event/19/text": {
+                "orig": "\\v[tmp.questEscort-pointText]",
+                "text": "[Escortez Linde jusqu'ici]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/893/settings/event/21/message": {
+                "orig": "Good job so far!\\. We're definitely getting closer!",
+                "text": "Bon travail pour l'instant !\\. On s'en rapproche vraiment !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/894/settings/event/3/message": {
+                "orig": "More of them... not my type of day at the beach.",
+                "text": "Et en voilà d'autre... Ce n'est pas ce que j'imaginais comme journée à la plage."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/895/settings/event/1/message": {
+                "orig": "Gotta do another check.\\. I think we're almost there, \\v[lore.title.seeker]!",
+                "text": "Il me faut une autre mesure.\\. Je crois qu'on y est presque, \\v[lore.title.seeker] !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/895/settings/event/2/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/895/settings/event/4/text": {
+                "orig": "\\v[tmp.questEscort-inspectText]",
+                "text": "[Inspection]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/895/settings/event/22/text": {
+                "orig": "\\v[tmp.questEscort-pointText]",
+                "text": "[Escortez Linde jusqu'ici]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/895/settings/event/24/message": {
+                "orig": "Still not the spot.\\. But it leads to that island back there.\\. That MUST be it, \\v[lore.title.seeker]!",
+                "text": "C'est toujours pas là.\\. Mais cela mène à cette îlot là-bas.\\. Ça DOIT être ça, \\v[lore.title.seeker] !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/895/settings/event/25/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/901/settings/event/3/message": {
+                "orig": "They really don't want us to reach the spot, eh?",
+                "text": "Ils ne veulent vraiment pas qu'on atteigne le point, hein ?"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/903/settings/event/1/message": {
+                "orig": "Yes, picking up a lot of energy already.\\. This might be it, \\v[lore.title.seeker]!",
+                "text": "Oui, la concentration d'énergie monte déjà en flèche.\\. Ça pourrait être ça, \\v[lore.title.seeker] !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/903/settings/event/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/903/settings/event/4/text": {
+                "orig": "\\v[tmp.questEscort-inspectText]",
+                "text": "[Inspection]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/903/settings/event/15/message": {
+                "orig": "Investigation done, this is definitely the place!",
+                "text": "Fini l'exploration, c'est certainement le bon endroit !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/903/settings/event/16/thenStep/0/message": {
+                "orig": "Just get rid of the remaining enemies and we can begin extracting the salt!",
+                "text": "Débarassez-nous juste des ennemis qui restent et on pourra commencer à extraire le sel !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/904/settings/event/2/thenStep/0/message": {
+                "orig": "Woah, it works!\\. My back feels hella salty already!",
+                "text": "Ouah, ça fonctionne !\\. Mon dos se sent déjà bien salé !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/904/settings/event/2/thenStep/1/message": {
+                "orig": "Or maybe I'm just sweaty...?",
+                "text": "Ou c'est peut-être juste que je transpire... ?"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/904/settings/event/2/thenStep/2/message": {
+                "orig": "Why...?",
+                "text": "Pourquoi... ?"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/904/settings/event/2/elseStep/0/thenStep/0/message": {
+                "orig": "And another one! Just one more and we're done here, \\v[lore.title.seeker].",
+                "text": "Et un autre ! Encore un et on aura terminé, \\v[lore.title.seeker]."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/904/settings/event/2/elseStep/0/elseStep/0/thenStep/2/thenStep/1/message": {
+                "orig": "Yeah! That's all \\v[lore.title.seeker], great job!",
+                "text": "Yeah ! C'est tout, \\v[lore.title.seeker], super boulot !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/904/settings/event/2/elseStep/0/elseStep/0/thenStep/2/thenStep/2/message": {
+                "orig": "Now we just \\c[3]need to get rid of the rest\\c[0], so we can relax and go back!",
+                "text": "Maintenant il faut juste \\c[3]se débarrasser du reste\\c[0] pour qu'on puisse se détendre et rentrer !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/905/settings/event/0/thenStep/1/message": {
+                "orig": "\\v[lore.title.seeker], I got one!\\. ... still not enough, though.",
+                "text": "\\v[lore.title.seeker], j'en ai eu un !\\. ... mais ça suffit toujours pas."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/905/settings/event/0/thenStep/2/message": {
+                "orig": "We better wait for more to appear, so we can get enough salt!",
+                "text": "Nous devrions attendre que d'autres apparaissent, pour qu'on ait assez de sel !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/905/settings/event/0/elseStep/0/message": {
+                "orig": "Aw, \\v[lore.title.seeker]!\\. All of the salty blobs are gone before we got enough salt!",
+                "text": "Aw, \\v[lore.title.seeker] !\\. Tous ces blobs salés sont partis avant qu'on ait eu assez de sel !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/905/settings/event/0/elseStep/1/message": {
+                "orig": "We better wait for more to appear, so I can fill the tank!",
+                "text": "Nous devrions attendre que d'autres apparaissent, pour que je puisse remplir le réservoir !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/27/name": {
+                "orig": "Linde",
+                "text": "Linde"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/28/message": {
+                "orig": "Yes!\\. We got enough of the precious salt!",
+                "text": "Oui !\\. Maintenant on a assez de sel précieux !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/29/message": {
+                "orig": "This should help HQ to tinker together something that can help against that pesky spirit.",
+                "text": "Ça devrait aider le QG à bricoler quelque chose pour nous aider à contrer ce satané esprit."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/30/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/31/message": {
+                "orig": "I just knew that we'd get this done.\\. Jungle or beach, you can rely on a \\v[lore.title.seeker]!",
+                "text": "Je savais qu'on réussirai ensemble !\\. Dans une jungle ou à la plage, on peut compter sur un \\v[lore.title.seeker] !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/32/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/33/message": {
+                "orig": "But I gotta hurry back to the HQ so we can get our tools ready.\\. I will see you later!",
+                "text": "Mais il faut que je me dépêche de retourner au QG, pour qu'on puisse se préparer.\\. On se voit plus tard !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/34/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/906/settings/event/35/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/909/settings/dialog/0/text": {
+                "orig": "Where the heck is that last Mac Guffin?\\. I swear, I looked everywhere!",
+                "text": "Mais il est où ce dernier foutu Mac Guffin ?\\. Je l'jure, j'ai cherché partout !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/909/settings/dialog/1/text": {
+                "orig": "Nobody knows!\\. Trust me, I asked around.\\. A lot.",
+                "text": "Personne ne sait !\\. Crois-moi, j'ai demandé.\\. À tout le monde."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/909/settings/dialog/2/text": {
+                "orig": "What do you mean?\\. Did no one find it?",
+                "text": "Qu'est-ce que tu dis ?\\. Personne ne l'a trouvé ?"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/909/settings/dialog/3/text": {
+                "orig": "Seems like it.\\. Maybe there is no way to get it just yet.",
+                "text": "On dirait, oui.\\. Peut-être qu'il n'y a pas moyen de l'avoir maintenant."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/909/settings/dialog/4/text": {
+                "orig": "I can't believe it...",
+                "text": "J'y crois pas..."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/912/settings/dialog/0/text": {
+                "orig": "Don't worry, I'm fine.",
+                "text": "Ne t'inquiète pas, je vais bien."
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/912/settings/dialog/1/text": {
+                "orig": "I'm just saying...\\. getting hit by a falling coconut is a serious danger!",
+                "text": "Je disais juste...\\. qu'une noix de coco qui tombe, c'est vraiment dangereux !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/912/settings/dialog/2/text": {
+                "orig": "Did you forgot this is a game?\\. What's the worst that can happen?",
+                "text": "C'est juste un jeu, tu te rappelles ?\\. C'est quoi le pire qui peut arriver ?"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/912/settings/dialog/3/text": {
+                "orig": "Who knows! It might a hidden insta-kill field hazard!",
+                "text": "Qui sait ! Ça pourrait être un piège qui tue instantanément !"
+        },
+        "extension/post-game/data/maps/beach/path-02.json/entities/912/settings/dialog/4/text": {
+                "orig": "Yeah right...\\. I'll take my chances.",
+                "text": "Ouais bien sur...\\. Moi je vais rester là."
         }
 }

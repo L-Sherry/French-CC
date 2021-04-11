@@ -1,0 +1,343 @@
+{
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/20/settings/event/29/message": {
+                "orig": "This will be the last pillar enemy! We'll let \\c[3]you decide\\c[0] which element to attack this time!",
+                "text": "C'est le dernier ennemi pilier ! On va \\c[3]vous laisser décider\\c[0] quel élément attaquer en premier !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/20/settings/event/30/message": {
+                "orig": "Decide quickly! I want to start hitting stuff!",
+                "text": "Décidez-vous vite ! Je veux frapper des trucs !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/0/thenStep/0/message": {
+                "orig": "Hey! Which element should be destroy?",
+                "text": "Hé ! Quel élément on doit détruire ?"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/0/thenStep/1/message": {
+                "orig": "Oh dear... It' seems like Lea is all alone right now. Let's wait for Emilie or Tronny to respawn.",
+                "text": "Oh non... On dirait que Lea est toute seule maintenant. Attendons qu'Emilie ou Tronny réapparaissent."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/3/thenStep/0/thenStep/0/message": {
+                "orig": "\\c[3]Red blocks\\c[0]! \\c[3]Heat\\c[0] is under fire now!",
+                "text": "Les \\c[3]Blocs Rouges\\c[0] ! le \\c[3]Chaud\\c[0] est sous le feu !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/3/thenStep/0/thenStep/1/message": {
+                "orig": "You waited for that one, didn't you?",
+                "text": "Tu as attendu pour la sortir, celle-là, hein ?"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/3/thenStep/0/elseStep/0/message": {
+                "orig": "We're attacking the \\c[3]Red blocks\\c[0] now!",
+                "text": "On attaque les \\c[3]Blocs Rouges\\c[0] maintenant !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/3/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Red Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Rouges\\c[0] !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/4/thenStep/0/thenStep/0/message": {
+                "orig": "\\c[0]Blue blocks\\c[0]! It's time to \\c[3]break the ice\\c[0]! Cool, delicious ice.",
+                "text": "Les Blocs bleus ! Il est temps de \\c[3]briser la glace\\c[0] ! De la bonne glace, bien fraiche !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/4/thenStep/0/thenStep/1/thenStep/0/message": {
+                "orig": "Monsieur, you gotta keep that craving for ice cream under control.",
+                "text": "Monsieur, il va falloir mettre ton envie pressante de glaces sous contrôle."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/4/thenStep/0/elseStep/0/message": {
+                "orig": "We're fighting the \\c[0]Blue blocks\\c[0]! It's a shame that Tronny is out. I'm sure those are his favorites.",
+                "text": "On combat les Blocs Bleus ! Dommage que Tronny soit KO Je suis sûr que c'est ses préférés."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/4/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Blue Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Bleus\\c[0] !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/5/thenStep/0/thenStep/0/message": {
+                "orig": "Uhm we attack those \\c[3]purple blocks\\c[0] now. The shock blocks!",
+                "text": "Heu, on attaque ces \\c[3]blocs violets\\c[0] maintenant. Les blocs chocs !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/5/thenStep/0/thenStep/1/thenStep/0/message": {
+                "orig": "What a \\c[3]shocking\\c[0] turn of events!",
+                "text": "Ça doit leur faire un \\c[3]choc\\c[0] pour ces blocs !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/5/thenStep/0/elseStep/0/message": {
+                "orig": "We're fighting those \\c[3]Purple blocks\\c[0] now! Let's be quick as lightning!",
+                "text": "On combat ces \\c[3]Blocs Violets\\c[0] maintenant ! Soyons rapides comme l'éclair !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/5/thenStep/1/task": {
+                "orig": "Defeat all \\c[3]Purple Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Violets\\c[0] !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/6/thenStep/0/thenStep/0/message": {
+                "orig": "\\c[3]Greenish blocks\\c[0] now. Nope. No pun, I got nothing. What's this element anyway?",
+                "text": "Les \\c[3]Blocs Verts\\c[0] maintenant. Bon, désolé, j'ai pas de blague pour eux. C'est quoi cet élément, en fait ? "
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/6/thenStep/0/elseStep/0/message": {
+                "orig": "We're fighting the \\c[3]Greenish blocks\\c[0] now. Whatever those are...",
+                "text": "On combat les \\c[3]Blocs Verts\\c[0] maintenant. Peu importe ce que c'est..."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/6/thenStep/1/message": {
+                "orig": "That's \\c[3]Wave\\c[0]. And honestly, nobody quite knows what it is.",
+                "text": "C'est l'élément \\c[3]Onde\\c[0]. Et personne ne sait vraiment ce que c'est."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/6/thenStep/2/message": {
+                "orig": "It's the element of peace and good vibrations! Let's smash it, everyone!",
+                "text": "C'est l'élément de la paix et des ondes positives ! Cassez-moi tout ça, les gens !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/6/thenStep/3/task": {
+                "orig": "Defeat all \\c[3]Green Blocks\\c[0]!",
+                "text": "Combattez tous les \\c[3]Blocs Verts\\c[0] !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/9/thenStep/0/message": {
+                "orig": "All done on our side!",
+                "text": "On a tout fini de notre côté !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/10/thenStep/0/message": {
+                "orig": "Out cold! All blue blocks, that is.",
+                "text": "Tous les blocs bleus ont été refroidis !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/11/thenStep/0/message": {
+                "orig": "All purple blocks defeated!",
+                "text": "Tous les blocs violets sont vaincus !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/24/settings/event/12/thenStep/0/message": {
+                "orig": "The element of peace is no more.",
+                "text": "L'élément de la paix n'est plus."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/19/message": {
+                "orig": "Hm.... that is odd...",
+                "text": "Hum... C'est bizarre..."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/20/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/25/settings/event/21/message": {
+                "orig": "Nevermind, I must be imagining things.",
+                "text": "Oublie, j'ai dû imaginer des trucs."
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/27/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/28/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/29/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/40/settings/event/9/message": {
+                "orig": "Here we are! Time for the final stage! Everyone ready?",
+                "text": "Nous y voilà ! Il est temps d'aller vers la dernière étape ! Tout le monde est prêt ?"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/40/settings/event/10/message": {
+                "orig": "Very much!",
+                "text": "Et comment !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/40/settings/event/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/40/settings/event/30/message": {
+                "orig": "Wait...\\. something is not right here!",
+                "text": "Attends...\\. Il y a quelque chose qui cloche !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/41/settings/event/3/thenStep/0/message": {
+                "orig": "Nice work! Next color!",
+                "text": "Bon travail ! Couleur suivante !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/41/settings/event/4/thenStep/0/message": {
+                "orig": "Very good, everyone!",
+                "text": "Bon travail, tout le monde !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/41/settings/event/5/thenStep/0/thenStep/0/message": {
+                "orig": "We almost got it!",
+                "text": "On y est presque !"
+        },
+        "maps/autumn-fall/raid/raid-04-cave.json/entities/41/settings/event/5/thenStep/0/elseStep/0/message": {
+                "orig": "We almost got it!",
+                "text": "On y est presque !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/184/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/185/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/186/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/19/message": {
+                "orig": "Wh-What happened?",
+                "text": "Qu-Qu'est-ce qui s'est passé ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/20/message": {
+                "orig": "Lea... is gone?",
+                "text": "Lea... est partie ?",
+                "note": "oh, you..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/21/message": {
+                "orig": "Is... Is this some kind of bug?",
+                "text": "C'est... c'est un bug ou quoi ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/199/settings/event/27/message": {
+                "orig": "Damn it! Why now of all times!",
+                "text": "Bon sang ! Pourquoi ça tombe maintenant !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/347/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/348/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/349/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/24/message": {
+                "orig": "You still there, chérie?",
+                "text": "Tu es toujours là, chérie ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/25/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/26/message": {
+                "orig": "Oui!\\. You are!",
+                "text": "Oui !\\. Tu es là !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/27/message": {
+                "orig": "Let's go!",
+                "text": "C'est parti !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/39/message": {
+                "orig": "Hello over there!",
+                "text": "Coucou, là-bas !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/41/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/43/message": {
+                "orig": "Hello, worst column tackler.",
+                "text": "Bonjour, mauvais renverseur."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/47/message": {
+                "orig": "So...\\. next should be the boss, right?",
+                "text": "Donc...\\. Le prochain truc c'est le boss, non ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/49/message": {
+                "orig": "Yes!!",
+                "text": "Oui !!"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/55/message": {
+                "orig": "Hear us boss?\\. We're ready to take\\. you\\. ON!",
+                "text": "Tu nous entends, le boss ?\\. Maintenant\\. c'est\\. ton\\. tour !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/57/message": {
+                "orig": "Yes, yes.\\. Let's beat the boss already!",
+                "text": "Oui, oui.\\. Finissons-en avec le boss !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/58/message": {
+                "orig": "Living my fake life to the fullest here.",
+                "text": "Je profite au maximum de ma fausse vie là."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/60/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/64/message": {
+                "orig": "Oh Junge...",
+                "text": "Oh, Junge..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/65/message": {
+                "orig": "Look...\\. If this is about what I said before...\\. I'm sorry, okay?",
+                "text": "Luke...\\. Si c'est à propos de ce que j'ai dis avant...\\. Je suis désolé, OK ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/69/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/71/message": {
+                "orig": "Just \\c[1]shut up\\c[0], alright?",
+                "text": "Juste \\c[1]tais-toi\\c[0], OK ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/73/message": {
+                "orig": "Your apology isn't needed.\n",
+                "text": "Ton pardon n'est pas nécessaire."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/77/message": {
+                "orig": "Luke!\\. What's with that tone?",
+                "text": "Luke !\\. Ne parle pas sur ce ton !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/84/message": {
+                "orig": "SACREBLEU!",
+                "text": "SACREBLEU !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/85/message": {
+                "orig": "I don't understand what's going on here, but please...\n",
+                "text": "Je comprends pas ce qui se passe ici, mais s'il vous plait..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/87/message": {
+                "orig": "PLEASE!",
+                "text": "S'IL VOUS PLAIT !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/88/message": {
+                "orig": "We are \\.THIS\\. close!",
+                "text": "On est\\. SI\\. proche !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/89/message": {
+                "orig": "Can we \\.PLEASE\\. just finish this raid?",
+                "text": "Est-ce qu'on peut\\. S'IL VOUS PLAIT\\. juste finir ce raid ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/90/message": {
+                "orig": "There's still time to settle everything afterwards, non?",
+                "text": "On peut toujours régler ça plus tard, non ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/91/message": {
+                "orig": "So please...",
+                "text": "Donc, s'il vous plait..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/92/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/93/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/94/message": {
+                "orig": "You're right. ",
+                "text": "Tu as raison."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/95/message": {
+                "orig": "Let's beat that boss.",
+                "text": "Allons vaincre ce boss."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/96/message": {
+                "orig": "MERCI!",
+                "text": "MERCI !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/97/message": {
+                "orig": "Let's go on, everyone!",
+                "text": "Allons-y, tout le monde !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/108/message": {
+                "orig": "So...",
+                "text": "Donc..."
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/109/message": {
+                "orig": "Where's the boss now, exactly?",
+                "text": "Il est où le boss, là ?"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/122/message": {
+                "orig": "Ohhhhh....\\. okay!",
+                "text": "Ohhhhh....\\. OK !"
+        },
+        "maps/autumn-fall/raid/raid-05.json/entities/350/settings/event/123/message": {
+                "orig": "Time to flyyyyyyyy!",
+                "text": "Il est temps de voleeeeeeeeer !"
+        }
+}

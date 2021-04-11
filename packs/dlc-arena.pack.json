@@ -232,6 +232,14 @@
                 "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
                 "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
         },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/8/name": {
+                "orig": "Stacking Crew",
+                "text": "Types Empilés"
+        },
+        "extension/post-game/data/arena/ancient-team-cup.json/rounds/8/objective": {
+                "orig": "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!",
+                "text": "Affrontez des ennemis venant du \\c[3]\\v[area.final-dng.name]\\c[0] !"
+        },
         "extension/post-game/data/arena/apollo-cup.json/core/name": {
                 "orig": "PvP vs Apollo",
                 "text": "PvP contre Apollo"
@@ -324,5 +332,411 @@
                 "orig": "Break through!",
                 "text": "Passer à travers !",
                 "note": "le mur, so it's unused text"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/40/settings/event/1/thenStep/4/thenStep/0/text": {
+                "orig": "50% Overheat reached!",
+                "text": "50 % Surchauffe atteint !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/40/settings/event/1/thenStep/5/thenStep/0/text": {
+                "orig": "75% Overheat reached! Cooling needed!",
+                "text": "75 % Surchauffe atteint ! Refroidissement nécessaire !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/40/settings/event/1/thenStep/6/thenStep/0/text": {
+                "orig": "WARNING: Overheating imminent! Requesting ice!",
+                "text": "ALERTE : Surchauffe imminente ! Demande de glace !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/46/settings/event/9/thenStep/0/text": {
+                "orig": "Overheated! Starting emergency cooling!",
+                "text": "Surchauffe ! Démarrage refroidissement d'urgence !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/46/settings/event/9/elseStep/0/text": {
+                "orig": "Overheated! Starting emergency cooling! Quality -\\v[tmp.qualityChange]",
+                "text": "Surchauffe ! Démarrage refroidissement d'urgence ! Qualité -\\v[tmp.qualityChange]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/hoverText": {
+                "orig": "Brewing Console",
+                "text": "Console de Brassage"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value": {
+                "orig": "(updated!)",
+                "text": "(mis à jour !)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/0/text": {
+                "orig": "- Instruction to Ancient Brewing -\nQuality drinks using the mystical powers of the Track, steam and only the best natural ingredients!",
+                "text": "- Instructions pour Brasser à la Manière des Anciens -\nBoissons de qualité en utilisant les pouvoirs mythiques du Tracé, de la vapeur et seulement les meilleurs ingrédients naturels !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/1/text": {
+                "orig": "After activating this machine, it will request energy from the \\c[3]4 steam ovens\\c[0]. Those requests have to be met with \\c[3]icedisks\\c[0] quickly and correctly!",
+                "text": "Après avoir activé cette machine, elle demandera de l'énergie depuis les \\c[3]4 fours à vapeur\\c[0]. Ces demandes doivent être satisfaites avec des \\c[3]disques de glaces\\c[0] rapidement et correctement !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/2/text": {
+                "orig": "In the beginning a \\c[3]static bubble generator\\c[0] will be available, though later it will vanish. At this point, bubbles ejected from the \\c[3]pipes left and right\\c[0] have to be used.",
+                "text": "Au début, un \\c[3]générateur de bulles statiques\\c[0] sera disponible, mais il disparaitra plus tard. Ensuite, des bulles éjectées par les \\c[3]tuyaux à gauche et à droite\\c[0] devront être utilisés."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/3/text": {
+                "orig": "Due to the immense powers flowing through it, the brewing machine will \\c[3]overheat\\c[0] with time. \\c[3]Cooling it with ice\\c[0] will be necessary to prevent \\c[3]overheating\\c[0] and a \\c[3]time-consuming cooldown-phase\\c[0].",
+                "text": "Comme la machine de brassage est traversée par d'immenses pouvoirs, elle surchauffera avec le temps. Il faudra \\c[3]la refroidir avec de la glace\\c[0] pour empêcher les \\c[3]surchauffes\\c[0] et une \\c[3]lente phase de refroidissement\\c[0]."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text": {
+                "orig": "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will damage the ingredients and \\c[3]reduce the overall quality\\c[0] of the product.",
+                "text": "\\c[3]Ne pas répondre à une demande\\c[0], \\c[3]Mettre de la glace dans le mauvais four\\c[0] ou \\c[3]faire surchauffer la machine\\c[0] va endommager les ingrédients et \\c[3]réduire la qualité générale\\c[0] du produit."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text": {
+                "orig": "On the other hand, brewing \\c[3]quality\\c[0] will increase at a higher rate with \\c[3]growing requests\\c[0] and when maintaining a \\c[3]high heat\\c[0]!",
+                "text": "D'un autre côté, la \\c[3]qualité\\c[0] de brassage va augmenter plus rapidement lorsque les \\c[3]demandes augmentent\\c[0] et en maintenant une \\c[3]température élevée\\c[0] !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text": {
+                "orig": "The \\c[3]higher the quality\\c[0], the \\c[3]more useable drinks\\c[0] can be created from \\c[3]the same amount of ingredients\\c[0]!",
+                "text": "Plus la \\c[3]qualité est élevée\\c[0], plus le \\c[3]nombre de boissons utilisables\\c[0] pourront être créées à partir de la \\c[3]même quantité d'ingrédients\\c[0] !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text": {
+                "orig": "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will do \\c[3]damage\\c[0] to the ingredients. With too much \\c[3]damage\\c[0], the brewing will \\c[1]fail\\c[0]! ",
+                "text": "\\c[3]Ne pas répondre à une demande\\c[0], \\c[3]Mettre de la glace dans le mauvais four\\c[0] ou \\c[3]faire surchauffer la machine\\c[0] va endommager les ingrédients. Avec trop de dommages, le brassage va \\c[1]échouer\\c[0] !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/0/label": {
+                "orig": "Start Brewing Process",
+                "text": "Démarrer le Processus de Brassage."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/1/label": {
+                "orig": "\\c[1]!!!\\c[0] \\c[3]Upgrade Brewing Machine\\c[0] \\c[1]!!!\\c[0]",
+                "text": "\\c[1]!!!\\c[0] \\c[3]Améliorer Machine de Brassage\\c[0] \\c[1]!!!\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/2/label": {
+                "orig": "Brewing: \\c[3]\\v[item.367.name]\\c[0] (Material: \\v[item.372.amount] | Owned: \\v[item.367.amount])",
+                "text": "Brassage : \\c[3]\\v[item.367.name]\\c[0] (Matériel : \\v[item.372.amount] | Possédés : \\v[item.367.amount])"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/3/label": {
+                "orig": "Brewing: \\c[3]\\v[item.368.name]\\c[0] (Material: \\v[item.373.amount] | Owned: \\v[item.368.amount])",
+                "text": "Brassage : \\c[3]\\v[item.368.name]\\c[0] (Matériel : \\v[item.373.amount] | Possédés : \\v[item.368.amount])"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/4/label": {
+                "orig": "Brewing: \\c[3]\\v[item.369.name]\\c[0] (Material: \\v[item.374.amount] | Owned: \\v[item.369.amount])",
+                "text": "Brassage : \\c[3]\\v[item.369.name]\\c[0] (Matériel : \\v[item.374.amount] | Possédés : \\v[item.369.amount])"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/5/label": {
+                "orig": "Brewing: \\c[3]\\v[item.370.name]\\c[0] (Material: \\v[item.375.amount] | Owned: \\v[item.370.amount])",
+                "text": "Brassage : \\c[3]\\v[item.370.name]\\c[0] (Matériel : \\v[item.375.amount] | Possédés : \\v[item.370.amount])"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/6/label": {
+                "orig": "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]",
+                "text": "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/7/label": {
+                "orig": "Turn Quality Notifications \\c[2]ON\\c[0]",
+                "text": "\\c[2]Activer\\c[0] les Notifications de Qualité"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/8/label": {
+                "orig": "Turn Quality Notifications \\c[1]OFF\\c[0]",
+                "text": "\\c[2]Désactiver\\c[0] les Notifications de Qualité"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/thenStep/4/options/9/label": {
+                "orig": "\\c[1]Cancel\\c[0]",
+                "text": "\\c[1]Annuler\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/73/settings/interact/event/1/elseStep/0/text": {
+                "orig": "[Machine inactive]",
+                "text": "[Machine inactive]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/hoverText": {
+                "orig": "Brewing Statistics",
+                "text": "Statistiques de Brassage"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/event/0/thenStep/4/text": {
+                "orig": "~ Brewing Statistics ~\n\nQuality Highscore: \n\\c[3]\\v[map.qualityRecord]\\c[0]",
+                "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualitées :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text": {
+                "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
+                "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName] : \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/event/0/thenStep/5/elseStep/0/text": {
+                "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
+                "text": "Nombre Brassages / Boissons Récoltées :\nTotal : \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name] : \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName] : \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[item.370.name] : \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text": {
+                "orig": "\\c[1]- UNDER CONSTRUCTION -\\c[0]",
+                "text": "\\c[1]- EN CONSTRUCTION -\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/77/settings/text": {
+                "orig": "Brewing Machine",
+                "text": "Machine de Brassage"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/78/settings/text": {
+                "orig": "Left Waterpipe",
+                "text": "Tuyau d'Eau de Gauche"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/79/settings/text": {
+                "orig": "Right Waterpipe",
+                "text": "Tuyau d'Eau de Droite"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/80/settings/text": {
+                "orig": "Steam Oven #1",
+                "text": "Four à Vapeur n°1"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/81/settings/text": {
+                "orig": "Steam Oven #2",
+                "text": "Four à Vapeur n°2"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/82/settings/text": {
+                "orig": "Steam Oven #3",
+                "text": "Four à Vapeur n°3"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/83/settings/text": {
+                "orig": "Steam Oven #4",
+                "text": "Four à Vapeur n°4"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/93/settings/event/9/thenStep/0/text": {
+                "orig": "VAR: \\v[tmp.tempNr]",
+                "text": "VAR: \\v[tmp.tempNr]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/93/settings/event/10/thenStep/2/thenStep/0/text": {
+                "orig": "VAR: \\v[tmp.tempStringSteam]",
+                "text": "VAR: \\v[tmp.tempStringSteam]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/94/settings/event/13/text": {
+                "orig": "[Upgrade Process START]",
+                "text": "[Processus Amélioration DÉMARRÉ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/94/settings/event/15/text": {
+                "orig": "[ Initiating Trial ]",
+                "text": "[ Initialisation Essai ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/96/settings/event/7/thenStep/0/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/96/settings/event/7/thenStep/1/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/96/settings/event/7/thenStep/2/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/96/settings/event/7/thenStep/3/text": {
+                "orig": "\\v[tmp.ovenText]",
+                "text": "\\v[tmp.ovenText]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/98/settings/event/4/guiInfo/settings/text": {
+                "orig": "Overheat",
+                "text": "Surchauffe"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/104/settings/event/9/text": {
+                "orig": "Overheated! Starting emergency cooling!",
+                "text": "Surchauffe ! Démarrage refroidissement d'urgence !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/4/settings/event/30/text": {
+                "orig": "[ Big Enemy detected. Get ready for combat! ]",
+                "text": "[ Gros Ennemi détecté. Préparez-vous au combat ! ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/4/settings/event/40/text": {
+                "orig": "[ THREAT DETECTED! ]",
+                "text": "[ MENACE DÉTECTÉE ! ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/4/settings/event/50/guiInfo/settings/text": {
+                "orig": "Ship HP",
+                "text": "HP Bateau"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/5/settings/event/0/thenStep/0/text": {
+                "orig": "Turret Shot",
+                "text": "Tir de Tourelle"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/8/settings/event/0/thenStep/0/thenStep/0/text": {
+                "orig": "Target Change",
+                "text": "Nouvelle Cible"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/10/settings/event/0/guiInfo/settings/text": {
+                "orig": "\\c[1]Cannon Ready!\\c[0]\nUse \\c[3]Charged Throw\\c[0] to mark a target! \n\n\\c[3]Elements\\c[0] have special effects!",
+                "text": "\\c[1]Canon Prêt !\\c[0]\nUtilisez des \\c[3]Lancers Chargés\\c[0] pour marquer une cible !\n\nLes \\c[3]Éléments\\c[0] ont des effets spéciaux !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/10/settings/event/0/guiInfo/settings/altText": {
+                "orig": "\\c[1]Cannon Ready!\\c[0]",
+                "text": "\\c[1]Canon prêt !\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/11/settings/event/12/text": {
+                "orig": "[ Critical damage received. Detonation imminent! ]",
+                "text": "[ Dégâts critiques reçus. Détonation imminente ! ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/12/settings/event/6/text": {
+                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
+                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer.",
+                "note": "de is just \"esayez encore !\""
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/12/settings/event/8/options/0/label": {
+                "orig": "Restart Fight",
+                "text": "Redémarrer le combat"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/12/settings/event/8/options/1/label": {
+                "orig": "Back to \\v[area.rookie-harbor.name]",
+                "text": "Retourner à \\v[area.rookie-harbor.name]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/14/settings/event/14/text": {
+                "orig": "\\c[1]You let too many weapons pass by that will now reach the continent!\\c[0]",
+                "text": "\\c[1]Vous avez laissé trop d'armes passer, qui vont maintenant atteindre le continent !\\c[0]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/18/settings/event/0/thenStep/0/text": {
+                "orig": "Use \\c[3]Heat\\c[0] for explosive damage!",
+                "text": "Utilisez le \\c[3]Chaud\\c[0] pour causer des dégâts explosifs !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/18/settings/event/1/thenStep/0/text": {
+                "orig": "Use \\c[3]Cold\\c[0] to slow down single targets!",
+                "text": "Utilisez le \\c[3]Froid\\c[0] pour ralentir les cibles uniques !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/18/settings/event/2/thenStep/0/text": {
+                "orig": "Use \\c[3]Shock\\c[0] to hit two targets at once!",
+                "text": "Utilisez le \\c[3]Choc\\c[0] pour toucher deux cibles à la fois !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/18/settings/event/3/thenStep/0/text": {
+                "orig": "Use \\c[3]Wave\\c[0] to hit targets in a line!",
+                "text": "Utilisez l'\\c[3]Onde\\c[0] pour toucher des cibles alignées !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/23/settings/event/5/0_0/3/thenStep/0/text": {
+                "orig": "(Turret 1 Spawn)",
+                "text": "(Apparition Tourelle 1)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/23/settings/event/5/1_0/3/thenStep/0/text": {
+                "orig": "(Turret 2 Spawn)",
+                "text": "(Apparition Tourelle 2)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/23/settings/event/5/2_0/3/thenStep/0/text": {
+                "orig": "(Turret 3 Spawn)",
+                "text": "(Apparition Tourelle 3)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/23/settings/event/5/3_0/3/thenStep/0/text": {
+                "orig": "(Turret 4 Spawn)",
+                "text": "(Apparition Tourelle 4)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/23/settings/event/5/4_0/3/thenStep/0/text": {
+                "orig": "(Bomb 1 Spawn)",
+                "text": "(Apparition Bombe 1)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json/entities/23/settings/event/5/5_0/3/thenStep/0/text": {
+                "orig": "(Bomb 2 Spawn)",
+                "text": "(Apparition Bombe 2)"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/350/settings/event/38/guiInfo/settings/text": {
+                "orig": "Escortee Life",
+                "text": "HP Linde"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/350/settings/event/38/guiInfo/settings/taskTitle": {
+                "orig": "Energy",
+                "text": "Énergie"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/356/settings/event/1/thenStep/0/thenStep/0/message": {
+                "orig": "Getting dizzy...",
+                "text": "Je suis un peu vaseuse..."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/356/settings/event/1/thenStep/0/thenStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Don't want to stress you, but this is getting a bit painful...",
+                "text": "Je veux pas vous stresser, mais ça commence à me faire mal..."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message": {
+                "orig": "Ouchie... ghost hits are as nasty as it looks.",
+                "text": "Aïlleuh... Les coups de fantômes sont vraiment aussi méchants qu'ils en ont l'air."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/357/settings/event/17/text": {
+                "orig": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
+                "text": "\\c[1]QUÊTE ÉCHOUÉE\\c[0]\n\nRedémarrez la quête pour réessayer.",
+                "note": "de is just \"esayez encore !\""
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/358/settings/event/0/text": {
+                "orig": "[ ESCORT HEAL ]",
+                "text": "[ GUÉRISON DE LA PROTÉGÉE ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json/entities/2/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json/entities/6/settings/interact/hoverText": {
+                "orig": "Awaken the machine",
+                "text": "Réveiller la machine"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json/entities/6/settings/interact/event/2/action/5/text": {
+                "orig": "[ Vibrating machine ]",
+                "text": "[ Machine vibrante ]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/10/message": {
+                "orig": "Hi.\\. Lea.\\. Why?",
+                "text": "Salut.\\. Lea.\\. Pourquoi ?"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/11/text": {
+                "orig": "[aggressive goat noises]",
+                "text": "[bêlements de bouc agressif]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/13/text": {
+                "orig": "\\v[lore.title.seeker]!\\. This is place of goat now!\\. Leave!",
+                "text": "\\v[lore.title.seeker] !\\. C'est un endroit pour boucs maintenant !\\. Partez !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/15/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/16/message": {
+                "orig": "How?\\. Meet.\\. Why?",
+                "text": "Comment ?\\. Rencontrer.\\. Pourquoi ?"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/17/text": {
+                "orig": "[even more aggressive goat noises]",
+                "text": "[bêlements de bouc encore plus agressif]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/19/text": {
+                "orig": "No talk!\\. Leave! Or.\\..\\..\\. Fight!!",
+                "text": "Assez parlé !\\. Partez ! Ou.\\..\\..\\. Combattez !!"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/21/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/28/settings/event/0/action/2/text": {
+                "orig": "[aggressive goat noises]",
+                "text": "[bêlements de bouc agressif]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/28/settings/event/2/action/2/text": {
+                "orig": "[aggressive goat noises]",
+                "text": "[bêlements de bouc agressif]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/28/settings/event/4/action/2/text": {
+                "orig": "[aggressive goat noises]",
+                "text": "[bêlements de bouc agressif]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/28/settings/event/6/action/2/text": {
+                "orig": "[aggressive goat noises]",
+                "text": "[bêlements de bouc agressif]"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/31/settings/analyzable/text": {
+                "orig": "Kid Goat Zira",
+                "text": "Chevreau Zira"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/32/settings/analyzable/text": {
+                "orig": "Mrs. Hoover",
+                "text": "Mme Sabote"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json/entities/3/settings/event/10/message": {
+                "orig": "... W-where?",
+                "text": "... O-Où ?"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json/entities/3/settings/event/11/text": {
+                "orig": "There we are, \\v[lore.title.seeker].\\. This shall be our battleground.",
+                "text": "Nous y voilà, \\v[lore.title.seeker].\\. Ce sera notre champ de bataille."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json/entities/3/settings/event/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json/entities/3/settings/event/13/text": {
+                "orig": "Now, be on your guard!",
+                "text": "Donc... soyez sur vos gardes !"
+        },
+        "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json/entities/3/settings/event/14/message": {
+                "orig": "Meet.\\. Lea!",
+                "text": "Rencontrer.\\. Lea !"
         }
 }

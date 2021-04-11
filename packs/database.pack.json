@@ -1759,8 +1759,8 @@
         },
         "database.json/areas/evo-village/name": {
                 "orig": "Homestedt",
-                "text": "Chénous",
-                "note": "de: ville d'origine, patrie, refuge, arborigène, autochtone, indigène, natif/natal, so let's play a bit"
+                "text": "Chainoudt",
+                "note": "de: ville d'origine, patrie, refuge, arborigène, autochtone, indigène, natif/natal, so let's play a bit.  This name is obscure enough while still being completely stupid at the same time"
         },
         "database.json/areas/evo-village/description": {
                 "orig": "The small settlement established as a home for Evotars.",
@@ -2276,7 +2276,7 @@
         },
         "database.json/commonEvents/call-instance-comments/event/2/11_0/0/message": {
                 "orig": "Ach, verdamnit, another Instanz. Give us some more team-challenges, devs!",
-                "text": "Ach, verdamnit, encore une instance.  Donnez-nous un peu de défi en équipe, les devs !"
+                "text": "Ach, verdamnit, encore une instance.  Donnez-nous un peu de défis en équipe, les devs !"
         },
         "database.json/commonEvents/call-instance-comments/event/2/12_0/0/message": {
                 "orig": "Ah, an Instanz. Gotta fly solo for a bit.",
@@ -3932,7 +3932,7 @@
         },
         "database.json/commonEvents/shizuka-battle-over-S/event/0/0_1/0/message": {
                 "orig": "That sure was relaxing. Can't get this kinda workout when watching over my brother.",
-                "text": "C'était très relaxant. C'était presque des vacances en comparaison avec les sessions avec mon frère.",
+                "text": "C'était très relaxant. C'était presque des vacances comparé aux sessions avec mon frère.",
                 "quality": "bad",
                 "note": "this de, but it's hard to convey anyway."
         },
@@ -4510,7 +4510,7 @@
         },
         "database.json/commonEvents/cooldown-A/event/0/4_0/0/1_0/2/message": {
                 "orig": "Sorry, my mistake. Let's just kill things.",
-                "text": "Désolé, je me suis trompé.  Allons juste dégommer des trucs."
+                "text": "Désolée, je me suis trompée.  Allons juste dégommer des trucs."
         },
         "database.json/commonEvents/cooldown-A/event/0/5_0/0/message": {
                 "orig": "Jawoll, let's get serious!",
@@ -5356,7 +5356,7 @@
         },
         "database.json/commonEvents/ctron-turtel-end/event/0/thenStep/1/message": {
                 "orig": "I mean...\\. they look like Turtles, but you don't see them swimming.\n",
-                "text": "Je veux dire...\\. Ils ressemblent à des tortues marins, mais on les voit pas nager."
+                "text": "Je veux dire...\\. Ils ressemblent à des tortues marines, mais on les voit pas nager."
         },
         "database.json/commonEvents/ctron-turtel-end/event/1/thenStep/0/message": {
                 "orig": "That reminds me...\\. There are certain kinds of Tortoise that hang out close to the beach even though they can't swim.",
@@ -6024,7 +6024,8 @@
         },
         "database.json/commonEvents/glasses-dies/event/0/1_1/0/message": {
                 "orig": "...You know that water can have 3 states. And this is the only deadly one.",
-                "text": "... Tu sais que l'eau peut avoir trois états. Et ça c'est le seul état mortel."
+                "text": "... Tu sais que l'eau n'a que trois états. Et celui là, c'est le seul état mortel.",
+                "note": "false.  And science keeps discovering more types of ice."
         },
         "database.json/commonEvents/glasses-revived/event/0/0_0/0/message": {
                 "orig": "Your mage is back!",
@@ -6144,7 +6145,8 @@
         },
         "database.json/commonEvents/shizuka-dies/event/0/0_0/0/message": {
                 "orig": "Damn input lag...",
-                "text": "Satané lag des inputs..."
+                "text": "Satané lag des inputs...",
+                "quality": "bad"
         },
         "database.json/commonEvents/shizuka-dies/event/0/0_1/0/message": {
                 "orig": "Oh, come on... Lea, get them!",
@@ -6164,7 +6166,7 @@
         },
         "database.json/commonEvents/shizuka-revived/event/0/0_1/0/message": {
                 "orig": "Time for some revenge, you piles of instant matter.",
-                "text": "Maintenant je vais me venger, bandes de tas d'instant-matière !"
+                "text": "C'est l'heure de ma revanche, bandes de tas d'instant-matière !"
         },
         "database.json/commonEvents/shizuka-revived/event/0/1_0/0/message": {
                 "orig": "Oh, I guess you cleaned up already. Nice job.",
@@ -8297,7 +8299,7 @@
         },
         "database.json/commonEvents/apollo-join/event/6/thenStep/0/message": {
                 "orig": "Spheromancer Lea, I'm waiting for you at the \\c[3]Open PVP Fields\\c[0] in Rhombus Square!",
-                "text": "Spheromanceuse Lea, je t'attends au \\c[3]Terrains Ouverts de PvP\\c[0] à \\v[area.rhombus-sqr.name] !"
+                "text": "Spheromanceuse Lea, je t'attends au \\c[3]Terrains Ouverts de PVP\\c[0] à \\v[area.rhombus-sqr.name] !"
         },
         "database.json/commonEvents/apollo-join/event/6/thenStep/1/message": {
                 "orig": "I'm looking forward to our duel!",
@@ -9807,7 +9809,7 @@
         },
         "database.json/commonEvents/hlin-contact/event/10/thenStep/2/message": {
                 "orig": "There are certain rumors going around and I'm currently looking into it!",
-                "text": "Il y a certaines rumeurs qui courrent et j'aimerais en savoir plus !"
+                "text": "Il y a certaines rumeurs qui courent et j'aimerais en savoir plus !"
         },
         "database.json/commonEvents/hlin-contact/event/10/thenStep/3/message": {
                 "orig": "Potentially, something big might happen today!",
@@ -24173,6 +24175,10 @@
         "database.json/traders/kuleroLoot1/name": {
                 "orig": "Ancient Loot",
                 "text": "Butin des Anciens"
+        },
+        "database.json/traders/beachLoot1/name": {
+                "orig": "Archipelago Loot",
+                "text": "Butin de l'Archipel"
         },
         "database.json/traders/rookieHeal/name": {
                 "orig": "Rookie Sandwiches",
