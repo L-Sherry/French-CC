@@ -13109,38 +13109,6 @@
                 "orig": "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken.",
                 "text": "Cette étoile de mer est le chef des \\v[combat.name.jungle/blob]s et des \\v[combat.name.jungle/blob-wave]s. Il peut entrer dans une synthèse étrange avec eux pour créer une large masse qui est presque impénétrable. Seule une boule de choc compressée peut briser ce manteau."
         },
-        "database.json/enemies/arid.laser-catcher/name": {
-                "orig": "arid.laser-catcher",
-                "text": "Attrape-Laser"
-        },
-        "database.json/enemies/arid.laser-catcher/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
-        },
-        "database.json/enemies/special.sergey-hax/name": {
-                "orig": "special.sergey-hax",
-                "text": "Sergey Haxory"
-        },
-        "database.json/enemies/special.sergey-hax/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
-        },
-        "database.json/enemies/special.sergey-hax2/name": {
-                "orig": "special.sergey-hax2",
-                "text": "Sergey Haxory 2 : Le Retour"
-        },
-        "database.json/enemies/special.sergey-hax2/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
-        },
-        "database.json/enemies/special.sergey-hax3/name": {
-                "orig": "special.sergey-hax3",
-                "text": "Hax de Sergey 3"
-        },
-        "database.json/enemies/special.sergey-hax3/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
-        },
         "database.json/enemies/avatar.apollo/name": {
                 "orig": "Apollo",
                 "text": "Apollo"
@@ -13755,6 +13723,18 @@
         "database.json/enemies/cold.goat-worker/descriptions/0/text": {
                 "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0].",
                 "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0]."
+        },
+        "database.json/enemies/cold.goat-father-2/name": {
+                "orig": "The Goatfather",
+                "text": "Le Père des Boucs"
+        },
+        "database.json/enemies/cold.goat-father-2/species": {
+                "orig": "Boss Goat",
+                "text": "Patron des Boucs"
+        },
+        "database.json/enemies/cold.goat-father-2/descriptions/0/text": {
+                "orig": "It can make offers, you can not refuse.",
+                "text": "Il peut faire des offres que vous ne pouvez pas refuser."
         },
         "database.json/enemies/mine-coldbug/name": {
                 "orig": "Fleazer",
@@ -14456,6 +14436,38 @@
                 "orig": "Researchers who made friends with some of these turtles found that they are great listeners.",
                 "text": "Les chercheurs qui se sont liés d'amitiés avec eux ont découvert qu'ils écoutent très bien."
         },
+        "database.json/enemies/arid.laser-catcher/name": {
+                "orig": "arid.laser-catcher",
+                "text": "Attrape-Laser"
+        },
+        "database.json/enemies/arid.laser-catcher/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "database.json/enemies/special.sergey-hax/name": {
+                "orig": "special.sergey-hax",
+                "text": "Sergey Haxory"
+        },
+        "database.json/enemies/special.sergey-hax/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "database.json/enemies/special.sergey-hax2/name": {
+                "orig": "special.sergey-hax2",
+                "text": "Sergey Haxory 2 : Le Retour"
+        },
+        "database.json/enemies/special.sergey-hax2/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "database.json/enemies/special.sergey-hax3/name": {
+                "orig": "special.sergey-hax3",
+                "text": "Hax de Sergey 3"
+        },
+        "database.json/enemies/special.sergey-hax3/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
         "database.json/enemies/beach.sea-star/name": {
                 "orig": "beach.sea-star",
                 "text": "Étoile de Mer de Plage"
@@ -14664,18 +14676,6 @@
                 "orig": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of, outside of experienced \\v[lore.title.seeker]s.",
                 "text": "Un puissant singe, servant de gardien imbattu et champion de l'\\c[3]\\v[area.beach.name]\\c[0]. Sa tâche paisible lui laissa une éternité de temps pour réfléchir au sens de l'univers. Entre-temps, il s'ennuie terriblement et attend avec impatience un combat digne de ce nom.\nBien qu'au premier abord, ce primate manque de style et de grâce, il est en fait bien plus puissant que son distant cousin, le \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0].. En fait, il est capable d'utiliser et de maitriser \\c[3]tous les quatre éléments\\c[0], ce qui est du jamais-vu en dehors des \\v[lore.title.seeker]s expérimentés.",
                 "note": "assuming it's unused because of the \\v[3]"
-        },
-        "database.json/enemies/cold.goat-father-2/name": {
-                "orig": "The Goatfather",
-                "text": "Le Père des Boucs"
-        },
-        "database.json/enemies/cold.goat-father-2/species": {
-                "orig": "Boss Goat",
-                "text": "Patron des Boucs"
-        },
-        "database.json/enemies/cold.goat-father-2/descriptions/0/text": {
-                "orig": "It can make offers, you can not refuse.",
-                "text": "Il peut faire des offres que vous ne pouvez pas refuser."
         },
         "database.json/enemies/mouse-bot/name": {
                 "orig": "Beta Mouse Bot",
