@@ -1,0 +1,683 @@
+{
+        "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/12/text": {
+                "orig": "Traveler...",
+                "text": "Voyageur..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/13/text": {
+                "orig": "You descended into \nthe depths of this crater.",
+                "text": "Vous êtes descendu dans\nles profondeurs de ce cratère."
+        },
+        "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/14/text": {
+                "orig": "Getting ever so close\nto your destination.\n",
+                "text": "Vous vous êtes jamais aussi\nrapproché de votre destination."
+        },
+        "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/15/text": {
+                "orig": "Yet there is one last trial\nfor you to pass.\n",
+                "text": "Mais il reste encore une dernière épreuve\nque vous devez réussir."
+        },
+        "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/16/text": {
+                "orig": "The time has come\nfor you to demonstrate...\n",
+                "text": "Le temps est venu\npour vous de démontrer..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/17/text": {
+                "orig": "The full extent\nof your proficiency.\n",
+                "text": "... l'étendue de\ntoutes vos compétences."
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge-inner.json/entities/0/settings/destinations/0/label": {
+                "orig": "G: The Journey",
+                "text": "RDC : Le Voyage"
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge-inner.json/entities/0/settings/destinations/1/label": {
+                "orig": "B1: The Approaching",
+                "text": "SS1 : L'Approche"
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge-inner.json/entities/0/settings/destinations/2/label": {
+                "orig": "B2: The Arrival",
+                "text": "SS2 : L'Arrivée"
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge-inner.json/entities/0/settings/destinations/3/label": {
+                "orig": "B3: The Impact",
+                "text": "SS3 : L'Impact"
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge-inner.json/entities/0/settings/destinations/4/label": {
+                "orig": "B4: The Message",
+                "text": "SS4 : Le Message"
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge.json/entities/124/settings/teleportLabel": {
+                "orig": "Jump Up",
+                "text": "Sauter en Haut"
+        },
+        "extension/post-game/data/maps/final-dng/b4/bridge.json/entities/125/settings/teleportLabel": {
+                "orig": "Back To Lookout",
+                "text": "Retour au Point de Vue"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/4/message": {
+                "orig": "Bonjour, chérie!",
+                "text": "Bonjour, Chérie !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/5/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/6/message": {
+                "orig": "I promised I'd call, non?",
+                "text": "J'ai promis que j'appellerais, non ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/7/message": {
+                "orig": "Man, this dungeon has going on for so long already...",
+                "text": "Hé ben...\\. Ce donjon dure déjà depuis un moment..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/8/message": {
+                "orig": "But I think we're getting close to the finish line.",
+                "text": "Mais je crois qu'on se rapproche de la ligne d'arrivée."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/9/thenStep/0/message": {
+                "orig": "Let us see who will be first!",
+                "text": "On va voir qui de nous deux va arriver première !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/9/thenStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/9/elseStep/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/9/elseStep/1/message": {
+                "orig": "Well... not that it really matters who'll be there first.",
+                "text": "Bon... Non pas que ça soit vraiment important de qui va arriver en premier."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/10/message": {
+                "orig": "It has been really nice to run the dungeon with everyone else.",
+                "text": "C'était vraiment cool de pouvoir faire le donjon avec tout le monde."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/11/message": {
+                "orig": "Especially since there have been so many places where you can see other players.",
+                "text": "Surtout vu tous les endroits où on pouvait voir les autres joueurs."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/12/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/13/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/14/message": {
+                "orig": "And...\\. that will be it, I suppose?",
+                "text": "Et...\\. je crois que c'est tout, j'imagine ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/15/message": {
+                "orig": "The final dungeon of CrossWorlds.",
+                "text": "Le donjon final de CrossWorlds."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/16/message": {
+                "orig": "The end of the game.",
+                "text": "La fin du jeu."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/17/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/18/message": {
+                "orig": "Wait...",
+                "text": "Attends..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/19/message": {
+                "orig": "Don't worry, chérie!\\. It definitely won't be the end for me!",
+                "text": "Ne t'inquiète pas, chérie !\\. Pour moi c'est loin d'être fini !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/20/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/21/message": {
+                "orig": "Because you're in this game and you're my friend.",
+                "text": "Parce que tu es dans ce jeu et que tu es mon amie."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/22/message": {
+                "orig": "At the very least I'll login to drop by and visit you!",
+                "text": "Je vais au moins me logguer pour passer te voir !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/23/message": {
+                "orig": "Thanks...",
+                "text": "Merci..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/24/message": {
+                "orig": "Come on, that's what friends do!",
+                "text": "Roh allez, c'est ce que font les amis !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/25/message": {
+                "orig": "See you at the end!",
+                "text": "On se voit à l'arrivée !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/corridor.json/entities/128/settings/event/5/thenStep/26/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/14/message": {
+                "orig": "This new enemy type has been breaking in mass fights.",
+                "text": "Ce nouveau type d'ennemis plantait souvent dans les combats massifs.",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/15/message": {
+                "orig": "Apparently they fixed it and I want to test it.",
+                "text": "Apparemment ils ont corrigés ça et je voudrais bien le tester."
+        },
+        "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/16/message": {
+                "orig": "So...\\. let's see who can defeat more!",
+                "text": "Donc...\\. voyons voir qui peut en vaincre le plus !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/17/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/32/task": {
+                "orig": "Keep fighting the enemy type.\nLeave toward the south to skip.",
+                "text": "Continuez de combattre ce type d'ennemi.\nSortez par le sud pour sauter."
+        },
+        "extension/post-game/data/maps/final-dng/b4/credits.json/entities/48/settings/event/6/text": {
+                "orig": "Defeated Fishes: \\c[3]\\v[tmp.radfish.kill]\\c[0]",
+                "text": "Poissons vaincus : \\c[3]\\v[tmp.radfish.kill]\\c[0]"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/35/text": {
+                "orig": "Your journey has continued \nfor a long time.",
+                "text": "Votre voyage s'est poursuivi\npendant un long moment",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/36/text": {
+                "orig": "You traveled far\nand passed every trial.",
+                "text": "Vous avez voyagé loin\net réussi toutes les épreuves."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/37/text": {
+                "orig": "Finally, you have reached\nyour destination.",
+                "text": "Enfin, vous avez atteint\nvotre destination."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/38/text": {
+                "orig": "You, the traveler, \nthe envoy of change.",
+                "text": "Vous, le voyageur.\nL'émissaire du changement."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/39/text": {
+                "orig": "Your task in this world\nhas been fulfilled.",
+                "text": "Votre tâche dans ce monde\na été remplie."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/40/text": {
+                "orig": "As such, you are now ready\nto proceed further.",
+                "text": "Et donc, vous êtes donc prêt\npour continuer plus loin."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/41/text": {
+                "orig": "Start your journey \nonce more.",
+                "text": "Pour commencez votre voyage\nencore une fois."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/42/text": {
+                "orig": "Because life is there\nfor you to grow.",
+                "text": "Parce que la vie est là\npour vous faire grandir."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/43/text": {
+                "orig": "And growth will only happen\nas your journey continues.",
+                "text": "Et la croissance n'arrivera\nque si votre voyage continue."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/44/text": {
+                "orig": "Forming your path\nwith every step you take.",
+                "text": "Et façonne votre chemin\nà chacun de vos pas."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/45/text": {
+                "orig": "Traveler, we will await\nyour arrival.",
+                "text": "Voyageur, nous attendrons\nvotre arrivée."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/46/text": {
+                "orig": "In a new world\nfull of wonder.\n",
+                "text": "Dans un nouveau monde\nplein de merveilles."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/64/text": {
+                "orig": "\\s[1]The gods leave you one last present\n\\i[element-heat]\\i[element-cold]\\i[element-shock]\\i[element-wave]\n\\c[3]You get +1 CP in each Elemental Circuit!\\c[0]",
+                "text": "\\s[1]Les dieux vous laissent un dernier présent\n\\i[element-heat]\\i[element-cold]\\i[element-shock]\\i[element-wave]\n\\c[3]Vous gagnez +1 CP dans tous les Circuits Élémentaires !\\c[0]"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/82/message": {
+                "orig": "Seeker, we have finally found it.",
+                "text": "\\v[lore.title.seeker], nous l'avons enfin trouvé."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/83/message": {
+                "orig": "The \\c[3]Secret of the Ancients\\c[0].",
+                "text": "Le \\c[3]Secret des Anciens\\c[0]."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/84/message": {
+                "orig": "Right at this moment you are standing in front of it.",
+                "text": "En ce moment même vous vous trouvez juste devant."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/85/message": {
+                "orig": "A \\c[3]portal to a new world\\c[0].",
+                "text": "Un \\c[3]portail vers un nouveau monde\\c[0]."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/86/message": {
+                "orig": "A technological achievement beyond our current understanding.",
+                "text": "Une prouesse technologique au delà de notre compréhension actuelle."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/87/message": {
+                "orig": "And also a lead to the current whereabouts of the Ancients.",
+                "text": "Et aussi un indice sur ce que sont devenus les Anciens."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/91/message": {
+                "orig": "Yet for now, this portails remains closed.",
+                "text": "Mais pour le moment, ce portail reste fermé."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/92/message": {
+                "orig": "In order to activate, its energy source needs to be sufficiently charged.",
+                "text": "Pour pouvoir l'activer, sa source d'énergie doit être suffisamment chargée."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/97/message": {
+                "orig": "As more seekers will pass the Ku'lero temple, more energy should be channeled towards the portal.",
+                "text": "Lorsque plus de \\v[lore.title.seeker] passeront le \\v[area.final-dng.name], plus d'énergie devrait être canalisée vers le portail."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/98/message": {
+                "orig": "It is merely a matter of time for it to open.",
+                "text": "Ce n'est qu'une question de temps avant qu'il ne s'ouvre."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/104/message": {
+                "orig": "Seeker, it is thanks to your contribution that we have come this far.",
+                "text": "\\v[lore.title.seeker], c'est grâce à votre contribution que nous avons pu aller si loin."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/105/message": {
+                "orig": "You have my deepest gratitude.",
+                "text": "Nous vous en sommes reconnaissants.",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/106/message": {
+                "orig": "Once this portal has opened, I invite you to join our expedition.",
+                "text": "Une fois que ce portail sera ouvert, je vous inviterais à rejoindre notre expédition."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/107/message": {
+                "orig": "To raise Operation Trackwalker to a new level.",
+                "text": "Pour faire croitre l'Opération Retraçage à un tout autre niveau.",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/109/message": {
+                "orig": "To follow the Ancients...",
+                "text": "Pour suivre les Anciens..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/110/message": {
+                "orig": "...and enter a \\c[3]new world\\c[0].",
+                "text": "... et entrer dans un \\c[3]nouveau monde\\c[0]."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/116/text": {
+                "orig": "A new world will soon emerge...",
+                "text": "Un nouveau monde va bientôt émerger...",
+                "note": "root@gentoo ~# emerge -uDN @world"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/118/text": {
+                "orig": "\"New Horizons\"\nThe new extension to CrossWorlds\nis currently still in development.\n\nRelease information will follow soon.\nStay tuned!",
+                "text": "\"New Horizons\"\nLa nouvelle extension de CrossWorlds\nest encore en cours de développement.\n\nLa date de sortie sera bientôt annoncée.\nRestez à l'écoute !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/5/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/7/message": {
+                "orig": "Ah!\\. Look who's arrived!",
+                "text": "Ah !\\. Regarde qui arrive !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/9/message": {
+                "orig": "Lea, dear, you made it!\\. Congratulations!",
+                "text": "Lea, chérie, tu as réussie !\\. Félicitations !",
+                "note": "félicitations cordiale ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/18/message": {
+                "orig": "No way...",
+                "text": "C'est pas possible..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/24/message": {
+                "orig": "You're all here already?",
+                "text": "Vous êtes tous déjà là ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/25/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/26/thenStep/0/message": {
+                "orig": "Beaten in the final dungeon, oh well...",
+                "text": "Battu dans le donjon final, et ben..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/26/thenStep/1/message": {
+                "orig": "Congratulations, chérie!",
+                "text": "Félicitations, chérie !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/26/thenStep/2/message": {
+                "orig": "Thanks!",
+                "text": "Merci !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/thenStep/26/elseStep/0/message": {
+                "orig": "Oh well, who cares.\\. It's not like I tried to be fast!",
+                "text": "Et puis zut, peu importe.\\. Ce n'est pas comme si j'avais essayé d'être rapide !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/5/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/7/message": {
+                "orig": "Hey there, Lea!",
+                "text": "Hé salut, Lea !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/9/message": {
+                "orig": "Ha, I was first!",
+                "text": "Ha, j'étais la première !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/12/message": {
+                "orig": "Don't worry dear, most of us just arrived.",
+                "text": "Ne t'inquiète pas, mon cœur, la plupart d'entre nous viennent juste d'arriver."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/13/message": {
+                "orig": "True...\\. that dungeon was seriously long.",
+                "text": "Oui...\\. ce donjon était vraiment long."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/136/message": {
+                "orig": "More importantly: \\c[3]Space Bird battle\\c[0]!",
+                "text": "Mais plus important : \\c[3]le combat contre les Oiseaux de l'Espace\\c[0] !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/137/message": {
+                "orig": "Finally we could fight those space birds!",
+                "text": "Enfin on a pu combattre ces oiseaux de l'espace !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/138/message": {
+                "orig": "They had it coming for wasting my time with their poetry!",
+                "text": "Ils l'ont mérité, vu le temps qu'ils m'ont fait perdre avec leur poésie !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/140/message": {
+                "orig": "Emilie, please, those are the Gods of the Ancients!",
+                "text": "Emilie, s'il te plait, ce sont les Dieux des Anciens !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/141/message": {
+                "orig": "We all should be grateful that we've finally found the Secret of the Ancients.",
+                "text": "On devrait tous être reconnaissant d'avoir enfin trouvé le Secret des Anciens."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/142/message": {
+                "orig": "A portal to a new world!\\. I knew it would be something like that!",
+                "text": "Un portail vers un nouveau monde !\\. Je savais que ce serait quelque chose comme ça !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/144/message": {
+                "orig": "Japp! It's the perfect way to make a sequel!",
+                "text": "Japp ! Le moyen parfait pour faire une suite !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/146/message": {
+                "orig": "Can't wait to run another Track of the Ancients!\\. Fantastic!",
+                "text": "Je suis impatient de faire un autre Tracé des Anciens !\\. Fantastique !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/154/message": {
+                "orig": "...Huh.",
+                "text": "... Hein."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/162/message": {
+                "orig": "GOT YOU GRASSHEAD!",
+                "text": "JE T'AI EU TÊTE D'HERBE !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/164/message": {
+                "orig": "\\s[5]WOOOHOOOO!",
+                "text": "\\s[5]YOOUHOOOU !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/165/message": {
+                "orig": "Not so smug now that you run it for the first time, huh?",
+                "text": "Tu fais plus le malin quand tu coures un donjon pour la première fois, hein ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/166/message": {
+                "orig": "Hold on...",
+                "text": "Attends..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/174/message": {
+                "orig": "Hello, everyone!",
+                "text": "Bonjour, tout le monde !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/177/message": {
+                "orig": "You see...",
+                "text": "Tu vois..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/178/message": {
+                "orig": "I took longer, because I was busy helping Joern out...",
+                "text": "J'ai pris plus de temps, parce que j'étais occupé à aider Joern..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/179/message": {
+                "orig": "Excuses.",
+                "text": "La belle excuse."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/180/message": {
+                "orig": "Hey, I never asked for any help.",
+                "text": "Hé, j'ai jamais demandé de l'aide."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/192/message": {
+                "orig": "Phew...\\. I guess that was it!",
+                "text": "Pfiou...\\. J'imagine que c'est bon !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/193/message": {
+                "orig": "Yeah...\\. that was quite the boss fight.\n",
+                "text": "Yeah...\\. c'était un boss assez violent."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/194/message": {
+                "orig": "They definitely worked hard on it.\n",
+                "text": "Ils ont vraiment travaillé dur dessus."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/200/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/202/message": {
+                "orig": "Hey!",
+                "text": "Hé !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/204/message": {
+                "orig": "Oh, Lea's already here?",
+                "text": "Oh, Lea est déjà là ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/206/message": {
+                "orig": "Beat by your clone!\\. How does it feel, Shizuka?",
+                "text": "Battu par ton clone !\\. Qu'est-ce que ça te fait, Shizuka ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/207/message": {
+                "orig": "\\s[5]Nyahahahahahahahahaha!",
+                "text": "\\s[5]Nyahahahahahahahahaha !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/208/message": {
+                "orig": "Well, figures.",
+                "text": "Oui, bon c'est évident.",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/209/message": {
+                "orig": "I'm not the one spending my whole time in the game.",
+                "text": "Je ne suis pas celle qui passe tout mon temps dans le jeu, moi."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/210/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/215/message": {
+                "orig": "Talking about that...\\. where's Tronny?",
+                "text": "D'ailleurs...\\. Où est Tronny ?",
+                "note": "GOT YOU"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/217/message": {
+                "orig": "That's right, Tronny is the only person missing, it seems.",
+                "text": "C'est vrai, Tronny est la seule personne qui manque, on dirait."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/219/message": {
+                "orig": "Let's just wait a bit.\\. I'm sure he'll show up.",
+                "text": "Attendons un peu.\\. Je suis sûr qu'il va bientôt arriver."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/234/message": {
+                "orig": "Uhm...\\. scratch that.\\. I just checked.",
+                "text": "Euh...\\. oublie ça.\\. Je viens de vérifier."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/235/message": {
+                "orig": "It seems he's back in Homestedt already?",
+                "text": "On dirait qu'il est déjà de retour à \\v[area.evo-village.name] ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/237/message": {
+                "orig": "Well, maybe he finished first?",
+                "text": "Bien, peut-être qu'il a fini en premier ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/238/message": {
+                "orig": "Anyway, that was a long session.\\. I'll call it quits for today!",
+                "text": "En tout cas, cette partie était assez longue.\\. Je vais arrêter là pour aujourd'hui !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/240/message": {
+                "orig": "Same...",
+                "text": "Pareil..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/244/message": {
+                "orig": "Alrighty, I'm sure most of us here need a break.",
+                "text": "C'est bon, je suis sûr qu'on a presque tous besoin d'une pause."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/245/message": {
+                "orig": "It was an honor playing with you all!",
+                "text": "C'était un honneur de jouer avec vous tous !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/246/message": {
+                "orig": "Have a good night!",
+                "text": "Bonne nuit !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/283/message": {
+                "orig": "Hm...\\. I have a bad feeling about Tronny. ",
+                "text": "Hm...\\. J'ai un mauvais pressentiment pour Tronny."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/284/message": {
+                "orig": "We should pay him a visit, non?",
+                "text": "On devrait aller le voir, non ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/285/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/286/message": {
+                "orig": "Alright,\\. I'll wait for you at his house!",
+                "text": "OK,\\. Je vais t'attendre devant sa maison !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/303/task": {
+                "orig": "Pay \\c[3]C'tron\\c[0] a visit in \\c[3]Homestedt\\c[0] together with Emilie.",
+                "text": "Rendez visite à \\c[3]C'tron\\c[0] à \\v[area.evo-village.name] avec Emilie."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/151/settings/interact/hoverText": {
+                "orig": "???",
+                "text": "???"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/4/message": {
+                "orig": "I have to wait...",
+                "text": "Il faut que j'attende..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/5/message": {
+                "orig": "I need to stay calm...",
+                "text": "Il faut que je reste calme..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/6/message": {
+                "orig": "Stay with the flow of time...",
+                "text": "Que je reste dans le fleuve du temps..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/7/message": {
+                "orig": "... until the release arrives.",
+                "text": "... jusqu'à que ça sorte."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/8/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/9/message": {
+                "orig": "Wait!",
+                "text": "Attends !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/10/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/11/message": {
+                "orig": "Screw this.\\. I'll log out.",
+                "text": "Bon, ça suffit.\\. Je vais me délogguer."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/15/text": {
+                "orig": "Logout",
+                "text": "Déconnexion"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/159/settings/npcStates/0/event/19/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/165/settings/dialog/0/text": {
+                "orig": "Open the gate!!",
+                "text": "Ouvrez le portail !!"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/165/settings/dialog/1/text": {
+                "orig": "Dude, you heard the general!\\. We gotta wait for the new game!",
+                "text": "Mec, t'as entendu le général !\\. Il faut qu'on attende le nouveau jeu !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/165/settings/dialog/2/text": {
+                "orig": "I can't wait!",
+                "text": "Je ne peux pas attendre !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/165/settings/dialog/3/text": {
+                "orig": "It'll take them forever again, won't it?",
+                "text": "Ça va encore leur prendre des lustres, pas vrai ?",
+                "note": "une eternité et trois jours ^^"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/165/settings/dialog/4/text": {
+                "orig": "I'm sure it will be worth the wait!",
+                "text": "Je suis sûr que ça vaudra le coup d'attendre !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/165/settings/dialog/5/text": {
+                "orig": "Sloooooopes!",
+                "text": "Pennnnnte !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/179/settings/dialog/0/text": {
+                "orig": "There you go...\\. the final MacGuffin.",
+                "text": "Enfin le voilà...\\. le dernier MacGuffin."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/179/settings/dialog/1/text": {
+                "orig": "I can't believe it.\\. They hid it at the very end.",
+                "text": "J'y crois pas.\\. Ils l'ont caché tout à la fin."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/179/settings/dialog/2/text": {
+                "orig": "So...\\. time to hit the beach?",
+                "text": "Donc...\\. On retourne à la plage ?"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/179/settings/dialog/3/text": {
+                "orig": "Maybe tomorrow.\\. I've had enough for today.",
+                "text": "Peut-être demain.\\. J'ai eu ma dose pour aujourd'hui."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/0/text": {
+                "orig": "We did it!\\. Come on, admit it!\\. It wasn't so bad!",
+                "text": "On a réussi !\\. Allez, admet le !\\. C'était pas si mal !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/1/text": {
+                "orig": "The final boss battle was literally in \\c[3]SPACE\\c[0]!",
+                "text": "Le combat du boss de fin était littéralement dans l'\\c[3]ESPACE\\c[0] !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/2/text": {
+                "orig": "AGAIN!\\. What's their obsession with space?!",
+                "text": "ENCORE !\\. C'est quoi leur obsession avec l'espace ?!"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/3/text": {
+                "orig": "The gods of the Ancients are all about space, right? You could read that in the lore.",
+                "text": "Les dieux des Anciens sont toujours dans l'espace, non ? Tu pouvais le lire dans le folklore."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/4/text": {
+                "orig": "Yeah of course, but STILL!",
+                "text": "Oui bien sûr, MAIS QUAND MÊME !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/5/text": {
+                "orig": "You know what I think? You don't seem nearly as distressed as you used to.",
+                "text": "Tu sais ce que je pense ? Tu ne semble pas aussi apeurée qu'avant."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/6/text": {
+                "orig": "Well...\\. I guess it wasn't quite as bad this time.",
+                "text": "Bon...\\. J'imagine que c'était pas aussi difficile cette fois."
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/7/text": {
+                "orig": "There you go!",
+                "text": "Et voilà !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/8/text": {
+                "orig": "I still hope their next game takes place on a planet with a perfectly flat and even surface!",
+                "text": "J'espère quand même que leur prochain jeu aura lieu sur une planète avec une surface parfaitement plate !"
+        },
+        "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/191/settings/dialog/9/text": {
+                "orig": "That sounds terribly exciting...",
+                "text": "Ça serait pas très intéressant..."
+        }
+}

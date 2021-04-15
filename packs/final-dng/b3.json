@@ -1,0 +1,386 @@
+{
+        "extension/post-game/data/maps/final-dng/b3/bridge-inner.json/entities/0/settings/destinations/0/label": {
+                "orig": "G: The Journey",
+                "text": "RDC : Le Voyage"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge-inner.json/entities/0/settings/destinations/1/label": {
+                "orig": "B1: The Approaching",
+                "text": "SS1 : L'Approche"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge-inner.json/entities/0/settings/destinations/2/label": {
+                "orig": "B2: The Arrival",
+                "text": "SS2 : L'Arrivée"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge-inner.json/entities/0/settings/destinations/3/label": {
+                "orig": "B3: The Impact",
+                "text": "SS3 : L'Impact"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge-inner.json/entities/0/settings/destinations/4/label": {
+                "orig": "B4: The Message",
+                "text": "SS4 : Le Message"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/39/settings/teleportLabel": {
+                "orig": "Back To Lookout",
+                "text": "Retour au Point de Vue"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/3/message": {
+                "orig": "Lea, dear!",
+                "text": "Lea, chérie !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/4/message": {
+                "orig": "I was just having a closer look at the elevator symbols.",
+                "text": "Je regardais un peu de plus près les symboles sur l'ascenseur."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/5/message": {
+                "orig": "And then it just came over me how it all might be connected!",
+                "text": "Et il m'est soudainement venu à l'esprit comment tout ça pouvait être lié !",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/6/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/7/message": {
+                "orig": "Wanna hear my theory?",
+                "text": "Tu veux écouter ma théorie ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/1/message": {
+                "orig": "Alrighty!\\. Let's have a look together!",
+                "text": "OK !\\. Alors regardons ensemble !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/9/message": {
+                "orig": "Floor 1: \"The Journey\"\nA meteor traveling lonely through space.",
+                "text": "Étage 1 : \"Le Voyage\"\nUne météorite voyage seule dans l'espace."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/11/message": {
+                "orig": "Floor 2: \"The Approaching\"!\nThe meteor is getting closer to a planet.",
+                "text": "Étage 2: \"L'approche\" !\nLe météore se rapproche d'une planete."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/13/message": {
+                "orig": "Floor 3: \"The Arrival\"!\nThe meteor is about to reach the planet",
+                "text": "Étage 3: \"L'arrivée\" !\nLe météore va bientôt atteindre la planète.",
+                "note": "there i fixed it"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/15/message": {
+                "orig": "Floor 4: \"The Impact\"!\nWell... I'm sure you get the idea.",
+                "text": "Étage 4: \"L'impact\" !\nBon... J'imagine que tu as compris."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/17/message": {
+                "orig": "And blank!\\. I'm certain there is one more floor left.",
+                "text": "Et du vide !\\. Je suis certaine qu'il y a encore un autre étage."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/21/message": {
+                "orig": "So... what do you think this meteor is all about?",
+                "text": "Donc... tu penses que c'est quoi le rapport avec cette météorite ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/22/message": {
+                "orig": "Say, Lea. Do you remember the \\c[3]Message of the Sky\\c[0].",
+                "text": "Dis, Lea, Est-ce que tu te souviens du \\c[3]Message venu du Ciel\\c[0] ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/23/message": {
+                "orig": "It was mentioned in several texts of the Ancients.",
+                "text": "Il était mentionné dans plusieurs textes des Anciens."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/24/message": {
+                "orig": "Di'aro wrapped it in an \\c[3]envelope of rock and ice\\c[0].",
+                "text": "Di'aro l'a enveloppé dans une \\c[3]enveloppe de roche et de glace\\c[0]."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/25/message": {
+                "orig": "And \\c[3]K'win\\c[0] made it \\c[3]approach this planet fast enough\\c[0], so it arrived in time.",
+                "text": "Et \\c[3]K'win\\c[0] l'a fait \\c[3]approcher de cette planète suffisamment rapidement\\c[0], pour qu'il puisse arriver à temps."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/32/message": {
+                "orig": "It think this is what this meteor is!\\. It's the \\c[3]Message of the Sky\\c[0]!",
+                "text": "Je crois que cette météorite est le \\c[3]Message venu du Ciel\\c[0] !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/33/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/34/message": {
+                "orig": "And it landed right here, at this very location!",
+                "text": "Et il a atterri juste ici, là où on se trouve !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/35/message": {
+                "orig": "It left a gigantic crater, the same we're currently descending down into!",
+                "text": "Il a laissé un cratère gigantesque, celui dans lequel on est en train de descendre !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/36/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/37/message": {
+                "orig": "And I'm sure at the bottom we'll finally find out what it is!",
+                "text": "Et je suis sûr qu'en bas, on va enfin découvrir de quoi il s'agit !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/38/message": {
+                "orig": "The message of the sky - the secret of the Ancients!",
+                "text": "Le message venu du ciel, le secret des anciens !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/39/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/0/40/message": {
+                "orig": "I really can't wait!\\. Let's go!",
+                "text": "Je suis vraiment trop impatiente !\\. Continuons !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/1/1/message": {
+                "orig": "Awww...\\. I was hoping to share it with somebody.",
+                "text": "Ohhhhh...\\. J'espérais pouvoir la partager avec quelqu'un."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/1/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/82/settings/npcStates/0/event/8/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/3/message": {
+                "orig": "Holerö!",
+                "text": "Holerö !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/4/message": {
+                "orig": "So...\\. we're almost there, aren't we?",
+                "text": "Donc...\\. on y est presque, pas vrai ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/5/message": {
+                "orig": "We did the obligatory final batch of bouncing puzzles...",
+                "text": "On a fait la série obligatoire de puzzle de rebonds..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/6/message": {
+                "orig": "Collected the master key...",
+                "text": "Récupéré le sésame..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/thenStep/0/message": {
+                "orig": "...?",
+                "text": "... ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/thenStep/1/message": {
+                "orig": "...!!",
+                "text": "... !!"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/thenStep/2/message": {
+                "orig": "Oh Junge!\\. You missed it?",
+                "text": "Oh Junge !\\. Tu l'as raté ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/thenStep/3/message": {
+                "orig": "You get it after the battle on this floor.",
+                "text": "Tu l'obtiens après le combat sur cet étage."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/thenStep/4/message": {
+                "orig": "It should still be there, go pick it up!",
+                "text": "Il devrait encore y être, va le chercher !",
+                "note": "do ppl really miss it ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/0/message": {
+                "orig": "So... the final boss should not be much further.",
+                "text": "Donc... le boss final ne devrait plus être très loin."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/1/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/2/message": {
+                "orig": "Gyahaha!\\. You seem very determined!",
+                "text": "Gyahaha !\\. Tu sembles bien décidée !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/3/message": {
+                "orig": "Alright then...\\. this was pretty fun so far.",
+                "text": "Oui, bon...\\. C'était vraiment fun jusqu'à présent."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/4/message": {
+                "orig": "Gotta admit, I got more into it than I initially expected.",
+                "text": "Je dois admettre que je m'amuse plus que ce que je prévoyais."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/5/message": {
+                "orig": "Almost made me forget that I'm now a permanent part of this game.",
+                "text": "Ça me fait presque oublier que je fais partie du jeu de manière permanente."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/6/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/7/message": {
+                "orig": "Don't worry, I'm fine.",
+                "text": "Ne t'inquiète pas, je vais bien."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/8/message": {
+                "orig": "I mean, hey, we now have access to a whole island paradise and all that.",
+                "text": "Je veux dire, hé, on a accès à une île paradisiaque toute entière et tout."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/9/message": {
+                "orig": "We should capitalize on that, you know?",
+                "text": "On devrait s'en servir, tu trouves pas ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/10/message": {
+                "orig": "Take a long walk along the beach together, sometime.",
+                "text": "On pourrait faire une longue balade à la plage ensemble, un jour."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/11/message": {
+                "orig": "No enemy bashing, just walking and taking in the waves and breezes.",
+                "text": "Pas de bagarre, juste on marche, et on profite des vagues et du vent."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/12/message": {
+                "orig": "What do you think?",
+                "text": "Qu'est-ce que tu en dis ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/0/1/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/0/2/message": {
+                "orig": "Alright!\\. It's a date!",
+                "text": "Bien !\\. Alors c'est un rendez-vous !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/0/3/message": {
+                "orig": "We just have to find a time with less players around.",
+                "text": "Il faut juste qu'on trouve un moment ou il y a moins de joueurs."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/0/4/message": {
+                "orig": "Unless you prefer walking through a war zone.",
+                "text": "Sauf si tu préfères marcher sur un champ de bataille."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/0/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/1/1/message": {
+                "orig": "Awww.\\. Not the beach walking kind, I see?",
+                "text": "Ooooh.\\. Pas du genre à marcher sur la plage, je vois ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/1/2/message": {
+                "orig": "Too bad.",
+                "text": "Dommage."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/13/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/14/message": {
+                "orig": "Anyway, ready to continue with the dungeon?",
+                "text": "En tout cas, tu es prête à continuer le donjon ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/0/0/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/0/1/message": {
+                "orig": "Alright, let's go!",
+                "text": "Allez, on reprend !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/1/0/message": {
+                "orig": "[shakes head]",
+                "text": "[secoue la tête]"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/1/1/message": {
+                "orig": "Alright!\\. I'll go ahead then!",
+                "text": "OK !\\. Je vais aller devant alors !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/1/2/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/options/0/label": {
+                "orig": "Yes",
+                "text": "Oui"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/83/settings/npcStates/0/event/7/elseStep/15/options/1/label": {
+                "orig": "No",
+                "text": "Non"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/91/settings/dialog/0/text": {
+                "orig": "Oh man, it's still not over! Does it ever end?",
+                "text": "Hé ben mec, c'est toujours pas fini ! Ça finira un jour ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/91/settings/dialog/1/text": {
+                "orig": "Didn't you say you like long dungeons?",
+                "text": "C'est pas toi qui disait que t'aimais bien les donjons à rallonge ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/91/settings/dialog/2/text": {
+                "orig": "I guess I did... But it's still so exhausting.",
+                "text": "Ça se pourrait... Mais il est quand même épuisant."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/91/settings/dialog/3/text": {
+                "orig": "Getting too old for this, huh?",
+                "text": "Tu deviens trop vieux pour ça, hein ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/91/settings/dialog/4/text": {
+                "orig": "Oh, come on!",
+                "text": "Oh, aller !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/95/settings/dialog/0/text": {
+                "orig": "I think we're getting close to end.",
+                "text": "Je crois qu'on se rapproche de la fin."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/95/settings/dialog/1/text": {
+                "orig": "How'd you even know that?",
+                "text": "Comment tu peux le savoir ?"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/95/settings/dialog/2/text": {
+                "orig": "Well, just look down. We're getting close to ground of the crater.",
+                "text": "Et bien, regarde en bas. On se rapproche du fond du cratère."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/95/settings/dialog/3/text": {
+                "orig": "I'd NEVER dare to look down and you know that!",
+                "text": "Je vais JAMAIS oser regarder en bas et tu le sais !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/95/settings/dialog/4/text": {
+                "orig": "Right...",
+                "text": "Oui..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/96/settings/dialog/0/text": {
+                "orig": "We're surrounded by the fog now!",
+                "text": "On est entouré par le brouillard maintenant !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/96/settings/dialog/1/text": {
+                "orig": "Good thing it's not poisonous.",
+                "text": "C'est une bonne chose qu'il soit pas empoisonné."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/96/settings/dialog/2/text": {
+                "orig": "We can't be sure just yet...",
+                "text": "On ne peux pas encore en être sûr..."
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/96/settings/dialog/3/text": {
+                "orig": "Then lets better not wait here until we find out, right?",
+                "text": "Alors il faudrait mieux de pas attendre de le découvrir, non ?",
+                "quality": "bad"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/96/settings/dialog/4/text": {
+                "orig": "But it's pretty!",
+                "text": "Mais c'est tellement joli !"
+        },
+        "extension/post-game/data/maps/final-dng/b3/bridge.json/entities/96/settings/dialog/5/text": {
+                "orig": "...",
+                "text": "..."
+        }
+}
