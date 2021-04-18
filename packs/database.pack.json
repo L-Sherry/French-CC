@@ -3011,7 +3011,7 @@
         },
         "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/0/message": {
                 "orig": "Again...",
-                "text": "Encore une fois..."
+                "text": "Encore..."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/2/message": {
                 "orig": "...!",
@@ -12477,8 +12477,7 @@
         },
         "database.json/drops/Beach-Green-1/name": {
                 "orig": "Alpha Keen Sprout",
-                "text": "Pousse Vive Alpha",
-                "quality": "unknown"
+                "text": "Pousse Pointue Alpha"
         },
         "database.json/drops/Beach-Green-1/subArea": {
                 "orig": "Commonly found near vegetation in \\c[3]\\v[area.beach.name]\\c[0].",
@@ -12486,8 +12485,7 @@
         },
         "database.json/drops/Beach-Green-2/name": {
                 "orig": "Beta Keen Sprout",
-                "text": "Pousse Vive Beta",
-                "quality": "unknown"
+                "text": "Pousse Pointue Beta"
         },
         "database.json/drops/Beach-Green-2/subArea": {
                 "orig": "Commonly found near vegetation in \\c[3]\\v[area.beach.name]\\c[0].",
@@ -14029,7 +14027,8 @@
         },
         "database.json/enemies/jungle.special.shockat-capture/name": {
                 "orig": "Picat",
-                "text": "Pichat"
+                "text": "Pichat",
+                "note": "Pichatzu"
         },
         "database.json/enemies/jungle.special.shockat-capture/species": {
                 "orig": "Mammal",
@@ -19625,9 +19624,7 @@
         },
         "database.json/quests/bg-3-goat_final/tasks/4/task": {
                 "orig": "Solve the case \\c[3]In Cawhoofs\\c[0] for \\c[3]Sergeant Bronzel\\c[0]",
-                "text": "Résolvez l'affaire \\c[3]La conspiration des Peruboucs\\c[0] du \\c[3]Sergent Bronzel\\c[0]",
-                "quality": "unknown",
-                "note": "not sure i want to keep that quest name"
+                "text": "Résolvez l'affaire \\c[3]Jacasseurs à Sabots\\c[0] du \\c[3]Sergent Bronzel\\c[0]"
         },
         "database.json/quests/bg-3-goat_final/tasks/5/task": {
                 "orig": "Follow the lead to \\c[3]Cliff Exhibition\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
@@ -21463,7 +21460,8 @@
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/name": {
                 "orig": "In Cawhoofs",
-                "text": "La conspiration des Peruboucs"
+                "text": " Jacasseurs à Sabots",
+                "note": "de: la conspirations des péruches boucs (too long of course). Also referenced at database.json/quests/bg-3-goat_final/tasks/4/task (using var refs is too risky)"
         },
         "database.json/quests/jungleGuard-3-papagang_goats_1/person": {
                 "orig": "Sgt. Bronzel",
@@ -22260,7 +22258,7 @@
         },
         "database.json/quests/seizui-quest/description": {
                 "orig": "Two players are asking for help to find one of their friends, who seems to be particularly difficult to catch.",
-                "text": "Deux joueurs demandent de l'aide pour trouver l'un de leurs amis, qui semble être particulièrement difficile à attraper."
+                "text": "Deux joueuses demandent de l'aide pour trouver l'un de leurs amis, qui semble être particulièrement difficile à attraper."
         },
         "database.json/quests/seizui-quest/briefing": {
                 "orig": "After a lot of traveling around, you finally managed to find \\c[3]Reize\\c[0]... who was subsequently banned for breaking the \\c[3]Terms of Service\\c[0]. Oh well, you tried your best!",
@@ -22334,8 +22332,8 @@
         },
         "database.json/quests/tremor-1/name": {
                 "orig": "Tremors of the Past",
-                "text": "Tremblements du Passé",
-                "quality": "bad"
+                "text": "Secousses du Passé",
+                "note": "sorry, cannot put tremor in there"
         },
         "database.json/quests/tremor-1/person": {
                 "orig": "Nánii Tremoire",
