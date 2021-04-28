@@ -1265,8 +1265,7 @@
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/248/settings/event/81/message": {
                 "orig": "Sidwell pushed Gautham toward his early demise.",
-                "text": "Sidwell a entrainé Gautham dans la mort.",
-                "quality": "bad"
+                "text": "Sidwell a poussé Gautham à bout jusqu'à sa mort."
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/248/settings/event/82/message": {
                 "orig": "And I will never forgive him for that.",
@@ -1294,9 +1293,7 @@
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/248/settings/event/98/message": {
                 "orig": "Doesn't that sound an awful lot like Sidwell's old business model?",
-                "text": "Ça ne ressemble pas un peu trop aux anciennes méthodes de Sidwell ?",
-                "quality": "unknown",
-                "note": "need more verdammt awful"
+                "text": "Ça ne ressemble pas un peu trop salement aux méthodes de Sidwell ?"
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/248/settings/event/99/message": {
                 "orig": "Look, maybe it's just me, but...",
@@ -1312,7 +1309,8 @@
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/248/settings/event/102/message": {
                 "orig": "But still...\\. wasn't he forced to act against his will?",
-                "text": "Mais quand même...\\. N'a-t-il pas été forcé à agir contre sa volonté ?"
+                "text": "Mais quand même...\\. N'a-t-il pas été forcé à agir contre sa volonté ?",
+                "note": "contre son gré ?"
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/248/settings/event/105/message": {
                 "orig": "Forced?",
@@ -1617,7 +1615,7 @@
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/252/settings/event/20/message": {
                 "orig": "We now have a pretty long list of volunteers.",
-                "text": "Maintenant on a une liste assez long de volontaires."
+                "text": "Maintenant on a une liste assez longue de volontaires."
         },
         "extension/post-game/data/maps/evo-village/interior/city-hall.json/entities/252/settings/event/21/message": {
                 "orig": "Looks like we'll get the village populated pretty quickly.",

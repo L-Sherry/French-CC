@@ -1,13 +1,11 @@
 {
         "extension/post-game/data/arena/faction-cup-3.json/core/name": {
                 "orig": "Wanderer's Cup",
-                "text": "Coupe de l'Explorateur",
-                "quality": "unknown"
+                "text": "Coupe du Nomade"
         },
         "extension/post-game/data/arena/faction-cup-3.json/core/info": {
                 "orig": "Refight several challenging battles found during your endgame quests!",
-                "text": "Affrontez de nouveau plusieurs combats difficiles trouvés dans vos quêtes de fin de jeu !",
-                "quality": "bad"
+                "text": "Affrontez de nouveau plusieurs combats difficiles trouvés dans vos quêtes de fin de jeu !"
         },
         "extension/post-game/data/arena/faction-cup-3.json/core/creator": {
                 "orig": "GFluegel",
@@ -15,8 +13,7 @@
         },
         "extension/post-game/data/arena/faction-cup-3.json/rounds/0/name": {
                 "orig": "Sobering Slaughter",
-                "text": "Assasins Sobres",
-                "quality": "bad"
+                "text": "Boucherie Sobre"
         },
         "extension/post-game/data/arena/faction-cup-3.json/rounds/0/objective": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\nThrow \\c[3]ice into the ovens to deactivate the shields\\c[0] and \\c[3]onto the machine to prevent overheating\\c[0]!",

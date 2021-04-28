@@ -297,7 +297,7 @@
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-03-south-east.json/entities/511/settings/npcStates/0/event/8/message": {
                 "orig": "That fight was instanced.\\. You just barely notice it, though!",
-                "text": "Ce combat était instancié.\\. Tu t'en es presque pas aperçue !"
+                "text": "Ce combat était instancié.\\. On s'en aperçoit presque pas !"
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-03-south-east.json/entities/511/settings/npcStates/0/event/22/message": {
                 "orig": "See?\\. This is how you appeared for me as well.",
@@ -341,16 +341,15 @@
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-03-south-east.json/entities/523/settings/dialog/0/text": {
                 "orig": "Come on, I wanna see the rest of the dungeon!",
-                "text": "Aller, je veux voir le reste du donjon !",
-                "note": "wut"
+                "text": "Aller, je veux voir le reste du donjon !"
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-03-south-east.json/entities/523/settings/dialog/1/text": {
                 "orig": "Not yet, I need to work this one out, so I can update the guide ASAP.",
-                "text": "Pas encore, il faut encore que je travaille ça, pour pouvoir mettre à jour le guide tout de suite."
+                "text": "Pas encore, il faut encore que je le trouve, pour mettre à jour le guide tout de suite."
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-03-south-west.json/entities/339/settings/event/1/message": {
                 "orig": "Again with the weird cliff structures.\\. They really like to do those...",
-                "text": "Encore avec leurs structures de falaises étranges.\\. Ils aiment vraiment faire ça..."
+                "text": "Encore avec leurs structures de falaises étranges.\\. C'est qu'ils aiment vraiment en faire..."
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-03-south-west.json/entities/340/settings/npcStates/0/event/3/message": {
                 "orig": "Hi!",
@@ -438,8 +437,7 @@
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json/entities/430/settings/event/6/message": {
                 "orig": "Very keen eyes, Joern!",
-                "text": "Quel vue aiguisée, Joern !",
-                "quality": "bad"
+                "text": "Tu as l'œil, Joern !"
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json/entities/430/settings/event/10/message": {
                 "orig": "We should make sure to remember that \\c[3]chest\\c[0]!",
@@ -447,7 +445,7 @@
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json/entities/430/settings/event/17/message": {
                 "orig": "Time to move forward!",
-                "text": "Il est temps de continuer plus loin !"
+                "text": "Il est temps de continuer !"
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json/entities/430/settings/event/23/message": {
                 "orig": "Okay...?",
@@ -595,7 +593,7 @@
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json/entities/302/settings/event/38/message": {
                 "orig": "Time for some backtracking.",
-                "text": "Il est temps de reprendre le chemin."
+                "text": "Il est temps de reprendre le même chemin."
         },
         "extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json/entities/305/settings/dialog/0/text": {
                 "orig": "That's a whole lot of crystal enemies in this place!",

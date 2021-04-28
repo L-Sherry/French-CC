@@ -9,11 +9,11 @@
         },
         "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/14/text": {
                 "orig": "Getting ever so close\nto your destination.\n",
-                "text": "Vous vous êtes jamais aussi\nrapproché de votre destination."
+                "text": "Vous rapprochant toujours\nplus de votre destination."
         },
         "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/15/text": {
                 "orig": "Yet there is one last trial\nfor you to pass.\n",
-                "text": "Mais il reste encore une dernière épreuve\nque vous devez réussir."
+                "text": "Mais il reste encore une dernière épreuve\nà surmonter."
         },
         "extension/post-game/data/maps/final-dng/b4/boss.json/entities/20/settings/event/16/text": {
                 "orig": "The time has come\nfor you to demonstrate...\n",
@@ -157,8 +157,7 @@
         },
         "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/14/message": {
                 "orig": "This new enemy type has been breaking in mass fights.",
-                "text": "Ce nouveau type d'ennemis plantait souvent dans les combats massifs.",
-                "quality": "bad"
+                "text": "Ce nouveau type d'ennemis plantait souvent lors des grands combats."
         },
         "extension/post-game/data/maps/final-dng/b4/credits.json/entities/39/settings/event/15/message": {
                 "orig": "Apparently they fixed it and I want to test it.",
@@ -182,8 +181,8 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/35/text": {
                 "orig": "Your journey has continued \nfor a long time.",
-                "text": "Votre voyage s'est poursuivi\npendant un long moment",
-                "quality": "bad"
+                "text": "Votre trajet était si long\net éprouvant.",
+                "note": "this de, approximatively... ok, not really."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/36/text": {
                 "orig": "You traveled far\nand passed every trial.",
@@ -203,11 +202,11 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/40/text": {
                 "orig": "As such, you are now ready\nto proceed further.",
-                "text": "Et donc, vous êtes donc prêt\npour continuer plus loin."
+                "text": "Et vous êtes donc prêt\npour continuer plus loin."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/41/text": {
                 "orig": "Start your journey \nonce more.",
-                "text": "Pour commencez votre voyage\nencore une fois."
+                "text": "Pour commencez votre voyage\nune nouvelle fois."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/42/text": {
                 "orig": "Because life is there\nfor you to grow.",
@@ -215,7 +214,7 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/43/text": {
                 "orig": "And growth will only happen\nas your journey continues.",
-                "text": "Et la croissance n'arrivera\nque si votre voyage continue."
+                "text": "Et que la croissance n'arrivera\nque si votre voyage continue."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/44/text": {
                 "orig": "Forming your path\nwith every step you take.",
@@ -279,8 +278,7 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/105/message": {
                 "orig": "You have my deepest gratitude.",
-                "text": "Nous vous en sommes reconnaissants.",
-                "quality": "bad"
+                "text": "Nous vous en sommes très reconnaissants."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/106/message": {
                 "orig": "Once this portal has opened, I invite you to join our expedition.",
@@ -288,8 +286,9 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/107/message": {
                 "orig": "To raise Operation Trackwalker to a new level.",
-                "text": "Pour faire croitre l'Opération Retraçage à un tout autre niveau.",
-                "quality": "bad"
+                "text": "Pour porter l'Opération Retraçage à un tout autre niveau.",
+                "quality": "bad",
+                "note": "but enough ?"
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/109/message": {
                 "orig": "To follow the Ancients...",
@@ -367,7 +366,7 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/12/message": {
                 "orig": "Don't worry dear, most of us just arrived.",
-                "text": "Ne t'inquiète pas, mon cœur, la plupart d'entre nous viennent juste d'arriver."
+                "text": "Ne t'inquiète pas, mon cœur, la plupart d'entre nous venons juste d'arriver."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/133/elseStep/13/message": {
                 "orig": "True...\\. that dungeon was seriously long.",
@@ -383,7 +382,7 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/138/message": {
                 "orig": "They had it coming for wasting my time with their poetry!",
-                "text": "Ils l'ont mérité, vu le temps qu'ils m'ont fait perdre avec leur poésie !"
+                "text": "Ils l'ont mérité, vu le temps qu'ils m'ont fait perdre avec tous leurs couplets !"
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/140/message": {
                 "orig": "Emilie, please, those are the Gods of the Ancients!",
@@ -479,8 +478,7 @@
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/208/message": {
                 "orig": "Well, figures.",
-                "text": "Oui, bon c'est évident.",
-                "quality": "bad"
+                "text": "Oui, bon c'est évident."
         },
         "extension/post-game/data/maps/final-dng/b4/stargate.json/entities/123/settings/event/209/message": {
                 "orig": "I'm not the one spending my whole time in the game.",

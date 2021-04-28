@@ -1661,8 +1661,9 @@
         },
         "database.json/areas/beach/landmarks/left/name": {
                 "orig": "Lagoon Resort",
-                "text": "Plage du Lagon.",
-                "quality": "bad"
+                "text": "Lagon Touristique",
+                "quality": "bad",
+                "note": "still bad"
         },
         "database.json/areas/beach/landmarks/left/description": {
                 "orig": "Surrounded by sharp cliffs, this lagoon is home to only the most chill fauna.",
@@ -2195,8 +2196,8 @@
         },
         "database.json/chapters/11/name": {
                 "orig": "Homestedt",
-                "text": "Chénous",
-                "note": "de: ville d'origine, patrie, refuge, arborigène, autochtone, indigène, natif/natal, so let's play a bit"
+                "text": "Chainoudt",
+                "note": "i'm not going to \\v[area.evo-village.name] here, even if it might work"
         },
         "database.json/chapters/12/name": {
                 "orig": "To the Beach",
@@ -3826,9 +3827,7 @@
         },
         "database.json/commonEvents/apollo-kim/event/0/message": {
                 "orig": "The lurking \\c[3]K'im\\c[0] appears from the depth of the sand!\\. Be prepared for flaming rocks raining down on us!",
-                "text": "Le \\c[3]\\v[combat.name.beach/worm]\\c[0] rampant apparait depuis les profondeurs des sables !\\. Préparez-vous à ce que des roches enflammées pleuvent sur nous !",
-                "quality": "unknown",
-                "note": "too long ?"
+                "text": "Le \\c[3]\\v[combat.name.beach/worm]\\c[0] rampe depuis les profondeurs des sables !\\. Préparez-vous à recevoir une pluie de roches enflammées !"
         },
         "database.json/commonEvents/apollo-turtle/event/0/message": {
                 "orig": "The legendary \\c[3]Trigenbu\\c[0] attacks!\\. Beware its icy thrust from above!",
@@ -3932,9 +3931,8 @@
         },
         "database.json/commonEvents/shizuka-battle-over-S/event/0/0_1/0/message": {
                 "orig": "That sure was relaxing. Can't get this kinda workout when watching over my brother.",
-                "text": "C'était très relaxant. C'était presque des vacances comparé aux sessions avec mon frère.",
-                "quality": "bad",
-                "note": "this de, but it's hard to convey anyway."
+                "text": "Ça fait du bien. Ce n'est pas en regardant mon frère que je peux faire ce genre d'exercice",
+                "note": "de is funnier (\"c'est des vacances à coté\"), but harder to convey."
         },
         "database.json/commonEvents/schneider-battle-over-S/event/0/0_0/0/message": {
                 "orig": "Meine Güte, you sure let off some steam.",
@@ -4110,8 +4108,7 @@
         },
         "database.json/commonEvents/emilie+shizuka+battle-over/event/2/thenStep/1/message": {
                 "orig": "Please, I hate talking about music.\\. People act too condescending about it.",
-                "text": "S'il te plait, je déteste parler de musique.\\. Les gens sont bien trop condescendant là-dessus.",
-                "quality": "bad"
+                "text": "S'il te plait, je déteste parler de musique.\\. Les gens sont bien trop à cheval là-dessus."
         },
         "database.json/commonEvents/emilie+shizuka+battle-over/event/2/thenStep/2/message": {
                 "orig": "Come on, try me!",
@@ -4184,8 +4181,7 @@
         },
         "database.json/commonEvents/emilie+shizuka+battle-over/event/3/thenStep/8/message": {
                 "orig": "It might be for you as well!\\. That's what's so great about asking you!\\. Two birds with one stone!",
-                "text": "Ça pourrais être pour toi aussi !\\. C'est pour ça que c'est cool de pouvoir te demander !\\. On peut faire d'une pierre deux coups !",
-                "quality": "bad"
+                "text": "Ça pourrais être pour toi aussi !\\. C'est pour ça que c'est cool de pouvoir te demander !\\. On peut faire d'une pierre deux coups !"
         },
         "database.json/commonEvents/emilie+shizuka+battle-over/event/3/thenStep/9/message": {
                 "orig": "Then wouldn't it be better to ask when those two birds are not around?",
@@ -4285,7 +4281,7 @@
         },
         "database.json/commonEvents/shizuka+apollot+battle-over/event/2/thenStep/1/message": {
                 "orig": "Seriously, what's his deal, Lea?\\. Is he always like this?",
-                "text": "Sérieusement, Lea, c'est quoi le truc avec lui ?\\. Il est toujours comme ça ?"
+                "text": "Sérieusement, Lea, c'est quoi son truc ?\\. Il est toujours comme ça ?"
         },
         "database.json/commonEvents/shizuka+apollot+battle-over/event/2/thenStep/2/message": {
                 "orig": "[nods]",
@@ -5621,9 +5617,7 @@
         },
         "database.json/commonEvents/luke-seastar-end/event/0/thenStep/0/message": {
                 "orig": "Alright, so we got sea stars for the mass enemy type of the area.",
-                "text": "Ok, donc on a des étoiles de mer comme ennemis pour remplir la zone.",
-                "quality": "bad",
-                "note": "use 'mob' ?"
+                "text": "Ok, donc on a des étoiles de mer comme ennemis de base de la zone."
         },
         "database.json/commonEvents/luke-seastar-end/event/0/thenStep/1/message": {
                 "orig": "I definitely prefer those over the virus enemies in Vermillion Wasteland.\\. Those were rather complicated.",
@@ -6145,8 +6139,7 @@
         },
         "database.json/commonEvents/shizuka-dies/event/0/0_0/0/message": {
                 "orig": "Damn input lag...",
-                "text": "Satané lag des inputs...",
-                "quality": "bad"
+                "text": "Satané lag des commandes..."
         },
         "database.json/commonEvents/shizuka-dies/event/0/0_1/0/message": {
                 "orig": "Oh, come on... Lea, get them!",
@@ -6162,7 +6155,7 @@
         },
         "database.json/commonEvents/shizuka-revived/event/0/0_0/0/message": {
                 "orig": "You still aren't done, Lea? Guess I'll handle it then.",
-                "text": "T'as toujours pas terminé, Lea ? Alors je vais m'en occuper."
+                "text": "T'as toujours pas terminé, Lea ? Pas grave je vais m'en occuper."
         },
         "database.json/commonEvents/shizuka-revived/event/0/0_1/0/message": {
                 "orig": "Time for some revenge, you piles of instant matter.",
@@ -6492,7 +6485,7 @@
         },
         "database.json/commonEvents/emilie-contact/event/8/thenStep/2/elseStep/0/message": {
                 "orig": "Do you miss our usual D-Link conversations during dungeon runs?",
-                "text": "Est-ce que ça te manque les conversations D-Link pendant les courses au donjons ?"
+                "text": "Ça te manquait nos conversations via D-Link pendant les courses au donjons ?"
         },
         "database.json/commonEvents/emilie-contact/event/8/thenStep/2/elseStep/1/message": {
                 "orig": "[nods]",
@@ -7404,9 +7397,7 @@
         },
         "database.json/commonEvents/glasses-contact/event/8/thenStep/2/message": {
                 "orig": "Thanks for picking me up before.",
-                "text": "Merci pour m'avoir emmené avec toi tout à l'heure.",
-                "quality": "unknown",
-                "note": "wat ? is this after the confrontation ?"
+                "text": "Merci pour avoir été me chercher tout à l'heure."
         },
         "database.json/commonEvents/glasses-contact/event/8/thenStep/3/message": {
                 "orig": "I feel better now.",
@@ -12945,8 +12936,7 @@
         },
         "database.json/enemies/final.god-heat/descriptions/0/text": {
                 "orig": "Bringer of Warmth, may your flame burn brightly.",
-                "text": "Donneur de Chaleur, que votre flamme brûle brillamment.",
-                "quality": "bad"
+                "text": "Porteuse de Chaleur, que votre flamme brûle brillamment."
         },
         "database.json/enemies/final.god-cold/name": {
                 "orig": "Di'aro",
@@ -12970,7 +12960,7 @@
         },
         "database.json/enemies/final.god-shock/descriptions/0/text": {
                 "orig": "Rider of the Storm, may your winds guide us.",
-                "text": "Conducteur des Orages, que vos vents nous guident.",
+                "text": "Conductrice des Orages, que vos vents nous guident.",
                 "note": "ok enough"
         },
         "database.json/enemies/final.god-wave/name": {
@@ -13229,7 +13219,7 @@
         },
         "database.json/enemies/final.gynthar/descriptions/0/text": {
                 "orig": "A guardian as old as the Ancients themselves. It serves as both protector and guard to the final secret of the Ancients. Much like all Seekers, it can switch elements and will attack relentlessly using a weird combination of elemental attacks.\nIn desperation it will call upon the power of all elements to deliver a devastating attack that will be the final judgement for those that are worthy enough.",
-                "text": "Un gardien aussi vieux que les Anciens eux-mêmes. Ils sert à la fois de protecteur et de garde pour le secret final des Anciens. Comme tous les \\v[lore.title.seeker], il peut changer d'élément et attaquera sans relâche en utilisant une combinaison étrange d'attaque élémentaires.\nLorsqu'il est désespéré il s'en remettra au pouvoir de tous les éléments pour s'adonner à une attaque dévastatrice qui sera le jugement dernier de tout ceux qui ne sont pas assez dignes."
+                "text": "Un gardien aussi vieux que les Anciens eux-mêmes. Ils sert à la fois de protecteur et de garde pour le secret final des Anciens. Comme tous les \\v[lore.title.seeker]s, il peut changer d'élément et attaquera sans relâche en utilisant une combinaison étrange d'attaque élémentaires.\nLorsqu'il est désespéré il s'en remettra au pouvoir de tous les éléments pour s'adonner à une attaque dévastatrice qui sera le jugement dernier de tout ceux qui ne sont pas assez dignes."
         },
         "database.json/enemies/boss.designer-1/name": {
                 "orig": "???",
@@ -23976,7 +23966,7 @@
         },
         "database.json/traders/papagangQuestTrade/name": {
                 "orig": "Nik, the Eggman",
-                "text": "Nik, le Crâne d'Œuf"
+                "text": "Nik, le Type aux Œufs"
         },
         "database.json/traders/tremorTrader/name": {
                 "orig": "Edgy Salesman",
