@@ -34,7 +34,8 @@
 			"je_met": "\\bje met\\b",
 			"laisser moi": "\\blaisser moi\\b",
 			"caviens": "\\bça viens\\b",
-			"on_ai": "\\bon ((les|leur) |[ln]')?ai\\b"
+			"on_ai": "\\bon ((les|leur) |[ln]')?ai\\b",
+			"vielle": "vielle"
 		},
 		"metrics": {
 			"normal": {
@@ -277,6 +278,8 @@
 				"Samuels/:M2:e:i",
 				"Niskeewa/:M2:e:i",
 				"Ruger/:M2:e:i",
+				"Tremoire/:M2:e:i",
+				"Curtis/:M2:e:i",
 
 				"Nemuh/:M1:e:i",
 				"Sensei/:M1:e:i",
@@ -290,6 +293,7 @@
 				"Achtung/:J",
 				"Dacodac/:J",
 				"Ouaip/:J",
+				"ouaip/:J",
 				"Holerö/:J",
 				"HOLERÖ/:J",
 				"Hallihallo/:J",
@@ -311,6 +315,10 @@
 				"Güte/:N:m:s",
 				"Saluuut/:N:m:s",
 				"Heiiiiin/:J",
+				"Aye/:J",
+				"Roh/:J",
+				"Rah/:J",
+				"Pfiou/:J",
 
 				"bla/:J",
 				"Youhou/:J",
@@ -341,10 +349,10 @@
 				"Link/:N:m:s",
 				"D-Link/:N:m:s",
 				"D-Links/:N:m:p",
-				"newbie/:N:m:s",
-				"Newbie/:N:m:s",
-				"newbies/:N:m:p",
-				"Newbies/:N:m:p",
+				"newbie/:N:e:s",
+				"Newbie/:N:e:s",
+				"newbies/:N:e:p",
+				"Newbies/:N:e:p",
 				"Retraçage/:MP:m:i",
 				"Réamorceur/:N:m:s",
 				"Réamorceurs/:N:m:p",
@@ -377,6 +385,7 @@
 				"Renverseur/:N:A:m:s",
 				"Renverseurs/:N:A:m:p",
 				"renverseur/:N:A:m:s",
+				"Mecha/:N:m:s",
 
 				"wrap/:N:m:s",
 				"Wrap/:N:m:s",
@@ -447,10 +456,11 @@
 				"Cat/:NP:m:i",
 				"PU17/:NP:m:i",
 
-				"Spheromancer/:N:m:s",
-				"SPHEROMANCER/:N:m:s",
-				"SPHEROMANCERS/:N:m:p",
-				"Spheromancers/:N:m:p",
+				"Spheromanceur/:N:m:s",
+				"SPHEROMANCEUR/:N:m:s",
+				"SPHEROMANCEUSE/:N:m:s",
+				"SPHEROMANCEURS/:N:m:p",
+				"Spheromanceurs/:N:m:p",
 				"Spheromanceuse/:N:f:s",
 				"Tête-d’Herbe/:N:f:s",
 
@@ -535,6 +545,8 @@
 				"Gem/:MP:e:i",
 				"Lounge/:MP:e:i",
 				"Ku’lero/:MP:e:i",
+				"Chainoudt/:MP:e:i",
+				"Tremor/:MP:e:i",
 
 				"Felix/:M1:m:i",
 				"Lachsen/:M2:e:i",
@@ -543,7 +555,9 @@
 				"Fröse/:M2:e:i",
 				"Frece/:M2:e:i",
 				"GFluegel/:M2:e:i",
-				"Streetclaw/:M2:e:i"
+				"Streetclaw/:M2:e:i",
+				"Margdanz/:M2:e:i",
+				"Freamun/:M2:e:i"
 			],
 			"replacements": {
 				"before": [

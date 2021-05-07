@@ -755,7 +755,7 @@
         },
         "enemies/arid/snail.json/meta/descriptions/0/text": {
                 "orig": "A huge snail with an enormous amount of HP. It's slow but it can use its huge body to jump on top of you or spin around the arena leaving an icy trail. It will also spit out slugs that move towards its enemy and explode. Attack its tail to stun it and attack. \nHowever, this will not even leave a scratch. You need something better to have a chance at draining its HP pool.",
-                "text": "Un énorme escargot avec une quantité énorme de HPs. Il est lent, mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans la zone en laissant une trainée de glace. Il va aussi cracher des limaces qui vont aller vers leur ennemi et exploser. Attaquez sa queue pour l'étourdir et l'attaquer.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous avez besoin de quelque chose de mieux pour avoir une chance de drainer sa quantité d'HP."
+                "text": "Un énorme escargot avec une quantité énorme d'HPs. Il est lent, mais il peut utiliser son corps énorme pour sauter sur vous ou tournoyer dans l'arène en laissant une trainée de glace. Il va aussi cracher des limaces qui se dirigeront vers leur ennemi pour exploser. Attaquez sa queue pour l'étourdir et l'attaquer.\nMalheureusement, cela ne lui laissera pas une seule égratignure. Vous aurez besoin de quelque chose de mieux pour espérer drainer sa quantité d'HP."
         },
         "enemies/arid/virus-cold.json/actions/SpawnVirus/4/text": {
                 "orig": "Multiplying",
@@ -1324,8 +1324,10 @@
                 "text": "Guerrier de la Justice"
         },
         "enemies/avatar/apollo-4.json/meta/descriptions/0/text": {
-                "orig": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful.",
-                "text": "Oh non, apollo est de retour avec sa trompette !"
+                "orig": "The \\c[3]Warrior of Justice\\c[0] demands one last duel to decide who is the truest of the true Spheromancers!\nThis time he will do his title justice by unleashing the full arsenal of his abilities. Combat Arts of all 3 levels and 4 elements await you!",
+                "text": "Le \\c[3]Guerrier de la Justice\\c[0] demande un dernier duel pour décider qui est le plus vrai de tous les véritables Spheromanceurs ! Cette fois il va appliquer sa propre justice en utilisant tout l'arsenal de ses capacités.  Des Arts de Combats des trois niveaux et les 4 éléments vous attendent !",
+                "quality": "unknown",
+                "note": "it seems that my joke text could have been displayed, because, of course, rfg didn't update the text until recently.  And it's still not up to date btw.  I stole the orig from dmitmel's scans"
         },
         "enemies/avatar/apollo.json/meta/species": {
                 "orig": "Warrior of Justice",
@@ -1341,7 +1343,7 @@
         },
         "enemies/avatar/lily.json/meta/descriptions/0/text": {
                 "orig": "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
-                "text": "Une joueuse Hexacast d'une nouvelle guilde appellée les Chasseurs d'Étoiles. Elle est assez curieuse de son nouvel environement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
+                "text": "Une joueuse Hexacast d'une nouvelle guilde appelée les Chasseurs d'Étoiles. Elle est assez curieuse de son nouvel environnement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
         },
         "enemies/avatar/shizuka.json/meta/species": {
                 "orig": "Protective Sister",
@@ -1722,7 +1724,7 @@
         },
         "enemies/forest/kamikater.json/meta/descriptions/0/text": {
                 "orig": "This forgotten robot was once intended to be used as a mining tool to create new tunnels to gather the precious \\c[3]Sapphire Cobalt\\c[0] from. \nHowever, due to incidents in the \\c[3]\\v[area.bergen.name] Mine\\c[0] the robots were disabled.\nSome of them however still lay dormant inside the tunnels and are highly volatile. Once charged with electricity they will initiate a target seeking self-destruction sequence powerful enough to clear loose boulders.",
-                "text": "Ce robot oublié était prévu pour être un appareil de minage pour créer des nouveaux tunnels pour récupérer les précieux \\c[3]Cobalts de Saphirs\\c[0].\nMais, suite aux incidents dans la \\c[3]Mine de \\v[area.bergen.name]\\c[0] les robots ont été désactivés.\nCertains d'entre eux doivent encore rester dormants dans les tunnels et sont hautement volatils. Une fois chargé avec de l'électricité, ils vont initier une séquence d'autodestruction à recherche de cible qui est assez puissante pour détruire des rochers de pierres. Comme ça vous savez !"
+                "text": "Ce robot oublié était prévu pour être un appareil de minage pour créer des nouveaux tunnels pour récupérer les précieux \\c[3]Cobalts de Saphirs\\c[0].\nMais, suite aux incidents dans la \\c[3]Mine de \\v[area.bergen.name]\\c[0] les robots ont été désactivés.\nCertains d'entre eux doivent encore rester dormants dans les tunnels et sont hautement volatils. Une fois chargé avec de l'électricité, ils vont initier une séquence d'autodestruction à recherche de cible qui est assez puissante pour détruire des rochers de pierres. Comme ça, vous savez !"
         },
         "enemies/forest/panda.json/meta/species": {
                 "orig": "Lazy Hover Panda",
@@ -1754,7 +1756,7 @@
         },
         "enemies/guest/firespirit.json/meta/descriptions/0/text": {
                 "orig": "A mysterious flame that has taken humanoid form. It is, in fact, so mysterious that barely anything is known about it.\nHowever, it is clear that its powerful flame has to \\c[3]first be extinguished\\c[0] before there is any hope of defeating it. Though it is said that the underlying source of the flames is \\c[3]electrical\\c[0] in nature, so beware!",
-                "text": "Une flamme mystérieuse qui a pris une forme humanoide. En fait, elle est si mystérieuse qu'on ne connait presquerien d'elle.\nMais, il est clair que son feu doit \\c[3]d'abord être éteint\\c[0] avant d'éspérer pouvoir le vaincre. Bien qu'il soit dit que la source des flammes serait de nature \\c[3]éléctrique\\c[0], donc attention !"
+                "text": "Une flamme mystérieuse qui a pris une forme humanoïde. En fait, elle est si mystérieuse qu'on ne connait presque rien d'elle.\nMais, il est clair que son feu doit \\c[3]d'abord être éteint\\c[0] avant d'espérer pouvoir le vaincre. Bien qu'il soit dit que la source des flammes serait de nature \\c[3]électrique\\c[0], donc attention !"
         },
         "enemies/guest/glitch-boss.json/meta/species": {
                 "orig": "[Object]",
@@ -2167,7 +2169,7 @@
         },
         "enemies/heat/special/heat-golem-booze.json/meta/descriptions/0/text": {
                 "orig": "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\nJust like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again.",
-                "text": "Ramené à la vie par le feu et par les meilleurs spiritueux, ce golem brule encore plus chaud que ses cousins plus commun, les \\v[combat.name.heat/heat-golem]s. Il est né à partir d'une distillerie haute puissance et ne pourra pas tenir longtemps sans les traditionnelles boissons des Anciens.\nComme l'\\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] il reçoit un bouclier de la Distillerie qui l'a fait apparaitre.  Un mécanisme doit être activé pour le rendre vulnérable à nouveau."
+                "text": "Ramené à la vie par le feu et par les meilleurs spiritueux, ce golem brule encore plus chaud que ses cousins plus communs, les \\v[combat.name.heat/heat-golem]s. Il est né à partir d'une distillerie haute puissance et ne pourra pas tenir longtemps sans les traditionnelles boissons des Anciens.\nComme l'\\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] il reçoit un bouclier de la Distillerie qui l'a fait apparaitre. Un mécanisme doit être activé pour le rendre vulnérable à nouveau."
         },
         "enemies/heat/special/jellyfish-booze.json/meta/species": {
                 "orig": "Alcoholic Jellyfish",
@@ -2175,7 +2177,7 @@
         },
         "enemies/heat/special/jellyfish-booze.json/meta/descriptions/0/text": {
                 "orig": "A variant of the \\v[combat.name.heat/jellyfish], but with a much higher amount of alcohol. There are no known natural habitats, but they tend to appear near distilleries with a powerful connection to Ancient energy.\nLike with their more common relative, they can be temporarily stunned by using their own bubbles against them. Though you might need to get rid of an external shield first!",
-                "text": "Une variante de la \\v[combat.name.heat/jellyfish], mais avec un taux d'alcoolémie bien plus élevé. Il n'a aucun habitat naturel connu, mais ils ont tendance à apparaitre à coté des distilleries qui ont une puissante connexion à l'énergie des Anciens.\nComme leur cousins plus communs, ils peuvent être temporairement étourdis en utilisant leur propres bulles contre eux. Mais avant, vous devriez peut-être vous débarrasser de leur bouclier externe !"
+                "text": "Une variante de la \\v[combat.name.heat/jellyfish], mais avec une alcoolémie bien plus élevé. Il n'a aucun habitat naturel connu, mais ils ont tendance à apparaitre à côté des distilleries qui ont une puissante connexion à l'énergie des Anciens.\nComme leurs cousins plus communs, ils peuvent être temporairement étourdis en utilisant leurs propres bulles contre eux. Mais avant, vous devriez peut-être vous débarrasser de leur bouclier externe !"
         },
         "enemies/heat/special/kamikatze-helper.json/actions/Activate/1/text": {
                 "orig": "Activated... loading Bomb!",
@@ -2287,7 +2289,7 @@
         },
         "enemies/jungle/ape-boss.json/meta/descriptions/0/text": {
                 "orig": "Born atop a mountain from a magic stone, this wise ape serves as the caretaker of both the \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] and the \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. He will test each Seeker to make sure only the worthy acquire the \\c[3]\\v[item.410.name]\\c[0]. He wields a long staff and flies around on a puffy little cloud. Although his job is to test Seekers, it seems he enjoys a good and honest fight.",
-                "text": "Né sur le sommet d'une montagne à partir d'une pierre magique, ce singe savant sert de gardien à la fois du \\c[3]\\v[area.tree-dng.name]\\c[0] et du \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Il testera chaque \\v[lore.title.seeker] pour s'assurer que seul ceux qui sont dignes puisse acquérir le \\c[3]\\v[item.410.name]\\c[0]. Il manie un long bâton et vole sur un petit nuage douillet. Bien que son travail est de tester les \\v[lore.title.seeker]s, on dirait qu'il apprécie un beau combat honorable."
+                "text": "Né sur le sommet d'une montagne à partir d'une pierre magique, ce singe savant sert de gardien à la fois du \\c[3]\\v[area.tree-dng.name]\\c[0] et de l'\\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Il testera chaque \\v[lore.title.seeker] pour s'assurer que seul ceux qui sont dignes puisse acquérir le \\c[3]\\v[item.410.name]\\c[0]. Il manie un long bâton et vole sur un petit nuage douillet. Bien que son travail est de tester les \\v[lore.title.seeker]s, on dirait qu'il apprécie un beau combat honorable."
         },
         "enemies/jungle/blob-wave.json/meta/species": {
                 "orig": "Gelatin Mass +",
@@ -2763,7 +2765,7 @@
         },
         "enemies/jungle/special/plant-hidden-shock.json/meta/descriptions/0/text": {
                 "orig": "A \\v[combat.name.jungle/plant] that somehow got infected and now radiates \\c[3]Shock-energy\\c[0]. Said energy empowers it's attack and also creates an almost impenetrable shield that can only be neutralized with an opposing element.\nIt seems like the infection spreads between its NANO-MACHINES, which also explains why they are polluting the water.",
-                "text": "Une \\v[combat.name.jungle/plant] qui semble avoir été infectée et qui radie maintenant de l'\\c[3]Énergie Choc\\c[0]. Cette énergie renforce ses attaques et crée un bouclier presque impénétrable qui ne peut être neutralisé que via un élément opposé.\nOn dirait que cette infection se propage entre ses NANO-MACHINES, ce qui explique aussi pourquoi elles polluent les eaux."
+                "text": "Un \\v[combat.name.jungle/plant] qui semble avoir été infectée et qui radie maintenant de l'\\c[3]Énergie Choc\\c[0]. Cette énergie renforce ses attaques et crée un bouclier presque impénétrable qui ne peut être neutralisé que via un élément opposé.\nOn dirait que cette infection se propage entre ses NANO-MACHINES, ce qui explique aussi pourquoi elles polluent les eaux."
         },
         "enemies/jungle/special/powerplant-quest-1.json/actions/CenterSuperJump/5/thenStep/0/text": {
                 "orig": "SUPER",
@@ -3167,7 +3169,7 @@
         },
         "enemies/jungle/special/shockat-capture.json/meta/descriptions/0/text": {
                 "orig": "This yellow variant of the common \\v[combat.name.jungle/shockcat] usually lives in more remote places than their purple counterparts. They are known for having an even stronger and also more consistent output of electricity which makes them very useful for powering devices!\n\nConveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!",
-                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leur congénères violets. Ils sont connus pour être encore plus puissants et pour leur production d'énergie électrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existence a été découverte par un Shad intelligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !"
+                "text": "Cette variante jaune du \\v[combat.name.jungle/shockcat] commun vit habituellement dans des coins encore plus reculés que leurs congénères violets. Ils sont connus pour être encore plus puissants et pour leur production d'énergie électrique plus constante, ce qui les rend très utiles pour alimenter des appareils !\n\nEt pour arranger les choses, leur existence a été découverte par un Shad intelligent au moment où ils pourraient servir pour alimenter un générateur tout neuf !"
         },
         "enemies/jungle/special/snowman-jungle-1.json/actions/AdjustEnemy/0/thenStep/0/text": {
                 "orig": "(Adjust Enemy)",
@@ -3524,7 +3526,7 @@
         },
         "enemies/minibosses/penguin-rapper.json/meta/descriptions/0/text": {
                 "orig": "A rare type of \\c[3]Pengpeng\\c[0] that set up a den deep in the mountains of \\c[3]Bergen Trail\\c[0]. When approached it immediately thinks that you want to steal its flow and jumps up to its \"stage\". It will summon Pengpengs and command them to do different attacks based on its temper. Anger it by defeating all Pengpengs to make it jump down.",
-                "text": "Un rare type de \\c[3]\\v[combat.name.penguin]\\c[0] qui s'est construit une cachette profondément dans les montagnes du \\c[3]\\v[area.bergen-trails.name]\\c[0]. Lorsqu'on l'approche, il va immédiatement penser que vous voulez piquer son flow et va sauter de sa \"scène\". Il va appeler des \\v[combat.name.penguin] et leur commander de faire différentes attaques en fonction de son humeur. Énervez le en abattant ses congénères pour le faire sauter en bas."
+                "text": "Un rare type de \\c[3]\\v[combat.name.penguin]\\c[0] qui s'est construit une cachette profondément dans les montagnes du \\c[3]\\v[area.bergen-trails.name]\\c[0]. Lorsqu'on l'approche, il va immédiatement penser que vous voulez piquer son flow et va sauter de sa \"scène\". Il va appeler des \\v[combat.name.penguin]s et leur commander de faire différentes attaques en fonction de son humeur. Énervez le en abattant ses congénères pour le faire sauter en bas."
         },
         "enemies/minibosses/raid-core.json/meta/species": {
                 "orig": "????",

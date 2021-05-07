@@ -81,7 +81,7 @@
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/690/settings/npcStates/0/event/quest/8/task": {
                 "orig": "Reach the \\c[3]temple\\c[0] in the center of \\c[3]Azure Archipelago\\c[0]!",
-                "text": "Atteingnez le \\c[3]temple\\c[0] situé au centre de \\c[3]\\v[area.beach.name]\\c[0] !"
+                "text": "Atteignez le \\c[3]temple\\c[0] situé au centre de l'\\c[3]\\v[area.beach.name]\\c[0] !"
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/690/settings/npcStates/1/event/2/message": {
                 "orig": "Dear Seeker, welcome to \\c[3]Azure Archipelago\\c[0]!",
@@ -141,7 +141,7 @@
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/698/settings/dialog/1/text": {
                 "orig": "Hell yeah, man!\\. This vacation has been way overdue!",
-                "text": "C'est clair, mec !\\. Ces vacances étaient mérités depuis longtemps !"
+                "text": "C'est clair, mec !\\. Ces vacances étaient méritées depuis longtemps !"
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/698/settings/dialog/2/text": {
                 "orig": "Come on, guys!\\. Let's explore!",
@@ -157,7 +157,7 @@
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/703/settings/npcStates/0/event/shop/3/message": {
                 "orig": "For more advanced equipment, revisit our \\c[3]main store\\c[0] in the \\c[3]Shopping District of Rhombus Square\\c[0].",
-                "text": "Pour du équipement plus avancé, revisitez notre \\c[3]magasin principal\\c[0] dans le \\c[3]\\v[area.rhombus-sqr.landmark.name.shops] de \\v[area.rhombus-sqr.name]\\c[0]."
+                "text": "Pour de l'équipement plus avancé, revisitez notre \\c[3]magasin principal\\c[0] dans le \\c[3]\\v[area.rhombus-sqr.landmark.name.shops] de \\v[area.rhombus-sqr.name]\\c[0]."
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/analyzable/text": {
                 "orig": "Mysterious Guardian",
@@ -189,7 +189,7 @@
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/0/event/quest/18/text": {
                 "orig": "\\v[lore.title.seeker], do me the honor and meet me in combat.\\. I shall gladly test your abilities.",
-                "text": "\\v[lore.title.seeker], faites moi l'honneur de me provoquer au combat.\\. Je me ferais un plaisir de tester vos capacités."
+                "text": "\\v[lore.title.seeker], faites-moi l'honneur de me provoquer au combat.\\. Je me ferais un plaisir de tester vos capacités."
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/704/settings/npcStates/0/event/quest/19/accepted/1/message": {
                 "orig": "[nods]",
@@ -309,6 +309,6 @@
         },
         "extension/post-game/data/maps/beach/path-01-entrance.json/entities/707/settings/npcStates/0/event/trade/3/message": {
                 "orig": "For more advanced equipment, revisit our \\c[3]main store\\c[0] in the \\c[3]Shopping District of Rhombus Square\\c[0].",
-                "text": "Pour du équipement plus avancé, revisitez notre \\c[3]magasin principal\\c[0] dans le \\c[3]\\v[area.rhombus-sqr.landmark.name.shops] de \\v[area.rhombus-sqr.name]\\c[0]."
+                "text": "Pour de l'équipement plus avancé, revisitez notre \\c[3]magasin principal\\c[0] dans le \\c[3]\\v[area.rhombus-sqr.landmark.name.shops] de \\v[area.rhombus-sqr.name]\\c[0]."
         }
 }

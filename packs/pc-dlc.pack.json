@@ -29,7 +29,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-1.json/entities/52/settings/interact/event/1/text": {
                 "orig": "\\c[1]WARNING\\c[0]\n\nLab A has been critically damaged by an insurgence of militant birds. It will be closed for renovations until further notice.\n\n~ The Management",
-                "text": "\\c[1]ATTENTION\\c[0]\n\nLe Labo A a été lourdement endommagé par une insurrection d'oiseaux millitants. Il sera fermé pour rénovations jusqu'à nouvel ordre.\n\n~ La Direction"
+                "text": "\\c[1]ATTENTION\\c[0]\n\nLe Labo A a été lourdement endommagé par une insurrection d'oiseaux militants. Il sera fermé pour rénovations jusqu'à nouvel ordre.\n\n~ La Direction"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json/entities/44/settings/condAnims/0/interact/hoverText": {
                 "orig": "Display",
@@ -279,7 +279,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/14/message": {
                 "orig": "However, that's where the problems first began, actually.\\. And maybe expectedly.",
-                "text": "Mais, c'est là que les problèmes ont commencés, en fait.\\. Et on aurait pu s'y attendre."
+                "text": "Mais, c'est là que les problèmes ont commencé, en fait.\\. Et on aurait pu s'y attendre."
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/122/settings/interact/event/15/message": {
                 "orig": "The intelligent birds that we armed with cutting-edge weapons became unruly.\\. Imagine that.",
@@ -315,7 +315,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/2/text": {
                 "orig": "Good day dear management,\n\nFirst I want to repeat my gratitude for all the trust and opportunities you have given me with this job. This work has been very fulfilling and interesting.",
-                "text": "Bonjour, chère direction.\n\nPremièrement, je souhaite souligner la gratitude que j'ai pour toute la confiance et les opportunités que vous nous avez apporté dans ce travail. Il a été très satisfaisant et intéressant."
+                "text": "Bonjour, chère direction.\n\nPremièrement, je souhaite souligner la gratitude que j'ai pour toute la confiance et les opportunités que vous nous avez apportées dans ce travail. Il a été très satisfaisant et intéressant."
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/123/settings/condAnims/0/interact/event/3/text": {
                 "orig": "However, those birds, as fascinating as they are, cause a lot of problems with their excrement. They leave it everywhere and also shoot holes into the walls. Combined with the heat of this place it really creates an uncomfortable smell in the entire facility.",
@@ -431,7 +431,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/2/text": {
                 "orig": "Good evening everyone, \n\nSince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
-                "text": "Bonsoir tout le monde,\n\nDepuis que nos \\c[3]financements ont étés coupés\\c[0] et que \\c[3]les installations ont été prises d'assaut par le Tracé\\c[0], nous nous sommes installés dans un \\c[3]nouveau lieu\\c[0] où nous pourrons continuer nos recherches."
+                "text": "Bonsoir tout le monde,\n\nDepuis que nos \\c[3]financements ont été coupés\\c[0] et que \\c[3]les installations ont été prises d'assaut par le Tracé\\c[0], nous nous sommes installés dans un \\c[3]nouveau lieu\\c[0] où nous pourrons continuer nos recherches."
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/3/text": {
                 "orig": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
@@ -447,7 +447,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text": {
                 "orig": "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information.",
-                "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chacun d'eux\\c[0] n'est destinée qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information."
+                "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chacun d'eux\\c[0] n'est destiné qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information."
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/123/settings/condAnims/0/interact/event/7/text": {
                 "orig": "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\nEveryone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
