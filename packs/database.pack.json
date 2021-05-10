@@ -2584,7 +2584,7 @@
                 "text": "\\c[1]Vous derrière l'écran\\c[0] !"
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/20/message": {
-                "orig": "Feeling safe there, don't you?\\. Thinking I can't possibly reach you.",
+                "orig": "Feeling safe there, aren't you?\\. Thinking I can't possibly reach you.",
                 "text": "Vous vous sentez en sécurité ici, pas vrai ?\\. En pensant que je peux pas vous atteindre."
         },
         "database.json/commonEvents/sao-duel-accept/event/5/thenStep/21/message": {
@@ -3941,11 +3941,11 @@
                 "orig": "And I thought this would never end...",
                 "text": "Et moi qui pensais que ça ne finirait jamais..."
         },
-        "database.json/commonEvents/luker-battle-over-S/event/0/0_0/0/message": {
+        "database.json/commonEvents/luke-battle-over-S/event/0/0_0/0/message": {
                 "orig": "Meine Güte, you sure let off some steam.",
                 "text": "Meine Güte, il fallait que tu te défoules un peu...."
         },
-        "database.json/commonEvents/luker-battle-over-S/event/0/0_1/0/message": {
+        "database.json/commonEvents/luke-battle-over-S/event/0/0_1/0/message": {
                 "orig": "And I thought this would never end...",
                 "text": "Et moi qui pensais que ça ne finirait jamais..."
         },
@@ -4540,7 +4540,7 @@
                 "text": "Tu veux grinder un peu ?"
         },
         "database.json/commonEvents/cooldown-B/event/0/6_0/0/message": {
-                "orig": "Alright, let's do some workout with these new bodies.",
+                "orig": "Alright, let's do some workouts with these new bodies.",
                 "text": "OK, faisons un peu d'exercice avec nos nouveaux corps."
         },
         "database.json/commonEvents/emilie-samurai-bug-end/event/0/thenStep/0/message": {
@@ -4908,12 +4908,12 @@
                 "text": "Ouah, y a tant d'étoiles de mer ici !"
         },
         "database.json/commonEvents/emilie-seastar-end/event/0/thenStep/1/message": {
-                "orig": "I'm just glad they didn't add Sea Urchins.\\. Those are horrible.",
+                "orig": "I'm just glad they didn't add sea urchins.\\. Those are horrible.",
                 "text": "Je suis juste contente qu'ils n'aient pas ajoutés d'oursins.\\. Ils sont horribles.",
                 "note": "can attest"
         },
         "database.json/commonEvents/emilie-seastar-end/event/1/thenStep/0/message": {
-                "orig": "Ever stepped on a Sea Urchin, Lea?",
+                "orig": "Ever stepped on a sea urchin, Lea?",
                 "text": "Tu as déjà marché sur un oursin, Lea ?"
         },
         "database.json/commonEvents/emilie-seastar-end/event/1/thenStep/1/message": {
@@ -4930,7 +4930,7 @@
                 "text": "Attends, ce sont des poissons boules qui tirent du feu ou quoi ?"
         },
         "database.json/commonEvents/emilie-fugu-end/event/0/thenStep/1/message": {
-                "orig": "Careful Lea, I think they are toxic as well!\\. Better don't eat them!",
+                "orig": "Careful Lea, I think they are toxic as well!\\. Better not eat them!",
                 "text": "Attention Lea, je crois qu'ils sont toxiques en plus !\\. Vaut mieux ne pas en manger !"
         },
         "database.json/commonEvents/emilie-fugu-end/event/0/thenStep/2/message": {
@@ -5298,7 +5298,7 @@
                 "text": "C'est comme une hydre dans la vie réelle.\\. Mais pas aussi rapide, bien entendu."
         },
         "database.json/commonEvents/ctron-seastar-end/event/1/thenStep/0/message": {
-                "orig": "I'm glad they didn't turn splitting and regenerating sea stars this into a game mechanic.",
+                "orig": "I'm glad they didn't turn splitting and regenerating sea stars into a game mechanic.",
                 "text": "Je suis heureux qu'ils n'aient pas transformé les étoiles de mer coupées et régénérées en une mécanique de jeu."
         },
         "database.json/commonEvents/ctron-seastar-end/event/1/thenStep/1/message": {
@@ -5306,7 +5306,7 @@
                 "text": "[acquiesce]"
         },
         "database.json/commonEvents/ctron-fugu-end/event/0/thenStep/0/message": {
-                "orig": "Huh...\\. I think those fish are likely inspired by Puffer fish.",
+                "orig": "Huh...\\. I think those fish are likely inspired by pufferfish.",
                 "text": "Euh...\\. Je crois que ces poissons doivent être inspirés des poissons boules."
         },
         "database.json/commonEvents/ctron-fugu-end/event/1/thenStep/0/message": {
@@ -6270,6 +6270,18 @@
                 "orig": "This is strange...\\. It seems I can't follow you to your new location.\\. Where are you, Lea?",
                 "text": "C'est curieux...\\. On dirait que je ne peux pas te suivre là où tu t'es téléporté.\\. Où es-tu, Lea ?"
         },
+        "database.json/commonEvents/all-dng-enter/event/1/thenStep/1/4_0/0/message": {
+                "orig": "Ah... You went to THAT place, I guess? Have fun and give the captain my regards.",
+                "text": "Ah... c'est LÀ que tu t'es téléporté, j'imagine ? Amuse-toi bien et passe le bonjour de ma part au capitaine."
+        },
+        "database.json/commonEvents/all-dng-enter/event/1/thenStep/1/5_0/0/message": {
+                "orig": "Huh, strange...\\. I can't follow you.\\. Did you enter some secret location?",
+                "text": "Heu, étrange...\\. Je ne peux pas te suivre.\\. Tu es allé dans un lieu secrêt ?"
+        },
+        "database.json/commonEvents/all-dng-enter/event/1/thenStep/1/6_0/0/message": {
+                "orig": "I can't follow you for some reason.\\. Some super secret evotar-business, huh?",
+                "text": "C'est curieux, je ne peux pas te suivre.\\. C'est des affaires d'évotars super secrètes, j'imagine ?"
+        },
         "database.json/commonEvents/all-dng-enter/event/2/thenStep/0/message": {
                 "orig": "Let the race...\\. continue!",
                 "text": "Que la course...\\. continue !"
@@ -6309,6 +6321,18 @@
         "database.json/commonEvents/all-dng-enter/event/4/3_0/0/message": {
                 "orig": "Dungeon time. So we're split up, I suppose?",
                 "text": "C'est l'heure du donjon. Donc on est séparé, je suppose ?"
+        },
+        "database.json/commonEvents/all-dng-enter/event/4/4_0/0/message": {
+                "orig": "Finally, some good dungeon crawling again.",
+                "text": "Enfin un peu d'exploration de donjons."
+        },
+        "database.json/commonEvents/all-dng-enter/event/4/5_0/0/message": {
+                "orig": "Jau, let's explore the dungeon some more!",
+                "text": "Jau, allons explorer le donjon un peu plus !"
+        },
+        "database.json/commonEvents/all-dng-enter/event/4/6_0/0/message": {
+                "orig": "Jau, let's explore the dungeon some more!",
+                "text": "Jau, allons explorer le donjon un peu plus !"
         },
         "database.json/commonEvents/all-dng-leave/event/0/thenStep/1/0_0/0/message": {
                 "orig": "Huh...\\. back again.\\. What was up with that, Lea?",
@@ -6393,6 +6417,18 @@
         "database.json/commonEvents/all-dng-leave/event/3/3_0/0/message": {
                 "orig": "Welcome back. It's more fun to run around together.",
                 "text": "Rebonjour. C'est plus fun de s'aventurer ensemble."
+        },
+        "database.json/commonEvents/all-dng-leave/event/3/4_0/0/message": {
+                "orig": "You need a break, huh? Fine.",
+                "text": "Tu as besoin d'une pause, hein ? Si tu veux."
+        },
+        "database.json/commonEvents/all-dng-leave/event/3/5_0/0/message": {
+                "orig": "Alright, enough of those cramped hallways for now.",
+                "text": "Oui, ça suffit ces couloirs trop étroits."
+        },
+        "database.json/commonEvents/all-dng-leave/event/3/6_0/0/message": {
+                "orig": "Time to enjoy the sweet, simulated nature again.",
+                "text": "Il est temps de retrouver la jolie nature simulée."
         },
         "database.json/commonEvents/contact-blocked/event/2/text": {
                 "orig": "No Connection",
@@ -9111,7 +9147,7 @@
                 "text": "J'ai juste l'impression d'être en train de procrastiner en ce moment..."
         },
         "database.json/commonEvents/shizuka-contact/event/5/thenStep/3/message": {
-                "orig": "There are things I should take care of, yet all I do is playing CrossWorlds.",
+                "orig": "There are things I should take care of, yet all I do is play CrossWorlds.",
                 "text": "Il y a des choses dont il faudrait que je m'occupe, mais tout ce que je fais c'est jouer à CrossWorlds."
         },
         "database.json/commonEvents/shizuka-contact/event/5/thenStep/4/message": {
@@ -9301,7 +9337,7 @@
                 "text": "Désolé, ce donjon demande toute mon attention là !\\. Peut-être demain ?"
         },
         "database.json/commonEvents/shizuka-join/event/5/thenStep/0/message": {
-                "orig": "Sorry, Lea.\\. Training with my hopeless brother required my full attention.",
+                "orig": "Sorry, Lea.\\. Training with my hopeless brother requires my full attention.",
                 "text": "Désolé, Lea.\\. L'entrainement avec mon frère désespérant demande toute mon attention."
         },
         "database.json/commonEvents/shizuka-join/event/5/thenStep/1/message": {
@@ -9502,7 +9538,7 @@
                 "text": "Honnêtement, c'est quelque chose donc je n'ai pas envie de parler là."
         },
         "database.json/commonEvents/luke-contact/event/8/thenStep/12/message": {
-                "orig": "Let's just say I had my fare share of trouble with...\\. some people.",
+                "orig": "Let's just say I had my fair share of trouble with...\\. some people.",
                 "text": "Disons juste que j'ai eu ma dose d'ennuis avec...\\. certaines personnes."
         },
         "database.json/commonEvents/luke-contact/event/8/thenStep/13/message": {
@@ -12714,8 +12750,8 @@
                 "text": "Être Toxique"
         },
         "database.json/enemies/jungle.special.ghost-toxic/descriptions/0/text": {
-                "orig": "A variant of the \\v[combat.name.jungle/ghost] but even further empowered by the toxic energy of the city \\v[area.jungle-city.name].\nIt is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population.",
-                "text": "Une variante de l'\\v[combat.name.jungle/ghost] mais encore plus puissant grâce à l'énergie toxique du \\v[area.jungle-city.name].\nOn ne sait pas encore ce qui le rend aussi toxique : Les déchets de la ville ou les sentiments négatifs de ses habitants."
+                "orig": "A variant of the \\c[3]\\v[combat.name.jungle/ghost]\\c[0] but even further empowered by the toxic energy of the city \\c[3]\\v[area.jungle-city.name]\\c[0].\nIt is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population.",
+                "text": "Une variante de l'\\c[3]\\v[combat.name.jungle/ghost]\\c[0] mais encore plus puissant grâce à l'énergie toxique du \\c[3]\\v[area.jungle-city.name]\\c[0].\nOn ne sait pas encore ce qui le rend aussi toxique : Les déchets de la ville ou les sentiments négatifs de ses habitants."
         },
         "database.json/enemies/jungle.octopus/name": {
                 "orig": "Ocubepus",
@@ -13098,6 +13134,38 @@
                 "orig": "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken.",
                 "text": "Cette étoile de mer est le chef des \\v[combat.name.jungle/blob]s et des \\v[combat.name.jungle/blob-wave]s. Il peut entrer dans une synthèse étrange avec eux pour créer une large masse qui est presque impénétrable. Seule une boule de choc compressée peut briser ce manteau."
         },
+        "database.json/enemies/arid.laser-catcher/name": {
+                "orig": "arid.laser-catcher",
+                "text": "Attrape-Laser"
+        },
+        "database.json/enemies/arid.laser-catcher/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "database.json/enemies/special.sergey-hax2/name": {
+                "orig": "special.sergey-hax2",
+                "text": "Sergey Haxory 2 : Le Retour"
+        },
+        "database.json/enemies/special.sergey-hax2/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "database.json/enemies/special.sergey-hax/name": {
+                "orig": "special.sergey-hax",
+                "text": "Sergey Haxory"
+        },
+        "database.json/enemies/special.sergey-hax/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "database.json/enemies/special.sergey-hax3/name": {
+                "orig": "special.sergey-hax3",
+                "text": "Hax de Sergey 3"
+        },
+        "database.json/enemies/special.sergey-hax3/species": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
         "database.json/enemies/avatar.apollo/name": {
                 "orig": "Apollo",
                 "text": "Apollo"
@@ -13145,9 +13213,7 @@
         },
         "database.json/enemies/avatar.apollo-4/descriptions/0/text": {
                 "orig": "The \\c[3]Warrior of Justice\\c[0] demands one last duel to decide who is the truest of the true Spheromancers!\nThis time he will do his title justice by unleashing the full arsenal of his abilities. Combat Arts of all 3 levels and 4 elements await you!",
-                "text": "Le \\c[3]Guerrier de la Justice\\c[0] demande un dernier duel pour décider qui est le plus vrai de tous les véritables Spheromanceurs ! Cette fois il va appliquer sa propre justice en utilisant tout l'arsenal de ses capacités.  Des Arts de Combats des trois niveaux et les 4 éléments vous attendent !",
-                "quality": "unknown",
-                "note": "it seems that my joke text could have been displayed, because, of course, rfg didn't update the text until recently.  And it's still not up to date btw.  I stole the orig from dmitmel's scans"
+                "text": "Le \\c[3]Guerrier de la Justice\\c[0] demande un dernier duel pour décider qui est le plus vrai de tous les véritables Spheromanceurs ! Cette fois il va appliquer sa propre justice en utilisant tout l'arsenal de ses capacités.  Des Arts de Combats des trois niveaux et les 4 éléments vous attendent !"
         },
         "database.json/enemies/jungle.special.guard/name": {
                 "orig": "Jungle Guard",
@@ -13207,8 +13273,8 @@
                 "text": "Une Fleur ?"
         },
         "database.json/enemies/avatar.lily/descriptions/0/text": {
-                "orig": "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
-                "text": "Une joueuse Hexacast d'une nouvelle guilde appelée les Chasseurs d'Étoiles. Elle est assez curieuse de son nouvel environnement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
+                "orig": "A hexacast player from a new guild called the \\c[3]Star Chasers\\c[0]. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
+                "text": "Une joueuse Hexacast d'une nouvelle guilde appelée les \\c[3]Chasseurs d'Étoiles\\c[0]. Elle est assez curieuse de son nouvel environnement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
         },
         "database.json/enemies/final.gynthar/name": {
                 "orig": "Gynthar",
@@ -13351,14 +13417,6 @@
                 "text": "Clone de Sidwell"
         },
         "database.json/enemies/boss.shady-clone/species": {
-                "orig": "????",
-                "text": "????"
-        },
-        "database.json/enemies/boss.radfish/name": {
-                "orig": "boss.radfish",
-                "text": "Boss Poisson Top"
-        },
-        "database.json/enemies/boss.radfish/species": {
                 "orig": "????",
                 "text": "????"
         },
@@ -13712,8 +13770,8 @@
                 "text": "Mammifère"
         },
         "database.json/enemies/cold.goat-worker/descriptions/0/text": {
-                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0].",
-                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0]."
+                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nBy now they seem to have grown greatly in strengh and intelligence and are still using \\c[3]heat-based\\c[0] attacks and \\c[3]explosives\\c[0] to gain the edge in combat.",
+                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nDepuis le temps, leur puissance et leur intelligence ont grandement augmenté et ils utilisent encore des attaques \\c[3]basées sur le Chaud\\c[0] et des \\c[3]explosifs\\c[0] pour prendre le dessus au combat."
         },
         "database.json/enemies/cold.goat-father-2/name": {
                 "orig": "The Goatfather",
@@ -13724,8 +13782,8 @@
                 "text": "Patron des Boucs"
         },
         "database.json/enemies/cold.goat-father-2/descriptions/0/text": {
-                "orig": "It can make offers, you can not refuse.",
-                "text": "Il peut faire des offres que vous ne pouvez pas refuser."
+                "orig": "The wise and honorable Leader of the group of highly intelligent goats, originating from an immoral experiment in the seedy underground of \\v[area.bergen-trails.name].\nHe will protect his herd. He will build a future for goatkind. He will make offers, you can not refuse.\nSuch is the way of goat.\n\nExpect a tough fight against his goatlike powers. Both \\c[3]heat and cold\\c[0] are under his control and will be used on a large scale. He also can throw and regenerate \\c[3]his horns\\c[0] at a blinding speed and thus create a \\c[3]hell of horn-shaped bullets\\c[0].",
+                "text": "Le sage et honorable Chef du groupe de boucs hautement intelligents, fruits d'une expérience immorale dans les profondeurs sombres du \\v[area.bergen-trails.name].\nIl va protéger son troupeau. Il va construire un futur pour les bovidés. Il va vous faire des offres que vous ne pourrez refuser.\nTel est le destin des boucs.\n\nAttendez-vous à un combat difficile contre ses pouvoirs de bouc. À la fois le \\c[3]chaud et le froid\\c[0] sont sous son contrôle et seront utilisés à large échelle. Il peut aussi lancer et régénérer \\c[3]ses cornes\\c[0] à une vitesse phénoménale et créer une \\c[3]nuée de balles en forme de cornes\\c[0]."
         },
         "database.json/enemies/mine-coldbug/name": {
                 "orig": "Fleazer",
@@ -14086,7 +14144,7 @@
                 "text": "Oiseau Hors La Loi"
         },
         "database.json/enemies/jungle.special.parrot-gangster-2/descriptions/0/text": {
-                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
+                "orig": "Slightly more civilized and refined variants of the regular \\c[3]Papaguns\\c[0] that are found in the wild, these winged criminals are the common wingsoldiers of a powerful criminal syndicate that plagues \\c[3]\\v[area.jungle-city.name]\\c[0].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
                 "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
         },
         "database.json/enemies/cold.parrot-gangster-3/name": {
@@ -14099,8 +14157,8 @@
                 "text": "Oiseau Hors La Loi"
         },
         "database.json/enemies/cold.parrot-gangster-3/descriptions/0/text": {
-                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
-                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
+                "orig": "Slightly more civilized and refined variants of the regular \\c[3]Papaguns\\c[0] that are found in the wild, these winged criminals are the elite wingsoldiers of a powerful criminal syndicate that plagues \\c[3]\\v[area.jungle-city.name]\\c[0].\nThese hardened veterans of the crew are often used to crack tough cases, guard the central nest and handle difficult away missions outside of their core turf.",
+                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les aviateurs soldats d'élites d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nCes vétérans endurcis de la bande sont souvent utilisés pour résoudre les problèmes épineux, pour monter la garde de leur nid central et pour gérer les missions difficiles en dehors de leur territoire principal."
         },
         "database.json/enemies/jungle.special.parrot-gangster-boss-1/name": {
                 "orig": "Papaboss the Younger",
@@ -14210,6 +14268,19 @@
         "database.json/enemies/jungle.ape-boss/descriptions/0/text": {
                 "orig": "Born atop a mountain from a magic stone, this wise ape serves as the caretaker of both the \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] and the \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. He will test each Seeker to make sure only the worthy acquire the \\c[3]\\v[item.410.name]\\c[0]. He wields a long staff and flies around on a puffy little cloud. Although his job is to test Seekers, it seems he enjoys a good and honest fight.",
                 "text": "Né sur le sommet d'une montagne à partir d'une pierre magique, ce singe savant sert de gardien à la fois du \\c[3]\\v[area.tree-dng.name]\\c[0] et de l'\\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Il testera chaque \\v[lore.title.seeker] pour s'assurer que seul ceux qui sont dignes puisse acquérir le \\c[3]\\v[item.410.name]\\c[0]. Il manie un long bâton et vole sur un petit nuage douillet. Bien que son travail est de tester les \\v[lore.title.seeker]s, on dirait qu'il apprécie un beau combat honorable."
+        },
+        "database.json/enemies/beach.ape-beach/name": {
+                "orig": "Son of the Beach",
+                "text": "Fils de la Mer"
+        },
+        "database.json/enemies/beach.ape-beach/species": {
+                "orig": "Ape on Vacation",
+                "text": "Singe en Vacances"
+        },
+        "database.json/enemies/beach.ape-beach/descriptions/0/text": {
+                "orig": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of, outside of experienced \\v[lore.title.seeker]s.",
+                "text": "Un puissant singe, servant de gardien invaincu et champion de l'\\c[3]\\v[area.beach.name]\\c[0]. Sa tâche paisible lui laissa une éternité de temps pour réfléchir au sens de l'univers. Entre-temps, il s'ennuie terriblement et attend avec impatience un combat digne de ce nom.\nBien qu'au premier abord, ce primate manque de style et de grâce, il est en fait bien plus puissant que son distant cousin, le \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0]. En fait, il est capable d'utiliser et de maitriser \\c[3]tous les quatre éléments\\c[0], ce qui est du jamais-vu en dehors des \\v[lore.title.seeker]s expérimentés.",
+                "note": "assuming it's unused because of the \\v[3]"
         },
         "database.json/enemies/jungle.whale-boss/name": {
                 "orig": "Ancient Guardian",
@@ -14428,37 +14499,17 @@
                 "orig": "Researchers who made friends with some of these turtles found that they are great listeners.",
                 "text": "Les chercheurs qui se sont liés d'amitiés avec eux ont découvert qu'ils écoutent très bien."
         },
-        "database.json/enemies/arid.laser-catcher/name": {
-                "orig": "arid.laser-catcher",
-                "text": "Attrape-Laser"
+        "database.json/enemies/boss.radfish/name": {
+                "orig": "Radical Fish",
+                "text": "Radical Fish"
         },
-        "database.json/enemies/arid.laser-catcher/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
+        "database.json/enemies/boss.radfish/species": {
+                "orig": "????",
+                "text": "????"
         },
-        "database.json/enemies/special.sergey-hax/name": {
-                "orig": "special.sergey-hax",
-                "text": "Sergey Haxory"
-        },
-        "database.json/enemies/special.sergey-hax/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
-        },
-        "database.json/enemies/special.sergey-hax2/name": {
-                "orig": "special.sergey-hax2",
-                "text": "Sergey Haxory 2 : Le Retour"
-        },
-        "database.json/enemies/special.sergey-hax2/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
-        },
-        "database.json/enemies/special.sergey-hax3/name": {
-                "orig": "special.sergey-hax3",
-                "text": "Hax de Sergey 3"
-        },
-        "database.json/enemies/special.sergey-hax3/species": {
-                "orig": "en_US",
-                "text": "fr_FR"
+        "database.json/enemies/boss.radfish/descriptions/0/text": {
+                "orig": "That's a lot of fish.",
+                "text": "Ça en fait du poisson."
         },
         "database.json/enemies/beach.sea-star/name": {
                 "orig": "beach.sea-star",
@@ -14656,19 +14707,6 @@
                 "orig": "en_US",
                 "text": "Insecte Honorable"
         },
-        "database.json/enemies/beach.ape-beach/name": {
-                "orig": "Son of the Beach",
-                "text": "Fils de la Mer"
-        },
-        "database.json/enemies/beach.ape-beach/species": {
-                "orig": "Ape on Vacation",
-                "text": "Singe en Vacances"
-        },
-        "database.json/enemies/beach.ape-beach/descriptions/0/text": {
-                "orig": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of, outside of experienced \\v[lore.title.seeker]s.",
-                "text": "Un puissant singe, servant de gardien invaincu et champion de l'\\c[3]\\v[area.beach.name]\\c[0]. Sa tâche paisible lui laissa une éternité de temps pour réfléchir au sens de l'univers. Entre-temps, il s'ennuie terriblement et attend avec impatience un combat digne de ce nom.\nBien qu'au premier abord, ce primate manque de style et de grâce, il est en fait bien plus puissant que son distant cousin, le \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0]. En fait, il est capable d'utiliser et de maitriser \\c[3]tous les quatre éléments\\c[0], ce qui est du jamais-vu en dehors des \\v[lore.title.seeker]s expérimentés.",
-                "note": "assuming it's unused because of the \\v[3]"
-        },
         "database.json/enemies/mouse-bot/name": {
                 "orig": "Beta Mouse Bot",
                 "text": "Robot Souris Bêta"
@@ -14799,8 +14837,8 @@
                 "text": "Sentinelle Flottante"
         },
         "database.json/enemies/autumn-rh.turret_big_float-quest_naval/descriptions/0/text": {
-                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
-                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
+                "orig": "Large, heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
+                "text": "Grandes tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
         },
         "database.json/enemies/autumn-rh.turret_boss-quest_naval/name": {
                 "orig": "Illegal Coordinator",
@@ -14811,8 +14849,8 @@
                 "text": "Tourelle Flottante Coordinatrice"
         },
         "database.json/enemies/autumn-rh.turret_boss-quest_naval/descriptions/0/text": {
-                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
-                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
+                "orig": "The central coordinator of the heavily modified turrets that were made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. It too is equipped with \\c[3]floating devices\\c[0] to cross the ocean on its own and has a highly advanced \\c[3]shielding system\\c[0].\nWhile \\c[3]heavy artillery\\c[0] will be able to \\c[3]break its normal shield\\c[0], the \\c[3]focussed frontal shield is basically impenetrable\\c[0] and must somehow be bypassed.\nIn addition to a \\c[3]powerful cannon\\c[0], this malicious machine of war is also equipped with an advanced launcher of \\c[3]ship-to-ship missiles\\c[0]. \\c[3]Shooting them down to protect your vessel\\c[0] should be the top-priority!",
+                "text": "Le coordinateur central des tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Lui aussi est équipé d'\\c[3]appareils flottants\\c[0] pour traverser l'océan tout seul et possède un \\c[3]système de bouclier\\c[0] hautement sophistiqué.\nBien que de l'\\c[3]artillerie lourde\\c[0] sera capable de \\c[3]percer son bouclier normal\\c[0], son \\c[3]bouclier focalisé sur l'avant est simplement impénétrable\\c[0] et il doit être contourné.\nEn plus d'avoir un \\c[3]puissant canon\\c[0], cette machine maléfique de guerre est également équipée d'un lanceur avancé de \\c[3]missiles mer-mer\\c[0]. \\c[3]Leur tirer dessus pour protéger votre bâtiment\\c[0] doit être votre priorité principale !"
         },
         "database.json/enemies/special.target-bot/name": {
                 "orig": "Tr4in-0",
@@ -17603,7 +17641,7 @@
                 "text": "Rapport n°004"
         },
         "database.json/lore/dlc-log-4/content/page-01/content": {
-                "orig": "\\c[2]Report Card #004\\c[0]\n--\n\\c[3]Date\\c[0]: 3400.1.6 n.t. Relative ACF Standard\n--\nSent in a team of 5. Footage confirms not a single living soul. Lot's of floating bodies. All human. Long corridors leading to quarters and a larger storage. Found the bridge. Ship has confirmed black box which is currently being analyzed.\n",
+                "orig": "\\c[2]Report Card #004\\c[0]\n--\n\\c[3]Date\\c[0]: 3400.1.6 n.t. Relative ACF Standard\n--\nSent in a team of 5. Footage confirms not a single living soul. Lots of floating bodies. All human. Long corridors leading to quarters and a larger storage. Found the bridge. Ship has confirmed black box which is currently being analyzed.\n",
                 "text": "\\c[2]Rapport n°004\\c[0]\n--\n\\c[3]Date\\c[0] : 3400.1.6 n.t. Standard AFC Relatif\n--\nJ'ai envoyé une équipe de 5. La vidéo confirme qu'il y a aucun signe de vie. Plein de corps qui flottent. Tous humains. De longs couloirs qui mènent à des quartiers et à un entrepôt plus grand. Trouvé le pont. Confirmé la présence dans le vaisseau d'une boite noire, qui est en train d'être analysée."
         },
         "database.json/lore/dlc-log-4/content/page-02/content": {
@@ -17619,7 +17657,7 @@
                 "text": "\\c[2]Rapport n°005\\c[0]\n--\n\\c[3]Date\\c[0] : 3400.1.8 n.t. Standard AFC Relatif\n--\nTerminé l'analyse de la boite noire. Confirmé que ce vaisseau de génération était prévu pour voyager vers n'importe quel monde \"habitable\". Apparemment des gens qui fuyaient leur \"planète mourante\". Dans l'entrepôt il y a une grosse surprise pour vous les mecs."
         },
         "database.json/lore/dlc-log-5/content/page-02/content": {
-                "orig": "--\nIf team is correct, we have some new tech allowing any matter to be controlled. Not sure how far the research is. Team is stilling puzzling on the specifics. We'll return home and bring the vessel along.\n--\nCaptain Manfred McFly \nInstatainment ACF Salvager 25-b ",
+                "orig": "--\nIf team is correct, we have some new tech allowing any matter to be controlled. Not sure how far the research is. Team is still puzzling over the specifics. We'll return home and bring the vessel along.\n--\nCaptain Manfred McFly \nInstatainment ACF Salvager 25-b ",
                 "text": "--\nSi mon équipe a raison, on a une nouvelle technologie qui permet de contrôler n'importe quelle matière. Pas encore sûr de l'avancement des recherches. L'équipe essaie encore de comprendre les détails. On va rentrer chez nous et apporter le vaisseau avec nous.\n--\nCapitaine Manfred McFly\nRécupérateur AFC Instatainment 25-b"
         },
         "database.json/names/0/name": {
@@ -19008,7 +19046,7 @@
                 "text": "Un singe massivement puissant est en vacance sur les plages de l'\\v[area.beach.name]. Il semble s'ennuyer de toute cette relaxation et de cette vie facile. Il est en manque d'action !"
         },
         "database.json/quests/ape-battle/briefing": {
-                "orig": "You defeated the \\v[combat.name.beach/ape-beach] and proven that you are the strongest primate on the beach!",
+                "orig": "You defeated the \\v[combat.name.beach/ape-beach] and proved that you are the strongest primate on the beach!",
                 "text": "Vous avez vaincu le \\v[combat.name.beach/ape-beach] et prouvé que vous êtes le primate le plus fort de la plage !"
         },
         "database.json/quests/ape-battle/tasks/0/task": {
@@ -20191,7 +20229,7 @@
         },
         "database.json/quests/console-xbox-1/briefing": {
                 "orig": "You retrieved the important military data for the \\v[lore.title.human-government] and also uncovered a secret facility of the \"Heavy Hardware\"-company! Maybe this other new secret facility really exists as well?",
-                "text": "Vous avez récupéré les données militaires importantes pour les \\v[lore.title.human-government] et aussi découvert une usine secrète de la société \"Heavy Hardware\" ! Peut-être que cette nouvelle installation secrète existe aussi vraiment ?"
+                "text": "Vous avez récupéré les données militaires importantes pour les \\v[lore.title.human-government] et aussi découvert une usine secrète de la société \"Matériel Mastoc\" ! Peut-être que cette nouvelle installation secrète existe aussi vraiment ?"
         },
         "database.json/quests/console-xbox-1/tasks/0/task": {
                 "orig": "Search for the armed creatures on the \\c[3]Old Plateau\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]",
@@ -21698,9 +21736,8 @@
                 "text": "Claude Reynes"
         },
         "database.json/quests/jungleGreens-3-escort_2/description": {
-                "orig": "There have been reports of strange energy and attacks on travelers at the entrance to \\v[area.jungle-city.name]. You have to investigate and cleanse the issue",
-                "text": "Il y a eu des rapports sur des énergies étranges et des attaques sur des voyageurs à l'entrée du \\v[area.jungle-city.name]. Vous devez enquêter et régler le problème.",
-                "note": "en is missing a dot"
+                "orig": "There have been reports of strange energy and attacks on travelers at the entrance to \\v[area.jungle-city.name]. You have to investigate and cleanse the issue.",
+                "text": "Il y a eu des rapports sur des énergies étranges et des attaques sur des voyageurs à l'entrée du \\v[area.jungle-city.name]. Vous devez enquêter et régler le problème."
         },
         "database.json/quests/jungleGreens-3-escort_2/briefing": {
                 "orig": "You and Linde have salted and pacified this powerful toxic threat to the city. Hopefully humanity can improve, so this may never happen again!",
@@ -21916,7 +21953,7 @@
         },
         "database.json/quests/console-playstation-1/briefing": {
                 "orig": "You investigated the case of the bio-engineered creatures in \\v[area.jungle.name] and also uncovered a secret facility of the \"Mech Machinery\"-company! Maybe this other new secret facility really exists as well?",
-                "text": "Vous avez enquêté sur l'affaire des créatures biotechnologiques dans le \\v[area.jungle.name] et aussi découvert une installation secrète de la société \"Mech Machinery\" ! Peut-être que cette autre installation secrète existe vraiment ?"
+                "text": "Vous avez enquêté sur l'affaire des créatures biotechnologiques dans le \\v[area.jungle.name] et aussi découvert une installation secrète de la société \"Machines Mécha\" ! Peut-être que cette autre installation secrète existe vraiment ?"
         },
         "database.json/quests/console-playstation-1/tasks/0/task": {
                 "orig": "Search for new species on \\c[3]Clinging River\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]",
@@ -23265,7 +23302,7 @@
         },
         "database.json/quests/console-switch-1/briefing": {
                 "orig": "You found proof for the existence of \\c[3]Flying type \\v[combat.name.hedgehog]s\\c[0] and also uncovered a secret facility of the \"Avian Appliances\"-company! Maybe this other new secret facility really exists as well?",
-                "text": "Vous avez des preuves de l'existence de \\c[3]\\v[combat.name.hedgehog]s Volants\\c[0] et aussi découvert une installation secrète de la société \"Avian Appliances\" ! Peut-être que cette autre nouvelle installation secrète existe elle aussi ?"
+                "text": "Vous avez des preuves de l'existence de \\c[3]\\v[combat.name.hedgehog]s Volants\\c[0] et aussi découvert une installation secrète de la société \"Appareil Aviaires\" ! Peut-être que cette autre nouvelle installation secrète existe elle aussi ?"
         },
         "database.json/quests/console-switch-1/tasks/0/task": {
                 "orig": "Search for new species on \\c[3]Off Road 2\\c[0] in \\c[3]\\v[area.autumn-area.name]\\c[0]",
@@ -23837,6 +23874,10 @@
                 "orig": "Ba'kii Kum Metal",
                 "text": "Métaux de Ba'kii Kum"
         },
+        "database.json/traders/bakiMetal2/name": {
+                "orig": "Ba'kii Kum Metal",
+                "text": "Métaux de Ba'kii Kum"
+        },
         "database.json/traders/bakiSets/name": {
                 "orig": "Ba'kii Kum Trade Sets",
                 "text": "Cageots de Ba'kii Kum"
@@ -23989,6 +24030,10 @@
                 "orig": "V'rda Vil Metals",
                 "text": "Métaux de V'rda Vil"
         },
+        "database.json/traders/villageEquip1/name": {
+                "orig": "Nature's Gear",
+                "text": "Équipements de la Nature"
+        },
         "database.json/traders/turretDefTrader/name": {
                 "orig": "TurretDefense Trader",
                 "text": "Marchand Tourelle"
@@ -24069,7 +24114,11 @@
                 "orig": "Rhombus Tea",
                 "text": "Thé de Rhombus"
         },
-        "database.json/traders/rhombusBuffsSingle/name": {
+        "database.json/traders/rhombusBuffsSingle1/name": {
+                "orig": "Rhombus Buffs",
+                "text": "Buffs de Rhombus"
+        },
+        "database.json/traders/rhombusBuffsSingle2/name": {
                 "orig": "Rhombus Buffs",
                 "text": "Buffs de Rhombus"
         },
@@ -24101,6 +24150,10 @@
                 "orig": "Veggie Global #2",
                 "text": "Légumes du Monde n°2"
         },
+        "database.json/traders/rhombusVeggieSets3/name": {
+                "orig": "Veggie Global #3",
+                "text": "Légumes du monde n°3"
+        },
         "database.json/traders/rhombusFruitSets1/name": {
                 "orig": "Fruit Global #1",
                 "text": "Fruits du Monde n°1"
@@ -24109,9 +24162,21 @@
                 "orig": "Fruit Global #2",
                 "text": "Fruits du Monde n°2"
         },
+        "database.json/traders/rhombusFruitSets3/name": {
+                "orig": "Fruit Global #3",
+                "text": "Fruits du monde n°3"
+        },
         "database.json/traders/rhombusSpiceSets1/name": {
-                "orig": "Spice Global",
-                "text": "Épices du Monde"
+                "orig": "Spice Global #1",
+                "text": "Épices du Monde n°1"
+        },
+        "database.json/traders/rhombusSpiceSets2/name": {
+                "orig": "Spice Global #2",
+                "text": "Épices du Monde n°2"
+        },
+        "database.json/traders/rhombusSpiceSets3/name": {
+                "orig": "Spice Global #3",
+                "text": "Épices du Monde n°3"
         },
         "database.json/traders/rhombusPostWeapon1/name": {
                 "orig": "Rhombus Elite Weapons",
@@ -24161,13 +24226,13 @@
                 "orig": "Tremoire",
                 "text": "Tremoire"
         },
-        "database.json/traders/kuleroLoot1/name": {
+        "database.json/traders/rhombusDlcLoot1/name": {
                 "orig": "Ancient Loot",
                 "text": "Butin des Anciens"
         },
-        "database.json/traders/beachLoot1/name": {
-                "orig": "Archipelago Loot",
-                "text": "Butin de l'Archipel"
+        "database.json/traders/rhombusDlcLoot2/name": {
+                "orig": "Ancient Loot",
+                "text": "Butin des Anciens"
         },
         "database.json/traders/rookieHeal/name": {
                 "orig": "Rookie Sandwiches",

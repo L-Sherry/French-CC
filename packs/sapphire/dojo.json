@@ -204,7 +204,7 @@
                 "text": "Maintenant passez la porte derrière moi et parlez à ceux qui sont venus avant vous pour recevoir votre prix."
         },
         "maps/forest/interior/dojo-boss.json/entities/45/settings/event/0/thenStep/6/thenStep/0/message": {
-                "orig": "Noooooo!\\. It's instanced!\\. I don't want to do this myself!!",
+                "orig": "Noooooo!\\. It's instanced!\\. I don't want to do this alone!!",
                 "text": "Noooon !\\. C'est instancié !\\. Je ne veux pas faire ça toute seule !!"
         },
         "maps/forest/interior/dojo-boss.json/entities/45/settings/event/0/thenStep/6/elseStep/0/thenStep/0/message": {
@@ -385,8 +385,9 @@
                 "text": "Peut-être que son armure le fait... ressembler à un scarabée ?"
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/73/message": {
-                "orig": "Well actually...\\. traditional samurai armor is already bug-inspired,\\. so...\\.",
-                "text": "Eh bien, en fait... Les armures samurai traditionnelles sont déjà inspirés des scarabées,\\. donc...\\."
+                "orig": "Well, actually...\\. traditional samurai armor is already bug-inspired,\\. so...\\.",
+                "text": "Eh bien, en fait... Les armures samurai sont inspirés des scarabées,\\. donc...\\.",
+                "note": "autoContinue is on, don't make this too long, or else it will disappear"
         },
         "maps/forest/interior/statue-room.json/entities/315/settings/event/75/message": {
                 "orig": "Shut up, nerd. ",
@@ -461,8 +462,8 @@
                 "text": "Je m'attendais à un autre donjon !"
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/37/message": {
-                "orig": "Yes... and Instatainment is working on it apparently.",
-                "text": "Oui... et Instatainment travaille apparemment là-dessus."
+                "orig": "Yes... and Instatainment is working on it, apparently.",
+                "text": "Oui... et Instatainment travaille là-dessus, apparement."
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/38/message": {
                 "orig": "People are hoping for an update that will complete the Track.",
@@ -605,7 +606,7 @@
                 "text": "OK !"
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/98/message": {
-                "orig": "We did it Lea! We got the last Shade!",
+                "orig": "We did it, Lea! We got the last Shade!",
                 "text": "On a réussi, Lea ! On a le dernier Symbole !"
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/99/message": {
@@ -617,7 +618,7 @@
                 "text": "Ça veut dire qu'on peut atteindre la partie nord de la \\c[3]\\v[area.forest.name]\\c[0]."
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/101/message": {
-                "orig": "Hopefully we will find the place in your dreams somewhere in that area.",
+                "orig": "Hopefully, we will find the place in your dreams somewhere in that area.",
                 "text": "Avec de la chance on trouvera le lieu que tu as vu dans tes rêves quelque part là-bas."
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/102/message": {
@@ -629,7 +630,7 @@
                 "text": "..."
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/104/message": {
-                "orig": "Of course... if you like you can join the others and explore Rhombus Square first.",
+                "orig": "Of course... if you like, you can join the others and explore Rhombus Square first.",
                 "text": "Mais bien sûr... si tu veux tu peux rejoindre les autres et explorer \\v[area.rhombus-sqr.name] avant."
         },
         "maps/forest/interior/statue-room.json/entities/324/settings/event/105/message": {

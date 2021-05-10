@@ -1166,8 +1166,8 @@
                 "text": "Sentinelle Flottante"
         },
         "enemies/autumn-rh/turret_big_float-quest_naval.json/meta/descriptions/0/text": {
-                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
-                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
+                "orig": "Large, heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
+                "text": "Grandes tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/proxies/missilesHoming/action/0/thenStep/0/text": {
                 "orig": "[ INTERCEPT THE MISSILES! ]",
@@ -1239,8 +1239,8 @@
                 "text": "Tourelle Flottante Coordinatrice"
         },
         "enemies/autumn-rh/turret_boss-quest_naval.json/meta/descriptions/0/text": {
-                "orig": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
-                "text": "Tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Elles sont équipées d'\\c[3]appareils flottants\\c[0] pour traverser l'océan toutes seules et peuvent même posséder leur propre \\c[3]système de bouclier\\c[0].\nIl est recommandé de les attaquer qu'avec le soutien d'une \\c[3]artillerie lourde\\c[0]."
+                "orig": "The central coordinator of the heavily modified turrets that were made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. It too is equipped with \\c[3]floating devices\\c[0] to cross the ocean on its own and has a highly advanced \\c[3]shielding system\\c[0].\nWhile \\c[3]heavy artillery\\c[0] will be able to \\c[3]break its normal shield\\c[0], the \\c[3]focussed frontal shield is basically impenetrable\\c[0] and must somehow be bypassed.\nIn addition to a \\c[3]powerful cannon\\c[0], this malicious machine of war is also equipped with an advanced launcher of \\c[3]ship-to-ship missiles\\c[0]. \\c[3]Shooting them down to protect your vessel\\c[0] should be the top-priority!",
+                "text": "Le coordinateur central des tourelles hautement modifiées construites à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] et prévus pour des activités illégales partout sur \\v[lore.title.planet]. Lui aussi est équipé d'\\c[3]appareils flottants\\c[0] pour traverser l'océan tout seul et possède un \\c[3]système de bouclier\\c[0] hautement sophistiqué.\nBien que de l'\\c[3]artillerie lourde\\c[0] sera capable de \\c[3]percer son bouclier normal\\c[0], son \\c[3]bouclier focalisé sur l'avant est simplement impénétrable\\c[0] et il doit être contourné.\nEn plus d'avoir un \\c[3]puissant canon\\c[0], cette machine maléfique de guerre est également équipée d'un lanceur avancé de \\c[3]missiles mer-mer\\c[0]. \\c[3]Leur tirer dessus pour protéger votre bâtiment\\c[0] doit être votre priorité principale !"
         },
         "enemies/autumn-rh/turret_float-quest_naval.json/actions/Init/0/thenStep/0/text": {
                 "orig": "\\v[entity.attrib.startingWave]",
@@ -1325,9 +1325,7 @@
         },
         "enemies/avatar/apollo-4.json/meta/descriptions/0/text": {
                 "orig": "The \\c[3]Warrior of Justice\\c[0] demands one last duel to decide who is the truest of the true Spheromancers!\nThis time he will do his title justice by unleashing the full arsenal of his abilities. Combat Arts of all 3 levels and 4 elements await you!",
-                "text": "Le \\c[3]Guerrier de la Justice\\c[0] demande un dernier duel pour décider qui est le plus vrai de tous les véritables Spheromanceurs ! Cette fois il va appliquer sa propre justice en utilisant tout l'arsenal de ses capacités.  Des Arts de Combats des trois niveaux et les 4 éléments vous attendent !",
-                "quality": "unknown",
-                "note": "it seems that my joke text could have been displayed, because, of course, rfg didn't update the text until recently.  And it's still not up to date btw.  I stole the orig from dmitmel's scans"
+                "text": "Le \\c[3]Guerrier de la Justice\\c[0] demande un dernier duel pour décider qui est le plus vrai de tous les véritables Spheromanceurs ! Cette fois il va appliquer sa propre justice en utilisant tout l'arsenal de ses capacités.  Des Arts de Combats des trois niveaux et les 4 éléments vous attendent !"
         },
         "enemies/avatar/apollo.json/meta/species": {
                 "orig": "Warrior of Justice",
@@ -1342,8 +1340,8 @@
                 "text": "Une Fleur ?"
         },
         "enemies/avatar/lily.json/meta/descriptions/0/text": {
-                "orig": "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
-                "text": "Une joueuse Hexacast d'une nouvelle guilde appelée les Chasseurs d'Étoiles. Elle est assez curieuse de son nouvel environnement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
+                "orig": "A hexacast player from a new guild called the \\c[3]Star Chasers\\c[0]. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
+                "text": "Une joueuse Hexacast d'une nouvelle guilde appelée les \\c[3]Chasseurs d'Étoiles\\c[0]. Elle est assez curieuse de son nouvel environnement (et c'est la nouvelle cheffe après que le précédent soit définitivement banni). Alors que ses manières douces sont déconcertantes, elle combat avec l'élégance du vent mais avec la férocité d'une tempête !"
         },
         "enemies/avatar/shizuka.json/meta/species": {
                 "orig": "Protective Sister",
@@ -1539,8 +1537,8 @@
                 "text": "Mammifère"
         },
         "enemies/cold/goat-worker.json/meta/descriptions/0/text": {
-                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nIn any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0].",
-                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nIl utilise en tout cas des attaques \\c[3]basées sur le Chaud\\c[0] et est même capable de manier des \\c[3]explosifs\\c[0]."
+                "orig": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nBy now they seem to have grown greatly in strengh and intelligence and are still using \\c[3]heat-based\\c[0] attacks and \\c[3]explosives\\c[0] to gain the edge in combat.",
+                "text": "Cette variante bien plus puissante et intelligente du \\c[3]\\v[combat.name.goat]\\c[0] n'a été aperçue que très récemment.\nLes rapports indiquent qu'il ne s'est peut-être pas développé naturellement, mais qu'il aurait été \\c[3]créé par l'influence de l'homme\\c[0].\nDepuis le temps, leur puissance et leur intelligence ont grandement augmenté et ils utilisent encore des attaques \\c[3]basées sur le Chaud\\c[0] et des \\c[3]explosifs\\c[0] pour prendre le dessus au combat."
         },
         "enemies/cold/mine-coldbug-quest.json/meta/species": {
                 "orig": "Insect, Bug",
@@ -1611,8 +1609,8 @@
                 "text": "Oiseau Hors La Loi"
         },
         "enemies/cold/parrot-gangster-3.json/meta/descriptions/0/text": {
-                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
-                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
+                "orig": "Slightly more civilized and refined variants of the regular \\c[3]Papaguns\\c[0] that are found in the wild, these winged criminals are the elite wingsoldiers of a powerful criminal syndicate that plagues \\c[3]\\v[area.jungle-city.name]\\c[0].\nThese hardened veterans of the crew are often used to crack tough cases, guard the central nest and handle difficult away missions outside of their core turf.",
+                "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les aviateurs soldats d'élites d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nCes vétérans endurcis de la bande sont souvent utilisés pour résoudre les problèmes épineux, pour monter la garde de leur nid central et pour gérer les missions difficiles en dehors de leur territoire principal."
         },
         "enemies/cold/turret-monks-invinc.json/actions/GoOn/0/text": {
                 "orig": "Activated!",
@@ -2670,7 +2668,7 @@
                 "text": "Oiseau Hors La Loi"
         },
         "enemies/jungle/special/parrot-gangster-2.json/meta/descriptions/0/text": {
-                "orig": "Slightly more civilized and refined variants of the regular Papaguns that are found in the wild, these winged criminals are the common footsoldiers of a powerful criminal syndicate that plagues \\v[area.jungle-city.name].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
+                "orig": "Slightly more civilized and refined variants of the regular \\c[3]Papaguns\\c[0] that are found in the wild, these winged criminals are the common wingsoldiers of a powerful criminal syndicate that plagues \\c[3]\\v[area.jungle-city.name]\\c[0].\nThey are usually responsible for organized robberies, guard duty and moving stolen goods.",
                 "text": "Une variante un peu plus civilisée et raffinée des \\c[3]\\v[combat.name.jungle/parrot]s\\c[0] normaux qui se trouvent dans la nature, ces criminels ailés sont les petits soldats d'un puissant syndicat criminel qui terrorise le \\c[3]\\v[area.jungle-city.name]\\c[0].\nIls sont habituellement responsables de cambriolages, de \\c[3]prises d'otages\\c[0] et pour transporter des biens volés."
         },
         "enemies/jungle/special/parrot-gangster-boss-1.json/proxies/missilesHoming/action/0/text": {

@@ -2808,8 +2808,8 @@
                 "note": "Temps de jeu is too long"
         },
         "lang/sc/gui.en_US.json/labels/menu/description/items": {
-                "orig": "Browse through your items and use consumables.",
-                "text": "Naviguez parmi vos objets et utilisez des consommables."
+                "orig": "Browse through your items and select favorite consumables.",
+                "text": "Naviguez parmi vos objets et selectionnez vos consommables favoris."
         },
         "lang/sc/gui.en_US.json/labels/menu/description/skills": {
                 "orig": "Upgrade your abilities by activating nodes on the circuit boards.",
@@ -3209,8 +3209,8 @@
                 "text": "Augmente la rapidité pour obtenir une visée précise."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/XP_ZERO": {
-                "orig": "Disables exp gain from quests or defeating enemies.",
-                "text": "Désactive les gains d'EXP des quêtes ou des victoires contre les ennemis."
+                "orig": "Disables exp gain from defeating enemies.",
+                "text": "Désactive les gains d'EXP obtenus en combattant des ennemis."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/XP_PLUS": {
                 "orig": "Increases amount of experience gained from defeating enemies",
@@ -3369,11 +3369,11 @@
                 "text": "Permet de marcher librement sur les toiles collantes laissées par les \\v[combat.name.forest/spider]s et leurs sous-espèces."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/BEGONE_ICE": {
-                "orig": "Makes it possible to run and perform actions on ice without slipping.",
-                "text": "Permet de courir et faire des actions sur la glace sans glisser."
+                "orig": "Makes it possible to normally run and perform actions on ice without slipping.",
+                "text": "Permet de courir normalement et faire des actions sur la glace sans glisser."
         },
         "lang/sc/gui.en_US.json/labels/menu/equip/descriptions/EQUIP_SCALE": {
-                "orig": "Base Params of this weapon automatically scale with your current level.",
+                "orig": "Base Parameters of this equipment automatically scale with your current level.",
                 "text": "Les Paramètres de Base de cette arme s'ajustent automatiquement avec votre niveau actuel."
         },
         "lang/sc/gui.en_US.json/labels/menu/skill/shade": {

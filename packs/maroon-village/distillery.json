@@ -1,41 +1,41 @@
 {
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/4/guiInfo/settings/taskTitle": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/5/guiInfo/settings/taskTitle": {
                 "orig": "Requests",
                 "text": "Demandes"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/4/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/5/guiInfo/settings/text": {
                 "orig": "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] ",
                 "text": "Qualité de brassage : \\c[3]\\v[tmp.quality]\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/5/guiInfo/settings/taskTitle": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/6/guiInfo/settings/taskTitle": {
                 "orig": "Quality",
                 "text": "Qualité"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/5/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/6/guiInfo/settings/text": {
                 "orig": "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] ",
                 "text": "Qualité de brassage : \\c[3]\\v[tmp.quality]\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/thenStep/6/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/thenStep/7/guiInfo/settings/text": {
                 "orig": "Overheat",
                 "text": "Surchauffe"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/2/guiInfo/settings/taskTitle": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/3/guiInfo/settings/taskTitle": {
                 "orig": "Requests",
                 "text": "Demandes"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/3/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/4/guiInfo/settings/text": {
                 "orig": "Booze HP",
                 "text": "HP Brasseur"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/4/guiInfo/settings/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/5/guiInfo/settings/text": {
                 "orig": "Overheat",
                 "text": "Surchauffe"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/8/elseStep/6/task": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/7/elseStep/7/task": {
                 "orig": "\\c[3]Follow the brewing procedure!\\c[0] ",
                 "text": "\\c[3]Suivez la procédure de brassage !\\c[0]"
         },
-        "maps/heat-village/special/distillery.json/entities/20/settings/event/15/text": {
+        "maps/heat-village/special/distillery.json/entities/20/settings/event/14/text": {
                 "orig": "[Brewing Process START]",
                 "text": "[Procédure de brassage DÉMARRÉE]"
         },
@@ -511,11 +511,11 @@
                 "orig": "\\v[lore.title.seeker] need brewing ingredients prepared?",
                 "text": "\\v[lore.title.seeker] avoir besoin ingrédient pour brasser ?"
         },
-        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/3/traded/0/message": {
+        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/4/traded/0/message": {
                 "orig": "Wish much success.\\. May Ancients bless precious liquids!",
                 "text": "Souhaiter bonne réussite.\\. Que Anciens bénissent liquides précieux !"
         },
-        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/3/canceled/0/message": {
+        "maps/heat-village/special/distillery.json/entities/86/settings/npcStates/4/event/trade/event/4/canceled/0/message": {
                 "orig": "Maybe next time, yes?",
                 "text": "Peut-être prochaine fois, oui ?"
         },
@@ -620,7 +620,7 @@
                 "text": "[acquiesce]"
         },
         "maps/heat-village/special/distillery.json/entities/109/settings/event/69/message": {
-                "orig": "Oh, woops, haha.\\. That's pretty crazy but I guess we should've expected the Track throwing some final test at us.",
+                "orig": "Oh, woops, haha.\\. That's pretty crazy, but I guess we should've expected the Track to throw some final test at us.",
                 "text": "Oh, oups, héhéhé.\\. C'est assez fou, mais j'imagine qu'on aurait dû s'attendre à ce que le tracé nous envoie un test final comme ça."
         },
         "maps/heat-village/special/distillery.json/entities/109/settings/event/70/message": {

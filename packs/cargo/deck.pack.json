@@ -129,7 +129,7 @@
                 "text": "Oui, désolé...\\. J'étais trop occupé à vérifier le chargement à l'époque."
         },
         "maps/cargo-ship/ship.json/entities/82/settings/npcStates/2/event/16/message": {
-                "orig": "I tend to get absorbed in my task like that...",
+                "orig": "I tend to get absorbed in my tasks like that...",
                 "text": "J'ai tendance à être absorbé par mon travail comme ça..."
         },
         "maps/cargo-ship/ship.json/entities/82/settings/npcStates/2/event/17/message": {
@@ -379,7 +379,7 @@
                 "text": "Oui...\\. pour être franc, c'était surtout la faute à cette personne bleue-orange qui volait."
         },
         "maps/cargo-ship/ship.json/entities/86/settings/npcStates/2/event/10/message": {
-                "orig": "Still, I could have sworn our captain strictly banned any running Instantmatter on deck ever since.",
+                "orig": "Still, I could have sworn our captain strictly banned any running instant matter on deck ever since.",
                 "text": "Mais bon, j'aurais juré que notre capitaine interdirait définitivement de faire fonctionner de l'Instant-Matière sur le pont depuis."
         },
         "maps/cargo-ship/ship.json/entities/86/settings/npcStates/2/event/11/message": {
@@ -475,7 +475,7 @@
                 "text": "Oui...\\. c'était un bon moment."
         },
         "maps/cargo-ship/ship.json/entities/91/settings/npcStates/6/event/10/message": {
-                "orig": "So guess what?\\. They recently had a breakthrough with Instantmatter research.",
+                "orig": "So guess what?\\. They recently had a breakthrough with instant matter research.",
                 "text": "Et devine quoi ?\\. Ils ont récemment fait un grand pas en avant dans la recherche sur l'Instant-matière."
         },
         "maps/cargo-ship/ship.json/entities/91/settings/npcStates/6/event/11/message": {
@@ -2551,7 +2551,7 @@
                 "text": "\\s[6]Ouaaaaaaaaaaah !"
         },
         "maps/cargo-ship/ship.json/entities/183/settings/event/108/message": {
-                "orig": "D-\\.Do you really think this'll work?!\n",
+                "orig": "D-\\.Do you really think this will work?!\n",
                 "text": "V-\\.Vous pensez vraiment que ça va marcher ?!"
         },
         "maps/cargo-ship/ship.json/entities/183/settings/event/110/message": {
@@ -2567,8 +2567,9 @@
                 "text": "Sergey, j'espère que ça va pas devenir une habitude."
         },
         "maps/cargo-ship/ship.json/entities/187/settings/event/22/message": {
-                "orig": "No, I promised this is an exception...",
-                "text": "Non, j'ai promis que ça serait une exception..."
+                "orig": "No, I promise this is an exception...",
+                "text": "Non, je te promet que c'est une exception...",
+                "note": "this quite changes the meaning, yanow"
         },
         "maps/cargo-ship/ship.json/entities/187/settings/event/30/message": {
                 "orig": "It's a \\c[3]SOLAR CRUISER A590P\\c[0]!",

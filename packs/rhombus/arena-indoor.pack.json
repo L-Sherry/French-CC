@@ -84,23 +84,31 @@
                 "orig": "Note that players have to purchase a \\c[3]Custom Cup Toolkit\\c[0] to create their own custom cup.",
                 "text": "Notez que les joueurs doivent acheter un \\c[3]Kit de Construction de Coupes\\c[0] pour créer leur coupe personnalisée."
         },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/18/message": {
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/18/thenStep/0/message": {
+                "orig": "Sorry Lea...\\. Evotars have not received permission to create Custom Cups, yet.",
+                "text": "Désolé Lea...\\. Les Évotars n'ont pas encore reçu la permission de créer des Coupes Personnalisées, pour l'instant."
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/18/thenStep/1/message": {
+                "orig": "Instatainment wants to be careful, so do not expect it to change very soon.",
+                "text": "Instatainment veut rester prudent, donc ne t'attends pas à ce que ça change de sitôt."
+        },
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/18/elseStep/0/message": {
                 "orig": "Sorry Lea...\\. buying such a Toolkit will leave all kinds of traces on the system.",
                 "text": "Désole Lea...\\. acheter un tel kit va laisser toutes sortes de traces sur le système."
         },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/19/message": {
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/18/elseStep/1/message": {
                 "orig": "I cannot risk doing that.",
                 "text": "Je ne peux pas prendre ce risque."
         },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/20/message": {
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/19/message": {
                 "orig": "...",
                 "text": "..."
         },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/21/message": {
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/20/message": {
                 "orig": "But maybe you will find other players creating custom cups for you...",
                 "text": "Mais peut-être que tu trouveras d'autres joueurs pour créer des coupes pour toi..."
         },
-        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/22/message": {
+        "maps/rhombus-sqr/interior/arena-01.json/entities/30/settings/npcStates/0/event/5/2/21/message": {
                 "orig": "...!",
                 "text": "... !"
         },

@@ -166,7 +166,7 @@
                 "text": "C'était un beau combat, Lea !"
         },
         "extension/post-game/data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/5/message": {
-                "orig": "Just hit me up, when you're ready for rematch!",
+                "orig": "Just hit me up when you're ready for a rematch!",
                 "text": "Préviens-moi, quand tu seras prête pour une revanche !"
         },
         "extension/post-game/data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/6/message": {
@@ -242,5 +242,9 @@
         "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json/entities/305/settings/event/14/elseStep/4/message": {
                 "orig": "...!",
                 "text": "... !"
+        },
+        "extension/post-game/data/maps/arena/special/arena-sao.json/entities/300/settings/event/44/guiInfo/settings/taskTitle": {
+                "orig": "Sao",
+                "text": "Sao"
         }
 }

@@ -48,7 +48,6 @@
 	"maps/enemy-test-sao.json": "packs/test.pack.json",
 	"maps/auto-script-test.json": "packs/test.pack.json",
 	"extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json": "packs/test.pack.json",
-	"maps/rhombus-sqr/interior/items-f1.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -551,6 +550,10 @@
 	"characters/guests/quantum-idol.json" :"packs/characters.json",
 	"characters/guests/quantum-queen.json" :"packs/characters.json",
 	"characters/guests/quantum-leo.json": "packs/characters.json",
+	"characters/lab/scientist-pc.json": "packs/characters.json",
+	"characters/lab/scientist-ps4.json": "packs/characters.json",
+	"characters/lab/scientist-xbox.json": "packs/characters.json",
+	"characters/lab/scientist-switch.json": "packs/characters.json",
 
 	"maps/autumn/cave-path6-1-meerkat.json": "packs/autumn-rise/caves.json",
 	"maps/autumn/cubaum.json": "packs/autumn-rise/cubaum.json",
@@ -1210,6 +1213,7 @@
 	"arena/test-custom-cup.json": "packs/arena-cups.json",
 	"arena/test-team-cup.json": "packs/arena-cups.json",
 	"arena/vermillion-cup.json": "packs/arena-cups.json",
+	"arena/console-cup-1.json": "packs/arena-cups.json",
 
 	"maps/arena/boss/cold-midboss.json": "packs/arena-maps.json",
 	"maps/arena/boss/shock-boss.json": "packs/arena-maps.json",
@@ -1363,10 +1367,12 @@
 	"extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json": "packs/dlc-arena.pack.json",
 	"extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json": "packs/dlc-arena.pack.json",
+	"extension/post-game/data/arena/guest-cup-1.json": "packs/dlc-arena.pack.json",
 
 	"extension/post-game/data/maps/arena/pvp/pvp-apollo.json": "packs/dlc-pvp.pack.json",
 	"extension/post-game/data/maps/arena/pvp/pvp-lily.json": "packs/dlc-pvp.pack.json",
 	"extension/post-game/data/maps/arena/pvp/pvp-shizuka.json": "packs/dlc-pvp.pack.json",
+	"extension/post-game/data/maps/arena/special/arena-sao.json": "packs/dlc-pvp.pack.json",
 
 	"extension/post-game/data/maps/arid/lab/elevator-eg.json": "packs/vermillion/dlc-entrance.json",
 	"extension/post-game/data/maps/arid/lab/ug-01-entrance.json": "packs/vermillion/dlc-entrance.json",

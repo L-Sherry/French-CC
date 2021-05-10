@@ -3,7 +3,7 @@
                 "orig": "Threat detected",
                 "text": "Menace Détectée"
         },
-        "enemies/autumn-fall/runbot-tremor.json/actions/removeAura/4/text": {
+        "enemies/autumn-fall/runbot-tremor.json/actions/removeAura/5/text": {
                 "orig": "[ AURA DISPERSED ]",
                 "text": "[ AURA DISPERSÉE ]"
         },
@@ -104,6 +104,10 @@
                 "orig": "????",
                 "text": "????"
         },
+        "enemies/boss/radfish.json/meta/descriptions/0/text": {
+                "orig": "That's a lot of fish.",
+                "text": "Ça en fait du poisson."
+        },
         "enemies/cold/goat-father-2.json/bossLabel": {
                 "orig": "GOAT",
                 "text": "BOUC"
@@ -137,8 +141,8 @@
                 "text": "Patron des Boucs"
         },
         "enemies/cold/goat-father-2.json/meta/descriptions/0/text": {
-                "orig": "It can make offers, you can not refuse.",
-                "text": "Il peut faire des offres que vous ne pouvez pas refuser."
+                "orig": "The wise and honorable Leader of the group of highly intelligent goats, originating from an immoral experiment in the seedy underground of \\v[area.bergen-trails.name].\nHe will protect his herd. He will build a future for goatkind. He will make offers, you can not refuse.\nSuch is the way of goat.\n\nExpect a tough fight against his goatlike powers. Both \\c[3]heat and cold\\c[0] are under his control and will be used on a large scale. He also can throw and regenerate \\c[3]his horns\\c[0] at a blinding speed and thus create a \\c[3]hell of horn-shaped bullets\\c[0].",
+                "text": "Le sage et honorable Chef du groupe de boucs hautement intelligents, fruits d'une expérience immorale dans les profondeurs sombres du \\v[area.bergen-trails.name].\nIl va protéger son troupeau. Il va construire un futur pour les bovidés. Il va vous faire des offres que vous ne pourrez refuser.\nTel est le destin des boucs.\n\nAttendez-vous à un combat difficile contre ses pouvoirs de bouc. À la fois le \\c[3]chaud et le froid\\c[0] sont sous son contrôle et seront utilisés à large échelle. Il peut aussi lancer et régénérer \\c[3]ses cornes\\c[0] à une vitesse phénoménale et créer une \\c[3]nuée de balles en forme de cornes\\c[0]."
         },
         "enemies/final/god-planet.json/meta/species": {
                 "orig": "????",
@@ -169,8 +173,8 @@
                 "text": "Être Toxique"
         },
         "enemies/jungle/special/ghost-toxic.json/meta/descriptions/0/text": {
-                "orig": "A variant of the \\v[combat.name.jungle/ghost] but even further empowered by the toxic energy of the city \\v[area.jungle-city.name].\nIt is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population.",
-                "text": "Une variante de l'\\v[combat.name.jungle/ghost] mais encore plus puissant grâce à l'énergie toxique du \\v[area.jungle-city.name].\nOn ne sait pas encore ce qui le rend aussi toxique : Les déchets de la ville ou les sentiments négatifs de ses habitants."
+                "orig": "A variant of the \\c[3]\\v[combat.name.jungle/ghost]\\c[0] but even further empowered by the toxic energy of the city \\c[3]\\v[area.jungle-city.name]\\c[0].\nIt is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population.",
+                "text": "Une variante de l'\\c[3]\\v[combat.name.jungle/ghost]\\c[0] mais encore plus puissant grâce à l'énergie toxique du \\c[3]\\v[area.jungle-city.name]\\c[0].\nOn ne sait pas encore ce qui le rend aussi toxique : Les déchets de la ville ou les sentiments négatifs de ses habitants."
         },
         "enemies/jungle/special/quest_td_boss_slime_1.json/meta/species": {
                 "orig": "Starfish",
@@ -474,19 +478,19 @@
                 "orig": "Recover",
                 "text": "Guérison"
         },
-        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/0_0/0/text": {
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/0_0/1/text": {
                 "orig": "HEAT SHIELD",
                 "text": "BOUCLIER CHAUD"
         },
-        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/1_0/0/text": {
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/1_0/1/text": {
                 "orig": "COLD SHIELD",
                 "text": "BOUCLIER FROID"
         },
-        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/2_0/0/text": {
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/2_0/1/text": {
                 "orig": "SHOCK SHIELD",
                 "text": "BOUCLIER CHOC"
         },
-        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/3_0/0/text": {
+        "extension/post-game/data/enemies/final/god-neutral.json/actions/AddWeakShield/2/3_0/1/text": {
                 "orig": "WAVE SHIELD",
                 "text": "BOUCLIER ONDE"
         },
@@ -520,7 +524,7 @@
                 "text": "Décoration Sauvage"
         },
         "extension/post-game/data/enemies/final/guardian.json/meta/descriptions/0/text": {
-                "orig": "This animated statue can assume all the elements the \\c[3]\\v[lore.title.track-of-ancients]\\c[0] provides. Each elemental mode provides it with unique modifiers to its normal attacks. Don't be fooled by its slow movement speed as it can quickly close the gap with a quick jump.",
+                "orig": "This animated statue can assume all the elements the \\c[3]\\v[lore.title.track-of-ancients]\\c[0] provides. Each elemental mode provides it with unique modifiers to its normal attacks. Don't get fooled by its slow movement speed as it can quickly close the gap with a quick jump.",
                 "text": "Cette statue animée peut prendre la forme de tous les éléments fournis par le \\c[3]\\v[lore.title.track-of-ancients]\\c[0]. Chaque mode élémentaire lui offre des modifications uniques à ses attaques normales. Ne vous faites pas avoir par ses mouvements lents, car il peut rapidement se rapprocher avec un saut vif."
         },
         "extension/post-game/data/enemies/final/gynthar.json/meta/species": {

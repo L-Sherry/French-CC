@@ -28,7 +28,7 @@
                 "text": "Affrontez une version plus forte du \\c[3]\\v[combat.name.mine-diggingbot-cold]\\c[0], un boss du \\c[3]\\v[area.cold-dng.name]\\c[0] !"
         },
         "arena/boss-cup.json/rounds/2/name": {
-                "orig": "The Collosal Gear",
+                "orig": "The Colossal Gear",
                 "text": "L'Appareil Colossal"
         },
         "arena/boss-cup.json/rounds/2/objective": {
@@ -82,6 +82,82 @@
         "arena/boss-cup.json/rounds/8/objective": {
                 "orig": "Beat stronger versions of the \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] and \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0] boss from \\c[3]\\v[area.tree-dng.name]\\c[0]!",
                 "text": "Affrontez des versions plus fortes du \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] et de l'\\c[3]\\v[combat.name.jungle/whale-boss]\\c[0], des boss du \\c[3]\\v[area.tree-dng.name]\\c[0] !"
+        },
+        "arena/console-cup-1.json/core/name": {
+                "orig": "Platform Cup",
+                "text": "Coupe des Plateformes"
+        },
+        "arena/console-cup-1.json/core/info": {
+                "orig": "Redo fights of once \"platform-exclusive\" quests related to \"hardware\"!",
+                "text": "Refaites les combats qui furent \"exclusifs au plateformes\" liés aux \"matériels\" !"
+        },
+        "arena/console-cup-1.json/core/creator": {
+                "orig": "The Four Visionaries",
+                "text": "Les Quatres Visionaires"
+        },
+        "arena/console-cup-1.json/rounds/0/name": {
+                "orig": "Flying-Type Fiends",
+                "text": "Cibles du Type Volant"
+        },
+        "arena/console-cup-1.json/rounds/0/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.hedgehog-fly]s\\c[0] in the secret lab of \\c[3]Avian Appliances\\c[0]!",
+                "text": "Affrontez les \\c[3]\\v[combat.name.hedgehog-fly]s\\c[0] dans le laboratoire secret d'\\c[3]Appareil Aviaires\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/1/name": {
+                "orig": "Super-crowned Mammal",
+                "text": "Mammifère Super-couronné"
+        },
+        "arena/console-cup-1.json/rounds/1/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.minibosses/hedgehag-king]\\c[0] in the secret lab of \\c[3]Avian Appliances\\c[0]!",
+                "text": "Affrontez le \\c[3]\\v[combat.name.minibosses/hedgehag-king]\\c[0] dans le laboratoire secret d'\\c[3]Appareil Aviaires\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/2/name": {
+                "orig": "Leg-endary Fish",
+                "text": "Poisson Les Jambes d'Air"
+        },
+        "arena/console-cup-1.json/rounds/2/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.jungle/fish-gear]s\\c[0] in the secret lab of \\c[3]Mech Machinery\\c[0]!",
+                "text": "Affrontez les \\c[3]\\v[combat.name.jungle/fish-gear]s\\c[0] dans le laboratoire secret de \\c[3]Machines Mécha\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/3/name": {
+                "orig": "Fish & Chips & Metal",
+                "text": "Poisson-Frites-Métal"
+        },
+        "arena/console-cup-1.json/rounds/3/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.minibosses/fish-mega-gear]\\c[0] in the secret lab of \\c[3]Mech Machinery\\c[0]!",
+                "text": "Affrontez le \\c[3]\\v[combat.name.minibosses/fish-mega-gear]\\c[0] dans le laboratoire secret de \\c[3]Machines Mécha\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/4/name": {
+                "orig": "Cool Company",
+                "text": "Compagnons Cools"
+        },
+        "arena/console-cup-1.json/rounds/4/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.snowtank]s\\c[0] in the secret lab of \\c[3]Heavy Hardware Inc\\c[0]!",
+                "text": "Affrontez les \\c[3]\\v[combat.name.snowtank]s\\c[0] dans le laboratoire secret de \\c[3]Matériel Mastoc SA\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/5/name": {
+                "orig": "Snowy Sergeant",
+                "text": "Sergent Enneigé"
+        },
+        "arena/console-cup-1.json/rounds/5/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.minibosses/snow-megatank]\\c[0] in the secret lab of \\c[3]Heavy Hardware Inc\\c[0]!",
+                "text": "Affrontez le \\c[3]\\v[combat.name.minibosses/snow-megatank]\\c[0] dans le laboratoire secret de \\c[3]Matériel Mastoc SA\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/6/name": {
+                "orig": "Arachnid Artillery",
+                "text": "Artillerie Arachnide"
+        },
+        "arena/console-cup-1.json/rounds/6/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.heat/scorpion-robo]s\\c[0] in the secret lab of \\c[3]High-Pressure Arms\\c[0]!",
+                "text": "Affrontez les \\c[3]\\v[combat.name.heat/scorpion-robo]s\\c[0] dans le laboratoire secret de \\c[3]Armes Haute-Pressions\\c[0] !"
+        },
+        "arena/console-cup-1.json/rounds/7/name": {
+                "orig": "Predatory Pincerbot",
+                "text": "Robopinceur Prédateur"
+        },
+        "arena/console-cup-1.json/rounds/7/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.minibosses/scorpion-boss]\\c[0] in the secret lab of \\c[3]High-Pressure Arms\\c[0]!",
+                "text": "Affrontez le \\c[3]\\v[combat.name.minibosses/scorpion-boss]\\c[0] dans le laboratoire secret de \\c[3]Armes Haute-Pressions\\c[0] !"
         },
         "arena/faction-cup-1.json/core/name": {
                 "orig": "Faction Rookie Cup",
@@ -843,7 +919,7 @@
                 "text": "Combattez une version plus puissante de la \\c[3]\\v[combat.name.arid/element-turret-boss]\\c[0] de \\c[3]\\v[area.arid.name]\\c[0] !"
         },
         "arena/vermillion-cup.json/rounds/5/name": {
-                "orig": "The Infinte Snail",
+                "orig": "The Infinite Snail",
                 "text": "L'Escargot Infini"
         },
         "arena/vermillion-cup.json/rounds/5/objective": {

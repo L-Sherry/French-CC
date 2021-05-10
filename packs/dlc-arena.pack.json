@@ -260,6 +260,38 @@
                 "orig": "Let us do combat, Spheromancer Lea!",
                 "text": "Combattons-nous, Spheromanceuse Lea !"
         },
+        "extension/post-game/data/arena/guest-cup-1.json/core/name": {
+                "orig": "Supporters' Cup",
+                "text": "Coupe des Soutiens"
+        },
+        "extension/post-game/data/arena/guest-cup-1.json/core/info": {
+                "orig": "Refight several challenging battles envisioned by generous supporters!",
+                "text": "Refaites plusieurs combats difficiles imaginés par nos généreux soutiens !",
+                "note": "de seems strange to me, comma missing ?"
+        },
+        "extension/post-game/data/arena/guest-cup-1.json/core/creator": {
+                "orig": "Supporters",
+                "text": "Soutiens"
+        },
+        "extension/post-game/data/arena/guest-cup-1.json/rounds/0/name": {
+                "orig": "Some Standard Ninja Dude",
+                "text": "Un genre de Mec Ninja Standard",
+                "note": "from rpgmaker rtp"
+        },
+        "extension/post-game/data/arena/guest-cup-1.json/rounds/0/objective": {
+                "orig": "Defeat \\c[3]\\v[combat.name.guest/sao]\\c[0] in the arena!\nIt's an honorable 1 vs 1 duel... Though he might take a few beatings to stay down.",
+                "text": "Affrontez \\c[3]\\v[combat.name.guest/sao]\\c[0] dans l'arène !\nC'est un honorable duel 1 contre 1... Bien qu'il abandonera pas si rapidement !"
+        },
+        "extension/post-game/data/arena/guest-cup-1.json/rounds/1/name": {
+                "orig": "Highway Police",
+                "text": "Police de l'Autoroute",
+                "note": "german thing"
+        },
+        "extension/post-game/data/arena/guest-cup-1.json/rounds/1/objective": {
+                "orig": "Defeat the \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\nBe careful in traffic and use the driving cars to avoid his destructive attacks!",
+                "text": "Affrontez le \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] !\nFaites attention au traffic et utilisez les voitures conductrices pour éviter ses attaques destructrices !",
+                "note": "driving cars does not make sense, but fahrenden autos ?"
+        },
         "extension/post-game/data/arena/kit-cup.json/core/name": {
                 "orig": "Some Test Cup",
                 "text": "Une Coupe de Test"
@@ -277,8 +309,8 @@
                 "text": "Round 1 - L'Unique Round"
         },
         "extension/post-game/data/arena/kit-cup.json/rounds/0/objective": {
-                "orig": "Kill the thing.\nAnd make sure to remove this cup later.",
-                "text": "Tue le machin.\nEt n'oublie pas de supprimer cette coupe après."
+                "orig": "Kill the thing.\n\\c[1]And make sure to remove this cup later.\\c[0]",
+                "text": "Tue le machin.\n\\c[1]Et n'oublie pas de supprimer cette coupe après.\\c[0]"
         },
         "extension/post-game/data/arena/lily-cup.json/core/name": {
                 "orig": "PvP vs Lily",
@@ -614,11 +646,11 @@
                 "orig": "(Bomb 2 Spawn)",
                 "text": "(Apparition Bombe 2)"
         },
-        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/350/settings/event/38/guiInfo/settings/text": {
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/350/settings/event/39/guiInfo/settings/text": {
                 "orig": "Escortee Life",
                 "text": "HP Linde"
         },
-        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/350/settings/event/38/guiInfo/settings/taskTitle": {
+        "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json/entities/350/settings/event/39/guiInfo/settings/taskTitle": {
                 "orig": "Energy",
                 "text": "Énergie"
         },

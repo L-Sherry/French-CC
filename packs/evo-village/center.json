@@ -7,19 +7,19 @@
                 "orig": "Lea, we are over here! The tour isn't over just yet!",
                 "text": "Lea, on est là ! La visite n'est pas encore terminée !"
         },
-        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/2/text": {
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/4/text": {
                 "orig": "Once you enter, you will embark to Vermillion Wasteland.\n\\c[1]Warning: This will be a point of no return!\nMake sure to keep a save before you enter!\\c[0]",
                 "text": "Une fois que vous entrerez, vous embarquerez à \\v[area.arid.name].\n\\c[1]Attention : Ce sera un point de non-retour !\\c[0]"
         },
-        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/3/text": {
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/5/text": {
                 "orig": "Ready?",
                 "text": "Prêt ?"
         },
-        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/3/options/0/label": {
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/5/options/0/label": {
                 "orig": "Yes",
                 "text": "Oui"
         },
-        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/3/options/1/label": {
+        "extension/post-game/data/maps/evo-village/center.json/entities/46/settings/blockEvent/5/options/1/label": {
                 "orig": "No",
                 "text": "Non"
         },
@@ -1935,16 +1935,16 @@
                 "text": "..."
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/53/message": {
-                "orig": "\\c[2][Hello my name is Lea!]\\c[0]",
+                "orig": "\\c[2][Hello, my name is Lea!]\\c[0]",
                 "text": "\\c[2][Bonjour, je m'appelle Lea !]\\c[0]"
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/57/message": {
-                "orig": "Woah!",
+                "orig": "Whoa!",
                 "text": "Wouah !"
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/58/message": {
-                "orig": "Cherie, finally you can communicate!\n",
-                "text": "Chérie, enfin on peut communiquer !"
+                "orig": "Chérie, finally you can communicate!\n",
+                "text": "Chérie, enfin tu peux communiquer !"
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/933/settings/event/61/message": {
                 "orig": "Tell me all your hobbies!\\. Right now!",
@@ -2116,7 +2116,7 @@
                 "text": "Allez, ça va être délicieux !"
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/67/message": {
-                "orig": "Greeting, townsfolk of Homestedt!",
+                "orig": "Greetings, good people of Homestedt!",
                 "text": "Salutations, peuple de \\v[area.evo-village.name] !"
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/69/message": {
@@ -2132,7 +2132,7 @@
                 "text": "Buggy, s'il te plait..."
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/80/message": {
-                "orig": "Your stakeholder friend has to be here!",
+                "orig": "Your steakholder friend has to be here!",
                 "text": "Ton ami 'stakeholder' doit forcément venir !"
         },
         "extension/post-game/data/maps/evo-village/center.json/entities/940/settings/event/81/message": {

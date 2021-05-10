@@ -5195,8 +5195,8 @@
                 "text": "Booster de Booster"
         },
         "item-database.json/items/618/description": {
-                "orig": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] and unlocks more loot.",
-                "text": "Augmente l'action des \\c[3]boosters régionaux\\c[0] sur les ennemis et débloque plus de butin."
+                "orig": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] up to your level!",
+                "text": "Augmente l'action des \\c[3]boosters régionaux\\c[0] sur les ennemis pour les mettre à votre niveau !"
         },
         "item-database.json/items/619/name": {
                 "orig": "Yellow Sponge",
@@ -5495,8 +5495,8 @@
                 "text": "Symbole du Chaud"
         },
         "item-database.json/items/651/description": {
-                "orig": "An Ancient sculpture in the shape of a flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]",
-                "text": "Une ancienne sculpture de flamme. \\c[3]Ajoute un CP de Chaud supplémentaire.\\c[0] \\i[element-heat]"
+                "orig": "An Ancient sculpture in the shape of a smoldering flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]",
+                "text": "Une ancienne sculpture de flamme ardante. \\c[3]Ajoute un CP de Chaud supplémentaire.\\c[0] \\i[element-heat]"
         },
         "item-database.json/items/652/name": {
                 "orig": "Symbol of Cold",
@@ -5676,5 +5676,30 @@
         "item-database.json/items/672/description": {
                 "orig": "Increase your manliness and turn into \\c[3]Manlea\\c[0].",
                 "text": "Améliore votre masculinité et vous transforme en \\c[3]Manlea\\c[0]."
+        },
+        "item-database.json/items/673/name": {
+                "orig": "Bearserker Claw",
+                "text": "Griffe Bearserker"
+        },
+        "item-database.json/items/673/description": {
+                "orig": "Ursine weapon that draws power from pain. Tear enemies apart with bear hands! \\i[ascended]",
+                "text": "Arme tirant sa force de la douleur. Déchirez vos ennemis à mains d'ours nues ! \\i[ascended]",
+                "note": "size is severe"
+        },
+        "item-database.json/items/674/name": {
+                "orig": "Headset TYPE>:3",
+                "text": "Casque TYPE>:3"
+        },
+        "item-database.json/items/674/description": {
+                "orig": "Experimental headphones with ultrasonic devices in the shape of feline ears. \\i[ascended]",
+                "text": "Un casque audio expérimental doté d'appareils ultrason en forme d'oreilles de chat. \\i[ascended]"
+        },
+        "item-database.json/items/675/name": {
+                "orig": "Nightfeather Coat",
+                "text": "Veste Plume de Nuit"
+        },
+        "item-database.json/items/675/description": {
+                "orig": "Dark suit made from the wings of only the most sinister of birds. \\i[ascended]",
+                "text": "Une veste sombre à partir d'ailes des plus sinistres des oiseaux. \\i[ascended]"
         }
 }
