@@ -537,7 +537,7 @@
         },
         "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/4/text": {
                 "orig": "~ Brewing Statistics ~\n\nQuality Highscore: \n\\c[3]\\v[map.qualityRecord]\\c[0]",
-                "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualitées :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
+                "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualités :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
         },
         "maps/heat-village/special/distillery.json/entities/89/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text": {
                 "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",

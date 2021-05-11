@@ -280,7 +280,7 @@
         },
         "extension/post-game/data/arena/guest-cup-1.json/rounds/0/objective": {
                 "orig": "Defeat \\c[3]\\v[combat.name.guest/sao]\\c[0] in the arena!\nIt's an honorable 1 vs 1 duel... Though he might take a few beatings to stay down.",
-                "text": "Affrontez \\c[3]\\v[combat.name.guest/sao]\\c[0] dans l'arène !\nC'est un honorable duel 1 contre 1... Bien qu'il abandonera pas si rapidement !"
+                "text": "Affrontez \\c[3]\\v[combat.name.guest/sao]\\c[0] dans l'arène !\nC'est un honorable duel 1 contre 1... Bien qu'il abandonnera pas si rapidement !"
         },
         "extension/post-game/data/arena/guest-cup-1.json/rounds/1/name": {
                 "orig": "Highway Police",
@@ -289,7 +289,7 @@
         },
         "extension/post-game/data/arena/guest-cup-1.json/rounds/1/objective": {
                 "orig": "Defeat the \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\nBe careful in traffic and use the driving cars to avoid his destructive attacks!",
-                "text": "Affrontez le \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] !\nFaites attention au traffic et utilisez les voitures conductrices pour éviter ses attaques destructrices !",
+                "text": "Affrontez le \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] à \\c[3]\\v[area.rhombus-sqr.name]\\c[0] !\nFaites attention au trafic et utilisez les voitures conductrices pour éviter ses attaques destructrices !",
                 "note": "driving cars does not make sense, but fahrenden autos ?"
         },
         "extension/post-game/data/arena/kit-cup.json/core/name": {
@@ -475,7 +475,7 @@
         },
         "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/event/0/thenStep/4/text": {
                 "orig": "~ Brewing Statistics ~\n\nQuality Highscore: \n\\c[3]\\v[map.qualityRecord]\\c[0]",
-                "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualitées :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
+                "text": "~ Statistiques de Brassage ~\n\nMeilleurs Qualités :\n\\c[3]\\v[map.qualityRecord]\\c[0]"
         },
         "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json/entities/76/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text": {
                 "orig": "Times brewed / Drinks gained:\nTotal: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n\n\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]",
@@ -693,7 +693,7 @@
         },
         "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json/entities/6/settings/interact/event/2/action/5/text": {
                 "orig": "[ Vibrating machine ]",
-                "text": "[ Machine vibrante ]"
+                "text": "[ Agitation de la machine ]"
         },
         "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json/entities/5/settings/event/10/message": {
                 "orig": "Hi.\\. Lea.\\. Why?",

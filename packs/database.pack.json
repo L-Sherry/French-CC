@@ -3007,7 +3007,7 @@
         },
         "database.json/commonEvents/sao-duel-post-fight/event/3/thenStep/5/message": {
                 "orig": "Yes, that's what I said.\n",
-                "text": "Oui, c'est ce que j'ai dis."
+                "text": "Oui, c'est ce que j'ai dit."
         },
         "database.json/commonEvents/sao-duel-post-fight/event/4/thenStep/0/message": {
                 "orig": "Again...",
@@ -6276,7 +6276,7 @@
         },
         "database.json/commonEvents/all-dng-enter/event/1/thenStep/1/5_0/0/message": {
                 "orig": "Huh, strange...\\. I can't follow you.\\. Did you enter some secret location?",
-                "text": "Heu, étrange...\\. Je ne peux pas te suivre.\\. Tu es allé dans un lieu secrêt ?"
+                "text": "Heu, étrange...\\. Je ne peux pas te suivre.\\. Tu es allé dans un lieu secret ?"
         },
         "database.json/commonEvents/all-dng-enter/event/1/thenStep/1/6_0/0/message": {
                 "orig": "I can't follow you for some reason.\\. Some super secret evotar-business, huh?",
@@ -8048,7 +8048,7 @@
         },
         "database.json/commonEvents/apollo-contact/event/8/thenStep/2/message": {
                 "orig": "It has been a long time since our last duel.",
-                "text": "Beaucoup de temps s'est écoulé depuis notre dernier duel."
+                "text": "Tant de temps s'est écoulé depuis notre dernier duel."
         },
         "database.json/commonEvents/apollo-contact/event/8/thenStep/3/message": {
                 "orig": "And I made the most out of that time!",
@@ -9196,7 +9196,7 @@
         },
         "database.json/commonEvents/shizuka-contact/event/7/thenStep/1/message": {
                 "orig": "Hey Lea!\\. Busy running the dungeon...\\. like everyone else!",
-                "text": "Hé Lea !\\. Je suis occupeé à courir le donjon...\\. comme tout le monde !"
+                "text": "Hé Lea !\\. Je suis occupée à courir le donjon...\\. comme tout le monde !"
         },
         "database.json/commonEvents/shizuka-contact/event/7/thenStep/2/message": {
                 "orig": "I feel a bit rusty...\\. Has been some time since I've been solving puzzles like these.",
@@ -9707,7 +9707,7 @@
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/0/message": {
                 "orig": "Have you heard?\\. There's a bunch of non-Evotars meeting in the \\c[3]city hall\\c[0], acting like it's their village.",
-                "text": "T'es au courant ?\\. Il y a un tas de non-Évotar qui sont réunis à l'\\c[3]hôtel de ville\\c[0], qui font comme s'ils étaient chez eux."
+                "text": "T'es au courant ?\\. Il y a un tas de non-Évotars qui sont réunis à l'\\c[3]hôtel de ville\\c[0], qui font comme s'ils étaient chez eux."
         },
         "database.json/commonEvents/luke-join/event/5/thenStep/1/message": {
                 "orig": "No really, we're planning to run the new dungeon together.\\. You should join us!",
@@ -12652,7 +12652,7 @@
         },
         "database.json/enemies/jungle.special.plant-hidden-shock/descriptions/0/text": {
                 "orig": "A \\v[combat.name.jungle/plant] that somehow got infected and now radiates \\c[3]Shock-energy\\c[0]. Said energy empowers it's attack and also creates an almost impenetrable shield that can only be neutralized with an opposing element.\nIt seems like the infection spreads between its NANO-MACHINES, which also explains why they are polluting the water.",
-                "text": "Un \\v[combat.name.jungle/plant] qui semble avoir été infectée et qui radie maintenant de l'\\c[3]Énergie Choc\\c[0]. Cette énergie renforce ses attaques et crée un bouclier presque impénétrable qui ne peut être neutralisé que via un élément opposé.\nOn dirait que cette infection se propage entre ses NANO-MACHINES, ce qui explique aussi pourquoi elles polluent les eaux."
+                "text": "Un \\v[combat.name.jungle/plant] qui semble avoir été infecté et qui radie maintenant de l'\\c[3]Énergie Choc\\c[0]. Cette énergie renforce ses attaques et crée un bouclier presque impénétrable qui ne peut être neutralisé que via un élément opposé.\nOn dirait que cette infection se propage entre ses NANO-MACHINES, ce qui explique aussi pourquoi elles polluent les eaux."
         },
         "database.json/enemies/jungle.blob/name": {
                 "orig": "Gelleric",
@@ -14521,7 +14521,7 @@
         },
         "database.json/enemies/beach.sea-star/descriptions/0/text": {
                 "orig": "These Invertebrates evolved into huge proportions and inhabit the \\c[3]\\v[area.beach.name]\\c[0]. By sheer coincidence they can assume one of the 4 elements. The color of the star reveals with what element it will attack. ",
-                "text": "Ces invertébrés ont évolués dans des proportions gigantesques et occupent une grande partie de \\c[3]\\v[area.beach.name]\\c[0]. Par pure coïncidence, ils peuvent prendre un des 4 éléments. La couleur de l'étoile révèle avec quel élément il va attaquer."
+                "text": "Ces invertébrés ont évolués dans des proportions gigantesques et occupent une grande partie d'\\c[3]\\v[area.beach.name]\\c[0]. Par pure coïncidence, ils peuvent prendre un des 4 éléments. La couleur de l'étoile révèle avec quel élément il va attaquer."
         },
         "database.json/enemies/frobbit-miniboss-gallant/name": {
                 "orig": "Gallant Frobbit",
@@ -14886,7 +14886,7 @@
         },
         "database.json/enemies/autumn-fall.runbot-tremor/descriptions/0/text": {
                 "orig": "A variant of the \\v[combat.name.mine-runbot] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\nUnlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks.",
-                "text": "Une variante du \\v[combat.name.mine-runbot] qui semble être constamment en train de vibrer quand il est actif. C'est à cause du puissant \\v[item.638.name] qui lui a été implanté.\nContrairement à son cousin plus froid, cette machine unique attaque avec une plus large palette d'éléments et préfère les attaques puissantes d'\\c[3]Onde\\c[0]."
+                "text": "Une variante de l'\\v[combat.name.mine-runbot] qui semble être constamment en train de vibrer quand il est actif. C'est à cause du puissant \\v[item.638.name] qui lui a été implanté.\nContrairement à son cousin plus froid, cette machine unique attaque avec une plus large palette d'éléments et préfère les attaques puissantes d'\\c[3]Onde\\c[0]."
         },
         "database.json/enemies/mine-kamikatze/name": {
                 "orig": "Kamikatze",
@@ -15744,7 +15744,7 @@
         },
         "database.json/lore/chapter-03/content/page-03-01/content": {
                 "orig": "Lea and Emilie started their exploration of CrossWorlds by travelling through \\c[3]\\v[area.autumn-area.name]\\c[0] and interacting with the local wildlife. Shortly after they began exploring, they were reunited with the honorable player Apollo, who challenged Lea to a PvP duel, in honor of the \\c[3]Spheromancer\\c[0]-class. Before he left, Apollo told Lea to meet him at the entrance of \\c[3]\\v[area.bergen-trails.name]\\c[0].",
-                "text": "Lea et Emilie démarrèrent leur exploration de CrossWorlds en voyageant à travers \\c[3]\\v[area.autumn-area.name]\\c[0] et en interagissant avec la faune sauvage locale. Peu de temps après qu'ils eurent commencé à explorer, ils ont été rejoint par l'honorable joueur Apollo, qui mit Lea au défi pour un duel PvP, en l'honneur de la classe des \\c[3]Spheromanceurs\\c[0]. Avant de partir, Apollo demanda à Lea de le rencontrer à l'entrée du \\c[3]\\v[area.bergen-trails.name]\\c[0]."
+                "text": "Lea et Emilie démarrèrent leur exploration de CrossWorlds en voyageant à travers \\c[3]\\v[area.autumn-area.name]\\c[0] et en interagissant avec la faune sauvage locale. Peu de temps après qu'ils eurent commencé à explorer, ils ont été rejoints par l'honorable joueur Apollo, qui mit Lea au défi pour un duel PvP, en l'honneur de la classe des \\c[3]Spheromanceurs\\c[0]. Avant de partir, Apollo demanda à Lea de le rencontrer à l'entrée du \\c[3]\\v[area.bergen-trails.name]\\c[0]."
         },
         "database.json/lore/chapter-03/content/page-03-02/content": {
                 "orig": "As they arrived at \\v[area.bergen-trails.name], Apollo made his presence known with another dramatic entrance and demanded his duel. After an uncertain outcome, he shared more of his wisdom and left. Emilie and Lea then decided to end the session and say their goodbyes, helped by the well-timed addition of another word to the latter's vocabulary: \\c[3]\"Bye\"\\c[0]!",
@@ -21060,7 +21060,7 @@
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/description": {
                 "orig": "Ryda of the \\v[lore.title.faction-shock-baki] wants to upgrade the brewing device to unlock even more recipes! A worthy task for an experienced \\v[lore.title.seeker]!",
-                "text": "Ryda de l'\\v[lore.title.faction-shock-baki] veut améliorer la machine de brassage pour débloquer encore plus de recettes ! Une tâche digne pour un \\v[lore.title.seeker] éxpérimenté !"
+                "text": "Ryda de l'\\v[lore.title.faction-shock-baki] veut améliorer la machine de brassage pour débloquer encore plus de recettes ! Une tâche digne pour un \\v[lore.title.seeker] expérimenté !"
         },
         "database.json/quests/bakiTrader-3-brewing_ghosts_1/briefing": {
                 "orig": "After some exorcism, you have successfully upgraded the brewing device. \\c[3]It is now properly equipped for Fox Sake!\\c[0]",

@@ -2763,7 +2763,7 @@
         },
         "enemies/jungle/special/plant-hidden-shock.json/meta/descriptions/0/text": {
                 "orig": "A \\v[combat.name.jungle/plant] that somehow got infected and now radiates \\c[3]Shock-energy\\c[0]. Said energy empowers it's attack and also creates an almost impenetrable shield that can only be neutralized with an opposing element.\nIt seems like the infection spreads between its NANO-MACHINES, which also explains why they are polluting the water.",
-                "text": "Un \\v[combat.name.jungle/plant] qui semble avoir été infectée et qui radie maintenant de l'\\c[3]Énergie Choc\\c[0]. Cette énergie renforce ses attaques et crée un bouclier presque impénétrable qui ne peut être neutralisé que via un élément opposé.\nOn dirait que cette infection se propage entre ses NANO-MACHINES, ce qui explique aussi pourquoi elles polluent les eaux."
+                "text": "Un \\v[combat.name.jungle/plant] qui semble avoir été infecté et qui radie maintenant de l'\\c[3]Énergie Choc\\c[0]. Cette énergie renforce ses attaques et crée un bouclier presque impénétrable qui ne peut être neutralisé que via un élément opposé.\nOn dirait que cette infection se propage entre ses NANO-MACHINES, ce qui explique aussi pourquoi elles polluent les eaux."
         },
         "enemies/jungle/special/powerplant-quest-1.json/actions/CenterSuperJump/5/thenStep/0/text": {
                 "orig": "SUPER",
@@ -3143,11 +3143,11 @@
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureStart/3/thenStep/1/thenStep/0/text": {
                 "orig": "( CAPTURE START: \\v[entity.attrib.cageName] )",
-                "text": "( DÉBUT CAPTURE:  \\v[entity.attrib.cageName] )"
+                "text": "( DÉBUT CAPTURE :  \\v[entity.attrib.cageName] )"
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureTick/8/thenStep/0/text": {
                 "orig": "(CAPTURE: \\v[tmp.temp] )",
-                "text": "(CAPTURE: \\v[tmp.temp] )"
+                "text": "(CAPTURE : \\v[tmp.temp] )"
         },
         "enemies/jungle/special/shockat-capture.json/actions/CaptureFail/6/thenStep/0/text": {
                 "orig": "( FREE!!! \\v[entity.attrib.cageName] )",
@@ -3159,7 +3159,7 @@
         },
         "enemies/jungle/special/shockat-capture.json/actions/KillSurvive/0/text": {
                 "orig": "\\c[3][ !!!\\c[0] \\c[1]HAX SURVIVAL\\c[0] \\c[3]!!! ]\\c[0]",
-                "text": "\\c[3][ !!! \\c[0] \\c[1]SURVIE AU HAX\\c[0] \\c[3]!!! ]\\c[0]"
+                "text": "\\c[3][ !!!\\c[0] \\c[1]SURVIE AU HAX\\c[0] \\c[3]!!! ]\\c[0]"
         },
         "enemies/jungle/special/shockat-capture.json/meta/species": {
                 "orig": "Mammal",
