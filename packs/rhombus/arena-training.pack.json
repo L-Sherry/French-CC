@@ -69,11 +69,11 @@
         },
         "maps/rhombus-sqr/interior/arena-00-training.json/entities/32/settings/interact/hoverText": {
                 "orig": "Circuit Reset Terminal",
-                "text": "Terminal de Remise à Zéro des Circuits"
+                "text": "Automate de Remise à Zéro des Circuits"
         },
         "maps/rhombus-sqr/interior/arena-00-training.json/entities/32/settings/interact/event/12/text": {
-                "orig": "\\s[0]Circuit Reset Machine\n-------------------------\n\\c[3]\\v[item.428.name]\\c[0]: \\v[item.428.amount]",
-                "text": "\\s[0]Machine de Remise a Zéro des Circuits\n-------------------------\n\\c[3]\\v[item.428.name]\\c[0] : \\v[item.428.amount]"
+                "orig": "\\s[0]Circuit Reset Terminal\n-------------------------\n\\c[3]\\v[item.428.name]\\c[0]: \\v[item.428.amount]",
+                "text": "\\s[0]Automate de Remise a Zéro des Circuits\n-------------------------\n\\c[3]\\v[item.428.name]\\c[0] : \\v[item.428.amount]"
         },
         "maps/rhombus-sqr/interior/arena-00-training.json/entities/32/settings/interact/event/13/0/4/object": {
                 "orig": "Neutral Circuit",

@@ -209,7 +209,7 @@
                 "text": "OK, restons proches les un des autres et baissons d'un ton."
         },
         "maps/hideout/inner-office.json/entities/52/settings/event/110/message": {
-                "orig": "This room is monitored.",
+                "orig": "This room is being monitored.",
                 "text": "Cette salle est surveillée."
         },
         "maps/hideout/inner-office.json/entities/52/settings/event/111/message": {
@@ -250,8 +250,8 @@
                 "text": "Bien...\\. cela va rendre les choses plus faciles."
         },
         "maps/hideout/inner-office.json/entities/52/settings/event/120/message": {
-                "orig": "Lea, let me start by saying that you are, in fact, the \\c[3]first functional Evotar\\c[0].\n",
-                "text": "Lea, laisse-moi commencer par te dire que tu es, en fait, le \\c[3]premier Évotar fonctionnel\\c[0]."
+                "orig": "Lea, let me start by saying that you are, in fact, the \\c[3]very first functional Evotar\\c[0].\n",
+                "text": "Lea, laisse-moi commencer par te dire que tu es, en fait, le \\c[3]tout premier Évotar fonctionnel\\c[0]."
         },
         "maps/hideout/inner-office.json/entities/52/settings/event/121/message": {
                 "orig": "Minus a few remaining technical issues... like your \\c[3]malfunctioning speech module\\c[0].",
@@ -378,8 +378,8 @@
                 "text": "Oh ! Tu penses qu'on pourra y trouver de nouveaux trésors ?"
         },
         "maps/hideout/inner-office.json/entities/68/settings/npcStates/1/action/4/text": {
-                "orig": "Definitely, but we have to hurry! Everybody is no preparing to enter the place, soon!",
-                "text": "Surement, mais il faut se dépêcher ! Tout le monde doit être en train de se préparer pour rentrer !"
+                "orig": "Definitely, but we have to hurry! Everybody is now preparing to enter the place, soon!",
+                "text": "Sûrement, mais il faut se dépêcher ! Tout le monde doit être en train de se préparer pour rentrer !"
         },
         "maps/hideout/inner-office.json/entities/68/settings/npcStates/1/action/5/text": {
                 "orig": "Right, we should start preparations at once!",
@@ -723,8 +723,9 @@
                 "text": "Le Serveur des Évotars est très probablement dérivé d'une vieille version des serveurs officiels du jeu."
         },
         "maps/hideout/inner-office.json/entities/81/settings/event/32/message": {
-                "orig": "That means it should be vulnerable to a certain DoS attack we experienced in the past.",
-                "text": "Cela veut dire qu'il devrait être vulnérable à certaines attaques DoS que l'on a subies par le passé."
+                "orig": "That means it should be vulnerable to a certain DDoS attack we experienced in the past.",
+                "text": "Cela veut dire qu'il devrait être vulnérable à certaines attaques DDoS que l'on a subies par le passé.",
+                "note": "that changes the story, yunnow"
         },
         "maps/hideout/inner-office.json/entities/81/settings/event/33/message": {
                 "orig": "Oh... using the hit-stun-overflow issue?",
@@ -839,7 +840,7 @@
                 "text": "J'ai essayé."
         },
         "maps/hideout/inner-office.json/entities/81/settings/event/73/message": {
-                "orig": "He has been acting...\\. very strange.\\. Even more strange than usual.\\. And that's saying a lot.",
+                "orig": "He has been acting...\\. very strange.\\. Even more strangely than usual.\\. And that's saying a lot.",
                 "text": "Il se comporte de manière...\\. très étrange.\\. Encore plus étrange que d'habitude.\\. Et ça en dit beaucoup."
         },
         "maps/hideout/inner-office.json/entities/81/settings/event/74/message": {
@@ -900,7 +901,7 @@
                 "text": "On va essayer.\\. À bientôt !"
         },
         "maps/hideout/inner-office.json/entities/81/settings/event/97/message": {
-                "orig": "Good night.",
+                "orig": "Goodnight.",
                 "text": "Bonne nuit."
         },
         "maps/hideout/inner-office.json/entities/81/settings/event/99/message": {
