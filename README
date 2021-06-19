@@ -1,27 +1,42 @@
 = FR =
 
-Une régionalisation/traduction française entière de CrossCode v1.4.1-6 et de son DLC.
+Une régionalisation/traduction française entière de CrossCode v1.4.1-6 et de
+son DLC.
 
 Les retours et les tests sont les bienvenus. Des suggestions pour des
 meilleures traductions sont aussi les bienvenues, tout comme les remarques
 méchantes des ayatollahs de la grammaire.
 
-Pour installer ce mod:
-1) Installez CCLoader[1], un chargeur de mod pour CrossCode écrit en javascript
+Pour installer ce mod, vous avez deux possibilités :
 
-  1.1) Téléchargez le dépot en cliquant sur "Clone or download" puis
-       "Download Zip".
-  1.2) Dézippez le fichier
-  1.3) Copiez le contenu du dossier dans le dossier d'installation de CrossCode
-  (Si vous êtes attachés à votre CCInjector avec mod-validator, vous pouvez
-   continuer à l'utiliser)
-2) Installez ce mod dans un sous-répertoire de assets/mods
-   (le nom du répertoire n'a pas d'importance)
-3) Installez aussi Localize-me[1] (« Régionalisez-moi ») dans assets/mods
-4) Démarrez le jeu et choisissez la langue "French".
+1) Si vous n'avez pas déjà un chargeur de mod, alors allez dans la section
+   "Releases" et téléchargez le zip "French-vXX-quick-install-ccloader3.zip"
+   ou "French-vXX-quick-install-ccloader2.zip".
 
-[1] https://github.com/CCDirectLink/CCLoader
-[2] https://github.com/L-Sherry/Localize-me
+   Puis, dézippez le fichier dans le répertoire d'installation de CrossCode, et
+   acceptez de remplacer le fichier "package.json" (vous pouvez toujours faire
+   une copie de sauvegarde)
+
+   Les deux fichiers zips devraient fonctionner, mais ils n'utilisent pas le
+   même chargeur de mod.  Les deux incluent un chargeur de mod, le mod French
+   et Localize-Me (« Régionalisez-moi »).
+
+2) Si vous avez déjà un chargeur de mod, tel que CCLoader v2[1], ccloader3[2],
+   CCInjector, DevModLoader ou autre, alors il suffit juste de prendre
+   l'archive "source code" et de la décompresser dans un sous-répertoire de
+   assets/mods.  Le nom du sous-répertoire n'a pas d'importance.
+
+   Vous pouvez également télécharger le .ccmod de la section "Releases" si
+   votre chargeur de mod le supporte.
+
+   Notez que vous aurez également besoin d'installer le mod Localize-Me[3]
+   (« Régionalisez-moi ») de la même manière.
+
+   [1] https://github.com/CCDirectLink/CCLoader
+   [2] https://github.com/dmitmel/ccloader3
+   [3] https://github.com/L-Sherry/Localize-me
+
+Enfin, démarrez le jeu et choisissez la langue "French" dans les options.
 
 Si vous voulez contribuer, regardez la section "Contributing" plus bas.
 
@@ -32,18 +47,34 @@ A complete french locale/translation of CrossCode v1.4.1-6 and its DLC.
 Feedback and testing are welcome.  Suggestions for better translations
 are welcome, as are snarky remarks from grammar cops.
 
-Installing this mod:
-1. Install CCLoader[2]
-   (Or you can keep using CCInjector with mod-validator, if you like)
-2. Install this mod in a sub-directory in assets/mods
-   (the name of the directory is not important)
-3. Install Localize-me[1] in assets/mods too.
-4. Start the game and select the "French" language.
+To install this mod, there are two possibilities:
 
-[1] https://github.com/CCDirectLink/CCLoader
-[2] https://github.com/L-Sherry/Localize-me
+1) If you do not already have a modloader, then go to the "Releases" section
+   and download the "French-vXX-quick-install-ccloader3.zip"
+   or "French-vXX-quick-install-ccloader2.zip" zip.
 
+   Then, unzip the file in the CrossCode installation directory and accept
+   to overwrite the "package.json" file (you can always make a backup copy)
 
+   Both zip files should work, but they do not use the same modloader.  Both
+   include a modloader, the French mod and Localize-Me.
+
+2) If you already have a modloader, such as CCLoader v2[1], ccloader3[2],
+   CCInjector, DevModLoader or something else, then it is enough to take
+   the "source code" archive and to decompress it inside a subdirectory of
+   assets/mods.  The name of the subdirectory is not important.
+
+   It is also possible to download the .ccmod from the "Release" section if
+   your modloader supports it.
+
+   Note that you will have to install the Localize-Me[3] mod using the same
+   method.
+
+   [1] https://github.com/CCDirectLink/CCLoader
+   [2] https://github.com/dmitmel/ccloader3
+   [3] https://github.com/L-Sherry/Localize-me
+
+Then, start the game and select the "French" language in the options.
 
 
 Contributing:
