@@ -1,0 +1,47 @@
+name: make-ccmod-and-quick-installers
+
+on:
+  release:
+    type: [published]
+
+jobs:
+  sudo_make_me_an_archive:
+    name: Make a ccmod and easy installers and upload it to the release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Do what the parent description says
+        shell: sh
+        run: |
+          set -eu # ... How many KLOCs of javascript does it take to do a
+          # git fetch ? 31.3, apparently. And it still shells out to git.
+          git init
+          url="${GITHUB_SERVER_URL:-https://github.com}/${{github.repository}}"
+          noscheme="${url##*://}"
+          # do i need an access token to do clones of a public repo ?
+          : fetching repository
+          cat >> .git/config << EOF
+          [http "${url%%://*}://${noscheme%%/*}"]
+            extraheader="Authorization: Bearer ${{secrets.GITHUB_TOKEN}}"
+          EOF
+          git fetch --depth=1 --no-write-fetch-head --no-auto-gc \
+            "$url" '${{github.ref}}:${{github.ref}}'
+          : building ccmod and easy installers
+          # This is how we curl into sh. (note: sourcing a pipe is not standard)
+          git cat-file blob '${{github.ref}}:.github/workflows/release.sh' \
+            | sh -sue '${{github.repository}}' '${{github.ref}}'
+          : uploading assets
+          for filename in *.ccmod *loader3.zip *loader2.zip; do
+            ls -l -- "$filename" >&2
+            cat << EOF
+          url="${{github.event.release.upload_url}}?name=$filename"
+          request=POST
+          data-binary="@$filename"
+          header="Content-Type: application/zip"
+          header="Authorization: Bearer ${{secrets.GITHUB_TOKEN}}"
+          globoff
+          show-error
+          silent
+          fail
+          --next
+          EOF
+          done | curl --fail-early --config -
