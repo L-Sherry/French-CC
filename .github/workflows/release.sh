@@ -8,10 +8,10 @@ quickinstall3="$BASENAME-quick-install-ccloader3.zip"
 
 # $1: output $2: tree (if unset, read tree from stdin)
 make_reproducible_zip() {
-	git cat-file -p "${BASENAME##*-}" \
-		| sed -e "1s-[^ ]*\$-${2-$(cat <&5)}-" -e 2s-c.\*-tree- -e 5q \
-		| git hash-object -t tag -w --stdin \
-		| xargs git archive -9 --format=zip -o "$1"
+	git cat-file -p "${BASENAME##*-}^{commit}" \
+		| sed -e "1s-[^ ]*\$-${2-$(cat <&5)}-" -e 2d -e 5q \
+		| git hash-object -t commit -w --stdin \
+		| TZ=UTC xargs git archive -9 --format=zip -o "$1"
 }
 # $1:urlbase $2:urlfile $3:sha256 $4:dirbase $5:components $6:optional output
 fetch_extract_add_and_optionally_create_quick_installer_quickly() {
