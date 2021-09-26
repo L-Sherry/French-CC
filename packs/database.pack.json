@@ -13482,7 +13482,7 @@
         },
         "database.json/enemies/hedgehog-fly/descriptions/0/text": {
                 "orig": "A Flying-type variant of the \\c[3]\\v[combat.name.hedgehog]\\c[0].",
-                "text": "Une variante volante de \\c[3]\\v[combat.name.hedgehog]\\c[0]"
+                "text": "Une variante de type vol de \\c[3]\\v[combat.name.hedgehog]\\c[0]"
         },
         "database.json/enemies/meerkat/name": {
                 "orig": "Rockin' Hillkat",
@@ -17659,6 +17659,18 @@
         "database.json/lore/dlc-log-5/content/page-02/content": {
                 "orig": "--\nIf team is correct, we have some new tech allowing any matter to be controlled. Not sure how far the research is. Team is still puzzling over the specifics. We'll return home and bring the vessel along.\n--\nCaptain Manfred McFly \nInstatainment ACF Salvager 25-b ",
                 "text": "--\nSi mon équipe a raison, on a une nouvelle technologie qui permet de contrôler n'importe quelle matière. Pas encore sûr de l'avancement des recherches. L'équipe essaie encore de comprendre les détails. On va rentrer chez nous et apporter le vaisseau avec nous.\n--\nCapitaine Manfred McFly\nRécupérateur AFC Instatainment 25-b"
+        },
+        "database.json/names/0/name": {
+                "orig": "JunoD'wey",
+                "text": "JunoD'wey"
+        },
+        "database.json/names/1/name": {
+                "orig": "Bento-chan-lover96",
+                "text": "Bento-chan-lover96"
+        },
+        "database.json/names/2/name": {
+                "orig": "VentusAmogus",
+                "text": "VentusAmogus"
         },
         "database.json/names/3/name": {
                 "orig": "Yui2Qt",
@@ -21941,15 +21953,15 @@
         },
         "database.json/quests/console-playstation-1/name": {
                 "orig": "Foul Play",
-                "text": "Antijeu"
+                "text": "Mauvais jeu"
         },
         "database.json/quests/console-playstation-1/person": {
                 "orig": "Sonya Bolt",
-                "text": "Sonya Foudre"
+                "text": "Sonya Bolt"
         },
         "database.json/quests/console-playstation-1/description": {
                 "orig": "The mysterious \\c[3]Sonya Bolt\\c[0] is investigating a \\c[3]conspiracy involving bio-engineered creatures\\c[0] in \\v[area.jungle.name]. She trusts you to help her get behind this convoluted situation.",
-                "text": "La mystérieuse \\c[3]Sonya Foudre\\c[0] enquête sur une \\c[3]conspiration impliquant des créatures biotechnologiques\\c[0] dans le \\v[area.jungle.name]. Elle vous fait confiance pour l'aider à dévoiler ce scandale."
+                "text": "La mystérieuse \\c[3]Sonya Bolt\\c[0] enquête sur une \\c[3]conspiration impliquant des créatures biotechnologiques\\c[0] dans le \\v[area.jungle.name]. Elle vous fait confiance pour l'aider à dévoiler ce scandale."
         },
         "database.json/quests/console-playstation-1/briefing": {
                 "orig": "You investigated the case of the bio-engineered creatures in \\v[area.jungle.name] and also uncovered a secret facility of the \"Mech Machinery\"-company! Maybe this other new secret facility really exists as well?",
@@ -21977,7 +21989,7 @@
         },
         "database.json/quests/console-playstation-1/tasks/5/task": {
                 "orig": "Return to \\c[3]Sonya Bolt\\c[0] in \\c[3]Pond Slums\\c[0] of \\c[3]\\v[area.jungle-city.name]\\c[0]",
-                "text": "Retournez voir \\c[3]Sonya Foudre\\c[0] à la \\c[3]Zone Zermi\\c[0] du \\c[3]\\v[area.jungle-city.name]\\c[0]"
+                "text": "Retournez voir \\c[3]Sonya Bolt\\c[0] à la \\c[3]Zone Zermi\\c[0] du \\c[3]\\v[area.jungle-city.name]\\c[0]"
         },
         "database.json/quests/infestation-2/name": {
                 "orig": "The Root Cause",
@@ -23289,20 +23301,19 @@
         },
         "database.json/quests/console-switch-1/name": {
                 "orig": "A Switch in Altitude",
-                "text": "Un Switch en Altitude"
+                "text": "Un Switch d'Altitude"
         },
         "database.json/quests/console-switch-1/person": {
                 "orig": "Joe the Younger",
-                "text": "Joe le Jeune",
-                "note": "joe le jeunot ?"
+                "text": "Joe le Jeunot"
         },
         "database.json/quests/console-switch-1/description": {
                 "orig": "The Falldiver pioneer \\c[3]Joe the Younger\\c[0] talks about seeing a thus unknown species of \\c[3]Flying type \\v[combat.name.hedgehog]s\\c[0]. You should investigate and find proof of his discovery!",
-                "text": "Le pionnier des Nageurs d'Automne, \\c[3]Joe le Jeune\\c[0] dit qu'il a vu une nouvelle espèce inconnue de \\c[3]\\v[combat.name.hedgehog]s Volants\\c[0]. Vous devriez investiguer et trouver une preuve de sa découverte !"
+                "text": "Le pionnier des Nageurs d'Automne, \\c[3]Joe le Jeunot\\c[0] dit qu'il a vu une nouvelle espèce inconnue de \\c[3]\\v[combat.name.hedgehog]s de type Vol\\c[0]. Vous devriez investiguer et trouver une preuve de sa découverte !"
         },
         "database.json/quests/console-switch-1/briefing": {
                 "orig": "You found proof for the existence of \\c[3]Flying type \\v[combat.name.hedgehog]s\\c[0] and also uncovered a secret facility of the \"Avian Appliances\"-company! Maybe this other new secret facility really exists as well?",
-                "text": "Vous avez des preuves de l'existence de \\c[3]\\v[combat.name.hedgehog]s Volants\\c[0] et aussi découvert une installation secrète de la société \"Appareil Aviaires\" ! Peut-être que cette autre nouvelle installation secrète existe elle aussi ?"
+                "text": "Vous avez des preuves de l'existence de \\c[3]\\v[combat.name.hedgehog]s de type Vol\\c[0] et aussi découvert une installation secrète de la société \"Appareils Aviaires\" ! Peut-être que cette autre nouvelle installation secrète existe elle aussi ?"
         },
         "database.json/quests/console-switch-1/tasks/0/task": {
                 "orig": "Search for new species on \\c[3]Off Road 2\\c[0] in \\c[3]\\v[area.autumn-area.name]\\c[0]",
@@ -23326,7 +23337,7 @@
         },
         "database.json/quests/console-switch-1/tasks/5/task": {
                 "orig": "Return to \\c[3]Joe the Younger\\c[0] in the \\c[3]Rookie Harbor Inn\\c[0]",
-                "text": "Retournez voir \\c[3]Joe le Jeune\\c[0] à la \\c[3]Taverne de Rookie Harbor\\c[0]"
+                "text": "Retournez voir \\c[3]Joe le Jeunot\\c[0] à la \\c[3]Taverne de Rookie Harbor\\c[0]"
         },
         "database.json/shops/testshop/name": {
                 "orig": "The Testing Barbeque",

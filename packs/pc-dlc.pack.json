@@ -187,7 +187,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/1/text": {
                 "orig": "Test sequence status: \\c[2]ready\\c[0].\n\\c[1]Start test sequence\\c[0]?",
-                "text": "État de la séquence de test : \\c[2]prêt\\c[0].\n\\c[1]Démarrer la séquence de test ?\\c[0] ?"
+                "text": "État de la séquence de test : \\c[2]prêt\\c[0].\n\\c[1]Démarrer la séquence de test\\c[0] ?"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/62/settings/condAnims/0/interact/event/2/0/3/text": {
                 "orig": "Preparing to \\c[2]initiate test sequence\\c[0]!",
@@ -219,7 +219,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/2/0/3/text": {
                 "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
-                "text": "Ascenseur du Pont : \\c[1]activé\\c[0] !"
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-3.json/entities/95/settings/condAnims/0/interact/2/options/0/label": {
                 "orig": "[yes]",
@@ -367,7 +367,7 @@
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-boss.json/entities/38/settings/event/12/text": {
                 "orig": "\\c[1]--- Initiating Test Sequence ---\\.\nSubject:\\.\nHeavy Laser Unit",
-                "text": "\\c[1]--- Initialisation Séquence de Test ---\\.\nSujet :\\.\nUnité Laser Lourde\\c[0]"
+                "text": "\\c[1]--- Initialisation de la Séquence de Test ---\\.\nSujet :\\.\nUnité Laser Lourde\\c[0]"
         },
         "extension/scorpion-robo/data/maps/heat/lab/room-final.json/entities/122/settings/interact/hoverText": {
                 "orig": "Hologram",

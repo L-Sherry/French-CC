@@ -1755,6 +1755,293 @@
                 "orig": "You did it!",
                 "text": "Vous avez réussi !"
         },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/115/settings/condAnims/0/interact/hoverText": {
+                "orig": "One of the sick trees. Apply \\c[3]\\v[item.171.name]\\c[0] to cure it.",
+                "text": "Un des arbres malades. Appliquez le \\c[3]\\v[item.171.name]\\c[0] pour le guérir."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/115/settings/condAnims/0/interact/title": {
+                "orig": "Sick Tree",
+                "text": "Arbre Malade"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/115/settings/condAnims/0/interact/event/0/text": {
+                "orig": "Applying extract",
+                "text": "Application de l'extrait"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/115/settings/condAnims/0/interact/event/6/text": {
+                "orig": "Sickness cured!",
+                "text": "Maladie vaincue !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/494/settings/npcStates/0/event/2/message": {
+                "orig": "Hello. I am the canonical NPC.",
+                "text": "Bonjour. Je suis le PNJ bateau."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/494/settings/npcStates/0/event/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/494/settings/npcStates/0/event/4/message": {
+                "orig": "Nice weather today, right?",
+                "text": "Il fait beau aujourd'hui, non ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/494/settings/npcStates/0/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/494/settings/npcStates/0/event/6/message": {
+                "orig": "RIGHT?!",
+                "text": "N'EST-CE PAS ?!"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/494/settings/npcStates/0/event/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/566/settings/interact/hoverText": {
+                "orig": "\\i[arrow-w] To Bergen Trail\n\\i[arrow-ne] To Rookie Harbor\n\\i[arrow-s] Old Path",
+                "text": "\\i[arrow-w] Vers le \\v[area.bergen-trails.name]\n\\i[arrow-ne] Vers \\v[area.rookie-harbor.name]\n\\i[arrow-s] Vieux Chemin"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/displayName": {
+                "orig": "Jeff",
+                "text": "Jeff"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/2/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/3/message": {
+                "orig": "Sorry, I'm kinda in the middle of something here...",
+                "text": "Désolé, je suis un peu en plein milieu de quelque chose là..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/4/message": {
+                "orig": "Oh wait. You're that girl\\..\\..\\.. Lea, right?",
+                "text": "Oh, attends. Tu es cette fille-là\\..\\..\\.. Lea, c'est ça ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/5/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/6/message": {
+                "orig": "Jean already told me you'd come. ",
+                "text": "Jean m'a déjà dit que tu viendrais."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/7/message": {
+                "orig": "Sorry to get you involved. I can't understand why she's not using the Direct Link.",
+                "text": "Ça me désole un peu que tu joues le rôle d'intermédiaire. Je ne comprends pas pourquoi elle n'utilise pas simplement les Directs Links."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/8/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/9/message": {
+                "orig": "Yeah, anyway.",
+                "text": "Oui bon, peu importe."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/10/message": {
+                "orig": "This is about the bunny or whatever she saw right?",
+                "text": "C'est à propos de ce lapin ou de je ne sais pas quoi qu'elle a vu, c'est ça ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/11/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/12/message": {
+                "orig": "I do remember that you can summon some sort of \\c[3]Legendary Bunny\\c[0] by collecting 5 \\c[3]\\v[item.139.name]s\\c[0] somewhere in \\c[3]Bergen Trail\\c[0].",
+                "text": "Je me souviens que l'on peut invoquer le \\c[3]Lapin Légendaire\\c[0] en récoltant 5 \\c[3]Carottes Congelées\\c[0] quelque part sur le \\c[3]\\v[area.bergen-trails.name]\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/13/message": {
+                "orig": "But there was another requirement. I can't remember what it was. Maybe our Hexacast-friend Jock knows more about it.",
+                "text": "Mais il y a un autre prérequis. Je me souviens plus de ce que c'était. Peut-être que notre ami Hexacast Jock en sait plus."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/14/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/15/name": {
+                "orig": "Jeff",
+                "text": "Jeff"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/16/message": {
+                "orig": "Yep, that's all. Also, I'm \\c[3]Jeff\\c[0], nice to meet you.",
+                "text": "Oui, c'est tout. Sinon, je suis \\c[3]Jeff\\c[0]. Ravi de te connaitre."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/17/message": {
+                "orig": "Hi Lea, Hi!",
+                "text": "Salut ! Lea ! Salut !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/18/message": {
+                "orig": "Ah, there's the problem with the speech module Jean told me about.",
+                "text": "Ah oui, Jean m'a déjà parlé du problème avec ton module vocal."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/19/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/20/message": {
+                "orig": "Nah, don't sweat it. I'll just DL Jean everything I told you.",
+                "text": "C'est bon, ne stresse pas. Je vais juste D-Linker Jean avec tout ce que je t'ai dit."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/0/event/quest/21/message": {
+                "orig": "She should learn how to use the Direct Link System anyhow.",
+                "text": "Faudrait bien qu'elle apprenne à utiliser le Système de Direct Link de toute façon."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/1/event/0/name": {
+                "orig": "Jeff",
+                "text": "Jeff"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/1/event/2/message": {
+                "orig": "Hi Lea.",
+                "text": "Salut, Lea."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/1/event/3/message": {
+                "orig": "Hi!",
+                "text": "Salut !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/1/event/4/message": {
+                "orig": "I DL'd Jean everything, so you don't have to tell her. ",
+                "text": "J'ai déjà tout D-Linké à Jean, donc tu n'as pas besoin de lui raconter."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/603/settings/npcStates/1/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/605/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/606/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/607/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/608/settings/teleportLabel": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/613/settings/dialog/0/text": {
+                "orig": "I really want that treasure...",
+                "text": "Il me faut ce trésor..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/613/settings/dialog/1/text": {
+                "orig": "Will you give up already?",
+                "text": "Tu n'abandonnes jamais, n'est-ce pas ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/613/settings/dialog/2/text": {
+                "orig": "We're clearly missing some key item here. ",
+                "text": "Il nous manque clairement un genre d'objet clef là."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/613/settings/dialog/3/text": {
+                "orig": "They do that to promote backtracking to previous areas.",
+                "text": "Ils font ça pour forcer les gens à revenir dans les régions précédentes."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/613/settings/dialog/4/text": {
+                "orig": "I bet the content is totally worth it.",
+                "text": "Je parie que le contenu doit être bien."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/613/settings/dialog/5/text": {
+                "orig": "I hope so...",
+                "text": "Je l'espère aussi..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/614/settings/text": {
+                "orig": "An obelisk that is used as waymarker",
+                "text": "Un obélisque, qui sert de point de repère."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/620/settings/text": {
+                "orig": "\\c[1]Sick Tree\\c[0]",
+                "text": "\\c[1]Arbre Malade\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/621/settings/text": {
+                "orig": "Healed Tree",
+                "text": "Arbre Guéri"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/0/thenStep/4/message": {
+                "orig": "Bonjour, Lea!",
+                "text": "Bonjour, Lea !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/0/thenStep/5/message": {
+                "orig": "There you are! Thanks for dropping by.",
+                "text": "Ah vous voilà ! Merci d'être venu.",
+                "note": "lukas waiting for emilie & lea"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/8/thenStep/0/message": {
+                "orig": "Bonjour, Lukas!",
+                "text": "Bonjour, Lukas !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/8/thenStep/1/message": {
+                "orig": "There you are! Thanks for dropping by.",
+                "text": "Ah vous voilà ! Merci d'être venu.",
+                "note": "lukas waiting for emilie & lea"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/9/message": {
+                "orig": "Let's just go straight to the headquarters.",
+                "text": "Allons directement vers le quartier général."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/10/message": {
+                "orig": "It's to the \\c[3]northeast\\c[0]. Just follow me!",
+                "text": "Il est au \\c[3]nord-est\\c[0] d'ici. Suivez-moi !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/15/message": {
+                "orig": "So how big is your guild, anyway?",
+                "text": "D'ailleurs, elle est grande comment, votre guilde ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/16/message": {
+                "orig": "Not big. You're about to see it yourself.",
+                "text": "Pas grande. Tu le verras bientôt par toi-même."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/625/settings/event/17/task": {
+                "orig": "Follow \\c[3]Schneider\\c[0] to the \\c[3]First Scholars HQ\\c[0] near \\c[3]Autumn's Rise - Pathway 3\\c[0].",
+                "text": "Suivez \\c[3]Schneider\\c[0] vers le \\c[3]QG des Premiers Érudits\\c[0] près du \\c[3]Chemin 3 à \\v[area.autumn-area.name]\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/632/settings/displayName": {
+                "orig": "Jeff",
+                "text": "Jeff"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/633/settings/displayName": {
+                "orig": "Jeff",
+                "text": "Jeff"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/634/settings/dialog/0/text": {
+                "orig": "Those damn Bovines barely take any damage from my attacks!",
+                "text": "Ces satanés bovins ne prennent quasiment jamais de dégâts de mes attaques !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/634/settings/dialog/1/text": {
+                "orig": "I told you, throwing balls won't impress them much. You gotta get close and personal!",
+                "text": "Je te l'ai déjà dit, lancer des boules ne va pas les impressionner. Faut que tu cognes !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/634/settings/dialog/2/text": {
+                "orig": "Do I look like some kind of brawler to you?",
+                "text": "Est-ce que j'ai l'air d'être un bagarreur pour toi ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/634/settings/dialog/3/text": {
+                "orig": "I don't think the Bovines care. All they understand is literal ass-kicking!",
+                "text": "Les bovins doivent s'en foutre. Tout ce qu'ils comprennent, c'est littéralement des coups de pieds au cul !",
+                "note": "de: les bovins doivent s'en gratter."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/634/settings/dialog/4/text": {
+                "orig": "Then I guess I will need to get used to it.",
+                "text": "Alors il va falloir que je m'habitue."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/635/settings/event/0/message": {
+                "orig": "More Laser bridges!",
+                "text": "Encore des Ponts Lasers !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/645/settings/event/49/message": {
+                "orig": "Flying...\\. flying Hedgehag?",
+                "text": "Des \\v[combat.name.hedgehog]s...\\. \\v[combat.name.hedgehog]s volants ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/645/settings/event/51/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/645/settings/event/52/message": {
+                "orig": "What is this?",
+                "text": "C'est quoi ce truc ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/path4-fly.json/entities/645/settings/event/53/message": {
+                "orig": "How am I supposed to punch those?",
+                "text": "Comment je suis censé les cogner ?"
+        },
         "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json/entities/119/settings/event/8/message": {
                 "orig": "Lea...\\. here is boost!",
                 "text": "Lea...\\. voilà le boost !"

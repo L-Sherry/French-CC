@@ -1,7 +1,7 @@
 {
         "maps/bergen-trail/lab/room-boss.json/entities/4/settings/event/13/text": {
                 "orig": "\\c[1]--- Initiating Test Sequence ---\\.\nSubject:\\.\nHeavy Tank Unit",
-                "text": "\\c[1]--- Initialisation de la Séquence de Test ---\\.\nSujet d'Étude :\nUnité type Tank Lourd\\c[0]"
+                "text": "\\c[1]--- Initialisation de la Séquence de Test ---\\.\nSujet d'Étude :\\.\nUnité type Tank Lourd\\c[0]"
         },
         "maps/bergen-trail/lab/room-final.json/entities/46/settings/interact/hoverText": {
                 "orig": "Hologram",
@@ -66,7 +66,7 @@
         },
         "maps/bergen-trail/lab/room-final.json/entities/47/settings/event/6/message": {
                 "orig": "Such a beautiful machine of war and you still managed to trash it.\\. You \\v[lore.title.seeker]s are something else.",
-                "text": "Tu avais une belle machine de guerre en face, mais tu as quand même réussi à l'anéantir.\\. Vous les \\v[lore.title.seeker]s, vous êtes vraiment formidables."
+                "text": "Vous aviez une belle machine de guerre en face, mais vous avez quand même réussi à l'anéantir.\\. Vous les \\v[lore.title.seeker]s, vous êtes vraiment formidables."
         },
         "maps/bergen-trail/lab/room-final.json/entities/47/settings/event/7/message": {
                 "orig": "...",
@@ -78,7 +78,7 @@
         },
         "maps/bergen-trail/lab/room-final.json/entities/47/settings/event/9/message": {
                 "orig": "Bring it back to me in Bergen, so we can finish this mission!",
-                "text": "Ramène-le-moi à Bergen, pour que l'on puisse terminer cette mission !"
+                "text": "Ramenez-le-moi à Bergen, pour que l'on puisse terminer cette mission !"
         },
         "maps/bergen-trail/lab/room-final.json/entities/47/settings/event/10/message": {
                 "orig": "[nods]",

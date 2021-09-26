@@ -1123,5 +1123,126 @@
         "players/schneider2.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
                 "orig": "Wellenwirbler",
                 "text": "Wellenwirbler"
+        },
+        "players/shizuka.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/name": {
+                "orig": "Spin Dance",
+                "text": "Danse Tournante"
+        },
+        "players/shizuka.json/actions/NEUTRAL/ATTACK_SPECIAL1_A/description": {
+                "orig": "A wide-ranged spinning move hitting many nearby enemies.",
+                "text": "Un mouvement tournant avec une bonne allonge qui frappe les ennemis proches."
+        },
+        "players/shizuka.json/actions/NEUTRAL/THROW_SPECIAL1_A/name": {
+                "orig": "Bullet Rain",
+                "text": "Pluie de Balles"
+        },
+        "players/shizuka.json/actions/NEUTRAL/THROW_SPECIAL1_A/description": {
+                "orig": "Fire a mass of small shots in a narrow angle.",
+                "text": "Tire une rafale de petit projectiles dans un angle serré."
+        },
+        "players/shizuka.json/actions/NEUTRAL/DASH_SPECIAL1_B/name": {
+                "orig": "First Cut",
+                "text": "Première Entaille"
+        },
+        "players/shizuka.json/actions/NEUTRAL/DASH_SPECIAL1_B/description": {
+                "orig": "A very powerful attack that will hit exactly one enemy.",
+                "text": "Une attaque très puissante qui ne touchera qu'un ennemi."
+        },
+        "players/shizuka.json/actions/HEAT/ATTACK_SPECIAL1_A/name": {
+                "orig": "Fire Whirl",
+                "text": "Tourbillon de Feu"
+        },
+        "players/shizuka.json/actions/HEAT/ATTACK_SPECIAL1_A/description": {
+                "orig": "Performs a fierce whirl attack, engulfing your enemies in flames.",
+                "text": "Une attaque tourbillonnante incandescente, qui engouffre vos ennemis dans les flammes."
+        },
+        "players/shizuka.json/actions/HEAT/THROW_SPECIAL1_A/name": {
+                "orig": "Burn!",
+                "text": "Brûle !"
+        },
+        "players/shizuka.json/actions/HEAT/THROW_SPECIAL1_A/description": {
+                "orig": "A controllable blazing burst of fire that deals damage over a small area.",
+                "text": "Une bourrasque de flammes ardentes contrôlables qui cause des dégâts sur une petite zone."
+        },
+        "players/shizuka.json/actions/HEAT/DASH_SPECIAL1_A/name": {
+                "orig": "Crimson Strike",
+                "text": "Frappe Rouge"
+        },
+        "players/shizuka.json/actions/HEAT/DASH_SPECIAL1_A/description": {
+                "orig": "Dash through your enemies while leaving a trail of fire.",
+                "text": "Sprintez à travers vos ennemis en laissant des traces de flammes."
+        },
+        "players/shizuka.json/actions/COLD/ATTACK_SPECIAL1_A/name": {
+                "orig": "Ice Twirl",
+                "text": "Glace Tournoyante"
+        },
+        "players/shizuka.json/actions/COLD/ATTACK_SPECIAL1_A/description": {
+                "orig": "Performs a stationary ice whirl attack with wide range and strong knockback.",
+                "text": "Effectue une attaque stationnaire de glace tournoyante avec une grande allonge et une forte poussée."
+        },
+        "players/shizuka.json/actions/COLD/THROW_SPECIAL1_A/name": {
+                "orig": "Hail Flurry",
+                "text": "Rafale de Grêle"
+        },
+        "players/shizuka.json/actions/COLD/THROW_SPECIAL1_A/description": {
+                "orig": "Quickly shoots a mass of icy spikes.",
+                "text": "Lance une salve de piques gelées."
+        },
+        "players/shizuka.json/actions/COLD/DASH_SPECIAL1_A/name": {
+                "orig": "Crimson Strike",
+                "text": "Frappe Rouge"
+        },
+        "players/shizuka.json/actions/COLD/DASH_SPECIAL1_A/description": {
+                "orig": "Dash through your enemies while leaving a trail of fire.",
+                "text": "Sprintez à travers vos ennemis en laissant des traces de flammes."
+        },
+        "players/shizuka.json/actions/SHOCK/ATTACK_SPECIAL1/name": {
+                "orig": "Tesla Twist",
+                "text": "Pirouette Tesla"
+        },
+        "players/shizuka.json/actions/SHOCK/ATTACK_SPECIAL1/description": {
+                "orig": "Attack with a series of multiple fast spin attacks within a small radius.",
+                "text": "Attaquez avec une série de plusieurs attaques tournoyantes avec une petite allonge."
+        },
+        "players/shizuka.json/actions/SHOCK/THROW_SPECIAL1/name": {
+                "orig": "Homing Wisp",
+                "text": "Esprit Chercheur",
+                "note": "size constraint is severe, shortest Wisp trans is Flamerolle"
+        },
+        "players/shizuka.json/actions/SHOCK/THROW_SPECIAL1/description": {
+                "orig": "Shoot an array of small homing projectiles.",
+                "text": "Tire une salve de projectiles autoguidés."
+        },
+        "players/shizuka.json/actions/SHOCK/DASH_SPECIAL1_B/name": {
+                "orig": "Thunder Dart",
+                "text": "Dard du Tonnerre"
+        },
+        "players/shizuka.json/actions/SHOCK/DASH_SPECIAL1_B/description": {
+                "orig": "Dash through enemies leaving a shocking trail of lightning.",
+                "text": "Sprintez à travers les ennemis en laissant des boules d'éclairs."
+        },
+        "players/shizuka.json/actions/WAVE/ATTACK_SPECIAL1_A/name": {
+                "orig": "Ki Thrust",
+                "text": "Frappe de Ki"
+        },
+        "players/shizuka.json/actions/WAVE/ATTACK_SPECIAL1_A/description": {
+                "orig": "Frontal attack with high damage, sending all hit enemies flying.",
+                "text": "Attaque frontale puissante qui envoie les ennemis dans les airs."
+        },
+        "players/shizuka.json/actions/WAVE/THROW_SPECIAL1_A/name": {
+                "orig": "Fae Round",
+                "text": "Balle Féérique"
+        },
+        "players/shizuka.json/actions/WAVE/THROW_SPECIAL1_A/description": {
+                "orig": "Shoots a super fast projectile penetrating a line of enemies.",
+                "text": "Tire un projectile extrêmement rapide, pénétrant tous les ennemis dans la ligne de mire."
+        },
+        "players/shizuka.json/actions/WAVE/DASH_SPECIAL1_A/name": {
+                "orig": "Verdant Strike",
+                "text": "Frappe Verdure"
+        },
+        "players/shizuka.json/actions/WAVE/DASH_SPECIAL1_A/description": {
+                "orig": "Dash with high speed, damaging and stunning enemies along the way.",
+                "text": "Sprintez vite, en frappant et étourdissant tous les ennemis sur le passage."
         }
 }

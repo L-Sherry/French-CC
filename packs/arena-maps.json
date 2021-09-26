@@ -363,5 +363,117 @@
         "maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message": {
                 "orig": "What was that? Did they honestly design it that way?",
                 "text": "C'était quoi ça ? Ils l'ont vraiment conçu comme ça ?"
+        },
+        "maps/arena/platform-labs/fish-fight.json/entities/0/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/fish-fight.json/entities/0/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/fish-fight.json/entities/1/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "maps/arena/platform-labs/hedgehag-boss.json/entities/8/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/hedgehag-boss.json/entities/8/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/hedgehag-boss.json/entities/25/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "maps/arena/platform-labs/hedgehag-fight.json/entities/9/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/hedgehag-fight.json/entities/9/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/hedgehag-fight.json/entities/10/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "maps/arena/platform-labs/pincer-boss.json/entities/2/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/pincer-boss.json/entities/2/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/pincer-boss.json/entities/3/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/3/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/15/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/15/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/16/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/62/settings/condAnims/0/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/62/settings/condAnims/0/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/62/settings/condAnims/0/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/62/settings/condAnims/0/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/62/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/95/settings/condAnims/0/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/95/settings/condAnims/0/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/95/settings/condAnims/0/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/95/settings/condAnims/0/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/95/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/122/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "maps/arena/platform-labs/pincer-fight.json/entities/123/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
         }
 }

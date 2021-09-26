@@ -48,6 +48,7 @@
 	"maps/enemy-test-sao.json": "packs/test.pack.json",
 	"maps/auto-script-test.json": "packs/test.pack.json",
 	"extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json": "packs/test.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/path4-fly.json": "packs/test.pack.json",
 
 	"areas/cargo-ship.json": "packs/cargo/ship.pack.json",
 	"maps/cargo-ship/boss.json": "packs/cargo/ship.pack.json",
@@ -164,6 +165,7 @@
 	"players/schneider2.json": "packs/combat-arts.json",
 	"players/joern.json": "packs/combat-arts.json",
 	"players/luke.json": "packs/combat-arts.json",
+	"players/shizuka.json": "packs/combat-arts.json",
 
 	"characters/adventurers/male-pirate.json": "packs/characters.json",
 	"characters/adventurers-jungle/female-leader.json": "packs/characters.json",
@@ -1225,6 +1227,11 @@
 	"maps/arena/faction/maroon-turtlecave-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/mine-heatbot-1.json": "packs/arena-maps.json",
 	"maps/arena/faction/rh-turrets-1.json": "packs/arena-maps.json",
+	"maps/arena/platform-labs/fish-fight.json": "packs/arena-maps.json",
+	"maps/arena/platform-labs/hedgehag-boss.json": "packs/arena-maps.json",
+	"maps/arena/platform-labs/hedgehag-fight.json": "packs/arena-maps.json",
+	"maps/arena/platform-labs/pincer-boss.json": "packs/arena-maps.json",
+	"maps/arena/platform-labs/pincer-fight.json": "packs/arena-maps.json",
 
 	"areas/forest.json": "packs/forest.pack.json",
 	"maps/forest/path-01-entrance.json": "packs/sapphire/entrance.json",
@@ -1348,6 +1355,37 @@
 	"extension/scorpion-robo/data/maps/heat/lab/room-3.json": "packs/pc-dlc.pack.json",
 	"extension/scorpion-robo/data/maps/heat/lab/room-boss.json": "packs/pc-dlc.pack.json",
 	"extension/scorpion-robo/data/maps/heat/lab/room-final.json": "packs/pc-dlc.pack.json",
+
+	"extension/fish-gear/fish-gear.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-1.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-2.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-3.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-boss.json": "packs/ps4-dlc.pack.json",
+	"extension/fish-gear/data/maps/jungle/lab/room-final.json": "packs/ps4-dlc.pack.json",
+
+	"extension/flying-hedgehag/flying-hedgehag.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-1.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-2.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-3.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json": "packs/switch-dlc.pack.json",
+	"extension/flying-hedgehag/data/maps/autumn/lab/room-final.json": "packs/switch-dlc.pack.json",
+
+	"extension/snowman-tank/snowman-tank.json": "packs/xbox-dlc.pack.json",
+	"extension/snowman-tank/data/enemies/minibosses/snow-megatank.json": "packs/xbox-dlc.pack.json",
+	"extension/snowman-tank/data/maps/bergen-trail/lab/room1.json": "packs/xbox-dlc.pack.json",
+	"extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json": "packs/xbox-dlc.pack.json",
+	"extension/snowman-tank/data/maps/bergen-trail/lab/room2.json": "packs/xbox-dlc.pack.json",
+	"extension/snowman-tank/data/maps/bergen-trail/lab/room3.json": "packs/xbox-dlc.pack.json",
+	"extension/snowman-tank/data/maps/bergen-trail/lab/room5.json": "packs/xbox-dlc.pack.json",
+
 
 
 	"extension/post-game/post-game.json": "packs/dlc.pack.json",

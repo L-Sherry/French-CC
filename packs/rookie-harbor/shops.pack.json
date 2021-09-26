@@ -265,13 +265,11 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/analyzable/text": {
                 "orig": "Joe the Younger",
-                "text": "Joe le Jeune",
-                "note": "joe le jeunot ?"
+                "text": "Joe le Jeunot"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/0/name": {
                 "orig": "Joe the Younger",
-                "text": "Joe le Jeune",
-                "note": "joe le jeunot ?"
+                "text": "Joe le Jeunot"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/2/message": {
                 "orig": "Hi.",
@@ -279,7 +277,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/4/message": {
                 "orig": "Oh boy, a \\v[lore.title.seeker]!\\. So cool to finally meet one!",
-                "text": "Oh, un \\v[lore.title.seeker] !\\. C'est trop cool de finalement en rencontrer un !"
+                "text": "Oh, un \\v[lore.title.seeker] !\\. C'est trop cool d'enfin en rencontrer un !"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/5/message": {
                 "orig": "Hi?!",
@@ -319,7 +317,8 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/9/accepted/5/message": {
                 "orig": "The ones I saw must have evolved into a previously unseen \\c[3]Flying-type\\c[0]!",
-                "text": "Ceux que j'ai vu, \\c[3]pouvaient voler\\c[0] !"
+                "text": "Ceux que j'ai vu ont dû évoluer en une espèce inconnue de \\c[3]type Vol\\c[0] !",
+                "note": "pokemon reference, ofc"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/9/accepted/6/message": {
                 "orig": "...!",
@@ -331,11 +330,11 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/9/accepted/9/message": {
                 "orig": "Now this is where you come in!\\. You will need to check out \\c[3]Off Road 2\\c[0] in \\c[3]\\v[area.autumn-area.name]\\c[0].",
-                "text": "Mais c'est là que vous entrez en jeu !\\. Vous devez aller au \\c[3]Hors Sentier 2\\c[0] à \\c[3]\\v[area.autumn-area.name]\\c[0]."
+                "text": "Mais c'est là que tu entres en jeu !\\. Tu dois aller au \\c[3]Hors Sentier 2\\c[0] à \\c[3]\\v[area.autumn-area.name]\\c[0]."
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/9/accepted/10/message": {
                 "orig": "I saw them grazing there before they flew away, so I'm sure that they'll return!\\. Please go there quickly.",
-                "text": "Je les ai vu brouter là avant qu'ils ne s'envolent, donc je suis sûr qu'ils vont revenir !\\. Dépéchez-vous d'aller là-bas."
+                "text": "Je les ai vu brouter là avant qu'ils ne s'envolent, donc je suis sûr qu'ils vont revenir !\\. Dépéche-toi d'aller là-bas."
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/0/event/quest/9/accepted/11/message": {
                 "orig": "...",
@@ -363,8 +362,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/1/event/0/name": {
                 "orig": "Joe the Younger",
-                "text": "Joe le Jeune",
-                "note": "joe le jeunot ?"
+                "text": "Joe le Jeunot"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/1/event/2/message": {
                 "orig": "Hi.",
@@ -372,7 +370,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/1/event/4/message": {
                 "orig": "Hey \\v[lore.title.seeker].\\. Please hurry and check out \\c[3]Off Road 2\\c[0] in \\c[3]\\v[area.autumn-area.name]\\c[0].",
-                "text": "Hé, \\v[lore.title.seeker].\\. Vous devez vite aller au \\c[3]Hors Sentier 2\\c[0] à \\c[3]\\v[area.autumn-area.name]\\c[0] et regarder ce que vous pouvez trouver !"
+                "text": "Hé, \\v[lore.title.seeker].\\. Tu dois vite aller au \\c[3]Hors Sentier 2\\c[0] à \\c[3]\\v[area.autumn-area.name]\\c[0] et regarder ce que tu peux trouver !"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/1/event/5/message": {
                 "orig": "I will continue my searching on my own.\\. We will stay in touch over \\c[3]\\v[lore.title.direct-link]\\c[0]!",
@@ -380,8 +378,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/0/name": {
                 "orig": "Joe the Younger",
-                "text": "Joe le Jeune",
-                "note": "joe le jeunot ?"
+                "text": "Joe le Jeunot"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/2/message": {
                 "orig": "Hi.",
@@ -389,7 +386,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/4/message": {
                 "orig": "\\v[lore.title.seeker]!\\. There you are again!",
-                "text": "\\v[lore.title.seeker] !\\. Vous revoilà !"
+                "text": "\\v[lore.title.seeker] !\\. Te revoilà !"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/5/message": {
                 "orig": "[nods]",
@@ -397,7 +394,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/6/message": {
                 "orig": "I have already written a report based on your adventure with the \\c[3]Flying-types and their king.\\. \\c[0]",
-                "text": "J'ai déjà écrit un rapport d'après vos aventures avec les \\c[3]Harissons Volant et leur Roi\\c[0]."
+                "text": "J'ai déjà écrit un rapport d'après tes aventures avec les \\c[3]Harissons type Vol et leur Roi\\c[0]."
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/7/message": {
                 "orig": "...!",
@@ -405,8 +402,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/8/message": {
                 "orig": "All those people who didn't believe me will be in for a surprise, I tell ya!\\. It will rock their shorts off!",
-                "text": "Tous ceux qui ne me croyaient pas risquent d'avoir une surprise, c'est moi qui vous le dis !\\. Ça va les décoiffer !",
-                "note": "bad but i don't care"
+                "text": "Tous ceux qui ne me croyaient pas risquent d'avoir une surprise, c'est moi qui te le dis !\\. Ça va leur faire tomber le pantalon !"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/9/message": {
                 "orig": "...",
@@ -418,7 +414,7 @@
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/11/message": {
                 "orig": "Thank you so much for your help, \\v[lore.title.seeker]. I can't give you a badge but I hope this will do for a reward!",
-                "text": "Merci beaucoup pour votre aide, \\v[lore.title.seeker]. Je ne peux pas vous donner une médaille, mais je suis sûr que cette récompense vous suffira !"
+                "text": "Merci beaucoup pour ton aide, \\v[lore.title.seeker]. Je ne peux pas te donner une médaille, mais je suis sûr que cette récompense te suffira !"
         },
         "maps/rookie-harbor/inner-inn.json/entities/47/settings/npcStates/2/event/quest/12/message": {
                 "orig": "[nods]",
