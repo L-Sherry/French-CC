@@ -793,27 +793,27 @@
                 "orig": "(Cycle \\v[tmp.spawnCycle]: Spawn Buffel-Group!)",
                 "text": "(Cycle \\v[tmp.spawnCycle] : Création Groupe de Buffles !)"
         },
-        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/24/text": {
+        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/25/text": {
                 "orig": "SIMULATION OVER!",
                 "text": "SIMULATION TERMINÉE !"
         },
-        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/45/thenStep/0/thenStep/2/text": {
+        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/46/thenStep/0/thenStep/2/text": {
                 "orig": "\\c[3]Survived \\v[tmp.tdWave] waves!\\c[0]\n\nGain \\c[3]\\v[tmp.tdRewards] \\v[item.517.name]\\c[0]!",
                 "text": "\\c[3]Survécu à \\v[tmp.tdWave] vagues !\\c[0]\n\nObtenu \\c[3]\\v[tmp.tdRewards] \\v[item.517.name]\\c[0] !"
         },
-        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/45/thenStep/0/elseStep/0/text": {
+        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/46/thenStep/0/elseStep/0/text": {
                 "orig": "\\c[1]Failure on Wave \\v[tmp.tdWave]!\\c[0]",
                 "text": "\\c[1]Échec à la Vague \\v[tmp.tdWave] !\\c[0] "
         },
-        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/45/elseStep/0/value": {
+        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/46/elseStep/0/value": {
                 "orig": " ",
                 "text": " "
         },
-        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/45/elseStep/1/thenStep/2/value": {
+        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/46/elseStep/1/thenStep/2/value": {
                 "orig": "New record!",
                 "text": "Nouveau record !"
         },
-        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/45/elseStep/5/text": {
+        "maps/jungle/caves/questcave-td-2.json/entities/158/settings/event/46/elseStep/5/text": {
                 "orig": "Survived till \\c[3]Wave \\v[tmp.tdWave]\\c[0].\n\\c[3]Score: \\v[tmp.tdScore]\\c[0]\n\\c[2]\\v[tmp.recordString]\\c[0]\n\nGain \\c[3]\\v[tmp.tdRewards] \\v[item.517.name]\\c[0]!",
                 "text": "Survécu jusqu'à la \\c[3]Vague \\v[tmp.tdWave]\\c[0].\n\\c[3]Points : \\v[tmp.tdScore]\\c[0]\n\\c[2]\\v[tmp.recordString]\\c[0]\n\nObtenu \\c[3]\\v[tmp.tdRewards] \\v[item.517.name]\\c[0] !"
         },
