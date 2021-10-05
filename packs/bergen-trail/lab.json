@@ -40,7 +40,7 @@
                 "text": "Mais nous allons continuer notre travail dans un autre lieu.\\. Un lieu qui sera bien caché. "
         },
         "maps/bergen-trail/lab/room-final.json/entities/46/settings/interact/event/16/message": {
-                "orig": "It will house the greatest minds of our generation to work tirelessly for the good on mankind!",
+                "orig": "It will house the greatest minds of our generation to work tirelessly for the good of mankind!",
                 "text": "Il hébergera les éléments les plus brillants de notre génération pour travailler sans relâche pour le bien-être de l'humanité !"
         },
         "maps/bergen-trail/lab/room-final.json/entities/46/settings/interact/event/17/message": {
@@ -113,14 +113,18 @@
                 "text": "Chacune des 4 installations possède un indice menant chacun à \\c[3]un seul\\c[0] de ces endroits.\n\\c[3]Donc vous découvrirez un indice après avoir lu ce message.\\c[0]"
         },
         "maps/bergen-trail/lab/room-final.json/entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text": {
+                "orig": "Everyone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Tous ceux qui réussiront à entrer seront les bienvenus !\n\nSincères salutations.\n\"Les 4 Visionnaires\"\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "maps/bergen-trail/lab/room-final.json/entities/49/settings/condAnims/0/interact/event/6/elseStep/0/text": {
                 "orig": "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information.",
                 "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chacun d'eux\\c[0] n'est destiné qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information."
         },
-        "maps/bergen-trail/lab/room-final.json/entities/49/settings/condAnims/0/interact/event/7/text": {
+        "maps/bergen-trail/lab/room-final.json/entities/49/settings/condAnims/0/interact/event/6/elseStep/1/text": {
                 "orig": "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\nEveryone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
                 "text": "Mais \\c[3]avec du travail d'équipe et de la communication\\c[0], il est peut-être possible de trouver tous les lieux !\nQuiconque réussira à entrer sera le bienvenu !\n\nAvec sincérités\n\"Les 4 Visionnaires\""
         },
-        "maps/bergen-trail/lab/room-final.json/entities/49/settings/condAnims/0/interact/event/8/text": {
+        "maps/bergen-trail/lab/room-final.json/entities/49/settings/condAnims/0/interact/event/7/text": {
                 "orig": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\"Between a laser bridge and the hidden lair of Frobbits out of reach.\"\\c[0]!",
                 "text": "\\c[1]PIÈCE JOINTE :\\c[0]\n\nUn des lieux cachés se trouve sur le \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\"entre un pont laser et le repère caché de Grelapins qui sont hors de portée.\"\\c[0] !"
         }

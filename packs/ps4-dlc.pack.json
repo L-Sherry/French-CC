@@ -4,8 +4,8 @@
                 "text": "Extension Exclusive pour PS4"
         },
         "extension/fish-gear/fish-gear.json/description": {
-                "orig": "Includes a new late-game quest and pet that are exclusive to the Playstation 4!",
-                "text": "Inclus une quête de fin de jeu et un compagnon qui sont réservés à la Playstation 4 !",
+                "orig": "Includes a new late-game quest and pet that were once exclusive to the Playstation 4!",
+                "text": "Inclus une quête de fin de jeu et un compagnon autrefois réservés à la Playstation 4 !",
                 "note": "where are all the old good french meme about the plastaoishaune ?"
         },
         "extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json/actions/RepairStart/25/text": {
@@ -130,7 +130,7 @@
                 "note": "note interne ?"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/57/settings/condAnims/0/interact/event/2/text": {
-                "orig": "- Take breaks when you need them!\n- Drink water regulary!\n- Love yourself, always!\n\n\\c[1][END OF NOTE]\\c[0]",
+                "orig": "- Take breaks when you need them!\n- Drink water regularly!\n- Love yourself, always!\n\n\\c[1][END OF NOTE]\\c[0]",
                 "text": "- Faites des pauses dès que vous en avez besoin !\n- Buvez régulièrement de l'eau !\n- Aimez-vous vous-mêmes, toujours !\n\n\\c[1][FIN DE LA NOTE]\\c[0]"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/57/settings/condAnims/0/interact/event/3/message": {
@@ -338,7 +338,7 @@
                 "text": "Le pire est notre \\c[3]Chambre de Test\\c[0]. Cette salle est vraiment hantée avec tous ces objets bizarres qui semblent apparaitre de nulle part au cours de la nuit."
         },
         "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/event/5/text": {
-                "orig": "Someone should tell the Track that we are here to work, not to solve puzzles.\n\nSincerly,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "orig": "Someone should tell the Track that we are here to work, not to solve puzzles.\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
                 "text": "Quelqu'un devrait dire au Tracé que nous sommes là pour travailler, pas pour résoudre des puzzles.\n\nSincères salutations,\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/hoverText": {
@@ -350,11 +350,11 @@
                 "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Bureau 34a\n\\c[3]À :\\c[0] Installation, tout le monde\n\n\\c[3]Sujet :\\c[0] Console bloquée ??"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/event/2/text": {
-                "orig": "Good evening everyone,\n\nwho thought that it was a good idea to block the entrance control console with heavy boxes?? We need to use it regulary, come on guys!",
+                "orig": "Good evening everyone,\n\nwho thought that it was a good idea to block the entrance control console with heavy boxes?? We need to use it regularly, come on guys!",
                 "text": "Bonjour tout le monde,\n\nqui a eu la brillante idée de bloquer la console de contrôle de l'entrée avec des caisses lourdes ?? On a régulièrement besoin de s'en servir, sérieusement !"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/event/3/text": {
-                "orig": "Please let us gather tomorrow to at least clear a small path, so we can reach it again.\n\nSincerly,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "orig": "Please let us gather tomorrow to at least clear a small path, so we can reach it again.\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
                 "text": "Laissez nous au moins nous regrouper pour au moins libérer un petit passage, pour que nous puissions y accéder à nouveau.\n\nSincères salutations,\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-3.json/entities/15/settings/destinations/0/label": {
@@ -430,7 +430,7 @@
                 "text": "..."
         },
         "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/6/message": {
-                "orig": "Yes, \\v[lore.title.seeker], you heard him.\\. The government supported projects that messed with the Track.\\. Endangered lifes.",
+                "orig": "Yes, \\v[lore.title.seeker], you heard him.\\. The government supported projects that messed with the Track.\\. Endangered lives.",
                 "text": "Oui, \\v[lore.title.seeker], vous l'avez entendu.\\. Le gouvernement a soutenu des projets qui fourraient leur nez dans le Tracé.\\. Mettant des vies en danger."
         },
         "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/7/message": {
@@ -478,14 +478,18 @@
                 "text": "Chacune des 4 installations possède un indice menant chacun à \\c[3]un seul\\c[0] de ces endroits.\n\\c[3]Donc vous découvrirez un indice après avoir lu ce message.\\c[0]"
         },
         "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/6/thenStep/0/text": {
+                "orig": "Everyone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Tous ceux qui réussiront à entrer seront les bienvenus !\n\nSincères salutations.\n\"Les 4 Visionnaires\"\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/6/elseStep/0/text": {
                 "orig": "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information.",
                 "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chacun d'eux\\c[0] n'est destiné qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information."
         },
-        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/7/text": {
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/6/elseStep/1/text": {
                 "orig": "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\nEveryone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
                 "text": "Mais \\c[3]avec du travail d'équipe et de la communication\\c[0], il est peut-être possible de trouver tous les lieux !\nQuiconque réussira à entrer sera le bienvenu !\n\nAvec sincérités\n\"Les 4 Visionnaires\""
         },
-        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/8/text": {
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/7/text": {
                 "orig": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"At a crossing, on top of one of the four tree stumps\"\\c[0]!",
                 "text": "\\c[1]PIÈCE JOINTE :\\c[0]\n\nUn des lieux cachés se trouve dans le \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"À un croisement, en haut d'une des quatre souches d'arbres\"\\c[0] !"
         }
