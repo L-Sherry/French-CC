@@ -1,0 +1,557 @@
+{
+        "extension/flying-hedgehag/flying-hedgehag.json/name": {
+                "orig": "Switch Exclusive Extension",
+                "text": "Extension Exclusive pour Switch"
+        },
+        "extension/flying-hedgehag/flying-hedgehag.json/description": {
+                "orig": "Includes a new late-game quest and pet that are exclusive to the Nintendo Switch!",
+                "text": "Inclus une quête de fin de jeu et un compagnon qui sont réservés à la Nintendo Switch !"
+        },
+        "extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json/actions/WeakShield/9/text": {
+                "orig": "Emergency Shield",
+                "text": "Bouclier d'Urgence"
+        },
+        "extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json/meta/species": {
+                "orig": "Flying Mammal King",
+                "text": "Mammifère Volant Roi"
+        },
+        "extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json/meta/descriptions/0/text": {
+                "orig": "A big spikey boi.",
+                "text": "Un gros mec pointu."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-1.json/entities/40/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/41/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/41/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/41/settings/condAnims/0/interact/event/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/41/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/41/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 64b\n\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n\n\\c[3]Subject:\\c[0] Ground Design",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Employé Installation, Bureau 64b\n\\c[3]À :\\c[0] \"Appareils Aviaires\", Direction\n\n\\c[3]Sujet :\\c[0] Conception du Sol"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Greetings,\n\nWe recently started working in this new lab. Work is progressing well. The equipment is state-of-the-art and the energy we draw from the \\v[lore.title.track-of-ancients] easily powers all of our advanced experiments.",
+                "text": "Bonjour,\n\nNous commençons à travailler dans ce nouveau laboratoire depuis peu. Le travail avance bien. L'équipement est dernier-cri et l'énergie que l'on tire du \\v[lore.title.track-of-ancients] alimente facilement toutes nos expériences avancées."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/3/text": {
+                "orig": "However, I want to file a complaint about the \\c[3]floor design\\c[0].\nThose \\c[3]rills in the ground\\c[0] are not exactly beneficial to our workflow. It's almost as if they were designed to make people trip!",
+                "text": "Mais, j'ai envie de soumettre une plainte concernant la \\c[3]conception du sol\\c[0].\nCes \\c[3]rainures au sol\\c[0] ne sont guerres positives pour notre flux de travail. C'est comme si elles étaient conçues pour faire trébucher les gens !",
+                "note": "reference: https://static.wikia.nocookie.net/crosscode_gamepedia/images/c/c4/Lea-draw-lines.jpg"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/4/text": {
+                "orig": "Not to mention that our chairs constantly get stuck in them. With all due respect, this is a clear recipe for disaster.\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Sans parler du fait que nos chaises se coincent régulièrement dedans. Avec tout le respect que je vous dois, ce n'est qu'une question de temps avant que cela ne se termine en catastrophe.\n\nMes plus sincères salutations.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/5/text": {
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 64b\n\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n\n\\c[3]Subject:\\c[0] RE: RE: Ground Design",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Employé Installation, Bureau 64b\n\\c[3]À :\\c[0] \"Appareils Aviaires\", Direction\n\n\\c[3]Sujet :\\c[0] RE: RE: Conception du Sol"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/6/text": {
+                "orig": "Greetings,\n\nI warned you. You know I did. But nothing has been done! Now our new intern tripped over the rills and spilled coffee all over our equipment.\nMany hours of work, lost!",
+                "text": "Bonjour,\n\nJe vous avais prévenu. Vous le savez bien. Mais rien n'a été fait ! Et maintenant notre nouveau stagiaire a trébuché sur les rainures et a renversé son café partout sur nos appareils.\nPlusieurs heures de travail perdues !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/44/settings/condAnims/0/interact/event/7/text": {
+                "orig": "I can't even blame the lad. This floor is a safety hazard! Please finally take action!\n\nRegards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Je ne peux même pas le blâmer. Ce sol est un vrai danger ! S'il vous plait, faites enfin quelque chose !\n\nCordialement,\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/6/name": {
+                "orig": "Drey Santrés",
+                "text": "Drey Santrés"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/8/message": {
+                "orig": "Hello?\\. Is this thing on?\\.\\.\\. Ah...",
+                "text": "Bonjour ?\\. Est-ce que ce truc fonctionne ?\\.\\.\\. Ah..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/9/message": {
+                "orig": "To anyone here, watching this, I welcome you to this facility.\\. Thank you for your time, reading these humble logs.",
+                "text": "À tous ceux qui sont présents et qui nous regardent, je vous souhaite la bienvenue dans cette installation.\\. Merci pour nous accorder notre temps en lisant ces enregistrements."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/10/message": {
+                "orig": "My name is \\c[3]Drey Santrés\\c[0] and I am the leading engineer at \\c[3]Avian Appliances\\c[0].",
+                "text": "Mon nom est \\c[3]Drey Santrés\\c[0] et je suis l'ingénieur en chef chez \\c[3]Appareils Aviaires\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/11/message": {
+                "orig": "At Avian Appliances we always strive to deliver the best airborne experiences possible.",
+                "text": "Chez Appareils Aviaires, nous faisons tout notre possible pour offrir les meilleures expériences de vol."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/12/message": {
+                "orig": "No matter what device, be it for work, military or entertainment systems, we will make it fly!",
+                "text": "Peu importe l'appareil, que ce soit des systèmes de travail, des systèmes militaires ou de divertissement, nous pouvons le faire voler !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/13/message": {
+                "orig": "All possible with the generous energy provided by the \\v[lore.title.track-of-ancients], directly linked to this facility!",
+                "text": "Tout est possible grâce à la généreuse source d'énergie du \\v[lore.title.track-of-ancients], qui est directement relié à cette installation !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/14/message": {
+                "orig": "We are currently experimenting with native creatures to share the wonders of flight with them and their families.",
+                "text": "Nous expérimentons actuellement avec des créatures de la région pour partager avec eux et leurs familles la joie de voler."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/15/message": {
+                "orig": "First tests have been very promising.\\. This will be groundbreaking for Track-integrated technology!",
+                "text": "Les premiers tests étaient très prometteurs.\\. Ce sera une première pour les technologies intégrées au Tracé !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/48/settings/interact/event/16/message": {
+                "orig": "We will release more information on future tests.\\. Please continue following us while we reach for the sky!",
+                "text": "Nous publierons plus d'informations sur les tests futurs.\\. Continuez donc à nous suivre pendant que nous visons les cieux !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/50/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/50/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]PRIVATE NOTE\\c[0]\n\n\\c[3]Title:\\c[0] Important reminder",
+                "text": "\\c[1]NOTE PRIVÉE\\c[0]\n\n\\c[3]Titre :\\c[0] Rappel Important",
+                "note": "note interne ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/50/settings/condAnims/0/interact/event/2/text": {
+                "orig": "- Take breaks when you need them!\n- Drink water regulary!\n- Love yourself, always!\n\n\\c[1][END OF NOTE]\\c[0]",
+                "text": "- Faites des pauses dès que vous en avez besoin !\n- Buvez régulièrement de l'eau !\n- Aimez-vous vous-mêmes, toujours !\n\n\\c[1][FIN DE LA NOTE]\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json/entities/50/settings/condAnims/0/interact/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Main Elevator: \\c[1]disabled\\c[0].\n\\c[1]Spawn a test subject?\\c[0]",
+                "text": "Ascenseur Principal : \\c[1]désactivé\\c[0].\n\\c[1]Faire apparaitre un sujet de test ?\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/0/2/text": {
+                "orig": "\\c[1]Test subject will be spawned!\\c[0]",
+                "text": "\\c[1]Le sujet de test va apparaitre !\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/0/3/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/0/4/message": {
+                "orig": "...?!",
+                "text": "... ?!"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/0/15/message": {
+                "orig": "Whhhhyyy?!",
+                "text": "Pourquoiii ?!"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/1/1/text": {
+                "orig": "Do you want to \\c[1]enable the main elevator\\c[0]?",
+                "text": "Voulez-vous \\c[1]activer l'ascenseur principal\\c[0] ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/1/2/0/3/text": {
+                "orig": "Main Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur Principal : \\c[2]activé\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/1/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/1/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/24/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/6/name": {
+                "orig": "Drey Santrés",
+                "text": "Drey Santrés"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/8/message": {
+                "orig": "Greetings everyone!\\. The development of \\c[3]\"Project Paratroopa\"\\c[0] is moving along at a nice speed.",
+                "text": "Bonjour tout le monde !\\. Le développement du \\c[3]\"Projet Paratroopa\"\\c[0] avance à grands pas."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/9/message": {
+                "orig": "As the name suggests we had to first concentrate our efforts on military applications to secure our funds.",
+                "text": "Comme le nom le suggère, nous devions concentrer nos efforts sur des applications militaires pour assurer nos financements."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/10/message": {
+                "orig": "Though, rest assured that our plans still involve civil projects that will benefit all of society.",
+                "text": "Mais, soyez certain que nos plans impliquent encore des projets civils qui bénéficieront à la société entière."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/11/message": {
+                "orig": "As for now, we are pleased to work together with our colleagues from other sectors of the field of engineering and science.",
+                "text": "Et pour l'instant, nous sommes heureux de travailler ensemble avec nos collègues d'autres secteurs dans le domaine de l'ingénierie et de la science."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/12/message": {
+                "orig": "Their expertise in fields like advanced weaponry and high durability construction complements our own.",
+                "text": "Leurs expertises dans des domaines comme l'armement avancé et les constructions hautes durabilités sont complémentaires aux nôtres."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/13/message": {
+                "orig": "As for the project itself, interacting with the Track supplies us with near limitless energy and possibilities.",
+                "text": "Et pour le projet en lui-même, interagir avec le Tracé nous fourni une énergie et des possibilités quasi-infinies."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/14/message": {
+                "orig": "Funneling its unpredictable flow into the desired direction has truly become a very rewarding challenge!",
+                "text": "Diriger son flux imprévisible vers la direction voulue est maintenant devenu un défi vraiment payant !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/15/message": {
+                "orig": "But by far the most thrilling aspect has proven to be the interaction with the fascinating spiky creatures.",
+                "text": "Mais l'aspect de loin le plus réjouissant s'est révélé être les interactions avec les fascinantes créatures piquantes."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/16/message": {
+                "orig": "Our favorite is a very large specimen of \\v[combat.name.hedgehog] who, despite his limited mobility, holds great authority over his peers.",
+                "text": "Notre favori est un très large spécimen de \\v[combat.name.hedgehog] qui, malgré sa mobilité réduite, possède une grande autorité sur ses congénères."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/17/message": {
+                "orig": "Right now I am leading a separate team to apply a specialized version of our flying devices to his huge body.",
+                "text": "En ce moment même, je dirige une équipe séparée pour appliquer une version spéciale de nos appareils volants à son corps énorme."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/28/settings/interact/event/18/message": {
+                "orig": "Our work will become even more exciting as we move forward, so please continue to share our excitement!",
+                "text": "Notre travail va devenir encore plus exaltant pendant notre progression, donc continuez à partager notre excitation !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] \"Avian Appliances\", Management\n\\c[3]TO:\\c[0] Office 8b\n\n\\c[3]Subject:\\c[0] Evaluation",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE DE RÉCEPTION\\c[0]\n\n\\c[3]DE :\\c[0] \"Appareils Aviaires\", Direction\n\\c[3]À :\\c[0] Bureau 8b\n\n\\c[3]Sujet :\\c[0] Évaluation"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Dear employees,\n\nThe last report has shown some impressive results on your part. The entire company thanks you for your hard work.\nHowever, further negotiations with our client have increased the scope of the project.",
+                "text": "Cher employé,\n\nLe dernier rapport a montré des résultats impressionnants de votre part. La société entière vous remercie pour votre travail acharné.\nMais, des négociations ultérieures avec notre client ont agrandi la portée du projet."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/3/text": {
+                "orig": "To meet our goal we will need you to implement a \\c[3]whole host of additional features and functionalities\\c[0], on top of what has already been achieved.\nA full list has been attached.",
+                "text": "Pour remplir notre objectif, nous aurons besoin que vous implémentiez une \\c[3]série de nouvelles fonctions et fonctionnalités\\c[0], en plus de celles déjà présentes.\nLa liste entière est attachée."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/4/text": {
+                "orig": "We are confident that you will meet these requirements without any problems.\n\nSincerest Regards,\nthe Management\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Nous sommes confiants que vous allez remplir ces exigences sans aucun problème.\n\nMes plus sincères salutations.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/5/text": {
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 8b\n\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n\n\\c[3]Subject:\\c[0] RE: Evaluation",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Bureau 8b\n\\c[3]À :\\c[0] \"Appareils Aviaires\", Direction\n\n\\c[3]Sujet :\\c[0] RE: Évaluation"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/6/text": {
+                "orig": "Dear Management,\n\nWe will be doing our best to conclude this project to the satisfaction of you and our clients. However, development in this facility has become increasingly difficult because of \\c[3]the Track's unpredictable nature\\c[0].",
+                "text": "Chère direction,\n\nNous ferons de notre mieux pour terminer ce projet de manière satisfaisante pour vous et vos clients. Mais, le développement dans cette installation est devenu de plus en plus difficile à cause du \\c[3]comportement imprévisible du Tracé\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/7/text": {
+                "orig": "Implementing those additional features will require \\c[3]more time and energy\\c[0]. The Track is already \\c[3]infiltrating our system\\c[0] and constantly \\c[3]respawning weird objects\\c[0], so using even more of its power will be a huge risk.",
+                "text": "Implémenter ces fonctionnalités supplémentaires va demander \\c[3]plus de temps et d'énergie\\c[0]. Le Tracé est déjà en train d'\\c[3]infiltrer nos systèmes\\c[0] et fait constamment \\c[3]réapparaitre des objets bizarres\\c[0], donc utiliser encore davantage de son énergie représente un risque énorme."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/30/settings/condAnims/0/interact/event/8/text": {
+                "orig": "In conclusion, I don't feel confident in our current safety standards if we are to continue as you demand!\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "En conclusion, je ne peux pas affirmer que notre niveau de sécurité soit suffisant si on doit continuer comme vous nous le demandez !\n\nMes plus sincères salutations.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/31/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/31/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Management\n\\c[3]TO:\\c[0] [NAME REDACTED]\n\n\\c[3]Subject:\\c[0] Work Transgression",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE DE RÉCEPTION\\c[0]\n\n\\c[3]DE :\\c[0] Direction Installation\n\\c[3]À :\\c[0] [NOM CENSURÉ]\n\n\\c[3]Sujet :\\c[0] Violation de Contrat de Travail"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/31/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Dear Mr [NAME REDACTED],\n\nit has been brought to our attention that you are spending a sizable amount of \\c[3]company time\\c[0] with one of those new \\c[3]cute-character-collection games on your communicator\\c[0].\nWe consider this a breach of trust and will not accept this waste of worktime.",
+                "text": "Cher monsieur [NOM CENSURÉ],\n\nil a été mis à mon attention que vous passez un temps considérable de votre \\c[3]temps de travail\\c[0] avec un de ces nouveaux \\c[3]jeux où on collectionne de mignons personnages sur votre communicateur\\c[0].\nNous considérons que vous trahissez notre confiance et nous n'acceptons pas ce gâchis de temps."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/31/settings/condAnims/0/interact/event/3/text": {
+                "orig": "Furthermore we want to mention that, according to our calculations, the \\c[3]likelihood\\c[0] of pulling your preferred fictional character is \\c[3]very low\\c[0], unless an irresponsible amount of your income is spent.\nFor your own well-being we advise you to reevaluate your priorities in this manner.",
+                "text": "De plus nous voulons mentionner que, d'après nos calculs, les \\c[3]chances\\c[0] d'obtenir votre personnage fictif préféré est \\c[3]très faible\\c[0], sauf si vous y dépensez une partie déraisonnable de votre salaire.\nPour votre propre bien, nous vous conseillons de réévaluer vos priorités sur ce point.",
+                "note": "is this for gfluegel ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json/entities/31/settings/condAnims/0/interact/event/4/text": {
+                "orig": "Consider this your first and final warning. \\c[3]Further transgressions will not be tolerated.\\c[0]\n\nSincerest Regards,\nthe Management\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Considérez ceci comme étant votre premier et dernier avertissement. \\c[3]Des violations ultérieures ne seront plus tolérées.\\c[0]\n\nMes plus sincères salutations,\nLa direction\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/0/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/1/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/1/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/2/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/6/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/6/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json/entities/7/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/9/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/9/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/10/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Test sequence status: \\c[2]ready\\c[0].\n\\c[1]Start test sequence\\c[0]?",
+                "text": "État de la séquence de test : \\c[2]prêt\\c[0].\n\\c[1]Démarrer la séquence de test\\c[0] ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/2/0/3/text": {
+                "orig": "Preparing to \\c[2]initiate test sequence\\c[0]!",
+                "text": "Préparation à \\c[2]l'initialisation de la séquence de test\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/2/0/4/text": {
+                "orig": "Please \\c[3]enter lower area\\c[0] to begin.",
+                "text": "Veuillez \\c[3]entrer dans la zone en bas\\c[0] pour commencer."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/2/1/1/text": {
+                "orig": "Completion of test sequence is \\c[3]required\\c[0] in order to access western testing area.",
+                "text": "L'achèvement de la séquence de test est \\c[3]obligatoire\\c[0] pour accéder à la partie ouest de la zone de test."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/2/1/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/event/1/text": {
+                "orig": "Test sequence status: \\c[2]completed\\c[0].\nPerformance score: \\c[2]43.5%\\c[0].",
+                "text": "État de la séquence de test : \\c[2]terminée\\c[0].\nScore de performance : \\c[2]43,5 %\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/event/4/text": {
+                "orig": "Granting access to \\c[3]western testing area\\c[0].",
+                "text": "Accès à la \\c[3]zone de test ouest\\c[0] accordé."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json/entities/22/settings/condAnims/1/interact/event/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-3.json/entities/55/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json/entities/8/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json/entities/8/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json/entities/16/settings/event/10/text": {
+                "orig": "\\c[1]--- Initiating Test Sequence ---\\.\nSubject:\\.\nHeavy Seat Unit",
+                "text": "\\c[1]--- Initialisation de la Séquence de Test ---\\.\nSujet d'Étude :\\.\nUnité de Siège Lourde\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json/entities/25/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/7/name": {
+                "orig": "Drey Santrés",
+                "text": "Drey Santrés"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/9/message": {
+                "orig": "Greetings everyone!\\. I hope you have enjoyed our progress so far just as much as we did!",
+                "text": "Bonjour tout le monde !\\. J'espère que vous avez apprécié nos progrès jusqu'à présent autant que nous !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/10/message": {
+                "orig": "Sadly, we have to announce that we will no longer be able to continue our work here.",
+                "text": "Malheureusement, nous devons annoncer que nous ne serons plus capables de continuer notre travail ici."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/11/message": {
+                "orig": "An incident in one of our associated facilities has convinced the \\v[lore.title.human-government] to cut the funding to the entire project.",
+                "text": "Un incident dans une de nos installations partenaire à convaincu les \\v[lore.title.human-government] de couper les financements sur l'intégralité du projet."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/12/message": {
+                "orig": "Though it fills me with great shame, I have to admit that we all have underestimated how powerful and volatile the \\v[lore.title.track-of-ancients] is.",
+                "text": "Bien que ça me remplisse de honte, je dois admettre que nous avons tous sous-estimé à quel point le \\v[lore.title.track-of-ancients] était puissant et lunatique."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/13/message": {
+                "orig": "While providing energy, it infiltrated even our equipment and the facility itself, at a rate faster than we were able to revert.",
+                "text": "Pendant qu'il fournissait de l'énergie, il infiltrait jusqu'à notre équipement et l'installation elle-même, avec une rapidité supérieure à ce que nous pouvions contrecarrer."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/14/message": {
+                "orig": "So we have decided to abandon this facility before another accident occurs.",
+                "text": "Donc nous avons décidé d'abandonner cette installation avant qu'un autre accident n'arrive."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/15/message": {
+                "orig": "We will miss the \\v[combat.name.hedgehog]s but we have to seal them inside.\\. The project must remain secret from the public.",
+                "text": "Les \\v[combat.name.hedgehog]s nous manquerons, mais nous devons les enfermer à l'intérieur. Le projet ne doit en aucun cas devenir public."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/16/message": {
+                "orig": "However you can trust us to continue pursuing this dream we are having.\\. The project will live on.",
+                "text": "Mais vous pouvez nous faire confiance pour continuer de poursuivre notre rêve.\\. Le projet continuera de vivre."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/17/message": {
+                "orig": "We have established a separate joint facility with our colleagues.",
+                "text": "Nous avons établi une installation commune séparée avec nos collègues."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/18/message": {
+                "orig": "It is very well hidden but we would still like to welcome passionate fans that manage to find it.",
+                "text": "Elle est très bien cachée, mais nous souhaiterions encore accueillir les fans passionnés qui réussiraient à le trouver."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/29/settings/interact/event/19/message": {
+                "orig": "For now I want to apologize again for the lack of results from this project and still hope for your continued support.\\. Goodbye.",
+                "text": "Pour l'instant je vous prie de m'excuser encore pour le manque de résultat de la part de ce projet et j'espère encore compter sur votre soutien.\\. Au revoir."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] \"The 4 Visionaries\"\n\\c[3]TO:\\c[0] All Facilities\n\n\\c[3]Subject:\\c[0] The Future",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE DE RÉCEPTION\\c[0]\n\n\\c[3]DE :\\c[0] \"Les 4 Visionnaires\"\n\\c[3]À :\\c[0] Toutes les installations\n\n\\c[3]Sujet :\\c[0] Le Futur"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Good evening everyone, \n\nSince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
+                "text": "Bonsoir tout le monde,\n\nDepuis que nos \\c[3]financements ont été coupés\\c[0] et que \\c[3]les installations ont été prises d'assaut par le Tracé\\c[0], nous nous sommes installés dans un \\c[3]nouveau lieu\\c[0] où nous pourrons continuer nos recherches."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/3/text": {
+                "orig": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
+                "text": "L'entrée se trouve \\c[3]quelque part sur la \\v[area.forest.name]\\c[0].\nVous trouverez la \\c[3]clef\\c[0] pour y entrer en \\c[3]pièce jointe\\c[0].\nEn revanche, la \\c[3]clef, telle qu'elle, ne fonctionnera pas\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/4/text": {
+                "orig": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0].",
+                "text": "Vous devrez d'abord la \\c[3]déchiffrer\\c[0] dans \\c[3]4 endroits différents\\c[0], chacun dans une \\c[3]région différente\\c[0]."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/5/text": {
+                "orig": "Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]",
+                "text": "Chacune des 4 installations possède un indice menant chacun à \\c[3]un seul\\c[0] de ces endroits.\n\\c[3]Donc vous découvrirez un indice après avoir lu ce message.\\c[0]"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/6/thenStep/0/text": {
+                "orig": "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information.",
+                "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chacun d'eux\\c[0] n'est destiné qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/7/text": {
+                "orig": "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\nEveryone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Mais \\c[3]avec du travail d'équipe et de la communication\\c[0], il est peut-être possible de trouver tous les lieux !\nQuiconque réussira à entrer sera le bienvenu !\n\nAvec sincérités\n\"Les 4 Visionnaires\""
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/32/settings/condAnims/0/interact/event/8/text": {
+                "orig": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.autumn-fall.name]\\c[0], \\c[3]\"North of a big ruin, surrounded by water\"\\c[0]!",
+                "text": "\\c[1]PIÈCE JOINTE :\\c[0]\n\nUn des lieux cachés se trouve à \\c[3]\\v[area.autumn-fall.name]\\c[0], \\c[3]\"Au nord d'une grande ruine, entourée d'eau\"\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/2/name": {
+                "orig": "Joe the Younger",
+                "text": "Joe le Jeunot"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/4/message": {
+                "orig": "Woooow, \\v[lore.title.seeker], all of that was so cool!",
+                "text": "Waouh, \\v[lore.title.seeker], c'était trop dément !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/5/message": {
+                "orig": "Not just a \\c[3]Flying-type\\c[0] but, like, a \\c[3]Mega Flying-type\\c[0]!",
+                "text": "C'était pas juste un \\c[3]Type vol\\c[0], mais, genre un \\c[3]Type Méga Vol\\c[0] !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/6/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/7/message": {
+                "orig": "Such a shame that you weren't able to catch any!",
+                "text": "C'est vraiment dommage que tu n'en aies attrapé aucun !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/8/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/9/message": {
+                "orig": "Well, that might just be my calling then!\\. Come back to \\v[area.rookie-harbor.name] so I can reward you!",
+                "text": "Bon, mais je pense que ce sera ma vocation alors !\\. Reviens à \\v[area.rookie-harbor.name] pour que je te récompense !"
+        },
+        "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json/entities/33/settings/event/10/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        }
+}

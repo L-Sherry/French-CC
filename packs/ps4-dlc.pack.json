@@ -1,0 +1,492 @@
+{
+        "extension/fish-gear/fish-gear.json/name": {
+                "orig": "PS4 Exclusive Extension",
+                "text": "Extension Exclusive pour PS4"
+        },
+        "extension/fish-gear/fish-gear.json/description": {
+                "orig": "Includes a new late-game quest and pet that are exclusive to the Playstation 4!",
+                "text": "Inclus une quête de fin de jeu et un compagnon qui sont réservés à la Playstation 4 !",
+                "note": "where are all the old good french meme about the plastaoishaune ?"
+        },
+        "extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json/actions/RepairStart/25/text": {
+                "orig": "Repairing",
+                "text": "Réparation"
+        },
+        "extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json/meta/species": {
+                "orig": "Fish & Chips",
+                "text": "Poisson Frites"
+        },
+        "extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json/meta/descriptions/0/text": {
+                "orig": "It can't be!",
+                "text": "Impossible !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-1.json/entities/26/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 34a\n\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n\n\\c[3]Subject:\\c[0] Regarding the deliveries",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Bureau 34a\n\\c[3]À :\\c[0] \"Machines Mécha\", Direction\n\n\\c[3]Sujet :\\c[0] À propos des livraisons"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Respected management,\n\nwe are grateful for all the support and material you send to us, but we are at this point very well equipped already. All those cargo boxes are starting to pile up, even in our lobby!",
+                "text": "Chère direction,\n\nnous sommes reconnaissants pour tout le soutien et le matériel que vous nous avez envoyé, mais maintenant, nous sommes déjà très bien équipés. Toutes ces caisses commencent à s'empiler, y compris dans l'entrée !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/3/text": {
+                "orig": "The same goes for boxes full of fishfood. At this point we fear that it might go bad.\nIn the worst case our subjects might even get agitated by the smell and get more aggressive than they already are.",
+                "text": "C'est pareil pour les caisses pleines de nourriture pour poisson. À tel point que nous craignons qu'elle ne pourrisse.\nDans le pire des cas, nos sujets pourraient se montrer agités par l'odeur et devenir encore plus agressifs qu'ils ne le sont déjà."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/4/text": {
+                "orig": "So please stop sending us more of your support until explicitly asked.\nThank you.\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Donc nous vous prions d'arrêter les livraisons jusqu'à nouvel ordre.\nMerci.\n\nSincères salutations.\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/5/text": {
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 34a\n\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n\n\\c[3]Subject:\\c[0] Regarding the deliveries, Follow-up",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Bureau 34a\n\\c[3]À :\\c[0] \"Machines Mécha\", Direction\n\n\\c[3]Sujet :\\c[0] À propos des livraisons, Suite"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/6/text": {
+                "orig": "Respected management,\n\non second thought, you could send more swimsuits, insect spray and hygiene articles.\nWorking desk-jobs with that unreliable air conditioning is becoming a bit of a pain.",
+                "text": "Chère direction,\n\nTous comptes fait, vous pourriez nous envoyer plus de maillot de bain, de spray anti-insectes et d'articles d'hygiènes.\nTravailler au bureau avec cette climatisation peu fiable commence à devenir pénible."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/7/text": {
+                "orig": "Me and a colleague are also planning a little \\c[3]surprise pool party\\c[0] to improve that team spirit! Maybe you can help us out there?\nWe will also send you some nice photos for recruitment flyers, I promise!!",
+                "text": "Moi et mon collègue préparons également une petite \\c[3]fête surprise\\c[0] pour améliorer l'esprit d'équipe ! Peut-être pourriez-vous nous aider ?\nNous vous enverrons également des belles photos pour les flyers de recrutement, promis !!"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/45/settings/condAnims/0/interact/event/8/text": {
+                "orig": "Thank you in advance!\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Merci d'avance !\n\nSincères salutations,\n[NOM CENSURÉ]\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/49/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/49/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/49/settings/condAnims/0/interact/event/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/49/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/49/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/6/name": {
+                "orig": "Dave Halman",
+                "text": "Dave Halman"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/8/message": {
+                "orig": "Greetings, traveller.\\. Please take your time to listen to the story of this facility.",
+                "text": "Soyez le bienvenu, voyageur.\\. Veuillez prendre votre temps pour écouter l'histoire de cette installation."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/9/message": {
+                "orig": "My name is \\c[3]Dave Halman\\c[0], leading developer for \\c[3]Mech Machinery\\c[0].\\. I will be your narrator.",
+                "text": "Mon nom est \\c[3]Dave Halman\\c[0], développeur en chef pour \\c[3]Machines Mécha\\c[0].\\. Je serais votre narrateur."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/10/message": {
+                "orig": "This all began many years ago with a vision.\\. Finding an endless source of clean energy.\\. Forming a closer connection to the Track.",
+                "text": "Tout ceci démarra il y a plusieurs années avec une vision.\\. Trouver une source infinie d'énergie propre.\\. Tisser un lien plus proche avec le Tracé."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/11/message": {
+                "orig": "And using modern technology to create lifelike limbs from metal... This has always been a passion of ours.",
+                "text": "Et aussi utiliser des technologies modernes pour créer des jambes en métal grandeur nature... Cela a toujours été une passion pour nous."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/12/message": {
+                "orig": "With the funding we received and the support of other companies of various fields we could finally follow our ambition.",
+                "text": "Avec les fonds que nous avons reçus et le soutien d'autres sociétés aux domaines d'activités variés, nous pouvions enfin poursuivre notre ambition."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/13/message": {
+                "orig": "Creatures of the track... Combined with powerful metallic limbs!\\. This is truly the wonder we wanted to create.",
+                "text": "Des créatures du Tracé... combinée à de puissantes jambes métalliques !\\. Cela était véritablement la merveille que nous voulions créer."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/14/message": {
+                "orig": "Power such as this should be unthinkable by normal means, but by directly using the energy of the Track in our facility it became possible.",
+                "text": "Une telle puissance serait inimaginable avec des moyens standard, mais en utilisant directement l'énergie du Tracé dans notre installation, cela était devenu possible."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/50/settings/interact/event/15/message": {
+                "orig": "Well, the story will continue another day.\\. I hope you will follow along, dear visitor.",
+                "text": "Bon, l'histoire continuera un autre jour.\\. J'espère que vous nous suivrez, cher visiteur."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/57/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/57/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]PRIVATE NOTE\\c[0]\n\n\\c[3]Title:\\c[0] Important reminder",
+                "text": "\\c[1]NOTE PRIVÉE\\c[0]\n\n\\c[3]Titre :\\c[0] Rappel Important",
+                "note": "note interne ?"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/57/settings/condAnims/0/interact/event/2/text": {
+                "orig": "- Take breaks when you need them!\n- Drink water regulary!\n- Love yourself, always!\n\n\\c[1][END OF NOTE]\\c[0]",
+                "text": "- Faites des pauses dès que vous en avez besoin !\n- Buvez régulièrement de l'eau !\n- Aimez-vous vous-mêmes, toujours !\n\n\\c[1][FIN DE LA NOTE]\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json/entities/57/settings/condAnims/0/interact/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/0/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/0/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/1/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Test sequence status: \\c[2]ready\\c[0].\n\\c[1]Start test sequence\\c[0]?",
+                "text": "État de la séquence de test : \\c[2]prêt\\c[0].\n\\c[1]Démarrer la séquence de test\\c[0] ?"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/2/0/3/text": {
+                "orig": "Preparing to \\c[2]initiate test sequence\\c[0]!",
+                "text": "Préparation à \\c[2]l'initialisation de la séquence de test\\c[0] !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/2/0/4/text": {
+                "orig": "Please \\c[3]enter lower area\\c[0] to begin.",
+                "text": "Veuillez \\c[3]entrer dans la zone en bas\\c[0] pour commencer."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/2/1/1/text": {
+                "orig": "Completion of test sequence is \\c[3]required\\c[0] in order to access the main elevator.",
+                "text": "L'achèvement de la séquence de test est \\c[3]obligatoire\\c[0] pour accéder à l'ascenseur principal."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/2/1/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/event/1/text": {
+                "orig": "Test sequence status: \\c[2]completed\\c[0].\nPerformance score: \\c[2]43.5%\\c[0].",
+                "text": "État de la séquence de test : \\c[2]terminée\\c[0].\nScore de performance : \\c[2]43,5 %\\c[0]."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/event/4/text": {
+                "orig": "Granting access to \\c[3]main elevator\\c[0].",
+                "text": "Accès à l'\\c[3]ascenseur principal\\c[0] accordé."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json/entities/61/settings/condAnims/1/interact/event/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2.json/entities/62/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2.json/entities/63/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2.json/entities/63/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-2.json/entities/70/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Entrance to East Test Area: \\c[1]closed\\c[0].\nDo you want to keep the entrance closed?",
+                "text": "Entrée de la Zone de Test Est : \\c[1]fermée\\c[0].\nVoulez-vous garder l'entrée fermée ?"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/event/2/0/0/message": {
+                "orig": "\\..\\..\\..",
+                "text": "\\..\\..\\.."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/event/2/0/1/message": {
+                "orig": "...??",
+                "text": "... ??"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/event/2/1/3/text": {
+                "orig": "Entrance to East Test Area \\c[2]opened\\c[0]!",
+                "text": "Entrée de la Zone de Test Est \\c[2]ouverte\\c[0] !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/43/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/6/name": {
+                "orig": "Dave Halman",
+                "text": "Dave Halman"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/8/message": {
+                "orig": "Welcome. I'm glad you found your way back to us to hear more about our work.\\. Much has been achieved in the last months.",
+                "text": "Bienvenue. Je suis heureux que vous soyez revenu nous voir pour en savoir plus sur notre travail.\\. Tant de choses ont été réalisées ces derniers mois."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/9/message": {
+                "orig": "Our effort has been concentrated on giving legs to beings that lacked them the most: \\v[combat.name.jungle/fish]s!",
+                "text": "Nos efforts étaient concentrés pour donner des jambes à des êtres qui en manquaient le plus : les \\v[combat.name.jungle/fish]s !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/10/message": {
+                "orig": "Elegant creatures, now enhanced by the power of legs, they might rise towards unpredictable potential.",
+                "text": "Des créatures élégantes, qui grâce aux pouvoirs des jambes, vont pouvoir s'élever à un potentiel imprévisible."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/11/message": {
+                "orig": "We are thrilled to see what path they will walk from here on.",
+                "text": "Nous sommes impatients de voir quels horizons se profilent sur leur chemin."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/12/message": {
+                "orig": "Our current project will be even bigger.\\. An entire huge machine, directly controlled by the neural waves of it's controlfish!",
+                "text": "Notre projet actuel sera encore plus grand.\\. Une machine entière énorme, directement contrôlé par les ondes naturelles de ses poissons contrôleurs !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/13/message": {
+                "orig": "Most of its parts have already been finished, in no small part thanks to our associates delivering weapons and specialized parts!",
+                "text": "La plupart des pièces ont déjà été achevées, en grande partie grâce à nos partenaires livrant des armes et des pièces spécialisées !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/14/message": {
+                "orig": "But rapid progress like this is not meant to be without its challenges.\\. After all, this is a core aspect of the Track.",
+                "text": "Mais les progrès rapides comme cela ne sont pas sans conséquences.\\. Après tout, cela est un aspect principal du Tracé des Anciens."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/15/message": {
+                "orig": "Its energy has a will of its own and tries to undermine our entire facility.\\. Only tireless reprogramming can preserve control.",
+                "text": "Son énergie possède sa volonté propre et essaye d'infiltrer notre installation toute entière.\\. Seules des reprogrammations sans relâches peuvent garder la zone sous contrôle."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/46/settings/interact/event/16/message": {
+                "orig": "Exciting times are ahead and we will continue to share our experience.\\. Hopefully you will join me again.",
+                "text": "Devant nous se dresse un futur exaltant et nous continuerons de partager nos expériences.\\. J'espère que vous resterez proche de nous, voyageur."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] Office 69b\n\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n\n\\c[3]Subject:\\c[0] Big Haunted Room",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Bureau 69b\n\\c[3]À :\\c[0] \"Machines Mécha\", Direction\n\n\\c[3]Sujet :\\c[0] Grande Salle Hantée"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Dear management,\n\nI am very thankful for this career opportunity and I really like these benefits, but the things happening in this facility have become more and more worrying.",
+                "text": "Chère direction,\n\nje suis très reconnaissant pour cette opportunité de carrière et j'apprécie vraiment ces bonus, mais ce qu'il se passe dans cette installation devient de plus en plus inquiétant."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/event/3/text": {
+                "orig": "The occasional attack from our fishy test subjects are bad enough, but even our equipment and the rooms themselves seem to conspire against us now. The energy of the Track that we use as a powersource seems to corrupt and reshape them!",
+                "text": "Les attaques occasionnelles de nos sujets de tests à écailles sont déjà suffisamment problématiques, mais même notre équipement et les salles elle-mêmes semblent désormais comploter contre nous. L'énergie du Tracé que nous utilisons comme source d'énergie semblent les corrompre et les transformer !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/event/4/text": {
+                "orig": "It's the worst in our \\c[3]Test Chamber\\c[0]. That room is outright cursed with all the weird objects that just appear out of nowhere over night.",
+                "text": "Le pire est notre \\c[3]Chambre de Test\\c[0]. Cette salle est vraiment hantée avec tous ces objets bizarres qui semblent apparaitre de nulle part au cours de la nuit."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/52/settings/condAnims/0/interact/event/5/text": {
+                "orig": "Someone should tell the Track that we are here to work, not to solve puzzles.\n\nSincerly,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Quelqu'un devrait dire au Tracé que nous sommes là pour travailler, pas pour résoudre des puzzles.\n\nSincères salutations,\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 34a\n\\c[3]TO:\\c[0] Facility, everyone\n\n\\c[3]Subject:\\c[0] Console blocked??",
+                "text": "\\c[1]MESSAGE INTERNE, ENVOYÉ\\c[0]\n\n\\c[3]DE :\\c[0] Bureau 34a\n\\c[3]À :\\c[0] Installation, tout le monde\n\n\\c[3]Sujet :\\c[0] Console bloquée ??"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Good evening everyone,\n\nwho thought that it was a good idea to block the entrance control console with heavy boxes?? We need to use it regulary, come on guys!",
+                "text": "Bonjour tout le monde,\n\nqui a eu la brillante idée de bloquer la console de contrôle de l'entrée avec des caisses lourdes ?? On a régulièrement besoin de s'en servir, sérieusement !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json/entities/53/settings/condAnims/0/interact/event/3/text": {
+                "orig": "Please let us gather tomorrow to at least clear a small path, so we can reach it again.\n\nSincerly,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Laissez nous au moins nous regrouper pour au moins libérer un petit passage, pour que nous puissions y accéder à nouveau.\n\nSincères salutations,\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-3.json/entities/15/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-boss.json/entities/39/settings/event/9/text": {
+                "orig": "\\c[1]--- Initiating Test Sequence ---\\.\nSubject:\\.\nHeavy Armor Unit",
+                "text": "\\c[1]--- Initialisation de la Séquence de Test ---\\.\nSujet d'Étude :\\.\nUnité Blindée Lourde\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/7/name": {
+                "orig": "Dave Halman",
+                "text": "Dave Halman"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/9/message": {
+                "orig": "Dear listener, it seems like the story of this facility will come to a close.\\. Many things have happened.",
+                "text": "Cher auditeur, il semblerait que l'histoire de cette installation prenne fin.\\. Tant de choses se sont passées."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/10/message": {
+                "orig": "One of our trusted associates had a critical incident in their facility, resulting in an outbreak of armed birds.",
+                "text": "Un de nos partenaires de confiance a eu un incident critique dans leur installation, causant la fuite d'oiseaux armés."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/11/message": {
+                "orig": "This instantly lost us all support from the \\v[lore.title.human-government], that wanted to keep our projects a secret.",
+                "text": "Cela nous a fait perdre instantanément le soutien des \\v[lore.title.human-government], qui voulait garder nos projets secrets."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/12/message": {
+                "orig": "For all our progress to have it end so suddenly... Fate is a cruel mistress indeed.",
+                "text": "Tous nos progrès, anéantis ainsi... Le destin est parfois cruel, en effet."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/13/message": {
+                "orig": "Though I must also admit that our own facility has run into problems as well.",
+                "text": "Bien que je doive admettre que notre propre installation rencontrait également quelques problèmes."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/14/message": {
+                "orig": "While the track ever more strongly undermined our system and reshaped the rooms to its will, even our test subject became more unruly.",
+                "text": "Pendant que le tracé s'attaquait davantage à notre système et transformait nos salles à sa guise, même nos sujets de test devenaient rebelles."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/15/message": {
+                "orig": "What bitter irony, for the \\v[combat.name.jungle/fish]s to use the legs that we gave them to step on our aspirations.",
+                "text": "Quelle ironie, de voir les \\v[combat.name.jungle/fish]s piétiner nos ambitions avec les jambes qu'on leur a données."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/16/message": {
+                "orig": "But, as history has taught us, every end can mark a new beginning.\\. We will continue our work, in another place.",
+                "text": "Mais, comme l'histoire nous l'a appris, chaque fin peut marquer un nouveau début.\\. Nous allons continuer notre travail, à un autre endroit."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/17/message": {
+                "orig": "We joined with passionate visionaries among our colleagues to establish another secret facility.",
+                "text": "Nous avons rejoint des visionnaires passionnés parmi nos collègues pour établir une autre installation secrète."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/18/message": {
+                "orig": "Our progress will be preserved there and used to fuel the next progress.\\. The exciting times will never end, dear listener.",
+                "text": "Nos progrès seront préservés là-bas et utilisés pour aller toujours plus loin.\\. Le futur exaltant ne s'arrêtera jamais, cher auditeur."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/27/settings/interact/event/19/message": {
+                "orig": "And with this I will say farewell.\\. Thank you for following our story.",
+                "text": "Et c'est ainsi que je vous dis au revoir.\\. Je vous remercie d'avoir écouté notre histoire."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/2/name": {
+                "orig": "Sonya Bolt",
+                "text": "Sonya Bolt"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/4/message": {
+                "orig": "My, what a dramatic man.\\. Very pleased with himself after everything that happened.",
+                "text": "Mon dieu, quel talent pour le dramatique.\\. Et vraiment très fier de lui après tout ce qui s'est passé."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/5/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/6/message": {
+                "orig": "Yes, \\v[lore.title.seeker], you heard him.\\. The government supported projects that messed with the Track.\\. Endangered lifes.",
+                "text": "Oui, \\v[lore.title.seeker], vous l'avez entendu.\\. Le gouvernement a soutenu des projets qui fourraient leur nez dans le Tracé.\\. Mettant des vies en danger."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/7/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/8/message": {
+                "orig": "But you did well in this facility.\\. The documents you found will be a great help when fighting the power.",
+                "text": "Mais vous avez fait du bon travail dans cette installation.\\. Les documents que vous avez trouvés seront d'une grande aide dans notre combat contre les puissants."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/9/message": {
+                "orig": "Please bring them to me in \\v[area.jungle-city.name].\\. Meeting place will be the same.\\. I will see you.",
+                "text": "Apportez-les-moi donc au \\v[area.jungle-city.name].\\. Le point de rencontre sera le même.\\. À plus tard."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/10/message": {
+                "orig": "[nods]",
+                "text": "[acquiesce]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/28/settings/event/11/message": {
+                "orig": "Bye!",
+                "text": "Bye !"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] \"The 4 Visionaries\"\n\\c[3]TO:\\c[0] All Facilities\n\n\\c[3]Subject:\\c[0] The Future",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE DE RÉCEPTION\\c[0]\n\n\\c[3]DE :\\c[0] \"Les 4 Visionnaires\"\n\\c[3]À :\\c[0] Toutes les installations\n\n\\c[3]Sujet :\\c[0] Le Futur"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Good evening everyone, \n\nsince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
+                "text": "Bonsoir tout le monde,\n\nDepuis que nos \\c[3]financements ont été coupés\\c[0] et que \\c[3]les installations ont été prises d'assaut par le Tracé\\c[0], nous nous sommes installés dans un \\c[3]nouveau lieu\\c[0] où nous pourrons continuer nos recherches."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/3/text": {
+                "orig": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
+                "text": "L'entrée se trouve \\c[3]quelque part sur la \\v[area.forest.name]\\c[0].\nVous trouverez la \\c[3]clef\\c[0] pour y entrer en \\c[3]pièce jointe\\c[0].\nEn revanche, la \\c[3]clef, telle qu'elle, ne fonctionnera pas\\c[0]."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/4/text": {
+                "orig": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0].",
+                "text": "Vous devrez d'abord la \\c[3]déchiffrer\\c[0] dans \\c[3]4 endroits différents\\c[0], chacun dans une \\c[3]région différente\\c[0]."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/5/text": {
+                "orig": "Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]",
+                "text": "Chacune des 4 installations possède un indice menant chacun à \\c[3]un seul\\c[0] de ces endroits.\n\\c[3]Donc vous découvrirez un indice après avoir lu ce message.\\c[0]"
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/6/thenStep/0/text": {
+                "orig": "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information.",
+                "text": "Les \\c[3]\\v[lore.title.seeker]s\\c[0] intéressés doivent savoir que \\c[3]chacun d'eux\\c[0] n'est destiné qu'à entrer que dans \\c[3]une seule de ces 4 installations\\c[0] pour trouver une partie de l'information."
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/7/text": {
+                "orig": "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\nEveryone who manages to enter will be welcome!\n\nSincerely,\n\"The 4 Visionaries\"\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Mais \\c[3]avec du travail d'équipe et de la communication\\c[0], il est peut-être possible de trouver tous les lieux !\nQuiconque réussira à entrer sera le bienvenu !\n\nAvec sincérités\n\"Les 4 Visionnaires\""
+        },
+        "extension/fish-gear/data/maps/jungle/lab/room-final.json/entities/51/settings/condAnims/0/interact/event/8/text": {
+                "orig": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"At a crossing, on top of one of the four tree stumps\"\\c[0]!",
+                "text": "\\c[1]PIÈCE JOINTE :\\c[0]\n\nUn des lieux cachés se trouve dans le \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"À un croisement, en haut d'une des quatre souches d'arbres\"\\c[0] !"
+        }
+}

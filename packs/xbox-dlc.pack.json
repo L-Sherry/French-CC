@@ -1,0 +1,344 @@
+{
+        "extension/snowman-tank/snowman-tank.json/name": {
+                "orig": "Xbox Exclusive Extension",
+                "text": "Extension Exclusive pour Xbox"
+        },
+        "extension/snowman-tank/snowman-tank.json/description": {
+                "orig": "Includes a new late-game quest and pet that are exclusive to the Xbox One!",
+                "text": "Inclus une quête de fin de jeu et un compagnon qui sont réservés à la Xbox One !"
+        },
+        "extension/snowman-tank/data/enemies/minibosses/snow-megatank.json/meta/species": {
+                "orig": "Cold General",
+                "text": "Général Froid"
+        },
+        "extension/snowman-tank/data/enemies/minibosses/snow-megatank.json/meta/descriptions/0/text": {
+                "orig": "This magnificent bastard has read all of your books.",
+                "text": "Ce magnifique connard a lu tous vos bouquins."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room1.json/entities/2/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/3/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/3/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Upper Platform Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur de la Plateforme Supérieure : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/3/settings/condAnims/0/interact/event/2/0/3/text": {
+                "orig": "Upper Platform Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur de la Plateforme Supérieure : \\c[2]activé\\c[0] !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/3/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/3/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/6/name": {
+                "orig": "Xavier Bonegate",
+                "text": "Xavier Bonegate"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/8/message": {
+                "orig": "Welcome, everyone listening to this either in our laboratory or at your home, all around \\v[lore.title.planet].",
+                "text": "Bienvenue, à tous ceux qui nous écoutent, soit dans notre laboratoire ou chez vous, partout sur \\v[lore.title.planet]."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/9/message": {
+                "orig": "My name is \\c[3]Xavier Bonegate\\c[0], speaking for \\c[3]Heavy Hardware Inc\\c[0], as a representative...\\.\\. But also as a passionate engineer.",
+                "text": "Mon nom est \\c[3]Xavier Bonegate\\c[0], et je parle en tant que représentant de \\c[3]Matériel Mastoc SA\\c[0]...\\.\\. Mais aussi en tant qu'ingénieur passionné."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/10/message": {
+                "orig": "We at Heavy Hardware strive to create the hardest, most sturdy of wares.\\. Machinery, vehicles, big and small.",
+                "text": "Nous, à Matériel Mastoc, aspirons à créer les matériels les plus durs et les plus solides.\\. Des machines, des véhicules, petits ou grands."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/11/message": {
+                "orig": "For the benefit of companies, the military, ordinary users.\\. Everyone, everywhere, at every moment.",
+                "text": "Pour le bénéfice des sociétés, des militaires, ou des utilisateurs normaux.\\. Tout le monde, partout, à tout moment."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/12/message": {
+                "orig": "For this purpose we are working together with equally passionate partners from various fields to deliver only the best of products.",
+                "text": "Pour cela, nous travaillons avec des partenaires tout aussi passionnés de domaines divers pour vous offrir uniquement les meilleurs produits."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/13/message": {
+                "orig": "Using the sheer limitless energy of the \\v[lore.title.track-of-ancients], we are able to develop advanced gear as humanity has never seen before.",
+                "text": "En utilisant l'énergie purement sans-limite du \\v[lore.title.track-of-ancients], nous sommes capables de développer des équipements avancés comme l'humanité n'en a jamais vue auparavant."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/14/message": {
+                "orig": "Even cooperation with creatures of the Track, more intelligent than any modern AI, has been made possible!",
+                "text": "Même la coopération avec des créatures du Tracé, plus intelligentes que n'importe quelle IA moderne, est devenue possible !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/15/message": {
+                "orig": "Right now, we are living in the most interesting times humanity has ever seen.\\. And interesting times need creative solutions!",
+                "text": "En ce moment même, nous vivons les moments les plus intéressant que l'humanité n'ait jamais connus.\\. Et les moments intéressants ont besoin de solutions créatives !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/62/settings/interact/event/16/message": {
+                "orig": "With this creed in mind, I invite you to follow our work as we will present more of our future work in the future.",
+                "text": "Avec ce credo en tête, je vous invite à suivre notre travail lorsque nous présenterons nos travaux ultérieurs dans le futur."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/65/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/65/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]PRIVATE NOTE\\c[0]\n\n\\c[3]Title:\\c[0] Important reminder",
+                "text": "\\c[1]NOTE PRIVÉE\\c[0]\n\n\\c[3]Titre :\\c[0] Rappel Important",
+                "note": "note interne ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/65/settings/condAnims/0/interact/event/2/text": {
+                "orig": "- Take breaks when you need them!\n- Drink water regulary!\n- Love yourself, always!\n\n\\c[1][END OF NOTE]\\c[0]",
+                "text": "- Faites des pauses dès que vous en avez besoin !\n- Buvez régulièrement de l'eau !\n- Aimez-vous vous-mêmes, toujours !\n\n\\c[1][FIN DE LA NOTE]\\c[0]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json/entities/65/settings/condAnims/0/interact/event/3/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2.json/entities/8/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2.json/entities/47/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2.json/entities/47/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room2.json/entities/74/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/6/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/1/text": {
+                "orig": "Test sequence status: \\c[2]ready\\c[0].\n\\c[1]Start test sequence\\c[0]?",
+                "text": "État de la séquence de test : \\c[2]prêt\\c[0].\n\\c[1]Démarrer la séquence de test\\c[0] ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/2/0/3/text": {
+                "orig": "Preparing to \\c[2]initiate test sequence\\c[0]!",
+                "text": "Préparation à \\c[2]l'initialisation de la séquence de test\\c[0] !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/2/0/4/text": {
+                "orig": "Please \\c[3]enter room to the west \\c[0] to begin.",
+                "text": "Veuillez \\c[3]entrer dans la pièce à l'ouest\\c[0] pour commencer.",
+                "note": "veuillez entrer pièce à ouest pour commencer"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/2/1/1/text": {
+                "orig": "Completion of test sequence is \\c[3]required\\c[0] in order to access the east lab area.",
+                "text": "L'achèvement de la séquence de test est \\c[3]obligatoire\\c[0] pour accéder à la partie est de la zone laboratoire."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/2/1/2/message": {
+                "orig": "...",
+                "text": "..."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/0/interact/event/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/event/1/text": {
+                "orig": "Test sequence status: \\c[2]completed\\c[0].\nPerformance score: \\c[2]41.99%\\c[0].",
+                "text": "État de la séquence de test : \\c[2]terminée\\c[0].\nScore de performance : \\c[2]41,99 %\\c[0]."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/event/4/text": {
+                "orig": "Granting access to \\c[3]east lab area\\c[0].",
+                "text": "Accès à la \\c[3]zone de laboratoire est\\c[0] accordé."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/49/settings/condAnims/1/interact/event/5/message": {
+                "orig": "...!",
+                "text": "... !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/1/text": {
+                "orig": "Bridge Elevator: \\c[1]disabled\\c[0].\nDo you want to enable the elevator?",
+                "text": "Ascenseur du Pont : \\c[1]désactivé\\c[0].\nVoulez-vous activer l'ascenseur ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/2/0/3/text": {
+                "orig": "Bridge Elevator \\c[2]enabled\\c[0]!",
+                "text": "Ascenseur du Pont : \\c[2]activé\\c[0] !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/2/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/2/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]NOTE:\\c[0]\n\nSome of the \\v[combat.name.snowtank]s were breaking out of the test chamber and tried to reach the elevator. Put some boxes here so it doesn't happen again.\n\nPS: Good luck everyone on the other side!",
+                "text": "\\c[1]NOTE :\\c[0]\n\nCertains des \\v[combat.name.snowtank]s se sont échappés de la chambre de test et ont essayés d'atteindre l'ascenseur. On a mis des caisses ici pour que cela n'arrive plus.\n\nPS : Bonne chance à tous ceux de l'autre côté !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Open \\c[3]ventilation shaft\\c[0]?",
+                "text": "Ouvrir la \\c[3]gaine de ventilation\\c[0] ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/event/3/0/3/text": {
+                "orig": "Ventilation Shaft \\c[2]opened\\c[0]!",
+                "text": "Gaine de Ventilation \\c[2]ouverte\\c[0] !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/event/3/options/0/label": {
+                "orig": "[yes]",
+                "text": "[oui]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/51/settings/condAnims/0/interact/event/3/options/1/label": {
+                "orig": "[no]",
+                "text": "[non]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/hoverText": {
+                "orig": "Hologram",
+                "text": "Hologramme"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/6/name": {
+                "orig": "Xavier Bonegate",
+                "text": "Xavier Bonegate"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/8/message": {
+                "orig": "Hello and welcome.\\. I'm \\c[3]Xavier Bonegate\\c[0] speaking for \\c[3]Heavy Hardware Inc\\c[0].\\. How are you?",
+                "text": "Bonjour et bienvenue.\\. Je suis \\c[3]Xavier Bonegate\\c[0] pour le compte de \\c[3]Machines Mastoc SA\\c[0].\\. Comment allez-vous ?"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/9/message": {
+                "orig": "Whatever your answer may be, rest assured that we will always strive to improve the lives of everyone, everywhere, at every time.",
+                "text": "Quelle que soit votre réponse, soyez assuré que nous faisons tout notre possible pour améliorer les vies de tout le monde, partout, à tout moment."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/10/message": {
+                "orig": "For example, we are proud to report great successes in the field of fuel-independent, heavy ordnance vehicles.",
+                "text": "Par exemple, nous sommes fiers d'annoncer de grandes réussites dans le domaine des véhicules lourd de combat sans carburant."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/11/message": {
+                "orig": "For now this technology is primarily geared towards the use in warfare.\\. To protect our settlements and advance to new, dangerous territories.",
+                "text": "Pour l'instant cette technologie est principalement destinée à un usage militaire.\\. Pour protéger nos colonies et l'avancée vers de nouveaux territoires dangereux."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/12/message": {
+                "orig": "Energy of the Track, directly woven into every step of our production process, is granting us never before seen efficiency.",
+                "text": "L'énergie du Tracé, tissée directement dans chacune des étapes de notre procédé de production, nous permet une efficacité encore jamais vue."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/13/message": {
+                "orig": "The challenges of working with such a new form of energy are great, but by employing the best experts we will be able to reap the rewards.",
+                "text": "Les défis posés par le travail avec cette nouvelle forme d'énergie sont conséquents, mais en employant les plus grands experts, nous seront capables d'en tirer les bénéfices."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/14/message": {
+                "orig": "We also made huge progress with unusually intelligent snowmen, generally known as \\v[combat.name.snowman].",
+                "text": "Nous avons également fait d'énormes progrès avec des hommes des neiges étonnamment intelligents, généralement connus sous le nom de \\v[combat.name.snowman]."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/15/message": {
+                "orig": "We were able to create vehicles for them that they could easily control without using their hands.",
+                "text": "Nous avons été capables de créer des véhicules pour eux qu'ils pouvaient facilement contrôler sans utiliser leurs mains."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/16/message": {
+                "orig": "They can handle dangerous work even in the coldest of conditions!",
+                "text": "Ils peuvent effectuer du travail dangereux même dans les conditions les plus glaciales !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/17/message": {
+                "orig": "This will greatly minimize risks for workers everywhere!",
+                "text": "Cela va grandement diminuer les risques pour les travailleurs, partout !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/18/message": {
+                "orig": "And for our greatest project we will equip the most promising \\v[combat.name.snowman] with the most powerful machine we have created so far.",
+                "text": "Et pour notre plus grand projet, nous allons équiper le plus prometteur \\v[combat.name.snowman] avec la machine la plus puissante que nous ayons jamais crée jusqu'à présent."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/123/settings/interact/event/19/message": {
+                "orig": "I am sure that, because of pioneering projects like this, our next report will be an even better one.\\. Until then!",
+                "text": "Je suis sûr, que grâce à des projets pionniers comme ceux-là, nos prochains rapports seront encore meilleurs.\\. À la prochaine !"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/hoverText": {
+                "orig": "Display",
+                "text": "Affichage"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/1/text": {
+                "orig": "\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n\n\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n\n\\c[3]Subject:\\c[0] BOXES???",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE D'ENVOI\\c[0]\n\n\\c[3]DE :\\c[0] Installation Bergen, Bureau 21b\n\\c[3]À :\\c[0] \"Matériel Mastoc\", Direction\n\n\\c[3]Sujet :\\c[0] CAISSES ???"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/2/text": {
+                "orig": "Greetings,\n\nwhat is this? Why are there suddenly boxes blocking the entrance to our office?\n\nSincerly,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "Bonjour,\n\nc'est quoi ça ? Pourquoi il y a soudainement des caisses qui bloquent l'entrée de notre bureau ?\n\nCordialement,\n[NOM CENSURÉ]\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/3/text": {
+                "orig": "\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n\n\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n\n\\c[3]Subject:\\c[0] RE: RE: BOXES???",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE D'ENVOI\\c[0]\n\n\\c[3]DE :\\c[0] Installation Bergen, Bureau 21b\n\\c[3]À :\\c[0] \"Matériel Mastoc\", Direction\n\n\\c[3]Sujet :\\c[0] RE: RE: CAISSES ???"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/4/text": {
+                "orig": "A safety precaution in case of another breakout? What are we on this side to do then, hide under the tables?\nIt's bad enough that the Track seems to constantly reshape our facility and place weird stuff everywhere. Now we also have to deal with our colleagues, putting boxes in the way.",
+                "text": "Une mesure de précaution en cas de nouvelle évasion ? Et qu'est-ce qu'on est censé faire alors ? se cacher sous les tables ?\nCela en est déjà assez que le Tracé semble constamment remodeler notre installation et mettre des choses bizarres partout. Maintenant il faut aussi que l'on ait des collègues qui nous mettent des caisses dans le passage."
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/5/text": {
+                "orig": "\nThis is ridiculous!\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "C'est ridicule !\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/6/text": {
+                "orig": "\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n\n\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n\n\\c[3]Subject:\\c[0] RE: RE: RE: RE: BOXES???",
+                "text": "\\c[1]MESSAGERIE INTERNE, BOITE D'ENVOI\\c[0]\n\n\\c[3]DE :\\c[0] Installation Bergen, Bureau 21b\n\\c[3]À :\\c[0] \"Matériel Mastoc\", Direction\n\n\\c[3]Sujet :\\c[0] RE: RE: RE: RE: CAISSES ???"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json/entities/124/settings/condAnims/0/interact/event/7/text": {
+                "orig": "YOU are a bad team player!!1\nAnd what do you mean, \"Boxes are quite popular these days.\"? They are IN THE WAY. We can't work like that!\n\n\\c[1][END OF MAIL]\\c[0]",
+                "text": "C'est VOUS qui manquez d'esprit d'équipe !!§\nEt que voulez-vous dire par \"Les caisses sont assez populaires de nos jours.\" ? Elles sont EN PLEIN MILIEU DU PASSAGE. On ne peut pas travailler comme ça !\n\n\\c[1][FIN DU MESSAGE]\\c[0]"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room5.json/entities/2/settings/destinations/0/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room5.json/entities/2/settings/destinations/1/label": {
+                "orig": "en_US",
+                "text": "fr_FR"
+        },
+        "extension/snowman-tank/data/maps/bergen-trail/lab/room5.json/entities/97/settings/condAnims/0/interact/hoverText": {
+                "orig": "Call",
+                "text": "Appeler"
+        }
+}
