@@ -332,9 +332,13 @@
                 "text": "Bonne chance pour votre chasse et prenez-y du plaisir, \\v[lore.title.seeker] !",
                 "note": "similar enough"
         },
-        "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/16/message": {
+        "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/16/thenStep/0/message": {
                 "orig": "Thanks!",
                 "text": "Merci !"
+        },
+        "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/0/16/elseStep/0/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/1/0/message": {
                 "orig": "[shakes head]",
@@ -345,9 +349,13 @@
                 "text": "Bonne chance pour votre chasse et prenez-y du plaisir, \\v[lore.title.seeker] !",
                 "note": "similar enough"
         },
-        "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/1/2/message": {
+        "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/1/2/thenStep/0/message": {
                 "orig": "Thanks!",
                 "text": "Merci !"
+        },
+        "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/1/2/elseStep/0/message": {
+                "orig": "...!",
+                "text": "... !"
         },
         "maps/rhombus-sqr/interior/booster.json/entities/24/settings/npcStates/1/event/5/options/0/label": {
                 "orig": "Yes",

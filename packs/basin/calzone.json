@@ -92,35 +92,39 @@
                 "orig": "What is it, \\v[lore.title.seeker]? Got business to take care of.",
                 "text": "Qu'est-ce qu'il y a, \\v[lore.title.seeker] ? J'ai des affaires à gérer."
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/2/thenStep/0/message": {
                 "orig": "Where?",
                 "text": "Où ?"
         },
         "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message": {
+                "orig": "Wait!",
+                "text": "Attends !"
+        },
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message": {
                 "orig": "Ha, that is new.\\. A noble \\v[lore.title.seeker] coming to the likes of me for information?\\. Interesting times.",
                 "text": "Ha, c'est nouveau.\\. Un noble \\v[lore.title.seeker] vient voir des gens comme moi pour avoir des infos ?\\. Quelle curieuse époque."
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message": {
                 "orig": "Where?\\. How?\\. Lea.",
                 "text": "Où ?\\. Comment ?\\. Lea."
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message": {
                 "orig": "Well, surely I might have some information on the affairs of those winged crooks.\\. But I won't share it for free, feel me?",
                 "text": "Bon, je dois sûrement avoir quelques informations à propos de ces voyous ailés.\\. Mais je ne vais pas les partager gratuitement, vous comprenez ?"
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message": {
                 "orig": "...",
                 "text": "..."
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message": {
                 "orig": "How?",
                 "text": "Comment ?"
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message": {
                 "orig": "Well, I am a humble informant.\\. And hungry besides.",
                 "text": "Hé bien, je suis un humble informateur.\\. Et affamé parfois."
         },
-        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message": {
+        "maps/jungle-city/interior/calzone-1.json/entities/28/settings/npcStates/1/event/quest/4/thenStep/10/message": {
                 "orig": "So\\..\\..\\.. Just, give me \\c[3]7000 credits\\c[0] and \\c[3]3 Chef Sandwiches\\c[0] and we have a deal.",
                 "text": "Donc\\..\\..\\.. Donnez-moi \\c[3]7000 crédits\\c[0] et \\c[3]3 Sandwichs du Chef\\c[0] et on aura un deal."
         },
