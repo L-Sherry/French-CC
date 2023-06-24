@@ -6,7 +6,7 @@ ccmod="$BASENAME.ccmod"
 quickinstall2="$BASENAME-quick-install-ccloader2.zip"
 quickinstall3="$BASENAME-quick-install-ccloader3.zip"
 
-# $1: output $2: tree (if unset, read tree from stdin)
+# $1: output $2: tree (if unset, read tree from fd 5)
 make_reproducible_zip() {
 	git cat-file -p "${BASENAME##*-}^{commit}" \
 		| sed -e "1s-[^ ]*\$-${2-$(cat <&5)}-" -e 2d -e 5q \
@@ -34,13 +34,13 @@ EOF
 }
 mkfifo fifo3 fifo2
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
-	https://stronghold.crosscode.ru/~dmitmel/ccloader3/20210530154955 \
+	https://stronghold.openkrosskod.org/~dmitmel/ccloader3/20230610214453/ \
 	ccloader_3.0.0-alpha_quick-install.tar.gz \
-	8adde9fbe5db9ada895bc1d8a59b327af1e8f07710a9f84960ada75b0ddd654d \
+	342b8c3b637803e1adc87edade486190e93270027ffb5e8ca398a761a88ddaea \
 	ccloader3 0 "$quickinstall3" < fifo3 & CCLOADER3_PID=$!
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
-	https://github.com/CCDirectLink/CCLoader/archive/refs/tags/v2.20.2 \
-	v2.10.1.tar.gz \
+	https://github.com/CCDirectLink/CCLoader/archive/refs/tags/v2.22.1 \
+	v2.12.1.tar.gz \
 	b8de00b24386ae26b53ac842ae7fb3a7bc49142ebf5d8c4be15610cd6adde812 \
 	ccloader2 1 "$quickinstall2" < fifo2 & CCLOADER2_PID=$!
 exec 8> fifo3 9> fifo2
@@ -50,7 +50,7 @@ TREE="$(git cat-file -p "$2^{tree}" | grep -Ev '\s[MR.]|^1[^0]' | git mktree)"
 make_reproducible_zip "$BASENAME.ccmod" "$TREE" & CCMOD_PID=$!
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
 	https://github.com/L-Sherry/Localize-me/archive/cd84932c815297c6777fa \
-	localize-me-v2.5-2026-02-15-via-ipot.tar.gz \
+	localize-me-v2.6-pterra-2028-06-21-via-ipot.tar.gz \
 	1e662fd268ebbac12ad5edd84843e2fc00976043ca453709f80d6b4fd31f791c \
 	localizeme 1
 printf %s "$EMPTY $EMPTY -i --prefix=assets/mods $(git mktree << MODS
