@@ -35,13 +35,13 @@ EOF
 mkfifo fifo3 fifo2
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
 	https://stronghold.openkrosskod.org/~dmitmel/ccloader3/20230610214453/ \
-	ccloader_3.0.0-alpha_quick-install.tar.gz \
+	ccloader_3.0.0-alpha_quick-install.tgz \
 	342b8c3b637803e1adc87edade486190e93270027ffb5e8ca398a761a88ddaea \
 	ccloader3 0 "$quickinstall3" < fifo3 & CCLOADER3_PID=$!
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
 	https://github.com/CCDirectLink/CCLoader/archive/refs/tags/v2.22.1 \
 	v2.12.1.tar.gz \
-	b8de00b24386ae26b53ac842ae7fb3a7bc49142ebf5d8c4be15610cd6adde812 \
+	5386f3aac8bae193d0c96f1af0902d313faedb0e66bdf69f5a38bc20672cba86 \
 	ccloader2 1 "$quickinstall2" < fifo2 & CCLOADER2_PID=$!
 exec 8> fifo3 9> fifo2
 rm -rf fifo2 fifo3
