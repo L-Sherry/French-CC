@@ -294,6 +294,27 @@ const patch_credits = async () => {
 			});
 		});
 };
+const patch_non_langlabels = () => {
+	const patch_add_msg_person = data => {
+		if (ig.currentLang !== "fr_FR"
+		    || typeof data.name !== "string")
+			return;
+		if (data.person.person === "bergen.one-holiday-man")
+			data.name
+				= ig.database.data.quests["holiday-man"].person;
+	};
+	ig.module("french_cc.addmsgpersonpatch")
+	  .requires("game.feature.msg.msg-steps",
+		    "impact.feature.database.database")
+	  .defines(function() {
+			ig.EVENT_STEP.ADD_MSG_PERSON.inject({
+				init: function(data) {
+					patch_add_msg_person(data);
+					this.parent(data);
+				}
+			});
+		});
+};
 
 window.localizeMe.add_locale("fr_FR", {
 	from_locale:"en_US",
@@ -334,3 +355,4 @@ window.localizeMe.add_locale("fr_FR", {
 });
 
 patch_credits();
+patch_non_langlabels();
