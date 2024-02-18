@@ -11,12 +11,15 @@
 		"fr_FR": "CrossCode en français !",
 		"de_DE": "CrossCode im Französisch !"
 	},
-	"homepage": "https://github.com/L-Sherry/French-CC",
+	"repository": "https://github.com/L-Sherry/French-CC",
+	
+	"tags": ["language"],
+	"authors": ["L-Sherry", "KevinBonnoron"],
 	"icons": {
 		"24": "flaglea.png"
 	},
-	"postload": "mod.js",
 	"dependencies": {
 		"localize-me": ">=0.5 <2"
-	}
+	},
+	"postload": "mod.js"
 }
