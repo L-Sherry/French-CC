@@ -39,9 +39,9 @@ fetch_extract_add_and_optionally_create_quick_installer_quickly \
 	342b8c3b637803e1adc87edade486190e93270027ffb5e8ca398a761a88ddaea \
 	ccloader3 0 "$quickinstall3" < fifo3 & CCLOADER3_PID=$!
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
-	https://github.com/CCDirectLink/CCLoader/archive/refs/tags/v2.22.1 \
-	v2.12.1.tar.gz \
-	5386f3aac8bae193d0c96f1af0902d313faedb0e66bdf69f5a38bc20672cba86 \
+	https://github.com/CCDirectLink/CCLoader/archive/refs/tags/v2.23.3 \
+	v2.13.0.tar.gz \
+	028dc897985ac84de99356ceca77235cab71e6ef3fd164bd7b6a1df0a92ffc37 \
 	ccloader2 1 "$quickinstall2" < fifo2 & CCLOADER2_PID=$!
 exec 8> fifo3 9> fifo2
 rm -rf fifo2 fifo3
@@ -49,13 +49,13 @@ rm -rf fifo2 fifo3
 TREE="$(git cat-file -p "$2^{tree}" | grep -Ev '\s[MR.]|^1[^0]' | git mktree)"
 make_reproducible_zip "$BASENAME.ccmod" "$TREE" & CCMOD_PID=$!
 fetch_extract_add_and_optionally_create_quick_installer_quickly \
-	https://github.com/L-Sherry/Localize-me/archive/cd84932c815297c6777fa \
+	https://github.com/L-Sherry/Localize-me/archive/f6155067755b52c2d59a7 \
 	localize-me-v2.6-pterra-2028-06-21-via-ipot.tar.gz \
-	1e662fd268ebbac12ad5edd84843e2fc00976043ca453709f80d6b4fd31f791c \
+	83d86afe7436ce47c105057468018c1b0b04e8e825903ec004306d1aa7e695b7 \
 	localizeme 1
 printf %s "$EMPTY $EMPTY -i --prefix=assets/mods $(git mktree << MODS
 040000 tree $TREE	French
-040000 tree $(git write-tree --prefix localizeme-src)	Localize-Me-1.x
+040000 tree $(git write-tree --prefix localizeme-src)	Localize-Me-0.6.1
 MODS
 )" | xargs -s 97 git read-tree | xargs git write-tree | tee /dev/fd/8 >&9
 exec 8>&- 9>&-
