@@ -13,9 +13,10 @@ Pour installer ce mod, vous avez deux possibilités :
    "Releases" et téléchargez le zip "French-vXX-quick-install-ccloader3.zip"
    ou "French-vXX-quick-install-ccloader2.zip".
 
-   Puis, dézippez le fichier dans le répertoire d'installation de CrossCode, et
+   Puis, dézippez le fichier dans le répertoire d'installation de CrossCode
+   (celui qui contient le fichier "package.json" et le répertoire "assets"), et
    acceptez de remplacer le fichier "package.json" (vous pouvez toujours faire
-   une copie de sauvegarde)
+   une copie de sauvegarde).
 
    Les deux fichiers zips devraient fonctionner, mais ils n'utilisent pas le
    même chargeur de mod.  Les deux incluent un chargeur de mod, le mod French
@@ -36,7 +37,8 @@ Pour installer ce mod, vous avez deux possibilités :
    [2] https://github.com/dmitmel/ccloader3
    [3] https://github.com/L-Sherry/Localize-me
 
-Enfin, démarrez le jeu et choisissez la langue "French" dans les options.
+Enfin, démarrez le jeu et choisissez la langue "French" dans les options,
+puis redémarrez le jeu comme demandé.
 
 Si vous voulez contribuer, regardez la section "Contributing" plus bas.
 
@@ -53,8 +55,9 @@ To install this mod, there are two possibilities:
    and download the "French-vXX-quick-install-ccloader3.zip"
    or "French-vXX-quick-install-ccloader2.zip" zip.
 
-   Then, unzip the file in the CrossCode installation directory and accept
-   to overwrite the "package.json" file (you can always make a backup copy)
+   Then, unzip the file in the CrossCode installation directory (the one that
+   contains the "package.json" file and "assets" directory) and accept to
+   overwrite the "package.json" file (you can always make a backup copy).
 
    Both zip files should work, but they do not use the same modloader.  Both
    include a modloader, the French mod and Localize-Me.
@@ -74,7 +77,8 @@ To install this mod, there are two possibilities:
    [2] https://github.com/dmitmel/ccloader3
    [3] https://github.com/L-Sherry/Localize-me
 
-Then, start the game and select the "French" language in the options.
+Then, start the game and select the "French" language in the options, then
+restart the game as told.
 
 
 Contributing:
